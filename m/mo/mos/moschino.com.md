@@ -1,213 +1,151 @@
-> *The following text is extracted and transformed from the moschino.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826132240id_/https%3A//www.moschino.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moschino.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419104829id_/https%3A//www.moschino.com/us_en/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy policy | Moschino Shop Online
 
-## Legal Area
+**WITH INFORMATIVE NOTICE PURSUANT TO ART. 13, EU Regulation NO. 679/2016**
 
-Welcome to our website www.moschino.com.  
-For Moschino, your privacy and the safety of your personal data are very important; therefore, we gather and manage your personal data with the utmost care, taking measures to ensure its safety. Below, you will find the most important information on the treatment by Moschino of your personal data, in relation to your navigation on the www.moschino.com and the use of the services offered. For detailed information on how Moschino manages your personal data, we invite you to read our **Privacy Policy**.  
-We invite you to read our ‘Cookie Policy’, the ‘[Terms and Conditions of Use](https://web.archive.org/us/Help/LegalArea/UseTerms)’of the Site www.moschino.com and the ‘Terms and Conditions for registering on My Account’, which contain detailed information regarding the conditions of our services. Some services may be subject to specific legal terms, in which case we shall provide you with all the appropriate information. 
+**Moschino S.p.A.** with legal office in San Giovanni in Marignano (RN), via delle Querce 51 and operational office in Milan, via San Gregorio 28, Tax Code and VAT no. 02705970404 in the person of the legal representative pro tempore (herein after also referred to as “ **Moschino** ”), and  **TRIBOO DIGITALE USA Inc.** , **** EIN 45-4330572 (Employer Identification Number) (VAT number) - 2711 Centerville Road, Suite 400 - Wilmington - County of New Castle - Delaware - 19808 (herein after also referred to as “ **Triboo** ” and, with Moschino, the “ **Data Controllers** ”) in quality of joint data controllers of the personal data of users/visitors (herein after, the “ **Users** ”) that browse website [www.moschino.com](http://www.moschino.com/) (herein after, the “ **Site** ”), invite you to view this privacy policy pursuant to art. 13 of EU Regulation no. 679/2016 (herein after “GDPR”) on the processing of your personal data, also containing important information on the management methods of the aforementioned site, in compliance with applicable laws and as further specified hereto.
 
-## Who is the Holder?
+This privacy policy is rendered exclusively for website “[www.moschino.com](http://www.moschino.com/)” and not for other websites potentially browsed by the user through links.
 
-Below is the main information on the processing of your personal data performed by Moschino S.p.A., with headquarters in Via San Gregorio 28, 20124, Milano, Italy, C.F. and VAT n°. 02705970404 (Moschino), as Data Controller.  
-For any clarification, questions or requirements related to your privacy and the processing of your personal data, you can contact us at any time by sending a request to our [Customer Care](https://www.moschino.com/system/web/custom/hp/email.jsp) department, or by writing to the address of Moschino.  
+**1\. Processing purpose**
 
+The Data Controllers will process identification personal data (for example only: name, surname, address, telephone number, Email, etc., herein after also referred to as “Data”) freely disclosed by you during the purchase phase (e.g. through orders, etc.) of Moschino products and/or anyhow products directly and/or indirectly linked to the latter, or when filling out and undersigning the Contract to purchase the afore-cited products, or those data conferred by you in order to exploit specific services offered by the Site, in addition to those (navigation data) data generally accessible by Data Controllers through IT systems and software procedures setup for site operation. In the last case, reference is made to personal data which transmission is implicit in the use of Internet communication protocols. This data category includes, among others, IP address or domain names of the computers used by the users connecting to the site, URI (Uniform Resource Identifier) addresses of the requested resources, request time, method used to submit the request to the server, size of the file obtained in response, numeric code indicating the response status given by the server (successful, error, etc.) and other parameters concerning the user’s operating system and IT environment.
 
-## What data do we process and why 
+**2\. Processing scope**
 
-The personal data that Moschino collects is that provided by you to us when finalizing an order and purchasing goods, and those that we collect as you browse or use the services offered by www.moschino.com. Moschino can collect data about you, such as personal details like name and surname, shipping and billing address, browsing data and your purchase habits.  
-Your Personal Data will be processed for the following purposes:
+Your data will be processed lawfully, according to upright principles, for the scopes described below.
 
-  * Conclude and execute the purchase contract for the articles offered on www.moschino.com;
-  * Provide you with www.moschino.com services such as subscription for the newsletter; 
-  * Allow the registration on the Site and the use of services reserved for registered users;; 
-  * Manage your requests to our Customer Care.
+**A.** With regards to navigation data: **a)** allow the Data Processors to obtain anonymous statistic information on the use of the Site and check correct operation; **b)** for security reasons (antispam filters, firewalls and virus detection), in order to block attempts at the detriment of the site or that may cause damage to users and, in any case, to avoid damaging activities or offences; **c)** execute any other function that is necessary or instrumental for site operation, among which the installation of technical cookies to improve the site functions, for which reference is made to the Cookie Policy **d)** allow the Data Processors to fulfil legal, accounting, tax, administrative and contract obligations related to the management of the site and supply of the requested services, as well as propter management of relations with authorities, control bodies and third public bodies related to particular requests, to fulfil legal obligations or other procedures. ****
 
+**B.** With regards to data conferred voluntarily by the user: allow Triboo to perform any activity related (also preliminary) to the sale of products requested by the User, including fulfilling tax (e.g. VAT free, if foreseen), administrative-accounting obligations (among which, for example, invoicing, historic records, credit recovery – also implemented through factoring, credit insurance, credit transfer, etc.) and identify the consumer characteristics of the professional and/or client company, completing his request to purchase products through the Site; or fulfil his request of supply of other added value services related to the purchase of products. Allow Triboo to manage treasury activities relating to the contract (with relative processing -pursuant to laws – of bank details and/or other payment data, including potential identification details of credit or debit cards), pursuant to the Contract terms and conditions and/or other specific conditions set forth by the contract. Allow Triboo to implement measures aimed at protecting against the credit risk, including activities that identify the Client and his financial solvency. Allow Triboo to fulfil legal, accounting, tax, administrative and contract obligations related to the supply of the requested services, and proper management of relations with authorities, control bodies and third public bodies for scopes related to particular requests, to the fulfilment of legal obligations or other procedures. Unless the User grants specific and optional consent to Triboo for the processing of his data for additional scopes, the User's personal data will be used by Triboo **exclusively** to verify the User’s identity (also through validation of the Email address), thus avoiding any frauds or abuses, and to contact the User for mere service reasons. Personal data are necessary to attain the processing scopes set forth by this point B. They are indicated with an asterisk in the Site registration form.
 
+**C.** Exclusively upon your free, specific and separate consent (pursuant to art. 7 GDPR), allow Moschino to perform market researches and analyses aimed at identifying the customer satisfaction level concerning the quality and type of the services rendered and initiatives to improve the services, and also to send you newsletters, advertising material and/or communications and information of business and direct marketing nature concerning new products sold and new services offered by Moschino or third parties (among which, also other Group’s companies) and also on relative offers, discounts and any other promotional and customer loyalty initiative reserved to you. The above can take place through traditional contact systems (by regular Email or calls through operator) and also by using automated calling or call notification systems without operator, or by Email and/or SMS (Short Message Service). Should you deny consent, you can still register to the Site and/or purchase products on the Site. If the User grants consent, he can revoke it at any time, by sending a request to Moschino according to the methods set forth by following par. 10. Moreover, the User can easily object further transmissions of promotional notices via Email by simply clicking on the relative link to revoke consent, which is available in each promotional Email. If consent is revoked, Moschino will send an Email to the user to confirm revocation. Should the User intend to revoke his consent to the transmission of promotional notices by phone, continuing nonetheless to receive promotions via Email or vice versa, he is invited to send a request to Moschino according to the methods set forth by following par. 10.
 
-In the aforementioned cases, the processing of your personal data is legitimate as it is necessary to execute a contract with you or to provide you with the service you have specifically requested. We also conduct statistical surveys and analyses of data in aggregate form to understand how users interact with and use the site, to improve our offering and services.   
-Only with your prior consent, we process your personal data to:
+Moschino informs that the User may still continue to receive some additional promotional messages after exercising the right to object to the transmission of promotional notices via Email, due to technical and operating reasons (e.g. contact lists completed just before the Partner receives the revocation request). If the User continues to receive promotional messages after 24 hours from exercising the revocation right, he is invited to notify the issue to Moschino using the contact details set forth by following par. 10.
 
-  * perform commercial and promotional communication activities;
-  * customize the Site based on your interests.
+**D.** Exclusively upon your free, specific and separate consent (pursuant to art. 7 GDPR), allow Moschino to process your data to suggest functions, products and services of your interest, to identify your preferences and customize your experience, to show you ads defined according to your interests in relation to the functions, products and services that may be of your preference; moreover, always upon your free, specific and separate consent (pursuant to art. 7 GDPR), allow Moschino to use your personal data to evaluate certain aspects referring to you and in particular, to analyze or forecast aspects concerning your professional performance, economic situation, health, personal preferences, interests, solvency, behavior, location or movements.
 
+Upon your free, specific and separate consent, allow Moschino to analyze and elaborate information aimed at creating homogenous groups in terms of tastes and behaviors – so called ‘profiles’ – functional to identify the single user or, more often, a group of users or the terminal from which the user connects, to provide a customized offer of additional or related goods or services. Should you deny consent, you can still register to the Site and/or purchase products on the Site.  If the User grants consent, he can revoke it at any time by contacting Moschino according to the methods set forth by following par. 10.
 
+**3\. Processing methods**
 
-## Who will process your data?
+Your personal data will be processed by means of the operations set forth by art. 4, no. 1) GDPR and more precisely: data collection, registration, organization, structuring, preservation, adaptation or modification, extraction, consultation, use, communication through transmission, disclosure or any other form available, comparison or interconnection, limitation, erasure or destruction.
 
-Your personal data is processed by duly trained staff of our company, and, for organizational and functional needs related to the provision of services on www.moschino.com, by our providers. The latter have been assessed and chosen by Moschino their proven reliability and competence. Some of these subjects may be based in non-EU countries and, in these cases, the transfer of your personal data to these countries is performed in compliance with the guarantees provided by law.
+Your data are subject to paper and electronic and/or automated processing.
 
-## How long do we keep your data?
+The acquired data are processed in full compliance with laws, as well as principles of legality, uprightness, transparency, non-excess and protection of your privacy and rights.
 
-We keep your personal data for a limited period of time, depending on the purpose for which it was collected, at the end of which your personal data will be deleted or otherwise rendered anonymous in an irreversible way. The retention period is different depending on the purpose of the processing: For example, the data collected during the purchase of goods on www.moschino.com are processed until the conclusion of all administrative and accounting formalities, and is, therefore, stored in accordance with local tax legislation (ten years); those used to send our newsletter are kept until you ask to stop receiving it.  
-For further information, please see our **Privacy Policy**.
+Data of minor subjects will not be processed. Upon Users’ request, the Data Controllers will promptly erase all personal data unintentionally collected concerning subjects under 18 years old.
 
-## What are your rights? 
+**4\. Data preservation period**
 
-At any time, depending on the specific treatment, you can: Withdraw your consent to data processing; know what are your personal data in our possession, their origin and how they are used; request the update, correction or integration as well, in the cases provided for by the current provisions, the cancellation, the limitation of treatment or oppose to their treatment. If you wish, you can request to receive your personal data in possession of Moschino, in a format readable by electronic devices and, where technically possible, we can transfer your data directly to a third party indicated by you. If you believe that the processing of your personal data has been carried out illegitimately, you can file a complaint with one of the supervisory authorities responsible for compliance with the rules on personal data protection. In Italy, the complaint can be filed with the Guarantor for the Protection of Personal Data(<http://www.garanteprivacy.it/>).
+The Controllers store Data in full compliance with local laws and internal corporate policies and procedures, for the time required to fulfil the afore-cited scopes and satisfy their legitimate business interests, juridical obligations or establish, exercise or defend legal rights. Once the need to store Data for the abovementioned scopes has been fulfilled, the data will be safely eliminated.
 
-This policy may undergo changes and additions over time, so we invite you to periodically review its contents. Where possible, we will try to inform you promptly of any changes made.
+In particular:
 
-## Privacy Policy
+-          the data required to conclude and exclude the sale contract of Products in favor of the User will be preserved until all administrative-accounting formalities are fulfilled. Invoicing data will be preserved for ten years from the invoice date.
 
-## 1\. General Information
+-          data collected for marketing scopes are preserved until the service is terminated or the user objects processing by revoking the consent.
 
-## Who is responsible for the processing of the data?
+-          Data collected for profiling scopes intended for marketing purposes are preserved until the user requests the interruption of the activity and anyhow, within 2 years from the last user’s interaction of any sort, with Moschino
 
-Moschino S.p.A. with headquarters in Via San Gregorio 28, 20124, Milano, Italy, C.F. and VAT n° 02705970404 (Moschino) is Responsible for the processing of the personal data, that is, the subject who decides how and why to process your personal data.  
-You can always contact Moschino in writing to the address aforementioned or by contacting our [Customer Care department](https://www.moschino.com/system/web/custom/hp/email.jsp).
+-          Data collected for purposes of sending newsletters are preserved until the service is terminated or the user objects processing by revoking the consent.
 
-## 2\. What personal data do we collect?
+-          Data collected for purposes of managing services of the registered User are preserved until the service is terminated or the user objects processing by revoking the consent.
 
-The categories of personal data that Moschino collects and processes when you browse or purchase on www.moschino.com, are the following:
+In all other cases, the Users’ personal data will be preserved for the times strictly required to attain the primary scopes set forth by previous par. 2, point B, or anyhow, as needed to protect the interests of Users and Triboo in a potential trial. 
 
-  1. We collect the personal data required to conclude and execute your purchase on www.moschino.com, such as your name, email address, shipping address, billing address, phone number and payment details;
-  2. We collect your email address when you sign up for our newsletter service;
-  3. We process the personal data you provide when you contact our Customer Care to request assistance; 
-  4. With your prior consent, we collect your personal data for marketing purposes; 
-  5. For the registration on My Account, we collect your name and surname, your email address, password and your date of birth. If you are a registered user, we collect information about your access to the reserved area of the site. Subject to your prior consent, and through the analysis of your personal data, we process information about your interests and preferences relating to our products and services, in order to customize our services and commercial offers based on your interests.
-  6. We collect information about your browsing on www.moschino.com, such as the pages you visit and how you interact with the single page and we save this information in our servers.
+**5\. Legal principles for data processing**
 
+The afore-cited Data shall be processed to allow you browsing the Site and execute your requests (among which, the request to purchase products based on your purchase order sent to the Data Controller and/or anyhow by signing the Contract stipulated with the latter). If necessary, the user’s express consent will be collected for specific scopes.
 
+Data processing for marketing scopes is allowed according to the free circulation of data as set forth by the GDPR and may consist of activities carried out to satisfy the legitimate business interests of the Data Controller, among which potential business development activities (e.g. marketing, customer satisfaction etc.) performed by the latter.
 
-We inform you that Moschino does not process data from minors. When you access www.moschino.com and use the services offered by Moschino, you declare that you have reached the age of majority.
+**6\. Data disclosure, diffusion and access**
 
-## 3\. How do we use the personal data we gather?
+Your data can be accessed, for the afore-cited purposes, by:
 
-Moschino collects and processes your personal data for the following purposes:
+• the Controllers, employees and collaborators in Italy and abroad, in their quality of internal data processors and/or sub-processors / subjects in charge of data processing and/or system administrators;
 
-  1. Conclude and execute the purchase contract for the products offered on www.moschino.com. When you complete your purchase, we will request the personal data necessary for the execution of the contract; such as payment, anti-fraud checks, if you choose to pay by credit or debit card, billing, shipping of the product and possible return management.
-  2. Registration on the Site and use of the services offered to registered users. The registration on the Site is possible through the inclusion of some personal information, necessary to ensure your identification and the performance of the services offered to registered users.
-  3. Provision of the services offered onwww.moschino.com. For this purpose, Moschino needs to collect, relating to each service and its characteristics, the personal data necessary for the performance of the service requested.
-  4. Management of requests to our Customer Care department, which uses the personal data you provide to meet your requests for information and requests for assistance.
-  5. Sending of your Resume. If you send your Resume in order to be considered for a position, Moschino shall use the information contained within exclusively for that purpose. The data relating to your application may be transferred to third-party management providers in charge of the collection of applications. Your Resume will be kept for a maximum period of six months, after which it will be deleted: If you want, you are more than welcome to send us a new, updated version.
-  6. Statistical analysis and surveys. We use some information about your use of the Site to perform statistical analysis and surveys in order to improve our offer and services; 
-  7. Sending commercial and promotional communications following the purchase of one of our products, so-called soft Spam. Following the purchase of one of our products on the Site, we will send the email address provided, communications containing our business proposals and customized products and services. 
-  8. Subject to your prior consent, we may use the contact details you have provided for commercial communications on our products and services, in order to update you on news, new arrivals, exclusive products, our offers and promotions. In addition, and always with your consent, we will be able to use your contacts as part of market research and surveys relating to your degree of satisfaction, in order to improve our services and the relationship with our users.
-  9. With your prior consent, Moschino will be able to personalize your experience as a registered user on www.moschino.com, proposing previews and offers in line with your tastes and sending you commercial communications tailored to your interests. The customization is made possible by the analysis of your personal information in our possession, described in the previous section 'What personal data do we collect?'. For further information on this data, and on the activity that allows its process, please refer to the section ‘My Account’.
+• by other Companies of Moschino Group (parent companies, subsidiaries and/or affiliated companies) in Italy and abroad and their employees and collaborators (e.g. for administrative and accounting scopes);
 
+• couriers or shipping companies to manage any activity aimed at delivering the products to the Client;
 
+• by agents, business brokers, representatives, contractors and any other subject operating on behalf of the Data Controller;
 
-Should you wish to authorize the activities referred to in points h) and i) and subsequently do not wish to receive further communications from Moschino, or would like to limit the manner in which you are contacted, you may interrupt these communications at any time by simply clicking on the appropriate “unsubscribe” link at the bottom of each communication, accessing My Account, you will always be able to contact Moschino through our [Customer Care](https://www.moschino.com/system/web/custom/hp/email.jsp) department, or by writing to the aforementioned address . We inform you that you may receive further communications from us even after submitting your cancellation request, as some submissions may have already been planned, our systems may take some time to process your request.   
-With regards to all the activities aforementioned, we shall process your personal data mainly through IT and electronic tools; the tools we use guarantee high safety standards, in full compliance with current legislation.
+• by other third companies or other subjects (for example and not limitedly to, credit institutions for handling payments and collections, financial brokers, credit insurance companies, professional offices, consultants, etc.) that perform outsourced activities on behalf of the Data Controllers in their quality of external data processors, among which suppliers or subjects appointed to execute additional or instrumental services in relation to the afore-cited scopes, with whom the Data Controllers stipulate agreements.
 
-## 4\. My Account
+Moreover, the Data Controllers reserve the faculty to share personal data with certain third parties, among which: IT providers in order to develop systems and provide technical assistance; auditors and consultants to verify conformity with external and internal requirements; certifying bodies; legal bodies, agencies in charge to enforce law and parties summoned in trial with regards to legal informative obligations or claims; any successors or business partners of the Data Processors or a company of the Data Processors’ Group in case of sale, transfer or other extraordinary transactions; the police, the armed forces and other public administrations to fulfil obligations set forth by laws, regulations or EU legislations.
 
-On the occasion of the creation of your My Account, Moschino offers you the possibility to use the following services:
+Should said subjects be located in extra-EU countries, the Data Controller ensures that the extra-EU Data transfer will take place in compliance with applicable laws, prior stipulating standard contract clauses foreseen by the European Commission.
 
-  * My Profile: Manage your personal data and your consent.
-  * My Orders: Track the shipping of your orders, and see the history of your orders.
-  * My Cards: Save or change your card information and complete your orders faster.
-  * Address Book: Save or change your addresses and complete your purchases faster.
-  * Wish List: Create your customized wish list: You can save up to 50 items, be notified of their availability and add them to the Shopping Bag at any time.
+The Users boast the right to obtain a list of data processors appointed by each Controllers, by sending a request to the concerned Data Controller according to the methods set forth by following par. 10.
 
+**7\. Data Transfer**
 
+Data will be preserved on servers located inside the European Union. It is anyhow agreed that the Data Processor, if necessary, has the faculty to share the data also with other Group’s companies and/or transfer Data also to extra-EU countries; in this case, the Data Controller ensures since now that the transfer of data outside the EU will take place in compliance with applicable laws, prior stipulating standard contract clauses foreseen by the European Commission.
 
-With your prior consent, Moschino may use your contact details for commercial communications on products and services, in order to update you on news, new arrivals, exclusive products, and to conduct opinion polls and market research, in order to detect your degree of satisfaction and improve the services offered.  
-Only with your prior consent, Moschino will customize your experience and the contents of the commercial communications and offers that you will see when you browse on www.moschino.com as a registered user. This activity allows you to facilitate the search for products and services that are more for you and in line with your interests and at the same time allows us to improve our customized offers. The customization is made possible by the analysis of your personal data in our possession, as described in the previous section 'What personal data do we collect?'. In particular, the information on purchases you have made in the past and those relating to the sections of the site you visit most often, or the services you use most often help us to understand what products and services you are most interested in. To ensure that the information we have is correct and allow us to carry out the activities aforementioned, we invite you to access the 'My profile' section of your My Account and, if you deem it necessary, to update it.
+The Data Controller will apply all the necessary protective measures to said data transfers as set forth by applicable privacy laws.
 
-## 5\. Legal basis of the processing
+**8\. Nature of Data conferment and consequences for non-conferring Data**
 
-We treat your personal data only in the presence of one of the conditions provided for by current legislation, and specifically:
+Data conferment for the scopes set forth by art. 2 “ _A._ ” is optional but required to browse and access the various Site functions and allow proper navigation.
 
-  1. For the conclusion and execution of a contract of which you are a part. When we process your data for the conclusion of the purchase contract of which you are a part, we take care to use only the minimum information necessary for the execution of the same. This basis legitimizes the processing of personal data that takes place in the following activities: 
-    * Conclusion and execution of a purchase contract for the products offered on www.moschino.com,
-    * Registration on the Site and use of services reserved for registered users; 
-    * Provision of services offered on www.moschino.com,
-    * Management of requests sent to our Customer Care.
-  
-The provision of your personal data for these activities is a contractual obligation. You are free to communicate your data or not, but in the absence of the requested data it will not be possible to conclude or execute the contract, or your requests. This means that you will not be able to purchase products and you will not be able to use the services provided by Moschino, and that Moschino will not be able to handle your requests.  
+Data conferment for the scopes set forth by art. 2 ” _B._ ” is also optional but necessary to allow Triboo to execute your requests.
 
-  2. To comply with a legal obligation.  
-In the event of the termination of a contract for the purchase of goods on www.moschino.com, the processing of the data will take place to fulfill the legal obligations to which Moschino is subject to. You are free to decide whether to terminate a contract and whether or not to disclose your data, but if you conclude it, your data will be necessary and will be processed to give effect to the aforementioned legal obligations to which Moschino is subject.  
-The processing of a Resume spontaneously sent, is performed to assess candidates with respect to a possible job position at Moschino, is legitimate because it is expressly authorized by a law, which specifies that in this case the consent of the person to whom they refer personal data. You are free to share your Resume with us or not, but in its absence, we will not be able to assess your candidacy for a job position at Moschino.
-  3. For our legitimate interest.  
-Some of your personal data, in the event of purchase of products on www.moschino.com by credit or debit card, may be processed to perform anti-fraud verifications: We have a legitimate interest in the performance of activity to prevent and prosecute any fraudulent activity. For internal administrative purposes, your data may be processed by companies belonging to the business group to which Moschino belongs.
-  4. On the basis of your consent.  
-We will carry out the following processing only if you have given us your express consent:  
+Data conferment for the scopes set forth by art. 2 ” _C._ ” is optional and not required to browse and access the various Site functions and/or purchase products through the Site. Hence, you can decide not to confer any data or deny the possibility to process the data already conferred, afterwards: in this case you will not be able to receive the requested information, newsletters, business notices and advertising materials concerning the services offered by the Data Controller.
 
-    * Marketing activities and public opinion polling and market research;
-    * Analysis of your browsing and consumption habits in the use of your My Account profile, in order to customize your experience on our site.
+Data conferment for the scopes set forth by art. 2 ”D.” is optional and not required to browse and access the various Site functions and/or purchase products through the Site. Hence, you can decide not to confer any data or deny the possibility to process the data already conferred, afterwards.
 
+**9\. Rights of data subjects**
 
+In your quality of data subject, you boast the rights set forth by art. 13, par. 2, letter b), c) and d), 15, 16, 17, 18, 19 and 21 GDPR and more precisely the rights to:
 
-Providing your consent for these activities is optional. You are free to provide your consent or not, but upon denial, it will not be possible for Moschino to carry out marketing activities, opinion polls and market research, nor analyze your habits.
+• obtain confirmation of the existence of your personal data, even if not registered yet and their communication in intelligible form;
 
-## 6\. Who will process your data?
+• obtain indication: a) of the Data origin; b) processing scopes and methods; c) logic applied in case of processing executed with the aid of electronic tools; d) identification details of the relative Data Controllers, the Data Protection officers, processors and appointed representative pursuant to art. 3, par. 1, GDPR; e) subjects or categories of subjects to whom Data can be disclosed or may become aware of in quality of representative appointed in the territory of the State and data processors;
 
-Your personal data will be processed by internal staff from Moschino, specifically trained and authorized for this purpose. During the treatment, the data may be processed by companies belonging to the business group to which Moschino belongs.  
-Your personal data will also be transmitted to third parties that we use to provide our services on www.moschino.com; these providers have been adequately selected and offer a guarantee of compliance with the rules on the processing of personal data. These persons have been appointed as data controllers and carry out their activities according to the instructions given by Moschino and under its control.  
-The third parties in question belong to the following categories: Banking operators, internet providers, companies specialized in IT and telematic services; couriers; companies that carry out marketing activities; companies specialized in market research and data processing.  
-Your data may be transmitted to police and judicial and administrative authorities, in accordance with the law, for the detection and prosecution of crimes, the prevention and protection from threats to public security, to allow Moschino to ascertain, exercise or defend a right in court, as well as for other reasons related to the protection of the rights and freedoms of others.
+• obtain: a) Data update, rectification or, if needed, integration; b) erasure, transformation in anonymous form or block of personal data processed in breach with laws, including data that are not required to be stored in view of the scopes for which it was collected or subsequently processed; c) indication that the transactions set forth by letters a) and b) were disclosed, in term of their content, to those subjects to whom data were communicated or diffused, unless said obligations cannot be fulfilled or imply the use of means manifestly disproportionate compared to the protected right;
 
-## 7\. Transfer of the data outside the E.U.
+• object, fully or in part: a) for legitimate reasons, to the processing of your personal data, even if related to the collection scopes; b) to the processing of your personal data for purposes of sending advertising or direct sale material or to execute market or business communication researches, using automated calling systems without operator or via email and/or through traditional marketing methods by phone and/or regular mail. Please note that the objection right of the data subject, exercised in accordance to previous point b), for direct marketing scopes through automated methods, is extended to traditional methods and anyhow, the data subject reserves the faculty to exercise the objection right even partially. Hence, the data subject may decide to receive notices only through traditional methods or only automated notices or none of the two communication types;
 
-Some of the third parties listed in the previous paragraph n. 6 'Who will process your data?' may be located in countries outside the European Union which, nevertheless, offer an adequate level of data protection, as established by specific decisions of the European Commission. (<http://www.garanteprivacy.it/home/provvedimenti-normativa/normativa/normativa-comunitaria-e-intenazionale/trasferimento-dei-dati-verso-paesi-terzi#1>).  
-The transfer of your personal data to countries that do not belong to the European Union and that do not ensure adequate levels of protection will be performed only after conclusion between Moschinoand said subjects of specific agreements, containing safeguard clauses and appropriate safeguards for the protection of your personal data "standard contractual clauses", also approved by the European Commission, or if the transfer is necessary to the conclusion and execution of a contract between you and Moschino (for the purchase of goods offered on our Site, for registration on the Website or the use of services on the Website) or for the management of your requests.
+• if applicable, you also boast the rights set forth by art. 16 - 21 GDPR (Rectification right, right to be forgotten, right to limit processing, right to data portability, objection right) and the right to bring forward a claim to the Data Protection Authority;
 
-## 8\. How long do we keep your data? 
+• revoke your consent potentially granted, at any time.
 
-We keep your personal data for a limited period of time; depending on the type of activity that involves the processing of your personal data. After this period, your data will be permanently erased or otherwise rendered anonymous in an irreversible way.  
-Your personal data is stored in compliance with the terms and criteria specified below:
+**10\. Methods to exercise your rights**
 
-  1. Data collected to conclude and execute contracts for the purchase of goods on www.moschino.com: Upon conclusion of its administrative and accounting formalities. The data related to billing shall be stored for ten years from the date of invoice;
-  2. Registered user data: Data will be kept until you request cancellation of your My Account;
-  3. Payment data: Until payment certification and the conclusion of its administrative and accounting formalities resulting from the expiration of the right of withdrawal and the terms applied for contesting the payment;
-  4. Data collected in the context of the use of services offered on www.moschino.com: These data are kept until the termination of the service or the request for cancellation of the subscription to the service by the user; 
-  5. Data related to the requests of the users to our Customer Care: The useful data to assist you will be kept until the fulfillment of your request;
-  6. Resume: For six months after receipt;
-  7. Data used for commercial communication activities towards users who purchase products on www.moschino.com (soft Spam): These data are kept until the termination of service or the opposition by cancellation of the user;
-  8. Data provided for commercial communications activities, opinion polls and market research: Until the request to interrupt the activity and in any case within 2 years from the last interaction of any kind of user with Moschino;
-  9. Data used to personalize the Site and to show customized commercial offers: As long as the user does not request the cessation of the activity and in any case within two years from the last interaction of any kind of user with Moschino;
+You can exercise your rights at any time or send a request as follows:
 
+• by registered letter with return receipt, at the legal address of the Data Controllers
 
+• to Moschino: **Moschino S.p.A.** with legal office in San Giovanni in Marignano (RN), via delle Querce 51 and operational office in Milan, via San Gregorio 28, Tax Code and VAT no. 02705970404
 
-In any case, for technical reasons, the termination of the processing and the subsequent cancellation or irreversible anonymity of the related personal data will be final within thirty days of the terms indicated above.
+to Triboo: **TRIBOO DIGITALE USA Inc.** , Centerville Road, Suite 400 - Wilmington - County of New Castle - Delaware - 19808
 
-## 9\. Your rights
+• By sending an Email at:
 
-At any time you can exercise your rights with reference to the specific processing of your personal data by Moschino. Find below their general description and how to exercise them.
+\- to Moschino: [privacy@moschino.com](mailto:privacy@moschino.com) or certified Email at: [moschino@pec.it](mailto:moschino@pec.it);
 
-  1. Access your data and modify it: You have the right to access your personal data and to request that they be accurate, modified or integrated with other information. If you wish, we will provide you with a copy of your data in our possession.
-  2. Revoke your consent: At any time you can revoke consent given for the processing of your personal data in relation to any activity for marketing purposes. In this regard, we remind you that marketing activities are sent via commercial communications, conducting opinion polls and market research, in order to assess your degree of satisfaction and improve the services offered. Upon receipt of your request, we will promptly cease the processing your personal data based on this consent, while different treatments or based on other conditions will continue to be carried out in full compliance with the provisions in effect.
-  3. Opposing the processing of your data: You have the right to object at any time to the processing of your personal data on the basis of our legitimate interest, explaining the reasons that justify your request; before accepting it, Moschino will have to assess the reasons for your request.
-  4. Delete your data: In the cases provided for by current legislation you can request the deletion of your personal data. Upon receipt and assessment of your request and, if legitimate, it will be our care to cease timely treatment and delete your personal data.
-  5. Request that the processing of your personal data is temporarily limited: In this case, Moschino will continue to keep your personal data but will not process it, unless it is subject to your different request and the exceptions established by law. You can get the limitation of treatment when you dispute the accuracy of your personal data, when the processing is unlawful but you oppose to the deletion of your data, when your data is no longer relevant for anymore but you need to exercise your right in court and when you oppose your treatment, in the period in which we evaluate the reasons for your request.
-  6. Request your data or transfer it to a person other than Moschino ("right to data portability"). You can ask to receive your data that we process based on your consent or on the basis of a contract with you in a standard format. If you wish, and where technically possible, we can, upon request, transfer your data directly to a third party of your choice.
+\- to Triboo: [privacy@triboo.it](mailto:privacy@triboo.it) or certified Email at [triboospa@legalmail.it](mailto:triboospa@legalmail.it);
 
+• By fax at the following number:
 
+\- to Moschino: +39 0541 824722
 
-In order to exercise some of your aforementioned rights, you can access your My Account, or alternatively, you can contact our [Customer Care](https://www.moschino.com/system/web/custom/hp/email.jsp) department, or write to the Responsible for Data Processing to the aforementioned address. In order to ensure that the data of our users is not illegitimately used or infringed upon by third parties, we will request you for some information to be sure of your identity before accepting your request to exercise one of the rights indicated./p>
+\- to Triboo: +39.0264741491
 
-## 10\. Security measures
+**Triboo** will fulfil the Users’ requests concerning data processing set forth by par. 2, points A. and B.; while **Moschino** will fulfil the Users’ requests concerning data processing set forth by par. 2, point C. and D.
 
-We protect your personal data with specific technical and organizational security measures, aimed at preventing your personal data from being used illegitimately or fraudulently. In particular, we use security measures that guarantee: The pseudonymization or the encryption of your data; the confidentiality, integrity, availability of your data as well as the resilience of the systems and services that process them; the ability to restore data in the event of a data breach. Furthermore, Moschino undertakes to test, verify and regularly evaluate the effectiveness of technical and organizational measures in order to guarantee the continuous improvement in the safety of data processing.
+**11\. Data Controller, Data Protection Officer, Data processors**
 
-## 11\. Children’s rights
+The Data Controllers are (i) **Moschino S.p.A** , Tax Code and VAT no. 02705970404, in the person of the legal representative pro tempore, with legal office in San Giovanni in Marignano (RN), via delle Querce 51 and operational office in Milan, via San Gregorio 28, and (ii) TRIBOO DIGITALE USA Inc., EIN 45-4330572 (Employer Identification Number) (VAT number) - 2711 Centerville Road, Suite 400 - Wilmington - County of New Castle - Delaware - 19808
 
-Moschino does not sell products or services for purchase by children, but by adults. If you are under 18, you may use the Site only with the involvement of a parent or guardian. In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), www.moschino.com/us does not knowingly collect, solicit or use personal data of children under the age of 13 provided without parental consent, and will delete any such data should we become aware that a user under the age of 13 has registered without verifiable parental con-sent. Therefore, if you are not 18 years or older, you are not authorized to use our US Site.
+Moschino’s Data Protection Officer can be contacted at the following Email address: [privacy@moschino.com](mailto:privacy@moschino.com)
 
-## 12\. Rights of California residents
+Triboo’s Data Protection Officer can be contacted at the following Email address:  [lapo.curinigalletti@triboo.it](mailto:lapo.curinigalletti@triboo.it)
 
-Pursuant to California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814. For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](). If you are a resident of California, you may request that we not share your information with certain affiliates or third parties providers for marketing purposes, and/or you may inquire as to how we have shared your information with third parties providers for marketing purposes. In connection with such request, we will identify the types of information shared and provide you with the names and addresses of the third parties with whom the information was shared. Please contact our Customer care through the appropriate form selecting “Privacy” as the topic on our contact form.
+Information concerning the categories of Data processors are available at the legal address of the relative Controller and can be requested by the User according to the methods and contact details indicated above. 
 
-## 13\. Claims
-
-If you believe that the processing of your personal data has been unlawfully done, you can file a complaint with one of the supervisory authorities responsible for compliance with the rules on personal data protection.  
-In Italy, the complaint can be filed with the Guarantor for the Protection of Personal Data.  
-Further information on how to present them is available on the website of the Guarantor, at <http://www.garanteprivacy.it/>.
-
-## 14\. Changes to the present policy
-
-The constant evolution of our services may involve changes in the characteristics of the processing of your personal data described up to now. Consequently, this privacy notice may be subject to changes and additions over time, which may also be necessary with regard to new regulatory measures regarding the protection of personal data.  
-We request of you, therefore, to periodically check the contents: Where possible, we will try to inform you promptly about the changes made and their consequences.  
-The updated version of the privacy notice, in any case, will be published on this page, with indication of the date of its last update.
-
-## 15\. Legislative references and useful links
-
-The processing of your personal data is performed by Moschino in full compliance with the relevant regulations provided for by the [Regulations (E.U.) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) General regulation on data protection, rules on the processing of personal data and Italian measures of the Italian Supervisory Authority (<http://www.garanteprivacy.it/>) and, where applicable, of the competent foreign supervisory authorities.
-
-Last update: 15/05/2018
-
-Back to top 
+*** * ***
