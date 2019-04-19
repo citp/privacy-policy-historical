@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devside.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072544id_/http%3A//www.devside.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devside.net privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420000733id_/http%3A//www.devside.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
