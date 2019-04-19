@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902222016id_/https%3A//www.motionelements.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419212103id_/https%3A//www.motionelements.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 個人情報保護
 
 MotionElements (“Company”, “we”, or “Us”) is committed to respecting your privacy. This Privacy Policy describes how Company collects, uses, and retains personal information to enable us to do business with you and improve our services. “Personal Information” includes any information that relates to, identifies, or can be used to identify, contact, or locate the person to whom such information pertains. 
 
