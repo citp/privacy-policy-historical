@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the healthx.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614081025id_/http%3A//www.healthx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthx.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420015253id_/https%3A//www.healthx.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Healthx
+# The Healthx Privacy Policy Promise
 
-## Learn how we use cookies and the personal information we collect
-
-This policy was last updated on July 13, 2015. For additional details, view our [terms of use](http://www.healthx.com/terms-of-use).
+This policy was last updated on July 13, 2015. For additional details, view our [terms of use](https://web.archive.org/web/20190420015253id_/https://www.healthx.com/terms).
 
 ### Does this website use cookies?
 
@@ -27,7 +25,7 @@ In this privacy policy, the term “personal information” refers to any inform
 
   * Contact information such as your name, email address, company name, address, phone number, and other information about yourself or your business.
   * Information about any transactions, either free or paid, that you enter into on our website.
-  * Information about you that is available on the Internet such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers. 
+  * Information about you that is available on the Internet such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers.
 
 
 
@@ -40,7 +38,7 @@ We will use the information we collect to provide the services/information reque
   * Send information to you which we think may be of interest to you by post, email, or other means
   * Send you marketing communications relating to our business or the businesses of carefully selected third parties which we think may be of interest to you
   * Improve your browsing experience by personalizing the website, emails, and other materials
-  * Provide other companies with statistical information about our users; however, this information will not be used to identify any individual user 
+  * Provide other companies with statistical information about our users; however, this information will not be used to identify any individual user
 
 
 
@@ -62,4 +60,4 @@ Our websites provide links to other websites. We do not control, and are not res
 
 ### Whom do I contact with questions?
 
-If you have any questions or concerns, [contact us](http://www.healthx.com/contact).
+If you have any questions or concerns, [contact us](https://web.archive.org/web/20190420015253id_/https://www.healthx.com/privacy/contact/).
