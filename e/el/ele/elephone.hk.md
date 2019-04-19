@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elephone.hk privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913101856id_/http%3A//www.elephone.hk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephone.hk privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420002323id_/https%3A//www.elephone.hk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy-Keep Expecting and Be Surprised-Elephone Official
+# Privacy Policy-Keep Expecting and Be Surprised
 
 **How we collect your info**
 
@@ -25,7 +25,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools for you in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us directly conduct and improve our business.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting our customer service at [.](http://support.gearbest.com/)
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting our customer service at [.](https://support.gearbest.com/)
 
 **Do we disclose any information to outside parties?**
 
@@ -35,4 +35,4 @@ We do not sell, exchange or leak your personal information to outside, but not i
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-[ ](https://web.archive.org/ "ELEPhone Store") Copyright © 2016 ELEPHONE. All Rights Reserved. 
+[ ](https://web.archive.org/ "ELEPhone Store") Copyright © 2019 ELEPHONE. All Rights Reserved. 
