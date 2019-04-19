@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypaymentsgateway.com privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702183227id_/https%3A//easypaymentsgateway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypaymentsgateway.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419101330id_/https%3A//easypaymentsgateway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Easy Payment Gateway
 
