@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brecorder.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302094542id_/https%3A//www.brecorder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecorder.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419132337id_/https%3A//www.brecorder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Business Recorder
 
