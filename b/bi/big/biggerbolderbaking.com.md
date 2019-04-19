@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbolderbaking.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918025009id_/https%3A//www.biggerbolderbaking.com/bbb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbolderbaking.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419200124id_/https%3A//www.biggerbolderbaking.com/bbb-privacy-policy) for the most accurate reproduction.*
 
 # Bigger Bolder Baking Website Privacy Policy - Gemma’s Bigger Bolder Baking
 
