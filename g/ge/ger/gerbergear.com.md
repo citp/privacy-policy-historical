@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerbergear.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123180422id_/http%3A//www.gerbergear.com/Company/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerbergear.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419145400id_/https%3A//www.gerbergear.com/Company/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gerber Gear
 
@@ -6,15 +6,15 @@ Fiskars - Outdoors Privacy Policy
 
 **GERBERGEAR.COM ONLINE PRIVACY POLICY**
 
-Last modified: December, 2012 ([view archived versions](http://www.gerbergear.com/content/download/115987/2544975/version/2/file/Fiskars+Brands+previous++privacy+policy.pdf)) 
+Last modified: June, 2018 ([view archived versions](http://www.gerbergear.com/content/download/115987/2544975/version/2/file/Fiskars+Brands+previous++privacy+policy.pdf))
 
   1. **1.** **INTRODUCTION**
 
 
 
-**Purpose.** The purpose of this Privacy Policy is to describe how Fiskars Brands, Inc. (“Fiskars”) collects, uses and shares information about you through our U.S. online interfaces (e.g., websites and mobile applications) owned and controlled by us, including [www.gerbergear.com](http://www.gerbergear.com/) (collectively referred to herein as the “Site”). Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to [Contact Us](http://www.gerbergear.com/Meet-Gerber/About-us/Contact-us) or as described at the end of this Policy. 
+**  Purpose.** The purpose of this Privacy Policy is to describe how Fiskars Brands, Inc. (“Fiskars”) collects, uses and shares information about you through our U.S. online interfaces (e.g., websites and mobile applications) owned and controlled by us, including [www.gerbergear.com](http://www.gerbergear.com/) (collectively referred to herein as the “Site”). Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to [Contact Us](http://www.gerbergear.com/Meet-Gerber/About-us/Contact-us) or as described at the end of this Policy.
 
-Our Privacy Policy explains: 
+ Our Privacy Policy explains:
 
 Information We Collect and Why We Collect It 
 
@@ -28,24 +28,24 @@ International Privacy Practices
 
 Changes to Our Privacy Policy
 
- ****Questions and How Contact Us
+ ** **Questions and How Contact Us
 
- **Scope; Third Party Sites.** This Privacy Policy applies only to information we collect at and through the Site. Our Site also contains links to third party sites, including sites of retailers that sell Fiskars products, that are not owned or controlled by Fiskars. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personal information. 
+ **  Scope; Third Party Sites.** This Privacy Policy applies only to information we collect at and through the Site. Our Site also contains links to third party sites, including sites of retailers that sell Fiskars products, that are not owned or controlled by Fiskars. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personal information.
 
-**Terms of Use.** Please note that your use of our Site is also subject to our [Terms of Use](http://www.gerbergear.com/Company/Terms-of-Use). 
+ **  Terms of Use.** Please note that your use of our Site is also subject to our [Terms of Use](http://www.gerbergear.com/Company/Terms-of-Use).
 
   1. **2\. ****INFORMATION WE COLLECT AND WHY WE COLLECT IT**
 
 
 
-**Information You Provide To Us.** You can provide information to us on our Site through various means, including
+**  Information You Provide To Us. **You can provide information to us on our Site through various means, including
 
-  * When you register at the Site and/or create an online account 
+  * When you register at the Site and/or create an online account
   * On your account information page
   * When you purchase products from us
   * Feedback forms
   * Contact us forms
-  * Online email forms 
+  * Online email forms
   * Information submitted through our Innovation Portal (product ideas and suggestions)
   * Product reviews
   * Information provided through your smart phone or mobile device
@@ -53,13 +53,13 @@ Changes to Our Privacy Policy
 
 
 
-The information we collect includes personal information, such as 
+ The information we collect includes personal information, such as
 
   * Name
   * Address
-  * Billing address 
-  * Shipping address 
-  * Email address 
+  * Billing address
+  * Shipping address
+  * Email address
   * Telephone number
   * Credit card number (passed through to credit card processor solely for payment purposes)
   * Gender
@@ -68,9 +68,9 @@ The information we collect includes personal information, such as
 
 
 
-**No Information From Children Under Age 13.** If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we might have any information from a child under the age of 13, please Contact Us _[** insert Contact Us link **]_ or call us at 866-348-5661. 
+**No Information From Children Under Age 13.** If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we might have any information from a child under the age of 13, please Contact Us _[** insert Contact Us link **]_ or call us at 866-348-5661.
 
-**Information We Collect Automatically.** We collect certain information through Google Analytics as you use our Site, such as 
+ **  Information We Collect Automatically. **We collect certain information through Google Analytics as you use our Site, such as
 
   * IP address
   * Browser type
@@ -85,69 +85,72 @@ The information we collect includes personal information, such as
 
 
 
-**Google Analytics.** The information above is collected primarily through our use of Google Analytics to help analyze how users use the Site. The Google Analytics tool uses "cookies," which are text files placed on your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the Site (including IP address) is transmitted to Google. This information is then used to evaluate visitors' us of the Site and to compile statistical reports on website activity for Fiskars. For more information regarding Google Analytics please visit Google's website, and pages that describe Google Analytics, such as [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). ****
+**  Google Analytics.** The information above is collected primarily through our use of Google Analytics to help analyze how users use the Site. The Google Analytics tool uses "cookies," which are text files placed on your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the Site (including IP address) is transmitted to Google. This information is then used to evaluate visitors' us of the Site and to compile statistical reports on website activity for Fiskars. For more information regarding Google Analytics please visit Google's website, and pages that describe Google Analytics, such as [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). ** **
 
-**Cookies.** When you visit our Site we send one or more “cookies” to your computer or other device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. **** We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends and providing relevant advertising to you. ****
+ **  Cookies. **When you visit our Site we send one or more “cookies” to your computer or other device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. ** ** We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends and providing relevant advertising to you. ** **
 
-**Pixel Tags.** We may use “pixel tags,” also known as “web beacons,” which are small graphic files that allow us to monitor the use of our websites. A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time the page containing the pixel tag was viewed; the type of browser that fetched the pixel tag; and the identification number of any cookie on the computer previously placed by that server. 
+ **  Pixel Tags. ** We may use “pixel tags,” also known as “web beacons,” which are small graphic files that allow us to monitor the use of our websites. A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time the page containing the pixel tag was viewed; the type of browser that fetched the pixel tag; and the identification number of any cookie on the computer previously placed by that server.
 
   1. **3\. ****HOW WE USE AND SHARE YOUR INFORMATION**
 
 
 
-**To Provide Products, Services, and Information.** As described above, we collect information from you so that we can provide products and services that you purchase using the Site, and provide information that you request from us. We use your personal information to contact you about your orders, process credit card / debit card transactions, and ship products to you. We may send you information about our products and services, and new offerings. We may provide information to third party service providers that help us process orders, and fulfill and deliver products and services that you purchase from us.
+**  To Provide Products, Services, and Information. **As described above, we collect information from you so that we can provide products and services that you purchase using the Site, and provide information that you request from us. We use your personal information to contact you about your orders, process credit card / debit card transactions, and ship products to you. We may send you information about our products and services, and new offerings. We may provide information to third party service providers that help us process orders, and fulfill and deliver products and services that you purchase from us.
 
-We may use third parties to help host our Site, send out email updates about the Site, provide marketing and advertising services for us, remove repetitive information from our user lists, and process payments. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. We use demographic information to better understand our customers, and improve our products and services.
+ We may use third parties to help host our Site, send out email updates about the Site, provide marketing and advertising services for us, remove repetitive information from our user lists, and process payments. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. We use demographic information to better understand our customers, and improve our products and services.
 
- **Advertising and Marketing.** We may use how you browse and shop in order to show you ads for Fiskars or our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Fiskars. 
+ **  Advertising and Marketing. **We may use how you browse and shop in order to show you ads for Fiskars or our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Fiskars.
 
-We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. Some websites may belong to ad networks that use your browsing history across websites to choose which ads to display on their sites; the displayed ads may include advertising for Fiskars. To learn more, and to opt out of seeing interest-based advertisements on these sites, visit the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://www.aboutads.info/) websites ([www.networkadvertising.org](http://www.networkadvertising.org/) and [www.aboutads.info](http://www.aboutads.info/)). Websites may also offer their own opt-out methods for interest-based advertising. Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop.
+ We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. Some websites may belong to ad networks that use your browsing history across websites to choose which ads to display on their sites; the displayed ads may include advertising for Fiskars. To learn more, and to opt out of seeing interest-based advertisements on these sites, visit the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://www.aboutads.info/) websites ([www.networkadvertising.org](http://www.networkadvertising.org/) and [www.aboutads.info](http://www.aboutads.info/)). Websites may also offer their own opt-out methods for interest-based advertising. Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop.
 
- **Your Consent.** In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of the Fiskars when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. Sensitive personal information is a particular category of personal information relating to confidential medical facts, racial or ethnic origins, political or religious beliefs or sexuality. 
+ **Your Consent.** In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of the Fiskars when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. Sensitive personal information is a particular category of personal information relating to confidential medical facts, racial or ethnic origins, political or religious beliefs or sexuality.
 
-**Legal Proceedings.** We will share personal information with third party companies, organizations or individuals outside of Fiskars if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+ **Legal Proceedings.** We will share personal information with third party companies, organizations or individuals outside of Fiskars if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
-  * Meet any applicable law, regulation, subpoena, legal process or enforceable governmental request. 
-  * Enforce applicable Terms of Use, including investigation of potential violations. 
-  * Detect, prevent, or otherwise address fraud, security or technical issues. 
+  * Meet any applicable law, regulation, subpoena, legal process or enforceable governmental request.
+  * Enforce applicable Terms of Use, including investigation of potential violations.
+  * Detect, prevent, or otherwise address fraud, security or technical issues.
   * Protect against harm to the rights, property or safety of Fiskars, our users, customers or the public as required or permitted by law.
 
 
 
-**Transfer in the Event of Sale or Change of Control.** If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently. 
+**Transfer in the Event of Sale or Change of Control.** If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently.
 
   1. **4\. ****ACCESS TO YOUR INFORMATION AND CHOICES**
 
 
 
-You can access and update certain information we have relating to your online account by logging into your account at the Login section of our Site. If you have questions about personal information we have about you or need to update your information, you can [Contact Us](http://www.gerbergear.com/Meet-Gerber/About-us/Contact-us) or call us at 866-348-5661. You can opt-out of receiving marketing and promotional e-mails by using the opt-out or unsubscribe feature contained in the e-mails. 
+ You can access and update certain information we have relating to your online account by logging into your account at the Login section of our Site. If you have questions about personal information we have about you or need to update your information, you can [Contact Us](http://www.gerbergear.com/Meet-Gerber/About-us/Contact-us) or call us at 866-348-5661. You can opt-out of receiving marketing and promotional e-mails by using the opt-out or unsubscribe feature contained in the e-mails.
 
   1. **5\. ****SECURITY OF YOUR INFORMATION**
 
 
 
-In order to help secure your personal information, access to your data on our Site is password-protected. To protect any data you store on our servers, we also regularly audit our system for possible vulnerabilities and attacks. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that e-mails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means. 
+ In order to help secure your personal information, access to your data on our Site is password-protected. To protect any data you store on our servers, we also regularly audit our system for possible vulnerabilities and attacks. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that e-mails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means.
 
   1. **6\. ****INTERNATIONAL PRIVACY PRACTICES**
 
 
 
-As a global company, Fiskars has separate privacy policies for its international offices. Fiskars’ United States-based websites (e.g., gerbergear.com) are operated and managed on servers located and operated within the United States. Certain of our international websites are operated and managed on services located in other jurisdictions. By using and accessing our gerbergear.com site, residents and citizens of countries and jurisdictions outside of the United States agree and consent to the transfer to and processing of personal information on servers located in the United States, and that the protection of such information may be different than required under the laws of your residence or location.
+ As a global company, Fiskars has separate privacy policies for its international offices. Fiskars websites, including websites directed to residents in countries and jurisdictions outside of the United States, are operated and managed on servers located and operated within the United States. By using and accessing our Sites, residents and citizens of countries and jurisdictions outside of the United States agree and consent to the transfer to and processing of personal information on servers located in the United States, and that the protection of such information may be different than required under the laws of your residence or location.
+
+**Residents of European Union**  
+Residents of the European Union (EU) have additional rights set forth by the EU General Data Protection Regulation (GDPR). Although GDPR is intended to protect the personal data of those in the EU, these data management options apply to our collection, storage, use, disclosure, processing, deletion and management of EU personal data, if any, as well. If you are an EU resident and you wish to receive an electronic copy of your data or request the removal of your personal data from our site then, subject to certain limitations outlined in GDPR, you may do so by calling us at 1-800-950-6161.
 
   1. **7\. ****CHANGES TO OUR PRIVACY POLICY**
 
 
 
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+ Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
 
   1. **8\. ****QUESTIONS AND HOW CONTACT US**
 
 
 
-If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](http://www.gerbergear.com/Meet-Gerber/About-us/Contact-us) or call us at 866-348-5661. You may also contact us by mail at the following address:
+ If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](http://www.gerbergear.com/Meet-Gerber/About-us/Contact-us) or call us at 866-348-5661. You may also contact us by mail at the following address:
 
 Fiskars Brands, Inc.
 
-2537 Daniels Street
+7800 Discovery Drive
 
-Madison, WI 53718
+Middleton, WI 53562
