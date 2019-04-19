@@ -1,95 +1,250 @@
-> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002927id_/http%3A//tvone.tv/4422/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419071212id_/https%3A//tvone.tv/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TV One
+# Privacy
 
-Effective Date: May 31, 2011
+**PRIVACY POLICY**
 
-INTRODUCTION
+**Effective Date:  November 15, 2018**
 
-This privacy policy ("Privacy Policy") applies to [www.tvone.tv](http://www.tvone.tv/), [tvoneaffiliates.com](http://tvoneaffiliates.com/), [www.gettvone.com](http://www.gettvone.com/), and other websites which are owned, operated or controlled by TV One LLC **("TV One," "we," "our," or "us")** , (collectively, the **"Sites"** ) (however accessed and/or used, whether via personal computers, mobile devices or otherwise). This Privacy Policy also applies to interactive features or downloads that are owned or operated by TV One, are available through the Sites, or that interact with the Sites and post this Privacy Policy. This Privacy Policy covers information collected at the Sites and does not cover any information collected at any other web site or offline by TV One (unless specifically stated). This Privacy Policy explains TV One’s information collection practices at the Sites, such as the types of information TV One collects regarding visitors to the Sites and how we may use that information. Please review this Privacy Policy carefully. In addition, please review the Sites’ [Terms of Use](http://www.tvone.tv/terms "terms"), which governs your use of the Sites.
+TV One, LLC and its family of nationally branded TV ONE national branded websites, (together, “TV ONE Digital,” also referred to as “we,” “our,” or “us”) offers sites, digital and social networking platforms, applications, content, and other services, including tvone.tv and mycleo.tv (collectively, the “ **TV ONE Digital Services** ”). This Privacy Policy (“Policy”) applies to all TV ONE Digital Services that link to this Policy, regardless of platform or device used. If you do not agree with this Privacy Policy, please do not use the TV ONE Digital Services. This policy also governs branded pages residing within third party social media platforms like Facebook, Twitter, Snapchat and Instagram.
 
-**1\. What Information Do The Sites Collect?**
+This Privacy Policy explains:
 
-(a) **    Information You Provide To Us**
+  * What information we or third parties may collect when you visit the TV ONE Digital Services;
+  * Our use of cookies and other technology;
+  * How we may use and share that information; and
+  * The choices we offer, including how to access and update information.
 
-**Personal Information and Demographic Information**. We may ask you to provide us with certain categories of information such as: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, phone number, e-mail address, and physical address (" **Personal Information** "); and (2) demographic information, such as gender, zip code, or similar information (" **Demographic Information** "). We may collect this information through various forms and in various places on the Sites, including account registration forms, e-mail newsletter sign-ups, or when you submit information, communicate or otherwise interact with us. If we combine Demographic Information with the Personal Information we collect, we will treat it as Personal Information under this Privacy Policy.
 
-(b)    **Information We Collect As You Access And Use The Sites**
 
-In addition to any Personal Information or other information that you choose to submit to the Sites, we and our third-party service providers may use a variety of technologies that automatically or passively collect certain information whenever you visit or interact with the Sites (" **Usage Information** "). This Usage Information may include the browser you are using, the URL that referred you to our Sites, all of the areas within our Sites that you visit, other information about your electronic browsing and the time of day, among other information. We may use Usage Information for a variety of purposes, including to enhance or otherwise improve the Sites. In addition, we collect your IP address or other unique identifier (" **Device Identifier** ") for your computer or other device used to access the Sites (any, a " **Device** "). A Device Identifier is a number that is automatically assigned to your Device used to access the Sites, and our computers identify your Device by its Device Identifier. Usage Information may be non-identifying or may be associated with you. Whenever we associate Usage Information or a Device Identifier with your Personal Information, we will treat it as Personal Information.
+**_Highlights_**
 
-A few of the methods that may be used to collect Usage Information include the following:
+Types of Information We Collect | 
 
-**_Cookies_**. A cookie is a data file placed on a Device when it is used to visit the Sites. A Flash cookie is a data file placed on a Device via the Adobe Flash plugin that may be built-in to or downloaded by you to your Device. Cookies and Flash Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. If you choose to disable cookies or Flash cookies on your Device, some features of the Sites may not function properly.
+  * Information you give us (including your name, contact details, social media handles, content, and payment information).
+  * Information third parties provide about you (including social network profile information, event registration information, and information other users provide about you).
+  * Usage information (including your device and browsing information, IP address, and your location).
+  * Your content service producer credentials (including service provider information such as account credentials such as user name and password).
 
-**_Web Beacons_**. Small graphic images or other web programming code called web beacons (also known as "1×1 GIFs," "one pixel GIFs," or "clear GIFs") may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Sites, to monitor how users navigate the Sites, to make cookies more effective, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.
 
-**_Embedded Scripts_**. An embedded script is programming code that is designed to collect information about your interactions with the Sites, such as the links you click on. The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Sites, and is deactivated or deleted thereafter.
 
-(c)    **Information Third Parties Provide About You**
+Learn More  
+  
+---|---  
+Our Use of Cookies and Other Technology | We use cookies, mobile identifiers, and web beacons to collect and store information when you visit the TV ONE Digital Services. We use this technology to understand how you use the TV ONE Digital Services so that we can improve your experience and present you with content that is tailored to your interests. 
 
-We may, from time to time, supplement the information we collect about you online with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those sources with information we collect through the Sites. In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise.
+Learn More  
+  
+How We Use the Information Collected | 
 
-The Sites include functionality that allows certain kinds of interactions between the Sites and your account on a third party web site. The use of this functionality may involve the third party web site providing certain information, including Personal Information, to the Sites. For example, when you register with the Sites, you may choose to use your Facebook, Google or other supported account from a third party site to facilitate the registration and login process on the Sites. If you choose to use this functionality, the third-party site may send Personal Information about you to the Sites, which we will then treat as Personal Information under this Privacy Policy.
+  * For the purposes you have agreed to.
+  * For our legitimate business purposes, including to provide the TV ONE Digital Services, to understand your interests and personalize your content and advertising, to recognize you across all of the devices and browsers you use to access the TV ONE Digital Services, and to respond to your inquiries and requests.
+  * To satisfy our legal obligations including to prevent fraud and potentially illegal activities and to respond to law enforcement requests.
 
-In addition, TV One may provide third party sites’ API or links on the Sites to facilitate your sending a communication from the Sites. For example, TV One may use third parties to facilitate emails, tweets or Facebook postings. These third parties may retain any information used or provided in any such communications. TV One may not control or have access to your communications through these third parties. You should review the third party’s terms of use and privacy policies before engaging in their use.
 
-(d)    **Information You Provide About A Third Party**
 
-If you send someone else a communication from the Sites, such as sending an article to a friend or information about a job opening, we use the information you provide (typically, names and e-mail addresses) on a one-time basis to facilitate the communication and we do not use it for any other marketing purpose, unless we obtain consent from that person.
+Learn More  
+  
+Who We Share Information With | 
 
-**2\. How Do We Use The Information Collected?**
+  * TV ONE Digital family of brands and affiliated companies, including Urban One, Inc., TV One, LLC, R1 Digital, Radio One, Inc., Reach Media, Inc. and BossipMadameNoire LLC.
+  * Our service providers acting on our behalf, social networks you connect to through the TV ONE Digital Services, our co-branding partners, and third parties who help provide the sweepstakes, contests and promotions you may choose to participate in.
+  * Advertisers on the TV ONE Digital Services, and the advertising networks, consumer data resellers and technology service providers that help power the advertising on the TV ONE Digital Services.
 
-**Use of Information by TV One**. TV One may use your Personal Information, Demographic Information or Usage Information that we collect about you: (1) to provide you with information or services or process transactions that you have requested or agreed to receive, including to send you electronic newsletters, or to provide you with special offers or promotional materials on behalf of us or third parties; (2) to enable you to participate in a variety of the Sites’ features such as online entry sweepstakes and message boards; (3) to process your registration with the Sites, including verifying your e-mail address is active and valid; (4) to improve the Sites or our services, to customize your experience on the Sites, or to serve you specific content, including advertisements, that are most relevant to you; (5) to contact you with regard to your use of the Sites and, in our discretion, changes to the Sites and/or Sites’ policies; (6) for internal business purposes; and (7) for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.
 
-Please note that information submitted to the Sites via a "contact us" or other similar function may not receive a response. We will not use the information provided to contact you for marketing purposes unrelated to your request unless you agree otherwise.
 
-**3\. How and When Do We Disclose Information to Third Parties?**
+Learn More  
+  
+Rights of Minors | We do not collect the personal information of children under age 13. 
 
-(a)    **When You Agree To Receive Information From Third Parties**
+Learn More  
+  
+Your Rights and Opt-Out Choices | You have the right to opt-out of email communications, update or delete your Account information, and opt-out of targeted advertising.  
+Consent to Processing and Transfer of Information | TV ONE Digital is a United States company and the TV ONE Digital Services are directed to a United States audience. If you reside outside of the United States, please be aware that your information will be processed in the United States where it may not have the same level of protection as it would have in your jurisdiction. 
 
-** ** You may be presented with an opportunity to receive information and/or marketing offers directly from third parties. If you do agree (or do not decline) to have your Personal Information shared, your Personal Information will be disclosed to such third parties and all information you disclose will be subject to the privacy policy and practices of such third parties. We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review the privacy policies and practices of such third parties prior to agreeing to receive such information from third parties. If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly.
+Learn More  
+  
+Other Important Privacy Information | 
 
-(b)    **Third Parties Providing Services On Our Behalf.** We may use third party vendors to perform certain services on behalf of the Sites, such as hosting the Sites, designing and/or operating the Sites’ features, tracking Site analytics, ad serving, and enabling TV One to send you e-mail newsletters or performing other administrative services. We may provide these companies with access to user information, including Personal Information, to carry out the services they are performing for you or for TV One. While we may use third party analytics service providers to evaluate and provide us with information about the use of the Sites and viewing of our content. we do not share Personal Information with these  analytics service providers, but they may set and access their own cookies, web beacons and embedded scripts on your Device and they may otherwise collect or have  access to information about you, including non-personally identifiable information.
+  * We maintain procedural, technical, and physical safeguards to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of the Personal Information you provide us.
+  * The TV ONE Digital Services contains links to third party websites/services. We are not responsible for the actions of such third party.
+  * We will provide notices of any material updates to this privacy policy through the TV ONE Digital Services.
+  * Some of TV ONE digital Services are subject to additional privacy terms.
 
-(c)    **Co-branded Areas.** Certain areas of the Sites may be provided to you in association with third parties (" **Co-Branded Areas** ") and may require you to disclose Personal Information in order to register for and access products and/or services. Such Co-Branded Areas will identify the third party associates. If you elect to register for products and/or services at Co-Branded Areas you may be providing your information to both TV One and the third party associates. Further, if you sign-in to a Co-Branded Area with a username and password obtained on the Sites, your Personal Information may be disclosed to the identified third party associates for that Co-Branded Area and will be subject to the posted privacy policies.
 
-(d)    **Sweepstakes, Contests and Promotions.** We may offer sweepstakes, contests, and other promotions (any, a **"Promotion"** ) through the Sites that may require registration. By participating in a Promotion, you are agreeing to the terms, conditions or official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
 
-(e)    **Administrative and Legal Reasons.** We may transfer and disclose your information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; (iii) to protect and/or defend the Sites’ [Terms of Use](http://www.tvone.tv/terms) or other policies applicable to the Sites; or (iv) to protect the personal safety, rights, property or security of any individual. We may also use IP address or other Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
+You may contact us by email at legal@interactiveone.com and reference “Privacy Request” or by mail at Privacy Request, c/o Interactive One LLC, Legal Department, 4 New York Plaza, Suite 501, New York, New York 10004, USA.  
+  
+* * *
 
-(f)    **Business Transfer.** TV One may share Personal Information with its subsidiaries and affiliates for internal reasons. TV One also reserves the right to disclose and transfer all information related to the Sites, including, without limitation, your Personal Information, Demographic Information and Usage Information: (i) to a subsequent owner, co-owner or operator of the Sites or applicable database; or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of TV One’s stock and/or assets or other corporate change, including, without limitation, during the course of any due diligence process.
+  1. **Types of Information We Collect**
 
-**4\. What About Information I Disclose Publicly?**
 
-(a)    **User Generated Content, Social Networking and Public Information.** The Sites may permit you to submit ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information (collectively, **"User Generated Content"** ). User Generated Content may be published online or offline in any media or format (currently existing or hereafter developed). Others may have access to this User Generated Content and may have the ability to share it with third parties across the Internet. Additionally, you may have the opportunity to engage in social networking through the Sites, such as creating a public profile, sharing User Generated Content, and inviting others to connect with you. Please think carefully before deciding what information you share, including Personal Information, in connection with your User Generated Content or social networking activities. Please note that TV One does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Sites. We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Sites.
 
-(b)    **Name and Likeness.** We may also publish your name, voice, likeness and other Personal Information that is part of your User Generated Content (or any portion of the content), and TV One may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Generated Content you submit to the Sites, please review our [Terms of Use](http://www.tvone.tv/terms).
+We collect the following information from you:
 
-**5\. Does Third Party Content And Links To Third Party Sites Appear on the Sites?**
+**Information You Give Us.** When you visit or use the TV ONE Digital Services, you may be asked to provide us with personal information, like your name, email address, social media handles, home address, zip code, telephone number, job title, work experience, and industry related information and photos or videos containing your image, or if you make a purchase or book a reservation for an event via the TV ONE Digital Services, you may also provide us with credit card or other financial account information and expiration dates, where appropriate to process a financial transaction you have requested (collectively, “ **Personal Information** ”). You may also provide us with demographic information, such as your age, date of birth, and gender (collectively, “ **Demographic Information** ”). If we combine Demographic Information with the Personal Information we collect, we will treat it as Personal Information under this Policy.
 
-The Sites may contain content that is supplied by a third party, and those third parties may collect web site usage information and your Device Identifier when web pages from the Sites are served to your browser. In addition, when you are on the Sites you may be directed to other sites that are operated and controlled by third parties that we do not control. We are not responsible for the privacy practices employed by any of these third party sites. For example, if you "click" on a banner advertisement, the "click" may take you off the Sites onto a different web site. These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. TV One encourages you to note when you leave our Sites and to read the privacy statements of all third party web sites before submitting any Personal Information to those sites.
+**Your content service provider credentials.** You may be asked to provide us with your content service provider information and your account credentials (username and password) in order to access certain content on the TV One Digital Services. Your content service provider may use that data in accordance with its privacy policy. See your content service provider’s privacy policy on its respective website.
 
-**6\. Are There Third Party Ads Served On The Sites?**
+**Information Third Parties Provide About You**. We may, from time to time, supplement the information we collect about you online with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. These third party sources include:
 
-The Sites may use third parties such as network advertisers to serve advertisements on the Sites and may use third party analytics service providers to evaluate and provide us with information about the use of the Sites and viewing of our content. Network advertisers are third parties that display advertisements based on your visits to the Sites and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. The Sites’ third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies (including flash cookies), web beacons and other tracking technologies on your Device and track certain behavioral information regarding users of your Device via a Device Identifier. These third party cookies (including flash cookies), web beacons and other tracking technologies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. You acknowledge and agree that the Device Identifier may access and use your computer or device and may set or change settings on your computer or device in connection with the web sites’ operation. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies (including flash cookies) and web beacons are governed by each third party’s specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Sites, you may wish to visit [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp), which provides information regarding this practice by Network Advertising Initiative (" **NAI** ") members, and your choices regarding having this information used by these companies, including the "opt-out" procedures of NAI members. This Privacy Policy does not cover the methods for collecting information used by these third party advertisers or the use of the information that such advertisers collect. We make no representations regarding the policies or business practices of third party network advertisers.
+  * **Social Networks and Publicly Available Data**. If you logon to the TV ONE Digital Services using a third party social media account (e.g., Facebook or Google), or if you interact with us through a social media function such as a plug-in (e.g., a Facebook “like” button) then you may be permitting us to have ongoing access to some information from your social network profile (such as your name, email address, your friend list, photo, age, gender, location, birthday, social networking ID, current city, and the people/sites you follow.
+  * **Information That Is Collected from Consumer Data Resellers**. We may collect information about you from consumer data resellers, including but not limited to, demographic and other generally available information.
 
-**7\. How Do I Change My Information And Communications Preferences?**
 
-You are responsible for maintaining the accuracy of any Personal Information or other information that you provide to us on or through the Sites, and for correcting or updating any Personal Information or other information you have provided to us on or through the Sites. Should you wish to change any Personal Information or other information, please contact us at [contactus@tvoneonline.com](mailto:contactus@tvoneonline.com). We will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable after we receive them.
+  * **Information Collected from Advertising Affiliates.** We may collect information about you from our Advertising Affiliates’ digital properties within which we sell and serve advertising and as a result may collect demographic information, personally identifiable information, usage information, and other generally available information.
 
-**8\. What About Consent To Transfer Information To The United States?**
 
-The Sites are operated in the United States and intended for users located in the United States. If you are located in the European Union, Canada or anywhere else outside of the United States, please be aware that information we collect, including, without limitation, Personal Information, will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the Sites or providing us with any information, you consent to this transfer, processing and storage of your information in the United States.
+  * **Information Other Users Provide about You.** Other users may provide us with your email address or other information in order to invite you to use the TV ONE Digital Services or share an article or other content from the TV ONE Digital Services with you. In this case, we will only use the information for the purposes for which it was provided.
+  * **Events**. We may collect information about you from third parties that hold events on our behalf which you may attend or participate in. Such information may include, but is not limited to, your name, email address, photo, age, gender, location, birthday, and demographic information.
+  * **Other Information We Collect**. We also may collect other information about you, your device, or your use of the services in ways that we describe to you at the point of collection or otherwise with your consent. You may choose not to provide us with certain types of information, but doing so may affect your ability to use some of the TV ONE digital Services.
 
-**9\. What Should Parents Know About Children?**
 
-The Sites are general audience web sites and we do not knowingly collect any Personal Information from children younger than the age of thirteen (13). We will delete any Personal Information collected that we later determine to be from a user younger than the age of thirteen (13).
 
-**10\. What About Security?**
+**Information We Get from Your Use of The TV ONE Digital Services**. We collect information about the TV ONE Digital Services that you use and how you use them, like when you watch a video, open one of our newsletters, or view and interact with our ads and content (collectively, “ **Usage Information** ”). Usage Information includes:
 
-We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use our Sites and provide us with your information at your own risk.
+  * **Device Information**. We collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information, including phone number).
+  * **Browsing Information**. This includes the URL that referred you to the TV ONE Digital Services, the areas within the TV ONE Digital Services that you visit, how long you spend on the TV ONE Digital Services, and the time of day of your visit.
+  * **IP Address**. An IP address is a string of numbers associated with the device you use to access the Internet.
+  * **Location Information**. When you use the TV ONE Digital Services, we may collect and process information about your exact location. We use various technologies to determine location, including IP address, GPS, and other sensors that may, for example, provide us with information on nearby devices, Wi-Fi access points and cell towers and provide geo-location information in order to assist you in matching your job seeking query against current job listings based on your location.
 
-**11\. What About Changes To The Privacy Policy?**
 
-TV One reserves the right to change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. However, TV One will not use your Personal Information in a manner materially different than what was stated at the time it was collected without your consent.
+  2. **Our Use of Cookies and Other Technology**
+
+
+
+We and our partners use various technologies to collect and store information when you visit the TV ONE Digital Services, and this may include using cookies or similar technologies to identify your browser or device:
+
+**Cookies.** A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
+
+**Mobile Identifiers**. We may use software development kits (“SDKs”) or mobile advertising identifiers (i.e., IDFA on Apple mobile devices or Advertising ID on Android mobile devices), which function similarly to cookies on mobile devices. You may reset your IDFA or Advertising ID in the settings on your mobile device.
+
+**Web Beacons**. Small graphic images or other web programming code called web beacons (also known as “1×1 GIFs,” “one pixel GIFs,” or “clear GIFs”) may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the TV ONE Digital Services, to monitor how users navigate the TV ONE Digital Services, to make cookies more effective, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.
+
+We use these technologies to track user behavior on the TV ONE Digital Services and across third party websites, to track how the TV ONE Digital Services are being used, to link various devices you may use, to build consumer profiles and to serve you more relevant ads.
+
+**The “Help” feature of the menu bar on most browsers will tell you how to stop accepting new cookies, how to receive notification of new cookies, and how to disable existing cookies. For more information about HTTP cookies and how to disable them, or restrict the categories of cookies you wish to accept, you can consult the information at www.allaboutcookies.org/manage-cookies/.
+
+Please note that rejecting cookies does not mean that you will no longer see ads when you visit the TV ONE Digital Services. Please note, however, that without cookies, you may not be able to take full advantage of all of the TV ONE Digital Services and some parts of the TV ONE Digital Services may not function properly.  
+
+
+  3. **How We Use the Information Collected**
+
+
+
+We (and our service providers acting on our behalf) may use your information for the following purposes:
+
+  * **With your Consent.** From time to time, we will ask you for your consent to collect and use your information. We will use your information for the purposes disclosed at the time you provide your consent. For example: 
+    * with your consent, we may use your information to enable you to participate in a variety of sweepstakes, contests or promotions, where requested.
+    * when you ask us to, we use your information to create an account for you on the TV ONE Digital Services.
+    * at your request, we use your information to allow you to participate in the interactive features of the TV ONE Digital Services, including processing your subscription and submitting your resume.
+    * when you sign-up to receive our newsletters, and/or information about products, services and promotions relating to us and/or our business partners or other organizations that we work with.
+  * **For Our Legitimate Business Purposes**. We use your information when we have a legitimate business purpose to do so, including to: 
+    * provide the TV ONE Digital Services generally.
+    * understand your interests so that we can display content that is relevant to you.
+    * understand your activities across the TV ONE Digital Services and third party websites, and link the various browsers and devices (e.g., mobile, laptop, tablet, etc.) that you use to access the TV ONE Digital Services and to personalize your experience and advertising across all of your devices.
+    * respond to your inquiries, requests, and comments.
+    * understand how the TV ONE Digital Services are used so that we can continuously improve them, and the services we provide to you.
+    * allow you to participate in the interactive features of the TV ONE Digital Services, where you choose to do so.
+  * **To Satisfy Our Legal Obligations.** We will use your information when we need to comply with our legal obligations or enforce our rights, including to prevent fraud or potentially illegal activities (including, without limitation, copyright infringement) on the TV ONE Digital Services and enforce our Terms of Service.
+
+
+
+Note that we may combine all the information we collect or receive about you for any of the foregoing purposes.  
+
+
+  4. **Who We Share Information** **with**
+
+
+
+**Information Sharing Within TV ONE and amongst TV ONE Brands and Affiliated Companies**. Your information may be shared across the TV ONE Digital family of brands and affiliated companies, including Urban One, Inc., R1 Digital, Radio One, Inc., BossipMadameNoire LLC and iONE (collectively, Affiliated Companies), to help us better tailor our services, products and advertising to you. If you visit the TV ONE Digital Services, you may receive advertising and other communications from one of our affiliated companies or any of their brands or platforms.
+
+**Information-sharing with third parties:**
+
+  * **Service Providers**. We may share your information with our service providers that perform certain business-related functions on our behalf. We require third party service providers to take appropriate steps to protect your Personal Information. These companies may use aggregated data collected from the TV ONE Digital Services to improve their services.
+  * **Advertisers**. Some of the TV ONE Digital Services may be supported with advertising. Advertisers on the TV ONE Digital Services may receive information about how you interact with content and advertising provided in the TV ONE Digital Services, and may view, edit or set their own tracking technologies/cookies, which will allow them to collect information about you.
+  * **Advertising Partners: Advertising Networks, Consumer Data Resellers and Technology Service Providers**. We may share your information with third party advertising partners, including consumer data resellers, advertising networks, advertising servers, technology service providers and analytics companies. These advertising partners use various technologies to collect data in order to send (or serve) relevant ads to users on the TV ONE Digital Services, or on platforms or websites operated by third parties.
+  * **Social Networks**. You may interact with certain features of the TV ONE Digital Services that cause information to be published to your social networks. To control this sharing of information, please review the privacy policy of the relevant social network and/or log out of the applicable service before you use our online services.
+  * **Co-branding Partners**. Certain areas of the TV ONE Digital Services may be provided to you in association with third parties (“Co-Branded Areas”) and may require you to disclose Personal Information in order to register for and access products and/or services. Co-Branded Areas will identify the applicable third party associates. If you elect to register for products and/or services at Co-Branded Areas, you may be providing your information to both TV ONE Digital and the third party associates.
+  * **Sweepstakes, Contests, and Promotions**. TV ONE Digital Services may offer sweepstakes, contests, and other promotions (a “Promotion”) that may require registration. By participating in a Promotion, you are agreeing to the terms, conditions or official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
+  * **Business Transfers**. If TV ONE or any of our brands or Affiliated Companies are acquired by another company, your Personal Information, and any other information that we have collected about the users of the TV ONE Digital Services, may be disclosed to that company as part of the due diligence process, and will be transferred to that company as one of the transferred assets. If any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
+  * **Law Enforcement Compliance**. We may be required by law, or by law enforcement officers acting under the color of law, to disclose your Personal Information and other information collected through the TV ONE Digital Services. We may also disclose such information if we believe in good faith that such disclosure is necessary to protect or defend the rights, property, or safety of TV ONE Digital, you, other users, or third parties.
+
+
+  * **Otherwise with Your Consent or At Your Direction**. In addition to the sharing described in this Privacy Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
+
+
+  5. **Rights of Minors**
+
+
+
+Except where otherwise indicated, we do not knowingly collect or store any Personal Information from children under the age of 13. If a parent or guardian becomes aware that his or her child under the age of 13 has provided us with information without his or her consent, he or she should contact us at legal@interactiveone.com. As required by law, we will delete such information from our files within a reasonable time.
+
+California minors under 18 years old may request the removal of any information that they post to the TV ONE Digital Services by contacting legal@interactiveone.com. Upon such request, TV ONE Digital will anonymize, or remove from public view, any content posted by a minor to one of its websites, unless required by law to retain such content or information.  
+
+
+  6. **Your Rights and Opt-Out Choices**
+
+
+
+We offer you choices regarding the collection, use, and sharing of your Personal Information.
+
+  * **Email Communications**. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the promotional email you receive or by contacting us directly at legal@interactiveone.com. Regardless of your indicated email preferences, we may send you administrative emails regarding the TV ONE Digital Services, including, for example, notices of updates to our Terms or this Privacy Policy.
+  * **Update or Delete Your Account information**. If you wish to verify, correct, update or delete any of the Personal Information provided to us in connection with your Account on the TV ONE Digital Services, you may do so by editing it on your associated Account page. Please note that we may be required (by applicable law or otherwise) to keep the outdated information and not delete it (or to keep the outdated information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). You should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data remaining in our archives because of backups and other reasons.
+  * **Opt-out of Targeted Advertising**. If you prefer to not receive targeted advertising, you can opt-out of some network advertising programs that use your information. Below are the steps you can take to opt-out of targeted advertising:
+  * Visit the [Digital Advertising Alliance (DAA) Opt-Out Page](http://www.aboutads.info/choices). The DAA Opt-Out Page provides a tool that identifies its member companies that have Cookies on your browser and provides links to those companies.
+  * If you are using one of our mobile applications, you can download [App Choices](http://youradchoices.com/appchoices), which will allow you to opt-out of in-app tracking. You can also adjust the privacy settings on your mobile device by visiting the settings tab. If you wish to opt-out of cross-device tracking, you will need to opt-out of in app tracking on all of your devices.
+  * Update the privacy settings in the Help section of your browser, or in the Settings tab on your mobile device.
+  * You may also click on the Ad Choices icon in the advertisement.
+  * You may opt out of additional third party advertising networks by going to the [Network Advertising Initiative’s](http://www.networkadvertising.org/managing/opt_out.asp) Website and following the directions provided.
+  * Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive.
+
+
+
+Please note that even if you choose to remove your information or “opt-out,” you will still see advertisements while you are browsing online; however, those advertisements will no longer be tailored to your interests. Additionally, information regarding your usage of the online services may still be collected for research, analytics or internal operations purposes. We are not responsible for the effectiveness of any such opt-out options.
+
+  * **Do Not Track Signals**. TV ONE Digital does not currently take actions to respond to “Do Not Track Signals” because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+
+  7. **Consent to Processing and Transfer of Information**
+
+
+
+TV ONE Digital is a United States company and the TV ONE Digital Services are provided from the United States. If you are a user who resides outside the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the TV ONE Digital Services, or providing us with any information, you consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable countries in which the privacy laws may not be as comprehensive as, or equivalent to, those in the country where you reside and/or are a citizen.
+
+  8. **How We Protect Your Information**
+
+
+
+We maintain procedural, technical, and physical safeguards to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of the Personal Information you provide via the TV ONE Digital Services. Unfortunately, no transmission of data is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. Therefore, any transmission of Personal Information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details in Section 11 below.
+
+  9. **Third Party Links**
+
+
+
+The TV ONE Digital Services contains links to third party websites/services for your convenience and/or information (for example, sites linking via banner ads). If you access other sites using the links provided, you may leave the TV ONE Digital Services. When you access these other sites, even ones that may contain the logo of TV ONE Digital or an TV ONE Digital brand or company, please understand that the operators of these websites may collect information from you which will be used by them in accordance with their privacy policies and terms of use, which may differ from ours. We do not endorse or control the policies or practices of third party websites that we do not control or operate.
+
+You should always carefully read the privacy policy of any site you access in order to understand their specific privacy and information usage practices.
+
+  10. **Updates to this Privacy Policy**
+
+
+
+From time to time, we may revise this Policy to reflect changes in the law or technology, or changes in our practices regarding information collection and use. If we make material revisions to the way we collect or use your Personal Information so that we are using it for purposes or sharing data with third parties that you have not consented to, we will provide you with notice of those changes and may do so by announcing the change through the TV ONE Digital Services. You agree that we may notify you about material changes in the way we treat Personal Information by placing a notice on the TV ONE Digital Services. You should check our online services frequently for updates.
+
+Any changes to this Policy will become effective as of the Effective Date on the top of this page. By continuing to use the TV ONE Digital Services after the most current Effective Date, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or in part, please do not continue to use the TV ONE Digital Services.
+
+  11. **Additional Terms**
+
+
+
+This Policy may be supplemented by additional terms, privacy statements, or notices that explain how we collect, use and share information in specific circumstances (“ **Additional Terms** ”). For example, Additional Terms explain how Urban One and its service providers collect and use information related to the Urban One Credit Card, including information you share with us as a participant in our cardholder loyalty program. Other Additional Terms contain details about how our diversity job centers collect and use information, including your resume and career interests. The relevant websites or apps will contain links to or notices of applicable Additional Terms.
+
+  12. **How to Contact Us**
+
+
+
+Privacy Request for TV One, LLC, c/o Interactive One LLC, Legal Department  
+4 New York Plaza, Suite 501  
+New York, New York 10004, USA
