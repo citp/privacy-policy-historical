@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unigine.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825140300id_/https%3A//unigine.com/en/legal/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigine.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419143339id_/https%3A//unigine.com/en/legal/policies/privacy) for the most accurate reproduction.*
 
 # Privacy policy terms | UNIGINE: Professional VR Platform for Business
 
