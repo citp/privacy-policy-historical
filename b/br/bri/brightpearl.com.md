@@ -1,212 +1,310 @@
-> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004103759id_/https%3A//www.brightpearl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419184917id_/https%3A//www.brightpearl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brightpearl
 
-This webpage sets out when and how we use your personal information that you or others provide to us.
+**Effective Date:** 15th JANUARY 2019
 
-## Who we are
+As used in this Privacy Policy, the terms “ **Brightpearl** ,” “ **we** ” and “ **us** ” refer to Brightpearl, Inc.
 
-We are Brightpearl Limited, a company registered in England and Wales (registered with number 06260621).  
-Our registered address is First Floor, New Bond House, Bond Street, Bristol, BS2 9AG, United Kingdom.
+Brightpearl is committed to protecting and respecting your privacy.
 
-Brightpearl is made up of different legal entities, Brightpearl Limited and Brightpearl Inc.
+This Privacy Policy describes how we collect, use, protect and share information about you that we obtain when you access and use our Website (defined below), including when you submit questions or feedback.  This Privacy Policy also applies to information that we obtain when you communicate or interact with us outside of the Website, including by e-mail, telephone and otherwise.
 
-If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact us our Data Protection Compliance Officer by email to privacy@brightpearl.com.
+Please read this Privacy Policy carefully to understand how we will treat your information before you start to use our Website or communicate with us outside the Website.  This Privacy Policy also is intended to explain the conditions under which Brightpearl uses and discloses that information, and your rights in relation to that information.  Changes to this Privacy Policy are discussed at the end of this document.
 
-## How do you use my data?
+If you are in the EU, please refer to our [EU Privacy Policy](https://web.archive.org/privacy-policy-eu) instead.
 
-### When you sign up to our services
+For purposes of this Privacy Policy, the following defined terms mean:
 
-When you buy software or services from us, we will use your personal information to fulfil your order, keep you updated on its status, and to provide you with the software or service you have requested. The details we collect from you when you sign up include your name, address, email address, phone number, website URL.
+  * “ **User** ” means any person or entity who accesses or uses the Website in any manner.  References to “access” and/or “use” of the Website (and any variations thereof) include the acts of accessing or browsing the Website, and accessing or using the Services.
 
-To complete your sign up, we share your personal information with our subcontractors who are involved in the sign up process, such as payment providers, as well as credit reference agencies who we use to assess fraud, credit and/or security risks.
+  * “ **Website** ” means any and all websites owned or operated by Brightpearl (including the website currently located at ****[ www.brightpearl.com](http://www.brightpearl.com/)), through which access to Brightpearl's Services are available.  References to the "Website" include any and all related features, functionality, tools, and content.
 
-We need to process your personal information in this way to register you and provide the ongoing services and benefits to you, as part of the contract you entered into with us.
 
-### When you attend one of our online webinars or industry events
 
-When you attend one of our events (such as our online webinars), we will collect the following information from you: name, email address, phone number, website URL.
 
-We need to use your personal information in this way to complete the booking contract between us.
+BY ACCESSING OR USING OUR WEBSITE OR COMMUNICATING WITH US OUTSIDE OF THE WEBSITE, YOU ARE ACCEPTING AND CONSENTING TO THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY, WHICH MAY BE UPDATED AND AMENDED FROM TIME TO TIME.  IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, YOU MUST NOT ACCESS OR USE OUR WEBSITE OR OTHERWISE COMMUNICATE WITH US.
 
-### When you phone us, contact us by email or use our website chat service
+Learn more about our Privacy Policy:
 
-When you phone us, contact us by email or use our website chat service with general queries, we may also handle your personal information (your name, contact details and the other details you provide to us) in order to provide the customer services you have asked us to. This could be when you ask us to provide more information about our services, or to explain how Brightpearl works.
+  1.  **HOW WE COLLECT INFORMATION**
 
-If we are providing those customer services to you because it is part of your contract with us, we use the data you provide to us as part of fulfilling that contract between us. In all other cases, we rely on your consent to handle your personal information in this way. If you do not provide us with the personal information we request from you for customer services purposes, we may not be able to fully answer your queries.
+  2.  **HOW INFORMATION MAY BE USED**
 
-### When you have expressed an interest in Brightpearl’s services:
+  3.  **HOW INFORMATION MAY BE SHARED**
 
-This section applies if you have opted in to receive marketing communications from us, or have previously expressed an interest in Brightpearl’s services and not opted out.
+  4.  **COOKIES AND BEACONS**
 
-We will handle your personal information (such as your name, email address, postal address, telephone number and sector preferences) to provide you with marketing communications in line with any preferences you have told us about.
+  5.  **YOUR CHOICES**
 
-When we send you marketing emails because you have opted-in to receive them, we rely on your consent to contact you for marketing purposes.
+  6.  **SECURING YOUR INFORMATION**
 
-If you have not opted-in and we send you marketing emails, we do this because of our legitimate interest to promote the success of Brightpearl.
+  7.  **CHILDREN**
 
-Every email we send to you for marketing purposes will also contain instructions on how to unsubscribe from receiving them.
+  8.  **LINKS TO THIRD PARTY SITES**
 
-You are not under any obligation to provide us with your personal data for marketing purposes.
+  9.  **INTERPRETATION**
 
-You can tell us that you do not want your personal information to be processed in this way at any time by contacting us at privacy@brightpearl.com or, where relevant, by following the unsubscribe link shown in every marketing communication you receive from us.
+  10.  **INTERNATIONAL JURISDICTIONS**
 
-### To make our site better:
+  11.  **CHANGES TO OUR PRIVACY POLICY**
 
-We will also use your personal information to provide you with a more effective user experience (such as by displaying links to resources and services we think you will be interested in).
+  12.  **CONTACT US**
 
-Our use of your information in this way means that your experience of our site will be more tailored to you, and that the information you see on our site may differ from someone accessing the same site with a different history or browsing habits.
 
-We also share your aggregated, anonymous data with third party analytics and search engine providers that assist us in the improvement and optimisation of our site.
 
-We will also use your personal information for the purposes of making our site more secure, and to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
 
-We process your data for these reasons because we have a legitimate interest to provide you with the best experience we can, and to ensure that our site is kept secure.
+## 1\. How we collect information
 
-You can prevent us from using your personal information in this way by using the 'do not track' functionality in your internet browser. If you enable do not track functionality, our site may be less tailored to your needs and preferences.
+ **Information You Provide to Us**
 
-### If our business is sold:
+We collect information that you provide directly to us, including when you register for an account, use the Services, update your e-mail preferences, respond to a survey or provide other feedback about the Website, attend one of our events, express an interest in Brightpearl, phone us, contact us by email or use our website chat service, or contact us with questions or comments about the Website.  
 
-We will transfer your personal information to a third party:
+We may also collect information about you if a company or organization authorizes you to manage its account or use our Website on its behalf.
 
-  * if we sell or buy any business or assets, we will provide your personal information to the seller or buyer (but only to the extent we need to, and always in accordance with data protection legislation); or
-  * if Brightpearl or the majority of its assets are acquired by somebody else, in which case the personal information held by Brightpearl will be transferred to the buyer.
+We will not ask for or request sensitive information such as government identifiers, medical information, or financial information (except in connection to payments).  Please do not provide this information to us through e-mails, feedback forms or in any other way unless specifically requested.
 
+ **Information Generated from Use of the Website**
 
+We also collect certain technical information when you access, browse and use our Website, including information that we automatically receive and record from your browser or mobile platform on our server logs.  This technical information helps us operate and provide our Website to you, and includes standard information about visits and system capabilities, such as:
 
-We process your personal information for this purpose because we have a legitimate interest to ensure our business can be continued by the buyer. If you object to our use of your personal information in this way, the relevant buyer of our business may not be able to provide services to you.
+  * information about the device(s) you use to access our Website, including MAC address, IP address, browser type and version, your location, time zone setting, browser plug-in types and versions, operating system and platform, device type, device and application identifiers, operating information, mobile carrier, and cookies; 
 
-In some circumstances we may also need to share your personal information if we are under a duty to disclose or share it to comply with a legal obligation.
+  * information about your visits to the Website, including the full URL clickstream to, through, and from the Website, including dates and times; 
 
-## What about technical data and analytics?
+  * information we need and use to facilitate your use of our Website (including to provide access to third party websites and services), such as URL requests, destination IP addresses, or device configuration details; 
 
-### Information we collect about you:
+  * pages you view, searches you run, length of time browsing search results, specific search results you select to view, length of visits to other pages, page interaction information (such as scrolling, clicks, and mouse-overs), your engagement with certain variable/dynamic elements of a page and methods used to browse away from the page; and
 
-When you visit our site we will automatically collect the following information:
+  * page response times and download errors.
 
-  * technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, screen resolution, operating system and platform; and
-  * information about your visit, including the full Uniform Resource Locators, clickstream to, through and from our site (including date and time), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page.
 
 
 
-### Information we receive from other sources:
+Some of the information we collect is generated using cookies and beacons.  For more details about cookies, beacons, and your choices, see **Cookies and Beacons** below.
 
-We are also working closely with third party advertising networks, analytics providers, hosting providers and search information providers from whom we may also receive general aggregated anonymous information about you.
+ **Information from Other Sources**
 
-We will combine the information you provide to us with information we collect about you.
+We may receive certain information about you from the organizations or entities on behalf of which we provide the Services to you and/or on behalf of which you access or use the Website.  We may also supplement the technical information we collect from your use of the Website with information collected by third parties. Such third parties may include service providers, that help us understand our Users and provide better service to our Users.
 
-## Cookies
+On occasion, we may compare or combine Personally Identifiable Information (defined below) from third party sources to/with other information we have collected.  For example, we may obtain contact information from other sources in order to contact you if we think you or the company you represent would be interested in our Website.
 
-Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
+##   
+2\. How information may be used
 
-A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. We only use (and store) non-essential cookies on your computer's browser or hard drive if you provide your consent.
+ **Personally Identifiable Information**
 
-Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services or messaging services) may also use cookies, which we do not have any control over. These cookies are likely to be analytical/performance cookies or targeting cookies.
+Some of the information we collect through your use of our Website or communications with us may personally identify you (“ **Personally Identifiable Information** ”).  The types of Personally Identifiable Information you may submit in connection with use of the Service include:
 
-You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+  * contact information (such as name, address, email address and telephone number);
 
-Except for essential cookies, all cookies will expire after 2 years.
+  * account passwords for the Website;
 
-## Where is my data stored?
+  * payment card information and other billing information (such as card image, card number, cardholder name, expiration date and card verification code); and
 
-Brightpearl’s headquarters is based inside the European Economic Area (EEA), Brightpearl Inc is based outside the EEA. Many of our external third parties are also based outside the EEA so their processing of your personal information will involve a transfer of data outside of the EEA.
+  * geographic location.
 
-Whenever we transfer your personal information outside of the EEA, we ensure it is protected by making sure at least one of the following safeguards is in place:
 
-  * by transferring your personal information to a country that has been deemed to provide an adequate level of protection by the European Commission;
-  * by using specific contracts approved by the European Commission which give your personal information the same protection it has
-  * where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US.
 
 
+Other data derived from your use of the Website is treated as " **Non-Personally Identifiable Information** ," unless it is combined with Personally Identifiable Information, or unless otherwise required by applicable law.
 
-To keep this privacy policy as short and easy to understand as possible, we have not set out the specific circumstances when each of these protection measures are used. You can contact us at privacy@brightpearl.com for the details as to how we protect specific transfer of your data.
+We may use the Personally Identifiable Information we collect, to:
 
-All information you provide to us is stored on our secure servers or those of our third party data storage providers.
+  * create and manage your account;
 
-## How long do we retain your data for?
+  * provide the Website to you;
 
-Where you are a customer of Brightpearl, we will retain your data for a period of 6 years following the termination of your service, to ensure that we are able to assist you should you have any questions, feedback or issues in connection with your service or if any legal issues arise.
+  * operate our Website, including access management, payment processing, Website administration, internal operations, troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-We will only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or legal requirements
+  * send you information that enables you to use our Website;
 
-To determine the appropriate retention period for the personal information we hold, we consider the amount, nature and sensitivity of the personal information, the risk of harm from unauthorised use or disclosure of your personal information, the reasons why we handle your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+  * contact you about activity on your account;
 
-In some circumstances (such as analyses of the retail market) we may anonymise your personal data so that it can no longer be associated with you for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.
+  * generate reporting regarding the use of our Website by Users;
 
-## Your right to object under data protection laws
+  * respond to your requests, feedback or inquiries;
 
-You have the right to object to us handling your personal information when:
+  * notify you about updates, information, or alerts regarding our Website;
 
-  * we are handling your personal information based on our legitimate interests (as described in the “How do you use my data” section above). If you ask us to stop handling your personal information in this way, we will stop unless we can show you that we have compelling grounds as to why our use of your personal information should continue; or
-  * for marketing purposes. If you ask us to stop handling your personal information on this basis, we will stop.
+  * comply with laws, regulations, and other legal requirements;
 
+  * comply with relevant industry standards and our policies;
 
+  * protect and enforce our rights and the rights of other Users against unlawful activity, including identify theft and fraud, and other violations of our Terms of Use; 
 
-## What are my rights under data protection laws?
+  * protect and enforce our rights arising under any agreements entered into between you and us, including billing and collection;
 
-You have various rights under the data protection laws, which you can exercise by contacting us. The easiest way to do this is by email at privacy@brightpearl.com.  
+  * protect the integrity and maintain the security of our Website, including secured areas of the Website;
 
-### Right of access
+  * operate, evaluate and improve our business, including but not limited to conducting surveys and market research, developing new products, services, and promotions (such as, for example, special events, programs, offers, contests), analyzing and enhancing existing products, services, and promotions, managing our communications; performing accounting, auditing, and other internal functions; 
 
-You are entitled receive confirmation as to whether your personal information is being processed by us, as well as various other information relating to our use of your personal information.
+  * provide you with information and advertisements about products, services, and promotions from us or third parties, that may interest you; and
 
-You also have the right to access your personal information which we are handling.
+  * administer your participation in such products, services, and promotions.
 
-### Right to rectification
 
-You have the right to require us to rectify any inaccurate personal information we hold about you. You also have the right to have incomplete personal information we hold about you completed, by providing a supplementary statement to us.
 
-### Right to restriction
 
-You can restrict our processing of your personal information where:
+ **Non-Personally Identifiable Information**
 
-  * you think we hold inaccurate personal information about you;
-  * our handling of your personal information breaks the law, but you do not want us to delete it;
-  * we no longer need to process your personal information, but you want us to keep it for legal reasons; or
-  * where we are handling your personal information because we have a legitimate interest (as described in the “How We Use Your Data” section above, and are in the process of objecting to this use of your personal information.
+In addition to the uses described above, we may also use Non-Personally Identifiable Information to present content in a manner that is optimized for your device. 
 
+We may also combine technical information, or Non-Personally Identifiable Information, about your use of our Website with information that we obtain from other Users to use in an aggregate or anonymous manner for similar purposes.
 
+## 3\. How information may be shared
 
-Where you exercise your right to restrict us from using your personal information, we will then only process your personal information when you agree, except for storage purposes and to handle legal claims.
+Personally Identifiable Information
 
-### Right to data portability
+We will not sell or share your Personally Identifiable Information with third parties for the third party's own direct marketing purposes without your express consent.  
 
-You have the right to receive your personal information in a structured, standard machine readable format and to send this to another organisation controlling your personal information.
+We may share Personally Identifiable Information with
 
-This right only applies to your personal information we are handling because you consented to us using it or because there is a contract in place between us.
+  * the organizations or entities on behalf of which we are providing the Website to you and/or on behalf of which you access or use the Website;
 
-### Right to erasure
+  * other companies associated with those organizations or entities in order to enable their systems to operate with the Website;
 
-You have the right to require us to erase your personal information which we are handling in the following circumstances:
+  * our subsidiaries and affiliates;
 
-  * where we no longer need to use your personal information for the reasons we told you we collected it for;
-  * where we needed your consent to use your personal information, you have withdrawn your consent and there is no other lawful way we can continue to use your personal information;
-  * when you object to our use of your personal information and we have no compelling reason to carry on handling it;
-  * if our handling of your personal information has broken the law; and
-  * when we must erase your personal information to comply with a law we are subject to.
+  * our service providers to the extent reasonably necessary to enable us operate our business and provide our Website to you, as described in this Privacy Policy (e.g., to an e-mail service provider in order to enable us to e-mail you);
 
+  * [the designated administrator of your account, if you have an individual corporate subaccount, regarding use of the Services by individual subaccounts;]
 
+  * a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, liquidation, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which Personally Identifiable Information held by us about our Users is among the assets transferred;
 
-### Right to complain
+  * other third parties with your express consent for any purpose disclosed by us when you provide the information; and you, upon your written request.
 
-You have the right to lodge a complaint with the Information Commissioner's Office, the supervisory authority for data protection issues in England and Wales.
 
-## What about websites we link to?
 
-Our site may, from time to time, contain links to and from the websites of our partner networks and affiliates.  
 
-Our site connects you to different websites.  If you follow a link to any of these websites or use our services, please note that you have left our site and these websites have their own privacy policies.  
+We do not permit these third parties to use any Personally Identifiable Information we share for any purpose other than (i) as described in this Privacy Policy, and (ii) to comply with their own legal requirements.
 
-We do not accept any responsibility or liability for these policies or websites.  Please check their policies before you submit any personal information to these websites.
+We may also disclose Personally Identifiable Information with law enforcement agencies, government officials, or other third parties as necessary for the purpose of:
 
-## When will you change your privacy policy?
+  * complying with any court order, law or legal process, including to respond to any government or regulatory request;
 
-Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail or post.
+  * preventing fraud and providing credit risk reduction;
 
-Please check back frequently to see any updates or changes to our privacy policy.
+  * investigating potential unauthorized access or misuse of our Website or other breach of our Terms of Use, Supplemental Terms (as defined below), Website Rules (as defined below) other agreements;
 
-## How do I contact you with feedback?
+  * protecting the assets or property, and enforcing the rights of Brightpearl, including for billing and collection purposes; and
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Brightpearl, First Floor, New Bond House, Bond Street, Bristol, BS2 9AG, United Kingdom, or by email to privacy@brightpearl.com. 
+  * protecting the rights, property, or safety of our Users or others. 
 
-This privacy policy was last updated on 23 May 2018.
+
+
+
+  
+In the event that we receive a request from a governmental entity to provide it with your Personally Identifiable Information, we will make reasonable attempts to notify you of such request, to the extent reasonably possible and legally permissible.
+
+ **Notice to California Residents / Your California Privacy Rights**
+
+California Civil Code permits California residents to request that we not share your Personally Identifiable Information with third parties for their direct marketing purposes.  If you are a California resident, you may contact [privacy@brightpearl.com](mailto:privacy@brightpearl.com) to request information regarding how we share Personally Identifiable Information with third parties for their direct marketing purposes and/or to request that such information not be shared with third parties for such purposes.
+
+ **Non-Personally Identifiable Information**
+
+In addition, we may share Non-Personally Identifiable Information, including aggregated or anonymized data:
+
+  * with analytics, search engine, or other service providers that help us improve our Website;
+
+  * to report to our affiliates, licensors and service providers about the use of various aspects of the Website; and
+
+  * with other Users or prospective Users of the Website.
+
+
+
+
+## 4\. Cookies and Beacons
+
+We may use cookies, beacons and similar technologies, now or in the future, to support the functionality of our Website.  This provides a better experience when you visit our Website and allows us to improve our Website. Our service providers may use cookies and beacons to collect and share Non-Personally Identifiable Information about your activities both on our Website and on other websites.  In addition, third parties that are unaffiliated with us may also collect information about you, including tracking your browsing history, when you use our Website. We do not have control over these third party collection practices. If you wish to minimize these third-party collections, and you can adjust the settings of your browsers or install plug-ins and add-ins.
+
+  *  **Browser Cookies.  **A browser cookie is a small file placed on the hard drive of your computer.  That cookie then communicates with servers, ours or those of other companies that we authorize to collect data for us, and allows recognition of your personal computer.  We associate cookies with Personally Identifiable Information only if you use the automatic recognition capabilities on restricted areas of the Website, order a Service, use the personalization services available as part of the Website, or ask us to contact you with additional marketing information.  We do not otherwise collect Personally Identifiable Information from browser cookies and we do not associate browser cookies with your Personally Identifiable Information.
+
+You may use the tools available on your computer or other device to set your browser to refuse or disable all or some browser cookies, or to alert you when cookies are being set.  However, if you refuse or disable all browser cookies, you may be unable to access certain parts or use certain features or functionality of our Website.
+
+You may choose whether to activate automatic recognition when you register for an account.  After registration, you may disable the persistent cookie that supports recognition using the tools in your browser.  If you choose to disable the cookies that support automatic recognition, you will need to re-enter your [User ID/username/email] and password each time you access a gated portion of the Website.
+
+Unless you have adjusted your browser settings so that it refuses all cookies, we may use cookies when you direct your browser to our Website.
+
+To learn more about cookies, you can visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+
+
+  *  **Flash Cookies**.  Certain features of our Website may use local stored objects called flash cookies to collect and store information about your preferences and navigation to, from and on our Website.  We also include cookies in our third party hosted video players to count the number of unique viewers who see a customer’s video press release and to provide aggregate reporting. The cookies do not identify you as an individual or track your online behavior.  We do not collect Personally Identifiable Information from flash cookies and we will not associate them with your Personally Identifiable Information.
+
+Flash cookies are not managed by the same browser settings as are used for browser cookies.  To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website.  If you disable or refuse Flash cookies, please note that some parts of our Website may be inaccessible or may not function properly.
+
+
+
+  *  **Beacons.  **Our Website and e-mails may contain small electronic files known as beacons (also referred to as web beacons, clear GIFs, pixel tags and single-pixel GIFs) that permit us to, for example, count Users who have visited those pages or opened an e-mail and for other website-related statistics.  Beacons in e-mail marketing campaigns allow us to track your responses and your interests in our content, offerings and web pages. You may use the tools in your device to disable these technologies as well.
+
+
+
+
+Google Inc. (" **Google** ") is one example of a service provider that uses cookies or similar technologies to collect information about your browsing activities over time and across different websites following your visit to our Website.  Google Analytics is a web analytics service provided by Google that uses first-party cookies to track Users' interactions and collect other information about how you use our Website. Google Analytics collects information anonymously.  We then use the information to compile reports, including usage trends, to help us improve our Website. You can opt out of Google Analytics without affecting how you visit our site. For more information on how Google uses this data, go to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/), or review the Google Analytics Terms of Service at [https://www.google.com/analytics/terms/us.html](https://www.google.com/analytics/terms/us.html).  For more information about opting out of being tracked by Google Analytics across all websites you use, please visit https://tools.google.com/dlpage/gaoptout/.
+
+## 5\. Your Choices
+
+We offer you certain choices in connection with the information we collect from you.
+
+ **Email Communications**
+
+You may have the opportunity to receive certain communications from us related to our Website.  If you provide us with your e-mail address in order to receive communications, you can opt out of marketing e-mails at any time by following the instructions at the bottom of our e-mails and adjusting your e-mail preferences.  Please note that certain e-mails may be necessary for the operation of our Website. You will continue to receive these e-mails, if appropriate, even if you unsubscribe from our optional communications.
+
+ **Cookies/ Beacons**
+
+If you wish to minimize information collected by cookie or beacon, you can adjust the settings of your browsers to notify you when you receive a cookie, which lets you choose whether or not to accept it.  You can also set your browser to automatically reject any cookies. You may also be able to install plug-ins and add-ins that serve similar functions. However, please be aware that some features and services on our Website may not work properly.  In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. 
+
+**Network Advertising Initiative**
+
+Certain websites you visit may provide options regarding advertisements you receive.  If you wish to minimize the amount of targeted advertising you receive, you can opt out of certain network advertising programs through the Network Advertising Initiative (NAI) Opt–Out Page.  Please note that even if you choose to remove your information (opt out) you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you.  For more information or to opt out of certain online behavioral advertising, please visit [http://www.aboutads.info](http://www.aboutads.info/).
+
+Additionally, many advertising network programs allow you to view and manage the interest categories that they have compiled from your online browsing activities.  These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt–Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
+
+ **Do Not Track**
+
+Some browsers support a “Do Not Track” (or, DNT) feature, a privacy preference that Users can set in certain web browsers, which is intended to be a signal to websites and services that you do not wish to be tracked across different websites or online services you visit.  Our Website does not currently recognize or respond to DNT signals, so DNT settings do not change the way the Website operates.
+
+Please note that we cannot control how third party websites or online services you visit through our Website respond to Do Not Track signals.  Check the privacy policies of those third parties for information on their privacy practices.
+
+ **Updating or Deleting Information**
+
+The accuracy of the information we have about you is very important.  Users may update their information at any time by contacting us at [privacy@brightpearl.com](mailto:privacy@brightpearl.com).  
+
+##   
+6\. Securing Your Information
+
+The security of your information is important to Brightpearl, and we have established administrative, technical, and physical safeguards designed to protect your Personally Identifiable Information against unauthorized alteration, access, loss, theft, use or disclosure.  Unfortunately, no system can guarantee complete security of your information. As a result, Brightpearl cannot ensure or warrant that your information, including your Personally Identifiable Information, is secure from unauthorized third parties. Thus, your use of the Website and communication with us about them is at your own risk.  
+
+## 7\. Children
+
+Our Website is directed to and is intended to be used only by persons who are 18 years of age or older.  We do not knowingly collect information from children under 18. If you are under 18 years of age, you are not permitted to [register for an account or otherwise] submit any personally identifiable information to us, including your name, address or e-mail address.  If we discover that we have collected any personally identifiable information from a child under the age of 18, we will remove that information from our database as soon as possible. By submitting any personally identifiable information to us, you represent and warrant that you are 18 years of age or older.
+
+## 8\. Links to third party websites
+
+Our Website may contain links to third party websites and services, including those of our partner networks.  Please note that these links are provided your convenience and information, and the websites and services may operate independently from us and have their own privacy policies or notices, which we strongly suggest you review.  This Privacy Policy applies to Brightpearl and our Website only. We do not accept any responsibility or liability for the policies or practices of any third parties. If you chose to access any websites or services linked from our Website, please check the applicable policies before you use or submit any personal data to such website or service.
+
+## 9\. Interpretation 
+
+Your use of our Website may be governed by our Terms of Use located at [Website Terms of Use](https://www.brightpearl.com/terms-of-use/) the supplemental terms that govern certain of the features, functionality, tools, content and promotions available on or through the Website (the " **Supplemental Terms** "), and any and all policies and rules referenced herein or therein, posted on the Website, or otherwise communicated to our Users (the " **Website Rules** ").  In the event that the provisions of any such agreement that are specific to a particular Website differ from or conflict with the provisions of this Privacy Policy, the terms specific to that Website will apply.
+
+## 10\. Iternational jurisdictions
+
+The Website is hosted in the United States of America and is subject to U.S. state and federal law.  If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and use of your personal information in accordance with this Privacy Policy.  You also agree to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure, different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction.  If your use of the Website would be unlawful in your jurisdiction, you may not use the Website.
+
+##   
+11\. Changes to our privacy policy
+
+Brightpearl may, in its sole discretion, change this Privacy Policy from time to time.  Any and all changes to this Privacy Policy will be reflected on this page and the effective date will be stated at the top of this Privacy Policy.  Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. Users should regularly check this page for any changes to this Privacy Policy.  Brightpearl will always post new versions of the Privacy Policy on the Website. However, Brightpearl may, as determined in its discretion, decide to notify Users of material changes made to this Privacy Policy via email or otherwise.  Accordingly, it is important that you always maintain and update your contact information.
+
+Your continued use of the Website or communication with us after the updated Privacy Policy has been posted (or any other indication of your consent) will constitute your acceptance of the updated Privacy Policy.  
+
+Please note that we may condition your continued access to our Website on your consent to changes to this Privacy Policy.
+
+##   
+12\. Contact us
+
+If you have questions or comments relating to this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@brightpearl.com](mailto:privacy@brightpearl.com), or write to us at:
+
+Brightpearl, Inc.  
+Suite 110, 211 E 7th Street, Austin, TX 78701 
