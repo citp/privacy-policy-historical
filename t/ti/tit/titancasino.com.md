@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titancasino.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111111156id_/http%3A//titancasino.com/about-us/your-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titancasino.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419213435id_/http%3A//titancasino.com/about-us/your-privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Statement
 
