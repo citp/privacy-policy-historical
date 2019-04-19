@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the flycell.com privacy policy that was archived on 2018-02-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180215155633id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flycell.com privacy policy that was archived on 2019-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190419160626id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-                    <!-- ny0118. -->
+                    <!-- ny0117. -->
             <title>Privacy Policy - Flycell</title>
-            <meta name="keywords" content="Ringtones, Cellphone Wallpapers, Free ringtones,Ring tones, Free ring tones, Free wallpapers, Hip hop, Ringtone, Polyphonic ringtones, Cellphone, Cell phone wallpaper,Real tones, Mobile games, Cell phone ring tones, Ringers, Cell phone ringtones, Cellular ringtones, Free ringtone, Ringtones for cell phones, Cell phone wallpapers,Ringtones download, Ring tone, Phone ringtones, Cell phone games, Free mobile ringtones, Downloadable ringtones, Free ring tone, Cell wallpaper, Cellphone ringtones, Mobile ringtones,69999" "="">
+            <meta name="keywords" content="">
             <meta name="description" content="Privacy Policy">
 			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8;">
@@ -255,7 +255,7 @@ function resetPassword(login, showAlertBox, captchaText)
   //alert("resetPassword login:" + login + " showAlertBox:" + showAlertBox + " resetPhoneType:" + resetPhoneType);
 
 	if (resetPhoneType == ""){
-		alert('Please enter a valid email address or mobile #.');
+		alert('');
 		return false;
 	}
 
@@ -264,7 +264,7 @@ function resetPassword(login, showAlertBox, captchaText)
   }
   else{
     resetPassShowAlert = false;
-    $('resetPasswordStatus').innerHTML = 'Sending request...';
+    $('resetPasswordStatus').innerHTML = '';
   }
 
   var url = '/script/ajax/reset-password/reset.php';
@@ -286,17 +286,17 @@ function showResetPasswordResponse(originalRequest)
 
   //alert("showResetPasswordResponse originalRequest:" + originalRequest.responseText);
   if(resetPhoneType == 'phone'){
-    var errorText = 'A new password has been sent to your phone via text message.';
+    var errorText = '';
   }
   if(resetPhoneType == 'email'){
-    var errorText = 'Your password has been sent to your email address.';
+    var errorText = '';
   }
 
-  var resultVars = {0: 'There was a problem with our server. Please try again at a later time.',
+  var resultVars = {0: '',
   1: errorText,
-  2: 'We are unable to identify a web account. Please use the New Users form to sign up for an account.',
-  3: 'There is no account for the phone number you entered. Please sign up as a New User.',
-  4: 'Sorry, the text you entered does not match the security image. Please try again.',
+  2: '',
+  3: '',
+  4: '',
   5: '',
   6: ''};
 
@@ -343,32 +343,32 @@ function getTs()
       <!-- login -->
       <div id="login_toggle" style="display: block;">
       	<div><a class="close right" href="javascript:void(0);" onclick="overlay()"></a></div>
-        <h2 class="form_color large">Log In</h2>
+        <h2 class="form_color large"></h2>
 
-        <p class="bold" id="requiredLoginText">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
-        <p class="bold large" id="normalLoginText" style="display: none;">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
+        <p class="bold" id="requiredLoginText" style="display: none;"></p>
+        <p class="bold large" id="normalLoginText"></p>
 
         <div id="errors">
                 </div>
 
         <div>
-          <label for="login" class="form_color bold large">E-mail Address or Phone No.</label>
+          <label for="login" class="form_color bold large"></label>
                       <input tabindex="1" class="input_text" name="login" id="login" value="" type="text">
                   </div>
 		<br>
         <div>
           <label for="password">
-          <span class="form_color bold large">Password
-            (<a href="javascript:void(0);" onclick="resetPassword(document.getElementById('login').value, true);">Forget Your Password?</a>)
+          <span class="form_color bold large">
+            (<a href="javascript:void(0);" onclick="resetPassword(document.getElementById('login').value, true);"></a>)
           </span>
           </label>
           <input tabindex="2" class="input_text" name="password" id="password" type="password"><br>
-          <span class="bold small"> <a href="/privacy-policy">see our Privacy Policy</a></span>
+          <span class="bold small"></span>
         </div>
 
         <div>
         <br>
-          <label class=" form_color bold large"><input tabindex="3" type="checkbox" name="rememberme" value="1"> Remember Me</label>
+          <label class=" form_color bold large"><input tabindex="3" type="checkbox" name="rememberme" value="1"> </label>
         </div>
         <br>
         <div class="button_holder">
@@ -392,22 +392,22 @@ function getTs()
       <!-- login -->
       <div id="login_toggle" style="display: block;">
        <div><a class="close right" href="javascript:void(0);" onclick="overlay()"></a></div>
-        <h2 class="form_color large">Log In</h2>
+        <h2 class="form_color large"></h2>
 
-        <p id="requiredLoginText">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
-        <p id="normalLoginText" style="display: none;">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
+        <p id="requiredLoginText" style="display: none;"></p>
+        <p id="normalLoginText"></p>
 
         <div id="captcha_errors">
                 </div>
 
         <div id="form_field">
-          <label for="login" class="bold large" style="">E-mail Address or Phone No.</label>
+          <label for="login" class="bold large" style=""></label>
           <input tabindex="1" class="input_text" name="login" id="login_captcha" value="" type="text">
         </div>
 
         <div id="form_field">
           <label for="captcha_text" class="bold large">
-            Please type in the code that is displayed on the image.
+            
           </label>
 
           <p style="padding-bottom:8px" id="captcha_container"><img id="captcha_img" src="http://images-cdn.flycell.com/template/shared/pixel.gif" width="120" height="40" alt="Captcha"></p>
@@ -438,13 +438,13 @@ var defaultMessage = '';
 function showTafSw(pubType, pubId, artistName)
 { 
     // populate the message box with default message
-	defaultMessage = 'I found this sweet #product# on Flycell.com.';
+	defaultMessage = '';
 
     // change fields back in case they were changed
-    $('tafTitleSw').innerHTML    = 'Tell A Friend';
-    $('tafFromNameSw').value     = 'Your name here';
-    $('tafFromEmailSw').value    = 'Your valid email here';
-    $('tafToEmailsSw').value     = 'Your friends\' email here';
+    $('tafTitleSw').innerHTML    = '';
+    $('tafFromNameSw').value     = '';
+    $('tafFromEmailSw').value    = '';
+    $('tafToEmailsSw').value     = '';
     
     // reset the message incase there are multiple TAF's on the page
     $('tafMessageSw').value = '';
@@ -577,7 +577,7 @@ function validateTafSw()
 
     //run validation on the fields first.
     if ($('tafFromNameSw').value == '') {
-        alert('Invalid From Name');
+        alert('');
 	    Element.hide('unclickableSendingSw');
 	    Element.show('clickableSendSw');
         return 0;
@@ -585,7 +585,7 @@ function validateTafSw()
 
     //validate from email 
     if (!isEmailValid($('tafFromEmailSw').value)) {
-        alert('Invalid From Email');
+        alert('');
 	    Element.hide('unclickableSendingSw');
 	    Element.show('clickableSendSw');
         return 0;
@@ -597,7 +597,7 @@ function validateTafSw()
 
     //validate message
     if ($('remLenSw').innerHTML < 0) {
-        alert('Flycell knows you have lots to tell your friends, but let\'s keep it below 150 characters!');
+        alert('');
 	    Element.hide('unclickableSendingSw');
 	    Element.show('clickableSendSw');
         return 0;
@@ -608,7 +608,7 @@ function validateTafSw()
     if ($('tafToEmailsSw').value.indexOf(',')!=-1) {
        emails = $('tafToEmailsSw').value.split(',')
 	   if (emails.length > maxEmailsSw){
-	       alert('Whoops, you have too many friends. 5 email addresses is the limit! ');
+	       alert('');
 	       Element.hide('unclickableSendingSw');
 	       Element.show('clickableSendSw');
 		   return 0;
@@ -616,14 +616,14 @@ function validateTafSw()
        for (i=0; i < emails.length; i++) {
          eml = emails[i].replace(' ','')
          if (!isEmailValid(eml)) {
-           alert('One of the email addresses you want to send this to is not valid. Please verify and try again.');
+           alert('');
 	       Element.hide('unclickableSendingSw');
 	       Element.show('clickableSendSw');
            return 0;
          }
        }
     } else if (!isEmailValid($('tafToEmailsSw').value)) {
-       alert('The email address you want to send to is not valid. Please verify and try again.');
+       alert('');
        Element.hide('unclickableSendingSw');
        Element.show('clickableSendSw');
        return 0;;
@@ -635,7 +635,7 @@ function validateTafSw()
 function showTAFResponseSw(originalRequest)
 {
     if (originalRequest.responseText==1){
-        $('tafConfTitleSw').innerHTML = 'Tell A Friend';
+        $('tafConfTitleSw').innerHTML = '';
         $('tafConfirmationEmailsSw').innerHTML = $('tafToEmailsSw').value.replace(",", "<br/>");
         if ($('taf-conf-productType')){
             $('taf-conf-productType').innerHTML  = $('taf-productType').value;
@@ -679,11 +679,11 @@ function showTAFArtistResponse(originalRequest)
 function catchTafMailerErrors(originalRequest)
 {
     if (originalRequest.responseText.indexOf('CONFIG_TAF_MAILER_OVER_NUM_EMAILS_LIMIT') != -1){
-        alert('You\'ve hit the limit. Only 4 alerts can be sent out hourly.');
+        alert('');
         Element.hide('unclickableSendingSw');
 	    Element.show('clickableSendSw');
     } else if (originalRequest.responseText.indexOf('CONFIG_TAF_MAILER_SAME_RECIPIENT') != -1) {
-        alert('Hey, you\'ve already sent this to your friend today! Try again tomorrow.');
+        alert('');
 	    Element.hide('unclickableSendingSw');
 	    Element.show('clickableSendSw');
     } else if (originalRequest.responseText.indexOf('CONFIG_TAF_MAILER_MAX_RECIPIENTS') != -1) {
@@ -691,13 +691,13 @@ function catchTafMailerErrors(originalRequest)
 	    Element.hide('unclickableSendingSw');
 	    Element.show('clickableSendSw');
     } else if (originalRequest.responseText.indexOf('CONFIG_TAF_MAILER_MAX_CHARACTERS') != -1) {
-	    alert('Flycell knows you have lots to tell your friends, but let\'s keep it below 150 characters!');
+	    alert('');
 	    Element.hide('unclickableSendingSw');
 	    Element.show('clickableSendSw');
     } else {
     	// all these errors should have been caught
 		// but we are here - so we have to handle it
-	    alert('Cannot send emails with the provided information. Please verify and try again.');
+	    alert('');
 	    Element.hide('unclickableSendingSw');
 	    Element.show('clickableSendSw');
     }
@@ -746,25 +746,25 @@ function clearTextSw(el)
     	<div class="existing_member">
     	<div><a class="close right" href="javascript:void(0);" onclick="makeVisibleTafSw()"></a></div>
             <div>
-                <h1 style="color:white;" id="tafTitleSw">Tell A Friend</h1>
+                <h1 style="color:white;" id="tafTitleSw"></h1>
                   
             </div>
             <div>
                 <div id="form_field">
                     <span>
-                        <label>Your Name:</label>
-                        <input id="tafFromNameSw" class="input_text" type="input" name="fromName" value="Your name here" onfocus="clearTextSw(this)">
+                        <label>:</label>
+                        <input id="tafFromNameSw" class="input_text" type="input" name="fromName" value="" onfocus="clearTextSw(this)">
                       
-                        <label>Your Email:</label>
-                        <input id="tafFromEmailSw" class="input_text" type="input" name="fromEmail" value="Your valid email here" onfocus="clearTextSw(this)">
+                        <label>:</label>
+                        <input id="tafFromEmailSw" class="input_text" type="input" name="fromEmail" value="" onfocus="clearTextSw(this)">
                        
-                        <label>To:</label>
-                        <input id="tafToEmailsSw" class="input_text" type="input" name="toEmails" value="Your friends' email here" onfocus="clearTextSw(this)"><br>
-                        <span style="font-size:10px; margin-left: 3px;">(separate emails with commas)</span>
-                        <label>Message:</label>
+                        <label>:</label>
+                        <input id="tafToEmailsSw" class="input_text" type="input" name="toEmails" value="" onfocus="clearTextSw(this)"><br>
+                        <span style="font-size:10px; margin-left: 3px;"></span>
+                        <label>:</label>
                          <textarea id="tafMessageSw" class="input_text" name="tafMessageSw" value="" cols="30" rows="5" onkeypress="textCounterSw()" wrap="" maxlength="150"></textarea>
                        
-						<div style="font-size: 10px; margin-left: 3px;"><span id="remLenSw">#charCount#</span> characters left</div>
+						<div style="font-size: 10px; margin-left: 3px;"></div>
                         <script type="text/javascript">if ($('remLenSw')) $('remLenSw').innerHTML=maxCharsSw;</script>
 			            <input type="hidden" name="productType" id="taf-productType" value="">
 			            <input type="hidden" name="publicationId" id="taf-publicationId" value="">
@@ -778,14 +778,14 @@ function clearTextSw(el)
                         <div align="center" id="unclickableSendingSw" style="display:none;">
                             <img src="http://images-cdn.flycell.com/template/us/images/sending_button.gif" alt="Sending">
                         </div>  
-                  <div align="center"><a id="termsLinkPop" onclick="showTerms();" href="javascript:void(0)">Terms and Conditions</a> | <a id="privacyLinkPop" onclick="showPrivacy();" href="javascript:void(0)">Privacy Policy</a>
+                  <div align="center"><a id="termsLinkPop" onclick="showTerms();" href="javascript:void(0)"></a> | <a id="privacyLinkPop" onclick="showPrivacy();" href="javascript:void(0)"></a>
 				   <br>
 				   <br>
                    <div id="termsPop" style="text-align: left; display: none; width: 320px; font-size: 9px; line-height: 11px; margin-left: 5px;">
-                       By using Flycell's Tell a Friend service you are giving Flycell permission to e-mail an invitation on your behalf to another party to view a product on our Web site. Doing this infers willful presumption on your part that said party will not oppose receiving such a message. Spamming will not be tolerated. Spamming includes, but is not limited to, providing e-mail addresses from mailing lists and public forums, and submitting the same e-mail address repeatedly. Finally, Flycell offers no premiums or discounts for submitting a pre-set quantity of e-mail addresses. Please practice responsible use.
+                       
                    </div>
                    <div id="privacyPop" style="text-align: left; display: none; width: 320px; font-size: 9px; line-height: 11px; margin-left: 5px;">
-                       Flycell processes names and e-mail addresses only for the purposes of Tell a Friend. Neither your name nor your friend's name and e-mail address is stored or used for any other purpose. Flycell strictly adheres to the U.S. safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. Should you have any questions or concerns regarding the use of personal information with Tell a Friend, please contact customer support.
+                       
                    </div>
 	                   	                   		<br>
 	                   		<div><img src="http://images-cdn.flycell.com/template/us/images/truste_seal_web_taf.gif" alt="TrustE Logo"></div>
@@ -801,23 +801,16 @@ function clearTextSw(el)
     <div id="taf_sw_conf_form">
         <div class="existing_member">
             <div>
-                <h1 style="color:white;" id="tafConfTitleSw">Tell A Friend</h1>
+                <h1 style="color:white;" id="tafConfTitleSw"></h1>
             </div>
             <div style="font-size:12px;">
-			    <br>
-<p style="color: #FFFFFF;"></p><h2 style="color: #FFFFFF;">Success!</h2> We've sent an email to: <span id="tafConfirmationEmailsSw" style="color: #378AB4;"></span> with your personalized message and a link to the <span id="taf-conf-productType"></span> you wanted them to check out.<p></p>
-<br>
-<br>
-<p style="color: #FFFFFF;">Keep spreading the word by using Flycell's 'Tell A friend' service everyday. Tell your friends, family or even your enemies when you discover those perfect ringtones, wallpapers and games!</p>
-<br>
-<p style="color: #FFFFFF;">Thank you for using 'Tell A Friend'.</p>
-<br>
+			    
                 <p align="center">
-                    <input type="image" src="http://images-cdn.flycell.com/template/us/images/close_button.gif" onclick="hideTafConfirmationSw()" value="Close">
+                    <input type="image" src="http://images-cdn.flycell.com/template/us/images/close_button.gif" onclick="hideTafConfirmationSw()" value="">
                 </p>
             </div>
         </div>    
-       <!-- <div><a class="close" href="javascript:void(0);" onclick='hideTafConfirmationSw()'>Close</a></div> -->
+       <!-- <div><a class="close" href="javascript:void(0);" onclick='hideTafConfirmationSw()'></a></div> -->
     </div>
 </div>
 
@@ -980,7 +973,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 
                  <!-- *** START: Header *** -->
                  <div class="box_hd">
-                     <h2 id="">Privacy Policy</h2>
+                     <h2 id=""></h2>
                      <span id=""></span></div>
                  <!-- *** END: Header *** -->
 
@@ -1186,7 +1179,7 @@ Our Web pages contain electronic images known as Web beacons (sometimes called s
 
                  <!-- *** START: Header *** -->
                  <div class="box_hd">
-                     <h2 id="">Questions?</h2>
+                     <h2 id=""></h2>
                      <span id=""></span></div>
                  <!-- *** END: Header *** -->
 
@@ -1280,9 +1273,9 @@ Our Web pages contain electronic images known as Web beacons (sometimes called s
 </div>
 
  <div class="copyright" style="display: none;">
-  Artist names used for identification purposes only.
+  
   <br>
-  <a href="/corporate/" class="footLink" target="_blank" rel="nofollow">© 2008 Flycell Inc. All Rights Reserved</a>
+  <a href="" class="footLink" target="_blank" rel="nofollow"></a>
   </div>
     
 
@@ -1366,7 +1359,7 @@ qacct:"p-012Kq1nHYGWi6"
 <a href="http://www.quantcast.com/p-012Kq1nHYGWi6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-012Kq1nHYGWi6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
-<!-- ny0118. -->
+<!-- ny0117. -->
 
 
     </body></html>
