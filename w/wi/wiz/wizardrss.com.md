@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizardrss.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218152257id_/http%3A//www.wizardrss.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizardrss.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419045803id_/http%3A//www.wizardrss.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wizardrss
 
