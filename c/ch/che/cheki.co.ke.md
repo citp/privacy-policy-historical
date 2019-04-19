@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheki.co.ke privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801024736id_/https%3A//www.cheki.co.ke/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheki.co.ke privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419232940id_/https%3A//www.cheki.co.ke/privacy-policy) for the most accurate reproduction.*
 
-# Cheki | Kenya
+# Privacy Policy | Cheki
 
 ### Cheki's commitment to maintaining your privacy
 
