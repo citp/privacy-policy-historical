@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the showmetheyummy.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225064501id_/https%3A//showmetheyummy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmetheyummy.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419041901id_/https%3A//showmetheyummy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Show Me the Yummy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f298979c9c9b949780b2819a9d859f97869a978b879f9f8bdc919d9f).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#117b747f7f787774635162797e667c7465797468647c7c683f727e7c).
 
 Effective as of May 25, 2018
 
