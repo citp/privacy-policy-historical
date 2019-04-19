@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relayhero.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427140411id_/http%3A//www.relayhero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relayhero.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419031527id_/https%3A//www.relayhero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Relay Hero
 
@@ -65,7 +65,7 @@ Please visit the links below to opt-out of cookies from over 50+ major third par
 
 We may use Local Storage Objects (LSOs) such as HTML5 or Flash to store user preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity may also use LSOs such as HTML 5 or Flash to collect and store information.
 
-To manage Flash LSOs please click here:<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+To manage Flash LSOs please click here:[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 **Log information**
 
