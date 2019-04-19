@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investing.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231171923id_/https%3A//www.investing.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investing.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419031830id_/https%3A//www.investing.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Investing.com
 
@@ -31,11 +31,16 @@ We collect two types of data and information from you:
 
 Web Beacons - We also use a software technology called "clear gifs" (also known as Web Beacons). Web Beacons are small pieces of code placed on a website to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a "cookie" to the browser of a visitor viewing that page.
 
-(2) Personal Information - " **Personal Information** " is information that may be of a private or sensitive nature, including your name, gender, phone number, e-mail address or mailing address, and IP address. We collect the following Personal Information from you when you create an account (" **Account** ") on the Website which is required to access certain parts of the Service: your full name, email address, password, and phone number. 
+(2) Personal Information - " **Personal Information** " is information that may be of a private or sensitive nature, including your name, gender, phone number, e-mail address or mailing address, and IP address. We collect your IP address as part of your use of the Service. We also collect the following Personal Information from you when you create an account (" **Account** ") on the Website which is required to access certain parts of the Service: your full name, email address, password, and phone number. 
+
+Investing Money - We may also offer you to fill out certain forms, as part of our offering and interaction with our third party providers. Such forms may include contact information (such as name, physical address, email address and phone number), additional details (education level, employment status, etc.) and financial information (required loan amount, purpose of loan, etc.)  
+You are not required to provide us with this information in order to use the service. If you choose to provide us with this information, we will retain it in our records and process it only in accordance with the provisions of this Privacy Policy. Please refer to the **Who Else Receives this Information**? section of this Privacy Policy to learn about sharing of Personal Information. 
 
 As an alternative, you are also able to create an Account using your credentials with a designated third party website or service such as Facebook, Google+ or Twitter ("Third Party Account"). Doing so will enable you to login to your Account via your Third Party Account. If you choose this option, a Third Party Account pop-up box will appear at the time of creating your Account which you will need to approve in order to proceed with the Account opening, and which will describe the types of information that we will obtain from and the types of activities that we may perform in connection with your Third Party Account. Such information may include (but not be limited to) your Personal Information stored on this Third Party Account, such as your user name, email address, profile picture, gender, date of birth and any other information which you have chosen to make profile on such Third Party Account. Please note that once your Account has been opened, the Personal Information we have access to via a Third Party Account is also dependent on your individual privacy settings in such Third Party Account and any privacy policies which are maintained by the providers of such Third Party Accounts.
 
 We treat any Non-Personal Information which is specifically connected or linked to any Personal Information as Personal Information.
+
+We collect and process the Personal Information referred to above based, where applicable, on your consent, where the processing is necessary for the performance of a contract between you and the Company or where the processing is necessary for the purpose of fulfilling a legitimate interest pursued by us.
 
 ### **What is the Purpose of Collecting this Information?**
 
@@ -56,6 +61,8 @@ We may share or transfer information, including Personal Information, internally
 We also share Personal and Non-Personal Information with trusted third parties, when this is required in order to provide, maintain or improve our services and operation. This is the case with third party advertisements and affiliates; we share your information with third parties for the purpose of providing you with advertisements and offers we or third parties think you may be interested in. These third parties may be located in countries that may provide a different level of protection of privacy than in your jurisdiction.
 
 We share your Personal and Non-Personal Information with (i) third parties which provide services to the Company in order to allow or enable us to provide you with our Service, including analytics, email services providers and data verifiers; (ii) third parties who provide the Company services in relation to the operation of the Website; (iii) any auditors, contractors or other advisers auditing any of the Company’s business processes; and (iv) any potential purchasers or investors in the Company.
+
+If you have chosen to share Personal Information with us through one of our forms, we may share it with any or all of our third party providers, which may provide you with a loan offer. Please note that this third party may be considered a "controller" of your Personal Information and the processing of such Personal Information will be subject to such provider's privacy policy.
 
 Any processing performed by any of our third party service providers ("Recipients") will, where required by law, be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights and obligating the Recipients to respect the Personal Information and handle it in accordance with the relevant laws. If a Recipient is located outside the EEA, we will transfer your data only to such countries as approved by the European Commission as providing adequate level of data protection, or ensure that the legal agreements governing the data transfer provide an adequate level of data protection. The Recipients are required to maintain the confidentiality of such information and to use your Personal Information only in the course of providing the aforementioned services and only for the purposes that Fusion Media dictates.
 
@@ -91,6 +98,8 @@ We will retain your personal information for the duration required to provide ou
 
 The Company treats your Personal Information in strict confidentiality, and the server in which this data is to be stored includes the necessary industry-standard security measures to prevent accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access. However, we cannot completely guarantee the security of your information, which might be accessed, disclosed, modified, or destroyed, and it should be emphasized that you share this information at your own risk.
 
+We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion.
+
 ### **Links to Other Websites**
 
 This Privacy Policy applies only to the Service, and to our web tools which are integrated or implemented in other third party websites. The Policy does not apply to third party websites, linked to our Website. Third party websites or services may have their own privacy policies and we advise you to read them carefully. Inclusion of a link to a third party website or service is not a recommendation of such a website or service. Third party sites may contain information or services that are illegal or that some people may find inappropriate or offensive. Before using third party sites and services or before making a purchase, we recommend that you read and understand the privacy policies and terms and conditions of such third party websites and services, and the warranties for purchased products. You are knowingly and voluntarily assuming all risks of using third party sites to purchase products and services. You acknowledge and agree that we shall have no liability whatsoever with respect to such third party sites and your use of them.
@@ -103,4 +112,4 @@ Subject to applicable law, we may transfer or assign your information, without a
 
 This Privacy Policy is subject to modifications. Please check the "Last Modified" heading at the bottom of this document to see when this Privacy Policy was last updated. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Website. In case of material changes to this Privacy Policy, we will provide a notice in the Website. Your use of the Website or the Service, or your provision of personal information following any changes means that you accept the updated Privacy Policy.
 
-Last modified: 24 May, 2018. 
+Last modified: 28 Feb, 2019.
