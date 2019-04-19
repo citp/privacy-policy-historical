@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112231831id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419023042id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
 
 # Dover Saddlery Privacy Policy
 
@@ -20,18 +20,18 @@ Littleton, MA 01460
 
 **
 
-  * [Information We Collect](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#InformationWeCollect)
-  * [How We Use the Information We Collect](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#HowWeUsetheInformationWeCollect)
-  * [Information We Share with Others](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#InformationWeSharewithOthers)
-  * [Your Choices](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#YourChoices)
-  * [Cookies and Pixel Tags](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#CookiesandPixelTags)
-  * [How We Use E-mail](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#HowWeUseE-mail)
-  * [Links to Other Sites](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#LinkstoOtherSites)
-  * [Updating or Reviewing Your Information](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#UpdatingorReviewingYourInformation)
-  * [Security](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#Security)
-  * [Privacy of Children on Our Web Site](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#PrivacyofChildrenonOurWebSite)
-  * [Policy Changes](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#PolicyChanges)
-  * [Questions or Comments?](https://web.archive.org/web/20181112231831id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#QuestionsorComments?)
+  * [Information We Collect](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#InformationWeCollect)
+  * [How We Use the Information We Collect](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#HowWeUsetheInformationWeCollect)
+  * [Information We Share with Others](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#InformationWeSharewithOthers)
+  * [Your Choices](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#YourChoices)
+  * [Cookies and Pixel Tags](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#CookiesandPixelTags)
+  * [How We Use E-mail](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#HowWeUseE-mail)
+  * [Links to Other Sites](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#LinkstoOtherSites)
+  * [Updating or Reviewing Your Information](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#UpdatingorReviewingYourInformation)
+  * [Security](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#Security)
+  * [Privacy of Children on Our Web Site](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#PrivacyofChildrenonOurWebSite)
+  * [Policy Changes](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#PolicyChanges)
+  * [Questions or Comments?](https://web.archive.org/web/20190419023042id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#QuestionsorComments?)
 
  **
 
