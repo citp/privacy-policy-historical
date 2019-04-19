@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portea.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130202953id_/https%3A//www.portea.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portea.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419053754id_/https%3A//www.portea.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Portea.com - Home Medical Care Service
 
