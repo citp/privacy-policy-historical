@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the claseek.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214095735id_/http%3A//global.claseek.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claseek.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419144204id_/https%3A//global.claseek.com/page/privacy) for the most accurate reproduction.*
 
-# Claseek™ Global - Claseek™ Global
+# Claseek™ Global | Claseek™ Global
 
-  * [Claseek™ Global](http://global.claseek.com/) » 
+  * [Claseek™ Global](https://global.claseek.com/) » 
 Privacy Policy
 
 
@@ -40,5 +40,3 @@ This site is not directed at children under the age of 13. We operate this site 
 
 Claseek™ Global is a FREE online classifieds portal. You can buy, sell, trade, rent, deal, find and advertise almost anything here. We are one of the leading global classifieds for Real Estate, Electronics, Fashion, Vehicles, Services, Travel, Money, Jobs and more. Common categories include apartment, townhouse, condominium, house and lot, room, parking, camera, computer, mobile phone, tablet pc, videocam, bags, shoes, clothing, jewelry, car, motorcycle, SUV, home service, private tutor, car rental, tour package, hotels, business, franchise, loan, charity, investment, insurance, jobs, pets, baby products, food, restaurants, sports, tools, music and others. Here, you can post any advertisement for products/services/etc. that can be made available or shipped globally. Ads may contain youtube video for better product presentation.   
 Claseek™ (short for "CLassified Ads SEEK") is the trademark of Claseek.com, a site registered in Singapore as Claseek Pte. Ltd. The site is currently available exclusively in Australia, Hongkong, Indonesia, India, Malaysia, Philippines, Singapore and United States plus a global site which is open to all countries worldwide. What are you waiting for? Explore the site and advertise for free! 
-
-Keywords: Claseek™ Global - Claseek™ Global; , Privacy Claseek™ Global, free classified ads site 
