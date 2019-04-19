@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthly.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626214908id_/http%3A//worthly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthly.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419085413id_/https%3A//worthly.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Worthly
 
@@ -6,11 +6,11 @@ Privacy Policy
 
 Last updated June 1, 2011.
 
-Worthly.com is an interactive online service operated by Blogstand Media, LLC (“ **Blogstand** “, “ **us** “, “ **we** “, or “ **our** “). This “ **Privacy Policy** ” applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, “ **Computer** “)) and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “ **Website** “). Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).
+Worthly.com is an interactive online service operated by Chace Media, LLC (“ **Chace** “, “ **us** “, “ **we** “, or “ **our** “). This “ **Privacy Policy** ” applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, “ **Computer** “)) and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “ **Website** “). Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).
 
 We have adopted this Privacy Policy to explain what information may be collected on our Website, how we use this information and under what circumstances we may disclose the information to third parties. This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
-We generally keep this Privacy Policy posted on our Website and you should review it frequently, as we reserve the right to change it from time to time without prior notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. Blogstand will not use your personally identifiable information, however, in a manner materially different than what was stated at the time it was collected without your consent. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
+We generally keep this Privacy Policy posted on our Website and you should review it frequently, as we reserve the right to change it from time to time without prior notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. Chace will not use your personally identifiable information, however, in a manner materially different than what was stated at the time it was collected without your consent. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
 
 **A. INFORMATION WE COLLECT**
 
