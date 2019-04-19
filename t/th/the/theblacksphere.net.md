@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblacksphere.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134658id_/https%3A//theblacksphere.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblacksphere.net privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419223139id_/https%3A//theblacksphere.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Black Sphere with Kevin Jackson | TheBlackSphere.net
 
@@ -82,4 +82,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please feel free to [contact us](https://theblacksphere.net/contact/).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please feel free to [contact us](http://theblacksphere.net/contact/).
