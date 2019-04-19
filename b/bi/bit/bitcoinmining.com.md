@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinmining.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122234737id_/https%3A//www.bitcoinmining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinmining.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419074514id_/https%3A//www.bitcoinmining.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BitcoinMining.com
 
