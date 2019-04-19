@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpchallenge.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709093903id_/http%3A//www.dpchallenge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpchallenge.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419050120id_/https%3A//www.dpchallenge.com/privacy.php) for the most accurate reproduction.*
 
 # DPChallenge - A Digital Photography Contest
 
@@ -35,6 +35,6 @@ We understand that many consumers are concerned about security on the Internet. 
 If you have any questions regarding this Privacy Statement, the practices of DPChallenge.com, or your dealings on our web site, please email us at [help@DPChallenge.com](mailto:help@dpchallenge.com).   
   
 [Home](https://web.archive.org/index.php) \- [Challenges](https://web.archive.org/challenge_index.php) \- [Community](https://web.archive.org/community_index.php) \- [League](https://web.archive.org/league/) \- [Photos](https://web.archive.org/photo_index.php) \- [Cameras](https://web.archive.org/camera.php) \- [Lenses](https://web.archive.org/lens.php) \- [Learn](https://web.archive.org/learn_index.php) \- [Prints!](http://www.dpcprints.com/) \- [Help](https://web.archive.org/help.php) \- [Terms of Use](https://web.archive.org/terms.php) \- [Privacy](https://web.archive.org/privacy.php) \- Top ^   
-DPChallenge, and website content and design, Copyright © 2001-2017 Challenging Technologies, LLC.   
+DPChallenge, and website content and design, Copyright © 2001-2019 Challenging Technologies, LLC.   
 All digital photo copyrights belong to the photographers and may not be used without permission.   
-Proudly hosted by [Sargasso Networks](http://www.sargasso.net/from/dpc). Current Server Time: 07/09/2017 05:39:04 AM EDT. 
+Proudly hosted by [Sargasso Networks](http://www.sargasso.net/from/dpc). Current Server Time: 04/19/2019 01:01:20 AM EDT. 
