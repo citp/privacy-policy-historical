@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017161054id_/https%3A//amazonwatch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419134950id_/https%3A//amazonwatch.org/privacy-policy) for the most accurate reproduction.*
 
 # AMAZON WATCH » Our Privacy Policy and Terms of Service
 
 ## Amazon Watch is committed to preserving your privacy and safeguarding your personal information
 
-### Last revised on May 24th, 2018
+### Last revised on November 30th, 2018
 
 The following statement describes the general practices for the collection, storage, and removal of personal information on our website.
 
 ## What is your relationship to Amazon.com?
 
-Let's get this question out of the way first, since we get it a lot. Amazon Watch is a small nonprofit organization founded in 1996 to protect the rainforest and advance the rights of indigenous peoples in the Amazon Basin based in Oakland, California. Amazon.com, Inc. is a gigantic multinational internet retailer with a multitude of subsidiaries which is one of the most valuable public corporations in the world and among the largest employers in the United States.
+Let's get this question out of the way first, since we hear it a lot. Amazon Watch is a small nonprofit organization founded in 1996 to protect the rainforest and advance the rights of indigenous peoples in the Amazon Basin based in Oakland, California. Amazon.com, Inc. is a gigantic multinational internet retailer with a multitude of subsidiaries which is one of the most valuable public corporations in the world and among the largest employers in the United States.
 
 **Suffice to say, we have absolutely no connection to Amazon.com at all!**
 
@@ -28,7 +28,7 @@ Amazon Watch does not sell or trade names or other personal data that we collect
 
 ## Is my credit card information secure?
 
-Credit card donations through our web site are processed by Authorize.Net. You may also opt to donate via PayPal, and at times we may use other clearly-identified services such as Eventbrite or Square to sell tickets for events or accept donations at them. All of these services are verified and secure payment processors, which is why we use them.
+Credit card donations through our web site are processed by PayPal Pro. You may also opt to donate directly via the PayPal website, and at times we may use other clearly-identified services such as Eventbrite or Square to sell tickets for events or accept donations at them. All of these services are verified and secure payment processors, which is why we use them.
 
 Amazon Watch never receives or stores your credit card information in any format, so there is no risk that it might be hacked or disclosed. As required by law, we keep a record of your donation and contact information (name, email, etc.) in our database of supporters, and we may follow up with you about your donation or other support later, as well as sending you tax receipts as required by US law. Please feel free to [contact us](https://amazonwatch.org/about/contact) at any time if you would like to change how you are contacted after making a donation or to be removed from this list.
 
