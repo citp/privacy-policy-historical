@@ -1,137 +1,92 @@
-> *The following text is extracted and transformed from the 247homeshopping.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224221416id_/http%3A//www.247homeshopping.com/Privacy_Policy1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247homeshopping.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419150406id_/http%3A//www.247homeshopping.com/privacy-policy) for the most accurate reproduction.*
 
-# Paid Shops Privacy Policy Document
+# Privacy Policy - 24/7 Home Shopping
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-Our website uses cookies!
+What personal information do we collect from the people that visit our blog, website or app?
 
-The use of the Web Site will also include the usage of any 247HomeShopping.com Toolbar and or Extension add-ons, as these have, roughly the same usage technology that includes various tracking technologies to make sure that you, the user, minimize the chance of loosing out on any due CashBack!
+We do not collect information from visitors of our site.  
+or other details to help you with your experience.
 
-By using our website, and continuing usage of this web site you are agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+When do we collect information?
 
-### (1) What information do we collect?
+We collect information from you when you register on our site, respond to a survey, fill out a form or enter information on our site.
 
-#### We may collect, store and use the following kinds of personal information:
+How do we use your information? 
 
-  1. information about your computer and about your visits to and use of this website including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation and any such other data that we need in order to track usage and assign this usage to your visit;
-  2. information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make or site visits you do that can assign a purchase value to your account;
-  3. information that you provide to us for the purpose of registering with us such as a simple email to a full account with personal details such as payment accounts and addresses etc etc, all in order to make sure that any payment does go the intended user;
-  4. information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters such as email addresses and mobile phone systems to ensure that we can track you properly;
-  5. any other information that you choose to send to us; and
-  6. any information that will give us a clear link to our Introduce a friend system in order to make sure that you are the intended recipient of any given revenue stream.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
+• To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
+• To allow us to better service you in responding to your customer service requests.  
+• To quickly process your transactions.  
+• To ask for ratings and reviews of services or products
 
+How do we protect your information?
 
+Some of the web search services provided herein are provided by providers of third party web search services. For information on the web search services data collection, please visit the end user privacy statements of our 3rd party web search services providers by clicking [here](https://www.codefuel.com/legal/end_user_privacy_policy/) and Bing at <http://go.microsoft.com/fwlink/?LinkId=521839>, both as updated from time to time and at any successor locations.
 
-### (2) Cookies
+This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
 
-A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+Do we use ‘cookies’?
 
-We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; and when you link out from our web site to any affiliate web site, including, mobile platforms and tablets (or any other App system). We will use the persistent cookies to: enable our website to recognise you when you visit; and when you go to third party affiliate sites to enable a clear purchase track if a purchase takes place. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+We use cookies to:
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+• Keep track of advertisements.  
+• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-Our affiliates / advertisers / payment services providers may also send you cookies. 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-Our internal as well as external advertising services providers may send you cookies for the purpose of enabling the service of advertisements based on your previous visits to our website. 
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
 
-We DONT publish Google Adsense interest-based advertisements on our website but if we did and may do in the future then. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy/ads/ or using the NAI's (Network Advertising Initiative's) multi-cookie opt-out mechanism at: http://www.networkadvertising.org/managing/opt_out.asp. However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin. 
+Third-party disclosure
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, on ours it will mean that we CAN NOT track any purchasing data and any revenues received without a clear track will NOT be distributed to the client even though any other data might support this purchase. 
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
-### (3) Using your personal information
+Third-party links
 
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website. 
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-#### We may use your personal information to: 
+Google
 
-  1. administer the website;
-  2. improve your browsing experience by personalising the website;
-  3. enable your use of the services available on the website;
-  4. send to you goods purchased via the website, and supply to you services purchased via the website;
-  5. send statements to you;
-  6. send you general (non-marketing) commercial communications;
-  7. send you email notifications which you have specifically requested;
-  8. send to you our newsletter and other marketing communications relating to our business, or the businesses of carefully-selected third parties if opted in to this choice, which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications); 
-  9. provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
-  10. deal with enquiries and complaints made by or about you relating to the website; and
-  11. assign your details to other accounts that you may have been introduced from or to (Introduce a Friend system) 
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
+We use Google AdSense Advertising on our website.
 
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+We have implemented the following:
 
-All our website financial transactions are handled through our payment services provider, which may be changed at any time and without notice. You can review the current payment providers privacy policy at their web site and under their domain. We will share information with our payment provider only to the extent necessary for the purposes of processing payments you or we make via our website and dealing with complaints and queries relating to such payments.
+• Demographics and Interests Reporting
 
-### (4) Disclosures
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy. 
+Opting out: 
 
-#### In addition, we may disclose your personal information: 
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-  1. to the extent that we are required to do so by law;
-  2. in connection with any legal proceedings or prospective legal proceedings; 
-  3. in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); 
-  4. to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; and]
-  5. to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information. 
+COPPA (Children Online Privacy Protection Act)
 
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
+We do not specifically market to children under the age of 13 years old.  
+Do we let third-parties, including ad networks or plug-ins collect PII from children under 13?
 
-Except as provided in this privacy policy, we will not provide your information to third parties. 
+CAN SPAM Act
 
-### (5) International data transfers
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy. 
+We collect your email address in order to:
 
-Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area. 
+To be in accordance with CANSPAM, we agree to the following:
 
-In addition, any personal information that you submit for publication on the website, user name of public comments etc etc will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others. 
+If at any time you would like to unsubscribe from receiving future emails, you can email us at  
+and we will promptly remove you from ALL correspondence.
 
-You expressly agree to such transfers of personal information. 
+Contacting Us
 
-### (6) Security of your personal information
+If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
-
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology] where it is deemed appropriate.
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. 
-
-You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website). 
-
-### (7) Policy amendments
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
-
-We may also notify you of changes to our privacy policy by email. 
-
-### (8) Your rights
-
-#### You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
-
-  1. the payment of a fee (currently fixed at £10.00); and
-  2. the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
-
-
-
-We may withhold such personal information to the extent permitted by law. 
-
-You may instruct us not to process your personal information for marketing purposes, by sending an email to us. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes. 
-
-### (9) Third party websites
-
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites. 
-
-### (10) Updating information
-
-Please let us know if the personal information which we hold about you needs to be corrected or updated. 
-
-### (11) Contact
-
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to privacy@247homeshopping.com or by post to our postal address as on our contact page. 
-
-### (12) Data controller
-
-Our data protection registration number is : 524685468
+Surfside Media Group 999 Corporate Dr Ladera Ranch,  
+Orange County, California 92694United States
