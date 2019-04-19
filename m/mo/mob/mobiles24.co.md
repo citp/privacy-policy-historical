@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles24.co privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921103027id_/http%3A//www.mobiles24.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles24.co privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419145832id_/http%3A//www.mobiles24.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mobiles24.com
 
