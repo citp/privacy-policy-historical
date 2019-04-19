@@ -1,21 +1,97 @@
-> *The following text is extracted and transformed from the grouphigh.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219225012id_/http%3A//grouphigh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grouphigh.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419020824id_/https%3A//www.grouphigh.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - GroupHigh
 
-This Privacy Policy explains the collection, use, and disclosure of Personal Information through our web site. “Personal Information” means information that would allow a party to contact you, including, for example, your full name, address, telephone number, or email address.
+GroupHigh LLC. (“GroupHigh”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of (a) our websites, including those located at GroupHigh.com, app.grouphigh.com, and app8.grouphigh.com (each a “Site”) (b) our Services, including the GroupHigh Apps and API, and (c) Developer Apps. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at www.grouphigh.com/legal/terms-of-use
 
-Submitted Information. We collect Personal Information about you when you submit information or requests to us (through this website or otherwise). We use your submitted information to send you emails that you have requested, to improve your recipe search experience on our web site, and for administrative purposes (such as to notify you about changes to this Privacy Policy). In emails we send you, we provide a method to unsubscribe from future emails.
+User Consent.By submitting Personal Data through (a) our Site or Services, including the GroupHigh App or website, you agree to the terms of this Privacy Policy, you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy, and you represent and warrant that you have all rights necessary to submit such Personal Data.
 
-When you submit your email address as part of our recipe Alert application, we use this address for no purpose other than to email you the recipe alerts that you requested. Your email address is deleted from our database when you remove/unsubscribe from the recipe Alert.
+A Note about Children.We do not intentionally gather Personal Data from visitors who are under the age of 13.
 
-Browsing Information. When you use the GroupHigh Blogs site, our servers (which may be hosted by a third party service provider) may collect information indirectly and automatically (through, for example, the use of your “IP address”) about your activities while visiting the site, including the web pages you view and the times you view them and information about the browser you are using.  We do not link browsing information to the Personal Information you submit to us; we use this browsing information to personalize aspects of your search experience and for internal purposes such as to help understand how the site is being used and to improve it, and for systems administration purposes. An IP address is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP address probably varies from session to session.
+A Note to Users Outside of the United States.Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. We adhere to the United States / European Union Privacy Shield Arrangement, which can be located at <https://www.privacyshield.gov/>.
 
-Third Party Cookies. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+Types of Data We Collect. “Personal Data”means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
 
-Disclosure of Personal Information. Although we may disclose aggregated information about the use of our site, that information does not contain Personal Information. We do not disclose Personal Information to third parties in the normal course of operations. Under certain circumstances, however, we could be legally obligated to disclose information to the government or other third parties and if GroupHigh Blogs becomes part of another organization, that organization will possess the Personal Information collected by GroupHigh Blogs and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
+Information You Provide to Us.
 
-Security. GroupHigh Blogs has implemented and follows industry standard measures to protect against unauthorized access to and unlawful interception or processing of Personal Information. However, no internet site can fully eliminate security risks.
+  1.     1.       * We may collect Personal Data from you, such as your first and last name, gender, e-mail and mailing addresses, professional title, company name, and password when you create an account.
+      * When you order Services on our Site, we (or our third party service provider) will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
+      * If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
+      * When you participate in one of our surveys, we may collect additional profile information
+      * We may also collect Personal Data, such as at other points in our Site that state that Personal Data is being collected.
 
-We hope this policy clarifies our procedures regarding your Personal Information. We may amend this policy at any time by sending the amended policy to the email address you provided to us or by posting the amended policy on our site.
 
-Questions? If you have questions about this Privacy Policy, please [contact us](http://blogs.grouphigh.com/contact).
+
+Information Collected via Technology.
+
+  1.     1.       * To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
+      * We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions.
+      * We may collect, and we allow third parties to collect, information about how you use and interact with our Site and Services. For example, we use Google Analytics.
+
+
+
+Information Collected from Third Parties.We collect the information about you and other individuals (including those in your End User Contact Data) from the following third party sources: (a) third parties who license, sell or otherwise provide data they have collected; or (b) information from publicly available sources, such as via the Internet and social networks, including through public or licensed APIs (“Public Data”). We do not collect data from webpages that have been designated (in a standards-based way) as private.
+
+**Use of Your Personal Data.**
+
+General Use.
+
+In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:
+
+  1.     1.       * facilitate the creation of and secure your account on our network;
+      * identify you as a user in our system;
+      * provide improved administration and quality of experience of our Site and Services;
+      * provide the Services you request;
+      * send you a welcome e-mail to verify ownership of the e-mail address provided when your account was created;
+      * send you administrative e-mail notifications, such as security or support and maintenance advisories;
+      * respond to your inquiries related to employment opportunities or other requests; and
+      * send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of GroupHigh.
+
+
+
+Creation of Anonymous Data.
+
+We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. GroupHigh reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in its sole discretion.
+
+Disclosure of Your Personal Data.
+
+We disclose your Personal Data, End User Contact Data and Completed Contact Data as described below and as described elsewhere in this Privacy Policy.
+
+  1. Third Party Service Providers.We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to GroupHigh. These third party service providers are required not to use your Personal Data other than to provide the services requested by GroupHigh.  GroupHigh requires its service providers to whom it discloses Personal Data and who are not subject to the laws based on the EU Data Protection Directive 95/46 or Swiss Federal Data Protection law to either (i) subscribe to the Privacy Shield principles or (ii) contractually agree to provide at least the same level of protection for Personal Data as is required by the relevant Privacy Shield principles.
+  2. Affiliates and Acquisitions.We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+  3. Other Disclosures.Regardless of any choices you make regarding your Personal Data (as described below), GroupHigh may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on GroupHigh; (c) to protect or defend the rights or property of GroupHigh or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use.
+
+
+  7. Third Party Websites.When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
+  8. Your Choices Regarding Your Personal Data 
+    1. Email Choices.We offer you choices regarding the collection, use, and sharing of your Personal Data. If you are a registered user, we will periodically send you free newsletters and e-mails that promote our Site or Services as well as products or services we think you may be interested in. When you receive such promotional newsletters or communications from us, you may indicate a preference to stop receiving them from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly. Despite your indicated e-mail preferences, we may send you service related communication, including notices of any updates to our Terms of Use or Privacy Policy.
+    2. Access, Correction, and Deletion.GroupHigh allows individuals to access, modify, and set permissions with respect to End User Contact Data that it holds about them. For example, GroupHigh also provides certain features that allow you to publish and share some of your Personal Data but these features are totally optional and whether or not you use them is up to you. If you choose to connect your GroupHigh account with one of our development partners, you may be giving the partner access to your Personal Data, End User Contact Data or Completed Contact Data. We will tell you how the partner application will access your account and you can turn off access whenever you want. You may access and make choices about your End User Contact Data by choosing to “claim your profile” on the GroupHigh Site (at [https://www.GroupHigh.com/privacy](https://www.fullcontact.com/privacy)). If you request that we delete your End User Contact Data, we will not do so because, if we do, another user may later upload your contact information and we will not have a record that you requested that your contact information be deleted. Instead of deleting your contact information from your systems, we will retain it but flag it to not be used or shared with third parties.
+
+
+
+**Additional Choices For California Residents.**
+
+Your California Privacy Rights (As Provided by California Civil Code section 1798.83).California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses that share customer personal information with third parties for the third parties’ direct marketing purposes to respond to requests from California customers asking about the businesses’ practices related to such information-sharing. Alternately, such businesses may have in place a policy not to disclose a customer’s personal information to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As described in Section 8(b) above, you can opt-out of our sharing of your personal information with third parties for the third parties’ direct marketing purposes by claiming your profile and selecting how your personal information is used. To find out more about your opt-out rights, please contact us at the address listed in Section 13 below. Please note that under California law businesses are only required to respond to a customer making such a request once during any calendar year.
+
+**Data Integrity.**
+
+GroupHigh will use Personal Data only in ways that are compatible with the purposes for which it was collected or subsequently authorized by you. GroupHigh will take reasonable steps to ensure that Personal Data is relevant to its intended use, accurate, complete, and current. GroupHigh depends on you to update and correct your Personal Data to the extent necessary for the purposes for which it was collected and subsequently authorized by you.
+
+GroupHigh conducts periodic self-assessments to verify that the attestations and assertions it makes about its privacy practices are true and that such privacy practices have been implemented as presented. GroupHigh will take steps to remedy any problems arising out of failure to comply with the Privacy Shield principles.
+
+GroupHigh takes its users’ privacy concerns seriously. If you believe that GroupHigh has not adhered to this Privacy Policy, please contact GroupHigh as described in Section 13 below. In your email, please describe in as much detail as possible the ways in which you believe that this Privacy Policy has not been complied with. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
+
+**Security of Your Personal Data.**
+
+GroupHigh is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your account information. Please do not disclose your account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while GroupHigh uses reasonable efforts to protect your Personal Data, GroupHigh cannot guarantee its absolute security.
+
+**Contact Information.**
+
+GroupHigh welcomes your comments or questions regarding this Privacy Policy. Please contact us at this address or phone number:
+
+Address: 1898 S. Flatiron Ct. Ste 125, Boulder, CO 80301  
+Phone Number: (888) 266-6775
+
+**Changes to This Privacy Policy.**
+
+This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earliest of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
