@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagcrowd.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822091055id_/https%3A//tagcrowd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagcrowd.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419024210id_/https%3A//tagcrowd.com/privacy.html) for the most accurate reproduction.*
 
 # TagCrowd: Privacy
 
@@ -6,19 +6,19 @@
 
 TagCrowd is committed to protecting your privacy. We don't have user accounts and don't require registration, so you are free to visit and use our site anonymously.
 
-Please read on for more details about our privacy policy. See also our [Terms of Service](https://web.archive.org/web/20170822091055id_/https%3A//tagcrowd.com/tos.html).
+Please read on for more details about our privacy policy. See also our [Terms of Service](https://web.archive.org/web/20190419024210id_/https%3A//tagcrowd.com/tos.html).
 
 ### What information do we collect? How do we use it?
 
 When you use TagCrowd.com to create a word cloud, we don't store any information you submit. It exists on our server for the milliseconds it takes to process and generate a word cloud, then is immediately deleted.
 
-The only time we ever collect identifying information is when you purchase a license for commercial use or donate to TagCrowd. This is done through PayPal, which protects the security of your financial information. We only receive your Name and Email Address through this transaction. This allows us to keep track of who has purchased a license and who has donated.
+The only time we ever collect identifying information is if you [buy the creator a coffee](https://web.archive.org/web/20190419024210id_/https%3A//tagcrowd.com/patrons.html) via PayPal, which protects the security of your financial information. We only receive your Name and Email Address through this transaction. Your identifying information is never associated with your use of TagCrowd.
 
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other party for any reason whatsoever, without your consent, other than for the express purpose of delivering the service requested.
 
-### How does TagCrowd protect customer information?
+### How does TagCrowd protect user information?
 
-We use PayPal's secure server for collecting personal and credit card information. The secure server layer (SSL) encrypts (scrambles) all of the information you enter before it is transmitted over the internet and sent to us. We never receive any financial information because PayPal protects your financial privacy. Furthermore, all of the customer data we collect is protected against unauthorized access. 
+We use an encrypted SSL channel to send a receive data to your browser. This scrambles all of the information you enter before it is transmitted over the internet and sent to us.
 
 ### What about "cookies"?
 
@@ -26,9 +26,9 @@ We use PayPal's secure server for collecting personal and credit card informatio
 
 ### Will TagCrowd disclose the information it collects to outside parties?
 
-TagCrowd does not sell, trade, or rent your personal information to others. TagCrowd may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will not include personally identifying information.
+TagCrowd does not sell, trade, or rent your personal information to others. TagCrowd may collect web traffic statistics in aggregate and analyze them with reputable 3rd party tools like Google Website Analytics, but these statistics do not include personally identifying information.
 
-TagCrowd may release account information when we believe, in good faith, that such release is reasonably necessary to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+TagCrowd may release information when we believe, in good faith, that such release is reasonably necessary to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
 ### California Online Privacy Protection Act Compliance
 
@@ -40,7 +40,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://tagcrowd.com/tos.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://tagcrowd.com/tos.html>
 
 ### In Summary
 
