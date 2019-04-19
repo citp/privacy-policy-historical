@@ -1,100 +1,93 @@
-> *The following text is extracted and transformed from the neighborwho.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighborwho.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419055710id_/https%3A//www.neighborwho.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | NeighborWho
 
-**Go Daddy Respects Your Privacy**
+This Privacy Policy was last updated on 08/29/2018
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Thank you for visiting the website located at [](https://www.neighborwho.com/)www.neighborwho.com, , for downloading the NeighborWho App, or for visiting another NeighborWho website or downloading another NeighborWho or affiliated mobile application that links to and utilizes this Privacy Policy (all platforms collectively referred to as the "Site"). The Site is a web-based property of NeighborWho LLC ("NeighborWho," "we," "our," or "us") that enables end-user visitors to the Site ("Visitors") to conduct searches of our databases of publicly available sources of information about neighborhoods and more. This Privacy Policy describes the ways in which NeighborWho collects, uses, and discloses information about you when you access the Site. By accessing, viewing, downloading, or otherwise using the Site, you consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy, now and as amended or modified by us. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+NeighborWho also provides a quick and easy process to allow individuals to remove their information from our People Search results, whether or not they are a user of the Site. If you would like to opt out of our People Search results, [click here](https://www.neighborwho.com/f/optout/search). For more information about our opt-out process, please see our [Opt-Out FAQ](https://www.neighborwho.com/f/optout/search). 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+NeighborWho is a database of publicly available sources of information aggregated for your convenience. Through NeighborWho, Visitors can access certain materials posted to or made available through the Site as compiled, distributed, and displayed by NeighborWho and other third-party content providers ("Third-Party Providers") including, but not limited to, third-party websites or services that provide information about individuals (each, a "Search Subject") that can be searched for and accessed through the Site ("NeighborWho Checks"). 
 
-**Information Collection and Use**
+NeighborWho gathers three types of information: information that you submit to us, information that is collected automatically about your usage of the Site, and information about Search Subjects. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We collect information that you provide when you use the Site, including, but not limited to, when you submit an online application to become a NeighborWho member ("Member"), which enables you to utilize a host of services made available to Members by and through the Site ("Member Services"); when you submit a request to opt out of NeighborWho’s People Search results; when you conduct a NeighborWho Check; or when you contact us with a question, comment, or request. This can include, but is not limited to, your: (a) e-mail address; (b) full name; (c) company name; (d) date of birth; (e) password; (f) mailing address; (g) credit card information; and (h) information associated with a Search Subject (such as a name, age, or address) that you use to conduct a NeighborWho Check. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+When you visit the Site, we or our third-party service providers may use a "Cookie" – a small, text-only file that we save to your hard drive – or similar technologies to automatically collect and store non-personally-identifiable information about your usage of the Site such as your IP address, your browser type, the links and items you click on, ad impressions on your web browser, and the web pages you visit. Cookies enhance your experience at the Site, and are in many instances necessary for the provision of Member Services. For example, we use Cookies to store your password so you don’t have to enter it more than once, and to recognize you if you return to the Site using the same web browser. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+If you do not want the Site to collect this information through Cookies, you may set your web browser to reject Cookies from the Site, or to inform you when a Cookie has been sent to your computer and provide you with the opportunity to refuse that Cookie. Each web browser is different, so please check your browser’s "Help" menu to learn how to change your Cookie preferences. Please be advised that where you disable or reject Cookies, you may not be able to use the Member Services or experience the full functionality of the Site. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Technologies such as cookies, beacons, tags, and scripts are used by NeighborWho and our partners (such as marketing partners, data partners, analytics, financial, testing, optimization, and others), affiliates, or analytics or service providers (such as data providers, customer support, marketing, analytics, business development, affiliate, and other). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+When you download and use the NeighborWho Background Check App, we also may collect your mobile device’s unique identification number. We will not collect any precise geolocation information from you or your mobile device unless you expressly consent to such collection. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use programs that incorporate local stored objects ("LSOs") such as HTML 5 or Flash to collect and store information on your computer. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
 
-**Security**
+We utilize third party ad networks, such as Google, to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partners may use cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). You may also visit http://www.aboutads.info/choices/ to learn about interest based advertising and how to opt-out from online behavioral ads served by some or all participating companies. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+In connection with providing the NeighborWho Checks, we collect information about Search Subjects from our third-party data providers. 
 
-**Updating Your Information**
+We use the information that we collect from you for a number of purposes, including: 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  * to provide you with products, services, or information you request, such as NeighborWho Checks and other Member Services;
+  * to process, or in connection with, any payments or transactions that you authorize;
+  * to verify that any credit card you submit is valid and active by charging, and thereafter immediately crediting, a small sum to the card upon registration;
+  * to send you service-related communications to verify and manage your Member account, about the Site, about the services you request, or containing required notices (where you have indicated a preference, we will only communicate with you via the medium you select, such as by e-mail or telephone);
+  * to process your requests to opt out of NeighborWho’s People Search results and, if you choose to do so, to create and manage your NeighborWho Opt-Out account;
+  * to respond to your inquiries;
+  * to deliver marketing communications or promotional materials that may be of interest to you, subject to other terms of this Privacy Policy;
+  * to generate and analyze statistics about your use of the Site (e.g., to determine the demographics of our Visitors);
+  * for internal business purposes (e.g., to analyze and manage our business, to allow us to better tailor the Site to our Visitors’ needs);
+  * to customize your experience on the Site; and
+  * to detect and protect against fraud, infringement, or other violations of our Terms of Service.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
+We also may aggregate, anonymize, or merge any of the information we collect through the Site or elsewhere for these purposes, except as expressly stated otherwise in this Privacy Policy. This may include linking your Member account information with information collect through Cookies for purposes such as identifying what areas of the Site are most relevant to you and allowing us to better tailor the Site and our communications to your interests. 
 
-       iv.      You may fax us at: (480) 505-8844
+When you submit a request to opt out of NeighborWho’s People Search results, we require that you provide an email address. NeighborWho only uses this email address to (i) send you an email to verify your request to opt out, (ii) communicate with you about questions you may ask concerning your opt-out status, and (iii) if you choose, to create a NeighborWho Opt-Out account to review the record(s) you have opted out on an ongoing basis. We will not sell the email address that you provide as part of the opt-out process, or use it for any other purpose, without your prior consent. 
 
-**Sending Emails**
+NeighborWho uses data about Search Subjects to provide responses to NeighborWho Checks performed through the Site. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We may share the information we collect from you with third parties for the following purposes: 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * with affiliates and service providers who work on our behalf including, but not limited to: credit card processing companies to process your payments for goods and services and to verify that your credit card account is valid and active; e-mail service providers to send out e-mails on our behalf; sales partners to sell you our services; data partners to process data on our behalf (e.g., by removing duplicate information from user lists, by analyzing data); and marketing partners who may market our products to you on our behalf and provide analysis of such marketing efforts. These affiliates and service providers will have access to your information as needed to perform their functions on our behalf but we do not permit them to use your information for other purposes. In addition, apart from the circumstances described above, we will not share your credit card information with any third parties without your prior informed consent, although notwithstanding the foregoing, we reserve the right to share with third parties the fact that we have credit card information about you on file; 
+  * in connection with providing the NeighborWho Checks, with certain third-party companies (such as data partners) for the sole and exclusive purpose of verifying information applicable to the particular Search Subject. These third-party companies shall be subject to an obligation of confidentiality regarding such information, and shall not themselves store, save, or transfer such information other than as necessary to perform the applicable verification services. We will not share the information of the Search Subjects for any other purpose; 
+  * other than Sensitive Information (defined as a credit card number, financial account number, Social Security number, driver’s license number, or credit score), with any third party to send you selected marketing offers. These businesses and third parties may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression, and validation vendors; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); (d) text-message-based marketers (where permitted by applicable law); (e) direct marketers; and (f) online advertising networks. While NeighborWho strongly encourages these third parties to adopt responsible approaches to online marketing, NeighborWho is not responsible for their information practices, which are governed by their respective privacy policies, which may differ from this Privacy Policy; 
+  * to any acquiring entity in connection with any sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of NeighborWho; 
+  * to respond to a subpoena, court order, or legal process served on us or otherwise to comply with the law; 
+  * when we believe that disclosure is necessary to protect the rights of NeighborWho, its parents, subsidiaries, affiliates, joint ventures, or third-party service providers, and each of their respective members, officers, directors, employees, agents, shareholders, co-branders, content licensors, suppliers, contractors, attorneys, and other partners, such as to enforce or apply this Privacy Policy, the Terms and Conditions, and other applicable NeighborWho agreements and policies; and 
+  * to protect the rights, property, or safety of you or others (e.g., by exchanging information with other companies and organizations for fraud protection purposes, by providing information to law enforcement where we believe the Site is being or has been used to commit unlawful acts). 
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+We do not share precise geolocation information (such as collected from your mobile device) with third parties unless you expressly consent to such sharing. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+In addition, we may share aggregate reports comprised of the demographic, usage, and/or other characteristics of our Visitors as a group, which will never identify you personally, with third parties. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If the information you submit to us changes, or if you no longer desire our services, you may correct, update, or request deletion of this information by making the change on your member information page or by contacting us at the contact information listed below. 
 
-**Supplementation of Information**
+We will retain the information that we have collected about you until you have requested deletion of the information. If you wish to cancel your Member account or NeighborWho Opt-Out account or request that we no longer use your information to provide you with services, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a6a68736c7b79635a747f737d727875686d727534797577). However, we may retain some or all of your information after you request deletion or cancelation, as necessary, to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+NeighborWho may amend or modify this Privacy Policy, in whole or in part, from time to time in its sole discretion, effective immediately upon prominently posting a link to those changes on our Site's homepage or directly communicating them to you. If we make material changes to this Privacy Policy, we will notify you here, at the e-mail address associated with your Member or NeighborWho Opt-Out account, or by means of a notice on our home page prior to the change becoming effective. Your continued use of or access to the Site or any Member Services after any posted amendment or modification to this Privacy Policy or receipt of a Privacy Policy change notification e-mail constitutes an affirmative acknowledgment and acceptance by you of the amended or modified Privacy Policy. 
 
-**Contests/Surveys**
+We endeavor to keep all information that we collect from or about you protected both online and offline. Unfortunately, no data security system or transmission over the Internet is guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Where you receive marketing e-mails sent by us or one of our third-party advertisers, you may unsubscribe from receiving such marketing e-mails at any time by following the instructions contained at the end of the e-mail. We may maintain separate e-mail lists for different purposes, so you may need to unsubscribe from multiple lists. However, even where you unsubscribe from all of our and our third-party advertisers’ lists, you may receive marketing e-mails in the future if you opt in to a different e-mail marketing program, although you can always unsubscribe from such programs as well by following the instructions contained at the end of the any e-mail you receive. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+You also may, at any time, notify NeighborWho that you do not wish to have NeighborWho disclose your information to third parties for the purposes of sending you marketing offers and promotions by visiting [](http://www.bv-email.com/)www.bv-email.com. 
 
-**Tell-A-Friend**
+Information sent on behalf of third-party advertisers is prepared several days in advance, so you may continue to receive e-mail from us or our third-party advertisers for up to ten (10) days after submitting an unsubscribe request as detailed above. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+The Site contains links to other websites on the Internet that are owned and operated by third parties. In some instances, these websites are co-branded and the third parties are entitled to use NeighborWho’s name and logo on their websites. Please be aware that NeighborWho is not responsible for the data practices of such websites, which shall be subject to those websites’ privacy policies. We encourage you to be aware when you leave the Site and to read the privacy policy of each and every website that you link to from the Site. This Privacy Policy applies solely to information collected by the Site. 
 
-**What Happens to my Personal Information if I Opt Out?**
+Our Site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. In order to post comments within the blog area of our Site you must be a member of our service provider’s site. Our service provider will then allow us to view the comments before they are posted. To request removal of your personal information from our blog, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e696948f9087859fa688838f818e848994918e89c885898b). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
-**Transfer of Data Abroad**
+NeighborWho is very sensitive to the issue of children's privacy. The Site, as well as its products and services, are not developed for or directed at children. Visitors under eighteen (18) years of age are not eligible to use the Site and we do not knowingly solicit or collect personal information from any Visitor that we actually know is under the age of eighteen (18). NeighborWho encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. If you believe that your child has provided NeighborWho with any personal information without your consent, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0373716a7562607a436d666a646b616c71746b6c2d606c6e). 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions about this Privacy Policy, the data practices of the Site, or your dealings with the Site, please feel free to contact us at 1-855-904-6468, at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4333312a3522203a032d262a242b212c31342b2c6d202c2e), or at: 
