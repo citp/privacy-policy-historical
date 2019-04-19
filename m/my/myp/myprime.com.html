@@ -1,25 +1,25 @@
-<!--The following is the downloaded HTML source of the myprime.com privacy policy that was archived on 2016-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160810134304id_/https%3A//www.myprime.com/en/about-prime/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myprime.com privacy policy that was archived on 2019-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190419121223id_/https%3A//www.myprime.com/en/about-prime/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js not-authenticated no-drug-list no-related-persons active-membership no-multiple-coverages no-account no-client no-product-offering no-pharmacy-network has-primemail-benefit no-walgreens-mail-benefit has-retail-benefit has-retail-extended-benefit has-specialty-benefit"><!--<![endif]--><head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="description" content="Manage your pharmacy benefits and mail order prescriptions with Prime Therapeutics">
+  <meta name="description" content="Manage your pharmacy benefits with Prime Therapeutics">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   
-  <link rel="icon" type="image/png" href="/etc/designs/myprime-v2/images/common/favicon.png">
+  <link rel="icon" type="image/png" href="">
   <!--[if IE]><link rel="shortcut icon" href="/etc/designs/myprime-v2/images/common/favicon.ico"/><![endif]-->
   
   
   <title>Privacy Policy</title>
   
-  
+   
     <script type="text/javascript">
       (function(pathname) {
         "use strict";
         if (!pathname || pathname === "/") {
           var expires = new Date(0).toUTCString();
-          
+
           var cookies = [
             "AuthToken",
             "chp",
@@ -39,7 +39,7 @@
           }
           
           for (var cookieIndex in cookies) {
-            document.cookie = cookies[cookieIndex] + "=; path=/; expires=" + expires;
+            document.cookie = cookies[cookieIndex] + "=; path=/;secure=true ;expires=" + expires;
           }
           
           if(window.sessionStorage) {
@@ -52,6 +52,7 @@
         }
       })(location.pathname);
     </script>
+  
   
   
   
@@ -107,9 +108,9 @@
   <script src="/etc/designs/myprime-v2/js/html5shiv-printshiv.min.js"></script>
 <![endif]-->
 <!--[if gt IE 8]><!-->
-<link rel="stylesheet" href="/etc.clientlibs/myprime-v2/clientlibs/common.f7864f6e0e6cd3dc1e040c4df67d8a33.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/myprime-v2/clientlibs/common.ea561a753030e467a47b462b18c949ae.css" type="text/css">
 
-<link rel="stylesheet" href="/etc.clientlibs/myprime-v2/clientlibs/components.b18ff80a6074513df50501b8782b527c.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/myprime-v2/clientlibs/components.374e6a0a697aca8eb525290398c91fbe.css" type="text/css">
 
 <!--<![endif]-->
 
@@ -125,8 +126,11 @@
   var PT = namespace("PT");
   extend(PT, {
     dateOverrideDate: "",
-    openEnrollmentBeginDate: "2016-10-01 00:00:00-0600",
-    openEnrollmentEndDate: "2016-12-31 00:00:00-0600",
+    openEnrollmentBeginDate: "2018-09-30 00:00:00-0600",
+    openEnrollmentEndDate: "2018-12-31 00:00:00-0600",
+    commercialOpenEnrollmentBeginDate: "2018-09-30 00:00:00-0600",
+    commercialOpenEnrollmentEndDate: "2018-12-31 00:00:00-0600",
+    openEnrollmentEndDate: "2018-12-31 00:00:00-0600",
     contextLevelRequired: "NONE",
     preLoginRedirectTarget: ""
   });
@@ -144,6 +148,7 @@
   
   <script type="text/javascript" src="//use.typekit.net/zhq5yir.js"></script>
   <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+  <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
 
 </head>
   
@@ -168,19 +173,21 @@
 
 
 
+
+
 <body>
-	<div class="parbase client-context clientcontext"><script type="text/javascript" src="/etc/clientlibs/granite/jquery.8449879e68d64f217e527ab5387bf65e.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.cd31222ac49213ace66f3568912db918.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.e26b5f40a34d432bee3ded1ccbdc7041.js"></script>
+	<div class="client-context clientcontext parbase"><script type="text/javascript" src="/etc/clientlibs/granite/jquery.5e8d3382f82b03b0bf3fea3024eecd61.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.6968fb10cbad8a699b7bcf06fbd45b91.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.8ef8e5fbd24f2a756ea5e3504f7a336b.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.d7c42e4a257b8b9fe38d1c53dd20d01a.js"></script>
 <script type="text/javascript" src="/etc/designs/myprime/jqueryfix/clientlibs.726e4dbb405520b8b132876e5d0124d5.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/shared.da23d866139a285e2643366d7d21ab4b.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/underscore.edc33caf36b672e930df0e129b9c76d5.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.5b6a3fff85b80505b0ca6452779e07db.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/shared.319e0b0c87ed6a1acff70b5bcdd0a594.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/lodash/modern.7b2eea6898007731c2ec2232f96726c7.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.60d6ecea73046e517c0e7c4976a07dfc.js"></script>
 <script type="text/javascript">
     $CQ(function() {
-        CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
-        CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/default","/content/myprime-v2/en/about-prime/privacy-policy");
+        CQ_Analytics.SegmentMgr.loadSegments("\/etc\/segmentation");
+        CQ_Analytics.ClientContextUtils.init("\/etc\/clientcontext\/myprime\u002Dv2", "\/content\/myprime\u002Dv2\/en\/about\u002Dprime\/privacy\u002Dpolicy");
 
         
     });
@@ -202,6 +209,7 @@
 
 
 
+ 
 
 
 
@@ -240,6 +248,535 @@
 
 
 
+
+
+  
+  <div style="display:inline;" class="cq-dd-paragraph"><div class="authoring"><div class="ALL~ALL~ALL~ALL~ALL~ALL authoring">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__content_par__authoring--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/common-authoring/medicine-pricing/jcr:content/content_par/authoring/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/common-authoring/medicine-pricing/jcr:content/content_par/authoring" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+  
+  
+
+  
+
+  
+
+
+
+
+  
+
+
+  
+  
+  
+  
+  
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+  
+
+
+<script type="text/javascript">
+(function(window, $, PT, undefined) {
+  "use strict";
+  var PT_Medicines_Pricing_Authoring = namespace("PT.Medicines.Pricing.Authoring");
+  extend(PT_Medicines_Pricing_Authoring, {
+  "Medicines" : {
+    "Pricing" : {
+      "FILL_WITH_PRIMEMAIL_LABEL" : "Fill with PrimeMail ",
+      "AVAILABLE_TO_FILL_REMINDER_LINK_LABEL" : "Set up order reminders",
+      "PENALTY_NETWORK_AMOUNT_CHECKED" : "false",
+      "SAVE_WITH_NO_PRIMEMAIL_LINK_TEXT" : "See how much you can save ",
+      "PLAN_PAYS_MESSAGE" : "",
+      "PENALTY_CHANNEL_AMOUNT" : "Additional cost: ",
+      "PENALTY_INFORMATIONAL_MESSAGE_AFTER_COST" : "if you choose a medicine listed on your health plan’s drug list (formulary). You paid an additional cost (Benefit Selection Cost) because this medicine isn’t on the formulary. <a href=\"/content/myprime-v2/en/medicines/find-medicine.html\">Find medicines</a><br>\n&nbsp;",
+      "PENALTY_NETWORK_INFO_MSG_BEFORE" : "You could save",
+      "PLAN_PAYS_CHECKBOX" : "false",
+      "MEDICAL_BENEFIT_MESSAGE" : "[Check Medical Benefit]",
+      "SPECIALTY_PRICING_CHECKBOX" : "false",
+      "DEDUCTIBLE_APPLIES_MESSAGE" : "<p>Enter Deductible Applies Message</p>\n",
+      "PRESCRIPTION_NUMBER_LABEL" : "Prescription number: ",
+      "INFORMATION_ICON_CHECKBOX" : "false",
+      "PENALTY_DRUG_OVERRIDE_MSG" : "",
+      "REBATE_MESSAGE_CHECKBOX" : "false",
+      "YOUR_COST_MESSAGE" : "",
+      "ALL_PRICING_LABEL" : "See all pricing options",
+      "MEDICINE_UNAVAILABLE_MESSAGE" : "This medicine is not available to fill with home delivery",
+      "SHOW_NON_SPECIALITY_MEDICAL_DRUG_MESSAGE_CHECKBOX" : "false",
+      "AVAILABLE_TO_FILL_REMINDER_MESSAGE" : "You will receive updates for this medicine by email or text.",
+      "ADDITIONAL_PROCESSING_MESSAGE" : "Please allow up to 3 days of additional processing time for this medicine.",
+      "TOTAL_COST_CHECKBOX" : "false",
+      "SIGN_IN_TO_PRICE_MESSAGE" : "Sign in to see cost and coverage information",
+      "PENALTY_COST_MESSAGE" : "",
+      "PENALTY_DRUG_AMOUNT_CHECKED" : "false",
+      "REBATE_MESSAGE" : "[enter rebate message]",
+      "PENALTY_DRUG_INFO_MSG_AFTER" : "if you choose a medicine listed on your health plan’s drug list (formulary). You paid an additional cost (Benefit Selection Cost) because this medicine isn’t on the formulary. &lt;a href=&#034;/content/myprime-v2/en/medicines/find-medicine.html&#034;&gt;Find medicines&lt;/a&gt;&lt;br&gt;\n&amp;nbsp;",
+      "CLASS_II_MESSAGE" : "<p>Due to pharmacy regulations, an original prescription for Class II controlled substances must be mailed to <a href=\"https://www.walgreens.com/images/adaptive/pharmacy/pdf/Mail_Service_Reg_Prescr_Order_Form.pdf\" target=\"_blank\">AllianceRx Walgreens Prime</a> or sent directly from the prescriber via electronic prescribing (eRx).</p>\n",
+      "YOUR_30_DAY_COST_LABEL" : "Your cost: ",
+      "PENALTY_CHANNEL_INFO_MSG_BEFORE" : "You could save",
+      "CAN_NOT_PRICE_MESSAGE" : "Sorry, cost information is not available for this medicine. ",
+      "ADDITIONAL_PROCESSING_LINK_LABEL" : "Learn more",
+      "SPECIAL_REQUIREMENTS_MESSAGE" : "This medicine has additional requirements",
+      "PENALTY_INFORMATIONAL_MESSAGE_BEFORE_COST" : "You could save&nbsp;",
+      "YOUR_POST_DEDUCTIBLE_SPECIALTY_COST_LABEL" : "[enter your specialty cost label]",
+      "APRIL_LABEL" : "April",
+      "REFILL_COUNT_TEXT" : "refills remaining",
+      "YOUR_POST_DEDUCTIBLE_COST_MESSAGE" : "",
+      "TOTAL_COST_LABEL" : "Total cost:",
+      "SAVE_WITH_PRIMEMAIL_BEFORE_LINK_TEXT" : "",
+      "CLASS_TWO_CHECKBOX" : "false",
+      "TOTAL_COST_MESSAGE" : "",
+      "SHOW_SPECIALITY_NON_FORMULARY_MEDICINE_MESSAGE_CHECKBOX" : "false",
+      "PLAN_PAYS_LABEL" : "Plan paid:",
+      "SAVE_WITH_PRIMEMAIL_AFTER_LINK_TEXT" : "with home delivery by AllianceRx Walgreens Prime",
+      "MAY_LABEL" : "May",
+      "REJECT_LEARN_MORE_LINK" : "Learn more",
+      "NOVEMBER_LABEL" : "November",
+      "NON_SPECIAL_REQUIREMENTS_MESSAGE" : "<p>Enter Non-Specialty Requirements Message</p>\n",
+      "ADDED_TO" : "Added to ",
+      "SIMILAR_MEDICINE_MESSAGE" : "<p>There is a <a href=\"/content/myprime-v2/en/medicines/current-medicines.html\">similar prescription</a> for this member that has refills remaining.</p>\n",
+      "YOUR_90_DAY_COST_LABEL" : "Your cost: ",
+      "DAYS_TEXT" : "days",
+      "PRICING_TITLE" : "<p>90-day home delivery</p>\n",
+      "AUGUST_LABEL" : "August",
+      "MEDICAL_BENEFIT_CHECKBOX" : "false",
+      "PENALTY_DRUG_INFO_MSG_BEFORE" : "You could save",
+      "YOUR_SPECIALTY_COST_LABEL" : "Your cost: ",
+      "INFORMATION_ICON_MESSAGE" : "[enter information icon message]",
+      "PENALTY_CHANNEL_OVERRIDE_MSG" : "",
+      "PENALTY_NETWORK_INFO_MSG_AFTER" : "if you use an in-network specialty pharmacy. You paid an additional cost (benefit selection cost) for filling your prescription at an out-of-network specialty pharmacy. &lt;a href=&#034;/content/myprime-v2/en/find-pharmacy.html&#034;&gt;Find a pharmacy&lt;/a&gt;&lt;br&gt;\n&amp;nbsp;",
+      "COST_UNAVAILABLE_MESSAGE" : "Sorry, cost information is not available right now. Please try again. ",
+      "YOUR_90_DAY_COST_WALGREENS_LABEL" : "Your cost:",
+      "JUNE_LABEL" : "June",
+      "PENALTY_NETWORK_OVERRIDE_MSG" : "",
+      "FILL_WITH_PRIMEMAIL_OVERRIDE_CHECKBOX" : "false",
+      "SAVE_WITH_NO_PRIMEMAIL_AFTER_LINK_TEXT" : "with the generic version of this medicine",
+      "NON_SPECIALITY_MEDICAL_DRUG_MESSAGE" : "[enter non-speciality medical drug message]",
+      "BOXES_TEXT" : "boxes",
+      "DAY_TEXT" : "day",
+      "SHOW_PRICING_FOR_REJECT_75" : "false",
+      "PRIMEMAIL_LABEL" : "PrimeMail",
+      "OVER_TEXT" : "per",
+      "YOUR_POST_DEDUCTIBLE_90_DAY_COST_WALGREENS_LABEL" : "[enter your 90 day walgreens cost label]",
+      "PENALTY_CHANNEL_INFO_MSG_AFTER" : "if you fill this prescription through your health plan’s home delivery pharmacy service. You paid an additional cost (Benefit Selection Cost) because you filled at a retail pharmacy. &lt;a href=&#034;https://www.walgreens.com/primemail&#034; target=&#034;_blank&#034;&gt;Fill by mail&lt;/a&gt;&lt;br&gt;\n&amp;nbsp;",
+      "SPECIALITY_NON_FORMULARY_MESSAGE" : "[enter speciality Non Formulary Medicine Message]",
+      "SAVE_WITH_NO_PRIMEMAIL_BEFORE_LINK_TEXT" : "",
+      "FILL_WITH_PRIMEMAIL_UNAUTHENTICATED_LABEL" : "Sign in to fill with PrimeMail",
+      "JANUARY_LABEL" : "January",
+      "MASKED_DRUG_MESSAGE" : "Hidden for privacy",
+      "SEPTEMBER_LABEL" : "September",
+      "FOR" : "For",
+      "FEBRUARY_LABEL" : "February",
+      "JULY_LABEL" : "July",
+      "AVAILABLE_TO_FILL_MESSAGE" : "Available to fill ",
+      "SEE_ALL_PRICING_CHECKBOX" : "false",
+      "CLASS_TWO_PRICING_TITLE" : "[Enter Class Two Pricing title]",
+      "YOUR_POST_DEDUCTIBLE_30_DAY_COST_LABEL" : "[enter your 30 day cost label]",
+      "OCTOBER_LABEL" : "October",
+      "YOUR_POST_DEDUCTIBLE_90_DAY_COST_LABEL" : "[enter your 90 day cost label]",
+      "CHECKOUT_URL" : "/content/myprime-v2/en/checkout.html",
+      "AVAILABLE_TO_FILL_REMINDER_LINK_URL" : "/content/myprime-v2/en/account-settings/communication-preferences",
+      "YOUR_POST_DEDUCTIBLE_COST_CHECKBOX" : "false",
+      "YOUR_COST_CHECKBOX" : "false",
+      "PENALTY_NETWORK_AMOUNT" : "Additional cost: ",
+      "DECEMBER_LABEL" : "December",
+      "MARCH_LABEL" : "March",
+      "LINK_TO_THERAPEUTIC_ALTERNATIVES" : "[Link To Therapeutic Alternatives]",
+      "SPECIALTY_MESSAGE" : "30-day specialty cost",
+      "PENALTY_COST_CHECKBOX" : "false",
+      "PRIMEMAIL_CART" : "PrimeMail cart",
+      "GENERIC_EQUIVALENT_OF_TEXT" : "Generic version of ",
+      "SAVE_WITH_PRIMEMAIL_LINK_TEXT" : "See how much this medicine costs",
+      "BOX_TEXT" : "box",
+      "TOTAL_PENALTY_AMOUNT" : "Additional cost: ",
+      "COST_UNAVAILABLE_MESSAGE_DUAL" : "Cost determined at time of purchase",
+      "PENALTY_CHANNEL_AMOUNT_CHECKED" : "false",
+      "PENALTY_DRUG_AMOUNT" : "Additional cost: ",
+      "PENALTY_AMOUNT" : "Additional cost: ",
+      "HIDE_PRICING_AND_MESSAGES_CHECKBOX" : "false",
+      "ADDITIONAL_PROCESSING_MODAL_URL" : "/content/myprime-v2/en/modals/additional-processing",
+      "SAVINGS_MESSAGES_CHECKBOX" : "false"
+    }
+  }
+});
+})(window, window.jQuery, window.PT);
+</script>
+</div>
+</div>
+</div>
+</div>
+
+
+  
+  <div style="display:inline;" class="cq-dd-paragraph"><div class="disable_pricing disable-pricing"><div class="ALL~ALL~ALL~ALL~ALL~ALL disable-pricing">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__content_par__disable_pricing--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/common-authoring/medicine-pricing/jcr:content/content_par/disable_pricing/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/common-authoring/medicine-pricing/jcr:content/content_par/disable_pricing" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  		
+  
+
+
+<script type="text/javascript">
+(function(window, $, PT, undefined) {
+  "use strict";
+  var PT_Medicines_DisablePricing_DisablePricing = namespace("PT.Medicines.DisablePricing.DisablePricing");
+  extend(PT_Medicines_DisablePricing_DisablePricing, {
+  "Medicines" : {
+    "Pricing" : {
+      "FILL_WITH_PRIMEMAIL_LABEL" : "Fill with PrimeMail ",
+      "AVAILABLE_TO_FILL_REMINDER_LINK_LABEL" : "Set up order reminders",
+      "PENALTY_NETWORK_AMOUNT_CHECKED" : "false",
+      "SAVE_WITH_NO_PRIMEMAIL_LINK_TEXT" : "See how much you can save ",
+      "PLAN_PAYS_MESSAGE" : "",
+      "PENALTY_CHANNEL_AMOUNT" : "Additional cost: ",
+      "PENALTY_INFORMATIONAL_MESSAGE_AFTER_COST" : "if you choose a medicine listed on your health plan’s drug list (formulary). You paid an additional cost (Benefit Selection Cost) because this medicine isn’t on the formulary. <a href=\"/content/myprime-v2/en/medicines/find-medicine.html\">Find medicines</a><br>\n&nbsp;",
+      "PENALTY_NETWORK_INFO_MSG_BEFORE" : "You could save",
+      "PLAN_PAYS_CHECKBOX" : "false",
+      "MEDICAL_BENEFIT_MESSAGE" : "[Check Medical Benefit]",
+      "SPECIALTY_PRICING_CHECKBOX" : "false",
+      "DEDUCTIBLE_APPLIES_MESSAGE" : "<p>Enter Deductible Applies Message</p>\n",
+      "PRESCRIPTION_NUMBER_LABEL" : "Prescription number: ",
+      "INFORMATION_ICON_CHECKBOX" : "false",
+      "PENALTY_DRUG_OVERRIDE_MSG" : "",
+      "REBATE_MESSAGE_CHECKBOX" : "false",
+      "YOUR_COST_MESSAGE" : "",
+      "ALL_PRICING_LABEL" : "See all pricing options",
+      "MEDICINE_UNAVAILABLE_MESSAGE" : "This medicine is not available to fill with home delivery",
+      "SHOW_NON_SPECIALITY_MEDICAL_DRUG_MESSAGE_CHECKBOX" : "false",
+      "AVAILABLE_TO_FILL_REMINDER_MESSAGE" : "You will receive updates for this medicine by email or text.",
+      "ADDITIONAL_PROCESSING_MESSAGE" : "Please allow up to 3 days of additional processing time for this medicine.",
+      "TOTAL_COST_CHECKBOX" : "false",
+      "SIGN_IN_TO_PRICE_MESSAGE" : "Sign in to see cost and coverage information",
+      "PENALTY_COST_MESSAGE" : "",
+      "PENALTY_DRUG_AMOUNT_CHECKED" : "false",
+      "REBATE_MESSAGE" : "[enter rebate message]",
+      "PENALTY_DRUG_INFO_MSG_AFTER" : "if you choose a medicine listed on your health plan’s drug list (formulary). You paid an additional cost (Benefit Selection Cost) because this medicine isn’t on the formulary. &lt;a href=&#034;/content/myprime-v2/en/medicines/find-medicine.html&#034;&gt;Find medicines&lt;/a&gt;&lt;br&gt;\n&amp;nbsp;",
+      "CLASS_II_MESSAGE" : "<p>Due to pharmacy regulations, an original prescription for Class II controlled substances must be mailed to <a href=\"https://www.walgreens.com/images/adaptive/pharmacy/pdf/Mail_Service_Reg_Prescr_Order_Form.pdf\" target=\"_blank\">AllianceRx Walgreens Prime</a> or sent directly from the prescriber via electronic prescribing (eRx).</p>\n",
+      "YOUR_30_DAY_COST_LABEL" : "Your cost: ",
+      "PENALTY_CHANNEL_INFO_MSG_BEFORE" : "You could save",
+      "CAN_NOT_PRICE_MESSAGE" : "Sorry, cost information is not available for this medicine. ",
+      "ADDITIONAL_PROCESSING_LINK_LABEL" : "Learn more",
+      "SPECIAL_REQUIREMENTS_MESSAGE" : "This medicine has additional requirements",
+      "PENALTY_INFORMATIONAL_MESSAGE_BEFORE_COST" : "You could save&nbsp;",
+      "YOUR_POST_DEDUCTIBLE_SPECIALTY_COST_LABEL" : "[enter your specialty cost label]",
+      "APRIL_LABEL" : "April",
+      "REFILL_COUNT_TEXT" : "refills remaining",
+      "YOUR_POST_DEDUCTIBLE_COST_MESSAGE" : "",
+      "TOTAL_COST_LABEL" : "Total cost:",
+      "SAVE_WITH_PRIMEMAIL_BEFORE_LINK_TEXT" : "",
+      "CLASS_TWO_CHECKBOX" : "false",
+      "TOTAL_COST_MESSAGE" : "",
+      "SHOW_SPECIALITY_NON_FORMULARY_MEDICINE_MESSAGE_CHECKBOX" : "false",
+      "PLAN_PAYS_LABEL" : "Plan paid:",
+      "SAVE_WITH_PRIMEMAIL_AFTER_LINK_TEXT" : "with home delivery by AllianceRx Walgreens Prime",
+      "MAY_LABEL" : "May",
+      "REJECT_LEARN_MORE_LINK" : "Learn more",
+      "NOVEMBER_LABEL" : "November",
+      "NON_SPECIAL_REQUIREMENTS_MESSAGE" : "<p>Enter Non-Specialty Requirements Message</p>\n",
+      "ADDED_TO" : "Added to ",
+      "SIMILAR_MEDICINE_MESSAGE" : "<p>There is a <a href=\"/content/myprime-v2/en/medicines/current-medicines.html\">similar prescription</a> for this member that has refills remaining.</p>\n",
+      "YOUR_90_DAY_COST_LABEL" : "Your cost: ",
+      "DAYS_TEXT" : "days",
+      "PRICING_TITLE" : "<p>90-day home delivery</p>\n",
+      "AUGUST_LABEL" : "August",
+      "MEDICAL_BENEFIT_CHECKBOX" : "false",
+      "PENALTY_DRUG_INFO_MSG_BEFORE" : "You could save",
+      "YOUR_SPECIALTY_COST_LABEL" : "Your cost: ",
+      "INFORMATION_ICON_MESSAGE" : "[enter information icon message]",
+      "PENALTY_CHANNEL_OVERRIDE_MSG" : "",
+      "PENALTY_NETWORK_INFO_MSG_AFTER" : "if you use an in-network specialty pharmacy. You paid an additional cost (benefit selection cost) for filling your prescription at an out-of-network specialty pharmacy. &lt;a href=&#034;/content/myprime-v2/en/find-pharmacy.html&#034;&gt;Find a pharmacy&lt;/a&gt;&lt;br&gt;\n&amp;nbsp;",
+      "COST_UNAVAILABLE_MESSAGE" : "Sorry, cost information is not available right now. Please try again. ",
+      "YOUR_90_DAY_COST_WALGREENS_LABEL" : "Your cost:",
+      "JUNE_LABEL" : "June",
+      "PENALTY_NETWORK_OVERRIDE_MSG" : "",
+      "FILL_WITH_PRIMEMAIL_OVERRIDE_CHECKBOX" : "false",
+      "SAVE_WITH_NO_PRIMEMAIL_AFTER_LINK_TEXT" : "with the generic version of this medicine",
+      "NON_SPECIALITY_MEDICAL_DRUG_MESSAGE" : "[enter non-speciality medical drug message]",
+      "BOXES_TEXT" : "boxes",
+      "DAY_TEXT" : "day",
+      "SHOW_PRICING_FOR_REJECT_75" : "false",
+      "PRIMEMAIL_LABEL" : "PrimeMail",
+      "OVER_TEXT" : "per",
+      "YOUR_POST_DEDUCTIBLE_90_DAY_COST_WALGREENS_LABEL" : "[enter your 90 day walgreens cost label]",
+      "PENALTY_CHANNEL_INFO_MSG_AFTER" : "if you fill this prescription through your health plan’s home delivery pharmacy service. You paid an additional cost (Benefit Selection Cost) because you filled at a retail pharmacy. &lt;a href=&#034;https://www.walgreens.com/primemail&#034; target=&#034;_blank&#034;&gt;Fill by mail&lt;/a&gt;&lt;br&gt;\n&amp;nbsp;",
+      "SPECIALITY_NON_FORMULARY_MESSAGE" : "[enter speciality Non Formulary Medicine Message]",
+      "SAVE_WITH_NO_PRIMEMAIL_BEFORE_LINK_TEXT" : "",
+      "FILL_WITH_PRIMEMAIL_UNAUTHENTICATED_LABEL" : "Sign in to fill with PrimeMail",
+      "JANUARY_LABEL" : "January",
+      "MASKED_DRUG_MESSAGE" : "Hidden for privacy",
+      "SEPTEMBER_LABEL" : "September",
+      "FOR" : "For",
+      "FEBRUARY_LABEL" : "February",
+      "JULY_LABEL" : "July",
+      "AVAILABLE_TO_FILL_MESSAGE" : "Available to fill ",
+      "SEE_ALL_PRICING_CHECKBOX" : "false",
+      "CLASS_TWO_PRICING_TITLE" : "[Enter Class Two Pricing title]",
+      "YOUR_POST_DEDUCTIBLE_30_DAY_COST_LABEL" : "[enter your 30 day cost label]",
+      "OCTOBER_LABEL" : "October",
+      "YOUR_POST_DEDUCTIBLE_90_DAY_COST_LABEL" : "[enter your 90 day cost label]",
+      "CHECKOUT_URL" : "/content/myprime-v2/en/checkout.html",
+      "AVAILABLE_TO_FILL_REMINDER_LINK_URL" : "/content/myprime-v2/en/account-settings/communication-preferences",
+      "YOUR_POST_DEDUCTIBLE_COST_CHECKBOX" : "false",
+      "YOUR_COST_CHECKBOX" : "false",
+      "PENALTY_NETWORK_AMOUNT" : "Additional cost: ",
+      "DECEMBER_LABEL" : "December",
+      "MARCH_LABEL" : "March",
+      "LINK_TO_THERAPEUTIC_ALTERNATIVES" : "[Link To Therapeutic Alternatives]",
+      "SPECIALTY_MESSAGE" : "30-day specialty cost",
+      "PENALTY_COST_CHECKBOX" : "false",
+      "PRIMEMAIL_CART" : "PrimeMail cart",
+      "GENERIC_EQUIVALENT_OF_TEXT" : "Generic version of ",
+      "SAVE_WITH_PRIMEMAIL_LINK_TEXT" : "See how much this medicine costs",
+      "BOX_TEXT" : "box",
+      "TOTAL_PENALTY_AMOUNT" : "Additional cost: ",
+      "COST_UNAVAILABLE_MESSAGE_DUAL" : "Cost determined at time of purchase",
+      "PENALTY_CHANNEL_AMOUNT_CHECKED" : "false",
+      "PENALTY_DRUG_AMOUNT" : "Additional cost: ",
+      "PENALTY_AMOUNT" : "Additional cost: ",
+      "HIDE_PRICING_AND_MESSAGES_CHECKBOX" : "false",
+      "ADDITIONAL_PROCESSING_MODAL_URL" : "/content/myprime-v2/en/modals/additional-processing",
+      "SAVINGS_MESSAGES_CHECKBOX" : "false"
+    },
+    "DisablePricing" : {
+      "DISABLE_PRICING_CHECKBOX" : "false",
+      "DISABLED_PRICING_ERROR_MSG" : "Sorry, this information is not available right now. Please try again soon."
+    }
+  }
+});
+})(window, window.jQuery, window.PT);
+</script>
+</div>
+</div>
+</div>
+</div>
 
 
 </div>
@@ -314,7 +851,7 @@
 	<div style="display: inline;" class="cq-dd-paragraph">
 		
 		
-			<div class="parsys content_par"><div class="timeout-notification section">
+			<div class="content_par parsys"><div class="general-notification section"><div class="ALL~ALL~ALL~ALL~ALL~ALL general-notification">
 
 
 
@@ -329,39 +866,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-    (function() {
-      "use strict";
-      var PT_Header_ScreenNotifications_notifications = namespace("PT.Header.ScreenNotifications.notifications");
-      PT_Header_ScreenNotifications_notifications[0] = {"signedOutText":"You have been signed out of your account due to inactivity. ","fadeOut":false,"minutesLabel":"minutes","closeIcon":false,"titleTimeoutText":"Session expires in","keepSessionText":"Stay signed in","sessionDuration":20,"timeout":true,"timeoutText":"Your session expires in","secondsLabel":"seconds","signInText":"Sign in again","activeClass":"inactive","isEnabled":false,"sessionAlertDuration":18,"displayTo":"ALL","alwaysOn":true,"termed":false};
-    })();
-</script></div>
-<div class="general-notification section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -405,7 +910,7 @@
     (function() {
       "use strict";
       var PT_Header_ScreenNotifications_notifications = namespace("PT.Header.ScreenNotifications.notifications");
-      PT_Header_ScreenNotifications_notifications[1] = {"fadeOut":false,"onTime":"","activeClass":"inactive","isEnabled":true,"closeIcon":true,"text":"<p><b>Your account has expired</b></p>\n<p>Your account is no longer active, but you can still use MyPrime to view your <a href=\"/content/myprime-v2/en/prescription-history.html\">prescription history</a> and <a href=\"/content/myprime-v2/en/account-settings.html\">account information</a>. If you have questions, please call the number on the back of your pharmacy member ID card.</p>\n","offTime":"","fadeOutSeconds":5,"displayTo":"IN","alwaysOn":true,"termed":true,"timeout":false};
+      PT_Header_ScreenNotifications_notifications[1] = {"fadeOut":false,"onTime":"","activeClass":"inactive","isEnabled":true,"closeIcon":true,"text":"<p><b>Your account has expired</b></p>\n<p>Your account is no longer active, but you can still use MyPrime to view your <a href=\"/content/myprime-v2/en/prescriptions/prescription-history.html\">prescription history</a> and <a href=\"/content/myprime-v2/en/account-settings.html\">account information</a>. If you have questions, please call the number on the back of your pharmacy member ID card.</p>\n","offTime":"","fadeOutSeconds":5,"displayTo":"IN","alwaysOn":true,"termed":true,"timeout":false};
     })();
 </script>
 
@@ -414,7 +919,8 @@
 
 </div>
 </div>
-<div class="general-notification section">
+</div>
+<div class="general-notification section"><div class="ALL~ALL~ALL~ALL~ALL~ALL general-notification">
 
 
 
@@ -429,6 +935,7 @@
 
 
 
+ 
 
 
 
@@ -470,7 +977,7 @@
     (function() {
       "use strict";
       var PT_Header_ScreenNotifications_notifications = namespace("PT.Header.ScreenNotifications.notifications");
-      PT_Header_ScreenNotifications_notifications[2] = {"fadeOut":false,"onTime":"12:00 AM","activeClass":"inactive","isEnabled":true,"closeIcon":true,"text":"<p>From 12:00 AM to 2:00 AM, some areas of MyPrime may be unavailable due to maintenance. We apologize for any inconvenience.&nbsp;</p>\n","offTime":"2:00 AM","fadeOutSeconds":5,"displayTo":"ALL","alwaysOn":false,"termed":false,"timeout":false};
+      PT_Header_ScreenNotifications_notifications[2] = {"fadeOut":false,"onTime":"9:00 PM","activeClass":"inactive","isEnabled":false,"closeIcon":true,"text":"<p>From 9:00 p.m. to 10:00 p.m. CST, some areas of the site may be unavailable. We apologize for any inconvenience.</p>\n","offTime":"10:00 PM","fadeOutSeconds":5,"displayTo":"ALL","alwaysOn":false,"termed":false,"timeout":false};
     })();
 </script>
 
@@ -479,7 +986,8 @@
 
 </div>
 </div>
-<div class="general-notification section">
+</div>
+<div class="general-notification section"><div class="ALL~ALL~ALL~ALL~ALL~ALL general-notification">
 
 
 
@@ -494,6 +1002,74 @@
 
 
 
+ 
+
+
+
+
+
+
+
+<div id="ch--__content_par__general_notification_4--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/screen-notifications/jcr:content/content_par/general_notification_4/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/screen-notifications/jcr:content/content_par/general_notification_4" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    (function() {
+      "use strict";
+      var PT_Header_ScreenNotifications_notifications = namespace("PT.Header.ScreenNotifications.notifications");
+      PT_Header_ScreenNotifications_notifications[3] = {"fadeOut":false,"onTime":"11:00 PM","activeClass":"inactive","isEnabled":true,"closeIcon":true,"text":"<p>From 11:00 p.m. to 5:00 a.m. CST, some areas of the site may be unavailable. We apologize for any inconvenience.</p>\n","offTime":"5:00 AM","fadeOutSeconds":5,"displayTo":"ALL","alwaysOn":false,"termed":false,"timeout":false};
+    })();
+</script>
+
+ 
+
+
+</div>
+</div>
+</div>
+<div class="general-notification section"><div class="ALL~ALL~ALL~ALL~ALL~ALL general-notification">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
@@ -535,7 +1111,7 @@
     (function() {
       "use strict";
       var PT_Header_ScreenNotifications_notifications = namespace("PT.Header.ScreenNotifications.notifications");
-      PT_Header_ScreenNotifications_notifications[3] = {"fadeOut":false,"onTime":"","activeClass":"inactive","isEnabled":false,"closeIcon":true,"text":"<p>We are currently making updates to the site. If you experience issues, please <a href=\"/content/myprime-v2/en.html\">return to MyPrime home</a> or try again later.&nbsp;</p>\n","offTime":"","fadeOutSeconds":5,"displayTo":"ALL","alwaysOn":true,"termed":false,"timeout":false};
+      PT_Header_ScreenNotifications_notifications[4] = {"fadeOut":false,"onTime":"11:45 PM","activeClass":"inactive","isEnabled":false,"closeIcon":true,"text":"<p>We are currently making updates to the site. If you experience issues, please <a href=\"/content/myprime-v2/en.html\">return to MyPrime home</a> or try again later.&nbsp;</p>\n","offTime":"1:00 AM","fadeOutSeconds":5,"displayTo":"ALL","alwaysOn":false,"termed":false,"timeout":false};
     })();
 </script>
 
@@ -544,6 +1120,174 @@
 
 </div>
 </div>
+</div>
+<div class="general-notification section"><div class="ALL~ALL~ALL~ALL~ALL~ALL general-notification">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__content_par__general_notification_2--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/screen-notifications/jcr:content/content_par/general_notification_2/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/screen-notifications/jcr:content/content_par/general_notification_2" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    (function() {
+      "use strict";
+      var PT_Header_ScreenNotifications_notifications = namespace("PT.Header.ScreenNotifications.notifications");
+      PT_Header_ScreenNotifications_notifications[5] = {"fadeOut":false,"onTime":"","activeClass":"inactive","isEnabled":false,"closeIcon":true,"text":"<p>You may be unable to sign in at this time. We are working to resolve the issue. Please try again soon.</p>\n","offTime":"","fadeOutSeconds":5,"displayTo":"ALL","alwaysOn":false,"termed":false,"timeout":false};
+    })();
+</script>
+
+ 
+
+
+</div>
+</div>
+</div>
+<div class="general-notification section"><div class="ALL~ALL~ALL~ALL~ALL~ALL general-notification">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__content_par__general_notification_3--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/screen-notifications/jcr:content/content_par/general_notification_3/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/screen-notifications/jcr:content/content_par/general_notification_3" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    (function() {
+      "use strict";
+      var PT_Header_ScreenNotifications_notifications = namespace("PT.Header.ScreenNotifications.notifications");
+      PT_Header_ScreenNotifications_notifications[6] = {"fadeOut":false,"onTime":"","activeClass":"inactive","isEnabled":false,"closeIcon":true,"text":"<p>The MyPrime message center is currently unavailable. We apologize for any inconvenience.&nbsp;</p>\n","offTime":"","fadeOutSeconds":5,"displayTo":"IN","alwaysOn":false,"termed":false,"timeout":false};
+    })();
+</script>
+
+ 
+
+
+</div>
+</div>
+</div>
+<div class="timeout-notification section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    (function() {
+      "use strict";
+      var PT_Header_ScreenNotifications_notifications = namespace("PT.Header.ScreenNotifications.notifications");
+      PT_Header_ScreenNotifications_notifications[0] = {"signedOutText":"You have been signed out of your account due to inactivity. ","fadeOut":false,"minutesLabel":"minutes","closeIcon":false,"titleTimeoutText":"Session expires in","keepSessionText":"Stay signed in","sessionDuration":20,"timeout":true,"timeoutText":"Your session expires in","secondsLabel":"seconds","signInText":"Sign in again","activeClass":"inactive","isEnabled":false,"sessionAlertDuration":18,"displayTo":"ALL","alwaysOn":true,"termed":false};
+    })();
+</script></div>
 
 </div>
 
@@ -578,7 +1322,7 @@
 	</div>
 {{/each}}
 </script>
-<div class="ALL~ALL~ALL~ALL~ALL~ALL multiple-coverage-information">
+<div class="multiple-coverage-information"><div class="ALL~ALL~ALL~ALL~ALL~ALL multiple-coverage-information">
 
 
 
@@ -593,6 +1337,7 @@
 
 
 
+ 
 
 
 
@@ -635,6 +1380,7 @@
 <!-- #multiple-coverage-information END -->
 </div>
 </div>
+</div>
 
 <header>
 	<div class="header">
@@ -658,13 +1404,82 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="css-loading" style="width: 100%; height: 100%; position: fixed; top: 0; left: 0; background: #fff; z-index: 1000;">
 </div>
 <a class="skip-link" href="#main-content">Skip to main content</a>
+
+<div class="header_client_content_par iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="header_client_content_par iparsys parsys"><div class="fepblue-header section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="mybluelib-navigation"></div>
+<script id="fepHeaderScript" data-src="https://www.fepblue.org/html/js/navlib/v1/mybluelib.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+</div>
+
+
 <div id="pt-ls-header">
 	<div class="pheader-ls-top container clearfix">
-		<div class="pheader-ls-left">
-			<div class="authoring-client ALL~ALL~ALL~ALL~ALL~ALL">
+		<div class="pheader-ls-left" style="display: none;">
+		
+			<div class="client authoring-client"><div class="ALL~ALL~ALL~ALL~ALL~ALL authoring-client">
 
 
 
@@ -679,6 +1494,7 @@
 
 
 
+ 
 
 
 
@@ -720,7 +1536,7 @@
 
 
 
-	<img class="pheader-ls-logo" src="/content/dam/MyPrime/HeaderLogos/logo.png" alt="Prime Therapeutics is a pharmacy benefit manager" title="Prime Therapeutics is a pharmacy benefit manager">
+	<img class="pheader-ls-logo" src="/content/dam/MyPrime/HeaderLogos/clear.png" alt="/content/dam/MyPrime/HeaderLogos/clear.png" title="/content/dam/MyPrime/HeaderLogos/clear.png">
 
 
 
@@ -730,6 +1546,7 @@
 
 
 
+</div>
 </div>
 </div>
 
@@ -763,6 +1580,7 @@
 
 
 <div class="pheader-ls-screen-buttons-holder">
+	
 	<span class="visuallyhidden">Select a language</span>
 	<ul id="page-lang-selector" class="page-lang-selector toggle-selector language-support">
 		<li class="active"><a id="pheader-ls-en-button" class="active toggle" href="" data-lang-code="en" title="English Alt">Eng</a>
@@ -770,6 +1588,7 @@
 		<li><a id="pheader-ls-esp-button" class="toggle" href="" data-lang-code="es" title="Español">Esp</a>
 		</li>
 	</ul>
+	
 	<span class="visuallyhidden">Select text size</span>
 	<ul id="font-resizer" class="font-resizer toggle-selector">
 		<li><a id="pheader-ls-font-small-button" class="active toggle" href="javascript:void(0);" data-font-size="normal" title="Normal text">A</a></li>
@@ -827,6 +1646,12 @@
   "clientCode" : "ADIENT"
 }, {
   "clientCode" : "BSCA"
+}, {
+  "clientCode" : "VIBRA"
+}, {
+  "clientCode" : "BCBSRI"
+}, {
+  "clientCode" : "BHP"
 } ]
   });
   
@@ -834,8 +1659,8 @@
 </script> </div>
 
 
-			<div>
-				<div class="ALL~ALL~ALL~ALL~ALL~ALL authoring-prime">
+			<div>	
+				<div class="prime authoring-prime"><div class="ALL~ALL~ALL~ALL~ALL~ALL authoring-prime">
 
 
 
@@ -850,6 +1675,7 @@
 
 
 
+ 
 
 
 
@@ -886,7 +1712,8 @@
 
 
 
-<img class="prime-ls-logo" src="/content/dam/MyPrime/HeaderLogos/prime-logo.png" alt="/content/dam/MyPrime/HeaderLogos/prime-logo.png" title="/content/dam/MyPrime/HeaderLogos/prime-logo.png">
+<img class="prime-ls-logo" src="/content/dam/MyPrime/HeaderLogos/prime-logo.png" alt="Prime Therapeutics" title="Prime Therapeutics">
+</div>
 </div>
 </div>
 
@@ -894,9 +1721,11 @@
 		</div>
 	</div>
 </div>
+
+
 <nav>
 	<div class="container clearfix">
-        <div class="authoring ALL~ALL~ALL~ALL~ALL~ALL">
+        <div class="nav authoring"><div class="ALL~ALL~ALL~ALL~ALL~ALL authoring">
 
 
 
@@ -911,6 +1740,7 @@
 
 
 
+ 
 
 
 
@@ -968,7 +1798,7 @@
 						<div class="page-nav-link-dd-panel">
 							<a class="page-nav-link-dd-trigger" href="/en/medicines.html">Medicines&nbsp;
 								<i class="fa fa-chevron-down"></i> <span class="visuallyhidden">List with
-									5 items</span>
+									4 items</span>
 							</a>
 							<div class="page-nav-link-dd-panel-subnav hidden">
 							  <img class="overlay-background-white" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=">
@@ -988,16 +1818,7 @@
 											
 												
 											
-												
-											
-											<li class="has-primemail-benefit active-membership"><a href="/en/medicines/current-medicines.html">Fill with PrimeMail</a></li>
-										
-											
-											
-											
-												
-											
-											<li class="has-primemail-benefit"><a href="/en/prescriptions/primemail-orders.html">Order status</a></li>
+											<li class="has-walgreens-mail-benefit"><a href="https://www.alliancerxwp.com">Fill with AllianceRx Walgreens Prime</a></li>
 										
 											
 											
@@ -1047,7 +1868,7 @@
 						<div class="page-nav-link-dd-panel">
 							<a class="page-nav-link-dd-trigger" href="/en/learn.html">Learn&nbsp;
 								<i class="fa fa-chevron-down"></i> <span class="visuallyhidden">List with
-									6 items</span>
+									5 items</span>
 							</a>
 							<div class="page-nav-link-dd-panel-subnav hidden">
 							  <img class="overlay-background-white" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=">
@@ -1070,7 +1891,7 @@
 											
 												
 											
-											<li class="has-primemail-benefit"><a href="/en/find-pharmacy/primemail.html">PrimeMail home delivery</a></li>
+											<li class="has-walgreens-mail-benefit"><a href="/en/find-pharmacy/walgreens-mail-service.html">About AllianceRx Walgreens Prime</a></li>
 										
 											
 											
@@ -1081,13 +1902,6 @@
 											
 											
 											<li class=""><a href="/en/learn/utilization-management.html">Utilization Management</a></li>
-										
-											
-											
-											
-												
-											
-											<li class="has-specialty-benefit"><a href="/en/learn/specialty.html">Specialty Medicine</a></li>
 										
 									</ul>
 								</div>
@@ -1127,7 +1941,7 @@
 		
 		<ul>
 			<li id="pheader-ls-register" class="pheader-ls-user-menu-link not-authenticated"><a href="/en/registration.html">Register</a></li>
-			<li id="pheader-ls-signin" class="pheader-ls-user-menu-link not-authenticated"><a href="javascript:void(0);">Sign in</a></li>
+			<li id="pheader-ls-signin" class="pheader-ls-user-menu-link not-authenticated"><a href="javascript:void(0);" id="signInLink">Sign in</a></li>
 			<li class="pheader-ls-user-menu-link pheader-ls-user-menu-settings authenticated page-nav-link page-nav-link-dd">
 				<div class="page-nav-link-dd-panel">
 					<a class="page-nav-link-dd-trigger" href="javascript:void(0);">
@@ -1148,7 +1962,7 @@
 								
 									
 								
-								<a href="/en/prescriptions/primemail-orders.html" class=" has-primemail-benefit authenticated"> 
+								<a href="/en/prescriptions/order-status.html" class=" has-primemail-benefit authenticated"> 
 										<i class="fa fa-fw icon-dotted-arrow"></i>
 									 PrimeMail orders
 								</a>
@@ -1195,62 +2009,9 @@
 				</a>
 				</li>
 			
-		
-			
-			
-                  <!-- Added demo mode condition to fix 4206 issue -->
-                
-                        
-    
-	  <li class="pheader-ls-user-menu-link pheader-ls-user-menu-cart authenticated active-membership has-dual-primemail-access">
-    			
-				
-				<a href="/en/checkout.html" class="shoppingcart"> <i class="fa fa-shopping-cart"></i> <span class="visuallyhidden">Cart</span>
-					<span class="cart-badge cart-count" style="display: none">0<span class="visuallyhidden">items</span></span>
-				</a>
-				
-				
-				<div id="cart-popover" class="hidden modal">
-					<div id="cart-popover-content" class="info-popover-content"></div>
-				</div>
-			</li>
-	    
-
-
-
-
-			
 		</ul>
 	</div>
 
-<script id="cart-popover-content-template" type="template/ractive"> 
-	{{#if error}}
-		<p>
-			There was a problem adding medicines to your cart. Please try again.
-		</p>
-	{{elseif loading}}
-  		<div class="loading">
-	  		<img src="/etc/designs/myprime-v2/images/common/spinner-blue-large.gif" alt="Loading..." />
-	  	    <p>Loading...</p>
-        </div>
-	{{else}}
-		<div class="cart-popover-content-container">
-			<div class="cart-popover-content fa-stack">
-				<i class="fa fa-circle fa-stack-2x"></i> 
-				<i class="fa fa-check fa-stack-1x"></i>
-			</div>
-			<div class="cart-popover-content">
-				{{#if switchToGeneric}}
-					{{formatDrugName(medicine.equivalentDrug.drugName, true)}}, the generic version of  
-				{{/if}}
-				{{formatDrugName(medicine.drug.drugName, medicine.generic)}}
-				was added to your cart
-			</div>
-		</div>
-		
-		<a class="button button-primary button-as-link" on-click="gotoCheckout" href="/en/checkout.html">Check out</a>
-	{{/if}}
-</script>
 
 
 <script id="account-settings-links-template" type="template/ractive">
@@ -1278,21 +2039,6 @@
 				
 			{{/if}}
 	
-			{{#if displaySettings.showPaymentTab}}
-				
-				
-					
-					<li><a href="/en/account-settings/payments.html">Payments</a></li>
-				
-			{{/if}}
-	
-			{{#if displaySettings.showHealthInfoTab}}
-				
-				
-					
-					<li><a href="/en/account-settings/allergies-conditions.html">Allergies and conditions</a></li>
-				
-			{{/if}}
 	
 			{{#if displaySettings.showSecurityTab}}
 				
@@ -1312,23 +2058,17 @@
 </script>
 
 <script type="text/javascript">
-(function(window, $, undefined) {
-  "use strict";
-  var PT_Header_CartPopover = namespace("PT.Header.CartPopover");
-  extend(PT_Header_CartPopover, {
-  "ADD_CART_POPOVER_TIMEOUT" : "5",
-  "ADD_CART_POPOVER_TITLE" : "Added to PrimeMail cart"
-});
-})(window, window.jQuery);
+
 </script>
 
+</div>
 </div>
 </div>
 
         <div class="pt-ss-toolbar">
         	<div class="pt-ss-toolbar-left">
         		
-        			<div class="authoring-client ALL~ALL~ALL~ALL~ALL~ALL">
+        			<div class="client mobile"><div class="ALL~ALL~ALL~ALL~ALL~ALL authoring-client">
 
 
 
@@ -1343,6 +2083,7 @@
 
 
 
+ 
 
 
 
@@ -1403,11 +2144,12 @@
 
 </div>
 </div>
+</div>
 
         		
         	</div>
         	<div class="pt-ss-toolbar-right">
-	        	<div class="authoring ALL~ALL~ALL~ALL~ALL~ALL">
+	        	<div class="nav mobile-toolbar"><div class="ALL~ALL~ALL~ALL~ALL~ALL authoring">
 
 
 
@@ -1422,6 +2164,7 @@
 
 
 
+ 
 
 
 
@@ -1451,17 +2194,9 @@
 
 
 
-
-
 <div class="ignore-font-resize">
 	
-	
-	
-		<a href="/en/checkout.html" class="shoppingcart"> <i class="fa fa-shopping-cart fa-2x authenticated active-membership has-primemail-benefit"></i>
-			<span class="visuallyhidden">Cart</span>
-			<span class="pt-ss-toolbar-cart-badge badge has-primemail-benefit cart-count" style="display: none">0<span class="visuallyhidden">items</span></span>
-		</a>
-	 
+
 	<a id="pt-ss-menu-trigger" href="javascript:void(0);">
 		<i class="fa fa-bars fa-2x"></i>
 		<span class="visuallyhidden">Menu</span>
@@ -1472,13 +2207,14 @@
 </div>
 </div>
 </div>
+</div>
 
         	</div>
         </div>
     </div>
     <div class="pt-ss-menu">
 		<div class="container-inner">
-			<div class="authoring ALL~ALL~ALL~ALL~ALL~ALL">
+			<div class="nav mobile-menu"><div class="ALL~ALL~ALL~ALL~ALL~ALL authoring">
 
 
 
@@ -1493,6 +2229,7 @@
 
 
 
+ 
 
 
 
@@ -1651,7 +2388,7 @@
 					
 					<!-- These are all authenticated by default -->
 					<li class="authenticated has-primemail-benefit authenticated">
-						<a href="/en/prescriptions/primemail-orders.html">
+						<a href="/en/prescriptions/order-status.html">
 							<span>
 								
 									<i class="fa fa-fw icon-dotted-arrow"></i>
@@ -1711,19 +2448,8 @@
 							
 								
 							
-								
-							
-		                   	<li class="has-primemail-benefit active-membership">
-								<a href="/en/medicines/current-medicines.html"><span>Fill with PrimeMail</span></a>
-					    	</li>
-	                     
-					    	
-							
-							
-								
-							
-		                   	<li class="has-primemail-benefit">
-								<a href="/en/prescriptions/primemail-orders.html"><span>Order status</span></a>
+		                   	<li class="has-walgreens-mail-benefit">
+								<a href="https://www.alliancerxwp.com"><span>Fill with AllianceRx Walgreens Prime</span></a>
 					    	</li>
 	                     
 					    	
@@ -1778,8 +2504,8 @@
 							
 								
 							
-		                   	<li class="has-primemail-benefit">
-								<a href="/en/find-pharmacy/primemail.html"><span>PrimeMail home delivery</span></a>
+		                   	<li class="has-walgreens-mail-benefit">
+								<a href="/en/find-pharmacy/walgreens-mail-service.html"><span>About AllianceRx Walgreens Prime</span></a>
 					    	</li>
 	                     
 					    	
@@ -1796,15 +2522,6 @@
 								<a href="/en/learn/utilization-management.html"><span>Utilization Management</span></a>
 					    	</li>
 	                     
-					    	
-							
-							
-								
-							
-		                   	<li class="has-specialty-benefit">
-								<a href="/en/learn/specialty.html"><span>Specialty Medicine</span></a>
-					    	</li>
-	                     
 					</ul>
 				</div>
 			
@@ -1814,6 +2531,7 @@
 			
 		
 	
+</div>
 </div>
 </div>
 </div>
@@ -1857,7 +2575,7 @@
     <li><a id="ss-menu-font-large-button" class="toggle large" href="javascript:void(0);" data-font-size="large" title="Large text">A</a></li>
 </ul></div>
 
-                <div class="authoring ALL~ALL~ALL~ALL~ALL~ALL">
+                <div class="nav mobile-signout"><div class="ALL~ALL~ALL~ALL~ALL~ALL authoring">
 
 
 
@@ -1872,6 +2590,7 @@
 
 
 
+ 
 
 
 
@@ -1906,11 +2625,12 @@
 <button id="ss-menu-sign-out-btn" class="link-button authenticated" href="#">Sign out</button>
 </div>
 </div>
+</div>
 
             </div>
             <div class="ss-menu-bottom-centered">
             	
-					<div class="ALL~ALL~ALL~ALL~ALL~ALL authoring-prime">
+					<div class="prime mobile-menu"><div class="ALL~ALL~ALL~ALL~ALL~ALL authoring-prime">
 
 
 
@@ -1925,6 +2645,7 @@
 
 
 
+ 
 
 
 
@@ -1964,12 +2685,180 @@
 <img class="" src="/content/dam/MyPrime/HeaderLogos/prime-therapeutics-footer-logo.png" alt="Prime is a pharmacy benefit manager" title="Prime is a pharmacy benefit manager">
 </div>
 </div>
+</div>
 
 				
 			</div>
 		</div>
 	</div>
-</nav></div>
+</nav>
+<!-- cq:include script="/apps/myprime-v2/components/content/footer/bing-maps-script.jsp"/-->
+<script type="text/javascript">
+(function(window, $, undefined) {
+  "use strict";
+  var PT_Header = namespace("PT.Header");
+  extend(PT_Header, {
+  "asurischosenClient" : "c-asuris",
+  "regencedesktopBGColor" : "#20364f",
+  "regencechosenClient" : "c-regence",
+  "bridgespanpageBGColor" : "#d3d3d3",
+  "regencepageBGColor" : "#d3d3d3",
+  "fepchosenClient" : "fep",
+  "asurisnavBGColor" : "#243319",
+  "asurislinkBGColor" : "#b64202",
+  "bridgespanchosenClient" : "c-bridgespan",
+  "bridgespandesktopBGColor" : "#ffffff",
+  "bridgespanhidePrimeLogo" : "true",
+  "asurishidePrimeLogo" : "true",
+  "bridgespanlinkBGColor" : "#008a97",
+  "chosenClient" : "c-regence",
+  "asurisdesktopBGColor" : "#2C3C30",
+  "bridgespannavBGColor" : "#008a97",
+  "regencehidePrimeLogo" : "true",
+  "asurispageBGColor" : "#d3d3d3",
+  "isRegenceClient" : true,
+  "regencelinkBGColor" : "#0075be",
+  "regencenavBGColor" : "#192a3d",
+  "fephidePrimeLogo" : "true"
+});  
+
+})(window, window.jQuery);
+
+</script>
+
+<style>
+    .c-asuris #main-content.blue{
+         background-color: #d3d3d3;
+            background-image: none;
+    }
+     .c-asuris .page-container.blue .pills-background{
+          background-image: none;
+     }
+	.c-asuris #pt-ls-header{
+         background-color: #2C3C30;
+        }
+	.c-asuris nav{
+         background-color: #243319;
+    }
+    .c-asuris a:not(.button):not(.page-nav-link-dd-trigger):not(.page-nav-link):not(#pheader-ls-en-button):not(#pheader-ls-esp-button):not(#pheader-ls-font-small-button):not( #pheader-ls-font-large-button):not(.scroll-to-top-button):not(.result-row):not(.orders-link),
+	.c-asuris #drug-list-change-button, .c-asuris #network-change-button, .c-asuris .list-item-trigger{
+         color: #b64202;
+    }
+    .c-asuris .list-item-trigger-container:before{
+       color: #b64202 !important;
+    }
+
+    .c-asuris a:not(.button):not(.page-nav-link-dd-trigger):not(.page-nav-link):not(#pheader-ls-en-button):not(#pheader-ls-esp-button):not(#pheader-ls-font-small-button):not( #pheader-ls-font-large-button):not(.scroll-to-top-button):not(.result-row):hover,
+    .c-asuris #drug-list-change-button:hover, .c-asuris #network-change-button:hover, .c-asuris .list-item-trigger:hover{
+        color: #110066;
+    }	
+
+    .c-regence  #main-content.blue{
+          background-color: #d3d3d3;
+         background-image: none;
+     }
+    .c-regence .page-container.blue .pills-background{
+         background-image: none;
+     }
+	.c-regence #pt-ls-header{
+          background-color: #20364f;
+    }
+    .c-regence nav{
+         background-color: #192a3d;
+    } 
+    .c-regence a:not(.button):not(.page-nav-link-dd-trigger):not(.page-nav-link):not(#pheader-ls-en-button):not(#pheader-ls-esp-button):not(#pheader-ls-font-small-button):not( #pheader-ls-font-large-button):not(.scroll-to-top-button):not(.result-row):not(.orders-link),
+	 .c-regence #drug-list-change-button, .c-regence #network-change-button, .c-regence .list-item-trigger{
+         color: #0075be;
+    }
+    .c-regence .list-item-trigger-container:before{
+       color: #0075be !important;
+    }	
+	.c-regence a:not(.button):not(.page-nav-link-dd-trigger):not(.page-nav-link):not(#pheader-ls-en-button):not(#pheader-ls-esp-button):not(#pheader-ls-font-small-button):not( #pheader-ls-font-large-button):not(.scroll-to-top-button):not(.result-row):hover,
+    .c-regence #drug-list-change-button:hover, .c-regence #network-change-button:hover, .c-regence .list-item-trigger:hover{
+         color: #110066;
+    }
+
+    .c-bridgespan #main-content.blue{
+         background-color: #d3d3d3;
+         background-image: none;
+    }
+    .c-bridgespan .page-container.blue .pills-background{
+         background-image: none;
+     }
+    .c-bridgespan #pt-ls-header{
+         background-color: #ffffff;                                     
+
+    }
+	.c-bridgespan nav{
+        background-color: #008a97;
+    } 
+    .c-bridgespan a:not(.button):not(.page-nav-link-dd-trigger):not(.page-nav-link):not(#pheader-ls-en-button):not(#pheader-ls-esp-button):not(#pheader-ls-font-small-button):not( #pheader-ls-font-large-button):not(.scroll-to-top-button):not(.result-row):not(.orders-link),
+	.c-bridgespan #drug-list-change-button, .c-bridgespan #network-change-button, .c-bridgespan .list-item-trigger{
+        color: #008a97;
+    }
+    .c-bridgespan .list-item-trigger-container:before{
+       color: #008a97 !important;
+    }
+	.c-bridgespan a:not(.button):not(.page-nav-link-dd-trigger):not(.page-nav-link):not(#pheader-ls-en-button):not(#pheader-ls-esp-button):not(#pheader-ls-font-small-button):not( #pheader-ls-font-large-button):not(.scroll-to-top-button):not(.result-row):hover,
+    .c-bridgespan #drug-list-change-button:hover, .c-bridgespan #network-change-button:hover, .c-bridgespan .list-item-trigger:hover{
+        color: #110066;
+    }
+
+    .c-asuris #pt-ls-header .pheader-ls-top, .c-regence #pt-ls-header .pheader-ls-top, .c-bridgespan #pt-ls-header .pheader-ls-top{
+        margin-top: 0px;
+        padding-top: 14px;
+    }
+
+    .c-asuris .pills-background, .c-regence .pills-background, .c-bridgespan .pills-background{
+         background-image: none;
+    }
+
+	body.c-asuris, body.c-regence, body.c-bridgespan{
+         background: none;
+    }
+	.pheader-ls-user-menu a, .page-ls-nav-list li a, .medicine-search .mode-toggle a.mode-active{
+		color: #fff !important;
+	}
+    .c-asuris #page-lang-selector, .c-regence #page-lang-selector, .c-bridgespan #page-lang-selector, .c-asuris .authoring-prime, .c-regence .authoring-prime, .c-bridgespan .authoring-prime, .c-asuris #medicine-history-block-hh, .c-regence #medicine-history-block-hh, .c-bridgespan #medicine-history-block-hh{
+        display: none;
+    }
+	.page-ls-nav-list .page-nav-link-dd-panel-subnav ul li a, .page-ls-nav-list .page-nav-link-dd-panel-subnav ul li a:hover, .page-ls-nav-list .page-nav-link-dd-panel-subnav ul li a:focus{
+		color: #1c305c !important;
+	}
+	.medicine-search .mode-toggle a{
+		color: #002C6C !important;
+	}
+	.page-ls-nav-list .page-nav-link a:hover{
+		color: #45adcc !important;
+	}
+	.page-ls-nav-list .page-nav-link a.active, .page-ls-nav-list .page-nav-link a.page-nav-link-dd-trigger.active, .pheader-ls-signed-in-panel .signed-in-panel-content a{
+		color: #1c305c !important;
+	}
+    .fep .authoring-prime{
+    	display: none;
+    }
+    .c-asuris #main-content, .c-regence #main-content, .c-bridgespan #main-content, .fep #main-content{
+        visibility: hidden;
+    }
+    .c-asuris .page-ls-nav-list, .c-regence .page-ls-nav-list, .c-bridgespan .page-ls-nav-list, .fep .page-ls-nav-list{
+        visibility: hidden;
+    }
+    .c-asuris .pheader-ls-user-menu, .c-regence .pheader-ls-user-menu, .c-bridgespan .pheader-ls-user-menu, .fep .pheader-ls-user-menu{
+        visibility: hidden;
+    }
+    .c-asuris .pt-ss-toolbar-left, .c-regence .pt-ss-toolbar-left, .c-bridgespan .pt-ss-toolbar-left, .fep .pt-ss-toolbar-left{
+        visibility: hidden;
+    }
+    .c-asuris #standard-block, .c-regence #standard-block, .c-bridgespan #standard-block, .fep #standard-block{
+        visibility: hidden;
+    }
+    .fep #page-lang-selector{
+            visibility:hidden;
+        }
+    
+</style>
+
+</div>
 		
 </header>
 	<!-- Header END -->
@@ -1999,8 +2888,65 @@
 
 
 
+<div>
+  <div class="page_one_column__ipar iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="page_one_column__ipar iparsys parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__page_one_column__ipar__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/page_one_column__ipar/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/page_one_column__ipar/hs_richtext" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
 <div class="one-column">
-  <div class="page_one_column__main_par parsys"><div class="parbase hs-richtext richtext section">
+  <div class="page_one_column__main_par parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
 
 
 
@@ -2015,6 +2961,7 @@
 
 
 
+ 
 
 
 
@@ -2045,24 +2992,30 @@
 
 
 
-<h1>Website Privacy Policy</h1>
-<p>To view information on the privacy practices of PrimeMail and Prime Therapeutics Specialty Pharmacy, please click on the link immediately below:</p>
+<p>To view information on the privacy practices of AllianceRx Walgreens Prime, please click on the link immediately below:</p>
 <p><a href="/content/dam/prime/memberportal/forms/AuthorForms/Privacy_Policy/Notice_of_Privacy_Practice_brochure.pdf" target="_blank">HIPAA Notice of Privacy Practices</a></p>
 <p>To allow a family member or agent to contact Prime on your behalf please print, complete, and return the release form below:</p>
 <p><a href="/content/dam/prime/memberportal/forms/AuthorForms/Privacy_Policy/Authorization_Release.pdf" target="_blank">Authorization for Release of Information</a></p>
+<p><a href="/en/authorization-release-of-information.html">Authorization for Release of Information Online Form</a></p>
 <p>To cancel the authorization of a family member or agent to contact Prime on your behalf please print, complete, and return the release form below:</p>
-<p><a href="/content/dam/prime/memberportal/forms/AuthorForms/Privacy_Policy/Authorization_Cancellation_Form.pdf" target="_blank">Authorization Cancellation Form</a><b></b></p>
-<p><b><u>Effective Date:</u>&nbsp; April 6, 2015</b></p>
-<p><b><u>HIPAA Notice of Privacy Practices:</u></b>&nbsp; Prime Therapeutics LLC (“Prime”) and all of its operating units and subsidiaries, including Prime’s mail delivery service pharmacy known as “PrimeMail” and Prime’s wholly owned subsidiary, Prime Therapeutics Specialty Pharmacy LLC (“Prime Specialty Pharmacy”) comply with the Health Insurance and Portability Act of 1996 (“HIPAA”).&nbsp; Please read PrimeMail’s and Prime Specialty Pharmacy’s <a href="/content/dam/prime/memberportal/forms/AuthorForms/Privacy_Policy/Notice_of_Privacy_Practice_brochure.pdf" target="_blank">Notice of Privacy Practices</a>&nbsp;to understand how PrimeMail and Prime Specialty Pharmacy, comply with HIPAA.&nbsp; In the event of any conflict between this Website Privacy Policy and the Notice of Privacy Practices, the Notice of Privacy Practices will control.</p>
-<p><b><u>Introduction, Scope and Purpose:</u>&nbsp; </b>Prime understands that the privacy of your personal information is important to you.&nbsp; This Website Privacy Policy applies to your activities and our privacy practices on the various websites operated by Prime.&nbsp; Some pages of this website may also describe additional privacy practices applicable to those specific pages.&nbsp;</p>
-<p>“You” and similar terms refer to you, the individual using this website, as well as any person or entity on whose behalf you are using this website and all others who may have rights through you.&nbsp; As used in this Website Privacy Policy, terms such as “Prime,” “we,” “us” or “our” refer to Prime Therapeutics LLC and all of its operating units and subsidiaries, such as Prime Specialty Pharmacy and PrimeMail.</p>
-<p>This Website Privacy Policy does not apply to information collected through other means such as by telephone, through forms sent by mail, or in person. That information may be protected by other privacy policies.&nbsp; This website may include links to third-party websites. This Website Privacy Policy does not apply to such third-party websites.&nbsp; We are not responsible for the privacy practices of such third-parties.</p>
-<p><b><u>Changes:</u></b>&nbsp; We may change this Website Privacy Policy.&nbsp; If we revise this Website Privacy Policy, we will post the changes on this page. &nbsp;We will also provide appropriate notice to you on this website and in other appropriate locations based on the type of changes made.&nbsp; Please visit this page to read about any updates.</p>
-<p><b><u>Information We Collect about You on this Website:</u></b>&nbsp; We collect both personal and non-personal information from and about website visitors:</p>
+<p><a href="/content/dam/prime/memberportal/forms/AuthorForms/Privacy_Policy/Authorization_Cancellation_Form.pdf" target="_blank">Authorization Cancellation Form</a></p>
+<p><a href="/en/authorization-cancellation.html">Authorization Cancellation Online Form</a></p>
+<h2>&nbsp;</h2>
+<h2>Website Privacy Policy</h2>
+<p><b>Effective Date: January 1, 2019</b></p>
+<p><b>HIPAA Notice of Privacy Practices:</b> Prime Therapeutics LLC ("Prime") and all of its operating units and subsidiaries comply with the Health Insurance Portability and Accountability Act of 1996 ("HIPAA").</p>
+<p><b>Introduction, Scope and Purpose:</b> Prime understands that the privacy of your personal information is important to you. This Website Privacy Policy applies to your activities and our privacy practices on the various websites operated by Prime. Some pages of this website may also describe additional privacy practices applicable to those specific pages.</p>
+<p>"You" and similar terms refer to you, the individual using this website, as well as any person or entity on whose behalf you are using this website and all others who may have rights through you. As used in this Website Privacy Policy, terms such as "Prime," "we," "us" or "our" refer to Prime Therapeutics LLC and all of its operating units and subsidiaries.</p>
+<p>If you submit personal information on another person’s behalf, you represent and warrant that you have the appropriate authorization or consent to do so and to permit us to use the personal information for the purposes set forth herein.</p>
+<p>This Website Privacy Policy does not apply to information collected through other means such as by telephone, through forms sent by mail, or in person. That information may be protected by other privacy policies. This website may include links to third-party websites. These links are provided as a convenience and do not constitute an affiliation with, endorsement or sponsorship of any third-party services. This Website Privacy Policy does not apply to such third-party websites or to any information you provide to such third-parties. We are not responsible for the privacy practices of such third-parties.</p>
+<p><b>Changes:</b> We may change this Website Privacy Policy. If we revise this Website Privacy Policy, we will post the changes on this page. We will also provide appropriate notice to you on this website and in other appropriate locations based on the type of changes made. Your continued use of the website after the changes have been posted or otherwise made available to you shall constitute your acceptance of the updated terms.</p>
+<p>Information We Collect about You on this Website: We collect both personal and non- personal information from and about website visitors:</p>
 <p>Personal Information includes:</p>
 <ul>
-<li>Information that identifies you individually and personally, such as name, postal address, e-mail address, telephone number, policy or account number, government or other identification number, your IP address or any other identifier by which you may be contacted online or offline, and</li>
-<li>Information that concerns you, but may not directly identify you, such as zip code or certain demographic information.</li>
+<li>Information that identifies you individually and personally, such as name, postal address, e- mail address, telephone number, policy or account number, government or other identification number, your IP address or any other identifier by which you may be contacted online or offline, and</li>
+<li>Information that concerns you, but may not directly identify you, such as zip code or certain demographic information,</li>
+<li>Financial information, including credit card information, and</li>
+<li>Protected health information</li>
 </ul>
 <p>Non-personal Information includes:</p>
 <ul>
@@ -2070,81 +3023,81 @@
 <li>The equipment you use to access our website, and</li>
 <li>Usage details.</li>
 </ul>
-<p><b><u>How We Collect Information on this Website:</u></b>&nbsp; We collect this information:</p>
+<p><b>How We Collect Information on this Website:</b> We collect this information:</p>
 <ul>
-<li>Directly from you when you choose to provide it to us.&nbsp; For example, if you fill out a form on-line or send us your e-mail address, and</li>
-<li>Automatically as you navigate through the website. Information collected automatically may include usage details, IP addresses and information collected through cookies and other passive tracking technologies.&nbsp;</li>
+<li>Directly from you when you choose to provide it to us. For example, if you fill out a form on-line or send us your e-mail address, and</li>
+<li>Automatically as you navigate through the website. Information collected automatically may include usage details, IP addresses and information collected through cookies and other passive tracking technologies.</li>
 </ul>
-<p><b><u>Technologies We Use:</u></b>&nbsp; We may use the following technologies to collect certain information about you or the computer you use to visit this website:</p>
+<p><b>Technologies We Use:</b> We may use the following technologies to collect certain information about you or the computer you use to visit this website:</p>
 <ul>
-<li>Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies through your browser settings.&nbsp; If you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our website. We may also use a similar technology, which permits Prime and your health plan to track browsing activity across our collective websites.</li>
-<li>Flash Cookies. Certain features of our website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our website. &nbsp;Flash cookies are not managed by the same browser settings as are used for browser cookies.</li>
+<li>Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies through your browser settings. If you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our website. We may also use a similar technology, which permits Prime and your health plan to track browsing activity across our collective websites.</li>
+<li>Flash Cookies. Certain features of our website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our website. Flash cookies are not managed by the same browser settings as are used for browser cookies.</li>
 </ul>
-<p><b><u>How We Use Your Information:</u>&nbsp; </b>We use information that we collect about you, or that you provide to us, including personal information:</p>
+<p><b>How We Use Your Information:</b> We use information that we collect about you, or that you provide to us, including personal information:</p>
 <ul>
 <li>To present our website and its contents to you.</li>
 <li>To provide you with information, products or services that you request from us or that we are contracted to provide through your applicable health plan or employer group.</li>
-<li>To fulfill any other purpose for which you provide it, such as processing your prescription request, or subscribing you to an e-mail newsletter.</li>
+<li>To fulfill any other purpose for which you provide it, such as subscribing you to an e-mail newsletter.</li>
 <li>To provide you with notices about your account and status.</li>
 <li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.</li>
 <li>To notify you about changes to our website or any products or services we offer or provide through it.</li>
 <li>To notify you about any of the benefits or services you may be eligible to receive offered through us by your health plan.</li>
 <li>To allow you to participate in interactive features on our website, if any.</li>
 <li>To contact you regarding any of our services you have accessed, whether through our website or otherwise.</li>
-<li>To contact you about prescriptions you have purchased from us or other pharmacies you use to fill your prescriptions.</li>
+<li>To contact you about prescriptions you have purchased from pharmacies you use to fill your prescriptions.</li>
 <li>To comply with applicable laws, regulations, and legal process.</li>
 <li>In any other way we may describe when you provide the information.</li>
 <li>To keep a record of our transactions and communications.</li>
-<li>As otherwise necessary or useful for us to conduct our business, as long as the use is permitted by law.&nbsp; Specific examples include: Analyzing our audience and use patterns for the website; storing information about your preferences and allowing us to direct or customize specific content to you; recognizing you when you return to this website or speeding-up your login.</li>
+<li>As otherwise necessary or useful for us to conduct our business, as long as the use is<br>
+permitted by law. Specific examples include: Analyzing our audience and use patterns for the website; storing information about your preferences and allowing us to direct or customize specific content to you; recognizing you when you return to this website or speeding-up your login.</li>
+<li>For the protection of our operations or those of any of our affiliates, or to protect our rights, privacy, safety, or property or that of our affiliates, you or other parties.</li>
 <li>For any other purpose with your consent.</li>
 </ul>
-<p>You understand and specifically agree that we may use the information you provide through this website to contact you, including any e-mail address, telephone number, cell phone number, text message number, or fax number.&nbsp; We may contact you without limitation regarding:</p>
+<p>You understand and specifically agree that we may use the information you provide through this website to contact you, including any e-mail address, telephone number, cell phone number, text message number, or fax number. We may contact you without limitation regarding:</p>
 <ul>
-<li>The status of one of your orders you have placed with us.</li>
 <li>Any services we provide to you, whether through the website or otherwise.</li>
-<li>Prescriptions you have purchased from us.</li>
 <li>Other pharmacies you use to fill your prescriptions.</li>
 <li>Benefits you are eligible to receive through your health plan.</li>
 <li>Information about medication you are taking.</li>
 </ul>
-<p>We may combine any of the above information with other information not subject to this Website Privacy Policy.&nbsp; We may receive this information from you (such as through forms submitted by regular mail), from your health plan, or from other third-parties.&nbsp; This information may be subject to other privacy policies, such as PrimeMail’s and Prime Specialty Pharmacy’s HIPAA Notice of Privacy Practices.</p>
-<p><b><u>Sharing of Information:</u></b></p>
-<p><i>Non-Personal Information</i>.&nbsp; Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government.</p>
-<p><i>Personal Information. </i>We will only share your personal information with third-parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law.</p>
+<p>We may combine any of the above information with other information not subject to this Website Privacy Policy. We may receive this information from you (such as through forms submitted by regular mail), from your health plan, or from other third-parties. This information may be subject to other privacy policies.</p>
+<p><b>Sharing of Information:</b></p>
+<p><i>Non-Personal Information.</i> Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government.</p>
+<p><i>Personal Information.</i> We will only share your personal information with third-parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law.</p>
 <p>We share and give access to personal information to our employees and agents (including employees and agents or our affiliates) in the course of operating our businesses. For example, if you sent us an e-mail asking a question, we would provide your e-mail address to one of our employees or agents, along with your question, in order for that person to reply to your e-mail. We may share personal information with other divisions within Prime and with our affiliate entities to ensure that we have the most up to date contact information across these entities and to coordinate the services and benefits you receive from us.</p>
-<p>We share personal information with your health plan, your heath care providers, and your pharmacies / pharmacists to coordinate your care and, as necessary, to arrange payment for services and benefits you have received.&nbsp; We may also share personal information with appropriate government agencies as required by law.</p>
+<p>We share personal information with your health plan, your health care providers, and your pharmacies/pharmacists to coordinate your care and, as necessary, to arrange payment for services and benefits you have received. We may also share personal information with appropriate government agencies as required by law.</p>
 <p>We may share and give access to personal information with vendors we hire to perform services on our behalf. For example, we may hire a vendor to help us send and manage e-mail. Similarly, we may hire vendors to operate some of our websites.</p>
-<p>If we share or give access to personal information to vendors we require them to use the personal information only for limited purposes, such as for sending you the e-mail in the example above. If you believe we or any company associated with Prime has misused or improperly disclosed or lost any of your information please contact us immediately and report such matter using the contact information provided below.</p>
+<p>If we share or give access to personal information to vendors we require them to use the personal information only for limited purposes, such as for sending you the e-mail in the example above.<br>
+If you believe we or any company associated with Prime has misused or improperly disclosed or lost any of your information please contact us immediately and report such matter using the contact information provided below.</p>
 <p>We may share personal information with a successor if all or part of our business is sold, merged, dissolved, acquired, or in a similar transaction, or in the event of a corporate reorganization.</p>
 <p>We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting website visitors who violate our rules, or engage in behavior that is harmful to other visitors, or is illegal.</p>
-<p><b><u>Your Choices and Reviewing Your Information:</u> </b>&nbsp;If you have an account with Prime, then you may log on to your account to view certain personal information we have regarding you, and in certain cases you may revise this information.&nbsp; This functionality may also permit you to make certain choices regarding use of your personal information.&nbsp; View the “Login” or similar page for this capability.&nbsp; If you are concerned about information beyond what appears on your account-page, please contact us as described below.</p>
-<p><b><u>Do Not Track Disclosure:</u></b>&nbsp; This website does not monitor for or behave differently if your computer transmits a “do not track” or similar beacon or message.</p>
-<p><b><u>Website and Information Security:</u></b>&nbsp; We use a number of security methods designed to protect the security and integrity of information submitted through this website.&nbsp; These methods include:</p>
+<p><b>Your Choices and Reviewing Your Information:</b> If you have an account with Prime, then you may log on to your account to view certain personal information we have regarding you, and in certain cases you may revise this information. This functionality may also permit you to make certain choices regarding use of your personal information. View the "Login" or similar page for this capability. If you are concerned about information beyond what appears on your account- page, please contact us as described below.</p>
+<p><b>Do Not Track Disclosure:</b> This website does not monitor for or behave differently if your computer transmits a "do not track" or similar beacon or message.</p>
+<p><b>Website and Information Security:</b> We use a number of security methods designed to protect the security and integrity of information submitted through this website. These methods include:</p>
 <ul>
-<li>physical security methods (such as locks and alarm systems),</li>
-<li>electronic security methods (such as passwords and firewalls), and</li>
-<li>procedural security methods (such as rules regarding the handling and use of information).</li>
+<li>Physical security methods (such as locks and alarm systems),</li>
+<li>Electronic security methods (such as passwords and firewalls), and</li>
+<li>Procedural security methods (such as rules regarding the handling and use of information).</li>
 </ul>
-<p>Due to the nature of the Internet and online communications, however, we cannot guarantee that any information transmitted online will remain confidential.&nbsp; We are not liable for the illegal acts of third-parties such as criminal hackers.</p>
-<p><b><u>E-mail Communications:</u>&nbsp; </b>Most e-mail, including any e-mail functionality on our website, does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately while in transit to us. If you wish to keep your information completely private, you should not use e-mail. We may send e-mail communications to you for a range of communications. &nbsp;</p>
-<p><b><u>Children’s Information:</u></b><i>&nbsp; </i>We do not intentionally collect any personal information from children under the age of 13 through this website.&nbsp; This website is not directed towards children under age 13.&nbsp; If you believe that we have collected personal information from a child under the age of 13 through this website, please contact us.</p>
-<p><b><u>U.S. Audience:</u></b>&nbsp; This site is intended for a United States audience.&nbsp; If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.</p>
-<p><b><u>California Privacy Rights:</u>&nbsp; </b>California Civil code § 1798.83 provides certain rights to California residents, including the right to request information regarding our disclosure of personal information to third-parties for marketing purposes.&nbsp; To request such information, please contact us as described below.</p>
-<p><b><u>Social Media</u></b>: We reserve the right to edit or remove postings for any reason, with or without notice. Prime is not responsible for the content of any user generated content, and we specifically advise you that user generated content may include information that is inaccurate, false and misleading.&nbsp;</p>
-<p>Please remember that information posted on any of our social media platforms is for general informational purposes only and should not be considered medical advice and should not replace a consultation with your health care professional. Always consult an appropriate health care professional for your specific needs. If you are experiencing a medical emergency, call 9-1-1.</p>
-<p>You consent and agree that we may respond to any post / re-post, on-line or off-line in other publications, or user generated content.</p>
-<p><b><u>Social Security Number Protection</u></b></p>
-<p>In the course of operating our business, Prime may collect or receive access to Social Security Numbers ("SSNs”).&nbsp; We protect the confidentiality of SSNs through various physical, technical, and administrative measures designed to protect against unauthorized access or use.&nbsp; Prime limits access to SSNs to purposes and uses that are lawful, and prohibits unlawful disclosure or use of SSNs.&nbsp;</p>
-<p><b><u>Contact us:</u>&nbsp; </b>To contact us regarding this Website Privacy Policy and our related privacy practices, contact Prime’s Privacy Department using the contact information below.</p>
-<p>Prime Therapeutics LLC<br>
-Attn: Privacy Officer<br>
+<p>Due to the nature of the Internet and online communications, however, we cannot guarantee that any information transmitted online will remain secure or confidential. By submitting information to us, you agree that you are aware and accept these risks. If you do not wish to submit your information electronically, do not do so, however in such case you may not be able to make use of the full functionality of the website. We are not liable for the illegal acts of third-parties such as criminal hackers.</p>
+<p><b>E-mail Communications:</b> Most e-mail, including any e-mail functionality on our website, does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately while in transit to us. If you wish to keep your information completely private, you should not use e-mail. We may send e-mail communications to you for a range of communications.</p>
+<p><b>Children’s Information:</b> We do not intentionally collect any personal information from children under the age of 13 through this website. This website is not directed towards children under age 13. If you believe that we have collected personal information from a child under the age of 13 through this website, please contact us using the contact information provided below.</p>
+<p><b>U.S. Audience:</b> This site is intended for a United States audience. If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.</p>
+<p><b>California Privacy Rights:</b> California Civil code § 1798.83 provides certain rights to California residents, including the right to request information regarding our disclosure of personal information to third-parties for marketing purposes. To request such information, please contact us as described below.</p>
+<p><b>Social Media:</b> We reserve the right to edit or remove postings for any reason, with or without notice. Prime is not responsible for the content of any user generated content, and we specifically advise you that user generated content may include information that is inaccurate, false and misleading.</p>
+<p>Please remember that information posted on this website or any of our social media platforms is for general informational purposes only and should not be considered medical advice and should not replace a consultation with your health care professional. Always consult an appropriate health care professional for your specific needs. If you are experiencing a medical emergency, call 9-1-1.</p>
+<p>You consent and agree that we may respond to any post/re-post, on-line or off-line in other publications, or user generated content.</p>
+<p><b>Social Security Number Protection:</b> In the course of operating our business, Prime may collect or receive access to Social Security Numbers ("SSNs"). We protect the confidentiality of SSNs through various physical, technical, and administrative measures designed to protect against unauthorized access or use. Prime limits access to SSNs to purposes and uses that are lawful, and prohibits unlawful disclosure or use of SSNs.</p>
+<p><b>Contact us:</b> To contact us regarding this Website Privacy Policy and our related privacy practices, contact Prime's Privacy Department using the contact information below.</p>
+<p>Prime Therapeutics LLC Attn: Privacy Officer<br>
 PO Box 64812<br>
-St. Paul, MN&nbsp; 55164-0812</p>
-<p>Telephone:&nbsp; 888.849.7840<br>
-E-mail: &nbsp;Privacy@primetherapeutics.com</p>
-<p>&nbsp;</p>
+St. Paul, MN 55164-0812<br>
+Telephone: 888.849.7840</p>
+<p>E-mail: <a href="mailto:Privacy@primetherapeutics.com">Privacy@primetherapeutics.com</a><br>
+<br>
+</p>
 
-
+</div>
 </div>
 </div>
 
@@ -2200,8 +3153,8 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-<div class="parsys footer_content_par iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys footer_content_par iparsys"><div class="scroll-to-top section">
+<div class="footer_content_par iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer_content_par iparsys parsys"><div class="scroll-to-top section"><div class="ALL~ALL~ALL~ALL~ALL~ALL scroll-to-top">
 
 
 
@@ -2216,6 +3169,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -2258,20 +3212,22 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 </div>
 </div>
-
+</div>
 </div>
 </div>
 </div>
 
 	
-<div class="footer_content_par_one parsys iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="footer_content_par_one parsys iparsys">
-</div>
+<div class="footer_content_par_one iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer_content_par_one iparsys parsys"></div>
 </div>
 </div>
 
-<div class="parsys footer_content_par_two iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys footer_content_par_two iparsys"><div class="standard-block section">
+<div class="footer_content_par_two iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer_content_par_two iparsys parsys"><div class="standard-block section">
+
+
+
 
 
 
@@ -2298,14 +3254,12 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 	
 
 
-	
-
-<div class="block solid box-shadow">
-	
-		<div class="block-table">
-			<div class="row">
-				<div class="cell-one">
-					<div class="cell_one_par parsys"><div class="member-plan-summary section">
+	<div id="standard-block" class="block solid   hideBlockForBCBSA ">
+		
+			<div class="block-table">
+				<div class="row">
+					<div class="cell-one">
+						<div class="cell_one_par parsys"><div class="member-plan-summary section"><div class="ALL~ALL~ALL~ALL~ALL~ALL member-plan-summary">
 
 
 
@@ -2320,6 +3274,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -2391,6 +3346,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
   
 <div class="clearfix"></div>
 
+
 <div class="not-authenticated">
   {{#if openEnrollment && PT.Context.getLineOfBusinessCode() == 'MEDICARE_D'}}
     <a class="change-health-plan-open-enrollment" on-click="changeHealthPlan" href="javascript:void(0);">Change plan/year</a>
@@ -2398,6 +3354,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
     <a class="change-health-plan" on-click="changeHealthPlan" href="javascript:void(0);">Change plan</a>
   {{/if}}
 </div>
+
 
 <div class="authenticated has-multiple-coverages">
   <a class="change-membership-selection" on-click="changeMembershipSelection" href="javascript:void(0);">Switch to another current or former plan</a>
@@ -2420,12 +3377,13 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 </div>
 </div>
+</div>
 
 </div>
 
-				</div>
-				<div class="cell-two">
-					<div class="cell_two_par parsys"><div class="parbase hs-richtext richtext section">
+					</div>
+					<div class="cell-two">
+						<div class="cell_two_par parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
 
 
 
@@ -2440,6 +3398,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -2473,25 +3432,25 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <h3>Member links</h3>
 <ul>
 <li><a href="/en/message-center.html">Message center</a></li>
-<li><a href="/en/account-settings.html"></a><a href="/en/prescriptions/prescription-history.html">Prescription history</a></li>
+<li><a href="/en/prescriptions/prescription-history.html">Prescription history</a></li>
 <li><a href="/en/account-settings.html">Manage my account</a></li>
 </ul>
 
-
 </div>
 </div>
+</div>
 
 </div>
 
+					</div>
 				</div>
 			</div>
-		</div>
-	
-	
-		
-			<div class="content-block border">
 		
 		
+			
+				<div class="content-block border">
+			
+			
 
 
 
@@ -2511,7 +3470,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-<div class="block_content_par parsys"><div class="member-profile-indicator section">
+<div class="block_content_par parsys"><div class="member-profile-indicator section"><div class="ALL~ALL~ALL~ALL~ALL~ALL member-profile-indicator">
 
 
 
@@ -2526,6 +3485,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -2560,7 +3520,8 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-<div id="member-profile-indicator"></div>
+	<div id="member-profile-indicator"></div>
+
 <script id="member-profile-indicator-template" type="template/ractive">
 	<div class="table-row">
 		{{#if loading}}
@@ -2588,16 +3549,16 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 </div>
 </div>
+</div>
 
 </div>
 
-		
 			</div>
+			
 		
 		
-	
-	
-</div></div>
+	</div>
+</div>
 <div class="standard-block section">
 
 
@@ -2622,19 +3583,16 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-	
-
-
-<div class="block solid box-shadow">
-	
-		<div class="block-table">
-			<div class="row">
-				<div class="cell-one">
-					<div class="cell_one_par parsys"><div class="parbase hs-richtext richtext section">
 
 
 
 
+	<div id="standard-block" class="block solid   hideBlockForBCBSA ">
+		
+			<div class="block-table">
+				<div class="row">
+					<div class="cell-one">
+						<div class="cell_one_par parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
 
 
 
@@ -2645,6 +3603,11 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+
+
+
+
+ 
 
 
 
@@ -2679,15 +3642,15 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <p>Our purpose is to help people get the medicine they need to feel better and live well. Learn more at<br>
 <a href="https://www.primetherapeutics.com">PrimeTherapeutics.com</a></p>
 
-
 </div>
 </div>
+</div>
 
 </div>
 
-				</div>
-				<div class="cell-two">
-					<div class="cell_two_par parsys"><div class="section contact-options">
+					</div>
+					<div class="cell-two">
+						<div class="cell_two_par parsys"><div class="contact-options section"><div class="ALL~ALL~ALL~ALL~ALL~ALL contact-options">
 
 
 
@@ -2702,6 +3665,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -2810,52 +3774,74 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 </div>
 </div>
+</div>
+<div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_two__standard_block__cell_two_par__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_two/standard_block/cell_two_par/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_two/standard_block/cell_two_par/hs_richtext" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
 
 </div>
 
+					</div>
 				</div>
 			</div>
-		</div>
-	
-	
-	
-</div></div>
-
-</div>
-</div>
-</div>
-
-<div class="footer_content_par_three parsys iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="footer_content_par_three parsys iparsys"><div class="standard-block section">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="block links ">
-	
-	
 		
 		
+		
+	</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer_content_par_three iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer_content_par_three iparsys parsys"><div class="standard-block section">
 
 
 
@@ -2875,7 +3861,19 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-<div class="block_content_par parsys"><div class="parbase hs-richtext richtext section">
+
+
+
+
+
+
+
+
+	<div id="standard-block" class="block links  ">
+		
+		
+			
+			
 
 
 
@@ -2890,6 +3888,27 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+
+
+
+
+
+<div class="block_content_par parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
@@ -2921,30 +3940,31 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 <ul>
-<li>Get the latest version of&nbsp;<a href="http://get.adobe.com/reader">Adobe Reader</a></li>
+<li>Get the latest version of&nbsp;<a href="https://get.adobe.com/reader">Adobe Reader</a></li>
 <li><a href="/en/about-prime/privacy-policy.html">Privacy Policies</a></li>
 <li><a href="/en/about-prime/terms-of-use.html">Terms of Use</a></li>
 <li><a href="/en/learn/dictionary.html">Dictionary</a></li>
+<li><a href="/en/about-prime/accessibility-statement.html">Accessibility Statement</a></li>
 </ul>
 
-
 </div>
 </div>
+</div>
 
 </div>
 
+			
+			
 		
 		
-	
-	
-</div></div>
-
+	</div>
+</div>
 </div>
 </div>
 </div>
 
-<div class="parsys iparsys footer_content_par_four"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys footer_content_par_four"><div class="standard-block section">
+<div class="footer_content_par_four iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer_content_par_four iparsys parsys"><div class="standard-block section">
 
 
 
@@ -2969,11 +3989,14 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-<div class="block insurance ">
-	
-	
+
+
+
+	<div id="standard-block" class="block insurance  ">
 		
 		
+			
+			
 
 
 
@@ -3015,7 +4038,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 <div class="hideable-content hidden">
-  <div class="collapse-expand-bar parbase ALL~ALL~ALL~ALL~ALL~ALL">
+  <div class="collapseBar collapse-expand-bar parbase"><div class="ALL~ALL~ALL~ALL~ALL~ALL collapse-expand-bar parbase">
 
 
 
@@ -3030,6 +4053,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -3079,11 +4103,12 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 </div>
 </div>
 </div>
+</div>
 
 
   <div class="content-area hidden">
     
-    <div class="contentArea parsys"><div class="parbase hs-richtext richtext section">
+    <div class="contentArea parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
 
 
 
@@ -3098,6 +4123,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -3130,7 +4156,57 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 <p>Our content providers have utilized reasonable care in collecting and reporting the information contained in the Products on this website and have obtained such information from sources believed to be reliable. However, the content providers do not warrant the accuracy of the information in the website, nor of codes, prices or other data available on this website. Information reflecting prices is not a quotation or offer to sell or purchase. The clinical information contained in the information is intended as a supplement to, and not a substitute for, the knowledge, expertise, skill, and judgment of physicians, pharmacists, or other healthcare professionals in patient care. The absence of a warning for a given drug or drug combination should not be construed to indicate that the drug or drug combination is safe, appropriate or effective in any given patient.</p>
 
+</div>
+</div>
+</div>
+<div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_four__standard_block__block_content_par__hideable_content__contentArea__hs_richtext_0--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/standard_block/block_content_par/hideable_content/contentArea/hs_richtext_0/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/standard_block/block_content_par/hideable_content/contentArea/hs_richtext_0" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
 </div>
 </div>
 
@@ -3143,47 +4219,247 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 </div>
 
+			
+			
 		
 		
-	
-	
-</div></div>
+	</div>
+</div>
+<div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_four__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/hs_richtext" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</div>
+</div>
+</div>
+<div class="column-control section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column-control-container ">
+	<div class="column-control-row">
+		
+			
+			
+			
+			
+				
+			
+			
+			<div class="column-control-col column-control-col-25  first-col">
+				<div class="par1 parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_four__column_control__par1__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/column_control/par1/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/column_control/par1/hs_richtext" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 </div>
 </div>
 
-<div class="parsys footer_content_par_five iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys footer_content_par_five iparsys"><div class="standard-block section">
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="block links ">
-	
-	
+			</div>
 		
+			
+			
+			
+			
+			
+			<div class="column-control-col column-control-col-25 ">
+				<div class="par2 parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_four__column_control__par2__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/column_control/par2/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/column_control/par2/hs_richtext" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+			</div>
 		
+			
+			
+			
+			
+			
+			<div class="column-control-col column-control-col-25 ">
+				<div class="par3 parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_four__column_control__par3__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/column_control/par3/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/column_control/par3/hs_richtext" data-can-dissociate="true">
+  
+  
 
 
 
@@ -3203,7 +4479,50 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-<div class="block_content_par parsys"><div class="badges standard-block section">
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+			</div>
+		
+			
+			
+			
+			
+			
+				
+			
+			<div class="column-control-col column-control-col-25  last-col">
+				<div class="par4 parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_four__column_control__par4__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/column_control/par4/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_four/column_control/par4/hs_richtext" data-can-dissociate="true">
+  
+  
 
 
 
@@ -3225,7 +4544,82 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-<div id="ch--__footer__footer_content_par_five__standard_block__block_content_par__badges--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/standard_block/block_content_par/badges/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/standard_block/block_content_par/badges" data-can-dissociate="true">
+</div>
+</div>
+</div>
+
+</div>
+
+			</div>
+		
+	</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer_content_par_five iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer_content_par_five iparsys parsys"><div class="column-control section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column-control-container ">
+	<div class="column-control-row">
+		
+			
+			
+			
+			
+				
+			
+			
+			<div class="column-control-col column-control-col-20  first-col">
+				<div class="par1 parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_five__column_control__par1__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/column_control/par1/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/column_control/par1/hs_richtext" data-can-dissociate="true">
   
   
 
@@ -3250,133 +4644,266 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-
-
-<div class="block badges ">
-	
-	
-		
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-
-	
-	
-	
-
-	
-		
-		
-		<div class="badge">
-			
-				<a href="http://www.urac.org/directory/DirectoryLinker.aspx?id=2E2500000002&amp;aid=4058&amp;Type=Accreditnet" target="_blank">
-			
-			<img src="/content/dam/MyPrime/FooterLogos/urac-pbm-accredited.png" title="URAC Accredited Pharmacy Benefit Management" alt="URAC Accredited Pharmacy Benefit Management">
-			
-				</a>
-			
-		</div>
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-
-	
-		
-		
-		<div class="badge">
-			
-				<a href="http://www.urac.org/directory/DirectoryLinker.aspx?id=2E2500000002&amp;aid=4057&amp;Type=Accreditnet" target="_blank">
-			
-			<img src="/content/dam/MyPrime/FooterLogos/urac-mail-accredited.png" title="URAC Accredited Mail Service Pharmacy" alt="URAC Accredited Mail Service Pharmacy">
-			
-				</a>
-			
-		</div>
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-
-	
-		
-		
-		<div class="badge">
-			
-				<a href="http://vipps.nabp.net/vipps.asp?url=primetherapeutics.com" target="_blank">
-			
-			<img src="/content/dam/MyPrime/FooterLogos/vipps-accredited.png" title="Verify VIPPS Accreditation" alt="Verify VIPPS Accreditation">
-			
-				</a>
-			
-		</div>
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-
-	
-
-
-
-		
-		
-	
-	
 </div>
 </div>
 </div>
 
 </div>
 
+			</div>
 		
-		
-	
-	
-</div></div>
+			
+			
+			
+			
+			
+			<div class="column-control-col column-control-col-20 ">
+				<div class="par2 parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_five__column_control__par2__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/column_control/par2/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/column_control/par2/hs_richtext" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center;"><a href="https://accreditnet2.urac.org//uracportal/Directory/CompanyView/11235" target="_blank"><img src="/content/dam/MyPrime/FooterLogos/urac-pbm-accredited.png" alt="URAC Accredited Pharmacy Benefit Management" title="URAC Accredited Pharmacy Benefit Management" label="URAC Accredited Pharmacy Benefit Management"></a></p>
+</div>
+</div>
+</div>
+
+</div>
+
+			</div>
+		
+			
+			
+			
+			
+			
+			<div class="column-control-col column-control-col-20 ">
+				<div class="par3 parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_five__column_control__par3__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/column_control/par3/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/column_control/par3/hs_richtext" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center;"><a href="https://reportcards.ncqa.org/#/other-health-care-organization/Other_001G000001W4AjvIAF" target="_blank"><img src="/content/dam/MyPrime/FooterLogos/ncqa-pbm-accredited.png" alt="NCQA Certified Pharmacy Benefit Information" title="NCQA Certified Pharmacy Benefit Information" label="NCQA Certified Pharmacy Benefit Information"></a></p>
+
+</div>
+</div>
+</div>
+
+</div>
+
+			</div>
+		
+			
+			
+			
+			
+			
+			<div class="column-control-col column-control-col-20 ">
+				<div class="par4 parsys"><div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_five__column_control__par4__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/column_control/par4/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/column_control/par4/hs_richtext" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center;"><a href="https://reportcards.ncqa.org/#/other-health-care-organization/Other_001G000001W4AjvIAF" target="_blank"><img src="/content/dam/MyPrime/FooterLogos/ncqa-um-accredited.png" alt="NCQA Certified Utilization Management/Credentialing" title="NCQA Certified Utilization Management/Credentialing" label="NCQA Certified Utilization Management/Credentialing"></a></p>
+
+</div>
+</div>
+</div>
+
+</div>
+
+			</div>
+		
+			
+			
+			
+			
+			
+				
+			
+			<div class="column-control-col column-control-col-20  last-col">
+				<div class="par5 parsys">
+</div>
+
+			</div>
+		
+	</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_content_par_five__hs_richtext--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/hs_richtext/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_content_par_five/hs_richtext" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -3385,8 +4912,8 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <hr class="hr-copyright">
 
 <div class="block copyright">
-	<div class="parsys iparsys footer_copyright_par"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys footer_copyright_par"><div class="last-updated-date section">
+	<div class="footer_copyright_par iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer_copyright_par iparsys parsys"><div class="last-updated-date section"><div class="ALL~ALL~ALL~ALL~ALL~ALL last-updated-date">
 
 
 
@@ -3401,6 +4928,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -3431,14 +4959,116 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-<div class="last-updated-date"><span>Last updated:</span> <span>08/08/2016</span>
+<div class="last-updated-date"><span>Last updated:</span> 
+
+<span id="last-updated-date-field"></span>
 </div>
 
+</div>
+</div>
+</div>
+<div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_copyright_par__hs_richtext_0--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_copyright_par/hs_richtext_0/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_copyright_par/hs_richtext_0" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>© 2019 Prime Therapeutics LLC. All rights reserved.</p>
+
+</div>
+</div>
+</div>
+<div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__footer__footer_copyright_par__hs_richtext_1--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/jcr:content/footer/footer_copyright_par/hs_richtext_1/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/jcr:content/footer/footer_copyright_par/hs_richtext_1" data-can-dissociate="true">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </div>
 </div>
-<div class="parbase hs-richtext richtext section">
+</div>
+<div class="hs-richtext richtext parbase section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-richtext richtext parbase">
 
 
 
@@ -3453,6 +5083,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -3483,12 +5114,10 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
-<p>© 2016 Prime Therapeutics LLC. All rights reserved.</p>
-
 
 </div>
 </div>
-
+</div>
 </div>
 </div>
 </div>
@@ -3515,7 +5144,34 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+        <script type="text/javascript">
+    (function(window, $, undefined) {
+      "use strict";
+      var PT_BingMaps = namespace("PT.BingMaps");
+      extend(PT_BingMaps, {
+        BING_API_KEY: "AksGwi1wscSJK_yrQ1Y9YDWKZwvZlsP6RK0Z4BDY5UBY8aF1uzyrgCwT8RH4NGRF",
+        
+        getMaps: function() { 
+          var mapsDeferred = null;
+          if (!mapsDeferred) {
+            mapsDeferred = $.Deferred();
 
+            if (window.Microsoft) {
+              mapsDeferred.resolve(Microsoft.Maps);
+            } else {
+              mapsDeferred.reject("");
+            }
+            mapsDeferred.fail(function(err) {
+              console.log("Unable to load maps." + err);
+            });
+          }
+
+          return mapsDeferred.promise();
+        } 
+        
+      });
+    })(window, window.jQuery);
+    </script>
 <iframe id="iFramePrintContent" title="Print Content" style="height: 0px; width: 0px; position: absolute;"></iframe></div>
 
 	</div>
@@ -3572,7 +5228,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <div data-modal-page-path="/content/myprime-v2/en/modals/system/system-error" style="display: inline;" class="cq-dd-paragraph">
 	
 	
-		<div class="modal_par parsys"><div class="system-error section generic-modal">
+		<div class="modal_par parsys"><div class="system-error generic-modal section">
 
 
 
@@ -3715,7 +5371,33 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <div data-modal-page-path="/content/myprime-v2/en/modals/exit" style="display: inline;" class="cq-dd-paragraph">
 	
 	
-		<div class="modal_par parsys"><div class="hs-generic-modal section site-exit generic-modal">
+		<div class="modal_par parsys"><div class="site-exit hs-generic-modal generic-modal section"><div class="ALL~ALL~ALL~ALL~ALL~ALL site-exit hs-generic-modal generic-modal">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__modal_par__site_exit--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/modals/exit/jcr:content/modal_par/site_exit/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/modals/exit/jcr:content/modal_par/site_exit" data-can-dissociate="true">
+  
+  
+
 
 
 
@@ -3780,11 +5462,20 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 <div class="modal-content">
-	<div class="modal-inner-content">
-		<p>When you leave our site, please note that the privacy policies and terms of use of the site you are going to will apply. They may be different from Prime's.</p>
-<p>Medicare Part D members: you are now leaving Prime's website for Medicare Part D information.</p>
+	<div class="modal-inner-content  modal-inner-content-walgreen">
+		<p>Prime Therapeutics is not responsible for the content, terms of use or privacy policy of the website to which you are going.</p>
 		
 	</div>
+    <div class="modal-inner-content modal-inner-content-default">
+		<p>Prime Therapeutics is not responsible for the content, terms of use or privacy policy of the website to which you are going.</p>
+		
+	</div>
+    <div class="optoutmessage site-opt-out-message modal-inner-content">
+
+<h3><span style="color: #00AFD8;"><b>Want to get home delivery service with only one click?</b></span></h3>
+<p><a href="/en/sso-consent.html">Go back</a> and select "Option A" to start your account setup with AllianceRx Walgreens Prime. You will only have to do this one time. We can send your basic member information for you. That way, you won't have to enter it yourself.</p>
+	
+    </div>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -3808,10 +5499,21 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+
 <footer>
-	<a href="#" id="site-exit-button" class="button button-primary no-exit-modal" target="_blank">
+	<!-- <form id="walgreen-redirect" action="" method="post" target="_tab">
+  		<input type="hidden" name="samlContent" id="samlContent"value=""><br>
+  		<input type="hidden" name="affiliateId" id="affiliateId" value="Prime"><br>
+  		<input type="hidden" name="target"      id="target"      value="ARxWP"><br>
+ 	</form> -->
+	
+    
+	<a href="#" id="site-exit-button" class="button button-primary no-exit-modal site-exit-button-default" target="_blank">
 		Continue</a>
+	<a href="#" id="site-exit-button" class="button button-primary no-exit-modal site-exit-button-optout" target="_blank">
+		Leave MyPrime.com</a>		
 	<button class="button button-link-as-button cancel">Cancel</button>
+
 </footer>
 
 
@@ -3822,18 +5524,49 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
   var PT_Redirect = namespace("PT.Redirect");
 
   extend(PT_Redirect, {
-  	siteExitWhiteList: [ {
+   	siteExitWhiteList: [ {
   "site" : "myprime.com"
 }, {
   "site" : "primehelps.com"
 }, {
   "site" : "myprimemail.com"
+}, {
+  "site" : "https://www.bridgespanhealth.com/group/bridgespan_individual/member-dashboard"
+}, {
+  "site" : "https://www.asuris.com/group/asuris_individual/member-dashboard"
+}, {
+  "site" : "https://www.regence.com/group/regence_individual/member-dashboard"
+}, {
+  "site" : "https://www.asuris.com/group/asuris_medicare/member-dashboard"
+}, {
+  "site" : "https://www.regence.com/group/regence_medicare/member-dashboard"
+}, {
+  "site" : "regence.com"
+}, {
+  "site" : "asuris.com"
+}, {
+  "site" : "bridgespanhealth.com"
+}, {
+  "site" : "fepblue.org/en"
 } ]
   });
   
 })();
 </script>
 
+
+
+<script type="text/javascript">
+(function(window, $) {
+  $(window).bind("pageshow", function(event) {
+    if (event.originalEvent.persisted) {
+      window.location.reload();
+    }
+  });
+})(window, window.jQuery);
+</script>
+</div>
+</div>
 </div>
 
 </div>
@@ -3875,7 +5608,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <div data-modal-page-path="/content/myprime-v2/en/modals/pre-login-modal" style="display: inline;" class="cq-dd-paragraph">
 	
 	
-		<div class="modal_par parsys"><div class="pre-login section generic-modal">
+		<div class="modal_par parsys"><div class="pre-login generic-modal section">
 
 
 
@@ -3970,7 +5703,32 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 	<div style="display: inline;" class="cq-dd-paragraph">
 		
 		
-			<div class="parsys content_par"><div class="sign-in section">
+			<div class="content_par parsys"><div class="sign-in section"><div class="ALL~ALL~ALL~ALL~ALL~ALL sign-in">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<div id="ch--__content_par__sign_in--0" class="hierarchy-enabled" data-path="/content/myprime-v2/en/sign-in/jcr:content/content_par/sign_in/ALL/ALL~ALL~ALL~ALL~ALL~ALL" data-root-path="/content/myprime-v2/en/sign-in/jcr:content/content_par/sign_in" data-can-dissociate="true">
+  
+  
 
 
 
@@ -4011,7 +5769,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 		</div>
 		<div class="field-container checkbox">
 			<label class="label-remember-me"><input name="sign-in-form-remember-me" class="control-checkbox" type="checkbox" value="REMEMBER_ME"> <span>Remember me</span>
-			</label> <a class="has-info-popover no-border" href="#remember-me-popover-4685cdb6-a1b8-44a4-868b-0853f5f82b39"><i class="fa fa-question-circle" aria-hidden="true"></i><span class="visuallyhidden">Remember me</span></a>
+			</label> <a class="has-info-popover no-border" href="#remember-me-popover-b3621cf3-06b1-41cc-ab96-e3b3e1f496b9"><i class="fa fa-question-circle" aria-hidden="true"></i><span class="visuallyhidden">Remember me</span></a>
 		</div>
 		<div class="form-info" aria-live="polite"></div>
 		<div class="field-container">
@@ -4026,7 +5784,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 		</div>
 	</form>
 </div>
-<div id="remember-me-popover-4685cdb6-a1b8-44a4-868b-0853f5f82b39" class="hidden">
+<div id="remember-me-popover-b3621cf3-06b1-41cc-ab96-e3b3e1f496b9" class="hidden">
 	<button class="info-popover-close" role="button" aria-disabled="false" title="close">
 		<span class="info-popover-close-icon"></span> <span class="info-popover-close-text visuallyhidden">Close</span>
 	</button>
@@ -4065,7 +5823,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <div data-modal-page-path="/content/myprime-v2/en/modals/site-redirect-modal" style="display: inline;" class="cq-dd-paragraph">
 	
 	
-		<div class="modal_par parsys"><div class="hs-generic-modal section generic-modal">
+		<div class="modal_par parsys"><div class="hs-generic-modal generic-modal section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-generic-modal generic-modal">
 
 
 
@@ -4080,6 +5838,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -4164,6 +5923,10 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 </ul>
 		
 	</div>
+    <div class="optoutmessage modal-inner-content">
+
+	
+    </div>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -4212,6 +5975,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 </div>
 </div>
+</div>
 
 </div>
 
@@ -4244,12 +6008,12 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
   var PT_SignIn_Authoring = namespace("PT.SignIn.Authoring");
   extend(PT_SignIn_Authoring, {
   "INVALID_PASSWORD" : "Invalid username and/or password. </br><a href=\"/content/myprime-v2/en/forgot-password.html\">Recover your username/password</a>",
-  "NO_CREDENTIALS_FOUND" : "We could not verify your account. </br><a href=\"/content/myprime-v2/en/forgot-password.html\">Recover your username/password</a>",
+  "NO_CREDENTIALS_FOUND" : "Invalid username and/or password. </br><a href=\"/content/myprime-v2/en/forgot-password.html\">Recover your username/password</a>",
   "ELIGIBILITY_NOT_FOUND" : "Your formulary or network could not be verified. Please call the number on the back of your pharmacy member ID card.",
   "SINGLE_ELIGIBILITY_NOT_FOUND" : "We could not verify your membership. Please call the number on the back of your pharmacy member ID card.",
   "ELIGIBILITY_NOT_VERIFIED" : "Your eligibility could not be verified. Please call the number on the back of your pharmacy member ID card.",
-  "EMPTY_USERNAME_PASSWORD_FIELDS" : "Please enter your username and password.",
-  "PERSON_NOT_FOUND" : "We could not verify your account. </br><a href=\"/content/myprime-v2/en/forgot-password.html\">Recover your username/password</a>",
+  "EMPTY_USERNAME_PASSWORD_FIELDS" : "Username and password must be completed.",
+  "PERSON_NOT_FOUND" : "Invalid username and/or password. </br><a href=\"/content/myprime-v2/en/forgot-password.html\">Recover your username/password</a>",
   "MULTIPLE_PERSONS_IDENTIFIED" : "Multiple members have been identified. We could not verify your account. ",
   "ELIGIBILITY_EXPIRED" : "Your account is no longer active. Questions? Call the number on the back of your pharmacy member ID card. ",
   "ACCOUNT_LOCKED" : "Your account has been locked. </br><a href=\"/content/myprime-v2/en/forgot-password.html\">Recover your username/password</a>",
@@ -4260,6 +6024,9 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 })(window, window.jQuery);
 </script>
+
+</div>
+</div>
 </div>
 
 </div>
@@ -4297,7 +6064,9 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 	<div style="display: inline;" class="cq-dd-paragraph">
 		
 		
-			<div class="parsys content_par"><div class="section plan-selector">
+			<div class="content_par parsys"><div class="plan-selector section">
+
+
 
 
 
@@ -4330,15 +6099,21 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 <script id="continue-without-sign-in-template" type="template/ractive">
-  <form>
+  <form id="plan-selector-form" class="plan-selector-form">
     {{#if true}}
       <div>
-        <label for="cwsi-plan" >What is your health plan? </label><br/>
+        <label for="cwsi-plan" >What is your health plan?</label><br/>
         <select id="cwsi-plan" class="control-select" value="{{selected.clientCode}}">
           <option selected="{{selected.clientCode == 'ALL' || !selected.clientCode}}" value="ALL" disabled>Select one</option>
           {{#each clients}}
             {{#if displayClientPreLogin}}
+				{{#if !(clientCode == "ANH" || clientCode == "BSH" || clientCode == "RBI" || clientCode == "RBU" || clientCode == "RBW" ||clientCode == "RBO")}}
+				{{#if clientCode == "BCBSA"}}
+					<option selected="{{selected.clientCode == clientCode}}" value="{{clientCode}}">BCBS Service Benefit Plan (FEP&reg;)</option>
+					{{else}}
               <option selected="{{selected.clientCode == clientCode}}" value="{{clientCode}}">{{clientName}}</option>
+                  {{/if}}
+				{{/if}}
             {{/if}}
           {{/each}}
         </select>
@@ -4351,7 +6126,9 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
     
     {{#if client && showLOBSelect()}}
       <div>
-        <label for="cwsi-medicare-d">Are you a Medicare Part D member? </label><br/>
+        <label for="cwsi-medicare-dlabel" id="cwsi-medicare-dlabel">Are you a Medicare Part D member, shopping for a Medicare plan with prescription drug coverage, or a <a href="#">Retirement Benefit Enrollee</a>?</label>
+		<span id="cwsi-medicare-d-txt" style="display: none;">Your former employer provides prescription drug insurance as a retirement benefit.</span>
+		<br/>
         <select id="cwsi-medicare-d" class="control-select" value="{{selected.lineOfBusinessCode}}">
           <option selected="{{selected.lineOfBusinessCode == 'ALL'}}" value="ALL" disabled>Select one</option>
           <option selected="{{selected.lineOfBusinessCode == 'MEDICARE_D'}}" value="MEDICARE_D">Yes</option>
@@ -4365,15 +6142,15 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
         <label for="cwsi-plan-year">Select a plan year:</label><br/>
         <select id="cwsi-plan-year" class="control-select" value="{{selected.contentYear}}">
           <option selected="{{selected.contentYear == 'ALL'}}" value="ALL" disabled>Select one</option>
-          <option selected="{{selected.contentYear == PT.thisYear}}" value="{{PT.thisYear}}">Current year 2016</option>
-          <option selected="{{selected.contentYear == PT.nextYear}}" value="{{PT.nextYear}}">Next year 2017</option>
+          <option selected="{{selected.contentYear == PT.thisYear}}" value="{{PT.thisYear}}">Current year 2018</option>
+          <option selected="{{selected.contentYear == PT.nextYear}}" value="{{PT.nextYear}}">Next year 2019</option>
         </select>
       </div>
     {{/if}}
 
     {{#if planTypesForYear && showPlanTypeSelect()}}
       <div>
-        <label for="cwsi-plan-type">What is your health plan type? </label><br/>
+        <label for="cwsi-plan-type">What is your health plan type? <i>If you are unsure, contact your benefits administrator.</i></label><br/>
         <select id="cwsi-plan-type" class="control-select" value="{{selected.planTypeCode}}">
           <option selected="{{selected.planTypeCode == 'ALL'}}" value="ALL" disabled>Select one</option>
           {{#each planTypesForYear}}
@@ -4389,6 +6166,11 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
       <button type="button" on-click="continue-button-clicked" class="button button-primary pull-right" disabled="{{!continueButtonEnabled}}">Continue</button>
     </div>
   </form>
+	<div id="fep-plan-type" style="display:none"> 
+			<h3 style="margin-top: 0;">Federal Employee Program members</h3>
+<p style="margin-bottom: 5px;">For pharmacy benefit information, please go to <a class="external-link" href="https://www.fepblue.org/en">fepblue.org<i class="fa fa-external-link" style="margin-left: 4px;"></i></a></p>
+
+	</div>
 </script>
 <div id="continue-without-sign-in"></div></div>
 
@@ -4413,7 +6195,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
   var PT_Modal_PreLogin_Authoring = namespace("PT.Modal.PreLogin.Authoring");
   extend(PT_Modal_PreLogin_Authoring, {
   "SIGN_IN_TITLE" : "Sign in",
-  "PLAN_SELECTOR_TITLE" : "Select your health plan"
+  "PLAN_SELECTOR_TITLE" : "<p id=\"planSelectorLabel\" style=\"margin-top: 0px;\">Select your health plan</p>\n<p id=\"benefitInformation\">or <a href=\"/content/myprime-v2/en/sign-in.html\">sign in</a> or <a href=\"/en/registration.html\" class=\"registration-link\">register</a> to get prices and information specific to your benefits</p>\n"
 });
 
 })(window, window.jQuery);
@@ -4478,6 +6260,152 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 </div>
 
+<div id="shopper-plan-selector-modal" class="modal-container shopper-plan-selector-modal">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-modal-page-path="/content/myprime-v2/en/modals/shopper-plan-selector" style="display: inline;" class="cq-dd-paragraph">
+	
+	
+		<div class="modal_par parsys"><div class="shopper-plan-selector section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="shopper-plan-selector-template" type="template/ractive">
+  <form id="shopper-plan-selector-form" class="plan-selector-form">
+	<div class="shopper-plan-title">
+        <p>Plan Preview</p>
+    </div>
+	<hr class="margin-top">
+	<div class="shopper-plan-footer">
+	<div class="shopper-footer-note">
+        <p>Select the health plan you would like to preview from the options below. </p>
+    </div>	
+    {{#if true}}
+    <div>
+        <label for="cwsi-plan" >Plan year:</label><br/>
+        <select id="cwsi-year" class="control-select" tabindex="-1" value="{{selected.YearCase}}">
+          <option disabled selected value="">Select one</option>
+          <!--{{#each tempYearsLists}}         
+              <option value="{{marketProductYear}}">{{marketProductYear}}</option>
+          {{/each}}-->
+        </select>
+		{{#if selected.YearCase}}
+		 	<div>
+          		<label for="cwsi-plan" >Select health plan:</label><br/>
+          		<select id="cwsi-year-plan" class="control-select" tabindex="-1" value="{{selected.YearPlanCase}}">
+           			<option disabled selected value="">Select one</option>
+           			{{#each PlansList}}         
+              			<option value="{{name}}">{{name}}</option>
+           			{{/each}}
+          		</select>
+		 		{{#if selected.YearPlanCase}}
+		 			<div>
+          				<label for="cwsi-plan" >Select health plan type:</label><br/>
+          				<select id="cwsi-year-sub-plan" class="control-select" tabindex="-1" value="{{selected.YearSubPlanCase}}">
+           					<option disabled selected value="">Select one</option>
+           					{{#each SubPlansList}}         
+              					<option value="{{name}}">{{name}}</option>
+           					{{/each}}
+          				</select>
+        				{{#if selected.YearSubPlanCase}}
+							 <div>
+          						<label for="cwsi-plan" >Select health plan variation:</label><br/>
+          						<select id="cwsi-year-super-sub-plan" class="control-select" tabindex="-1" value="{{selected.YearSuperSubPlanCase}}">
+           							<option disabled selected value="">Select one</option>
+           							{{#each SuperSubPlansList}}         
+              							<option value="{{name}}">{{name}}</option>
+           							{{/each}}
+          						</select>
+		 				    </div>
+        				{{/if}}
+		 			</div>
+        		{{/if}}
+		 	</div>
+        {{/if}}
+      </div>
+    {{else}}
+      <div>
+        <span>{{context('clientCode', 'ALL')}}</span>
+      </div>
+    {{/if}}
+
+    <div>
+      <button id="btn-plan-selector" type="button" on-click="done-button-clicked" class="button button-primary pull-right margin-bottom margin-top" disabled="{{!continueButtonEnabled}}">Continue</button>
+    </div>
+	<div class="shopper-footer-note">
+        <p>Pricing is subject to change once the plan is effective and during the plan year. Age and gender are not factored into pricing and coverage information. Not all members will qualify for all plans. Note that the information shown may be different from your current benefits.</p>
+    </div>
+	</div>
+
+  </form>
+
+</script>
+
+<!-- <script id="test-template" type="template/ractive"><h1>test template</h1></script>-->
+<div id="shopper-plan-selector"></div>
+</div>
+
+</div>
+
+	
+</div>
+
+
+
+
+</div>
+
 <div id="membership-selection-modal" class="modal-container always-prevent-close membership-selection-modal">
     
 
@@ -4507,7 +6435,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <div data-modal-page-path="/content/myprime-v2/en/modals/membership-selection-modal" style="display: inline;" class="cq-dd-paragraph">
 	
 	
-		<div class="modal_par parsys"><div class="membership-selection section generic-modal">
+		<div class="modal_par parsys"><div class="membership-selection generic-modal section">
 
 
 
@@ -4573,7 +6501,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 <div class="modal-content">
 	<div class="modal-inner-content">
-		<p>Choose from one of your prescription drug plans below. By changing your plan, information on MyPrime may change depending on your benefits, dependents, and other plan information. Selecting a different plan will direct you to the home page. Pricing on MyPrime is based on your primary benefit coverage.</p>
+		<p>Choose from one of your prescription drug plans below. By changing your plan, information may change depending on your benefits, dependents, and other plan information. Selecting a different plan will direct you to the home page. Pricing is based on your primary benefit coverage.</p>
 		<div id="membership-loading" class="loading">
 			<img src="/etc/designs/myprime-v2/images/common/spinner-blue-large.gif" alt="loading">
 		</div>
@@ -4592,7 +6520,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 					{{clientName}}
 				</div>
 				<div class="membership-termed">
-					This plan is no longer active. Some features of the website may not be available. 
+					This plan is no longer active. Some features of the site may not be available. 
 				</div>
 				<div class="membership-property membership-line-of-business">
 					<dt>
@@ -4719,7 +6647,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <div data-modal-page-path="/content/myprime-v2/en/modals/password-reset" style="display: inline;" class="cq-dd-paragraph">
 	
 	
-		<div class="modal_par parsys"><div class="hs-generic-modal change-temporary-password section generic-modal">
+		<div class="modal_par parsys"><div class="change-temporary-password hs-generic-modal generic-modal section">
 
 
 
@@ -4891,7 +6819,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <div data-modal-page-path="/content/myprime-v2/en/modals/registration/registration-age-limit" style="display: inline;" class="cq-dd-paragraph">
 	
 	
-		<div class="modal_par parsys"><div class="section generic-modal">
+		<div class="modal_par parsys"><div class="generic-modal section">
 
 
 
@@ -4960,6 +6888,10 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 		<p>Unable to register/log in to MyPrime.com since user is under the required minimum age. Please contact member services at 1.877.794.3574 for assistance.</p>
 		
 	</div>
+    <div class="optoutmessage modal-inner-content">
+
+	
+    </div>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -5046,7 +6978,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <div data-modal-page-path="/content/myprime-v2/en/modals/language-redirect" style="display: inline;" class="cq-dd-paragraph">
 	
 	
-		<div class="modal_par parsys"><div class="hs-generic-modal language-redirect section generic-modal">
+		<div class="modal_par parsys"><div class="language-redirect hs-generic-modal generic-modal section">
 
 
 
@@ -5115,6 +7047,10 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 		<p>Esta información sólo está disponible en inglés. Ahora será dirigido a la página en inglés. Lamentamos las molestias.</p>
 		
 	</div>
+    <div class="optoutmessage modal-inner-content">
+
+	
+    </div>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -5183,7 +7119,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 <div data-modal-page-path="/content/myprime-v2/en/modals/registration/confidential-communication" style="display: inline;" class="cq-dd-paragraph">
 	
 	
-		<div class="modal_par parsys"><div class="hs-generic-modal section generic-modal">
+		<div class="modal_par parsys"><div class="hs-generic-modal generic-modal section"><div class="ALL~ALL~ALL~ALL~ALL~ALL hs-generic-modal generic-modal">
 
 
 
@@ -5198,6 +7134,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -5276,6 +7213,10 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 		<p>First time to MyPrime.com? Please contact us directly at 877-794-3574 to set up your profile.</p>
 		
 	</div>
+    <div class="optoutmessage modal-inner-content">
+
+	
+    </div>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -5322,6 +7263,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+</div>
 </div>
 </div>
 
@@ -5381,7 +7323,8 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
     EN_HOME: "/en.html",
     ES_HOME: "/es.html",
     SIGN_IN: "/en/sign-in.html",
-    PLAN_SELECTOR: "/en/plan-selector.html"
+    PLAN_SELECTOR: "/en/plan-selector.html",
+    SHOPPERPLAN_SELECTOR: ""
   });
   
   var PT_Redirect = namespace("PT.Redirect");
@@ -5395,12 +7338,13 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
   
   window.PRIME_MAIL_ID = "4534334";
   window.PRIME_SPECIALTY_ID = "5710098";
-  window.ALBUQUERQUE_PRIME_MAIL_ID = "3211377"; 
+  window.ALBUQUERQUE_PRIME_MAIL_ID = "3211377";
+  window.WALGREENS_MAIL_ID = "0320793";
 
 })(window);
 </script>
 
-<div class="ALL~ALL~ALL~ALL~ALL~ALL common-authoring-js-include">
+<div class="common-authoring-js-include"><div class="ALL~ALL~ALL~ALL~ALL~ALL common-authoring-js-include">
 
 
 
@@ -5415,6 +7359,7 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
 
 
 
+ 
 
 
 
@@ -5450,22 +7395,145 @@ E-mail: &nbsp;Privacy@primetherapeutics.com</p>
   "use strict";
 
   var PT_CommonAuthoring = namespace("PT.Common.Authoring");
-  extend(PT_CommonAuthoring, null);
+  extend(PT_CommonAuthoring, {
+  "Medicines" : {
+    "Pricing" : {
+      "FILL_WITH_PRIMEMAIL_LABEL" : "Fill with PrimeMail ",
+      "AVAILABLE_TO_FILL_REMINDER_LINK_LABEL" : "Set up order reminders",
+      "PENALTY_NETWORK_AMOUNT_CHECKED" : "false",
+      "SAVE_WITH_NO_PRIMEMAIL_LINK_TEXT" : "See how much you can save ",
+      "PLAN_PAYS_MESSAGE" : "",
+      "PENALTY_CHANNEL_AMOUNT" : "Additional cost: ",
+      "PENALTY_INFORMATIONAL_MESSAGE_AFTER_COST" : "if you choose a medicine listed on your health plan’s drug list (formulary). You paid an additional cost (Benefit Selection Cost) because this medicine isn’t on the formulary. <a href=\"/content/myprime-v2/en/medicines/find-medicine.html\">Find medicines</a><br>\n&nbsp;",
+      "PENALTY_NETWORK_INFO_MSG_BEFORE" : "You could save",
+      "PLAN_PAYS_CHECKBOX" : "false",
+      "MEDICAL_BENEFIT_MESSAGE" : "[Check Medical Benefit]",
+      "SPECIALTY_PRICING_CHECKBOX" : "false",
+      "DEDUCTIBLE_APPLIES_MESSAGE" : "<p>Enter Deductible Applies Message</p>\n",
+      "PRESCRIPTION_NUMBER_LABEL" : "Prescription number: ",
+      "INFORMATION_ICON_CHECKBOX" : "false",
+      "PENALTY_DRUG_OVERRIDE_MSG" : "",
+      "REBATE_MESSAGE_CHECKBOX" : "false",
+      "YOUR_COST_MESSAGE" : "",
+      "ALL_PRICING_LABEL" : "See all pricing options",
+      "MEDICINE_UNAVAILABLE_MESSAGE" : "This medicine is not available to fill with home delivery",
+      "SHOW_NON_SPECIALITY_MEDICAL_DRUG_MESSAGE_CHECKBOX" : "false",
+      "AVAILABLE_TO_FILL_REMINDER_MESSAGE" : "You will receive updates for this medicine by email or text.",
+      "ADDITIONAL_PROCESSING_MESSAGE" : "Please allow up to 3 days of additional processing time for this medicine.",
+      "TOTAL_COST_CHECKBOX" : "false",
+      "SIGN_IN_TO_PRICE_MESSAGE" : "Sign in to see cost and coverage information",
+      "PENALTY_COST_MESSAGE" : "",
+      "PENALTY_DRUG_AMOUNT_CHECKED" : "false",
+      "REBATE_MESSAGE" : "[enter rebate message]",
+      "PENALTY_DRUG_INFO_MSG_AFTER" : "if you choose a medicine listed on your health plan’s drug list (formulary). You paid an additional cost (Benefit Selection Cost) because this medicine isn’t on the formulary. &lt;a href=&#034;/content/myprime-v2/en/medicines/find-medicine.html&#034;&gt;Find medicines&lt;/a&gt;&lt;br&gt;\n&amp;nbsp;",
+      "CLASS_II_MESSAGE" : "<p>Due to pharmacy regulations, an original prescription for Class II controlled substances must be mailed to <a href=\"https://www.walgreens.com/images/adaptive/pharmacy/pdf/Mail_Service_Reg_Prescr_Order_Form.pdf\" target=\"_blank\">AllianceRx Walgreens Prime</a> or sent directly from the prescriber via electronic prescribing (eRx).</p>\n",
+      "YOUR_30_DAY_COST_LABEL" : "Your cost: ",
+      "PENALTY_CHANNEL_INFO_MSG_BEFORE" : "You could save",
+      "CAN_NOT_PRICE_MESSAGE" : "Sorry, cost information is not available for this medicine. ",
+      "ADDITIONAL_PROCESSING_LINK_LABEL" : "Learn more",
+      "SPECIAL_REQUIREMENTS_MESSAGE" : "This medicine has additional requirements",
+      "PENALTY_INFORMATIONAL_MESSAGE_BEFORE_COST" : "You could save&nbsp;",
+      "YOUR_POST_DEDUCTIBLE_SPECIALTY_COST_LABEL" : "[enter your specialty cost label]",
+      "APRIL_LABEL" : "April",
+      "REFILL_COUNT_TEXT" : "refills remaining",
+      "YOUR_POST_DEDUCTIBLE_COST_MESSAGE" : "",
+      "TOTAL_COST_LABEL" : "Total cost:",
+      "SAVE_WITH_PRIMEMAIL_BEFORE_LINK_TEXT" : "",
+      "CLASS_TWO_CHECKBOX" : "false",
+      "TOTAL_COST_MESSAGE" : "",
+      "SHOW_SPECIALITY_NON_FORMULARY_MEDICINE_MESSAGE_CHECKBOX" : "false",
+      "PLAN_PAYS_LABEL" : "Plan paid:",
+      "SAVE_WITH_PRIMEMAIL_AFTER_LINK_TEXT" : "with home delivery by AllianceRx Walgreens Prime",
+      "MAY_LABEL" : "May",
+      "REJECT_LEARN_MORE_LINK" : "Learn more",
+      "NOVEMBER_LABEL" : "November",
+      "NON_SPECIAL_REQUIREMENTS_MESSAGE" : "<p>Enter Non-Specialty Requirements Message</p>\n",
+      "ADDED_TO" : "Added to ",
+      "SIMILAR_MEDICINE_MESSAGE" : "<p>There is a <a href=\"/content/myprime-v2/en/medicines/current-medicines.html\">similar prescription</a> for this member that has refills remaining.</p>\n",
+      "YOUR_90_DAY_COST_LABEL" : "Your cost: ",
+      "DAYS_TEXT" : "days",
+      "PRICING_TITLE" : "<p>90-day home delivery</p>\n",
+      "AUGUST_LABEL" : "August",
+      "MEDICAL_BENEFIT_CHECKBOX" : "false",
+      "PENALTY_DRUG_INFO_MSG_BEFORE" : "You could save",
+      "YOUR_SPECIALTY_COST_LABEL" : "Your cost: ",
+      "INFORMATION_ICON_MESSAGE" : "[enter information icon message]",
+      "PENALTY_CHANNEL_OVERRIDE_MSG" : "",
+      "PENALTY_NETWORK_INFO_MSG_AFTER" : "if you use an in-network specialty pharmacy. You paid an additional cost (benefit selection cost) for filling your prescription at an out-of-network specialty pharmacy. &lt;a href=&#034;/content/myprime-v2/en/find-pharmacy.html&#034;&gt;Find a pharmacy&lt;/a&gt;&lt;br&gt;\n&amp;nbsp;",
+      "COST_UNAVAILABLE_MESSAGE" : "Sorry, cost information is not available right now. Please try again. ",
+      "YOUR_90_DAY_COST_WALGREENS_LABEL" : "Your cost:",
+      "JUNE_LABEL" : "June",
+      "PENALTY_NETWORK_OVERRIDE_MSG" : "",
+      "FILL_WITH_PRIMEMAIL_OVERRIDE_CHECKBOX" : "false",
+      "SAVE_WITH_NO_PRIMEMAIL_AFTER_LINK_TEXT" : "with the generic version of this medicine",
+      "NON_SPECIALITY_MEDICAL_DRUG_MESSAGE" : "[enter non-speciality medical drug message]",
+      "BOXES_TEXT" : "boxes",
+      "DAY_TEXT" : "day",
+      "SHOW_PRICING_FOR_REJECT_75" : "false",
+      "PRIMEMAIL_LABEL" : "PrimeMail",
+      "OVER_TEXT" : "per",
+      "YOUR_POST_DEDUCTIBLE_90_DAY_COST_WALGREENS_LABEL" : "[enter your 90 day walgreens cost label]",
+      "PENALTY_CHANNEL_INFO_MSG_AFTER" : "if you fill this prescription through your health plan’s home delivery pharmacy service. You paid an additional cost (Benefit Selection Cost) because you filled at a retail pharmacy. &lt;a href=&#034;https://www.walgreens.com/primemail&#034; target=&#034;_blank&#034;&gt;Fill by mail&lt;/a&gt;&lt;br&gt;\n&amp;nbsp;",
+      "SPECIALITY_NON_FORMULARY_MESSAGE" : "[enter speciality Non Formulary Medicine Message]",
+      "SAVE_WITH_NO_PRIMEMAIL_BEFORE_LINK_TEXT" : "",
+      "FILL_WITH_PRIMEMAIL_UNAUTHENTICATED_LABEL" : "Sign in to fill with PrimeMail",
+      "JANUARY_LABEL" : "January",
+      "MASKED_DRUG_MESSAGE" : "Hidden for privacy",
+      "SEPTEMBER_LABEL" : "September",
+      "FOR" : "For",
+      "FEBRUARY_LABEL" : "February",
+      "JULY_LABEL" : "July",
+      "AVAILABLE_TO_FILL_MESSAGE" : "Available to fill ",
+      "SEE_ALL_PRICING_CHECKBOX" : "false",
+      "CLASS_TWO_PRICING_TITLE" : "[Enter Class Two Pricing title]",
+      "YOUR_POST_DEDUCTIBLE_30_DAY_COST_LABEL" : "[enter your 30 day cost label]",
+      "OCTOBER_LABEL" : "October",
+      "YOUR_POST_DEDUCTIBLE_90_DAY_COST_LABEL" : "[enter your 90 day cost label]",
+      "CHECKOUT_URL" : "/content/myprime-v2/en/checkout.html",
+      "AVAILABLE_TO_FILL_REMINDER_LINK_URL" : "/content/myprime-v2/en/account-settings/communication-preferences",
+      "YOUR_POST_DEDUCTIBLE_COST_CHECKBOX" : "false",
+      "YOUR_COST_CHECKBOX" : "false",
+      "PENALTY_NETWORK_AMOUNT" : "Additional cost: ",
+      "DECEMBER_LABEL" : "December",
+      "MARCH_LABEL" : "March",
+      "LINK_TO_THERAPEUTIC_ALTERNATIVES" : "[Link To Therapeutic Alternatives]",
+      "SPECIALTY_MESSAGE" : "30-day specialty cost",
+      "PENALTY_COST_CHECKBOX" : "false",
+      "PRIMEMAIL_CART" : "PrimeMail cart",
+      "GENERIC_EQUIVALENT_OF_TEXT" : "Generic version of ",
+      "SAVE_WITH_PRIMEMAIL_LINK_TEXT" : "See how much this medicine costs",
+      "BOX_TEXT" : "box",
+      "TOTAL_PENALTY_AMOUNT" : "Additional cost: ",
+      "COST_UNAVAILABLE_MESSAGE_DUAL" : "Cost determined at time of purchase",
+      "PENALTY_CHANNEL_AMOUNT_CHECKED" : "false",
+      "PENALTY_DRUG_AMOUNT" : "Additional cost: ",
+      "PENALTY_AMOUNT" : "Additional cost: ",
+      "HIDE_PRICING_AND_MESSAGES_CHECKBOX" : "false",
+      "ADDITIONAL_PROCESSING_MODAL_URL" : "/content/myprime-v2/en/modals/additional-processing",
+      "SAVINGS_MESSAGES_CHECKBOX" : "false"
+    },
+    "DisablePricing" : {
+      "DISABLE_PRICING_CHECKBOX" : "false",
+      "DISABLED_PRICING_ERROR_MSG" : "Sorry, this information is not available right now. Please try again soon."
+    }
+  }
+});
 
 })(window);
 </script>
 </div>
 </div>
+</div>
 
 	
-<script type="text/javascript" src="/etc.clientlibs/myprime-v2/clientlibs/vendor.b08a1dea0e23574c2b456c74db346e90.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/myprime-v2/clientlibs/vendor.a8a148c96e136c2848622ab48b1f0d97.js"></script>
 
-<script type="text/javascript" src="/etc.clientlibs/memberportal-common/clientlibs/content-hierarchy.014deea6e2837dacb480049c51f876b8.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/memberportal-common/clientlibs/content-hierarchy.194e8aa528f5957e2fc1662234965398.js"></script>
 
 <script type="text/javascript" src="/etc.clientlibs/memberportal-common/clientlibs/common.2cebc566b62615e83670fc9d8591e114.js"></script>
-<script type="text/javascript" src="/etc.clientlibs/myprime-v2/clientlibs/common.ca00dd3c3f9f4761e1003f2fbe9c7636.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/myprime-v2/clientlibs/common.c6e9b19674634a010ce610d0b87a62d9.js"></script>
 
-<script type="text/javascript" src="/etc.clientlibs/myprime-v2/clientlibs/components.17c7e9e66302b39ea9d0da3c716567c2.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/myprime-v2/clientlibs/components.63fc631f2566c01320d06ead7a609efc.js"></script>
 
 
 
