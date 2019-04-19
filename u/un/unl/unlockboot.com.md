@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockboot.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219083819id_/https%3A//www.unlockboot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockboot.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419094141id_/https%3A//www.unlockboot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
