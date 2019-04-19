@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the einpresswire.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905141732id_/https%3A//www.einpresswire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einpresswire.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420002659id_/https%3A//www.einpresswire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EIN Presswire - Press Release Distribution Service
 
@@ -230,6 +230,23 @@ You may opt out of the use of the DoubleClick Cookie for interest-based advertis
 
 
 
+### Behavioral Remarketing
+
+Internet Product Development Group Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service. 
+
+  * **Google AdWords Google**
+
+AdWords remarketing service is provided by Google Inc. 
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <https://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy>
+
+
+
+
 ### Social Networking Services
 
 You may register to join the Service directly via the Service or by logging into your account with a third party social networking service (“SNS”) via our Service (e.g. Facebook or Google). If you choose to register via an SNS, or to later link your account with the Service to your account with an SNS, we will use the Personal Information you have provided to the SNS (such as your name, email address, gender and other information you make publicly available via the SNS) to create your account. Note that the information we collect from and through an SNS may depend on the privacy settings you have set with the SNS and the permissions you grant to us in connection with linking your account with the Service to your account with an SNS. Other than what we may share with the SNS as described below, the Personal Information an SNS has about you is obtained by the SNS independent of our Service, and we are not responsible for it.
@@ -301,6 +318,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
   * By visiting this page on our website: https://www.einpresswire.com/contact
-  * By phone number: +1 202-540-8337
+  * By phone number: +1 (202) 335-3939
 
 
