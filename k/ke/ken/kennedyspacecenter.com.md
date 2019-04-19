@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916173434id_/https%3A//kennedyspacecenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419133935id_/https%3A//www.kennedyspacecenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Kennedy Space Center Visitor Complex Privacy Policy
 
