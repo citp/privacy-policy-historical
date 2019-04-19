@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f-r-e-e-games.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608024058id_/http%3A//www.f-r-e-e-games.com/contact/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-r-e-e-games.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419095019id_/http%3A//www.f-r-e-e-games.com/contact/privacy-policy.html) for the most accurate reproduction.*
 
 # Gifmania Privacy Policy
 
