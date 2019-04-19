@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tvduck.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823021615id_/http%3A//www.tvduck.com/read-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvduck.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419105741id_/https%3A//www.tvduck.com/read-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/). 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](https://www.networkadvertising.org/). 
 
 Thank you for visiting the TVDuck website (" ** _Site_** ").  We regard your privacy seriously and provide this Privacy Policy to describe which information we collect and how we use it. 
 
@@ -34,4 +34,4 @@ TVDuck employs procedural and technological measures, consistent with the demand
 
 TVDuck reserves the right to change this Privacy Policy, and will post any revisions on the Site. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.  This Privacy Policy was last revised April 19, 2012. 
 
-If you have questions or comments regarding this Privacy Policy, please email us at [ privacy@TVDuck.com](https://web.archive.org/web/20170823021615id_/http%3A//www.tvduck.com/privacy@TVDuck.com). 
+If you have questions or comments regarding this Privacy Policy, please email us at [ [email protected]](https://web.archive.org/web/20190419105741id_/https%3A//www.tvduck.com/privacy@TVDuck.com). 
