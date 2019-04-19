@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116110226id_/https%3A//www.samarins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419130300id_/https%3A//www.samarins.com/privacy.html) for the most accurate reproduction.*
 
 # Samarins.com Privacy Policy
+
+Updated: May 28, 2018
 
 • What information do we collect?   
 • How do we use collected information   
@@ -17,7 +19,7 @@ We don't collect any of your personal information unless you contact us through 
 
 We use this non-personal aggregate information to know where the visitor to our website come from and what technology they use; this helps us adjust our website design and other parameters to serve you better. For example, if our visitors use a specific browser, such as Internet Explorer 6, we test our design with the same browser to make sure our pages render correctly.  
 However, we do not track or record information about individuals and their visits.   
-If you contact us using our [Contact form](https://web.archive.org/web/20180116110226id_/https%3A//www.samarins.com/contact3.php), we might use the information you provide to respond to your question or suggestion. We don't send regular newsletters and we do not share, sell or rent this information to any third parties, unless, of course, this will be required by law. 
+If you contact us using our [Contact form](https://web.archive.org/web/20190419130300id_/https%3A//www.samarins.com/contact3.php), we might use the information you provide to respond to your question or suggestion. We don't send regular newsletters and we do not share, sell or rent this information to any third parties, unless, of course, this will be required by law. 
 
 ## Links to Third Parties 
 
@@ -25,14 +27,15 @@ The Samarins.com web site has some links to other websites. When you click on su
 
 ## Cookies and Web Beacons
 
-Cookies are small pieces of information that a Web site transfers to a visitor's computer for record-keeping purposes while at the site. The use of cookies is an industry standard and you'll find cookies at most major Web sites. We do use cookies to store information, such as your personal preferences when you visit our site. We provide a lot of useful information on our website that requires a lot of work to write and research. To support our website, we use third party advertisements. Some of these advertisers may use technology such as cookies and/or web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Canadian ads to someone in Canada, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).   
+Cookies are small pieces of information that a Web site transfers to a visitor's computer for record-keeping purposes while at the site. The use of cookies is an industry standard and you'll find cookies at most major Web sites. We do use cookies to store information, such as your personal preferences when you visit our site. To support our website (it's not cheap to run a large website), we use third party advertisements. Some of these advertisers may use technology such as cookies and/or web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Canadian ads to someone in Canada, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).   
 
 
 ## DART Cookies
 
-We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ('interest based targeting'). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses 'non personally identifiable information'. It does NOT track your personal information. You can opt-out of this ad serving on all sites using this advertising by visiting [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ('interest based targeting'). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses 'non personally identifiable information'. It does NOT track your personal information. You can opt-out of this ad serving on all sites using this advertising by visiting [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
+Read this [article](https://policies.google.com/technologies/partner-sites) for more information about how Google uses your personal data from publisher sites like ours.  
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to log-in to services or programs, such as logging into forums or accounts. 
 
 ## How can you contact us
 
-You can contact us using our [Contact form](https://web.archive.org/web/20180116110226id_/https%3A//www.samarins.com/contact3.php). 
+You can contact us using our [Contact form](https://web.archive.org/web/20190419130300id_/https%3A//www.samarins.com/contact3.php). 
