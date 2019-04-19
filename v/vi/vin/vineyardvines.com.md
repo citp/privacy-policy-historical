@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003151603id_/https%3A//www.vineyardvines.com/frequently-asked-questions/frequently-asked-questions.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419163018id_/https%3A//www.vineyardvines.com/frequently-asked-questions/frequently-asked-questions.html%23privacy) for the most accurate reproduction.*
 
 # FAQ's
 
@@ -30,7 +30,7 @@ $125+ | FREE | $24 | $32
   
 We strive to process orders as quickly as we possibly can. Orders placed Monday through Friday are usually shipped within 48 hours. **Please note that during periods of high volume, it will take longer (sales, major promotions, Friends & Family, during the holidays, etc.)** Orders placed over the weekend are usually shipped the next business day. If you need your order to go out the same day you place it, please place your order before noon ET using an expedited service (excludes Saturday, Sunday and Holidays) and we’ll be sure to do our best to get you your merchandise in time.
 
-Once processed, orders are shipped via UPS Ground (unless an expedited UPS service is chosen). UPS Ground is delivered within 5-7 business days to most U.S. locations; however, we've found that orders will arrive even sooner than that.
+Once processed, orders are shipped via Standard Ground (unless an expedited service is chosen). Standard Ground is delivered within 2-7 business days to most U.S. locations; however, we've found that orders will arrive even sooner than that.
 
 Once an order has shipped, you will receive an email with tracking information. This email might wind up in your "Spam" email folder, so be sure to add vineyard vines to your "safe" list.
 
@@ -42,13 +42,11 @@ You may have ordered a number of items that don’t fit into one box, or we are 
 
 Please note, in order to fulfill your order to the best of our ability we sometimes ship your items directly from one of our stores which can result in multiple shipments for a single order. When this happens you may notice multiple posts to your credit card for a single order. The initial authorization is not a charge and will disappear from your account in a business day or so.
 
-Since this is a large and heavy item, our shipping provider charges more for us to ship this to you.
-
 ## Returns & Exchanges
 
 To return or exchange your product(s), follow the steps outlined [here](https://www.vineyardvines.com/on/demandware.store/Sites-Vineyard-Vines-Site/default/OrderLocator-LoadOrderLocator).
 
-You can also return your products in most of our [retail stores](http://www.vineyardvines.com/stores) excluding Mashpee, MA, Birmingham, AL, Memphis and Nashville, TN and any of our Outlet locations.
+You can also return your products in most of our [retail stores](http://www.vineyardvines.com/stores) excluding Mashpee, MA, Hamilton, Bermuda and any of our Outlet locations.
 
 **International Returns and Exchanges**
 
@@ -129,7 +127,7 @@ We offer our products at vineyard vines stores, vineyard vines outlet stores and
 
 Unfortunately, at this time we do not offer in-store pick up. Your best bet is to call your closest store (use [our store locator](https://www.vineyardvines.com/stores) to find the closest store to you) and see if they have the item in stock. .
 
-Yes! You can select a complementary gift box for each item at checkout.
+Yes! You can select a complementary gift package for each item at checkout.
 
 If you are ordering a Gift Card, please note this will come in a vineyard vines card holder.
 
@@ -145,15 +143,16 @@ Our [boys’ ties](https://www.vineyardvines.com/silk-ties/boys-printed-ties/) a
 
 The best method we’ve found is simply spot cleaning as necessary. You can also take your tote to the dry cleaner, but be sure to point out the silk trim.
 
-Since this is a large and heavy item, our shipping provider charges more for us to ship this to you.
-
 ## Payment Options, Gift Cards & Discounts
 
   * Visa
   * American Express
   * MasterCard
   * Discover Card
+  * China UnionPay
   * PayPal
+  * Amazon Pay
+  * Apple Pay
   * vineyard vines Gift Cards
   * Additional international payment methods displayed at checkout, where applicable
 
@@ -195,7 +194,9 @@ If you have any other questions regarding Gift Cards, please call our customer c
 
 Just so you know…
 
-You may come across vineyard vines coupon codes, discount codes and promotions on other websites but please note that these codes are generally not valid. Your best bet for being the first to know about sales and other promotions is to sign up for our email.
+You may come across vineyard vines coupon codes, discount codes and promotions on other websites but please note that these codes are generally not valid. Your best bet for being the first to know about sales and other promotions is to sign up for our email. 
+
+Please read the fine print associated with any offer because they do sometimes change. Here are the standard exclusions Offer excludes: Gift cards, The Kentucky Derby Collection, personalization fees, Jim Nantz Forget Me Knot Collection, Bright Pink, Coaches vs. Cancer, Boston Marathon product and any charitable products, Yeti, Titleist® golf products, Costa sunglasses, Sperry, Seabags, Smathers and Branson, Corksicle, Fat Boy, PopSocket, and any third party branded products. No adjustments will be made to prior purchases. Purchases made with this offer are not eligible for future price adjustment. Cannot be combined with any other offer. vineyard vines reserves the right to change or cancel this promotion at any time. Limit one discount per order. Use of this promotion constitutes acceptance of these terms and conditions, except where prohibited by law. Discount applies to merchandise only and not shipping & handling, taxes, or packaging. 
 
 vineyard vines believes your brain is a terrible thing to waste 
 
@@ -275,7 +276,7 @@ In addition to supporting the causes we believe in, we also feel strongly about 
 
 ## Privacy & Security
 
-PRIVACY POLICY UPDATED May 2018
+PRIVACY POLICY UPDATED January 2019
 
 At vineyardvines.com, your privacy is a top priority. Please read our privacy policy details. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of information we collect from you on our website as well as information we collect directly from customers on the telephone or in our stores (the “Sites”) in accordance with applicable privacy laws including, where applicable, the General Data Protection Regulation (“GDPR”) and other UK and European data privacy laws and applicable US privacy laws (the “Privacy Laws”).
 
@@ -312,7 +313,9 @@ To enhance your shopping experience, the Sites may have links to other sites. Th
   
 
 
-We use cookies to recognize you and your preferences to make shopping easier and provide you with a customized experience on our website. Cookies are bits of information that we automatically store on your computer if your computer accepts cookies. Cookies do not contain any personally identifiable information such as your name, address or any financial information on your computer. vineyard vines places a unique user ID number on your cookie which allows us to access information that will improve your shopping experience - such as holding items in your shopping bag, accessing your address book, or providing you with customized pages based on your past viewing or purchasing preferences. We also use cookies to track traffic to different parts of the website in order to make improvements and optimize your shopping experience, as well as for remarketing purposes to serve you with internet advertisements (as more fully discussed in the Advertising section below).
+We use cookies to recognize you and your preferences to make shopping easier and provide you with a customized experience on our website. Cookies are bits of information that we automatically store on your computer if your computer accepts cookies. vineyard vines places a unique user ID number on your cookie which allows us to access information that will improve your shopping experience - such as holding items in your shopping bag, accessing your address book, or providing you with customized pages based on your past viewing or purchasing preferences. We also use cookies to track traffic to different parts of the website in order to make improvements and optimize your shopping experience, as well as for remarketing purposes to serve you with internet advertisements (as more fully discussed in the Advertising section below). 
+
+We use marketing technologies to help us maintain and analyze our data and allow us to market more efficiently. They may use cookies or web beacons to collect information about you, in connection with providing you information via email, Internet ads or direct mail about products and services that might be of interest to you. 
 
 If you do not wish to have a cookie on your system, you can set your browser preferences to refuse them. In order to disable cookies, please consult your browser's help section for instructions.
 
@@ -329,7 +332,7 @@ vineyard vines may use Adobe and the third-party cookie DoubleClick to optimize 
 Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, vineyard vines and the Sites do not recognize DNT.  
 
 
-If you give us your email address either on the footer of our website or when you register, or order, we will send you emails about promotions. To remove yourself from our email list you may click on the unsubscribe link at the bottom of any of our emails and follow the instructions to opt out of future email communications. When you supply your postal address either when requesting a free catalog or placing an order, you will receive the vineyard vines catalog by mail. If you choose to give us your telephone number on the order form, it is for the purpose of contacting you regarding your order. We will not call you regarding promotions. If you do not want a vineyard vines catalog, please send us an email to:[ catalog@vineyardvines.com ](https://web.archive.org/web/20181003151603id_/https%3A//www.vineyardvines.com/frequently-asked-questions/catalog@vineyardvines.com) with the following:
+If you give us your email address either on the footer of our website or when you register, or order, we will send you emails about promotions. To remove yourself from our email list you may click on the unsubscribe link at the bottom of any of our emails and follow the instructions to opt out of future email communications. When you supply your postal address either when requesting a free catalog or placing an order, you will receive the vineyard vines catalog by mail. If you choose to give us your telephone number on the order form, it is for the purpose of contacting you regarding your order. We will not call you regarding promotions. If you do not want a vineyard vines catalog, please send us an email to:[ catalog@vineyardvines.com ](https://web.archive.org/web/20190419163018id_/https%3A//www.vineyardvines.com/frequently-asked-questions/catalog@vineyardvines.com) with the following:
 
   * The phrase "no catalog" in the subject line
   
