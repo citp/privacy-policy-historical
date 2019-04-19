@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523213958id_/http%3A//hometownquotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419111929id_/https%3A//hometownquotes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Insurance Leads | Hometown Quotes
 
@@ -35,7 +35,8 @@ PLEASE NOTE: THIS PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFEC
 **General Use of Personal Information** : The following paragraphs in this section describe how HometownQuotes.com currently uses Personal Information, but HometownQuotes.com may change or broaden its use at any time. As noted in this Privacy Policy, HometownQuotes.com may update this policy from time to time. HometownQuotes.com may use Personal Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
 
 **HometownQuotes.com uses your Personal Information for the following general purposes:  
-**  
+**
+
 **Customer Service:** HometownQuotes.com uses your Personal Information to improve its services to its customers.
 
 **Insurance Quotes:** HometownQuotes.com uses your Personal Information to provide you with insurance quotes. By submitting your Personal Information you are requesting an insurance quote, and you are authorizing the recipients of your information (the agents) to use it in a manner deemed necessary to provide you with an accurate quote on your insurance. Furthermore, by submitting a form with your telephone number, you are consenting for HometownQuotes.com and all authorized agents to contact you even if your name is on a Federal or State “Do Not Call List.” In order to provide you with insurance quotes, you authorize HometownQuotes.com to provide your Personal Information to local and national insurance agents and to third-party agent networks. Therefore, you authorize those insurance agents to contact you by phone and email and expressly authorize those insurance agents to contact you by phone even if your name appears on the National Do Not Call Registry or any State “Do Not Call” registries.
