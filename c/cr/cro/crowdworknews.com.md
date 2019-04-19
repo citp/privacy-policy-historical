@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdworknews.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003201001id_/https%3A//crowdworknews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdworknews.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419043948id_/https%3A//crowdworknews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crowd Work News
 
@@ -29,6 +29,14 @@ We will not sell, distribute, or reveal users’ email addresses or other person
 **Modification or Deletion of Personal Information**
 
 You can decline to submit personal information at any time. If you decline, we may not be able to continue to provide service to you. You may request deletion of your personal information by sending an email to [sireesha@crowdworknews.com](mailto:sireesha@crowdworknews.com), but in some cases, we may be required to keep your information by law. In such a case, it would no longer be active and would be kept separately in an archive.
+
+**Children’s** **  Information**
+
+****The Website does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that the Website has personally-identifiable information of a child under the age of 13 in its database the, please contact us at sireesha@crowdworknews.com and Crowdworknews.com will do best efforts to promptly remove such information from our records.
+
+### Links
+
+Crowdworknews links to other sites from time to time and has no control over their content or policies. The inclusion of any link does not imply endorsement by Crowdworknews of the site unless stated otherwise. Please go through their privacy policy and terms of use.
 
 **Updates**
 
