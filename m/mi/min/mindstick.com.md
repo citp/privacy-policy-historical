@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindstick.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522230046id_/https%3A//www.mindstick.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindstick.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419130919id_/https%3A//www.mindstick.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy & Policy
 
@@ -85,4 +85,4 @@ MindStick Software Pvt. Ltd. welcomes your comments regarding this privacy state
   
 
 
-© Copyright © 2010 - 2018 MindStick Software Pvt. Ltd. All Rights Reserved
+© Copyright © 2010 - 2019 MindStick Software Pvt. Ltd. All Rights Reserved
