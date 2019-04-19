@@ -1,93 +1,93 @@
-> *The following text is extracted and transformed from the steelpantherrocks.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530120955id_/http%3A//privacy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelpantherrocks.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419185538id_/https%3A//www.steelpantherrocks.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy – Steel Panther
 
-**SECURITY AND PRIVACY POLICY**
+SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
-YOUR PEACE OF MIND
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
-Universal Music Group International operates this website and respects the security and privacy concerns of users of this all its websites. We are notified under the Data Protection Act 1998 and comply with the Act in all our dealings with your personal data. 
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-By using the website you agree to the terms of this privacy policy. As a general rule, no personal information (i.e. name, address, telephone number, e-mail address) is automatically collected from users of this website. However, there may be circumstances in which users voluntarily supply such information and in this event, any such information will be kept secure and confidential and will be used only for those purposes made known to users at the time the information is collected, or for the purposes specified in this Privacy Policy. We follow strict security procedures for the storage and disclosure or information you have given us in order to prevent unauthorised access. 
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-Personal information collected via this website is controlled by
+SECTION 2 – CONSENT
 
-Universal Music Group International, 
+How do you get my consent?
 
-Sussex Place,  
-London,  
-W6 9EA. 
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-OUR USE OF INFORMATION AND PERSONAL DATA
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-The information collected is used to provide users with information on the relevant Universal Music Artist to customise the user's online experience and to improve the content of the website. Other uses of this information include the internal review of the web pages visited, tracking the progress and number of entries in promotions and contests, tracking the number of users of the site and where appropriate, product purchased through the site. Where users have signed up and opted in to receive information and promotions from us, the information may also be used to notify users of future Universal Music product releases and information on the artist concerned together with news on other Universal Music artists, related products and services which may be of interest to users. If at any time you wish to stop receiving information you can opt out or reply to the e-mail address at the bottom of each e-mail you receive from us. You can also opt out of any SMS communications you receive from us. Alternatively you can e-mail us at [infoservice@umusic.com](mailto:infoservice@umusic.com) and tell us what you would like us to do. As Universal Music is part of a worldwide group of companies, it may be necessary from time to time for data to be transferred from the point of collection to a server located in another jurisdiction. Information will only be so transferred in circumstances where it is necessary to achieve the purposes set out in this Privacy Policy or the purposes made known to users at the time information is collected. Communications may therefore come from local Universal Music companies, be in your local language and promote localised events/promotions. You will be given the opportunity to opt out of those local communications on any email you receive from them. No matter where your information is processed, this privacy policy will remain in effect. 
+How do I withdraw my consent?
 
-PASSING OF PERSONAL DATA TO ARTIST OR ARTIST MANAGEMENT 
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at steelpanthermusic@gmail.com.
 
-Where the artist and/or it's management company have entered into an agreement with Universal Music to have access to consumer data collected from the use of the website for future marketing purposes, we may allow access of your data to them. However, we will not do so unless they have confirmed to us that they are registered with the Data Protection Act. Should Universal Music and the artist part company, they may directly contact you with future marketing regarding the artist in question going forward, but at all times you will be given clear guidance on their Privacy Policy and an option to opt out of future mailings from them. 
+SECTION 3 – DISCLOSURE
 
-USE BY CHILDREN
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-If you are under the age of 16 you should obtain the consent of your parents or legal guardians for submitting any personal information to this Website. 
+SECTION 4 – SHOPIFY
 
-Children under the age of 13 should not submit any personal information without the written consent of their parents or legal guardian. If you are a child under 13 and want to submit personal information to us please ask your parent or legal guardian to send us an email at [infoservice@umusic.com](mailto:infoservice@umusic.com) specifying that they consent to us collecting your personal information through this Website. You and your parents or legal guardians should also read the Safe Surfing Guide on the [www.umusic.co.uk](http://www.umusic.co.uk/) website. Parents or legal guardians may review or change the personal information of their children or refuse further collection of any such information by sending an email to us at [infoservice@umusic.com](mailto:infoservice@umusic.com)
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-COOKIES 
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-Universal Music uses cookies. A cookie is a small text file that can be stored on your computer's hard drive. It may be stored and updated at various times as you access the website. Each time you visit the website, the server may deliver certain customised information to your computer based on the data stored in your cookie. This allows Universal Music to tailor the service to your preferences. You are not obliged to accept a cookie and you may modify your browser so that it will not accept cookies. If you wish to purchase any items on the Website you need to ensure that cookies are enabled. If, however, you do not want to accept cookies please use the help tools provided with your internet browser to find out how to achieve this. 
+Payment:
 
-We never use cookies to retrieve information from your computer which was not originally contained in the cookie. We use cookies and IP addresses for system administration and to monitor aggregate non-personalised information (such as anonymous statistics related to the take up or use of services, or to patterns of browsing). Certain non-personal information about users is recorded by the standard operation of Universal Music's internet servers. Examples of this type of information include the type of browsers being used, its operating system and the domain names (not e-mail addresses, where possible) of users. 
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-Universal Music is part of a worldwide group of companies, it may be necessary from time to time for information to be transferred from the point of collection to a server located in another jurisdiction. Information will only be so transferred in circumstances where it is necessary to achieve the purposes set out in this Privacy Policy or the purposes made known to users at the time information is collected. 
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-FORUMS 
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-While the administrators and moderators of our forums will attempt to remove or edit any generally objectionable material as quickly as possible, it is impossible to review every message. Therefore you must acknowledge that all posts made to these forums express the views and opinions of the author and not the administrators, moderators or webmaster (except for posts by these people) and hence will not be held liable.
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
 
-We ask that you agree to not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-oriented or any other material that may violate any applicable laws. Doing so may lead to you being immediately and permanently banned (and your service provider being informed). The IP address of all posts is recorded to aid in enforcing these conditions. You agree that the webmaster, administrator and moderators of the forum have the right to remove, edit, move or close any topic at any time should they see fit. As a user you agree to any information you have entered above being stored in a database. While this information will not be disclosed to any third party without your consent the webmaster, administrator and moderators cannot be held responsible for any hacking attempt that may lead to the data being compromised.
+SECTION 5 – THIRD-PARTY SERVICES
 
-Our forum system uses cookies to store information on your local computer. These cookies do not contain any of the information you enter on this form; they serve only to improve your viewing pleasure. The e-mail address you enter will be used for confirming your registration details and password (and for sending new passwords should you forget your current one). When you register to use and to post comments on this board you will also be signed up to receive updates about new releases, preferential ticket purchase opportunities, PA's, exclusive competitions and music downloads from the artist. The first email you will be sent will contain your username and password plus a confirmation link. If you are happy to receive the updates from the artist just click on the confirmation link within that email, if you do not click on that link you will not receive updates via email from the artist.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-As a member of our artists' Community Server based forums, you will find that your username and password will work on many of our other artist/label boards. We may from time to time contact you about forum development & improvements or to introduce you to new music based community environments that Universal Music may offer in the future. 
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-We also recommend that you read the Safe Surf advice on all our forums before you register. 
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-RESEARCH
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-We are always looking to improve our user experience on the website and to find out more about our users' tastes in music. We conduct research with Universal Music by sending out questionnaires from time to time by email. If you receive one you do not need to complete it if you do not want to. If at any time you wish to stop receiving research questionnaires you can reply to the email address at the bottom of the email you receive. Alternatively email us at [infoservice@umusic.com](mailto:infoservice@umusic.com) and tell us you do not want to receive any more questionnaires. 
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-PASSING INFORMATION TO THIRD PARTIES
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-We do not pass your details to third parties for the purposes of allowing them to market their products or service to you, UNLESS you have ticked the third party box on our registration forms giving us permission to do so. We may however market third party products or services that are expressly connected with the relevant artist, such as ring-tones. We may also, occasionally include advertising for third party products or services on the website, or in newsletters or other artist mailings you receive from us. 
+Links
 
-FORWARDING WEB PAGES
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-If we provide you with the opportunity to email a web page to another person, we will need to collect your email address and the email address of those to whom you send the page. We will use the email addresses collected this way for no other purpose expect to send the web page, and the addresses will be deleted once the page has been sent unless you have opted in to receive information and promotions from us as set out above using the same email address, in which case we will retain your email address for this purpose unless and until you notify us that you wish to stop receiving information. 
+SECTION 6 – SECURITY
 
-FINANCIAL
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
-We may use your financial information (including credit card transactions) to check your qualifications and Bill you for and otherwise facilitate your purchase of products and services. When you make a purchase on the Site, we will provide your financial information (including credit card transactions) to our service providers and to such third parties as we determine is necessary to process your transactions. These third parties may include the credit card companies and banking institutions used to process the transaction. Also, depending on the circumstances of our arrangements, we may share your financial information (including credit card transactions) with applicable Event Partners, primarily but not exclusively for facilitating "will call" ticket pick up and dispute resolution and customer service at the event venue on the date of the event. When you purchase products or services of third parties (such as magazine subscriptions) offered on eh Site, we will provide your financial information (including credit card transactions) to those third parties. Any of these various third parties are authorised to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control. 
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-HOW WE USE AND WHEN WE SHARE BROAD DEMOGRAPHIC INFORMATION
+SECTION 7 – COOKIES
 
-We may use, and may transfer to others to use, broad demographic information that may include data from your activity at the Site, but not personal information. For example, we use broad demographic information to tailor the site to the interests of our visitors, and we may share it with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. We reserve the right to use such broad demographic information, and to allow others to make use of it, without limitation or restriction, and without further notice to you, in our sole and absolute discretion and is the sole and absolute discretion of those with whom we share such information. 
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
 
-THIRD PARTIES
+session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
 
-When we include links to other internet sites, on this site and in our newsletters and other communications, we do so solely as a convenience to our visitors. Operators of such linked sites may acquire personal information about you through registration procedures or other means and may use that information in accordance with their own privacy policies, over which we have no control. Your access and use of linked sites is solely at your own risk. 
+shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
 
-SECURITY
+shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
 
-Whenever we obtain your personal information we take reasonable precautions to protect it from unauthorised access or disclosure, but we cannot act as insurers of the security of your personal information transmitted over the internet. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorised third party access or other acts of third parties, or acts or missions beyond our reasonable control. 
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart. secure_session_id, unique token, sessional
 
-DISCLOSURE
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
-If you are a member of the artists community you should note that when you complete your member profile this information can be viewed by other members. Accordingly you should not provide any information in your member profile that you do not wish to share with third parties and you should have no privacy expectations with respect to the information contained within it. You should be aware that if you voluntarily disclose information online in a public accessible area, such as in your member profile, a message board or chat room, that information may be collected an used by others. We do not control the actions of our visitors. If you disclose personal information in your member profile message board or any other public accessible place on the internet you do so at your own risk and should understand that your submitted information may be collected and used by others to send you unsolicited messages, advertisements, or for other purposes. Please remember the protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use to register, and you should always be careful and responsible whenever disclosing information online. 
+SECTION 8 – AGE OF CONSENT
 
-GENERAL
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-Universal Music may make changes to this privacy policy from time to time but will not change the way we use your information provided previously without your express consent.
+SECTION 9 – CHANGES TO THIS PRIVACY POLICY
 
-If any provision of this privacy policy is held to be invalid or unenforceable, such provision shall be struck out and the remaining provisions shall be enforced. Universal Music's failure to act with respect to a breach by you or others does not waive its right to act with respect to subsequent or similar breaches. 
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-This privacy policy is governed in all respects by international laws. Legal proceedings related to the matters set out in the Privacy Policy shall be brought in and adjudicated solely in the international courts.
+QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at admin@steelpantherrocks.com.
