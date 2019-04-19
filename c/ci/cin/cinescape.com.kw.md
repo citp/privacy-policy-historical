@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cinescape.com.kw privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911183108id_/https%3A//www.cinescape.com.kw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinescape.com.kw privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419172529id_/https%3A//www.cinescape.com.kw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/)
 
   * [Home](https://web.archive.org/)
   * Privacy Policy
@@ -97,4 +99,4 @@ KNCC is committed to working with its Customers to obtain a fair resolution of a
 Any changes to our Privacy Policy will be posted on www.cinescape.com.kw and with respect to any Personal Information and other information we collect in the future, will become effective as of the date of posting (see date posted above). It is your responsibility to review the Privacy Policy from time to time to make sure you are aware of any changes.
 
 
-
+Close 
