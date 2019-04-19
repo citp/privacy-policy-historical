@@ -1,129 +1,89 @@
-> *The following text is extracted and transformed from the mumbaiindians.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418193203id_/http%3A//www.mumbaiindians.com/mi_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbaiindians.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419033107id_/http%3A//www.mumbaiindians.com/privacy-policy) for the most accurate reproduction.*
 
-# Mumbai Indians - Privacy Policy
+# Mumbai Indians | Privacy Policy - Mumbai Indians
 
-ABOUT US
+This Privacy Policy (“ **Privacy Policy** ”) is applicable to our website, [www.mumbaiindians.com](http://www.mumbaiindians.com/) (the “ **Website** ”), owned, operated and offered by Indiawin Sports Private Limited (“ **ISPL** ”).
 
-This website is the official website of Mumbai Indians which is operated and managed by **“Indiawin Sports private Limited”**
+The terms ‘ISPL’ or ‘us’ or ‘we’ refer to the owners and operators of the Website. The term ‘you’ or ‘User’ refers to the user or viewer of our Website.
 
-  
-PRIVACY
+At ISPL, we respect the privacy of the Users of our Website and we are committed to protect User privacy in all respects, with a view to offer an enriching, safe and enjoyable Website experience to Users. We respect and safeguard the personally identifiable information (“ **Personal Information** ”) we receive and collect from you on our Website and in the course of our other interactions online.
 
-We respect the privacy of everyone who visits this website and take great care to protect your information. We are committed to maintaining the privacy and security of information of all fans, customers and visitors of this website. 
+Please note that this Privacy Policy is only applicable to the users of the Website and the information and data gathered on the Website and not to any other information or website. You are hereby advised to read this Privacy Policy carefully and fully understand the nature and purpose of gathering and/or collecting personal and other information and the usage, disclosure and sharing of such information.
 
-To better protect your privacy, we provide this notice explaining our policy on the collection and use of personal and other information and the steps we take to ensure that all such information is kept secure. By entering this website you are consenting to the terms of our privacy policy and to our use of information collected in ways that are compatible with this privacy policy. By submitting your personal information to us, you will be treated as having given your permission for the processing of your personal information as set out in this policy.
+Terms not defined herein will have the meaning ascribed to them in ISPL’s Terms and Conditions of Use for the Website, as available at [ _Please insert link to the Terms of Use_ ] (“ **Terms of Use** ”). This Privacy Policy was last modified on [ _Insert Date_ ].
 
-  
-INFORMATION COLLECTED
+This Privacy Policy explains:
 
-We do not require your personal information for you to obtain access to most of our website. 
-
-We collect personal information from visitors on a voluntary basis such as name, company details, title, address, contact numbers, e-mail address, date of birth and other relevant data. We may also obtain such personal information from e-mails and other written and verbal communication with you. 
-
-We may supplement the information that you provide with other information that we obtain in our dealings with you or which we receive from our business partners or other entities. 
-
-  
-INFORMATION COLLECTED
-
-**Personal Information**
-
-All personal information that we obtain about you will be recorded, used, and protected by us in accordance with the current data protection legislations and our privacy policy. 
-
-We will primarily collect and use your personal information for business purposes in order: 
-
-  * to enable you to download product information, order products and make use of certain other features of our website; 
-  * to provide information or interactive services through this website, to your e-mail address or, where you wish it to be sent by post, to your postal address;
-  * to create an individual profile for you so that we can understand your preferences and inform you of our or select third party products, services events or special offers that may be of interest to you;
-  * to seek your feedback or to contact you in relation to the services offered on our website;
-  * to process orders or applications submitted by you;
-  * to administer or otherwise carry out our obligations in relation to any agreement you have with us;
-  * to anticipate and resolve problems in respect of any goods or services supplied to you;
-  * to create products or services that may meet your needs;
-  * to process and respond to requests, improve our operations, and communicate with visitors about our products, services and businesses;
-  * to allow you to subscribe to our news letter;
-  * to track activity on our website.
+  * What information we may collect about you online;
+  * The use and role of cookies and similar technologies on our Website;
+  * How we will protect and use information we collect about and from you;
+  * The circumstances in which we might disclose your details to anyone else;
+  * When we may use your details to contact you; and
+  * How you can be sure the information we hold about you is accurate and current.
 
 
+  1. **Information Gathered:**
+    1. In general, you can visit our Website without telling us who you are or revealing any Personal Information about yourself. However, you may not be able to create a User Profile, or access certain areas or services on the Website that require registration, or need us to know who you are and/or other information about you.
+    2. Information that we collect from you will vary depending upon the activity you seek to engage in and may include without limitation your name, email address, social media account handle/username, mobile number, birth date, age, gender, current city/place of residence and a photograph or photo-identity. In addition, we may collect demographic information such as information about your computer, mobile, tablet, device, hardware, software, platform, media, Internet Protocol (IP) address and connection, information about online activity such as feature usage and click paths and other data that you may provide in surveys or online profiles. We may combine demographic information with Personal Information to tailor our Website or offerings to your preferences or interests.
 
-  
-We may also remove all the personally identifiable information and use the rest for historical, statistical or scientific purposes. 
 
-If you e-mail us or join discussion lists, you are voluntarily releasing information to us. Your e-mail address will be used by us to respond to you. 
+  2. **Personal Information:**
+    1. Personal Information means any information that may be used to identify you and that is not otherwise publicly available, including, but not limited to, your first and last name, an email address, mobile number, phone number or other contact information.
+    2. We collect Personal Information from you when you register and create your personal User Profile to interact on our Website, contribute User Content and participate in our Rewards Programme. We may also collect Personal Information from your when you purchase merchandise from our Website store (if applicable), or register for any of our services or otherwise voluntarily provide such information. We may also use your name, registered mobile number and email address to send you Team news, fixture lists and Team updates, promotional material and content related to ISPL and the Team, and messages from the Team’s owners, partners and sponsors. You should let us know if you would like to unsubscribe from these communications at any time in the manner described in any such communication.
+    3. Except for your User Profile password, if applicable, and any financial information (if applicable), you may choose to share, ISPL does not collect any Sensitive Personal Information (“ **SPI** ”) in the course of providing the services. SPI means personal information such as your password; physical, physiological and mental health condition; medical records and history; biometric Information, sexual orientation and financial information (such as bank account details or credit card numbers). The SPI collected by ISPL shall not be disclosed without your express consent, save as otherwise set out in this Privacy Policy or the Terms of Use or as provided in any agreement between ISPL and you or as required by law. It is clarified that this condition shall not apply to publicly available information, including SPI, in relation to you on the Website.
+    4. You acknowledge that in the course of providing the services, ISPL may receive Personal Information from content posted on the Website, and hereby consent and agree to allow ISPL to store and display the Personal Information collected in this manner on the Website and disclose it in the same manner as the content available on the Website.
 
-  
-**Disclosure of Information**
 
-We may share your personal information (including details of your purchasing preferences) with: 
+  3. **Cookies and Other Tracking Technologies:**
+    1. To improve the effectiveness and usability of the Website for our Users, we may utilise “cookies” and other tracking technologies. A “cookie” is a small text file that may be used, for example, to collect information about your activity on our Website. Some cookies and other technologies may serve to recall Personal Information previously indicated by you. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you may need to re-enter your original User ProfileID user name and password to gain access to certain parts of our Website.
+    2. Tracking technologies may automatically record information such as Internet domain and host names; other information about your geographic location; IP addresses; browser software and operating system types; CPU type; your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); click paths; and dates and times that our Website is accessed. Our use of cookies and other tracking technologies allows us to improve our Website and your web experience. We may also analyse information that does not contain Personal Information for trends and statistics.
 
-  
-Any member of the Reliance group of companies; 
 
-  
-select third parties to administer and process your requests, for credit control and debt collection, to maintain our systems or to comply with legal obligations and our business partners, sponsors and advertisers.
+  4. **Children:**
+    1. Our services and our Website are intended for a general audience. If you are under the age of 18 and desire to use this Website or purchase our products or services, please request your parent/guardian to register with us and to complete the transaction. In particular, if you are under the age of 18 and desire to create a User Profile on our Website, please request your parent to register and create such User Profile on your behalf. In the event that you are a parent/lawful guardian who has created a User Profile on behalf of your child/ward, you confirm your acceptance of this Privacy Policy and the Terms of Use, and hereby consent to the collection, storage and use of your child’s/ward’s Personal Information in accordance with this Privacy Policy. Any use of this Website or any of its features by an individual child under the age of 18 must be with parental supervision.
 
-  
-Each of these entities may wish to keep you informed of services, products, events and special offers made available by such entity. In all cases, we will take great care to ensure that your personal information is processed in accordance with applicable laws and only for the purposes set out in this policy. 
 
-**Discontinuation of Communication of Offers**
+  5. **Uses of Personal Information:**
+    1. We may use Personal Information and other information received and collected from you to provide the services you may have requested, including creation and registration of a personal User Profile on our Website, services that display customised content to you, and/or in relation to our Rewards Programme, and to contact you upon your request and when otherwise necessary. We may also use Personal Information for auditing, research and analysis, and to operate and improve our services. In some circumstances, we may share aggregated non-personal information with third parties. When we use third parties to assist us in processing your Personal Information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
+    2. From time to time, however, we may disclose this information to fulfill legal or regulatory obligations or if we determine such disclosure is legally advisable or necessary to protect our rights, the rights of others, or to prevent harm. In addition, we may aggregate data about Users of our Website and use it for statistical purposes. This information helps us to better understand our Website’s Users and how to improve our Website and our offerings.
+    3. Where we propose to use your Personal Information for any other use we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use other than as listed above.
 
-Please note that if you prefer not to be contacted either by us or by any other member of the Reliance Group or other third parties referred to above, you may click the relevant boxes on the screen upon which you provide information or you may email us. 
 
-Please note that if you do opt out of receiving information, we will be unable to keep you informed of any new services, products, events or special offers that may interest you and our ability to inform you of ticketing opportunities may be affected.
+  6. **Confidentiality and Security:**
+    1. We will keep confidential and protect your Personal Information except where disclosure is required or permitted by law.
+    2. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and, once we receive it, for storage and disposal. When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). All information we gather is securely stored within databases controlled by us. The databases are stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+    3. We limit access to Personal Information to employees/personnel who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+    4. Third parties provide certain services available on our Website and on our behalf. We may provide information, including Personal Information, to third-party service providers to help us deliver our products, information, and services efficiently and effectively. Service providers are also an important means by which we maintain our Website and mailing lists. We will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on our behalf through confidentiality agreements and otherwise. We do not intend to transfer Personal Information without your consent to third parties who are not bound to act on our behalf unless such transfer is legally required. Similarly, it is against our policy to sell Personal Information collected online without consent.
+    5. If you choose to provide us with your Personal Information, we may transfer that Personal Information from your country or jurisdiction to other countries or jurisdictions around the world. Your Personal information Information may be collected and stored on servers located in the territory of India and such other countries as we may disclose from time to time.
 
-If you are concerned about our use and disclosure of your personal information, do contact us.
 
-**Non-Personal Information**
+  7. **Third Party Websites:**
+    1. If you click on a link to a third party site or otherwise leave the Website you will go to a website that is outside our control. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your Personal Information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as we do. We encourage you to review the privacy policies of any other website and/or service provider from whom you request services. If you visit a third party website that is linked to our Website, you should consult that website’s privacy policy before providing any Personal Information.
 
-At this website, information sent by your web browser may be automatically collected. This information typically includes your domain name (the site after the '@' in your e-mail address). It may also contain your user name (the name before the '@' in your e-mail address). Other examples of information collected by our server include the Internet Protocol ("IP") address used to connect the visitor's computer to the Internet, operating system and platform, the average time spent on our website, pages viewed, information searched for, access times, websites visited before and after a visitor visits our website, and other relevant statistics. The amount of information sent depends on the settings on your web browser; please refer to your browser to learn the information that it sends. 
 
-All such information will be used only to assist us in providing effective services on this website. We may from time to time supply owners or operators of third party websites from which it is possible to link to our website the information relating to the number of users linking to our website from such third party website. You cannot be identified from this information. 
+  8. **Contacting You:**
+    1. We may contact you using the Personal Information you have given us:
 
-We use the information we automatically receive from your web browser to see which pages you visit within our website, which website you visited before coming to ours, and where you go after you leave. We can then develop statistics that are helpful to understand how our visitors use this website. We use this information in the aggregate to measure the use of our website and to administer and improve our website. This statistical data is interpreted by in its continuing effort to present the website content that visitors are seeking in a format they find most helpful. 
 
-  
-COOKIES
+  * in relation to your User Profile, including its verification and use;
+  * in relation to the functioning of any service you have signed up for in order to ensure that we can deliver the services to you;
+  * where you have opted to receive further correspondence;
+  * in relation to our Rewards Programme;
+  * to invite you to participate in fan contests or surveys about the Team or related matters (participation is always voluntary); and
+  * to provide you information about our Team news, Team events, Team fixtures lists, Team promotional content, partner promotions, sale of Team-related products and services, except where you have specifically requested not to receive this.
 
-In common with many other website operators, we may use standard technology called 'cookies' on this site. Cookies are small text files stored by your browser on your computer's hard drive and are used for record keeping purposes.
 
-Use of cookies makes web surfing easier by performing certain functions such as saving your personal preferences regarding your use of the particular web site and ensuring that you do not need to re-enter your details each time you visit our site. Our cookies enable us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website.
+  9. **Change of Control:**
+    1. In the event that ownership or control of ISPL was to change, your Personal Information may be transferred. If such a transfer results in a material change in the use of your Personal Information, we will provide notice about the choices you have to decline to permit such a transfer.
 
-We use cookies to enrich your experience of using this website by providing you with focused information each time you visit our website based on our learnings of your preferences during your visits to the site. 
 
-You can usually change your browser settings to prevent cookies being stored and to erase any cookies which have been stored. Please note, if you do turn cookies off it will limit the service that we are able to provide to you and may affect your visitor experience.
+  10. **Accuracy:**
+    1. To the extent that you do provide us with Personal Information, we wish to maintain accurate and current Personal Information. Where we collect Personal Information from you on our Website, should you need to update or correct that Personal Information, please contact us at the email address provide below and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+    2. You can update or correct your information or obtain the information we currently hold on you by emailing us at: [ _info@mumbaiindians.com_](mailto:info@mumbaiindians.com). We will use our best efforts to send you the information within fourteen (14) days of receipt of your email.
 
-  
-SECURITY OF INFORMATION
 
-We take the security of your information seriously. We have implemented required technologies and policies, with the objective of protecting your privacy from unauthorised access and improper use, and periodically review the same.
+  11. **Consent; Amendments; Law**
+    1. By using this Website, you consent to the terms of this Privacy Policy and to our use and management of Personal Information for the purposes and in the manner given above. Should this Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our Website for a reasonable period of time.
+    2. Your visit and any dispute over privacy are subject to this Privacy Policy. This Privacy Policy shall be governed by and construed in accordance with the laws of the Republic of India. Further, you hereby irrevocably and unconditionally agree that the courts of Mumbai, India shall retain exclusive jurisdiction to entertain any proceedings in relation to any disputes arising out of this Privacy Policy.
 
-  
-MONITORING
 
-We may monitor or record telephone calls made by you to our customer care/help desk for security purposes and to improve the quality of services that we provide to you.
-
-  
-REVISION TO THIS PRIVACY POLICY
-
-We aim to meet high standards and our policies and procedures are, therefore, constantly under review. We may, from time to time, change our security and privacy policies. Accordingly, we recommend that you check this page periodically in order to review our current policies, as your use of our services provides your acceptance to the privacy policy prevailing at the time of use of our services.
-
-  
-THIRD PARTIES
-
-This page contains hyperlinks to other websites which are provided for your convenience. In addition, you may have linked to our website from another website. We are not responsible for the privacy policies and practices of other websites, even if the access to those websites is by use of links from our website. 
-
-We make no promises or guarantees regarding data collection on the hyper-linked pages and on websites that are not owned by us. We recommend that you check the policy of each website you visit, or link from, and contact the owners or operators of such websites if you have any concerns or questions. 
-
-  
-ACCESS TO YOUR INFORMATION
-
-You can (subject to payment of an appropriate fee) request a copy of the personal information held about you by us at any time by contacting us. 
-
-  
-UPDATING AND CORRECTING INFORMATION
-
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, you may do so by contacting us or by changing your profile on our website. Please include your name, address and/or email address when you contact us as this helpus to ensure that we accept amendments only from the correct person. We encourage you to promptly update your personal information if it changes.
-
-  
-CONTACT US
-
-We welcome your views about our website and our privacy policy. Please feel free to contact us if you have any queries or comments. 
