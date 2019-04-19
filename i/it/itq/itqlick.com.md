@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itqlick.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223221835id_/http%3A//www.itqlick.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itqlick.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419022439id_/https%3A//www.itqlick.com/Privacy) for the most accurate reproduction.*
 
-# Privacy policy | ITQlick.com
+# ITQlick Privacy Policy - Read Inside | ITQlick
 
-Last update: Sept, 2014.
+Last update: Sept, 2018.
 
 You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by IT Media Ltd. (“IT Media Ltd”, “IT Media, "ITQlick") or (b) includes content, including but not limited to registration and other forms, owned by IT Media Ltd or drawn from a website owned and operated by IT Media Ltd. IT Media Ltd is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by IT Media Ltd. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy. 
 
@@ -54,7 +54,8 @@ Please read this policy and [send us](http://www.itqlick.com/Contact) questions
 4\. Your obligations as a User.  
 5\. Important information regarding service eligibility.  
 6\. Security.  
-7\. How to contact us.  
+7\. Your European Privacy Rights Under GDPR.  
+8\. How to contact us.  
 
 
 ### 1\. Information Collected
@@ -244,8 +245,24 @@ Children and Minors. Children under the age of 18 are not eligible to use our se
 
 In order to help secure your personal information, access to your data on ITQlick is password-protected. To protect any data you store on our servers, ITQlick also regularly audits its system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to ITQlick. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails, instant messaging, and similar means of communication with other Users of ITQlick are not encrypted, and we strongly advise you not to communicate any confidential information through these means.
 
-### 7\. How to contact us
+### 7\. Your European Privacy Rights Under GDPR
 
-If you have questions or comments about this Privacy Policy, please contact us using the button on the bottom "feedback & support".
+If you reside or otherwise find yourself in the territory of Europe, we are committed to facilitate the exercise of your rights granted by the EU General Data Protection Regulation. Otherwise If you have questions or comments about this Privacy Policy, please contact us using the button on the bottom "feedback & support".
 
-© ITQlick.com 2013 All Rights Reserved
+#### Privacy rights under the EU General Data Protection Regulation include:
+
+  * Transparency and the right to information
+Go over this policy in order to learn how we use and share your information. questions? contact us here: info@ITQlick.com 
+  * Right of access, objection, restriction of processing, erasure, and portability.
+You also have the right to withdraw your consent at any time when we process your personal data based on your consent. To exercise these rights, please contact us: info@itqlick.com 
+  * Right to opt-out to direct marketing.
+Currently we don't use direct marketing, however, if we do you always have the right to opt-out at any time to receiving marketing materials from us using the instructions on the email or by contacting us: info@itqlick.com 
+  * Right not to be subject to an automated decision, including profiling.
+We do not make automated decisions using your personal data that may negatively impact you. We use cookies and similar technologies on our Site to personalize your experience on the Site and recommending software products and services that may be of interest to you. For additional information or to opt-out see our Cookie Policy. contact us with more questions: info@itqlick.com 
+
+
+### 8\. How to contact us
+
+If you have questions or comments about this Privacy Policy, please contact us using the button on the bottom "feedback & support". or email us at info@itqlick.com
+
+© ITQlick.com 2012 - 2019 All Rights Reserved
