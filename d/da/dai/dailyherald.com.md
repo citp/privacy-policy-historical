@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624090315id_/http%3A//www.dailyherald.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419213907id_/https%3A//www.dailyherald.com/info/privacy) for the most accurate reproduction.*
 
 # Daily Herald Privacy Policy
 
@@ -33,16 +33,6 @@ Paddock uses anonymous cookies to track information on your browsing history on 
 You can opt-out of NAI Members' online behavioral advertising cookies by using the Network Advertising Initiative's (NAI's) multi-cookie opt-out mechanism at: <http://www.networkadvertising.org/managing/opt_out.asp>. Further, you can view the Simpli.Fi privacy policy and opt-out from their network and affiliated networks, at <https://app.simpli.fi/opt_out>. These opt-outs are valid only for the computer and browser combination used to opt-out. Clearing cookies will remove these opt-outs since they stored in cookies. If you opt-out of an NAI third-party advertising network, you will no longer receive ads based on your browsing history from that network. You will, however, continue to receive generalized online advertising.
 
 _Children Under 13:_ In general, Paddock does not knowingly collect any personal data on dailyherald.com from individuals under 13 years of age. If you are under 13, do not send any information about yourself to dailyherald.com, including your name, address or e-mail address. In the event dailyherald.com runs a contest or other program that requires submission of information from children, we will collect such information only with prior verified parental consent. If we learn that we have collected any personal information from a child under the age of 13 without parental consent, we will delete that information from our database as quickly as possible. Paddock encourages all parents to instruct their children in the safe and responsible use of the Internet.
-
-  * To count and recognize users.
-  * To conduct research on behalf of some partners on their websites, and for auditing purposes.
-  * To determine aggregate information about users, including demographic and usage information.
-  * To determine which email messages were opened and/or acted upon when we send HTML-formatted email messages (messages resembling Web pages that include graphics).
-  * Advertising networks that serve ads on our site may also use single-pixel GIFs in their advertisements. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a Web beacon.
-
-
-
-\-->
 
 ## How does Paddock use and share information collected through DailyHerald.com?
 
