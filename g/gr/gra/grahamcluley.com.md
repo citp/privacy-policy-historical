@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahamcluley.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222045331id_/https%3A//www.grahamcluley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamcluley.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419180802id_/https%3A//www.grahamcluley.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Graham Cluley
 
