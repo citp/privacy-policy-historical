@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlfi.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917012711id_/http%3A//www.wlfi.com/content/news/451149743.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlfi.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419104745id_/http%3A//www.wlfi.com/content/news/451149743.html) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy
 
