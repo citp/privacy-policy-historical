@@ -1,7 +1,21 @@
-<!--The following is the downloaded HTML source of the bcf.com.au privacy policy that was archived on 2018-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180815013520id_/https%3A//www.bcf.com.au/customer-service/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcf.com.au privacy policy that was archived on 2019-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190419103958id_/https%3A//www.bcf.com.au/customer-service/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -131,6 +145,7 @@
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="format-detection" content="telephone=no">
 
+
 <title>Privacy Policy - BCF Australia</title>
 
 <link href="/on/demandware.static/Sites-bcf-au-Site/-/default/dw7168ff46/images/favicon.ico" rel="shortcut icon">
@@ -178,7 +193,7 @@ use_existing_jquery=false,
 _vis_opt_url = window._vis_opt_url || document.URL,
 // DO NOT EDIT BELOW THIS LINE
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(_vis_opt_url)+'&s=dw&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=131227&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180815013520id_%2Fhttps%253A%2F%2Fwww.bcf.com.au%2Fcustomer-service%2Fprivacy-policy.html&amp;s=dw&amp;r=0.8718101602304622" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=131227&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190419103958id_%2Fhttps%253A%2F%2Fwww.bcf.com.au%2Fcustomer-service%2Fprivacy-policy.html&amp;s=dw&amp;r=0.799169788423155" type="text/javascript"></script>
 <!-- End VWO Async Code -->
 
 
@@ -198,12 +213,16 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 
 
-<link href="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/swiper/swiper.min.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/scrollbar/jquery.scrollbar.css" type="text/css" rel="stylesheet">
+
+
+
+
+<link href="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/swiper/swiper.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/scrollbar/jquery.scrollbar.css" type="text/css" rel="stylesheet">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/js/lib/html5.js"></script>
 <![endif]-->
 
 <script type="text/javascript">//<!--
@@ -220,7 +239,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -266,6 +291,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -278,7 +330,7 @@ CQuotient.getCQUserId = function () {
 var gtmEnabled = true;
 var dataLayer = [];
 </script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/gtm.js" class="gtm-script" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/gtm.js" class="gtm-script" type="text/javascript"></script>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -288,8 +340,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
+
+
+
+
 <!-- UI -->
-<link rel="stylesheet" href="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/css/style.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -350,6 +406,20 @@ $elem.val(val).trigger('change');
 
 </head>
 <body class=" ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -612,6 +682,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="cookie-notification hide">
+<span class="agree-cookie"><i class="fa fa-close"></i></span>
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="8a17034bae009887ad953139a3" -->
+<style>
+    .cookie-notification {
+        background-color: #d8d8d8;
+        padding: 10px
+    }
+    .cookie-notification .cookie-policy {
+        text-align: center;
+    }
+
+</style>
+<div class="cookie-policy"><span>Our website uses cookies to improve your experience. To find out more including how to change your settings, please see our <a href="https://www.bcf.com.au/customer-service/privacy-policy.html" title="View our Privacy Policy"><em>Privacy Policy</em></a></span></div>
+</div> <!-- End content-asset -->
+
+
+
+
+
+</div>
+
+
+
+<script async="">
+if (true) {
+var isAcceptedCookie = document.cookie.indexOf('isAcceptedCookie') !== -1;
+var cookieHint = document.querySelector('.cookie-notification:first-child');
+document.cookie = 'isAcceptedCookie=true; path=/';
+cookieHint.classList[isAcceptedCookie ? 'add' : 'remove']('hide');
+}
+</script>
 <div class="header-banner">
 
 	 
@@ -744,9 +871,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<div data-gtm="%7B%22ecommerce%22%3A%7B%22email%22%3A%22%22%2C%22promoClick%22%3A%7B%22promotions%22%3A%5B%7B%22id%22%3A%22top-header-banner-js%22%2C%22name%22%3A%22%22%2C%22creative%22%3A%22%22%2C%22position%22%3A%22header-banner%22%7D%5D%7D%7D%2C%22event%22%3A%22promotionClick%22%7D" id="slotcontent-top-header-banner-js">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-gtm="%7B%22ecommerce%22%3A%7B%22email%22%3A%22%22%2C%22promoClick%22%3A%7B%22promotions%22%3A%5B%7B%22id%22%3A%22top-header-banner-js%22%2C%22name%22%3A%22Global%20Top%20CVP%20content%22%2C%22creative%22%3A%22%22%2C%22position%22%3A%22header-banner%22%7D%5D%7D%7D%2C%22event%22%3A%22promotionClick%22%7D" id="slotcontent-top-header-banner-js">
 <!-- Top Promo Banner : START -->
-                <div class="hidden-sm-down" style="position: absolute;top: 0;width: 100%;z-index: 12; padding: 12px 10px 0">
+                <div class="hidden-sm-down" style="position: absolute;width: 100%;z-index: 12; padding: 12px 10px 0">
                     <div class="font26" style="width: calc(100% - 200px);margin: 0 auto;align-items: center;display: -ms-flexbox;display: flex;-ms-flex-pack: justify;justify-content: space-between;position: relative;">
                         <!-- afterpay PROMO : START -->
                         <div class="mySlide">
@@ -816,14 +957,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 GTM.initPromotionClick('slotcontent-top-header-banner-js');
 </script>
 
-
-
-<script type="text/javascript">
-GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"id":"top-header-banner-js","name":"","creative":"","position":"header-banner"}]}}});
-</script>
-
-
-
  
 	
 </div>
@@ -851,11 +984,136 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 </div>
 <!-- BCF Site-Logo ASSET : END -->
 <!-- Consolidated Styles Test : BEGIN -->
-<link rel="stylesheet" type="text/css" href="https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/en_AU/v1534262184758/css/bcf_v1-5_styles.css">
+<link rel="stylesheet" type="text/css" href="https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/en_AU/v1555614751448/css/bcf_v1-5_styles.css">
 <!--[if lt IE 8]><!-->
-<link rel="stylesheet" type="text/css" href="https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/en_AU/v1534262184758/ie7/ie7.css">
+<link rel="stylesheet" type="text/css" href="https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/en_AU/v1555614751448/ie7/ie7.css">
 <!--<![endif]-->
 <!-- Consolidated Styles Test : END -->
+<!-- Increase Member Price Font Size -->
+<style>
+.pdp-main .product-detail .product-price .member-price {font-size:2.4625rem;}
+
+    /* Responsive Tables */
+    .table-responsive {
+        min-width: 700px;
+    }
+
+    .table-flow {
+        overflow-x: auto;
+    }
+
+.tech-table-th {
+        min-width: 180px;
+        background-color: #eeeeee;
+    }
+
+    #sizechart-bcf .table {
+        margin: 0 0 20px;
+    }
+
+    #sizechart-bcf .table thead {
+        background: #eeeeee;
+    }
+
+    #sizechart-bcf .table td {
+        padding: 10px;
+        height: 40px;
+    }
+
+    #sizechart-bcf .table th {
+        padding: 10px;
+        height: 40px;
+        font-size: .800rem;
+    }
+
+    #sizechart-bcf .table tbody tr:hover {
+        background-color: rgba(0, 0, 0, 0.01);
+    }
+
+    #sizechart-bcf-1 {
+        float: left;
+    }
+
+    #specifications-bcf .table {
+        margin: 0 0 20px;
+    }
+
+    #specifications-bcf .table thead {
+        background: #eeeeee;
+    }
+
+    #specifications-bcf .table th {
+        padding: 10px;
+        height: 30px;
+        width: 50%;
+    }
+
+    #specifications-bcf .table tbody tr:hover {
+        background-color: rgba(0, 0, 0, 0.01);
+    }
+
+    #specifications-bcf .table td {
+        padding: 10px;
+        height: 30px;
+        width: 50%;
+    }
+
+    #specifications-bcf .table tbody tr:hover {
+        background-color: rgba(0, 0, 0, 0.01);
+    }
+
+    @media (max-width: 767px) {
+        .table-responsive {
+            min-width: 600px;
+        }
+
+        #sizechart-bcf .table, #sizechart-bcf table {}
+        #sizechart-bcf .table td, #sizechart-bcf table td {
+            display: table-cell;
+            width: inherit;
+        }
+
+        #sizechart-bcf .table thead,
+        #sizechart-bcf table thead {
+            display: table-header-group;
+        }
+
+        #specifications-bcf .table, #specifications-bcf table {}
+        #specifications-bcf .table td, #specifications-bcf table td {
+            display: table-cell;
+            width: inherit;
+            border-bottom: 1px solid #d5d5d5;
+        }
+
+        #specifications-bcf .table thead,
+        #specifications-bcf table thead {
+            display: table-header-group;
+        }
+
+
+#metro .table td:last-child, table td:last-child {
+    border-bottom-style: solid;
+}
+    }
+
+/* Bonus-Buy Tweaks : BEGIN */
+                    @media (max-width: 767px) {
+                        .select-product-bonus-buy .swiper-outer .swiper-pagination.swiper-pagination-bullets {
+                            height: 25px !important;
+                        }
+                    }
+                    
+                    .select-product-bonus-buy .swiper-outer .swiper-pagination.swiper-pagination-bullets {
+                        overflow: hidden;
+                        height: 20px;
+                    }
+                    
+                    .pt_bonusbuy .bonus-buy-total {
+                        display: none !important
+                    }
+                    /* Bonus-Buy Tweaks : END */
+
+</style>
 </div> <!-- End content-asset -->
 
 
@@ -871,8 +1129,7 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 
 <span class="my-store-text">Your Store</span>
-<a href="/stores/details?id=1134">BCF Batemans Bay</a>
-
+<a class="my-store-link" href="/fishing-shop-and-camping-stores/details?id=1024">BCF Hervey Bay</a>
 </div>
 </div>
 <div class="outer-header-right">
@@ -914,8 +1171,7 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 
 <span class="my-store-text">Your Store</span>
-<a href="/stores/details?id=1134">BCF Batemans Bay</a>
-
+<a class="my-store-link" href="/fishing-shop-and-camping-stores/details?id=1024">BCF Hervey Bay</a>
 </div>
 </div>
 <div class="user-panel hidden-xs-up">
@@ -937,6 +1193,20 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 
 <div id="mini-cart" class="mini-cart">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1229,6 +1499,20 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <ul class="menu-category level-1">
 
 
@@ -1241,7 +1525,7 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 
 
-<a class="has-sub-menu " href="https://www.bcf.com.au/boating">
+<a class="has-sub-menu  has-hover-menu" href="https://www.bcf.com.au/boating">
 
 <span>Boating</span>
 </a>
@@ -1310,8 +1594,8 @@ Biminis &amp; Launchers
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/boating/boat-fit-out/covers">
-Covers
+<a href="https://www.bcf.com.au/boating/boat-fit-out/boat-covers-and-carpet">
+Boat Covers &amp; Carpet
 </a>
 </li>
 
@@ -1322,8 +1606,8 @@ Pumps &amp; Plumbing
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/boating/boat-fit-out/lighting">
-Lighting
+<a href="https://www.bcf.com.au/boating/boat-fit-out/boat-lighting">
+Boat Lighting
 </a>
 </li>
 
@@ -1362,7 +1646,7 @@ Sailing
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/boating/boats-and-motors-1">
+<a class="has-sub-menu" href="https://www.bcf.com.au/boating/boats-and-motors">
 Boats &amp; Motors
 </a>
 
@@ -1462,7 +1746,7 @@ Adhesives &amp; Fillers
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/boating/safety-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/boating/safety">
 Safety
 </a>
 
@@ -1659,7 +1943,7 @@ Tie-Downs
 
 
 <div class="level-2-outer">
-<a class="" href="https://www.bcf.com.au/boating/first-aid-and-sun-safety-2">
+<a class="" href="https://www.bcf.com.au/boating/first-aid-and-sun-safety">
 First Aid &amp; Sun Safety
 </a>
 
@@ -1740,8 +2024,8 @@ Biminis &amp; Launchers
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/boating/boat-fit-out/covers">
-Covers
+<a href="https://www.bcf.com.au/boating/boat-fit-out/boat-covers-and-carpet">
+Boat Covers &amp; Carpet
 </a>
 </li>
 
@@ -1752,8 +2036,8 @@ Pumps &amp; Plumbing
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/boating/boat-fit-out/lighting">
-Lighting
+<a href="https://www.bcf.com.au/boating/boat-fit-out/boat-lighting">
+Boat Lighting
 </a>
 </li>
 
@@ -1788,8 +2072,8 @@ Rigging
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/boating/boat-fit-out/hardware">
-Hardware
+<a href="https://www.bcf.com.au/boating/boat-fit-out/hardware-and-extras">
+Hardware &amp; Extras
 </a>
 </li>
 
@@ -1814,7 +2098,7 @@ Fasteners
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/boating/boats-and-motors-1">
+<a class="has-sub-menu" href="https://www.bcf.com.au/boating/boats-and-motors">
 Boats &amp; Motors
 </a>
 
@@ -1910,7 +2194,7 @@ Adhesives &amp; Fillers
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/boating/safety-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/boating/safety">
 Safety
 </a>
 
@@ -2097,7 +2381,7 @@ Tie-Downs
 <li>
 
 
-<a class="" href="https://www.bcf.com.au/boating/first-aid-and-sun-safety-2">
+<a class="" href="https://www.bcf.com.au/boating/first-aid-and-sun-safety">
 First Aid &amp; Sun Safety
 </a>
 
@@ -2126,7 +2410,7 @@ First Aid &amp; Sun Safety
 
 
 
-<a class="has-sub-menu " href="https://www.bcf.com.au/camping">
+<a class="has-sub-menu  has-hover-menu" href="https://www.bcf.com.au/camping">
 
 <span>Camping</span>
 </a>
@@ -2150,7 +2434,7 @@ First Aid &amp; Sun Safety
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/bedding-1">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/bedding">
 Bedding
 </a>
 
@@ -2270,7 +2554,7 @@ Poles, Pegs, Guy Ropes
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/safety-and-protection-1">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/safety-and-protection">
 Safety &amp; Protection
 </a>
 
@@ -2307,7 +2591,7 @@ Insect Protection
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/gazebos-and-shade-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/gazebos-and-shade">
 Gazebos and Shade
 </a>
 
@@ -2379,7 +2663,7 @@ Food &amp; Snacks
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/camp-furniture-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/camp-furniture">
 Camp Furniture
 </a>
 
@@ -2430,8 +2714,8 @@ Wardrobe &amp; Cupboards
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/camping/camp-furniture/kids-furniture">
-Kids Furniture
+<a href="https://www.bcf.com.au/camping/camp-furniture/kids-camping-chairs">
+Kids Camping Chairs
 </a>
 </li>
 
@@ -2660,7 +2944,7 @@ Wash Accessories
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/camping-storage-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/camping-storage">
 Camping Storage
 </a>
 
@@ -2787,7 +3071,7 @@ Power Accessories
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/lighting-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/lighting">
 Lighting
 </a>
 
@@ -2859,6 +3143,27 @@ Knives &amp; Multitools
 <li>
 <a href="https://www.bcf.com.au/camping/camping-hardware/binoculars">
 Binoculars
+</a>
+</li>
+
+</ul>
+</div>
+
+</div>
+
+
+<div class="level-2-outer">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/gadgets-and-gear">
+Gadgets &amp; Gear
+</a>
+
+<i class="menu-item-toggle fi fi-angle-down"></i>
+<div class="level-3">
+<ul class="menu-vertical">
+
+<li>
+<a href="https://www.bcf.com.au/camping/gadgets-and-gear/games-and-gifts">
+Games &amp; Gifts
 </a>
 </li>
 
@@ -2892,7 +3197,7 @@ Binoculars
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/bedding-1">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/bedding">
 Bedding
 </a>
 
@@ -3012,7 +3317,7 @@ Poles, Pegs, Guy Ropes
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/safety-and-protection-1">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/safety-and-protection">
 Safety &amp; Protection
 </a>
 
@@ -3045,7 +3350,7 @@ Insect Protection
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/gazebos-and-shade-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/gazebos-and-shade">
 Gazebos and Shade
 </a>
 
@@ -3117,7 +3422,7 @@ Food &amp; Snacks
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/camp-furniture-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/camp-furniture">
 Camp Furniture
 </a>
 
@@ -3166,8 +3471,8 @@ Wardrobe &amp; Cupboards
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/camping/camp-furniture/kids-furniture">
-Kids Furniture
+<a href="https://www.bcf.com.au/camping/camp-furniture/kids-camping-chairs">
+Kids Camping Chairs
 </a>
 </li>
 
@@ -3390,7 +3695,7 @@ Wash Accessories
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/camping-storage-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/camping-storage">
 Camping Storage
 </a>
 
@@ -3513,7 +3818,7 @@ Power Accessories
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/camping/lighting-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/lighting">
 Lighting
 </a>
 
@@ -3586,6 +3891,27 @@ Binoculars
 
 </li>
 
+<li>
+
+
+<i class="menu-item-toggle srg srg-arrowdown"></i>
+
+<a class="has-sub-menu" href="https://www.bcf.com.au/camping/gadgets-and-gear">
+Gadgets &amp; Gear
+</a>
+
+<ul class="level-3">
+
+<li>
+<a href="https://www.bcf.com.au/camping/gadgets-and-gear/games-and-gifts">
+Games &amp; Gifts
+</a>
+</li>
+
+</ul>
+
+</li>
+
 </ul>
 <div class="mobile-menu-content">
 
@@ -3609,7 +3935,7 @@ Binoculars
 
 
 
-<a class="has-sub-menu " href="https://www.bcf.com.au/fishing">
+<a class="has-sub-menu  has-hover-menu" href="https://www.bcf.com.au/fishing">
 
 <span>Fishing</span>
 </a>
@@ -3633,7 +3959,7 @@ Binoculars
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/rods-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/rods">
 Rods
 </a>
 
@@ -3690,7 +4016,7 @@ Rod Accessories
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/reels-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/reels">
 Reels
 </a>
 
@@ -3717,6 +4043,12 @@ Overhead Reels
 </li>
 
 <li>
+<a href="https://www.bcf.com.au/fishing/reels/alvey-reels">
+Alvey Reels
+</a>
+</li>
+
+<li>
 <a href="https://www.bcf.com.au/fishing/reels/hand-reels">
 Hand Reels
 </a>
@@ -3735,7 +4067,7 @@ Reel Accessories
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/combos-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/combos">
 Combos
 </a>
 
@@ -3790,7 +4122,7 @@ Kids Combos
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/line-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/line">
 Line
 </a>
 
@@ -3835,7 +4167,7 @@ Leader Lines
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/nets-gaffs-and-pumps-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/nets-gaffs-and-pumps">
 Nets, Gaffs And Pumps
 </a>
 
@@ -3886,7 +4218,7 @@ Cast Nets
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-storage-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-storage">
 Fishing Storage
 </a>
 
@@ -3923,7 +4255,7 @@ Rod Storage
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-tools-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-tools">
 Fishing Tools
 </a>
 
@@ -3962,7 +4294,7 @@ Misc Tools &amp; Accessories
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-apparel-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-apparel">
 Fishing Apparel
 </a>
 
@@ -3983,7 +4315,7 @@ Fishing Waders
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-tackle-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-tackle">
 Fishing Tackle
 </a>
 
@@ -4155,7 +4487,7 @@ Bait &amp; Burley Acc
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/spear-fishing-gear-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/spear-fishing-gear">
 Spear Fishing Gear
 </a>
 
@@ -4192,7 +4524,7 @@ Spear Guns
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/media-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/media">
 Media
 </a>
 
@@ -4226,6 +4558,22 @@ DVD's
 
 </ul>
 </div>
+
+</div>
+
+
+<div class="level-2-outer">
+<a class="" href="https://www.bcf.com.au/fishing/giftware">
+Giftware
+</a>
+
+</div>
+
+
+<div class="level-2-outer">
+<a class="" href="https://www.bcf.com.au/fishing/fishing-tech">
+Fishing Tech
+</a>
 
 </div>
 
@@ -4261,7 +4609,7 @@ DVD's
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/rods-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/rods">
 Rods
 </a>
 
@@ -4318,7 +4666,7 @@ Rod Accessories
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/reels-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/reels">
 Reels
 </a>
 
@@ -4343,6 +4691,12 @@ Overhead Reels
 </li>
 
 <li>
+<a href="https://www.bcf.com.au/fishing/reels/alvey-reels">
+Alvey Reels
+</a>
+</li>
+
+<li>
 <a href="https://www.bcf.com.au/fishing/reels/hand-reels">
 Hand Reels
 </a>
@@ -4363,7 +4717,7 @@ Reel Accessories
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/combos-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/combos">
 Combos
 </a>
 
@@ -4414,7 +4768,7 @@ Kids Combos
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/line-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/line">
 Line
 </a>
 
@@ -4459,7 +4813,7 @@ Leader Lines
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/nets-gaffs-and-pumps-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/nets-gaffs-and-pumps">
 Nets, Gaffs And Pumps
 </a>
 
@@ -4510,7 +4864,7 @@ Cast Nets
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-storage-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-storage">
 Fishing Storage
 </a>
 
@@ -4543,7 +4897,7 @@ Rod Storage
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-tools-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-tools">
 Fishing Tools
 </a>
 
@@ -4582,7 +4936,7 @@ Misc Tools &amp; Accessories
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-apparel-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-apparel">
 Fishing Apparel
 </a>
 
@@ -4603,7 +4957,7 @@ Fishing Waders
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-tackle-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/fishing-tackle">
 Fishing Tackle
 </a>
 
@@ -4771,7 +5125,7 @@ Bait &amp; Burley Acc
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/spear-fishing-gear-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/spear-fishing-gear">
 Spear Fishing Gear
 </a>
 
@@ -4804,7 +5158,7 @@ Spear Guns
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/media-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/fishing/media">
 Media
 </a>
 
@@ -4838,6 +5192,24 @@ DVD's
 
 </li>
 
+<li>
+
+
+<a class="" href="https://www.bcf.com.au/fishing/giftware">
+Giftware
+</a>
+
+</li>
+
+<li>
+
+
+<a class="" href="https://www.bcf.com.au/fishing/fishing-tech">
+Fishing Tech
+</a>
+
+</li>
+
 </ul>
 <div class="mobile-menu-content">
 
@@ -4861,7 +5233,7 @@ DVD's
 
 
 
-<a class="has-sub-menu " href="https://www.bcf.com.au/watersports">
+<a class="has-sub-menu  has-hover-menu" href="https://www.bcf.com.au/watersports">
 
 <span>Watersports</span>
 </a>
@@ -5112,50 +5484,56 @@ Kayak Accessories
 
 
 
-<div data-gtm="%7B%22ecommerce%22%3A%7B%22email%22%3A%22%22%2C%22promoClick%22%3A%7B%22promotions%22%3A%5B%7B%22id%22%3A%22megamenu-paddle-golive%22%2C%22name%22%3A%22%22%2C%22creative%22%3A%22%22%2C%22position%22%3A%22megamenu-rays01-desktop%22%7D%5D%7D%7D%2C%22event%22%3A%22promotionClick%22%7D" id="slotcontent-megamenu-paddle-golive">
-<!-- MegaMenu -  BEGIN -->
-
-<div class="blog-listing-container col-12" style="min-width: 180px; margin: 0 0 15px;padding: 0;">
-    <div class="blog-list row" style="background: #f5f5f5;padding: 10px;margin: 0;">
 
 
-        <div class="blog-landing-article col-6" style="margin: 0;">
-            <div class="img-blog" style="background-image:url('https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dwaf9b4374/images/blog/boating/tips/Boating_Selecting a Kayak_03.jpg');height: 160px;"></div>
-            <div class="blog-landing-info" style="padding: 10px; min-height: 180px">
-                <span class="blog-landing-folder" style="padding: 0;">Watersports</span>
-                <h3 class="font13" style="min-height: 60px;margin: 0;">Selecting <br>a Kayak</h3>
-                <a href="https://www.bcf.com.au/be-a-bcfing-expert/boating/beginners-guide/selecting-a-kayak.html" class="btn btn-tertiary" style="padding: 0;">Read Article</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-gtm="%7B%22ecommerce%22%3A%7B%22email%22%3A%22%22%2C%22promoClick%22%3A%7B%22promotions%22%3A%5B%7B%22id%22%3A%22megamenu-paddle-update%22%2C%22name%22%3A%22%22%2C%22creative%22%3A%22%22%2C%22position%22%3A%22megamenu-rays01-desktop%22%7D%5D%7D%7D%2C%22event%22%3A%22promotionClick%22%7D" id="slotcontent-megamenu-paddle-update">
+<div class="blog-listing-container">
+    <div class="blog-list row" style="display: inline-flex;"> 
+        <div class="blog-landing-article col-6">
+            <div class="img-blog" style="background-image:url('https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dwaf9b4374/images/blog/boating/tips/Boating_Selecting a Kayak_03.jpg'); height: 200px;">
             </div>
-        </div> 
-
-        <div class="blog-landing-article col-6" style="margin: 0;">
-            <div class="img-blog" style="background-image:url('https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dw4c1bfc4a/images/blog/boating/tips/Boating_Watersports Hints and Tips_03.jpg');height: 160px;"></div>
-            <div class="blog-landing-info" style="padding: 10px; min-height: 180px">
-                <span class="blog-landing-folder" style="padding: 0;">Hints &amp; Tips</span>
-                <h3 class="font13" style="min-height: 60px;margin: 0;">Watersport Hints &amp; Tips</h3>
-                <a href="https://www.bcf.com.au/be-a-bcfing-expert/boating/tips/watersports-hints-and-tips.html" class="btn btn-tertiary" style="padding: 0;">Read Article</a>
+            <div class="blog-landing-info" style="height: 180px">
+                <a class="blog-landing-folder" style="color: #005593;">Watersports</a>
+                <h3 class="article-heading-text" style="height: 60px; margin-top: 0px;">
+                    <a class="content-title" href="https://www.bcf.com.au/gas-bottle-refills">Selecting a Kayak</a>
+                </h3>
+                <div class="outer-cta">
+                    <a href="https://www.bcf.com.au/be-a-bcfing-expert/boating/beginners-guide/selecting-a-kayak.html" class="btn btn-tertiary btn-md" style="width: 100%; border-color: #005593;bottom: 20px;">Read more</a>
+                </div>
             </div>
-        </div> 
-
+        </div>
+        
+        <div class="blog-landing-article col-6">
+            <div class="img-blog" style="background-image:url('https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dw4c1bfc4a/images/blog/boating/tips/Boating_Watersports Hints and Tips_03.jpg'); height: 200px;">
+            </div>
+            <div class="blog-landing-info" style="height: 180px;">
+                <a class="blog-landing-folder" style="color: #005593;">Hints &amp; Tips</a>
+                <h3 class="article-heading-text" style="height: 60px; margin-top: 0px;">
+                    <a class="content-title" href="https://www.bcf.com.au/be-a-bcfing-expert/boating/tips/watersports-hints-and-tips.html">Watersport Hints &amp; Tips</a>
+                </h3>
+                <div class="outer-cta">
+                    <a href="https://www.bcf.com.au/be-a-bcfing-expert/boating/tips/watersports-hints-and-tips.html" class="btn btn-tertiary btn-md" style="width: 100%; border-color: #005593; bottom: 20px;">Read more</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-
-</div>
-
-
-
-<!-- MegaMenu -  END -->
 </div>
 <script>
-GTM.initPromotionClick('slotcontent-megamenu-paddle-golive');
+GTM.initPromotionClick('slotcontent-megamenu-paddle-update');
 </script>
-
-
-
-<script type="text/javascript">
-GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"id":"megamenu-paddle-golive","name":"","creative":"","position":"megamenu-rays01-desktop"}]}}});
-</script>
-
-
 
  
 	
@@ -5291,7 +5669,7 @@ Kayak Accessories
 
 
 
-<a class="has-sub-menu " href="https://www.bcf.com.au/4wd-and-caravan">
+<a class="has-sub-menu  has-hover-menu" href="https://www.bcf.com.au/4wd-and-caravan">
 
 <span>4WD &amp; Caravan</span>
 </a>
@@ -5315,7 +5693,7 @@ Kayak Accessories
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/caravan-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/caravan">
 Caravan
 </a>
 
@@ -5364,7 +5742,7 @@ Accessories
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/4wd-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/4wd">
 4WD
 </a>
 
@@ -5488,7 +5866,7 @@ Navigation
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/maps-and-books-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/maps-and-books">
 Maps &amp; Books
 </a>
 
@@ -5648,59 +6026,56 @@ Magazines &amp; DVD's
 
 
 
-<div data-gtm="%7B%22ecommerce%22%3A%7B%22email%22%3A%22%22%2C%22promoClick%22%3A%7B%22promotions%22%3A%5B%7B%22id%22%3A%22megamenu-touring-golive%22%2C%22name%22%3A%22%22%2C%22creative%22%3A%22%22%2C%22position%22%3A%22megamenu-rays01-desktop%22%7D%5D%7D%7D%2C%22event%22%3A%22promotionClick%22%7D" id="slotcontent-megamenu-touring-golive">
-<!-- MegaMenu -  BEGIN -->
-
-<div class="blog-listing-container col-12" style="min-width: 180px; margin: 0 0 15px;padding: 0;">
-    <div class="blog-list row" style="background: #f5f5f5;padding: 0px;margin: 0;">
 
 
-        <div class="blog-landing-article col-6" style="margin: 0;padding:2px;">
-            <div class="img-blog" style="background-image:url('https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dw22fe3012/images/blog/4x4/how-to/tyre-pressures/tyre-pressures-mobile.jpg');height: 160px;"></div>
-            <div class="blog-landing-info" style="padding: 0px; min-height: 180px">
-                <span class="blog-landing-folder" style="padding: 0;">4x4 &amp; Touring</span>
-                <h3 class="font13" style="min-height: 60px;margin: 0;">Tyre Pressure</h3>
-                <a href="https://www.bcf.com.au/be-a-bcfing-expert/4x4-touring/how-to/tyre-pressures.html" class="btn btn-tertiary" style="padding: 0;">Read Article</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-gtm="%7B%22ecommerce%22%3A%7B%22email%22%3A%22%22%2C%22promoClick%22%3A%7B%22promotions%22%3A%5B%7B%22id%22%3A%22megamenu-touring-update%22%2C%22name%22%3A%22%22%2C%22creative%22%3A%22%22%2C%22position%22%3A%22megamenu-rays01-desktop%22%7D%5D%7D%7D%2C%22event%22%3A%22promotionClick%22%7D" id="slotcontent-megamenu-touring-update">
+<div class="blog-listing-container">
+    <div class="blog-list row" style="display: inline-flex;"> 
+        <div class="blog-landing-article col-6">
+            <div class="img-blog" style="background-image:url('https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dw871bbd25/images/additional-content/BCF_Gas_Refills_Virginia.jpg'); height: 200px;">
             </div>
-        </div> 
-
-
-
-
-        <div class="blog-landing-article col-6" style="margin: 0;padding:2px;">
-            <div class="img-blog" style="background-image:url('https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dwf3a2a6f7/images/blog/4x4/tips/4x4_Choosing your Recovery Gear_03.jpg');height: 160px;"></div>
-            <div class="blog-landing-info" style="padding: 0px; min-height: 180px">
-                <span class="blog-landing-folder" style="padding: 0;">4x4 &amp; Touring</span>
-                <h3 class="font13" style="min-height: 60px;margin: 0;">Choosing your Recovery Gear</h3>
-                <a href="https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/Page-Show?cid=choosing-recovery-gear%20" class="btn btn-tertiary" style="padding: 0;">Read Article</a>
+            <div class="blog-landing-info" style="height: 180px">
+                <a class="blog-landing-folder" style="color: #005593;">Services</a>
+                <h3 class="article-heading-text" style="height: 60px; margin-top: 0px;">
+                    <a class="content-title" href="https://www.bcf.com.au/gas-bottle-refills">Gas Refills</a>
+                </h3>
+                <div class="outer-cta">
+                    <a href="https://www.bcf.com.au/gas-bottle-refills" class="btn btn-tertiary btn-md" style="width: 100%; border-color: #005593;bottom: 20px;">Read more</a>
+                </div>
             </div>
-        </div> 
-
-
-
-
-
-
+        </div>
+        
+        <div class="blog-landing-article col-6">
+            <div class="img-blog" style="background-image:url('https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dwde8967e8/images/blog/4x4/Buyers-Guide/XTM_Modular_Drawer_BlogListing.jpg'); height: 200px;">
+            </div>
+            <div class="blog-landing-info" style="height: 180px;">
+                <a class="blog-landing-folder" title="How To" href="https://www.bcf.com.au/be-a-bcfing-expert/4x4-touring?csortb1=publishDate&amp;csortd1=2" style="color: #005593;">4x4 &amp; Touring</a>
+                <h3 class="article-heading-text" style="height: 60px; margin-top: 0px;">
+                    <a class="content-title" href="https://www.bcf.com.au/be-a-bcfing-expert/4x4-touring/buyers-guide/buyers-guide-4wd-xtm-modular-drawers.html?fdid=blog-4x4#csortb1=publishDate&amp;csortd1=2">XTM MODULAR DRAWERS</a>
+                </h3>
+                <div class="outer-cta">
+                    <a href="https://www.bcf.com.au/be-a-bcfing-expert/4x4-touring/buyers-guide/buyers-guide-4wd-xtm-modular-drawers.html?fdid=blog-4x4#csortb1=publishDate&amp;csortd1=2" class="btn btn-tertiary btn-md" style="width: 100%; border-color: #005593; bottom: 20px;">Read more</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-
-
-</div>
-
-
-
-<!-- MegaMenu -  END -->
 </div>
 <script>
-GTM.initPromotionClick('slotcontent-megamenu-touring-golive');
+GTM.initPromotionClick('slotcontent-megamenu-touring-update');
 </script>
-
-
-
-<script type="text/javascript">
-GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"id":"megamenu-touring-golive","name":"","creative":"","position":"megamenu-rays01-desktop"}]}}});
-</script>
-
-
 
  
 	
@@ -5728,7 +6103,7 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/caravan-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/caravan">
 Caravan
 </a>
 
@@ -5773,7 +6148,7 @@ Accessories
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/4wd-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/4wd">
 4WD
 </a>
 
@@ -5899,7 +6274,7 @@ Navigation
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/maps-and-books-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/4wd-and-caravan/maps-and-books">
 Maps &amp; Books
 </a>
 
@@ -5944,7 +6319,7 @@ Magazines &amp; DVD's
 
 
 
-<a class="has-sub-menu " href="https://www.bcf.com.au/clothing-and-footwear">
+<a class="has-sub-menu  has-hover-menu" href="https://www.bcf.com.au/clothing-and-footwear">
 
 <span>Clothing &amp; Footwear</span>
 </a>
@@ -6001,6 +6376,12 @@ Thermals
 </li>
 
 <li>
+<a href="https://www.bcf.com.au/clothing-and-footwear/mens-clothing/jackets-and-fleece">
+Jackets &amp; Fleece
+</a>
+</li>
+
+<li>
 <a href="https://www.bcf.com.au/clothing-and-footwear/mens-clothing/rainwear">
 Rainwear
 </a>
@@ -6019,8 +6400,8 @@ Ski Wear
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/mens-clothing/workwear">
-Workwear
+<a href="https://www.bcf.com.au/clothing-and-footwear/mens-clothing/underwear">
+Underwear
 </a>
 </li>
 
@@ -6035,7 +6416,7 @@ Workwear
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear">
 Men's Footwear
 </a>
 
@@ -6062,20 +6443,8 @@ Water Shoes
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear/socks">
-Socks
-</a>
-</li>
-
-<li>
 <a href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear/accessories">
 Accessories
-</a>
-</li>
-
-<li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear/work-boots">
-Work Boots
 </a>
 </li>
 
@@ -6083,10 +6452,6 @@ Work Boots
 </div>
 
 </div>
-
-</div>
-
-<div class="column column-category">
 
 
 <div class="level-2-outer">
@@ -6123,12 +6488,6 @@ Thermals
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/womens-clothing/jackets-and-fleece">
-Jackets &amp; Fleece
-</a>
-</li>
-
-<li>
 <a href="https://www.bcf.com.au/clothing-and-footwear/womens-clothing/rainwear">
 Rainwear
 </a>
@@ -6157,7 +6516,7 @@ Ski Wear
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/womens-footwear-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/womens-footwear">
 Women's Footwear
 </a>
 
@@ -6168,12 +6527,6 @@ Women's Footwear
 <li>
 <a href="https://www.bcf.com.au/clothing-and-footwear/womens-footwear/sandals-and-thongs">
 Sandals &amp; Thongs
-</a>
-</li>
-
-<li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/womens-footwear/casual-shoes">
-Casual Shoes
 </a>
 </li>
 
@@ -6202,7 +6555,7 @@ Accessories
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/kids-clothing-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/kids-clothing">
 Kids' Clothing
 </a>
 
@@ -6251,7 +6604,7 @@ Ski Wear
 
 
 <div class="level-2-outer">
-<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/kids-footwear-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/kids-footwear">
 Kids' Footwear
 </a>
 
@@ -6339,6 +6692,12 @@ Thermals
 </li>
 
 <li>
+<a href="https://www.bcf.com.au/clothing-and-footwear/mens-clothing/jackets-and-fleece">
+Jackets &amp; Fleece
+</a>
+</li>
+
+<li>
 <a href="https://www.bcf.com.au/clothing-and-footwear/mens-clothing/rainwear">
 Rainwear
 </a>
@@ -6357,8 +6716,8 @@ Ski Wear
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/mens-clothing/workwear">
-Workwear
+<a href="https://www.bcf.com.au/clothing-and-footwear/mens-clothing/underwear">
+Underwear
 </a>
 </li>
 
@@ -6371,7 +6730,7 @@ Workwear
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear">
 Men's Footwear
 </a>
 
@@ -6396,20 +6755,8 @@ Water Shoes
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear/socks">
-Socks
-</a>
-</li>
-
-<li>
 <a href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear/accessories">
 Accessories
-</a>
-</li>
-
-<li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/mens-footwear/work-boots">
-Work Boots
 </a>
 </li>
 
@@ -6453,12 +6800,6 @@ Thermals
 </li>
 
 <li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/womens-clothing/jackets-and-fleece">
-Jackets &amp; Fleece
-</a>
-</li>
-
-<li>
 <a href="https://www.bcf.com.au/clothing-and-footwear/womens-clothing/rainwear">
 Rainwear
 </a>
@@ -6485,7 +6826,7 @@ Ski Wear
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/womens-footwear-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/womens-footwear">
 Women's Footwear
 </a>
 
@@ -6494,12 +6835,6 @@ Women's Footwear
 <li>
 <a href="https://www.bcf.com.au/clothing-and-footwear/womens-footwear/sandals-and-thongs">
 Sandals &amp; Thongs
-</a>
-</li>
-
-<li>
-<a href="https://www.bcf.com.au/clothing-and-footwear/womens-footwear/casual-shoes">
-Casual Shoes
 </a>
 </li>
 
@@ -6530,7 +6865,7 @@ Accessories
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/kids-clothing-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/kids-clothing">
 Kids' Clothing
 </a>
 
@@ -6575,7 +6910,7 @@ Ski Wear
 
 <i class="menu-item-toggle srg srg-arrowdown"></i>
 
-<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/kids-footwear-2">
+<a class="has-sub-menu" href="https://www.bcf.com.au/clothing-and-footwear/kids-footwear">
 Kids' Footwear
 </a>
 
@@ -6618,7 +6953,7 @@ Water Shoes
 
 
 
-<a class="has-sub-menu " href="https://www.bcf.com.au/brands">
+<a class="has-sub-menu  has-hover-menu" href="https://www.bcf.com.au/brands">
 
 <span>Brands</span>
 </a>
@@ -6787,6 +7122,10 @@ Water Shoes
 </div>
 
 <div class="category">
+<a href="https://www.bcf.com.au/brands/barnett">Barnett</a>
+</div>
+
+<div class="category">
 <a href="https://www.bcf.com.au/brands/bassman">Bassman</a>
 </div>
 
@@ -6835,11 +7174,11 @@ Water Shoes
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/boab">Boab</a>
+<a href="https://www.bcf.com.au/brands/bluesteel">Bluesteel</a>
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/boatmates">Boatmates</a>
+<a href="https://www.bcf.com.au/brands/boab">Boab</a>
 </div>
 
 <div class="category">
@@ -6908,10 +7247,6 @@ Water Shoes
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/cat">Cat</a>
-</div>
-
-<div class="category">
 <a href="https://www.bcf.com.au/brands/celta">Celta</a>
 </div>
 
@@ -6948,10 +7283,6 @@ Water Shoes
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/clipsal">Clipsal</a>
-</div>
-
-<div class="category">
 <a href="https://www.bcf.com.au/brands/coastlines">Coastlines</a>
 </div>
 
@@ -6984,6 +7315,10 @@ Water Shoes
 </div>
 
 <div class="category">
+<a href="https://www.bcf.com.au/brands/crest">Crest</a>
+</div>
+
+<div class="category">
 <a href="https://www.bcf.com.au/brands/croakies">Croakies</a>
 </div>
 
@@ -7002,10 +7337,6 @@ Water Shoes
 
 <div class="category">
 <a href="https://www.bcf.com.au/brands/decoy">Decoy</a>
-</div>
-
-<div class="category">
-<a href="https://www.bcf.com.au/brands/deeper">Deeper</a>
 </div>
 
 <div class="category">
@@ -7042,6 +7373,10 @@ Water Shoes
 </div>
 
 <div class="category">
+<a href="https://www.bcf.com.au/brands/eco-paddle-sports">Eco Paddle Sports</a>
+</div>
+
+<div class="category">
 <a href="https://www.bcf.com.au/brands/ecousoulife">EcouSouLife</a>
 </div>
 
@@ -7055,10 +7390,6 @@ Water Shoes
 
 <div class="category">
 <a href="https://www.bcf.com.au/brands/engel">Engel</a>
-</div>
-
-<div class="category">
-<a href="https://www.bcf.com.au/brands/enviroweight">Enviroweight</a>
 </div>
 
 <div class="category">
@@ -7092,6 +7423,10 @@ Water Shoes
 
 <div class="category">
 <a href="https://www.bcf.com.au/brands/fish">Fish</a>
+</div>
+
+<div class="category">
+<a href="https://www.bcf.com.au/brands/fish-and-boat">Fish and Boat</a>
 </div>
 
 <div class="category">
@@ -7188,6 +7523,10 @@ Water Shoes
 </div>
 
 <div class="category">
+<a href="https://www.bcf.com.au/brands/gotcha">Gotcha</a>
+</div>
+
+<div class="category">
 <a href="https://www.bcf.com.au/brands/gripwell">Gripwell</a>
 </div>
 
@@ -7209,10 +7548,6 @@ Water Shoes
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/hard-yakka">Hard Yakka</a>
-</div>
-
-<div class="category">
 <a href="https://www.bcf.com.au/brands/hatcher">Hatcher</a>
 </div>
 
@@ -7222,10 +7557,6 @@ Water Shoes
 
 <div class="category">
 <a href="https://www.bcf.com.au/brands/hema-maps">Hema Maps</a>
-</div>
-
-<div class="category">
-<a href="https://www.bcf.com.au/brands/hi-tec">Hi Tec</a>
 </div>
 
 </div>
@@ -7377,10 +7708,6 @@ Water Shoes
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/liquid-patch">Liquid Patch</a>
-</div>
-
-<div class="category">
 <a href="https://www.bcf.com.au/brands/lokkii">Lokkii</a>
 </div>
 
@@ -7414,7 +7741,7 @@ Water Shoes
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/malibu">Malibu</a>
+<a href="https://www.bcf.com.au/brands/mako">Mako</a>
 </div>
 
 <div class="category">
@@ -7430,19 +7757,11 @@ Water Shoes
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/masterlock">Masterlock</a>
-</div>
-
-<div class="category">
 <a href="https://www.bcf.com.au/brands/maxima">Maxima</a>
 </div>
 
 <div class="category">
 <a href="https://www.bcf.com.au/brands/maxtrax">Maxtrax</a>
-</div>
-
-<div class="category">
-<a href="https://www.bcf.com.au/brands/mcgrath">McGrath</a>
 </div>
 
 <div class="category">
@@ -7513,6 +7832,10 @@ Water Shoes
 
 <div class="category">
 <a href="https://www.bcf.com.au/brands/oricom">Oricom</a>
+</div>
+
+<div class="category">
+<a href="https://www.bcf.com.au/brands/outdoor-expedition">Outdoor Expedition</a>
 </div>
 
 <div class="category">
@@ -7593,10 +7916,6 @@ Water Shoes
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/primos">Primos</a>
-</div>
-
-<div class="category">
 <a href="https://www.bcf.com.au/brands/primus">Primus</a>
 </div>
 
@@ -7629,10 +7948,6 @@ Water Shoes
 
 <div class="group" data-letter="r">
 <div class="label">R</div>
-
-<div class="category">
-<a href="https://www.bcf.com.au/brands/railblaza">Railblaza</a>
-</div>
 
 <div class="category">
 <a href="https://www.bcf.com.au/brands/rainbird">Rainbird</a>
@@ -7773,10 +8088,6 @@ Water Shoes
 
 <div class="category">
 <a href="https://www.bcf.com.au/brands/solution-x">Solution X</a>
-</div>
-
-<div class="category">
-<a href="https://www.bcf.com.au/brands/solvol">Solvol</a>
 </div>
 
 <div class="category">
@@ -7944,10 +8255,6 @@ Water Shoes
 </div>
 
 <div class="category">
-<a href="https://www.bcf.com.au/brands/yamaha">Yamaha</a>
-</div>
-
-<div class="category">
 <a href="https://www.bcf.com.au/brands/yamashita">Yamashita</a>
 </div>
 
@@ -7990,6 +8297,20 @@ Water Shoes
 
 
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -8183,14 +8504,6 @@ Water Shoes
 GTM.initPromotionClick('slotcontent-megamenu-brands-golive');
 </script>
 
-
-
-<script type="text/javascript">
-GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"id":"megamenu-brands-golive","name":"","creative":"","position":"megamenu-rays02-desktop"}]}}});
-</script>
-
-
-
  
 	
 </div>
@@ -8209,7 +8522,7 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 <li class=" is-featured-menu bcf-au-BCF11">
 
-<a class=" wrapper-hook" href="https://www.bcf.com.au/sale">
+<a class=" wrapper-hook has-hover-menu" href="https://www.bcf.com.au/sale">
 
 <i class="srg srg-hook">
 <span class="path1"></span>
@@ -8280,49 +8593,6 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 <!-- utility user menu -->
 <div class="menu-utility-user nav-utility-user">
 
-
-
-<div class="user-info">
-<a class="user-account user-name-header " href="https://www.bcf.com.au/account" title="User: Login /  Join">
-<i class="srg srg-user"></i>
-<span>Login /  Join</span>
-</a>
-<div class="user-account user-name-nav">
-<i class="srg srg-user"></i>
-<div class="outer">
-
-<span class="">
-
-<a class="user-login" href="https://www.bcf.com.au/account" title="Go to: Login">Login</a>
-/
-
-<a class="user-join" href="https://www.bcf.com.au/account/register" title="Go to: Join">Join</a>
-
-
-</span>
-
-
-
-<span class="my-store-text">Your Store</span>
-<a href="/stores/details?id=1134">BCF Batemans Bay</a>
-
-</div>
-</div>
-<div class="user-panel hidden-xs-up">
-<h3>Login /  Join</h3>
-<div class="user-links">
-
-<a class="user-login" href="https://www.bcf.com.au/account" title="Go to: Login">Login</a>
-
-<a class="user-join" href="https://www.bcf.com.au/account/register" title="Go to: Join">Join</a>
-
-</div>
-
-	 
-
-	
-</div>
-</div>
 
 </div>
 
@@ -8460,6 +8730,20 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div data-gtm="%7B%22ecommerce%22%3A%7B%22email%22%3A%22%22%2C%22promoClick%22%3A%7B%22promotions%22%3A%5B%7B%22id%22%3A%22header-banner-lower%22%2C%22name%22%3A%22Header%20Banner%20Lower%22%2C%22creative%22%3A%22%22%2C%22position%22%3A%22header-banner-lower%22%7D%5D%7D%7D%2C%22event%22%3A%22promotionClick%22%7D" id="slotcontent-header-banner-lower">
 <!-- Header-Banner-Lower : BEGIN -->
                 <!-- DESKTOP Header-Banner-Lower : BEGIN -->
@@ -8470,11 +8754,11 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
                     </div>
 
                     <div class="col-4 afterpay text-center">
-                        <a href="https://www.bcf.com.au/customer-service/returns.html">Free Returns*</a>
-                    </div>
+<a href="https://www.bcf.com.au/customer-service/click-and-collect.html">Click &amp; Collect - Ready in 2 Hours*</a>
+                     </div>
 
                     <!--<div class="col-4 collect text-left">
-                        <a href="https://www.bcf.com.au/customer-service/click-and-collect.html">2 Hour Click &amp; Collect*</a>
+                        <a href="https://www.bcf.com.au/customer-service/returns.html">Free Returns*</a>
                     </div>-->
                    <div class="col-4 collect text-left">
                         <a href="https://www.bcf.com.au/customer-service/price-match-guarantee.html">Price Guarantee*</a>
@@ -8491,11 +8775,11 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
                     </div>
 
                     <div class="lowerSlides afterpay" style="display: none;">
-                        <a href="https://www.bcf.com.au/customer-service/returns.html">Free Returns*</a>
+                        <a href="https://www.bcf.com.au/customer-service/click-and-collect.html">Click &amp; Collect - Ready in 2 Hours*</a>
                     </div>
 
                  <!--   <div class="lowerSlides collect">
-                        <a href="https://www.bcf.com.au/customer-service/faqs.html#toc2-8">2 hour Click &amp; Collect*</a>
+                        <a href="https://www.bcf.com.au/customer-service/returns.html">Free Returns*</a>
                     </div>-->
  <div class="lowerSlides collect" style="display: none;">
                         <a href="https://www.bcf.com.au/customer-service/price-match-guarantee.html#toc2-8">Price Guarantee*</a>
@@ -8526,14 +8810,6 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 <script>
 GTM.initPromotionClick('slotcontent-header-banner-lower');
 </script>
-
-
-
-<script type="text/javascript">
-GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"id":"header-banner-lower","name":"Header Banner Lower","creative":"","position":"header-banner-lower"}]}}});
-</script>
-
-
 
  
 	
@@ -8589,8 +8865,288 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="32df939513daa40b78e0ef1e74" -->
-<!-- Privacy-Policy : BEGIN -->
-<div class="row"><div class="col-sm-9 push-md-3"><div id="content-frame" class="policy"><h1>BCF <small>PTY LTD <br>PRIVACY POLICY</small></h1><p>BCF have developed a Privacy Policy that complies with the requirements of the Privacy Act. When you provide us with your name and contact details, the information will be used as permitted by you and only for legitimate business reasons. View our Privacy Policy for further details.</p><p class="font18">Information Provided</p><p>Every effort has been made to ensure the accuracy and currency of information provided on this site. However, BCF cannot accept any responsibility for errors or omissions. As the ultimate end use of a product is outside of our control, users should check the information supplied or seek detail from us regarding the suitability or product requirements. To the extent permitted by law, BCF is not liable for loss, damage or liability arising from errors, omissions, inaccuracies or any misleading or out of date information whether contained on this site or any link attached to this site.</p><p class="font18">Intellectual Property Rights</p><p>This site contains material in which the copyright is owned by BCF Pty Ltd. This material including wording, depictions and logos may be downloaded for personal use only and may not be used for any other purpose or further reprinted without prior written permission from BCF.</p><p class="font18">Security Capabilities and Policy for Transmission of Payment Card Details:</p><p>We do not record or store cardholder information and data.</p><p>All transactions are processed through High grade 128 bit SSL encryption.</p><p class="font18">How to unsubscribe from promotional and marketing emails</p><p>If you have signed up to receive our newsletter and no longer want to receive them, we make it easy for you to opt out. To stop receiving our promotional emails, please click the unsubscribe link found at the bottom of each email or alternatively you can update your account preferences by logging in to your member profile page on our website.</p><p class="font18">Registered office:</p> <address> <strong>BCF Pty Ltd</strong><br> 751 Gympie Road<br> Lawnton, Brisbane, 4501<br> Queensland, Australia<br> ACN 142 927 642 </address><p><span class="font7">Table of Contents:</span></p><ol><li><a href="#pp1" class="font18">Policy Statement</a></li><li><a href="#pp2" class="font18">Our Commitment To You</a></li><li><a href="#pp3" class="font18">Our Aim</a></li><li><a href="#pp4" class="font18">Obtaining a Copy of this Policy</a></li><li><a href="#pp5" class="font18">Why Do We Deal With Personal Information</a></li><li><a href="#pp6" class="font18">What Type of Personal Information Do We Deal With</a></li><li><a href="#pp7" class="font18">When We Ask For Your Personal Information</a></li><li><a href="#pp8" class="font18">When We Don’t Ask For Your Personal Information</a></li><li><a href="#pp9" class="font18">About Your Personal Information</a></li><li><a href="#pp10" class="font18">Dealing With Your Personal Information for Secondary Purposes</a></li><li><a href="#pp11" class="font18">Direct Marketing</a></li><li><a href="#pp12" class="font18">Quality of Personal Information</a></li><li><a href="#pp13" class="font18">Security of Personal Information</a></li><li><a href="#pp14" class="font18">Remaining Anonymous</a></li><li><a href="#pp15" class="font18">Access to Your Personal Information</a></li><li><a href="#pp16" class="font18">Correction of Personal Information</a></li><li><a href="#pp17" class="font18">Overseas Disclosure of Personal Information</a></li><li><a href="#pp18" class="font18">Where Your Personal Information May Go</a></li><li><a href="#pp19" class="font18">What if You Are Not Happy With The Way We Treat Your Personal Information</a></li></ol><h2>Group Privacy Policy</h2> <span id="pp1" class="anchor">&nbsp;</span><p class="font18">Policy Statement:</p><p>This privacy policy will apply to Super Retail Group Limited and any of its subsidiary companies which are required by law to have a privacy policy. This privacy policy and updated versions of it will be published on Super Retail Group Limited’s website and the websites of its relevant subsidiary companies. A reference to ‘we’ or ‘us’ in this privacy policy means Super Retail Group Limited or relevant subsidiary company and a reference to ‘you’ means an individual person protected by the provisions of the Privacy Act 1988.</p><span id="pp2" class="anchor">&nbsp;</span><p class="font18">Our Commitment To You:</p><p>We are committed to protection of your personal information and the purpose of this policy is to ensure that we meet that commitment by managing your personal information in an open and transparent way.</p><span id="pp3" class="anchor">&nbsp;</span><p class="font18">Our Aim:</p><p>Our aim is to have sufficient practices, procedures and systems relating so that we can ensure that we comply with the Australian Privacy Principles, New Zealand Information Privacy Principles and any other applicable codes. We also aim to deal with inquiries or complaints from the public how we deal with people’s personal information.</p><span id="pp4" class="anchor">&nbsp;</span><p class="font18">Obtaining a Copy of this Policy:</p><p>he current version of this policy is available free of charge on our website. If you ask for a copy of this policy in a particular different form, we will try to give you a copy in a different form but in some circumstances, this may incur a charge.</p><span id="pp5" class="anchor">&nbsp;</span><p class="font18">Why We Deal With Personal Information:</p><p>We deal with your personal information for a number of reasons, including, to assist you with shopping in-store and online with us, so that you can join our club memberships and to deal with your inquiries to our customer interaction centre, to name a few. We hope that by doing this, we can strive to continue to improve the level of customer service that we offer to you.</p><span id="pp6" class="anchor">&nbsp;</span><p class="font18">What Type of Personal Information Do We Deal With:</p><p>Personal information is information that identifies you or is reasonably linked to you. The kinds of personal information we collect may include contact and payment information like your name, email and physical address and phone number.</p><span id="pp7" class="anchor">&nbsp;</span><p class="font18">When We Ask For Your Personal Information:</p><ol><li>We won’t collect your personal information unless it is reasonably necessary for our functions or activities.</li><li>We won’t collect sensitive information about you unless you allow us to and we need the information for our functions or activities or unless we are required or allowed to by law to do so.</li><li>We will only collect personal information in a lawful and fair way.</li><li>We will collect personal information about you only from you unless it is not reasonable or practical to do so.</li></ol><span id="pp8" class="anchor">&nbsp;</span><p class="font18">When We Don’t Ask For Your Personal Information:</p><ol><li>If we receive your personal information and we haven’t asked for it, we will determine whether or not we are allowed to collect that personal information. Sometimes we may have to use or disclose that personal information in order to determine if we are allowed to collect it.</li><li>If we are not allowed to collect the personal information, we will promptly destroy it or ensure it is not capable of identifying you.</li><li>If we are allowed to collect the personal information, we will treat it in the same way as we treat personal information that we ask for.</li></ol><span id="pp9" class="anchor">&nbsp;</span><p class="font18">About Your Personal Information:</p><ol><li>If we collect personal information about you, we will take reasonable steps to make sure you are aware of:<ol><li>our identity and contact details;</li><li>if we collect the personal information from someone other than you or we think you may not be aware that we have collected your personal information, then the fact that we have collected the personal information and how we collected it;</li><li>if we are required or allowed to collect the personal information, then the fact that we are required or allowed to collect it as well as the details of the law that requires or allows us to collect it;</li><li>why we are collecting your personal information;</li><li>the main consequences for you if we don’t collect all or some of your personal information;</li><li>anyone else, or the types of any other entities, bodies or persons, to who we usually disclose personal information we collect;</li><li>that our privacy policy contains information about how you may access your personal information that we hold and how you can have it corrected;</li><li>that our privacy policy contains information about how you may make a complaint about a breach of the Australian Privacy Principles, or a registered code (if any) that apply to us, and how we will deal with complaints;</li><li>whether we are likely to disclose the personal information to someone overseas;</li><li>if we are likely to disclose the personal information to someone overseas, then the countries in which they are likely to be located if it is practicable for us to tell you or to otherwise make you aware of them.</li></ol></li></ol><span id="pp10" class="anchor">&nbsp;</span><p class="font18">Dealing With Your Personal Information for Secondary Purposes:</p><ol><li>If we hold your personal information that was collected for a particular purpose (the primary purpose), we won’t use or disclose the information for another purpose (the secondary purpose) unless:<ol><li>you allow us to; or</li><li>we are required or allowed to by law;</li><li>we believe that the use or disclosure of the information is reasonably necessary for one or more enforcement related activities conducted by, or on behalf of, an enforcement body and we will keep records of that use or disclosure.</li><li>you would reasonably expect us to deal with the information for the secondary purpose and the secondary purpose is:<ol><li>if the information is sensitive information—directly related to the primary purpose; or</li><li>if the information is not sensitive information—related to the primary purpose; or</li></ol></li></ol></li><li>If we are required to by law, we will take reasonable steps to ensure that the information is not capable of identifying you before we disclose it.</li><li>If we collect personal information from one of our related companies this clause applies as if our primary purpose for the collection of the information was the primary purpose for which the related company collected the information.</li></ol><span id="pp11" class="anchor">&nbsp;</span><p class="font18">Direct Marketing:</p><ol><li>If we hold your personal information we won’t use or disclose the information for the purpose of direct marketing without your consent, except as provided below.</li><li>We may use or disclose your personal information (other than sensitive information) for the purpose of direct marketing if:<ol><li>we collected the information from you;</li><li>you would reasonably expect us to use or disclose the information for that purpose;</li><li>we provide you the opportunity to easily request not to receive direct marketing communications from us; and</li><li>you haven’t made such a request to us.</li></ol></li><li>We may also use or disclose your personal information (other than sensitive information) for the purpose of direct marketing if:<ol><li>we collected the information from:<ol><li>you and you would not reasonably expect us to use or disclose the information for that purpose; or</li><li>someone other than you; and</li></ol></li><li>either:<ol><li>you have consented to the use or disclosure of the information for that purpose; or</li><li>it isn’t practical to obtain that consent; and</li></ol></li><li>we provide a simple way for you to easily request not to receive direct marketing communications from us; and</li><li>in each direct marketing communication with you:<ol><li>we include a prominent statement that you may make such a request; or</li><li>we otherwise draws your attention to the fact that you may make such a request; and</li></ol></li><li>you haven’t made such a request to us.</li></ol></li><li>If we use or disclose your personal information:<ol><li>for the purpose of direct marketing by us you may request not to receive direct marketing communications from us; or</li><li>for the purpose of facilitating direct marketing by someone else you may request us not to use or disclose the information for that purpose; and</li><li>you may request us to provide its source of the information.</li></ol></li><li>If you make a request under clause 11.4 we will not charge you for the making the request or meeting it and we will respond to the request in a reasonable time as required by law.</li></ol><span id="pp12" class="anchor">&nbsp;</span><p class="font18">Quality of Personal Information:</p><p>We will take reasonable steps to ensure that the personal information that we collect or use is accurate, up to date and complete.</p><span id="pp13" class="anchor">&nbsp;</span><p class="font18">Security of Personal Information:</p><ol><li>We will take reasonable steps to protect your personal information, including from misuse, interference and unauthorised access or disclosure.</li><li>If we no longer need your personal information and we are allowed to do so by law, then we may destroy the information or make sure that it is can no longer identify you.</li></ol><span id="pp14" class="anchor">&nbsp;</span><p class="font18">Remaining Anonymous:</p><p>Except where it isn’t practical or where the law provides otherwise, you do not have to identify yourself or you may wish to use a pseudonym instead of your real name when dealing with us on a matter.</p><span id="pp15" class="anchor">&nbsp;</span><p class="font18">Access to Your Personal Information:</p><ol><li>You may ask us for access to your personal information. Please direct any requests for access to your personal information to our Privacy Officer whose contact details are provided on our website at www.superretailgroup.com.</li><li>There are some times when we won’t give you access to your personal information, they are when:<ol><li>we reasonably believe that giving access would pose a serious threat to the life, health or safety of any person, or to public health or public safety;</li><li>giving access would have an unreasonable impact on the privacy of another person;</li><li>the request for access is frivolous or vexatious;</li><li>the information relates to existing or anticipated legal proceedings between us and you, and would not be accessible by the process of discovery in those proceedings;</li><li>giving access would reveal our intentions in relation to negotiations with you in such a way as to prejudice those negotiations;</li><li>we are allowed or required by law not to give you access;</li><li>we suspect that unlawful activity, or misconduct of a serious nature, that relates to our functions or activities has been, is being or may be engaged in and that giving access would be likely to prejudice the taking of appropriate action in relation to the matter;</li><li>giving access would be likely to prejudice one or more enforcement related activities conducted by, or on behalf of, an enforcement body; or</li><li>giving access would reveal evaluative information we have generated in connection with a commercially sensitive decision-making process.</li></ol></li><li>If you ask to access to your personal information we will respond within a reasonable time and give you access in the way you ask if it is reasonable and practicable to do so.</li><li>f we don’t give you access to your personal information or don’t give access in the way you ask, we will try to give you access in a different way that meets both your needs and our needs. If we can’t do that, then we will give you a written notice that sets out:<ol><li>the reasons for the refusal except to the extent that, having regard to the grounds for the refusal, it would be unreasonable to do so; and</li><li>the options available to you to make a complaint about the refusal; and</li><li>anything else we have to tell you by law.</li></ol></li><li>We may charge you a reasonable fee for giving access to your personal information that we hold but we won’t charge you just for making the request.</li></ol><span id="pp16" class="anchor">&nbsp;</span><p class="font18">Correction of Personal Information:</p><ol><li>We will take reasonable steps to correct your personal information if we believe it is inaccurate, out of date, incomplete, irrelevant or misleading or if you ask us to correct it.</li><li>If we correct your personal information that we disclosed to someone else and you ask us to notify them of the correction, we will take reasonable steps to give that notification unless it is not practicable or the law requires us not to.</li><li>If we don’t correct your personal information, we will give you a written notice setting out:<ol><li>why it hasn’t been corrected unless it would be unreasonable to do so; and</li><li>how you may make a complaint should you wish to do so; and</li><li>anything else we have to tell you by law.</li></ol></li><li>If we don’t correct your personal information then you may ask us to put a statement with your information stating that it may be inaccurate, out of date, incomplete, irrelevant or misleading. If you ask us to do this, we will take reasonable steps to put the statement with your information.</li><li>If you ask us to correct your personal information or to put a statement with it, we will respond to your request within a reasonable time. We won’t charge you a fee for making of request, for correcting your personal information or for putting a statement with your information.</li></ol><span id="pp17" class="anchor">&nbsp;</span><p class="font18">Overseas Disclosure of Personal Information:</p><p>Before we disclose your personal information to someone overseas we will take reasonable steps to ensure that they don’t breach the Australian Privacy Principles in relation to your personal information. Please note, however, that this won’t apply when you consent to us disclosing your personal information in that or if we are allowed or required by law to make an overseas disclosure of your personal information.</p><span id="pp18" class="anchor">&nbsp;</span><p class="font18">Where Your Personal Information:</p><p>May Go If we do disclose your personal information to someone overseas, they are likely to be located in any one or more of the following countries:</p><ol><li>New Zealand</li></ol> <span id="pp18" class="anchor">&nbsp;</span><p class="font18">If You Are Not Happy With The Way We Treat Your Personal Information:</p><p>If you have any queries or would like to raise any concerns about your personal information, please <strong>email us:</strong> <a href="mailto:privacy@superretailgroup.com" title="Email our Email Department">privacy@superretailgroup.com</a> or write to us at the following;</p><p class="font20">Postal Address:</p> <address>Privacy Officer <br>Super Retail Group Limited <br>PO Box 344 Strathpine <br>Queensland 4500 <br>Or visit the <a href="http://www.superretailgroup.com/privacy-and-security/" target="_blank">Super Retail Group Website</a> for further information. </address><div class="row clearfix"><div class="col-sm-6 col-md-6"><p><strong>Authorised By:</strong> Group Risk Manager <br> <strong>Introduction Date:</strong> March 2014</p></div><div class="col-sm-6 col-md-6"><p><strong>Policy Owner:</strong> Risk <br><strong>Version:</strong> March 2014</p></div></div></div></div><div class="col-sm-3 pull-md-9">
+<div class="row">
+<div class="col-sm-9 push-md-3">
+<div class="policy" id="content-frame">
+<style type="text/css">a.anchor {
+            display: block;
+            position: relative;
+            top: -150px;
+            visibility: hidden;
+        }
+
+ol {
+                        list-style-type: none;
+                        counter-reset: item;
+                        margin: 0;
+                        padding: 0;
+                    }
+
+                        ol > li {
+                            display: table;
+                            counter-increment: item;
+                            margin-bottom: 0.6em;
+                        }
+
+                            ol > li:before {
+                                content: counters(item, ".") ". ";
+                                display: table-cell;
+                                padding-right: 0.6em;
+                            }
+
+                            ol > li ol > li {
+                                margin: 0;
+                            }
+
+                                ol > li ol > li:before {
+                                    content: counters(item, ".") " ";
+                                }
+</style>
+<h1>BCF <small>PTY LTD<br>
+PRIVACY POLICY</small></h1>
+
+<h3>Version: November 2018</h3>
+
+<h3>CONTENTS</h3>
+
+<ol>
+	<li><a href="#l1">Our privacy commitment</a></li>
+	<li><a href="#l2">Why do we collect and use your personal information?</a></li>
+	<li><a href="#l3">What type of personal information do we collect?</a></li>
+	<li><a href="#l4">How do we collect your personal information?</a></li>
+	<li><a href="#l5">How do we use your personal information?</a></li>
+	<li><a href="#l6">How do we secure your personal information?</a></li>
+	<li><a href="#l7">How do you access and correct your personal information?</a></li>
+	<li><a href="#l8">Obtaining a copy of this policy</a></li>
+	<li><a href="#l9">What if you are not happy with how we treat your personal information?</a></li>
+	<li><a href="#l10">Further information on privacy</a></li>
+</ol>
+
+<p>&nbsp;</p>
+
+<ol>
+	<li><a class="anchor" id="l1"></a>
+
+	<p style="font-weight:bold;">Our privacy commitment</p>
+
+	<p>At SRG Leisure Retail Pty Ltd A.C.N. 110 667 411 (“BCF”), we are committed to high standards of conduct in all our business activities, which includes protecting your privacy in accordance with the applicable privacy law. This policy describes how we will manage your personal information in an open, transparent, and lawful way.</p>
+
+	<p>This Privacy Policy applies to the personal information we, or any subsidiaries of Super Retail Group Limited, collect, store, maintain and use about you as our customers, visitors to our websites and stores, users and contributors to social media and other digital services, job applicants, and members of the public. By using our website, engaging with us (including via social media or other channels), or otherwise acquiring any product or service from us, you agree to and accept the contents of this Privacy Policy.</p>
+	</li>
+	<li><a class="anchor" id="l2"></a>
+	<p style="font-weight:bold;">Why do we collect and use your personal information?</p>
+
+	<p>When we refer to personal information, we mean information which identifies you as an individual or from which your identity can be reasonably determined.</p>
+
+	<p>We collect and deal with your personal information so that we can better:</p>
+
+	<ol>
+		<li>assist you with your transactions with us;</li>
+		<li>tell you about and improve our products, services, and experiences that we offer to you;</li>
+		<li>support our business administration and related functions;</li>
+		<li>accept/consider job applications, and send you opportunities that may be of interest to you;</li>
+		<li>allow you to join and participate in our club memberships;</li>
+		<li>assist with any enquiries you make;</li>
+		<li>meet our legal obligations; and</li>
+		<li>for other reasons you might reasonably expect us to use your personal information for.</li>
+	</ol>
+<p></p>
+	<p>Without your personal information, we may not be able to provide our products or services to you.</p>
+	</li>
+	<li><a class="anchor" id="l3"></a>
+	<p style="font-weight:bold;">What type of personal information do we collect?</p>
+
+	<p>When we collect and hold personal information, it may include details such as your name, address, email, telephone number, date of birth, gender, stated or likely preferences and interests (e.g. whether you may be interested in particular products or promotions), and any other details reasonably related to your shopping experience (e.g. you might provide sizing details when shopping for apparel) or dealings with us (e.g. job applications).</p>
+	</li>
+	<li><a class="anchor" id="l4"></a>
+	<p style="font-weight:bold;">How do we collect your personal information?</p>
+
+	<ol>
+		<li>
+		<p style="font-weight:bold;">General collection</p>
+
+		<p>We may collect personal information about you during your interactions with us including when:</p>
+
+		<ol>
+			<li>you shop with us in-store or on our websites;</li>
+			<li>you make an enquiry with us;</li>
+			<li>you join our club membership programs;</li>
+			<li>you participate in a survey, promotion or competition; and</li>
+			<li>you visit or contribute to our online channels such as our websites, social media platforms and other digital services.</li>
+		</ol>
+<p></p>
+		</li>
+		<li>
+		<p style="font-weight:bold;">Cookies and other technologies</p>
+
+		<p>We may collect personal information about you using cookies and other technologies when you visit our websites to create a better and more consistent shopping experience that is more personal to you.</p>
+
+		<p>We use cookies which are small files stored on your device that allows our website to recognise a particular device or browser. We use cookies and other technologies to improve site functionalities (e.g. to help you navigate our website or remember your preferences), measure the effectiveness of our marketing campaigns, and tailor advertisements to make them more relevant to you.</p>
+
+		<p>You can delete cookies that are already on your computer by going to the “settings” section in your browser which should provide instructions on how to locate the file or directory that stores cookies. Please note that by deleting or disabling future cookies, your user experience may be affected and you might not be able to use certain functions of our website.</p>
+		</li>
+		<li>
+		<p style="font-weight:bold;">Social media and other third party websites</p>
+
+		<p>We use a number of third party websites and social media platforms including Twitter, Instagram, LinkedIn, Facebook and YouTube.</p>
+
+		<p>We may make use of any information that you make public when you use any such services or platforms. Such information available for use by us may include images and text relating to us or our products, services, promotions, events, club memberships and club cards.</p>
+
+		<p>You may be able to access other third party websites through our websites. If the operators of those third party websites collect information about you, we may have arrangements in place with those third parties that allows us to collect or have access to that information.</p>
+		</li>
+		<li>
+		<p style="font-weight:bold;">In-store surveillance</p>
+
+		<p>We operate 24 hour video surveillance cameras in our stores and other premises to detect and prevent theft, respond to an incident or emergency and help with the safety and security of our team members, customers and members of the public. These recordings are not monitored by any outside organisation and cameras will not be placed in areas that will not unreasonably intrude on the privacy of individuals.</p>
+		</li>
+	</ol>
+	</li>
+	<li><a class="anchor" id="l5"></a>
+	<p style="font-weight:bold;">How do we use your personal information?</p>
+
+	<ol>
+		<li>
+		<p style="font-weight:bold;">General use</p>
+
+		<p>We may use your personal information to provide our club memberships, communicate with you or respond to an enquiry/complaint/application, and fulfill your orders.</p>
+		</li>
+		<li>
+		<p style="font-weight:bold;">Direct marketing</p>
+
+		<p>We will use or disclose your personal information for direct marketing purposes if you have provided your information for that purpose or if you have subsequently provided consent for your information to be used in this way.</p>
+
+		<p>We may contact you from time to time (by mail, telephone, email, SMS, social media platforms or any other appropriate means) with information about our (or our ‘related companies’) products and services and our business partners, which we think may be of interest to you. We may also provide relevant marketing to you whether directly or through online advertisement networks or other third parties services such as those operated by Google, based on your browsing activities, information collected by surveys, website analytics, online behavioural advertising, and other means.</p>
+
+		<p>You may choose not to receive direct marketing communications from us by ‘opting-out’. Each of our direct marketing materials will tell you how to do this and we will comply with your request within a reasonable timeframe.</p>
+		</li>
+		<li>
+		<p style="font-weight:bold;">Sharing your personal information</p>
+
+		<p>We may need to disclose your personal information to third parties who perform functions or services in connection with our business, such as delivery; product repair or recall; payment processing; marketing; banking; mailing functions; gateway provision; insurance; document management; information technology services including data storage, hosting and security; employment matters; for operation of our websites; or where we are otherwise required to by law. We may also disclose personal information to our related companies, and to other third parties where you have specifically consented to the disclosure of information to those third parties.</p>
+		</li>
+		<li>
+		<p style="font-weight:bold;">Overseas disclosure of your personal information</p>
+
+		<p>Some of our third party service providers have operations overseas or are located overseas. In order for them to provide their services to us (e.g. storage and processing of our data, collection of personal information in a different country to your location), we may have to send your personal information overseas. Before we do so, we will take reasonable steps to ensure that our third party service providers do not breach the relevant privacy laws in relation to your personal information.</p>
+
+		<p>We will ensure that any overseas sharing of personal information is done in a way which requires compliance with privacy and security industry standards, both during transit and at the overseas destination.</p>
+
+		<p>Due to the number of third party services providers which we engage with from time to time, it is not practicable to provide an exhaustive list of every country where your personal information may be sent. However, it is likely that your personal information will be sent to the following countries: China, Germany, India, New Zealand, Singapore, Switzerland, United Kingdom and United States.</p>
+
+		<p>We may also disclose your personal information within our related companies located in Australia, China, New Zealand, and from time to time, in other countries.</p>
+		</li>
+	</ol>
+	</li>
+	<li><a class="anchor" id="l6"></a>
+	<p style="font-weight:bold;">How do we secure your personal information?</p>
+
+	<ol>
+		<li>
+		<p style="font-weight:bold;">Our websites</p>
+
+		<p>Even though our websites are professionally hosted and operate in a secure environment, there is always a risk in transmitting your personal information via the Internet. To make sure you are accessing a secure server, please check for the unbroken key or closed lock symbol generally located either at the bottom left or top right of your browser window. You can also check this by looking at the URL. If the URL is secure, then the first characters will read ‘https’ rather than just ‘http’.</p>
+
+		<p>We are compliant with the Payment Card Industry Data Security Standard (PCI DSS) which is an information security standard for organisations that handle credit card data. This means that your credit card details will be handled using secure processes when you shop with us online and in-store. However, please do not enter any credit card details when contacting us via email or through our website “Contact Us” form. Credit card details will not be encrypted in these situations and will not be secure</p>
+		</li>
+		<li>
+		<p style="font-weight:bold;">Security of your personal information</p>
+
+		<p>We will take reasonable steps to protect your personal information, including from misuse, interference and unauthorised access or disclosure. We require our team members to adhere to our internal information security policies to safeguard your personal information at all times.</p>
+
+		<p>If we no longer need your personal information, then we may destroy or de-identify the information.</p>
+
+		<p>If we become aware that your information has been subjected to unauthorised access, we will report such breach as required by law.</p>
+
+		<p>We hold personal information in a number of ways, including:</p>
+
+		<ol>
+			<li>as part of customer records and other electronic documents which are stored in our information technology systems and servers or those operated by third parties who provide services to us in connection with our business; and</li>
+			<li>by securely storing hard copy documents at our various premises and using third party document management and archiving services.</li>
+		</ol>
+
+		<p>&nbsp;</p>
+		</li>
+		<li>
+		<p style="font-weight:bold;">Remaining anonymous</p>
+
+		<p>When practicable, you may choose not to identify yourself when dealing with us. You also may elect to use a pseudonym to protect your identity.</p>
+		</li>
+	</ol>
+	</li>
+	<li><a class="anchor" id="l7"></a>
+	<p style="font-weight:bold;">How do you access and correct your personal information?</p>
+
+	<p>If you wish to access or correct any of your personal information we hold, please contact our Privacy Officer whose details are located below. We will provide you with access to your personal information in a reasonable period of time, except in limited circumstances (such as if the access would pose a serious threat to the life, health or safety of another person or where such access would unreasonably impact on the privacy of others).</p>
+
+	<p>Before we provide you with access to your personal information we will require proof of identity. Please provide as much detail as you can about the information you are requesting, in order to help us retrieve it. If we refuse your request or are unable to provide you with access to your personal information or are unable to provide it in the manner requested by you, we will provide a written response outlining our reasons.</p>
+
+	<p>Sometimes your personal information that we hold will become out of date. Please immediately advise us of any change to your personal information and we will amend our records accordingly.</p>
+	</li>
+	<li><a class="anchor" id="l8"></a>
+	<p style="font-weight:bold;">Obtaining a copy of this policy</p>
+
+	<p>The current version of this Privacy Policy is available on our website. If you need a copy of this Privacy Policy in a different form, please ask us and we will try to meet your request. If we make any changes to this Privacy Policy, we will place the updated policy on our website.</p>
+	</li>
+	<li><a class="anchor" id="l9"></a>
+	<p style="font-weight:bold;">What if you are not happy with how we treat your personal information?</p>
+
+	<p>If you have any questions or would like to raise any concerns about your personal information, please email, or write to us. As always, we value your feedback and ideas.</p>
+
+	<table border="0">
+		<tbody>
+			<tr>
+				<td style="font-weight:bold;padding:5px;width:150px;">E-mail:</td>
+				<td style="padding:5px;"><a href="mailto:privacy@bcf.com.au">privacy@bcf.com.au</a></td>
+			</tr>
+			<tr>
+				<td style="font-weight:bold;padding:5px;" valign="top">Post:</td>
+				<td style="padding:5px;">Privacy Officer,<br>
+				SRG Leisure Retail Pty Ltd<br>
+				PO Box 344<br>
+				Strathpine Queensland 4500</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p>&nbsp;</p>
+
+	<p>If you make a complaint with us regarding your personal information, we will aim to respond to your compliant within 30 days. If you are not happy with our response, please let us know and we will aim to address any further concerns you have. If you are still not happy with our response, you may wish to contact the Office of the Australian Information Commission (OAIC), whose details are listed below.</p>
+	</li>
+	<li><a class="anchor" id="l10"></a>
+	<p style="font-weight:bold;">Further information on privacy</p>
+
+	<p>You can obtain further general information about your privacy rights and Commonwealth privacy law by contacting the OAIC:</p>
+
+	<table border="0">
+		<tbody>
+			<tr>
+				<td style="padding:5px;font-weight:bold;width:120px;">Post:</td>
+				<td style="padding:5px;">GPO Box 5218 Sydney NSW 2001</td>
+			</tr>
+			<tr>
+				<td style="padding:5px;font-weight:bold;">Telephone:</td>
+				<td style="padding:5px;">1300 363 992</td>
+			</tr>
+			<tr>
+				<td style="padding:5px;font-weight:bold;">Fax:</td>
+				<td style="padding:5px;">+61 2 9284 9666</td>
+			</tr>
+			<tr>
+				<td style="padding:5px;font-weight:bold;">Email:</td>
+				<td style="padding:5px;"><a href="mailto:enquiries@oaic.gov.au">enquiries@oaic.gov.au</a></td>
+			</tr>
+			<tr>
+				<td style="padding:5px;font-weight:bold;">Website:</td>
+				<td style="padding:5px;"><a href="http://www.oaic.gov.au/">www.oaic.gov.au</a></td>
+			</tr>
+		</tbody>
+	</table>
+	</li>
+</ol>
+</div>
+</div>
+
+<div class="col-sm-3 pull-md-9">
 
 
 
@@ -8601,14 +9157,14 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="ee8b0696461db9441afb1a31f8" -->
 <!-- Customer-Service-Menu : BEGIN -->
-<div id="lhs-menu"><div class="refinements"> <a class="collapsed" data-toggle="collapse" href="#collapse1" aria-expanded="true" aria-controls="lhs-menu"><h1 class="refinement-header">Customer Service</h1></a><div id="collapse1" class="refinement category-refinement collapse show"><ul><li><a href="https://www.bcf.com.au/customer-service/ordering-online.html" title="First time ordering online with BCF" class="refinement-link">Online Ordering</a></li><li><a href="https://www.bcf.com.au/customer-service/shipping.html" title="Our standard shipping process" class="refinement-link">Shipping &amp; Delivery</a></li><li><a href="https://www.bcf.com.au/customer-service/click-and-collect.html" title="Be notified when your order is ready for collection in store" class="refinement-link">Click &amp; Collect</a></li><li><a href="https://www.bcf.com.au/customer-service/products-and-services.html" title="" class="refinement-link">Products &amp; Services</a></li><li><a href="https://www.bcf.com.au/customer-service/payments-and-giftcards.html" title="" class="refinement-link">Payments &amp; Gift Cards</a></li><li><a href="https://www.bcf.com.au/customer-service/returns.html" title="Not happy with your order?" class="refinement-link">Returns &amp; Refunds</a></li><li><a href="https://www.bcf.com.au/customer-service/faqs.html" title="Frequently asked questions" class="refinement-link">FAQs</a></li><li><a href="https://www.bcf.com.au/contactus" class="refinement-link" title="Email the Customer Care Centre">Contact Us</a></li></ul></div><a class="collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="true" aria-controls="lhs-menu"><h3 class="refinement-header">About BCF</h3></a><div id="collapse2" class="refinement category-refinement collapse show"><ul><li><a href="https://www.bcf.com.au/customer-service/about-us.html" title="Get to know BCF Australia" class="refinement-link">BCF Australia</a></li><li><a href="https://www.bcf.com.au/customer-service/terms.html" title="Please read before using Rays site" class="refinement-link">Terms &amp; Conditions</a></li><li><a href="https://www.bcf.com.au/customer-service/privacy-policy.html" title="protected by the provisions of the Privacy Act 1988" class="refinement-link">Privacy Policy</a></li><li><a href="https://www.bcf.com.au/customer-service/jobs-landing.html" title="Want to join the BCF Team?" class="refinement-link">Careers</a></li></ul></div><a class="collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="true" aria-controls="lhs-menu"><h3 class="refinement-header">Club BCF</h3></a><div id="collapse3" class="refinement category-refinement collapse show"><ul><li><a href="https://www.bcf.com.au/customer-service/club-bcf.html" title="" class="refinement-link">What is Club BCF?</a></li><li><a href="https://www.bcf.com.au/account" title="" class="refinement-link">Join Club BCF</a></li><li><a href="https://www.bcf.com.au/account" title="" class="refinement-link">Login to Club BCF?</a></li></ul></div> <a class="collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="true" aria-controls="lhs-menu"><h3 class="refinement-header">Gift Cards</h3></a><div id="collapse4" class="refinement category-refinement collapse show"><ul><li><a href="https://www.bcf.com.au/bcf-gift-card/900486.html" title="Don't quite know gift to get your friend?">Standard Gift Card</a></li><li><a href="https://wwws.givex.com/cws30/bcf/index.html" title="No time to get your mate a present?" target="_blank">E-Gift Card</a></li><li><a href="http://www.supergifts.com.au/Gift-Cards/Standard-Gift-Cards/Card/BCF" title="Possible event and need some give away gifts?" target="_blank">Bulk/Corporate Gift Cards</a></li></ul></div></div></div>
+<div id="lhs-menu"><div class="refinements"> <a class="collapsed" data-toggle="collapse" href="#collapse1" aria-expanded="true" aria-controls="lhs-menu"><h1 class="refinement-header">Customer Service</h1></a><div id="collapse1" class="refinement category-refinement collapse show"><ul><li><a href="https://www.bcf.com.au/customer-service/ordering-online.html" title="First time ordering online with BCF" class="refinement-link">Online Ordering</a></li><li><a href="https://www.bcf.com.au/customer-service/shipping.html" title="Our standard shipping process" class="refinement-link">Shipping &amp; Delivery</a></li><li><a href="https://www.bcf.com.au/customer-service/click-and-collect.html" title="Be notified when your order is ready for collection in store" class="refinement-link">Click &amp; Collect</a></li><li><a href="https://www.bcf.com.au/customer-service/products-and-services.html" title="" class="refinement-link">Products &amp; Services</a></li><li><a href="https://www.bcf.com.au/customer-service/payments-and-giftcards.html" title="" class="refinement-link">Payments &amp; Gift Cards</a></li><li><a href="https://www.bcf.com.au/customer-service/returns.html" title="Not happy with your order?" class="refinement-link">Returns &amp; Refunds</a></li><li><a href="https://www.bcf.com.au/customer-service/faqs.html" title="Frequently asked questions" class="refinement-link">FAQs</a></li><li><a href="https://www.bcf.com.au/contactus" class="refinement-link" title="Email the Customer Care Centre">Contact Us</a></li></ul></div><a class="collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="true" aria-controls="lhs-menu"><h3 class="refinement-header">About BCF</h3></a><div id="collapse2" class="refinement category-refinement collapse show"><ul><li><a href="https://www.bcf.com.au/customer-service/about-us.html" title="Get to know BCF Australia" class="refinement-link">BCF Australia</a></li><li><a href="https://www.bcf.com.au/customer-service/terms.html" title="Please read before using Rays site" class="refinement-link">Terms &amp; Conditions</a></li><li><a href="https://www.bcf.com.au/customer-service/privacy-policy.html" title="protected by the provisions of the Privacy Act 1988" class="refinement-link">Privacy Policy</a></li><li><a href="https://www.bcf.com.au/customer-service/jobs-landing.html" title="Want to join the BCF Team?" class="refinement-link">Careers</a></li></ul></div><a class="collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="true" aria-controls="lhs-menu"><h3 class="refinement-header">Club BCF</h3></a><div id="collapse3" class="refinement category-refinement collapse show"><ul><li><a href="https://www.bcf.com.au/customer-service/club-bcf.html" title="" class="refinement-link">What is Club BCF?</a></li><li><a href="https://www.bcf.com.au/account" title="" class="refinement-link">Join Club BCF</a></li><li><a href="https://www.bcf.com.au/account" title="" class="refinement-link">Login to Club BCF?</a></li></ul></div> <a class="collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="true" aria-controls="lhs-menu"><h3 class="refinement-header">Gift Cards</h3></a><div id="collapse4" class="refinement category-refinement collapse show"><ul><li><a href="https://www.bcf.com.au/p/bcf-gift-card/900486.html" title="Don't quite know gift to get your friend?">Standard Gift Card</a></li><li><a href="https://wwws.givex.com/cws30/bcf/index.html" title="No time to get your mate a present?" target="_blank">E-Gift Card</a></li><li><a href="https://www.bcf.com.au/checkgiftcard" title="No time to get your mate a present?" target="_blank">Check Gift Card Balance</a></li><li><a href="http://www.supergifts.com.au/Gift-Cards/Standard-Gift-Cards/Card/BCF" title="Possible event and need some give away gifts?" target="_blank">Buying Gift Cards for a business?</a></li></ul></div></div></div>
 <!-- Customer-Service-Menu : END -->
 </div> <!-- End content-asset -->
 
 
 
-</div></div>
-<!-- Privacy-Policy : END -->
+</div>
+</div>
 </div> <!-- End content-asset -->
 
 
@@ -8616,6 +9172,20 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -8776,7 +9346,9 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
  <li><a href="https://www.bcf.com.au/customer-service/price-match-guarantee.html" title="Find a cheaper Price we will match it">Price Guarantee</a></li>
                         <li><a href="https://www.bcf.com.au/catalogue" title="Find specials on our latest gear">Catalogue</a></li>
 <li><a href="https://www.bcf.com.au/customer-service/giftcards.html" title="">Gift Cards</a></li>
+<li><a href="https://www.bcf.com.au/checkgiftcard" title="Check Balance">Check Gift Card Balance</a></li>
                         <li><a href="https://www.bcf.com.au/customer-service/click-and-collect.html" title="Be notified when your order is ready for collection in store">Click &amp; Collect</a></li>
+                        <li><a href="https://www.bcf.com.au/product-detail/zip-pay-product-page.html" title="Zip Pay | Own It Now, Pay Later | Up to $8000 Interest Free">About Zip</a></li>
                         <li><a href="https://www.bcf.com.au/product-detail/afterpay-product-page.html" title="">Afterpay</a></li>
                         
                         
@@ -8805,7 +9377,7 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 <li><a href="https://www.bcf.com.au/stores" title="Come in and see us">Find a Store</a></li>
 
 <li><a href="https://www.bcf.com.au/customer-service/privacy-policy.html" title="protected by the provisions of the Privacy Act 1988">Privacy Policy</a></li>
-<li><a href="http://careers.superretailgroup.com.au/brands/bcf" title="Want to join the BCF Team?">Careers</a></li>
+<li><a href="http://careers.superretailgroup.com.au/brands/bcf/search/" title="Want to join the BCF Team?">Careers</a></li>
 <li><a href="https://www.bcf.com.au/customer-service/terms.html" title="Please read before using BCF site">Terms &amp; Conditions</a></li>
 <li><a href="https://www.bcf.com.au/customer-service/product-recall.html" title="Product Safety Recall">Product Recall</a></li>
                        
@@ -8823,6 +9395,7 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
   <li><a href="https://www.bcf.com.au/customer-service/returns.html" title="Not happy with your order?">Returns &amp; Refunds</a></li>
                         <li><a href="https://www.bcf.com.au/account" title="Manage your BCF Account">My Account</a></li>
                         <li><a href="https://www.bcf.com.au/customer-service/faqs.html#toc3" title="Find your way around">Payment Options</a></li>
+						<li><a href="https://www.bcf.com.au/product-detail/zip-pay-product-page.html#toc2-8" title="Zip Pay | Own It Now, Pay Later | Up to $8000 Interest Free">About Zip</a></li>
 
 
 
@@ -8849,6 +9422,7 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
                     <a href="#" title=""><img alt="PayPal" src="https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dw5c3fca9b/images/global-navigation/footer/bcf-footer_paypal.svg" title="" height="30px"></a>
                     <a href="#" title=""><img alt="AE" src="https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dw0b25eb5c/images/global-navigation/footer/bcf-footer_express.svg" title="" height="30px"></a>
                     <!--<a href="#" title=""><img alt="ApplePay" src="https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dw06c01939/images/global-navigation/footer/bcf-footer_apple.svg" title="" height="30px"></a>-->
+					<a href="#" title=""><img alt="Zip Pay" src="https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dwc0758f0a/images/global-navigation/footer/bcf-icon_zip-pay.svg" title="Zip Pay | Own It Now, Pay Later | Up to $8000 Interest Free" height="30px"></a>
                     <a href="#" title=""><img alt="Digicert" src="https://www.bcf.com.au/on/demandware.static/-/Library-Sites-bcf-shared-library/default/dw309bb1af/images/global-navigation/footer/bcf-footer_digicert.svg" title="" height="30px"></a>
                 </div>
    
@@ -8912,10 +9486,10 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 
 
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -8923,23 +9497,23 @@ GTM.updateDataLayerByJson({"ecommerce":{"email":"","promoView":{"promotions":[{"
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/bootstrap/bootstrap.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/scrollbar/jquery.scrollbar.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/bootstrap/util-bootstrap.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/bootstrap/collapse.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/bootstrap/bootstrap.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/scrollbar/jquery.scrollbar.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/bootstrap/util-bootstrap.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/bootstrap/collapse.js" type="text/javascript"></script>
 
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/dotdotdot/jquery.dotdotdot.min.js"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/dotdotdot/jquery.dotdotdot.min.js"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Enter Keyword or Item No.","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"A$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid mobile number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Password must be between 8 and 20 characters in length and contain both letters and numbers.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","POSTCODE_SUPPORTED_FORMAT":"country.postcode.invalidmatch","ADDRESS_LABEL":"Address","ADDRESS1_LABEL":"Address 1","SELECT":"Select","CHANGE_LINK_TEXT":"Address not listed? Click to enter manually","SHOW_FILTERS":"Show Filters","HIDE_FILTERS":"Hide Filters","COMPARE_HEADER":"Product Comparison","DOLLAR_VALUE":"Please enter whole dollar value only","ENTER_VALID_CARD":"Please enter a valid card value","CVN_RANGE_ERROR":"Invalid CCV","ENTER_VALID_DOB":"Please enter a valid DOB","STORELOCATOR_STORE_DETAIL":"View Details","STORE_NORESULT":"Sorry, we don't have any stores in this state or territory. Please try again.","STORELOCATOR_ERROR":"Failed to find the stores. Please try again later.","STORELOCATOR_INVALID_ENTRY":"Sorry, we don't have any stores in this state or territory. Please try again.","STORELOCATOR_ACCESS_LOCATION_ERROR":"Unable to find your location. Please ensure that your device has location services enabled or search using your postcode or suburb.","PLACEHOLDER":"123 Street Name","PLEASE_ENTER_VALUE":"Please enter a value for","ADDRESS_INVALID":"Your address is invalid","INVALID_PASSWORD":"Password must be between 8 and 20 characters in length and contain both letters and numbers.","INVALID_PHONE_CHECKOUT":"Please enter a valid home or mobile number. Be sure to include the area code if you are using a land line.","INVALID_FULL_ADDRESS":"Please enter a valid address.","INVALID_PHONE10":"Please specify a valid phone number.","DOB_REGISTRATION_ERROR":"Please enter a value for all Date of Birth fields.","DOB_REGISTRATION_INVALID":"Date entered is invalid"};
-window.Urls = {"appResources":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Resources-Load","pageInclude":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Page-Include","continueUrl":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/Page-Show","staticPath":"/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/","addGiftCert":"/giftcertpurchase","minicartGC":"/on/demandware.store/Sites-bcf-au-Site/en_AU/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-AddProduct","minicart":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/Address-GetAddressDetails?addressID=","paymentsList":"https://www.bcf.com.au/wallet","addressesList":"https://www.bcf.com.au/addressbook","wishlistAddress":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Address-Delete","getProductUrl":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-Show","getBonusProducts":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-Detail","getAvailability":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-bcf-au-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-UpdateSummary","billingSelectCC":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-SelectCreditCard","updateAddressDetails":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-bcf-au-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-bcf-au-Site/en_AU/COShippingMultiple-AddEditAddressJSON","cookieHint":"/error-content/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-bcf-au-Site/en_AU/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-bcf-au-Site/en_AU/CSRF-Failed","getCountryData":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Dynamicforms-GetCountryData","getAddressData":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Dynamicforms-GetAddressData","getAddressFormat":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Dynamicforms-GetAddressFormat","updateSessionSearchRefinements":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Search-UpdateSessionSearchRefinement","UpdateTotals":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-UpdateTotals","postCodeProductValidationJSON":"/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-ValidateProductsByPostCode","GetNearestStores":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-GetNearestStores","GetNearestStoresByLocation":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-GetNearestStoresByLocation","SetCartStore":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-SetCartStore","ClearProducStoretInventoryList":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-ClearProducStoretInventoryList","storeSearchPost":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Stores-SearchPost","loadStep":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPC-LoadStep","resendActiveEmail":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Account-ResendActiveEmail","cartShowUrl":"https://www.bcf.com.au/cart","OPCUdateAddressDetails":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-UpdateAddressDetails","OPCShippingMethodsList":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-UpdateShippingMethodList","OPCSelectShippingMethodsList":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-SelectShippingMethod","OPCPostCodeProductValidationJSON":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-ValidateProductsByPostCode","OPCShippingMethodsJSON":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-GetApplicableShippingMethodsJSON","OPCSelectSpecialDeliveryRequest":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-SelectSpecialDeliveryRequest","OPCSummaryRefreshURL":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-UpdateSummary","OPCSummaryRemovePaymentURL":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-UpdateSummary?removePayment=1","OPCBillingSelectCC":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-SelectCreditCard","OPCUpdateAddressDetailsBilling":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-UpdateAddressDetails","OPCResetPaymentForms":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-ResetPaymentForms","OPCGiftCardCheckBalance":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-GetGiftCertificateBalance","OPCRedeemGiftCert":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-RedeemGiftCertificateJson","OPCBilling":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-Start","storeDetails":"/stores/details","GetAvailableStore":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Stores-GetAvailableStore"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"ENABLE_IMAGE_ZOOM":false,"enableExperianGlobalIntuitive":true,"enableStickyHeader":true,"enableSlimHeader":false,"TOKENIZATION_ENABLED":true,"enableDisplayPlpInfo":false,"COUNTRY_CODE":"AU","STORE_LOOKUP_PAGESIZE":5,"LAZY_LOAD_SCROLL_OFFSET":1500,"LAZY_LOAD_BLOG_SCROLL_OFFSET":1500,"LAZY_LOAD_MAX_PAGE_SIZE":60};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Enter Keyword or Item No.","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"A$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid mobile number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Password must be between 8 and 20 characters in length and contain both letters and numbers.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","POSTCODE_SUPPORTED_FORMAT":"country.postcode.invalidmatch","ADDRESS_LABEL":"Address","ADDRESS1_LABEL":"Address 1","SELECT":"Select","CHANGE_LINK_TEXT":"Address not listed? Click to enter manually","SHOW_FILTERS":"Show Filters","HIDE_FILTERS":"Hide Filters","COMPARE_HEADER":"Product Comparison","DOLLAR_VALUE":"Please enter whole dollar value only","ENTER_VALID_CARD":"Please enter a valid card value","CVN_RANGE_ERROR":"Invalid CCV","ENTER_VALID_DOB":"Please enter a valid DOB","STORELOCATOR_STORE_DETAIL":"View Details","STORE_NORESULT":"Sorry, we don't have any stores in this state or territory. Please try again.","STORELOCATOR_ERROR":"Failed to find the stores. Please try again later.","STORELOCATOR_INVALID_ENTRY":"Sorry, we don't have any stores in this state or territory. Please try again.","STORELOCATOR_ACCESS_LOCATION_ERROR":"Unable to find your location. Please ensure that your device has location services enabled or search using your postcode or suburb.","PLACEHOLDER":"123 Street Name","PLEASE_ENTER_VALUE":"Please enter a value for","ADDRESS_INVALID":"Your address is invalid","INVALID_PASSWORD":"Password must be between 8 and 20 characters in length and contain both letters and numbers.","INVALID_PHONE_CHECKOUT":"Please enter a valid home or mobile number. Be sure to include the area code if you are using a land line.","INVALID_FULL_ADDRESS":"Please enter a valid address.","INVALID_PHONE10":"Please specify a valid phone number.","DOB_REGISTRATION_ERROR":"Please enter a value for all Date of Birth fields.","DOB_REGISTRATION_INVALID":"Date entered is invalid","INVALID_NAME":"This field has illegal characters. Please remove and adjust.","VALIDATE_REQUIRED_ONE":"Please select an option from above","VALIDATE_UNSUBSCRIBE_EMAIL":"Sorry, this does not match our records. Check your spelling and try again.","STORE_UNAVAILABLE":"Currently unavailable at your selected store. Please select another store or select Home Delivery."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Resources-Load","pageInclude":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Page-Include","continueUrl":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/Page-Show","staticPath":"/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/","addGiftCert":"/giftcertpurchase","minicartGC":"/on/demandware.store/Sites-bcf-au-Site/en_AU/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-AddProduct","minicart":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/Address-GetAddressDetails?addressID=","paymentsList":"https://www.bcf.com.au/wallet","addressesList":"https://www.bcf.com.au/addressbook","wishlistAddress":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Address-Delete","getProductUrl":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-Show","getBonusProducts":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-Detail","getAvailability":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-bcf-au-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-UpdateSummary","billingSelectCC":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-SelectCreditCard","updateAddressDetails":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-bcf-au-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-bcf-au-Site/en_AU/COShippingMultiple-AddEditAddressJSON","cookieHint":"/error-content/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-bcf-au-Site/en_AU/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-bcf-au-Site/en_AU/CSRF-Failed","getCountryData":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Dynamicforms-GetCountryData","getAddressData":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Dynamicforms-GetAddressData","getAddressFormat":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Dynamicforms-GetAddressFormat","updateSessionSearchRefinements":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Search-UpdateSessionSearchRefinement","UpdateTotals":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-UpdateTotals","postCodeProductValidationJSON":"/on/demandware.store/Sites-bcf-au-Site/en_AU/COShipping-ValidateProductsByPostCode","GetNearestStores":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-GetNearestStores","GetNearestStoresByLocation":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-GetNearestStoresByLocation","SetCartStore":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-SetCartStore","ClearProducStoretInventoryList":"/on/demandware.store/Sites-bcf-au-Site/en_AU/StoreInventory-ClearProducStoretInventoryList","storeSearchPost":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Stores-SearchPost","loadStep":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPC-LoadStep","resendActiveEmail":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Account-ResendActiveEmail","cartShowUrl":"https://www.bcf.com.au/cart","OPCUdateAddressDetails":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-UpdateAddressDetails","OPCShippingMethodsList":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-UpdateShippingMethodList","OPCSelectShippingMethodsList":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-SelectShippingMethod","OPCPostCodeProductValidationJSON":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-ValidateProductsByPostCode","OPCShippingMethodsJSON":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-GetApplicableShippingMethodsJSON","OPCSelectSpecialDeliveryRequest":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-SelectSpecialDeliveryRequest","OPCSummaryRefreshURL":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-UpdateSummary","OPCSummaryRemovePaymentURL":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-UpdateSummary?removePayment=1","OPCBillingSelectCC":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-SelectCreditCard","OPCUpdateAddressDetailsBilling":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-UpdateAddressDetails","OPCResetPaymentForms":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-ResetPaymentForms","OPCGiftCardCheckBalance":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-GetGiftCertificateBalance","OPCRedeemGiftCert":"https://www.bcf.com.au/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-RedeemGiftCertificateJson","OPCBilling":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCBilling-Start","storeDetails":"/fishing-shop-and-camping-stores/details","GetAvailableStore":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Stores-GetAvailableStore","AddZonedProductOption":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-AddZonedProductOption","RemoveZonedProductOption":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Cart-RemoveZonedProductOption","ValidateZonedProductsByPostCode":"/on/demandware.store/Sites-bcf-au-Site/en_AU/OPCShipping-ValidateZonedProductsByPostCode","DeliveryStack":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-DeliveryStack","CalculateDeliveryMethods":"/on/demandware.store/Sites-bcf-au-Site/en_AU/Product-CalculateDeliveryMethods","GeoLocationAPIURL":"https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyAQybSxrmNxwb4hMq9-QdcBKWUzRqAKtwA"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":true,"CHECK_TLS":false,"ENABLE_IMAGE_ZOOM":true,"enableExperianGlobalIntuitive":true,"enableStickyHeader":true,"enableSlimHeader":false,"TOKENIZATION_ENABLED":true,"enableDisplayPlpInfo":false,"COUNTRY_CODE":"AU","STORE_LOOKUP_PAGESIZE":5,"LAZY_LOAD_SCROLL_OFFSET":1500,"LAZY_LOAD_BLOG_SCROLL_OFFSET":1500,"LAZY_LOAD_MAX_PAGE_SIZE":96,"enableBrowserBasedGeoLocation":false,"LISTING_WITH_LOAD_MORE":true,"LIMIT_LOAD_MORE_PRODUCT":12};
 }());
 </script>
 <script type="text/javascript">
@@ -8948,8 +9522,8 @@ window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":t
 window.SessionAttributes = {"SHOW_CAPTCHA":null};
 window.User = {"zip":null,"storeId":null};
 }());</script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/hide-show-password/hideShowPassword.min.js"></script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/js/app.js"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/hide-show-password/hideShowPassword.min.js"></script>
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/js/app.js"></script>
 
 <script>pageContext = {};</script>
 <script>
@@ -8958,8 +9532,44 @@ var keywords = "Privacy Policy";
 </script>
 
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAQybSxrmNxwb4hMq9-QdcBKWUzRqAKtwA&amp;language=en&amp;libraries=places"></script>
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/lib/markerwithlabel/markerwithlabel.js"></script>
+
+<script id="add-google-maps-api">
+    var scriptSrc = ['https://maps.googleapis.com/maps/api/js?key=AIzaSyAQybSxrmNxwb4hMq9-QdcBKWUzRqAKtwA&language=en&libraries=places&callback=initAutoComplete', '/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/lib/markerwithlabel/markerwithlabel.js'];
+    var isLoaded = false;
+    var insertAPI = function () {
+        if (!isLoaded) {
+            isLoaded = true;
+            loadScript(scriptSrc[0]);
+        }
+    }
+
+    function loadScript(src) {
+        var script = window.document.createElement('script');
+        script.setAttribute('type', 'text/javascript');
+        script.setAttribute('src', src);
+        window.document.body.appendChild(script);
+    }
+
+    function createEvent(name) {
+        if ('function' === typeof Event) {
+            var event = new Event(name);
+        } else {
+            var event = document.createEvent('Event');
+            event.initEvent(name, true, true);
+        }
+
+        return event;
+    }
+
+    function initAutoComplete() {
+        loadScript(scriptSrc[1]);
+        window.dispatchEvent(createEvent('google-maps-api-loaded'));
+        var ggScript = window.document.getElementById('add-google-maps-api');
+        ggScript.parentNode.removeChild(ggScript);
+    }
+</script>
+
+
 <input id="async-callback" type="hidden">
 
 
@@ -8984,9 +9594,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1534262184758/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-bcf-au-Site/-/en_AU/v1555614751448/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
