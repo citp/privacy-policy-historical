@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the heroviral.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614124209id_/http%3A//www.heroviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroviral.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419031527id_/https%3A//www.relayhero.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HeroViral
+# Privacy Policy - Relay Hero
 
-This Privacy Policy was last updated on 1 August 2015.
+This Privacy Policy was last updated on 11 December 2016.
 
-We take your privacy very seriously and are committed to being transparent with how we use your information. This website (www.heroviral.com), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by HeroViral.com (collectively “we” or “us”). This Privacy Policy also incorporates the terms contained in the Terms of Use http://www.heroviral.com/terms-of-use; and Cookies Policy http://www.heroviral.com/cookie-policy
+We take your privacy very seriously and are committed to being transparent with how we use your information. This website (www.relayhero.com), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by relayhero.com (collectively “we” or “us”). This Privacy Policy also incorporates the terms contained in the Terms of Use http://www.relayhero.com/terms-of-use; and Cookies Policy http://www.relayhero.com.com/cookie-policy
 
 Our Privacy Policy explains:
 
@@ -14,7 +14,7 @@ Our Privacy Policy explains:
 
 
 
-By using our website, mobile application and services you consent to our collection and use of your personal data described in this Privacy Policy. If you have any questions about this Privacy Policy or would like to know more about what information we collect and store, please contact us at: info@heroviral.com
+By using our website, mobile application and services you consent to our collection and use of your personal data described in this Privacy Policy. If you have any questions about this Privacy Policy or would like to know more about what information we collect and store, please contact us at: info@relayhero.com
 
 **Information we collect**
 
@@ -41,11 +41,11 @@ We will contact you to ask for your consent before using information for a purpo
 
 **Cookies**
 
-Technologies such as: cookies, beacons, tags and scripts are used by HeroViral.com and our advertising / marketing partners, affiliates, or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts are used by relayhero.com and our advertising / marketing partners, affiliates, or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies to remember users’ settings (e.g. geographic location) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-The use of cookies on our website is governed by our Cookie Policy http://www.heroviral.com/cookie-policy
+The use of cookies on our website is governed by our Cookie Policy http://www.relayhero.com/cookie-policy
 
 **Behavioral Targeting/Re-Targeting**
 
@@ -65,7 +65,7 @@ Please visit the links below to opt-out of cookies from over 50+ major third par
 
 We may use Local Storage Objects (LSOs) such as HTML5 or Flash to store user preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity may also use LSOs such as HTML 5 or Flash to collect and store information.
 
-To manage Flash LSOs please click here:<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+To manage Flash LSOs please click here:[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 **Log information**
 
@@ -111,20 +111,20 @@ Please note that third party recipients of your personal information may be loca
 
 **Frames**
 
-Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you may be providing your personal information to these third parties and not to HeroViral.com
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you may be providing your personal information to these third parties and not to relayhero.com
 
 **Comments Section / Forum**
 
-Our website offers publicly accessible comments section or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our comments section or community forum, contact us at info@heroviral.com_  
+Our website offers publicly accessible comments section or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our comments section or community forum, contact us at info@relayhero.com_  
 In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Links to 3 rd Party Sites**
 
-Our website includes links to other websites whose privacy practices may differ from those of HeroViral.com. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+Our website includes links to other websites whose privacy practices may differ from those of relayhero.com. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
 **Social Media Widgets**
 
-Our website includes social media features, such as the Facebook Like button and Widgets, such as the Share this button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. social media features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policies of the companies providing them.
+Our website includes social media features, such as the Facebook Like button and Widgets, such as the Share this button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policies of the companies providing them.
 
 **Single Sign-On**
 
@@ -144,7 +144,7 @@ You should be aware that when you leave our website, whether via a link on our w
 
 **Children Under 13**
 
-Our website is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our website, please contact us at info@heroviral.com.
+Our website is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our website, please contact us at info@relayhero.com.
 
 **Our Services are Located in  United States of America**
 
@@ -152,10 +152,8 @@ Our website and associated services are hosted in United States of America. If y
 
 **Enforcement and Dispute Resolution**
 
-We regularly review our compliance with our Privacy Policy. When we receive formal written complaints at info@heroviral.com, we will contact the person who made the complaint to follow up.
+We regularly review our compliance with our Privacy Policy. When we receive formal written complaints at info@relayhero.com, we will contact the person who made the complaint to follow up.
 
 **Changes**
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-HeroViral.com
