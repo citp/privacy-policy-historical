@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhone.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928031610id_/https%3A//www.rhone.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhone.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420205944id_/https%3A//www.rhone.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Rhone
 
@@ -6,7 +6,7 @@
 
 ** ** Rhone Apparel Inc., (Rhone Apparel), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Rhone Apparel Inc. of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
-**_THEREFORE_** , this Privacy Policy Agreement shall apply to Rhone Apparel Inc., and thus it shall govern any and all data collection and usage thereof. Through the use of http://rhoneapparel.com you are herein consenting to the following data procedures expressed within this agreement.
+**_THEREFORE_** , this Privacy Policy Agreement shall apply to Rhone Apparel Inc., and thus it shall govern any and all data collection and usage thereof. Through the use of https://www.rhone.com you are herein consenting to the following data procedures expressed within this agreement.
 
 **Collection of Information**
 
@@ -27,7 +27,7 @@ It is highly recommended and suggested that you review the privacy policies and 
 
 **Use of Information Collected**
 
-Rhone Apparel Inc. may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from http://rhoneapparel.com. Rhone Apparel Inc.  may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
+Rhone Apparel Inc. may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from https://www.rhone.com. Rhone Apparel Inc.  may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
 
 Rhone Apparel Inc. does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties.
 
@@ -51,7 +51,7 @@ Rhone Apparel Inc. does not knowingly collect personal identifiable information 
 
 **Unsubscribe or Opt-Out**
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to . If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to service@rhone.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.  We follow the guidelines set forth by the Digital Advertising Alliance (currently available at http://www.aboutads.info/choices/), the Network Advertising Initiative (currently available at http://www.optout.networkadvertising.org), and the European Interactive Digital Advertising Alliance (currently available at http://www.youronlinechoices.eu/) in our treatment of user data.  
 
 **Links to Other Web Sites**
 
@@ -65,7 +65,7 @@ The company also uses Secure Socket Layer (SSL) for authentication and private c
 
 **Changes to Privacy Policy Agreement**
 
-Rhone Apparel Inc. reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at http://rhoneapparel.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Rhone Apparel Inc. decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
+Rhone Apparel Inc. reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at https://www.rhone.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Rhone Apparel Inc. decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
 
 **Acceptance of Terms**
 
@@ -75,7 +75,7 @@ Through the use of this website, you are hereby accepting the terms and conditio
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
 
-**Email:** service@rhoneapparel.com 
+**Email:** service@rhone.com 
 
 **Telephone Number:** 877 959 5002
 
