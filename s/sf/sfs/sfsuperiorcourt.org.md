@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfsuperiorcourt.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703212430id_/http%3A//sfsuperiorcourt.org/general-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfsuperiorcourt.org privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420220647id_/https%3A//sfsuperiorcourt.org/general-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Superior Court of California - County of San Francisco
 
