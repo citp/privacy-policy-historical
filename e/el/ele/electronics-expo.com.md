@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425080032id_/http%3A//www.electronicsexpo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420153048id_/https%3A//www.electronicsexpo.com/pages/privacy) for the most accurate reproduction.*
 
-# Electronics Expo: Help > Privacy, Security & Accessibility
+# Privacy | electronicsexpo.com
 
-Privacy Policy  
 This notice describes our Privacy Policy. By visiting our site, you are accepting the practices described in this Privacy Policy.
 
 What Personal Information About Customers Do We Gather?  
