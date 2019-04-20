@@ -1,130 +1,691 @@
-<!--The following is the downloaded HTML source of the shirtspace.com privacy policy that was archived on 2016-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160811032330id_/https%3A//www.shirtspace.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shirtspace.com privacy policy that was archived on 2019-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190420224325id_/https%3A//www.shirtspace.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html prefix="fb: http://ogp.me/ns/fb"><head><meta charset="utf-8">
-<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script src="https://js-agent.newrelic.com/nr-963.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.luckyorange.com/w.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"82defbd4fe","applicationID":"3047709","transactionName":"cA4KQhYNXlUDEBpJU1QEFxkUEFtPBwFMZkJcDQ1VHQ==","queueTime":1,"applicationTime":245,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQAHVV9UGwAAUFZVBwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,x.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,x=document.createTextNode(w);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],c),l}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",c=t("gos"),s=t(12),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!w++){var t=g.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;g.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=g.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},y=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:m,features:{},xhrWrappable:y};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader",2,7]);</script><title>Privacy Policy | ShirtSpace.com</title><link href="https://d2tic578h94r8u.cloudfront.net/assets/favicon-1d7ff1635856849242e7f0c94e11c26b363aff8ba3860e631b22aa4706c8266b.png" rel="icon"><meta content="width=device-width" name="viewport"><style id="inline-styles" type="text/css">
-  @media (min-width: 1025px) {
-    #tools{display:none}
-    #header-main{width:100%;position:relative}
-    .header-top{position:relative;height:30px}
-    .container{max-width:1070px;margin-left:auto;margin-right:auto}
-    .marketing-message-container{display:none}
-    .contact-container{display:none}
-    .header-main{background-color:#e7f4f8}
-    .search{display:none}
-    .header-section-2{display:none}
-    .header-nav{background-color:#006684;height:40px}
-    .header-main-nav,.mobile-messages,.cart-call-to-action,.header-mobile-search,.banner-container,.mobile-body,.filter-wrapper,.header-cart-partial{display:none}
-    .cms-content{border:1px solid #E0E0E0;border-radius:2px;background-color:#F6F6F6;padding:7px;margin-top:20px}
-    .cms-title{font-size:30px;color:#006684;margin:5px;font-weight:600px}
-    .cms-read-more{font-weight:700;text-transform:uppercase;color:#2CA6CB;font-size:13px}
-    .title-heading{text-align:center;font-size:26px;color:#006684;font-weight:700px}
-    .link-group{margin-top:30px}
-    .sub{text-align:center}
-    li{display:inline-block;padding:0 25px;border-right:1px solid #000}
-    a{color:#2CA6CB}
-    .img{height:290px;text-align:center}
-    .cell{border:1px solid #F2F2F2;padding:10px;margin-bottom:10px;width:16.49686%;float:left;margin-right:.62893%}
-    .brand,.tags{height:50px}
-    article{float:left;width:100%}
-    aside{width:25%;height:400px;float:left}
-    .category-page{float:left;width:70%}
-    .category-page .cell{width:20.8%}
-    footer{float:left}
-  }
-  @media (max-width: 1024px) {
-    body{margin:0}
-    #tools{display:none}
-    #header-main{width:100%;position:relative}
-    .container{max-width:1070px;margin-left:auto;margin-right:auto}
-    .header-nav{background-color:#006684;height:50px}
-    .marketing-message-container,.contact-container,.header-main,.logo,.search,.header-section-2,.header-main-nav,.cart-call-to-action,.hide-on-mobile,.header-mobile-search,.desktop-body,#side-bar,.header-cart-partial{display:none}
-    .header-main-nav{display:inline-block;height:50px;margin:0 5px 0 0;width:50px;position:relative}
-    .mobile-menu-action{background-color:#04465A;height:100vh;position:fixed;left:100%;width:100%;z-index:1100;overflow-y:scroll}
-    .free-returns,.free-shipping{float:left;display:block;width:50%;height:50px;background-color:#e4f1f5}
-    .text{padding:14px 0 0 10px}
-    .text p{font-size:11px;color:gray;margin:0}
-    h3{font-size:13px;color:#00697E;text-transform:uppercase;font-weight:700;margin:0;padding:0}
-    p{margin-top:5px}
-    .banner-container{background-color:#F14C4F;color:#fff;width:100%}
-    .banner-title{padding:0 5px;text-transform:uppercase;font-size:15px;font-weight:700;color:#fff;float:left}
-    .banner-container span{font-size:12px;text-transform:uppercase}
-    li a{color:#2CA6CB}
-    .view-sale a{color:#fff;text-decoration:none}
-    ul.sub{text-align:center;padding:0;width:100%;float:left;margin:10px 0}
-    .sub li{display:inline-block;padding:0 0 7px 4px;font-size:12px}
-    .cms-content{border:1px solid #E0E0E0;border-radius:2px;background-color:#F6F6F6;padding:7px;margin-top:15px}
-    .cms-body{font-size:13px}
-    .cms-content p{margin-bottom:5px}
-    .cms-title{font-size:26px;color:#006684;margin:5px;font-weight:600}
-    .cms-read-more{font-weight:700;text-transform:uppercase;color:#2CA6CB;font-size:13px}
-    .title-heading{text-align:center;font-size:22px;color:#006684;font-weight:700px}
-    li{display:inline-block;padding:0 25px}
-    .img{height:290px;text-align:center}
-    .cell{border:1px solid #F2F2F2;padding:10px;margin-bottom:10px;width:43%;float:left}
-    .brand,.tags{height:50px}
-    article{float:left}
-  }
-</style>
-<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script><![endif]--><meta content="ShirtSpace.com Privacy Policy" name="description"><meta content="" name="keywords"><meta content="authenticity_token" name="csrf-param">
-<meta content="VTAMitzD+uJWHwqCq/GoLG1gmyp+1ghsyhkUcI8u3nY=" name="csrf-token">  <script type="text/javascript" id="inspectletjs">
-    window.__insp = window.__insp || [];
-    __insp.push(['wid', 281111232]);
-    (function() {
-      function __ldinsp() {
-        var insp = document.createElement('script');
-        insp.type = 'text/javascript';
-        insp.async = true;
-        insp.id = "inspsync";
-        insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js';
-        var x = document.getElementsByTagName('script')[0];
-        x.parentNode.insertBefore(insp, x);
+<!DOCTYPE html><html prefix="fb: http://ogp.me/ns/fb"><head>
+    <meta name="csp-nonce" content="IieYslMW0FkJWMpn0uruSg=="><script nonce="" type="text/javascript" defer="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script nonce="" src="https://s.yimg.com/wi/ytc.js" async=""></script><script nonce="" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script nonce="" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NZR59WG"></script><script nonce="">
+    //<![CDATA[
+    
+      var nonce = document.querySelector("meta[name='csp-nonce']").getAttribute('content');
+      (function(d) {
+        var o = d.createElement;
+        d.createElement = function() {
+          var e = o.apply(d, arguments);
+          if (e.tagName === 'SCRIPT') {
+            e.setAttribute('nonce', nonce);
+          }
+          return e;
+        }
+      })(document);
+    
+    //]]>
+    </script><!-- Google Tag Manager -->
+    <script nonce="">
+    //<![CDATA[
+    
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-NZR59WG');
+    
+    //]]>
+    </script><script nonce="">
+    //<![CDATA[
+    
+      maxmind_user_id = 133210;
+      (function() {
+        var loadDeviceJs = function() {
+          var element = document.createElement('script');
+          element.src = 'https://device.maxmind.com/js/device.js';
+          document.body.appendChild(element);
+        };
+        if (window.addEventListener) {
+          window.addEventListener('load', loadDeviceJs, false);
+        } else if (window.attachEvent) {
+          window.attachEvent('onload', loadDeviceJs);
+        }
+      })();
+    
+    //]]>
+    </script><!-- Facebook Pixel Code -->
+    <script nonce="">
+    //<![CDATA[
+    
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '125936184740504');
+      fbq('track', 'PageView');
+    
+    //]]>
+    </script><noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=125936184740504&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+      <script nonce="">
+    //<![CDATA[
+    (function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10027865'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");
+    //]]>
+    </script>
+    <script src="//js.honeybadger.io/v0.5/honeybadger.min.js" nonce="" data-apikey="1db449d3" data-environment="production"></script>
+    <script nonce="">
+    //<![CDATA[
+    
+      window.RecaptchaSiteKey = "6LfgZg4UAAAAAJihnGdimPX8xActk_rDsfadaMLY";
+    
+    //]]>
+    </script>
+    <meta charset="utf-8">
+    <title>Privacy Policy | Shirtspace.com</title>
+    <link href="https://d2tic578h94r8u.cloudfront.net/assets/favicon-1d7ff1635856849242e7f0c94e11c26b363aff8ba3860e631b22aa4706c8266b.png" rel="icon">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <link rel="apple-touch-icon" href="https://d2tic578h94r8u.cloudfront.net/assets/apple-touch-icon-114x114-9369286deb221100548053910fd0ffa4f62b98ce67a6a26e3cafd52793f19876.png" sizes="114x114"><link rel="apple-touch-icon" href="https://d2tic578h94r8u.cloudfront.net/assets/apple-touch-icon-120x120-d836b31f9d2914f462708f04c9e052e73d195b9b81f5807bf39690eb7fee0830.png" sizes="120x120"><link rel="apple-touch-icon" href="https://d2tic578h94r8u.cloudfront.net/assets/apple-touch-icon-144x144-fd5c63681c9626fa569f3418a47c50834fd3b9e6a0df746ff60c78b26eb39e8f.png" sizes="144x144"><link rel="apple-touch-icon" href="https://d2tic578h94r8u.cloudfront.net/assets/apple-touch-icon-152x152-7fa6f3da401af5759f3877a0f06746863dd198856ee595bce24f3a84f9485562.png" sizes="152x152"><link rel="apple-touch-icon" href="https://d2tic578h94r8u.cloudfront.net/assets/apple-touch-icon-180x180-c231111ca808026e22e6080be05dc1452b45b0e441f64acd1d27965a6838c4ca.png" sizes="180x180"><link rel="apple-touch-icon" href="https://d2tic578h94r8u.cloudfront.net/assets/apple-touch-icon-57x57-d6d06de8e14f7c14d987bcb31ff81fa2ce9e96e0febd37249ad83999a1aa0b64.png" sizes="57x57"><link rel="apple-touch-icon" href="https://d2tic578h94r8u.cloudfront.net/assets/apple-touch-icon-72x72-228fdbfdd6ac205c942e552318c7f0eab743339b18fc34ee3cc9dc8c32ba273b.png" sizes="72x72"><link rel="apple-touch-icon" href="https://d2tic578h94r8u.cloudfront.net/assets/apple-touch-icon-76x76-9723a2fb31280be732285ec71e0b856cbc529b0aee09cab5be3ae2bd1457aa48.png" sizes="76x76">
+    <style type="text/css">html{box-sizing:border-box}*,*::after,*::before{box-sizing:inherit}@font-face{font-family:&quot;Entypo&quot;;font-style:normal;font-weight:&quot;entypo/entypo.eot&quot;;src:url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).eot?#iefix&#39;) format(&quot;embedded-opentype&quot;),url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).woff2&#39;) format(&quot;woff2&quot;),url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).woff&#39;) format(&quot;woff&quot;),url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).ttf&#39;) format(&quot;truetype&quot;),url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).svg#Entypo&#39;) format(&quot;svg&quot;)}@font-face{font-family:&quot;Entypo&quot;;font-style:normal;font-weight:&quot;entypo/entypo-social.eot&quot;;src:url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).eot?#iefix&#39;) format(&quot;embedded-opentype&quot;),url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).woff2&#39;) format(&quot;woff2&quot;),url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).woff&#39;) format(&quot;woff&quot;),url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).ttf&#39;) format(&quot;truetype&quot;),url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).svg#Entypo&#39;) format(&quot;svg&quot;)}html,body{margin:0;padding:0}a{color:#4a8593}a img{border:none}@media screen and (max-width: 767px){main{padding:0px !important}}main section{float:left;display:block;margin-right:1.1650916087%;width:100%}main section:last-child{margin-right:0}main section.full-width{float:left;display:block;margin-right:1.1650916087%;width:100%;margin-right:0}main section.full-width:last-child{margin-right:0}@media screen and (max-width: 1100px){main section.full-width{padding:0}}main section.full-width article:last-child{margin-bottom:0px}main section article:last-child{margin-bottom:20px}article{float:left;width:100%}footer{clear:both;float:left}.header-top,.header-section-1,.header-section-2,.search,.header-nav nav,.header-account-navigation,.cart-summary,.header-fixed-logo{visibility:hidden}.filter-section,.p-colors,.choose-quantity{display:none}.back-to-top,.mobile-messages,.header-mobile-search,.mobile-body,.show-on-mobile,.header-cart-container,.header-account-navigation,.header-nav .search{display:none}@media screen and (max-width: 1100px){.desktop-body,.hide-on-mobile{display:none !important}}.container{max-width:1070px;margin-left:auto;margin-right:auto;position:relative;overflow:visible;max-width:1070px;margin:0 auto}.container::after{clear:both;content:&quot;&quot;;display:block}.header-nav{-webkit-box-shadow:0 1px 5px 2px #D6D6D6;-o-box-shadow:0 1px 5px 2px #D6D6D6;-moz-box-shadow:0 1px 5px 2px #D6D6D6;box-shadow:0 1px 5px 2px #D6D6D6;background-color:#006684;z-index:100}.header-nav nav{height:40px;z-index:100}@media screen and (max-width: 1100px){.header-nav nav{display:inline-block;height:50px;margin:0 5px 0 0;width:50px;position:relative}}.header-nav nav ul{font-size:0;margin:0;padding:0}@media screen and (max-width: 1100px){.header-nav nav ul.mobile-menu-action{background-color:#04465A;height:100vh;position:fixed;left:100%;width:100%;z-index:1100;overflow-y:scroll}}.header-nav nav li{display:inline-block;list-style:none;position:relative}.header-nav nav li .nav-hover-dropdown{visibility:hidden;opacity:0;z-index:10}.header-top{background-color:#ffffff;height:40px;padding:0 5px;position:relative}@media screen and (max-width: 1100px){.header-top{display:none}}.header-main{background-color:#E8F3F6;width:100%;height:140px;position:relative;z-index:5}@media screen and (max-width: 1100px){.header-main{display:none}}.marketing-message-container{position:relative;float:left;display:block;margin-right:1.1650916087%;width:32.5566055942%}.marketing-message-container:last-child{margin-right:0}.header-section-1,.header-section-2{display:inline-block;vertical-align:top}.header-section-1{float:left;padding-top:44px;width:670px}.header-section-2{float:left;padding-top:40px;width:375px}#master main{display:block;padding-top:30px}@media screen and (max-width: 1100px){#master main{padding:0}}.banner-container.image-banner{padding:0;margin:0;margin-bottom:10px;background:transparent}.banner-container span{font-size:12px;text-transform:uppercase}@media screen and (max-width: 1100px){.banner-container{background-color:#F14C4F;color:#fff;float:left;display:block;margin-right:1.1650916087%;width:100%}.banner-container:last-child{margin-right:0}.banner-container .banner-title{padding:0 5px;text-transform:uppercase;font-size:15px;font-weight:700;color:#fff;float:left}}.banner-container img{width:1070px;height:80px}@media screen and (max-width: 1100px){.banner-container img{width:100%;height:auto}}.mobile-messages .text{padding-top:14px;float:none;float:left;display:block;margin-right:1.1650916087%;width:74.7087270978%}.mobile-messages .text:last-child{margin-right:0}.mobile-messages .text p{font-size:11px;color:#4C4C4C;margin:0}.mobile-messages .free-returns,.mobile-messages .free-shipping{float:left;display:block;margin-right:1.1650916087%;width:49.4174541956%;float:left;display:block;height:50px;padding:0 !important;background-color:#F2F7FA}.mobile-messages .free-returns:last-child,.mobile-messages .free-shipping:last-child{margin-right:0}aside{float:left;display:block;margin-right:1.1650916087%;width:24.1261812934%;float:left}aside:last-child{margin-right:0}.category-page{float:left;display:block;margin-right:1.1650916087%;width:70.4935149474%;float:left;margin-right:0}.category-page:last-child{margin-right:0}.cms-content{clear:both;padding:7px;background:#F6F6F6}@media screen and (max-width: 1100px){.cms-content{border:1px solid #D6D6D6;border-radius:2px;margin-top:15px}}.cms-content p{margin:0px}.cms-content .cms-title{font-weight:600;margin-top:5px;color:#006684}@media screen and (max-width: 767px){.cms-content .cms-title{font-size:26px}}.cms-content .cms-body{position:relative;max-height:80px;overflow:hidden;transition:max-height 0.5s}@media screen and (max-width: 1100px){.cms-content .cms-body{font-size:13px;margin-bottom:5px}}.cms-read-more{color:#4a8593;cursor:pointer}@media screen and (max-width: 1100px){.cms-read-more{font-weight:700;text-transform:uppercase;font-size:13px}}h1.divider-with-txt,h3.divider-with-txt{display:block;text-align:center;padding-top:10px;margin-bottom:17px;margin-top:10px}@media screen and (max-width: 1100px){h1.divider-with-txt,h3.divider-with-txt{margin:0px;height:auto}}h1.divider-with-txt span,h1.divider-with-txt .title-heading,h3.divider-with-txt span,h3.divider-with-txt .title-heading{font-size:26px;font-weight:700;color:#006684;display:inline-block;padding:0px 15px;top:-19px;background-color:white;font-family:museo-slab}@media screen and (max-width: 1100px){h1.divider-with-txt span,h1.divider-with-txt .title-heading,h3.divider-with-txt span,h3.divider-with-txt .title-heading{font-size:22px;display:block;clear:both;padding:0px}}.link-group{margin-top:30px}.link-group .sub{text-align:center;li:last-child;li-border-right:none}@media screen and (max-width: 1100px){.link-group .sub{float:left;display:block;margin-right:1.1650916087%;width:100%;padding:0;float:left;margin:10px 0}.link-group .sub:last-child{margin-right:0}}.link-group .sub li{display:inline-block;padding-left:25px;padding-right:25px;border-right:1px solid black}.link-group .sub li:last-of-type{border-right:none}@media screen and (max-width: 1100px){.link-group .sub li{padding:0 0 7px 4px !important;font-size:12px;border:none}}.product-image,.product-info{float:left;display:block;margin-right:1.1650916087%;width:49.4174541956%}.product-image:last-child,.product-info:last-child{margin-right:0}@media screen and (max-width: 1100px){.product-image,.product-info{float:left;display:block;margin-right:1.1650916087%;width:100%}.product-image:last-child,.product-info:last-child{margin-right:0}}@media screen and (min-width: 1100px){.product-image{margin-bottom:20px}}
+    html{box-sizing:border-box}*,*::after,*::before{box-sizing:inherit}@font-face{font-family:&quot;Entypo&quot;;font-style:normal;font-weight:&quot;entypo/entypo.eot&quot;;src:url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).eot?#iefix&#39;) format(&quot;embedded-opentype&quot;),url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).woff2&#39;) format(&quot;woff2&quot;),url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).woff&#39;) format(&quot;woff&quot;),url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).ttf&#39;) format(&quot;truetype&quot;),url(&#39;font-files(&quot;entypo/entypo.eot&quot;, &quot;entypo/entypo.woff&quot;, &quot;entypo/entypo.ttf&quot;, &quot;entypo/entypo.svg&quot;).svg#Entypo&#39;) format(&quot;svg&quot;)}@font-face{font-family:&quot;Entypo&quot;;font-style:normal;font-weight:&quot;entypo/entypo-social.eot&quot;;src:url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).eot?#iefix&#39;) format(&quot;embedded-opentype&quot;),url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).woff2&#39;) format(&quot;woff2&quot;),url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).woff&#39;) format(&quot;woff&quot;),url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).ttf&#39;) format(&quot;truetype&quot;),url(&#39;font-files(&quot;entypo/entypo-social.eot&quot;, &quot;entypo/entypo-social.woff&quot;, &quot;entypo/entypo-social.ttf&quot;, &quot;entypo/entypo-social.svg&quot;).svg#Entypo&#39;) format(&quot;svg&quot;)}.product-cell{float:left;display:block;margin-right:1.4013753919%;width:49.299312304%;position:relative;background-color:#ffffff;border:1px solid #f2f2f2;padding:10px;vertical-align:top;min-height:380px;margin-bottom:10px;float:left}.product-cell:last-child{margin-right:0}@media screen and (max-width: 1100px){.product-cell{min-height:0}}.product-cell:hover,.product-cell:focus{border:1px solid #4a8593;transition:border 0.3s ease-in-out 0}.product-cell .img{position:relative;height:39vw;max-height:290px;width:calc(100% + 20px);overflow:hidden;margin:0 -10px 10px -10px}@media screen and (min-width: 768px){.product-cell .img{height:24vw}}@media screen and (min-width: 1100px){.product-cell .img{max-height:255px;font-size:12px}}.product-cell .img img{display:block;position:absolute;width:65%;top:0;left:-100%;right:-100%;bottom:auto;height:auto;margin:auto}@media screen and (min-width: 768px){.product-cell .img img{width:85%}}@media screen and (min-width: 1100px){.product-cell .img img{width:100%}}.product-cell .loading-indicator{float:left;margin:5px 0 0 5px}.product-cell a{text-decoration:none;display:block;height:255px}@media screen and (min-width: 500px){.product-cell a{height:320px}}@media screen and (min-width: 768px){.product-cell a{height:280px}}@media screen and (min-width: 960px) and (max-width: 1100px){.product-cell a{height:345px}}@media screen and (min-width: 1100px){.product-cell a{height:358px}}.product-cell .brand{float:right;text-align:right;margin-right:0;min-height:1px;min-width:1px}.product-cell .brand img{max-height:35px;max-width:70px}.product-cell .tags{font-size:12px;color:#37636e;margin-top:10px;line-height:1.2}@media screen and (max-width: 767px){.product-cell--cell:nth-child(even){margin-right:0}}@media screen and (min-width: 768px) and (max-width: 1099px){.product-cell--cell{float:left;display:block;margin-right:1.4013753919%;width:23.9489684561%}.product-cell--cell:last-child{margin-right:0}.product-cell--cell:nth-child(4n){margin-right:0}}@media screen and (min-width: 1100px){.product-cell--cell{float:left;display:block;margin-right:1.4013753919%;width:18.8788996865%}.product-cell--cell:last-child{margin-right:0}.product-cell--cell:nth-child(5n){margin-right:0}}.product-cell--large{float:left;display:block;margin-right:1.1650916087%;width:100%}.product-cell--large:last-child{margin-right:0}.product-cell--large .img{height:110vw;max-height:450px}@media screen and (min-width: 768px){.product-cell--large .img{height:33vw;max-height:325px}}.product-cell--large .img img{width:90%}@media screen and (max-width: 767px){.product-cell--large:nth-child(even){margin-right:0}}@media screen and (min-width: 768px){.product-cell--large{float:left;display:block;margin-right:1.1650916087%;width:32.5566055942%}.product-cell--large:last-child{margin-right:0}.product-cell--large:nth-of-type(3n){margin-right:0}}@media screen and (min-width: 1100px){.product-cell--large{min-height:600px}}#blog-article .product-cell,.category .product-cell{float:left;display:block;margin-right:1.4013753919%;width:49.299312304%}#blog-article .product-cell:last-child,.category .product-cell:last-child{margin-right:0}#blog-article .product-cell .brand img,.category .product-cell .brand img{max-width:60px}@media screen and (max-width: 767px){#blog-article .product-cell:nth-child(even),.category .product-cell:nth-child(even){margin-right:0}}@media screen and (min-width: 768px){#blog-article .product-cell,.category .product-cell{float:left;display:block;margin-right:1.1650916087%;width:24.1261812934%}#blog-article .product-cell:last-child,.category .product-cell:last-child{margin-right:0}#blog-article .product-cell:nth-child(4n),.category .product-cell:nth-child(4n){margin-right:0}}@media screen and (min-width: 1100px){#blog-article .product-cell .img img,.category .product-cell .img img{width:125%}}.related-products .product-cell{float:left;display:block;margin-right:1.1650916087%;width:15.6957569927%}.related-products .product-cell:last-child{margin-right:0}.related-products .product-cell .img{max-height:30vw}.related-products .product-cell .brand img{max-width:45px}@media screen and (min-width: 768px){.related-products .product-cell{float:left;display:block;margin-right:1.1650916087%;width:15.6957569927%}.related-products .product-cell:last-child{margin-right:0}.related-products .product-cell:nth-child(n){margin-right:0}.related-products .product-cell:nth-child(3n){margin-right:30px}}@media screen and (max-width: 767px){.related-products .product-cell{float:left;display:block;margin-right:1.1650916087%;width:49.4174541956%}.related-products .product-cell:last-child{margin-right:0}.related-products .product-cell:nth-child(n+3){display:none}.related-products .product-cell .pre-price{font-size:8px}}@media screen and (min-width: 1100px){.related-products .product-cell{min-height:385px}.related-products .product-cell .img{max-height:240px}}
+    </style><meta content="" name="description">
+    <meta content="" name="keywords"><meta name="csrf-param" content="authenticity_token">
+    <meta name="csrf-token" content="hUrVpOFrXt5axZaW476saL8VBg77Thhp9UOP4TXXndtM1nynhbPVKLzwyNWuYKYUR3O9Qb+QGH4GC3BkPwOrTQ=="><script src="https://d2tic578h94r8u.cloudfront.net/assets/prioritized-747b5f2cead4196eae8ac1469fcbf8a28289bbf37d1426efc5f429197762e25c.js" async="async"></script><script nonce="">
+    //<![CDATA[
+    
+      window.Environment = "production";
+    
+    //]]>
+    </script><script nonce="">
+    //<![CDATA[
+    
+      SS = {
+        routes: {
+          fulfillment_hub_path: "/api/fulfillment-hub",
+          line_items_path: "/line_items"
+        },
+        data: {
+          cart: {"shipping_total":"--","charge_total":"0.0","can_checkout":false,"service":{"active":false,"id":"base","type":"flat"},"rates":{"stale":true},"designations":{"standard":{"category":"Standard","name":"SurePost","price":6.99},"premium":{"category":"Premium","name":"UPS Ground","price":8.99},"express":{"category":"Express","name":"USPS","price":null}}}
+        },
+        checkout: {}
       }
-      if (window.attachEvent) {
-        window.attachEvent('onload', __ldinsp);
-      } else {
-        window.addEventListener('load', __ldinsp, false);
-      }
-    })();
-  </script>
-<script type="text/javascript">
-  window.userSignedIn = false;
-</script>
-<meta content="o0kNrLjxVZsdKuGreqgZBu7sHC1wh8T4lRp0khqIbfI" name="google-site-verification"></head><body><div class="hidden" data-shipping-info-url="https://www.shirtspace.com/api/shipping_date"></div><div id="master"><div id="tools"><div class="hello-bar"><div class="container"><div class="message-section"><i class="icon-remove-sign close"></i><span class="bold">Instant savings by <a class="modal-login" href="#">logging in</a> or creating a <a class="modal-register" href="https://www.shirtspace.com/users/sign_up">membership.</a></span><span>No Business License Required.</span></div><div class="clear"></div></div></div></div><header id="header-main"><div class="header-top container"><div class="toggle-message-section"></div><div class="marketing-message-container"><div class="marketing-message"><div class="message-title">We accept School PO's</div><div class="message-text"><a href="/contact-us">Request more info</a></div></div><div class="marketing-message"><div class="message-title">No order minimums</div><div class="message-text">Always a low price</div></div></div><div class="marketing-message-container dark"><div class="marketing-message"><div class="marketing-icon icon-shipping"></div><div class="message-title">Free Shipping</div><div class="message-text">on orders over $99</div></div><div class="marketing-message"><div class="marketing-message-divider"></div><div class="marketing-icon icon-returns"></div><div class="message-title">Free returns</div><div class="message-text">on all orders</div></div></div><div class="contact-container"><span><a class="email-link" href="mailto:Sales@ShirtSpace.com">Sales@ShirtSpace.com</a></span><span class="divider">|</span><span>(877) 285-7606</span></div></div><div class="header-main"><div class="container"><div class="header-section-1"><div class="logo"><a href="https://www.shirtspace.com/"><img alt="Logo main 2 header 6c50de2fe6f74c1cd014a5aa1de575b999a99b375139000c106133697f2e4de7" src="https://d2tic578h94r8u.cloudfront.net/assets/logo-main-2-header-6c50de2fe6f74c1cd014a5aa1de575b999a99b375139000c106133697f2e4de7.png"></a></div><div class="search"><form action="https://www.shirtspace.com/products" id="search" method="get"><input class="search-input" id="search" name="search" placeholder="Search style, SKU, brand, etc." value=""><button class="search-submit" id="search-submit"><i class="icon-search"></i></button></form></div></div><div class="header-section-2"><div class="header-main-shipping" id="header-shipping-estimator"><div class="warehouse"><img alt="Warehouse map transparent small 93b997a8dce7e3bd195dd08c4966ba650af7c2f78ddf84a095968a3f7bd8933e" src="https://d2tic578h94r8u.cloudfront.net/assets/warehouse-map-transparent-small-93b997a8dce7e3bd195dd08c4966ba650af7c2f78ddf84a095968a3f7bd8933e.png"><div class="caption">11 Warehouses</div></div><div class="delivery-time"></div></div></div></div></div><div class="header-nav"><div class="container"><nav class="dropdown-arrow header-main-nav"><ul class="mobile-menu-action nav-main-links"><li><a href="https://www.shirtspace.com/products/t-shirts" id="t-shirts">T-Shirts</a></li><li><a href="https://www.shirtspace.com/products/sweatshirts">Sweatshirts</a></li><li><a href="https://www.shirtspace.com/products/polos">Polos</a></li><li><a href="https://www.shirtspace.com/products/hats">Hats</a></li><li class="dropdown-arrow brands-nav"><a class="dropdown-nav" href="https://www.shirtspace.com/brands" id="shop_by_brand">Shop By Brand</a><div class="nav-hover-dropdown mobile-menu-action" id="brands-nav"><ul><li><a href="https://www.shirtspace.com/brand/a4">A4</a></li><li><a href="https://www.shirtspace.com/brand/a4-drop-ship">A4 Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/adams">Adams</a></li><li><a href="https://www.shirtspace.com/brand/adidas-golf">Adidas Golf</a></li><li><a href="https://www.shirtspace.com/brand/all-sport">All Sport</a></li><li><a href="https://www.shirtspace.com/brand/all-sport">All Sport</a></li><li><a href="https://www.shirtspace.com/brand/anvil">Anvil</a></li><li><a href="https://www.shirtspace.com/brand/apples-oranges">Apples &amp; Oranges</a></li><li><a href="https://www.shirtspace.com/brand/ash-city">Ash City</a></li><li><a href="https://www.shirtspace.com/brand/ashworth">Ashworth</a></li><li><a href="https://www.shirtspace.com/brand/augusta-drop-ship">Augusta Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/augusta-sportswear">Augusta Sportswear</a></li><li><a href="https://www.shirtspace.com/brand/authentic-pigment">Authentic Pigment</a></li><li><a href="https://www.shirtspace.com/brand/bagedge">Bagedge</a></li><li><a href="https://www.shirtspace.com/brand/bayside">Bayside</a></li><li><a href="https://www.shirtspace.com/brand/bella-canvas">Bella+Canvas </a></li><li><a href="https://www.shirtspace.com/brand/big-accessories">Big Accessories</a></li><li><a href="https://www.shirtspace.com/brand/carmel-towel-company">Carmel Towel Company</a></li><li><a href="https://www.shirtspace.com/brand/champion">Champion</a></li><li><a href="https://www.shirtspace.com/brand/chestnut-hill">Chestnut Hill</a></li></ul><ul><li><a href="https://www.shirtspace.com/brand/code-v">Code V</a></li><li><a href="https://www.shirtspace.com/brand/code-v-drop-ship">Code V Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/comfort-colors">Comfort Colors</a></li><li><a href="https://www.shirtspace.com/brand/comfort-colors-drop-ship">Comfort Colors Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/core-365">Core 365</a></li><li><a href="https://www.shirtspace.com/brand/custom-styles">Custom Styles  </a></li><li><a href="https://www.shirtspace.com/brand/decoration-supplies">Decoration Supplies</a></li><li><a href="https://www.shirtspace.com/brand/devon-jones">Devon &amp; Jones</a></li><li><a href="https://www.shirtspace.com/brand/dickies">Dickies</a></li><li><a href="https://www.shirtspace.com/brand/dickies-drop-ship">Dickies Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/doggie-skins-drop-ship">Doggie Skins Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/dri-duck">Dri Duck</a></li><li><a href="https://www.shirtspace.com/brand/dyenomite">Dyenomite</a></li><li><a href="https://www.shirtspace.com/brand/dyenomite-drop-ship">Dyenomite Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/econscious">Econscious</a></li><li><a href="https://www.shirtspace.com/brand/extreme">Extreme</a></li><li><a href="https://www.shirtspace.com/brand/fruit-of-the-loom">Fruit Of The Loom</a></li><li><a href="https://www.shirtspace.com/brand/ful">Ful</a></li><li><a href="https://www.shirtspace.com/brand/gemline">Gemline</a></li></ul><ul><li><a href="https://www.shirtspace.com/brand/gildan">Gildan</a></li><li><a href="https://www.shirtspace.com/brand/hanes">Hanes</a></li><li><a href="https://www.shirtspace.com/brand/harriton">Harriton</a></li><li><a href="https://www.shirtspace.com/brand/headsweats">Headsweats</a></li><li><a href="https://www.shirtspace.com/brand/hook-tackle">Hook &amp; Tackle</a></li><li><a href="https://www.shirtspace.com/brand/hyp">Hyp</a></li><li><a href="https://www.shirtspace.com/brand/il-migliore">Il Migliore</a></li><li><a href="https://www.shirtspace.com/brand/izod">Izod</a></li><li><a href="https://www.shirtspace.com/brand/j-america">J America</a></li><li><a href="https://www.shirtspace.com/brand/jerzees">Jerzees</a></li><li><a href="https://www.shirtspace.com/brand/kc-caps">Kc Caps</a></li><li><a href="https://www.shirtspace.com/brand/lat-drop-ship">Lat Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/lat-sportswear">Lat Sportswear</a></li><li><a href="https://www.shirtspace.com/brand/liberty-bags">Liberty Bags</a></li><li><a href="https://www.shirtspace.com/brand/liberty-bags-drop-ship">Liberty Bags Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/new-balance">New Balance</a></li><li><a href="https://www.shirtspace.com/brand/next-level">Next Level</a></li><li><a href="https://www.shirtspace.com/brand/north-end">North End</a></li><li><a href="https://www.shirtspace.com/brand/north-end-sport-blue">North End Sport Blue</a></li></ul><ul><li><a href="https://www.shirtspace.com/brand/north-end-sport-red">North End Sport Red</a></li><li><a href="https://www.shirtspace.com/brand/occunomix">Occu Nomix</a></li><li><a href="https://www.shirtspace.com/brand/rabbit-skins">Rabbit Skins</a></li><li><a href="https://www.shirtspace.com/brand/rabbit-skins-drop-ship">Rabbit Skins Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/robinson-apparel">Robinson Apparel</a></li><li><a href="https://www.shirtspace.com/brand/russell-athletic">Russell Athletic</a></li><li><a href="https://www.shirtspace.com/brand/sierra-pacific">Sierra Pacific</a></li><li><a href="https://www.shirtspace.com/brand/storm-creek">Storm Creek</a></li><li><a href="https://www.shirtspace.com/brand/sublivie">Sublivie</a></li><li><a href="https://www.shirtspace.com/brand/sublivie-drop-ship">Subli Vie Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/team-365">Team 365</a></li><li><a href="https://www.shirtspace.com/brand/tie-dye">Tie Dye</a></li><li><a href="https://www.shirtspace.com/brand/tie-dye-drop-ship">Tie Dye Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/van-heusen">Van Heusen</a></li><li><a href="https://www.shirtspace.com/brand/walls-drop-ship">Walls Drop Ship</a></li><li><a href="https://www.shirtspace.com/brand/weatherproof">Weatherproof</a></li><li><a href="https://www.shirtspace.com/brand/yupoong">Yupoong</a></li><li><a href="https://www.shirtspace.com/brand/yupoong">Yupoong</a></li><li><a href="https://www.shirtspace.com/brand/zkapz">Z Kapz</a></li></ul></div></li><li class="dropdown-arrow category-nav"><a class="dropdown-nav" href="https://www.shirtspace.com/categories" id="shop_by_category">Shop By Category</a><div class="nav-hover-dropdown mobile-menu-action" id="category-nav"><ul><li><a href="https://www.shirtspace.com/products/accessories">Accessories</a></li><li><a href="https://www.shirtspace.com/products/athletic-apparel">Athletic Apparel</a></li><li><a href="https://www.shirtspace.com/products/bags">Bags</a></li><li><a href="https://www.shirtspace.com/products/decoration-supplies">Decoration Supplies</a></li><li><a href="https://www.shirtspace.com/products/hats">Hats</a></li><li><a href="https://www.shirtspace.com/products/infants-toddlers">Infants &amp; Toddlers</a></li></ul><ul><li><a href="https://www.shirtspace.com/products/jackets-coats">Jackets &amp; Coats</a></li><li><a href="https://www.shirtspace.com/products/pants">Pants</a></li><li><a href="https://www.shirtspace.com/products/polos">Polos</a></li><li><a href="https://www.shirtspace.com/products/shorts">Shorts</a></li><li><a href="https://www.shirtspace.com/products/sublimation-apparel">Sublimation Apparel</a></li><li><a href="https://www.shirtspace.com/products/sweaters-cardigans">Sweaters &amp; Cardigans</a></li></ul><ul><li><a href="https://www.shirtspace.com/products/sweatshirts">Sweatshirts</a></li><li><a href="https://www.shirtspace.com/products/tank-tops-sleeveless-shirts">Tank Tops &amp; Sleeveless Shirts</a></li><li><a href="https://www.shirtspace.com/products/t-shirts">T-Shirts</a></li><li><a href="https://www.shirtspace.com/products/underwear-robes-sleep">Underwear &amp; Robes &amp; Sleep</a></li><li><a href="https://www.shirtspace.com/products/work-shirts-button-ups">Work Shirts &amp; Button Ups</a></li></ul></div></li><li><a href="https://www.shirtspace.com/blog" id="blog">Blog</a></li></ul></nav><a class="header-fixed-logo" href="https://www.shirtspace.com/"></a><div class="search"><form action="https://www.shirtspace.com/products" id="search" method="get"><input class="search-input" id="search" name="search" placeholder="Search style, SKU, brand, etc." value=""><button class="search-submit" id="search-submit"><i class="icon-search"></i></button></form></div><div class="cart-call-to-action"><span><a class="modal-login" href="#" id="login">Log In</a></span><span>&nbsp;or&nbsp;</span><span><a class="modal-register" href="https://www.shirtspace.com/users/sign_up">Register </a></span><span class="new-line">for savings</span></div><div class="header-cart-partial"><div class="header-cart-container"><div class="cart-summary"><a class="cart-icon" href="/cart"><div class="cart-item-count">0</div></a><div class="total-cost">$0.00</div><div class="cart-call-to-action"><span><a class="modal-login" href="#" id="login">Log In</a></span><span>&nbsp;or&nbsp;</span><span><a class="modal-register" href="https://www.shirtspace.com/users/sign_up">Register </a></span><span class="new-line">for savings</span></div></div><div class="cart-dropdown"><div class="cart-items-container"><div class="empty-cart-message">Add some items to your cart!</div></div><div class="cart-costs"><div class="cart-sub-total"><span>Retail Price:&nbsp;</span><span class="emphasis">$0.00</span></div><div class="cart-member-savings"><span>Discounts:&nbsp;</span><span class="emphasis">$0.00</span></div><div class="cart-total"><span>Subtotal:&nbsp;</span><span class="emphasis">$0.00</span></div></div><div class="cart-checkout"><a class="checkout" href="/cart" id="checkout">Proceed to Secure Checkout</a></div></div></div></div><div class="header-mobile-icons"><div class="search-icon"></div><a class="modal-login account-icon" href="#" id="login"></a><a class="checkout cart-icon" href="/cart" id="checkout"></a></div><div class="header-mobile-search mobile-menu-action"><div class="search"><form action="https://www.shirtspace.com/products" id="search" method="get"><input class="search-input" id="search" name="search" placeholder="Search style, SKU, brand, etc." value=""><button class="search-submit" id="search-submit"><i class="icon-search"></i></button></form></div><div class="popular-search-items"><h1>Popular Search Items</h1><ul><li><a href="/products?search=g200">Gildan G200</a></li><li><a href="/products?search=fruit+of+the+loom">Fruit of the Loom</a></li><li><a href="/products?search=g500">Gildan G500</a></li><li><a href="/products?search=jerzees+363">Jerzees 363</a></li></ul></div></div></div></div><div class="mobile-messages"><div class="free-shipping"><div class="image-container"><div class="shipping image"></div></div><div class="text"><h3>Free Shipping</h3><p>on orders over $99</p></div></div><div class="free-returns"><div class="image-container"><div class="returns image"></div></div><div class="text"><h3>Free Returns</h3><p>on all orders</p></div></div></div><div id="top-notification"></div></header><main><div class="container"><div class="banner-container image-banner hide-on-mobile"><span class="modal-register"><a href="https://www.shirtspace.com/users/sign_up"><img alt="Summer 2016 02" src="https://shirtspacev4productimages.s3.amazonaws.com/uploads/setting/file/33/Summer-2016-02.jpg"></a></span></div><div class="banner-container show-only-on-mobile"><div class="banner-icon"></div><h3 class="banner-title">REGISTER TO SAVE! </h3><span>Become a ShirtSpace member and receive special pricing site-wide. </span><div class="view-sale"><div class="view-sale-arrow"></div><span class="view-sale modal-register"><a href="https://www.shirtspace.com/users/sign_up">View Sale</a></span></div></div><div id="privacy-policy"><section class="content"><div class="title"><h2>Privacy Policy</h2></div><p>We can be reached via e-mail at: sales@shirtspace.com or at  877-285-7606</p><p><strong>Privacy Statement</strong></p><p>For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. We collect the e-mail address of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user specific information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.</p><p>The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for individual consumer and used by us to contact consumers for marketing purposes.</p><p>If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail, calling or writing, and telling us that you do not want to receive e-mail from our company.</p><p><strong>Terms of Use Statement</strong></p><p>You understand and agree that the owners of this site shall not be liable for any direct, indirect, incidental, consequential or exemplary damages, including but not limited to, damages for loss of profits, data or other intangible losses (even if the owners of this site have been advised of the possibility of such damages), resulting from the use or the inability to use the product(s) and or service(s) or any misuse of the product(s) and or service(s) in a manner not in accordance with their intended use.</p><p><strong>Security</strong></p><p>Your shopping experience is greatly important to us. Your credit card transactions with us are 100% safe as our secure server software (SSL) is the e-commerce industry standard and encrypts all payment information when you order our products. Private information that is collected will only be used for your current order, we do not store credit card numbers unless a customer asks us to. You may also choose to check out with paypal.</p></section><aside><article><div class="shipping brands silkscreening-sidebar"><div class="wrapper"><i class="silkscreening"><img alt="Ico silkscreening 3 4e8130d8879d8fc65bfbd966e841b067ea343dd474de52066702456884f5691e" src="https://d2tic578h94r8u.cloudfront.net/assets/ico-silkscreening-3-4e8130d8879d8fc65bfbd966e841b067ea343dd474de52066702456884f5691e.png"></i><h3>Need Screen Printing Supplies?</h3><span class="divider"></span><a href="https://www.shirtspace.com/ryonet-silk-screening-supplies"><div class="brand silk-screening"><img alt="Logo silkscreening 2 e470097b2b9aecb995f8d26fe8e65e0989668e4d78397e471b48a6ebb4e06439" src="https://d2tic578h94r8u.cloudfront.net/assets/logo-silkscreening-2-e470097b2b9aecb995f8d26fe8e65e0989668e4d78397e471b48a6ebb4e06439.png"></div></a><span class="nondescript">Advertising Partners</span></div></div></article><article><div class="testimonials" data-testimonials-url="https://www.shirtspace.com/api/random_testimonials.json"><div class="wrapper"><i class="icon-comment"></i><h3>What Our Customers are Saying</h3><span class="divider"></span><div class="quote"><i class="icon-quote-left"></i><p class="testimonial-text"></p><p class="author"></p><p class="location"></p></div><div class="quote"><i class="icon-quote-left"></i><p class="testimonial-text"></p><p class="author"></p><p class="location"></p></div><div class="more"><a class="all" href="#">Load More</a><div class="clear"></div></div><a class="testimonial-link" href="https://www.shirtspace.com/testimonials/new">» Submit a Testimonial</a></div></div></article></aside></div><div class="clear"></div><span class="back-to-top scroll" data-scrollto="#master">Back to<br>Top</span></div></main><footer><div class="cards"><div class="container"><div class="card"><img alt="Img card01 e06235d86c4f53a3aacbe6d59b4f35d12f3faa857ae084c5a74ba1b4722c0e3a" src="https://d2tic578h94r8u.cloudfront.net/assets/img-card01-e06235d86c4f53a3aacbe6d59b4f35d12f3faa857ae084c5a74ba1b4722c0e3a.png"></div><div class="card"><img alt="Img card02 723349e4752a1211e4b4deaca5b98e2bc138a6d24c29f119dc5e4cf1b668af5a" src="https://d2tic578h94r8u.cloudfront.net/assets/img-card02-723349e4752a1211e4b4deaca5b98e2bc138a6d24c29f119dc5e4cf1b668af5a.png"></div><div class="card"><img alt="Img card03 13a19f96feda97b515fecd5f2c0b7e91ae89e83e85749ca8e529427e7df4b7bb" src="https://d2tic578h94r8u.cloudfront.net/assets/img-card03-13a19f96feda97b515fecd5f2c0b7e91ae89e83e85749ca8e529427e7df4b7bb.png"></div><div class="card"><img alt="Img card04 c7c02b82534484e2c47fcbccf0803a75376accf110e26639c9d77c4187f7926f" src="https://d2tic578h94r8u.cloudfront.net/assets/img-card04-c7c02b82534484e2c47fcbccf0803a75376accf110e26639c9d77c4187f7926f.png"></div><div class="card"><img alt="Img card05 f72c6540356f01e1d3b1b4768fc31c87d84834b67a6d5b9874ace9f66a168d35" src="https://d2tic578h94r8u.cloudfront.net/assets/img-card05-f72c6540356f01e1d3b1b4768fc31c87d84834b67a6d5b9874ace9f66a168d35.png"></div><div class="card"><div id="bbb-wrapper">
-  <a id="bbblink" class="ruhzbus" href="http://www.bbb.org/oregon/business-reviews/embroidery/all-about-apparel-in-woodland-wa-22538232#bbbseal" style="display: block;position: relative;overflow: hidden; width: 100px; height: 45px; margin: 0px auto; padding: 0px;" target="_blank" title="All About Apparel Inc, Embroidery, Woodland, WA">
-    <img id="bbblinkimg" alt="All About Apparel Inc, Embroidery, Woodland, WA" height="45" src="https://d2tic578h94r8u.cloudfront.net/assets/all-about-apparel-bc062bd1dbc0d2386a117a9b290bece2652739f49354cfbf58f704ddc522d732.png" style="padding: 0px; border: none;" width="200">
-  </a>
-  <script type="text/javascript">
-    var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write('<style>padding:0px;border:none;}#bbblink{padding:0px;margin:0;}</style>');
-  </script><style>padding:0px;border:none;}#bbblink{padding:0px;margin:0;}</style>
-</div>
-</div><div class="card ssl"><a href="//instantssl.com/ssl.html" target="_blank"><img alt="Comodo secure 100x85 transp" src="//www.instantssl.com/ssl-certificate-images/support/comodo_secure_100x85_transp.png"></a></div><div class="card"><!-- BEGIN: Google Trusted Stores -->
-<script type="text/javascript">
-  var gts = gts || [];
-
-  gts.push(["id", "296228"]);
-  gts.push(["locale", "en_US"]);
-
-    gts.push(["google_base_offer_id", "0"]);
-
-  gts.push(["google_base_subaccount_id", "101215812"]);
-  gts.push(["google_base_country", "US"]);
-  gts.push(["google_base_language", "en"]);
-
-  (function() {
-    var gts = document.createElement("script");
-    gts.type = "text/javascript";
-    gts.async = true;
-    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(gts, s);
-  })();
-</script>
-<!-- END: Google Trusted Stores -->
-</div></div></div><div class="footer-main"><div class="container"><div class="contact"><div class="wrapper"><img alt="Logo main 2 header 6c50de2fe6f74c1cd014a5aa1de575b999a99b375139000c106133697f2e4de7" src="https://d2tic578h94r8u.cloudfront.net/assets/logo-main-2-header-6c50de2fe6f74c1cd014a5aa1de575b999a99b375139000c106133697f2e4de7.png"><div class="view-full-site">View full site</div><p class="phone">1-877-285-7606</p><p class="working-hours">7-4:30 PST, 5 Days a Week</p><p class="heading">Join The Conversation</p><p class="social"><a href="https://www.facebook.com/shirtspacetees" target="_blank"><i class="icon-facebook-sign"></i></a><a href="https://twitter.com/shirtspacetees" target="_blank"><i class="icon-twitter-sign"></i></a><a href="https://instagram.com/shirtspace" target="_blank"><i class="icon-instagram"></i></a><a href="https://www.pinterest.com/shirtspace/" target="_blank"><i class="icon-pinterest-sign"></i></a><a href="https://plus.google.com/u/1/b/102328667135786820123/102328667135786820123/posts" target="_blank"><i class="icon-google-plus-sign"></i></a></p></div></div><div class="links"><div class="popular-categories"><div class="wrapper"><h3>Popular Categories</h3><ul><li><a href="https://www.shirtspace.com/products/t-shirts">T-Shirts</a></li><li><a href="https://www.shirtspace.com/products/sweatshirts">Sweatshirts</a></li><li><a href="https://www.shirtspace.com/products/polos">Polos</a></li><li><a href="https://www.shirtspace.com/products/pants">Pants</a></li><li><a href="https://www.shirtspace.com/products/hats">Hats</a></li><li><a href="https://www.shirtspace.com/products/infants-toddlers">Infants &amp; Toddlers</a></li><li><a href="https://www.shirtspace.com/products/athletic-apparel">Athletic Apparel</a></li><li><a href="https://www.shirtspace.com/products/tank-tops-sleeveless-shirts">Tank Tops &amp; Sleeveless Shirts</a></li><li><a href="https://www.shirtspace.com/products/shorts">Shorts</a></li><li><a href="https://www.shirtspace.com/categories">» See More</a></li></ul></div></div><div class="popular-brands"><div class="wrapper"><h3>Popular Brands</h3><ul><li><a href="https://www.shirtspace.com/brand/gildan">Gildan</a></li><li><a href="https://www.shirtspace.com/brand/jerzees">Jerzees</a></li><li><a href="https://www.shirtspace.com/brand/hanes">Hanes</a></li><li><a href="https://www.shirtspace.com/brand/anvil">Anvil</a></li><li><a href="https://www.shirtspace.com/brand/fruit-of-the-loom">Fruit Of The Loom</a></li><li><a href="https://www.shirtspace.com/brand/lat-sportswear">Lat Sportswear</a></li><li><a href="https://www.shirtspace.com/brands">» See More</a></li></ul></div></div><div class="customer-service"><div class="wrapper"><h3>Customer Service</h3><ul><li><a href="https://www.shirtspace.com/accounts/new">Create An Account</a></li><li><a href="https://www.shirtspace.com/contact-us">Contact Us</a></li><li><a href="https://www.shirtspace.com/shipping-policy">Shipping Policy</a></li><li><a href="https://www.shirtspace.com/about-us">About Us</a></li><li><a href="https://www.shirtspace.com/faq">FAQ</a></li><li><a href="https://www.shirtspace.com/glossary-of-terms">Glossary of Terms</a></li><li><a href="https://www.shirtspace.com/catalog-request">Catalog Request</a></li><li><a href="https://www.shirtspace.com/return-policy">Return Policy</a></li><li><a href="https://www.shirtspace.com/privacy-policy">Privacy Policy</a></li><li><a href="https://www.shirtspace.com/scholarship">Scholarship Opportunity</a></li></ul></div></div><div class="clear"></div></div><div class="clear"></div></div></div><div class="footer-meta"><div class="container"><p>© 2016 Shirtspace.com All Rights Reserved.</p></div></div><link href="https://d2tic578h94r8u.cloudfront.net/assets/application-b658f9a0eda0e480193ca0c235e79de8ac7159dbd5d5c33258805368aa1fbb52.css" media="all" rel="stylesheet"><script src="https://d2tic578h94r8u.cloudfront.net/external/type_kit.js"></script><script type="text/javascript">try{Typekit.load({ async: true });}catch(e){};</script><link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css" media="all" rel="stylesheet"><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.3.1/jquery.cookie.min.js"></script><script src="https://d2tic578h94r8u.cloudfront.net/assets/application-5c206c4a646e9fb49d4b72dfbaafe6e9c03df98acdd1170163aa507b7427a9d4.js"></script><script type="text/javascript">(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5202806"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
-
-<noscript>
-  <img src="//bat.bing.com/action/0?ti=5202806&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" />
-</noscript><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '1694157604201907');fbq('track', "PageView");</script><noscript><img height="1" src="https://www.facebook.com/tr?id=1694157604201907&amp;ev=PageView&amp;noscript=1" style="display:none" width="1" /></noscript><script src="https://www.google.com/recaptcha/api.js"></script>
-</footer></div><!--[if lt IE 10]><script src="https://d2tic578h94r8u.cloudfront.net/assets/ie-17cddd5d6f24649a53118d91429d625a82f9f4154f88de8dd16d2001d1fdb5e7.js"></script><![endif]--><script type="text/javascript">window.__wtw_lucky_site_id = 33837;(function()  { var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true; wa.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://cdn') + '.luckyorange.com/w.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s); })();</script><script type="text/javascript">var google_conversion_id = 1069089304;var google_custom_params = window.google_tag_params;var google_remarketing_only = true;var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-27214006-1']);_gaq.push(['_trackPageview']);(function() {  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script><noscript><div style="display:inline;"><img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069089304/?value=0&amp;amp;guid=ON&amp;amp;script=0" style="border-style:none;" width="1" /></div></noscript></body></html>
+    
+    //]]>
+    </script>
+    <!-- TrustBox script -->
+    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
+    <!-- End Trustbox script -->
+    
+    <meta content="70FD81B7CB6CDE5F5643F1A15C934D32" name="msvalidate.01">
+    <meta content="_YwO3PBM2C2_Nio8-2xRjaaZbDpMyJGa_D_m9IrdpFo" name="google-site-verification">
+    <link href="https://use.typekit.net/ysb3beq.css" rel="stylesheet">
+  </head>
+  <body class="pages pages-privacy-policy">
+    <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NZR59WG" style="display:none;visibility:hidden" width="0"></iframe></noscript><div id="global_data" data-sign-in-url="https://www.shirtspace.com/users/sign_in" data-sign-up-url="https://www.shirtspace.com/users/sign_up" data-icons-url="https://d2tic578h94r8u.cloudfront.net/assets/icons-b9a67d5cf4859e58dc6decce479d2928af17e4fbe9a642fdb57f3e2e52e32f27.svg"></div>
+    <div id="master">
+      <header id="header-main">
+        <div class="header-top container">
+          <div class="toggle-message-section"></div>
+          <div class="marketing-message-container">
+            <div class="marketing-message">
+              <div class="message-title">
+                We accept School PO's
+              </div>
+              <div class="message-text">
+                <a href="/contact-us">Request more info</a>
+              </div>
+            </div>
+            <div class="marketing-message">
+              <div class="message-title">
+                No order minimums
+              </div>
+              <div class="message-text">
+                Always a low price
+              </div>
+            </div>
+          </div>
+          <div class="marketing-message-container dark">
+            <div class="marketing-message">
+              <a href="/shipping-policy">
+                      <div class="marketing-icon icon-shipping"></div>
+                      <div class="message-title">
+                        Free Shipping
+                      </div>
+                      <div class="message-text">
+                        on orders over $99
+                      </div></a>
+            </div>
+            <div class="marketing-message">
+              <div class="marketing-message-divider"></div>
+              <a href="/returns">
+                      <div class="marketing-icon icon-returns"></div>
+                      <div class="message-title">
+                        Free returns
+                      </div>
+                      <div class="message-text">
+                        on all orders
+                      </div></a>
+            </div>
+          </div>
+          <div class="contact-container">
+            <span><a class="email-link" href="mailto:sales@shirtspace.com">sales@shirtspace.com</a></span><span class="divider">|</span><span><a href="tel:(877) 285-7606">(877) 285-7606</a></span>
+          </div>
+        </div>
+        <div class="header-main">
+          <div class="container">
+            <div class="header-section-1">
+              <div class="logo"><a href="https://www.shirtspace.com/">
+                          <div class="image--deferred" data-src="https://d2tic578h94r8u.cloudfront.net/assets/logo-main-2-header-6c50de2fe6f74c1cd014a5aa1de575b999a99b375139000c106133697f2e4de7.png" data-alt="ShirtSpace"><noscript><img alt="ShirtSpace" src="https://d2tic578h94r8u.cloudfront.net/assets/logo-main-2-header-6c50de2fe6f74c1cd014a5aa1de575b999a99b375139000c106133697f2e4de7.png" /></noscript></div></a>
+              </div>
+              <div class="search">
+                <form action="/search" class="search_field" method="get">
+                  <input autocomplete="off" class="search_field search-input" data-role="none" name="search" placeholder="Search style, SKU, brand, etc." value=""><button class="search-submit"><i class="icon--search icon--small"></i></button>
+                </form>
+              </div>
+            </div>
+            <div class="header-section-2">
+              <div class="header-main-shipping" id="header-shipping-estimator">
+                <div class="warehouse"><a href="/shipping-policy">
+                              <div class="image--deferred" data-src="https://d2tic578h94r8u.cloudfront.net/assets/warehouse-map-transparent-small-4f04aca15ad2980ee660758d5ccf6d4b88f75588807122493022739957fe8c58.png" data-alt="Shipping Policy"><noscript><img alt="Shipping Policy" src="https://d2tic578h94r8u.cloudfront.net/assets/warehouse-map-transparent-small-4f04aca15ad2980ee660758d5ccf6d4b88f75588807122493022739957fe8c58.png" /></noscript></div></a>
+                  <div class="caption">
+                    10 Warehouses
+                  </div>
+                </div>
+                <div class="order-cutoff"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="header-nav">
+          <div class="container">
+            <nav class="dropdown-arrow header-main-nav">
+              <ul class="mobile-menu-action nav-main-links">
+                <li>
+                  <a id="t-shirts" href="/t-shirts">T-Shirts</a>
+                </li>
+                <li>
+                  <a id="sweatshirts" href="/sweatshirts">Sweatshirts</a>
+                </li>
+                <li>
+                  <a id="polos" href="/polos">Polos</a>
+                </li>
+                <li>
+                  <a id="hats-beanies" href="/hats-beanies">Hats &amp; Beanies</a>
+                </li>
+                <li class="dropdown-arrow brands-nav">
+                  <a id="shop_by_brand" class="dropdown-nav" href="/brands">Shop By Brand</a>
+                  <div class="nav-hover-dropdown mobile-menu-action" id="brands-nav">
+                    <ul>
+                      <li>
+                        <a href="/hanes">
+                                    <img alt="Hanes" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBck1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5a535dff06a0a440a379b9e42cff3cb083da016d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/55-hanes.png">
+                                    <div class="brands-nav-name">
+                                      Hanes
+                                    </div></a>
+                      </li>
+                      <li>
+                        <a href="/gildan">
+                                    <img alt="Gildan" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--14475cedbc00f16f585865286aaa4f3853aafd47/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/47-gildan.png">
+                                    <div class="brands-nav-name">
+                                      Gildan
+                                    </div></a>
+                      </li>
+                      <li>
+                        <a href="/fruit-of-the-loom">
+                                    <img alt="Fruit of the Loom" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcThCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d29e5deee52c8879d4b507eac28b2c0ce232051b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/51-fruit-of-the-loom.png">
+                                    <div class="brands-nav-name">
+                                      Fruit of the Loom
+                                    </div></a>
+                      </li>
+                      <li>
+                        <a href="/flexfit">
+                                    <img alt="Flexfit" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a3a7bad51403d839e16d7820f82bf1562960d63/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/66-flexfit.png">
+                                    <div class="brands-nav-name">
+                                      Flexfit
+                                    </div></a>
+                      </li>
+                      <li>
+                        <a href="/comfort-colors">
+                                    <img alt="Comfort Colors" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1cd413ad1e89e074465304c9275dadaa5bef5f8b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/23-comfort-colors.png">
+                                    <div class="brands-nav-name">
+                                      Comfort Colors
+                                    </div></a>
+                      </li>
+                      <li>
+                        <a href="/bella-canvas">
+                                    <img alt="Bella + Canvas" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c8260dac9e98d7a4f86a63e3794e96f2bfa1529/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/18-bella-canvas.png">
+                                    <div class="brands-nav-name">
+                                      Bella + Canvas
+                                    </div></a>
+                      </li>
+                      <li>
+                        <a href="/next-level">
+                                    <img alt="Next Level" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8d44aae5e8238617507d327a89ee9d72487db3fe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/105-next-level.png">
+                                    <div class="brands-nav-name">
+                                      Next Level
+                                    </div></a>
+                      </li>
+                      <li>
+                        <a href="/dickies">
+                                    <img alt="Dickies" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e466b822615acfe30c348bf7b1314613df3013c9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/43-dickies.png">
+                                    <div class="brands-nav-name">
+                                      Dickies
+                                    </div></a>
+                      </li>
+                      <li>
+                        <a href="/anvil">
+                                    <img alt="Anvil" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b86cb73ec25fa98d655a986efd5e565176bac626/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/59-anvil.png">
+                                    <div class="brands-nav-name">
+                                      Anvil
+                                    </div></a>
+                      </li>
+                      <li>
+                        <a href="/american-apparel">
+                                    <img alt="American Apparel" src="https://www.shirtspace.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec4a756fa8a2bad4fad0bb9e1ba200501c43a613/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lMTVRJd2VETTFCam9HUlZRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4f1aeb454eadc48177230d9025bc0d9cde1e8bcf/99-american-apparel.png">
+                                    <div class="brands-nav-name">
+                                      American Apparel
+                                    </div></a>
+                      </li>
+                    </ul>
+                    <a href="/brands">Check Out all 86 Brands <em>»</em></a>
+                  </div>
+                </li>
+                <li class="dropdown-arrow category-nav">
+                  <a id="shop_by_category" class="dropdown-nav" href="/categories">Shop By Category</a>
+                  <div class="nav-hover-dropdown mobile-menu-action" id="category-nav">
+                    <ul>
+                      <li><a href="/accessories">Accessories</a></li>
+                      <li><a href="/athletic-apparel">Athletic Apparel</a></li>
+                      <li><a href="/bags">Bags</a></li>
+                      <li><a href="/hats-beanies">Hats &amp; Beanies</a></li>
+                      <li><a href="/infants-toddlers">Infants &amp; Toddlers</a></li>
+                      <li><a href="/jackets-coats">Jackets &amp; Coats</a></li>
+                    </ul>
+                    <ul>
+                      <li><a href="/pants">Pants</a></li>
+                      <li><a href="/polos">Polos</a></li>
+                      <li><a href="/shorts">Shorts</a></li>
+                      <li><a href="/sublimation-apparel">Sublimation Apparel</a></li>
+                      <li><a href="/sweaters-cardigans">Sweaters &amp; Cardigans</a></li>
+                      <li><a href="/sweatshirts">Sweatshirts</a></li>
+                    </ul>
+                    <ul>
+                      <li><a href="/tank-tops-sleeveless-shirts">Tank Tops &amp; Sleeveless Shirts</a></li>
+                      <li><a href="/t-shirts">T-Shirts</a></li>
+                      <li><a href="/underwear">Underwear</a></li>
+                      <li><a href="/work-shirts-button-ups">Work Shirts &amp; Button Ups</a></li>
+                      <li id="dropdown-nav-closeout"><a href="/closeout">Closeout</a></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <a id="blog" href="/blog">Blog</a>
+                </li>
+              </ul>
+            </nav><a class="header-fixed-logo" href="https://www.shirtspace.com/"></a><div class="search">
+              <form action="/search" class="search_field" method="get">
+                <input autocomplete="off" class="search_field search-input" data-role="none" name="search" placeholder="Search style, SKU, brand, etc." value=""><button class="search-submit"><i class="icon--search icon--small"></i></button>
+              </form>
+            </div><div class="header-account-navigation">
+              <span><a class="modal-sign-in" rel="nofollow" href="/users/sign_in">Sign In</a></span><span> or </span><span><a class="modal-register" rel="nofollow" href="/users/sign_up">Register </a></span><span class="new-line">for benefits</span>
+            </div>
+            <div class="header-cart-partial">
+              <div class="header-cart-container">
+                <div class="cart-summary">
+                  <a class="cart-icon" rel="nofollow" href="/cart">
+                      <div class="cart-item-count">
+                        0
+                      </div></a>
+                  <div class="total-cost">
+                    $0.00
+                  </div>
+                </div>
+                <div class="header-account-navigation">
+                  <span><a class="modal-sign-in" rel="nofollow" href="/users/sign_in">Sign In</a></span><span> or </span><span><a class="modal-register" rel="nofollow" href="/users/sign_up">Register </a></span><span class="new-line">for benefits</span>
+                </div>
+                <div class="cart-dropdown">
+                  <div class="cart-items-container">
+                    <div class="empty-cart-message">
+                      Add some items to your cart!
+                    </div>
+                  </div>
+                  <div class="cart-costs">
+                    <div class="cart-total">
+                      <span>Subtotal:&nbsp;</span><span class="emphasis">$0.00</span>
+                    </div>
+                  </div>
+                  <div class="buttons-container">
+                    <a class="primary-button" rel="nofollow" href="/cart">Proceed to Secure Checkout</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="header-mobile-icons">
+              <div class="search-icon"></div><a class="modal-sign-in account-icon" rel="nofollow" href="/users/sign_in"></a><a class="checkout cart-icon" rel="nofollow" href="/cart"></a>
+            </div>
+            <div class="header-mobile-search mobile-menu-action">
+              <div class="search">
+                <form action="/search" class="search_field" method="get">
+                  <input autocomplete="off" class="search_field search-input" data-role="none" name="search" placeholder="Search style, SKU, brand, etc." value=""><button class="search-submit"><i class="icon--search icon--small"></i></button>
+                </form>
+              </div>
+              <div class="popular-search-items">
+                <h3>
+                  Popular Search Items
+                </h3>
+                <ul>
+                  <li>
+                    <a rel="nofollow" href="/search?search=g200">Gildan G200</a>
+                  </li>
+                  <li>
+                    <a rel="nofollow" href="/search?search=fruit+of+the+loom">Fruit of the Loom</a>
+                  </li>
+                  <li>
+                    <a rel="nofollow" href="/search?search=g500">Gildan G500</a>
+                  </li>
+                  <li>
+                    <a rel="nofollow" href="/search?search=jerzees+363">Jerzees 363</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mobile-messages">
+          <div class="free-shipping">
+            <div class="image-container">
+              <div class="shipping image"></div>
+            </div>
+            <div class="text">
+              <a href="/shipping-policy">
+                    <h3>
+                      Free Shipping
+                    </h3>
+                    <p>
+                      on orders over $99
+                    </p></a>
+            </div>
+          </div>
+          <div class="free-returns">
+            <div class="image-container">
+              <div class="returns image"></div>
+            </div>
+            <div class="text">
+              <a href="/returns">
+                    <h3>
+                      Free Returns
+                    </h3>
+                    <p>
+                      on all orders
+                    </p></a>
+            </div>
+          </div>
+        </div>
+        <div id="top-notification"></div>
+      </header><main>
+        <div class="container">
+          <div class="banner-container image-banner"><span><a href="https://campaigns.shirtspace.com/hellospring">
+                <picture><source media="(max-width: 499px)" srcset="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e2f8bb07b6ef1d5d515402a40ed9c8dd193131b/Spring%20Promo%20Desktop%20Web%20Banner%20500x150.png"><source media="(min-width: 500px)" srcset="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c75eeb225880b47ca1a5f737bd7ff1ee5f29d57e/Spring%20Promo%20Desktop%20Web%20Banner%201070x80%20(3).png"><img alt="Spring Has Sprung!" src="https://d2tic578h94r8u.cloudfront.net/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c75eeb225880b47ca1a5f737bd7ff1ee5f29d57e/Spring%20Promo%20Desktop%20Web%20Banner%201070x80%20(3).png"></picture></a></span>
+          </div>
+          <article class="p-general-content__article">
+            <section class="content">
+              
+              <div class="title">
+                <div class="iubenda_legal_document"> <h1>Privacy Policy of <strong>www.shirtspace.com</strong></h1> <p>This Application collects some Personal Data from its Users.</p> <p>Users may be subject to different protection standards and broader standards may therefore apply to some. In order to learn more about the protection criteria, Users can refer to the applicability section.</p> <h2 id="owner_of_the_data">Owner and Data Controller</h2> <p>ShirtSpace<br>7509 S 5th St, Suite 113-C<br>Ridgefield WA 98642</p> <p><b>Owner contact email:</b> sales@shirtspace.com</p> <h2 id="types_of_data">Types of Data collected</h2> <p> Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies; Usage Data; email address; first name; last name; phone number; address; password; company name; state; ZIP/Postal code. </p> <p>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.<br>Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.<br>Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.<br>Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.<br>Any use of Cookies – or of other tracking tools – by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.</p> <p>Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.</p> <h2 id="place_of_processing">Mode and place of processing the Data</h2> <h3>Methods of processing</h3> <p>The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.<br>The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.</p> <h3>Legal basis of processing</h3> <p>The Owner may process Personal Data relating to Users if one of the following applies:</p> <ul> <li>Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;</li> <li>provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;</li> <li>processing is necessary for compliance with a legal obligation to which the Owner is subject;</li> <li>processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;</li> <li>processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.</li> </ul> <p>In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract. </p> <h3>Place</h3> <p>The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.<br><br> Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.</p> <p>If broader protection standards are applicable, Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.<br><br> If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.</p> <h3>Retention time</h3> <p>Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.</p> <p>Therefore:</p> <ul> <li>Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.</li> <li>Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.</li> </ul> <p>The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.<br><br> Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.</p> <h2 id="use_collected_data">The purposes of processing</h2> <p> The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Heat mapping and session recording, Managing contacts and sending messages, Contacting the User, Analytics, SPAM protection, Advertising, Registration and authentication, Handling payments and Interaction with live chat platforms. </p> <p>Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.</p> <h2 id="data_processing_detailed_info">Detailed information on the processing of Personal Data</h2> <p>Personal Data is collected for the following purposes and using the following services:</p> <h3>Advertising</h3> <p>This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.<br> This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.<br> Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.</p> <h4>Bing Ads (Microsoft Corporation)</h4> <p>Bing Ads is an advertising service provided by Microsoft Corporation.</p> <p> Personal Data collected: Cookies; Usage Data. </p> <p> Place of processing: US – <a href="https://privacy.microsoft.com/privacystatement/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://choice.microsoft.com/opt-out">Opt Out</a>. </p> <h3>Analytics</h3> <p>The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.</p> <h4>Facebook Ads conversion tracking (Facebook pixel) (Facebook, Inc.)</h4> <p>Facebook Ads conversion tracking (Facebook pixel) is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on this Application. The Facebook pixel tracks conversions that can be attributed to ads on Facebook, Instagram and Audience Network.</p> <p> Personal Data collected: Cookies; Usage Data. </p> <p> Place of processing: US – <a href="https://www.facebook.com/about/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>. Privacy Shield participant. </p> <h4>Google Analytics (Google Inc.)</h4> <p>Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.<br> Google may use the Data collected to contextualize and personalize the ads of its own advertising network.</p> <p> Personal Data collected: Cookies; Usage Data. </p> <p> Place of processing: US – <a href="https://www.google.com/intl/en/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> – <a href="https://tools.google.com/dlpage/gaoptout?hl=en" onclick="javascript:return tryFunc('tryGaOptOut',{href:'https://tools.google.com/dlpage/gaoptout?hl=en'})" target="_blank">Opt Out</a>. </p> <h4>Google Ads conversion tracking (Google Inc.)</h4> <p>Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on this Application.</p> <p> Personal Data collected: Cookies; Usage Data. </p> <p> Place of processing: US – <a href="https://www.google.com/intl/en/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>. Privacy Shield participant. </p> <h3>Contacting the User</h3> <h4>Mailing list or newsletter (This Application)</h4> <p>By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.</p> <p> Personal Data collected: email address; first name; last name. </p> <h4>Contact form (This Application)</h4> <p>By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.</p> <p> Personal Data collected: email address; first name; last name; phone number. </p> <h3>Handling payments</h3> <p>Payment processing services enable this Application to process payments by credit card, bank transfer or other means. To ensure greater security, this Application shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction.<br> Some of these services may also enable the sending of timed messages to the User, such as emails containing invoices or notifications concerning the payment.</p> <h4>Braintree (PayPal Inc.)</h4> <p>Braintree is a payment service provided by Braintree, a division of PayPal, Inc.</p> <p> Personal Data collected: various types of Data as specified in the privacy policy of the service. </p> <h4>PayPal (PayPal Inc.)</h4> <p>PayPal is a payment service provided by PayPal Inc., which allows Users to make online payments.</p> <p> Personal Data collected: various types of Data as specified in the privacy policy of the service. </p> <h3>Heat mapping and session recording</h3> <p>Heat Mapping services are used to display the areas of a page where Users most frequently move the mouse or click. This shows where the points of interest are. These services make it possible to monitor and analyze web traffic and keep track of User behavior.<br> Some of these services may record sessions and make them available for later visual playback.</p> <h4>Inspectlet (Inspectlet Inc.)</h4> <p>Inspectlet is a session recording and heat mapping service provided by Inspectlet Inc.</p> <p> Personal Data collected: Cookies; Usage Data. </p> <p> Place of processing: US – <a href="https://www.inspectlet.com/legal#privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>. </p> <h4>Crazy Egg (Crazyegg)</h4> <p>Crazy Egg is a heat mapping service provided by Crazy Egg, Inc.</p> <p> Personal Data collected: Cookies; Usage Data. </p> <p> Place of processing: US – <a href="https://www.crazyegg.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>. </p> <h3>Interaction with live chat platforms</h3> <p>This type of service allows Users to interact with third-party live chat platforms directly from the pages of this Application, for contacting and being contacted by this Application support service.<br> If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service. Moreover, live chat conversations may be logged.</p> <h4>Freshchat Widget (Freshworks, Inc.)</h4> <p>The Freshchat Widget is a service for interacting with the Freshchat live chat platform provided by Freshworks, Inc.</p> <p> Personal Data collected: Cookies; email address; Usage Data. </p> <p> Place of processing: United States – <a href="https://www.freshworks.com/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>. </p> <h3>Managing contacts and sending messages</h3> <p>This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.<br> These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.</p> <h4>Mailchimp (The Rocket Science Group, LLC.)</h4> <p>Mailchimp is an email address management and message sending service provided by The Rocket Science Group, LLC.</p> <p> Personal Data collected: email address. </p> <p> Place of processing: US – <a href="https://mailchimp.com/legal/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>. Privacy Shield participant. </p> <h3>Registration and authentication</h3> <p>By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.<br> Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third party services, for registration or identification purposes.</p> <h4>Direct registration (This Application)</h4> <p>The User registers by filling out the registration form and providing the Personal Data directly to this Application.</p> <p> Personal Data collected: address; company name; email address; first name; last name; password; phone number; state; ZIP/Postal code. </p> <h3>SPAM protection</h3> <p>This type of service analyzes the traffic of this Application, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.</p> <h4>Google reCAPTCHA (Google Inc.)</h4> <p>Google reCAPTCHA is a SPAM protection service provided by Google Inc.</p> <p> Personal Data collected: Cookies; Usage Data. </p> <p> Place of processing: US – <a href="https://www.google.com/intl/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>. </p> <h2>The rights of Users</h2> <p>Users may exercise certain rights regarding their Data processed by the Owner.</p> <p>Users entitled to broader protection standards may exercise any of the rights described below. In all other cases, Users may inquire with the Owner to find out which rights apply to them.</p> <p>In particular, Users have the right to do the following:</p> <ul> <li><b>Withdraw their consent at any time.</b> Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.</li> <li><b>Object to processing of their Data.</b> Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.</li> <li><b>Access their Data.</b> Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.</li> <li><b>Verify and seek rectification.</b> Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.</li> <li><b>Restrict the processing of their Data.</b> Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it. </li> <li><b>Have their Personal Data deleted or otherwise removed.</b> Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.</li> <li><b>Receive their Data and have it transferred to another controller.</b> Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User's consent, on a contract which the User is part of or on pre-contractual obligations thereof.</li> <li><b>Lodge a complaint.</b> Users have the right to bring a claim before their competent data protection authority.</li> </ul> <h3>Details about the right to object to processing</h3> <p>Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.</p> <p>Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. </p> <h3>How to exercise these rights</h3> <p>Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.</p> <h2>Applicability of broader protection standards</h2> <p>While most provisions of this document concern all Users, some provisions expressly only apply if the processing of Personal Data is subject to broader protection standards.</p> <p>Such broader protection standards apply when the processing:</p> <ul> <li>is performed by an Owner based within the EU;</li> <li>concerns the Personal Data of Users who are in the EU and is related to the offering of paid or unpaid goods or services, to such Users;</li> <li>concerns the Personal Data of Users who are in the EU and allows the Owner to monitor such Users’ behavior taking place in the EU.</li> </ul> <h2 id="further_data_processing_info">Additional information about Data collection and processing</h2> <h3>Legal action</h3> <p> The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.<br>The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities. </p> <h3>Additional information about User's Personal Data</h3> <p> In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request. </p> <h3>System logs and maintenance</h3> <p> For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) use other Personal Data (such as the IP Address) for this purpose. </p> <h3>Information not contained in this policy</h3> <p> More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document. </p> <h3>How “Do Not Track” requests are handled</h3> <p> This Application does not support “Do Not Track” requests.<br>To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies. </p> <h3>Changes to this privacy policy</h3> <p> The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Application and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. <br><br> Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required. </p> <h3> Definitions and legal references </h3> <h4>Personal Data (or Data)</h4> <p>Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.</p> <h4>Usage Data</h4> <p>Information collected automatically through this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.</p> <h4>User</h4> <p>The individual using this Application who, unless otherwise specified, coincides with the Data Subject.</p> <h4>Data Subject</h4> <p>The natural person to whom the Personal Data refers.</p> <h4>Data Processor (or Data Supervisor)</h4> <p>The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.</p> <h4>Data Controller (or Owner)</h4> <p>The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.</p> <h4> This Application </h4> <p>The means by which the Personal Data of the User is collected and processed.</p> <h4>Service</h4> <p>The service provided by this Application as described in the relative terms (if available) and on this site/application.</p> <h4>European Union (or EU) </h4> <p>Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area. </p> <h4>Cookies</h4> <p>Small piece of data stored in the User's device.</p> <h4>Legal information</h4> <p>This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).</p> <p>This privacy policy relates solely to this Application, if not stated otherwise within this document.</p> <p> Latest update: May 08, 2018 </p> </div> <!-- /iubenda_legal_document --> <script type="text/javascript"> window.tryFunc = function(fName,args){ if(typeof window[fName]==='function'){ window[fName](args); }else{ if(args){ /* default behaviour is link */ if(args.href){ /* default link is target='_blank' */ window.open(args.href) } } } return false; /* inhibit default behaviour */ } </script> <script type="text/javascript"> window.tryGaOptOut = function(args){ /* gaOptout should have been defined by host */ if(typeof(gaOptout)=='function'){ gaOptout(); alert('Opt-out OK'); /* give feedback to user that opt-out has been performed */ }else if(typeof(gaOptOut)=='function'){ gaOptOut(); alert('Opt-out OK'); /* give feedback to user that opt-out has been performed */ }else{ /* gaOptOut is not defined. Just open args.href in another window (default behaviour) */ if(args){ if(args.href){ window.open(args.href); } } } } </script>
+              </div>
+            </section>
+            <aside class="p-general-content__sidebar">
+              <section class="p-sidebar__section p-sidebar__section--call-us">
+                <i class="icon-phone"></i>
+                <h3 class="p-sidebar__head">
+                  Want to talk?
+                </h3>
+                <h5 class="p-sidebar__subhead">
+                  Give us a ring!
+                </h5>
+                <span><a href="tel:(877) 285-7606">(877) 285-7606</a></span>
+                <h5 class="p-sidebar__subhead">
+                  Fax us:
+                </h5>
+                <span>(866) 327-2831</span>
+              </section>
+              <section class="p-sidebar__section p-sidebar__section--visit-us">
+                <i class="icon-map-marker"></i>
+                <h3 class="p-sidebar__head">
+                  Need our address?
+                </h3>
+                <h5 class="p-sidebar__subhead">
+                  Mail can be sent to:
+                </h5>
+                <span>7509 S 5th St<br>Suite 113-C<br>Ridgefield, WA 98642</span>
+              </section>
+            </aside>
+          </article>
+          <div class="clear"></div>
+          <span class="back-to-top scroll" data-scrollto="#master">Back to<br>Top</span>
+        </div>
+      </main><footer>
+        <div class="cards">
+          <div class="container">
+            <div class="badge card image--deferred paypal">
+              PayPal
+            </div>
+            <div class="badge card image--deferred visa">
+              Visa
+            </div>
+            <div class="badge card image--deferred amex">
+              American Express
+            </div>
+            <div class="badge card image--deferred discover">
+              Discover
+            </div>
+            <div class="badge card image--deferred mastercard">
+              MasterCard
+            </div>
+            <div class="badge bbb">
+              <div id="bbb-wrapper">
+                <a class="ruhzbus" href="https://www.bbb.org/us/wa/ridgefield/profile/embroidery/all-about-apparel-inc-1296-22538232#bbbsea" id="bbblink" rel="noopener" style="display: block;position: relative;overflow: hidden; width: 100px; height: 45px; margin: 0px auto; padding: 0px;" target="_blank" title="All About Apparel Inc, Embroidery, Ridgefield, WA"><div class="image--deferred" data-src="https://d2tic578h94r8u.cloudfront.net/assets/all-about-apparel-bc062bd1dbc0d2386a117a9b290bece2652739f49354cfbf58f704ddc522d732.png" data-alt="All About Apparel Inc, Embroidery, Ridgefield, WA"><noscript><img id="bbblinkimg" alt="All About Apparel Inc, Embroidery, Ridgefield, WA" src="https://d2tic578h94r8u.cloudfront.net/assets/all-about-apparel-bc062bd1dbc0d2386a117a9b290bece2652739f49354cfbf58f704ddc522d732.png" /></noscript></div></a>
+              </div>
+            </div>
+            <div class="badge ssl"><a target="_blank" rel="noopener" href="//instantssl.com/ssl.html">
+                      <div class="image--deferred" data-src="https://d2tic578h94r8u.cloudfront.net/assets/comodo-secure-53e7eef318d36fcb75249393aa02adc14ff99f3477d65c867b94daa8990820c7.png" data-alt="Instant SSL"><noscript><img alt="Instant SSL" src="https://d2tic578h94r8u.cloudfront.net/assets/comodo-secure-53e7eef318d36fcb75249393aa02adc14ff99f3477d65c867b94daa8990820c7.png" /></noscript></div></a>
+            </div>
+            <div class="card">
+              <script nonce="">
+              //<![CDATA[
+              
+                <!-- BEGIN: Google Trusted Stores -->
+                  var gts = gts || [];
+              
+                  var script_nonce = document.querySelector("meta[name='csp-nonce']").getAttribute('content');
+                  gts.push(["id", "296228"]);
+                  gts.push(["locale", "en_US"]);
+              
+                    gts.push(["google_base_offer_id", "859"]);
+              
+                  gts.push(["google_base_subaccount_id", "101215812"]);
+                  gts.push(["google_base_country", "US"]);
+                  gts.push(["google_base_language", "en"]);
+              
+                  (function() {
+                    var gts = document.createElement("script");
+                    gts.type = "text/javascript";
+                    gts.defer = true;
+                    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+                    gts.nonce = script_nonce;
+                    var s = document.getElementsByTagName("script")[0];
+                    s.parentNode.insertBefore(gts, s);
+                  })();
+              
+              //]]>
+              </script>  <!-- END: Google Trusted Stores -->
+              
+            </div>
+          </div>
+        </div>
+        <div class="email-subscription">
+          <div class="container">
+            <form novalidate="novalidate" class="simple_form subscription" action="/subscribe" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓"><div class="content-container">
+              Sign up to receive news and special offers.
+            </div>
+            <div class="field-container string required subscription_email_address"><div class="field"><input class="string required" placeholder="Email Address" type="text" name="subscription[email_address]" id="subscription_email_address"></div></div>
+            <div class="validation-error-tooltip">
+              Please enter a valid email address.
+            </div>
+            <div class="buttons-container">
+              <button name="button" type="submit" class="sign-up secondary-button">Sign Up</button>
+            </div></form>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <div class="footer-main">
+          <div class="container">
+            <div class="contact">
+              <div class="wrapper">
+                <div class="image--deferred" data-src="https://d2tic578h94r8u.cloudfront.net/assets/logo-main-2-header-6c50de2fe6f74c1cd014a5aa1de575b999a99b375139000c106133697f2e4de7.png" data-alt="ShirtSpace"><noscript><img alt="ShirtSpace" src="https://d2tic578h94r8u.cloudfront.net/assets/logo-main-2-header-6c50de2fe6f74c1cd014a5aa1de575b999a99b375139000c106133697f2e4de7.png" /></noscript></div>
+                <div class="view-full-site">
+                  View full site
+                </div>
+                <p class="phone">
+                  <a href="tel:(877) 285-7606">(877) 285-7606</a>
+                </p>
+                <p class="working-hours">
+                  7-5:00 PST, 5 Days a Week
+                </p>
+                <p class="heading">
+                  Join The Conversation
+                </p>
+                <p class="social">
+                  <a target="_blank" rel="noopener" class="icon state--preload" href="https://www.facebook.com/shirtspacetees"><svg class="all-icon icon--facebook" viewBox="0 0 30 30"><use class="icon__src" xlink:href="#icon--facebook"></use></svg></a><a target="_blank" rel="noopener" class="icon state--preload" href="https://twitter.com/shirtspacetees"><svg class="all-icon icon--twitter" viewBox="0 0 30 30"><use class="icon__src" xlink:href="#icon--twitter"></use></svg></a><a target="_blank" rel="noopener" class="icon state--preload" href="https://instagram.com/shirtspace"><svg class="all-icon icon--instagram" viewBox="0 0 30 30"><use class="icon__src" xlink:href="#icon--instagram"></use></svg></a><a target="_blank" rel="noopener" class="icon state--preload" href="https://www.youtube.com/channel/UCxF_nPMxCsNCAH94S2nm25Q"><svg class="all-icon icon--youtube" viewBox="0 0 30 30"><use class="icon__src" xlink:href="#icon--youtube"></use></svg></a>
+                </p>
+              </div>
+            </div>
+            <div class="links">
+              <div class="popular-categories">
+                <div class="wrapper">
+                  <h3>
+                    Popular Categories
+                  </h3>
+                  <ul>
+                    <li>
+                      <a href="/t-shirts">T-Shirts</a>
+                    </li>
+                    <li>
+                      <a href="/sweatshirts">Sweatshirts</a>
+                    </li>
+                    <li>
+                      <a href="/polos">Polos</a>
+                    </li>
+                    <li>
+                      <a href="/pants">Pants</a>
+                    </li>
+                    <li>
+                      <a href="/infants-toddlers">Infants &amp; Toddlers</a>
+                    </li>
+                    <li>
+                      <a href="/athletic-apparel">Athletic Apparel</a>
+                    </li>
+                    <li>
+                      <a href="/tank-tops-sleeveless-shirts">Tank Tops &amp; Sleeveless Shirts</a>
+                    </li>
+                    <li>
+                      <a href="/shorts">Shorts</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/categories">» See More</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="popular-brands">
+                <div class="wrapper">
+                  <h3>
+                    Popular Brands
+                  </h3>
+                  <ul>
+                    <li>
+                      <a href="/gildan">Gildan</a>
+                    </li>
+                    <li>
+                      <a href="/next-level">Next Level</a>
+                    </li>
+                    <li>
+                      <a href="/bella-canvas">Bella + Canvas</a>
+                    </li>
+                    <li>
+                      <a href="/anvil">Anvil</a>
+                    </li>
+                    <li>
+                      <a href="/fruit-of-the-loom">Fruit of the Loom</a>
+                    </li>
+                    <li>
+                      <a href="/jerzees">Jerzees</a>
+                    </li>
+                    <li>
+                      <a href="/hanes">Hanes</a>
+                    </li>
+                    <li>
+                      <a href="/comfort-colors">Comfort Colors</a>
+                    </li>
+                    <li>
+                      <a href="/rabbit-skins">Rabbit Skins</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/brands">» See More</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="customer-service">
+                <div class="wrapper">
+                  <h3>
+                    Customer Service
+                  </h3>
+                  <ul>
+                    <li>
+                      <a href="https://www.shirtspace.com/users/sign_up">Create An Account</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/contact-us">Contact Us</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/shipping-policy">Shipping Policy</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/about-us">About Us</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/faq">FAQ</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/glossary-of-terms">Glossary of Terms</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/returns">Return Policy</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/privacy-policy">Privacy Policy</a>
+                    </li>
+                    <li>
+                      <a href="https://www.shirtspace.com/reviews">ShirtSpace.com Reviews</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <div class="footer-meta">
+          <div class="container">
+            <p>
+              © 2019 Shirtspace.com All Rights Reserved.
+            </p>
+          </div>
+        </div>
+        <link rel="stylesheet" media="all" href="https://d2tic578h94r8u.cloudfront.net/assets/application-f41733bbbfd8a874405825297f1220273a4adba352eba28e28c0bd73b1f58915.css"><link rel="stylesheet" media="all" href="https://d2tic578h94r8u.cloudfront.net/assets/pages-aa062bc6e70702732e4d1676d31444aec4b4c4c2133e9492bff6264c01946fc5.css"><link rel="stylesheet" media="print" href="https://d2tic578h94r8u.cloudfront.net/assets/print-63df483a1b9de767794a253ac1e951ff887aab6618f923d99df070a125a9c31c.css"><script src="//cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js" nonce=""></script><script src="https://d2tic578h94r8u.cloudfront.net/assets/application-6a6dad0b29af017f40c9bec6893133b5ab2f36aa47569a041904bcd113e7dc3f.js"></script>
+      </footer>
+    </div>
+    
+  
+<script nonce="" src="https://device.maxmind.com/js/device.js"></script></body></html>
