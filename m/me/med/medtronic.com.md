@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628185429id_/http%3A//www.medtronic.com/us-en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420191921id_/https%3A//www.medtronic.com/us-en/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,7 +23,7 @@ Non-personal information is information we collect through this website that doe
   * the Internet address of the website from which you linked directly to our website
   * the date and time you access our website
   * the geographic location of the server you use to access our website
-  * which pages you have visited on our website  **(note: U.S. healthcare providers, please see the "uses of personal information" described below)**
+  * which pages you have visited on our website  **(note: U.S. healthcare providers, please see the 'uses of personal information' described below)**
   * the search terms you use
   * the links on which you click
   * personal information that has been made non-personal or anonymized (i.e., information that no longer reflects or references an individually identifiable user)
@@ -41,7 +41,7 @@ Because non-personal information cannot identify you or be tied to you in any wa
   * create reports for internal use to develop programs, products, services or content
   * customize the information or services that are of interest to you
   * share it with or sell it to third parties
-  * provide aggregated information on how visitors use our site, such as "traffic statistics" and "response rates," to third parties
+  * provide aggregated information on how visitors use our site, such as 'traffic statistics' and 'response rates,' to third parties
 
 
 
@@ -49,9 +49,9 @@ Because non-personal information cannot identify you or be tied to you in any wa
 
 The information collected on Medtronic's behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information.
 
-### California "Do Not Track" disclosures
+### California 'Do Not Track' disclosures
 
-California law (CalOPPA) requires Medtronic, plc to let you know how we respond to web browser "Do Not Track (DNT) signals". Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not honor Do Not Track requests at this time.
+California law (CalOPPA) requires Medtronic, plc to let you know how we respond to web browser 'Do Not Track (DNT) signals'. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not honor Do Not Track requests at this time.
 
 ### Choices about online tracking and opt-out options
 
