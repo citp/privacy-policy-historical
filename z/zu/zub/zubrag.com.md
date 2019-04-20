@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zubrag.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111122634id_/http%3A//www.zubrag.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zubrag.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420204933id_/http%3A//www.zubrag.com/policy.php) for the most accurate reproduction.*
 
 # :: Privacy Policy
 
