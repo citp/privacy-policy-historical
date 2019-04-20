@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperdenim.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191006id_/https%3A//hyperdenim.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperdenim.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420114003id_/https%3A//hyperdenim.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HYPER DENIM
 
@@ -79,5 +79,5 @@ QUESTIONS AND CONTACT INFORMATION
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@hyperdenim.com or by mail at  
 HYPER DENIM  
 [Re: Privacy Compliance Officer]  
-1250 E 223rd St. ste 103 CARSON, CA 90745  
+1504 W 228th St A Torrance, CA 90501  
 \---- 
