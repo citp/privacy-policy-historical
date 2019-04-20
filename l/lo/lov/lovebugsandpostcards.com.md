@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovebugsandpostcards.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606044251id_/http%3A//www.lovebugsandpostcards.com/getting-started/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovebugsandpostcards.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420063529id_/https%3A//www.lovebugsandpostcards.com/getting-started/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lovebugs and Postcards
 
