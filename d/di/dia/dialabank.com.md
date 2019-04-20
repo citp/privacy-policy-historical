@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialabank.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204100123id_/http%3A//www.dialabank.com/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialabank.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420202524id_/https%3A//www.dialabank.com/policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Dialabank
 
