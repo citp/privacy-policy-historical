@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodybyvi.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218220833id_/http%3A//visalus.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodybyvi.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420091647id_/http%3A//visalus.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Body by Vi 90-Day Challenge
 
