@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228072034id_/https%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420215522id_/https%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy
+# Privacy Policy
 
-[www.diabetes.co.uk](https://web.archive.org/web/20181228072034id_/https%3A//www.diabetes.co.uk/index.html), our Diabetes Forum and Diabetes Recipe mobile apps (each of and together the “ **Sites** ”) is owned and operated by **Diabetes Digital Media Limited** of Technology House, Sir William Lyons Road, University of Warwick Science Park, Coventry, CV4 7EZ (" **we** ”, “ **us** ”, “ **our** ").
+[www.diabetes.co.uk](https://web.archive.org/web/20190420215522id_/https%3A//www.diabetes.co.uk/index.html), our Diabetes Forum and Diabetes Recipe mobile apps (each of and together the “ **Sites** ”) is owned and operated by **Diabetes Digital Media Limited** of Technology House, Sir William Lyons Road, University of Warwick Science Park, Coventry, CV4 7EZ (" **we** ”, “ **us** ”, “ **our** ").
 
-We are committed to protecting and respecting your privacy and this Privacy Policy (together with our [Terms and Conditions](https://web.archive.org/web/20181228072034id_/https%3A//www.diabetes.co.uk/disclaimer.html) and any other documents referred to therein) sets out how we process the personal data of each visitor and customer (resident in the European Union) to the Sites, where such personal data is provided to us through any of the Sites, via email communication and any branded pages on third party platforms (such as Facebook or YouTube). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+We are committed to protecting and respecting your privacy and this Privacy Policy (together with our [Terms and Conditions](https://web.archive.org/web/20190420215522id_/https%3A//www.diabetes.co.uk/disclaimer.html) and any other documents referred to therein) sets out how we process the personal data of each visitor and customer (resident in the European Union) to the Sites, where such personal data is provided to us through any of the Sites, via email communication and any branded pages on third party platforms (such as Facebook or YouTube). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 **By ticking the box where indicated on the Sites, submitting your personal data to us, and using our services you agree to the terms and practices described in this Privacy Policy.**
 
-For the purpose of the Data Protection Act 1998, the data controller is Diabetes Digital Media Limited with registration number Z3613413.
+For the purpose of data protection law, the data controller is Diabetes Digital Media Limited with registration number Z3613413.
 
-If you have any questions about this Privacy Policy, please contact [contact@diabetes.co.uk](mailto:contact@diabetes.co.uk). We may amend this Privacy Policy at any time. Any changes we may make will be posted on this page, so please check back frequently. Your continued use of the Website and our services after posting will constitute your acceptance of, and agreement to, any changes. 
+If you have any questions about this Privacy Policy, please contact [help@ddmhealth.zendesk.com](mailto:help@ddmhealth.zendesk.com). We may amend this Privacy Policy at any time. All changes we make will be posted on this page and you will be notified of any changes by email and within our Sites and services. Your continued use of the Website, our Sites and our services after posting and receiving the update notice will constitute your acceptance of, and agreement to, any changes. 
 
-## 1\. What is personally identifiable information (pii) / personal data?
+## 1\. What is Personally Identifiable Information (PII) / personal data?
 
 Personal data or PII means any information relating to a person who can be identified either directly or indirectly by that information; it may include name, address, email address, phone number, credit / debit card number, IP address, location data, purchase history (“Personal Data”). 
 
@@ -31,9 +31,11 @@ Personal data or PII means any information relating to a person who can be ident
 
 
 
-**Information we collect about you** \- When you visit the Sites we may automatically collect information about your computer or device, including your IP address, information about your visit, your browsing history, and how you use the Sites. This information may be combined with other information you provide to us, as described above.
+**Information we collect about you** \- When you visit the Sites we will request your consent to collect information about your computer or device, including your IP address, information about your visit, your browsing history, and how you use the Sites. This information may be combined with other information you provide to us, as described above.
 
 **Information we receive from other sources** \- We are also working closely with third parties (including, for example, business partners, advertising networks, analytics providers, and search information providers) and may receive information about you from them. This may be combined with other information you provide to us, as described above.
+
+**Sensitive personal data we collect about you** \- When you sign up to the Sites we may ask you to share information about your HbA1c, weight, type of diabetes, whether you test your blood and your blood glucose meter. This information is used to personalise your experience on the Website and Services, including tailoring the information, education, downloads, and free giveaways that you see.
 
 **2.2.** Please note you have the option of what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated e-mails from us.
 
@@ -41,7 +43,7 @@ Personal data or PII means any information relating to a person who can be ident
 
 **3.1.** You may choose to opt in to receiving our newsletter, either directly through the “Join the Diabetes Newsletter” page, by entering a competition, submitting a (travel insurance or life insurance) quote request or when you complete a free meter enquiry form on our Website. If you choose to opt in you will receive related newsletters from us via email to your registered email address. If you do not wish to be added to our newsletter database please do not opt in.
 
-**3.2.** In order to unsubscribe from our newsletter please select the “unsubscribe” option in your welcome email (or any subsequent newsletter emails). Please note this is an automated service and as such we cannot be responsible for any errors which may occur in submitting your unsubscription request. Please contact us at [contact@diabetes.co.uk](mailto:contact@diabetes.co.uk) if you require any assistance with unsubscribing from our newsletter.
+**3.2.** In order to unsubscribe from our newsletter please select the “unsubscribe” option in your welcome email (or any subsequent newsletter emails). Please note this is an automated service and as such we cannot be responsible for any errors which may occur in submitting your unsubscription request. Please contact us at [help@ddmhealth.zendesk.com](mailto:help@ddmhealth.zendesk.com) if you require any assistance with unsubscribing from our newsletter.
 
 ## 4\. Medical information
 
@@ -69,7 +71,7 @@ You should be aware that information captured via our Sites may be viewed by our
   * **Resolving any disputes** , if you lawfully exercise your rights or if you wish to dispute any part of our service offering; 
   * **Sending you personalised marketing communications** , where you have agreed that we may do so, in order to keep you informed of our products and services, as well as those of our selected partners’ and Providers’, which we (or they) consider may be of interest to you;
   * **Providing you, or allow carefully selected third parties to provide you, with information about products or services** , that may interest you;
-  * **Serving personalised advertising to your devices** ; delivering ads based on your interests ascertained from your past requests, visits of subpages and purchases on third party websites, and other data obtained through the use of "cookies" placed on your devices. Please see our Cookie Policy;
+  * **Serving personalised advertising to your devices** ; delivering ads based on your interests ascertained from your past requests, visits of subpages and purchases on third party websites, and other data obtained through the use of "cookies" placed on your devices. Please see our [Cookies Policy](https://web.archive.org/web/20190420215522id_/https%3A//www.diabetes.co.uk/cookie-policy.html);
   * **Ensuring the security of your account and our business, preventing or detecting fraud or abuses of our Sites** , for example, by requesting verification information in order to reset your account password (if applicable);
   * **Developing and improving our products and services** , for example, by reviewing visits to the Sites and its various subpages, demand for specific products and services and user comments;
   * **To administer the Sites and for internal business administration and operations** , including troubleshooting, data analysis, testing, research, statistical and survey purposes;
@@ -81,8 +83,6 @@ You should be aware that information captured via our Sites may be viewed by our
 
 **5.2.** Your consent, as the “Data Subject”, to the processing as specified in this Policy is the primary legal ground for our processing of your Personal Data. However, there may be circumstances where we may also rely on other valid legal grounds for the processing of your Personal Data, such as:
 
-  * Your request for content, products or services necessitating steps including processing of your Personal Data to be taken prior to entering into contract with you and any processing that is necessary for the performance of such contract; 
-  * Legitimate interests we pursue as a business, except where such interests are overridden by your interests and fundamental rights; and
   * Compliance with any legal obligation to which we are subject, such as, for example, the processing for the purposes of complying with applicable law.
 
 
@@ -98,7 +98,7 @@ There are circumstances where we wish to disclose or are compelled to disclose y
   * If you register to take part in a clinical trial, to the responsible clinical research organisation(s);
   * Our selected marketing agents, where you submit testimonials about us and/or the Sites, in order for those agents to publish such testimonials via various media (which may include online and printed publications and/or film);
   * Our advertising partners who enable us to deliver personalised ads to your devices or similar advertising;
-  * Subject to your consent, to our marketing partners, who may contact you by post, email, telephone, SMS or by other means. If you do not wish to be contacted, you may unsubscribe by notifying us at [contact@diabetes.co.uk](mailto:contact@diabetes.co.uk) by clicking “unsubscribe” in the message concerned;
+  * Subject to your consent, to our marketing partners, who may contact you by post, email, telephone, SMS or by other means. If you do not wish to be contacted, you may unsubscribe by notifying us at [help@ddmhealth.zendesk.com](mailto:help@ddmhealth.zendesk.com) by clicking “unsubscribe” in the message concerned;
   * Analytics and search engine providers that assist us in the improvement and optimisation of the Sites. Your Personal Data is generally shared in a form that does not directly identify you;
   * Third party analytics providers that assist us in establishing trends amongst our users based on the information you provide to us and generating associated content (for example, news articles and/or social media posts); 
   * Selected third party service providers in order to share the statistical and analytical information generated above, in an anonymised and aggregated format only;
@@ -112,7 +112,7 @@ There are circumstances where we wish to disclose or are compelled to disclose y
 
 ## 7\. International transfer of personal data
 
-We may transfer your Personal Data to a third party in countries outside the country in which it was originally collected for further processing in accordance with the purposes set out above. In particular, your Personal Data may be transferred throughout our group and to our outsourced service providers located abroad. In these circumstances we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate technical, organisation, contractual or other lawful means. Please contact [contact@diabetes.co.uk](mailto:contact@diabetes.co.uk) for a copy of the safeguards which we have put in place to protect your Personal Data and privacy rights in these circumstances. 
+We may transfer your Personal Data to a third party in countries outside the country in which it was originally collected for further processing in accordance with the purposes set out above. In particular, your Personal Data may be transferred throughout our group and to our outsourced service providers located abroad. In these circumstances we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate technical, organisation, contractual or other lawful means. Please contact [help@ddmhealth.zendesk.com](mailto:help@ddmhealth.zendesk.com) for a copy of the safeguards which we have put in place to protect your Personal Data and privacy rights in these circumstances. 
 
 ## 8\. Retention of personal data
 
@@ -120,13 +120,13 @@ We may transfer your Personal Data to a third party in countries outside the cou
 
 **8.2.** We may keep an anonymised form of your Personal Data, which will no longer refer to you, for statistical purposes without time limits, to the extent that we have a legitimate and lawful interest in doing so.
 
-**8.3.** Please contact us at [contact@diabetes.co.uk](mailto:contact@diabetes.co.uk) if you would further details about our data retention periods. 
+**8.3.** Please contact us at [help@ddmhealth.zendesk.com](mailto:help@ddmhealth.zendesk.com) if you would further details about our data retention periods. 
 
 ## 9\. Data subject rights 
 
 **9.1.** Data protection law provides Data Subjects with numerous rights, including the right to: access, rectify, erase, restrict, transport, and object to the processing of, their Personal Data. Data Subjects also have the right to lodge a complaint with the relevant data protection authority if they believe that their Personal Data is not being processed in accordance with applicable data protection law. 
 
-  * **Right to make subject access request (SAR).** Data Subjects may, where permitted by applicable law, request copies of their Personal Data. If you would like to make a SAR, i.e. a request for copies of the Personal Data we hold about you, you may do so by writing to contact@diabetes.co.uk whose contact details are above. The request should make clear that a SAR is being made. You may also be required to submit a proof of your identity and a fee. 
+  * **Right to make subject access request (SAR).** Data Subjects may, where permitted by applicable law, request copies of their Personal Data. If you would like to make a SAR, i.e. a request for copies of the Personal Data we hold about you, you may do so by writing to help@ddmhealth.zendesk.com whose contact details are above. The request should make clear that a SAR is being made. You may also be required to submit a proof of your identity and a fee. 
   * **Right to rectification.** You may request that we rectify any inaccurate and/or complete any incomplete Personal Data. 
   * **Right to withdraw consent.** You may, as permitted by applicable law, withdraw your consent to the processing of your Personal Data at any time. Such withdrawal will not affect the lawfulness of processing based on your previous consent. Please note that if you withdraw your consent, you may not be able to benefit certain service features for which the processing of your Personal Data is essential. 
   * **Right to object to processing** , including automated processing and profiling. You may, as permitted by applicable law, request that we stop processing your Personal Data. In relation to automated processing and profiling, you may object to the processing and you will have the right to obtain human intervention.
@@ -142,45 +142,6 @@ The Sites may, from time to time, contain links to and from the websites of our 
 
 ## 11\. Contact
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [contact@diabetes.co.uk](mailto:contact@diabetes.co.uk). 
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [help@ddmhealth.zendesk.com](mailto:help@ddmhealth.zendesk.com). 
 
-## Cookies Policy
-
-## 1\. Our use of cookies
-
-**1.1.** [www.diabetes.co.uk](https://web.archive.org/web/20181228072034id_/https%3A//www.diabetes.co.uk/index.html), our Diabetes Forum and Diabetes Recipe mobile apps (the “ **Sites** ”) uses cookies, which are small text files stored on a user’s computer by their web browser. **DIABETES DIGITAL MEDIA LIMITED** (“ **we** ”, “ **us** ”, “ **our** ”) uses cookies to store information about your preferences, speed up your searches, recognise you when you return to our Sites and estimate our audience size and usage pattern (and branded pages on third party platforms (such as Facebook or YouTube)). For details on the specific categories of our cookies and what they are used for please see below.
-
-**1.2.** You may delete and block all cookies from our Sites by changing your browser settings to refuse the setting of all or some cookies. Making this change may affect the functionality of our Sites and you may not be able to access all or parts of the Sites.
-
-**By continuing to browse our Sites you are agreeing to our use of cookies.**
-
-## 2\. Our cookies 
-
-**2.1. Strictly necessary cookies**
-
-These are cookies that are required for the operation of our Sites for example, cookies that enable you to log into secure areas of our Sites or use the shopping basket. These include: ASPSESSIONIDASATTARQ which is used to track your session, __support_check which is used by the Sites to store cached images and expires at the end of each session, open-panel which is used by the Diabetes Forum and expires in 7 days, sfnDSCookie which is used by the Diabetes Shop to store your session and style_cookie which is used to identify what style you are using on the Diabetes Forum.
-
-**2.2. Tracking cookies and pixels**
-
-  * Tracking cookies are used to provide information on the pages that are viewed. This information is anonymous, not shared with anyone else and used on our Sites. Tracking cookies set from our Sites will be predominantly from Google Analytics and Hitslink.
-  * Tracking pixels may also be set in emails and banner display advertising to monitor the number of times that an email or banner has been seen. They are not used for any other purpose.
-  * Cookies may occasionally be used to display some users’ surveys or different versions of a page. We then use analytics to identify which version of a page provides a better user experience.
-  * Cookies may also be set to see how well certain banners ads are received. This helps to identify how many times an advertisement has been seen, clicked on or downloaded. 
-  * Common cookies you may encounter on our Sites are __utma, __utmb, __utmc, __utmz, __utmv which are for Google Analytics (see the Google cookie page for more information); reg_fb_gate, reg_fb_ref which are Facebook cookies (see more about these cookies here). Cookies beginning with hellobar_ are used to show you relevant offers on pages that you are visiting and the cookie expires in 1 year.
-
-
-
-**2.3. Diabetes Community Forum cookies**
-
-  * By browsing Diabetes Forum the xenforo software will create a number of cookies. The first two cookies contain a user identifier ("user-id") and an anonymous session identifier ("session-id"), automatically assigned to you by the xenforo software. A third cookie will be created once you have browsed topics within the Diabetes Forum and is used to store which topics have been read, thereby improving your user experience.
-  * Cookies created by the Diabetes Forum will typically last 1 day unless you log out beforehand. style_cookie is a cookie that is used to determine which style you are using on the Diabetes Forum.
-
-
-
-## 3\. More information
-
-For more detailed information about cookies please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-## 4\. Contact us
-
-If you have any questions or comments about the use of cookies on our Sites please contact: [contact@diabetes.co.uk](mailto:contact@diabetes.co.uk).
+**Looking for our Cookies Policy?** It's moved - [read the Diabetes.co.uk Cookies Policy](https://web.archive.org/web/20190420215522id_/https%3A//www.diabetes.co.uk/cookie-policy.html).
