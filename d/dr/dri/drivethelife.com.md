@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the drivethelife.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214143444id_/https%3A//www.drivethelife.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivethelife.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421003141id_/https%3A//www.drivethelife.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Driver Talent
 
 Your privacy is very important to OSToto and we take it seriously. In this Privacy Policy, we’ve described what data/information we collect, how we use it and how we protect it. This privacy policy governs your use of this website, including driverthelife.com subdomain sites and the services/software available through these websites, our mobile websites. So we recommend that you read this privacy policy carefully in order to understand what OSToto does with your personal information and personal data.
 
-By visiting www.drivethelife.com, you consent to the information practices described in this statement. The terms “you”, “your”, “user” refer to our customers. The terms “we”, us”, “our” refer to OSToto.
+By visiting www.drivethelife.com, you consent to the information practices described in this statement. The terms “you”, “your”, “user” refer to our customers. The terms “we”, “us”, “our” refer to OSToto.
 
 ## What Information/Data Do We Collect
 
@@ -52,7 +52,7 @@ You may, however, disable certain tracking by modifying your browser settings. D
 
 ## Do Not Track Signals
 
-Our systems do not currently respond or take any action with respect to the browser “do-not-track” signals or requests. Your may disable certain tracking as described above such as by disabling cookies.
+Our systems do not currently respond or take any action with respect to the browser “do-not-track” signals or requests. You may disable certain tracking as described above such as by disabling cookies.
 
 ## Transferring Your Data
 
@@ -70,7 +70,7 @@ We care about children and understand that they have special privacy needs. Ther
 
 ## Contact Us, Update Your Information, Or Opt Out of Our Services
 
-If you submit incorrect information to us and want to correct and update it, or you don’t want to receive any further subscriptions and want to determinate the services we offered, or you have any privacy related questions, and in any case that you need to contact us, just contact us via the email address: contact#drivethelife.com (replace # with @)
+If you submit incorrect information to us and want to correct and update it, or you don’t want to receive any further subscriptions and want to determinate the services we offered, or you have any privacy related questions, and in any case that you need to contact us, just contact us via the email address: contact#drivethelife.com (replace # with @).
 
 ## Changes to Our Privacy Policy
 
