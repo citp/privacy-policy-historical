@@ -1,0 +1,171 @@
+> *The following text is extracted and transformed from the motorious.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420042928id_/https%3A//www.motorious.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Motorious
+
+privacy 
+
+Privacy Policy  Last updated: Jan 1, 2018 
+
+##### By using this website, you agree to be bound by this online “privacy policy” and the separate “terms of use.” You also agree to be bound by the separate buyer’s policy and/or seller’s policy as applicable. If you do not agree to this online privacy policy, do not use the website or submit personal information to us in any manner.
+
+##### SPEED DIGITAL, LLC, with its parent companies, affiliates, and subsidiaries, knows that you care about how your information is used and shared, and we appreciate the trust you place in us that we will do so carefully and sensibly. We provide you with this Privacy Policy because we want you to know how we may collect, use, share and keep information about you, and the choices that are available to you.
+
+Please don't hesitate to contact us at any time if you have any questions regarding the contents in this Privacy Policy by e-mailing [Morgan@SpeedDigital.com.](mailto:Morgan@SpeedDigital.com)
+
+##### WHEN DOES THIS PRIVACY POLICY APPLY?
+
+This Privacy Policy applies whenever we collect personal information from or about you when you access or use any of our websites, applications, content, streaming services, products, goods, equipment, services, promotions, software, technology and any other materials (collectively, “Speed Digital Services”), or when you contact us in any manner.
+
+##### WHAT INFORMATION IS COLLECTED FROM YOU THROUGH Speed Digital SERVICES?
+
+The information we receive from you helps us personalize and continually improve our business. Here are the general types of personal information (and sensitive personal information) we (and certain third parties) may gather:
+
+##### Information You Give Us:
+
+We receive, store and process personal information you provide to us when you purchase or use the Speed Digital Services, set up a Speed Digital account, enter information on our websites or message boards, communicate with us over phone, e-mail or otherwise, use our applications on mobile or connected devices, use our streaming services, take our surveys, participate in any promotion, interact with our social media presence, or in any other way.
+
+##### Examples of Information You Give Us:
+
+This includes without limitation your name, shipping, billing, and/or business addresses; location information; phone number; e-mail address; username and password information; credit or  other payment card information; gender; date of birth; and survey response data. If you sign up as a Speed Digital Buyer or Seller, we may also collect your social security/social insurance or other similar identification number and bank account information in order to process any transactions. We may also collect information about your business, such as your (or your organization's) name, e-mail address, street address, telephone number, tax identification number, and information about your website (e.g., the URL, the number of unique users and page views, the demographics of your user base, etc.).
+
+##### Information We Automatically Receive:
+
+We automatically receive and store certain technical information whenever you interact with us. For example, like many other websites, we use “cookies” to enhance your experience on our websites as described below, which allows us to obtain certain information when your web browser accesses any of our websites.
+
+##### Examples of Information We Automatically Receive:
+
+This includes without limitation your Internet protocol (IP) address (the number used to identify your computer or modem to the Internet, which can potentially identify your location and Internet Service Provider), browser or device type, version and time zone setting, operating system and platform; information about your activities on our websites, including the Uniform Resource Locator (URL) from which you came to our websites and the URLs that you visited on our websites; cookie identifier; products you viewed or searched for; the phone number you used to call us; pixel tag data as described below; and purchase history. During some visits to our websites, we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
+
+##### Mobile and Connected Device Information:
+
+When you download, install or use our applications through mobile or connected devices, we may receive information about your device and may access your camera, microphone, or other device services or hardware. Some devices may allow you to opt-out of this collection or access, and in those cases, you may be able to subsequently stop the collection or access. Please review your device settings for more information.
+
+##### Examples of Mobile Information:
+
+This includes without limitation unique identifiers for your device, device and usage information, precise geolocation information (if you enabled this feature), carrier provider, and the types of mobile devices and operating systems accessing the application.
+
+##### Information We Obtain From Other Sources:
+
+We may receive information about you from other sources, including from third party vendors, services and commercially available sources (such as data aggregators and public databases). We may also collect information that you publicly post on our social media pages, such as our Facebook®, Instagram®, and Twitter® pages. In addition, we may combine information you give us with other information from Speed Digital sources, communications and transactions. Where permitted by law, we combine this information received from other sources, including from social media websites, with information you give us and information that we collect automatically about you.
+
+##### Examples of Information We Obtain From Other Sources:
+
+This includes without limitation, information that you provide to our vendors; updated credit card number and expiration dates from your bank or credit card company which we use to keep our records current and service you better; updated delivery and address information from our carriers or other third parties which we use to keep our records current, process orders, deliver your next purchase, and service you better; account information which we use to validate access to your accounts with us; transactional data from third party purchases; demographic and profile data; social media posts, such as your likes, interests, feedback, preferences, pictures, comments, suggestions, opinions, and complaints; information we may receive from your Speed Digital account (if applicable); information that you provide through our e-mail and text message campaigns; information about products or services purchased from other companies.
+
+##### HOW DOES SPEED DIGITAL USE THE INFORMATION IT COLLECTS?
+
+##### Speed Digital may use the information provided above in various ways, including without limitation, to:
+
+  * Process and fulfill your requests or transactions involving any Speed Digital Services, and verify your identity and/or location to allow access to your accounts (such as your Speed Digital account);
+  * Communicate with you about your use of Speed Digital Services or any inquiries you may have submitted to us;
+  * Tell you about new products, goods or services, including if you started a transaction with us and provided your information, but did not finalize your transaction;
+  * Service and manage your accounts, or contact you about your accounts;
+  * Address a problem or issue affecting your use of any Speed Digital Services, or to inquire about or verify information concerning a transaction;
+  * Assist you with your auction buying and/or selling goals, such as providing you with advice and feedback on your goals, and connecting you with individuals who share your interests;
+  * Improve any Speed Digital Services and related advertising or materials;
+  * Enhance and personalize your Speed Digital experience on any Speed Digital Services, and control the frequency of advertisements to your device;
+  * Target advertising or promotions that may be of interest to you, such as e-mails, direct mail, banner ads, splash ads (ads that appear as you sign in or out of your online accounts) or promotions based on your demographic profile, interests, or location;
+  * Send you emails and other communications about Speed Digital's or any of our business partners' products or services that we think you may find useful, or to see if you are interested in participating in surveys, market research or other inquiries;
+  * Administer contests, promotions, events, surveys or other features;
+  * Improve, personalize, and optimize your website browsing and mobile application experiences by examining which parts of our website you visit or which aspect of our mobile applications you find most useful, and to improve existing or develop new products and services;
+  * Operate, improve and maintain our Speed Digital Services, including for data analysis, such as user behavior and trends, and diagnose problems with our server and administer our websites;
+  * Assist us in taking data security precautions and to engage in fraud prevention, detection, and remediation;
+  * Carry out other purposes which are disclosed to you and to which you consent;
+  * Undertake statistical analysis and research, and for demographic profiling purposes; or
+  * Comply with applicable international, federal, state, provincial/territorial and local laws, directives, rules, regulations, and ordinances; civil, criminal or regulatory investigations; or other legal requirements, such as court orders.
+
+
+
+##### WHAT ABOUT COOKIES, PIXEL TAGS AND THIRD PARTY TRACKING TOOLS?
+
+##### Cookies:
+
+Like almost every company, Speed Digital and others use a technology commonly known as a "cookie", which is a small data file our server places on your computer or mobile device to recognize your device and provide personalized features and advertisements. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information. Through cookies, we are able to collect information that we use to improve our websites and mobile applications, improve your overall experience on them, and personalize your experiences and advertisements. For example, through cookies, we can keep count of return visits to our website or our advertisers' or partners' websites, collect and report on aggregate statistical information, authenticate your login credentials, and manage multiple instances of our websites in a single browser. We may also collect other data through cookies, such as the page or website that referred you to us, the date and time you visited us, and your current IP address. The cookies we place on your hard drive are known as "first-party cookies" and any cookies placed by third parties are called “third party cookies.” Third party cookies enable third party features or functionality to be provided on or through the website (e.g., advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
+
+##### Disabling Cookies:
+
+Most major web browsers provide users with the option to accept or reject cookies. Opting out of the use of cookies to deliver targeted advertising relies on information in the unique cookies placed on your web browser by our partners, so if you delete cookies, use a different device, or change web browsers, you may need to opt out again. Please note that if you use your browser settings to block all cookies you may not be able to access parts of our or others' websites. The “Help” feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. Since cookies allow you to take advantage of some of our essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you may not be able to utilize certain features on our websites, such as adding items to your shopping cart, proceeding to checkout, or using services that require you to sign in.
+
+##### Pixel Tags:
+
+We also collect information through the use of "pixel tags" on our websites and in e-mail messages we may send to you that may be placed by us or third parties with whom we partner. "Pixels," also known as "Web beacons," are tiny graphic files or code snippets, not visible to the human eye, that can be included in HTML-encoded e-mail messages and web pages. When such a message is opened in an HTML-capable e-mail program, the recipient's computer or device will communicate with our server to retrieve the pixel tag file, allowing us to record and store, along with the recipient's e-mail address, the date and time the recipient viewed the e-mail message, the fact that the recipient's e-mail client is capable of receiving HTML-encoded e-mail, and other standard logging information. The pixel tag may also see or read cookies. Speed Digital may use pixel tags in order to measure and understand traffic better, improve site performance, track visitor behavior to improve user experience, and for tracking promotional and marketing campaign response, among others. You can disable the pixel tag feature by changing the settings on your e-mail client to prevent the automatic downloading of images, changing your browser settings to omit images, disabling Javascript, or there are commercial software packages available that can omit pixel tags and most advertisements.
+
+##### Behavioral Advertising on Third Party Websites:
+
+We also work with third parties that use tracking technologies on our websites and on other websites in order to provide and track tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These third party partners may place or recognize a unique cookie on your hard drive. They may help Speed Digital place first party cookies from our servers, or third party cookies from their own or other third party servers. Speed Digital and our advertisers and third party advertising partners may use cookies in order to collect information about you, which may include how many times you have seen an ad or whether you have interacted with an ad. We and our partners may also use cookies to provide you with interest-based or behavioral advertising. The use of third-party cookies is not covered by this Privacy Policy as these third parties are subject to their own privacy policies. For more information about this practice and to understand your options for many of our advertising partners, please visit [http://www.youradchoices.com,](http://www.youradchoices.com/) or the Network Advertising Initiative at [www.networkadvertising.org.](http://www.networkadvertising.org/) If you choose to opt-out of behavioral advertising using these cookies, you will still be served with advertisements on the Internet, but it may not be tailored to your interests. Most major web browsers provide users with the option to accept or reject third party cookies. Opting out relies on information in the unique cookies placed on your web browser by our partners, so if you delete cookies, use a different device, or change web browsers, you may need to opt out again. 
+
+##### Do Not Track Signals:
+
+Some web browsers offer a "Do Not Track" signal that is a HTTP header field indicating your preference regarding tracking or cross-site user tracking. Like many other websites and online services, we do not currently alter our practices when we receive Do Not Track signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer's online activities over time and across third-party websites or online services, as there is no consensus among industry participants as to what "Do Not Track" means in this context. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com.](http://www.allaboutdnt.com/)
+
+##### DOES SPEED DIGITAL SHARE THE INFORMATION AND DATA IT RECEIVES?
+
+We value the trust our customers place in us to safeguard their personal information. We share personal information we collect with your consent and as described below:
+
+##### Third-Party Service Providers:
+
+We utilize third party companies and individuals to perform business functions on our behalf to better serve you. For example, we use third parties to help us make our products and services available to you, fulfill orders you may have placed, process credit card payments, provide customer service, ship postal mail, deliver your packages, conduct market research or information analysis, manage promotions, and contact you in connection with various Speed Digital Services. In these instances, we may need to provide your information to these third parties for such purposes.
+
+##### Related Companies; Third Party Offers:
+
+Speed Digital occasionally partners with third parties to learn more about our customers so we can service you better or offer products or services that we feel may be useful to you ("Related Company"). In such case, we may disclose to a Related Company certain information, such as your name, e-mail, billing or shipping address, products purchased and price. If you request information from a Related Company, we may disclose additional information such as your e-mail address, phone number and other contact information, so the Related Company can provide you with the information you requested. If you purchased a product or service from a Related Company, we will also disclose your credit card information so they can complete your purchase. We may disclose aggregated, de-identified information to Related Companies: (i) so the Related Companies can provide you with advertisements tailored to your interests; (ii) for statistical analysis, research, and demographic profiling purposes; and (iii) to support our business and improve our mission to help our customers achieve their goals.
+
+##### Protection of Speed Digital and Others:
+
+We may share your information, including personally identifiable information, in order to: (i) protect or defend the legal rights or property of Speed Digital, or the legal rights of our customers, business partners, employees, agents, and contractors; (ii) protect the safety and security of our customers or members of the public, including acting in urgent circumstances; (iii) detect and protect against fraud and identity theft or to conduct risk management; (iv) comply with laws, legal process, or legal requests from any governmental or regulatory body; or (v) to enforce or apply our website Terms of Use and/or other agreements.
+
+##### De-identified Data Disclosures:
+
+We may also disclose non-identifying transaction information to third parties for the purpose of accounting and record keeping. We may also disclose aggregated, de-identified user data or non- personal information with business partners, advertisers, and others.
+
+##### WHAT ABOUT THIRD-PARTY AND ADVERTISERS' SERVICES?
+
+At various points and pages on our websites or mobile applications, you may be able to access or utilize services offered by or in conjunction with third parties. This includes services in connection with third-party "social media" and other sites that would allow personal information to be transferred to such third parties (for example, Facebook Connect), and others.
+
+These third parties have separate data collection and privacy practices independent from ours, so please review their privacy policies to understand your rights. For this reason, Speed Digital cannot be responsible for their policies or activities. Please contact those third parties directly if you have questions about their privacy practices.
+
+##### HOW SECURE IS INFORMATION ABOUT ME?
+
+Speed Digital has implemented and uses reasonable security measures designed to help prevent the loss and unauthorized access of your information. Despite these efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against interception or to be absolutely secure.   As a result, while we strive to protect your personal
+
+information, we cannot ensure or warrant the security of any information you transmit to us or our online services. If you suspect a website or mobile application is pretending to be that of Speed Digital's (also known as "spoofing"), do not enter any personal information, but please let us know by e-mailing Morgan@SpeedDigital.com. Personal information may be accessed by persons within our organization, or our third party service providers, who require such access to carry out the purposes indicated above, or such other purposes as may be permitted or required by the applicable law. Personal Information we collect is maintained in the United States.
+
+##### WHAT HAPPENS TO MY INFORMATION IF Speed Digital IS SOLD TO OR MERGES WITH ANOTHER COMPANY?
+
+As we continue to develop and grow our business or in the unlikely event of a bankruptcy, we might sell one or more of our assets, subsidiaries or business units. In such transactions, customer information is typically one of the transferred business assets. Speed Digital will make any such purchaser aware of the obligations under this Privacy Policy and their obligation to enforce same.
+
+##### HOW ABOUT USERS BASED OUTSIDE OF THE USA; TRANSFER OF PERSONAL INFORMATION?
+
+Like most websites and businesses, Speed Digital's websites may be accessed by an international audience. By visiting our websites, using our applications, and/or providing us with any data, you agree we may collect, process, use, and store your personal information as discussed herein, outside your resident jurisdiction (such as the U.S.). Our Related Companies and third party service providers may also be located outside of your jurisdiction. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Please note that U.S. law and those of other countries where your information may be stored and processed may offer different levels of protection for your information than your home country. We will take all reasonable steps to ensure that such personal information is treated securely and in accordance with this Privacy Policy.
+
+##### HOW CAN I ACCESS OR UPDATE MY INFORMATION?
+
+We want to be sure your personal information is kept accurate and complete, and for this reason we ask that you inform us in the event of any changes to your information. If you provided your information directly to Speed Digital, you may access or update certain personal information by calling our Customer Service at [ Morgan@SpeedDigital.com, ](mailto:Morgan@SpeedDigital.com) or logging into your Speed Digital account if you created one. When calling Customer Service, please have your e-mail address and order information available. We will use commercially reasonable efforts to respond to your request to access or update your information. Please note that certain access may be subject to a fee. 
+
+##### YOUR PRIVACY CHOICES: OPT-OUT
+
+##### Marketing:
+
+We offer you various ways to opt-out of receiving certain communications from us. If you would
+
+like to opt-out of receiving e-mail marketing communications from us, you may click the “Unsubscribe” link found at the bottom of Speed Digital marketing e-mails that we send and follow the easy instructions to opt-out, or you may click the "Preferences" links to update your e-mail settings. If you would like to opt-out of receiving marketing phone calls, you can inform the agent with whom you speak that you would like to be placed on Speed Digital’s "Do Not Call" list. If you would like to opt-out of any Speed Digital text message campaign, please follow the instructions provided when you opt-in to the campaign; typically, responding "STOP" to your specific short code will opt you out of the campaign for which you signed up.
+
+##### Online Advertising:
+
+To learn some of the ways that you can opt-out of targeted online advertising, see the section above titled “What About Cookies, Pixel Tags and Third Party Tracking Tools?" for more information.
+
+##### CHANGES TO THIS PRIVACY POLICY.
+
+Speed Digital may modify this Privacy Policy at any time effective upon its posting on our websites. Your continued business relationship with us, or use of any of our Speed Digital Services after the changes are posted constitutes your acceptance of any changes, both with regard to information we have previously collected from you and information we may collect from you in the future.
+
+##### NOTICE TO CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS (AS PROVIDED BY CALIFORNIA CIVIL CODE SECTION 1798.83).
+
+A California resident who has provided Personal Data, as defined under California Civil Code section 1798.83, to a business with whom he/she has established a business relationship for personal, family, or household purposes (a "California Customer") may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of Personal Data, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom Personal Data was disclosed in the preceding calendar year, as well as a list of the categories of Personal Data that were disclosed. California Customers may request further information about our compliance with this law by e-mailing contact@. Please note that we are required to respond to one request per California Customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
+
+##### DISPUTES INVOLVING THIS PRIVACY POLICY.
+
+Disputes involving this privacy policy shall be subject to JAMS Arbitration as per the separate “Terms of Use” document (terms.speeddigital.com).
+
+##### CONTACTING SPEED DIGITAL
+
+Please feel free to share any comments, concerns, complaints, or questions with us:
