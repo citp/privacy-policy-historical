@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220225044id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420034923id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
 
 # Privacy and confidentiality of library records | Multnomah County Library
-
-Last revised 05.07.2015
 
 ## Policy summary
 
@@ -23,11 +21,17 @@ We post publicly the library's privacy and information-gathering policies. We av
 **Information the library may gather and retain about library patrons includes the following:**
 
   * Information required to register for a library card or use the John Wilson Special Collections (e.g. name, address, telephone number, email address, birthdate)
+
   * Records of material checked out, charges owed, payments made
+
   * Records of electronic access information such as the library card or guest pass number used to log onto library public computers
+
   * Requests for interlibrary loan or reference service
+
   * Sign-up information for library classes, programs, Sterling Room for Writers
+
   * Information about topics searched for (does not contain any personally identifiable information)
+
 
 
 
@@ -39,7 +43,7 @@ We never use or share the personally identifiable information provided to us in 
 
 ### Protecting Your Library Card
 
-It is your responsibility to notify the library immediately if your card is lost or stolen or if you believe someone is using your card or card number without your permission. We encourage you to protect your PIN/password for your privacy and security.
+It is your responsibility to notify the library immediately if your card is lost or stolen or if you believe someone is using your card or card number without your permission. We encourage you to protect your password for your privacy and security.
 
 ### Keeping Account Information Up-To-Date
 
@@ -51,7 +55,7 @@ We respect the privacy of all library patrons, no matter their age. Parents, gua
 
 ### Having other people help you with your account
 
-You may have other people help you with your account by providing them with your library card or card number and PIN/password. Please ask a staff member if you have questions about the process for having others assist you with your account.
+You may have other people help you with your account by providing them with your library card or card number and password. Please ask a staff member if you have questions about the process for having others assist you with your account.
 
 ### Items on hold
 
@@ -90,7 +94,7 @@ Third party services may gather and disclose your information, including,
 
 For more information on these services and the specific types of data that may be gathered and disclosed by each service please refer to the Terms of Use and Privacy Policies for the services you use. Links to our major vendors’ policies are provided here. You may choose to not use these third party services if you do not accept their Terms of Use and Privacy Policies; please read them carefully.
 
-Policies for our discovery software for the on-line catalog:
+Policies for our discovery software for the online catalog:
 
   * [Bibliocommons (MyMCL)](http://multcolib.bibliocommons.com/info/privacy)
 
@@ -99,44 +103,64 @@ Policies for our discovery software for the on-line catalog:
 Policies for our e-books, audiobooks, streaming music, movies, and kids' stuff:
 
   * [Alexander Street Press](http://alexanderstreet.com/page/privacy-statement-0)
+
   * [EBook Central and ProQuest products](http://www.proquest.com/about/privacy-statement.html)
+
   * [Ebsco](https://www.ebsco.com/company/privacy-policy?_ga=2.221103889.840558856.1498501073-856146874.1497552343)
-  * [Gale products](http://0-www.gale.com.catalog.multcolib.org/epcopyright/index.htm#privacy)
+
+  * [Gale products](https://www.gale.com/privacy)
+
   * [Hoopla](https://www.hoopladigital.com/privacy)
-  * [IndieFlix](https://indieflix.com/policies/privacy)
-  * [OverDrive](https://www.overdrive.com/fine-print/account-privacy-policy)
-  * [OverDrive Kids](http://company.overdrive.com/education/k-12-schools/privacy-policy-for-children)
+
+  * [Kanopy](https://www.kanopy.com/privacy)
+
+
+
+  * [OverDrive](https://company.cdn.overdrive.com/policies/privacy-policy.htm)
+
+  * [OverDrive Kids](https://company.cdn.overdrive.com/policies/privacy-policy-for-children.htm)
+
   * [TumbleBook Library](http://asp.tumblebooks.com/privacy.aspx)
-  * [RBDigital](https://www.rbdigital.com/media/RBdigital%20Gateway%20Privacy%20Policy%202015.pdf)
+
+  * [RBDigital](https://www.rbdigital.com/media/RBdigital%20Gateway%20Privacy%20Policy%202017.pdf)
+
 
 
 
 Policies for online help, including the Ask-A-Librarian and My Librarian text and email reference services:
 
   * [Answerland](http://www.answerland.org/privacy)
+
   * [Knowledge Tracker](http://www.knowledgetrackerlib.com/patron_terms.pdf)
-  * [Mollom](https://www.mollom.com/web-service-privacy-policy)
+
+
+
   * [Mosio](http://www.textalibrarian.com/privacy.php)
+
 
 
 
 Policies for the services we use to improve our website:
 
   * [Google Analytics](http://www.google.com/intl/en/policies/privacy)
+
   * [Score Card Research](https://www.fullcirclestudies.com/privacy.aspx)
+
 
 
 
 Policies for our wireless printing service:
 
   * [Envisionware](http://www.envisionware.com/privacy-full)
+
   * [PrinterOn](http://www.printeron.com/company/legal.html)
+
 
 
 
 Policy for our collections agency:
 
-  * [Unique Management Services, Inc.](http://www.unique-mgmt.com/privacypolicy.aspx)
+  * [Unique Management Services, Inc.](https://web.archive.org/sites/default/files/UMS%20Privacy%20Notice.pdf "Unique Management Services, Inc.")
 
 
 
@@ -145,9 +169,13 @@ We make reasonable efforts to ensure that the library's contracts, licenses, and
 Multnomah County Library expects vendors to
 
   * abide by privacy related components of library/vendor contract and licensing agreements,
+
   * conform to library privacy policies regarding the retention and release of information to third parties,
+
   * provide a product which complies with the provisions of Children’s Online Privacy Protection Act (COPPA), and
+
   * refrain from collecting or disclosing additional information about patron activity or identifiers other than is needed for administration of the library service provided.
+
 
 
 
