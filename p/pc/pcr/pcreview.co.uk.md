@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pcreview.co.uk privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224135653id_/https%3A//www.pcreview.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcreview.co.uk privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421001117id_/https%3A//www.pcreview.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PC Review
+# Privacy policy | PC Review
 
-We are PC Review ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20181224135653id_/https%3A//www.pcreview.co.uk/help/misc/contact).
+We are PC Review ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/misc/contact/).
 
 ## What information we hold about you
 
@@ -49,13 +49,13 @@ We are committed to ensuring that any information you provide to us is secure. I
 
 Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20181224135653id_/https%3A//www.pcreview.co.uk/help/help/cookies).
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/help/cookies).
 
 ## Rights
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20181224135653id_/https%3A//www.pcreview.co.uk/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20181224135653id_/https%3A//www.pcreview.co.uk/help/misc/contact) to ask us to complete or correct that information.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/misc/contact/) to ask us to complete or correct that information.
 
-You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20181224135653id_/https%3A//www.pcreview.co.uk/help/misc/contact) if you would like us to remove your personal data.
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/misc/contact/) if you would like us to remove your personal data.
 
 ## Acceptance of this policy
 
@@ -64,19 +64,3 @@ Continued use of our site signifies your acceptance of this policy. If you do no
 ## Changes to this policy
 
 We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
-
-## Advertiser Information
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
-
-
-
-You may opt-out of receiving some advertising cookies by visiting [ http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).
-
-We use Skimlinks for processing affiliate links on our site. You will receive notification of this when clicking through via one of these links. You may opt-out of Skimlinks cookies by visiting this page: [https://optout.skimlinks.com](https://optout.skimlinks.com/)
-
-Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via privacy@exponential.com.
-
-[ ](https://www.pcreview.co.uk/)
