@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weau.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221021249id_/https%3A//www.weau.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weau.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420090926id_/https%3A//www.weau.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
 Posted: Wed 3:24 PM, Mar 04, 2015  | 
 
-Updated: Wed 8:14 AM, Aug 01, 2018 
+Updated: Thu 11:55 AM, Jan 03, 2019 
 
 Effective Date: August 1, 2018.
 
@@ -270,4 +270,4 @@ VP Digital Media
 4370 Peachtree Rd. NE  
 Atlanta, GA 30319
 
-Copyright © 2018 Gray Television, Inc. All Rights Reserved.
+Copyright © 2019 Gray Television, Inc. All Rights Reserved.
