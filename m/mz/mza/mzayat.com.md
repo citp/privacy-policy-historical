@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mzayat.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116092007id_/http%3A//mzayat.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mzayat.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420114724id_/http%3A//cliparwolf.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
