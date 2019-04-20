@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230100443id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420055910id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
 
 # Iarnród Éireann Terms of Use, Privacy Statement and Cookie Policy
 
@@ -24,9 +24,9 @@ The following terms of use, privacy statement and cookie policy should be used i
 
 ## **Definitions  **
 
-  * We”, “our”, “ourselves”, "IÉ" and “us” means Iarnrod Eireann-Irish Rail.
-  * You”, “your”, “customer”, “passenger” and “yourself” means any person, except members of staff, whom wishes to use or avail of our services.
-  * Digital Platforms in these terms and conditions means “Website(s)”, “app(s)”, “passenger information displays”, “Wi-Fi”, “newsletter”, or “social media” assets operated or used by Iarnród Éireann.
+  * 'We', 'our', 'ourselves', 'IÉ' and 'us' means Iarnrod Eireann Irish Rail
+  * 'You', 'your', 'customer', 'passenger' and 'yourself' means any person, except members of staff, whom wishes to use or avail of our services
+  * Digital Platforms in these terms and conditions means 'Website(s)', 'app(s)', 'passenger information displays', 'Wi-Fi', 'newsletter', or 'social media' assets operated or used by Iarnród Éireann
 
 
 
@@ -38,13 +38,13 @@ These Terms of Use apply to all Digital Platforms owned and or operated by Iarnr
 
  For your convenience we have listed all of terms of usage below.
 
-  * [Terms of Use](http://www.irishrail.ie/legal/terms-conditions#Terms%20of%20Use)
-  * [Privacy Statement ](http://www.irishrail.ie/legal/terms-conditions#Privacy%20Statement)
-  * [Cookie Policy](http://www.irishrail.ie/legal/terms-conditions#%20Cookie%20Policy)
-  * [Additional App Information](http://www.irishrail.ie/legal/terms-conditions#Additional%20Information%20on%20our%20App)
-  * [Contact Us](http://www.irishrail.ie/legal/terms-conditions#Contact%20Us)
-  * [Useful Links](http://www.irishrail.ie/legal/terms-conditions#%20Useful%20Links)
-  * [Version Control](http://www.irishrail.ie/legal/terms-conditions#Previous%20Versions)
+  * [Terms of Use](http://www.irishrail.ie/legal/terms-conditions#terms-of-use)
+  * [Privacy Statement ](http://www.irishrail.ie/legal/terms-conditions#privacy-statement)
+  * [Cookie Policy](http://www.irishrail.ie/legal/terms-conditions#cookie-policy)
+  * [Additional App Information](http://www.irishrail.ie/legal/terms-conditions#additional-information-on-our-app)
+  * [Contact Us](http://www.irishrail.ie/legal/terms-conditions#contact-us)
+  * [Useful Links](http://www.irishrail.ie/legal/terms-conditions#useful-links)
+  * [Version Control](http://www.irishrail.ie/legal/terms-conditions#previous-versions)
 
 
 
@@ -62,7 +62,7 @@ We reserve the right to refuse access to the Digital Platforms and/or the servi
 
 ### **Intellectual Property**
 
-All content included on the Digital Platforms, such as text, graphics, logos, button icons, images, audio clips and software is our property or the property of our licensors and is protected by applicable copyright and/or other intellectual property laws. You acknowledge that you are only permitted to use any material contained on the Digital Platforms as authorised by us and you further agree not to copy, reproduce, transmit, distribute or create derivative works of such material without our prior written authorisation.
+All content included on the Digital Platforms, such as text, graphics, logos, button icons, images, audio clips and software is our property or the property of our licensor and is protected by applicable copyright and/or other intellectual property laws. You acknowledge that you are only permitted to use any material contained on the Digital Platforms as authorised by us and you further agree not to copy, reproduce, transmit, distribute or create derivative works of such material without our prior written authorisation.
 
 ### **Limitation of Liability and Disclaimer**
 
@@ -114,8 +114,7 @@ These Terms of Use and any documents referred to herein may be amended from time
 
 These Terms of Use shall be governed by and construed in accordance with the laws of Ireland and you hereby submit to the exclusive jurisdiction of the Irish Courts.
 
-##   
-**Privacy Statement**
+## **Privacy Statement**
 
 Iarnród Éireann respects your privacy and is committed to protecting it. The purpose of this Privacy Statement is to inform you of the data relating to you that we collect and use in connection with our Digital Platforms and the uses (including disclosures to third parties) we make of such data.
 
@@ -198,15 +197,15 @@ To assist customers with general queries, a complaint or providing us with gener
   * First 6 and Last 4 digits of the payment information 
   * General note or explanation on the feedback
   * Journey/ ticket details
-  * We will only ask for the information if it is needed to assist you, and is only used to deal with the communication. 
+  * We will only ask for the information if it is needed to assist you, and is only used to deal with the communication
 
 
 
 #### **Other Information**
 
-  * Market Research, Feedback & Competitions - may include contact details if required.
+  * Market Research, Feedback and Competitions - may include contact details if required
   * Internet Protocol (IP) address from which you access the Platform and
-  * Any other information relating to you that you provide to us or that we generate about you in connection with your use of the website.
+  * Any other information relating to you that you provide to us or that we generate about you in connection with your use of the website
 
 
 
@@ -220,7 +219,7 @@ We collect and analyse certain statistical information about the usage (“non-p
   * Type of browser, device and operating system used;
   * Date and time of your access;
   * A list of all the pages visited; and
-  * The page from which you exit the platform.
+  * The page from which you exit the platform
 
 
 
@@ -247,7 +246,7 @@ The legal bases on which we process your personal data are:
   * That this is necessary for the performance of tasks that we carry out in the public interest or in the exercise of official authority vested in us by law;
   * That this is necessary for compliance with a legal obligation that applies to us;
   * That this is necessary for the performance of our contract with you; or
-  * That you have given your consent to the processing.
+  * That you have given your consent to the processing
 
 
 
@@ -258,8 +257,8 @@ We may disclose your personal data to other organisations in connection with the
   * To third parties who we engage to provide services to us in connection with our Digital Platforms, such as outsourced service providers, IT service providers, professional advisers and auditors; [See List of Current Providers PDF Format](http://www.irishrail.ie/media/suppliers_of_services_to_iarnrod_eireann_updated_22052018.pdf)
   * To other members of our corporate group;
   * To any successor owners or operators of the digital platform; and
-  * To other public authorities and bodies where required or permitted by law, such as the Gardaí or other law enforcement authorities for the purposes of the prevention, investigation or detection of crime.
-  * IÉ will not sell, rent or lease your personal information to others.
+  * To other public authorities and bodies where required or permitted by law, such as the Gardaí or other law enforcement authorities for the purposes of the prevention, investigation or detection of crime
+  * IÉ will not sell, rent or lease your personal information to others
 
 
 
@@ -274,7 +273,7 @@ Online Ticket Sales (Guest) | 26 months transactional data*
 Online Ticket Sales (Account) | 36 months from the last transaction on the account*. Accounts can be closed anytime via the [My Account](https://booking.cf.irishrail.ie/en-IE/mys3/login) section.  
 Fixed Payment Notice  | 36 months from the time the complaint is closed*  
 CRM Department - Customer Complaints | 36 months from the time the complaint is closed*  
-Customer Queries, Assistance & Feedback | 18 months from the time the complaint is closed*  
+Customer Queries, Assistance and Feedback | 18 months from the time the complaint is closed*  
   
 _**  * Retention of records maybe longer pending an ongoing investigation or dispute.**_
 
@@ -293,7 +292,7 @@ You have the following rights, in certain circumstances and subject to certain r
   * Restrict the use of your personal data;
   * Object to the processing of your personal data;
   * Receive your personal data, which you provided to us, in a structured, commonly used and machine-readable format or to require us to transmit that data to another controller; and
-  * Where our processing of your personal data is based on you having provided consent, the right to withdraw your consent to the processing at any time.
+  * Where our processing of your personal data is based on you having provided consent, the right to withdraw your consent to the processing at any time
 
 
 
@@ -305,9 +304,9 @@ You can choose whether to receive marketing communications by following the inst
 
 To opt-out of receiving communications you have expressly requested (such as e-mail newsletters, software updates, etc.), use any of the following methods:
 
-  * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication.
-  * If you have an [account](https://booking.cf.irishrail.ie/en-IE/mys3/login), simply log in and change your preference.
-  * [Contact Us](http://www.irishrail.ie/legal/terms-conditions#Contact%20Us) \- be sure to provide your name, e-mail and postal address, and relevant information about what you want to do.
+  * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication
+  * If you have an [account](https://booking.cf.irishrail.ie/en-IE/mys3/login), simply log in and change your preference
+  * [Contact Us](http://www.irishrail.ie/legal/terms-conditions#Contact%20Us) \- be sure to provide your name, e-mail and postal address, and relevant information about what you want to do
 
 
 
@@ -315,8 +314,8 @@ To opt-out of receiving communications you have expressly requested (such as e-m
 
 Iarnród Éireann strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change your information.
 
-  * Account Holders can review, amend or delete their details via the [My Account](https://booking.cf.irishrail.ie/en-IE/booking/login) section. Users will need their username/ email and password to access the system. 
-  * Guest Users - can only amend a booking subject to the terms and conditions related to the ticket purchased by clicking on the link within the booking confirmation or through the [Manage My Booking](https://booking.cf.irishrail.ie/en-IE/booking/login) section.
+  * Account Holders can review, amend or delete their details via the [My Account](https://booking.cf.irishrail.ie/en-IE/booking/login) section. Users will need their username/ email and password to access the system.
+  * Guest Users - can only amend a booking subject to the terms and conditions related to the ticket purchased by clicking on the link within the booking confirmation or through the [Manage My Booking](https://booking.cf.irishrail.ie/en-IE/booking/login) section
 
 
 
@@ -369,12 +368,12 @@ These cookies don’t usually contain any personal data and are typically set by
 Cookie Name| Provider| Description| More Information  
  Google Analytics|  Google| Non personal - digital analytics tools to analyse data from all touchpoints in one place, for a deeper understanding of customer experience. |  [https://www.google.com/analytics](https://www.google.com/analytics)  
   Google Tag Manager |  Google |  Non personal - Tag Management Capabilities |  [https://www.google.com/analytics/tag-manager/](https://www.google.com/analytics/tag-manager/)    
-Hotjar | Hotjar | Personal & Non Personal - Performance monitoring, analytics, customer feedback and survey*  | [https://www.hotjar.com/](https://www.hotjar.com/)    
-Survey Monkey  | Survey Monkey  | Personal & Non Personal - Customer feedback and survey*  
+Hotjar | Hotjar | Personal and Non Personal - Performance monitoring, analytics, customer feedback and survey*  | [https://www.hotjar.com/](https://www.hotjar.com/)    
+Survey Monkey  | Survey Monkey  | Personal and Non Personal - Customer feedback and survey*  
 | [https://www.surveymonkey.com/](https://www.surveymonkey.com/)    
 Marketo  | Marketo  | Personal - Newsletter communication | [https://www.marketo.com/](https://www.marketo.com/)  
-UserLike | UserLike | Personal & Non Personal - tool to have live chat capabilities to assist customers* and statistical information. | <https://www.userlike.com/en/>   
-Botsify | Botsify  | Personal & Non Personal - tool to have automated chat capabilities to assist customers* and statistical information. | <https://botsify.com/>   
+UserLike | UserLike | Personal and Non Personal - tool to have live chat capabilities to assist customers* and statistical information. | <https://www.userlike.com/en/>   
+Botsify | Botsify  | Personal and Non Personal - tool to have automated chat capabilities to assist customers* and statistical information. | <https://botsify.com/>   
   
 Information collected by these cookies is aggregated and used anonymously. *Where personal information is provided such as name, email, social media log in or contact number is only used for the purpose of the communication or to contact you in relation to the topic you were communication with us on. 
 
@@ -384,8 +383,8 @@ Information collected by these cookies is aggregated and used anonymously. *Wher
 **  
 ---  
 Cookie Name| Provider| Description| More Information  
-Google AdSense |  Google| Advertising  & Retargeting| <https://www.google.com/adsense/start/#/?modal_active=none>   
-DoubleClick  | Google  | Advertising  & Retargeting |  <https://www.doubleclickbygoogle.com/>   
+Google AdSense |  Google| Advertising  and Retargeting| <https://www.google.com/adsense/start/#/?modal_active=none>   
+DoubleClick  | Google  | Advertising  and Retargeting |  <https://www.doubleclickbygoogle.com/>   
 Marketo  | Marketo  | Newsletter Analytics  | [https://www.marketo.com/](https://www.marketo.com/)  
   
 **Other third party cookies -  **Some cookies that have been set on our websites are not related to Iarnród Éireann. When you visit a page with content embedded from a third party such as YouTube, Twitter or Facebook, these service providers may set their own cookies on your web browser.
@@ -441,7 +440,7 @@ Amien Street,
 Dublin 1.  
 D01 V6V6
 
-[dpo@irishrail.ie](mailto:digital@irishrail.ie)   
+[dpo@irishrail.ie](mailto:dpo@irishrail.ie)   
   
 ---|---  
   
@@ -461,7 +460,4 @@ Version| Time| Valid from| Valid to
 [Terms of use (V.1)](http://www.irishrail.ie/media/irishrail_website_terms_of_use_page_1_pre_28032018_\(2\).pdf) |   | 09/03/2018 | 27/03/2018  
 [Terms of use (V.2)](http://www.irishrail.ie/media/terms_of_use_page_1_post_28032018.pdf) | Page updated to include additional disclaimers. | 27/03/2018 | 24/05/2018   
 [Terms of use (V.3)](http://www.irishrail.ie/media/terms_of_use_v3.pdf) | Page updated to bring policy in line with GDPR regulations | 24/05/2018 | 20/08/18  
-Terms of use (V.4)  | Page updated to include additional disclaimers. | 20/08/18 | Present  
-  
-
-
+Terms of use (V.4)  | Page updated to include additional disclaimers. | 20/08/18 | Present
