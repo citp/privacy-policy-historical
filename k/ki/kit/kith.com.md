@@ -1,395 +1,192 @@
-> *The following text is extracted and transformed from the kith.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227042515id_/http%3A//kith.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kith.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420080919id_/https%3A//kith.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement – Kith
 
-**Introduction**
+**Effective:** April 6th, 2018
 
-|  | 
+Kith Retail, LLC, Kith Treats LLC, and each of their affiliates (collectively, “KITH,” “we,” “us,” “our”) respect your privacy and are committed to protecting the personal information we hold about you.
 
-This statement includes: 
+This includes information we collect through, or in association with, our websites with home pages located at <https://kith.com/>, [www.kithwomen.com](https://www.kithwomen.com/), [www.kithtreats.com](https://www.kithtreats.com/), and [www.kithnyc.com](https://www.kithnyc.com/), and any related apps that we may provide, together with all products and services we may offer from time to time via our website and/or related apps, our related social media sites (for example, on Instagram, Twitter, and Facebook), or otherwise through your interactions with us (the website, apps, products, services, and social media pages, collectively, the “Services”).
 
-  * our _collection statement_ , explaining aspects of our collection and use of personal information 
+Please review the following to understand how we process and safeguard personal information about you. By using any of our Services, whether by visiting our website or otherwise, and/or by voluntarily providing personal information to us, you acknowledge that you have read and understand the practices contained in this Privacy Statement.
 
-  * our _privacy policy_ , further explaining how we manage personal information. 
+**1) Modifications and Updates to this Privacy Statement**
 
+We reserve the right, at any time, to modify, alter, and/or update this Privacy Statement, and any such modifications, alterations, or updates will be effective upon our posting of the revised Privacy Statement. Your continued use of the Services following our posting of any revised Privacy Statement will constitute your acknowledgement of the amended Privacy Statement.
 
-  
-|  |   
-|  | 
+**2) Applicability of this Privacy Statement**
 
-**COLLECTION STATEMENT**  
-  
-|  |   
-  
-**Who we are**
+This Privacy Statement is subject to the [Terms and Conditions](https://web.archive.org/pages/terms-and-conditions) that govern your use of the Services. This Privacy Statement applies regardless of the means used to access or provide information through the Services.
 
-|  | 
+This Privacy Statement does not apply to information from or about you collected by any third party services, applications, or advertisements associated with, or websites linked from the Services, including, but not limited to, Shopify (that hosts our store), PayPal (that processes payments on our behalf), and social media pages. The collection or receipt of your information by such third parties is subject to their own privacy policies, statements, and practices and under no circumstances are we responsible or liable for any third party’s compliance therewith.
 
-Dark Blue Sea Pty Ltd ABN 47 091 509 796 
+**3) What Information Do We Collect?**
 
-Fabulous.com Pty Ltd ABN 64 094 218 443 
+We collect a variety of personal information from and about you through the Services, including:
 
-Fabulous Parking Pty Ltd ABN 16 094 225 091 
+  * When you provide it to us directly;
+  * Automatically through logging and analytics tools, cookies, pixel tags, and as a result of your use of and access to the Services; and
+  * From third-party sources, including service providers such as Shopify, PayPal, and Google, and through your interactions with us on social media websites.
 
-Fabulous.com.au Pty Ltd ABN 34 139 626 994 
 
-Roar.com Pty Ltd ABN 99 094 225 064 
 
-Pageseeker.com Pty Ltd ABN 45 090 513 849 
+You have choices about certain information we collect. When you are asked to provide information, you may decline to do so; but if you choose not to provide information that is necessary to provide any aspect of our Services, you may not be able to use those Services. In addition, as noted below in the section captioned “Your Choices it is possible to change your browser settings to block the automatic collection of certain information.
 
-Darkblue.com Pty Ltd ABN 14 094 225 082 
+Finally, we may collect data that is not identifiable to you or otherwise associated with you and is not personal information. To the extent this data is stored or associated with personal information, it will be treated as personal information; otherwise, the data is not subject to this policy.
 
-Yexa.com Pty Ltd ABN 12 094 225 073 
+**_Information Collected from You._** We collect personal information from you when you provide it to us, including by entering it into website forms, placing orders, creating an account, or contacting us with questions or comments.
 
-Drop.com.au Pty Ltd ABN 79 135 424 878 
+For example, you can choose to sign up for email notifications about us through the Services by providing us with your email address. You can also choose to sign up for an account on the Services by providing us with your first and last name, email address, and password. If you order products from us through the Services, you must provide us with information to process that request, including but not limited to email address, first and last name, billing address, shipping address (if applicable), payment information, telephone number, and any other information you may optionally provide.
 
-Yexa.com.au Pty Ltd ABN 84 137 606 172 
+If you contact us with questions, requests, or complaints, including through the “Live Chat” functionality on our website, we collect personal information sufficient to answer your questions, address your requests, and/or handle your complaints, as applicable.
 
-Whois Privacy Services Pty Ltd ABN 65 133 058 741 
+We also collect information from you that, depending on applicable law, may not constitute personal information.
 
-('the DBS Group', 'we' or 'our')   
-  
-|  |   
-  
-**Our contact details**
+**_Information Collected Automatically._** When you browse or use the Services, we utilize commonly-used logging and analytics tools, including Google Analytics and Shopify’s analytics tools, to collect information about your device, the network used to access the Services, and information about your use of the Services.
 
-|  | 
+We also use certain technologies on the Services, including cookies and pixel tags, that allow us, our service providers, and third parties to store information locally on your device, identify your device, track your interactions with other sites or with our email campaigns, and track activity over time and across websites.
 
-  * Phone: 07 3007 0070 
+Information collected automatically includes the software and hardware attributes of the device you use to access the Services, unique device ID information, regional and language settings, performance data about the Services, network provider, and IP address (a number assigned to your device when you use the Internet). In addition, information may be collected passively in the form of log files and third-party analytics (including Google Analytics and Shopify’s analytics) that record website activity. For example, log file entries and analytics data are generated every time you visit a particular page on our website, and track the dates and times that you use the Services, the pages you visit, the amount of time spent on specific pages, and other similar usage information, and general data (including the name of the web page from which you entered our website).
 
-  * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
+  * [Cookies and Web Tracking.](https://web.archive.org/pages/cookie-policy) We use technologies including cookies and pixel tags to personalize and enhance your experience in regard to our Services, to collect data about your visit to our Services, to help diagnose problems with our servers, to administer the Services, to evaluate the effectiveness of our marketing and advertising campaigns, to permit analytics providers to gather information about your visit to the Services, and to gather broad demographic information about our users. Please see our Cookie Policy for more information about cookies and web tracking technologies on the Services.
 
 
-  
-|  |   
-  
-**Collection from third party sources**
 
-|  | 
+Consult the “Your Choices” section of the Privacy Statement for information about how you can reject, delete, or prevent cookies from being placed on your system, and how you can opt out of, limit, or prevent certain web tracking technologies and/or advertising providers from collecting information about you.
 
-We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from: 
+_Information Collected from Third Parties._ We may receive personal information from third parties that we have engaged to provide services to us (including payment processors such as PayPal and ecommerce platforms such as Shopify) as well as from third parties that provide web analytics and usage information to us such as Google Analytics.
 
-  * publicly available sources like phone books 
+In addition, if you choose to interact with us or our partners on social media by posting to our pages, tagging us (or using certain hashtags or other identifiers) in posts, or participating in activities, we may collect certain information from the social media account you use to interact with us, including the name associated with the account, the account handle, recent activity, the content of any posts in which we are tagged, and other information that may be contained on your social media profile to allow us to respond to the posts and engage with our audience.
 
-  * other companies in our group that you may have dealt with 
+For the purposes of this Privacy Statement, “partners” means affiliates, service providers, licensors, vendors, manufacturers, distributors, or other third parties with which we have a business relationship.
 
-  * third parties like our business partners, your authorised representative/s 
+**4) How Do We Process Personal Information?**
 
-  * information brokers 
+We process personal information for two general purposes, pursuant to various legal bases:
 
-  * fraud checking agencies 
+For our business operations (including communicating with you, fulfilling orders, providing information about our products and services, improving the Services, and complying with applicable legal requirements); and
 
-  * our affiliates, resellers, contractors and other representatives that you may deal with 
+To market and promote our, and our partners’, products and offerings.
 
-  * our websites and how you use them (through the use of cookies) 
+We disclose personal information to our service providers to allow them to provide services to us and assist in carrying out your requests, and to our partners in aggregate, demographic form in connection with our marketing and business development efforts.
 
-  * various parties listed under _Disclosing personal information_ in our Privacy Policy. 
+In addition, we may disclose information we maintain, including personal information: when permitted or required to do so by law; in response to a request from a law enforcement agency or authority or any regulatory authority; and/or to protect the integrity of the Services or our interests, rights, property, or safety, and/or that of our users and others.
 
+See the “Your Choices” section below for information about how you can make decisions about how we process personal information, including how to opt out of certain marketing communications.
 
-  
-|  |   
-  
-**Collection under law**
+We process personal information for, or based on, one or more of the following: (i) based on your consent; (ii) as required or permitted by law; (iii) for our legitimate business purposes; (iv) as necessary to perform a contract with you, complete a transaction or provide you with information or services you have requested or authorized; and/or (v) to fulfill our legal responsibilities, in each case as provided in this Privacy Statement.
 
-|  | 
+**_Operational Uses._** We process your personal information as part of our operations, which include:
 
-We may be required to collect personal information in order to comply with the law.   
-  
-|  |   
-  
-**Why we collect and hold personal information**
+Providing you with information tailored to your requests, responding to inquiries, and delivering services and products;
 
-|  | 
+Operating, maintaining, and improving the quality of the Services and such content, products and/or services as we may make available through the Services;
 
-We collect and hold personal information because: 
+Communicating with you by email and push notification, in each case with your consent if such consent is required in accordance with applicable laws or software platforms, about products, services, order status, and other topics;
 
-  * we may need to use it to operate our business 
+Compliance with applicable laws, regulations, rules and requests of relevant law enforcement and/or other governmental agencies;
 
-  * we may need to provide it to other parties in connection with our business. 
+Endeavoring to protect our and our partners’ rights, property, or safety, and the rights, property, and safety of our users and other third parties; and
 
+For other purposes, as permitted or required by law.
 
+_**Marketing Uses.**_ We process your personal information to send messages to you about us, our partners, and the products and services we offer, which may from time to time include contests, rewards, events, and special offers for products and services. These communications may be tailored based on the communications preferences you select when providing us with your information and will only occur with your prior consent, if such consent is required in accordance with applicable laws.
 
+**5) Protecting Personal Information**
 
-The uses and disclosures we may make of personal information are detailed in our Privacy Policy.   
-  
-|  |   
-  
-**Unavailability of personal information**
+We employ reasonable safeguards designed to promote the security of our systems and protect your personal information from unauthorized destruction, use, modification, or disclosure. Personal information is protected using various physical, administrative and/or technical safeguards.
 
-|  | 
+However, no method of safeguarding information is completely secure. While we use measures designed to ensure the protection of your personal information, we cannot guarantee that our safeguards will be effective or sufficient. In addition, you should be aware that Internet data transmission is not always secure, and we cannot warrant that information you transmit utilizing the Services is secure.
 
-If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Disclosing personal information**
+**6) Your Rights Regarding Personal Information**
 
-|  | 
+You have a variety of legal rights regarding the collection and processing of personal information. You may exercise these rights, to the extent they apply to you, by contacting us at the contact information provided at the end of this Privacy Statement, or by following instructions provided in communications sent to you. Please be prepared to provide reasonable information to identify yourself and authenticate your requests.
 
-We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities including publishing personal information in Whois records for domain names, and to other parties detailed in our Privacy Policy. 
+These rights vary depending on applicable law, but may include:
 
-Some of these parties may be based overseas eg America.  
-  
-|  |   
-  
-**Access and correction**
+The right to know whether, and for what purposes, we process personal information about you;
 
-|  | 
+The right to know what personal information we process about you;
 
-Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold.   
-  
-|  |   
-  
-**Complaints**
+The right to learn the source of personal information about you we process, where we obtain that personal information from a source other than you.
 
-|  | 
+The right to access, modify, and correct personal information about you (as set forth in more detail below under “Access, Modifications, and Corrections to Collected Personal Information”)
 
-Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.   
-  
-|  |   
-|  | 
+The right to know with whom we have shared personal information about you, for what purposes, and what personal information has been shared;
 
-**PRIVACY POLICY**  
-  
-|  |   
-  
-**Personal information**
+Where processing of personal information about you is based on consent, the right to withdraw your consent to such processing;
 
-|  | 
+The right to request restriction of processing of personal information or object to processing of personal information; and
 
-This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.   
-  
-|  |   
-  
-**Kinds of personal information we collect and hold**
+The right to complain to a supervisory authority.
 
-|  | 
+See “Your California Privacy Rights” and “Your Canadian Privacy Rights” for more information about certain legal rights.
 
-Broadly, we may collect and hold: 
+_**Access, Modifications and Corrections to Collected Personal Information.**_ We strive to maintain the accuracy of any personal information that may be collected from you, and will use commercially reasonable efforts to respond promptly to update our database when you tell us the information in our database is not accurate. However, we must rely upon you to ensure that the information you provide to us is complete, accurate, and up-to-date, and to inform us of any changes. Please review all of your information carefully before submitting it to us, and notify us as soon as possible of any updates or corrections.
 
-  * _personal details_ like name, date of birth, gender, and occupation 
+In accordance with applicable law, you may obtain from us certain personal information in our records, although we may request certain reasonable additional information to help us authenticate such requests. If you wish to access, review, or make any changes to personal information you have provided to us through the Services, you may do so at any time by contacting us as provided below or, for certain information, through your account on the Services. Please note, however, that we reserve the right to deny access as permitted or required by applicable law.
 
-  * _contact details_ like physical, postal, work and email addresses and phone numbers 
+_**Your California Privacy Rights.**_ California Civil Code Section 1798.83, known as the “Shine the Light” law, permits our users who are California residents to request and obtain from us a list of what personal information (if any) we disclosed to third parties for their own direct marketing purposes in the preceding calendar year and the names and addresses of those third parties. Requests may be made only once per year per person, must be sent to the email address below, and are free of charge.
 
-  * _financial details_ like credit card numbers and your billing and payment history with us 
+We do not disclose personal information protected under the “Shine the Light” law to third parties for their own direct marketing purposes.
 
-  * _service-related details_ like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints 
+_**Your Canadian Privacy Rights**_
 
-  * _other details_ relating to special situations. 
+Residents of Canada are permitted to request and obtain from us information respecting the existence, use, and disclosure of their personal information as well as access to that information (subject to certain exceptions pursuant to applicable laws). Without limiting the above, residents of Canada will, upon request:
 
+  * Be informed of whether we hold personal information about you;
+  * Be provided with an account of third parties to which we have disclosed your personal information;
+  * Be able to challenge the accuracy and completeness of your personal information and have it amended as appropriate; and
+  * Be provided with information about our policies and practices with respect to the management of personal information, including: the name or title, and address, of the person who is accountable for our privacy policies and practices; the means of gaining access to personal information; a description of the type of personal information held by us, including a general account of its use; a copy of any brochures or other information that explain our policies, standards, or codes; and what personal information is made available to related organizations.
 
 
 
-In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Collecting personal information**
+**In addition, commercial electronic messages (including emails, SMS, MMS and text messages) will not be sent to persons in Canada unless they have provided explicit consent to receive such messages, or we have implied consent to send such messages pursuant to applicable legislation. However, we may still send transactional messages as permitted under applicable laws.**
 
-|  | 
+7) Your Choices
 
-Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for domain names or services on our website). 
+In addition to your choices with respect to the collection of personal information (see “What Information Do We Collect?” above), you have the ability to make certain choices about how we communicate with you, and how we process certain personal information.
 
-In other cases, we may collect personal information about you from: 
+_**Communications Opt-Out.**_ You may opt out of receiving marketing or other communications from us at any time through a given communications channel (such as email or telephone) by following the opt-out link or other unsubscribe instructions provided in any email message received or by contacting us as provided at the end of this Privacy Statement.
 
-  * publicly available sources like phone books 
+Note that if you do business with us in the future, you may not, subject to applicable law, opt out of certain automated notifications, such as order or subscription confirmations, based on business transactions (e.g., e-commerce).
 
-  * other companies in our group that you may have dealt with 
+_**Cookies and Web Tracking.**_ Consult our [Cookie Policy](https://web.archive.org/pages/cookie-policy) for more information about how to control and/or opt out of certain web tracking technologies.
 
-  * third parties like our business partners, your authorised representative/s 
+8) Other Important Information About Personal Information and the Services.
 
-  * information brokers 
+Our Privacy Statement also information about other practices with respect to personal information, including:
 
-  * fraud checking agencies 
+  * Collection of personal information from children;
+  * Links and references to third-party websites and services on our Services:
+  * What happens to personal information in the event we sell or transfer some or all of our business;
+  * How we respond to “Do Not Track” requests; and
+  * Information about where we process and transfer personal information.
 
-  * our affiliates, resellers, contractors and other representatives that you may deal with 
 
-  * our websites and how you use them (through the use of cookies) 
 
-  * various parties listed under _Disclosing personal information_ below. 
+_**Collection of Data from Children.**_ Children under 16 years of age are not permitted to use the Services, and we do not knowingly collect information from children under the age of 16. By using the Services, you represent that you are 18 years of age or older, or are 16 years of age or older and have valid parental consent to do so.
 
+_**Third-Party Websites and Services.**_ We may reference or provide links to third-party websites and services, including those of our affiliates, service providers, and third parties with which we do business, and we are not responsible for and do not control the content, security, or privacy practices employed by such third-party websites and services. This Privacy Statement does not apply to any such third-party services; please refer to the privacy statements or policies for such third-party services for information about how they collect, use, and process personal information.
 
-  
-|  |   
-  
-**Holding personal information**
+_**Business Transfer.**_ We may, in the future, sell or otherwise transfer some or all of our business, operations or assets to a third party, whether by merger, acquisition or otherwise. Personal information we obtain from or about you via the Services may be disclosed to any potential or actual third party purchasers and may be among those assets transferred.
 
-|  | 
+_**Do Not Track.**_ We use analytics systems and providers and participate in ad networks that process personal information about your online activities over time and across third party websites or online services. We do not currently process or comply with any web browser’s “do not track” signal or other mechanisms that provide consumers with the ability to exercise choice regarding the collection of personal information about your online activities over time and across third party websites.
 
-We hold personal information in hard and/or soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration.   
-  
-|  |   
-  
-**Why we collect and hold personal information**
+Note, however, that you may find information about how to opt out of Google Analytics and/or block or reject certain tracking technologies in our Cookie Policy.
 
-|  | 
+_**International Use.**_ Your personal information will be stored and processed in the United States. If you are using the Services from outside the United States, by your use of the Services you acknowledge that we will transfer your data to, and store your personal information in, the United States, which may have different data protection rules than in your country, and personal information may become accessible as permitted by law in the United States, including to law enforcement and/or national security authorities in the United States.
 
-We collect and hold personal information because: 
+9) Contact Us
 
-  * we may need to use it to operate our business 
+If you have any questions or complaints about this Privacy Statement and/or how we process personal information, or would like to exercise any of the rights set forth above, please contact us at:
 
-  * we may need to provide it to other parties in connection with our business. 
+Attn: Director of Web Operations
 
+KITH
 
-  
-|  |   
-  
-**Using personal information**
+337 Lafayette Street
 
-|  | 
+New York, NY 10012
 
-We may use personal information: 
-
-  * to identify you 
-
-  * for credit checks 
-
-  * to prevent fraud 
-
-  * to supply products (including goods and/or services) to you 
-
-  * to give you information about us and our products, and product offers 
-
-  * for direct marketing â€“ see _Direct marketing_ for details 
-
-  * to improve our products, our marketing and our website 
-
-  * to answer your enquiries 
-
-  * to give you customer support and service 
-
-  * to better understand your needs and respond to them 
-
-  * to manage and plan our products and business 
-
-  * to charge and bill you for products you use 
-
-  * to collect payment from you or make payment to you 
-
-  * to monitor, manage, test and improve our network and facilities 
-
-  * to comply with various laws or contractual obligations that apply to us 
-
-  * for other purposes related to the operation of our business. 
-
-
-  
-|  |   
-  
-**Disclosing personal information**
-
-|  | 
-
-We may disclose personal information as reasonably required: 
-
-  * to contractors and suppliers who supply or support us in: 
-
-    * market research, sales and marketing 
-
-    * direct marketing â€“ see _Direct marketing_ for details 
-
-    * identity and fraud checking 
-
-    * credit management 
-
-    * service provisioning 
-
-    * installation, maintenance and repairs 
-
-    * helpdesk and enquiries 
-
-    * support and complaint management 
-
-    * communications and mailing 
-
-    * billing, debt recovery and credit management 
-
-    * network and product design and maintenance 
-
-    * corporate strategy 
-
-    * legal and regulatory advice and compliance 
-
-    * accounting and financial planning 
-
-    * risk management 
-
-    * otherwise providing goods and services that we use to operate our business and provide products and support to you 
-
-  * to your authorised representative/s 
-
-  * to identify you as a registrant of a domain name in publicly available Whois record 
-
-  * if you ask us to do so 
-
-  * to our agents, resellers, affiliates and members of our corporate group 
-
-  * to our business partners and wholesale suppliers 
-
-  * to organisations that provide credit or finance to us 
-
-  * to persons who invest in or acquire all or part of our business or company, or are considering doing so. 
-
-
-
-
-Some of these parties may be based overseas eg America.  
-  
-|  |   
-  
-**Direct marketing**
-
-|  | 
-
-We may use and disclose personal information to direct market to you products offered by us, our agents, resellers, affiliates and members of our corporate group (including each member of the DBS Group), and our business partners, where we think the offers will be of interest to you, using: 
-
-  * post 
-
-  * email 
-
-  * electronic messaging 
-
-  * social media 
-
-  * targeted web content 
-
-  * other direct marketing channels. 
-
-
-
-
-Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.   
-  
-|  |   
-  
-**Accessing and correcting personal information**
-
-|  | 
-
-Please contact us for these purposes using the details in _Contacting us_ below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.   
-  
-|  |   
-  
-**Complaints**
-
-|  | 
-
-If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall: 
-
-  * acknowledge your complaint within a reasonable time 
-
-  * give you an estimated first response time 
-
-  * allocate your complaint to a suitably senior staff member 
-
-  * process and respond to your complaint as soon as we reasonably can. 
-
-
-  
-|  |   
-  
-**Contacting us**
-
-|  | 
-
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by telephone on 07 3007 0070 or email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, P.O. Box 757, Fortitude Valley, QLD 4006. 
+[customerservice@kithnyc.com](mailto:customerservice@kithnyc.com)
