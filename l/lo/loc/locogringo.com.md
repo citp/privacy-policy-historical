@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the locogringo.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905133038id_/https%3A//www.locogringo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locogringo.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420043938id_/https%3A//www.locogringo.com/locogringo-privacy-policy) for the most accurate reproduction.*
 
-# LocoGringo Privacy Policy
+# Privacy Policy | LocoGringo
 
 This Privacy Policy governs the manner in which Loco Gringo Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.locogringo.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Loco Gringo Inc..
 
@@ -65,68 +65,11 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**Loco Gringo Inc.**
-
-http://www.locogringo.com
-
+**Loco Gringo Inc.**  
+http://www.locogringo.com  
 619 New York Ave.  
 Claymont DE 19703  
-In Mexico: Lote 74 H Akumal, QR Mexico 77769  
-52-984-875-9140  
++1 512-853-9676  
 [reservations@locogringo.com](mailto:reservations@locogringo.com)
 
-##### _This document was last updated on July 29, 2013_
-
-[](https://twitter.com/share?text=LocoGringoPrivacy+Policy+-+&url=https://www.locogringo.com/locogringo-privacy-policy/) [](http://www.facebook.com/sharer.php?t=LocoGringoPrivacy+Policy+-+&u=https://www.locogringo.com/locogringo-privacy-policy/) [](https://plus.google.com/share?url=https://www.locogringo.com/locogringo-privacy-policy/) [](https://pinterest.com/pin/create/button/?url=https://www.locogringo.com/locogringo-privacy-policy/&media=&description=LocoGringoPrivacy+Policy+-+)
-
-### Get Your Vacation Vibe™ On
-
-Get the inside scoop, hot tips, little known secrets and DEALS for the Riviera Maya, Costa Maya & Yucatan
-
-#### Tell us where to send your good Vacation Vibe:
-
-  
-
-
-### Your Inquiry
-
-#### Jumpstart your next amazing vacation
-
-### Tell Us About Your Vacation
-
-* Denotes A Required Field
-
-* *
-
-I must have these exact dates. *
-
-### Tell Us About You
-
-* * * * *
-
-### Get everything you want in your vacation.
-
-#### Describe your vision for your Riviera Maya vacation.
-
-#### Check all that apply:
-
-Swim with the turtles Pampered at the spa Local cuisine Ziplines & adventure tours Nightlife and dancing Romantic beach dinners Local Shopping
-
-Beach bars World class golf Stomping Mayan ruins Hanging on the beach Private chef service Diving and snorkeling Sportfishing
-
-#### Occasion:
-
-Wedding Family Reunion Birthday Honeymoon Anniversary
-
-To help us find the BEST place for you, what are you planning to spend for your place to stay?
-
-Have you booked with Locogringo before?*
-
-Yes
-
-No
-
-Yes, I would like to receive _Vacation Vibe_ each month.
-
-  
-
+##### _This document was last updated on May 24, 2018_
