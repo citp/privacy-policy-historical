@@ -1,102 +1,636 @@
-> *The following text is extracted and transformed from the studentawards.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001021930id_/https%3A//yconic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentawards.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420111534id_/https%3A//studentawards.com/privacy) for the most accurate reproduction.*
 
-# yconic - Privacy Policy
+# privacy – Student Awards
 
-**Privacy Policy**
+This Application collects some Personal Data from its Users.
 
-yconic Inc. (“ **we** ”/” **us** ”) is committed to protecting your privacy.  We make the website, <http://www.yconic.com/>  (the “ **Website** ”) available together with our services as further described in our Terms of Use (the “ **Services** ”).  This Privacy Policy describes how we collect, store, use and distribute information about our users through the Website and Services. 
+## Owner and Data Controller
 
-**Consent: By using the Website and/or our Services you consent to the use of your Personal Information as described in this Privacy Policy**.  Except as set forth in this Privacy Policy, your Personal Information will not be used for any other purpose without your consent. You may withdraw your consent to our processing of your Personal Information at any time.  However, withdrawing consent may result in your inability to continue using certain aspects of the Website and/or some features of the Services.
+yconic, 301-312 Adelaide St W, Toronto, ON M5V 1R2
 
-**Collection of Information:    **Subject to the exclusions and disclosures set out in this Agreement, we aim to collect, use and disclose only such information as is required to enable us to manage your account, to provide the Services, to maintain our customer/visitor lists, to respond to your inquiries or provide feedback, for identification and authentication purposes, for survey and for service improvement. We will maintain the confidentiality of any contact information you provide to us on signing up for our Services or contacting us with questions or for further information and we will use it only for the purposes for which we have collected it, unless you agree that we may disclose it to other third parties.
+**Owner contact email:**  contact@yconic.com
 
-Two types of information may be collected through the Website and our Services: Personal Information and Non-Personal Information.  This Privacy Policy does not extend to the collection, use or disclosure of the following information which is currently not limited by applicable privacy laws: (a) information that is publicly available, such as names, addresses, telephone numbers and electronic address when listed in a directory or made available through directory assistance; or (b) Non-Personal Information (as defined further below).
+## Types of Data collected
 
-" **Personal Information** " is personally identifiable information, such as your name, address, e-mail address, credit card information, birth date and gender.  At the time of collection, we will identify the information being collected which will be used for the purposes described in this Privacy Policy.  It is always your choice whether or not to provide Personal Information but if you choose not to provide certain requested Personal Information, in some instances you may not be able to register to use the Website or be able to access and use the Website at all.  In other instances, your choice not to provide certain other Personal Information may mean that you will not be able to use certain features of the Website.  We may collect Personal Information in respect of the Website through registration processes; communications with you; information downloads; service use; user support; surveys and contest entries and survey responses to surveys run by third parties.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies, Usage Data, email address, Various types of Data, first name, last name, picture, gender, date of birth, address, username, password, country, ZIP/Postal code, city and province.
 
-" **Non-Personal Information** " is information of an anonymous nature, such as an Internet Protocol Address (IP Address) that has been stripped of personal information, the domain used to access the Website, and the type and version of browser or operating system being used by visitors to the Website.  Aggregate, anonymized information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors, what pages users access or visit, and average time spent on the Website is not considered Personal Information.  Similarly, business contact information such as the name, title, business address, or telephone number of a business or professional person or an employee of an organization is not considered Personal Information.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.  
+Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.  
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.  
+Any use of Cookies – or of other tracking tools – by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
 
-Although the use of certain Non-Personal Information collected, used or disclosed through the Internet as described herein is not restricted (and to the extent that such is the case, the obligations under this Privacy Policy do not apply to such information), we provide information in this Privacy Policy about the collection of such information for the sake of transparency with respect to the operation of the Website.  Such Non-Personal Information is collected or derived by us in the course of operating this Website.  For example, our web servers may automatically collect Non-Personal Information that is provided through your browser or stored in a cookie when you choose to visit the Website.
+Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party’s consent to provide the Data to the Owner.
 
-**Use of Information:  **We use the information that we collect for the following purposes:
+## Mode and place of processing the Data
 
-  * **Registration and Profile Information:**   In order to register for our Services you must provide certain Personal Information to us such as your full name, address and email address.  You also have the option to log in using your account credentials with any social media accounts indicated by us from time to time.  If you log in using a third-party social media account, the information we will have access to in respect of such account will depend on the privacy policy of the applicable third-party social media platform provider as well as your privacy preferences in respect of such social media account.  You may be required to provide us with certain additional profile information such as your age, gender, academic information and other optional information such as information relating to your interests, background and profile photo.  We will use this information to identify awards, scholarships, bursaries and other funding opportunities (“Funding Opportunities”) that may be of interest to you and for predictive modelling (see further section titled “Predictive Modelling & Data Use” ).
+### Methods of processing
 
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-  * **Social Sharing:**  If you choose to use any of the social sharing features supported by the Website to share information with your network on another social networking platform (i.e. Tweet this award), such information will be processed according to the privacy practices of the applicable third-party social media provider as well as your privacy settings in respect of your account with such third-party social media provider.  If you have approved a social media site to share certain information with us, that information will be collated and stored by us in connection with your personal profile on yconic.
+### Legal basis of processing
 
+The Owner may process Personal Data relating to Users if one of the following applies:
 
-  * **Posts and Comments:**  If you choose to publish a post or a comment on the Website, your username, profile photo and the content of your post or comment will be made publicly available on the Website.
-
-
-  * **Messages:**  Users have the ability to send messages to each other through the Services.  If you send a message to another user, they will be able to see your username, profile photo and the content of your message.  If you receive a message from another user, we will send you an email to let you know that you have received a new message.
-
-
-  * **Surveys:**  Once you register for the Services we will send you notifications for upcoming relevant Surveys that may be of interest to you and/or that you may be eligible to respond to.  If you choose to complete a survey, we will use your survey responses and biographical information from your profile such as your age, gender and educational background to create anonymous aggregate statistics, and may share such data with third parties.  However we will not share your personal information with third parties who sponsor surveys.  See further, ‘Statistics’ below.  If you complete a survey for one of our third party sponsors or partners, your survey results will be collected by the third party sponsors/partners and will be subject to the sponsor’s own privacy policy.  The survey will indicate whether it is for a third party.
-
-
-  * **Scholarship Notifications and Applications:**   Once you register for the Services we will send you notifications for upcoming Funding Opportunities that may be of interest to you and/or that you may be eligible to apply for.  Some of these Funding Opportunities are provided by third parties and not Yconic.  Accordingly, if you choose to apply for any such Funding Opportunities provided by third parties, any information (including personal information) that is included in your application will be made available to such third parties, and the treatment of your personal information will be governed by the Privacy Policy of the third party provider, and not Yconic.  If you do not wish to receive notifications or wish to change the notification settings for Funding Opportunities you can unsubscribe through managing your subscription preferences through your account
-
-
-  * **Transactional Notifications:**  We provide notifications for certain activities relating to your use of our Services despite your indicated e-mail preferences, for example, we will let you know about updates to our Terms of Use or Privacy Policy.
-
-
-  * **Marketing Communications:**   If you opt-in to receive marketing communications from us, we will keep you up to date on our products and services.  You may withdraw your consent to receiving marketing communications (such as unsubscribing from survey notifications and requests) from us at any time by following the opt-out instructions in each communication, or by managing your subscription preferences through your account settings.
-
-
-  *   **Statistics:**  We also collect statistics about use of the Services.  This information will be kept confidential, however, aggregate anonymized statistics that do not personally identify an individual will be kept by us and such aggregate anonymized statistics may be made available to other members or third parties including advertisers, sponsors and partners.  We will also use this information to tailor our content and improve the Website and the Services.
-
-
-  * **Predictive Modelling & Data Use**: Your profile and other information may be used by us or shared with select partners for the purpose of:
+  * Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
+  * provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+  * processing is necessary for compliance with a legal obligation to which the Owner is subject;
+  * processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+  * processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 
 
 
-(i)                 predictive modelling, namely collation and aggregation of data to draw conclusions on or to define shared characteristics.  Predictive modelling may include conclusions drawn about behaviour or likely behaviour across ages, gender, geography and other commonalities; and
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-(ii)               obtaining deeper insights into specific user behaviour based on combining data against a third party’s own records
+### Place
 
-  * **System Logs, Cookies and similar technologies:**  Cookies and similar technologies (such as Advertising ID available on Android mobile devices) are used by us to track content usage and traffic on the Website.  A cookie is a feature of your web browser that consists of a text file that is placed on your hard disk by a web server.  The Website uses cookies to help it compile aggregate statistics about usage of this Website, such as how many users visit the Website, how long users spend viewing the Website, what pages are viewed most often, and what pages are visited by Users.  This information is used to improve the content of the Website.  We also use cookies and similar technologies to collect and store information about how you use our Website, how you interact with content, and to gather other information about your preferences as you use our Services (including what link you click on when you leave our Website). We do this so that we can improve the services we offer you. We may make use of third party service providers to help us with collection, such as Google Analytics. You can set your browser to notify you when you are sent a cookie.  This gives you the chance to decide whether or not to accept it.  If you disable cookies, you may not be able to take advantage of all the features of the Website.  We link information we use in cookies to your personally identifiable information for analytic purposes.
+The Data is processed at the Owner’s operating offices and in any other places where the parties involved in the processing are located.
+
+Depending on the User’s location, data transfers may involve transferring the User’s Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+
+Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
+
+### Retention time
+
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
+
+Therefore:
+
+  * Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+  * Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
 
 
 
-Your IP address is reported by your web browser whenever you visit a page on the Website.  This information is recorded together with your registration information on our databases. 
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
 
-  * **Advertisements:**   Advertisements may be delivered by us or one or more third-party web advertisers including on the Website or third party sites on behalf of yconic. yconic and  third party web advertisers may set cookies. These cookies allow the advertisement server operated by that third party to recognize your computer each time they send you an online advertisement. Accordingly, advertisement servers may compile information about where or whether you viewed their advertisements and which advertisements you clicked on. This information allows web advertisers to deliver targeted advertisements that they believe will be of most interest to you.  The Privacy Policy applies to cookies placed on your computer by us, but does not cover the use of cookies by any third-party web advertisers.  For the privacy practices of such third-party web advertisers, you should consult the applicable privacy policy for the relevant third-party web advertiser(s).
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+
+## The purposes of processing
+
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Analytics, Access to third party services’ accounts, Interaction with external social networks and platforms, Managing contacts and sending messages, Advertising, Contacting the User, Content commenting, Displaying content from external platforms, Social features, Registration and authentication, Remarketing and behavioral targeting, Commercial affiliation, Content performance and features testing (A/B testing), Hosting and backend infrastructure, Interaction with data collection platforms and other third parties, Platform services and hosting and User database management.
+
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
+
+## Facebook permissions asked by this Application
+
+This Application may ask for some Facebook permissions allowing it to perform actions with the User’s Facebook account and to retrieve information, including Personal Data, from it. This service allows this Application to connect with the User’s account on the Facebook social network, provided by Facebook Inc.
+
+For more information about the following permissions, refer to the [Facebook permissions documentation](https://developers.facebook.com/docs/authentication/permissions/) and to the [Facebook privacy policy](https://www.facebook.com/about/privacy/).
+
+The permissions asked are the following:
+
+### Basic information
+
+By default, this includes certain User’s Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the User has made more of their Data public, more information will be available.
+
+### Birthday
+
+Provides access to the birthday.
+
+### Contact email
+
+Access the User’s contact email address.
+
+## Detailed information on the processing of Personal Data
+
+Personal Data is collected for the following purposes and using the following services:
+
+### Access to third party services’ accounts
+
+This type of services allows this Application to access Data from your account on a third party service and perform actions with it.  
+These services are not activated automatically, but require explicit authorization by the User.
+
+#### Access to the Twitter account (Twitter, Inc.)
+
+This service allows this Application to connect with the User’s account on the Twitter social network, provided by Twitter, Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+
+Place of processing: US – [Privacy Policy](https://twitter.com/privacy).
+
+#### Facebook account access (This Application)
+
+This service allows this Application to connect with the User’s account on the Facebook social network, provided by Facebook, Inc.
+
+Permissions asked: Birthday and Contact email.
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/policy.php).
+
+### Advertising
+
+This type of services allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.  
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
+
+#### Google AdSense (Google Inc.)
+
+Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Application and User behavior concerning ads, products and services offered.  
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](https://www.google.com/settings/ads/onweb/optout).
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.google.com/policies/technologies/ads/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout).
+
+#### Amazon Mobile Ads (Amazon)
+
+Amazon Mobile Ads is an advertising service provided by Amazon.com, Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.amazon.com/gp/help/customer/display.html/ref=UTF8&nodeId=468496).
+
+### Analytics
+
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+
+#### Google Analytics (Google Inc.)
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+#### Google Analytics with anonymized IP (Google Inc.)
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
+This integration of Google Analytics anonymizes your IP address. It works by shortening Users’ IP addresses within member states of the European Union or in other contracting states to the Agreement on the European Economic Area. Only in exceptional cases will the complete IP address be sent to a Google server and shortened within the US.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+#### Google Tag Manager (Google)
+
+Google Tag Manager is an analytics service provided by Google, Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/).
+
+#### Analytics collected directly (This Application)
+
+This Application uses an internal analytics system that does not involve third parties.
+
+Personal Data collected: Cookies and Usage Data.
+
+#### Facebook Ads conversion tracking (Facebook, Inc.)
+
+Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on this Application.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/).
+
+#### AdEspresso conversion tracking (Creative Web Srl)
+
+AdEspresso conversion tracking is an analytics service provided by Creative Web Srl that connects data from the Facebook advertising network with actions performed on this Application.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: Italy – [Privacy Policy](https://adespresso.com/privacy/).
+
+### Commercial affiliation
+
+This type of services allows this Application to display advertisements for third party products or services. Ads can be displayed either as advertising links or as banners using various kinds of graphics.  
+Clicks on the icon or banner posted on the Application are tracked by the third-party services listed below, and are shared with this Application.  
+For details of which data are collected, please refer to the privacy policy of each service.
+
+#### Amazon Affiliation (Amazon)
+
+Amazon Affiliation is a commercial affiliation service provided by Amazon.com Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.amazon.com/gp/help/customer/display.html/ref=hp_rel_topic?ie=UTF8&nodeId=468496).
+
+#### CJ Affiliate by Conversant (Conversant, Inc.)
+
+CJ Affiliate by Conversant is a commercial affiliation service provided by Conversant, Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](http://www.conversantmedia.com/legal/privacy).
+
+#### LinkShare (Rakuten Marketing LLC)
+
+LinkShare is a commercial affiliation service provided by Rakuten Marketing LLC.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](http://marketing.rakuten.com/affiliate-privacy-policy).
+
+#### ShareAsale (ShareAsale.com Inc.)
+
+ShareAsale is a banner commercial affiliation service provided by ShareAsale.com Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.shareasale.com/PrivacyPolicy.pdf).
+
+### Contacting the User
+
+#### Contact form (This Application)
+
+By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
+
+Personal Data collected: email address.
+
+#### Mailing list or newsletter (This Application)
+
+By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
+
+Personal Data collected: address, city, country, date of birth, email address, first name, gender, last name, province and ZIP/Postal code.
+
+### Content commenting
+
+Content commenting services allow Users to make and publish their comments on the contents of this Application.  
+Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.  
+If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
+
+#### Facebook Comments (Facebook, Inc.)
+
+Facebook Comments is a content commenting service provided by Facebook, Inc. enabling the User to leave comments and share them on the Facebook platform.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation).
+
+### Content performance and features testing (A/B testing)
+
+The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of this Application.
+
+#### Google Website Optimizer (Google Inc.)
+
+Google Website Optimizer is an A/B testing service provided by Google Inc.  
+Google may use Personal Data to contextualize and personalize the ads of its own advertising network.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/).
+
+### Displaying content from external platforms
+
+This type of services allows you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
+This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
+
+#### YouTube video widget (Google Inc.)
+
+YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/).
+
+### Hosting and backend infrastructure
+
+This type of service has the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+
+#### Amazon Web Services (AWS) (Amazon)
+
+Amazon Web Services is a hosting and backend service provided by Amazon.com Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+
+Place of processing: See the Amazon privacy policy – [Privacy Policy](https://aws.amazon.com/privacy/).
+
+### Interaction with data collection platforms and other third parties
+
+This type of service allows Users to interact with data collection platforms or other services directly from the pages of this Application for the purpose of saving and reusing data.  
+If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service.
+
+#### Mailchimp widget (The Rocket Science Group, LLC.)
+
+The Mailchimp widget is a service for interacting with the Mailchimp email address management and message sending service provided by The Rocket Science Group, LLC.
+
+Personal Data collected: email address, first name and last name.
+
+Place of processing: USA – [Privacy Policy](https://mailchimp.com/legal/privacy/). Privacy Shield participant.
+
+### Interaction with external social networks and platforms
+
+This type of services allow interaction with social networks or other external platforms directly from the pages of this Application.  
+The interaction and information obtained through this Application are always subject to the User’s privacy settings for each social network.  
+This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
+
+#### Facebook Like button and social widgets (Facebook, Inc.)
+
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation).
+
+#### Twitter Tweet button and social widgets (Twitter)
+
+The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://twitter.com/privacy).
+
+#### Pinterest “Pin it” button and social widgets (Pinterest)
+
+The Pinterest “Pin it” button and social widgets are services allowing interaction with the Pinterest platform provided by Pinterest Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://about.pinterest.com/en/privacy-policy).
+
+#### LinkedIn button and social widgets (LinkedIn Corporation)
+
+The LinkedIn button and social widgets are services allowing interaction with the LinkedIn social network provided by LinkedIn Corporation.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
+
+#### Tumblr sharing button and social widgets (Tumblr Inc.)
+
+The Tumblr sharing button and social widgets are services allowing interaction with the Tumblr social network provided by Tumblr Inc.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.tumblr.com/policy/en/privacy).
+
+### Managing contacts and sending messages
+
+This type of services makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
+These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
+
+#### Sendgrid (Sendgrid)
+
+Sendgrid is an email address management and message sending service provided by Sendgrid Inc.
+
+Personal Data collected: email address.
+
+Place of processing: US – [Privacy Policy](https://sendgrid.com/privacy).
+
+#### Mailchimp (The Rocket Science Group, LLC.)
+
+Mailchimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
+
+Personal Data collected: email address.
+
+Place of processing: US – [Privacy Policy](https://mailchimp.com/legal/privacy/). Privacy Shield participant.
+
+#### Mandrill (The Rocket Science Group, LLC.)
+
+Mandrill is an email address management and message sending service provided by The Rocket Science Group, LLC.
+
+Personal Data collected: email address and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://mailchimp.com/legal/privacy/).
+
+### Platform services and hosting
+
+These services have the purpose of hosting and running key components of this Application, therefore allowing the provision of this Application from within a unified platform. Such platforms provide a wide range of tools to the Owner – e.g. analytics, user registration, commenting, database management, e-commerce, payment processing – that imply the collection and handling of Personal Data. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+
+#### WordPress.com (Automattic Inc.)
+
+WordPress.com is a platform provided by Automattic Inc. that allows the Owner to build, run and host this Application.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+
+Place of processing: USA – [Privacy Policy](https://automattic.com/privacy/).
+
+### Registration and authentication
+
+By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.  
+Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third party services, for registration or identification purposes.
+
+#### Direct registration (This Application)
+
+The User registers by filling out the registration form and providing the Personal Data directly to this Application.
+
+Personal Data collected: address, city, country, date of birth, email address, first name, gender, last name, password, picture, username, various types of Data as specified in the privacy policy of the service and ZIP/Postal code.
+
+#### Facebook Authentication (Facebook, Inc.)
+
+Facebook Authentication is a registration and authentication service provided by Facebook, Inc. and is connected to the Facebook social network.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/help/405977429438260).
+
+### Remarketing and behavioral targeting
+
+This type of service allows this Application and its partners to inform, optimize and serve advertising based on past use of this Application by the User.  
+This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.  
+In addition to any opt out offered by any of the services below, the User may opt out of a third-party service’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
+
+#### Facebook Remarketing (Facebook, Inc.)
+
+Facebook Remarketing is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of this Application with the Facebook advertising network.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/).
+
+#### Remarketing with Google Analytics (Google Inc.)
+
+Remarketing with Google Analytics is a remarketing and behavioral targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Google Ads advertising network and the Doubleclick Cookie.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). Privacy Shield participant.
+
+#### Facebook Custom Audience (Facebook, Inc.)
+
+Facebook Custom Audience is a remarketing and behavioral targeting service provided by Facebook, Inc. that connects the activity of this Application with the Facebook advertising network.
+
+Personal Data collected: Cookies and email address.
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/).
+
+### Social features
+
+#### Inviting and suggesting friends (This Application)
+
+This Application may use the Personal Data provided to allow Users to invite their friends – for example through the address book, if access has been provided – and to suggest friends or connections inside it.
+
+Personal Data collected: Various types of Data.
+
+#### Public profile (This Application)
+
+Users may have public profiles that other Users can display. In addition to the Personal Data provided, this profile may contain Users’ interactions with this Application.
+
+Personal Data collected: first name, last name and picture.
+
+### User database management
+
+This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks’ profiles) and used to build private profiles that the Owner can display and use for improving this Application.  
+Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
+
+#### Intercom (Intercom Inc.)
+
+Intercom is a User database management service provided by Intercom Inc. Intercom can also be used as a medium for communications, either through email, or through messages within our product(s).
+
+Personal Data collected: email address and various types of Data as specified in the privacy policy of the service.
+
+Place of processing: US – [Privacy Policy](https://docs.intercom.io/pricing-and-terms/privacy).
+
+## Further information about Personal Data
+
+### Third Party Offers
+
+When sending you offers from Third Parties, we may share your information with these Third Parties under a nondisclosure agreement, for the sole purposes of: ensuring we have met your unsubscribe or do not contact requests from the Third Parties and for allowing the Third Parties to validate your participation or nonparticipation in their offers. Third Parties are required to destroy this information after validation and you will not receive any communication directly from Third Parties without your express consent.
+
+### Mailing List or Newsletter (Including Third Party Offers)
+
+Mailing List or Newsletter (This Application)  
+By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this site or other contests, products, offers and content, including those from third-party sponsors in partnership with us. Your email address will also be added to this list as a result of signing up to this site only after you have given us express consent.
+
+Personal Data collected: City, Cookie, Country, Date of Birth, Email address, First Name, Gender, Last Name, Province, School, Program, Usage data and ZIP/Postal code.
+
+### The Service is not directed to children under the age of 13
+
+Users declare themselves to be adult according to their applicable legislation. Minors may use this Application only with the assistance of a parent or guardian. Under no circumstance persons under the age of 13 may use this Application.
+
+### Unique device identification
+
+This Application may track Users by storing a unique identifier of their device, for analytics purposes or for storing Users’ preferences.
+
+## The rights of Users
+
+Users may exercise certain rights regarding their Data processed by the Owner.
+
+In particular, Users have the right to do the following:
+
+  * **Withdraw their consent at any time.**  Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+  *  **Object to processing of their Data.**  Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+  *  **Access their Data.**  Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+  *  **Verify and seek rectification.**  Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+  *  **Restrict the processing of their Data.**  Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+  *  **Have their Personal Data deleted or otherwise removed.**  Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+  *  **Receive their Data and have it transferred to another controller.** Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User’s consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+  *  **Lodge a complaint.**  Users have the right to bring a claim before their competent data protection authority.
 
 
 
-If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy.  See further the section of this Privacy Policy entitled ‘ _Amendment of this Policy’._
+### Details about the right to object to processing
 
-**Disclosures & Transfers:  **We have put in place contractual and other organizational safeguards with our agents (see further below) to ensure a proper level of protection of your Personal Information (see further  _Security_  below).  In addition to those measures, we will not disclose or transfer your Personal Information to third parties without your permission, except as specified in this Privacy Policy (see further  _Important Exceptions_  below).
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
 
-As of the date of this Privacy Policy, we share Personal Information about you in respect of the Website with certain service providers such as website hosting and analytics providers. In addition, from time to time we may employ third parties to help us improve the Website and/or the Services. These third parties may have limited access to databases of user information solely for the purpose of helping us to improve the Website and/or the Services and they will be subject to contractual restrictions prohibiting them from using the information about our members for any other purpose.  We may also transfer your personal information to our third party service providers to assist us with: providing you with our or our partner companies’ product offers; deploying email, postal, and online campaigns; shipping and handling, hosting and storage, data processing, data warehousing, data verification and supplementation; market research, fulfillment, and technical support. By providing your information, you agree to this transfer, storing and processing.
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
 
-By providing your contact information and survey responses, you agree that we may share your information with our partner companies so they may use the same for predictive analytics.  We have contractual agreements with our partner companies to ensure that the information they receive from us is handled securely.  You will not be marketed to one-to-one by these companies using any contact information provided in a data set from yconic unless you have opted in to receive communications from them. 
+### How to exercise these rights
 
-Our servers are located in Canada and the US, and accordingly, your personal information may be available to the Canadian and US governments and/or its agencies under lawful order, regardless of the safeguards we have put in place for the protection of your Personal Information. 
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
 
-I _mportant Exceptions:  _We may disclose your Personal Information to third parties without your consent if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Website members, other users of the Services, or anyone else (including the rights or property of anyone else) that could be harmed by such activities.  We may disclose Personal Information when we believe in good faith that such disclosure is required by and in accordance with the law.
+## Information about Cookies
 
-We may also disclose your Personal Information in connection with a corporate re-organization, a merger or amalgamation with another entity, a sale of all or a substantial portion of our assets or stock, including any due diligence exercise carried out in relation to the same, provided that the information disclosed continues to be used for the purposes permitted by this Privacy Policy by the entity acquiring the information.
+### Advertising
 
-**Security:  **The security of your Personal Information is important to us.  We use commercially reasonable efforts to store and maintain your Personal Information in a secure environment.  We take technical, contractual, administrative, and physical security steps designed to protect Personal Information that you provide to us.  We have implemented procedures designed to limit the dissemination of your Personal Information to only such designated staff as are reasonably necessary to carry out the stated purposes we have communicated to you.
+These Cookies are necessary for the functioning of the services filed under the section ”Advertising”.
 
-In certain areas, such as when you provide credit card or other payment information to us, the Website works to help protect the security of your credit card and other payment information during transmission by using industry standard Secure Sockets Layer (SSL) encryption technology.
+#### exchange_uid, _drt_, FLC, id, __gads
 
-You are also responsible for helping to protect the security of your Personal Information.  For instance, never give out your email account information or your password for the Services to third parties.
+Google AdSense Cookies.
 
-**Retention:  **We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you.  We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, Non-Personal Information, account recovery, or if required by law. All retained personal information will remain subject to the terms of this Privacy Policy.  If you request that your name be removed from our databases, it may not be possible to completely delete all your Personal Information due to technological and legal constraints.
+### Analytics
 
-**Children’s Privacy** : The Website and the Services are intended for use by persons older than 13 years of age. Accordingly, we do not knowingly collect information about persons who are younger than 13.  If you think we have collected such information, please contact us and we will remove such information from our systems.
+These Cookies are necessary for the functioning of the services filed under the section ”Analytics”.
 
-**Amendment of this Policy:  **We reserve the right to change this Privacy Policy at any time.  If we decide to change this Privacy Policy in the future, we will post an appropriate notice which will appear in your account notifications.   Any non-material change (such as clarifications) to this Privacy Policy will become effective on the date the change is posted and any material changes will become effective 30 days from their posting on the Website.  Unless stated otherwise, our current Privacy Policy applies to all Personal Information that we have about you.  The date on which the latest update was made is indicated at the bottom of this document.  We recommend that you print a copy of this Privacy Policy for your reference and revisit this policy from time to time to ensure you are aware of any changes.  Your continued use of the Website signifies your acceptance of any changes.
+#### _ut*, _ga*
 
-**Delete/Deactivate Procedure:**  Users may unsubscribe to any of our Services at any time or delete or deactivate their account in its entirety by selecting the appropriate action in the Account Settings under My Profile.  
+Google Analytics Cookies.
 
-**Access and Accuracy:  **You have the right to access the Personal Information we hold about you in order to verify the Personal Information we have collected in respect to you and to have a general account of our uses of that information.  Upon receipt of your written request, we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user.  In such circumstances we will provide reasons for the denial to you upon request.  We will endeavor to deal with all requests for access and modifications in a timely manner.
+#### _ut*, _ga*
 
-We will make every reasonable effort to keep your Personal Information accurate and up-to-date, and we will provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate.  As appropriate, this amended Personal Information will be transmitted to those parties to which we are permitted to disclose your information.  Having accurate Personal Information about you enables us to give you the best possible service.
+Google Analytics with anonymized IP Cookies.
 
-**Contact Us:  **You can help by keeping us informed of any changes such as a change of address or telephone number.  If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, [please contact us](https://support.yconic.com/hc/en-us/requests/new).
+### Displaying content from external platforms
 
-**Last Updated: November 7, 2016.**
+These Cookies are necessary for the functioning of the services filed under the section ”Displaying content from external platforms”.
+
+#### ACTIVITY, APISID, GED_PLAYLIST_ACTIVITY, GEUP, HSID, LOGIN_INFO, PREF, SAPISID, SID, SSID, VISITOR_INFO1_LIVE, YSC, __utma, __utmc, __utmz, s_gl, wide
+
+YouTube video widget Cookies.
+
+Since the installation of third-party Cookies and other tracking systems through the services used within this Application cannot be technically controlled by the Owner, any specific references to Cookies and tracking systems installed by third parties are to be considered indicative. In order to obtain complete information, consult the privacy policy for the respective third-party services listed in this document.
+
+## Additional information about Data collection and processing
+
+### Legal action
+
+The User’s Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.  
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+
+### Additional information about User’s Personal Data
+
+In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+
+### System logs and maintenance
+
+For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) use other Personal Data (such as the IP Address) for this purpose.
+
+### Information not contained in this policy
+
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
+
+### How “Do Not Track” requests are handled
+
+This Application does not support “Do Not Track” requests.  
+To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+
+### Changes to this privacy policy
+
+The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Application and/or – as far as technically and legally feasible – sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. 
+
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
+
+### Definitions and legal references
+
+#### Personal Data (or Data)
+
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
+
+#### Usage Data
+
+Information collected automatically through this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
+
+#### User
+
+The individual using this Application who, unless otherwise specified, coincides with the Data Subject.
+
+#### Data Subject
+
+The natural person to whom the Personal Data refers.
+
+#### Data Processor (or Data Supervisor)
+
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
+
+#### Data Controller (or Owner)
+
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
+
+#### This Application
+
+The means by which the Personal Data of the User is collected and processed.
+
+#### Service
+
+The service provided by this Application as described in the relative terms (if available) and on this site/application.
+
+#### European Union (or EU)
+
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
+
+#### Cookies
+
+Small piece of data stored in the User’s device.
+
+#### Legal information
+
+This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
+
+This privacy policy relates solely to this Application, if not stated otherwise within this document.
+
+Latest update: February 1, 2019
