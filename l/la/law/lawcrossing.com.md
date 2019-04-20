@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227111204id_/https%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421000704id_/https%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # LawCrossing.com - Privacy Policy, Your Privacy is So Important To Us | LawCrossing.com
 
