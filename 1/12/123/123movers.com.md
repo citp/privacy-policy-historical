@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123movers.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812004806id_/http%3A//www.dominionenterprises.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123movers.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420032833id_/http%3A//www.dominionenterprises.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
