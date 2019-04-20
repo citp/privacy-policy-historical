@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lalpathlabs.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025111117id_/https%3A//www.lalpathlabs.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lalpathlabs.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420111744id_/https%3A//www.lalpathlabs.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Privacy terms listed at Dr Lal PathLabs
 
@@ -96,4 +96,4 @@ The Company may assign any of its responsibilities/obligations to any other pers
 
 11\. Contacting the Website
 
-If you have any questions about this Privacy Policy, the privacy practices of this Website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact us at shakti.shrivastava@lalpathlabs.com 
+If you have any questions about this Privacy Policy, the privacy practices of this Website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact us at digital@lalpathlabs.com 
