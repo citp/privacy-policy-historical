@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberofcommerce.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120211931id_/https%3A//www.chamberofcommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberofcommerce.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420161958id_/https%3A//www.chamberofcommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ChamberofCommerce.com
 
@@ -20,8 +20,7 @@ We automatically track and collect the following categories of information when 
 _2.1.2 Personal and Business Information Collected_  
 In order for you to access certain services such as creating a user profile, uploading videos, posting messages in our forums, reviewing businesses, entering contests, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists that we offer via the Site, we may require you to provide us with certain personally identifiable information ("Personal Information"). Personal Information includes the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address) and (2) Demographic Data (such as your zip code, age, and occupation). 
 
-_2.1.3 Rights of Information_  
-This information is proprietary to Acxiom Corporation and is protected under U.S. copyright law and international treaty provisions. This information is licensed for your personal or professional use and may not be resold or provided to others.  You may not distribute, sell, rent, sublicense, or lease such information, in whole or in part to any third party; and you will not make such Acxiom information available in whole or in part to any other user in any networked or time-sharing environment, or transfer the information in whole or in part to any computer other than the PC used to access this information. _2.2 Uses of Information Collected_
+_2.2 Uses of Information Collected_
 
 _2.2.1 Company Use of Information_  
 We may use your Personal Information to operate, maintain, and provide to you the features and functionality of the Site. When you register with ChamberofCommerce.com you agree to receive email communications from ChamberofCommerce.com about related news, information, products and services. We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Site changes or for customer service purposes). 
