@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slides.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909055256id_/https%3A//slides.com/privacy%3Froot%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slides.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420053107id_/https%3A//slides.com/privacy%3Froot%3Dtrue) for the most accurate reproduction.*
 
 # Slides
 
