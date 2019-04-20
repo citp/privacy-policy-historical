@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkletts.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831194351id_/https%3A//sparkletts.com/bottled-water-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletts.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420082929id_/https%3A//sparkletts.com/bottled-water-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from Sparkletts
 
@@ -8,7 +8,7 @@
 
 **Updated October 19, 2016**
 
-Welcome! DS Services of America, Inc. and its affiliates are a national direct-to-consumer provider of bottled water, office coffee and water filtration services via a full portfolio of great American brands, such as Alhambra®, Deep Rock®, Belmont Springs®, Crystal Rock®, Crystal Springs®, Hinckley Springs®, Kentwood Springs®, Mount Olympus®, Sparkletts®, Sparkletts® Ice, Sparkletts® Sparkling Water, Sierra Springs®, Athena® water, Nursery® water, Standard Coffee®, Javarama® and Relyant®. We also produce and distribute bottles of various sizes and shapes through our [PolyCycle SolutionsTM](http://www.polycyclesolutions.com/) brand. DS Services of America, Inc., its brands and affiliates are collectively referred to in this privacy statement as " **DS Services** ", " **we** ", " **us** " or " **our** ".
+Welcome! DS Services of America, Inc. and its affiliates are a national direct-to-consumer provider of bottled water, office coffee and water filtration services via a full portfolio of great American brands, such as Alhambra®, Deep Rock®, Belmont Springs®, Crystal Rock®, Crystal Springs®, Hinckley Springs®, Kentwood Springs®, Mount Olympus®, Sparkletts®, Sparkletts® Sparkling Water, Sierra Springs®, Athena® water, Nursery® water, Standard Coffee®, Javarama® and Relyant®. We also produce and distribute bottles of various sizes and shapes through our [PolyCycle SolutionsTM](http://www.polycyclesolutions.com/) brand. DS Services of America, Inc., its brands and affiliates are collectively referred to in this privacy statement as " **DS Services** ", " **we** ", " **us** " or " **our** ".
 
 This privacy statement is intended to help you understand what information we collect, how we use it, what choices you have and other important information. Although some of the concepts are technical in some cases, we tried our best to explain things in a straightforward and transparent way. 
 
