@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031135926id_/https%3A//www.pixar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420231920id_/https%3A//www.pixar.com/privacy-policy) for the most accurate reproduction.*
 
 # Pixar Animation Studios
 
