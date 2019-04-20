@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retro64.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507095223id_/http%3A//www.retro64.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retro64.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420221242id_/http%3A//www.retro64.com/privacy.asp) for the most accurate reproduction.*
 
 # Our Strict Privacy Policy at Retro64
 
