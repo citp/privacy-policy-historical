@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprint.ly privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027190734id_/http%3A//sprint.ly/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprint.ly privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420163115id_/https%3A//sprint.ly/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sprint.ly
 
@@ -53,7 +53,7 @@ We collect technical information automatically through your electronic device, s
 ### COOKIES
 
 The Website uses cookies to distinguish you from other users of the Website. Cookies are pieces of information stored directly on the device you are using. Cookies allow us to recognize your device and to collect information such as internet browser type, time spent using Services, and pages visited. This helps us to provide you with a good experience when you browse the Website and also allows us to improve the Website.  
-We may use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience while using the Services. In addition, we may use the information to gather statistical information about the usage of the Services in order to understand how they are used, continually improve their design and functionality, and assist us with resolving questions about them. [CONFIRM NOT SERVING ADS: Cookies further allow us to present to you the advertisements or offers that are most likely to appeal to you. We may also use cookies to track your responses to our advertisements and we may use cookies or other files to track your use of other websites].  
+We may use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience while using the Services. In addition, we may use the information to gather statistical information about the usage of the Services in order to understand how they are used, continually improve their design and functionality, and assist us with resolving questions about them. Cookies further allow us to present to you the advertisements or offers that are most likely to appeal to you. We may also use cookies to track your responses to our advertisements and we may use cookies or other files to track your use of other websites.  
 You can refuse to accept the cookies we use by adjusting your browser settings. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Website and some online Services.
 
 ### HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT ABOUT YOU?
