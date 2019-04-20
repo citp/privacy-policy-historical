@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mikehuckabee.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107165720id_/http%3A//www.mikehuckabee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikehuckabee.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420081422id_/https%3A//www.mikehuckabee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mike Huckabee
 
-[MikeHuckabee.com](http://www.mikehuckabee.com/) created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL [http://www.MikeHuckabee.com](http://www.mikehuckabee.com/).
+[MikeHuckabee.com](https://www.mikehuckabee.com/) created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL [https://www.mikehuckabee.com](https://www.mikehuckabee.com/).
 
-In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. [MikeHuckabee.com](http://www.mikehuckabee.com/) reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
+In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. [MikeHuckabee.com](https://www.mikehuckabee.com/) reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
 
 Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of;
 
@@ -30,7 +30,7 @@ Our registration forms require users to give us contact information that may inc
 
 Internet Protocol Address:
 
-We collect an IP address from all visitors to [http://www.MikeHuckabee.com](http://www.mikehuckabee.com/) An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
+We collect an IP address from all visitors to [https://www.mikehuckabee.com](https://www.mikehuckabee.com/) An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
 
 Use of "Cookies":
 
@@ -40,15 +40,15 @@ Your browser is probably set to accept cookies. However, if you would prefer not
 
 Security:
 
-All information provided to [http://www.MikeHuckabee.com](http://www.mikehuckabee.com/) is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of [MikeHuckabee.com](http://www.mikehuckabee.com/). Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information.
+All information provided to [https://www.mikehuckabee.com](https://www.mikehuckabee.com/) is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of [MikeHuckabee.com](https://www.mikehuckabee.com/). Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information.
 
 Tell-A-Friend:
 
-If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. [MikeHuckabee.com](http://www.mikehuckabee.com/) will automatically send the friend a one-time email inviting them to visit the Site. [MikeHuckabee.com](http://www.mikehuckabee.com/) stores this information for the sole purpose of sending this one-time email.
+If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. [MikeHuckabee.com](https://www.mikehuckabee.com/) will automatically send the friend a one-time email inviting them to visit the Site. [MikeHuckabee.com](https://www.mikehuckabee.com/) stores this information for the sole purpose of sending this one-time email.
 
 Other Web Sites:
 
-Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which the [MikeHuckabee.com](http://www.mikehuckabee.com/) has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours.
+Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which the [MikeHuckabee.com](https://www.mikehuckabee.com/) has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours.
 
 Contacting the Web Site:
 
