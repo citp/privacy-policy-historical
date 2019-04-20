@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musiczum.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130212348id_/https%3A//musiczum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musiczum.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420233650id_/https%3A//musiczum.com/privacy-policy) for the most accurate reproduction.*
 
 # musiczum.com - Privacy Policy
 
