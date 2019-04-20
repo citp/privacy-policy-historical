@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109205742id_/http%3A//www.ran.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420145223id_/https%3A//www.ran.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rainforest Action Network
 
-September 4th, 2018
+February 12th, 2019
 
 Rainforest Action Network (RAN) is committed to maintaining the privacy of those who visit our websites, [www.ran.org](http://www.ran.org/), [act.ran.org](https://act.ran.org/), [grants.ran.org](https://grants.ran.org/), [japan.ran.org](http://japan.ran.org/), and [forestsandfinance.org](http://forestsandfinance.org/).
 
@@ -10,9 +10,9 @@ RAN is the sole owner of the information collected on this site. This informatio
 
 We collect only the domain name, but not the e-mail address, of visitors to our website, aggregate information on what pages visitors access, and information volunteered by the visitor (such as survey information, e-mail and other addresses and other personal information).
 
-The information we collect is used to improve the content of our website, to notify visitors about updates to our website , and alert visitors about issues and opportunities. The information is not shared with other organizations for commercial purposes. All personal information is stored on a secure server with password protection.
+The information we collect is used to improve the content of our website, to notify visitors about updates to our website, and alert visitors about issues and opportunities. The information is not shared with other organizations for commercial purposes. 
 
-Visitors under the age of 13 (US) or 16 (EU & elsewhere), please ask your parent/guardian for their consent before submitting your personal information to this site. If we have reason to believe that someone is underage and we have collected their personal information without proper consent, we will delete that information in a reasonable period of time.
+All personal information is stored on secure servers with password protection. Our service providers have privacy policies that also ensure they do not share, sell or rent your information for commercial purposes and that they use appropriate security procedures to protect your data. (NationBuilder – [https://nationbuilder.com/privacy](https://nationbuilder.com/privacy), Blackbaud – <https://www.blackbaud.com/company/privacy-policy/north-america>) Visitors under the age of 13 (US) or 16 (EU & elsewhere), please ask your parent/guardian for their consent before submitting your personal information to this site. If we have reason to believe that someone is underage and we have collected their personal information without proper consent, we will delete that information in a reasonable period of time.
 
 ## Financial Transactions
 
@@ -54,7 +54,7 @@ RAN provides an advocacy service allowing site visitors to contact corporate lea
 
 ## Links
 
-RAN provides links to other websites. RAN is not responsible for the privacy practices of such other sites. Site visitors are encouraged to be aware when they leave our websites  and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by our websites.
+RAN provides links to other websites. RAN is not responsible for the privacy practices of such other sites. Site visitors are encouraged to be aware when they leave our websites and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by our websites.
 
 ## Changes to this policy
 
