@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the picfair.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229163049id_/https%3A//www.picfair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picfair.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420103941id_/https%3A//www.picfair.com/privacy) for the most accurate reproduction.*
 
-# Picfair Privacy Policy
-
-## PICFAIR PRIVACY POLICY
+# Privacy Policy | Picfair
 
 **Last Updated 24 May 1018**
 
 ### Who we are, and what is this?
 
-We're Picfair, a company that wants to help photographers make money from their creativity. Our offices are at 4 Elder St, London, E1 6BT. Our registered address is 5 New Street Square, London, EC4A 3TW - that's the address of our Company Secretary, who are also our lawyers Taylor Wessing. They always forward on any correspondence they receive for us at that address, but if you want to get hold of us quickly, or send us postcards (and please do), the Elder Street address is the most direct route. Quicker still, you can always email us, about anything, at [hello@picfair.com](mailto:hello@picfair.com). 
+We're Picfair, a company that wants to help photographers make money from their creativity. Our offices are at 154-158 Shoreditch High St, London E1 6HU. Our registered address is 5 New Street Square, London, EC4A 3TW - that's the address of our Company Secretary, who are also our lawyers Taylor Wessing. They always forward on any correspondence they receive for us at that address, but if you want to get hold of us quickly, or send us postcards (and please do), the Shoreditch High Street address is the most direct route. Quicker still, you can always email us, about anything, at [hello@picfair.com](mailto:hello@picfair.com). 
 
 This Privacy Policy is our way to try to explain as clearly as possible exactly how we use and collect your data. We've tried to explain and collate as much as possible, but if there's anything we need to add or amend, we reserve the right to make changes to it it, without giving you notice, whenever we need to. But it will always be here, on our website, if you ever want to check for updates. 
 
