@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kovels.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005040421id_/https%3A//www.kovels.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kovels.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420214722id_/https%3A//www.kovels.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About | General
 
