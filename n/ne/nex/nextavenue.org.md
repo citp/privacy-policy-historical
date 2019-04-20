@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextavenue.org privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001051628id_/https%3A//www.nextavenue.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextavenue.org privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420040704id_/https%3A//www.nextavenue.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Next Avenue
 
