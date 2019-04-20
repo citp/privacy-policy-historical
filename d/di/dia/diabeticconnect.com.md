@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227053145id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421012339id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Diabetic Connect
 
