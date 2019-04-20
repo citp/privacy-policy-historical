@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625163319id_/https%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421010954id_/https%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
 
 # Sportsman's Guide - Outdoor Gear, Military Surplus, Survival Gear and more
 
@@ -6,7 +6,7 @@
 
 The Sportsman's Guide uses your personal information to enhance and improve your customer experience. The purpose of this Privacy Policy is to provide you with information regarding what we will collect, how such information may be used and the choices available to you regarding the use of your information. In addition, this policy exists to better inform you of your ability to correct or modify the information you have provided us. 
 
-Your privacy is important to us and we are committed to protecting your privacy. If you have any questions or concerns about our Privacy Policy, you may email us at [PrivacyOfficer@sportsmansguide.com](mailto://PrivacyOfficer@sportsmansguide.com?subject=Privacy%20Policy). We welcome your feedback and suggestions to help us improve our policies and practices. This Privacy Policy is only applicable to customers in the United States.
+Your privacy is important to us and we are committed to protecting your privacy. If you have any questions or concerns about our Privacy Policy, you may email us at [legal@sportsmansguide.com](mailto://legal@sportsmansguide.com?subject=Privacy%20Policy). We welcome your feedback and suggestions to help us improve our policies and practices. This Privacy Policy is only applicable to customers in the United States.
 
 ###  What Do You Do With the Information You Collect? 
 
@@ -54,7 +54,7 @@ South St. Paul, MN 55075-0239
 
 Catalog: Please make sure to provide us with your exact name and address or the mailing label from your catalog so that we can identify you correctly. We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented. Any mailings that you may receive during this time do not reflect your subscription status, and we ask that you please disregard them. 
 
-E-mail: To manage your E-mail Preferences or unsubscribe, [click here](https://web.archive.org/customerservice/emailpreferencessignup). if you choose to be removed from our e-mail specials lists, you will still continue to receive order and confirmation e-mails as well as e-mails relating to your other transactions.
+E-mail: To manage your E-mail Preferences or unsubscribe, [click here](https://web.archive.org/customerservice/emailpreferences). if you choose to be removed from our e-mail specials lists, you will still continue to receive order and confirmation e-mails as well as e-mails relating to your other transactions.
 
 ###  How Secure Is My Online Transaction? 
 
