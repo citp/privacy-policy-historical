@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spurls.info privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219063426id_/http%3A//spurls.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spurls.info privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420152808id_/http%3A//spurls.info/privacy) for the most accurate reproduction.*
 
 # privacy – spurls.info
 
