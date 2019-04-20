@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vowgag.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014232021id_/http%3A//vowgag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vowgag.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421004441id_/http%3A//vowgag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viral Funny Amazing News
 
