@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118133435id_/https%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421025336id_/https%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
 
-# Privacy - ACT Government Information Portal
+# Privacy- ACT Government
 
 ## Scope
 
@@ -110,6 +110,36 @@ With respect to the collection, use and disclosure of personal information, Acce
 
 Access Canberra ensures that appropriate standards are used when service provision is outsourced to the private sector.
 
+##  **Third Party Providers**
+
+We use [**Campaign Monitor**](https://www.campaignmonitor.com/policies/#privacy-policy) for email subscriptions. Please follow the hyperlinks for details on their privacy policies.
+
+ ** _Campaign Monitor Privacy_**
+
+CMTEDD uses [ **Campaign Monitor**](https://www.campaignmonitor.com/) to provide electronic newsletters to subscribers.
+
+In distributing newsletters, CMTEDD, via Campaign Monitor, will collect  **personal information** from you, including email addresses you have provided to CMTEDD for the purpose of receiving electronic newsletters, all information relating to those email addresses, and in some cases your name. Campaign Monitor also uses cookies, web beacons and Flash player codes to collect information about:
+
+  * when you access CMTEDD or other ACT Government electronic newsletters
+  * your browser type and version
+  * your operating system and other similar information
+  * your IP address and its geolocation
+  * clicks on email links and whether the email is forwarded
+
+
+
+CMTEDD holds the Campaign Monitor account and  **personal information** collected through that account can be accessed by other agencies of the ACT Government for the purposes of sending electronic newsletters.
+
+For additional detail about the information Campaign Monitor will collect, please refer to  **[Campaign Monitor’s Privacy Policy](https://www.campaignmonitor.com/policies/#privacy-policy)** and  **[Campaign Monitor’s Terms of Use](https://www.campaignmonitor.com/policies/#terms-of-use)**.
+
+Campaign Monitor will use the information collected from you for the purpose of providing the online service which enables CMTEDD and other agencies of the ACT Government to create, send and manage electronic newsletters. Campaign Monitor will also use this information to measure the performance of CMTEDD and other ACT Government email campaigns.
+
+Campaign Monitor may transfer this information to its contractors or other third parties who process the information on Campaign Monitor’s behalf, or where otherwise required to do so by law.
+
+Campaign Monitor is based in the United States of America (USA) and is subject to the laws of the USA. Your information (including your IP address) will be transmitted to and stored by Campaign Monitor on servers located outside Australia.
+
+You can unsubscribe from any electronic newsletter at any time by selecting the 'unsubscribe’ option in every email sent to you by Campaign Monitor.
+
 ## Disclaimer
 
 These websites and online facilities contain links to third party websites. These include links to websites operated by other government agencies, non-profit organisations and private businesses. When you select a link to another web site, you are subject to the privacy policy of the new site. Access Canberra is not responsible for the privacy practices or the content of such websites.
@@ -123,5 +153,3 @@ Portions of such information may be incorrect or not current. It is your respons
 If you have any comment in relation to any aspect of the collection, use, security of or access to your personal information please contact Access Canberra on [13 22 81](tel:132281).
 
 If the issue is not resolved to your satisfaction you may wish to contact the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/ "Office of the Australian Information Commissioner").
-
-The ACT Government is committed to improving the accessibility of web content. To provide feedback or request an accessible version of a document please [contact us](https://www.act.gov.au/contact-us) or phone [13 22 81](tel:132281).
