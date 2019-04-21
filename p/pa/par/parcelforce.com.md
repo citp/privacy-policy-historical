@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parcelforce.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221033123id_/https%3A//www.parcelforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcelforce.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421114449id_/https%3A//www.parcelforce.com/privacy) for the most accurate reproduction.*
 
 # Find out about the privacy policy from Parcelforce Worldwide
 
@@ -69,16 +69,29 @@ Royal Mail Group processes various types of personal data. This includes informa
 **Source**  
   
 ---|---|---  
-  
+**
+
+**Categories of data**
+
+**
+
 Contact Information
 
-| 
+| **
+
+**Description**
+
+**
 
 This includes your name, address and other contact information, such as your email address and phone numbers.
 
 If you work for one of our business customers we will record your business’s name, your position in the business and the business’s address, email address and telephone numbers.
 
-| 
+| **
+
+**Source**
+
+**
 
 This information is provided by you when you use our websites, when you contact us directly or when you use or are a recipient of Royal Mail Group services.
 
@@ -86,119 +99,273 @@ You will also provide this information to Royal Mail Group where you complete on
 
 Alternatively, we may obtain personal details from third parties. For example, where we acquire third party marketing data or information from, or derived from, public sources such as the electoral roll.  
   
+**
+
+**Categories of data**
+
+**
+
 Financial details
 
-| 
+| **
+
+**Description**
+
+**
 
 Records of your payments and your payment information, such as credit or debit card payment details.
 
-| 
+| **
+
+**Source**
+
+**
 
 You provide this information yourself when you use our services or provide it to receive a payment.
 
 We may also receive this information from third parties, such as banks and credit reference agencies when we obtain authorisation for a payment you make or when undertaking an identity check.  
   
+**
+
+**Categories of data**
+
+**
+
 Marketing preferences
 
-| 
+| **
+
+**Description**
+
+**
 
 Data recording your preference to receive marketing communications or where you have opted-out of marketing.
 
-| 
+| **
+
+**Source**
+
+**
 
 This information will be created when you provide contact information in the course of an interaction with Royal Mail Group, such as when you apply for a service or where you register with one of our websites, or when you update your marketing preferences.  
   
+**
+
+**Categories of data**
+
+**
+
 Customer records
 
-| 
+| **
+
+**Description**
+
+**
 
 Records of products and services that you have used. This includes records of letters and parcels you have sent if you are an account customer or if you provide your name and address as the sender of a letter or parcel.
 
-| 
+| **
+
+**Source**
+
+**
 
 You provide much of this information yourself when you use our services. We will also generate this information in the course of providing our services.  
   
+**
+
+**Categories of data**
+
+**
+
 Address history
 
-| 
+| **
+
+**Description**
+
+**
 
 Your old address and your new address when you arrange a Redirection.
 
-| 
+| **
+
+**Source**
+
+**
 
 You provide this information yourself if you use our Redirection service. We can also receive this information if someone else in your household applies for a Redirection.  
   
+**
+
+**Categories of data**
+
+**
+
 Address data
 
-| 
+| **
+
+**Description**
+
+**
 
 In limited cases, a building or delivery point address may include personal data (for example, where a delivery point/property is identified by the occupier’s surname).
 
-| 
+| **
+
+**Source**
+
+**
 
 Royal Mail Group may receive this information from you or from a local authority.   
   
+**
+
+**Categories of data**
+
+**
+
 Contact history
 
-| 
+| **
+
+**Description**
+
+**
 
 These are details of any enquiry, complaint or claim you have made to Royal Mail Group and may include copies of correspondence and call recordings.
 
-| 
+| **
+
+**Source**
+
+**
 
 You will provide this information to us when you contact us to make an enquiry or complaint. We will also create records relating to this contact.  
   
+**
+
+**Categories of data**
+
+**
+
 Proof of delivery information
 
-| 
+| **
+
+**Description**
+
+**
 
 Records of delivery including the signature, name and address of people who sign for or accept delivery of mail items.
 
-| 
+| **
+
+**Source**
+
+**
 
 You provide this information if you accept delivery of a mail item, including when you accept delivery of an item for another person, such as a neighbour.  
   
+**
+
+**Categories of data**
+
+**
+
 International shipping details
 
-| 
+| **
+
+**Description**
+
+**
 
 Information relating to international letters and parcels. This includes: shipper name and address, receiver name and address.
 
-| 
+| **
+
+**Source**
+
+**
 
 Royal Mail Group receives this information from overseas postal authorities. If you send or receive a letter or parcel from overseas, Royal Mail Group will be provided with personal data required for customs and tax clearance or for security screening.  
   
+**
+
+**Categories of data**
+
+**
+
 Recipient information
 
-| 
+| **
+
+**Description**
+
+**
 
 Records of letters or parcels delivered to you and the services used by the sender.
 
 Your name and address is used to collect, sort, track and deliver an item to you. A sender may also provide us with contact information for you, such as your phone number or email address, so that we can provide delivery updates
 
-| 
+| **
+
+**Source**
+
+**
 
 We receive this information from the senders of mail items or collect data from the outside of mail items in order to route them through our network efficiently for delivery.
 
 Royal Mail Group will also receive personal data from overseas postal authorities. Where an item is sent to you from overseas we will receive information required for transport, customs clearance, security screening and delivery.  
   
+**
+
+**Categories of data**
+
+**
+
 Recordings of you
 
-| 
+| **
+
+**Description**
+
+**
 
 Images recorded on CCTV and other equipment which are used to protect our customers, employees and property.
 
-| 
+| **
+
+**Source**
+
+**
 
 We may record images of you if you a visit a location where CCTV is in operation.  
   
+**
+
+**Categories of data**
+
+**
+
 Images of you
 
-| 
+| **
+
+**Description**
+
+**
 
 Photographs of individuals, for example, where an image is uploaded to be printed on a personalised product or stamp.
 
-| 
+| **
+
+**Source**
+
+**
 
 Royal Mail Group may receive photographs and images of individuals where these are provided by you or a third party. For example, if you upload your image onto one of our websites.  
   
@@ -223,92 +390,231 @@ The purposes for which we process personal data and the legal bases for doing so
 **Lawful bases for processing**  
   
 ---|---  
-  
+**
+
+**Purpose**
+
+**
+
 Providing services to you where there is a contract or agreement in place with you.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Contract – we need to process your data to provide these services to you in accordance with that contract or agreement.  
   
+**
+
+**Purpose**
+
+**
+
 Providing postal services to you when you have paid us to do so but we don’t have a contract or agreement in place with you, such as in some circumstances when you send a letter or parcel using our services.
 
 Certain Royal Mail products or services have terms and conditions detailed in documents called ‘Schemes’. These Schemes are published under the Postal Services Act 2000 and mean that it is not necessary for Royal Mail to have individual contracts with each and every customer purchasing these products or using these services. You can find more information here: <https://www.royalmail.com/non-contract-terms-and-conditions>
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests – we need to process your data to provide these postal services for which you have paid.  
   
+**
+
+**Purpose**
+
+**
+
 Providing postal services to a third party, such as when someone sends you a letter or parcel and we use your data to deliver it or provide delivery updates.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests – we need to process your data to provide these postal services, including delivering the letter or parcel to you and providing additional services, such as delivery updates.  
   
+**
+
+**Purpose**
+
+**
+
 Providing postal services via a third party, where you have agreed to accept delivery of an item on behalf of another person (such as a neighbour) and you have provided your details to enable us to record the delivery, including where we inform the sender and the intended recipient of Royal Mail Group services that you have taken delivery of the item.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests and consent – we need to process your data to provide the sender and recipient with your details in order to complete the delivery and to allow the delivery to be properly tracked within the postal service.  In some circumstances, we will obtain your consent to do this, otherwise we have a legitimate interest to do so.  
   
+**
+
+**Purpose**
+
+**
+
 As part of Royal Mail Group track and trace services, where we provide a service which informs both the sender and recipient of Royal Mail Group services about the delivery status and timing of that service.    
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests – we need to monitor the delivery status of Royal Mail Group Services to improve our service and provide better information to our customers.  
   
+**
+
+**Purpose**
+
+**
+
 Customer services – dealing with enquiries, complaints or claims relating to our services.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests – we may need to process your data so we can handle and resolve any enquiry, complaint or claim raised by you or another person.  
   
+**
+
+**Purpose**
+
+**
+
 Providing data services to other organisations, namely our business customers, to help them run their businesses better, and to the UK Government. For example, we provide services for the purposes of maintaining and updating accurate address data, for identity verification or fraud prevention purposes, and for helping businesses to target their marketing.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests – our business customers and the UK Government have a legitimate interest to process data in these ways, and we have a legitimate interest to process personal data to support them to do so.  In each case, we need to process your personal data to pursue those interests.  
   
+**
+
+**Purpose**
+
+**
+
 Marketing our own products and services directly to our customers and prospective customers.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests & Consent – we have a legitimate interest to market our products and services to existing and prospective customers, and sometimes need to process your data to do this. In some circumstances, we will obtain your consent to send marketing communications.
 
 You always have the right to opt-out of direct marketing. See section 4 below for more information about marketing.  
   
+**
+
+**Purpose**
+
+**
+
 Enhancing our customers' experience of our services and websites. For example, we use information on your visits to our websites to evaluate and understand how different people navigate our websites and how long they spend on particular pages.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests – we sometimes need to process personal data to understand how you use our services so we can enhance them.  
   
+**
+
+**Purpose**
+
+**
+
 Market research and analysis, and the development of new services. For example, we may develop new postal services or new data services for business customers (for the purposes of maintaining accurate address data, for identity verification or fraud prevention purposes, and for helping businesses to target their marketing).
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests – we sometimes need to process personal data to develop new services we can offer you and others.  
   
+**
+
+**Purpose**
+
+**
+
 Security, preventing fraud and money laundering, and taking action against fraudsters or people who commit an offence.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests – we sometimes need to process personal data to protect rights, property and personal safety. See section 6 below for more information about security and fraud prevention.  
   
+**
+
+**Purpose**
+
+**
+
 Customs and tax clearance, and security screening when sending or receiving post to or from overseas.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legal Obligation – we need to process personal data to comply with revenue and customs regulations.  
   
+**
+
+**Purpose**
+
+**
+
 Prevention and detection of crime – including the use of CCTV to protect our customers, employees and property.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legitimate Interests – we sometimes need to process personal data to protect the rights, property and the personal safety of our staff and customers.  
   
+**
+
+**Purpose**
+
+**
+
 Complying with the law, including regulatory requirements. For example, Royal Mail Group is required by Postal Services legislation to maintain the Postcode Address File (PAF) and to make it available to people or organisations wishing to use it on reasonable terms.
 
-| 
+| **
+
+**Lawful bases for processing**
+
+**
 
 Legal Obligation – to comply with our legal obligations, including regulatory conditions relevant to postal operators, and health and safety legislation, we sometimes have to process personal data.  
   
