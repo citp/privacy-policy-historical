@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casebriefs.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020093904id_/https%3A//www.casebriefs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casebriefs.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421084954id_/https%3A//www.casebriefs.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Casebriefs
 
