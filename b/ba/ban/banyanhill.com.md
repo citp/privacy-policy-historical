@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banyanhill.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229120038id_/https%3A//banyanhill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banyanhill.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421090405id_/https%3A//banyanhill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Personal Information - Banyan Hill Publishing
 
@@ -126,6 +126,7 @@ Banyan Hill is registered in the states below and is therefore required to colle
   * Alabama
   * Connecticut
   * Colorado
+  * District of Columbia
   * Florida
   * Georgia
   * Hawaii
@@ -150,6 +151,7 @@ Banyan Hill is registered in the states below and is therefore required to colle
   * Vermont
   * Washington
   * Wisconsin
+  * Wyoming
 
 
 
