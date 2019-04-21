@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geekdad.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717152843id_/https%3A//geekdad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekdad.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421233029id_/https%3A//geekdad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GeekDad
 
-Reading Time: 8 minutes
+Reading Time:  8 minutes
 
 ## Who we are
 
