@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817031643id_/https%3A//www.decisionanalyst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421141443id_/https%3A//www.decisionanalyst.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
+
+Effective Date: December 10, 2018
 
 Who We Are  
 Decision Analyst, Inc. and its U.S. subsidiaries, Nuance Coding and Symmetric Sampling (collectively, “Decision Analyst” or “we”) are committed to respecting your privacy. The site [www.DecisionAnalyst.com](https://web.archive.org/) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/).
@@ -13,18 +15,35 @@ Panel Sites: [American Consumer Opinion](https://www.acop.com/); [The Technology
 
 We believe that consumers have an inalienable right to privacy. We protect your privacy and anonymity by adhering to these standards:
 
-  * [EU-US Privacy Shield](https://www.privacyshield.gov/)
-  * [US-Swiss Privacy Shield](https://www.privacyshield.gov/)
+  * [EU-US Privacy Shield and Swiss-US Privacy Shield Framework for the transfer of EU and Swiss data into the US](https://www.privacyshield.gov/)
+  * In Compliance with [European Union General Data Protection Regulation (GDPR)](https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en) created and enacted by the European Parliament and European Council.
   * [Children's Online Privacy Protection Rule](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) issued by the Federal Trade Commission (FTC).
 
  
 
-EU-U.S. Privacy Shield Framework  
-Decision Analyst complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Decision Analyst has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in the privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+Organizations We Belong To  
+The www.DecisionAnalyst.com website is owned and operated by [Decision Analyst, Inc](https://web.archive.org/)., a leading international marketing research and marketing consulting company in the United States, located in the Dallas-Fort Worth area. We subscribe to the privacy, confidentiality, and ethics policies of these professional marketing and marketing research organizations:
 
-In compliance with the US-EU and Swiss-US Privacy Shield Principles, Decision Analyst commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy should first contact Decision Analyst at:
+  * [Insights Association](http://www.insightsassociation.org/)
+  * [World Association of Research Professionals (ESOMAR)](http://www.esomar.org/)
 
  
+
+EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework  
+Decision Analyst complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Decision Analyst has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in the privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+Decision Analyst is subject to the investigatory and enforcement powers of the FTC.
+
+Pursuant to the Privacy Shield Frameworks, we acknowledge the following:
+
+  * EU and Swiss individuals whose data is transferred into the United States have the right to access that data and to update, correct or amend it. Individuals wishing to exercise this right may do so by logging into your Panel Member Account.
+  * We remain liable for the onward transfer of personal data to third parties unless we can prove that we were not a party to the actions giving rise to the damages.
+  * We may be required to release personal information in response to lawful requests by legal authorities including to meet national security and law enforcement requirements.
+  * Decision Analyst does not share, rent, or sell any personal data or permit its usage for reasons other than that for which it was originally provided. If this practice should change in the future, we will update this policy accordingly and provide individuals with opt-out or opt-in choice, as appropriate.
+
+ 
+
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Decision Analyst commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy should first contact Decision Analyst at:
 
 Internet Operations Department  
 Decision Analyst, Inc.  
@@ -41,17 +60,8 @@ Decision Analyst as further committed to refer unresolved privacy complaints und
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-Decision Analyst submits to being subject to the investigatory and enforcement powers of the FTC, the Department of Transportation, or any other U.S. authorized statutory body with regards to our self-certification and implementation of the Principles, and acknowledges the right of the EU individual, under certain conditions, to invoke binding arbitration, at no cost to the individual, in filing a complaint disputing Decision Analyst’s adherence to these practices. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US or Swiss-US Privacy Shield, Decision Analyst is potentially liable.
-
-Back to top
-
-Organizations We Belong To  
-The www.DecisionAnalyst.com website is owned and operated by [Decision Analyst, Inc](https://web.archive.org/)., a leading international marketing research and marketing consulting company in the United States, located in the Dallas-Fort Worth area. We subscribe to the privacy, confidentiality, and ethics policies of these professional marketing and marketing research organizations:
-
-  * [Insights Association](http://www.insightsassociation.org/)
-  * [World Association of Research Professionals (ESOMAR)](http://www.esomar.org/)
-
- 
+GDPR For EU Individuals  
+We comply with European Union General Data Protection Regulation (GDPR) created and enacted by the European Parliament and European Council. EU individuals who have a grievance regarding Decision Analyst’s handling of their personal data have the right to pursue complaints directly with the appropriate Data Protection Authority (DPA). Please go to <https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm> to find your local DPA.
 
 Back to top
 
@@ -132,7 +142,7 @@ If required by a court of law or government agency, your personal data might nee
 Back to top
 
 Enforcement Of Privacy Policy  
-If you believe Decision Analyst, Inc. has violated this Privacy Policy with respect to your personal information, please contact us so that we can investigate and correct any errors or mistakes. If you are a US resident and you are not satisfied with our response, you may file a complaint with the Insights Association, 170 North Country Road, Suite 4, New York 11777 or, if you are an EU or Swiss resident, you may file a complaint with the BBB EU Privacy Shield at [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/).
+If you believe Decision Analyst, Inc. has violated this Privacy Policy with respect to your personal information, please contact us so that we can investigate and correct any errors or mistakes. If you are a US resident and you are not satisfied with our response, you may file a complaint with the Insights Association, 170 North Country Road, Suite 4, New York 11777.
 
 Back to top
 
@@ -147,5 +157,7 @@ Phone numbers:
 Within the U.S., 1-817-649-5241  
 International, 1-817-640-6166  
 Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?Subject=Question%20Regarding%20DAI%20Corporate%20Site%20Privacy%20Policy)
+
+ 
 
 This Privacy Policy is reviewed and updated annually.
