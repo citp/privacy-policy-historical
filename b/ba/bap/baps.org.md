@@ -1,45 +1,131 @@
-> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521231424id_/http%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421154957id_/https%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is important to us at www.BAPS.Org.
+**Privacy Policy**
 
-We are pleased to provide information to all of our visitors about our online privacy policy. Please be assured that www.BAPS.Org is committed to protecting the privacy of visitors to this website and the security of the data they provide.
+The detailed terms and conditions related to this website, application, skill or software (‘Software’) are provided in the ‘Terms of Use and Service’.
 
-Our Commitment to Privacy  
-www.BAPS.Org does not rent, sell, exchange or share our mailing lists nor any information submitted through this website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+In brief, we assure users that this Software does not use advertising and does not sell or exchange your personal information with any other entity.
 
-Our Commitment to Data Security  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+The personal information which you have submitted to the website on any page or form will only be used for the purpose for which it was collected as identified on the page or form. It will not be used for any other purpose and it will not be disclosed without your consent. The personal information you provide will be held by us and made available only to staff authorised to deal with the error indicated, or service requested, or information provided on the form. If you provide your contact details, we may contact you to provide feedback, or for further information regarding the form you have submitted. The provision of the information is voluntary, however, if you do not provide the information requested we may not be able to provide you with service you are seeking. We will take reasonable steps to ensure your personal information is accurate, complete and up-to-date. Should you wish to access or amend this information please Contact Us at info@swaminarayan.org.
 
-Types of Information We Collect  
-www.BAPS.Org only gathers personal information, such as, first and last names, home addresses, and email addresses, when voluntarily submitted by you. If you make an online donation/purchase, personal information will be collected from you in order to process that donation/purchase. We do not store credit card information or other financial information.
+**Third Party Advertising**
 
-How We Use the Information You Give   
-With your permission, we will use personal information collected from you to send you information, such as, updates, useful information regarding your contribution, and additional news about our projects and services. If you do not elect to receive such materials, they will not be sent to you.
+The Website does NOT use any Advertising and does not give, sell or exchange any information gathered from the Website visitors. However, the Website may link to external websites which may use advertising. We encourage visitors to check the Terms and Policies of any website that is linked from this Website.
 
-For each visitor to this website, our servers automatically collect information about which pages are visited and the domain name of visitors. This information is used for internal review, to tailor information to individual visitors, for website traffic audits and other internal purposes.
+**Email Policy**
 
-www.BAPS.Org reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.
+We do not collect, sell, rent, or otherwise distribute email addresses or any other personal information. All discussions by email or on any other medium are seen only by authorised personnel who keep the communication confidential unless we obtain consent from you or the email itself contains a request to be forwarded to other persons.
 
-Access  
-You are in control of any personal information you provide to us on-line. If at any time you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us, you can let us know by contacting us at the postal address listed below.
+**Please Note**
 
-You can also ask to review any personal information we have about you or ask us to delete that information or stop further use of it by writing to us at the same postal address.
+Our Privacy Policy is subject to change. This policy was last updated 5th Oct 2018.
 
-Cookies"Cookies" are pieces of information that a website transfers to an individual’s hard drive for record-keeping purposes. Cookies allow the website to remember important information that will make your use of the site more convenient. Like most websites, www.BAPS.Org uses cookies for a variety of purposes in order to improve your on-line experience and so that we can better serve you when you return to our site.
+**Cookies Policy**
 
-You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or not. If you disable all cookies, you may not be able to take advantage of all the features of this website.
+**www.BAPS.org** ("us", "we", or "our") uses cookies on our websites (the "Website"). By using the Website, you consent to the use of cookies.
 
-Changes to our Privacy Policy  
-From time to time, it may be necessary for www.BAPS.Org to change this privacy policy, so we suggest that you check here periodically.
+This website does not sell any personal information regarding or gathered from the visitors of our Website.
 
-How to Contact Us  
-If you have any questions about the www.BAPS.Org Internet Privacy Policy, please contact us at:
+Our Cookies Policy explains what cookies are, how we use cookies, how third parties that we may partner with may use cookies on the Website, your choices regarding cookies and further information about cookies.
 
-www.BAPS.Org  
-BAPS Swaminarayan Mandir,  
-Shahibaug Road,  
-Ahmedabad, 380004  
-Gujarat, India  
-Email: [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#3c55525a537c4f4b5d5155525d4e5d455d5212534e5b1c)
+**What are cookies**
+
+An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simply cookie) is a small piece of data sent to your web browser by a website you visit. A cookie file is stored in your computer by your web browser and allows the Website or a third party to recognize you and make your next visit easier and the Website more useful to you. The cookie will collect information relating to your use of our sites, information about your device such as the device’s IP address and browser type, demographic data and, if you arrived at our site via a link from third party site, the URL of the linking page etc. If you are a registered user or subscriber it may also collect your name and email address, which may be transferred to data processors for registered user or subscriber verification purposes.
+
+**How the Website uses cookies**
+
+When you use and access the Website, we may place a number of cookies files in your computer by your web browser. We use cookies for the following purposes: to enable certain functions of the Website, to provide analytics, to store your preferences, to enable information delivery. These cookies DO NOT identify, you, nor do they store personal information, but just the action of your use of our website. We also have a cookie, that remembers your acceptance of our cookie policy.
+
+We use both session and persistent cookies on the Service and we use different types of cookies to run the Service. We may use essential cookies to authenticate users and prevent fraudulent use of user accounts.
+
+LIST OF SOME COOKIES AND THEIR FUNCTIONS :
+
+**Cookie**
+
+| 
+
+**Type**
+
+| 
+
+**Usage**  
+  
+---|---|---  
+  
+ASP.NET_SessionId
+
+| 
+
+Session
+
+| 
+
+used for login  
+  
+DisplayName
+
+| 
+
+setting
+
+| 
+
+used for login  
+  
+vview
+
+| 
+
+Session
+
+| 
+
+used for setting view preference  
+  
+www.baps.orgportalroles1
+
+| 
+
+Session
+
+| 
+
+used for login  
+  
+Third party cookies
+
+| 
+
+Google Analytics
+
+| 
+
+used for data analysis  
+  
+Third party cookies
+
+| 
+
+Cloudflair.com
+
+| 
+
+used to apply security settings  
+  
+Third party cookies
+
+| 
+
+Facebook.com
+
+| 
+
+Used to share contents on social media, e.g. Facebook.com  
+  
+We employ customised statistic analytics which uses session cookies that expire after each session which we use to identify what country you visit from, what methods and how you come to visit our site, including whether you came direct to our site or from another website and the URL of that website.We also try to identify if you have visited us from a search engine such as Google or Bing and for what search string you used, or whether it was from a bookmark. We also follow and note the pages you visit. We may collect or store the Internet protocol address (IP) from which you visit. For security reasons, we may at times turn on our log analyser, to ascertain, where a attempted security breach is taking place and that will log IP's.
+
+**What are your choices regarding cookies**
+
+If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser. Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
