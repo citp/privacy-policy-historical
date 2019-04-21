@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamer.cash privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214234941id_/http%3A//gamer.cash/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamer.cash privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421225114id_/http%3A//gamer.cash/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
