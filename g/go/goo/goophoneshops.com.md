@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goophoneshops.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627195517id_/http%3A//www.goophoneshops.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goophoneshops.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421055512id_/https%3A//www.goophoneshops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Official Goophone Shop
 
@@ -6,13 +6,13 @@ The purpose of this Privacy Policy is to tell you what kind of information we ma
 
 ## COLLECTION OF INFORMATION
 
-Information is collected only when you place an order or sign up to our mailing list. When placing an order you will be asked to provide information such as your name, postal address, email address, phone number. We require these details so we can send your order to you and contact you if we have any issues in doing so.  
+Information is collected only when you place an order or sign up to our mailing list. When placing an order you will be asked to provide information such as your name, postal address, email address, phone number. We require these details so we can send your order to you and contact you if we have any issues in doing so.
 
-If you sign up to our mailing list or Opt in to recieve "marketing material" when placing an order we wil use your information to inform you of additional products, deals and services which may interest you. You can unsubscribe from this list at any time.  
+If you sign up to our mailing list or Opt in to recieve “marketing material” when placing an order we wil use your information to inform you of additional products, deals and services which may interest you. You can unsubscribe from this list at any time.
 
 ## USE OF PERSONAL INFORMATION
 
-We will only use the personal information you have chosen to provide us for the purpose for which you provided it. We will not use your information for any other purpose without your consent. 
+We will only use the personal information you have chosen to provide us for the purpose for which you provided it. We will not use your information for any other purpose without your consent.
 
 ## NO SALE OF PERSONAL INFORMATION
 
@@ -28,21 +28,21 @@ When you click on links on our store, they may direct you away from our site. We
 
 ## GOOGLE ANALYTICS
 
-Our store may use Google Analytics to help us learn about who visits our site and what pages are being looked at. 
+Our store may use Google Analytics to help us learn about who visits our site and what pages are being looked at.
 
 ## COOKIES
 
 Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
 
- _session_id, unique token, sessional, Allows our system to store information about your session (referrer, landing page, etc).
+_session_id, unique token, sessional, Allows our system to store information about your session (referrer, landing page, etc).
 
 cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
 
- _secure_session_id, unique token, sessional
+_secure_session_id, unique token, sessional
 
- storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
- Google analytics: 
+Google analytics:
 
 PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
 
