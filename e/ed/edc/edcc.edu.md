@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923202639id_/http%3A//www.edcc.edu/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421093512id_/https%3A//www.edcc.edu/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Edmonds Community College: About Our College - Privacy Policy
 
@@ -8,12 +8,12 @@ You may contact Edmonds Community College as follows:
 
 To review your personal information, or request correction of your personal information, you may contact: 
 
-**Dennis Curran** , Associate Vice President for Human Resources and Title IX Compliance
-
+**Casey King**  
+Interim Executive Director of Human Resources  
 Edmonds Community College   
 20000 68th Ave. W.  
 Lynnwood, Washington U.S.A. 98036-5999  
-425.640.1647 | [dennis.curran@edcc.edu](mailto:dennis.curran@edcc.edu?subject=)
+425.640.1647 or 425.218.0430 | [casey.king@edcc.edu](mailto:casey.king@edcc.edu?subject=)
 
 To offer comments about the Edmonds Community College's website, or about the information presented in this Privacy Notice:
 
