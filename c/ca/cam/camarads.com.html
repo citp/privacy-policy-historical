@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the camarads.com privacy policy that was archived on 2018-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623191433id_/https%3A//www.camarads.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the camarads.com privacy policy that was archived on 2019-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190421164334id_/https%3A//www.camarads.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10.0, minimum-scale=.25, user-scalable=yes">
-
+    
     <meta name="robots" content="index, follow">
     <meta name="language" content="English">
     <meta name="revisit-after" content="2 days">
@@ -22,7 +22,7 @@
     <!--
     <script src="https://www.camarads.com/public/js/jquery.js"></script>
     -->
-    <script type="text/javascript" async="" src="https://certify-js.alexametrics.com/atrk.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 
     <link href="https://www.camarads.com/public/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <script src="https://www.camarads.com/public/js/bootstrap.min.js"></script>
@@ -37,10 +37,10 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
     <!--<link href="https://www.camarads.com/public/css/video-js.css" rel="stylesheet">-->
     <link href="https://www.camarads.com/public/css/video-js5.css" rel="stylesheet">
-    <link href="https://www.camarads.com/public/css/style12.css" rel="stylesheet">
+    <link href="https://www.camarads.com/public/css/style12.css?v=1" rel="stylesheet">
     <link href="https://www.camarads.com/public/css/verotel.css" rel="stylesheet">
     <link href="https://www.camarads.com/public/css/videojs-logo-overlay.css" rel="stylesheet">
-    <link href="https://www.camarads.com/public/css/index.css" rel="stylesheet">
+    <link href="https://www.camarads.com/public/css/index.css?v=1" rel="stylesheet">
 
     <!--
     <link href="https://www.camarads.com/public/css/videojs.ads.css" rel="stylesheet">
@@ -74,16 +74,16 @@
       ga('create', 'UA-86466181-1', 'auto');
       ga('send', 'pageview');
     </script>
-    
-  <!-- Start Alexa Certify Javascript -->
-  <script type="text/javascript">
-  _atrk_opts = { atrk_acct:"/xOVo1IWhd10vg", domain:"camarads.com",dynamic: true};
-  (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-  </script>
-  <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=/xOVo1IWhd10vg" style="display:none" height="1" width="1" alt="" /></noscript>
-  <!-- End Alexa Certify Javascript -->
-
-
+        <script type="text/javascript">
+        var t = parseInt(60)*1000;
+        window.setInterval(function(){
+            $.get(GLOBALSURL+'api/doAuth', function( data ) {
+                if (data == 1) {
+                    document.location.href = GLOBALSURL;
+                }
+            });
+        }, t);
+    </script>
   </head>
 
   <body>
@@ -185,7 +185,7 @@ function menu_toggler(){
           <p class="profile_description">
             <br><br>
             To protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
-            <br>This notice applies to all information collected or submitted to any of CASPA Ltd. websites. On some pages, you can purchase a Membership to Camarads.com, make requests, and register to receive access and materials. The type of personal information collected at these pages are name, age, email address, gender, etc.
+            <br>This notice applies to all information collected or submitted to any of Ramses International Ltd. websites. On some pages, you can purchase a Membership to Camarads.com, make requests, and register to receive access and materials. The type of personal information collected at these pages are name, age, email address, gender, etc.
             <br>We use various payment processors, who will obtain additional information such as credit card data.
             <br>The information collected by Camarads.com is used solely for the creation and maintenance of your Membership account. We do not sell, loan, lease, swap, trade or otherwise disclose your personal data. That information collected by the payment processor is used for the purpose of processing payment of your Membership to Camarads.com.
             <br>You can access all your personally identifiable information that we collect online and maintain it by logging on to the right user account pages, where the informations was collected. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information simply by modifying that information online.
@@ -208,45 +208,135 @@ function footer_redirect(name){
   if(name == 'youtube') window.open('https://www.youtube.com/channel/UCK3nxqkDouiBg0FHSA74Fkg', '_blank');
 }
 
+function markAptAsActive(aptId, camId) {
+    $('.sidebar_rooms_holder').hide();
+    $('.app_rooms_'+aptId).show();
+    $('.sidebar_app_name_holder').removeClass('app_active');
+
+        if(aptId == 32) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 29) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 35) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 38) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 37) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 3) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 28) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 5) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 34) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 33) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 27) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 36) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 31) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 14) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+        if(aptId == 9) {
+        $('.appartment_link_'+aptId).addClass('app_active');
+    }
+    
+    $('.sidebar_room_name_holder').removeClass('sidebar_room_active');
+
+    $('[class^="sidebar_app_'+aptId+'_room_nr_"]').removeClass('sidebar_room_active');
+    $('.sidebar_app_'+aptId+'_room_nr_'+camId).addClass('sidebar_room_active');
+}
+
 function activate_app(activeAppId, defaultStream){
-  //console.log(activeAppId);
-  //console.log(defaultStream);
-  if (defaultStream !== undefined && defaultStream !== null) {
-    change_video(defaultStream, 0);
-  }
+    if (defaultStream !== undefined && defaultStream !== null) {
+        change_video(defaultStream, 0);
+    }
 
-  $('.sidebar_rooms_holder').hide();
-  $('.app_rooms_'+activeAppId).show();
-  $('.sidebar_app_name_holder').removeClass('app_active');
+    $('.sidebar_rooms_holder').hide();
+    $('.app_rooms_'+activeAppId).show();
+    $('.sidebar_app_name_holder').removeClass('app_active');
 
-      if(activeAppId == 1) {
-      $('.appartment_link_'+activeAppId).addClass('app_active');
+            if(activeAppId == 32) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 29) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 35) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 38) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 37) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 3) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 28) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 5) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 34) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 33) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 27) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 36) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 31) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 14) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+            if(activeAppId == 9) {
+            $('.appartment_link_'+activeAppId).addClass('app_active');
+        }
+    
+    if (page == "replay") {
+        $(".chart-buttons .mls").html(GLOBALSAPPS[activeAppId]['name']);
     }
-        if(activeAppId == 3) {
-      $('.appartment_link_'+activeAppId).addClass('app_active');
+
+    if (typeof(replayDefaultRooms) !== "undefined" ) {
+        if (replayDefaultRooms[activeAppId] !== undefined) {
+            var jsCam = activeAppId + '_' + replayDefaultRooms[activeAppId]['cam'];
+
+            if (replayDefaultRooms[activeAppId]['moment'] != '') {
+                change_video(jsCam, 'something', replayDefaultRooms[activeAppId]['moment'], 0);
+            } else {
+                change_video(jsCam, 'something');
+            }
+        }
     }
-        if(activeAppId == 5) {
-      $('.appartment_link_'+activeAppId).addClass('app_active');
-    }
-        if(activeAppId == 2) {
-      $('.appartment_link_'+activeAppId).addClass('app_active');
-    }
-        if(activeAppId == 4) {
-      $('.appartment_link_'+activeAppId).addClass('app_active');
-    }
-        if(activeAppId == 14) {
-      $('.appartment_link_'+activeAppId).addClass('app_active');
-    }
-        if(activeAppId == 22) {
-      $('.appartment_link_'+activeAppId).addClass('app_active');
-    }
-        if(activeAppId == 23) {
-      $('.appartment_link_'+activeAppId).addClass('app_active');
-    }
-        if(activeAppId == 19) {
-      $('.appartment_link_'+activeAppId).addClass('app_active');
-    }
-    }
+
+}
 
 function activate_app_room(appNr, roomNr){
   $('.sidebar_room_name').removeClass('sidebar_room_active');
@@ -254,7 +344,26 @@ function activate_app_room(appNr, roomNr){
 }
 
 function visitlink(link){
-  window.location.href = "https://www.camarads.com/"+link;
+    if (link == 'replay') {
+        if (typeof(playingAptAndCamera) !== 'undefined' && playingAptAndCamera != '') {
+            $.get(GLOBALSURL+'api_time/get_moment_for_replay_start?apt='+playingAptAndCamera, function( data ) {
+                var response = '';
+                if (response = $.parseJSON(data)) {
+                    if (response.time === null) {
+                        window.location.href = "https://www.camarads.com/"+link;
+                    } else {
+                        window.location.href = "https://www.camarads.com/"+link+"/room/"+playingAptAndCamera+"?time="+response.time+"&deductSeconds=20";
+                    }
+                } else {
+                    window.location.href = "https://www.camarads.com/"+link;
+                }
+            });
+        } else {
+            window.location.href = "https://www.camarads.com/"+link;
+        }
+    } else {
+        window.location.href = "https://www.camarads.com/"+link;
+    }
 }
 
 $('.twitter_home').click(function(){
