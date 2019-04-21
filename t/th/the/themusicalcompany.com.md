@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themusicalcompany.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113010102id_/https%3A//themusicalcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusicalcompany.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421115746id_/https%3A//themusicalcompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Musical Company
 
