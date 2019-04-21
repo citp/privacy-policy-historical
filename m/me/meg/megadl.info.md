@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megadl.info privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219094203id_/http%3A//megadl.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megadl.info privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421155541id_/http%3A//megadl.info/privacy) for the most accurate reproduction.*
 
 # privacy – megadl.info
 
