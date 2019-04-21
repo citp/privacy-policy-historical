@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardate.org privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027215355id_/https%3A//stardate.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardate.org privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421072046id_/https%3A//stardate.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | StarDate Online
 
@@ -80,6 +80,6 @@ StarDate
 1 University Station A2100  
 Austin, Texas 78712
 
-[privacy@stardate.org](mailto:privacy@stardate.org)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#59292b302f383a20192a2d382b3d382d3c77362b3e)
 
 512-471-5285
