@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the riya.travel privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174924id_/http%3A//www.riya.travel/aboutus%3FpageID%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riya.travel privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421211807id_/https%3A//www.riya.travel/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Riya Travels
+# Privacy Policy | Riya Travel and Tours USA
 
-Riya Travel & Tours (I) Pvt. Ltd. requests all our users to read the ‘Privacy policy’ to understand how their personal and business information shared with us for travel services will be treated. We follow appropriate standards when it comes to protecting your privacy on our website. 
+Riya Travel & Tours (I) Pvt. Ltd. requests all our users to read the ‘Privacy policy’ to understand how their personal and business information shared with us for travel services will be treated. We follow appropriate standards when it comes to protecting your privacy on our website. 
 
 Riya Travel & Tours (I) Pvt. Ltd. collects Information from its user when they register to gain access or order to purchase any travel related services from our website. During the registration the travel data we store may include: Name, Address, and Email, travel schedules, seating preferences, accommodations, meal preferences and reservation information, as well as passport details that may be essential to fulfill regulation related to your travel. The Information you share with us is kept highly confidential, will be shared only on matters related to your travel.
 
@@ -12,6 +12,6 @@ Riya Travel & Tours (I) Pvt. Ltd also used cookies to provide user with better e
 
 We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
 
-The Payments that you make through our online payment gateway is secured with the Secure Socket Layer (SSL) encryption. This means any online payment information you shared with us is transmitted through SSL which is a coding system that lets your browser automatically encrypt, or scramble the data before it reaches to us. 
+The Payments that you make through our online payment gateway is secured with the Secure Socket Layer (SSL) encryption. This means any online payment information you shared with us is transmitted through SSL which is a coding system that lets your browser automatically encrypt, or scramble the data before it reaches to us.
 
 This Privacy policy is subject to the change. Such changes would be updated in the website and readers are requested to go through privacy policy every time they log in. Riya Travels will attempt to respond to all reasonable concerns or enquiries within five business days of receipt.
