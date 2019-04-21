@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235837id_/https%3A//www.bookeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421034306id_/https%3A//www.bookeo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Bookeo
 
-**Effective date: September 1st, 2016**
+**Effective date: August 11, 2017**
 
 Bookeo Pty Ltd (referred to here as “Bookeo”, “Our”, “us”, “we”) provides its Service (as defined below) to you through its web site located at bookeo.com and any of the internet subdomains of bookeo.com (the “Site”). The “Service” includes (a) the Site, (b) the system, tools and services provided by Bookeo through the Site, and (c) all software, data, text, images, sounds, video, and content made available through the Site or Service (collectively referred to as the “Content”). Any new features added to or augmenting the Service are also subject to this Privacy Policy.
 
@@ -24,6 +24,8 @@ Personal information about Users to the Site is collected only when knowingly an
 
 Personal information that Users submit to the Site is used only for the purpose for which it is submitted or for such other secondary purposes that are related to the primary purpose, unless we disclose other uses in this Privacy Policy or at the time of collection.
 
+For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products and services, enhancing, improving or modifying our products and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
+
 ### 3\. Personal information that we collect about Businesses and staff
 
 We collect personal information about Businesses and their staff in order for Businesses to take full advantage of the Service. This includes but is not limited to staff names, email addresses, business address, telephone numbers and availability. You may access this information at any time by logging in to your account.
@@ -41,15 +43,15 @@ We may also collect credit card details and billing address on behalf of the Bus
 We do not store credit card details in our Site or in any facility operated by us. We may, however, store partial credit card details (card type, expiry date, and no more than 3 digits from the card number), in order to let the Customer identify and update the credit card details used for payment processing.
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Bookeo Pty Ltd send an email containing the text that is input by the friend. The email address is not stored or used for any other purposes.  
-Your friend may contact us at help@bookeo.com to request that we remove this information from our database.
+Your friend may contact us at [privacy@bookeo.com](mailto:privacy@bookeo.com) to request that we remove this information from our database.
 
 ### 5\. Disclosure to third parties
 
-Personal User information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer. We will share your personal information with third parties only in the ways that are described in this privacy policy. If you do not want us to share your personal information with these companies, [contact us here](https://www.bookeo.com/contact/) .
+Personal User information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer. We will share your personal information with third parties only in the ways that are described in this privacy policy. If you do not want us to share your personal information with these companies, please contact us at [privacy@bookeo.com](mailto:privacy@bookeo.com)
 
 We may provide your personal information to companies that provide services to help us with our business activities such as our payment process or analytics provider. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-In certain situations, Bookeo Pty Ltd may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+In certain situations, Bookeo Pty Ltd may be required to disclose personal data in response to lawful requests by public authorities, including to meet law enforcement requirements. We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 If Bookeo is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
@@ -81,9 +83,11 @@ We Bookeo Pty Ltd and our partners use technologies such as cookies or similar t
 
 ### 10\. Access to Information
 
-We will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Upon request Bookeo Pty Ltd will provide you with information about whether we hold any of your personal information. If, at any time, you discover that information held about you is incorrect, you may correct, update, amend, delete/remove, or deactivate it by emailing our Customer Support at [help@bookeo.com](mailto:help@bookeo.com). In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. We will respond to these requests within a reasonable timeframe.
+We will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Upon request Bookeo Pty Ltd will provide you with information about whether we hold any of your personal information. If, at any time, you discover that information held about you is incorrect, you may correct, update, amend, delete/remove, or deactivate it by emailing our Privacy Team at privacy@bookeo.com. In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. We will respond to these requests within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+If you wish to exercise your rights under GDPR, and request and access any personal data we have collected about you, please [click here](https://www.bookeo.com/contact/dsr/) or send an email to privacy@bookeo.com
 
 ### 11\. Links to other sites
 
@@ -93,16 +97,27 @@ Our web site offers publicly accessible blogs or community forums.
 
 Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [help@bookeo.com](mailto:help@bookeo.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@bookeo.com](mailto:privacy@bookeo.com).
 
 ### 12\. Problems or questions
 
 If we become aware of any ongoing concerns or problems with our online [booking system](https://bookeo.com/), we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us. For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner’s web site: <https://www.oaic.gov.au/>.
 
-Bookeo Pty Ltd
-
+Bookeo Pty Ltd  
 18/30 Denison Street  
 Bondi Junction NSW 2022  
 Australia
 
-[Click here for contact form](http://help.bookeo.com/customer/portal/emails/new)
+Privacy Team E-mail: privacy@bookeo.com
+
+Data Protection Officer E-mail: dpo@bookeo.com
+
+* * *
+
+EU Representative Art. 27 GDPR
+
+Rickert Rechtsanwaltsgesellschaft mbH  
+Kaiserplatz 7-9  
+53225 Bonn  
+Germany  
+datenschutz@rickert.net
