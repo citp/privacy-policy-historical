@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815141235id_/https%3A//shift.theshiftnetwork.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421184347id_/https%3A//shift.theshiftnetwork.com/Privacy) for the most accurate reproduction.*
 
 # The Shift Network, Inc. Privacy Policy | The Shift Network
 
 The Shift Network, Inc. Privacy Policy
 
-This privacy statement discloses the privacy practices of The Shift Network, Inc. and all websites owned or operated by or on behalf of The Shift Network, Inc., including, without limitation,[ theshiftnetwork.com](http://theshiftnetwork.com/) (collectively referred to as “our websites”).
+This privacy statement discloses the privacy practices of The Shift Network, Inc. and all websites owned or operated by or on behalf of The Shift Network, Inc., including, without limitation, [theshiftnetwork.com](http://theshiftnetwork.com/) (collectively referred to as “our websites”).
 
 ### Contact Details
 
