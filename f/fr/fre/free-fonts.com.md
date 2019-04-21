@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the free-fonts.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009191032id_/https%3A//www.free-fonts.com/contact%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-fonts.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421154555id_/https%3A//www.free-fonts.com/contact%23privacy) for the most accurate reproduction.*
 
 # Contact
 
-See my commitment on [](http://www.kickstarter.com/profile/fonts) [](http://www.kiva.org/lender/fonts) [](https://plus.google.com/114083067509239217736/) [](https://plus.google.com/101146424742237691651/)
+See my commitment on [](http://www.kickstarter.com/profile/fonts) [](http://www.kiva.org/lender/fonts)
 
 If you have any questions or comments, please e-mail me:  
 
@@ -34,4 +34,4 @@ The European Commission has set up a platform for online dispute settlement. Thi
 
 If you have questions, instigations or criticism, please send an email to . 
 
-      [](https://plus.google.com/101146424742237691651/)
+   
