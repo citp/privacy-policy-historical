@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iclipart.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109224350id_/http%3A//www.iclipart.com/privacy.php%3Fadv%3D%26desktop%3D%26rows%3D5%26cols%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclipart.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421143119id_/https%3A//www.iclipart.com/privacy.php%3Fkeys%3D%26results%3D40%26safe%3D1) for the most accurate reproduction.*
 
 # Detailed information about our website privacy policy | iCLIPART.com
 
-**PRIVACY POLICY** Overview
+## Overview
 
 At iCLIPART.com, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, and your rights to update or correct it. Personal information collected from this site may be stored or processed in Canada or any other country in which iCLIPART.com, or their affiliates, subsidiaries, or agents maintain facilities. By using this site, you consent to any such transfer of information. 
 
@@ -96,8 +96,8 @@ In addition to our online security efforts, we take steps to protect your person
 
 All of your information, not just the sensitive information mentioned above, is restricted in our offices. Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer service representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our website, you can send an email to [security@iclipart.com](mailto:security@iclipart.com)
+If you have any questions about the security at our website, you can send an email to [security@vitalimagery.com](mailto:security@vitalimagery.com)
 
 Changes to the Privacy Policy
 
-iCLIPART.com will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When iCLIPART.com posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of iCLIPART.com Sites. If there are material changes to this Policy or in how iCLIPART.com uses your personally identifiable information, iCLIPART.com will prominently post such changes prior to implementing the change. iCLIPART.com encourages you to periodically review this Policy to be informed of how we are protecting your information.
+iCLIPART.com will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When iCLIPART.com posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of iCLIPART.com Sites. If there are material changes to this Policy or in how iCLIPART.com uses your personally identifiable information, iCLIPART.com will prominently post such changes prior to implementing the change. iCLIPART.com encourages you to periodically review this Policy to be informed of how we are protecting your information. 
