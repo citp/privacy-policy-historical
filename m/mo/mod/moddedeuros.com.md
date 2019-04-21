@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moddedeuros.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228193446id_/https%3A//www.moddedeuros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddedeuros.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421041643id_/https%3A//www.moddedeuros.com/privacy-policy) for the most accurate reproduction.*
 
-# Audi and VW Performance Parts | Free Shipping - Modded Euros
+# Audi, BMW and VW Performance Parts | Free Shipping - Modded Euros
 
 ## What information do we collect?
 
@@ -72,6 +72,6 @@ This policy was last modified on 10/26/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[/](https://web.archive.org/web/20170228193446id_/https%3A//www.moddedeuros.com/www.ModdedEuros.com) [support@moddedeuros.com](mailto:support@moddedeuros.com)
+[/](https://web.archive.org/web/20190421041643id_/https%3A//www.moddedeuros.com/www.ModdedEuros.com) [support@moddedeuros.com](mailto:support@moddedeuros.com)
 
 This policy is powered by Trust Guard PCI compliance scans. 
