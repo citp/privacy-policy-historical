@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the springbokcasino.co.za privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919213907id_/https%3A//www.springbokcasino.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springbokcasino.co.za privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421135925id_/https%3A//www.springbokcasino.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
-
-##  [ Privacy Policy](https://www.springbokcasino.co.za/privacy-policy)
 
 Springbok Casino is committed to respecting and protecting your privacy. The following statement discloses the information gathered by Springbok Casino.
 
