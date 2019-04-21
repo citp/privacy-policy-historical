@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inc.in privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029194935id_/http%3A//inc.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.in privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421232623id_/https%3A//www.inc.in/en/privacy-policy) for the most accurate reproduction.*
 
 # Indian National Congress
 
