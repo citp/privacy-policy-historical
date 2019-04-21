@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the factmag.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123133425id_/http%3A//www.factmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factmag.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421064336id_/https%3A//www.factmag.com/terms-of-service-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FACT Magazine: Music News, New Music.
+# Terms of Service & Privacy Policy - FACT Magazine: Music News, New Music.
 
 **The Vinyl Factory Group**
 
@@ -208,4 +208,4 @@ You should check the third-party websites for more information about these.
 
 **How to manage cookies**
 
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. You may wish to visit [www.aboutcookies.org](https://www.aboutcookies.org/) which contains comprehensive information on how to modify the cookie settings on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone or tablet you will need to refer to your device manual. If you’d like to opt out of advertising cookies, please go to the Network Advertising Initiative website <http://www.networkadvertising.org/> (opens in a new window – please note that we are not responsible for the content of external websites).
+You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. You may wish to visit [www.aboutcookies.org](https://www.aboutcookies.org/) which contains comprehensive information on how to modify the cookie settings on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone or tablet you will need to refer to your device manual. If you’d like to opt out of advertising cookies, please go to the Network Advertising Initiative website [http://www.networkadvertising.org/](https://www.networkadvertising.org/) (opens in a new window – please note that we are not responsible for the content of external websites).
