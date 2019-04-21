@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vso-software.fr privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125094603id_/http%3A//vso-software.fr/legal_disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vso-software.fr privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421143836id_/http%3A//vso-software.fr/legal_disclaimer.php) for the most accurate reproduction.*
 
 # Legal Disclaimer
 
