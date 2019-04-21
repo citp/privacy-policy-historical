@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405075613id_/http%3A//www.radiofence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421132804id_/https%3A//www.radiofence.com/privacy-policy) for the most accurate reproduction.*
 
 # RadioFence.com Privacy Policy
 
@@ -70,5 +70,5 @@ https://www.radiofence.com
 1133 Bal Harbor Blvd  
 Punta Gorda, Florida 33950  
 United States  
-sales@radiofence.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 1-800-941-4200
