@@ -1,248 +1,83 @@
-> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202063817id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421062123id_/https%3A//broadbanddeals.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | BroadbandDeals.co.uk
 
-The uSwitch privacy policy forms part of uSwitch's terms and conditions.
+Please read below our Privacy Policy which sets out how we will treat your personal information that we may collect when you use BroadbandDeals.co.uk. This Privacy Policy has been provided and approved by the [LegalCentre.co.uk](http://www.legalcentre.co.uk/).
 
-This privacy policy forms part of uSwitch.com's terms and conditions. Once you have provided your personal details on this website you will be deemed to have read and accepted this privacy policy. 
+Our Privacy Policy is contained below and provides a detailed explanation as to how we may use your personal information provided to us or any we collect through legal means. Updates to this Privacy Policy are completed frequently, thus you should peruse this Policy habitually.
 
-uSwitch.com is committed to protecting your privacy. We use the information that we collect about you to process your switch and to inform you about other services we provide. 
+We comply with the Data Protection Act 2018, which introduced GDPR provisions to UK law. We are committed to securely protecting all user data. Our Data Protection No. ZA059251 and our data controller is Ben Tibbits, at our address below.
 
-The site is operated by uSwitch Limited; a company incorporated in England and Wales (registration number 03612689), the registered office of which is Notcutt House, 36 Southwark Bridge Road, London, SE1 9EU ("uSwitch.com"). uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. 
+ **1.  Information We Collect from You**
 
-The Car insurance comparison service is provided by uSwitch Limited, Company No 03612689 registered in the UK having its registered office at Notcutt House, 36 Southwark Bridge Road, SE1 9EU. uSwitch Limited is authorised and regulated by the Financial Conduct Authority. Home insurance comparisons and insurance comparisons, specifically for those with medical conditions and vehicles with modifications are provided by Seopa Ltd, registered in Northern Ireland, Registration Number NI46322. Seopa Ltd has its registered office at 5 Dogleap Road, Limavady, Co Londonderry, N.Ireland. BT49 9NN. Seopa Ltd is authorised and regulated by the Financial Conduct Authority (FCA) (Registration number: 313860). All other aspects of the insurance comparison service are provided by uSwitch Limited. The following terms and conditions apply to uSwitch’s insurance comparison service. By using this system you are also agreeing to Seopa’s [Terms & Conditions](http://www.quotezone.co.uk/seopa-legal.htm) and [Privacy Policy](http://www.quotezone.co.uk/seopa-privacy-policy.htm)
+Data can be collected and processed when our website is in operation by you. The following are approved methods of collection:
 
-This privacy statement sets out the policy in relation to how any personal information collected from you through your use of this site is used. 
+1.1 If you register for information, by filling out a form we can collect the information provided.
 
-## What personal information do we collect?
+1.2 Traffic data, weblogs, location data, and any other communication can be collected.  These details come from your visit to our site and any resource tools you use while on the site.
 
-In order to process an energy switch, we collect your name, address and may collect payment details and other details to process the switch. We also collect your email address and phone number. 
+1.3 Any communication on our website or to personnel allows us to collect information.
 
-These details allow uSwitch.com and your new supplier to contact you about the switch and any other information which uSwitch believes may interest you. 
+ **2.  Use of Cookies**
 
-If you abandon your switch, we may email or call you to give you the opportunity to compare again and/or to provide feedback on our switching process. 
+Circumstances may arise when we may need to gather information about your computer to help provide appropriate services or products to you.  The data gathered is solely statistical data, which may be shared with advertisers.
 
-You can opt-out of receiving information from us whenever you input personal data, or by sending an email to [help@uswitch.com](mailto:help@uswitch.com "Email help@uswitch.com") . 
+The facts collected about you are statistical only. No identifying information will be shared about our visitors and how they made use of our site.  No personal details will ever be shared.
 
-## How do we use your personal information?
+Cookies are used to collect general online usage by using a cookie file.  If used this cookie file is downloaded without prompting.  It will be placed on your hard drive with information transferred to the hard drive allowing the cookies to be used for data collection.  A cookie is used to improve any services/ products, or overall website characteristic we offer you.
 
-If you have requested to switch suppliers, we will use your personal information to process that switch. This will include passing your information to the new supplier. 
+Any computer has the option to decline cookies.  Your web browser options include an “enable” button to decline cookies.  It is imperative that you understand by declining cookies you may be limiting your access to sections of our website.
 
-uSwitch.com may disclose and use personal information collected about you within its own organisation (including its representatives) for the purpose of internal business administration, analysis and marketing. 
+If our advertisers use cookies it will result from a click on their advertisement, and we do not have control over their cookies if used.
 
-uSwitch.com may also disclose personal information collected about you to third parties, for the purposes of completing any transaction you are undertaking with us, for providing any goods or services to you or for the purposes of associated administration or obtaining professional advice. 
+ **3.  Use of Your Information**
 
-If you enter a contest or another promotion, we will use the data so that we can administer the contest and notify winners. 
+Information stored and collected about you allows us to improve our services or products for you.  Added to this parameter, we may use your information for the following purposes:
 
-If you have requested to be kept informed of services that we offer, we will contact you with these details. 
+3.1 Any commitment we make on a contracted basis.
 
-If during your visit to one of our insurance or energy calculators, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted to our quote engine on to one of our representatives. 
+3.2 If information is requested from our website concerning services or products offered, we may use your data.  Products or services which may be of interest to you can also deem a communication from us, if permission has been granted.
 
-By indicating that you have read and understood this Privacy Policy, you are agreeing to allow uSwitch to pass on your personal data to the relevant supplier. 
+3.3 Notification re- changes or improvements may be sent to you in regards to product or service changes that could affect our service to you.
 
-If you provide us with your information through this website, for instance by filling in one of the forms requesting us to compare insurance quotes, we shall use your information as set out in this privacy policy and in the notices we provide when you submit your information.
+3.4 Existing customers can be contacted on the topic of goods or services related to a previous sale, if we feel you might be interested in these additional topics.
 
-By submitting your personal information, you consent to our use of the information as set out in this privacy policy and such notices.
+3.5 Added use of your data may include permission for third parties to use your data.  This permission would be granted by you in regards to unrelated products or services that may be in your interests.  We or third parties can only contact you in regards to this information if consent has been provided for information collection.
 
-In particular, we may need to collect your sensitive personal information to allow us to provide you with quotes, for instance information relating to criminal convictions or to your health. You consent to our use of such information for the purposes set out below.
+3.6 Third party contact or communications from our website, as a new customer, is only made if you have granted us permission.  These communications are only offered for information you consented to and no other unrelated information.
 
-If you give us your personal information, we will use it to provide you with the quote comparison information you request.
+3.7 Data that you do not want us to use, or third parties to use can be withheld after consent has been given regarding our collection of your data. We will always provide you with an opportunity to decline communications or data usage by us or third parties.
 
-When completing a car or home insurance comparison, uSwitch.com may use the information you supply to contact you by phone, email, SMS or otherwise about products and services which may be of interest to you. Such services could include our newsletter, exclusive offers or renewal reminders.
+3.8 Identifiable data, which could be used to disclose who you are, is never shared.  We only provide statistical related data about our visitors to third parties like advertisers to ensure your privacy.
 
-If you are not happy for your data to be used in this way, you can unsubscribe by: Click on the ‘unsubscribe’ link provided on each marketing email we send to you, or email help@uswitch.com and ask to unsubscribe from future marketing materials.
+ **4.  Storing Your Personal Data**
 
-Please remember that by opting out, we will not be able to contact you about products or services that may benefit you. After processing a quote, we may send you a summary of the prices received by either email or SMS. This is part of our automated service and is a condition of use of our website.
+4.1 Outside of the European Economic Area are places for storing and processing data we collect from you.  We may take advantage of these outside areas, allowing a staff to process data collected from you.  These processors may work for our suppliers.  The transfer of this data may include processing and completing your order on our site, such as utilising your payment information or offering support services.  We take all reasonable processes to ensure your data is secure and in agreement with our Privacy Policy as outlined here.
 
-If necessary the supplier might contact you to discuss your insurance or energy quotes. Without clicking 'Continue', 'Find Suppliers' or ‘Compare Quotes’ you will be unable to complete the car insurance or energy quotation process.
+4.2 Secured servers are used by our company to ensure proper data storage.  Information on transactions is kept encrypted for safety measures.
 
-If you request an Insurance quote comparison through our website, we will forward the personal information you submit to selected insurers, insurance brokers and other related third parties to enable us to obtain a quote for you.
+4.3 Transmission of data on the internet can never be ultimately secure.  We do not and cannot guarantee security of information collected electronically or transmitted; however, we take all necessary steps to provide the best security available.  As a result of our inability to guarantee safety, you are submitting information to us at your own risk.  Where needed a password may be necessary to access areas of our site. You are responsible for the safety and confidentiality of the password you generate.
 
-The insurers may use your personal information for their own purposes, which may include contacting you by mail, telephone or email, and any use by these insurers will be subject to the insurer's own terms and conditions and/or privacy policies. 
+ **5.  Disclosing Your Information**
 
-We cannot provide a quote comparison to you unless we are able to share your personal information in this way.
+5.1 Personal information to third parties may be disclosed:
 
-In the event that none of the companies we forward your information to are able to provide an online quotation, we may pass on your contact details to a small number of companies who may be able to provide an offline quotation according to your circumstances. 
+5.2 This disclosure occurs when we sell all or a section of our business or assets to a third party.
 
-Also, we may share your personal information with other selected third parties that may contact you directly about their products or services. We shall give you an opportunity to choose not to share your information with such selected parties before you submit your personal information. 
+5.2.1 Personal information can be offered to any member of our company, such as subsidiaries, holding companies and their subsidiaries only if deemed appropriate.
 
-If while comparing loans or mortgages with us you provide us with your phone number, name, address and postcode, we will pass these details - and the information you have submitted on the site - on to one of our loans or mortgages brokers.
+5.2.2 Legal requirements may mean a sharing of your information.
 
-By entering this information you are agreeing for us to pass your personal data to our loans and mortgages brokers and for them to contact you by phone or email to discuss your requirements.
+5.2.3 Lowering credit risk and fraud protection may result in information disclosure.
 
-They will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose.
+ **6.  Third Party Links**
 
-If during your visit to our business energy service, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted into our web form onto one of our representatives. 
+Links might be discovered on our site that belongs to third parties.  Any third party website on our site has a privacy policy. You should check their terms.  We do not accept liability or responsibility for their privacy policies, based on our lack of control over these third party links.
 
-By indicating you have read and understood this Privacy Policy you are agreeing for us to pass your personal data to one of these representatives and for them to contact you by phone or email to discuss your requirements and provide business energy quotations.
+ **7.  Access to Information**
 
-Without clicking 'continue' you will be unable to complete the business energy web form process.
+The Data Protection Act 1998 was established to govern online electronic communications.  The act gives you access to any data we have about you.  To gain access to this information a small fee of £10 is needed.  This fee allows us to process your request by covering our costs.  Contact information is given below, which should be used to gain details about information we hold on you.
 
-The representatives will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose. 
+ **8.  Contacting Us**
 
-If during your visit to the energy calculator you opted in for our marketing and told us the month of your home insurance renewal you will be called by one of our representatives in order to help you with your home insurance enquiry.
-
-We monitor traffic patterns and site usage. Under the Data Protection Act 1998 we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access. 
-
-For these purposes we may send your information internationally, including to countries outside the European Economic Association. Other countries offer differing levels of protection for personal information, not all of which will be as high as the levels of protection offered in the UK. 
-
-## Accessing personal data
-
-You can contact us to ask whether we are keeping personal data about you, by sending an email to dataprotection@uSwitch.com. Upon request, we will provide you with a readable copy of data which we hold about you. If you ask us to delete, correct or amend that personal data we will do so within a reasonable time. 
-
-If you have any queries relating to your personal data please contact us at: 
-
-Data Protection Officer  
-uSwitch Limited  
-Notcutt House  
-36 Southwark Bridge Road  
-London  
-SE1 9EU 
-
-Alternatively, you can call us on 0800 404 7961.
-
-## Your consent
-
-By disclosing your personal information to uSwitch.com or the motor and home insurance comparison service , you consent to the collection, storage and processing of your personal information in the manner set out in this Privacy Policy. 
-
-## Use of cookies and third-party advertising technology
-
-**1.How does uSwitch use cookies for advertising?**
-
-**a) Non-personalised uSwitch online banner advertising**
-
-We use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise to serve our ads to you. 
-
-In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our third-party ad server, to help manage and optimise our online advertising.
-
-These web beacons enable our ad server, on our behalf or on behalf of our agent, to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our website. 
-
-Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising. 
-
-To learn more about our third-party ad-serving partner, cookies, and how to "opt-out" please [click here](http://webmedia.uswitch.com/optout.html) . 
-
-**b) Personalised gas & electricity results advertisements**
-
-Part of this activity includes personalised retargeting display advertisements, which use information collected from your visit to uSwitch to make them more relevant to you. They also provide you with an easy way to revisit the results you saw during your comparison. 
-
-We understand privacy is very important to our customers, and want to reassure you that we do not share personally identifiable information with 3rd parties while providing this service. 
-
-If you wish to opt-out of receiving these personalised adverts, please [click here](http://www.struq.com/consumer-opt-out/ "This link will open in a new window.") . 
-
-**c) Further information/questions relating to online advertising?**
-
-The IAB (Internet Advertising Bureau) has put together a great resource for information on behavioural advertising: how it works, further information about cookies, and steps you can take to protect your privacy on the internet. To learn more, [click here](http://www.youronlinechoices.com/uk/ "This link will open in a new window.") . 
-
-You can also contact us directly with queries relating to online advertising by sending an email to [privacy@uswitch.com](mailto:privacy@uswitch.com) . 
-
-**2\. How does uSwitch use cookies?**
-
-uSwitch collects information about your preferences in relation to this site by analysing site traffic, which includes the use of cookies.
-
-A cookie is text file which is stored on your computer and is sent by a web server to a web browser, which enables the server to collect information back from the browser. This enables us to identify if you have visited uSwitch before. 
-
-We use cookies to help us analyse traffic on our site and customer behaviour. Cookies may also be used by our partners to understand marketing and traffic patterns.
-
-During the course of any visit to uSwitch, the pages you see, along with a cookie, are downloaded to your computer. Any information that is supplied by cookies can help us to provide you with a better service and assists us in analysing the profile of our visitors. 
-
-Most web browsers automatically accept cookies, but normally you can alter your browser settings to prevent automatic acceptance, if you prefer. If you opt not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies. 
-
-We do not store passwords or any other information about a visitor in a cookie that could identify them, their location, their preferences or their financial activity. 
-
-**3\. How to find and control your cookies**
-
-If you're using **Internet Explorer 6.0 or 7.0** : 
-
-1\. Choose Tools, then
-
-2\. Internet Options
-
-3\. Click the Privacy tab
-
-4\. Click on the 'Advanced' button
-
-5\. Check the 'Override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate. 
-
-If you're using **Mozilla Firefox** : 
-
-1\. Choose Tools, then
-
-2\. Options...
-
-3\. Privacy
-
-4\. Cookies
-
-5\. Set your options as required
-
-If you're using **Opera 8+** : 
-
-1\. Choose Tools, then
-
-2\. Preferences
-
-3\. Advanced
-
-4\. Select Cookies
-
-5\. Select your settings using the available options
-
-If you're using **Safari** : 
-
-1\. Choose Safari, then
-
-2\. Preferences
-
-3\. Security
-
-4\. Select options by Accept Cookies as required.
-
-4\. How do you know which of the sites you've visited use cookies? 
-
-If you're using **Internet Explorer** : 
-
-1\. Choose Tools, then
-
-2\. Internet Options
-
-3\. Click the General tab
-
-4\. Click Settings
-
-5\. View Files.
-
-If you're using **Mozilla Firefox** : 
-
-1\. Choose Tools, then
-
-2\. Options...
-
-3\. Privacy
-
-4\. Cookies
-
-5\. Click the Show Cookies button.
-
-If you're using **Opera 8+** : 
-
-1 Choose Tools, then
-
-2\. Advanced
-
-3\. Click Cookies.
-
-If you're using **Safari** : 
-
-1\. Choose Safari, then
-
-2\. Preferences
-
-3\. Security
-
-4\. Click Show Cookies button.
-
-5\. How to see your cookie code
-
-Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. 
-
-Rights are reserved to amend or modify the privacy statement at any time and in response to changes in applicable data protection and privacy legislation. 
+Please do not hesitate to [contact us](http://www.broadbanddeals.co.uk/contact/) if you have any queries, comments or requests regarding this Privacy Policy.
