@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hercampus.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911035620id_/https%3A//www.hercampus.com/privacy-policy-and-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hercampus.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422014509id_/https%3A//www.hercampus.com/privacy-policy-and-terms-use) for the most accurate reproduction.*
 
 # | Her Campus
 
@@ -123,6 +123,6 @@ Her Campus Media
 9 Lansdowne St., Suite 2  
 Boston, MA 02215  
 United States  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#65161100150d040b0c00250d00170604081510164b060a08) with a carbon copy sent to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99f5fcfef8f5d9f1fcebfaf8f4e9eceab7faf6f4) and [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8a9a6a6a1ad88a0adbaaba9a5b8bdbbe6aba7a5)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4c3f38293c242d2225290c24293e2f2d213c393f622f2321) with a carbon copy sent to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c70797b7d705c74796e7f7d716c696f327f7371) and [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d2c232324280d25283f2e2c203d383e632e2220)
 
 
