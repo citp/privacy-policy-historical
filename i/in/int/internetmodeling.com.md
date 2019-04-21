@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmodeling.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316012525id_/https%3A//www.internetmodeling.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmodeling.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421044953id_/https%3A//www.internetmodeling.com/privacy.htm) for the most accurate reproduction.*
 
 # InternetModeling.com - Webcam Modeling Privacy Policy
 
