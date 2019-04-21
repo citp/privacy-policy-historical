@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freezecollegemag.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911035620id_/http%3A//www.hercampus.com/privacy-policy-and-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freezecollegemag.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422014509id_/https%3A//www.hercampus.com/privacy-policy-and-terms-use) for the most accurate reproduction.*
 
 # | Her Campus
 
