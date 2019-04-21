@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chasing-fireflies.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215107id_/https%3A//www.chasing-fireflies.com/category/get-to-know-us/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasing-fireflies.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421052553id_/http%3A//www.chasing-fireflies.com/category/get-to-know-us/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Chasing Fireflies
 
 #### Effective Date: October 1st, 2015
 
-This Privacy Policy describes the information that Distinctive Apparel, Inc. and its subsidiaries and affiliates (“we,” “our” or “us”) collects through the www.chasing-fireflies.com website (the “Site”) and how we use it, how we protect it and the choices you can make about your information. Throughout this Privacy Policy “information” includes personal information about you. 
+This Privacy Policy describes the information that Distinctive Apparel International (DAI Holding, LLC) and its subsidiaries and affiliates (“we,” “our” or “us”) collects through the www.chasing-fireflies.com website (the “Site”) and how we use it, how we protect it and the choices you can make about your information. Throughout this Privacy Policy “information” includes personal information about you. 
 
 By accessing the Site, you expressly consent to the collection, use, disclosure and storage of your information and other information received by us as a result of such use in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, you should immediately stop using or visiting the Site. 
 
