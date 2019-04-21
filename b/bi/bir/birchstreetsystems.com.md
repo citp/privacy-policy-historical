@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birchstreetsystems.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211060501id_/https%3A//www.birchstreetsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birchstreetsystems.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421103907id_/https%3A//www.birchstreetsystems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BirchStreet Systems
 
