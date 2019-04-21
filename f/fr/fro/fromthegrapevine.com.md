@@ -1,13 +1,32 @@
-> *The following text is extracted and transformed from the fromthegrapevine.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008135950id_/http%3A//www.fromthegrapevine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromthegrapevine.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421060240id_/https%3A//www.fromthegrapevine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | From the Grapevine
 
-Your privacy is important to us. From the Grapevine has prepared these privacy and security policies ("Statement") so you may better understand how From the Grapevine ("our Website") may use your personal information in connection with our Website and services, as well as how it protects your information against unauthorized use. Please take the time to review this Statement and contact us with any questions or concerns.  
+Your privacy is important to us. From the Grapevine has prepared these privacy and security policies ("Statement") so you may better understand how From the Grapevine ("our Website") may use your personal information in connection with our Website and services, as well as how it protects your information against unauthorized use.   
 
 
- **COLLECTION OF INFORMATION**
+This Privacy Policy applies to all information collected about you by From the Grapevine, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with the Services, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.  
 
- **Personal Information**
+
+Personal Information may include:
+
+(1) Contact Data (such as your name, company name, title, phone number, mailing and email addresses);
+
+(2) Traffic Data (such as your IP address, domain server, type of computer, type of web browser, search history and page view history).
+
+Depending on your location, you may also have certain additional rights with respect to your information, such as:   
+(i) data access and portability (including the right to obtain a copy of your personal data you provided to MNN.com, via your settings);   
+(ii) data correction (including the ability to update your personal data, in many cases via settings);  
+(iii) data deletion (including the right to have MNN delete your personal information, except information we are required to retain, by contacting us); and   
+(iv) withdrawal of consent or objection to processing (including, in limited circumstances, the right to ask MNN to stop processing your personal data, with some exceptions, by contacting us).
+
+Except as otherwise noted in this Privacy Policy, From the Grapevine is a data controller (as that term is used under the [EU General Data Protection Regulation or GDPR](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)), which means that we decide how and why the information you provide to us is processed. All personal data that you transmit for the benefit of services provided in this website will be treated according to GDPR effective May 25, 2018. For further information about protection of personal data, visit the [GDPR website](https://www.eugdpr.org/the-regulation.html). 
+
+**COLLECTION OF INFORMATION**
+
+ **  
+ **Personal Information**  
+**
 
 From the Grapevine may ask you to register and provide personal information in certain instances, such as when you choose to personalize your use of our Website for environmental interest, when you ask a question of our experts, or when you contact our customer support group. Personally identifiable information that we may collect includes your name, e-mail address, and address. From the Grapevine may also collect demographic information such as your age, gender, zip code, and interests.
 
