@@ -1,67 +1,109 @@
-> *The following text is extracted and transformed from the cvapor.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210061437id_/https%3A//www.cvapor.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvapor.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421030632id_/https%3A//www.cvapor.com/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy - Cvapor.com
 
-**What information do we collect?**
+Last updated: May 24th, 2018
 
-We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+This privacy policy only applies to www.cvapor.com (quoted as ‘Site’ below). We will comply with it, as well as applicable Privacy laws, when we gather and use information from users of the Site. We encourage you to read this Privacy Policy to understand how we collect information and what we do with the information we collect from you.
 
-When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+**A. Information Collected**
 
-We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+This privacy policy applies only to information collected on the Site. The information we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use on Site.
 
-Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+We collect two types of information from visitors to the Site: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as Browser version, IP address, Device information, etc.
 
-**How do we use your information?**
+(1) Personal Identifiable Information
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+"Personal Identifiable Information" is the information that identifies you personally, such as your name, date of birth, address, telephone number, email address, or company name. The Site collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Site:
 
-To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+We may collect your first name, last name, address, email address, telephone number, company, country, and the type for your question or comment when you fill out a “Contact Us” form on our Site;
 
-To allow us to better service you in responding to your customer service requests.
+We may collect your first and last name, date of birth and email address if you choose to participate in our giveaway activities; We may collect your first and last name, your address, and your credit card and billing information if you make a purchase of a product or service.
 
-To quickly process your transactions.
+If you are a customer, you will typically provide your name, address, email address, telephone number to be able to communicate with us about the products and services we offer to you. If you do not want us to collect your personal identifiable information, please do not provide it to us.
 
-To administer a contest, promotion, survey or other site feature.
+(2) Non-Personal Identifiable Information
 
-If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails.
+We also collect other information that is not personally identifiable to you, but results solely from your visit to the Site. "Non-Personal Identifiable Information" can be technical information or it can be demographic information, such as SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, etc. Here are some examples of the non-personal identifiable information that is collected via the site and a description of how this information is used:
 
-If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+Internet Protocol (IP) address: Your IP address is usually associated with the place from which you enter the Internet. We use this information to deliver our web pages to you upon request, to tailor our Site to the interests of our users and to measure traffic within our Site.
 
-**How do we protect visitor information?**  
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+Cookies: “Cookies” are bits of electronic information that can be transferred to your computer or other electronic device to uniquely identify your browser. We may use cookies to connect your activity on the Site with other information we store about you in your account profile or your prior interactions on the Site, for example, store your preferences. The cookies enable the Site to facilitate access to different aspects of the website. For example, by showing when and how you and others visit its website, cookies help the Site to see which pages are popular and which are not. Cookies can also help the Site to improve your enjoyment of this website, for example, by remembering your address or other personal information when you request information or services on the website. Most web browsers automatically accept cookies, but you can disable this function so that your browser will not accept cookies. Please be aware that disabling this function may impact your use and enjoyment of this website.
 
-**Do we use "cookies"?**  
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Web Beacons are Internet tools, such as transparent images on a website or in e-mails that we may send you, that helps to determine, for instance, the number of visitors to the Site, whether a page has been viewed or an e-mail opened, or to collect other related information, and this information may be associated with your unique browser, device identifier, or IP address. For example, when you ask us to send you information on a promotion or newsletter, we may use web beacons to determine how many of the e-mails we sent were actually opened. In general, any electronic image viewed as part of a web page, including a banner ad, can contain a web beacon.
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Demographic Information: "Demographic Information" may be your gender, age, zip code and interests, which you voluntarily provide to us on the Site. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Site to satisfy your needs. For example, if you subscribe to a specific newsletter, cvapor.com may collect your zip code or interests. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Site.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+We collect the above non-personally identifiable information from all visitors to our Site. If you do not want us to have access to those information, please do not visit our Site.
 
-**Do we disclose the information we collect to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include CVAPOR.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+**B. Use of Information Collected Via the Site**
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We use information that is collected on the Site primarily for the following purposes:
 
-**How can you opt-out, remove or modify information you have provided to us?**  
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+To respond to your enquiry, ask a question, contact you about your request or other reasons related to offering and improving our products and services;
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+To operate, evaluate, and improve our products and service;
 
-**Third party links**  
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+To complete a transaction or service requested by you;
 
-**Changes to our policy**  
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 15th , 2014.**
+To perform market research;
 
-**Questions and feedback**  
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+To advertise and market our products and solutions;
 
-**Online Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+To help us create and publish content most relevant to you;
 
-**Terms and Conditions**  
-Please also visit our [Terms and Use](http://www.cvapor.com/terms-and-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+To analyze our products and services and our Site;
 
-**Your consent**  
-By using our site, you consent to our privacy policy.
+To allow you access to limited-entry areas of the Site;
+
+To improve our security and administer our Site.
+
+**C. Sharing and Disclosure of Information**
+
+We may share any information we collect, including Personal Information with the following categories of recipients and/or in the following circumstances:
+
+As appropriate, we may share any information, including Personal Information, with any of our group companies, vendors or service providers in connection with the provision or marketing of the Services. These third parties have access to Personal Information to the extent necessary to permit them to do their jobs, however, they are bound by confidentiality agreements before any information is provided to them, and they are restricted from using the information for other purposes.
+
+As Required by Law and Similar Disclosures, we may access, preserve, and disclose information, including Personal Information, if we believe it is necessary: to comply with national security or law enforcement requests and legal process, such as a court order or subpoena; to respond to your requests; to prevent or address fraud, security, or technical issues; or to protect our property or other legal rights or the rights or property of others, or to protect the vital interests of others.
+
+If we are involved in a merger, acquisition, financing, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, information collected through the Site may be sold or transferred as part of such a transaction, as permitted by law and/or contract
+
+To protect against potential fraud, we may verify with third parties the information collected from the Site. In the course of such verification, we may receive personal identifiable information about you from such services.
+
+Other than as stated in this Privacy Policy or at the time we request the information, we will not release Personal Information to unaffiliated third parties, and we will not cross-reference Personal Information collected through one client’s use of our Site with that of any other client or entity.
+
+**D. Legal Basis for Information Processing**
+
+We process Personal and Non-Personal Identifiable Information for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal information includes processing that is: necessary for the performance of the contract with you; necessary to comply with legal requirements; necessary for our legitimate interests; and based on consent by our customers.
+
+**E. Visitors Under the Age of 18**
+
+We do not knowingly collect, store, or use information from those visitors/users under the age of 18. We have clear notification on the Site to alert any visitors/users under the age of 18 not to visit/use our Site. However, if we learn that such behaviors happened on our Site (due to accident click or intentionally cheat), any information, Personal or Non-Personal Identifiable Information will be deleted or destroyed.
+
+**F. Opt-Out**
+
+You have the right to opt-out of marketing communications we send you at any time. In addition to using our contact details below, for email marketing communications you can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.
+
+**G. Third Party Web Sites**
+
+This privacy policy applies solely to information collected on the Site. The Site may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites. We encourage you to review the privacy policies of such websites or applications before disclosing your personal information to them.
+
+**H. Third Party Advertisers**
+
+We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Site. Please be advised that such advertising companies may gather information about your visit to the Site or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which web pages you were viewing when such ads were delivered.
+
+**I. Assignment**
+
+In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personal identifiable and non-personal identifiable information collected via the Site.
+
+**J. Changes to this Privacy Policy**
+
+We reserve the right to modify or amend this Privacy Policy at any time. If we make changes, we will notify you by revising the date at the top of this Privacy Policy and, in some cases, we may provide you with additional notice. We encourage you to review this Privacy Policy whenever you access our websites to stay informed about our information practices and the ways you can help protect your privacy.
+
+**K. Security**
+
+We will take reasonable measures to help secure your personal information from unauthorized access, use or disclosure in accordance with generally accepted principles for the storage of personal data. These measures are designed to provide a level of security appropriate to the risk of processing of your personal information. However, neither the Internet nor any form of electronic storage can be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information provided to us.
+
+Please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
+
+If you have any questions, comments, or concerns about this privacy policy or our privacy practices, please contact us at [cooperate@cvapor.com](mailto:cooperate@cvapor.com) . All information you provide in any written communication will also be covered by this policy.
