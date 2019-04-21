@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the ventrachicago.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131083355id_/https%3A//www.ventrachicago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventrachicago.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421073753id_/https%3A//www.ventrachicago.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ventra
 
-Your privacy is very important to us. 
+Your privacy is very important to us.
 
-We protect the information that we collect as part of your use of the Ventra system. 
+We protect the information that we collect as part of your use of the Ventra system.
 
 #### Good to know:
 
   *   **We do not (and won’t) sell your personal information to any third parties for any reason** , including advertising.  
  
-  *   **You can use the Ventra system anonymously** and do not have to provide us with personal information.   
+  *   **You can use the Ventra system anonymously** and do not have to provide us with personal information.  
  
   *  If you choose to register, **we carefully protect the personal data you provide** in secure systems that live in a secure facility.  
  
-  *   **When you use a Ventra Card, we collect and store data about the use of that card** , including what rides are taken. We do the same with the Ventra app regarding use of Metra mobile tickets.   
+  *   **When you use a Ventra Card, we collect and store data about the use of that card** , including what rides are taken. We do the same with the Ventra app regarding use of Metra mobile tickets.  
  
   *   **In the Ventra app, we collect data on how people use the app** to better understand the user experience and identify ways to make it better.  
  
@@ -61,9 +61,9 @@ PII is only utilized as described in this Privacy Policy.
 
 The Ventra Agencies may share PII with any current or future Ventra Agencies for the purpose of operating and managing the Ventra program. The Ventra Agencies may also disclose PII to the Regional Transportation Authority (RTA) and the Federal Transit Administration (FTA). If another transit agency or party is added to the Ventra program, the Ventra Agencies will notify their customers via amendment to this Privacy Policy and on the Ventra website. In addition, the Ventra Agencies may disclose PII to third party service providers for the purpose of operating and maintaining the Ventra system, such as managing customer accounts and collecting revenue. Any such contractors are provided only with the PII they need to deliver the service being provided. The Ventra Agencies require service providers to maintain the confidentiality of the information and to use it only as necessary to carry out their duties under the Ventra program.
 
-The Ventra Agencies require outside law enforcement and regulatory agencies to obtain a subpoena for Ventra records containing PII, including location data, unless otherwise required by law, or the law enforcement or regulatory agency articulates the existence of a bona fide emergency requiring immediate access to specific records. Additionally, the Ventra Agencies may disclose PII without request to appropriate law enforcement agencies where necessary to protect their or their customers’ rights, property or safety. 
+The Ventra Agencies require outside law enforcement and regulatory agencies to obtain a subpoena for Ventra records containing PII, including location data, unless otherwise required by law, or the law enforcement or regulatory agency articulates the existence of a bona fide emergency requiring immediate access to specific records. Additionally, the Ventra Agencies may disclose PII without request to appropriate law enforcement agencies where necessary to protect their or their customers’ rights, property or safety.
 
-The Ventra Agencies may provide a Ventra customer’s PII to a third party as necessary to process any retail transaction using a Ventra Card that a customer may conduct with retail merchants other than any of the Ventra Agencies. As with any credit or debit card payment, if a Ventra customer conducts a transaction with a retail merchant using a Ventra pre-paid debit card[* ](https://www.ventrachicago.com/privacy-policy/#_ftn1) , the Ventra Mobile Application, or any other Ventra program media, the Ventra Agencies need to share some information (for example, the customer’s name and credit or debit card number) with the banks and other entities in the financial system that process credit or debit card transactions. The Ventra Agencies are not responsible for third party use of PII provided to retail merchants at which customers use their Ventra pre-paid card, the Ventra Mobile Application, or any other Ventra program media to conduct transactions, regardless of whether the transaction was conducted in person or online by the Ventra customer. 
+The Ventra Agencies may provide a Ventra customer’s PII to a third party as necessary to process any retail transaction using a Ventra Card that a customer may conduct with retail merchants other than any of the Ventra Agencies. As with any credit or debit card payment, if a Ventra customer conducts a transaction with a retail merchant using the Ventra Mobile Application, or any other Ventra program media, the Ventra Agencies need to share some information (for example, the customer’s name and credit or debit card number) with the banks and other entities in the financial system that process credit or debit card transactions. The Ventra Agencies are not responsible for third party use of PII provided to retail merchants at which customers use the Ventra Mobile Application or any other Ventra program media to conduct transactions, regardless of whether the transaction was conducted in person or online by the Ventra customer.
 
 Besides these entities, PII will not be disclosed to any other third party without express customer consent, except as required to investigate and respond to consumer complaints and to comply with laws or legal process served on any current or future Ventra Agencies or the Ventra Contractor.
 
@@ -109,7 +109,7 @@ The Ventra website contains links to third party websites. These web links may b
 
 **Personal Information of Children Under the Age of 13**
 
-The Ventra Agencies comply with the requirements of the Children’s Online Privacy Act (COPPA) and the FTC’s Rule interpreting COPPA (16 CFR § 512). The Ventra website and the Ventra Mobile Application are not directed to children, and the Ventra Agencies do not knowingly collect any personally identifiable information from children under the age of 13. ****
+The Ventra Agencies comply with the requirements of the Children’s Online Privacy Act (COPPA) and the FTC’s Rule interpreting COPPA (16 CFR § 512). The Ventra website and the Ventra Mobile Application are not directed to children, and the Ventra Agencies do not knowingly collect any personally identifiable information from children under the age of 13.
 
 **Updating Personal Identifying Information**
 
@@ -129,8 +129,6 @@ The Ventra Privacy Policy does not apply to the content of emails transmitted di
 
 Questions or comments regarding the Ventra Privacy Policy may be directed to Ventra Customer Service at (877) NOW-VENTRA.
 
-[* ](https://www.ventrachicago.com/privacy-policy/#_ftnref1) Customers using the Ventra pre-paid debit card should refer to the privacy policy of MetaBank™, the issuer of the Ventra pre-paid debit card.
-
 The effective date of the Ventra Privacy Policy is August 14, 2013.
 
-Last updated: November 17, 2015
+Last updated: December 18, 2017
