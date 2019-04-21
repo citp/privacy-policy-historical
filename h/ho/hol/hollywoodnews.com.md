@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225095816id_/http%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421201545id_/https%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | HollywoodNews.com
 
-This privacy statement discloses the privacy practices for the Hollywood News®, HollywoodNews.com. This Privacy Policy (“Policy”) applies to http://hollywoodnews.com (“Site”) and the Hollywood News® branded and related products and services that are owned and operated by Hollywood Network, Inc. This Policy describes how HollywoodNews.com collects, uses, shares, and protects information collected on our Site or through our products and services, as well your choices regarding use, access, and correction of your personal information. 
+This privacy statement discloses the privacy practices for the Hollywood News®, HollywoodNews.com. This Privacy Policy (“Policy”) applies to https://hollywoodnews.com (“Site”) and the Hollywood News® branded and related products and services that are owned and operated by Hollywood Network, Inc. This Policy describes how HollywoodNews.com collects, uses, shares, and protects information collected on our Site or through our products and services, as well your choices regarding use, access, and correction of your personal information. 
 
 Your privacy is very important to us. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security.
 
@@ -81,5 +81,5 @@ Legal Matters
 HollywoodNews.com  
 433 N. Camden Drive, Suite 600  
 Beverly Hills, CA 90210  
-[info@hollywoodnews.com](https://web.archive.org/web/20181225095816id_/http://www.hollywoodnews.com/privacy/mail%20to:info@hollywoodnews.com)  
+[info@hollywoodnews.com](https://web.archive.org/web/20190421201545id_/https://www.hollywoodnews.com/privacy/mail%20to:info@hollywoodnews.com)  
 Phone: 310-887-1444 – Fax: 310-288-0060
