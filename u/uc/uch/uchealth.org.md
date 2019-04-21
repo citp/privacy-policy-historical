@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uchealth.org privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825133430id_/https%3A//www.uchealth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uchealth.org privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421020221id_/https%3A//www.uchealth.org/privacy-policy) for the most accurate reproduction.*
 
 # UCHealth's Privacy Policy | Colorado | UCHealth
 
 Your privacy is important to us, and we go to great lengths to protect it. Please review our privacy practices.
 
-  * [Notice of Privacy Practices](https://web.archive.org/wp-content/uploads/2016/10/PRIVACY-Notice-of-Privacy-Practices.pdf)
+  * [Notice of Privacy Practices](https://s3.amazonaws.com/uchealth-wp-uploads/wp-content/uploads/2019/02/11130108/UCHEALTH-Notice-of-Privacy-Practices.pdf)
 
 
 
@@ -14,6 +14,12 @@ Your privacy is important to us, and we go to great lengths to protect it. Pleas
   * Acuso de recibo de aviso conjunto de practicas de privacidad [listo en breve]
 
 
+
+**Affiliated Covered Entity**
+
+Certain UCHealth healthcare facilities are required to comply with the Health Insurance Portability and Accountability Act of 1996 and regulations adopted to carry out the Act (“HIPAA”).  These facilities are called “Covered Entities” under HIPAA.  HIPAA allows Covered Entities under common ownership or control to join together to form a “single affiliated covered entity” for purposes of compliance with HIPAA. As a health care provider, UCHealth has formed the UCHealth Affiliated Covered Entity or “UCHealth ACE” which includes the following UCHealth owned or controlled healthcare facilities:
+
+[LIST FROM NPP] 
 
 ## Online Privacy Notice
 
@@ -32,7 +38,7 @@ When you register for the Site or the App, UCHealth will collect certain persona
 
 
 
-In addition, when you use the Site or App , the following types of information may all be logged automatically (“Usage Information”):
+In addition, when you use the Site or App, the following types of information may all be logged automatically (“Usage Information”):
 
   * Type of mobile device you use
   * Operating system of your mobile device
@@ -85,18 +91,6 @@ UCHealth may use your information to re-target or re-market to you via advertise
 
 UCHealth’s websites and mobile application are intended for adults and young adults age 13 and over, and they are not intended for persons under the age of 13. Any child under the age of 13 should not register to use any portion of the UCHealth website and/or mobile application, or provide any personally identifiable information. It is not UCHealth’s desire or intent through its website and/or mobile application to collect and store any personally identifiable information from any person UCHealth actually knows to be under the age of 13. If UCHealth is made aware of collecting information of a child under the age of 13, UCHealth will delete this information.
 
-**WHAT ARE YOUR CALIFORNIA PRIVACY RIGHTS?**
-
-If you are a California resident, you have the right to request information from us regarding the manner in which UCHealth shares certain categories of personal information with third parties for their direct marketing purposes, in addition to the rights set forth above. Under California law, you have the right to send us a request at the designated address listed below to receive the following information:
-
-  1. The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year; and
-  2. the names and addresses of the third parties that received the information; and
-  3. if the nature of the third party’s business cannot be determined from their name, examples of the products or services marketed.
-
-
-
-This information may be provided in a standardized format that is not specific to you. The designated email address for these requests is: ______@UCHealth.org.
-
 **WHAT ABOUT SECURITY?**
 
 UCHealth takes commercially reasonable steps to help protect your information against loss, misuse and unauthorized access, or disclosure. **HOWEVER, UCHEALTH EXPRESSLY DISCLAIMS ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR INFORMATION.**
@@ -110,11 +104,14 @@ By using the Site or App, you are consenting to the use and processing of your i
 If you have any questions about this Online Privacy Notice, our policies, and practices concerning the websites or the mobile application, your rights under this Notice, and your dealings with the UCHealth website or mobile application, you can contact UCHealth by telephone at (303) 752-7857 or by U.S. mail at the address below:
 
 Attention: Vincent Serio  
-Manager, Digital and Emerging Media  
+Director, Digital and Emerging Media  
 UCHealth Marketing and Communications  
-2450 S. Peoria Street  
-Aurora, CO 80014
+3513 Brighton Blvd. 7th Floor  
+Denver, CO 80216  
+United States
 
 ## Inspiring stories delivered to your inbox
 
 Subscribe to [UCHealth Today](https://www.uchealth.org/today).
+
+* If you want to subscribe to our monthly newsletter, please submit the form below.
