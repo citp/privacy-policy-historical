@@ -1,47 +1,163 @@
-> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126000429id_/https%3A//www.ramdass.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421185012id_/https%3A//www.ramdass.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ram Dass
+# Ramdass.org Privacy Policy – Ram Dass 2019
 
-_Ram Dass – Official Site_ is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the _Ram Dass – Official Site_ Web site and governs data collection and usage. By using the _Ram Dass – Official Site_ website, you consent to the data practices described in this statement.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**Collection of your Personal Information**
+#### What personal information do we collect from the people that visit our blog, website or app?
 
-Ram Dass – Official Site collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Ram Dass – Official Site also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-There is also information about your computer hardware and software that is automatically collected by Ram Dass – Official Site. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Ram Dass – Official Site for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Ram Dass – Official Site Web site.
+#### When do we collect information?
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Ram Dass – Official Site public message boards, this information may be collected and used by others. Note: Ram Dass – Official Site does not read any of your private online communications.
+We collect information from you when you place an order, subscribe to a newsletter or enter information on our site.
 
-Ram Dass – Official Site encourages you to review the privacy statements of Web sites you choose to link to from Ram Dass – Official Site so that you can understand how those Web sites collect, use and share your information. Ram Dass – Official Site is not responsible for the privacy statements or other content on Web sites outside of the Ram Dass – Official Site and Ram Dass – Official Site family of Web sites.
+#### How do we use your information?
 
-**Use of your Personal Information  
-**  
-Ram Dass – Official Site collects and uses your personal information to operate the Ram Dass – Official Site Web site and deliver the services you have requested. Ram Dass – Official Site also uses your personally identifiable information to inform you of other products or services available from Ram Dass – Official Site and its affiliates. Ram Dass – Official Site may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Ram Dass – Official Site does not sell, rent or lease its customer lists to third parties. Ram Dass – Official Site may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Ram Dass – Official Site may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Ram Dass – Official Site, and they are required to maintain the confidentiality of your information.
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To send periodic emails regarding your order or other products and services.
+  * To follow up with them after correspondence (live chat, email or phone inquiries)
 
-Ram Dass – Official Site does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Ram Dass – Official Site keeps track of the Web sites and pages our customers visit within Ram Dass – Official Site, in order to determine what Ram Dass – Official Site services are the most popular. This data is used to deliver customized content and advertising within Ram Dass – Official Site to customers whose behavior indicates that they are interested in a particular subject area.
 
-Ram Dass – Official Site Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Ram Dass – Official Site or the site; (b) protect and defend the rights or property of Ram Dass – Official Site; and, (c) act under exigent circumstances to protect the personal safety of users of Ram Dass – Official Site, or the public.
+#### How do we protect your information?
 
-**Use of Cookies  
-**  
-The Ram Dass – Official Site Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Ram Dass – Official Site pages, or register with Ram Dass – Official Site site or services, a cookie helps Ram Dass – Official Site to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Ram Dass – Official Site Web site, the information you previously provided can be retrieved, so you can easily use the Ram Dass – Official Site features that you customized.
+#### We use regular Malware Scanning.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Ram Dass – Official Site services or Web sites you visit.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-**Security of your Personal Information  
-**  
-Ram Dass – Official Site secures your personal information from unauthorized access, use or disclosure. Ram Dass – Official Site secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-**Changes to this Statement  
-**  
-Ram Dass – Official Site will occasionally update this Statement of Privacy to reflect company and customer feedback. Ram Dass – Official Site encourages you to periodically review this Statement to be informed of how Ram Dass – Official Site is protecting your information.
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-**Contact Information  
-**  
-Ram Dass – Official Site welcomes your comments regarding this Statement of Privacy. If you believe that Ram Dass – Official Site has not adhered to this Statement, please contact Ram Dass – Official Site at [ritaryan@ramdass.org](mailto:ritaryan@ramdass.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+#### Do we use ‘cookies’?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.  
+**We use cookies to:**
+
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user’s preferences for future visits.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+  * You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+  * If you turn cookies off, It won’t affect the user’s experience.
+
+
+
+#### Third-party disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+
+#### Third-party links
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+#### Google
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+#### We have implemented the following:
+
+Demographics and Interests Reporting
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+ **Opting out:**
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+#### California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+ **According to CalOPPA, we agree to the following:**
+
+  * Users can visit our site anonymously.
+  * Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+  * Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+
+
+ **You will be notified of any Privacy Policy changes:**
+
+Via Email
+
+ **Can change your personal information:**
+
+By emailing us
+
+#### How does our site handle Do Not Track signals?
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+#### Does our site allow third-party behavioral tracking?
+
+It’s also important to note that we do not allow third-party behavioral tracking
+
+#### COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+#### Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+#### In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+ **We will notify you via email:**
+
+Within 1 business day
+
+ **We will notify the users via in-site notification:**
+
+Within 1 business day
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+#### CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+  * Send information, respond to inquiries, and/or other requests or questions
+  * Process orders and to send information and updates pertaining to orders.
+  * Send you additional information related to your product and/or service
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+
+
+ **To be in accordance with CANSPAM, we agree to the following:**
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+ **If at any time you would like to unsubscribe from receiving future emails, you can email us at:  [info@ramdass.org](mailto:info@ramdass.org)**
+
+#### GDPR Compliancy
+
+[Ramdass.org](https://ramdass.org/) has updated the privacy policy to be GDPR compliant as of 5/25/2018.
+
+#### Contacting Us
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+[Ramdass.org](https://www.ramdass.org/)  
+2355 Westwood Blvd #130  
+Los Angeles, California 90064  
+United States  
+[info@ramdass.org](mailto:info@ramdass.org)
