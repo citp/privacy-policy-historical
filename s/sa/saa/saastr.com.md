@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saastr.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230202015id_/https%3A//www.saastr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saastr.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421173439id_/https%3A//www.saastr.com/privacy-policy) for the most accurate reproduction.*
 
 # SaaS Privacy Policy | Resources & Training for Scaling SaaS Companies
 
@@ -108,4 +108,11 @@ We will update this privacy statement when necessary to reflect changes in appli
 
 ### 10\. Contacting Us
 
-Questions, comments, and requests regarding this Privacy Policy are welcomed and should be addressed to info@saastrinc.com or SaaStr Inc, 303  2nd St., South Tower, Suite 200, San Francisco, CA 94105 USA.
+Questions, comments, and requests regarding this Privacy Policy are welcomed and should be addressed using the following: 
+
+SaaStr Inc, 255 Kansas St., Suite 300, San Francisco, CA 94107 USA
+
+For general inquiries please contact us at: [info@saastrinc.com](mailto:info@saastrinc.com)
+
+For privacy relation matters please contact us at: [privacy@saastrinc.com](mailto:privacy@saastrinc.com)  
+Request access to your personal data here: [Privacy Request Form](https://preferences.saastr.com/privacy)
