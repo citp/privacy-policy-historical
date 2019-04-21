@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115185000id_/https%3A//www.fye.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421111302id_/https%3A//www.fye.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # FYE.com Privacy Policy
 
-We at FYE have created this privacy statement in order to demonstrate its firm commitment to individual privacy. The following discloses our information - gathering and dissemination practices for this site.
+We at FYE have created this privacy statement in order to demonstrate our firm commitment to individual privacy. The following discloses our information - gathering and dissemination practices for this site.
 
 **Personal Info & Its Use**  
 FYE uses your IP address to help diagnose problems with our server and to administer our web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests. Our site's registration form requires users to give us contact information (like their e-mail address), unique identifiers (like a password), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We do not market this information to any outside companies. In some instances, we may share some of this information with certain Marketing Partners. The customer's contact information is also used to contact the visitor, when necessary.
@@ -25,4 +25,4 @@ FYE also allows any customer to create an account with FYE. This allows the user
 
 **Links** Pages at FYE contain links to other sites. FYE is not responsible for the privacy practices or the content of such web sites.
 
-**Security** The security of your data is of utmost importance to FYE. [Click here](http://www.fye.com/customer-service/help/secure-shopper-guarantee.html) to learn about our security guarantee. 
+**Security** The security of your data is of utmost importance to FYE. [Click here](https://www.fye.com/customer-service/help/secure-shopper-guarantee.html) to learn about our security guarantee. 
