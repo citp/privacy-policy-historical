@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206172826id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421221809id_/https%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
 # USCutter - Vinyl Cutters, Heat Transfer, Flat Beds, Craft, Vinyl Supplies, Tools
 
@@ -25,7 +25,7 @@ We are the sole owners of this involuntarily collected information from visitors
 
 We collect personal identifiable information (PII) that is voluntarily submitted by our users. Visitors are required to give PII to become registered users. PII collected on our website is shared with business partners. 
 
-[](http://www.uscutter.com/static/PDFs/pci-Certificate.pdf) We are an online web merchant and collect user credit card information for purchases from our website. Further, we store in our database user credit card information for purchases from our website. Credit card information is securely stored in our database. This information is used for billing purposes, to fill your orders, and make refunds should they be requested. If we have problem processing your order, we will use this information to contact you. Where our website provides facilities for electronic payments the data collected through these pages will be securely encrypted for your protection. 
+[](https://www.uscutter.com/static/PDFs/pci-Certificate.pdf) We are an online web merchant and collect user credit card information for purchases from our website. Further, we store in our database user credit card information for purchases from our website. Credit card information is securely stored in our database. This information is used for billing purposes, to fill your orders, and make refunds should they be requested. If we have problem processing your order, we will use this information to contact you. Where our website provides facilities for electronic payments the data collected through these pages will be securely encrypted for your protection. 
 
 We are an ecommerce website that uses a third-party to fulfill orders (i.e., to warehouse and ship the products ordered to our customers). In order to allow this third-party to ship your order, we must send them your shipping information and what product(s) you ordered. Credit card information is not sent to the third-party fulfillment contractor. This company only uses your personal identifiable information for the purpose of fulfilling your order. 
 
