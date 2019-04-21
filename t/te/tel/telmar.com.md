@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220095727id_/https%3A//www.telmar.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421021608id_/https%3A//www.telmar.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy - Telmar Media Planning Solutions
 
+## **USER PRIVACY AND DATA PROTECTION NOTICE**
+
 **(Updated May 22, 2018)**
 
-## **Our Commitment to User Privacy and Data Protection:**
+### **Our Commitment to User Privacy and Data Protection:**
 
 Welcome to the “Privacy Notice” of Telmar Group Inc. and its worldwide subsidiaries (“Telmar”).
 
