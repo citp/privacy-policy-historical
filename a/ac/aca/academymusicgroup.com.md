@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academymusicgroup.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115142055id_/https%3A//academymusicgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academymusicgroup.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421093018id_/https%3A//academymusicgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Academy Music Group
 
@@ -58,7 +58,7 @@ If you have any questions or feedback about this notice, or how we handle your i
 
 • When you attend one of our events, we may collect your information via (i) video surveillance cameras (we use signs where such cameras are used), (ii) from our free Wifi (if you register to use it) and, if available, via cashless payment wristbands which can be used to access events and to make purchases onsite at the event.
 
-• When you use our websites or apps, we collect information such as the browser and device you're using, your IP address, your location, the site you came from, what you did and didn't use our site/app for, or the site you visit when you leave us. For more information on how we collect this information, see our [Cookies Policy](https://web.archive.org/web/20181115142055id_/https%3A//academymusicgroup.com/cookies-policy).
+• When you use our websites or apps, we collect information such as the browser and device you're using, your IP address, your location, the site you came from, what you did and didn't use our site/app for, or the site you visit when you leave us. For more information on how we collect this information, see our [Cookies Policy](https://web.archive.org/web/20190421093018id_/https%3A//academymusicgroup.com/cookies-policy).
 
 • When you use a social media feature within our website or apps, and you post to social media platforms, the social media site will provide us with some information about you.
 
@@ -110,7 +110,7 @@ We will still perform profiling activities where we need to do so to deliver our
 
 **• Is turning off personalisation the same as turning off cookies?**
 
-No, they’re separate. To control your cookies settings, you can use our cookies consent tool. See our [Cookies Policy](https://web.archive.org/web/20181115142055id_/https%3A//academymusicgroup.com/cookies-policy) for more information.
+No, they’re separate. To control your cookies settings, you can use our cookies consent tool. See our [Cookies Policy](https://web.archive.org/web/20190421093018id_/https%3A//academymusicgroup.com/cookies-policy) for more information.
 
 **• To ensure the security of our and our Event Partners’ operations.**
 
@@ -122,7 +122,7 @@ No, they’re separate. To control your cookies settings, you can use our cookie
 
 • To conduct crowd management analytics – some of our apps use crowd management software so we can see how many people are at a particular stage, or when the busiest times at the bars are. This helps us more efficiently allocate our resources. We turn this on shortly before the festival or event, and turn it off shortly after so we’re not tracking devices when we don’t need to.
 
-• To deliver tailored advertising and marketing communications on our websites and apps (see our [Cookies Policy](https://web.archive.org/web/20181115142055id_/https%3A//academymusicgroup.com/cookies-policy) for more information.)
+• To deliver tailored advertising and marketing communications on our websites and apps (see our [Cookies Policy](https://web.archive.org/web/20190421093018id_/https%3A//academymusicgroup.com/cookies-policy) for more information.)
 
 • To process your health data to meet your accessibility requirements, where specifically required and explicit consent is provided.
 
@@ -148,7 +148,7 @@ Where you have given us your consent, you can withdraw it by doing the following
 
 • To stop receiving our marketing you can change your preferences within your account, follow the unsubscribe instructions in any of the emails we send you or contact us and we will do it for you.
 
-• To opt out of the use of cookies and tracking tools, please see our [Cookies Policy](https://web.archive.org/web/20181115142055id_/https%3A//academymusicgroup.com/cookies-policy) To opt out of location tracking and push notifications, you can change the settings on your device or keep your location off. To stop web push notifications, you will need to use your browser settings.
+• To opt out of the use of cookies and tracking tools, please see our [Cookies Policy](https://web.archive.org/web/20190421093018id_/https%3A//academymusicgroup.com/cookies-policy) To opt out of location tracking and push notifications, you can change the settings on your device or keep your location off. To stop web push notifications, you will need to use your browser settings.
 
 • To object to personalisation you can change your preferences within your account. If this option is not available you can contact us and we will do it for you
 
@@ -166,7 +166,7 @@ You also have rights over how your personal information is used including:
 
 • The right to contest any automated decision we make about you. An automated decision is a decision taken without any human intervention which has legal consequences (e.g. credit checking). We don’t typically carry out automated decision making but, if we do, we will make it clear where such decisions are being made.
 
-To exercise any of the above rights please [complete this form](https://www.smartsurvey.co.uk/s/TMDSRF). Please note that whilst we will carefully assess every request we receive, your rights may differ according to your place of residence and we may not always have to comply. When this happens, we will explain why.
+To exercise any of the above rights please Contact Us. Please note that whilst we will carefully assess every request we receive, your rights may differ according to your place of residence and we may not always have to comply. When this happens, we will explain why.
 
 ## Looking After Your Information
 
@@ -192,6 +192,6 @@ For more information, or to get a copy of the relevant documentation please cont
 
 If you have any questions about the above, or our approach to privacy, our dedicated Privacy Office, including our Data Protection Officer, is here to help: [data@academy-music-group.co.uk](mailto:data@academy-music-group.co.uk)
 
-There’s also The Information Commissioner’s Office - ICO although we encourage you to try and let us help you first.
+There’s also the Information Commissioner’s Office (ICO) although we encourage you to try and let us help you first.
 
 Updated 14 May 2018
