@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financesonline.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227182937id_/https%3A//financesonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financesonline.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422162230id_/https%3A//financesonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Financesonline.com
 
@@ -52,7 +52,7 @@ Your agreement to collection and processing of personal information may be revok
 
 Users are entitled to access, rectify, block, erase and oppose any processing of their personal information. What is more, Users may at any time cancel their agreement to the processing of their personal details. This cancellation will not have retroactive effects. The above is without prejudice to provisions of Spanish applicable law allowing for conservation of data for the purpose of defending the responsibility of FinancesOnline and complying with required legal obligations.
 
-The rights mentioned above may be effected by contacting us at info(at)financesonline(dot)com or at the address provided in the “Contact us” section of the Site.
+The rights mentioned above may be effected by contacting us at support(at)financesonline(dot)com or at the address provided in the “Contact us” section of the Site.
 
 #### 5\. USE OF USER DATA BY OTHER USERS
 
@@ -78,7 +78,7 @@ In relation to international disclosures, Users expressly agree that we may disc
 
 By filling in and sending your data to FinancesOnline during the registration process, you expressly agree to receive communications relevant to the subject matter of the Site and other services. These commercial communications, including newsletters, alerts, offers, notices and promotions, will be always sent by FinancesOnline, or by Software Providers to whom you have agreed your data to be sent in relation to a request, lead or Software.
 
-If you do not want to receive information from this Site you can expressly opt out by sending a notification to info(at)financesonline(dot)com.
+If you do not want to receive information from this Site you can expressly opt out by sending a notification to support(at)financesonline(dot)com.
 
 #### 8\. COLLECTION OF INFORMATION BY THIRD-PARTIES
 
