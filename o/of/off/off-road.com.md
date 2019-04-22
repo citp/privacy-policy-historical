@@ -1,66 +1,135 @@
-> *The following text is extracted and transformed from the off-road.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164440id_/http%3A//www.off-road.com/offroad/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the off-road.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422180239id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Doff-road.com) for the most accurate reproduction.*
 
-# Privacy Policy - Off-Road.com
+# 
 
-**Advanstar Communications Inc.** (together with its affiliated entities, "Advanstar") has created this privacy statement to demonstrate our commitment to full disclosure of the information collection and use practices applicable to this website. This privacy statement discloses what information we collect via this website and how we use it.
+**Privacy Policy**  
+Last updated: May 15, 2018 
 
- **Information Collection and Dissemination  
-General Principles**
+This Privacy Policy describes how VerticalScope Inc. (' **VerticalScope** ', ' **we** ', ' **us** ' or ' **our** ') collects personal information in connection with our websites and mobile or other applications on which this Privacy Policy is posted or linked to (collectively, the ' **Site** '), and how this information may be used, shared and safeguarded. Personal information is information about you as an identifiable Site visitor.
 
-  * In general, you may visit this website without identifying yourself or revealing any personal information.
-  * As you browse our website, the site collects the IP address of your computer and clickstream data (information that site users generate as they move from page to page and click on items) and this data is aggregated with usage data from all site visitors.
-  * Some portions of this website may require you to give us personally-identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation, (i) to register for attendance at certain Advanstar trade shows, conferences and events; (ii) to obtain access to certain online content and functionality; and (iii) to subscribe to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information.
-  * If you elect to provide us Personal Information, we use it primarily to deliver the service you requested.
-  * If you submit Financial Information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations etc.
+By visiting our Site or otherwise providing us with personal information, you agree that we may collect, use and share your personal information as described in this Privacy Policy. If you do not agree, please do not visit our Site or provide us with any personal information. We may at any time and at our sole discretion update this Privacy Policy by posting the updated Privacy Policy here along with the date on which the Privacy Policy was changed. Any changes will be effective immediately upon the posting of or linking to the revised Privacy Policy on our Site. 
+
+**QUICK LINKS**
+
+Click on one of the links below to jump to the listed section:
+
+  1. Information we collect
+  2. How we use the information we collect
+  3. Cookies, tracking technologies and interest-based advertising
+  4. How we share your personal information
+  5. How we store and protect your personal information
+  6. Links to external content
+  7. Children
+  8. Accessing and correcting your personal information
+  9. Your choices
+  10. How to contact us
 
 
 
- **Information Sharing**  
-We share your Personal Information with Advanstar's affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. We rent lists compiled from the Personal Information (including e-mail addresses) gathered from this website.
+## **1\. Information we collect**
 
-Except as otherwise provided in this privacy policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties. However, we reserve the right to release information about visitors, including Personal Information and Financial Information, when release is appropriate to comply with the law, to enforce our Terms of Service, or to protect the rights, property or safety of this website, the public or Advanstar.
+In general, you may visit our Site without providing any personal information. However, in order to use certain features of our Site, we may need to collect your personal information. For example:
 
-On certain Advanstar websites, such as [www.modernmedicine.com](http://www.modernmedicine.com/), when you register for a Continuing Medical Education ("CME") or a Continuing Education ("CE") activity, we collect personally-identifiable information from you. This information is required to be collected by, and is shared with, the relevant accreditation bodies. Our Editorial and Customer Support Staff also have access to this information, including evaluation forms and participant information. This information is used in assessing educational needs and in planning marketing activities. We reserve the right to use this information as otherwise permitted in this Privacy Policy or in our Terms of Service Agreement.
+  * We collect your username, email address or telephone number, and password when you create an account or public user profile. For some Sites you may be required to provide additional information such as your date of birth or the type of vehicle you own. We collect additional information that you choose to add to your account or public user profile, such as a profile picture or information about your hobbies and interests. 
+  * We collect your name, contact information and payment card information when you purchase a product or service through our Site (such as a subscription or classified advertisement). 
+  * If you use a social media account to create an account on our Site, to log-in to our Site, or if you otherwise interact with a social media service through our Site (such as by using a plug-in), we will receive personal information from the social media service, such as your username, email address, gender, public profile information and any other information that you have agreed to share with us, whether explicitly or through your privacy settings.
+  * Our Site may offer public forums or communication platforms that allow you to communicate with other users, post information, content, images, photos or videos, post your opinions on surveys, or submit reviews or ratings (collectively, your 'Content'). Your Content will be associated with your public user profile. Your Content and public user profile is public, unencrypted and non-confidential. This means that it can be read and used by others, including advertisers. We are not responsible for the information you choose to submit in these public areas. You should exercise caution when deciding to disclose personal information in public areas of our Site.
+  * We collect geographical location information if the Site you are using is location-enabled and your device transmits location data and/or your IP address, so we can provide location-specific information to you.
+  * We may collect personal information when you participate in a survey, poll, contest or promotion, such as your name and contact information and responses to survey or poll questions or the information you provide on a contest entry form.
+  * We may collect other personal information with your consent or where required or permitted by law.
 
- **Aggregated information**  
-We sometimes provide aggregated usage or tracking information collected from this website to third parties.
 
- **Information on Children**  
-As a business-to-business company, we do not knowingly collect information from children. On-line registration and web site usage is restricted to adults who are professionally engaged in the businesses we serve.
 
- **Third Party and Affiliated Links:** Our websites contain links to external websites including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other websites. We do not endorse any of these websites or the products or services associated with such websites merely because they are linked to our website.
+We, our service providers and third party advertising partners also collect information about Site visitors automatically using cookies and other tracking technologies. See Cookies, tracking technologies and interest-based advertising below.
 
- **Cookies**  
-A "cookie" is a string of data sent by a website to a user that is inserted in a file of the web browser of the user visiting the site. Advanstar uses temporary, session-specific cookies to ensure visits to its website are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. Advanstar also uses permanent or persistent cookies that remain on a visitor's computer after the visitor leaves an Advanstar website.
+## **2\. How we use the information we collect**
 
-If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our website from functioning properly and you may not be able to use fully all of the site's features and information.
+We generally use the personal information we collect to provide the product, service, feature or information you have requested and for our reasonable business purposes, including: 
 
-We use advertising companies to develop banner ads for our website. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control of, or access to, this data.
+  * to manage our Site and provide our services, such as to create and administer accounts and facilitate the use and enjoyment of forums and communication platforms;
+  * to enable geographic-specific features, such as geographic-specific pricing and information;
+  * to process payments;
+  * to notify you of changes to your account or our Site's services, terms, conditions or policies and to provide you with administrative messages, updates, legal notices, technical notices or security alerts;
+  * to customize your user experience, including by tailoring the advertisements that are displayed to you to make them more useful and relevant to you;
+  * to conduct research and development, analyze and understand trends and user behaviour and to improve our Sites, products and services;
+  * to respond to your inquiries and provide you with technical and other support;
+  * to ensure compliance with our Terms of Use and prevent fraud;
+  * to provide you with newsletters, information, promotional offers and other advertising about us or our advertising partners;
+  * to facilitate your participation in a contest or similar promotion, or a survey or poll;
+  * to meet contractual obligations; and
+  * for other purposes with your consent or as permitted or required by law.
 
- **Opt-out Option**  
-Visitors to this website can decide whether they want to receive targeted promotional information from Advanstar. On the visitor registration pages, prospective visitors can choose to request Advanstar not to e-mail them advertising and promotional information. Should visitors accept promotional email from Advanstar, any email they receive will include instructions on how to be removed from Advanstar's promotional email list.
 
- **Your California Privacy Rights**  
-California's "Shine the Light" law, Cal. Civ. Code § 1798.83, permits our users who are residents of California to request and obtain from us, once per year, free of charge, information about the Personal Information and Financial Information, if any, that we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information includes a listing of the categories of personal information that was shared, and the names and addresses of the third parties with whom we shared the information.
 
-If you are a California resident, and would like to make such a request, please submit your request, in writing, to:
+## **3\. Cookies, tracking technologies and interest-based advertising**
 
-Online Privacy Coordinator  
-Advanstar Communications Inc.  
-Legal Department  
-131 West 1st Street  
-Duluth, MN 55802
+We, our service providers and third party advertising partners use technologies that automatically collect information about Site visitors.
 
- **Security and Encryption**  
-This website takes commercially reasonable precautions to protect your information. We use SSL encryption technology on the portions of our website that accept Financial Information and we use a secure server to encrypt Financial Information transmitted between your browser and our server. As a result, data you submit to our website, such as credit card and payment information, is transmitted securely over the Internet.
+We automatically collect information about how you access, navigate and leave our Site, including the website you came from before visiting our Site, what browser type and operating system you are using, the internet protocol (IP) address you are accessing the Site from, your mobile device ID or Advertising ID if you visit our Site from a mobile device, the pages of our Site that you are navigating through, the date and time of your visit, how long you spend on our Site or certain pages of our Site, and what website you go to after visiting our Site. This information may be used to determine how many visitors visit our Site or certain areas of our Site, how long they remain on our Site, whether they use the hyperlinks we provide or respond to advertising and to tailor our advertisements to you. We may share this information with partners who referred you to our Site, and with advertising partners, who may use the information to optimize the traffic they send to us and for delivering targeted ads to you when you visit other websites.
 
- **Exceptions**  
-Advanstar may buy or sell various assets. In the event that we sell some or all of our assets, or our site is acquired by another company, information about our visitors, including Personal Information and Financial Information, may be among the transferred assets.
+We, our service providers and third-party advertising partners collect information about Site visitors using cookies and other tracking technologies (including browser cookies, pixels and Adobe Flash). We use these technologies to remember your preferences and facilitate your navigation of our Site. We and our service providers and third-party advertising partners also use these technologies to track your activities on our Site and other websites, including the websites and web pages that you visited, the ads or content that you clicked on and the search terms you used, in order to deliver tailored advertising to you. We may also share a hashed or encrypted version of your email address or telephone number with advertising partners so that you may be served with tailored advertising on our websites or other third party websites. These advertising partners are not permitted to use your hashed or encrypted email address for any other purpose. 
 
-Whenever you voluntarily make your personal information available for viewing by third parties online - for example in chat rooms or on message boards - Advanstar has no ability or obligation to prevent third-party access to such information and Advanstar undertakes no responsibility to keep such information private.
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it. If you don't want us to share your hashed or encrypted email address with advertising partners, simply opt-out of our promotional communications. See Your Choices below. 
 
- **Notification of Changes**  
-Advanstar reserves the right, at any time and without notice, to add to, change, update or modify this privacy policy, simply by posting such change, update or modification on the website. Any such change, update or modification will be effective immediately upon posting on the website.
+At this time, we do not respond to browser 'do not track' signals. However, you may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. Please visit [Digital Advertising Alliance of Canada Opt-Out Page](http://youradchoices.ca/understanding-online-advertising), [NAI Opt-Out Page](http://www.networkadvertising.org/choices/%5d%20) and the [Ad Choices Opt-Out Page](http://www.aboutads.info/choices). 
 
- **Your Acceptance of these Terms**  
-By using our website, products or services, you signify your acceptance of the terms of the Advanstar Privacy Policy. If you do not agree to the terms of the Advanstar Privacy Policy, please do not use the website, products and/or services and exit the site immediately.
+We use Google Analytics to help us understand how our Site visitors use the Site, and as well as certain features of Google Analytics Display Advertising to advertise online, sell advertising and to develop content. You can opt out of Google Analytics and customize Google's Display Network ads. Please visit [Google's Ad Settings](https://www.google.ca/settings/ads?hl=en-GB&sig=ACi0TChcn38hjfs81vhis-lHPEFutHa4wTjKTTYLde8Te7kFkjhssvxJtvPzARFnl4zsrUvJxBZzttCNq7h0T4bGaa6vdJatyTG0psR5BwGgwEWTWOFuy0c2qoyWC-TPCVzunZHSxtpy7V1KLCOI7EoBsf0HKnoA1J8cmI3FZz_-cuwNnYOHY5MyPD4bpjoQiiq_2M8f0pr-) and [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please visit [How Google uses data when you use our partners' sites or apps](https://policies.google.com/privacy/partners) for a description of how Google uses information sent by our browser and for ways you can control the information sent to Google. 
+
+## **4\. How we share your information**
+
+We may share information we collect about you in the following circumstances.
+
+**Advertising partners**  
+We share information with our third-party advertising partners as described in the Cookies, tracking technologies and interest-based advertising section above.
+
+**Service Providers**  
+We may use service providers (including affiliates acting in this capacity) to provide services to us or to you on our behalf. For example, our service providers may host our Site, analyze data collected from our Site, provide customer service on our behalf, administer our promotions, facilitate and process transactions and payments, provide marketing or promotional assistance, distribute emails and other communications, post our advertisements (including online through targeted advertising campaigns), and collect your feedback on our Site and advertisements. We share your personal information with our service providers solely for the purposes of providing services to you and to us. They are not permitted to use your personal information for other purposes. Some of our service providers are located outside of Canada, including in the United States. While your personal information is located outside Canada it will be subject to legal requirements applicable to our service providers, for example, lawful requirements to disclose personal information to national security agencies or government authorities in certain circumstances. 
+
+**Aggregate or de-identified information**  
+We may use your personal information to create aggregate statistics and de-identified data. We may use, share and sell this information for any purpose.
+
+**With your consent**  
+We may share your personal information with third parties with your consent. For example, if you provide us with your contact information, such as an e-mail address, for the purposes of signing up for information, newsletters, contests, or marketing offers from a third party, or for receiving business offers or service quotes from a third party, we may share your personal information for that purpose. Once shared, your personal information will be subject to the privacy policy of that third party.
+
+**Business Transactions**  
+We may disclose personal information to third parties in connection with the proposed or actual financing, securitization, insuring, sale, assignment or other disposal of all or part of VerticalScope or our business or assets. These third parties may use the information, for the purposes of evaluating and/or completing the proposed transaction. We will use reasonable efforts to ensure that our successors or assigns process the information we transfer to them in a manner that is consistent with this Privacy Policy. 
+
+**Other**  
+We may disclose your personal information in other circumstances where permitted or required by law or other legal process. For example, we may disclose your personal information: (a) to collect a debt owed to us; (b) as necessary to comply with a subpoena, warrant, court order or other legal process; (c) if disclosure is requested by an investigatory body, law enforcement official or governmental authority which has lawful authority to request the disclosure of the information in respect of an investigation or other legal process; or (d) if we have reasonable grounds to believe that the information relates to a breach of an agreement or contravention of a law, or to protect the personal safety of our users or defend our rights or property.
+
+## **5\. How we store and protect personal information**
+
+Personal information is maintained on our servers (or those of our service providers). In an effort to protect your personal information against unauthorized access or disclosure. For example, accounts you create on our Sites are password protected. In identified parts of our Sites, we use SSL-encryption to protect data transmissions. We limit access to personal information to employees, representatives and service providers who require access in connection with their job responsibilities. Please note it is not possible to transmit data with absolute security over the internet, and we cannot and do not guarantee the security of your personal information.
+
+## **6\. Links to external content**
+
+Our Site may link or direct you to other websites, services or external content provided by third parties. We do not exercise any control over these third party websites or services. We are not responsible for the privacy practices of such third party websites or services. We recommend that you read the privacy policy for any third party website that you visit or service that you use. 
+
+## **7\. Children**
+
+Our Sites are not directed to and we do not knowingly request or collect personal information from children - persons under 13 years of age, or another age if required by applicable law - without prior verifiable parental consent. If we become aware that we have unknowingly collected personal information about a child without verifiable parental consent, we will delete this information from our records or, if that is not reasonable, we will take reasonable available steps to de-identify the information. 
+
+## **8\. Accessing or correcting your personal information**
+
+We encourage you to keep your personal information accurate and up to date. You can access and correct the information in your account or public user profile by logging in to your account or profile and making the necessary edits.  
+You can request access to or correction of your personal information in our custody or control by contacting us as set out below. We may take reasonable steps to authenticate your identity before providing you with access to your personal information or making corrections. Please also note that in some cases we may not be able to provide you with the personal information you have requested (for example, if the information is subject to solicitor-client privilege or contains personal information of others that cannot be severed). 
+
+## **9\. Your Choices**
+
+You may opt out of receiving promotional communications from us at any time by following the unsubscribe instructions included in each communication and/or by selecting your communication preferences in an account or profile.
+
+You may be able to control the information we received from your device or from third parties (such as social media networks) by changing your device settings, browser settings or privacy settings.  
+You may withdraw your consent to our collection, use or disclosure of your personal information, subject to contractual or legal restrictions and reasonable notice. However, if you withdraw your consent to certain collections, uses or disclosures of your personal information, we may not be able to provide you with certain products or services. 
+
+## **10\. How to contact us**
+
+If you have any questions or comments about this Privacy Policy, please contact us at:
+
+privacy@verticalscope.com 
+
+Privacy Officer  
+111 Peter, Suite 901  
+Toronto, Ontario  
+M5V 2H1  
+Canada  
+
