@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928232452id_/https%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422074401id_/https%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Gadget Flow
 
 **Gadget Flow Privacy Notice**
 
-**_Last Revised:_** _June 12, 2018_
+**_Last Revised:_** _October 26th 2018_
 
 ## **Our commitment to Privacy**
 
-Protecting your privacy and your information is a top priority here at Gadget Flow Inc. (“[Gadget Flow](http://thegadgetflow.com/)” “we”, “us” or “ours”). This Privacy Notice explains what information we collect from website visitors and users of our services (“You”), how we use it, who we share it with and how we protect it.
+Protecting your privacy and your information is a top priority here at Gadget Flow Inc. (“[Gadget Flow](https://thegadgetflow.com/)” “we”, “us” or “ours”). This Privacy Notice explains what information we collect from website visitors and users of our services (“You”), how we use it, who we share it with and how we protect it.
 
-Please note that your access to our Services and Website may be subject to certain third party terms and conditions and privacy policies, including but not limited to third party online storage services and payment providers. Unless stated otherwise, this Privacy Notice only deals with the use of information collected by Gadget Flow. You acknowledge that Gadget Flow is not responsible for any such third party terms and conditions and their use of your information.
+Please note that your access to our Services and Website may be subject to certain third party terms and conditions and privacy policies, including but not limited to third-party online storage services and payment providers. Unless stated otherwise, this Privacy Notice only deals with the use of information collected by Gadget Flow. You acknowledge that Gadget Flow is not responsible for any such third party terms and conditions and their use of your information.
 
 This Privacy Notice should be read alongside our [TOU](https://thegadgetflow.com/terms-of-use/). Capitalized terms in this Privacy Notice have the meanings as set forth in our TOU. 
+
+The Federal Trade Commission (FTC) has jurisdiction over Gadget Flow’s compliance with the EU-U.S. Privacy Shield.
 
 If you are under 16 years of age you must obtain parental consent before using the Website.
 
@@ -92,6 +94,17 @@ We may disclose your personal information to the following categories of recipie
 
 
 
+Except as otherwise provided herein, Gadget Flow discloses personal information only to third parties who reasonably need to know such personal information only for the scope of the initial transaction and not for other purposes. Such recipients must agree to abide by confidentiality obligations.
+
+Gadget Flow may provide personal information to third parties that act as agents, consultants, and contractors to perform tasks on behalf of and under our instructions. For example, Gadget Flow may store such personal information in the facilities operated by third parties. Such third parties must agree to use such personal information only for the purposes for which they have been engaged by Gadget Flow and they must either:
+
+  1. comply with the EU-U.S. Privacy Shield principles or another mechanism permitted by the applicable EU data protection law(s) for transfers and processing of personal information;
+  2. or agree to provide adequate protections for the personal information that are no less protective than those set out in this Privacy Notice.
+
+
+
+Gadget Flow has responsibility for the processing of personal information it receives under EU-U.S. Privacy Shield and subsequently transfers such personal information to such third parties, acting as an agent on its behalf. Gadget Flow is liable if such third parties, acting as its agent on its behalf, process such personal information in a manner inconsistent with EU-U.S. Privacy Shield principles and this Privacy Notice.
+
 ## **How do we protect your information?**
 
 – Customers understand and agree that their information can be accessed by the Visitors and Users of our Website. Although Gadget Flow makes reasonable efforts to restrict access to the above mentioned information only to our registered Users, Gadget Flow can not guarantee that other third parties will not, without Gadget Flow’s consent, gain access to it.
@@ -118,19 +131,19 @@ We use cookies and similar tracking technology (collectively, “Cookies”) to 
 
 We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).  
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. 
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. 
 
 ## **Your data protection rights**
 
 Depending on where you reside, You may have the following data protection rights:
 
-  * If you wish to **access, correct, update or request deletion** of your personal information, you can do so at any time by contacting us using the contact details provided under the “Contact Us” heading below [link].  
+  * If you wish to **access, correct, update or request deletion** of your personal information, you can do so at any time by contacting us using the contact details provided under the “[Contact Us](https://thegadgetflow.com/contact/)” heading below.  
 
 
-  * In addition, you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information or **request portability** of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “Contact Us” heading below [link].
+  * In addition, you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information or **request portability** of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “[Contact Us](https://thegadgetflow.com/contact/)” heading below.
 
 
-  * You have the right to **opt-out of marketing communications** we send you at any time.  You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.  To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “Contact Us” heading below [link].
+  * You have the right to **opt-out of marketing communications** we send you at any time.  You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.  To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “[Contact Us](https://thegadgetflow.com/contact/)” heading below.
 
 
   * Similarly, if we have collected and process your personal information with your consent, then you can **withdraw your consent** at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
@@ -155,7 +168,7 @@ If we ask you to provide personal information to comply with a legal requirement
 
 If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to operate our platform and communicating with you as necessary to provide our services to you and for our legitimate commercial interest, for instance, when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.  We may have other legitimate interests and if appropriate and we will make clear to you at the relevant time what those legitimate interests are.
 
-If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “Contact Us” heading below [link].
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “[Contact Us](https://thegadgetflow.com/contact/)” heading below.
 
 ## **Links to Other Sites**
 
@@ -176,3 +189,11 @@ support@thegadgetflow.com
 ## ******Changes to this Privacy Notice**
 
 We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.  You can see when this Privacy Notice was last updated by checking the “Last Revised” date displayed at the top of this Privacy Notice.  
+
+## **Independent Dispute Mechanism**
+
+In compliance with the EU-U.S. Privacy Shield Principles, Gadget Flow commits to resolve complaints about your privacy and our collection or use of your personal information. EU individuals with questions or concerns about the use of their personal data should contact us at: [support@thegadgetflow.com](mailto:support@thegadgetflow.com). If a Customer’s question or concern cannot be satisfied through this process we have further committed to refer unresolved privacy complaints under EU-U.S. Privacy Shield to an independent dispute resolution mechanism operated by JAMS. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Gadget Flow, EU individuals may bring a complaint before JAMS Privacy Shield program can be found at: http://www.jamsadr.com/eu-us-privacy-shield. **** Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. Gadget Flow commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of the employment relationship.
+
+## **Privacy Shield**
+
+_Gadget Flow complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.   Gadget Flow has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this Privacy Notice and the Privacy Shield principles, the Privacy Shield principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit _[ _https://www.privacyshield.gov/_](https://www.privacyshield.gov/) _._
