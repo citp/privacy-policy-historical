@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004021503id_/https%3A//kapost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422055848id_/https%3A//kapost.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy • Kapost | Build and Manage Your Content Operation
+# privacy policy | Kapost
 
 **Effective Date: May 25th, 2018**
 
