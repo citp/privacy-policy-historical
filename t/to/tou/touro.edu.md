@@ -1,46 +1,50 @@
-> *The following text is extracted and transformed from the touro.edu privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522080153id_/http%3A//www.touro.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touro.edu privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422163754id_/https%3A//www.touro.edu/privacy-policy) for the most accurate reproduction.*
 
-# Touro College Website Privacy Policy : The Touro College and University System
+# Touro College Website Privacy Policy | The Touro College and University System
 
 This website is administered by Touro College. The primary purpose of this website is to be a dynamic resource and educational tool to help you create your future. We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so.
 
 Thus, Touro College is committed to protecting the privacy of the personal information of its employees, potential employees, faculty, independent contractors, vendors, suppliers, students and other stakeholders. We value the trust of those we deal with, and of the public, and recognize that maintaining this trust requires that we be transparent and accountable in how we treat the information that you chose to share with us. During the course of our various educational programs and activities, including the maintenance and operation of our website and college, we frequently obtain and use personal information. Anyone from whom we collect such information should expect that it will be carefully protected and that any use of or other dealing with this information is subject to consent. Our privacy practices are designed to achieve this. Touro College has adopted this privacy policy in order to ensure users of our commitment and dedication to privacy. The following privacy guidelines apply to the website (Site). Touro College respects your right to privacy. We invite you to visit our site to search or browse the site without revealing who you are or registering with us. However, if you choose to give us personal information via the Internet that we may need, it is our intent to let you know how we will use such information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will endeavor to respect your wishes. You may only supply personal information to our website if you are utilizing a secure and encrypted internet connection, Touro College accepts no liability for information supplied via an unsecure or unsecure wireless connection.
 
-### Registration
+Registration
 
 Registration is not required to gain access to the Site. However, there are sections of the web site which do require a password, some examples include the intranet subsites.
 
-### Collection of IP addresses and the use of "Cookies"
+Collection of IP addresses and the use of "Cookies"
 
 When you visit our Site, some information such as your Internet protocol address, Internet service provider, operating system, the Site from which you arrived, and the time and date of your visit may be collected automatically as part of the software operation of this Site. This intake of information is not personally identifiable. Touro College uses this information solely for internal marketing purposes, for example, to see what pages are most frequently visited in order to improve the Site. After it is used for internal marketing purposes, this information is discarded.
 
 We also collect information through the use of a technology called "cookies." A cookie is a small file that a web site can send to your browser, which is then stored on your system by your browser. The use of cookie technology on Touro College is solely for internal marketing purposes. If you are uncomfortable accepting cookies from our Site or any other, you can set your browser to notify you when a Site attempts to send you a cookie, giving you the opportunity to decide for yourself whether or not to accept the cookie. You can also set your browser to turn off cookies.
 
-### Resume Collection
+Users Located in the European Economic Area
+
+If you are located in the European Union, Iceland, Liechtenstein or Norway (the “European Economic Area”), please review Touro College & University System’s [GDPR Privacy Policy](https://web.archive.org/privacy-policy/gdpr-policy/).
+
+Resume Collection
 
 The Site provides a capability for users to submit their resumes to Touro College via email. Any resume so received by Touro College will be held in confidence and used only for the purpose of considering the submitting party for employment. Such information is not shared with third parties external to Touro College domestic and international branches. Remember, resume submission should be conducted with a secure and encrypted internet connection only.
 
-### Children's usage of the Site
+Children's usage of the Site
 
 This Site is intended for adult use only. It is not intended for children, and we ask that minors not submit any personal information to us.
 
-### Nature of Data on the Internet
+Nature of Data on the Internet
 
 It is Touro College 's intent to guard any personal information that you submit to us, and Touro College will continue to take steps to maintain the security of this Site. However, as a multi-national institution, the data we collect from you may be internationally distributed throughout Touro College and the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. Therefore, in submitting personal information to the Site from an unsecured and unencrypted connection, you assume the risk of a third party obtaining that information. Please do not supply Touro College with personal information in such a manner.
 
-### Personal Information
+Personal Information
 
 Any time Touro College collects information that you voluntarily submit, it is Touro College 's intent to inform you of why this information is being requested and how it is going to be used. We may collect personal information from you including phone, electronic mail address, and other information you choose to provide at various times, for example, when you complete an online form or request. Touro College uses the personal information we collect online to process your requests, inform you of educational opportunities that we believe you might find interesting, and to understand your needs so that we can provide you with the highest quality education and service. Touro College intends to protect and secure the personal information that you submit to this Site. Touro College will not sell, distribute, or give your personal information to any third party without your knowledge and consent. Touro College shall not be liable for any personal information that you submit to external vendors or to any web site linked to this Site.
 
-### Defining Personal Information
+Defining Personal Information
 
 Personal information is any information that can be used to distinguish, identify or contact a specific individual. This information can include an individual’s opinions or beliefs, as well as facts about, or related to, the individual. Exceptions include business contact information and certain publicly available information, such as names, addresses and telephone numbers as published in telephone directories - these are not considered personal information. Where an individual uses his or her home contact information as business contact information as well, we consider that the contact information provided is business contact information, and is not therefore subject to protection as personal information.
 
-### Privacy Practices
+Privacy Practices
 
 Various jurisdictions have different laws regarding privacy. This policy contains ten (10) principles that we have found form the backPribone much privacy legislation. Using each of the ten principles, Touro College has developed the following practice:
 
-**(1) ACCOUNTABILITY**
+(1) ACCOUNTABILITY
 
 Touro College is responsible for all personal information under its control and remains responsible when personal information is processed by third parties on their behalf.
 
@@ -49,7 +53,7 @@ Touro College is responsible for all personal information under its control and 
 
 
 
-**(2) IDENTIFYING PURPOSES**
+(2) IDENTIFYING PURPOSES
 
 Touro College will identify the purposes for which personal information is collected, at or before the time the information is collected.
 
@@ -63,7 +67,7 @@ Touro College will identify the purposes for which personal information is colle
 
 
 
-**(3) CONSENT**
+(3) CONSENT
 
 Knowledge and consent by the individual for the collection, use and disclosure of personal information will be obtained by Touro College. Indeed, your submission of your personal information over a secure and encrypted internet connection is tacit consent to collection, use and disclosure of personal information obtained by Touro College.
 
@@ -72,7 +76,7 @@ Knowledge and consent by the individual for the collection, use and disclosure o
 
 
 
-**(4) LIMITING COLLECTION**
+(4) LIMITING COLLECTION
 
 The collection of personal information shall be limited to that which is necessary for the purposes identified by Touro College. All personal information shall be collected by fair and lawful means.
 
@@ -81,7 +85,7 @@ The collection of personal information shall be limited to that which is necessa
 
 
 
-**(4) LIMITING USE, DISCLOSURE AND RETENTION**
+(4) LIMITING USE, DISCLOSURE AND RETENTION
 
 Personal information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law.
 
@@ -90,7 +94,7 @@ Personal information will not be used or disclosed for purposes other than those
 
 
 
-**(5) ACCURACY**
+(5) ACCURACY
 
 By supplying your personal information you affirm that such information is accurate, complete and up-to-date as is necessary for the purposes for which it is used by Touro College, taking into account its use and the interests of the individuals.
 
@@ -99,7 +103,7 @@ By supplying your personal information you affirm that such information is accur
 
 
 
-**(6) SAFEGUARDS**
+(6) SAFEGUARDS
 
 Touro College will take steps to protect personal information from theft and loss, as well as unauthorized access, disclosure, copying, use or modification. The methods of protection include:
 
@@ -110,7 +114,7 @@ Touro College will take steps to protect personal information from theft and los
 
 
 
-**(7) OPENNESS**
+(7) OPENNESS
 
 Touro College will make readily available to individuals specific information about Touro College’s policies and practices relating to the management of personal information. Touro College will make these policies and practices understandable and easily available through a variety of forms, including this very positing. Information about these policies and practices may be made available in person, in writing, by telephone, in publications and, as you can see, on the Touro College website. The information made available will include:
 
@@ -120,7 +124,7 @@ Touro College will make readily available to individuals specific information ab
 
 
 
-**(8) INDIVIDUAL ACCESS**
+(8) INDIVIDUAL ACCESS
 
 Upon request by an individual, Touro College shall inform the individual of the existence, use and/or disclosure of his or her personal information and be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate. Individuals have the right to be given access to their personal information (except where it contains references to other individuals or if it cannot be disclosed for legal, security or commercial proprietary reasons). Touro College will advise the individual of the reason for denying the access request.
 
@@ -129,12 +133,19 @@ Upon request by an individual, Touro College shall inform the individual of the 
 
 
 
-**(9) CHALLENGING COMPLIANCE**
+(9) CHALLENGING COMPLIANCE
 
 An individual can challenge Touro College’s compliance with the above principles through the Chief Information Security Officer.
 
   * Touro College has put these procedures in place to receive and respond to complaints or inquiries about its policies and practices relating to the handling of personal information. The complaint procedures is accessible and simple to use. To initiate a complaint all an individual must do is notify Chief Information Security Officer and provide information and assistance to allow Touro College to properly investigate the claim.
-  * Touro College shall investigate all complaints. If a complaint is found to be justified, Touro College will take appropriate measure, including, if necessary, amending its policies and procedures. (10) CONTACT If you have any specific questions, comments or challenges with respect to our privacy policy or compliance, please contact Touro College’s Office of the General Counsel:
+  * Touro College shall investigate all complaints. If a complaint is found to be justified, Touro College will take appropriate measure, including, if necessary, amending its policies and procedures.
+
+
+
+(10) CONTACT
+
+If you have any specific questions, comments or challenges with respect to our privacy policy or compliance, please contact Touro College’s Office of the General Counsel:
+
   * by email at michael.newman@touro.edu
   * by phone at 212.463.0400 x5127
   * or by mail at: 43 West 23rd Street, New York, New York 10010
@@ -143,8 +154,6 @@ An individual can challenge Touro College’s compliance with the above principl
 
 Further information on privacy and your rights in regard to your personal information may be found on our website
 
-**IMPORTANT NOTE:** By submitting any information to Touro College and using or viewing this website the individual agrees to submit all controversies, claims, and disputes that may arise between the individual and Touro College to expedited binding arbitration. INDIVIDUAL APPRECIATES AND UNDERSTANDS THAT OTHER OPTIONS SUCH AS FEDERAL AND STATE ADMINISTRATIVE AND JUDICIAL REMEDIES MAY EXIST; THAT BY CONSENT THOSE REMEDIES ARE FOREVER PRECLUDED; AND THAT REGARDLESS OF THE NATURE OF THE COMPLAINT, INDIVIDUAL KNOWS THAT THE COMPLAINT CAN ONLY BE RESOLVED THROUGH ARBITRATION. INDIVIDUAL CONSENTS AND AGREES, CLEARLY AND UNAMBIGUOUSLY, TO ARBITRATE ANY AND ALL DISPUTED CLAIMS AND BY VIEWING AND USING THIS SITE THE INDIVIDUAL IS ACCEPTING THIS ARBITRATION PROVISION. INDIVIDUAL WAIVES THE RIGHT TO A TRIAL BY JURY. INDIVIDUAL KNOWINGLY AND VOLUNATRILY AND WITHOUT DURESS OR COERSION CONSENTS TO THIS ARBITRATION REQUIREMENT. This consent to binding arbitration covers and includes: any contract or tort claims, privacy claims (both statutory and common law), and claims of discrimination or harassment. The binding arbitration described in this paragraph shall be conducted by the American Arbitration Association (“AAA”) in Edison, New Jersey pursuant to the Federal Arbitration Act and utilizing AAA’s Commercial Rules or its National Rules for the Resolution of Employment Disputes, as applicable. Any party may request arbitration. Requests to arbitrate must be filed with the other party and with AAA within ninety (90) calendar days after the claim or dispute arises or the act or acts as to which arbitration is brought occur. If an individual fails to file a request for arbitration with Touro College and AAA within ninety (90) calendar days after the claim or dispute arises, that claim or dispute it will be conclusively resolved against the individual even if there is an applicable statute of limitations that may have given the individual more time. Any judgment upon the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+IMPORTANT NOTE:
 
-• Individuals have the right to be given access to their personal information (except where it contains references to other individuals or if it cannot be disclosed for legal, security or commercial proprietary reasons). Touro College will advise the individual of the reason for denying the access request. • Touro College will respond to an individual’s request within a reasonable time and at minimal or no cost to the individual related to retrieval, photocopying and delivery. • In providing an account of third parties to which it has disclosed personal information about an individual, Touro College will attempt to be as specific as possible. When it is not possible to provide a list of the organizations to which it has actually disclosed information about an individual, Touro College will provide a list of organizations to which it may have disclosed information about the individual. (9) CHALLENGING COMPLIANCE An individual can challenge Touro College’s compliance with the above principles through the Chief Information Security Officer. • Touro College has put these procedures in place to receive and respond to complaints or inquiries about its policies and practices relating to the handling of personal information. The complaint procedures is accessible and simple to use. To initiate a complaint all an individual must do is notify Chief Information Security Officer and provide information and assistance to allow Touro College to properly investigate the claim. • Touro College shall investigate all complaints. If a complaint is found to be justified, Touro College will take appropriate measure, including, if necessary, amending its policies and procedures. (10) CONTACT If you have any specific questions, comments or challenges with respect to our privacy policy or compliance, please contact Touro College’s Office of the General Counsel: • by email at michael.newman@touro.edu • by phone at 212.463.0400 x5127 • or by mail at: 43 West 23rd Street, New York, New York 10010 Further information on privacy and your rights in regard to your personal information may be found on our website IMPORTANT NOTE: By submitting any information to Touro College and using or viewing this website the individual agrees to submit all controversies, claims, and disputes that may arise between the individual and Touro College to expedited binding arbitration. INDIVIDUAL APPRECIATES AND UNDERSTANDS THAT OTHER OPTIONS SUCH AS FEDERAL AND STATE ADMINISTRATIVE AND JUDICIAL REMEDIES MAY EXIST; THAT BY CONSENT THOSE REMEDIES ARE FOREVER PRECLUDED; AND THAT REGARDLESS OF THE NATURE OF THE COMPLAINT, INDIVIDUAL KNOWS THAT THE COMPLAINT CAN ONLY BE RESOLVED
-
-THROUGH ARBITRATION. INDIVIDUAL CONSENTS AND AGREES, CLEARLY AND UNAMBIGUOUSLY, TO ARBITRATE ANY AND ALL DISPUTED CLAIMS AND BY VIEWING AND USING THIS SITE THE INDIVIDUAL IS ACCEPTING THIS ARBITRATION PROVISION. INDIVIDUAL WAIVES THE RIGHT TO A TRIAL BY JURY. INDIVIDUAL KNOWINGLY AND VOLUNATRILY AND WITHOUT DURESS OR COERSION CONSENTS TO THIS ARBITRATION REQUIREMENT. This consent to binding arbitration covers and includes: any contract or tort claims, privacy claims (both statutory and common law), and claims of discrimination or harassment. The binding arbitration described in this paragraph shall be conducted by the American Arbitration Association (“AAA”) in Edison, New Jersey pursuant to the Federal Arbitration Act and utilizing AAA’s Commercial Rules or its National Rules for the Resolution of Employment Disputes, as applicable. Any party may request arbitration. Requests to arbitrate must be filed with the other party and with AAA within ninety (90) calendar days after the claim or dispute arises or the act or acts as to which arbitration is brought occur. If an individual fails to file a request for arbitration with Touro College and AAA within ninety (90) calendar days after the claim or dispute arises, that claim or dispute it will be conclusively resolved against the individual even if there is an applicable statute of limitations that may have given the individual more time. Any judgment upon the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+By submitting any information to Touro College and using or viewing this website the individual agrees to submit all controversies, claims, and disputes that may arise between the individual and Touro College to expedited binding arbitration. INDIVIDUAL APPRECIATES AND UNDERSTANDS THAT OTHER OPTIONS SUCH AS FEDERAL AND STATE ADMINISTRATIVE AND JUDICIAL REMEDIES MAY EXIST; THAT BY CONSENT THOSE REMEDIES ARE FOREVER PRECLUDED; AND THAT REGARDLESS OF THE NATURE OF THE COMPLAINT, INDIVIDUAL KNOWS THAT THE COMPLAINT CAN ONLY BE RESOLVED THROUGH ARBITRATION. INDIVIDUAL CONSENTS AND AGREES, CLEARLY AND UNAMBIGUOUSLY, TO ARBITRATE ANY AND ALL DISPUTED CLAIMS AND BY VIEWING AND USING THIS SITE THE INDIVIDUAL IS ACCEPTING THIS ARBITRATION PROVISION. INDIVIDUAL WAIVES THE RIGHT TO A TRIAL BY JURY. INDIVIDUAL KNOWINGLY AND VOLUNATRILY AND WITHOUT DURESS OR COERSION CONSENTS TO THIS ARBITRATION REQUIREMENT. This consent to binding arbitration covers and includes: any contract or tort claims, privacy claims (both statutory and common law), and claims of discrimination or harassment. The binding arbitration described in this paragraph shall be conducted by the American Arbitration Association (“AAA”) in Edison, New Jersey pursuant to the Federal Arbitration Act and utilizing AAA’s Commercial Rules or its National Rules for the Resolution of Employment Disputes, as applicable. Any party may request arbitration. Requests to arbitrate must be filed with the other party and with AAA within ninety (90) calendar days after the claim or dispute arises or the act or acts as to which arbitration is brought occur. If an individual fails to file a request for arbitration with Touro College and AAA within ninety (90) calendar days after the claim or dispute arises, that claim or dispute it will be conclusively resolved against the individual even if there is an applicable statute of limitations that may have given the individual more time. Any judgment upon the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
