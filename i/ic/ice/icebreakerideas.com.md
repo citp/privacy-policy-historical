@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icebreakerideas.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204005638id_/https%3A//icebreakerideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebreakerideas.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422174057id_/https%3A//icebreakerideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Icebreaker Ideas
 
