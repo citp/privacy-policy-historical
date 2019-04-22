@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the blueprintlsat.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622140900id_/http%3A//blueprintlsat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueprintlsat.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422201953id_/https%3A//blueprintlsat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blueprintlsat.com
 
 Blueprint Test Preparation (hereafter referred to as "Blueprint") will make every effort to balance our legitimate business interests in collecting and using information with your reasonable expectations of privacy.
 
-[www.blueprintlsat.com](http://blueprintlsat.com/) does not collect personally identifying information about individuals, except when specifically and knowingly provided by such individuals.
+[www.blueprintlsat.com](https://blueprintlsat.com/) does not collect personally identifying information about individuals, except when specifically and knowingly provided by such individuals.
 
-For each visitor to [www.blueprintlsat.com](http://blueprintlsat.com/), our Web servers automatically collect information about which pages are visited and the domain name (e.g., earthlink.com) of visitors.
+For each visitor to [www.blueprintlsat.com](https://blueprintlsat.com/), our Web servers automatically collect information about which pages are visited and the domain name (e.g., earthlink.com) of visitors.
 
 This information is used for internal review, to tailor information to individual visitors and for traffic audits. This information (as well as information from third-party market researchers) might be used on an aggregated, anonymous basis to our advertisers.
 
