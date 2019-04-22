@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120182648id_/https%3A//www.digicert.com/digicert-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422181954id_/https%3A//www.digicert.com/digicert-privacy-policy) for the most accurate reproduction.*
 
 # DigiCert SSL Certificate Authority | Security | Privacy Policy
 
