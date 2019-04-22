@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123171704id_/https%3A//www.stats.com/copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422170940id_/https%3A//www.stats.com/copyright) for the most accurate reproduction.*
 
 # Copyright | STATS
 
@@ -43,7 +43,7 @@ Payment details and details of your transactions. | To take payment for our prod
 Fraud prevention and detection | Legal obligation/legitimate business purposes  
 Information you provide to us when you contact us by telephone, by email. | Provide you with the support and customer service you have requested. | Legitimate business purposes  
 To train our employees. | Legitimate business purposes  
-Technical information about your browsing actions and patterns. We collect this personal data by using cookies and other similar technologies and full details as to how we process and use cookies can be found on our [Cookies Policy](https://statstesting.wpengine.com/cookie-policy/) | To administer and to improve our Website, to ensure it is presented in the most effective manner for you and to give you the best Website experience and to allow you to participate in interactive features of our Website if you choose to do so. | Legitimate business purposes  
+Technical information about your browsing actions and patterns. We collect this personal data by using cookies and other similar technologies and full details as to how we process and use cookies can be found on our [Cookies Policy](https://www.stats.com/cookie-policy/) | To administer and to improve our Website, to ensure it is presented in the most effective manner for you and to give you the best Website experience and to allow you to participate in interactive features of our Website if you choose to do so. | Legitimate business purposes  
 For data analysis, testing, research to help us to improve our products and services. | Legitimate business purposes  
 To keep our Website safe and secure. | Legitimate business purposes  
 To make suggestions and recommendations to you and other users of our Website about products or services that may interest you or them. | Legitimate business purposes  
