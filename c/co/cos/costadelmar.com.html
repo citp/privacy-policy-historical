@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the costadelmar.com privacy policy that was archived on 2018-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181002021414id_/https%3A//www.costadelmar.com/us/en/privacy-policy/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the costadelmar.com privacy policy that was archived on 2019-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190422230553id_/https%3A//www.costadelmar.com/us/en/privacy-policy/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<script type="text/javascript">
+<script async="" src="//COSTA11117.pcapredict.com/js/sensor.js"></script><script type="text/javascript">
 (function(){
 var callbacks = [];
 var ready = false;
@@ -52,9 +52,9 @@ ready = true;
 <meta name="twitter:site" content="@CostaSunglasses">
 <meta name="twitter:title" content="Costa Del Mar Privacy Policy">
 <meta name="twitter:description" content="null">
-<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1538365618738/css/fce5be10-89f6-43d7-aa17-05d5bc36f1ef.css">
+<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/css/ff78c02e-f491-4eda-b233-80ff79224a0e.css">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1538365618738/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/js/lib/html5.js"></script>
 <![endif]-->
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -70,7 +70,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -116,9 +122,39 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
+
+<style type="text/css">ISAPPLEPAY{display:inline;}.dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active{background-color:black;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0;}
+.dw-apple-pay-button:after{content:'Apple Pay';visibility:hidden;}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:white;border-color:white;background-image:-webkit-named-image(apple-pay-logo-black);color:black;}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:black;}</style>
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -160,17 +196,58 @@ dataLayer = [];
 	.category-refinement {
 		display:none;
 	}
-	#navigation > ul > li:nth-child(1) > div > ul > li:nth-child(4) > div.level-3 > ul > li:nth-child(5) > a, #navigation > ul > li:nth-child(2) > div > ul > li:nth-child(4) > div.level-3 > ul > li:nth-child(5) > a {
-		margin-top:1em;
-		font-family: proxima_nova_extrabold,sans-serif;
-		text-transform: uppercase;
-		font-size: 14px;
+	.cscSearchableOnly, .isCostamized{
+		display: none;
 	}
-	@media screen and (max-width: 767px) {
-		#navigation > ul > li:nth-child(1) > div > ul > li:nth-child(4) > div.level-3 > ul > li:nth-child(5) > a, #navigation > ul > li:nth-child(2) > div > ul > li:nth-child(4) > div.level-3 > ul > li:nth-child(5) > a {
+	.cart-promo-approaching {
+		color: #f58025;
+		font-family: proxima_nova_bold,sans-serif;
+		text-transform: uppercase;
+	}
+	.cart-promo-approaching::before, #shipping-method-list .shipping-promos li:before {
+		font-family: fontawesome !important;
+		content: "\f071";
+		display: block;
+		float:left;
+		height:20px;
+		padding-right: 5px;
+		vertical-align: bottom;
+		font-weight:900;
+		color: #f58025;
+	}
+	#shipping-method-list .shipping-promos {
+		color: #f58025;
+		font-family: proxima_nova_bold,sans-serif;
+		text-transform: uppercase;
+		width: 40%;
+	}
+	#shipping-method-list .shipping-promos li {
+		margin: 0 0 0 10px;
+	}
+  #navigation > ul > li:nth-child(1) > div > ul > li:nth-child(4) > div.level-3 > ul > li:nth-child(6) > a, #navigation > ul > li:nth-child(2) > div > ul > li:nth-child(4) > div.level-3 > ul > li:nth-child(6) > a {
+		font-family: proxima_nova_bold,sans-serif;
+		text-transform: uppercase;
+    font-size: 14px;
+		margin-top:10px;
+	}
+	@media screen and (max-width: 480px) {
+		.cart-promo-approaching {
+			padding:0px 10px
+		}
+		#shipping-method-list .shipping-promos {
+			width: 100%;
+			text-align: left;
+		}
+		#shipping-method-list .shipping-promos li {
+			margin: 0 0 10px 15px;
+		}
+	}
+	@media screen and (max-width: 736px) {
+		#navigation > ul > li:nth-child(1) > div > ul > li:nth-child(4) > div.level-3.active.animate > ul > li:nth-child(6) > a, #navigation > ul > li:nth-child(2) > div > ul > li:nth-child(4) > div.level-3.active.animate > ul > li:nth-child(6) > a {
 			font-family: proxima_nova_bold,sans-serif;
 			text-transform: inherit;
 			font-size: 20px;
+			margin-top:inherit;
 		}
 	}
 	@media screen and (min-width: 736px) {
@@ -178,9 +255,9 @@ dataLayer = [];
 			min-width:700px;
 		}
 	}
-  .cscSearchableOnly, .isCostamized{
-    display: none;
-  }
+	div.promotional-message:empty {
+		display:none !important;
+	}
 </style>
 
 <script src="//cdn.bc0a.com/be_ixf_js_sdk.js"></script>
@@ -203,6 +280,22 @@ dataLayer = [];
                         };
     BEJSSDK.construct(be_sdk_options);
 </script>
+
+<script>(function(n,t,i,r){var u,f;n[i]=n[i]||{},n[i].initial={accountCode:"COSTA11117",host:"COSTA11117.pcapredict.com"},n[i].on=n[i].on||function(){(n[i].onq=n[i].onq||[]).push(arguments)},u=t.createElement("script"),u.async=!0,u.src=r,f=t.getElementsByTagName("script")[0],f.parentNode.insertBefore(u,f)})(window,document,"pca","//COSTA11117.pcapredict.com/js/sensor.js")
+
+pca.on('data', function(source, key, address, variations) { 
+    if (source === "address") { 
+        if (pca.platform.productList[key].PLATFORM_CAPTUREPLUS.bindings.length > 0) { 
+            for (var i = 0; i < pca.platform.productList[key].PLATFORM_CAPTUREPLUS.bindings[0].fields.length; i++) { 
+                var pcaField = document.getElementById(pca.platform.productList[key].PLATFORM_CAPTUREPLUS.bindings[0].fields[i].element); 
+                if (pcaField) { 
+                    pca.fire(pcaField, 'change'); 
+                }  
+            } 
+        } 
+    } 
+}); 
+</script>
 </div> 
 
 
@@ -211,7 +304,168 @@ dataLayer = [];
 <div class="header-banner">
 <div class="top-header-banner">
 <div class="header-promotion">
-Free shipping on all sunglasses <span><a href="https://www.costadelmar.com/on/demandware.store/Sites-costa_us-Site/en_US/CustomerService-ShippingAndReturns" title="Free Shipping over $49" class="dialog-link">SEE DETAILS &gt;</a></span>
+<style>
+.video-wrapper {
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+   /* The height padding-bottom set here   
+  allows the video height to grow and shrink   
+  responsively width a aspect ratio of 16:9 */
+}
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+/* Modal Button */
+#myBtn {
+  margin-top:2em;
+  display:none;
+}
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 100 !important; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(255,255,255,0.75); /* White w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fff;
+  margin: auto;
+  padding:1em;
+  border: 1px solid #fff;
+  border-radius:4px;
+  width: 65%;
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.5);
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  font-size: 42px;
+  margin-bottom:10px;
+  display:block;
+  text-align:right;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.slide{
+  display:none;
+}
+.showing{
+  display:block !important;
+}
+@media screen and (max-width: 736px){
+  .modal-content {
+    padding:.5em;
+    width: 85%;
+  }	
+}
+</style>
+<div id="video-popup" class="modal">
+
+<div class="modal-content">
+<span class="close">×</span>
+<div class="video-wrapper" id="video" style="padding-bottom:48%;">
+</div>
+</div>
+</div>
+<div id="slides">
+<div class="slide showing">
+Free Expedited Shipping <span><a href="https://www.costadelmar.com/on/demandware.store/Sites-costa_us-Site/en_US/CustomerService-ShippingAndReturns" title="Free Expedited Shipping over $199" class="dialog-link">SEE DETAILS &gt;</a></span>
+</div>
+<div class="slide">
+Mother's Day Gift Guide <span><a href="https://www.costadelmar.com/us/en/mothers-day-gift-guide" title="Shop Mother's Day Gift Guide">SHOP NOW &gt;</a></span>
+</div>
+</div>
+<script>
+    var slides = document.querySelectorAll('#slides .slide');
+    var currentSlide = 0;
+    var slideInterval = setInterval(nextSlide,6000);
+
+    function nextSlide(){
+      slides[currentSlide].className = 'slide';
+      currentSlide = (currentSlide+1)%slides.length;
+      slides[currentSlide].className = 'slide showing';
+    }
+
+		// Get the modal
+		var modal1 = document.getElementById('video-popup');
+		 
+		// Get the video
+		var video1 = document.getElementById('video');
+
+		// Get the button that opens the modal
+		var btn1 = document.getElementById("myBtn");
+
+		// Get the <span> element that closes the modal
+		var span1 = document.getElementsByClassName("close")[0];
+		
+		// Link directly to Rinconcito video modal open 
+		if(window.location.href.indexOf('#rinconcito') != -1) {
+			modal1.style.display = "block";
+			video.innerHTML = ('<iframe width="560" height="315" src="https://www.youtube.com/embed/lspwWHVFmsQ?rel=0" frameborder="0" allowfullscreen></iframe>');
+		}
+
+    // Link directly to Panga video modal open 
+		if(window.location.href.indexOf('#panga') != -1) {
+			modal1.style.display = "block";
+			video.innerHTML = ('<iframe width="560" height="315" src="https://www.youtube.com/embed/2LDHD8mozxY?rel=0" frameborder="0" allowfullscreen></iframe>');
+		}
+
+    // Link directly to Cheeca video modal open 
+		if(window.location.href.indexOf('#cheeca') != -1) {
+			modal1.style.display = "block";
+			video.innerHTML = ('<iframe width="560" height="315" src="https://www.youtube.com/embed/cf7hCfz2iVc?rel=0" frameborder="0" allowfullscreen></iframe>');
+		}
+
+    // Link directly to OCEARCH NASFA Expedition video modal open 
+		if(window.location.href.indexOf('#nasfa') != -1) {
+			modal1.style.display = "block";
+			video1.innerHTML = ('<iframe width="560" height="315" src="https://www.youtube.com/embed/vOly6_Mh7sI?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>');
+		}
+
+    // Link directly to Performance video modal open 
+		if(window.location.href.indexOf('#performance') != -1) {
+			modal1.style.display = "block";
+			video1.innerHTML = ('<iframe width="560" height="315" src="https://www.youtube.com/embed/y0MgYtNIG6U?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>');
+		}
+
+    // Link directly to Performance video modal open 
+		if(window.location.href.indexOf('#delmar2019') != -1) {
+			modal1.style.display = "block";
+			video1.innerHTML = ('<iframe width="560" height="315" src="https://www.youtube.com/embed/lLw4jBBtzbo?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>');
+		}
+
+    // Link directly to Fish or Die video modal open 
+		if(window.location.href.indexOf('#fishordie') != -1) {
+			modal1.style.display = "block";
+			video1.innerHTML = ('<iframe width="560" height="315" src="https://www.youtube.com/embed/170lkt0dCNE?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>');
+		}
+
+		// When the user clicks on <span> (x), close the modal1
+		span1.onclick = function() {
+			modal1.style.display = "none";
+			video1.innerHTML = ('');	
+		}
+		
+</script>
 </div>
 
 <ul class="menu-utility-user">
@@ -266,70 +520,79 @@ Customer Care
 </a>
 </div>
 <nav id="navigation" role="navigation">
+<style>
+  .sunset-specials a {
+		font-family: proxima_nova_bold,sans-serif;
+		text-transform: uppercase;
+    font-size: 14px;
+		margin-top:10px;
+	}
+  @media screen and (max-width: 736px) {
+		.sunset-specials a {
+			font-family: proxima_nova_bold,sans-serif;
+			text-transform: inherit;
+			font-size: 20px;
+			margin-top:inherit;
+		}
+	}
+</style>
 <ul class="menu-category level-1">
 <li>
-<a class="has-sub-menu" href="https://www.costadelmar.com/us/en/men">
+<a class="has-sub-menu" href="https://www.costadelmar.com/us/en/men" title="Shop Costa Men's">
 Men
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-2">
-
 <ul class="menu-vertical">
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a class="" href="https://www.costadelmar.com/us/en/men">
+<a href="https://www.costadelmar.com/us/en/men" title="Shop Costa Men's">
 Men
 </a>
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Costa Men's Polarized Sunglasses" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dwc2de60db/navigation/mens/costa-mens-polarized-sunglasses.jpg">
+<img src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dwc2de60db/images/navigation/mens/costa-mens-polarized-sunglasses.jpg" alt="Costa Men's Polarized Sunglasses">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/men/sunglasses">
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/men/sunglasses" title="Shop Costa Men's Sunglasses">
 Sunglasses
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/men/sunglasses">
+<a href="https://www.costadelmar.com/us/en/men/sunglasses" title="Shop Costa Men's Sunglasses">
 Sunglasses
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/sunglasses/angler">
-Angler
+<a href="https://www.costadelmar.com/us/en/men/sunglasses/beach-lifestyle" title="Shop Costa Men's Beach Lifestyle Sunglasses">
+Beach Lifestyle
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/sunglasses/voyager">
-Voyager
+<a href="https://www.costadelmar.com/us/en/men/sunglasses/sport-performance" title="Shop Costa Men's Sport Performance Sunglasses">
+Sport Performance
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/sunglasses/beachcomber">
-Beachcomber
-</a>
-</li>
-<li>
-<a class="" href="https://www.costadelmar.com/us/en/men/sunglasses/new-arrivals">
+<a href="https://www.costadelmar.com/us/en/men/sunglasses/new-arrivals" title="Shop Costa Men's New Arrival Sunglasses">
 New Arrivals
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/sunglasses/best-sellers">
+<a href="https://www.costadelmar.com/us/en/men/sunglasses/best-sellers" title="Shop Costa Men's Best Selling Sunglasses">
 Best Sellers
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/sunglasses/c-mates-readers">
+<a href="https://www.costadelmar.com/us/en/men/sunglasses/c-mates-readers" title="Shop Costa Men's C-Mates® Readers Sunglasses">
 C-Mates® Readers
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/sunglasses/view-all">
+<a href="https://www.costadelmar.com/us/en/men/sunglasses/view-all" title="Shop All Costa Men's Sunglasses">
 View All
 </a>
 </li>
@@ -338,53 +601,52 @@ View All
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Costa Men's Clothing &amp; Accessories" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dw4f30ee5d/navigation/mens/costa-mens-clothing-accessories.jpg">
+<img src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dw4f30ee5d/images/navigation/mens/costa-mens-clothing-accessories.jpg" alt="Costa Men's Shirts, Hats &amp; More">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/men/clothing-and-accessories">
-Clothing &amp; Accessories
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/men/clothing-and-accessories" title="Shop Costa Men's Shirts, Hats &amp; More">
+Shirts, Hats &amp; More
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/men/clothing-and-accessories">
-Clothing &amp; Accessories
+<a href="https://www.costadelmar.com/us/en/men/clothing-and-accessories" title="Shop Costa Men's Shirts, Hats &amp; More">
+Shirts, Hats &amp; More
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/shirts">
+<a href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/shirts" title="Shop Costa Men's Shirts">
 Shirts
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/hats">
+<a href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/hats" title="Shop Costa Men's Hats">
 Hats
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/packs-and-bags">
+ <a href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/packs-and-bags" title="Shop Costa Men's Packs and Bags">
 Packs and Bags
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/gifts-and-accessories">
+<a href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/gifts-and-accessories" title="Shop Costa Men's Gifts and Accessories">
 Gifts and Accessories
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/new-arrivals">
+<a href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/new-arrivals" title="Shop Costa Men's New Arrival Clothing &amp; Accessories">
 New Arrivals
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/best-sellers">
+<a href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/best-sellers" title="Shop Costa Men's Best Selling Clothing &amp; Accessories">
 Best Sellers
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/view-all">
+<a href="https://www.costadelmar.com/us/en/men/clothing-and-accessories/view-all" title="Shop All Costa Men's Clothing &amp; Accessories">
 View All
 </a>
 </li>
@@ -393,38 +655,42 @@ View All
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Costa Collections" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dwc33a4127/navigation/costa-collections.jpg">
+<img src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dwc33a4127/images/navigation/mens/costa-collections.jpg" alt="Costa Collections">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/collections">
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/collections" title="Shop Costa Collections">
 Collections
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/collections">
+<a href="https://www.costadelmar.com/us/en/collections" title="Shop Costa Collections">
 Collections
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/the-untangled-collection">
+<a href="https://www.costadelmar.com/us/en/mothers-day-gift-guide" title="Shop Mother's Day Gift Guide">
+Mother's Day Gift Guide
+</a>
+</li>
+<li>
+<a href="https://www.costadelmar.com/us/en/the-untangled-collection" title="Shop The Untangled Collection">
 The Untangled Collection
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/del-mar-collection-sunglasses">
+<a href="https://www.costadelmar.com/us/en/del-mar-collection-sunglasses" title="Shop Del Mar Collection">
 Del Mar Collection
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/ocearch-collection-1">
+<a href="https://www.costadelmar.com/us/en/ocearch-collection" title="Shop OCEARCH Collection">
 OCEARCH Collection
 </a>
 </li>
-<li>
-<a class="" href="https://www.costadelmar.com/us/en/sunset-specials">
+<li class="sunset-specials">
+<a href="https://www.costadelmar.com/us/en/sunset-specials" title="Shop Costa Sunset Specials">
 Sunset Specials
 </a>
 </li>
@@ -433,43 +699,42 @@ Sunset Specials
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Costa Men's Performance Tech" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dw5cbeb2b5/navigation/mens/costa-mens-performance-tech.jpg">
+<img src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dw5cbeb2b5/images/navigation/mens/costa-mens-performance-tech.jpg" alt="Costa Sunglasses Performance Technology">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/performance-technology/technology.html">
-Performance Tech
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/performance-technology" title="Costa Sunglasses Performance Technology">
+Technology
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/performance-technology/technology.html">
-Performance Tech
+<a href="https://www.costadelmar.com/us/en/performance-technology" title="Costa Sunglasses Performance Technology">
+Technology
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/performance-technology/580-lenses.html">
+<a href="https://www.costadelmar.com/us/en/performance-technology/580-lenses" title="Costa Sunglasses 580® Lens Technology">
 580® Lens
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/performance-technology/lenses.html">
+<a href="https://www.costadelmar.com/us/en/performance-technology/lenses" title="Costa Sunglasses Lenses Technology">
 Lenses
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/performance-technology/frames.html">
+<a href="https://www.costadelmar.com/us/en/performance-technology/frames" title="Costa Sunglasses Frames Technology">
 Frames
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/prescription-sunglasses">
+<a href="https://www.costadelmar.com/us/en/prescription-sunglasses" title="Costa Prescription Sunglasses">
 Prescription Sunglasses
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/prescription-eyeglasses">
+<a href="https://www.costadelmar.com/us/en/prescription-eyeglasses" title="Costa Prescription Eyeglasses">
 Prescription Eyeglasses
 </a>
 </li>
@@ -480,68 +745,61 @@ Prescription Eyeglasses
 </div>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.costadelmar.com/us/en/women">
+<a class="has-sub-menu" href="https://www.costadelmar.com/us/en/women" title="Costa Women's">
 Women
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-2">
-
 <ul class="menu-vertical">
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a class="" href="https://www.costadelmar.com/us/en/women">
+<a href="https://www.costadelmar.com/us/en/women" title="Costa Women's">
 Women
 </a>
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Costa Women's Polarized Sunglasses" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dwdb7443bf/navigation/womens/costa-womens-polarized-sunglasses.jpg">
+<img alt="Costa Women's Polarized Sunglasses" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dwdb7443bf/images/navigation/womens/costa-womens-polarized-sunglasses.jpg">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/women/sunglasses">
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/women/sunglasses" title="Costa Women's Sunglasses">
 Sunglasses
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/women/sunglasses">
+<a href="https://www.costadelmar.com/us/en/women/sunglasses" title="Costa Women's Sunglasses">
 Sunglasses
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/sunglasses/angler">
-Angler
+<a href="https://www.costadelmar.com/us/en/women/sunglasses/beach-lifestyle" title="Costa Women's Beach Lifestyle Sunglasses">
+Beach Lifestyle
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/sunglasses/voyager">
-Voyager
+<a href="https://www.costadelmar.com/us/en/women/sunglasses/sport-performance" title="Costa Women's Sport Performance Sunglasses">
+Sport Performance
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/sunglasses/beachcomber">
-Beachcomber
-</a>
-</li>
-<li>
-<a class="" href="https://www.costadelmar.com/us/en/women/sunglasses/new-arrivals">
+<a href="https://www.costadelmar.com/us/en/women/sunglasses/new-arrivals" title="Costa Women's New Arrival Sunglasses">
 New Arrivals
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/sunglasses/best-sellers">
+<a href="https://www.costadelmar.com/us/en/women/sunglasses/best-sellers" title="Costa Women's Best Selling Sunglasses">
 Best Sellers
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/sunglasses/c-mates-readers">
+<a href="https://www.costadelmar.com/us/en/women/sunglasses/c-mates-readers" title="Costa Women's C-Mates® Readers Sunglasses">
 C-Mates® Readers
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/sunglasses/view-all">
+<a href="https://www.costadelmar.com/us/en/women/sunglasses/view-all" title="Shop All Costa Women's Sunglasses">
 View All
 </a>
 </li>
@@ -550,53 +808,52 @@ View All
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Costa Women's Clothing &amp; Accessories" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dwb8a694bd/navigation/womens/costa-womens-clothing-accessories.jpg">
+<img alt="Costa Women's Shirts, Hats &amp; More" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dwb8a694bd/images/navigation/womens/costa-womens-clothing-accessories.jpg">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/women/clothing-and-accessories">
-Clothing &amp; Accessories
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/women/clothing-and-accessories" title="Shop Costa Women's Shirts, Hats &amp; More">
+Shirts, Hats &amp; More
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/women/clothing-and-accessories">
-Clothing &amp; Accessories
+<a href="https://www.costadelmar.com/us/en/women/clothing-and-accessories" title="Shop Costa Women's Shirts, Hats &amp; More">
+Shirts, Hats &amp; More
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/shirts">
+<a href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/shirts" title="Shop Costa Women's Shirts">
 Shirts
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/hats">
+<a href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/hats" title="Shop Costa Women's Hats">
 Hats
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/packs-and-bags">
+<a href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/packs-and-bags" title="Shop Costa Women's Packs &amp; Bags">
 Packs and Bags
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/gifts-and-accessories">
+<a href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/gifts-and-accessories" title="Shop Costa Women's Gifts &amp; Accessories">
 Gifts and Accessories
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/new-arrivals">
+<a href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/new-arrivals" title="Shop Costa Women's New Arrival Clothing &amp; Accessories">
 New Arrivals
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/best-sellers">
+<a href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/best-sellers" title="Shop Costa Women's Best Selling Clothing &amp; Accessories">
 Best Sellers
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/view-all">
+<a href="https://www.costadelmar.com/us/en/women/clothing-and-accessories/view-all" title="Shop All Costa Women's Clothing &amp; Accessories">
 View All
 </a>
 </li>
@@ -605,38 +862,42 @@ View All
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Costa Collections" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dwc33a4127/navigation/costa-collections.jpg">
+<img src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dwc33a4127/images/navigation/mens/costa-collections.jpg" alt="Costa Collections">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/collections">
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/collections" title="Shop Costa Collections">
 Collections
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/collections">
+<a href="https://www.costadelmar.com/us/en/collections" title="Shop Costa Collections">
 Collections
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/the-untangled-collection">
-The Untangled Collection
+<a href="https://www.costadelmar.com/us/en/mothers-day-gift-guide" title="Shop Mother's Day Gift Guide">
+Mother's Day Gift Guide
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/del-mar-collection-sunglasses">
+<a href="https://www.costadelmar.com/us/en/the-untangled-collection" title="Shop The Untangled Collection">
+The Untangled Collection
+</a>
+ </li>
+<li>
+<a href="https://www.costadelmar.com/us/en/del-mar-collection-sunglasses" title="Shop Del Mar Collection">
 Del Mar Collection
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/ocearch-collection-1">
+<a href="https://www.costadelmar.com/us/en/ocearch-collection" title="Shop OCEARCH Collection">
 OCEARCH Collection
 </a>
 </li>
-<li>
-<a class="" href="https://www.costadelmar.com/us/en/sunset-specials">
+<li class="sunset-specials">
+<a href="https://www.costadelmar.com/us/en/sunset-specials" title="Shop Costa Sunset Specials">
 Sunset Specials
 </a>
 </li>
@@ -645,43 +906,42 @@ Sunset Specials
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Costa Women's Performance Tech" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dw6dedf085/navigation/womens/costa-womens-performance-tech.jpg">
+<img src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dw6dedf085/images/navigation/womens/costa-womens-performance-tech.jpg" alt="Costa Sunglasses Performance Technology">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/home-performance-technology-2">
-Performance Tech
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/performance-technology" title="Costa Sunglasses Performance Technology">
+Technology
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/home-performance-technology-2">
-Performance Tech
+<a href="https://www.costadelmar.com/us/en/performance-technology" title="Costa Sunglasses Performance Technology">
+Technology
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/performance-technology/580-lenses.html">
+<a href="https://www.costadelmar.com/us/en/performance-technology/580-lenses" title="Costa Sunglasses 580® Lens Technology">
 580® Lens
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/performance-technology/lenses.html">
+<a href="https://www.costadelmar.com/us/en/performance-technology/lenses" title="Costa Sunglasses Lenses Technology">
 Lenses
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/performance-technology/frames.html">
+<a href="https://www.costadelmar.com/us/en/performance-technology/frames" title="Costa Sunglasses Frames Technology">
 Frames
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/prescription-sunglasses">
+<a href="https://www.costadelmar.com/us/en/prescription-sunglasses" title="Costa Prescription Sunglasses">
 Prescription Sunglasses
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/prescription-eyeglasses">
+<a href="https://www.costadelmar.com/us/en/prescription-eyeglasses" title="Costa Prescription Eyeglasses">
 Prescription Eyeglasses
 </a>
 </li>
@@ -692,63 +952,61 @@ Prescription Eyeglasses
 </div>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.costadelmar.com/us/en/inside-costa">
+<a class="has-sub-menu" href="https://www.costadelmar.com/us/en/inside-costa" title="Inside Costa Sunglasses">
 Inside Costa
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-2">
-
 <ul class="menu-vertical">
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa">
+<a href="https://www.costadelmar.com/us/en/inside-costa" title="Inside Costa Sunglasses">
 Inside Costa
 </a>
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Inside Costa - Protect" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dw9154229c/navigation/inside-costa/inside-costa-protect.jpg">
+<img alt="Inside Costa Sunglasses - Protect" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dw9154229c/images/navigation/inside-costa/inside-costa-protect.jpg">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/inside-costa/protect">
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/inside-costa/protect" title="Inside Costa Sunglasses - Protect">
 Protect
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/inside-costa/protect">
+<a href="https://www.costadelmar.com/us/en/inside-costa/protect" title="Inside Costa Sunglasses - Protect">
 Protect
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/protect/untangle-our-oceans">
+<a href="https://www.costadelmar.com/us/en/inside-costa/protect/35-years" title="Costa Sunglasses 35 Years">
+35 Years
+</a>
+</li>
+<li>
+<a href="https://www.costadelmar.com/us/en/inside-costa/protect/untangle-our-oceans" title="Untangle Our Oceans">
 Untangle Our Oceans
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/hurricane-relief/ONECOAST.html">
-#OneCoast
-</a>
-</li>
-<li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/protect/ocearch">
+<a href="https://www.costadelmar.com/us/en/inside-costa/protect/ocearch" title="OCEARCH">
 OCEARCH
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/protect/kick-plastic">
+<a href="https://www.costadelmar.com/us/en/inside-costa/protect/onecoast" title="#OneCoast">
+#OneCoast
+</a>
+</li>
+<li>
+<a href="https://www.costadelmar.com/us/en/inside-costa/protect/kick-plastic" title="#KickPlastic">
 Kick Plastic
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/protect/protect-guyana">
-Protect Guyana
-</a>
-</li>
-<li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/protect/bio-based-resin">
+<a href="https://www.costadelmar.com/us/en/inside-costa/protect/bio-based-resin" title="Bio-based Resin">
 Bio-based Resin
 </a>
 </li>
@@ -757,33 +1015,32 @@ Bio-based Resin
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Inside Costa - Explore" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dwa4adb917/navigation/inside-costa/inside-costa-explore.jpg">
+<img alt="Inside Costa - Explore" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dwa4adb917/images/navigation/inside-costa/inside-costa-explore.jpg">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/inside-costa/explore">
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/inside-costa/explore" title="Inside Costa Sunglasses - Explore">
 Explore
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/inside-costa/explore">
+<a href="https://www.costadelmar.com/us/en/inside-costa/explore" title="Inside Costa Sunglasses - Explore">
 Explore
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/explore/born-on-the-water">
+<a href="https://www.costadelmar.com/us/en/inside-costa/explore/born-on-the-water" title="Born on The Water">
 Born On The Water
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/explore/seewhatsoutthere">
+<a href="https://www.costadelmar.com/us/en/inside-costa/explore/seewhatsoutthere" title="#SeeWhatsOutThere">
 #SeeWhatsOutThere
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/explore/the-leaf-cutter">
+<a href="https://www.costadelmar.com/us/en/inside-costa/explore/the-leaf-cutter" title="The Leaf Cutter Film">
 The Leaf Cutter
 </a>
 </li>
@@ -792,33 +1049,32 @@ The Leaf Cutter
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Inside Costa - Fishing" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dw12ca136d/navigation/inside-costa/inside-costa-fishing.jpg">
+<img alt="Costa Sunglasses Fishing Communities" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dw12ca136d/images/navigation/inside-costa/inside-costa-fishing.jpg">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/inside-costa/fishing">
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/inside-costa/fishing" title="Costa Sunglasses Fishing Communities">
 Fishing
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/inside-costa/fishing">
+<a href="https://www.costadelmar.com/us/en/inside-costa/fishing" title="Costa Sunglasses Fishing Communities">
 Fishing
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/fishing/saltwater-fishing">
+<a href="https://www.costadelmar.com/us/en/inside-costa/fishing/saltwater-fishing" title="Costa Sunglasses Saltwater Fishing">
 Saltwater Fishing
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/fishing/bass-fishing">
-Bass Fishing
+<a href="https://www.costadelmar.com/us/en/inside-costa/fishing/bass-fishing" title="Costa Sunglasses Freshwater Fishing">
+Freshwater Fishing
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/fishing/fly-fishing">
+<a href="https://www.costadelmar.com/us/en/inside-costa/fishing/fly-fishing" title="Costa Sunglasses Fly Fishing">
 Fly Fishing
 </a>
 </li>
@@ -827,48 +1083,47 @@ Fly Fishing
 </li>
 <li>
 <div class="level-2-cat-banner">
-<img alt="Inside Costa - Customer Care" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa-us-site-catalog/default/dwd6fa20fa/navigation/inside-costa/inside-costa-customer-care.jpg">
+<img alt="Costa Sunglasses Customer Care" src="https://www.costadelmar.com/on/demandware.static/-/Sites-costa_us-Library/default/dwd6fa20fa/images/navigation/inside-costa/inside-costa-customer-care.jpg">
 </div>
-<a class="sub-sub-menu " href="https://www.costadelmar.com/us/en/inside-costa/customer-care">
+<a class="sub-sub-menu" href="https://www.costadelmar.com/us/en/inside-costa/customer-care" title="Costa Sunglasses Customer Care">
 Customer Care
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
 <div class="level-3">
-
 <ul>
 <li class="cat-header hide-desktop">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/inside-costa/customer-care">
+<a href="https://www.costadelmar.com/us/en/inside-costa/customer-care" title="Costa Sunglasses Customer Care">
 Customer Care
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/repair-program">
+<a href="https://www.costadelmar.com/us/en/repair-program" title="Costa Sunglasses Repair Program">
 Repair Program
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/faqs/faqs.html">
+<a href="https://www.costadelmar.com/us/en/faqs" title="Costa Sunglasses Frequently Asked Questions">
 FAQs
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/customer-contact/customer-contact.html">
+<a href="https://www.costadelmar.com/us/en/customer-contact/customer-contact.html" title="Contact Costa Sunglasses">
 Contact Us
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/limited-warranty">
+<a href="https://www.costadelmar.com/us/en/limited-warranty" title="Costa Sunglasses Limited Warranty">
 Limited Warranty
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/inside-costa/customer-care/shipping-and-returns">
+<a href="https://www.costadelmar.com/us/en/inside-costa/customer-care/shipping-and-returns" title="Costa Sunglasses Shipping and Returns">
 Shipping and Returns
 </a>
 </li>
 <li>
-<a class="" href="https://www.costadelmar.com/us/en/email-subscriptions/email-subscriptions.html">
+<a href="https://www.costadelmar.com/us/en/email-sweepstakes" title="Costa Sunglasses Email Sign-Up">
 Email Sign-Up
 </a>
 </li>
@@ -878,20 +1133,18 @@ Email Sign-Up
 </ul>
 </div>
 </li>
-<div class="unwrap-nav-assets">
-<div class="content-asset">
-<li>
-<a href="https://www.costadelmar.com/us/en/stores">
+<li class="hide-desktop">
+<a href="https://www.costadelmar.com/us/en/stores" title="Find a Costa Sunglasses Dealer">
 Find Dealers
 </a>
 </li>
-<li>
-<a href="https://www.costadelmar.com/us/en/account" title="Go to My Account">
+<li class="hide-desktop">
+<a href="https://www.costadelmar.com/us/en/account" title="My Costa Sunglasses Account">
 My Costa Account
 </a>
 </li>
-<li>
-<a href="https://www.costadelmar.com/us/en/customer-contact/customer-contact.html" title="Contact Us" class="has-sub-menu">
+<li class="hide-desktop">
+<a href="https://www.costadelmar.com/us/en/search?cgid=%27inside-customercare" class="has-sub-menu">
 Customer Care
 <i class="menu-item-toggle fa fa-angle-right"></i>
 </a>
@@ -899,40 +1152,38 @@ Customer Care
 <ul class="menu-vertical">
 <li class="cat-header">
 <i class="menu-back fa fa-angle-left"></i>
-<a href="https://www.costadelmar.com/us/en/customer-contact/customer-contact.html" title="Contact Us">
+<a href="https://www.costadelmar.com/us/en/search?cgid=%27inside-customercare" title="Contact Costa Sunglasses">
 Customer Care
 </a>
 </li>
 <li>
-<a href="https://www.costadelmar.com/us/en/repair-program" title="Costa Repair Program">
+<a href="https://www.costadelmar.com/us/en/repair-program" title="Costa Sunglasses Repair Program">
 Repair Program
 </a>
 </li>
 <li>
-<a href="https://www.costadelmar.com/us/en/customer-backed/customer-backed.html" title="Limited Warranty">
+<a href="https://www.costadelmar.com/us/en/limited-warranty" title="Costa Sunglasses Limited Warranty">
 Limited Warranty
 </a>
 </li>
 <li>
-<a href="https://www.costadelmar.com/us/en/***do-not-use---redirect-only/customer-shipping.html" title="Shipping and Returns">
-Shipping &amp; Returns
+<a href="https://www.costadelmar.com/us/en/inside-costa/customer-care/shipping-and-returns" title="Costa Sunglasses Shipping and Returns">
+Shipping and Returns
 </a>
 </li>
 <li>
-<a href="https://www.costadelmar.com/us/en/faqs/faqs.html" title="FAQs">
+<a href="https://www.costadelmar.com/us/en/faqs" title="Costa Sunglasses Frequently Asked Questions">
 FAQs
 </a>
 </li>
 <li>
-<a href="https://www.costadelmar.com/us/en/customer-contact/customer-contact.html" title="Contact Us">
+<a href="https://www.costadelmar.com/us/en/customer-contact/customer-contact.html" title="Contact Costa Sunglasses">
 Contact Us
 </a>
 </li>
 </ul>
 </div>
 </li>
-</div> 
-</div>
 </ul>
 </nav>
 <div class="mobile-menu-buttons">
@@ -951,8 +1202,8 @@ Contact Us
 <div class="header-search">
 <form role="search" action="/us/en/search" method="get" name="simpleSearch" class="desktop-search">
 <fieldset>
-<label class="visually-hidden" for="q">Search Catalog</label>
-<input type="text" id="q" name="q" class="desktop-search-input" value="" placeholder="Search">
+<label class="visually-hidden" for="mobile-search-input-desktop">Search Catalog</label>
+<input type="text" id="mobile-search-input-desktop" name="q" class="desktop-search-input" value="" placeholder="Search">
 <input type="hidden" name="lang" value="en_US">
 <button type="submit" class="button"><span class="visually-hidden">Search</span><i class="fa fa-search"></i></button>
 </fieldset>
@@ -963,8 +1214,8 @@ Contact Us
 <div class="mobile-search">
 <form role="search" action="/us/en/search" method="get" name="simpleSearch">
 <fieldset>
-<label class="visually-hidden" for="q">Search Catalog</label>
-<input type="text" id="q" class="mobile-search-input" name="q" value="" placeholder="Search">
+<label class="visually-hidden" for="mobile-search-input-mobile">Search Catalog</label>
+<input type="text" id="mobile-search-input-mobile" class="mobile-search-input" name="q" value="" placeholder="Search">
 <input type="hidden" name="lang" value="en_US">
 <button type="submit" class="button"><span class="visually-hidden">Search</span><i class="fa fa-search"></i></button>
 </fieldset>
@@ -972,6 +1223,15 @@ Contact Us
 </div>
 </div>
 <button class="menu-toggle"><i class="menu-icon fa fa-bars"></i><span class="visually-hidden">Menu</span></button>
+</div>
+<div class="country-modal">
+<h2>Preferencia de Idioma</h2>
+<h3>Según su ubicación o las preferencias de su navegador, ¿le gustaría ver nuestro sitio en español?</h3>
+<p>Based on your location or browser preferences, would you like to view our site in Spanish?</p>
+<div class="actions">
+<button class="cta light close">No, use English</button>
+<button class="cta confirm">Si, traducir al español</button>
+</div>
 </div>
 </div>
 </div>
@@ -1075,23 +1335,19 @@ Contact Us
 <div class="footer-item">
 <div class="content-asset">
 <h3>Products</h3>
-<ul class="menu-footer menu pipe">
-<li><a href="https://www.costadelmar.com/us/en/sunglasses" title="View all Sunglasses">Sunglasses</a></li>
-<li><a href="https://www.costadelmar.com/us/en/clothing-and-accessories-1" title="View all Clothing &amp; Accessories">Clothing &amp; Accessories</a></li>
-<li><a href="https://www.costadelmar.com/us/en/new-arrivals" title="New Arrivals">New Arrivals</a></li>
-<li><a href="https://www.costadelmar.com/us/en/best-sellers" title="Best Sellers">Best Sellers</a></li>
-<li><a href="https://www.costadelmar.com/us/en/sunset-specials" title="Sunset Sale">Sunset Specials</a></li>
+<ul class="menu-footer menu pipe" style="margin-bottom:0;">
+<li><a href="https://www.costadelmar.com/us/en/sunglasses" title="Shop All Sunglasses">All Sunglasses</a></li>
+<li><a href="https://www.costadelmar.com/us/en/sunglasses/beach-lifestyle" title="Shop Beach Lifestyle Sunglasses">Beach Lifestyle</a></li>
+<li><a href="https://www.costadelmar.com/us/en/sunglasses/sport-performance" title="Shop Sport Performance Sunglasses">Sport Performance</a></li>
+<li><a href="https://www.costadelmar.com/us/en/clothing-and-accessories" title="Shop Shirts, Hats &amp; More">Shirts, Hats &amp; More</a></li>
+<li><a href="https://www.costadelmar.com/us/en/new-arrivals" title="Shop New Arrivals">New Arrivals</a></li>
+<li><a href="https://www.costadelmar.com/us/en/best-sellers" title="Shop Best Sellers">Best Sellers</a></li>
+<li><a href="https://www.costadelmar.com/us/en/sunset-specials" title="Shop Sunset Sale">Sunset Specials</a></li>
 <li><a href="https://www.costadelmar.com/us/en/c-mates-readers" title="View all C-Mates Readers">C-Mates® Readers</a></li>
 
-<li><a href="https://www.costadelmar.com/us/en/prescription-sunglasses/prescription.html" title="View All Prescription Sunglasses">Prescription Sunglasses</a></li>
-<li><a href="https://www.costadelmar.com/us/en/prescription-eyeglasses" title="View All Prescription Eyeglasses">Prescription Eyeglasses</a></li>
-<li><a href="https://www.costadelmar.com/us/en/performance-technology/technology.html" title="View Performance Technology">Performance Technology</a></li>
-</ul>
-<h3>Lifestyle</h3>
-<ul class="menu-footer menu pipe" style="margin-bottom:0px;">
-<li><a href="https://www.costadelmar.com/us/en/angler" title="View Anglers">Angler</a></li>
-<li><a href="https://www.costadelmar.com/us/en/voyager" title="View Voyagers">Voyager</a></li>
-<li><a href="https://www.costadelmar.com/us/en/beachcomber" title="View Beachcomber">Beachcomber</a></li>
+<li><a href="https://www.costadelmar.com/us/en/prescription-sunglasses" title="Prescription Sunglasses">Prescription Sunglasses</a></li>
+<li><a href="https://www.costadelmar.com/us/en/prescription-eyeglasses" title="Prescription Eyeglasses">Prescription Eyeglasses</a></li>
+<li><a href="https://www.costadelmar.com/us/en/performance-technology" title="Performance Technology">Technology</a></li>
 </ul>
 </div> 
 </div>
@@ -1099,23 +1355,17 @@ Contact Us
 <div class="content-asset">
 <h3>Inside Costa</h3>
 <ul class="menu-footer menu pipe">
+<li><a href="https://www.costadelmar.com/us/en/inside-costa/protect/35-years" title="35 Years">35 Years</a></li>
 <li><a href="https://www.costadelmar.com/us/en/inside-costa/protect/untangle-our-oceans" title="Untangle Our Oceans">Untangle Our Oceans</a></li>
-<li><a href="https://www.costadelmar.com/us/en/hurricane-relief/ONECOAST.html" title="OCEARCH Expeditions">#OneCoast</a></li>
 <li><a href="https://www.costadelmar.com/us/en/inside-costa/protect/ocearch" title="OCEARCH Expeditions">OCEARCH</a></li>
+<li><a href="https://www.costadelmar.com/us/en/inside-costa/protect/onecoast" title="#OneCoast">#OneCoast</a></li>
 <li><a href="https://www.costadelmar.com/us/en/inside-costa/protect/kick-plastic" title="Kick Plastic">Kick Plastic</a></li>
 <li><a href="https://www.costadelmar.com/us/en/inside-costa/protect/bio-based-resin" title="Bio-based Resin">Bio-based Resin</a></li>
-
-<li><a href="https://www.costadelmar.com/us/en/inside-costa/protect/protect-guyana" title="Protect Guyana">Protect Guyana</a></li>
-<li><a href="https://www.costadelmar.com/us/en/inside-costa/protect/bluefin-on-the-line" title="Bluefin on the Line">Bluefin on the Line</a></li>
-<li><a href="https://www.costadelmar.com/us/en/inside-costa/explore/geobass-adventures" title="GEOBASS Adventures">GEOBASS Adventures</a></li>
-
-<li><a href="https://www.costadelmar.com/us/en/costa-careers" title="Costa Del Mar Careers">Careers</a></li>
-</ul>
-<h3>Fishing</h3>
-<ul class="menu-footer menu pipe" style="margin-bottom:0px;">
 <li><a href="https://www.costadelmar.com/us/en/inside-costa/fishing/saltwater-fishing" title="Costa Saltwater Fishing">Saltwater Fishing</a></li>
 <li><a href="https://www.costadelmar.com/us/en/inside-costa/fishing/bass-fishing" title="Costa Bass Fishing">Bass Fishing</a></li>
 <li><a href="https://www.costadelmar.com/us/en/inside-costa/fishing/fly-fishing" title="Costa Fly Fishing">Fly Fishing</a></li>
+
+<li><a href="https://www.costadelmar.com/us/en/costa-careers" title="Costa Del Mar Careers">Careers</a></li>
 </ul>
 </div> 
 </div>
@@ -1139,10 +1389,11 @@ Contact Us
 <div class="content-asset">
 <h3>Customer Service</h3>
 <ul class="menu-footer menu">
-<li><a href="tel:1-800-447-3700">1-800-447-3700</a></li>
+<li><a href="tel:1-844-642-6782">1-844-642-6782</a></li>
 <li><a href="https://www.costadelmar.com/us/en/repair-program" title="Costa Repair Program">Repair Program</a></li>
 <li><a href="https://www.costadelmar.com/us/en/limited-warranty" title="Costa Limited Warranty">Limited Warranty</a></li>
 <li><a href="https://www.costadelmar.com/us/en/account" title="My Costa Account">My Costa Account</a></li>
+
 <li><a href="https://www.costadelmar.com/us/en/stores" title="Costa Dealer Locator">Dealer Locator</a></li>
 <li><a href="https://www.costadelmar.com/us/en/customer-contact/customer-contact.html" title="Contact Costa Del Mar">Contact Us</a></li>
 </ul>
@@ -1187,9 +1438,9 @@ Contact Us
 			display:block;
 			list-style:none;
 		}
-                .lem-container {
-                        border:0px;
-                }
+		.lem-container {
+			border:0px;
+		}
 	}
 	@media screen and (min-width: 736px) {
 		.lem-container {
@@ -1200,13 +1451,24 @@ Contact Us
 <div class="large-width lem-container bordered-top">
 <div class="be-ix-link-block"></div>
 </div>
+<script>
+setInterval(function() {
+	var ele = document.getElementsByClassName("empty-callout");
+	for (i=0; i<ele.length; i++) { 
+		ele[i].parentNode.style.display='none'; 
+	}
+},500)
+</script>
 </div> 
 </footer>
+<div class="footer-bottom">
+<div class="footer-bottom-content">
 <div class="content-asset">
 <div class="copyright">
-<span>© COSTA</span>
+<span>© COSTA</span> 
 <a href="https://www.costadelmar.com/us/en/privacy-policy/privacy-policy.html" title="View Privacy Policy" class="dialog-link">Privacy Notice</a>
 <a href="https://www.costadelmar.com/us/en/terms-and-conditions-of-sale/terms.html" title="View Terms of Use" class="dialog-link">Terms of Use</a>
+
 </div>
 
 <script type="text/javascript">
@@ -1233,20 +1495,12 @@ Contact Us
 		document.querySelector(".breadcrumb-container").style.display = "none";
 		document.querySelector(".copyright").style.display = "none";
 	}
-
-	// Backpack Test Landing Page - Hide Header & Footer 
-	// Get URL
-	var url4 = window.location.href;
-	// Check if URL contains the keyword
-	if( url.search( 'ONECOAST' ) > 0 ) {
-		// Hide Elements
-		document.querySelector(".image-callout-badges").style.display = "none";
-		document.querySelector(".breadcrumb").style.display = "none";
-	}
 </script>
 </div> 
+</div>
+</div>
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1538365618738/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -1254,15 +1508,15 @@ Contact Us
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<link href="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1538365618738/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1538365618738/lib/jquery/slick/slick.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1538365618738/lib/jquery/slick/slick-theme.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/lib/jquery/slick/slick.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/lib/jquery/slick/slick-theme.css" type="text/css" rel="stylesheet">
 <script src="/on/demandware.store/Sites-costa_us-Site/en_US/Resources-LoadCached" type="text/javascript"></script>
 <script type="text/javascript">
 
 (function(){
 
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"COOKIE_HINT":false,"CHECK_TLS":false,"SFMC_MID":"10971295","GTM_CONTAINER_ID":"GTM-KVPD45","GTM_ENVIRONMENT_QUERY_STRING":null,"GOOGLE_MAPS_API_KEY":"AIzaSyBj62OsAAPtvzikFlF50bE3nMwZc8v58AU"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"COOKIE_HINT":false,"CHECK_TLS":false,"SFMC_MID":"10971295","GTM_CONTAINER_ID":"GTM-KVPD45","GTM_ENVIRONMENT_QUERY_STRING":null,"GOOGLE_MAPS_API_KEY":"AIzaSyBj62OsAAPtvzikFlF50bE3nMwZc8v58AU","APPLE_PAY_ENABLED":true,"APPLE_PAY_MERCHANT_ID":"merchant.com.costadelmar.costasunglasses","LOCALE_CHECK_ON_REQUEST":false};
 }());
 </script>
 <script type="text/javascript">
@@ -1277,7 +1531,7 @@ window.User = {"zip":null,"storeId":null};
 var _sift = window._sift = window._sift || [];
 _sift.push(['_setAccount', 'd8f785aad9']);
 
-_sift.push(['_setSessionId', 'MmKN3xsTbsAyW024GfLE1j8V46UVP5fsa2o=']);
+_sift.push(['_setSessionId', 'M4GAnGKZ1k9QlrbBrnH1HnHHVvK2AGBXLYE=']);
 _sift.push(['_trackPageview']);
 (function() {
 function ls() {
@@ -1292,7 +1546,7 @@ window.addEventListener('load', ls, false);
 }
 })();
 </script>
-<script src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1538365618738/js/de31bf15-0426-4add-805b-ee8b46ad7c84.js"></script>
+<script src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/js/dd7b04cd-4bf3-4892-9568-2dc50eb24d2c.js"></script>
 <script>pageContext = {"title":"Content","type":"content","ns":"content"};</script>
 <script>
 var meta = "";
@@ -1317,10 +1571,19 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1538365618738/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1538365618738/internal/jscript/dwac-18.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+if (!window.dw) dw = {};
+dw.applepay = {"action":{"cancel":"https:\/\/www.costadelmar.com\/on\/demandware.store\/Sites-costa_us-Site\/en_US\/__SYSTEM__ApplePay-Cancel","getRequest":"https:\/\/www.costadelmar.com\/on\/demandware.store\/Sites-costa_us-Site\/en_US\/__SYSTEM__ApplePay-GetRequest","onshippingcontactselected":"https:\/\/www.costadelmar.com\/on\/demandware.store\/Sites-costa_us-Site\/en_US\/__SYSTEM__ApplePay-ShippingContactSelected","onpaymentmethodselected":"https:\/\/www.costadelmar.com\/on\/demandware.store\/Sites-costa_us-Site\/en_US\/__SYSTEM__ApplePay-PaymentMethodSelected","onvalidatemerchant":"https:\/\/www.costadelmar.com\/on\/demandware.store\/Sites-costa_us-Site\/en_US\/__SYSTEM__ApplePay-ValidateMerchant","onpaymentauthorized":"https:\/\/www.costadelmar.com\/on\/demandware.store\/Sites-costa_us-Site\/en_US\/__SYSTEM__ApplePay-PaymentAuthorized","prepareBasket":"https:\/\/www.costadelmar.com\/on\/demandware.store\/Sites-costa_us-Site\/en_US\/__SYSTEM__ApplePay-PrepareBasket","onshippingmethodselected":"https:\/\/www.costadelmar.com\/on\/demandware.store\/Sites-costa_us-Site\/en_US\/__SYSTEM__ApplePay-ShippingMethodSelected"},"inject":{"directives":[{"css":"dw-apple-pay-button","query":"ISAPPLEPAY","action":"replace","copy":true}]}};
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-costa_us-Site/-/en_US/v1555904833063/internal/jscript/applepay.js" async="true"></script>
 
 
 <script src="https://cdn.siftscience.com/s.js"></script></body></html>
