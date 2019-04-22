@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921084439id_/https%3A//www.marinabaysands.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422185308id_/https%3A//www.marinabaysands.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Marina Bay Sands
 
