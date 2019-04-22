@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptopunderbudget.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929142829id_/https%3A//laptopunderbudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopunderbudget.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422101037id_/https%3A//laptopunderbudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Laptop Under Budget
 
@@ -81,7 +81,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at  
-[laptopunderbudget@gmail.com](mailto:laptopunderbudget@gmail.com) and we will promptly remove you from ALL correspondence.
+[contact@laptopunderbudget.com](mailto:contact@laptopunderbudget.com) and we will promptly remove you from ALL correspondence.
 
 ## Contacting Us –
 
