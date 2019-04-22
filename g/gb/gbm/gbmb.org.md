@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gbmb.org privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116141139id_/https%3A//www.gbmb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbmb.org privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422165117id_/https%3A//www.gbmb.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
