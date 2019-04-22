@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bagdoom.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213064545id_/http%3A//www.bagdoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagdoom.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422190302id_/https%3A//www.bagdoom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - bagdoom
+# Privacy Policy | Bagdoom.com
 
 ### Privacy Policy
 
@@ -42,4 +42,4 @@ We will not disclose your Personal Information to third parties.
 
 **5\. Accessing and Correcting Personal Information**
 
-You may correct your information by signing in your account. Or you may also email to info@bagdoom.com. If you want to close your account or have other questions or requests, please contact us [here](http://pixelnet.nextmp.net/bagdoom/contacts).
+You may correct your information by signing in your account. Or you may also email to info@bagdoom.com. If you want to close your account or have other questions or requests, please contact us: +88 096 06 77 11 55
