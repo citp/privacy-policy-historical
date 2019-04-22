@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfpro.co privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626061825id_/https%3A//www.pdfpro.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfpro.co privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422222819id_/https%3A//www.pdfpro.co/privacy) for the most accurate reproduction.*
 
 # PDF Pro | Our Privacy Policy
 
