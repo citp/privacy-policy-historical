@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindtree.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124232135id_/https%3A//www.mindtree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtree.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422203107id_/https%3A//www.mindtree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mindtree
 
@@ -54,7 +54,7 @@ To exercise the rights outlined above in respect of your Personally Identifiable
 
 Mindtree respects your privacy considerations and hence provides you an option to refuse to provide your Personally Identifiable Information or information sought to be collected.
 
-You also have the option to subscribe/opt-in to receive newsletters, new alerts and marketing content. You can always opt-out of such options by writing to [Dataprotection.Office@mindtree.com](mailto:Dataprotection.Office@mindtree.com) or click the “unsubscribe” link at the bottom of an email newsletter received by you from us. Mindtree shall adhere to your preferences.
+You also have the option to subscribe/opt-in to receive newsletters, new alerts and marketing content. You can always opt-out of such options by writing to Dataprotection.Office@mindtree.com or click the “unsubscribe” link at the bottom of an email newsletter received by you from us. Mindtree shall adhere to your preferences.
 
 **Authenticity**
 
@@ -92,9 +92,9 @@ The details of the Grievance Officer are as follows:
 
 **Srinivasa Rao Kottamasu**
 
-Email: [Dataprotection.Office@mindtree.com](mailto:Dataprotection.Office@mindtree.com)
+Email: Dataprotection.Office@mindtree.com
 
-Secondary email [Srinivasa.Kottamasu@mindtree.com](mailto:Srinivasa.Kottamasu@mindtree.com)
+Secondary email: Srinivasa.Kottamasu@mindtree.com
 
 Address - Global Village, RVCE Post Mysore Road
 
