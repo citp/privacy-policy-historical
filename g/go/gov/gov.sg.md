@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.sg privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129025405id_/https%3A//www.gov.sg/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.sg privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422171919id_/https%3A//www.gov.sg/privacy-statement) for the most accurate reproduction.*
 
 # gov.sg | Privacy Statement
 
@@ -13,8 +13,8 @@
     3. For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
   5. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
   6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
-  7. Please contact [gov.sg Webmaster](mailto:SINGOV_Webmaster@mci.gov.sg) if you: 
+  7. Please drop us an email via our [feedback channel](https://www.gov.sg/feedback-form) if you: 
     1. have any enquires or feedback on our data protection policies and procedures,
-    2. need more information on or access to data which you have provided to us in the past.
+    2. need more information on or access to data which you have provided to us in the past. 
 
 
