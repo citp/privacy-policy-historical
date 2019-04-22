@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zooshoo.com privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113060429id_/https%3A//zooshoo.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooshoo.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422081917id_/https%3A//zooshoo.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ZOOSHOO
 
 ZooShoo.com understands and respects how your personal information is used and shared. Your privacy and security of your personal information is very important to us.
 
