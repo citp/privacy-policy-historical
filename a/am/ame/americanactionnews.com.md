@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanactionnews.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231132226id_/https%3A//americanactionnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanactionnews.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422232421id_/https%3A//americanactionnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Action News
 
