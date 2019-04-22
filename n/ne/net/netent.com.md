@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netent.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915090600id_/https%3A//www.netent.com/en/netent-privacy-policy-eu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netent.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422124516id_/https%3A//www.netent.com/en/netent-privacy-policy-eu) for the most accurate reproduction.*
 
 # NetEnt Privacy Policy (EU) | NetEnt | Better Gaming
 
