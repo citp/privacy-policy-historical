@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howcast.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920020014id_/http%3A//www.howcast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howcast.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422084935id_/https%3A//www.howcast.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Howcast Media, Inc. - The best how-to videos on the web
+# Privacy Policy - Howcast | The best how-to videos
 
-Howcast Media, Inc. (“Howcast”) is concerned about your privacy. Howcast, a Delaware Corporation, with its principal place of business at 69 Charlton Street, Second Floor, New York, NY 10014, is the owner and operator of the web sites located at Howcast.com, CakeMade.com and other URLs as may be designated in the future (collectively referred to as the “Sites”). We want you to understand what types of Personally Identifiable Information we collect from you when you visit the Sites, and how we use your Personally Identifiable Information.
+Howcast Media, Inc. (“Howcast”) is concerned about your privacy. Howcast, a Delaware Corporation, with its principal place of business at 69 Charlton Street, Second Floor, New York, NY 10014, is the owner and operator of the web sites located at Howcast.com, CakeMade.com and other URLs as may be designated in the future (collectively referred to as the “Sites”). We want you to understand what types of Personally Identifiable Information we collect from you when you visit the Sites, and how we use your Personally Identifiable Information.
 
 ### Personally Identifiable Information
 
@@ -34,7 +34,7 @@ You may at any time choose to disclose or not disclose the PII we request; howev
 
 If you do not wish to receive certain communications from Howcast such as marketing communications, you may opt out by declining the service offered or, in some instances, adjusting the settings on the Sites to reflect that you do not wish to receive such communications. We will use reasonable efforts to comply with your request unless such communications are necessary for the administration of your account or the maintenance of the Sites, required by law, or necessary to protect our rights.
 
-The Sites are not designed for use by children and minors. Howcast does not knowingly collect PII from children under the age of 13. If you believe that a child has provided Howcast with PII without the consent of his or her parent or guardian, please contact us at  [support@howcast.com](mailto:support@howcast.com). If Howcast becomes aware that a child under age 13 has provided us with PII, we will delete such information.
+The Sites are not designed for use by children and minors. Howcast does not knowingly collect PII from children under the age of 13. If you believe that a child has provided Howcast with PII without the consent of his or her parent or guardian, please contact us at [support@howcast.com](mailto:support@howcast.com). If Howcast becomes aware that a child under age 13 has provided us with PII, we will delete such information.
 
 ### How Howcast Shares PII
 
@@ -50,7 +50,7 @@ Although we make good faith efforts to store PII in a secure operating environme
 
 ### Correcting Inaccuracies in Your PII
 
-If you have any questions about your PII at any time, please contact us at  [privacy@howcast.com](mailto:privacy@howcast.com).
+If you have any questions about your PII at any time, please contact us at [privacy@howcast.com](mailto:privacy@howcast.com).
 
 ### International Customers
 
@@ -66,6 +66,6 @@ Howcast reserves the right to change this Privacy Policy at any time by posting 
 
 You may at any time print, download, or request a printed copy of this Privacy Policy. If you believe that this policy has been violated, please contact [support@howcast.com](mailto:support@howcast.com) or Howcast Media, Inc., Attn: Privacy Policy, 69 Charlton Street, Second Floor, New York, NY 10014.
 
-**Last Updated: April 9, 2014**
+ **Last Updated: April 9, 2014**
 
 Copyright: Howcast Media, Inc. All Rights Reserved.
