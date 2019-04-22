@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moneyconnexion.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312174232id_/http%3A//moneyconnexion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyconnexion.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422044151id_/https%3A//moneyconnexion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MoneyConnexion
 
-This privacy policy sets out how Jobs8Home.com uses and protects any information that you give Jobs8Home.com when you use this website.
+This privacy policy sets out how MoneyConnexion.com uses and protects any information that you give MoneyConnexion.com when you use this website.
 
 Jobs8Home.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -49,7 +49,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes,  you may change your mind at any time by writing to or emailing us at [support@jobs8home.com](mailto:support@jobs8home.com).
+  * If you have previously agreed to us using your personal information for direct marketing purposes,  you may change your mind at any time by writing to or emailing us at [support@moneyconnexion.com](mailto:support@moneyconnexion.com).
 
 
 
