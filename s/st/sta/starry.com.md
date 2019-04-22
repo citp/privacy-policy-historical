@@ -1,95 +1,89 @@
-> *The following text is extracted and transformed from the starry.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190006id_/https%3A//starry.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starry.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422153629id_/https%3A//starry.com/legal/privacy) for the most accurate reproduction.*
 
-# Starry: Privacy Policy
+# Starry.com
 
-## Starry Website Privacy Policy — YOUR PRIVACY RIGHTS
+_Updated March 1, 2018_
 
-Effective Date: January 27, 2016 
+Starry is committed to protecting the privacy of your information. This Sites and Mobile Apps Privacy Notice (Privacy Notice) describes how we collect, use, share, and store information from our websites (Sites) or mobile applications (Mobile Apps). You can view our separate privacy notice for our Starry Internet Service (Service) [here](https://starry.com/legal).
 
-**This Website Privacy Policy applies to the sites where it appears.**  
-This website Policy describes how we treat personal information on the websites where it is located. This includes [www.starry.com](https://www.starry.com/). 
+### Our commitments
 
-**We collect information from and about you.**
+  * We collect information through our Sites and Mobile Apps, as described below, to establish business relationships with customers, understand how the Sites and Mobile Apps are used, to improve our products and services, and communicate with you about our services and products.
 
-**We collect contact information.** For example, we might collect your name and email address if you contact us online. We may also collect your phone number and mailing address. 
+  * We do not sell information that we collect through our Mobile Apps. We do use standard web-based tools, like cookies and beacons, that serve advertisements based upon information we collect when you visit our Sites, but we do not sell any of the personally-identifiable information we collect through our Sites. 
 
-**We collect payment information.** For example, we collect your billing and shipping information if you make a purchase. 
+  * We only share information that identifies you with third parties in the limited circumstances described in this Privacy Notice, including when it is necessary to provide and improve our products and services, when required by law, or when we have your explicit consent.
 
-**We collect information you submit or post.** We collect the information you post in a public space on our site. We also collect information if you apply for a job with us online via our website. This might include your work history. We also collect information when you contact us. 
+  * We strive to protect your information from unauthorized access, use, and disclosure. 
 
-**We collect demographic information.** We may collect information like your gender, age or the location from which you are browsing our websites. We may also collect your zip code. We might collect this information when you contact us or apply for a job online. We may also collect this information by providing you with surveys to complete. 
+  * We will notify you of significant changes to this Privacy Notice.
 
-**We collect other information.** If you use our website, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. We collect this information using the tracking tools described below. To control those tools, please read the “Choices” section below. 
 
-**We collect information in different ways.**
 
-**We collect information directly from you.** For example, if you sign up for our emails or apply for a job online. 
 
-**We collect information from you passively.** We use tracking tools like browser cookies and web beacons to collect information from you. We collect information about users over time when you use this website. We may have third parties collect personal information this way. Learn more about these tools and how you can control them, [here](https://web.archive.org/legal/about-our-ads). 
+#### We collect information from and about you in a few ways.
 
-**We get information about you from third parties.** For example, our business partners may give us information about you. Social media platforms may also give us information about you. 
+**We collect information that you voluntarily provide.** We, or vendors on our behalf, collect information from you, such as your name and email address, when you voluntarily provide it to us through your use of our Sites and Mobile Apps. For example, we may collect information from you when you check the availability of the Service, when you sign up to receive the Service, and if you register to receive news and updates. We also collect information from you when you complete other contact forms on our Sites or Mobile Apps, email us, contact Starry customer care, or apply for a job with us. If you use our Sites or Mobile Apps to purchase a product or service from us, we, or vendors on our behalf, will collect information necessary to provide the product or service, including address and billing information.
 
-**We combine information.** For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have. 
+**We collect technical information through passive means.** We, and third-party analytics providers, may collect certain technical information when you visit and use our Sites or Mobile Apps. For example, we may collect information about the browser you are using, the pages you viewed on our Sites, the website that referred you, or the website you navigate to from ours. We collect this information using cookies, web beacons, and similar commonly-used techniques.
 
-**We use information as disclosed and described here.**
+**We collect information about you from others.** We may receive information about you from third parties, such as social media platforms, including when you click on a Starry advertisement or engage with us on Facebook or other social apps or services.
 
-**We use information to respond to your requests or questions.** For example, we may use your information to respond to your feedback. We may also use your information to notify you if you win a contest or make a purchase. 
+**We combine information.** We may combine information that we collect offline with information we collect through the Sites and Mobile Apps, including Starry.com, or other Starry products and services. In addition, we may combine information we receive from a third party with information we already have.
 
-**We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us. 
+**We may collect general location information through our Sites.** When you access our Sites, we may collect general location information, such as the city or zip code that correlates with the license of your device IP address.
 
-**We use information for security purposes.** We may use your information to protect our company, our customers, and our websites. 
+#### We use the information we collect to improve our products, to provide services, and for marketing purposes.
 
-**We use information for marketing purposes.** For example, we might provide you with information about new products and special offers. We might also use your information to serve you ads about products and offers. We might tell you about new features or updates. If you register with us, we’ll enroll you in our email newsletter. To learn about your choices for these communications, read the choices section below. 
+**We use information to evaluate and improve our Sites and Mobile Apps, products, and other services.** We may use your information to make our Sites and Mobile Apps, products, and other services better, as well as to develop new products and services. Some of our Sites use Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and our Sites, compile reports on the Sites’ activity, and provide other services related to Sites’ activity and usage. The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The Sites do not use Google Analytics to gather information that personally identifies you. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s [privacy policies] (<https://www.google.com/policies/privacy/>). To learn more about Google’s partner services and to learn how to opt-out of tracking of analytics by Google click [here] (<https://www.google.com/policies/privacy/partners/>).
 
-**We use information to communicate with you.** For example, we may contact you about your feedback or our relationship. We might also contact you about this website Privacy Policy or our website Terms. 
+**We use information to provide you services and products.** If you subscribe to our Service, we may use information to provide you the Service and, as applicable, to bill you for the Service we offer to you. We may use the information we collect to transition you to other Starry services you subscribe to in the future. If you purchase our products, we may use information to provide you these products and, as applicable, to bill you for these products. We also may use information to customize your experience with us and communicate with you. Once you subscribe to our Service or purchase our products, other privacy notices may apply to the continued use of the information collected under this Privacy Notice.
 
-**We use information as otherwise permitted by law or as we may notify you.**
+**We use information to market our products and services to you.** We may, from time-to-time, use information we have collected to market our own, or our affiliates’, products and services to you. For example, if you sign up for our Service waitlist, we may contact you to keep you updated on the availability of our Service. We may also provide you with information about new products, special offers, new features, or updates. We may also use your information to serve you ads about products and offers. If you register with us, we may enroll you in our email newsletter. These marketing communications will include an option for you to opt-out of such communications in the future.
 
-**We may share information with third parties.**
+**We will share information to provide and improve our services.** We may share information with certain service providers that help us deliver or improve our services and products. We may also share information with companies that help us operate our Sites and Mobile Apps or run a promotion, or with companies that help us fulfill customer requests. For example, we share information with vendors who send emails for us or who assist us with billing and collections.
 
-**We will share information within the Starry family of companies.**
+**We may share information with a successor to all or part of our business.** We may share information as part of any merger, acquisition, sale of company assets, or transition of service to another entity. For example, if all or part of our business is sold we may include customer information as part of that transaction.
 
-**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who send emails for us. We also share information with companies that help us operate our sites or run a promotion. We may also share information with companies that help us fulfill customer requests. 
+**We may share information that personally identifies you with your explicit consent.** We may ask your permission to share information about you with our business partners for their marketing purposes. We will only share personally identifiable information about you for marketing purposes if you affirmatively consent to such sharing, and we will make it clear to you that you are sharing your information with both Starry and our identified business partner. You will also have an opportunity to review our respective privacy notices before you provide your information. We will never share information that personally identifies you with any other third parties to use for their own marketing without first obtaining your consent to do so.
 
-**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share information if a government agency or investigatory body requests it. We might share information if we are investigating potential fraud. This might include fraud we think has happened during a promotion. If you are the winner of a sweepstakes or contest, we may also share your information with anyone who requests a winner’s list. 
+**We may share information for certain other limited purposes.** We may also share information with your permission; as required by law or regulation; to investigate or defend against third-party claims or allegations; or to protect our rights, property, and personal safety or that of our customers or others. We may also share anonymous or aggregate usage information when you interact with the Sites and Mobile Apps.
 
-**We may share information with a successor to all or part of our business.** For example, if part of our business is sold we may include customer information as part of that transaction. 
+#### You have choices about how we use your information.
 
-**We may share information for other reasons we may describe to you.**
+**You can opt-out of some online behavioral advertising.** In addition to our use of information you make available to us when you interact with our Sites for marketing and advertising, we also provide non-personally identifiable information to third-party advertisers to serve advertisements on other websites about goods and services, including for unaffiliated products and services. This is a common practice across commercial websites. For more information, please see our [About Our Ads](https://starry.com/legal/about-our-ads) page. You may opt-out of receiving many behavioral ads through a web tool available [here](http://www.aboutads.info/choices/).
 
-**You have certain choices about how we use your information.**
+**Some browsers have “Do Not Track” features that allow you to tell a website not to track you.** Because a universal "Do Not Track" protocol has not yet been finalized, our Sites’ information collection and disclosure practices, and the choices that it provides to consumers, will continue to operate as described in this Privacy Notice, whether or not a “Do Not Track” signal is received.
 
-**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Even if you opt out of getting our marketing messages, we will still send you transactional messages. These include responses to your questions. 
+**You can opt-out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you receive from us. Even if you opt-out of getting our marketing messages, we will still send you transactional messages. These include responses to your questions information about any services or products to which you subscribe or purchase from us.
 
-**You can control certain cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our Do Not Track policy, please click [here](https://web.archive.org/legal/about-our-ads). 
+#### We do not knowingly collect information from children.
 
-**Your California Privacy Rights.**  
-If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry. 
+We do not knowingly collect information from children under the age of 13.
 
-**These sites are not intended for children.**  
-Our sites where this website Policy is found are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can contact us at privacy@starry.com. You can also write to us at the address listed at the end of this website Policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children's privacy online [here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online). 
+#### We strive to protect the information we collect.
 
-**We use standard security measures.**  
-The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+We use a combination of technical, administrative, and physical safeguards to protect against unauthorized access to, use of, or disclosure of the personal information we collect and store. No security program is 100 percent secure, however. As a result, we cannot guarantee that we will prevent every unauthorized attempt to access, use, or disclose personal information.
 
-We keep personal information as long as it is necessary or relevant for the practices described in this website Policy. We also keep information as otherwise required by law. 
+#### We may link to third-party sites or services we do not control.
 
-**We may store information in the United States.**  
-Information we collect may be stored in the United States. We may also store information in other countries. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country. 
+If you click on a link to a third-party site, you will be taken to a website we do not control. This Privacy Notice does not apply to the privacy practices of that website. Read the privacy policy of other websites carefully. We are not responsible for the content or privacy policies of these third-party sites. Additionally, we may include applications from third parties on our Sites or through our Mobile Apps, which allow interaction or content sharing by users. Some of these applications provide specific services or content from a third party, such as a Facebook "Share" or "Like" button, and are visible to you when you visit our Sites. Your interaction with these programs typically allows the third party to collect some information about you through cookies they place on your device and other tracking mechanisms. In some cases, the third party may recognize you through its cookies even when you do not interact with their application. Please review the third parties' respective privacy policies to better understand their data collection practices and controls they make available to you.
 
-**We may link to third party sites or services we don’t control.**  
-If you click on a link to a third party site, you will be taken to a website we do not control. This Policy does not apply to the privacy practices of that website. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. 
+#### Your California privacy rights.
 
-**Feel free to contact us if you have more questions.** If you have any questions about this policy or want to correct or update your information, please email us at [privacy@starry.com](mailto:privacy@starry.com). 
+While we will not share information that personally identifies you with third parties for their own marketing unless we have your explicit consent, if you reside in California, you have the right to ask us one time each year if we have shared personal information with third-parties for their direct marketing purposes. To make a request, please send us an email at [privacy@starry.com](mailto:privacy@starry.com), or write to us at the address listed below. Indicate in your email or letter that you are a California resident making a “Shine the Light” inquiry.
 
-You can also write to us at: 
+#### We may change this Privacy Notice from time to time.
+
+We constantly strive to improve our website, services, apps, and products, and may update this Privacy Notice from time to time in connection with that effort. The text of this Privacy Notice was updated on March 1,2018 to combine redundant policies for our Sites and Mobile Apps and improve the clarity of our description of the circumstances in which we share information with third parties. We will post notifications of changes to this Privacy Notice on our website and in the relevant mobile app stores.
+
+#### Contact us.
+
+If you have any questions about this Privacy Notice, please email us at [privacy@starry.com](mailto:privacy@starry.com).
+
+You can also write to us at:
 
 Starry, Inc.  
-Corporate Compliance  
-P.O. Box 52226  
-Boston, MA 02205  
-
-
-**We may update this website Privacy Policy.** From time to time we may change our privacy policies. We will notify you of any material changes to our website Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates. 
-
-© 2016 Starry, Inc. All rights reserved. 
+Attn: Legal Department  
+38 Chauncy Street, 2nd Floor  
+Boston, MA 02111
