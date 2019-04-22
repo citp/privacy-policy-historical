@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chelseafc.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901121923id_/https%3A//www.chelseafc.com/en/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseafc.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422141619id_/https%3A//www.chelseafc.com/en/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Site | Chelsea Football Club
 
@@ -6,11 +6,11 @@
 
 This Privacy Policy sets out details of the Personal Information that Chelsea Football Club collects from you and how we use that Personal Information. We also explain your rights and how to contact us if you have any questions about your Personal Information.
 
-Our main website, [www.chelseafc.com](http://www.chelseafc.com/ "chelseafc.com") is not intended for users under 13 years. Users under 13 should instead visit bridgekids.chelseafc.com, our site designed especially for younger children.
+Our main website, [www.chelseafc.com](http://www.chelseafc.com/ "chelseafc.com") is not intended for users under 13 years. Users under 13 should instead visit [www.juniorblues.com](https://www.juniorblues.com/en), our site designed especially for younger children.
 
  **1\. About us**
 
-This Privacy Policy applies to all Personal Information which Chelsea FC Plc and our affiliate and associated companies (together “ **Chelsea FC** ”, “ **we** ” or “ **us** ”) collects about you when you use our website [www.chelseafc.com](http://www.chelseafc.com/ "chelseafc.com") and any of its related sites (including The Shed and Bridge Kids), or use our apps (the “ **Chelsea FC Sites** ”). It also applies to any Personal Information we collect if you visit us at Stamford Bridge, or otherwise interact with us. More details about the companies that make up Chelsea FC can be found in section 15 below.
+This Privacy Policy applies to all Personal Information which Chelsea FC Plc and our affiliate and associated companies (together “ **Chelsea FC** ”, “ **we** ” or “ **us** ”) collects about you when you use our website [www.chelseafc.com](http://www.chelseafc.com/ "chelseafc.com") and any of its related sites (including The Shed and Junior Blues), or use our apps (the “ **Chelsea FC Sites** ”). It also applies to any Personal Information we collect if you visit us at Stamford Bridge, or otherwise interact with us. More details about the companies that make up Chelsea FC can be found in section 15 below.
 
 This Privacy Policy does not apply to Personal Information collected by our Academy, Under the Bridge, Millennium & Copthorne Hotels or the Chelsea Health Club & Spa.
 
@@ -146,7 +146,7 @@ We will comply with any requests to exercise your rights in accordance with appl
 
  **13\. Contact us**
 
-If you have any queries on any aspect of our Privacy Policy or wish to exercise any of your rights referred to above, please contact us by email at [dataprotection@chelseafc.com](mailto:dataprotection@chelseafc.com "dataprotection@chelseafc.com") or by post at the address below.
+If you have any queries on any aspect of our Privacy Policy or wish to exercise any of your rights referred to above, please contact us by email at [dataprotection@chelseafc.com](mailto:dataprotection@chelseafc.com) or by post at the address below.
 
 Chelsea Football Club  
 Stamford Bridge  
@@ -192,8 +192,10 @@ On the Chelsea FC Sites, we use the following types of cookies:
   *  **Opta** - Cookies are used in Opta widgets on our site for two purposes: (a) to record UI information such as which tabs a user has clicked on in the navigation so that if the page a customer is using is refreshed, their position in the widget is maintained; and (b) widgets also use Google Analytics to record data around widget loads, refreshes etc. (Click [here](http://widget.cloud.opta.net/helper/v3/docs/#!/manual/opta_settings "Opta") for further information)
   *  **Swiftype** - Persistent cookie holds browser identification, session cookie is temporary and disappears once the browser is closed (Click [here](https://swiftype.com/privacy "Swiftype") for further information)
   *  **Adobe Target** - Uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors (Click [here](https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_target.html "Adobe Target") for further information)
+  *  **Adobe Analytics** - Industry standard analytics that gives us statistics on how much traffic the website is getting (Click [here ](https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_analytics.html)for further information)  
+
   *  **Google Analytics** - Industry standard analytics that gives us statistics on how much traffic the website is getting (Click [here](https://support.google.com/adwords/answer/2453998?hl=en-GB "Google Analytics") for further information)
-  *  **Adobe CQ** - Your preferences from your MyCFC account
+  *  **Adobe AEM  **- Your preferences from your MyCFC account
   *  **The Shed** - Your shed login details and whether you are logged in or out. Also any customisation settings you might have applied (backgrounds etc)
   *  **Google Remarketing** - Uses cookies to remarket relevant adverts across different devices (Click [here](https://support.google.com/adwords/answer/2453998?hl=en-GB "Google Remarketing") for further information)
   *  **New Relic** - These cookies help us learn how well our website and services are performing. We use these cookies to understand, improve, and research our services available via our website. (Click [here](https://newrelic.com/ "New Relic") for further information)
