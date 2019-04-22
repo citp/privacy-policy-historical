@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chriskresser.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126062527id_/https%3A//chriskresser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chriskresser.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422170710id_/https%3A//chriskresser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chris Kresser
 
@@ -18,7 +18,7 @@ We may collect and store personal or other information that you voluntarily supp
 
 We also with your consent collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
- **We do not share your information with third parties for any purpose.** We do use your email address, and in rare cases, your mailing address (if you purchased a product and provided it to us) to send you free health and wellness related content and inform you of products, services, and events that may be of interest to you (unless you instruct us otherwise). If you do not wish to continue to receive these communications, you may click the “unsubscribe” link provided at the bottom of the email to remove yourself completely from our database, or you may also send a request to be removed from our database to our Online Privacy Coordinator, whose address is listed at the end of this Privacy Policy.
+**We do not share your information with third parties for any purpose**. We do use your email address, and in rare cases, your mailing address (if you purchased a product and provided it to us) to send you free health and wellness related content and inform you of products, services, and events that may be of interest to you (unless you instruct us otherwise). If you do not wish to continue to receive these communications, you may click the “unsubscribe” link provided at the bottom of the email to remove yourself completely from our database, or you may also send a request to be removed from our database to our Online Privacy Coordinator, whose address is listed at the end of this Privacy Policy.
 
 Please keep in mind that whenever you consent to making your personal information available for viewing by third parties online – for example on message boards, in blog comments, through email, or in chat areas – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
@@ -60,7 +60,7 @@ We abide by Facebook’s Data Use Restrictions.
 
 
 
-Children’s Privacy Statement
+### Children’s Privacy Statement
 
 This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
