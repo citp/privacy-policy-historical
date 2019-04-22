@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibpsportal.blogspot.in privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929063400id_/http%3A//ibpsportal.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsportal.blogspot.in privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422172400id_/http%3A//ibpsportal.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - IBPS Recruitment 2017 | Notification | Online Application | Results | Admit cards
 
