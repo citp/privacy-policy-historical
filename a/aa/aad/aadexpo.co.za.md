@@ -1,72 +1,57 @@
-> *The following text is extracted and transformed from the aadexpo.co.za privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603120118id_/http%3A//www.aadexpo.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadexpo.co.za privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422072208id_/http%3A//www.aadexpo.co.za/privacy-policy) for the most accurate reproduction.*
 
-# :: AAD 2012 :: Africa Aerospace & Defence 2012
+# Privacy Policy - AAD 2020
 
-Your privacy is important to AAD 2012. This privacy statement provides information about the personal information that AAD 2012 collects, and the ways in which AAD 2012 uses that personal information. 
+**Privacy Policy of the Africa Aerospace and Defence Exhibition**
 
-**Personal information collection**
+The Africa Aerospace and Defence Exhibition operates the www.aadexpo.co.za website, which provides the users with information relating to the AADExpo.
 
-AAD 2012 may collect and use the following kinds of personal information: 
+This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the www.aadexpo.co.za website.
 
-  * information about your use of this website;
-  * information that you provide using for the purpose of registering with the website;
-  * information about transactions carried out over this website;
-  * information that you provide for the purpose of subscribing to the website services; and
-  * any other information that you send to AAD 2012.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-  
+ **Information Collection and Use**
+
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
+
+ **Log Data**
+
+We want to inform you that whenever you visit our website, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer's Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+
+ **Cookies**
+
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer's hard drive.
+
+Our website uses these “cookies” to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.
+
+ **Service Providers**
+
+We may employ third-party companies and individuals due to the following reasons:
+
+  * To facilitate our services;
+  * To provide services on our behalf;
+  * To perform service-related tasks; or
 
 
-**Using personal information**
 
-AAD 2012 may use your personal information to: 
+We want to inform our website users that these third parties may have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-  * administer this website;
-  * personalize the website for you;
-  * enable your access to and use of the website services;
-  * publish information about you on the website;
-  * send to you products that you purchase;
-  * supply to you services that you purchase;
-  * send you statements and invoices;
-  * collect payments from you; and
-  * send you marketing communications.
+ **Security**
 
-  
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
+ **Links to Other Sites**
 
-Where AAD 2012 discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. 
+Our website may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, AAD 2012 may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights. 
+ **Children's Privacy**
 
-**Securing your data**
+Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-AAD 2012 will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+ **Changes to This Privacy Policy**
 
-AAD 2012 will store all the personal information you provide on its secure servers. 
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-Information relating to electronic transactions entered into via this website will be protected by encryption technology. 
+ **Contact Us**
 
-**Cross-border data transfers**
-
-Information that AAD 2012 collects may be stored and processed in and transferred between any of the countries in which AAD 2012 operates to enable the use of the information in accordance with this privacy policy. 
-
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world. 
-
-You agree to such cross-border transfers of personal information. 
-
-**Updating this statement**
-
-AAD 2012 may update this privacy policy by posting a new version on this website. 
-
-You should check this page occasionally to ensure you are familiar with any changes. 
-
-**Other websites**
-
-This website contains links to other websites. 
-
-AAD 2012 is not responsible for the privacy policies or practices of any third party. 
-
-**Contact AAD 2012**
-
-If you have any questions about this privacy policy or AAD 2012 treatment of your personal information, please contact us at:   
-email admin@aadexpo.co.za
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
