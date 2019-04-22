@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techrez.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711115917id_/https%3A//www.techrez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techrez.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422070610id_/http%3A//www.techrez.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tech News, Smartphones, Gadgets, Reviews & How To's – TechRez
 
 **What information do we collect?**  
 ** ** We collect information from you when you register on our site, subscribe to our newsletter or respond to a survey.  
@@ -42,5 +42,3 @@ By using our site, you consent to our online privacy policy.
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.  
 This policy was last modified on December 16th 2011
-
-Last Updated:Sunday, February 28, 2016
