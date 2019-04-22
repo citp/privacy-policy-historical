@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905235551id_/https%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422141952id_/https%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Formula 1® Australian Grand Prix
 
@@ -137,29 +137,33 @@ Version 16.1
 
 Reviewed 2 November 2016
 
-  * Barely legal to drive but Formula One are taking a chance on teenage talent 
+  * Daniel Ricciardo: It’s a strong result 
 
-They are barely legal to drive on the roads but Formula One has seen a growing trend for teams putting their faith in teenage talent. Lando Norris,... 
+Daniel Ricciardo has secured his first points in Renault colours, finishing P7 at the historic 1000th F1® race at the Chinese Grand Prix. The... 
 
-[Read More](https://web.archive.org/fan-zone/news/barely-legal-drive-formula-one-are-taking-chance-teenage-talent "Read More")
+[Read More](https://web.archive.org/fan-zone/news/daniel-ricciardo-its-strong-result "Read More")
 
-  * Vettel and Ferrari left to rue Monza own goal 
+  * Vettel contending with Leclerc as rival Hamilton races clear 
 
-Given the resurgence of Ferrari in 2018, the famously passionate tifosi at Monza could have been forgiven for approaching Sunday's Italian Grand Prix... 
+Having won five consecutive Formula One constructors' championships and then kept their team together for the 2019 season, it should perhaps come as... 
 
-[Read More](https://web.archive.org/fan-zone/news/vettel-and-ferrari-left-rue-monza-own-goal "Read More")
+[Read More](https://web.archive.org/fan-zone/news/vettel-contending-leclerc-rival-hamilton-races-clear "Read More")
 
-  * McLaren complete 2019 driver line-up with teenager 
+  * Ferrari boss: Leclerc has a right to be upset 
 
-Teenager Lando Norris will join Carlos Sainz Jr at McLaren from the 2019 Formula One season. Norris, who turns 19 in November, will take the seat... 
+Ferrari team principle Mattia Binotto accepts Charles Leclerc would have the "right to be upset" after being ordered to let team-mate Sebastian... 
 
-[Read More](https://web.archive.org/fan-zone/news/mclaren-complete-2019-driver-line-teenager "Read More")
+[Read More](https://web.archive.org/fan-zone/news/ferrari-boss-leclerc-has-right-be-upset "Read More")
 
-  * Vandoorne to leave McLaren after 2018 season 
+  * Hamilton and Bottas agree start was key 
 
-Stoffel Vandoorne will leave McLaren at the end of the Formula One season. The Belgian, who joined the team's young driver programme in 2013, made... 
+Mercedes team-mates Lewis Hamilton and Valtteri Bottas agreed the start was key to deciding the winner of the Chinese Grand Prix. Bottas qualified on... 
 
-[Read More](https://web.archive.org/fan-zone/news/vandoorne-leave-mclaren-after-2018-season "Read More")
+[Read More](https://web.archive.org/fan-zone/news/hamilton-and-bottas-agree-start-was-key "Read More")
 
 
 
+
+扫码或者在微信里搜索“ f1autraliangp” ，即可关注F1澳大利亚大奖赛官方微信号  
+Follow F1 Australia Grand Prix WeChat official account by scanning  
+the QR code or search ID f1autraliangp in WeChat. 
