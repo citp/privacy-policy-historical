@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229175013id_/https%3A//www.red-gate.com/website/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422095320id_/https%3A//www.red-gate.com/website/legal) for the most accurate reproduction.*
 
 # Legal Information About Redgate Software
 
 ## Privacy policy
 
-Redgate (which means Red Gate Software Limited and its subsidiary Red Gate Software Inc.) respects your privacy. All information you give us is held with the utmost care and security.
+Redgate (which means Red Gate Software Limited and its subsidiaries) respects your privacy. All information you give us is held with the utmost care and security.
 
 Please take time to review this privacy policy as it sets out our privacy practices and tells you how your personal information will be treated by us. We do not sell, rent or loan any identifiable information regarding our customers to any third party. Only in the circumstances described within this Privacy Policy would we share your information with any third party.
 
@@ -90,7 +90,7 @@ If you send us a message via social media, we may include this in our CRM system
 
 ### Connecting with our product support teams
 
-If you engage with our support teams, we may ask you to provide additional information to help us assist you (like diagnostic logs). We may share this internally with our teams to support you and to enable them to reproduce and fix product issues.
+If you engage with our support teams, we may ask you to provide additional information to help us assist you (like diagnostic logs). We may share this internally with our teams to support you and to enable them to reproduce and fix product issues. We may also cross reference your interactions with us in order to understand the customer journey, improve our self-help articles and to give you the best support experience.
 
 Some of our products also include feedback mechanisms such as live chat. If you’re signed into the product, we’ll see your name and email address when you chat to us. Any information you send to us in the chat session will be shared with our product development and support teams.
 
@@ -107,6 +107,7 @@ Our products send usage and fault reporting information to us. We use this to:
   * Measure the success of our sales and marketing operations
   * Guide product development decisions and improve our products
   * Assist you in your evaluation, purchasing, and renewal of our products
+  * Compare your usage of our products against the licenses you've purchased
 
 
 
@@ -127,6 +128,14 @@ We use a third party, ICIMS, to manage our recruitment process. Their privacy po
 ### Sharing your information with third parties
 
 Redgate uses select third parties to help us process data which helps us deliver our products and services to you. We do not sell any data regarding your use of our products or services except as part of a reorganization or a sale of the assets of Redgate, and we will ensure that your privacy continues to be protected.
+
+### Joining our early access program Slack instances
+
+Some of our product teams use Slack to work with customers to guide the development of our products, and get feedback on features we're planning or developing.
+
+If you join one of these instances, your username and any messages or files you post in public channels will be visible to teams within Redgate and any other customers who have joined the instance. Any messages you post in private channels will only be visible to Redgate teams and other customers in those channels (normally other colleagues from your organization).
+
+If you wish to delete your account on one of these instances, you should [deactivate your account](https://get.slack.help/hc/en-us/articles/360000360443) in Slack, then contact us at [privacy@red-gate.com](mailto:privacy@red-gate.com). This will remove your profile information; any messages or files you have posted will remain.
 
 ### Transferring your information outside of the European Economic Area
 
@@ -164,7 +173,7 @@ We encourage the responsible disclosure of security issues, and will act quickly
 
 ### Changes to this privacy policy
 
-We regularly review our privacy policy. This policy was last updated on 28th November 2018.
+We regularly review our privacy policy. This policy was last updated on 5th April 2019.
 
 ### Questions about data privacy
 
