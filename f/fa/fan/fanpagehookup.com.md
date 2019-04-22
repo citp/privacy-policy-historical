@@ -1,37 +1,15 @@
-> *The following text is extracted and transformed from the fanpagehookup.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627005402id_/http%3A//www.fanpagehookup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanpagehookup.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422050339id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-This Privacy Policy governs the manner in which FanPageHookup.com Marketing (FPH) collects, uses, maintains, and discloses information collected from users of this Web site (each, a "User"). 
+###  What’s in a Domain Name? 
 
-**Privacy**
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-Users’ privacy is very important to FPH is committed to safeguarding the information Users entrust to FPH. This Web site is not directed at children under 13 years of age.
+### DomainMarket.com Privacy Policy
 
-**How We Collect Information**
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
-Users will never be implicitly added to any marketing lists. Users subscribe to mailing lists by clicking on a checkbox in a form that clearly states what the checkbox means. The User has the right to opt-in or opt-out at any time.
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
-**The Information We Collect**
-
-FPH may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. FPH may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users’ PC and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site.
-
-**How We Use Information**
-
-FPH may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by FPH and otherwise to enhance Users’ experience with FPH. FPH may also use information collected through our Web site for research regarding the effectiveness of the Web site and the marketing, advertising and sales efforts of FPH. 
-
-**Disclosure of Information**
-
-FPH will not disclose information collected from Users to third parties. However, we may disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of FPH’s business. 
-
-**Maintenance of Information**
-
-Information about Users that is maintained on our systems is protected using industry standard security measures. 
-
-**Security Alerts**
-
-FPH reserves the right to contact you about security issues concerning your website. You may opt-out from receiving security alerts, but it strongly recommended that you treat them with the highest importance. 
-
-**Questions**
-
-Users may direct questions concerning this Privacy Policy by email to support[at]fanpagehookup.com. 
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85f6a3a6fdb3b4bea3a6b4b5bdbea3a6b4b5b4bea3a6b4b4b0bea3a6fdb1b5bea3a6b4b5b5beeaa3a6b4b5bcbea3a6bcb2beeca3a6b4b4b5bea3a6b4b5bcbea3a6fdb3b4bea3a6fdb2b7beeee0a3a6fdb2b1bea3a6b1b3bea3a6fdb3b6beeaa3a6b4b5bcbea3a6fdb7e0be). 
