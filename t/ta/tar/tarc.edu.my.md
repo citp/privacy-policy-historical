@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tarc.edu.my privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702160613id_/https%3A//tarc.edu.my/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarc.edu.my privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422132018id_/https%3A//tarc.edu.my/privacy-policy.jsp) for the most accurate reproduction.*
 
-# TAR University College
+# Tunku Abdul Rahman University College
 
 Pursuant and subject to the Malaysian Personal Data Protection Act, 2010 (PDPA, 2010), this privacy policy provides for the Tunku Abdul Rahman University College’s (TAR UC) uses and secure any personally identifiable information that you (the User) may have given to the TAR UC during your visit of our website herein.
 
