@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ylcomputing.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226044154id_/http%3A//www.pcclean.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ylcomputing.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422123506id_/http%3A//www.pcclean.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – YL Computing
+# Privacy Policy | YL Computing
 
 YL Computing, Inc has created this privacy policy in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for the ylcomputing.com network of sites.
 
