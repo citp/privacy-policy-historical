@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the humanrightscareers.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109063634id_/https%3A//www.humanrightscareers.com/impressum-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrightscareers.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422202158id_/https%3A//www.humanrightscareers.com/impressum-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Human Rights Careers
+# Privacy Policy | Human Rights Careers
 
-Last updated: May 23, 2018
+Last updated: January 2, 2019
 
 Human Rights Careers (“us”, “we”, or “our”) operates the www.humanrightscareers.com website (the “Service”).
 
