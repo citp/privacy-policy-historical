@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226153537id_/https%3A//www.coastalscents.com/pages/privacy-policy-2017) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalscents.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422185515id_/https%3A//www.coastalscents.com/pages/privacy-policy-2017) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -187,4 +187,4 @@ K-Plex, LLC reserves the right, at any time, without notice, and in its sole dis
 
 K-Plex, LLC may access, preserve, and disclose your account information and Content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to (i) comply with legal process; (ii) enforce these Terms of Use, (iii) respond to claims that any Content violates the rights of third parties, (iv) respond to your requests for customer service or (v) protect the rights, property, or personal safety of K-Plex, LLC (and its employees), its users, and the public.
 
-© 2018 Coastal Scents. All Rights Reserved.
+© 2019 Coastal Scents. All Rights Reserved.
