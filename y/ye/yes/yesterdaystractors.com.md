@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesterdaystractors.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003074534id_/http%3A//www.yesterdaystractors.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesterdaystractors.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423001434id_/https%3A//www.yesterdaystractors.com/privacy.htm) for the most accurate reproduction.*
 
 # Yesterday's Tractor Co. - Privacy Policy
 
@@ -19,16 +19,18 @@ In some cases, you may voluntarily provide personal information when filling out
 **[[ Home ]](http://www.yesterdaystractors.com/index.htm)**
 
   
-[**TRACTOR PARTS**](http://www.yesterdaystractors.com/tractor-parts/)| [ **TRACTOR MANUALS**](http://www.yesterdaystractors.com/tractor-manuals/)  
+[**TRACTOR PARTS**](https://www.yesterdaystractors.com/tractor-parts/)| [ **TRACTOR MANUALS**](https://www.yesterdaystractors.com/tractor-manuals/)  
 ---|---  
   
-[**Fast Shipping!**](http://www.yesterdaystractors.com/store/shipping_tables.htm)  Most of our stocked parts ship within 24 hours (M-Th). Expedited shipping available, just call! Most prices for parts and manuals are below our competitors. Compare our super low shipping rates! We have the parts you need to repair your tractor. We are a company you can trust and have generous return policies. [ **Shop Online Today**](http://www.yesterdaystractors.com/store/) or call our friendly sales staff toll free **(800) 853-2651**. [[ About Us ]](http://www.yesterdaystractors.com/store/about.htm)
+[**Fast Shipping!**](https://www.yesterdaystractors.com/store/shipping_tables.htm)  Most of our stocked parts ship within 24 hours (M-Th). We have the parts you need to repair your tractor - _the right parts_. Our fast shipping, low prices and years of research make us your best choice when you need parts. [ **Shop Online Today**](https://www.yesterdaystractors.com/store/). [[ About Us ]](https://www.yesterdaystractors.com/store/about.htm)
 
-[Home](http://www.yesterdaystractors.com/)  |  [Forums](http://forums.yesterdaystractors.com/)
+[Home](https://www.yesterdaystractors.com/)  |  [Forums](https://forums.yesterdaystractors.com/)
 
-Copyright © 1997-2018 Yesterday's Tractor Co.  
-All Rights Reserved. Reproduction of any part of this website, including design and content, without written permission is strictly prohibited. Trade Marks and Trade Names contained and used in this Website are those of others, and are used in this Website in a descriptive sense to refer to the products of others. Use of this Web site constitutes acceptance of our [User Agreement](http://www.yesterdaystractors.com/user-agreement.htm) and [Privacy Policy](http://www.yesterdaystractors.com/privacy.htm)
+Copyright © 1997-2019 Yesterday's Tractor Co.  
+All Rights Reserved. Reproduction of any part of this website, including design and content, without written permission is strictly prohibited. Trade Marks and Trade Names contained and used in this Website are those of others, and are used in this Website in a descriptive sense to refer to the products of others. Use of this Web site constitutes acceptance of our [User Agreement](https://www.yesterdaystractors.com/user-agreement.htm) and [Privacy Policy](https://www.yesterdaystractors.com/privacy.htm)
 
 **TRADEMARK DISCLAIMER:** Tradenames and Trademarks referred to within Yesterday's Tractor Co. products and within the Yesterday's Tractor Co. websites are the property of their respective trademark holders. None of these trademark holders are affiliated with Yesterday's Tractor Co., our products, or our website nor are we sponsored by them. John Deere and its logos are the registered trademarks of the John Deere Corporation. Agco, Agco Allis, White, Massey Ferguson and their logos are the registered trademarks of AGCO Corporation. Case, Case-IH, Farmall, International Harvester, New Holland and their logos are registered trademarks of CNH Global N.V. 
 
 Yesterday's Tractors - Antique Tractor Headquarters
+
+[Website Accessibility Policy](https://www.yesterdaystractors.com/accessibility_policy.html)
