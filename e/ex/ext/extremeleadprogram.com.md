@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924154925id_/https%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422061711id_/https%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Extreme Lead Program
-
-## Privacy Policy
 
 Welcome to https://www.extremeleadprogram.com (the ”Site”).We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Extreme Lead Program (collectively, ”Services”) (”Authorized Customers”).
 
@@ -52,7 +50,7 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at support@extremeleadprogram.com
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
