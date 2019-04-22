@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvshealth.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826011848id_/https%3A//cvshealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvshealth.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423011736id_/https%3A//cvshealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CVS Health
 
