@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentarystorm.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120142037id_/https%3A//documentarystorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentarystorm.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422223303id_/https%3A//www.documentarystorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DocumentaryStorm.com
 
@@ -31,4 +31,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://documentarystorm.com/contact/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://www.documentarystorm.com/contact/).
