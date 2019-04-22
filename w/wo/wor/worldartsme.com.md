@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldartsme.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220002218id_/http%3A//worldartsme.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldartsme.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422083514id_/http%3A//worldartsme.com/s/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
