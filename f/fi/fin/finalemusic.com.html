@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the finalemusic.com privacy policy that was archived on 2018-08-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180830194806id_/https%3A//www.makemusic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finalemusic.com privacy policy that was archived on 2019-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190422183955id_/https%3A//www.makemusic.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -11,8 +11,36 @@
   var _rollbarConfig = {
     accessToken: "91e7cf0531874dc09c71c617ed11b40e",
     captureUncaught: true,
-    captureUnhandledRejections: true,
+    captureUnhandledRejections: false,
     captureIp: "anonymize",
+    ignoredMessages: [
+      "(unknown): Script error",
+      "(unknown): Script error.",
+      "Script error",
+      "Script error.",
+      "#67 (unknown): Script error.",
+      "[unhandledrejection] error getting `reason` from event",
+      "error getting `reason` from event",
+      "error getting \`reason\` from event",
+      "error getting 'reason' from event",
+      "error getting \'reason\' from event",
+      "error getting reason from event",
+      "Uncaught TypeError: document.getElementsByClassName.ToString is not a function",
+      "ReferenceError: Can\'t find variable: jQuery",
+      "Uncaught ReferenceError: jQuery is not defined",
+      "Uncaught TypeError: Cannot read property 'begin' of undefined",
+      "(unknown): Error loading script",
+      "Error: Access is denied.",
+      "Access is denied.",
+      "#304 Error: Access is denied.",
+      "Uncaught TypeError: Illegal invocation",
+      "#247 Uncaught TypeError: Illegal invocation",
+      "Uncaught TypeError: Cannot read property 'checkDomStatus' of undefined",
+      "Uncaught SecurityError: Failed to read the \'cssRules\' property from \'CSSStyleSheet\': Cannot access rules",
+      "Uncaught SecurityError: Failed to read the 'cssRules' property from 'CSSStyleSheet': Cannot access rules",
+      "TypeError: can't redefine non-configurable property \"userAgent\"",
+      "jQuery"
+    ],
     autoInstrument: {
       log: false
     },
@@ -24,7 +52,7 @@
   !function(r){function e(n){if(o[n])return o[n].exports;var t=o[n]={exports:{},id:n,loaded:!1};return r[n].call(t.exports,t,t.exports,e),t.loaded=!0,t.exports}var o={};return e.m=r,e.c=o,e.p="",e(0)}([function(r,e,o){"use strict";var n=o(1),t=o(4);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.4.2/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,e,o){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}function t(r,e){this.options=r,this._rollbarOldOnError=null;var o=d++;this.shimId=function(){return o},"undefined"!=typeof window&&window._rollbarShims&&(window._rollbarShims[o]={handler:e,messages:[]})}function a(r,e){if(r){var o=e.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShims={},r._rollbarWrappedError=null;var t=new i(e);return n(function(){e.captureUncaught&&(t._rollbarOldOnError=r.onerror,s.captureUncaughtExceptions(r,t,!0),s.wrapGlobals(r,t,!0)),e.captureUnhandledRejections&&s.captureUnhandledRejections(r,t,!0);var n=e.autoInstrument;return e.enabled!==!1&&(void 0===n||n===!0||"object"==typeof n&&n.network)&&r.addEventListener&&(r.addEventListener("load",t.captureLoad.bind(t)),r.addEventListener("DOMContentLoaded",t.captureDomContentLoaded.bind(t))),r[o]=t,t})()}}function l(r){return n(function(){var e=this,o=Array.prototype.slice.call(arguments,0),n={shim:e,method:r,args:o,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)})}var i,s=o(2),d=0,c=o(3),p=function(r,e){return new t(r,e)};i=c.curry?c.curry(p):c.bind(null,p),t.prototype.loadFull=function(r,e,o,t,a){var l=function(){var e;if(void 0===r._rollbarDidLoad){e=new Error("rollbar.js did not load");for(var o,n,t,l,i=0;o=r._rollbarShims[i++];)for(o=o.messages||[];n=o.shift();)for(t=n.args||[],i=0;i<t.length;++i)if(l=t[i],"function"==typeof l){l(e);break}}"function"==typeof a&&a(e)},i=!1,s=e.createElement("script"),d=e.getElementsByTagName("script")[0],c=d.parentNode;s.crossOrigin="",s.src=t.rollbarJsUrl,o||(s.async=!0),s.onload=s.onreadystatechange=n(function(){if(!(i||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{c.removeChild(s)}catch(r){}i=!0,l()}}),c.insertBefore(s,d)},t.prototype.wrap=function(r,e,o){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){o&&"function"==typeof o&&o.apply(this,arguments);try{return r.apply(this,arguments)}catch(o){var e=o;throw e&&("string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e),e}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(e){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<u.length;++f)t.prototype[u[f]]=l(u[f]);r.exports={setupShim:a,Rollbar:i}},function(r,e){"use strict";function o(r,e,o){if(r){var t;"function"==typeof e._rollbarOldOnError?t=e._rollbarOldOnError:r.onerror&&!r.onerror.belongsToShim&&(t=r.onerror,e._rollbarOldOnError=t);var a=function(){var o=Array.prototype.slice.call(arguments,0);n(r,e,t,o)};a.belongsToShim=o,r.onerror=a}}function n(r,e,o,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null),e.handleUncaughtException.apply(e,n),o&&o.apply(r,n)}function t(r,e,o){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var o,n,t;try{o=r.reason}catch(r){o=void 0}try{n=r.promise}catch(r){n="[unhandledrejection] error getting `promise` from event"}try{t=r.detail,!o&&t&&(o=t.reason,n=t.promise)}catch(r){t="[unhandledrejection] error getting `detail` from event"}o||(o="[unhandledrejection] error getting `reason` from event"),e&&e.handleUnhandledRejection&&e.handleUnhandledRejection(o,n)};n.belongsToShim=o,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}function a(r,e,o){if(r){var n,t,a="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<a.length;++n)t=a[n],r[t]&&r[t].prototype&&l(e,r[t].prototype,o)}}function l(r,e,o){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){for(var n=e.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(e,o,t){n.call(this,e,r.wrap(o),t)};t._rollbarOldAdd=n,t.belongsToShim=o,e.addEventListener=t;for(var a=e.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,e,o){a.call(this,r,e&&e._rollbar_wrapped||e,o)};l._rollbarOldRemove=a,l.belongsToShim=o,e.removeEventListener=l}}r.exports={captureUncaughtExceptions:o,captureUnhandledRejections:t,wrapGlobals:a}},function(r,e){"use strict";function o(r,e){this.impl=r(e,this),this.options=e,n(o.prototype)}function n(r){for(var e=function(r){return function(){var e=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,e)}},o="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),n=0;n<o.length;n++)r[o[n]]=e(o[n])}o.prototype._swapAndProcessMessages=function(r,e){this.impl=r(this.options);for(var o,n,t;o=e.shift();)n=o.method,t=o.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],o.ts]):this[n].apply(this,t));return this},r.exports=o},function(r,e){"use strict";r.exports=function(r){return function(e){if(!e&&!window._rollbarInitialized){r=r||{};for(var o,n,t=r.globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;o=window._rollbarShims[i++];)n||(n=o.handler),o.handler._swapAndProcessMessages(l,o.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
 </script>
 
-<!-- This site is optimized with the Yoast SEO plugin v8.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v10.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="MakeMusic, Inc. has a strong commitment to protecting personal privacy. Read our privacy statement.">
 <link rel="canonical" href="https://www.makemusic.com/privacy/">
 <meta property="og:locale" content="en_US">
@@ -41,9 +69,9 @@
 <link rel="alternate" type="application/rss+xml" title="MakeMusic » Feed" href="https://www.makemusic.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="MakeMusic » Comments Feed" href="https://www.makemusic.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.makemusic.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.makemusic.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.makemusic.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
+		</script><script src="https://www.makemusic.com/wp-includes/js/wp-emoji-release.min.js?ver=5.1.1" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -58,30 +86,31 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="eme-jquery-ui-css-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/css/jquery-ui-theme-smoothness-1.11.3/jquery-ui.min.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="eme-jquery-ui-autocomplete-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/css/jquery.autocomplete.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="eme-jquery-select2-css-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/js/jquery-select2/select2-4.0.4/dist/css/select2.min.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="eme_stylesheet-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/css/eme.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="eme-leaflet-css-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/js/leaflet-1.3.4/leaflet.css" type="text/css" media="">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js?ver=4.9.8"></script>
-<script type="text/javascript" src="https://www.makemusic.com/wp-content/plugins/events-made-easy/js/jquery-select2/select2-4.0.4/dist/js/select2.min.js?ver=2.0.45"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js?ver=4.9.8"></script>
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js?ver=4.9.8"></script>
-<script type="text/javascript" src="https://www.makemusic.com/wp-content/themes/mm-master/js/global.js?ver=4.9.8"></script>
-<script type="text/javascript" src="https://www.makemusic.com/wp-content/themes/mm-master/js/jquery.dataTables.min.js?ver=4.9.8"></script>
-<script type="text/javascript" src="https://www.makemusic.com/wp-content/themes/mm-master/js/prettify.js?ver=4.9.8"></script>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://www.makemusic.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="eme-jquery-ui-css-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/css/jquery-ui-theme-smoothness-1.11.3/jquery-ui.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="eme-jquery-ui-autocomplete-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/css/jquery.autocomplete.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="eme-jquery-select2-css-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/js/jquery-select2/select2-4.0.4/dist/css/select2.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="eme_stylesheet-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/css/eme.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="eme-leaflet-css-css" href="https://www.makemusic.com/wp-content/plugins/events-made-easy/js/leaflet-1.4.0/leaflet.css?ver=5.1.1" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.makemusic.com/wp-content/plugins/events-made-easy/js/jquery-select2/select2-4.0.4/dist/js/select2.min.js?ver=2.1.13"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.makemusic.com/wp-content/themes/mm-master/js/global.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.makemusic.com/wp-content/themes/mm-master/js/jquery.dataTables.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.makemusic.com/wp-content/themes/mm-master/js/prettify.js?ver=5.1.1"></script>
 <link rel="https://api.w.org/" href="https://www.makemusic.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.makemusic.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.makemusic.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.8">
+<meta name="generator" content="WordPress 5.1.1">
 <link rel="shortlink" href="https://www.makemusic.com/?p=139">
 <link rel="alternate" type="application/json+oembed" href="https://www.makemusic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.makemusic.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.makemusic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.makemusic.com%2Fprivacy%2F&amp;format=xml">
 <link rel="shortcut icon" href="https://www.makemusic.com/wp-content/themes/mm-master/images/common/favicon.ico" type="image/x-icon">
 <link rel="icon" href="https://www.makemusic.com/wp-content/themes/mm-master/images/common/favicon.ico" type="image/x-icon">
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-<script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
-
+  <script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+  
 <meta name="msvalidate.01" content="5FD120E3CF9345E45D35AEE19A1AD65E">
 
 <script>
@@ -163,106 +192,217 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
 </div>
             <div class="pl-10 content">
-              <h3>PLEASE READ THIS PRIVACY STATEMENT CAREFULLY.</h3>
-<p>LAST UPDATED JUNE 15, 2016</p>
-<p>THE TERMS OF THIS MAKEMUSIC PRIVACY POLICY (“PRIVACY POLICY”) &nbsp;ARE LEGALLY BINDING. IF YOU ACCESS OR USE ANY OF OUR SERVICES &nbsp;(DEFINED BELOW), YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND &nbsp;CONDITIONS OF THIS POLICY. IF YOU DO NOT AGREE TO BE BOUND, YOU &nbsp;MAY NOT USE OUR SERVICES.</p>
-<p>MakeMusic, Inc. (“MakeMusic”, “we” or “us”) understands that privacy is exceptionally important to our users, and we view safeguarding personal privacy to be one of our top priorities. The purpose of this Privacy Statement is to transparently disclose to you how we may collect, use and share information, and how we attempt to safeguard the data you provide to us.</p>
-<p>This Privacy Policy applies to you, as an individual, school or entity (“you” or “user”), when you use any of the MakeMusic programs, websites, platforms and/or mobile applications, including (without limitation) the SmartMusic®, Garritan® and Finale® products (collectively the “Services”).</p>
-<p>From time to time, MakeMusic may change this Privacy Policy. If we make a change to this Privacy Statement, we will post a notice on the login or homepages of our Services. Additionally, a current and complete copy of the Privacy Policy be published and remain publicly accessible at: <a href="//www.makemusic.com/terms-conditions">www.makemusic.com/terms-conditions</a>. If you have any questions about the changes please contact us by mail or phone as listed at the bottom of this document.</p>
-<p><strong>1. PROTECTING YOUR PRIVACY</strong></p>
-<p>Protection of our users’ privacy is a top Company priority. We take measures to monitor and update our privacy and data collection and storage policies and procedures to consistently meet or exceed industry security standards.</p>
-<p>a.<span style="text-decoration: underline;"> USA</span>. MakeMusic servers are located in the United States. Any information collected through the Services is stored and processed in the United States. If you use our Services outside of the United States, you consent to have your data transferred to and stored in the United States.</p>
-<p>b.<span style="text-decoration: underline;"> Industry-Standard Protection</span>. We utilize industry-standard Secure Socket Layer (SSL) encryption technology to safeguard account registration and enrollment information. Other security measures include, but are not limited to, firewalls and additional data encryption.</p>
-<p>c.<span style="text-decoration: underline;"> Limitation on Access</span>. Access to any information collected through the Services is generally restricted to those employees and/or contractors who require it to perform a job or other contracted function. All employees are subject to detailed criminal background screening as part of employment protocol. All vendors / contractors are required to adopt reasonable, industry standard protocols to maintain the confidentiality, security, and integrity of the information.</p>
-<p><strong>2. INFORMATION WE COLLECT</strong></p>
-<p>To provide the services, MakeMusic collects, stores, shares and uses certain information, including some personally identifiable information (“User Information”). While not exhaustive, this Section describes some of the types of User Information that MakeMusic collects, maintains and uses.</p>
-<p>a.<span style="text-decoration: underline;"> DISTRICTS, SCHOOLS, AND TEACHERS</span>. When a school district, school administrator or teacher creates an account with MakeMusic and registers a school with one or more Services or corresponds with us online, we collect certain information about the school (“School Data”). School Data is a type of User Information and may include (without limitation):</p>
+              <style>td {border: 1px solid #000;} .gdpr-banner {display: none;}</style>
+<p><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><br>
+<span style="font-weight: 400;">Date of Last Revision: December 6th, 2018</span></p>
+<p><b><strong>Who we are: &nbsp;MakeMusic, Inc.</strong></b><span style="font-weight: 400;"> (“</span><b><strong>MakeMusic, Inc.</strong></b><span style="font-weight: 400;">”, “we,” or “us”) provides a variety of services, including SmartMusic, Finale, and Garritan that provide people the ability to create, learn and teach music as well as internal and third-party applications to help us with business related tasks like accounting, marketing, and troubleshooting (the “Services”). &nbsp;MakeMusic, Inc. is committed to protecting your privacy and utilizing technology that gives you a powerful and safe online experience. The websites</span><a href="http://www.makemusic.com/"><span style="font-weight: 400;"> www.makemusic.com</span></a><span style="font-weight: 400;">,</span><a href="http://www.smartmusic.com/"><span style="font-weight: 400;"> www.smartmusic.com</span></a><span style="font-weight: 400;">,</span><a href="http://www.finalemusic.com/"><span style="font-weight: 400;"> www.finalemusic.com</span></a><span style="font-weight: 400;">,</span><a href="http://www.garritan.com/"><span style="font-weight: 400;"> www.garritan.com</span></a><span style="font-weight: 400;">,</span><a href="http://www.musicxml.com/"><span style="font-weight: 400;"> www.musicxml.com</span></a><span style="font-weight: 400;">, www.home.smartmusic.com and applications SmartMusic</span><span style="font-weight: 400;">®</span><span style="font-weight: 400;">, Finale</span><span style="font-weight: 400;">®</span><span style="font-weight: 400;"> and Garritan</span><span style="font-weight: 400;">®</span><span style="font-weight: 400;"> (hereinafter “the Sites”) are owned and operated by </span><b><strong>MakeMusic, Inc.</strong></b><span style="font-weight: 400;"> and </span><b><strong>MakeMusic, Inc.</strong></b><span style="font-weight: 400;"> is the controller of the Personal Data.</span></p>
+<p><span style="font-weight: 400;">Please read carefully through all sections of this Privacy Policy. &nbsp;This Privacy Policy covers our treatment of Personal Data that we collect through your registration, access and use of the Sites and the Services provided on the Sites.  This policy does not apply to the practices of companies that we do not own and/or control or to people that we do not employ or manage.</span></p>
+<p><span style="font-weight: 400;">This Privacy Policy may be changed by us from time to time and the governing version will be posted on the Site. &nbsp;We will notify you if we make material changes to the Privacy Policy or we will provide notice to you of our changes on our website landing page. &nbsp;Please review this Privacy Policy on a regular basis as your use of the Site will be governed by the then-current Privacy Policy.</span></p>
+<p><b><strong>MakeMusic, Inc.</strong></b><span style="font-weight: 400;"> recognizes the importance of protecting the privacy of our customers and the users of the Site. &nbsp;As such, we will always ensure that we have a lawful basis for processing your Personal Data. </span></p>
+<h3><strong>Notice to California residents</strong></h3>
+<p><span style="font-weight: 400;">Except as expressly identified below, we do not disclose a user’s personal data to any third-party for such third-party’s direct marketing purposes. &nbsp;Thus, under California Civil Code Sections 1798.80-1798.84, MakeMusic has no obligation to a California resident to provide further information regarding MakeMusic’s use of the California resident’s personal data.</span></p>
+<h3><strong>Notice to Utah residents</strong></h3>
+<p><span style="font-weight: 400;">Except as expressly identified below, we do not disclose a user’s personal data to any third-party for such third-party’s direct marketing purposes.</span></p>
+<p><b><strong>Why We Collect and How We Use Personal Information.</strong></b><span style="font-weight: 400;"> &nbsp;We collect and share information from the users of our Sites and Services to manage our contractual obligations to you, comply with legal obligations and/or because we have a legitimate business interest to do so. &nbsp;We collect and share information to: (a) provide our Sites and Services; (b) provide information about our products and Services; (c) provide information about data security and privacy; (d) learn more about our customer’s preferences; (e) enhance, personalize and support your experience on our Sites; (f) enhance and develop our products and Services based on your direct comments and/or on the pages or information you view on our Sites; and (g) analyze the traffic to our Sites. To view Data Policies specific to each of our products, click on a link below:</span></p>
 <ul>
-<li>Contact name</li>
-<li>School name</li>
-<li>School address</li>
-<li>School district information</li>
-<li>School email address</li>
-<li>Account name and password</li>
-<li>Phone number</li>
-<li>Message/correspondence content</li>
-<li>Information relating to the school’s information systems</li>
-<li>Activities related to the Service, such as features accessed and selected, assignments given, grades and scores, and correspondence with students.</li>
+<li style="font-weight: 400;"><a href="https://wpmedia.makemusic.com/wp-content/uploads/2012/11/Finale-End_User_License_Agreement_v261.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">Finale</span></a></li>
+<li style="font-weight: 400;"><a href="https://wpmedia.makemusic.com/wp-content/uploads/2012/11/GarritanInstantOrchestra1.pdf?_ga=2.207981713.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">Garritan</span></a></li>
+<li style="font-weight: 400;"><a href="https://staging.makemusic.com/wp-content/uploads/2018/12/SmartMusic_Classic_LicenseAgreement.pdf"><span style="font-weight: 400;">Classic SmartMusic</span></a></li>
+<li style="font-weight: 400;"><a href="https://wpmedia.makemusic.com/wp-content/uploads/2018/12/smartmusic-web-terms-service-use.pdf"><span style="font-weight: 400;">New SmartMusic</span> </a></li>
 </ul>
-<p>b. <span style="text-decoration: underline;">STUDENT DATA</span>. When a student creates an account with us, we collect certain information, including some personally identifiable information, about that student. Further, when a student uses the Services, s/he may create, upload or otherwise generate information and data. MakeMusic may have access to all of this data about students and their use of the Services (“Student Data”). Student Data is a type of User Information and may include (without limitation):</p>
+<h3><strong>Information Collection and Use</strong></h3>
+<table style="height: 209px; width: 98.8814%; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
+<tbody>
+<tr style="height: 14px;">
+<td style="width: 33.3333%; height: 37px;"><b><strong>Information You Give Us</strong></b></td>
+<td style="width: 33.3333%; height: 37px;"><b><strong>Information We Collect from You</strong></b></td>
+<td style="width: 33.3333%; height: 37px;"><b><strong>Information We Obtain from Others</strong></b></td>
+</tr>
+<tr style="height: 14px;">
+<td style="width: 33.3333%; height: 87px;">
+<p><b><strong>Contact Information:</strong></b><span style="font-weight: 400;"> &nbsp;You give us your Contact Information when you request information, register with or subscribe to the Site. &nbsp;</span><span style="font-weight: 400;">&nbsp;“Contact Information” includes your name, email, company, address and/or telephone number.</span></p>
+<p><b><strong>We may use Contact Information and other Personal Data to:</strong></b></p>
 <ul>
-<li>Student’s name</li>
-<li>Birthdate</li>
-<li>Address</li>
-<li>Phone number</li>
-<li>Identification number</li>
-<li>Scores</li>
-<li>Class</li>
-<li>Grade</li>
-<li>School district</li>
-<li>School</li>
-<li>Music teacher’s name</li>
-<li>User name and password created by the student</li>
-<li>In the case of students under the age of 16, contact information for and communications with that student’s parent or guardian.</li>
-<li>Data and files created and/or uploaded by the student, teacher or school as part of the Services (such as assignments, grades, feedback, etc.).</li>
+<li><b></b><span style="font-weight: 400;"> &nbsp;&nbsp;provide you the Services on the Site;</span></li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;to fulfill your requests for information; and</span></li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;to contact you about MakeMusic, Inc. products or services based on the preferences you have indicated. Personal information we collect is used to provide, maintain, and improve our Services.</span></li>
 </ul>
-<p>c.<span style="text-decoration: underline;"> NON-PERSONALLY IDENTIFIABLE INFORMATION</span>. As part of our business and contractual requirements, we sometimes collect anonymous data that does not tell us anything personal about you (“Non-PII”).</p>
-<p><strong>3. HOW WE USE AND SHARE USER INFORMATION</strong></p>
-<p>a.<span style="text-decoration: underline;"> To Provide the Services</span>. We use, process, store and share User Information to enable our users to fully use the Services. For example, we use User Information to allow student users to submit assignments to their teachers, and to allow the teachers to issue and manage assignments, and to contact their students.</p>
-<p>b.<span style="text-decoration: underline;"> To Manage Accounts</span>. We also collect and use User Information to manage and renew subscriptions, to contact you with information about our products and Services, to administer your account, and to respond to your inquiries.</p>
-<p>c.<span style="text-decoration: underline;"> To Process Payments</span>. We may collect, process, share and use User Information, such as payment and financial information, if you buy one of our products or Services or register for a feature on one of our Services.</p>
-<p>d.<span style="text-decoration: underline;"> To Improve our Services</span>. To ensure that users have consistent, high- quality experiences with our Services, we may internally analyze user data to improve the features, content and functionality of the Services, and to assist us with product development, and planning.</p>
-<p>e.<span style="text-decoration: underline;"> Use of Non-PII User Information</span>. We may use Non-PII User Information several ways and for several purposes, including (without limitation):</p>
+<p><span style="font-weight: 400;">We use information about how you use our website to offer you custom content, such as music searches targeted to your selected instrument or how many times you open a piece of content, so we can tailor our Services to your preferences. We also use your data to maintain our applications, so they continue to serve the needs of the customers.</span></p>
+<p><span style="font-weight: 400;">We may use your email address to send you information about changes or improvements we are making. Users over the age of 16 may opt into MakeMusic marketing promotions.</span></p>
+<p><span style="font-weight: 400;">We may use your Contact Information to contact an individual regarding an account issue via telephone, fax, email, or written correspondence. &nbsp;For example, when you visit our Help Center, we may collect your name or email address(es) and associate them with a case number so that we can respond to inquiries and requests.</span></p>
+<p><span style="font-weight: 400;">If you are a Finale® customer and do not live within the United States, we may also share your personal information with our trusted business partners, such as our international distributors, to allow them to contact you on our behalf with information about other products or services that may interest you, unless you elect not to receive such information.</span></p>
+</td>
+<td style="width: 33.3333%; height: 87px;">
+<p><span style="font-weight: 400;">We collect Analytical Information through automated means when use and navigate the Sites. &nbsp;“Analytical Information” includes pages and products viewed, emails from us that you opened, browser type, operating system, IP address and device information, your mobile operating system (OS), a mobile device identifier embedded by us, or other commonly used mobile device identifier if you access the Sites on a mobile device.</span></p>
+<p><b><strong>We use Analytical Information to:</strong></b></p>
 <ul>
-<li>To calculate necessary royalty payments to third party content providers, which are often based on the number of times a work is opened or accessed by our users.</li>
-<li>To prepare reports and other materials that we may share with others<br>
-in an anonymous format.</li>
-<li>For analytics purposes.</li>
-<li>In some instances, we use third-party vendors to collect, monitor and/or maintain Non-PII. For example: We use Telerik to collect, monitor, and analyze Non-PII to increase the Services’ functionality and user-friendliness, and to better tailor our Services to our users’ needs. Accordingly, Non-PII is shared with Telerik, which has its own privacy policy accessible <a>here</a> addressing how these parties use such information. You may opt out of Telerik tracking at installation or via the “Help” menu in any of our desktop applications. In our web applications we utilize Rollbar and Google and Google Analytics. Rollbar is utilized for error monitoring. Information logged includes common request data. Rollbar’s privacy policy can be found <a>here</a>. Google Analytics is utilized to analyze application, feature and content usage. Google’s privacy policy can be found here.</li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;retain and evaluate information from your visits to the website and how you move around for analytics purposes to improve our website to make it more user friendly or improve the speed of the page loading or the website in general. </span></li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;to review user preferences when navigating the site and to develop new services that may be able to better appeal to our customers based upon what information our customers view or how they navigate the website.</span></li>
 </ul>
-<p><strong>4. RESTRICTIONS ON USE</strong></p>
-<p>We care about your privacy and will not intentionally: (a) share your Student Data with anyone other than the specific teacher, school, and district associated with your account; (b) share or sell personally identifiable information to a third party to allow that third party to market its goods or services; or (c) collect, share, maintain or use any User Information for any reason not set forth by this Privacy Policy and/or contemplated by the&nbsp;nature of the Services provided.</p>
-<p><strong>5. CHILDREN’S PRIVACY</strong></p>
-<p>We care about protecting the online privacy of children. We may collect certain information about children ONLY for the purpose of providing our educational Services as described in the sections above regarding enrollment information.</p>
-<p>a.<u> Verifiable Consent.</u> MakeMusic does not knowingly collect any information from children under the age of 16 unless the school or teacher has obtained appropriate, verifiable consent directly from the parent or legal guardian for the student to use the Services. It is the responsibility of the school or educator to obtain and verify consent from a parent or legal guardian in order for any child under 16 years of age to use the Services.</p>
-<p>b.<u> Notification.</u> While the school remains responsible for obtaining verifiable consent for its students under the age of 16, MakeMusic will send a notification to the parent or guardian identified during the enrollment process to inform the parent/guardian of the enrollment and to provide the parent/guardian with information regarding their right to cancel the enrollment and to access and manage the enrollment information. The new web-based SmartMusic service does not allow students who report themselves as under the age of 16 to create an account; it is a violation of the SmartMusic Terms of Service for children to create an account by misrepresenting their age. For students under the age of 16, a parent/legal guardian or the student’s teacher must create their account.</p>
-<p>c.<u> Providing or Withdrawing Consent.</u> If, as a parent or legal guardian, you have not received information from your school, please contact the teacher or school directly. If you have received notice from the school and have not given your consent, or if you believe we have inadvertently collected personal information of a child under 16 without proper parental consent, please contact us directly so that we may delete such data as soon as possible; contact information can be found at the bottom of this document. You should, at a minimum, clearly state: (i) name of the child, along with their username; (ii) age and birth date of the child; (iii) your relationship to the child (e.g., parent, guardian, teacher); (iv) as&nbsp;much detail as possible regarding the information you believe was&nbsp;provided improperly by the child. After confirming your identity, we will&nbsp;provide you with an opportunity to review, and if you wish, delete such&nbsp;information.</p>
-<p>d.<u> Review Rights.</u> If you are a parent/guardian and wish to review information submitted by your child, you may contact us (contact information is set forth below) and, after confirming your identity, we will provide you with an opportunity to review, and if you wish delete, such information.</p>
-<p><strong>6. ACCOUNT PREFERENCES</strong></p>
-<p>a.<span style="text-decoration: underline;"> Account</span>. To view your personal information or edit preferences, go to My Account and login to view and/or update any personal information provided, such as mailing and billing addresses, email addresses, or preferences. Please note that even if you choose not to receive marketing communications, we may still contact you for important policy or technical product updates or for information related to your Services from us. If you are a student enrolled in a class, changing your personal information via “My Account” will NOT affect or update your Gradebook information. To change your Gradebook information, it will be necessary to coordinate directly with your teacher or director to do so.</p>
-<p>b.<span style="text-decoration: underline;"> Cookies</span>. We may place a text file called a cookie or an anonymous identifier in the browser files of computers that visit the Services. Cookies are pieces of information that, among other things, allow your computer to utilize all the features of the Services. An anonymous identifier is a random string of characters that is used for the same purposes as a cookie on those platforms, including certain mobile devices, where cookie technology is not available. If and when your computer accepts a cookie or an anonymous identifier, the cookie or the anonymous identifier may be stored on the computer’s hard drive. The information that we collect using cookies or an anonymous identifier is non-personal information. You are always free to decline our cookies or anonymous identifier if your browser permits, but some parts of our Services may not work properly for you if you do so.</p>
-<p>c. <span style="text-decoration: underline;">Opt-Out</span>. In addition to mechanisms through your own browsers and computers, we have certain mechanisms for opting-out from our collection of Non-PII for analytics purposes. For example, Finale® users may opt-out by choosing “Help Improve Finale” from the Finale® Help menu and selecting “No, I’m not interested at this time”. SmartMusic® users may opt-out by choosing “Setup &gt; Help Improve SmartMusic” from the SmartMusic® Help menu and selecting “Don’t Allow”.</p>
-<p><strong>7. HOW LONG WE KEEP USER INFORMATION</strong></p>
-<p>Unless otherwise expressly agreed by the parties, following termination or deactivation of an account, MakeMusic may retain personally identifiable User Information only for a commercially reasonable time for backup, archival, or audit purposes. However, MakeMusic will make attempts to delete any User Information upon request. MakeMusic may maintain all Non-PII even after termination, including usage data, for analytics purposes. If you have any questions about data retention or deletion, please contact us directly.</p>
-<p><strong style="line-height: 22px;">8. HOW WE PROTECT YOUR PERSONAL INFORMATION</strong></p>
-<p><span style="line-height: 22px;">We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.</span></p>
-<p>We want you to feel confident using our Services. However, no system can be&nbsp;completely secure. Therefore, even though we take measured steps to secure your information, we do not promise, and you should not expect, that your User Information will always remain secure. You should carefully manage and handle your own passwords and personal information, and should avoid sending personal information through insecure email.</p>
-<p><strong>9. DISCLAIMER OF WARRANTIES </strong></p>
-<p>YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. MAKEMUSIC EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES REGARDING DATA PRIVACY OR DATA SECURITY. MAKEMUSIC MAKES NO WARRANTY REGARDING DATA PRIVACY OR SECURITY AND YOU ACKNOWLEDGE THE SAME.</p>
-<p><strong>10. LIMITATION OF LIABILITY</strong></p>
-<p>YOU EXPRESSLY AGREE THAT MAKEMUSIC SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF DATA, DATA BREACH, OR DISCLOSURE OF PERSONAL INFORMATION, EVEN IF MAKEMUSIC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. YOU SPECIFICALLY AGREE THAT MAKEMUSIC IS NOT RESPONSIBLE OR LIABLE TO YOU OR ANYONE ELSE FOR ANY VIOLATION OF YOUR RIGHTS OR THE RIGHTS OF ANY OTHER PARTY, INCLUDING, BUT NOT LIMITED TO, INTELLECTUAL PROPERTY RIGHTS, RIGHTS OF PUBLICITY, OR RIGHTS OF PRIVACY. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, THEREFORE SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO USER. IN ANY EVENT, IF MAKEMUSIC IS FOUND TO HAVE VIOLATED ANY OF YOUR RIGHTS, YOU ACKNOWLEDGE AND AGREE THAT ANY DAMAGES RECOVERABLE AGAINST MAKEMUSIC ARE LIMITED TO YOUR ACTUAL, PROVEN DAMAGES.</p>
-<p><strong>11. VISITING OUR WEBSITES FROM OUTSIDE THE UNITED STATES</strong></p>
-<p>If you are using the Services from outside the United States, please be aware that your information will be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. This Privacy Policy and the storage, use and disclosure of your information under this Privacy Policy, is governed by the laws of the United States. The Services are controlled and operated by MakeMusic from the United States and you expressly waive the application of any laws of any territory other than the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country.</p>
-<p><strong>12. INTERNATIONAL FINALE® CUSTOMERS ONLY</strong></p>
-<p>If you are a Finale® customer and do not live within the United States, We may also share your personal information with our trusted business partners, such as our distributors, to allow them to contact you with information about other products or services that may interest you, unless you elect not to receive such information.</p>
-<p><strong>13. PRIVACY ON OTHER SITES </strong></p>
-<p>Our Services may contain links to other sites. We provide these links for your convenience, but we do not review, control, or monitor the privacy practices of sites operated by others. We are not responsible for the performance of these sites or for your business dealings with them. Your use of other websites is subject to the terms and conditions of those sites, including the privacy policies of those sites.</p>
-<p><strong>14. INTEGRATION</strong></p>
-<p>The Privacy Policy, along with the applicable subscriber agreement relating to the Services you have subscribed to and any terms of use for the applicable Services, contain the entire agreement between you and MakeMusic with regard to your use of the Services and your User Information.</p>
-<p><strong>15. CONSENT TO RECEIVE ELECTRONIC NOTICES</strong></p>
-<p>By clicking to agree to this Privacy Policy, you expressly agree and consent to receiving all notices from MakeMusic relating to your privacy, your personal information, or any license or relationship that you have with MakeMusic via electronic mail via the address you have provided to MakeMusic as your e-mail address. You have the right to revoke consent to receive such notices via electronic mail, but until such consent is revoked, your consent to receive notices via electronic mail will remain in full force and effect.</p>
-<p><strong>16. CONTACT US / NOTICES</strong></p>
-<p>If you have questions or comments about this Agreement, please contact MakeMusic directly:</p>
+</td>
+<td style="width: 33.3333%; height: 87px;">
+<p><span style="font-weight: 400;">We may collect your Contact Information from an educational institution and will use it as described herein. &nbsp;</span></p>
+<p><span style="font-weight: 400;">We may also collect publicly available information about you from third-party sources, such as the postal service for shipping address verification.</span></p>
+</td>
+</tr>
+<tr style="height: 69px; border-style: solid; border-color: #000000;">
+<td style="width: 33.3333%; height: 69px;">
+<p><span style="font-weight: 400;">“User Data” </span><span style="font-weight: 400;">may include school or district name, purchase order numbers.</span></p>
+<p><span style="font-weight: 400;">We use your User Data to provide you the services, to connect your account to your educational institution, and to provide you customer support</span></p>
+</td>
+<td style="width: 33.3333%; height: 69px;"></td>
+<td style="width: 33.3333%; height: 69px;"></td>
+</tr>
+<tr style="height: 16px; border-color: #000000;">
+<td style="width: 33.3333%; height: 16px; border-style: solid; border-color: #000000;">
+<p><span style="font-weight: 400;">“Financial Information” collected include </span><span style="font-weight: 400;">credit card information for Schools or individuals that purchase that purchase a MakeMusic product or subscription.</span></p>
+<p><span style="font-weight: 400;">We use the Financial Information to process your payment for the Services. &nbsp;Financial Information is encrypted and transferred using secure Hypertext Transfer Protocol (HTTPS) to our third-party processor, </span><a href="https://www.braintreepayments.com/features/data-security"><span style="font-weight: 400;">Braintree</span></a><span style="font-weight: 400;">.</span></p>
+</td>
+<td style="width: 33.3333%; height: 16px;"></td>
+<td style="width: 33.3333%; height: 16px;"></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">We do not collect any more Personal Data from you than what we have determined is needed for us to provide the Services and comply with applicable laws.</span></p>
+<h3><strong>What Happens If You Don’t Provide Your Personal Information?</strong></h3>
+<p><span style="font-weight: 400;">Please be aware that, if you choose to limit the personal information you provide to us (or, in some circumstances, provide no personal information at all), then we may be unable to provide you with the products and services you have expressed an interest in, or which we have a contract to provide to you. &nbsp;We may also be unable to provide you with access to some or all our Site (or its functionality).</span></p>
+<p><b><strong>We may also collect and use Non-Personally Identifiable User Information for several purposes, including (without limitation):</strong></b></p>
 <ul>
-<li>Visit us at&nbsp;<a href="http://support.makemusic.com">support.makemusic.com</a></li>
-<li>Email us at&nbsp;<a href="mailto:team@makemusic.com">team@makemusic.com</a></li>
-<li>Call us toll free (for the U.S.A.): 1-800-843-2066</li>
-<li>Send us a letter addressed by First Class Postage Prepaid U.S. Mail or&nbsp;overnight courier to the following address:<br>
-Customer Success MakeMusic, Inc.<br>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To calculate necessary royalty payments to third party content providers, which are often based on the number of times a work is opened or accessed by our users.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To prepare reports and other materials that we may share with others</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">in an anonymous format.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">For analytics purposes.</span></li>
+</ul>
+<p><span style="font-weight: 400;">In some instances, we use third-party vendors to collect, monitor and/or maintain Non-PII; for example, </span><span style="font-weight: 400;">we utilize Rollbar, Google and Google Analytics. Rollbar is utilized for error monitoring. Information logged includes common request data. Google Analytics is utilized to analyze application, feature and content usage.</span></p>
+<h3><strong>Electronic Marketing</strong></h3>
+<p><span style="font-weight: 400;">We provide you the opportunity to consent to receive commercial email from us related to the Services or information that we deem you may be interested in when you seek more information from us. &nbsp;We will give you the opportunity to “opt out” of receiving any unsolicited information from us or to limit the unsolicited information you receive from us to information regarding the Services or information you specifically request or information we determine you may find useful as a result of your use of the Site. </span><b>&nbsp;</b></p>
+<h3><strong>Information Sharing and Disclosure</strong></h3>
+<p><span style="font-weight: 400;">Except as otherwise described in this Privacy Policy or in our product-specific Data Policies, we will not share your Personal Data with any other person or company. &nbsp;We will share your Personal Data to other companies or people when:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We need to share your information to provide a product or service you have requested;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We need to send the information to companies who work on behalf of MakeMusic, Inc. to provide a product or service to you. Unless we tell you differently, we only provide these companies the minimum amount of information that is necessary for them to assist us and these companies do not have any right to use the Personal Data we provide to them beyond what is necessary to assist us);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We find that your actions on our website violate the Terms and Conditions of Use, any of our usage guidelines for specific services or any agreement; and</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">As required to respond to or initiate subpoenas, court orders, or legal process.</span></li>
+</ul>
+<h3><strong>Third Party Processors</strong></h3>
+<p><span style="font-weight: 400;">To ensure that your Personal Data receives an adequate level of protection, we have put in place appropriate procedures with the third parties we share your Personal Data with to ensure that your Personal Data is treated by those third parties in a way that is consistent with and which respects the applicable laws on data security and privacy. &nbsp;&nbsp;For example, we use third-party cloud data storage, error logging, accounting software, payment processors and marketing service providers. To see more detail regarding our third-party processors, please click a link below:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://wpmedia.makemusic.com/wp-content/uploads/2012/11/Finale-End_User_License_Agreement_v261.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">Finale</span></a></li>
+<li style="font-weight: 400;"><a href="https://wpmedia.makemusic.com/wp-content/uploads/2012/11/GarritanInstantOrchestra1.pdf?_ga=2.207981713.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">Garritan</span></a></li>
+<li style="font-weight: 400;"><a href="https://staging.makemusic.com/wp-content/uploads/2018/11/SmartMusic_Classic_LicenseAgreement.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">Classic SmartMusic</span></a></li>
+<li style="font-weight: 400;"><a href="https://wpmedia.makemusic.com/wp-content/uploads/2018/11/smartmusic-web-terms-service-use.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">New SmartMusic</span> </a></li>
+</ul>
+<h3><strong>How long do we keep your information?</strong></h3>
+<p><span style="font-weight: 400;">Generally, we will store your information for as long as you are a customer and for up to five (5) years thereafter to preserve records in case of a legal claim. We may keep records of transactions with you for a period of up to seven (7) years to comply with the IRS requirements.</span></p>
+<p><span style="font-weight: 400;">For users who are students of U.S. educational institutions that are using the services and are subject to the Family Educational Rights and Privacy Act (FERPA) and/or where the school has provided &nbsp;consent for us to collect the student’s personal data under the Children’s Online Privacy Protection Act (COPPA),</span> <span style="font-weight: 400;">your data will be kept for as long as you are a customer or until an educator, administrator, or parent/guardian associated with your account requests the removal of your information, unless and only to the extent we have a superseding legal obligation to retain the data.</span></p>
+<h3><strong>Use of Cookies</strong></h3>
+<p><span style="font-weight: 400;">We use “cookies,” a small text file transferred to your device, along with similar technologies (e.g., internet tag technologies, web beacons, embedded scripts) to help provide you a better, more personalized user experience. These technologies are used to:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make the user experience more efficient (e.g., maintaining items in your Shopping Cart between visits).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Remember your preferences (e.g., browsing language, account login information)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Help us understand and improve how visitors use our website, including which of our pages and products are viewed most frequently.</span></li>
+</ul>
+<p><span style="font-weight: 400;">The Options/Settings section of most internet browsers will tell you how to manage the cookies and other technologies that may be transferred to your device, including how to disable such technologies. You can disable our cookies or all cookies through your browser settings. &nbsp;Upon the commencement of each of your visits to our websites, the website also provides the ability to turn off all non-strictly-necessary cookies for the MakeMusic websites for that visit. Please be advised that disabling cookies through either method may impact many of our websites’ features.</span></p>
+<p><b><strong>Instructions for blocking or allowing cookies in common web browsers are provided at the links below:</strong></b></p>
+<ul>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies"><span style="font-weight: 400;">Internet Explorer 7 and 8</span></a></li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://support.mozilla.org/en-US/kb/block-websites-storing-site-preferences?esab=a&amp;s=blocking+cookies&amp;r=2&amp;as=s"><span style="font-weight: 400;">Firefox</span></a></li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://support.google.com/chrome/answer/95647?hl=en"><span style="font-weight: 400;">Google Chrome</span></a></li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://support.apple.com/kb/ph5042"><span style="font-weight: 400;">Apple Safari</span></a></li>
+<li><span style="font-weight: 400;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.aboutcookies.org/default.aspx"><span style="font-weight: 400;">AboutCookies.org</span></a></li>
+</ul>
+<h3><strong>MakeMusic uses the following cookies:</strong></h3>
+<p><b><strong>Strictly necessary cookies.</strong></b><span style="font-weight: 400;"> These are cookies that are required for the operation of our websites. They include, for example, cookies that enable you to log into secure areas of our websites, use a shopping cart or make use of e-billing services.</span></p>
+<p><b><strong>Analytical/performance cookies.</strong></b><span style="font-weight: 400;"> They allow us to recognize and count the number of visitors and to see how visitors move around our websites when they are using it. This helps us to improve the way our websites works, for example, by ensuring that users are finding what they are looking for easily.</span></p>
+<p><b><strong>Functionality cookies.</strong></b><span style="font-weight: 400;"> These are used to recognize you when you return to our websites. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).</span></p>
+<p><span style="font-weight: 400;">We also allow third parties to place cookies on your device through the Services to:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Help us understand and improve how visitors use our websites, including which of our pages and products are viewed most frequently.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">More effectively market our products and services and advertise other products and services that may be of interest to you.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Obtain your feedback on our products and the Services.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Allow you to engage in our social media offerings (e.g., clicking the “Like” button on our website).</span></li>
+</ul>
+<p><span style="font-weight: 400;">The use of third-party cookies is not covered by our Privacy Notice. &nbsp;We do not have access or control over these cookies. If you continue to use our websites, we will assume you agree to the use of these cookies.</span></p>
+<p><span style="font-weight: 400;">Although not all cookies and similar technologies that we use are required for you to use the Services, disabling these technologies altogether could prevent the Services from working properly and disable features that allow you to take full advantage of the Services we offer.</span></p>
+<p><span style="font-weight: 400;">For a detailed description of the cookies we use and your ability to control the use of cookies while you navigate the internet, please see our Data Policies for each of our products:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://wpmedia.makemusic.com/wp-content/uploads/2012/11/Finale-End_User_License_Agreement_v261.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">Finale</span></a></li>
+<li style="font-weight: 400;"><a href="https://wpmedia.makemusic.com/wp-content/uploads/2012/11/GarritanInstantOrchestra1.pdf?_ga=2.207981713.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">Garritan</span></a></li>
+<li style="font-weight: 400;"><a href="https://staging.makemusic.com/wp-content/uploads/2018/11/SmartMusic_Classic_LicenseAgreement.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">Classic SmartMusic</span></a></li>
+<li style="font-weight: 400;"><a href="https://wpmedia.makemusic.com/wp-content/uploads/2018/11/smartmusic-web-terms-service-use.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781"><span style="font-weight: 400;">New SmartMusic</span> </a></li>
+</ul>
+<h3><strong>Do Not Track</strong></h3>
+<p><span style="font-weight: 400;">Some internet browsers incorporate a “Do Not Track” feature that signals to websites you visit that you do not want to have your online activity tracked. Given that there is not a uniform way that browsers communicate the “Do Not Track” signal, the Site does not currently interpret, respond to or alter its practices when it receives “Do Not Track” signals.</span></p>
+<h3><strong>Notice to Residents of the Europe Economic Area</strong></h3>
+<p><span style="font-weight: 400;">Under the GDPR, you have the following rights related to MakeMusic’s use of your Personal Data.</span></p>
+<table>
+<tbody>
+<tr>
+<td style="width: 122px;"><b>Number</b></td>
+<td style="width: 590px;"><b>Description of your right</b></td>
+</tr>
+<tr>
+<td style="width: 122px;"><b>Right 1</b></td>
+<td style="width: 590px;"><span style="font-weight: 400;">A right to access personal data held by us about you, as well as information about how we are using your data.</span></td>
+</tr>
+<tr>
+<td style="width: 122px;"><b>Right 2</b></td>
+<td style="width: 590px;"><span style="font-weight: 400;">A right to require us to rectify any inaccurate personal data held by us about you.</span></td>
+</tr>
+<tr>
+<td style="width: 122px;"><b>Right 3</b></td>
+<td style="width: 590px;"><span style="font-weight: 400;">A right to require us to erase personal data held by us about you, and where the personal data has been made public, for other controllers processing the personal data to also erase links to, or copy or replication of, such personal data. &nbsp;This right will only apply where (for example): we no longer need to use the personal data to achieve the purpose we collected it for; or where you withdraw your consent if we are using your personal data based on your consent; or where you object to the way we process your data (in line with Right 6 below).</span></td>
+</tr>
+<tr>
+<td style="width: 122px;"><b>Right 4</b></td>
+<td style="width: 590px;"><span style="font-weight: 400;">A right to restrict our processing of personal data held by us about you. &nbsp;This right will only apply where (for example): you dispute the accuracy of the personal data held by us; or where you would have the right to require us to erase the personal data but would prefer that our processing is restricted instead; or where we no longer need to use the personal data to achieve the purpose we collected it for, but you require the data for the purposes of dealing with legal claims. </span></td>
+</tr>
+<tr>
+<td style="width: 122px;"><b>Right 5</b></td>
+<td style="width: 590px;"><span style="font-weight: 400;">A right to receive personal data, which you have provided to us, in a structured, commonly used and machine-readable format. &nbsp;You also have the right to require us to transfer this personal data to another organisation, at your request.</span></td>
+</tr>
+<tr>
+<td style="width: 122px;"><b>Right 6</b></td>
+<td style="width: 590px;"><span style="font-weight: 400;">A right to object to our processing of personal data held by us about you (including for the purposes of sending marketing materials to you).</span></td>
+</tr>
+<tr>
+<td style="width: 122px;"><b>Right 7</b></td>
+<td style="width: 590px;"><span style="font-weight: 400;">A right to withdraw your consent, where we are relying on it to use your personal data (for example, to provide you with marketing information about our services or products).</span><p></p>
+<p><span style="font-weight: 400;">If you have consented to receive communications from us, you can contact us at any time to have your details removed from lists used by us or to update your marketing preferences. Please email </span><span style="font-weight: 400;">team@makemusic.com</span><span style="font-weight: 400;"> and quote your email/telephone number/account number in the body of the email, telling us what you would like us to do. </span></p>
+<p><span style="font-weight: 400;">You can also: &nbsp;click “unsubscribe” on any of our emails, and we will ensure we don’t send you any communications of this nature in future.</span></p></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Notice to Residents of the U.S. and Canada:</strong></h3>
+<p><span style="font-weight: 400;">You may access Personal Data held by us about you, as well as information about how we are using your data and you can request that we rectify any inaccurate personal data held by us about you.</span></p>
+<p>To exercise any of your rights above, please contact MakeMusic at:<br>
+privacy@makemusic.com<br>
+and/or<br>
+MakeMusic, Inc.<br>
+7007 Winchester Circle, Suite 140<br>
+Boulder, CO 80301, United States</p>
+<p><span style="font-weight: 400;">If you choose to exercise any of your rights listed above, it may affect your ability to use the Site, as the operation and functionalities provided on the Site may require the use of your Personal Data. </span></p>
+<h3><strong>Security</strong></h3>
+<p><span style="font-weight: 400;">We will </span><span style="font-weight: 400;">take reasonable and appropriate measures to protect it from loss, misuse and unauthorized access, disclosure, alteration and destruction of your Personal Data, taking into due account the risks involved in the processing and the nature of the personal data.</span><span style="font-weight: 400;"> However, no electronic storage method or data transmission over the Internet can be guaranteed to be 100% secure. </span></p>
+<h3><strong>Data Transfers Across Jurisdictional Boundaries.</strong></h3>
+<p><span style="font-weight: 400;">Since our Services are based in the United States, your data will be transferred from your country of residence into the United States.</span></p>
+<p><span style="font-weight: 400;">Please be aware that your information will be transferred to and stored in the United States where our servers are located, and our central database is operated, and processed by third party contractors in the United States, Europe, and Australia. </span></p>
+<h3><strong>Commitment to Children’s Privacy</strong></h3>
+<p><span style="font-weight: 400;">In compliance with the Children’s Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, the Site does not collect information from children under 13 years of age in the United States without the consent of a parent or legal guardian or another legally recognized consent mechanism. &nbsp;The Site does not collect information from children under [18] years of age in Canada, or under 16 years of age in the European Economic Area without the legally mandated consent or under a recognized exception. You, as a parent or guardian of a student under the designated minimum legal age may contact us through any of the methods below to request (1) what information we have about such child, (2) that we correct any incorrect information, (3) that we delete any personal data of such child, and/or (4) that we cease further collection or use of any personal data of such child.</span></p>
+<h3><strong>Notices Specific to Educational Use.</strong></h3>
+<p><span style="font-weight: 400;">Children under 13 years of age in the United States </span><b>[and Canada]</b><span style="font-weight: 400;"> may use the Site as part of an educational program wherein the respective educational institutions are responsible for collecting required parental consent for children using the Services for educational purposes or are providing parental consent for such student use as allowed under applicable law</span><b>. </b><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">For all students in the United States, their use of the Site is compliant with</span> <span style="font-weight: 400;">Family Educational Rights and Privacy Act (FERPA)</span><span style="font-weight: 400;"> under the “School Official” Provision </span><span style="font-weight: 400;">34 C.F.R. </span><span style="font-weight: 400;">§ 99.31(a)(1)(i)(B)</span><span style="font-weight: 400;">. </span><b>&nbsp;</b></p>
+<h3><strong>Policies of Other Websites</strong></h3>
+<p><span style="font-weight: 400;">The Site may contain links to third-party websites not owned or controlled by MakeMusic &nbsp;MakeMusic is not responsible for the privacy policies of any third-party websites which a user may access through a third‑party link. &nbsp;Further, these third-party websites may have privacy policies that differ from this Privacy Policy. MakeMusic disclaims all responsibility for the privacy practices of such other third-party websites. You should read the privacy policies of each third-party website you visit to determine what information each third-party website may be collecting about you and how they intend to use such information.</span></p>
+<h3><strong>Questions</strong></h3>
+<p><span style="font-weight: 400;">If you have any questions or comments about these Terms of Use or this Site, please contact us through one of&nbsp;the methods provided below: </span></p>
+<p>MakeMusic, Inc.<br>
+Attn: Customer Success MakeMusic, Inc.<br>
 7007 Winchester Circle, Suite 140 Boulder, CO 80301<br>
-United States of America</li>
-</ul>
-<p>© Copyright 2005-2016 MakeMusic, Inc. All rights reserved.</p>
+United States of America</p>
+<p>Visit us at<a href="http://support.makemusic.com/"> <span style="font-weight: 400;">support.makemusic.com</span></a><br>
+Email us at <a href="mailto:team@makemusic.com"><span style="font-weight: 400;">team@makemusic.com</span></a><br>
+Call us toll free (for the U.S.A.): 1-800-843-2066<br>
+International callers: (952) 937-9611</p>
             </div>
                   </div>
 
@@ -308,7 +448,7 @@ United States of America</li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a href="http://store.makemusic.com">Store</a></li>
 </ul></div>      </div>
       <div class="col">
-        <div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-6722" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-6722"><a href="http://www.makemusic.com/privacy">Privacy Statement</a></li>
+        <div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-6722" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-6722"><a href="http://www.makemusic.com/privacy" aria-current="page">Privacy Statement</a></li>
 <li id="menu-item-5907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5907"><a href="https://www.makemusic.com/refund-policy/">Returns &amp; Refunds</a></li>
 <li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://www.makemusic.com/terms-conditions/">Terms &amp; Conditions – Updated</a></li>
 </ul></div>      </div>
@@ -321,7 +461,7 @@ United States of America</li>
       </div>
     </div>
     <div class="copyright">
-      <p>© Copyright 2018 // MakeMusic, Inc.</p>
+      <p>© Copyright 2019 // MakeMusic, Inc.</p>
       <p>7007 Winchester Circle, Suite 140 // Boulder, CO // 80301</p>
     </div>
   </div>
@@ -335,10 +475,10 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 </script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var emebasic = {"translate_plugin_url":"https:\/\/www.makemusic.com\/wp-content\/plugins\/events-made-easy\/","translate_selectstate":"State","translate_selectcountry":"Country","translate_frontendnonce":"199af6f064","translate_error":"An error has occurred","translate_clear":"Clear","translate_mailingpreferences":"Mailing preferences","translate_yessure":"Yes, I'm sure","translate_iwantmails":"I want to receive mails"};
+var emebasic = {"translate_plugin_url":"https:\/\/www.makemusic.com\/wp-content\/plugins\/events-made-easy\/","translate_ajax_url":"https:\/\/www.makemusic.com\/wp-admin\/admin-ajax.php","translate_selectstate":"State","translate_selectcountry":"Country","translate_frontendnonce":"785015d00b","translate_error":"An error has occurred","translate_clear":"Clear","translate_mailingpreferences":"Mailing preferences","translate_yessure":"Yes, I'm sure","translate_iwantmails":"I want to receive mails","translate_dateformat":"MM d, yy"};
 /* ]]> */
 </script>
-<script type="text/javascript" defer="defer" src="https://www.makemusic.com/wp-content/plugins/events-made-easy/js/eme.js?ver=2.0.45"></script>
+<script type="text/javascript" defer="defer" src="https://www.makemusic.com/wp-content/plugins/events-made-easy/js/eme.js?ver=2.1.13"></script>
 <script type="text/javascript" src="https://www.makemusic.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="https://www.makemusic.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="https://www.makemusic.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
@@ -346,7 +486,7 @@ var emebasic = {"translate_plugin_url":"https:\/\/www.makemusic.com\/wp-content\
 <script type="text/javascript" src="https://www.makemusic.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="https://www.makemusic.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="https://www.makemusic.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.makemusic.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://www.makemusic.com/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
 <script type="text/javascript">
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript';
