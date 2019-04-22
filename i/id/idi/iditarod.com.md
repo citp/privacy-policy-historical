@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iditarod.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819155749id_/http%3A//iditarod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iditarod.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422213947id_/https%3A//iditarod.com/privacy) for the most accurate reproduction.*
 
 # Iditarod.com Website Privacy Policy – Iditarod
 
@@ -62,6 +62,9 @@ Please remember that any information you share in public areas, such as message 
 
 **Governing Law/Assignment**  
 The Website is published in the United States. The laws of the State of Alaska shall govern in any and all disputes, including privacy or defamation issues or otherwise.
+
+**GDPR**  
+In accordance to GDPR, our European visitors should submit a [support ticket](https://web.archive.org/help/) to request more information about GDP and/or to download of the current data we have on file and/or request the deletion of your account and data.
 
 **Changes to This Policy**  
 As the Website continues to develop, we may add new services and features to the Website. In the event that these additions affect our Privacy Policy, this document will be updated appropriately. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use the Website in case you missed our notice of changes to the Privacy Policy.
