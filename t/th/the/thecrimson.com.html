@@ -1,66 +1,494 @@
-<!--The following is the downloaded HTML source of the thecrimson.com privacy policy that was archived on 2018-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180319063921id_/http%3A//thecrimson.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecrimson.com privacy policy that was archived on 2019-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190423011059id_/https%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    
   
-      
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"35f86da418","agent":"","transactionName":"YlVaZxdYV0NSVkVRClsffkYLWk1ZXFseWxdcXUtcC1ZXXFpbVBYGWl5MVgtNF0ZaUEZLX1JVTGwGVldEVltFZwJHX01D","applicationID":"470626","errorBeacon":"bam.nr-data.net","applicationTime":857}</script>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-      
-
-      <title>Privacy Policy | The Harvard Crimson</title>
+  
+    
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     
 
+    <!-- add favicon -->
+    <link rel="icon" type="image/png" href="https://static.thecrimson.com/images/crimson_logo.png">
+    <title>Privacy Policy | The Harvard Crimson</title>
+
+    <!-- Facebook Pixel Code -->
+<script async="" src="//adblockrelief.com/assets/js/app.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '996622380431758');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=996622380431758&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
   
-    <meta property="og:image" content="https://s3.amazonaws.com/static.thecrimson.com/images/seal.jpg">
+
+  
+    <meta property="og:image" content="https://static.thecrimson.com/images/seal.jpg">
   
 
   
 
   
-    <link rel="stylesheet" href="https://s3.amazonaws.com/static.thecrimson.com/CACHE/css/01c8655ea0c4.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://static.thecrimson.com/CACHE/css/c9d8cb5ae528.css" type="text/css" media="all">
   
 
-  <link rel="stylesheet" href="https://s3.amazonaws.com/static.thecrimson.com/CACHE/css/ff4f5abc431b.css" type="text/css">
-  <link href="http://fonts.googleapis.com/css?family=PT+Serif|Lato:300,400,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://static.thecrimson.com/CACHE/css/ff4f5abc431b.css" type="text/css">
+
+  <link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=PT+Serif|Vollkorn:400italic,700italic,400,700|Open+Sans:300,400,600|Lato:300,400,700|Lora:400,700,400italic">
+
   
   <script type="text/javascript">
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-327124-1', 'thecrimson.com');
-      ga('send', 'pageview');
+    ga('create', 'UA-327124-1', 'thecrimson.com');
+    ga('send', 'pageview');
 
-      function mobileAndTabletcheck() {
-          var check = false;
-          (function(a) {
-              if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) check = true
-          })(navigator.userAgent || navigator.vendor || window.opera);
-          return check;
-      }
-  </script>
-
-  <!-- Zedo video advertisements -->
-<!--   <script>
-    var datalayer= {
-      z_cltr: '%%CLICK_URL_UNESC%%',
-      z_imtr: '%%VIEW_URL_UNESC%%'
+    function mobileAndTabletcheck() {
+      var check = false;
+      (function(a) {
+        if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) check = true
+      })(navigator.userAgent || navigator.vendor || window.opera);
+      return check;
     }
   </script>
-  <div id="zf74ca1d1-2fe9-4ba0-a804-50416ce4cbd7" style='display:none' ></div>
-  <script>
-    !function(a,n,e,t,r){tagsync=e;var c=window[a];if(tagsync){var d=document.createElement("script");d.src="http://3760.tm.zedo.com/v1/e60bccfe-5c55-45ad-90ca-a4254ddb6e7a/atm.js",d.async=!0;var i=document.getElementById(n);if(null==i||"undefined"==i)return;i.parentNode.appendChild(d,i),d.onload=d.onreadystatechange=function(){var a=new zTagManager(n);a.initTagManager(n,c,this.aync,t,r)}}else document.write("<script src='http://3760.tm.zedo.com/v1/e60bccfe-5c55-45ad-90ca-a4254ddb6e7a/tm.js?data="+a+"'><"+"/script>")}("datalayer","zf74ca1d1-2fe9-4ba0-a804-50416ce4cbd7",true, 1 , 1);
-  </script> -->
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-  <script type="text/javascript" src="https://s3.amazonaws.com/static.thecrimson.com/CACHE/js/5c407e119c86.js"></script>
-  <script src="//cdn.optimizely.com/js/3538141030.js"></script>
-  <script src="//biddr.brealtime.com/16203539-1164.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.10/lodash.min.js"></script>
+
+
+  <script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+    '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script>
+  var Crimson = Crimson || {};
+
+  googletag.cmd.push(function() {
+    var code, size, divId;
+    
+      code = '/1046082/TheCrimson_15Hottest_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_15Hottest_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Admissions_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_Admissions_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Admissions_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_Admissions_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_AllArticles_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_AllArticles_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_ArtsLanding_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_ArtsLanding_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_ArtsLanding_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_ArtsLanding_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FlybyLanding_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_FlybyLanding_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FlybyLanding_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_FlybyLanding_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FMLanding_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_FMLanding_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FMLanding_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_FMLanding_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Homepage_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_Homepage_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Homepage_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_Homepage_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_MediaLanding_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_MediaLanding_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_MediaLanding_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_MediaLanding_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_NewsLanding_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_NewsLanding_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_NewsLanding_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_NewsLanding_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_OpinionLanding_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_OpinionLanding_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_OpinionLanding_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_OpinionLanding_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_SportsLanding_ATF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_SportsLanding_ATF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_SportsLanding_BTF_728x90';
+      size = [728, 90];
+      divId = 'ad-TheCrimson_SportsLanding_BTF_728x90';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_All_ATF_Mobile_468x60';
+      size = [468, 60];
+      divId = 'ad-TheCrimson_All_ATF_Mobile_468x60';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_MobileAnchor_320x50';
+      size = [320, 50];
+      divId = 'ad-TheCrimson_MobileAnchor_320x50';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Mobile_Leaderboard';
+      size = [320, 100];
+      divId = 'ad-TheCrimson_Mobile_Leaderboard';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Mobile_Leaderboard_BTF';
+      size = [320, 100];
+      divId = 'ad-TheCrimson_Mobile_Leaderboard_BTF';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Admissions_AllPositions_300x600';
+      size = [300, 600];
+      divId = 'ad-TheCrimson_Admissions_AllPositions_300x600';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_AllPositions_300x600';
+      size = [300, 600];
+      divId = 'ad-TheCrimson_AllArticles_AllPositions_300x600';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_BTF_300x600';
+      size = [300, 600];
+      divId = 'ad-TheCrimson_AllArticles_BTF_300x600';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FlybyLanding_AllPositions_300x600';
+      size = [300, 600];
+      divId = 'ad-TheCrimson_FlybyLanding_AllPositions_300x600';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_15Hottest_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_15Hottest_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Admissions_ATF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_Admissions_ATF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Admissions_BTF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_Admissions_BTF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add00';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add00';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add01';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add01';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add02';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add02';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add03';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add03';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add04';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add04';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add05';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add05';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add06';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add06';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add07';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add07';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add08';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add08';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add09';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add09';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add10';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add10';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add11';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add11';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_300x250_Add12';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_300x250_Add12';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_ATF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_ATF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_AllArticles_BTF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_AllArticles_BTF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_ArtsLanding_ATF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_ArtsLanding_ATF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_ArtsLanding_BTF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_ArtsLanding_BTF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FlybyLanding_AllPositions_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_FlybyLanding_AllPositions_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FlybyLanding_BTF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_FlybyLanding_BTF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FMLanding_ATF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_FMLanding_ATF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FMLanding_BTF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_FMLanding_BTF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Homepage_ATF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_Homepage_ATF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Homepage_BTF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_Homepage_BTF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_NewsLanding_ATF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_NewsLanding_ATF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_NewsLanding_BTF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_NewsLanding_BTF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_OpinionLanding_ATF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_OpinionLanding_ATF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_OpinionLanding_BTF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_OpinionLanding_BTF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_SportsLanding_ATF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_SportsLanding_ATF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_SportsLanding_BTF_300x250';
+      size = [300, 250];
+      divId = 'ad-TheCrimson_SportsLanding_BTF_300x250';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_ArtsLanding_TextLink_300x180';
+      size = [300, 180];
+      divId = 'ad-TheCrimson_ArtsLanding_TextLink_300x180';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FlybyLanding_TextLink_300x180';
+      size = [300, 180];
+      divId = 'ad-TheCrimson_FlybyLanding_TextLink_300x180';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_FMLanding_TextLink_300x180';
+      size = [300, 180];
+      divId = 'ad-TheCrimson_FMLanding_TextLink_300x180';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_Homepage_TextLink_300x180';
+      size = [300, 180];
+      divId = 'ad-TheCrimson_Homepage_TextLink_300x180';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_NewsLanding_TextLink_300x180';
+      size = [300, 180];
+      divId = 'ad-TheCrimson_NewsLanding_TextLink_300x180';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_OpinionLanding_TextLink_300x180';
+      size = [300, 180];
+      divId = 'ad-TheCrimson_OpinionLanding_TextLink_300x180';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+      code = '/1046082/TheCrimson_SportsLanding_TextLink_300x180';
+      size = [300, 180];
+      divId = 'ad-TheCrimson_SportsLanding_TextLink_300x180';
+      googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+    
+
+    // interstitial ad unit
+    code = '/1046082/TheCrimson_Interstitial_600x500';
+    size = [600, 500];
+    divId = 'ad-TheCrimson_Interstitial_600x500';
+    Crimson.interstitial_unit = googletag.defineSlot(code, size, divId).addService(googletag.pubads());
+
+    if (window.location.search.match(/(\?|&)dfp-debug/)) {
+      
+      googletag.pubads().setTargeting('debug', ['true']);
+    }
+
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+
+  Crimson.ADS_ENABLED = true;
+</script>
+
+
+  <script type="text/javascript" src="https://static.thecrimson.com/CACHE/js/b9e85d0c7453.js"></script>
+  <script>
+    stickyBar(function () {
+      return $(window).scrollTop() < $("#masthead-second").offset().top;
+    });
+  </script>
+  <script type="text/javascript">
+    window.staticUrl = "https://static.thecrimson.com/";
+    $(function() {
+      var parts = window.location.search.substr(1).split("&");
+      var get = {};
+      for (var i = 0; i < parts.length; i++) {
+        var temp = parts[i].split("=");
+        get[decodeURIComponent(temp[0])] = decodeURIComponent(temp[1]);
+      }
+      if ('message' in get) {
+        var m = get['message'].split(': ')
+        if (typeof m[1] === 'undefined')
+          m[1] = ''
+        Crimson.Interstitials.create('message', {
+          url: '/interstitials/message/?title=' + encodeURIComponent(m[0]) + '&text=' + encodeURIComponent(m[1]),
+          autorun: false,
+          interval: 0,
+          view_delay: 0
+        });
+        Crimson.Interstitials.show('message');
+      }
+    });
+  </script>
+  <script async="" src="//cdn.optimizely.com/js/3538141030.js"></script>
+  <script async="" src="//biddr.brealtime.com/16203539-1164.js" type="text/javascript"></script>
   <script src="https://platform.twitter.com/widgets.js" async=""></script>
+
+  <!-- ad block evalution -->
+  <script>
+    document['ABR_KEY']='2RyykFJ6kZZC';(function(a,b,c,d){d=a.createElement(b);a=a.getElementsByTagName(b)[0];d.async=1;d.src=c;a.parentNode.insertBefore(d,a)})(document,'script','//adblockrelief.com/assets/js/app.min.js');
+  </script>
 
   <!-- Needed for 1x1 ad -->
   <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
@@ -69,6 +497,8 @@
     googletag.cmd = googletag.cmd || [];
   </script>
 
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=thecrimson"></script>
+
   <script>
     googletag.cmd.push(function() {
       googletag.defineSlot('/1046082/1x1_ad_unit', [1, 1], 'div-gpt-ad-1505852992481-0').addService(googletag.pubads());
@@ -76,51 +506,92 @@
       googletag.enableServices();
     });
   </script>
-
   
 
-  </head>
+</head>
 
-  <body class="
-  first-screen
-">
-    
+<body>
+  
   
     <header>
-      <div id="masthead">
-        <div id="masthead-first-wrapper">
-          <div id="masthead-first">
-            <div id="masthead-first-container">
-              <h1>
-                <a id="masthead-logo" href="/">
-                  <img src="https://s3.amazonaws.com/static.thecrimson.com/images/masthead.png" width="415">
-                </a>
-              </h1>
-              <br>
-              <div id="masthead-search">
-                <form action="/search/" id="cse-search-box">
-                  <input type="hidden" name="cx" value="013815813102981840311:aw6l9tjs1a0">
-                  <input type="hidden" name="cof" value="FORID:10">
-                  <input type="hidden" name="ie" value="UTF-8">
-                  <input type="text" class="query" name="q">
-                  <button class="search-submit" type="submit" name="sa">Search</button>
-                </form>
-              </div>
-            </div>
+      <div id="masthead-first-wrapper">
+        <div id="header-logo">
+          <img src="https://static.thecrimson.com/images/header-logo.png">
+        </div>
+        <div id="masthead-first">
+          <h1>
+            <a id="masthead-logo" href="/">
+              The Harvard Crimson
+            </a>
+          </h1>
+          <br>
+          <div id="masthead-search">
+            <form action="/search/" id="cse-search-box">
+              <input type="hidden" name="cx" value="013815813102981840311:aw6l9tjs1a0">
+              <input type="hidden" name="cof" value="FORID:10">
+              <input type="hidden" name="ie" value="UTF-8">
+              <input type="text" class="query" name="q">
+              <button class="search-submit" type="submit" name="sa">Search</button>
+            </form>
           </div>
         </div>
-        <div id="masthead-second">
-          <nav id="masthead-nav-mobile">
-            <ul>
-              <li><a href="#">Sections</a></li>
-            </ul>
-          </nav>
-          <nav id="masthead-nav" class="mobile-hidden">
-            <ul><li><a href="/section/news/">NEWS</a></li><li><a href="/section/opinion/">Opinion</a></li><li><a href="/section/features/">Features</a></li><li><a href="/section/fm/">Magazine</a></li><li><a href="/section/sports/">Sports</a></li><li><a href="/section/arts/">Arts</a></li><li><a href="/flyby/">Flyby</a></li><li id="navbar-divider">|</li><li><a href="/subscribe/">Newsletter</a></li><li><a href="/todays-paper/">Today's Paper</a></li></ul>
-          </nav>
-        </div>
+      </div>
+      <div id="masthead-second">
+        <nav id="masthead-nav-mobile">
+          <span>Sections</span>
+        </nav>
+        <nav id="masthead-nav" class="mobile-hidden masthead-nav">
+          <ul><li><a href="/section/news/">NEWS</a></li><li><a href="/section/opinion/">Opinion</a></li><li><a href="/section/arts/">Arts</a></li><li><a href="/section/flyby/">Blog</a></li><li><a href="/section/fm/">Magazine</a></li><li><a href="/section/media/">Multimedia</a></li><li><a href="/section/sports/">Sports</a></li><li id="navbar-divider">|</li><li><a href="/subscribe/">Newsletter</a></li><li><a href="/section/features/">Editor's Pick</a></li><li><a href="/todays-paper/">Today's Paper</a></li></ul>
+        </nav>
       </div>
     </header>
+    
+
+<div class="navigationwrapper navigation-not-visible">
+  <div class="navigationwrapper__cover"></div>
+  <img src="https://static.thecrimson.com/images/menu.svg" alt="Hamburger icon">
+  <h2 class="navlogo slide">
+    <a href="/">The Harvard Crimson</a>
+  </h2>
+  <div class="fixed-container-navigation">
+    <div class="addthis_toolbox addthis_32x32_style navigation-social-bar">
+      <div class="add-this-inner">
+        <a class="icons addthis_button_facebook"></a>
+        <a class="icons addthis_button_twitter"></a>
+        <a class="icons link addthis_button_link"></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div id="sidebar-menu" class="">
+  <form action="/search/" id="cse-search-box">
+    <input type="hidden" name="cx" value="013815813102981840311:aw6l9tjs1a0">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" class="query" name="q">
+    <input type="image" src="https://static.thecrimson.com/images/magnifying_glass.svg">
+  </form>
+  <p class="sidebar-menu-title">
+    Sections
+  </p>
+  <ul>
+    <li class="nav-published"><a href="/section/news/">News</a></li>
+    <li class="nav-published"><a href="/section/opinion/">Opinion</a></li>
+    <li class="nav-published"><a href="/section/arts/">Arts</a></li>
+    <li class="nav-published"><a href="/section/flyby/">Blog</a></li>
+    <li class="nav-published"><a href="/section/fm/">Magazine</a></li>
+    <li class="nav-published"><a href="/section/media/">Multimedia</a></li>
+    <li class="nav-published"><a href="/section/sports/">Sports</a></li>
+    <li class="nav-published"><a href="/subscribe/">Newsletter</a></li>
+    <li class="nav-published"><a href="/section/features/">Editor's Pick</a></li>
+    <li class="nav-published"><a href="/todays-paper/">Today's Paper</a></li>
+  </ul>
+</div>
+
   
 
   <div id="modal">
@@ -129,8 +600,9 @@
 
   
     <div id="content">
-      <div class="ad-tag top-leader-ad">Advertisement</div>
-      <div class="leader-ad top-leader-body">
+      
+        <div class="ad-tag top-leader-ad ad-desktop">Advertisement</div>
+        <div class="leader-ad top-leader-body ad-desktop">
           <div id="ad-TheCrimson_AllArticles_ATF_728x90" style="width: 728px; height: 90px;">
 	<script type="text/javascript">
     $(function () {
@@ -144,8 +616,8 @@
 	</script>
 </div>
 
-      </div>
-      <div class="mobile-banner">
+        </div>
+        <div class="mobile-banner">
           <div id="ad-TheCrimson_Mobile_Leaderboard" style="width: 320px; height: 100px;">
 	<script type="text/javascript">
     $(function () {
@@ -159,8 +631,8 @@
 	</script>
 </div>
 
-      </div>
-
+        </div>
+      
       
 
 
@@ -202,7 +674,7 @@
       </ul>
     </div>
     <div class="flatpage-module flatpage-masthead">
-      <img src="https://s3.amazonaws.com/static.thecrimson.com/images/footer-title.png" width="250">
+      <img src="https://static.thecrimson.com/images/footer-title.png" width="250">
       
     </div>
   </div>
@@ -215,77 +687,13 @@
 
 
 
-    <section id="row">
-        <div id="highlights-row">
-            <h2 id="highlights-header">
-                <a href="/section/features/">Features</a>
-            </h2>
-            
-                <div class="row article">
-                    <a href="/article/2018/2/12/bacow-tufts-retrospective/">
-                        <div class="highlights-item">
-                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2018/02/11/163416_1327793.jpg.200x150_q95_crop-smart_upscale.jpg">
-                            <div class="highlights-info">
-                                <div class="name">Past Hints at Future</div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            
-                <div class="row article">
-                    <a href="/article/2018/2/12/bacow-hiding-in-plain-sight/">
-                        <div class="highlights-item">
-                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2018/02/11/160716_1327789.jpg.200x150_q95_crop-smart_upscale.jpg">
-                            <div class="highlights-info">
-                                <div class="name">Hiding in Plain Sight</div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            
-                <div class="row article">
-                    <a href="/article/2018/2/12/bacow-press-conference-priorities/">
-                        <div class="highlights-item">
-                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2018/02/12/010732_1327825.jpeg.200x150_q95_crop-smart_upscale.jpg">
-                            <div class="highlights-info">
-                                <div class="name">The Bacow Era Begins</div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            
-                <div class="row article">
-                    <a href="/article/2018/2/8/the-woman-president/">
-                        <div class="highlights-item">
-                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2018/02/07/235036_1327726.jpg.200x150_q95_crop-smart_upscale.jpg">
-                            <div class="highlights-info">
-                                <div class="name">The Woman President </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            
-                <div class="row article">
-                    <a href="/article/2018/2/1/amanda-gorman-scrutling/">
-                        <div class="highlights-item">
-                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2018/01/30/211136_1327375.jpg.200x150_q95_crop-smart_upscale.jpg">
-                            <div class="highlights-info">
-                                <div class="name">American Lyricist</div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            
-        </div>
-    </section>
-
 
     </div>
 
 
       <div class="ad-tag top-leader-ad">Advertisement</div>
       <div class="leader-ad top-leader-body">
-          <div id="ad-TheCrimson_AllArticles_BTF_728x90" style="width: 728px; height: 90px;">
+        <div id="ad-TheCrimson_AllArticles_BTF_728x90" style="width: 728px; height: 90px;">
 	<script type="text/javascript">
     $(function () {
       var container = $("#ad-TheCrimson_AllArticles_BTF_728x90");
@@ -300,86 +708,90 @@
 
       </div>
       <div class="mobile-banner">
-          <!-- no ad units available -->
+        <div id="ad-TheCrimson_Mobile_Leaderboard_BTF" style="width: 320px; height: 100px;">
+	<script type="text/javascript">
+    $(function () {
+      var container = $("#ad-TheCrimson_Mobile_Leaderboard_BTF");
+      if (container.is(":visible") && Crimson.ADS_ENABLED) {
+        googletag.cmd.push(function() {
+          googletag.display('ad-TheCrimson_Mobile_Leaderboard_BTF');
+        });
+      }
+    });
+	</script>
+</div>
+
       </div>
       <div id="anchor-ad">
         <!-- /1046082/TheCrimson_MobileAnchor_320x50 -->
         <div id="div-gpt-ad-1492623789427-0">
-        <script>
-        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492623789427-0'); });
-        </script>
+          <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492623789427-0'); });
+          </script>
         </div>
       </div>
-
       <div id="1x1_ad_unit">
         <!-- /1046082/1x1_ad_unit -->
         <div id="div-gpt-ad-1494004202896-0">
-        <script>
-        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1494004202896-0'); });
-        </script>
+          <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1494004202896-0'); });
+          </script>
         </div>
       </div>
+      
 
+
+<link rel="stylesheet" href="https://static.thecrimson.com/CACHE/css/a921e165669d.css" type="text/css" media="all">
+<footer>
+  <div class="top-bar">
+    <div class="container">
+      <li><a href="/">The Harvard Crimson</a></li>
+      <li id="established"><em>The University Daily, Est. 1873</em></li>
     </div>
-  
-
-  <footer>
-    <div id="footer">
-    <table>
-    <tbody><tr>
-      <td id="footer-sections">
-        <h1>Sections</h1>
-        <ul>
-          <li><a href="/section/news/">News</a></li>
-          <li><a href="/section/opinion/">Opinion</a></li>
-          <li><a href="/section/features/">Features</a></li>
-          <li><a href="/section/fm/">Magazine</a></li>
-          <li><a href="/section/sports/">Sports</a></li>
-          <li><a href="/section/arts/">Arts</a></li>
-          <li><a href="/section/media/">Multimedia</a></li>
-          <li><a href="/flyby/">Flyby</a></li>
-        </ul>
-      </td>
-
-      <td id="footer-more">
-        <h1>More</h1>
-        <ul>
-          <li><a href="/about/">About Us</a></li>
-          <li><a href="/advertising/" target="_blank">Advertising</a></li>
-          <li><a href="https://subscribe.thecrimson.com/">Subscribe</a></li>
-          <li><a href="http://programs.thecrimson.com/">Journalism Programs</a></li>
-          <li><a href="/classifieds/" rel="nofollow">Classifieds</a></li>
-          <li><a href="http://thecrimson.personforce.com/" target="_blank">Job Board</a></li>
-          <li><a href="http://store.thecrimson.com/" target="_blank">Photo Store</a></li>
-        </ul>
-      </td>
-
-      <td id="footer-resources">
-        <h1>Resources</h1>
-        <ul>
-          <li><a href="/about/privacy/">Privacy Policy</a></li>
-          <li><a href="/about/permissions/">Rights &amp; Permissions</a></li>
-          <li><a href="/contact/">Contact Us</a></li>
-          <li><a href="/contact/">Corrections</a></li>
-          <li><a href="/subscribe/">Email&nbsp;Subscriptions</a></li>
-          <li><a href="https://subscribe.thecrimson.com/">Print&nbsp;Subscriptions</a></li>
-          <li><a href="/sitemap/">Archives</a></li>
-          <li><a href="/sitemap/contributors/">Writers</a></li>
-        </ul>
-      </td>
-
-      <td rowspan="2" id="footer-img">
-        <div id="footerimg"></div>
-      </td>
-    </tr>
-    </tbody></table>
+  </div>
+  <div id="footer">
+    <div>
+      <h1 class="mobile-footer-nav">Sections</h1>
+      <ul class="footer-list">
+        <li><a href="/section/news/">News</a></li>
+        <li><a href="/section/opinion/">Opinion</a></li>
+        <li><a href="/section/arts/">Arts</a></li>
+        <li><a href="/flyby/">Blog</a></li>
+        <li><a href="/section/fm/">Magazine</a></li>
+        <li><a href="/section/media/">Videos</a></li>
+        <li><a href="/section/sports/">Sports</a></li>
+      </ul>
+    </div>
+    <div>
+      <h1 class="mobile-footer-nav">About</h1>
+      <ul class="footer-list">
+        <li><a href="/about/">General</a></li>
+        <li><a href="/about/privacy/">Privacy Policy</a></li>
+        <li><a href="/about/permissions/">Rights &amp; Permissions</a></li>
+        <li><a href="/contact/">Corrections</a></li>
+        <li><a href="/contact/">Contact Us</a></li>
+      </ul>
+    </div>
+    <div>
+      <h1 class="mobile-footer-nav">Resources</h1>
+      <ul class="footer-list">
+        <li><a href="/todays-paper/">Today's Paper</a></li>
+        <li><a href="/advertising/" target="_blank">Advertising</a></li>
+        <li><a href="https://subscribe.thecrimson.com/">Subscriptions</a></li>
+        <li><a href="/subscribe/">Newsletters</a></li>
+        <li><a href="http://programs.thecrimson.com/">Journalism Programs</a></li>
+        <li><a href="http://store.thecrimson.com/" target="_blank">Photo Store</a></li>
+      </ul>
+    </div>
     <br>
-    <center>Copyright © 2018 The Harvard Crimson, Inc.</center>
-    </div>
-    <script src="//get.s-onetag.com/dcb55110-2155-4c51-9a2d-421329f59483/tag.min.js" async="" defer=""></script>
-  </footer>
+  </div>
+  <center>Copyright © 2019 The Harvard Crimson, Inc.</center>
+</footer>
 
+    </div>
   
 
-<!-- Generated at March 19, 2018, 2:44 a.m. -->
+
+
+<!-- April 22, 2019, 9:11 p.m. -->
 </body></html>
