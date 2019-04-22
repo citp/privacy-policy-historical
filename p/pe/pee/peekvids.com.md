@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peekvids.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908132001id_/https%3A//www.peekvids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peekvids.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422232239id_/https%3A//www.peekvids.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PeekVids
 
@@ -6,31 +6,22 @@ Pursuant to our Terms of Use, this document describes how we treat personal info
 
 We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual's jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
-### Data Collected
+Data Collected 
 
-#### Browsing the Website.
+Browsing the Website.
+    You can watch videos and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
+Registering on the Website.
+    Registration of an account is required for uploading videos and accessing other features on the Website. We require the following personal information at the time of registration: your username and password (which you generate) and e-mail address. You also provide your age, locationand gender. Your IP address is recorded automatically. Your username, age, location and gender will become publicly accessible on the Website.
+Usage Information.
+    We may record information about your usage of the Website such as your video subscriptions, which users you communicate with, the videos you watch, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
+Uploaded Content. 
+    Any personal information or content you voluntarily disclose online, including videos, comments and your profile page, becomes publicly available and may be collected and used by others.
+Correspondences. 
+    We may keep a record of any correspondence between you and us.
+Cookies.
+    When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
 
-You can watch videos and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
-
-#### Registering on the Website.
-
-Registration of an account is required for uploading videos and accessing other features on the Website. We require the following personal information at the time of registration: your username and password (which you generate) and e-mail address.  You also provide your age, locationand gender. Your IP address is recorded automatically. Your username, age, location and gender will become publicly accessible on the Website.
-
-_Usage Information._ We may record information about your usage of the Website such as your video subscriptions, which users you communicate with, the videos you watch, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
-
-#### Uploaded Content.
-
-Any personal information or content you voluntarily disclose online, including videos, comments and your profile page, becomes publicly available and may be collected and used by others.
-
-#### Correspondences.
-
-We may keep a record of any correspondence between you and us.
-
-#### Cookies.
-
-When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
-
-### Data Usage
+Data Usage 
 
 We may use your information to provide you with certain features and to create a personalized experience on the Website. We may also use that information to operate, maintain and improve features and functionality of the Website.
 
@@ -44,13 +35,13 @@ Your username may be displayed to other users alongside content you upload, incl
 
 Any videos that you submit may be redistributed through the internet and other media channels and may be viewed by the general public.
 
-### Disclosures of Information
+Disclosures of Information 
 
 We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of us, our users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.
 
 If you upload any illegal material to the Website, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.
 
-### Miscellaneous
+Miscellaneous 
 
 If you have an account on the Website and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential. Anyone else with your password may access your account and other personal information.
 
@@ -58,4 +49,4 @@ While we use commercially reasonable physical, managerial and technical safeguar
 
 You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at info@peekvids.com.
 
-### Effective: November 24, 2014
+Effective: November 24, 2014 
