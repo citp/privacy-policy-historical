@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123113132id_/http%3A//www.seekzap.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422134712id_/http%3A//seekzap.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Add Url - Submit Site - Privacy Policy - Seekzap Web Directory
 
