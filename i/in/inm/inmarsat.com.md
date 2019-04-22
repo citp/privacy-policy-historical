@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmarsat.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927011828id_/https%3A//www.inmarsat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmarsat.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422084646id_/https%3A//www.inmarsat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inmarsat
 
@@ -178,7 +178,7 @@ To make suggestions and recommendations to you about goods, services or events t
 
 We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.
 
-We have established a [preferences page](http://www2.inmarsat.com/emailpreferences) where you can update your information, opt-in or out of marketing communications, specify the areas of our business that interest you or ask us to stop communicating with you, subject to our regulatory requirements.
+We have established a preferences page where you can opt-in or out of marketing communications, specify the areas of our business that interest you or ask us to stop communicating with you, subject to our regulatory requirements.
 
 **PROMOTIONAL OFFERS FROM US**
 
@@ -192,7 +192,7 @@ We will get your express opt-in consent before we share your personal data with 
 
 **OPTING OUT**
 
-You can ask us or third parties to stop sending you marketing messages at any time unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by Contacting us at any time.
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us at any time.
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
 
