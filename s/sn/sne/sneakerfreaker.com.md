@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakerfreaker.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829000516id_/https%3A//www.sneakerfreaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerfreaker.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422074310id_/https%3A//www.sneakerfreaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sneaker Freaker
 
