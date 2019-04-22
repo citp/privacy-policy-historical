@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interest.co.nz privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109191706id_/https%3A//www.interest.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interest.co.nz privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423011546id_/https%3A//www.interest.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy | interest.co.nz
 
