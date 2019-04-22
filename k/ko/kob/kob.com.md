@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020202649id_/https%3A//www.kob.com/pages/inside-kob/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422090153id_/https%3A//www.kob.com/pages/inside-kob/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | KOB.com
 
