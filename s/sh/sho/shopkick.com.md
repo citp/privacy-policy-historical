@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226204416id_/https%3A//www.shopkick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423011907id_/https%3A//www.shopkick.com/privacy-policy) for the most accurate reproduction.*
 
 # Shopkick | shopkick® Privacy Policy
 
@@ -177,7 +177,9 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 ### Change or Delete Your Information
 
-You may review, update, correct or delete your Personal Information in your Account by contacting us or by making the appropriate modifications in your Account preferences. You can also make changes in the Application by clicking on Settings and making changes. To unlink a Payment Card, in the Application, go to Settings, and tap on “Kicks for Purchase”, tap on “Manage Cards” and follow the steps to unlink a card. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your Account and/or remove your records from our system, please contact us and we will delete your account within 45 days if we do not have any legal obligation to retain the record.
+You may review, update, correct or delete your Personal Information in your Account by contacting us or by making the appropriate modifications in the Application. If you completely delete all such information, then your account may become deactivated.  
+Make these changes in the Application by clicking on Settings menu. To unlink a Payment Card in the Application, follow these steps: go to “Linked cards” under the Settings menu, tap on “Edit” and select the card you would like to unlink, then tap “Unlink Card”.  
+If you would like us to delete your Account and/or remove your records from our system, please contact us and we will delete your account within 45 days if we do not have any legal obligation to retain the record.
 
 ### Security
 
@@ -193,7 +195,7 @@ We are committed to complying with all applicable laws and regulations governing
 
 ## Contact Us
 
-We are always trying to make shopkick’s services better. If you have any questions about this Privacy Policy, please contact us at [myprivacy@shopkick.com](mailto:myprivacy@shopkick.com). You can also contact us at 900 Middlefield Road, Third Floor, Redwood City, CA 94063.
+We are always trying to make shopkick’s services better. If you have any questions about this Privacy Policy, please contact us at [myprivacy@shopkick.com](mailto:myprivacy@shopkick.com). You can also contact us at 2317 Broadway Street, Redwood City, CA 94063.
 
 If you would like to change your email unsubscribe setting, please follow this link:  
 [http://app.shopkick.com/shopkick/v1/user/show_email_unsubscribe](http://app.shopkick.com/shopkick/v1/user/show_email_unsubscribe).
