@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mypinterventures.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927114510id_/https%3A//mypinterventures.com/advertising-sponsor-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypinterventures.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422234440id_/https%3A//mypinterventures.com/advertising-sponsor-privacy) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy | My Pinterventures
+# Disclosure & Privacy Policy – My Pinterventures
 
 We respect your privacy and are committed to protecting it. The purpose of this Disclosure and Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
