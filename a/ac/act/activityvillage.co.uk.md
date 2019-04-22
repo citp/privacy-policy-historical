@@ -1,153 +1,192 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501212337id_/https%3A//www.activityvillage.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422174019id_/https%3A//www.activityvillage.co.uk/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+At Small Publishing Ltd, as the owners of ActivityVillage.co.uk, we take your privacy very seriously. We aim to earn and keep your trust by not only providing an excellent service through the website to visitors and Members, but also by making every effort to keep our website safe, maintain very high standards in respecting your privacy and explain in simple language how we operate.
 
-We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
+This Privacy Statement comes into effect on 25th May 2018. You can read our previous Privacy Policy [here](https://web.archive.org/privacy-policy).
 
-### Your Consent
+## Our Services
 
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+All visitors can browse ActivityVillage.co.uk (our website) without having to create an account or become a (paid) Member. However, to download our Member content, visitors must create an account and purchase a Membership. We also offer an optional weekly newsletter and provide a Help Desk and Contact Us form. Throughout this Privacy Statement we therefore outline our services as follows:
 
-### What Information Do We Collect?
+  1. Browsing our website
+  2. Creating an account
+  3. Purchasing a Membership
+  4. Subscribing to the newsletter
+  5. Contacting us
 
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis, and Website use information collected on an aggregate basis as you and others browse our Website.
 
-1\. Personal Information You Choose to Provide
 
-Registration Information: If you register for any of our products, services or newsletters you will provide us information about yourself.
+You can follow the links in this Index to the sections that interest you if you choose.
 
-Email Information: If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+## Index
 
-2\. Website Use Information
+  * What information is collected, why and for how long
+  * How we share your information (our relationships with data processors)
+  * How we store and secure your information, and where
+  * How you can access and control your information
+  * Children
+  * Other important privacy information
 
-Similar to other websites, this website utilises a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Website is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this website, and the websites visited just before and just after this one.
 
-In addition, third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on this website.
 
-Log Files: As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+### What information is collected and why
 
-Cookies and Web Beacons: We may use cookies to store information, such as your personal preferences when you visit our site. Their use may allow us, for example, to show you only one popup per visit. Please see below for more information about cookies.
+To provide our services, we may collect your personal information in various ways. We explain the ways below and provide, in square brackets, the lawful bases for each as obliged by the EU GDPR.
 
-Advertisements: We may also use third party advertisements to support this site. Some of our advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing UK-based ads to someone in the UK, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**1\. Browsing our website:**
 
-We use third-party advertising companies to serve ads when you visit this website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp).
+  * Log files: When you browse our website, our services automatically receive and store information from your browser such as your IP address and the pages you visit. This information is stored in log files for up to 2 days. We may use this information to defend our servers against abuse, troubleshoot technical problems and understand how our platform is used. _[Legal obligation GDPR Article 6(1)(c)] [Legitimate interests GDPR Article 6(1)(f)]_
+  * Analytics: To improve the website for our visitors and Members, we collect anonymized and aggregated (grouped) information (such as pages viewed, length of visit, browser and device). The data is stored for up to 5 years. It helps us to know what you like, so we can provide more! _[Consent GDPR Article 6(1)(a)] [Legitimate interests GDPR Article 6(1)(f)]_
+  * Cookies: Like most websites, our website uses cookies. We use some necessary cookies, and some statistical cookies. Where necessary (for the statistical cookies) we ask for consent. You can find out what cookies are, how we use them and how you can control and/or remove them on our Cookie Policy page, which is an integral part of this Privacy Statement. _[Legitimate interests GDPR Article 6(1)(f)] [Consent GDPR Article 6(1)(a)]_
 
-DoubleClick DART cookies: We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [ http://www.doubleclick.com/privacy/dart_adserving.aspx](http://www.doubleclick.com/privacy/dart_adserving.aspx).
 
-Videos:On some pages in this website we showcase YouTube videos. If you watch one of these videos, YouTube may store cookies in order to track how people are watching videos.
 
-3\. How Do We Use the Information That You Provide to Us?
+**2\. Creating an account:**
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
+  * The first step in becoming a Member is creating an account on the website by providing your name and email address. We store these on our servers. If you become a Member, we store your information as long as your Membership lasts and as long as we are legally required. If you don't become a Member, we delete your information automatically after 7 days. _[Contract GDPR Article 6(1)(b)]_
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
 
-Occasionally, if you have opted into a newsletter we may provide, we may also use the information we collect to notify you about important changes to our website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
 
-4\. What Are Cookies?
+**3\. Purchasing a Membership:**
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Website, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
+  * When you become a paid Member, our shopping card provider stores necessary information such as your name, email address, country (self-certified) and IP Address. We do not store your credit card or bank details ourselves as we use payment processors for security, but we are legally required to keep a record of these transactions for at least 6 years after the end of the financial year that you joined up in and, for EU citizens, for 10 years (to comply with EU Digital VAT policy). You can find more details about our shopping card provider and payment processors below. _[Contract GDPR Article 6(1)(b), [Legal Obligation GDPR Article 6(1)(c)]_
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-You can read more about cookies and find detailed information for managing your cookies here:  
-[AboutCookies.org](http://www.aboutcookies.org/default.aspx?page=1%20rel=)
+**4\. Subscribing to the newsletter:**
 
-More information about cookies from the UK government:  
-[Information Commissioner's Office](http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx)
+  * When you sign up for our newsletter you give us your email address through one of our forms, and then confirm your request by clicking a link in a confirmation email. We use a newsletter service (details below) which stores your email address and IP address as well as information such as whether you open a newsletter or click on a link, which helps us to provide a better newsletter service. _[Consent GDPR Article 6(1)(a)] [Legitimate interests GDPR Article 6(1)(f)]_
 
-5\. How Do We Use Information We Collect from Cookies?
 
-As you visit and browse this website, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our web server's log files, allow us to calculate the aggregate number of people visiting our website and which parts of the site are most popular. This helps us gather feedback to constantly improve our website and better serve our clients.
 
-We make use of a tool from Google called Google Analytics. The Google Analytics software is described [here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html). To opt out of being tracked by Google Analytics across all websites, visit [here](http://tools.google.com/dlpage/gaoptout).
+**5\. Contacting us:**
 
-Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+  * When you contact us via email, we will save your message and contact details in order to provide support. _[Legitimate interests GDPR Article 6(1)(f)]_
+  * When you contact us via our Help Desk, our service provider stores your name (if provided), email address and IP address so that we can respond to you promptly and efficiently. _[Legitimate interests GDPR Article 6(1)(f)]_
 
-There is more information about Cookies below.
 
-6\. IP Addresses
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the web pages you request) can be sent to you.
+### How we share your information (our relationships with data processors)
 
-7\. Sharing and Selling Information
+To provide our services we need the help of other companies, who process some aspects of your personal information. We list them and for what purposes they use your information below, and link to their Privacy Policies in case you would like more information about them.
 
-We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
+**1\. Browsing our website**
 
-8\. What About Legally Compelled Disclosure of Information?
+  * Drupion. Hosting our servers. [Privacy Policy](https://www.drupion.com/about/policies/privacy "Drupion's Privacy Policy").
+  * Cloudflare. Improves website performance, speed and security. [Privacy Policy](https://www.cloudflare.com/privacypolicy/ "Cloudflare's Privacy Policy").
+  * Google Analytics. Provides statistics and analytics. [Privacy Policy](https://policies.google.com/privacy/update "Google's Privacy Policy").
+  * CookieBot. Provides our Cookie Consent facility. [Privacy Policy](https://www.cookiebot.com/en/privacy-policy/ "Cookiebot's Privacy Policy").
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use or to protect the safety of our users and the Public.
 
-9\. What About Other Web Sites Linked to Our Website?
 
-We are not responsible for the practices employed by websites linked to or from our website or the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our website.
+**2\. Creating an account**
 
-Please remember that when you use a link to go from our website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+  * Drupion. As above.
+  * Mandrill / Mailchimp. Transactional emails. [Privacy Policy](https://mailchimp.com/legal/privacy/ "Mailchimp's Privacy Policy").
 
-10\. Newsletter Opt-in and Opt-out
 
-It is easy for newsletter subscribers to unsubscribe from our newsletter at any time that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
 
-11\. A Special Note About Children
+**3\. Purchasing a Membership**
 
-ActivityVillage.co.uk is not aimed at children, but rather their parents, carers and teachers. Children are not eligible to use our services unsupervised and we ask that children (under the age of 13) do not submit any personal information to us. If you are under the age of 13, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+  * SendOwl. Provides shopping cart and Membership delivery. Transactional emails. [Privacy Policy](https://www.sendowl.com/privacy "SendOwl's privacy policy").
+  * Stripe. Payment processor. [Privacy Policy](https://stripe.com/gb/privacy "Stripe's Privacy Policy").
+  * Paypal. Payment processor. [Privacy Policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev "Paypal's Privacy Policy").
+  * Mandrill / Mailchimp. Transactional emails. As above.
 
-12\. Acquisition or Changes in Ownership
 
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
 
-13\. Policy Modifications
+**4\. Subscribing to the newsletter**
 
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we may email users who have given us permission to do so. We will post any changes here, so you may want to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+  * Aweber. Newsletter provider. [Privacy Policy](https://www.aweber.com/privacy.htm "Aweber's privacy policy").
 
-### Pertaining to Purchases from Activity Village Shop ("our shop")
 
-When you purchase an Activity Village Membership, as part of the buying and selling process we collect the personal information you give us such as your name, country of residence and email address.
 
-A. How do you get my consent?
+**5\. Contacting us**
 
-When you provide us with personal information to complete a transaction, verify your credit card or place an order we imply that you consent to our collecting it and using it for that specific reason only.
+  * Google Mail. Provides emails. [Privacy Policy](https://policies.google.com/privacy/update "Google's Privacy Policy").
+  * Help Scout. Provides our Contact form. [Privacy Policy](https://www.helpscout.net/company/legal/privacy/ "Help Scout Privacy Statement").
 
-B. How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us here. If, however, you have purchased a digital product from us, we are required by EU law to keep your details on record for 10 years from the date of purchase.
 
-C. Disclosure
+**6\. Additional services**
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+  * Node Squirrel. Backing up our servers. [Privacy Policy](https://www.nodesquirrel.com/privacy "Node Squirrel's Privacy Policy").
+  * Shopify. Our previous shopping card provider. [Privacy Policy](https://www.shopify.com/legal/privacy).
 
-D. SendOwl
 
-Our store is hosted on SendOwl. They provide us with the online e-commerce platform that allows us to sell our products to you.
 
-If you purchase an Activity Village Membership, your purchase is processed through the SendOwl application in conjunction with Stripe (for payment cards) and Paypal.
+### How we store and secure your information
 
-E. Third-party providers
+**1\. Browsing our website.**
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+  * Our log files are stored on secure servers in the US, hosted by [Drupion](https://www.drupion.com/ "Drupion"). Drupion has state-of-the-art security processes in place, including 
+    * at platform level, SSH Key Authentication, Intrusion Detection System, Advanced Policy Firewall, Monitoring System, User Activity Analysis
+    * at datacentre level, SAS 70 Type II Audited Facilities, 24x7x365 On-Site Staff, Restricted Access NOC, Remote Hands, Equipment Monitoring
+  * Our analytics are provided by [Google Analytics](https://analytics.google.com/ "Google Analytics"), which operates data centres around the world. Google is committed to keeping the information stored on its computer systems safe and secure. A multi-layered security strategy is implemented throughout the organisation. You can read more about their strategy [here](https://www.google.com/analytics/learn/privacy.html "Google Analytics security strategy"). We ask Google Analytics to mask IP addresses to further protect your privacy.
 
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+**2\. Creating an account**
 
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+  * Your account details are stored on our servers in the US, hosted by Drupion. See above for more information about Drupion's security measures.
 
-Once you leave our website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-F. Security
 
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+**3\. Purchasing a Membership**
 
-G. By purchasing from us, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+  * Your personal (but not financial) details will be stored on SendOwl's servers in the UK (and previously Shopify's servers in the US). The financial details of your purchase will be stored by either Stripe or Paypal.
 
-H. We reserve the right to modify this privacy policy at any time. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
-I. If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-## Cookies
+**4\. Subscribing to the newsletter**
+
+  * Your email address and a record of yor interactions with the newsletter will be stored on Aweber's servers in the US.
+
+
+
+**5\. Contacting us**
+
+  * Your emails to us will be stored on Google's servers while we are in correspondence with you and until it is appropriate for us to delete them.
+  * Your communications through our contact form with us will be stored on Help Scout's servers in the US.
+
+
+
+When we transfer any personal information to a third party processor in a country which is not a member state of the EU we endeavour to comply with the applicable legislation to ensure that your personal information is adequately protected. We will not knowingly transfer personal information to jurisdictions that do not provide adequate safety and security guarantees.
+
+### How you can access and control your information
+
+If you would like to access your personal information, please [contact us](https://help.activityvillage.co.uk/ "Contact Us") and give us as much detail as possible about what you require, and why.
+
+You may also write to us at
+
+Small Publishing Ltd  
+Orchard House  
+Leatherhead Road  
+Leatherhead  
+Surrey KT22 0HG
+
+If you would like to rectify your personal information, please [contact us](https://help.activityvillage.co.uk/ "Contact Us").
+
+If you would like to remove your personal information, please [contact us](https://help.activityvillage.co.uk/ "Contact Us"). If you have purchased a Membership we may need to store your information to comply with UK law.
+
+### Children
+
+Children are welcome to browse our website with adult supervision, but we ask that anyone creating an account on the website is over 16. Since May 2018 we have required confirmation via a check-box to this effect. Likewise we ask that anyone signing up for the newsletter is over 16.
+
+### Other important privacy information
+
+  * Links to other websites or services 
+    * Our website may contain links to other websites. Where possible we alert you that you will be leaving Activity Village if you click on one of these links, but some may have escaped! These third party websites and the way they process collected information are the sole responsibility of their owners.
+  * Embedded videos or maps 
+    * We no longer embed any videos or maps on our website, but we do occasionally link to Youtube or other video sharing sites. As above, we are not responsible for the way those third party websites collect and process your information.
+  * Updates to our Privacy Policy 
+    * We may update this Privacy Policy from time to time, and we will post the changes on this page. If the changes are significant, we will announce them through the newsletter and a link on the website.
+  * You may also be interested in 
+    * Our [Terms and Conditions](https://web.archive.org/terms-and-conditions)
+    * Our [Terms of Use](https://web.archive.org/terms-of-use)
+    * Our [Cookie Policy](https://web.archive.org/cookie-policy)
+    * [Disclaimer](https://web.archive.org/disclaimer)
+
+
