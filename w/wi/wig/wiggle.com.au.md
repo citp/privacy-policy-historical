@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the wiggle.com.au privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811230705id_/http%3A//www.wiggle.com.au/h/option/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.com.au privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422164428id_/https%3A//www.wiggle.com.au/h/option/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiggle Customer Services
 
-**Wiggle Ltd**  are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.
+**Privacy Policy**
+
+**Wiggle Ltd**  are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and General Data Protection Regulations 2018). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.
 
 The type of information we will collect about you when you place an order or register on our web site includes:
+
+  * Name
 
   * Address
 
@@ -14,10 +18,12 @@ The type of information we will collect about you when you place an order or reg
 
   * Credit/Debit card details
 
+  * IP Address
 
 
 
-This information is already stored on our internal systems and our website simply verifies you as a customer of Wiggle. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting your account or emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our site. If you have any questions/comments about privacy, you should email us at [info@wiggle.com.au](mailto:info@wiggle.com.au).
+
+This information is already stored on our internal systems and our website simply verifies you as a customer of Wiggle. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting your account or emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our site. If you have any questions/comments about privacy, you should email us at [info@wiggle.com.au](mailto:support@wiggle.com.au).
 
 **Use of personal information**
 
@@ -32,6 +38,14 @@ We use the information you provide for the following purposes:
   * To understand the buying behaviour of our registered users
 
   * To perform other general marketing and promotional activities focused on our products and services
+
+  * To work with social media providers - such as Facebook, Instagram and Twitter – where we interact with you on social media
+
+  * We use cookies to give you the best experience on our website and also to allow us and third parties to tailor ads you see on our website. For more information, please see our full cookie policy.
+
+  * To deliver advertising across various social media and other online platforms (e.g. Google, Facebook)
+
+  * To work with professional service providers, such as marketing agencies & advertising partners to share relevant and appropriate marketing content via social media advertising
 
 
 
@@ -59,19 +73,19 @@ Cookies are alphanumeric identifiers that are transferred to your computer's (or
 
 **Analytic Tools**
 
-Google Analytics is a system used by many websites to record information about visits to their website. Google set six different cookies with expiry dates ranging from 30 minutes to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They also allow us to ensure our website performs as well as possible for our users. The cookies are able to collect an anonymous customer number when a user is logged into the website, allowing our backend systems to ensure accuracy of Google Analytics data and help us ensure your website experience remains relevant across devices. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only)
+Google Analytics is a system used by many websites to record information about visits to their website. Google set six different cookies with expiry dates ranging from 30 minutes to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They also allow us to ensure our website performs as well as possible for our users. The cookies are able to collect an anonymous customer number when a user is logged into the website, allowing our backend systems to ensure accuracy of Google Analytics data and help us ensure your website experience remains relevant across devices. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only). These cookies may be used to help us target advertising on platform providers such as Google and Facebook.
 
-Please read our full [Cookie Policy](http://www.wiggle.com.au/h/option/Cookies) for further information.
+Please read our full [Cookie Policy](https://www.wiggle.co.uk/h/option/Cookies) for further information.
 
 Wiggle may from time to time share your details with third party analytical resources for the purposes of better understanding customer behaviour and performance, website performance, improved ad relevance and any other analytical process to give Wiggle a better understanding of how to develop its offering to its customers. These third parties will be employed solely for the purpose of the aforementioned analytical purposes, and as such Wiggle will ensure that the third party is contractually obliged to use the data only for the analytical purposes set out in the agreement between Wiggle and the third party, and Wiggle will also ensure that the third party is contractually required to maintain a level of security around the shared data, at least as safe as Wiggle itself employs. Failure on the part of the third party to meet its contractual obligations will result in Wiggle recovering the data, and taking all reasonable actions to ensure the third party no longer has access to the shared data. Any third party cookies used on Wiggle will adhere to the same standards as first party cookies and not collect any personally identifiable information.
 
 **Social Media Plug-ins**
 
-Social Media Plug-ins for Facebook and Twitter obtain data for tracking purposes.
+Social Media Plug-ins for Facebook and Twitter obtain data for tracking purposes. This included the ability to track an audience across device for advertising purposes in line with the Terms of each social media platform.
 
 **International Privacy**  
 The above privacy statement may not be applicable in all countries of Wiggle visitors or registered community users, as security policies may vary according to the individual Internet laws in each host country.
 
 **Disclosures**
 
-We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by clicking [here](mailto:noreply@wiggle.co.uk). If you have any queries about our Privacy Statement you should contact us by e-mail [data@wiggle.co.uk](mailto:data@wiggle.co.uk).
+We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by clicking [here](https://www.wiggle.co.uk/ContactUsForm). If you have any queries about our Privacy Statement you should contact us by e-mail [data@wiggle.co.uk](mailto:data@wiggle.co.uk).
