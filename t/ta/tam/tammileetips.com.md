@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tammileetips.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020011007id_/https%3A//www.tammileetips.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tammileetips.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422174527id_/https%3A//www.tammileetips.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure/ Privacy Policy - Tammilee Tips
 
@@ -12,7 +12,7 @@ We have made every effort to ensure that all information on the Website has been
 
 The Website disclaims liability for incidental or consequential damages and assumes no responsibility or liability for any loss or damage suffered by any person as a result of use of the information provided on the Website. The Website assumes or undertakes no liability for any loss or damage suffered as a result of the use of any information found on the Website.
 
-From time to time, the Website may publish content with recipes for beauty products. All such recipes have been tried and used successfully, but results may vary from person to person. Consult your medical professional before using any DIY beauty products from the Website if you have concerns about how you may react to the use of any particular recipe or ingredient. By voluntarily creating and using any recipe provided on the Website, you assume the risk of any potential injury that may result.
+From time to time, the Website may publish content with [recipes](https://www.tammileetips.com/food/) for beauty products. All such recipes have been tried and used successfully, but results may vary from person to person. Consult your medical professional before using any DIY beauty products from the Website if you have concerns about how you may react to the use of any particular recipe or ingredient. By voluntarily creating and using any recipe provided on the Website, you assume the risk of any potential injury that may result.
 
 From time to time, the Website may publish content with tutorials. All such tutorials have been tried and completed successfully, but results may vary from person to person. Some tutorials may include the use of tools, such as hammers, saws, or hot glue guns, which can cause injury. By voluntarily following any tutorial provided on the Website, you assume the risk of any potential injury that may result.
 
@@ -67,7 +67,7 @@ We respect your privacy and are committed to protecting it. The purpose of this 
   * **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
 
-  * **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session [cookies](https://www.tammileetips.com/category/recipes/desserts/cookies-desserts/), which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
+  * **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
 
 
@@ -118,10 +118,10 @@ Users may, at any time, prevent the setting of cookies, by the Website, by using
 **_ADVERTISING_**
 
 **Display Ads  
-**We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+**We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use [cookies](https://www.tammileetips.com/category/recipes/desserts/cookies-desserts/). No personally identifiable information is shared with the Website’s ad providers.
 
 **Retargeting Ads  
-**From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, [Facebook](https://www.facebook.com/TammileeTips/), or [Instagram](https://www.instagram.com/tammileetips/), in order to market the Website. These companies use [cookies](https://www.tammileetips.com/category/recipes/desserts/cookies-desserts/) to serve ads based on someone’s past visits to the Website.
+**From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, [Facebook](https://www.facebook.com/TammileeTips/), or [Instagram](https://www.instagram.com/tammileetips/), in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
 **Sponsored Content Tracking Pixels  
 **This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
