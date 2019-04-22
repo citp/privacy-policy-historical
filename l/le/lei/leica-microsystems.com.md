@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leica-microsystems.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116202034id_/https%3A//www.leica-microsystems.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leica-microsystems.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422233939id_/https%3A//www.leica-microsystems.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Leica Microsystems
+# Privacy Policy | Leica Microsystems
 
 ###  Effective, April 26th 2018
 
