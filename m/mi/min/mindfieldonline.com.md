@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530081235id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423015932id_/https%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
 
@@ -6,9 +6,9 @@
 
 **Effective On 11/30/2017**
 
-[](http://privacy.truste.com/privacy-seal/validation?rid=87f85496-31a7-4fa3-929d-7d37d683945d "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=87f85496-31a7-4fa3-929d-7d37d683945d "TRUSTe Privacy Certification")
 
-This privacy policy applies to [http://mindfieldonline.com]() owned and operated by McMillion Research. This privacy policy describes how McMillion Research collects and uses the personal information you provide on our web site: [http://mindfieldonline.com](). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [https://mindfieldonline.com]() owned and operated by McMillion Research. This privacy policy describes how McMillion Research collects and uses the personal information you provide on our web site: [https://mindfieldonline.com](). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
 
@@ -28,7 +28,7 @@ MindField Online c/o McMillion Research LLC
 1012 Kanawha Blvd. East, Suite 301  
 Charleston, WV 25301
 
-*** Please note in any correspondence that the inquiry is in regard to the** [Privacy Policy](http://mindfieldonline.com/page/privacy)
+*** Please note in any correspondence that the inquiry is in regard to the** [Privacy Policy](https://mindfieldonline.com/page/privacy)
 
 ## Information Collection and Use
 
@@ -52,7 +52,7 @@ Information obtained via Facebook integration is the sole property of McMillion 
 
 **Invitations**
 
-When you pre-qualify for a study you will be sent an invitation email from us. You may not opt-out of this email at this time without unsubscribing from [http://mindfieldonline.com]().
+When you pre-qualify for a study you will be sent an invitation email from us. You may not opt-out of this email at this time without unsubscribing from [https://mindfieldonline.com]().
 
 **Service-related Announcements**
 
@@ -102,7 +102,7 @@ We use cookies to remember users' settings and for authentication purposes. User
 
 Technologies such as: cookies, beacons, tags and scripts are used by McMillion Research and our marketing research partners, affiliates, and online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](https://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
 
 ## Social Media Widgets
 
@@ -120,7 +120,7 @@ We may share your personal information and/or social-demographic information, in
 
 ## Co-branded sites
 
-Co-branding is the method of having a user connect with a different website but make it appear to be the same site. In certain circumstance our clients may prefer to host the questionnaires themselves. If this is the case, the questionnaires may appear to be from [http://mindfieldonline.com](). Information provided to the clients is outlined in the Information Sharing and Disclosure section.
+Co-branding is the method of having a user connect with a different website but make it appear to be the same site. In certain circumstance our clients may prefer to host the questionnaires themselves. If this is the case, the questionnaires may appear to be from [https://mindfieldonline.com](). Information provided to the clients is outlined in the Information Sharing and Disclosure section.
 
 ## Access to Personally Identifiable Information
 
