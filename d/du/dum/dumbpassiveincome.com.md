@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumbpassiveincome.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023065110id_/http%3A//dumbpassiveincome.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumbpassiveincome.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423014711id_/https%3A//dumbpassiveincome.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • The Dumb Passive Income Blog
 
@@ -15,6 +15,16 @@ Like many other Web sites, **DumbPassiveIncome** **.com**  makes use of log fil
 ### Cookies and Web Beacons
 
 **DumbPassiveIncome** **.com** does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+#### Use of EziGDPR services
+
+We use the encrypted third-party cookie `_ezigdpr_02d3c264acfe9ca1` on the domain `fast.ezigdpr.com` to store information about your citizenship status.
+
+Data stored includes: a unique anonymous identifier; your citizenship status (yes/no) and the date you made the selection.
+
+For non European Union vistors (i.e. “No” selection), we also store the IP address used to make selection, which allows for a more complete audit trail.
+
+This data, as well as a log of changes to the data, is stored in the EziGDPR database. For more information, visit [www.ezigdpr.com](https://www.ezigdpr.com/).
 
 #### Third-Party Disclosure
 
@@ -106,7 +116,7 @@ We also agree to the Individual Redress Principle, which requires that individua
 
 If there are any questions regarding this privacy policy you may contact me using the information below.
 
-Email via my [Contact page](http://dumbpassiveincome.com/contact-me/) or mail to:
+Email via my [Contact page](http://matt76allen.wpengine.com/contact-me/) or mail to:
 
 DPI Worldwide LLC  
 Attn: Matthew Allen  
@@ -116,4 +126,4 @@ United States
 
 Phone: 724-326-3862
 
-Last Edited on 2016-02-07
+Last Edited on June 30, 2018
