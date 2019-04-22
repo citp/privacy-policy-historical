@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mq.edu.au privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mq.edu.au privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy) for the most accurate reproduction.*
 
 # Macquarie University - Privacy - Governance processes
 
@@ -7,34 +7,35 @@
   * [Study](https://web.archive.org/study)
   * [Research](https://web.archive.org/research)
   * [Connect](https://web.archive.org/connect)
-  * [About](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about)
-    * [About the University](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university)
-      * [The Macquarie story](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/the-macquarie-story)
-      * [Our commitment to Aboriginal and Torres Strait Islander Peoples](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/our-commitment-to-aboriginal-and-torres-strait-islander-peoples)
-      * [Strategy and initiatives](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/strategy-and-initiatives)
-      * [Governance](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance)
-        * [Executive](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/executive)
-        * [Macquarie University Council](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/macquarie-university-council)
-        * [Academic Senate](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/academic-senate)
-        * [Policy Central](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/policy-central)
-        * [Annual reports](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/annual-reports)
-        * [Right to information (GIPA)](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/right-to-information-gipa)
-        * [Complaint management](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/complaints-management)
-        * [Privacy](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy)
-          * [Privacy policy](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-policy)
-          * [The Health Records and Information Privacy Act](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/the-health-records-and-information-privacy-act)
-          * [Privacy Act 1998](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-act-1998)
-          * [Useful links](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/useful-links)
-          * [Contacts](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/contacts)
-          * [Risk Online Active Reporting (ROAR)](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/risk-online-active-reporting-roar)
-        * [Elections](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/governance/elections)
-      * [Faculties and departments](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/faculties-and-departments)
-      * [Offices and units](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/offices-and-units)
-      * [Job opportunities](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/job-opportunities)
-      * [Our campus](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/about-the-university/our-campus)
-    * [Campus services and facilities](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/campus-services-and-facilities)
-    * [News and events](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/news-and-events)
-    * [Contacts and maps](https://web.archive.org/web/20181116042241id_/https%3A//www.mq.edu.au/about/contacts-and-maps)
+  * [About](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about)
+    * [About the University](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university)
+      * [The Macquarie story](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/the-macquarie-story)
+      * [Our commitment to Aboriginal and Torres Strait Islander Peoples](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/our-commitment-to-aboriginal-and-torres-strait-islander-peoples)
+      * [Strategy and initiatives](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/strategy-and-initiatives)
+      * [Governance](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance)
+        * [Executive](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/executive)
+        * [Macquarie University Council](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/macquarie-university-council)
+        * [Academic Senate](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/academic-senate)
+        * [Policy Central](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/policy-central)
+        * [Annual reports](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/annual-reports)
+        * [Right to information (GIPA)](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/right-to-information-gipa)
+        * [Complaint management](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/complaints-management)
+        * [Privacy](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy)
+          * [Privacy policy](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-policy)
+          * [The Health Records and Information Privacy Act](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/the-health-records-and-information-privacy-act)
+          * [Privacy Act 1998](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-act-1998)
+          * [EU GDPR](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/EUGDPR-research)
+          * [Useful links](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/useful-links)
+          * [Contacts](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/contacts)
+          * [Risk Online Active Reporting (ROAR)](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/risk-online-active-reporting-roar)
+        * [Elections](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/governance/elections)
+      * [Faculties and departments](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/faculties-and-departments)
+      * [Offices and units](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/offices-and-units)
+      * [Job opportunities](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/job-opportunities)
+      * [Our campus](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/about-the-university/our-campus)
+    * [Campus services and facilities](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/campus-services-and-facilities)
+    * [News and events](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/news-and-events)
+    * [Contacts and maps](https://web.archive.org/web/20190422163120id_/https%3A//www.mq.edu.au/about/contacts-and-maps)
 
 
 
@@ -112,6 +113,7 @@ Collection
   * Privacy Management Plan – Storage
   * [Personal information storage   checklist](https://wiki.mq.edu.au/display/riskassurance/Privacy)
   * [Information access checklist](https://wiki.mq.edu.au/display/riskassurance/Privacy)
+  * [EU GDPR Research Implications](https://www.mq.edu.au/about/about-the-university/governance/privacy/EUGDPR-research "EU GDPR Research Implications")
 
   
   
