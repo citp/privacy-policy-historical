@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egullet.org privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911154152id_/https%3A//forums.egullet.org/topic/31881-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egullet.org privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422205905id_/https%3A//forums.egullet.org/topic/31881-online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy - Society Policies, Guidelines & Documents - eGullet Forums
 
