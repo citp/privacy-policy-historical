@@ -1,163 +1,253 @@
-> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830194806id_/https%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422183955id_/https%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for MakeMusic
 
-### PLEASE READ THIS PRIVACY STATEMENT CAREFULLY.
+﻿  
+Date of Last Revision: December 6th, 2018
 
-LAST UPDATED JUNE 15, 2016
+****Who we are:  MakeMusic, Inc.**** (“ ** **MakeMusic, Inc.**** ”, “we,” or “us”) provides a variety of services, including SmartMusic, Finale, and Garritan that provide people the ability to create, learn and teach music as well as internal and third-party applications to help us with business related tasks like accounting, marketing, and troubleshooting (the “Services”).  MakeMusic, Inc. is committed to protecting your privacy and utilizing technology that gives you a powerful and safe online experience. The websites[ www.makemusic.com](http://www.makemusic.com/),[ www.smartmusic.com](http://www.smartmusic.com/),[ www.finalemusic.com](http://www.finalemusic.com/),[ www.garritan.com](http://www.garritan.com/),[ www.musicxml.com](http://www.musicxml.com/), www.home.smartmusic.com and applications SmartMusic®, Finale® and Garritan® (hereinafter “the Sites”) are owned and operated by ****MakeMusic, Inc.**** and ****MakeMusic, Inc.**** is the controller of the Personal Data.
 
-THE TERMS OF THIS MAKEMUSIC PRIVACY POLICY (“PRIVACY POLICY”)  ARE LEGALLY BINDING. IF YOU ACCESS OR USE ANY OF OUR SERVICES  (DEFINED BELOW), YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND  CONDITIONS OF THIS POLICY. IF YOU DO NOT AGREE TO BE BOUND, YOU  MAY NOT USE OUR SERVICES.
+Please read carefully through all sections of this Privacy Policy.  This Privacy Policy covers our treatment of Personal Data that we collect through your registration, access and use of the Sites and the Services provided on the Sites. This policy does not apply to the practices of companies that we do not own and/or control or to people that we do not employ or manage.
 
-MakeMusic, Inc. (“MakeMusic”, “we” or “us”) understands that privacy is exceptionally important to our users, and we view safeguarding personal privacy to be one of our top priorities. The purpose of this Privacy Statement is to transparently disclose to you how we may collect, use and share information, and how we attempt to safeguard the data you provide to us.
+This Privacy Policy may be changed by us from time to time and the governing version will be posted on the Site.  We will notify you if we make material changes to the Privacy Policy or we will provide notice to you of our changes on our website landing page.  Please review this Privacy Policy on a regular basis as your use of the Site will be governed by the then-current Privacy Policy.
 
-This Privacy Policy applies to you, as an individual, school or entity (“you” or “user”), when you use any of the MakeMusic programs, websites, platforms and/or mobile applications, including (without limitation) the SmartMusic®, Garritan® and Finale® products (collectively the “Services”).
+****MakeMusic, Inc.**** recognizes the importance of protecting the privacy of our customers and the users of the Site.  As such, we will always ensure that we have a lawful basis for processing your Personal Data. 
 
-From time to time, MakeMusic may change this Privacy Policy. If we make a change to this Privacy Statement, we will post a notice on the login or homepages of our Services. Additionally, a current and complete copy of the Privacy Policy be published and remain publicly accessible at: [www.makemusic.com/terms-conditions](https://www.makemusic.com/terms-conditions). If you have any questions about the changes please contact us by mail or phone as listed at the bottom of this document.
+### **Notice to California residents**
 
-**1\. PROTECTING YOUR PRIVACY**
+Except as expressly identified below, we do not disclose a user’s personal data to any third-party for such third-party’s direct marketing purposes.  Thus, under California Civil Code Sections 1798.80-1798.84, MakeMusic has no obligation to a California resident to provide further information regarding MakeMusic’s use of the California resident’s personal data.
 
-Protection of our users’ privacy is a top Company priority. We take measures to monitor and update our privacy and data collection and storage policies and procedures to consistently meet or exceed industry security standards.
+### **Notice to Utah residents**
 
-a. USA. MakeMusic servers are located in the United States. Any information collected through the Services is stored and processed in the United States. If you use our Services outside of the United States, you consent to have your data transferred to and stored in the United States.
+Except as expressly identified below, we do not disclose a user’s personal data to any third-party for such third-party’s direct marketing purposes.
 
-b. Industry-Standard Protection. We utilize industry-standard Secure Socket Layer (SSL) encryption technology to safeguard account registration and enrollment information. Other security measures include, but are not limited to, firewalls and additional data encryption.
+****Why We Collect and How We Use Personal Information.****  We collect and share information from the users of our Sites and Services to manage our contractual obligations to you, comply with legal obligations and/or because we have a legitimate business interest to do so.  We collect and share information to: (a) provide our Sites and Services; (b) provide information about our products and Services; (c) provide information about data security and privacy; (d) learn more about our customer’s preferences; (e) enhance, personalize and support your experience on our Sites; (f) enhance and develop our products and Services based on your direct comments and/or on the pages or information you view on our Sites; and (g) analyze the traffic to our Sites. To view Data Policies specific to each of our products, click on a link below:
 
-c. Limitation on Access. Access to any information collected through the Services is generally restricted to those employees and/or contractors who require it to perform a job or other contracted function. All employees are subject to detailed criminal background screening as part of employment protocol. All vendors / contractors are required to adopt reasonable, industry standard protocols to maintain the confidentiality, security, and integrity of the information.
-
-**2\. INFORMATION WE COLLECT**
-
-To provide the services, MakeMusic collects, stores, shares and uses certain information, including some personally identifiable information (“User Information”). While not exhaustive, this Section describes some of the types of User Information that MakeMusic collects, maintains and uses.
-
-a. DISTRICTS, SCHOOLS, AND TEACHERS. When a school district, school administrator or teacher creates an account with MakeMusic and registers a school with one or more Services or corresponds with us online, we collect certain information about the school (“School Data”). School Data is a type of User Information and may include (without limitation):
-
-  * Contact name
-  * School name
-  * School address
-  * School district information
-  * School email address
-  * Account name and password
-  * Phone number
-  * Message/correspondence content
-  * Information relating to the school’s information systems
-  * Activities related to the Service, such as features accessed and selected, assignments given, grades and scores, and correspondence with students.
+  * [Finale](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/Finale-End_User_License_Agreement_v261.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+  * [Garritan](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/GarritanInstantOrchestra1.pdf?_ga=2.207981713.20841095.1539637781-23594898.1539637781)
+  * [Classic SmartMusic](https://staging.makemusic.com/wp-content/uploads/2018/12/SmartMusic_Classic_LicenseAgreement.pdf)
+  * [New SmartMusic ](https://wpmedia.makemusic.com/wp-content/uploads/2018/12/smartmusic-web-terms-service-use.pdf)
 
 
 
-b. STUDENT DATA. When a student creates an account with us, we collect certain information, including some personally identifiable information, about that student. Further, when a student uses the Services, s/he may create, upload or otherwise generate information and data. MakeMusic may have access to all of this data about students and their use of the Services (“Student Data”). Student Data is a type of User Information and may include (without limitation):
+### **Information Collection and Use**
 
-  * Student’s name
-  * Birthdate
-  * Address
-  * Phone number
-  * Identification number
-  * Scores
-  * Class
-  * Grade
-  * School district
-  * School
-  * Music teacher’s name
-  * User name and password created by the student
-  * In the case of students under the age of 16, contact information for and communications with that student’s parent or guardian.
-  * Data and files created and/or uploaded by the student, teacher or school as part of the Services (such as assignments, grades, feedback, etc.).
+****Information You Give Us**** | ****Information We Collect from You**** | ****Information We Obtain from Others****  
+---|---|---  
+  
+****Contact Information:****  You give us your Contact Information when you request information, register with or subscribe to the Site.   “Contact Information” includes your name, email, company, address and/or telephone number.
+
+****We may use Contact Information and other Personal Data to:****
+
+  * ****   provide you the Services on the Site;
+  *   to fulfill your requests for information; and
+  *   to contact you about MakeMusic, Inc. products or services based on the preferences you have indicated. Personal information we collect is used to provide, maintain, and improve our Services.
 
 
 
-c. NON-PERSONALLY IDENTIFIABLE INFORMATION. As part of our business and contractual requirements, we sometimes collect anonymous data that does not tell us anything personal about you (“Non-PII”).
+We use information about how you use our website to offer you custom content, such as music searches targeted to your selected instrument or how many times you open a piece of content, so we can tailor our Services to your preferences. We also use your data to maintain our applications, so they continue to serve the needs of the customers.
 
-**3\. HOW WE USE AND SHARE USER INFORMATION**
+We may use your email address to send you information about changes or improvements we are making. Users over the age of 16 may opt into MakeMusic marketing promotions.
 
-a. To Provide the Services. We use, process, store and share User Information to enable our users to fully use the Services. For example, we use User Information to allow student users to submit assignments to their teachers, and to allow the teachers to issue and manage assignments, and to contact their students.
+We may use your Contact Information to contact an individual regarding an account issue via telephone, fax, email, or written correspondence.  For example, when you visit our Help Center, we may collect your name or email address(es) and associate them with a case number so that we can respond to inquiries and requests.
 
-b. To Manage Accounts. We also collect and use User Information to manage and renew subscriptions, to contact you with information about our products and Services, to administer your account, and to respond to your inquiries.
+If you are a Finale® customer and do not live within the United States, we may also share your personal information with our trusted business partners, such as our international distributors, to allow them to contact you on our behalf with information about other products or services that may interest you, unless you elect not to receive such information.
 
-c. To Process Payments. We may collect, process, share and use User Information, such as payment and financial information, if you buy one of our products or Services or register for a feature on one of our Services.
+| 
 
-d. To Improve our Services. To ensure that users have consistent, high- quality experiences with our Services, we may internally analyze user data to improve the features, content and functionality of the Services, and to assist us with product development, and planning.
+We collect Analytical Information through automated means when use and navigate the Sites.  “Analytical Information” includes pages and products viewed, emails from us that you opened, browser type, operating system, IP address and device information, your mobile operating system (OS), a mobile device identifier embedded by us, or other commonly used mobile device identifier if you access the Sites on a mobile device.
 
-e. Use of Non-PII User Information. We may use Non-PII User Information several ways and for several purposes, including (without limitation):
+****We use Analytical Information to:****
+
+  *   retain and evaluate information from your visits to the website and how you move around for analytics purposes to improve our website to make it more user friendly or improve the speed of the page loading or the website in general. 
+  *   to review user preferences when navigating the site and to develop new services that may be able to better appeal to our customers based upon what information our customers view or how they navigate the website.
+
+| 
+
+We may collect your Contact Information from an educational institution and will use it as described herein.  
+
+We may also collect publicly available information about you from third-party sources, such as the postal service for shipping address verification.  
+  
+“User Data” may include school or district name, purchase order numbers.
+
+We use your User Data to provide you the services, to connect your account to your educational institution, and to provide you customer support
+
+|  |   
+  
+“Financial Information” collected include credit card information for Schools or individuals that purchase that purchase a MakeMusic product or subscription.
+
+We use the Financial Information to process your payment for the Services.  Financial Information is encrypted and transferred using secure Hypertext Transfer Protocol (HTTPS) to our third-party processor, [Braintree](https://www.braintreepayments.com/features/data-security).
+
+|  |   
+  
+We do not collect any more Personal Data from you than what we have determined is needed for us to provide the Services and comply with applicable laws.
+
+### **What Happens If You Don’t Provide Your Personal Information?**
+
+Please be aware that, if you choose to limit the personal information you provide to us (or, in some circumstances, provide no personal information at all), then we may be unable to provide you with the products and services you have expressed an interest in, or which we have a contract to provide to you.  We may also be unable to provide you with access to some or all our Site (or its functionality).
+
+****We may also collect and use Non-Personally Identifiable User Information for several purposes, including (without limitation):****
 
   * To calculate necessary royalty payments to third party content providers, which are often based on the number of times a work is opened or accessed by our users.
-  * To prepare reports and other materials that we may share with others  
-in an anonymous format.
+  * To prepare reports and other materials that we may share with others
+  * in an anonymous format.
   * For analytics purposes.
-  * In some instances, we use third-party vendors to collect, monitor and/or maintain Non-PII. For example: We use Telerik to collect, monitor, and analyze Non-PII to increase the Services’ functionality and user-friendliness, and to better tailor our Services to our users’ needs. Accordingly, Non-PII is shared with Telerik, which has its own privacy policy accessible here addressing how these parties use such information. You may opt out of Telerik tracking at installation or via the “Help” menu in any of our desktop applications. In our web applications we utilize Rollbar and Google and Google Analytics. Rollbar is utilized for error monitoring. Information logged includes common request data. Rollbar’s privacy policy can be found here. Google Analytics is utilized to analyze application, feature and content usage. Google’s privacy policy can be found here.
 
 
 
-**4\. RESTRICTIONS ON USE**
+In some instances, we use third-party vendors to collect, monitor and/or maintain Non-PII; for example, we utilize Rollbar, Google and Google Analytics. Rollbar is utilized for error monitoring. Information logged includes common request data. Google Analytics is utilized to analyze application, feature and content usage.
 
-We care about your privacy and will not intentionally: (a) share your Student Data with anyone other than the specific teacher, school, and district associated with your account; (b) share or sell personally identifiable information to a third party to allow that third party to market its goods or services; or (c) collect, share, maintain or use any User Information for any reason not set forth by this Privacy Policy and/or contemplated by the nature of the Services provided.
+### **Electronic Marketing**
 
-**5\. CHILDREN’S PRIVACY**
+We provide you the opportunity to consent to receive commercial email from us related to the Services or information that we deem you may be interested in when you seek more information from us.  We will give you the opportunity to “opt out” of receiving any unsolicited information from us or to limit the unsolicited information you receive from us to information regarding the Services or information you specifically request or information we determine you may find useful as a result of your use of the Site. ** **
 
-We care about protecting the online privacy of children. We may collect certain information about children ONLY for the purpose of providing our educational Services as described in the sections above regarding enrollment information.
+### **Information Sharing and Disclosure**
 
-a. _Verifiable Consent._ MakeMusic does not knowingly collect any information from children under the age of 16 unless the school or teacher has obtained appropriate, verifiable consent directly from the parent or legal guardian for the student to use the Services. It is the responsibility of the school or educator to obtain and verify consent from a parent or legal guardian in order for any child under 16 years of age to use the Services.
+Except as otherwise described in this Privacy Policy or in our product-specific Data Policies, we will not share your Personal Data with any other person or company.  We will share your Personal Data to other companies or people when:
 
-b. _Notification._ While the school remains responsible for obtaining verifiable consent for its students under the age of 16, MakeMusic will send a notification to the parent or guardian identified during the enrollment process to inform the parent/guardian of the enrollment and to provide the parent/guardian with information regarding their right to cancel the enrollment and to access and manage the enrollment information. The new web-based SmartMusic service does not allow students who report themselves as under the age of 16 to create an account; it is a violation of the SmartMusic Terms of Service for children to create an account by misrepresenting their age. For students under the age of 16, a parent/legal guardian or the student’s teacher must create their account.
+  * We need to share your information to provide a product or service you have requested;
+  * We need to send the information to companies who work on behalf of MakeMusic, Inc. to provide a product or service to you. Unless we tell you differently, we only provide these companies the minimum amount of information that is necessary for them to assist us and these companies do not have any right to use the Personal Data we provide to them beyond what is necessary to assist us);
+  * We find that your actions on our website violate the Terms and Conditions of Use, any of our usage guidelines for specific services or any agreement; and
+  * As required to respond to or initiate subpoenas, court orders, or legal process.
 
-c. _Providing or Withdrawing Consent._ If, as a parent or legal guardian, you have not received information from your school, please contact the teacher or school directly. If you have received notice from the school and have not given your consent, or if you believe we have inadvertently collected personal information of a child under 16 without proper parental consent, please contact us directly so that we may delete such data as soon as possible; contact information can be found at the bottom of this document. You should, at a minimum, clearly state: (i) name of the child, along with their username; (ii) age and birth date of the child; (iii) your relationship to the child (e.g., parent, guardian, teacher); (iv) as much detail as possible regarding the information you believe was provided improperly by the child. After confirming your identity, we will provide you with an opportunity to review, and if you wish, delete such information.
 
-d. _Review Rights._ If you are a parent/guardian and wish to review information submitted by your child, you may contact us (contact information is set forth below) and, after confirming your identity, we will provide you with an opportunity to review, and if you wish delete, such information.
 
-**6\. ACCOUNT PREFERENCES**
+### **Third Party Processors**
 
-a. Account. To view your personal information or edit preferences, go to My Account and login to view and/or update any personal information provided, such as mailing and billing addresses, email addresses, or preferences. Please note that even if you choose not to receive marketing communications, we may still contact you for important policy or technical product updates or for information related to your Services from us. If you are a student enrolled in a class, changing your personal information via “My Account” will NOT affect or update your Gradebook information. To change your Gradebook information, it will be necessary to coordinate directly with your teacher or director to do so.
+To ensure that your Personal Data receives an adequate level of protection, we have put in place appropriate procedures with the third parties we share your Personal Data with to ensure that your Personal Data is treated by those third parties in a way that is consistent with and which respects the applicable laws on data security and privacy.   For example, we use third-party cloud data storage, error logging, accounting software, payment processors and marketing service providers. To see more detail regarding our third-party processors, please click a link below:
 
-b. Cookies. We may place a text file called a cookie or an anonymous identifier in the browser files of computers that visit the Services. Cookies are pieces of information that, among other things, allow your computer to utilize all the features of the Services. An anonymous identifier is a random string of characters that is used for the same purposes as a cookie on those platforms, including certain mobile devices, where cookie technology is not available. If and when your computer accepts a cookie or an anonymous identifier, the cookie or the anonymous identifier may be stored on the computer’s hard drive. The information that we collect using cookies or an anonymous identifier is non-personal information. You are always free to decline our cookies or anonymous identifier if your browser permits, but some parts of our Services may not work properly for you if you do so.
+  * [Finale](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/Finale-End_User_License_Agreement_v261.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+  * [Garritan](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/GarritanInstantOrchestra1.pdf?_ga=2.207981713.20841095.1539637781-23594898.1539637781)
+  * [Classic SmartMusic](https://staging.makemusic.com/wp-content/uploads/2018/11/SmartMusic_Classic_LicenseAgreement.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+  * [New SmartMusic ](https://wpmedia.makemusic.com/wp-content/uploads/2018/11/smartmusic-web-terms-service-use.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
 
-c. Opt-Out. In addition to mechanisms through your own browsers and computers, we have certain mechanisms for opting-out from our collection of Non-PII for analytics purposes. For example, Finale® users may opt-out by choosing “Help Improve Finale” from the Finale® Help menu and selecting “No, I’m not interested at this time”. SmartMusic® users may opt-out by choosing “Setup > Help Improve SmartMusic” from the SmartMusic® Help menu and selecting “Don’t Allow”.
 
-**7\. HOW LONG WE KEEP USER INFORMATION**
 
-Unless otherwise expressly agreed by the parties, following termination or deactivation of an account, MakeMusic may retain personally identifiable User Information only for a commercially reasonable time for backup, archival, or audit purposes. However, MakeMusic will make attempts to delete any User Information upon request. MakeMusic may maintain all Non-PII even after termination, including usage data, for analytics purposes. If you have any questions about data retention or deletion, please contact us directly.
+### **How long do we keep your information?**
 
-**8\. HOW WE PROTECT YOUR PERSONAL INFORMATION**
+Generally, we will store your information for as long as you are a customer and for up to five (5) years thereafter to preserve records in case of a legal claim. We may keep records of transactions with you for a period of up to seven (7) years to comply with the IRS requirements.
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+For users who are students of U.S. educational institutions that are using the services and are subject to the Family Educational Rights and Privacy Act (FERPA) and/or where the school has provided  consent for us to collect the student’s personal data under the Children’s Online Privacy Protection Act (COPPA), your data will be kept for as long as you are a customer or until an educator, administrator, or parent/guardian associated with your account requests the removal of your information, unless and only to the extent we have a superseding legal obligation to retain the data.
 
-We want you to feel confident using our Services. However, no system can be completely secure. Therefore, even though we take measured steps to secure your information, we do not promise, and you should not expect, that your User Information will always remain secure. You should carefully manage and handle your own passwords and personal information, and should avoid sending personal information through insecure email.
+### **Use of Cookies**
 
-**9\. DISCLAIMER OF WARRANTIES**
+We use “cookies,” a small text file transferred to your device, along with similar technologies (e.g., internet tag technologies, web beacons, embedded scripts) to help provide you a better, more personalized user experience. These technologies are used to:
 
-YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. MAKEMUSIC EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES REGARDING DATA PRIVACY OR DATA SECURITY. MAKEMUSIC MAKES NO WARRANTY REGARDING DATA PRIVACY OR SECURITY AND YOU ACKNOWLEDGE THE SAME.
+  * Make the user experience more efficient (e.g., maintaining items in your Shopping Cart between visits).
+  * Remember your preferences (e.g., browsing language, account login information)
+  * Help us understand and improve how visitors use our website, including which of our pages and products are viewed most frequently.
 
-**10\. LIMITATION OF LIABILITY**
 
-YOU EXPRESSLY AGREE THAT MAKEMUSIC SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF DATA, DATA BREACH, OR DISCLOSURE OF PERSONAL INFORMATION, EVEN IF MAKEMUSIC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. YOU SPECIFICALLY AGREE THAT MAKEMUSIC IS NOT RESPONSIBLE OR LIABLE TO YOU OR ANYONE ELSE FOR ANY VIOLATION OF YOUR RIGHTS OR THE RIGHTS OF ANY OTHER PARTY, INCLUDING, BUT NOT LIMITED TO, INTELLECTUAL PROPERTY RIGHTS, RIGHTS OF PUBLICITY, OR RIGHTS OF PRIVACY. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, THEREFORE SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO USER. IN ANY EVENT, IF MAKEMUSIC IS FOUND TO HAVE VIOLATED ANY OF YOUR RIGHTS, YOU ACKNOWLEDGE AND AGREE THAT ANY DAMAGES RECOVERABLE AGAINST MAKEMUSIC ARE LIMITED TO YOUR ACTUAL, PROVEN DAMAGES.
 
-**11\. VISITING OUR WEBSITES FROM OUTSIDE THE UNITED STATES**
+The Options/Settings section of most internet browsers will tell you how to manage the cookies and other technologies that may be transferred to your device, including how to disable such technologies. You can disable our cookies or all cookies through your browser settings.  Upon the commencement of each of your visits to our websites, the website also provides the ability to turn off all non-strictly-necessary cookies for the MakeMusic websites for that visit. Please be advised that disabling cookies through either method may impact many of our websites’ features.
 
-If you are using the Services from outside the United States, please be aware that your information will be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. This Privacy Policy and the storage, use and disclosure of your information under this Privacy Policy, is governed by the laws of the United States. The Services are controlled and operated by MakeMusic from the United States and you expressly waive the application of any laws of any territory other than the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country.
+****Instructions for blocking or allowing cookies in common web browsers are provided at the links below:****
 
-**12\. INTERNATIONAL FINALE® CUSTOMERS ONLY**
+  *       [Internet Explorer 7 and 8](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)
+  *       [Firefox](https://support.mozilla.org/en-US/kb/block-websites-storing-site-preferences?esab=a&s=blocking+cookies&r=2&as=s)
+  *       [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  *       [Apple Safari](http://support.apple.com/kb/ph5042)
+  *       [AboutCookies.org](http://www.aboutcookies.org/default.aspx)
 
-If you are a Finale® customer and do not live within the United States, We may also share your personal information with our trusted business partners, such as our distributors, to allow them to contact you with information about other products or services that may interest you, unless you elect not to receive such information.
 
-**13\. PRIVACY ON OTHER SITES**
 
-Our Services may contain links to other sites. We provide these links for your convenience, but we do not review, control, or monitor the privacy practices of sites operated by others. We are not responsible for the performance of these sites or for your business dealings with them. Your use of other websites is subject to the terms and conditions of those sites, including the privacy policies of those sites.
+### **MakeMusic uses the following cookies:**
 
-**14\. INTEGRATION**
+****Strictly necessary cookies.**** These are cookies that are required for the operation of our websites. They include, for example, cookies that enable you to log into secure areas of our websites, use a shopping cart or make use of e-billing services.
 
-The Privacy Policy, along with the applicable subscriber agreement relating to the Services you have subscribed to and any terms of use for the applicable Services, contain the entire agreement between you and MakeMusic with regard to your use of the Services and your User Information.
+****Analytical/performance cookies.**** They allow us to recognize and count the number of visitors and to see how visitors move around our websites when they are using it. This helps us to improve the way our websites works, for example, by ensuring that users are finding what they are looking for easily.
 
-**15\. CONSENT TO RECEIVE ELECTRONIC NOTICES**
+****Functionality cookies.**** These are used to recognize you when you return to our websites. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
-By clicking to agree to this Privacy Policy, you expressly agree and consent to receiving all notices from MakeMusic relating to your privacy, your personal information, or any license or relationship that you have with MakeMusic via electronic mail via the address you have provided to MakeMusic as your e-mail address. You have the right to revoke consent to receive such notices via electronic mail, but until such consent is revoked, your consent to receive notices via electronic mail will remain in full force and effect.
+We also allow third parties to place cookies on your device through the Services to:
 
-**16\. CONTACT US / NOTICES**
+  * Help us understand and improve how visitors use our websites, including which of our pages and products are viewed most frequently.
+  * More effectively market our products and services and advertise other products and services that may be of interest to you.
+  * Obtain your feedback on our products and the Services.
+  * Allow you to engage in our social media offerings (e.g., clicking the “Like” button on our website).
 
-If you have questions or comments about this Agreement, please contact MakeMusic directly:
 
-  * Visit us at [support.makemusic.com](http://support.makemusic.com/)
-  * Email us at [team@makemusic.com](mailto:team@makemusic.com)
-  * Call us toll free (for the U.S.A.): 1-800-843-2066
-  * Send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following address:  
-Customer Success MakeMusic, Inc.  
+
+The use of third-party cookies is not covered by our Privacy Notice.  We do not have access or control over these cookies. If you continue to use our websites, we will assume you agree to the use of these cookies.
+
+Although not all cookies and similar technologies that we use are required for you to use the Services, disabling these technologies altogether could prevent the Services from working properly and disable features that allow you to take full advantage of the Services we offer.
+
+For a detailed description of the cookies we use and your ability to control the use of cookies while you navigate the internet, please see our Data Policies for each of our products:
+
+  * [Finale](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/Finale-End_User_License_Agreement_v261.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+  * [Garritan](https://wpmedia.makemusic.com/wp-content/uploads/2012/11/GarritanInstantOrchestra1.pdf?_ga=2.207981713.20841095.1539637781-23594898.1539637781)
+  * [Classic SmartMusic](https://staging.makemusic.com/wp-content/uploads/2018/11/SmartMusic_Classic_LicenseAgreement.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+  * [New SmartMusic ](https://wpmedia.makemusic.com/wp-content/uploads/2018/11/smartmusic-web-terms-service-use.pdf?_ga=2.203966611.20841095.1539637781-23594898.1539637781)
+
+
+
+### **Do Not Track**
+
+Some internet browsers incorporate a “Do Not Track” feature that signals to websites you visit that you do not want to have your online activity tracked. Given that there is not a uniform way that browsers communicate the “Do Not Track” signal, the Site does not currently interpret, respond to or alter its practices when it receives “Do Not Track” signals.
+
+### **Notice to Residents of the Europe Economic Area**
+
+Under the GDPR, you have the following rights related to MakeMusic’s use of your Personal Data.
+
+**Number** | **Description of your right**  
+---|---  
+**Right 1** | A right to access personal data held by us about you, as well as information about how we are using your data.  
+**Right 2** | A right to require us to rectify any inaccurate personal data held by us about you.  
+**Right 3** | A right to require us to erase personal data held by us about you, and where the personal data has been made public, for other controllers processing the personal data to also erase links to, or copy or replication of, such personal data.  This right will only apply where (for example): we no longer need to use the personal data to achieve the purpose we collected it for; or where you withdraw your consent if we are using your personal data based on your consent; or where you object to the way we process your data (in line with Right 6 below).  
+**Right 4** | A right to restrict our processing of personal data held by us about you.  This right will only apply where (for example): you dispute the accuracy of the personal data held by us; or where you would have the right to require us to erase the personal data but would prefer that our processing is restricted instead; or where we no longer need to use the personal data to achieve the purpose we collected it for, but you require the data for the purposes of dealing with legal claims.   
+**Right 5** | A right to receive personal data, which you have provided to us, in a structured, commonly used and machine-readable format.  You also have the right to require us to transfer this personal data to another organisation, at your request.  
+**Right 6** | A right to object to our processing of personal data held by us about you (including for the purposes of sending marketing materials to you).  
+**Right 7** | A right to withdraw your consent, where we are relying on it to use your personal data (for example, to provide you with marketing information about our services or products).
+
+If you have consented to receive communications from us, you can contact us at any time to have your details removed from lists used by us or to update your marketing preferences. Please email team@makemusic.com and quote your email/telephone number/account number in the body of the email, telling us what you would like us to do. 
+
+You can also:  click “unsubscribe” on any of our emails, and we will ensure we don’t send you any communications of this nature in future.  
+  
+### **Notice to Residents of the U.S. and Canada:**
+
+You may access Personal Data held by us about you, as well as information about how we are using your data and you can request that we rectify any inaccurate personal data held by us about you.
+
+To exercise any of your rights above, please contact MakeMusic at:  
+privacy@makemusic.com  
+and/or  
+MakeMusic, Inc.  
+7007 Winchester Circle, Suite 140  
+Boulder, CO 80301, United States
+
+If you choose to exercise any of your rights listed above, it may affect your ability to use the Site, as the operation and functionalities provided on the Site may require the use of your Personal Data. 
+
+### **Security**
+
+We will take reasonable and appropriate measures to protect it from loss, misuse and unauthorized access, disclosure, alteration and destruction of your Personal Data, taking into due account the risks involved in the processing and the nature of the personal data. However, no electronic storage method or data transmission over the Internet can be guaranteed to be 100% secure. 
+
+### **Data Transfers Across Jurisdictional Boundaries.**
+
+Since our Services are based in the United States, your data will be transferred from your country of residence into the United States.
+
+Please be aware that your information will be transferred to and stored in the United States where our servers are located, and our central database is operated, and processed by third party contractors in the United States, Europe, and Australia. 
+
+### **Commitment to Children’s Privacy**
+
+In compliance with the Children’s Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, the Site does not collect information from children under 13 years of age in the United States without the consent of a parent or legal guardian or another legally recognized consent mechanism.  The Site does not collect information from children under [18] years of age in Canada, or under 16 years of age in the European Economic Area without the legally mandated consent or under a recognized exception. You, as a parent or guardian of a student under the designated minimum legal age may contact us through any of the methods below to request (1) what information we have about such child, (2) that we correct any incorrect information, (3) that we delete any personal data of such child, and/or (4) that we cease further collection or use of any personal data of such child.
+
+### **Notices Specific to Educational Use.**
+
+Children under 13 years of age in the United States **[and Canada]** may use the Site as part of an educational program wherein the respective educational institutions are responsible for collecting required parental consent for children using the Services for educational purposes or are providing parental consent for such student use as allowed under applicable law **.**  For all students in the United States, their use of the Site is compliant with Family Educational Rights and Privacy Act (FERPA) under the “School Official” Provision 34 C.F.R. § 99.31(a)(1)(i)(B). ** **
+
+### **Policies of Other Websites**
+
+The Site may contain links to third-party websites not owned or controlled by MakeMusic  MakeMusic is not responsible for the privacy policies of any third-party websites which a user may access through a third‑party link.  Further, these third-party websites may have privacy policies that differ from this Privacy Policy. MakeMusic disclaims all responsibility for the privacy practices of such other third-party websites. You should read the privacy policies of each third-party website you visit to determine what information each third-party website may be collecting about you and how they intend to use such information.
+
+### **Questions**
+
+If you have any questions or comments about these Terms of Use or this Site, please contact us through one of the methods provided below: 
+
+MakeMusic, Inc.  
+Attn: Customer Success MakeMusic, Inc.  
 7007 Winchester Circle, Suite 140 Boulder, CO 80301  
 United States of America
 
-
-
-© Copyright 2005-2016 MakeMusic, Inc. All rights reserved.
+Visit us at[ support.makemusic.com](http://support.makemusic.com/)  
+Email us at [team@makemusic.com](mailto:team@makemusic.com)  
+Call us toll free (for the U.S.A.): 1-800-843-2066  
+International callers: (952) 937-9611
