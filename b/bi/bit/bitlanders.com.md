@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitlanders.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217173110id_/https%3A//www.bitlanders.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitlanders.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422162723id_/https%3A//www.bitlanders.com/pages/about/privacy) for the most accurate reproduction.*
 
 # About bitLanders
 
@@ -227,4 +227,4 @@ If you feel that the personal data we hold on you is inaccurate or believe we sh
 
 If you reside if one of the Designed Countries, and you want to contact us about any of your rights or should you wish to complain about how we use your personal information, please do so by contacting the Controller or Representative using the details provided above. We’ll do our best to help but if you’re still unhappy, you can contact your Supervisory Authority and lodge a complaint with them.
 
-[Click HERE to download a PDF copy of this Policy for your records.](http://static.bitlanders.com/pdf/gdpr-2018-05-25.pdf)
+[Click HERE to download a PDF copy of this Policy for your records.](http://cdn.bitlanders.com/pdf/gdpr-2018-05-25.pdf)
