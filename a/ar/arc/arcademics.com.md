@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcademics.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401132957id_/http%3A//www.arcademics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcademics.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422171906id_/https%3A//www.arcademics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcademic Skill Builders
 
