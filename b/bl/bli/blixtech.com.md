@@ -1,34 +1,15 @@
-> *The following text is extracted and transformed from the blixtech.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103120541id_/http%3A//blixtech.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blixtech.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422050339id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blixtech.com
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-|  [](http://digg.com/blixtech)  
----|---  
-  
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@blixtech.com or give us a call at (+353) 873 203 619 
+###  What’s in a Domain Name? 
 
-At Blixtech, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by Blixtech and how it is used.
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
-#### Log Files
+### DomainMarket.com Privacy Policy
 
-Like many other Web sites, Blixtech makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addre
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
-#### Cookies and Web Beacons
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
-Blixtech does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-#### DoubleClick DART Cookie
-
-.:: Google, as a third party vendor, uses cookies to serve ads on our website. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to Blixtech and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners includes Google Adsense.
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on our website send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-Blixtech has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.Blixtech's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-Last modified on: 1-January-2011
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [sales@domainmarket.com](mailto:sales@domainmarket.com.). 
