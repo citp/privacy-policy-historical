@@ -1,39 +1,15 @@
-> *The following text is extracted and transformed from the worldnewsco.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210084809id_/http%3A//www.worldnewsco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnewsco.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422050339id_/https%3A//www.domainmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | WNC News Page
+# Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
-August 8, 2010 by admin
+###  What’s in a Domain Name? 
 
-At Worldnewsco.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by worldnewsco.com and how it is used.
+Your online presence starts with a top quality domain name. At DomainMarket.com you'll find thousands of the best domain names waiting to be developed into first rate brands. 
 
- **Log Files**
+### DomainMarket.com Privacy Policy
 
-Like many other Web sites, Worldnewsco.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+DomainMarket.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Websites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from DomainMarket and appropriate third parties. 
 
- **Cookies and Web Beacons**
+DomainMarket.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with DomainMarket.com's standards for integrity and objectivity. Email originating at DomainMarket.com contains clear and efficient instructions for opting out of future emails of its kind. 
 
-Worldnewsco.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
- **DoubleClick DART Cookie**
-
-.:: Google, as a third party vendor, uses cookies to serve ads on your site.
-
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
-
- **Google Adsense**
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Worldnewsco.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-Worldnewsco.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Worldnewsco.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
- **Contact Information**
-
-Concerns or questions about this privacy policy can be directed to admin@worldnewsco.com for further clarification.
+If you need assistance in updating the information you have provided to DomainMarket.com or you have questions or comments about these policies, contact DomainMarket.com's manager of customer information at [sales@domainmarket.com](mailto:sales@domainmarket.com.). 
