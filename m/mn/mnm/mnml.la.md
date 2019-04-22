@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the mnml.la privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909174151id_/https%3A//mnml-4.myshopify.com/pages/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnml.la privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422022003id_/https%3A//mnml-4.myshopify.com/pages/terms%23privacy) for the most accurate reproduction.*
 
 # Terms — mnml
 
 #### SHIPPING & DELIVERY
 
-We ship domestically and internationally. All orders are shipped via USPS, FedEx or UPS. Standard shipping within the U.S. over $9.00 is free. International shipping rates for orders $99.99 USD and below, shipping will be $20.00 USD. For orders $100.00 USD and above, DHL express shipping will be free.
+We ship domestically and internationally. All orders are shipped via USPS, FedEx or DHL. Standard shipping within the U.S. for orders over $19.99 is free. International shipping, for orders $99.99 USD and below, will be $20.00 USD. For orders $100.00 USD and above, DHL express shipping will be free.
 
-Please allow up to 3 business days for us to verify and process an order. Please allow an additional 7-10 business days for delivery. For international shipments, please allow 1-3 weeks for delivery depending on destination and selected delivery service.
+Please allow up to 3 business days for us to verify and process an order. Please allow an additional 7-10 business days for delivery. For international shipments, please allow 7-10 days for delivery depending on destination and selected delivery service.
 
 We reserve the right to cancel an order at anytime. Similarly, we reserve the right to request additional information from our customers for verification purposes.
 
-We are not responsible for any lost, stolen, damaged merchandise or delayed delivery once we have shipped your order.  Once you have received a delivery confirmation number, any claims should be made with USPS, FedEx or UPS. We are not responsible for customs, duties, taxes or miscellaneous fees incurred from importing our products.
+We are not responsible for any lost, stolen, damaged merchandise or delayed delivery once we have shipped your order.  Once you have received a delivery confirmation number, any claims should be made with USPS, FedEx or DHL. We are not responsible for customs, duties, taxes or miscellaneous fees incurred from importing our products.
 
-A delivery confirmation number is provided once an order is verified, processed and submitted to USPS, FedEx or UPS.
+A tracking number is provided once an order is verified, processed and submitted to USPS, FedEx or DHL.
 
 We reserve the right to change or update our shipping policies and procedures at any time without notification.
-
-  
-
 
 #### RETURNS // REFUNDS // EXCHANGES
 
@@ -31,12 +28,12 @@ Please include the original packing list with your return to avoid any delays in
 
 We reserve the right to correct, update or change our returns/refund/exchange policy at any time without notification.
 
-All returns and exchanges should be shipped via insured traceable mail in a secure package to the following address:
+Please visit [mnml.loopreturns.com](http://mnml.loopreturns.com/) to process a return. All returns and exchanges should be shipped via insured traceable mail in a secure package to the following address:
 
- **mnml.la Returns**  
-3325 Manitou Court  
-Mira Loma, CA 91752  
-USA
+**mnml returns / DHL Supply Chain**  
+2849 Rohr Rd.  
+Dock Door #50  
+Groveport, OH 43125
 
   
 
