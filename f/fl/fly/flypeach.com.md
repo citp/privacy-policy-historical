@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flypeach.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619040528id_/http%3A//www.flypeach.com/pc/en/fm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flypeach.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422233304id_/https%3A//www.flypeach.com/pc/en/fm/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peach Aviation
 
@@ -15,12 +15,13 @@ All or part of the Personal Information and Retained Personal Data may be used w
 [2] Reservations, ticket sales, and airport handling for interline transportations, joint operations, code share, intermodal transportations and contract operations  
 [3] Peach Express membership enrollment and customer data handling related to facilitating day-to-day management of said program.   
 [4] COMOMO enrollment and customer data handling related to facilitating day-to-day management of said program  
-[5] Information, information provision and management concerning the above articles [1] - [4] and other services or products offered by Peach Aviation (hereinafter collectively referred to as "services, etc.") various events, prizes, competitions, and campaigns (hereinafter referred to as "events etc.")   
-[6] All operations incidental or related to articles [1] - [5] above.   
-[7] Creating statistical data processed into a format that shall not identify individuals in relation to the services, events, etc.   
-[8] Management and notification of services, products, events and campaigns of Peach Aviation Group companies and partner companies.  
-[9] Responses to inquiries and requests  
-[10] Sales of property insurance, small-amount short-term insurance and their associated services for which Peach Aviation is contracted by ACE Insurance, Sompo Japan Nipponkoa Insurance Inc., and Ticket Guard Small Amount & Short Term Insurance Co., Ltd.
+[5] tabinoco enrollment and customer data handling related to facilitating day-to-day management of said program  
+[6] Information, information provision and management concerning the above articles [1] - [5] and other services or products offered by Peach Aviation (hereinafter collectively referred to as "services, etc.") various events, prizes, competitions, and campaigns (hereinafter referred to as "events etc.")   
+[7] All operations incidental or related to articles [1] - [6] above.   
+[8] Creating statistical data processed into a format that shall not identify individuals in relation to the services, events, etc.   
+[9] Management and notification of services, products, events and campaigns of Peach Aviation Group companies and partner companies.  
+[10] Responses to inquiries and requests  
+[11] Sales of property insurance, small-amount short-term insurance and their associated services for which Peach Aviation is contracted by ACE Insurance, Sompo Japan Nipponkoa Insurance Inc., and Ticket Guard Small Amount & Short Term Insurance Co., Ltd.
 
 Note: For more details about the purposes for which these insurance companies use personal information, please visit their websites.
 
