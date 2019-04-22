@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fromoldbooks.org privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927002724id_/https%3A//www.fromoldbooks.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromoldbooks.org privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422173104id_/https%3A//www.fromoldbooks.org/privacy.html) for the most accurate reproduction.*
 
 # FOBO: From Old Books dot Org Privacy Policy
 
-[Words and Pictures from Old Books](https://web.archive.org/web/20180927002724id_/https%3A//www.fromoldbooks.org/) · [Search](https://web.archive.org/web/20180927002724id_/https%3A//www.fromoldbooks.org/Search/)
+[Words and Pictures from Old Books](https://web.archive.org/web/20190422173104id_/https%3A//www.fromoldbooks.org/) · [Search](https://web.archive.org/web/20190422173104id_/https%3A//www.fromoldbooks.org/Search/)
 
 ## From Old Books (this site)
 
