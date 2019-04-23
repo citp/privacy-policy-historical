@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the goodereader.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229095700id_/https%3A//goodereader.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodereader.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423062447id_/https%3A//goodereader.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Good e-Reader Private Policy
 
-  
 This privacy policy sets out how Good E-Reader uses and protects any information that you give Goodereader.com when you use this website.
 
 Good E-Reader is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
