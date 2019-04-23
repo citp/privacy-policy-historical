@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ptc.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222175309id_/https%3A//www.ptc.com/en/documents/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptc.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424012924id_/https%3A//www.ptc.com/en/documents/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PTC
 
 ﻿
 
-_LAST UPDATED 21-May, 2018_
+_LAST UPDATED 22-January, 2019_
 
 [Privacy Policy](https://web.archive.org/-/media/Files/PDFs/Legal-Policies/PTC----Privacy-Policy-\(ENG\).pdf?la=en&hash=BE086CDB8019A13EB89292FB0BB0FE54)
 
@@ -166,7 +166,7 @@ Adherence by PTC to this privacy policy may be limited to the extent required to
 
 PTC Inc. will conduct periodic internal compliance audits of our relevant privacy practices to verify adherence to this privacy policy.   We encourage individuals covered by this Policy to raise any concerns they have about the way we process their personal data by contacting us at the address below.  
 
-PTC Inc. commits to resolve questions and complaints about your privacy and its collection or processing of your personal data.   Individuals who believe that PTC or any of its affiliates is not complying with the terms of this Policy, can contact PTC’s Global Data Privacy Officer, 140 Kendrick Street, Needham Massachusetts 02494, or by email at [dataprivacy@ptc.com](mailto:dataprivacy@ptc.com), or though PTC’s “open door” enquiry and reporting platform at ptc.com/opendoor. We will answer any questions and to investigate any concerns or complaints. We will do our best to internally resolve any complaints and disputes regarding the use and disclosure of personal data brought to our attention.
+PTC Inc. commits to resolve questions and complaints about your privacy and its collection or processing of your personal data.   Individuals who believe that PTC or any of its affiliates is not complying with the terms of this Policy, can contact PTC’s Global Data Privacy Officer, 121 Seaport Blvd, Boston, Massachusetts 02210, or by email at [dataprivacy@ptc.com](mailto:dataprivacy@ptc.com), or though PTC’s “open door” enquiry and reporting platform at ptc.com/opendoor. We will answer any questions and to investigate any concerns or complaints. We will do our best to internally resolve any complaints and disputes regarding the use and disclosure of personal data brought to our attention.
 
   13. ### Unlawful Use of PTC Software
 
@@ -207,17 +207,17 @@ If you have any questions or concerns about our use of your personal information
 
 The Global Data Privacy Officer  
 PTC Inc.  
-140 Kendrick Street  
-Needham Massachusetts 02494  
+121 Seaport Blvd  
+Boston Massachusetts 02210  
 Attn: Compliance Department – Privacy  
 or  
 [dataprivacy@ptc.com](mailto:dataprivacy@ptc.com)  
 or  
 [www.ptc.com/opendoor](http://www.ptc.com/opendoor)  
-Version Update: May 21, 2018:  
+Version Update: January 22, 2019:  
 
 
-Updated includes clarification as to certain aspects of PTC’s processing activities. Updated 
+Revision to address for The Global Data Privacy Officer only.
 
 
   
