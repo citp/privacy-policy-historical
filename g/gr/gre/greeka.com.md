@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220160511id_/https%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423031754id_/https%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Greeka.com
 
@@ -85,7 +85,7 @@ Personal data collected is shared with or disclosed to:
 
 ###  How does GREEKA store and protect personal data?
 
-When you are conducting financial transactions with your credit card via our online system, your credit card details are not transmitted to us, but to our partner organization (PayPal). The procedure is carried out and completed by a trusted associate (PayPal), who provides all adequate guarantees regarding electronic transactions. Hence, we have no access to your bank account or any other details of your credit card. From the beginning to the end of your online session all your information and personal details are encrypted under the encryption protocol Secure Sockets Layer – SSL. Every time you log or complete a payment via PayPal, the interaction between your computer and PayPal systems is encrypted via protocol SSL TLS v.1.2. 
+When you are conducting financial transactions with your credit card via our online system, your credit card details are not transmitted to us, but to our partner organization (PayPal). The procedure is carried out and completed by a trusted associate (PayPal), who provides all adequate guarantees regarding electronic transactions. Hence, we have no access to your bank account or any other details of your credit card. From the beginning to the end of your online session all your information and personal details are encrypted under the encryption protocol Secure Sockets Layer – SSL. Every time you log or complete a payment via PayPal, the interaction between your computer and PayPal systems is encrypted via protocol SSL TLS v.1.2.
 
 GREEKA has adopted the following principles to govern its collection and processing of Personal Data:
 
@@ -152,7 +152,7 @@ GREEKA reserves the right to revise, amend, or modify this Privacy Policy at any
 
 As some people hesitate to make online transactions with their credit card, we ensure them that we do not have access to the details of their card (such as the credit card code). When you are conducting financial transactions with your credit card via our online system, your credit card details are not transmitted to us, but to our partner organization (PayPal).  
 The procedure is carried out and completed by a trusted associate (PayPal), who provides all adequate guarantees regarding electronic transactions. Hence, we have no access to your bank account or any other details of your credit card.  
-From the beginning to the end of your online session all your information and personal details are encrypted under the encryption protocol Secure Sockets Layer – SSL. Every time you log or complete a payment via PayPal, the interaction between your computer and PayPal systems is encrypted via protocol SSL TLS v.1.2. 
+From the beginning to the end of your online session all your information and personal details are encrypted under the encryption protocol Secure Sockets Layer – SSL. Every time you log or complete a payment via PayPal, the interaction between your computer and PayPal systems is encrypted via protocol SSL TLS v.1.2.
 
 ###  Interpretation
 
