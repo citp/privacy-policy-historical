@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwebhosting.co.uk privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915152233id_/https%3A//www.bestwebhosting.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwebhosting.co.uk privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423223117id_/https%3A//www.bestwebhosting.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Smart Hosting Privacy Policy - BestWebHosting.co.uk
 
@@ -29,7 +29,7 @@ If you have any questions about this privacy notice, including any requests to e
 ##### Krystal Hosting Ltd t/a Smart Hosting contact details
 
 **Name:** David Kimberley (Data privacy manager)  
-**Postal address:** Alta Vista, Higher Warberry Road, Torquay, Devon TQ1 1SD  
+**Postal address:** Kemp House 152 - 160 City Road London EC1V 2NX  
 **Telephone number:** 020 8050 1337
 
 You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
@@ -346,6 +346,7 @@ OpenSRS | Domain Name Services | Customer name, address and email address.
 Nominet | Domain Name Services |  Customer name, address and email address.  
 Chartio | Cloud Based Data Analytic Tool | Very occasional instances of client data in the course of carrying out statistics analysis  
 Netistrar | Domain Name Services | Customer name, address and email address.  
+PayPal | Payment Processor | Customer name, address and card information for the purpose of payment processing.  
   
 ##### YOUR LEGAL RIGHTS
 
@@ -371,7 +372,7 @@ These terms set out the additional terms requirements and conditions on which we
 
 This Agreement contains the mandatory clauses required by article 28(3) of the General Data Protection Regulation ((EU) 2016/679) for Agreements between data controllers.
 
-We are Krystal Hosting Ltd t/a Smart Hosting a company incorporated and registered in England and Wales with company number 07571790 whose registered office is at Alta Vista, Higher Warberry Road, Torquay. Devon TQ1 1SD
+We are Krystal Hosting Ltd t/a Smart Hosting a company incorporated and registered in England and Wales with company number 07571790 whose registered office is at Kemp House 152 - 160 City Road London EC1V 2NX
 
 By purchasing our website hosting services you confirm that you accept to these terms of data processing and you agree to comply with them.
 
@@ -487,7 +488,7 @@ The following definitions and rules of interpretation apply in this Agreement.
 
 **For the Data Controller:** The address provided under the Services Agreement
 
-**For the Data Processor:** David Kimberley, Krystal Hosting Ltd, Alta Vista, Higher Warberry Road, Torquay, Devon, TQ1 1SD
+**For the Data Processor:** David Kimberley, Krystal Hosting Ltd, Kemp House 152 - 160 City Road London EC1V 2NX
 
 5.2 Clause 5.1 does not apply to the service of any proceedings or other documents in any legal action or, where applicable, any arbitration or other method of dispute resolution.
 
