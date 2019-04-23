@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athousandcountryroads.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728082401id_/https%3A//www.athousandcountryroads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athousandcountryroads.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424005228id_/https%3A//www.athousandcountryroads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Thousand Country Roads
 
