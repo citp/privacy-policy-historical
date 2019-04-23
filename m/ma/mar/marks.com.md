@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906065928id_/https%3A//www.marks.com/en/help-desk/company-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423222939id_/https%3A//www.marks.com/en/help-desk/company-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mark's
 
