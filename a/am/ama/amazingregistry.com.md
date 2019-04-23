@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingregistry.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022170030id_/https%3A//www.amazingregistry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingregistry.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423220118id_/https%3A//www.amazingregistry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AmazingRegistry.com
 
