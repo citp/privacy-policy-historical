@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mum.edu privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223062237id_/https%3A//www.mum.edu/privacy-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mum.edu privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423214928id_/https%3A//www.mum.edu/privacy-information) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -35,6 +35,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
- **If you feel that we are not abiding by this privacy policy, you should contact me immediately via telephone at 641-451-4219 or via email at** [pstokstad@mum.edu](mailto:%20pstokstad@mum.edu)
-
- **Paul Stokstad**
+ **If you feel that we are not abiding by this privacy policy, contact[webmaster@mum.edu](mailto:webmaster@mum.edu)**
