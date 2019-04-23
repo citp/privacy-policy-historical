@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the e-booksdirectory.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116034405id_/http%3A//www.e-booksdirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-booksdirectory.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424005814id_/http%3A//www.e-booksdirectory.com/privacy.php) for the most accurate reproduction.*
 
 # E-Books Directory - Privacy Notice
 
-This is the web site of E-BooksDirectory.com. Webmaster and administrator can be reached via [contact form](https://web.archive.org/web/20181116034405id_/http%3A//www.e-booksdirectory.com/contact.php) or by e-mail at webmaster [at] e-booksdirectory.com
+This is the web site of E-BooksDirectory.com. Webmaster and administrator can be reached via [contact form](https://web.archive.org/web/20190424005814id_/http%3A//www.e-booksdirectory.com/contact.php) or by e-mail at webmaster [at] e-booksdirectory.com
 
 For each visitor to our site, our web server recognizes automatically only the consumer's domain, but not the e-mail address.
 
@@ -20,4 +20,4 @@ Upon request we provide site visitors with access to a description of informatio
 
 Consumers can access this information by e-mail us at the above address.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or by [contact form](https://web.archive.org/web/20181116034405id_/http%3A//www.e-booksdirectory.com/contact.php).
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or by [contact form](https://web.archive.org/web/20190424005814id_/http%3A//www.e-booksdirectory.com/contact.php).
