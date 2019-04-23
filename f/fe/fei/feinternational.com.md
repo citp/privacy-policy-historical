@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feinternational.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403130506id_/https%3A//feinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feinternational.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423095538id_/https%3A//feinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy - FE International
 
@@ -12,7 +12,7 @@ For the purpose of the Data Protection Act 1998 (the “Act”), the data contro
 
 We may collect and process the following Personal Information about you:
 
-  * Personal Information that you provide by filling in forms on the Website <http://feinternational.com/> (the “Website”) including, but not limited to:- name; email address and telephone number. This is information provided at the time of registering with the Website, or posting or downloading material. We may also ask you for information when you report a problem with Website.
+  * Personal Information that you provide by filling in forms on the Website <https://feinternational.com/> (the “Website”) including, but not limited to:- name; email address and telephone number. This is information provided at the time of registering with the Website, or posting or downloading material. We may also ask you for information when you report a problem with Website.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of your visits to Website [including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise] and the resources that you access.
