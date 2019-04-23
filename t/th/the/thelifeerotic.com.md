@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelifeerotic.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226180138id_/https%3A//www.thelifeerotic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelifeerotic.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423182955id_/https%3A//www.thelifeerotic.com/privacy) for the most accurate reproduction.*
 
 # The Life Erotic - Privacy
 
