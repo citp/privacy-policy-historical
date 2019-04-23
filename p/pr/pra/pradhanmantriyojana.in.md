@@ -1,153 +1,72 @@
-> *The following text is extracted and transformed from the pradhanmantriyojana.in privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120131429id_/https%3A//www.pradhanmantriyojana.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pradhanmantriyojana.in privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423114013id_/https%3A//www.minmini.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - minmini.in
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Last updated: March 15, 2019
 
- **What personal information do we collect from the people that visit our blog, website or app?**
+Minmini (“us”, “we”, or “our”) operates the Minmini website (the “Service”).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
- **When do we collect information?**
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We collect information from you when you fill out a form or enter information on our site.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.minmini.in
 
- **How do we use your information?**
+## Information Collection And Use
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
 
- **•** To improve our website in order to better serve you.
+  * Name
+  * Email address
 
- **•** To allow us to better service you in responding to your customer service requests.
 
- **How do we protect visitor information?**
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+## Log Data
 
-We use regular Malware Scanning.
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-We do not use an SSL certificate
+## Google AdSense & DoubleClick Cookie
 
- **•** We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
+Google, as a third party vendor, uses cookies to serve ads on our Service.
 
- **Do we use ‘cookies’?**
+## Cookies
 
-We do not use cookies for tracking purposes
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
+## Service Providers
 
-However, you can still place orders .
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
- **Third Party Disclosure**
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## Security
 
- **Third party links**
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+## Links To Other Sites
 
- **Google**
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-We use Google AdSense Advertising on our website.
+## Children’s Privacy
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Our Service does not address anyone under the age of 18 (“Children”).
 
- **We have implemented the following:**
+We do not knowingly collect personally identifiable information from children under 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we discover that a child under 18 has provided us with Personal Information, we will delete such information from our servers immediately.
 
- **•** Remarketing with Google AdSense
+## Compliance With Laws
 
- **•** Google Display Network Impression Reporting
+We will disclose your Personal Information where required to do so by law or subpoena.
 
- **•** Demographics and Interests Reporting
+## Changes To This Privacy Policy
 
- **•** DoubleClick Platform Integration
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+## Contact Us
 
- **California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
- **According to CalOPPA we agree to the following:**
-
-Users can visit our site anonymously
-
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:
-
- **•** On our Privacy Policy Page
-
-Users are able to change their personal information:
-
- **•** By chatting with us or sending us a ticket
-
- **How does our site handle do not track signals?**
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
- **Does our site allow third party behavioral tracking?**
-
-It’s also important to note that we allow third party behavioral tracking
-
- **COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
- **Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
- **•** Within 1 business day
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
- **CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
- **We collect your email address in order to:**
-
- **•** Send information, respond to inquiries, and/or other requests or questions.
-
- **•** Process orders and to send information and updates pertaining to orders
-
- **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
- **To be in accordance with CANSPAM we agree to the following:**
-
- **•** NOT use false, or misleading subjects or email addresses
-
- **•** Identify the message as an advertisement in some reasonable way
-
- **•** Include the physical address of our business or site headquarters
-
- **•** Monitor third party email marketing services for compliance, if one is used.
-
- **•** Honor opt-out/unsubscribe requests quickly
-
- **•** Allow users to unsubscribe by using the link at the bottom of each email
-
- **  
-If at any time you would like to unsubscribe from receiving future emails, you can**
-
- **•** Follow the instructions at the bottom of each email.
-
-support_desk@pradhanmantriyojana.in and we will promptly remove you from **ALL** correspondence
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If you have any questions about this Privacy Policy, please [contact us](http://www.minmini.in/contact-us).
