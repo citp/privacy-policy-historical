@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829002730id_/https%3A//picsart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423180803id_/https%3A//picsart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PicsArt
 
+Last Updated May 20, 2018 
+
 This Privacy Policy describes how PicsArt, Inc. ( **"PicsArt"** , **"picsart"** , **"We"** , **"Us"** , or **"Our"** ) protects your privacy when you use PicsArt (the **"PicsArt Service"** ) which includes the Web site located at www.picsart.com (the **"Site"** ) and all PicsArt mobile phone applications ( **"Mobile"** ). 
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE PICSART SERVICE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. THIS PRIVACY POLICY IS PART OF AND INCORPORATED INTO PICSART'S [TERMS OF SERVICE](https://web.archive.org/terms-and-conditions)( **"Terms of Service"** ). IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE PICSART SERVICE. 
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE PICSART SERVICE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. THIS PRIVACY POLICY IS PART OF AND INCORPORATED INTO PICSART'S [TERMS OF SERVICE](https://web.archive.org/terms-and-conditions) ( **"Terms of Service"** ). IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE PICSART SERVICE. 
 
 This Privacy Policy applies to information (including personal information) collected through the PicsArt Service. 
 
@@ -16,9 +18,9 @@ When you visit the Site, we automatically collect some information. For example,
 
 With your permission (on download or in the app), we may access and store your device's contact list to find your friends on the PicsArt Service, to invite them, or to share your Content with them. We may also collect information about others if you use the PicsArt Service to upload, share and/or distribute Content that contains information about them, including their name, image and online contact information. 
 
-_Cookies_ \- We automatically collect certain information through the use of "cookies". Cookies are small data files that are stored on your hard drive by a Web site. Among other things, the use of cookies helps us to improve the Site and your experience on the Site. We use cookies to see which areas and features of the Site are most popular, to count the number of computers accessing the Site, to personalize your experience and to remember your preferences. If your browser is set not to accept cookies or if you reject a cookie, you may not be able to access certain features or services of the Site. 
+_Cookies_ We automatically collect certain information through the use of "cookies". Cookies are small data files that are stored on your hard drive by a Web site. Among other things, the use of cookies helps us to improve the Site and your experience on the Site. We use cookies to see which areas and features of the Site are most popular, to count the number of computers accessing the Site, to personalize your experience and to remember your preferences. If your browser is set not to accept cookies or if you reject a cookie, you may not be able to access certain features or services of the Site. 
 
-_Content and Metadata_ \- We also collect and retain your metadata along with your Content. For example, your images may be accompanied by additional Content such as a hashtag (e.g., to mark keywords), comments, or may include metadata like a geotag. This makes your User Content more searchable by others and more interactive. If you geotag your photo or tag your photo using others' APIs then your latitude and longitude will be stored with the photo and may be searchable (e.g., through a location or map feature) if your photo is made public by you in accordance with your privacy settings. 
+_Content and Metadata_ We also collect and retain your metadata along with your Content. For example, your images may be accompanied by additional Content such as a hashtag (e.g., to mark keywords), comments, or may include metadata like a geotag. This makes your User Content more searchable by others and more interactive. If you geotag your photo or tag your photo using others' APIs then your latitude and longitude will be stored with the photo and may be searchable (e.g., through a location or map feature) if your photo is made public by you in accordance with your privacy settings. 
 
 ##  Storage of Information & Transfer of Data 
 
@@ -26,7 +28,7 @@ Most of the information we collect is retained by us on our servers. If you are 
 
 ##  How We Use Your Information 
 
-We use information collected through the PicsArt Service: 
+We use information collected through the PicsArt Service:
 
   1. to communicate with you or third parties;
   2. to process your requests and transactions;
@@ -67,7 +69,7 @@ In cases when you delete your information or request us to delete it, some of yo
 
 ##  Controlling and Modifying Your Information - Opt-Out / Opt-In 
 
-We respect your right to control and make choices about your information. You may request PicsArt to: 
+We respect your right to control and make choices about your information. You may request PicsArt to:
 
   * \- provide you with information we collect about you
   * \- transfer your information to another controller of your choice, when technically feasible
