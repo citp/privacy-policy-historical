@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometourseries.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006192844id_/http%3A//www.ikea.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometourseries.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423174003id_/http%3A//www.ikea.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy - IKEA
 
@@ -29,15 +29,17 @@ If you contact one of our customer service representatives, we may ask you for i
 In store we provide you with the option to leave a personal comment to the store manager. During this process you have the option to provide us with such information as your name, address, email address and telephone number so that we can respond to your questions or concerns. The information that is collected and retained by this unit is for IKEA's use only.
 
 **Website**  
-We collect information on our website using transient cookies, sometimes called session cookies. A transient cookie is a small file that contains information about a user, and disappears when the user's browser is closed. Unlike a persistent cookie, a transient cookie is not stored on the user’s hard drive; it is stored only in temporary memory that is erased when the web browser is closed. We use transient cookies to determine, for example, how you use our website so we can improve the design of our site. Transient cookies are not linked to any personally identifiable information about you. Cookies can be disabled in your web browser.
+We collect information on our website using cookies. Cookies are small data files that downloaded onto your computer when you use our web site. We use cookies and the information they provide to improve our web site and the quality of your experience with our web site. Cookies can be disabled in your web browser.
 
 When you visit our web site, we also collect anonymous information from you. This includes the Internet browser you are using; the computer operating system you are using, time spent visiting the web site, usage patterns within the web site, and the domain name of the web site from which you linked to our site. This information is not matched to your personal information and does not personally identify you. We collect this information to help improve your experience on the web site. Additionally, IKEA may share account or other information when we believe it is necessary to comply with the law or protect our interests and property. This may include sharing information with other companies, lawyers or government agencies in connection with issues related to fraud or government subpoenas and warrants.
+
+Disclaimer Version RS.US.201.407.01
 
 **FREE Hotspot Wireless Internet**  
 IKEA USA provides a FREE Hotspot wireless internet Service in our IKEA stores provided by IKEA for use by customers of IKEA. All users are required to log-in individually as an independent user. [Click here to view our full FREE wireless internet terms and conditions](https://www.ikea.com/ms/en_US/privacy_policy/terms_conditions.html)
 
 **Mobile**  
-IKEA offers our customers the ability to find out what’s new at their local IKEA store through their mobile device, either by browsing our mobile web site or through text messaging. Usage of the mobile web site follows similar standards employed by our standard web site; cookies may be employed to remember preferences or previous activity but do not reveal personal information and can be disabled using your mobile device’s Internet options. For text messaging, users will only receive messages if they have specifically opted in for them; standard text message rates will apply. To join IKEA Mobile, text the keyword "JOIN" to 62345. **To unsubscribe from IKEA Mobile, text the keyword "STOP" to 62345**.
+IKEA offers our customers the ability to find out what’s new at their local IKEA store through their mobile device, either by browsing our mobile web site or through text messaging. Usage of the mobile web site follows similar standards employed by our standard web site; cookies may be employed to remember preferences or previous activity but do not reveal personal information and can be disabled using your mobile device’s Internet options. For text messaging, users will only receive messages if they have specifically opted in for them; message and data rates may apply. To join IKEA Mobile, text the keyword "JOIN" to 62345. **To unsubscribe from IKEA Mobile, text the keyword "STOP" to 62345**.
 
 **Småland kid's play area**  
 To take advantage of our supervised children’s play area while you shop, we require you to fill out a registration card that asks for the child’s name and age, the parent’s or guardian’s name, address, telephone number and signature, and any health concerns relating to the child that we should know. We ask for this information to help ensure the safety and security of the child.
@@ -91,4 +93,4 @@ Conshohocken, PA 19428
 
 We will respond to your inquiry or investigate your concern as quickly as possible.
 
-DATED: December 9, 2015
+Last updated: January 21st, 2019
