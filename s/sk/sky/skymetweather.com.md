@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skymetweather.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705110221id_/https%3A//www.skymetweather.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymetweather.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423213006id_/https%3A//www.skymetweather.com/privacy-policy) for the most accurate reproduction.*
 
-# Skymetweather.com privacy policy
+# None
 
 The website **skymetweather.com** is owned and operated by **Skymet Weather Services Private Limited** and its affiliates (collectively, "we," "our" or "us"). This privacy policy ("Privacy Policy") explains our information collection practices, including but not limited to our mobile websites and applications.
 
