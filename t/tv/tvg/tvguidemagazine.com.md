@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvguidemagazine.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028034220id_/http%3A//www.tvguidemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvguidemagazine.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423031829id_/http%3A//www.tvguidemagazine.com/privacy) for the most accurate reproduction.*
 
 # TV Guide Magazine Privacy Policy
 
