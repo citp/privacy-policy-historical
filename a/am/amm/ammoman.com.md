@@ -1,41 +1,37 @@
-> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090153id_/http%3A//www.ammoman.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423080759id_/https%3A//www.ammoman.com/t/privacyinfo) for the most accurate reproduction.*
 
 # Privacy Notice
 
-**Discount Distributors** **d/b/a "AMMOMAN.COM"  
-** **PRIVACY POLICY**
+You will not see third party ads on our site, and you will not see our ads following you around the web. We simply don’t engage in those kinds of practices. As a result, our Privacy Policy is fairly straight-forward as compared to most online retailers. If you have any questions, please reach out to us at the contact information below.
 
-**AMMOMAN.COM** has created this privacy policy to demonstrate our commitment to privacy. Your privacy is very important to us.
+## Collecting Your Information
 
-**COMMITMENT TO DATA SECURITY** **:** To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate procedures to safeguard and secure the information we collect online.
+We collect a variety of information when you place an order on our site. Some of the information we collect is personally identifiable to you, while other information is not. Here is an outline of the personal identifiable and non-personal identifiable information we collect.
 
-Secure communications on the web require attention to authentication, encryption and data integrity. All three are addressed by industry-standard SSL (Secure Sockets Layer) protocol. We use SSL to communicate with secure browsers such as AOL, Netscape and Internet Explorer. This means that your name, address, credit card numbers and any other information you provide through SSL are encrypted in a way that makes it extremely difficult for others to decode. We use technology provided by Veri-Sign to make your online visit as secure as possible. All payment information is collected in a secure environment that can be confirmed through Veri-Sign, Inc. You can tell if your computer is using SSL when you see a lock at the bottom of your screen or by checking the URL to ensure it is pointing to "https."
+We collect the following personal identifiable information (“PII”): first name; last name; billing address; shipping address; email address; telephone number; and credit card information. If you live in a state which requires us to collect a firearms permit or photo identification from you at the time of purchase, then we will also collect that information. This PII is only collected when you proceed through the checkout process on our site, or when you create a customer account. We do not collect this PII when you simply browse our site.
 
-Our security measures do not end once you have completed your online order. For example, the moment you press "submit" to send your order, the encrypted order is sent directly to our order processing system.
+We also collect the following non-personal identifiable information (“NPII”): anonymized visitor data like age, gender, and interests; IP address; device type; order history; and browser type. This NPII may be collected simply by browsing our site.
 
-**THE INFORMATION WE COLLECT** **:** The information we collect is used to process orders and information requests, to improve the content of our website, to notify consumers about product and website updates or problems with requests or orders. Any and all information collected by **AMMOMAN.COM** **IS NOT SHARED OR SOLD.**
+## Protecting Your Information
 
-**COOKIES** **:** Our shopping cart functionality is based on "cookies" or customized pieces of information our site stores on your hard drive. Because cookies only contain text, they cannot transmit a virus or damage your system. They cannot gather information about you or your computer. The sole purpose of storing cookies is to remember information about your **AMMOMAN.COM** web-cart and make online shopping easier. If you prefer not to accept cookies, it may be necessary to call us directly to place your order.
+In our attempt to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place a number of procedures to safeguard and secure the information we collect.
 
-**LINKS TO OTHER SITES** **:** We provide links to many other sites we think you may enjoy. These sites operate independently of **AMMOMAN.COM** and have established their own privacy and security policies. Please review these policies at any site you visit.
+Secure communications on the web require attention to authentication, encryption, and data integrity. All three are addressed by industry-standard SSL (Secure Sockets Layer) protocol. We use SSL to communicate with secure browsers. This means that when you provide your PII, it is encrypted in a way that makes it difficult for others to decode.
 
-**SALES OF AMMUNITION:**  
-Each time you make a purchase of ammunition from this web site, you confirm that you are of legal age to purchase the ammunition in your order and there are no laws prohibiting you from owning the ammunition you are purchasing.
+PCI-DSS are the governing guidelines established by the payment card industry to protect consumers’ PII and data security. We maintain compliance with PCI-DSS, conduct regular penetration testing by third party IT specialists, and are constantly looking for and learning about new ways to enhance our data protection strategies.
 
-Please feel free to contact [info@ammoman.com](mailto:info@ammoman.com) with questions or problems with this service.
+## Sharing Your Information
 
-**AMMOMAN.COM All rights reserved.  
-Terms of Use. Last Updated: 2/3/2012**
+We do not share your PII with any outside marketing agencies, retargeting companies, or other digital advertisers. We only share your PII with outside vendors who are necessary to help us serve you. They include our credit card processing company to process your payment, our warehouse to pick and pack your order, FedEx and UPS to deliver your order, our email outreach partner to help us communicate with you in an efficient, noninvasive manner; and other back-end support to help serve you. We limit the amount of information each of these vendors receives from us. For example, our email outreach partner receives your email address, but not your billing and shipping address.
 
-****AMMOMAN.COM d/b/a - DISCOUNT DISTRIBUTORS  
-**Newark, New Jersey, PO Box 10188, Newark, NJ 07101-3188  
-[FOR DIRECTIONS TO US CLICK HERE](https://maps.google.pl/maps?q=Newark,+New+Jersey+PO+Box+10188+Newark,+NJ+07101-3188&hl=pl&ll=40.7308,-74.172413&spn=0.005887,0.008256&sll=54.207222,16.217003&sspn=0.411229,1.056747&hnear=Newark,+New+Jersey+07101,+Stany+Zjednoczone&t=h&z=18&iwloc=A)**
+Like most of the places you order online, we use first-party and third-party cookies to collect anonymized NPII, so we can understand how our customers use our site and our customers' shopping preferences, with the ultimate goal of improving our service. We analyze this data by using Google Analytics and Google Analytics Advertising Features. By using AmmoMan.com, you are agreeing to [Google Analytics Terms of Service](http://www.google.com/policies/privacy/partners/ "Google Analytics Terms of Service"). You are welcome to opt out of this process: check out the opt-out options provided by the [NAI](http://optout.networkadvertising.org/#!/ "NAI") or [Google](https://tools.google.com/dlpage/gaoptout/ "Google"), or change your settings on Google Ad Preferences. We do not invite any other third parties to collect your information when you use our site.
 
-**OPEN ON MONDAY THROUGH FRIDAY  
-from 8am TO 3pm E.S.T.PHONE: (856) 767-8835  
-FAX LINE 24-HOURS (856)-767-3877  
-ALL OTHER TIMES [EMAIL US HERE](mailto:info@ammoman.com)**
+We reserve the right to share your PII and any other information when we feel we are legally obligated to do so. This includes, but is not limited to, situations where we have received a lawful subpoena or court order, where we need to enforce this Privacy Policy or our Conditions of Use, or where we need to protect the rights and safety of ourselves or others.
 
-**SORRY BUT WE DO NOT SHIP TO ALASKA, HAWAII, MASSACHUSETTS or NEW JERSEY - ILLINOIS RESIDENTS[ CLICK HERE](http://www.ammoman.com/t/Illinois)**
+## Modifying Your Information
 
-**Any questions on new or past orders, products or calibers, etc.   go to: [info@ammoman.com](mailto:info@ammoman.com)[](mailto:ammoman5@comcast.net)**[ ****](mailto:eric@ammoman.com)
+If you have a customer account, you can modify your PII at any time by logging in and making your desired changes. Similarly, we reserve the right to modify this Privacy Policy at any time. Revised versions of the policy will be posted on this webpage.
+
+## Communicating With You
+
+From time to time, we will use your PII to contact you about your order or to notify you of product specials. You can opt out of these notifications at any time by unsubscribing from our email list. And if you would like to get in touch with us, please give us a call at (856) 767-8835 or send us an emai atl [info@ammoman.com](mailto:info@ammoman.com). Finally, please be aware, if you contact us to make a Do Not Track request, it does not result in a change of our behavior, as we don’t track your online browsing habits in the first place.
