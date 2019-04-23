@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the boonieplanet.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020214321id_/https%3A//moviestarplanet.zendesk.com/hc/articles/208748485) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boonieplanet.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423234600id_/https%3A//moviestarplanet.zendesk.com/hc/articles/213208965-Privacy-Policy) for the most accurate reproduction.*
 
-# BooniePlanet Privacy Policy – MovieStarPlanet
+# Privacy Policy – MovieStarPlanet
 
-**_Last Modified: May 10th, 2016_**
+**__**
 
-**_Effective Date: May 10th, 2016_**
+**Last Modified: 25th January 2019**
 
-**This Privacy Policy governs the collection of Personally Identifiable Information on or in connection with the use of MovieStarPlanet Group of Games (“MovieStarPlanet”). MovieStarPlanet includes BooniePlanet, RoboBlastPlanet on any platform.**
+**Effective Date: 29th February 2019  
+**
 
-**This Privacy Policy is incorporated into and made a part of the MovieStarPlanet Terms of Use. By registering for an account, or accessing or using the Website, you agree to be bound by the provisions of this Privacy Policy.**
+This Privacy Policy governs the collection of personally identifiable information and describes how MovieStarPlanet ApS ("MovieStarPlanet") collects and uses the personally identifiable information you provide on the MovieStarPlanet.com website (the "Website") or in connection with the use of the Website. This Privacy Policy is incorporated into and made a part of the MovieStarPlanet Terms of Use. By registering for an account, or accessing or using the Website, you agree to be bound by the provisions of this Privacy Policy.
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com).
 
 **Notification of Privacy Policy Changes**
 
@@ -27,40 +30,38 @@ Upon creation of a MovieStarPlanet account we ask you to provide us with the fol
 
 Later we may ask you to provide us with the following additional information:
 
-  * An email
-  * Parent's / guardian's email
+  * An e-mail address
+  * Parent's / guardian's email address
 
 
 
 In addition, if you sign up to make purchases of certain MovieStarPlanet products or services, we ask you to provide your credit card number
 
-Finally, like almost all websites, we receive and store certain types of information whenever you visit the Website. In addition to information you provide, we may collect the name of the domain and host from which you access the Internet; the IP address of the computer you are using; the browser and operating system you are using; the date and time you access the Website; and the Internet address of the website from which you linked to this Website (including any search terms you may have used to find MovieStarPlanet through a search engine, such as Google).
+Finally, like almost all websites, we receive and store certain types of information whenever you visit the Website. In addition to information you provide, we may collect the name of the domain and host from which you access the Internet; the IP address of the computer you are using; the browser and operating system you are using; the date and time you access the Website; and the Internet address of the website from which you linked to this Website (including any search terms you may have used to find MovieStarPlanet through a search engine such as Google).
 
-We do not ask you for any other personally identifiable information. However, MovieStarPlanet allows users to communicate in various ways. Unless you are under the age of 13 (See Children Under the Age of 13 Years, below), we collect any information you voluntarily choose to include on your Profile page and in other online activity, such as chat rooms and movies you create. Revealing such personally identifiable information is against the MovieStarPlanet Rules, and you should not do this. Any personally identifiable information you reveal in your online activities will be available to others who may access this content (See Disclosing Your Personally Identifiable Information).
+We do not ask you for any other personally identifiable information. However, MovieStarPlanet allows users to communicate in various ways. Unless you are under the age of 13 (See [Children Under the Age of 13](http://info.moviestarplanet.com/privacy-policy.aspx#ChildrenUnder13), below), we collect any information you voluntarily choose to include on your Profile page and in other online activity, such as chat rooms and movies you create. Revealing such personally identifiable information is against the [MovieStarPlanet Rules](http://info.moviestarplanet.com/safety/rules.aspx), and you should not do this. Any personally identifiable information you reveal in your online activities will be available to others who may access this content (See [Disclosing Your Personally Identifiable Information](http://info.moviestarplanet.com/privacy-policy.aspx#DiclosingPersonalInformation)).
 
-**Log Files**
+**Log files**
 
-As true of most Websites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP) , referring/exit pages, operating system, date/time stamp, and/or clickstream data.  We do not link this automatically collected data to other information we collect about you.
+As true of most Websites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.  We do not link this automatically-collected data to other information we collect about you.
 
 **Tracking Technologies**
 
 Technologies such as: cookies, beacons, tags, and scripts are used by MovieStarPlanet and our partners, affiliates, analytics or service providers. ADTECH technology (see below) is used for this purpose. These analytical tools are used for marketing and internal analytical purposes only to provide better customer support services. We do not collect or store personal information in relation to this data collection   These technologies are used in improving and personalizing your experience at our website, personalize your experience and analyze certain metrics, tell us how many visitors we have on the site, and which parts of the site are most popular, and tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.  
 
-We use Local Shared Objects, such as Flash cookies, to store content information and preferences. To manage Flash cookies, please click here:
-
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>   
+We use Local Shared Objects, such as Flash cookies, to store content information and preferences. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 **Advertising**
 
-We are using ADTECH technology, a service provided by ADTECH AG, for ad delivery. We and ADTECH use cookies (text files placed on your computer) to help with collecting information about your visits to this and other websites which may be used in order to provide advertisements about goods and services of interest to you. The information stored in the cookie is used to reference information for standard reporting purposes such as delivered advertising campaigns or banners on websites that are using ADTECH as their ad serving system. Cookie and IP address information of a request to the ADTECH ad serving system is always transferred to the responding data centers in the United States or within the European Union, but only the cookie information of the requested ad domain is stored within the standard records. IP address information is obfuscated after being used to identify attributes associated with the IP address such as location (country, city) or bandwidth. The obfuscating of the IP address leads to anonymisation of the data. Upon specific request of a customer, ADTECH provides a special functionality to store IP address information to identify fraudulent activities such as automated click generation systems. You have the option not to participate in ADTECH's analysis by opting out of the use of ADTECH cookies, by selecting the appropriate setting on your browser or setting an ADTECH opt-out cookie provided on the following page [http://privacy.aol.com/privacy-policy/](https://www.adform.com/site/privacy-policy/). Further information about ADTECH's technology is available under [http://www.adtech.com](http://www.adtech.com/privacy). By using this website you consent to the processing of data about you by ADTECH as described herein.  
+We are using ADTECH technology, a service provided by ADTECH AG, for ad delivery. We and ADTECH use cookies (text files placed on your computer) to help with collecting information about your visits to this and other websites which may be used in order to provide advertisements about goods and services of interest to you. The information stored in the cookie is used to reference information for standard reporting purposes such as delivered advertising campaigns or banners on websites that are using ADTECH as their ad serving system. Cookie and IP address information of a request to the ADTECH ad serving system is always transferred to the responding data centers in the United States or within the European Union, but only the cookie information of the requested ad domain is stored within the standard records. IP address information is obfuscated after being used to identify attributes associated with the IP address such as location (country, city) or bandwidth. The obfuscating of the IP address leads to anonymization of the data. Upon specific request of a customer, ADTECH provides a special functionality to store IP address information to identify fraudulent activities such as automated click generation systems. You have the option not to participate in ADTECH's analysis by opting out of the use of ADTECH cookies, by selecting the appropriate setting on your browser or setting an ADTECH opt-out cookie provided on the following page [http://privacy.aol.com/privacy-policy/](https://www.adform.com/site/privacy-policy/). Further information about ADTECH's technology is available under [http://www.adtech.com](http://www.adtech.com/privacy). By using this website you consent to the processing of data about you by ADTECH as described herein.  
 
 **Third Party Tags:**
 
 **Adform**
 
-What information are they collecting: It is tracking tags, which help to optimise and see the effect of the digital campaigns we are running. The places we have installed the Adform tags (and the information we send through to them) are:
+What information are they collecting: It is tracking tags which help to optimize and see the effect of the digital campaigns we are running. The places we have installed the Adform tags (and the information we send through to them) are:
 
   * Build character
   * Front page / Landing page
@@ -74,19 +75,19 @@ Are you doing behavioural advertising with the third party? Yes
 
 **Google Doubleclick**
 
-What information are they collecting: It is tracking tags, which helps to optimise and see the effect of the digital campaigns we are running. The places we have installed the Double click tags (and the information we send through to them) are:
+What information are they collecting: It is tracking tags which helps to optimize and see the effect of the digital campaigns we are running. The places we have installed the Double click tags (and the information we send through to them) are:
 
   * Build character
-  * Front page / Landingpage
+  * Front page / Landing page
   * Accept button
 
 
 
 Are you doing behavioural advertising with the third party? No
 
-**Google ad network / Google Adsense  **
+**Google ad network / Google Adsense**  
 
-What information do they collect: It is an ad network where Google uses our inventory. Please see the policy: <http://www.google.com/intl/en/policies/privacy/> 
+What information are they collecting: It is an ad network where Google uses our inventory. Please see the policy: <http://www.google.com/intl/en/policies/privacy/> 
 
 **Name of Third party partner**
 
@@ -103,7 +104,7 @@ What information do they collect: It is an ad network where Google uses our inve
 **Link to partner's privacy policy**  
   
 ---|---|---|---  
-|  |  |   
+  |   |   |    
   
 Adform
 
@@ -113,7 +114,7 @@ IP address, visit to landing page, creating new characters, accepting the terms 
 
 | 
 
-Campaign tracking/optimisation
+Campaign tracking/optimization
 
 | 
 
@@ -131,7 +132,7 @@ Campaign tracking/optimisation
 
 | 
 
-<https://www.google.com/intl/en/policies/technologies/ads/>  
+ <https://www.google.com/intl/en/policies/technologies/ads/>  
   
 Google Network (Google Analytics)
 
@@ -161,7 +162,19 @@ Internal Analytical Tool
 
 <http://privacy.quisma.com/uk/privacy-policy/>  
   
-**Web Beacons**
+ Super           Kid Safe advertising                      <https://www.superawesome.tv/en/privacy-policy>
+
+Awesome    COPPA Compliant
+
+Playwire       Kid safe advertising                         <http://www.playwiremedia.com/privacy/>
+
+Media           COPPA Compliant
+
+Driver Digital **      Kid safe advertising               **<http://www.driverdigital.com/privacy>
+
+**                           COPPA Compliant**
+
+**Web beacons**
 
 Our email communications contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
@@ -181,23 +194,23 @@ We send you push notifications from time-to-time in order to update you about an
 
 **Behavioral Advertising**
 
-We partner with a third party to either display advertising on our Web site or to manage advertising on other sites.  Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage advertising on other sites.  Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferebces-mgr.truste.com/).  Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 **Children Under the Age of 13 Years**
 
-MovieStarPlanet is a movie themed online game and social network aimed at children aged between 8 and 15 years. The only personal information we collect from children, under 13, is their email address (to reset their password and send news updates about MovieStarPlanet) and their parents email address to notify their parents that they have joined the site. This email also advises parents that there is the possibility to use chat rooms and forums chat with their friends. We employ trained moderators and "approved lists" that are designed to screen the participation of users under 13 and prevent their disclosure of personally identifiable information in interactive areas of the Website, such as chat rooms.
+MovieStarPlanet is a movie themed online game and social network aimed at children aged between 8 and 15 years. The only personal information we collect from children, under 13, is their email address (to reset their password and send news updates about MovieStarPlanet) and their parents' email address to notify their parents that they have joined the site. This email also advises parents that there is the possibility to use chat rooms and forums chat with their friends. We employ trained moderators and "approved lists" that are designed to screen the participation of users under 13 and prevent their disclosure of personally identifiable information in interactive areas of the Website, such as chat rooms.
 
-In relation to collecting the information stated above, parents or legal guardians may at any time change the access to or completely opt-out of these socially interactive features. Any such personally identifiable information that is collected, and the required access to change or opt-out, are specified in the direct notice mails sent to the individual Parent or legal guardian. The only personal information we collect from children under 13 is their email address (to reset their password and send news updates about MovieStarPlanet) and their parents email address to notify their parents that they have joined the site.
+In relation to collecting the information stated above, parents or legal guardians may at any time change the access to or completely opt-out of these socially interactive features. Any such personally identifiable information that is collected, and the required access to change or opt-out, are specified in the direct notice mails sent to the individual Parent or legal guardian. The only personal information we collect from children under 13 is their email address (to reset their password and send news updates about MovieStarPlanet) and their parents' email address to notify their parents that they have joined the site.
 
-**IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU BELIEVE YOUR CHILD UNDER THE AGE OF 13 HAS PROVIDED PERSONALLY IDENTIFIABLE INFORMATION TO MOVIESTARPLANET WITHOUT YOUR CONSENT, PLEASE CONTACT US AT  **[ **us@moviestarplanet.zendesk.com**](mailto:us@moviestarplanet.zendesk.com) **  SO THAT WE MAY TAKE APPROPRIATE ACTION by deleting their PII immediately.**
+**IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU BELIEVE YOUR CHILD UNDER THE AGE OF 13 HAS PROVIDED PERSONALLY IDENTIFIABLE INFORMATION TO MOVIESTARPLANET WITHOUT YOUR CONSENT, PLEASE CONTACT US AT**[ **us@moviestarplanet.zendesk.com**](mailto:us@moviestarplanet.zendesk.com) **SO THAT WE MAY TAKE APPROPRIATE ACTION by deleting their PII immediately.**
 
 **How We Use Your Personally Identifiable Information**
 
-We use the personally identifiable information you provide us to operate, maintain, customize and enhance the features we provide you on the Website. We also use the information to communicate with you for administrative purposes, such as to help you reset your password, and to deliver newsletters and promotions. Where you have signed up to make purchases of certain products or services offered on the Website using a cell phone, we use the personally identifiable information you provide in order to fulfill those purchases.
+We use the personally identifiable information you provide us to operate, maintain, customize and enhance the features we provide you on the Website. We also use the information to communicate with you for administrative purposes, such as to help you reset your password and to deliver  promotions. Where you have signed up to make purchases of certain products or services offered on the Website using a cell phone, we use the personally identifiable information you provide in order to fulfill those purchases.
 
 A child's participation in or their ability to access an activity will not be conditioned on them providing more personal information than is reasonably necessary for that activity.
 
-**Personally Identifiable Information**
+Personally Identifiable Information
 
 We are not in the business of selling personally identifiable information; however, we may disclose information to third parties in the following circumstances:
 
@@ -207,27 +220,35 @@ We are not in the business of selling personally identifiable information; howev
 
 
 
-Users may also choose to disclose personally identifiable information in many interactive areas of the Website if over 13 years of age (See Children Under the Age of 13 Years, above). These areas include user's public profile page, chat rooms and the movies users create. Many of these features also connect directly to other third party services such as YouTube. Disclosing personally identifiable information in this way is against the [Rules](http://info.moviestarplanet.com/safety/rules.aspx) and users should not do it. The CRISP Automated Content Management System alerts trained Moderators to possible infringements of this rule and sanctions will be applied to users who attempt to circumvent the filters. Once personally identifiable information is made available, it may be collected and used by any person who has access to this content without restriction. If personal information has been disclosed on YouTube, it may be accessible and used by anybody on the Internet. Please note, that once individuals have disclosed such information in this way, it may be impossible to delete it.
+Users may also choose to disclose personally identifiable information in many interactive areas of the Website if over 13 years of age (See [Children Under the Age of 13 years](http://info.moviestarplanet.com/privacy-policy.aspx#ChildrenUnder13), above). These areas include user's public profile page, chat rooms and the movies users create. Many of these features also connect directly to other third-party services such as YouTube. Disclosing personally identifiable information in this way is against the [Rules](http://info.moviestarplanet.com/safety/rules.aspx) and users should not do it. The Community Sift Automated Content Management System alerts trained Moderators to possible infringements of this rule and sanctions will be applied to users who attempt to circumvent the filters. Once personally identifiable information is made available, it may be collected and used by any person who has access to this content without restriction. If personal information has been disclosed on YouTube, it may be accessed and used by anybody on the Internet. Please note, that once individuals have disclosed such information in this way, it may be impossible to delete it.
 
 **Links**
 
 The website may contain links to other websites not controlled by MovieStarPlanet. We make no representations or warranties concerning such websites. When individuals use external websites, their use is governed by that site's privacy policies and not by MovieStarPlanet's Privacy Policy. Users should review the privacy policies of each website carefully before providing any information.
 
-**Change the Status on Your Information and Opting Out**
+**Change the status on Your Information and Opting Out**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our user settings or by emailing our Customer Support at [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com).  We will respond to your request to access within 30 days.
+Upon request, MovieStarPlanet will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our user settings or by emailing our Customer Support at [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com).  We will respond to your request to access within 30 days.
 
 Please note that collection of certain personally identifiable information may be necessary for your continued use or access to the Website.
 
-If you would like to request an update or deletion of your child's information or refuse further collection, use or contact by the site please contact us at [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com)
+Parents have the right to review personal information collected from their children under 13. The only personal information collected is the child’s email and the parental e mail that was used to inform the parents that their child has become a member of MovieStarPlanet.com. If you would like this information to be removed please contact the Customer Support Team on [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com).  
 
-Parents have the right to consent to our collection and use of personal information from their kids without also consenting to our disclosure of such information to third parties.
+If you would like to request an update or deletion of your child's information or refuse further collection, use or contact by the site please contact us at [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com)
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com)
+Parents have the right to consent to our collection and use of personal information from their kids without also consenting to our disclosure of such information to third parties. Please contact us on the following e-mail if you like further information on this [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com) .
+
+You may choose to stop receiving our marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com)
 
 **Data Retention**
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com) . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com) . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
+
+**Legal Notice**
+
+In certain situations, MovieStarPlanet may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 **In the Event of a Merger or Sale**
 
@@ -241,22 +262,29 @@ When you enter sensitive information (such as a credit card number) on our order
 
 **Invite Friends**
 
-If you choose to use our referral service to invite a friend to our site, we will ask you for your friend's email address.  We will automatically send your friend a one-time email inviting him or her to visit the site. MovieStarPlanet ApS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.    
+If you choose to use our referral service to invite a friend to our site, we will ask you for your friend's email address.  We will automatically send your friend a one-time email inviting him or her to visit the site. MovieStarPlanet ApS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.    
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798.83 permits California residents to request information regarding our disclosure of any of your personal information to third parties for their direct marketing purposes. To make such a request, please send us an e-mail to [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com) or write to us at the address below.
+California Civil Code Section 1798.83 permits California residents to request information regarding our disclosure of any of your personal information to third parties for their direct marketing purposes. To make such a request, please send us an e-mail to [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com) or write to us at the address below.
 
 **Contacting MovieStarPlanet**
 
 If you have any questions about this Privacy Policy or the Website, please contact:
 
-MSP NOA ApS  
-Mikado House  
-Rued Langgaards Vej 8  
-2300 Copenhagen S
+_MSP NOA ApS_
 
-Telephone: [00 45 51914417](tel:%2B352%202%20664%209001)
+_36 54 80 88_
+
+_Mikado House_
+
+_Rued Langgaards Vej 8_
+
+_2300 Copenhagen S_
+
+_Denmark_
+
+Telephone: [00 45 51914417](tel:%2B352%202%20664%209001)
 
 Company registration number: 36 54 80 88  
-E-mail: [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com)
+E-mail: [us@moviestarplanet.zendesk.com](mailto:us@moviestarplanet.zendesk.com)
