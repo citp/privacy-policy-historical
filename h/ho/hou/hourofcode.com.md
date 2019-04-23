@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hourofcode.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230150743id_/https%3A//code.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hourofcode.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423174240id_/https%3A//code.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Code.org
 
-Date of Last Revision: August 6, 2018
+Date of Last Revision: January 28, 2019
 
 ## About Code.org
 
@@ -151,13 +151,15 @@ You may revoke Code.org’s access to your account on any Authentication Service
 
 ## Other Services Provided by Code.org
 
-When you use certain other features of our Website, such as signing forms or petitions to help advocate for Code.org, providing information to put your school on the map of schools teaching Computer Science, participating in a workshop, signing up as a local volunteer, bringing Code.org programs to your school or district, donating to Code.org, purchasing t-shirts or other items, or participating in online surveys, Code.org may ask you to provide Personal Information including your full name, email address, school or company name, and postal code or school street address, as well as your billing and/or shipping information when necessary to complete a purchase or make a donation. The information is used to enable your participation in the relevant feature and to send you occasional emails with information about Code.org that we feel may interest you. All non-transactional emails we send include an “unsubscribe” link. The one exception to this paragraph is when a User under the age of 16 signs our online petition supporting Code.org’s mission, any name or email address they provide is deleted from our servers and thus never used.
+When you use certain other features of our Website, such as signing forms or petitions to help advocate for Code.org, providing information to put your school on the map of schools teaching Computer Science, participating in a workshop, signing up as a local volunteer, bringing Code.org programs to your school or district, donating to Code.org, purchasing t-shirts or other items, nominating a teacher, or participating in online surveys, Code.org may ask you to provide Personal Information including your full name, email address, school or company name, and postal code or school street address, as well as your billing and/or shipping information when necessary to complete a purchase or make a donation. The information is used to enable your participation in the relevant feature and to send you occasional emails with information about Code.org that we feel may interest you. All non-transactional emails we send include an “unsubscribe” link. The one exception to this paragraph is when a User under the age of 16 signs our online petition supporting Code.org’s mission, any name or email address they provide is deleted from our servers and thus never used.
 
 If you enter your name to print a certificate of completion upon finishing our courses, we save the name you enter in order to let you share your certificate digitally.
 
 We may also survey Users to provide us with optional demographic information (such as gender, age, ethnicity), which we use in aggregate to better understand our User base.
 
 Computer science educators may provide a school or classroom street address, along with a description of course offerings, in order to allow students or parents to find local schools, summer-camps, or workshops that teach computer science in their neighborhood.
+
+If you nominate a teacher for professional development or to receive teaching resources, we will only send them emails about the program they are nominated for - they will not be added to any mailing lists (unless they sign up). The nominated teacher may see your name and your description of why you nominated them. Additionally, in the US, we will share the nominated teacher’s name, school, city, and why you nominated them (but not the teacher’s email address or your name) with our Regional Partner in the teacher’s state, so that our partner knows the teacher was recommended and to help process the teacher's application for a scholarship to the partner’s local workshops.
 
 Lastly, for teachers, educators, and partners who participate in our computer science training programs, we may ask for information that is required for compensating or acknowledging you for your work (such as a mailing address to send a check, the name of the school/district that employs you, or a tax form containing your social-security number for IRS reporting purposes).
 
