@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swimmingworldmagazine.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820062708id_/https%3A//www.swimmingworldmagazine.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimmingworldmagazine.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423231413id_/https%3A//www.swimmingworldmagazine.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
