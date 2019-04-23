@@ -1,111 +1,169 @@
-> *The following text is extracted and transformed from the mediatrust.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatrust.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423093633id_/https%3A//mediatrust.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to MediaTrust - The Platform for Performance Marketing
+# Privacy Statement | The Media Trust
 
-#### MediaTrust's Privacy Policy
+**UPDATED: July 2018**
 
-  1. **MediaTrust, Inc. ("MediaTrust", "we" or "us") is a performance marketing company.
+The Media Trust ("TMT") respects the privacy of all visitors to its public website, [www.mediatrust.com](http://www.mediatrust.com/) (“Website”). This Privacy Statement ("Statement") explains how TMT collects, uses, stores and protects the information that we collect from our Website, as well as your rights and choices regarding the information that we collect.
 
-This policy is designed to inform you about our privacy practices on our corporate Website ("Website"), www.mediatrust.com. This policy also addresses how our MediaTrust platform ("Platform") processes information on behalf of the advertisers, website owners and other businesses that use the Platform (our "Clients"). If you have any questions about this privacy policy, please feel free to contact us at support@MediaTrust.com.
+TMT is a U.S.-based company with domestic and international business clients. As a result, information that we collect on our Website, including personal information, may be transferred to our U.S. offices to permit us to comply with our legal and contractual obligations, to provide information and services to prospective and current clients, and to perform related business activities. In addition, we may work with third-party service providers in the U.S. and in other countries to support our business activities. Thus, personal information may be transferred to, stored on servers in, and accessed from the United States and countries other than the country in which the information was initially collected. In all such instances, we use, transfer, and disclose personal information solely for the purposes described in this Statement.
 
-**
-  2. **Policy for Information we Collect on this Website**
+If you have any questions or concerns about this Statement or about TMT’s privacy and data security practices, please contact us at[ info@themediatrust.com](https://web.archive.org/web/20190403101122id_/https://mediatrust.com/info@themediatrust.com).
 
-The Website is directed to our Clients who are generally businesses. 
+## Information Collection Not Covered by this Statement
 
-  3. **Personally Identifiable Information**
+This Statement does not apply to data that TMT collects on its secure, client-specific services platform[ ](https://web.archive.org/web/20190403101122id_/https://mediatrust.com/www.themediatrust.com)[www.themediatrust.com](https://web.archive.org/web/20190403101122id_/https://mediatrust.com/www.mediatrust.com) (“Client Website”), which we use to provide services to our clients. When you access the Client Website, you are doing so in a business capacity as a representative of your company, and your interactions with the Client Website are governed by our relationship agreement with your company.
 
-We collect Personally Identifiable Information ("PII") from the Website when it is provided to us. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, address, telephone, number, cell phone number, or email address. We collect PII from visitors to this Website under the following circumstances:
+This Statement also does not apply to personal information that we collect and use for employment-related purposes, whether through this website or through a website operated on our behalf by a third-party service provider.
 
-\- When visitors (including Clients and prospective Clients) send us an email or submit a question via the Website, we use that information to answer their question.
+## What TMT Means by “Personal Information”
 
-\- When visitors (including Clients and prospective Clients) apply to be publishers on the MediaTrust Platform, we collect their PII such as name, postal address, telephone number, and social security number. We use this information to process the publisher application, and if accepted into the Platform, to service the publisher's account. Therefore, by providing such information, you are also granting permission for a representative of MediaTrust to contact you to verify your application, if need be, for quality control purposes.
+For purposes of this Statement, “Personal Information” means any information from or about a person that either identifies that person directly or that makes that person identifiable when it is combined with other information from or about that person from any source. Personal Information stops being personal information when it has been aggregated, deidentified, or otherwise anonymized sufficiently that the individual is no longer identified or identifiable using reasonable efforts, resources, and technology.
 
-  4. **Non-Personally Identifiable Information**
+## Information that We Collect From and About You
 
-We collect Non-Personally Identifiable Information ("Non-PII") from visitors to this Website. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer's operating system. We use this information to verify our records and to provide more relevant services to our Clients and other visitors to the Website.
+### Categories of Personal Information that We Collect on the Website
 
-  5. **Cookies**
-
-We use "cookies" on this Website. Cookies are small text files that contain a string of alphanumeric characters. MediaTrust uses cookies to improve the quality of our service and Website, and to store the login preferences of our Clients on the Website and Platform. Most Internet browsers are initially set up to accept cookies. You can remove cookies by following directions provided in your Internet browser's "help" file. Please note that removing or otherwise disabling cookies may reduce your ability to enjoy the full functionality of the Website. For more information about cookies please visit <http://www.allaboutcookies.org/cookies/>. 
-
-  6. **Information we Collect via the MediaTrust Platform**
-
-This section of the policy is designed to help you understand how our MediaTrust platform ("Platform") processes information on behalf of (our "Clients").
-
-  7. **Overview of the MediaTrust Platform**
-
-The MediaTrust Platform is a scalable pay-for-performance advertising platform that provides detailed campaign information including clicks, actions, and conversions. As an advertiser using the MediaTrust platform, you work with vetted publishers that can refer consumer traffic to your campaign. As a publisher, you can promote your services to advertisers that run campaigns on the platform. When a publisher is selected to participate in an advertiser's program and that publisher generates a sale, they earn a referral fee.
-
-  8. **Cookies and Web Beacons**
-
-The Platform uses cookies in conjunction with web beacons in order to help us record detailed campaign information for our Client's advertising campaigns. Web beacons, also known as 1X1 pixels or clear GIFs, allow a website to count users who have visited a particular web page.
-
-  9. **Controlling the use of your information**
-
-Deleting your PII
-
-If you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website or via the Platform, please send your request to us at support@MediaTrust.com and we will process your request within a reasonable period of time after receipt. 
-
-  10. **Information Security**
-
-The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. 
-
-  11. **Information Relating to Children**
-
-Our products and services are designed for those 18 years of age and older. We do not knowingly collect PII from anyone under the age of 13. If we are made aware that we have received PII from someone under 13, we will use reasonable efforts to remove that information from our records. 
-
-  12. **Disclosure of Information to Third Parties**
-
-We generally do not rent or share PII collected via the Website or Platform with non-affiliated third parties without your consent. We may, however, share such PII with trusted third party contractors who provide services for us. These third party contractors are prohibited from using the information we provide for purposes other than performing services for us. 
-
-We may share Non-PII collected on the Website or via our Platform with unaffiliated third parties. For example, we may disclose that "blue banner ads" receive more clicks than "orange banner ads." This information cannot be used to contact or identify any person individually. 
-
-We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. 
-
-Finally, we may transfer information, including any PII, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. 
-
-  13. **Changes to this Privacy Policy**
-
-This privacy policy is subject to change. If we make any material or substantive changes in the way that we use the information collected through this Website or Platform, we will post a clear and conspicuous notice of those changes on the Website and in this privacy policy. 
-
-  14. **Who can I ask if I have additional questions?**
-
-Contact us any time and we'll answer any additional questions you may have. Our email address is support@MediaTrust.com. Alternatively, you may contact us at the following address:  
-Privacy Officer  
-MediaTrust  
-855 N. Douglas Street, 2nd Floor  
-El Segundo, CA 90245  
-
-
-Updated February 14, 2012
+  *  Names
+  * Email addresses
+  * Telephone numbers
+  * Business contact information, including names, email addresses, business addresses, telephone numbers, company name or business affiliation, and title.
+  * User IDs and passwords
+  * Personal information that you choose to share with us voluntarily when you ask a question, request follow-up, or otherwise interact with us
+  * Identifiers of devices used to access the Website
+  * Locations of devices used to access the Website
 
 
 
+### Information that You Provide to Us Voluntarily:
 
-Welcome to MediaTrust. We are the only source you need for performance advertising and deliver the results you are seeking. Our platform facilitates all types of advertising campaigns, including affiliate marketing programs, email marketing, lead generation, paid search advertising, social media, pay per click services and more.
+If you choose to communicate with us through an online form, sending us an email, or otherwise contact us, we will collect whatever information, including personal information, that you choose to provide us with.
 
-MediaTrust's advertising network includes the best publishers and direct response advertisers to create pay for performance advertising campaigns that will generate quality leads and increase online sales. Our innovative online platform has everything advertisers and publishers need to create, track and manage performance advertising campaigns.
+### Information that We Collect Automatically When You Visit Our Website
 
-Our service team and publishers are experts at utilizing search engine marketing, affiliate advertising, pay per click services, display advertising, email marketing and social media to bring results. Advertisers and publishers have access to a wide range of tracking and reporting tools that provide statistics about your campaigns and expert advice to help you create campaigns that will increase online sales.
+ **Logs** :
 
-Performance advertising allows you to easily manage your marketing budget with costs that are easy to determine and delivers results. We deliver value by focusing on helping you increase online sales and leads, not just driver generic traffic to your website. Our pay for performance business model is designed so we get paid a commission for each lead or sale, so you pay for results.
+Our Website automatically creates logs regarding user sessions that contain information about the features that you use, the actions that you take, and the information that you access. When your session ends, TMT only retains the information in a statistical and aggregated format (non-personal information) that we use for research purposes, assessing the effectiveness of our Website, and improving user experience.
 
-If you are an advertiser interested in pay for or a publisher interested in increasing your performance marketing revenue, sign up with MediaTrust for the best technology and expert advice and service.
+ **Cookies**
 
-  * [Ad Network](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/ad-network.php)
-  * [Affiliate Advertising](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/affiliate-advertising.php)
-  * [Affiliate Marketing](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/affiliate-marketing.php)
-  * [Affiliate Network](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/affiliate-network.php)
-  * [Increase Online Sales](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/increase-online-sales.php)
-  * [Advertising On Social Networks](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/advertising-on-social-networks.php)
-  * [Pay Per Click Advertising](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/pay-per-click-advertising.php)
+Cookies are small pieces of information transferred to your computer's hard drive through your web browser to enable our systems to recognize your preferences and settings. Cookies collect information such as the type of search engine used, the sections of the website visited, and other website usage information. Most browsers automatically accept cookies, and you may manually disable them. For more information on disabling cookies, go to the "help" menu on your browser. The Website may still be viewed if you choose to disable cookies, but your use and enjoyment of the website may be adversely affected.
+
+We use session cookies for website use and function, and those cookies expire at the end of the session. We use persistent cookies, but only to identify existing TMT clients when they visit our Client Website. TMT may retain information from the session and persistent cookies in a statistical and aggregated format (non-personal information) for research purposes, assessing the effectiveness of our Website, and improving user experience.
+
+ **Analytics**
+
+We use Matomo Analytics to collect and assess information about user activities on our website to improve our Website and user experience. That information includes device/operating system, geography, page visited, length of page view, referring page, exit page and more. [We limit the information we collect and use from Matomo Analytics by customizing our implementation to not track traditional personal-identifying information. We collect and retain information from Matomo Analytics in a statistical and aggregated format (non-personal information) for research purposes, assessing the effectiveness of our Website, and improving user experience. For more information about Matomo Analytics and your options with regard to the data it collects, see [Matomo Analytics.](https://matomo.org/what-is-matomo/)
+
+### Information that We Collect From Other Sources
+
+TMT does not collect personal information from or about you from third parties, or combine information from other sources with the information described in this Statement.
+
+## Why We Collect Information From and About You
+
+TMT does not collect, use, share, or disclose your personal information for anything other than the following lawful purposes:
+
+### To establish and maintain contractual relationships with our clients
+
+  * To establish relationships with new clients To fulfill our obligations to current clients
+  * To contact clients regarding account-related issues and business communications, including technical notices, updates, security alerts, and administrative messages
+  * To enable individuals to access and use our Services
 
 
-  * [Pay For Performance](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/pay-for-performance.php)
-  * [Performance Advertising](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/performance-advertising.php)
-  * [Search Engine Marketing](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/search-engine-marketing.php)
-  * [Direct Mail Marketing](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/direct-mail-marketing.php)
-  * [Display Advertising](https://web.archive.org/web/20130128072730id_/http%3A//www.mediatrust.com/display-advertising.php)
+
+### To comply with our legal obligations:
+
+  * To demonstrate compliance with applicable privacy and data security law
+  * To comply with incident monitoring, reporting, assessment, and notification requirements
+  * To comply with other applicable criminal and civil law and regulatory requirements under federal, state, and international law
 
 
+
+### To provide services and information that you request to receive:
+
+  * To provide customer service and support
+  * To communicate with you, including responding to your comments, questions, and requests
+  * To process and complete transactions, and send you related information, including purchase confirmations and invoices
+  * To provide direct marketing, email, and other distributed information distribution
+
+
+
+### To fulfill our other legitimate interests to the extent that they are not overridden by individual interests, fundamental rights, or freedoms: 
+
+  * To administer, operate, maintain, and secure our website and Services
+  * To monitor and analyze trends, usage, and activities in connection with our Services
+  * To investigate and prevent fraudulent transactions, unauthorized access to our Services, and other illegal activities
+  * To verify compliance with our internal policies and procedures For accounting, recordkeeping, backup, and administrative purposes
+  * To customize and improve the content of our communications, websites, and social media accounts
+  * To provide information and education
+  * To provide, operate, maintain, improve, personalize, and promote our business
+  * To develop new products, services, features, and functionality
+  * To market our products and services (first-party marketing only; we do not provide personal information to third parties for use in marketing any non-TMT goods or services)
+
+
+
+To the greatest extent possible, we will use aggregated, deidentified, or otherwise anonymized data to accomplish these purposes, but if we do not, or if we combine it with Personal Information we will continue to treat personal information in accordance with this Privacy Statement.
+
+## TMT Information Sharing and Disclosure 
+
+Except to the extent necessary to fulfill our business obligations, to accomplish one of the lawful purposes described in this Privacy Statement, or pursuant to your express instructions, we do not sell, transfer, or otherwise disclose personal information that we collect from or about you.
+
+ **With your express consent:** In the course of delivering contracted services, we will share your personal information with companies, organizations, or individuals outside of TMT when we have your prior express consent to do so.
+
+ **When You Choose to Directly Share Your Information About Our Website or Your Usage of It:** When you use our Website, certain features allow you to make some of your usage and content accessible to the public, directly or through social media platforms. We urge you to consider the sensitivity of any information prior to sharing it publicly or with other users.
+
+ **When Necessary to Comply with Laws and Law Enforcement Requests or Otherwise to Protect TMT, Its Clients, and Individuals** We may disclose your information (including your personal information) to a third party if:
+
+  * We believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process, or governmental request;
+  * To enforce our agreements, policies and terms of service;
+  * To protect the security or integrity of TMT’s products and services; To respond to an incident involving personal data for which TMT has direct or indirect responsibility
+  * To protect the property, rights, and safety of TMT, our clients, or the public To prevent harm or illegal activities
+  * To respond to an emergency which we believe in the good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person; or
+  * To investigate and defend ourselves against any third-party claims or allegations.
+
+
+
+### As the Result of a Business Transition:
+
+We may share or transfer your information (including your personal information) in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. We will take reasonable steps to assure that any other entity involved continues to comply with the terms of this Privacy Statement. We will notify you of such a change in ownership or transfer of assets by posting a notice on our website.
+
+### Sharing Aggregate, Anonymized, Deidentified, or Otherwise Non-Personal Data:
+
+We may share personal information that has been aggregated, deidentified, or otherwise anonymized and thus does not directly or indirectly identify you and that cannot, with reasonable efforts, resources, and technologies, be used to reidentify you. Such aggregated, anonymized, deidentified, or otherwise not re-identifiable information is not personal information within the scope of this Privacy Statement or applicable privacy laws.
+
+### Your Control Over Information that We Collect from and About You
+
+  * You may decline to share certain personal information with us, in which case we may not be able to provide you with some of the features and functionality of our Website or fulfill your requests.
+  * You may decline to accept cookies, but that decision may affect the functionality and performance of our Website.
+  * You may update or correct your personal information at any time by accessing the account settings page on the Website.
+  * You may opt out of receiving TMT promotional communications by using the unsubscribe link within each email. Note that, as long as you maintain an account with us, you will continue to receive administrative messages from us regarding the Services.
+  * You may request information about, and access to, the personal data that we collect from you.
+  * You may ask questions or make complaints about our privacy and data security practices with regard to your personal data.
+  * You may request that we delete information that we have collected about you.
+  * You may ask us for a copy of the information that we collected from you. To exercise any of these options or for additional information about our privacy and data security practices, contact us at [**info@themediatrust.com**](https://web.archive.org/web/20190403101122id_/https://mediatrust.com/info@themediatrust.com).
+
+
+
+## Security
+
+TMT uses reasonable organizational, technical, and administrative measures to provide a level of security appropriate to the risk associated with the personal information that we collect. We protect personal information under our control against -- and require our service providers to also protect against – accidental or unlawful destruction, loss, alteration, unauthorized disclosure of or access to, personal data that is transmitted, stored, or otherwise processed. Only authorized employees have access to the data you provide, and that access is limited to least privilege, need to know access. All TMT employees who have access to the data you provide have agreed to maintain the confidentiality of that information. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have concerns about the security of your information with TMT, please contact us immediately at [**info@themediatrust.com**](https://web.archive.org/web/20190403101122id_/https://mediatrust.com/info@themediatrust.com.).
+
+## Data Retention
+
+TMT retains information only as long as necessary to accomplish the business purpose for which it was collected and to comply with its legal and contractual obligations, plus 1 year, and then securely disposes of that information or convert it into non-personal information by aggregating it, de-identifying it, or otherwise anonymizing it so that it does not directly or indirectly identify you and cannot, with reasonable efforts, resources, and technologies, be used to reidentify you..
+
+## Children's Privacy
+
+Our Website, and the services we provide to our clients, are not directed to or intended for individuals under the age of 16. We do not knowingly collect personal information from children under 16. If we become aware that a child under the age of 16 has provided us with personal information, we will take steps to delete such information. If you become aware that a child under the age of 16 has provided us with personal information, please contact us at [**info@themediatrust.com**](https://web.archive.org/web/20190403101122id_/https://mediatrust.com/info@themediatrust.com.).
+
+## California Privacy Rights
+
+California Civil Code Section 1798.83 permits Website users who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at [**info@themediatrust.com**](https://web.archive.org/web/20190403101122id_/https://mediatrust.com/info@themediatrust.com.).
+
+## Changes to this Privacy Statement
+
+TMT may change and update this Privacy Statement from time to time, including materially changing the use made of personal information described herein. Any change or update to our privacy statement will be posted on our website under "Privacy Statement" at least 30 days prior to implementation.
+
+## Questions, Complaints, and Additional Information
+
+If you have questions, complaints, or concerns about this Privacy Statement, your personal information, or our use and disclosure practices, or you wish to exercise your options as described in this Privacy Statement, please contact us at **[info@themediatrust.com.](https://web.archive.org/web/20190403101122id_/https://mediatrust.com/info@themediatrust.com.)**
