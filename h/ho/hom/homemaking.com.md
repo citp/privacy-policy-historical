@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homemaking.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521162033id_/http%3A//homemaking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemaking.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423030522id_/https%3A//homemaking.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for homemaking.com - Homemaking.com
+# Privacy Policy for homemaking.com - Homemaking.com - Hacks, DIY, Food
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **contact@egeekowl.com**
 
@@ -16,7 +16,7 @@ https://homemaking.com/ uses cookies to store information about visitors’ pref
 
 → Google, as a third party vendor, uses cookies to serve ads on https://homemaking.com/.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to https://homemaking.com/ and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
