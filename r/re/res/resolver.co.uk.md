@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221115351id_/https%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423115422id_/https%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Resolver
 
@@ -48,7 +48,13 @@ We keep your personal information in line with our data retention policy, and wi
 
 In certain circumstances we have a statutory obligation to keep your personal information for a set period of time for example financial information (normally 6-7 years) for financial auditing purposes. If you require more information about our data retention policy then please contact us via the Help Centre.
 
-### 5\. Cookies
+### 5\. Chat Bot Users
+
+Whilst you are using the chat bot we are able to see the information that you have made public on Facebook. Therefore we may be able to see your name, age range and location. However we do not store or further process this personal data.
+
+If at the end of your chat bot session you wish to raise a complaint about a company, then we will direct you to our main website where we will ask you to register, if you’ve not done so before, and from that point the remainder of this Privacy Policy applies in relation to the collection and processing of your personal data in relation to raising and processing a complaint.
+
+### 6\. Cookies
 
 Our website uses cookies to distinguish you from other users of our site and to track your actions and the pages you visit while you use our website. This helps us to provide you with a great experience when you browse our site and also allows us to improve our site for you.
 
@@ -86,7 +92,7 @@ You can learn about Hotjar’s ability to use and share information through the 
 
 You may opt-out from having Hotjar collect your information when visiting using Resolver at any time by visiting their [Opt-out](https://www.hotjar.com/opt-out) and clicking ‘Disable Hotjar’ or enabling Do Not Track (DNT) in your browser.
 
-### 6\. Uses made of the information
+### 7\. Uses made of the information
 
 We use information held about you in the following ways:
 
@@ -114,7 +120,7 @@ We use information held about you in the following ways:
 
 **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-### 7\. Disclosure of your information
+### 8\. Disclosure of your information
 
 We may share your personal information with any member of our group, Resolving Ltd, Resolving UK Ltd, resolvercouk Ltd, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
@@ -145,11 +151,11 @@ We would have to disclose your personal information if we were under a duty to d
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-### 8\. Where we store your personal data
+### 9\. Where we store your personal data
 
 All information you provide to us is stored on our secure servers provided by Amazon Web Services (AWS) in Dublin, Ireland (EU) and in Frankfurt, Germany (EU). Where we have given you (or where you have chosen) a password for your account, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-### 9\. International Transfers
+### 10\. International Transfers
 
 From time to time and for operational reasons data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA").
 
@@ -182,16 +188,16 @@ Right to Restriction of Processing: If you believe that your personal data is in
 
 Right to Object: If you believe that there are no legitimate grounds for processing your data or that you no longer wish to receive marketing communications, then please write to us via our [Help Centre](https://support.resolver.co.uk/hc/en-us/requests/new).
 
-### 11\. Complaints
+### 12\. Complaints
 
 If you wish to complain to Resolver then please write to us via our [Help Centre](https://support.resolver.co.uk/hc/en-us/requests/new).
 
 If you are still not satisfied with the way your complaint was handled, you can refer your complaint to [UK Information Commissioner’s Office](https://ico.org.uk/concerns/).
 
-### 12\. Changes to our privacy policy
+### 13\. Changes to our privacy policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.
 
-### 13\. Contact
+### 14\. Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to our [Help Centre](https://support.resolver.co.uk/hc/en-us/requests/new).
