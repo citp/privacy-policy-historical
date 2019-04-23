@@ -1,28 +1,47 @@
-> *The following text is extracted and transformed from the fishgame3d.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824043748id_/https%3A//www.fishgame3d.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishgame3d.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424011101id_/https%3A//www.fishgame3d.com/policy.php) for the most accurate reproduction.*
 
 # AquaLife 3D
 
 **Privacy Policy**
 
-We use technologies like cookies (small files stored on your browser) and unique device identifiers to identify your computer or device so we can deliver a better experience.
+This privacy policy ("Privacy Policy") describes what information Gladiators Software ("Developer" or "We") collects, uses, and shares your personal information while you play our mobile application ("Mobile App") and/or use Gladiators Software website that link to this Privacy Policy ("Website"). We refer to our Mobile App users as users ("Users").
 
-We may collect personally identifiable information that you provide to us, such as your Facebook and Gamecenter user ID.
+We may make changes to this Privacy Policy from time to time. These updates, will take effect from the date of issue on our website at fishgame3d.com. Please, check back regularly for the updates.
 
-We don't share your personal information with marketers.  
-We generally do not share personally identifiable information (such as user ID) with other companies for marketing purposes.
+What kind of personal information does Gladiators Software collect?
 
-You can ask privacy questions.  
-If you have any questions or concerns about our privacy policies, please contact us: support@fishgame3d.com
+We aim to minimize how much personal information we collect from users when they play the Mobile App or use the Website. We collect the personal information that you voluntarily provide to us (e.g. email addresses when you contact our customer support team directly from Mobile App), but most of our data collection is limited to the following types of data, which do not identify you personally (e.g.game play information). In some countries, this type of data may be considered as personal information:
 
-We do not share your personal data (such as user ID) with any third parties.
+Personal Information  
+Information from Connected Social Network Accounts.  
+You may connect your Mobile App account to your Facebook or VK account so that you can keep up with your friends' progress as they play the Mobile App. We will collect which of your friends on Facebook or VK are also playing the Mobile App.
 
-We take steps to protect personal information.  
-We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
+Name and email address  
+You have the option to contact our customer support team directly from our Mobile App. When you do, we will collect and use this information to respond to your requests and/or comments.  
+If you contact our customer team, whether via email or by filling out a contact form on the Website, we will collect and use this information to respond to your requests and/or comments.
 
-Information we collect may be stored or processed on computers located in any country where we do business.
+Does Gladiators Software Collect My Financial Information When I Make In-App Purchases?
 
-Special situations may require disclosure of your data.  
-To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so.
+When you make in-app purchases in the Mobile App, we do not collect or have any access to your name and billing information. This information is collected and stored by your platform (e.g. Apple's Game Store or Android's Google Play) or your platform's payment processor.
 
-You can review more privacy-related information.  
-This privacy policy was last updated on May 11 2014. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
+Do third parties have access to my personal information?
+
+We do not sell or share Personal Information with any third parties or other companies for marketing purposes. We have the right to provide any and all personal information to law enforcement agencies, regulators, government agencies, the court in order to comply with the applicable law, to respond to their legitimate requests.
+
+How long will Gladiators Software keep my personal information?
+
+How long we store your personal information will depend on the purpose that we originally collected it. We will not retain personal information for longer than is necessary for our business or for legal requirements. You may request deletion at any time of all data by contacting our customer support team directly from our Mobile App. The data will be deleted 7 days after the request, provided there is no activity in the Mobile App.
+
+Cookies and similar tracking technologies.
+
+We do not use cookies, local storage, e-tags, or similar technologies on the Website or Mobile App.
+
+Is my personal information secured?
+
+We follow generally accepted industry standards to protect your information, both during transmission and once it is received. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. We and our Service Provider stake appropriate security measures to protect against unauthorized access or disclosure of the information collected by us. All information collected by Gladiators Software is done so via secured connections and protected and encrypted (using secure socket layer technology, "SSL") by industrial grade security software to guard against unauthorized access.
+
+Contact information.
+
+If you have any questions regarding our Privacy Policy, please use the 
+
+[Link](https://www.fishgame3d.com/support.php)
