@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metal-archives.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123105652id_/https%3A//www.metal-archives.com/content/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metal-archives.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423144127id_/https%3A//www.metal-archives.com/content/pp) for the most accurate reproduction.*
 
 # Privacy Policy - Encyclopaedia Metallum: The Metal Archives
 
