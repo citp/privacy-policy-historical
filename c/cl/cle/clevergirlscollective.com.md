@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevergirlscollective.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181141id_/https%3A//www.realclever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevergirlscollective.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423180452id_/https%3A//www.realclever.com/privacy-policy) for the most accurate reproduction.*
 
 # CLEVER Privacy Policy
 
@@ -135,10 +135,10 @@ If you have further questions or comments, please feel to contact us at: [privac
 
 ### Copyright
 
-Copyright © 2017 Clever Girls Collective, Inc.    |    All photos featured on our website are the work of our CLEVER Influencers
+Copyright © 2019 Clever Girls Collective, Inc.    |    All photos featured on our website are the work of our CLEVER Influencers
 
 ### Copyright Mobile Small
 
-Copyright © 2016 Clever Girls Collective, Inc.
+Copyright © 2019 Clever Girls Collective, Inc.
 
 All photos featured on our website are the work of our CLEVER Influencers
