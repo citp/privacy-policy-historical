@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppsc.gov.in privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901102327id_/http%3A//ppsc.gov.in/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppsc.gov.in privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423153645id_/http%3A//ppsc.gov.in/policy.aspx) for the most accurate reproduction.*
 
 # Welcome to Punjab Public Service Commission
 
