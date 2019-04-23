@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorzilla.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218200357id_/http%3A//www.colorzilla.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorzilla.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423131925id_/http%3A//www.colorzilla.com/privacy.html) for the most accurate reproduction.*
 
 # ColorZilla Privacy Policy
 
