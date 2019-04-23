@@ -1,80 +1,57 @@
-> *The following text is extracted and transformed from the cryptovest.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptovest.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423105024id_/https%3A//cryptovest.com/privacy-policy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Cryptovest - Cryptovest
 
-[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
+06 October 2018
 
-**What information do we collect?**
+**INTRODUCTION**
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+We provide information to help you take full advantage of this cutting-edge industry. The Services provided to you may involve the collection and retention of Personal Information in accordance with the General Data Protection Regulation (GDPR).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+Your privacy is important to us. At Cryptovest, we treat all information collected by, or transmitted to us with care, in particular, personally identifiable information, and this Policy describes how, when, and why we collect such information.
 
-**What do we use your information for?**
+Personally identifiable information (“Personal Information”) means any information that may be used, either alone or in combination with other information, to personally identify, contact or locate an individual. This includes your name, email and browsing behaviour data.. Any information that does not enable identification, location, or contacting of an individual, such as aggregated information, is “Anonymous Information”, and Cryptovest may process Anonymous Information in any way it so considers without prior notice to you.
 
-Any of the information we collect from you may be used in one of the following ways: 
+**CONSENT, NOTIFICATION AND MODIFICATION**
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+Upon using the Website, you authorize us to collect the Personal Information (as defined above) and to the extent necessary to manage your account and to improve services and information we send you. This information can be sent to any entity that contributes to the service provided to you such as those responsible for the execution of services and orders for their management, execution and processing.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+In addition, as a recipient of our service, you commit to provide appropriate notice of your privacy practices to, and obtain the necessary permissions and consent from, any third parties with whom you engage and/or whose Personal Information is collected, received, used, and/or disclosed by us.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+The Personal Information is stored for security purposes, to meet legal and regulatory obligations. We store it with the following systems:
 
-• To process transactions
+  * Client Relation Management system (CRM);
+  * Pipedrive and Mailchimp - marketing and sales platforms;
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-• To send periodic emails
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+You have a right of access, rectification, deletion and opposition to your Personal Information. This also includes a right to unsubscribe from emails that will be sent to you from time to time and ancillary rights under the GDPR.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+We reserve the right, in our discretion and subject to the applicable law, to amend this Privacy Policy at any time and. Any amendment shall be effective within 15 days following the posting of the changed Policy on our Website, and your continued Use of the service shall constitute consent to the terms and provisions of the amended Policy.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+The service may also use “cookies” and other tracking technologies to collect Anonymous Information. A “cookie” is a small text file that may be used, for example, to collect information about service activity and it may serve to recall Personal Information previously indicated by a trader, such as his/her user ID and password for access to the service(s).
 
-**How do we protect your information?**
+USE AND DISCLOSURE OF PERSONAL INFORMATION
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+We will store your Personal Information in our system and use it for the following purposes only:
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+  * Managing the administrative aspects of the services, providing you with support, handling complaints and contacting you;
+  * Enforcing this Policy and the Terms and Conditions, preventing misuse of the Website, complying with legal requirements, assisting competent authorities, and taking action in case of a dispute involving you, with respect to the services we provide;
+  * Improving the Website and the services, develop new services and improve the accuracy and reliability of the services;
+  * Non-affiliated third parties and the transfer of information outside your territory
+  * We do not sell, license, lease or otherwise disclose Personal Information to any third party for any reason, except as described below.
+  * We reserve the right to disclose your Personal Information to third parties where required by law to regulatory, law enforcement or other government authorities. We may also disclose your information as necessary to credit reporting or collection agencies, or when necessary to protect our rights or property.
+  * To help us improve our services to you, we may engage another business to help us to carry out certain internal functions such as account processing, fulfillment, client service, deliver and safe keeping as indicated in the Terms and Conditions
+  * Use of the information shared is strictly limited to the performance of the task we request and for no other purpose. All third parties with whom we share Personal Information are required to protect personal information in a manner similar to the way we protect personal information. Examples of information shared are identifying information such as name, e-mail address, and information on account activity.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-**Do we use cookies?**
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+If at any time you choose to purchase a product or service offered by another company/individual, any personal information you share with it will no longer be controlled under our Privacy Policy. We are not responsible for the privacy policies or the content of sites we link to and we have no control of the use or protection of information provided by you or collected by those sites. Whenever you elect to link to a co-branded web site or to a linked Web site, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third party, and you should familiarize yourself with the privacy policy published by that third party.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+**SECURITY**
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+We take reasonable precautions to protect Personal Information from loss, theft, misuse, unauthorized access or disclosure, alteration, or destruction. This is done by using physical, electronic, and procedural safeguards to protect Personal Information and we do not store Personal Information for longer than necessary to provide the service or as permitted by law. Though we implement measures to reduce the risks of damage, loss and unauthorized access to Personal Information, they do not provide absolute information security. Therefore, it is not guaranteed, and you cannot reasonably expect, that the service will be immune from any unauthorized interceptions or access.
 
-**Do we disclose any information to outside parties?**
+**COMPLAINTS, DPO**
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+If you have any complaints or concerns regarding your Personal Information then please contact us as follows: ​privacy@cryptovest.com​. We will respond to your enquiry within a reasonable time.
