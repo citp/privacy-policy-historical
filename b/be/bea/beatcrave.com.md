@@ -1,39 +1,68 @@
-> *The following text is extracted and transformed from the beatcrave.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906071912id_/http%3A//beatcrave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatcrave.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423162040id_/https%3A//oldtimemusic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Old-Time Music
 
-Privacy Policy
+Privacy Policy for Old Time Music.
 
-This privacy statement covers all sites in the ucrave.com network, the list of domains is available at ucrave.com, hereby known as “ucrave”.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact page](https://oldtimemusic.com/contact/).
 
-**Information Collection**
-
-ucrave may collect information from our users at several different points on the site. ucrave is the sole owner of the information collected on ucrave.
-
-**Cookies**
-
-ucrave may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. ucrave may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to ucrave. Persistent cookies can be removed. Consult your browser settings to remove cookies or prevent their usage.
-
-**Third Party Cookies**
-
-In the course of serving advertisements to this site, ucrave may use third party advertisers, our third-party advertiser, may place or recognize a unique cookie on your browser. ucrave has no access to or control over these cookies.
+At oldtimemusic.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by oldtimemusic.com and how we use it.
 
 **Log Files**
 
-Like most websites, we use log files. These include internet protocol (IP) addresses, browser type, internet service provider, referring/exit pages, platform type, date/time stamp, and number of clicks. We use this information to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+Like many other Web sites, oldtimemusic.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Legal Disclaimer**
+**Cookies and Web Beacons**
 
-Though we make every effort to preserve user privacy, ucrave may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
+oldtimemusic.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-**Links**
+**DoubleClick DART Cookie**
 
-ucrave contains links to other sites. Please be aware that ucrave is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by ucrave.
+→ Google, as a third party vendor, uses cookies to serve ads on oldtimemusic.com.
 
-**Notification of Changes**
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to oldtimemusic.com and other sites on the Internet.
 
-Whenever ucrave changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**Contact Information**
+**Our Advertising Partners**
 
-If you have any questions or comments regarding our privacy policy, please email, contact@ucrave.com.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+
+**Amazon  Associates Program**
+
+oldtimemusic.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://www.amazon.com/ "Amazon").
+
+While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: [Privacy Policy](https://oldtimemusic.com/privacy-policy/ "Privacy Policy for Fryer Land").  
+You may consult this listing to find the privacy policy for each of the advertising partners of oldtimemusic.com.
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on oldtimemusic.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+oldtimemusic.com has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. oldtimemusic.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here:
+
+– [Amazon](http://www.amazon.com/privacy/ "Amazon Privacy Policy")
+
+– [Google](http://www.google.com/privacy/ "Google Privacy Policy")
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies](http://www.whatarecookies.com/ "What are cookies?")?
+
+**Children’s Information**
+
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. oldtimemusic.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that oldtimemusic.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**
+
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**
+
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+**Update**
+
+This Privacy Policy was last updated on: Tuesday, Nov 20th, 2018.
+
+Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
