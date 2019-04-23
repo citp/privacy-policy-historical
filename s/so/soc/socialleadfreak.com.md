@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialleadfreak.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914174817id_/http%3A//www.socialleadfreak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialleadfreak.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423032228id_/https%3A//www.socialleadfreak.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Social Lead Freak
+# Privacy Policy - Social Lead Freak
 
 **1\. HOW WE PROTECT YOUR PRIVACY.**  
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.  
@@ -14,7 +14,7 @@ And like many other websites, we may use cookies. In plain English, this means i
 We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.  
 Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.  
 **5\. WHAT WE DO WITH YOUR INFORMATION.**  
-We use your information to operate our website’s business activities. For example, we may use this data to [contact](http://www.socialleadfreak.com/contact/ "contact") you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.  
+We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.  
 As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.  
 We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.  
 Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.  
@@ -29,11 +29,11 @@ We hate junk e-mail (Spam). Information you obtain from our website about us or 
 You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
 **9\. AUTORESPONDERS.**  
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us through our support desk at http://www.socialleadfreak.com/contact/.
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us through our support desk at https://www.socialleadfreak.com/contact/.
 
 **10\. POLICY CHANGES.**  
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.  
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention through our support desk at http://www.socialleadfreak.com/contact/ and providing us with information relating to your concern.  
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention through our support desk at https://www.socialleadfreak.com/contact/ and providing us with information relating to your concern.  
 You may also mail your concerns to us at the following address:
 
 ### Johnny S. Brooks
