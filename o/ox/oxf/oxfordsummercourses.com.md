@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxfordsummercourses.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426072448id_/http%3A//oxfordsummercourses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordsummercourses.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423140937id_/https%3A//oxfordsummercourses.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Oxford Summer Courses
+# Privacy Policy Summer Courses 2019 | Oxford Summer Courses
 
 ### **What is this Privacy Policy for?**
 
@@ -18,7 +18,7 @@ Cookies are small files saved to the user’s computer’s hard drive that track
 
 Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read [Google’s privacy policy here](http://www.google.com/privacy.html) for further information.
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read [Google’s privacy policy here](http://www.google.com/privacy.html) for further information.
 
 Other cookies may be stored to your computer’s hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
@@ -36,7 +36,7 @@ Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy 
 
 This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
 
-In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead. 
+In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
 
 ### **External Links**
 
@@ -57,3 +57,5 @@ This website may use social sharing buttons which help share web content directl
 This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls www.oxfordsummercourses.com (this is an example: http://bit.ly/1JKadZx).
 
 Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+
+By continuing to browse our site, you consent to the use of cookies. We use cookies to personalise content and ads, and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners. For more information, please view our privacy policy.Ok
