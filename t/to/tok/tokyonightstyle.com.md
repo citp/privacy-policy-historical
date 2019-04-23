@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tokyonightstyle.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001025728id_/https%3A//tokyonightstyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyonightstyle.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423031651id_/https%3A//tokyonightstyle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tokyo Night Style
-
-## Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -56,5 +54,7 @@ If there are any questions regarding this privacy policy, you may contact us usi
 * * *
 
 __https://tokyonightstyle.com/
+
+__(4F) 1-15-7 Dogenzaka Shibuya, Tokyo 150-0043 Japan
 
 __support@tokyonightstyle.com
