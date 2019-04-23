@@ -1,65 +1,137 @@
-> *The following text is extracted and transformed from the mammahealth.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626033223id_/http%3A//www.mammahealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mammahealth.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423204405id_/https%3A//mammahealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Mamma Health
 
-This Privacy Policy is in application to MammaHealth. This would impart how MammaHealth collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on MammaHealth and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with MammaHealth, you may receive and be under the coverage of MammaHealth, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
+The following Privacy Policy governs the online information collection practices of mammahealth.com, referred to as “us” or “we” in this policy statement.
 
-**Information Gathering**
+This Privacy Policy outlines the types of information that we gather about you while you are using any of our website(s), and the ways in which we may use this information.
 
-When you visit MammaHealth, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
+Your privacy is very important to us and we are committed to respecting the privacy of the visitors to all of our sites. We are very careful with what we do with your information.
 
-**Cookies**
+This Privacy Policy does not apply to any and all information you may provide to us or that we may collect apart from our sites (mail, telephone, social media, live events, webinars, and during program participation).
 
-These are pieces of information stored on the computer upon use. MammaHealth or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
+Read this Privacy Policy carefully, as well as the posted Terms and Conditions and Disclaimer before using this website. This Privacy Policy will be noted on all of the above websites listed.
 
-In visiting MammaHealth, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
+By visiting and using any of the above websites, you agree that your use of the site is governed by this Privacy Policy. We reserve the right to update the effective date of the policy to reflect the date of any changes. By continuing to use any of the above sites after we post updated changes (reflected by the noted date) you accept the Privacy Policy as modified.
 
-**IP Addresses**
+SECTION 1 – HOW WE COLLECT AND WHAT WE DO WITH YOUR INFORMATION
 
-The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
+When you access or purchase something from our store:
 
-**Advertising**
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address, email address or telephone number.
 
-The site advertises on pages within the site as well as other websites not affiliated with MammaHealth. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in MammaHealth and responses to promotions and advertisements on the sites where we advertise.
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system. Our store also may use a standard feature found in browser software called a “cookie” to enhance your experience with the site. Our cookies do not collect personal, confidential information and are not spyware. A list of cookies used by our store is noted below. Cookies prevent you from having to re-enter your preferences on certain areas of the site where you may have entered preference information previously. You may set your internet web browser to refuse cookies or to remove cookies from your hard drive.
 
-**Online Surveys**
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
+When you visit one of our websites:
 
-**Planning Tools**
+We may collect and store personal or other information that you voluntarily supply to us online while you are visiting one of our websites and you “opt in” to receive our newsletters, blogs, emails and promotional communications.
 
-MammaHealth gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
+We only contact individuals who specifically request that we do so or who have signed up to receive our messaging, purchased one of our products or programs, attended one of our programs or events or who have responded to a promotional campaign. The information we use is provided to us by you.
 
-**Using and Sharing Information**
+We use the information we collect from you while you are using our sites in a variety of ways, including using the information to customize features; advertising that appear on the sites; and making other offers available to you via email, direct mail or otherwise.
 
-There would be times that MammaHealth could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice, providing consumers additional direct marketing choices.
+Information we may collect from social networking sites:
 
-**Social Media Connection**
+If you choose to log into our services through Facebook Connect, we will request your permission to collect the following information about you: your e-mail address, name, profile picture, cover photo, friends, gender, networks (e.g., school), age range, language, country, and other information that you have chosen to make public. We may append this information to other information that we collect about you. If you “like” us on Facebook, we also may collect your email address. We may also post to your Facebook wall.
 
-MammaHealth provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
+We may also provide your information to third parties, such as service providers.
 
-**Accuracy of Information**
+SECTION 2 – THIRD-PARTY SERVICES
 
-Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
+We do not sell your personal information to third parties.
 
-**Linking to Other Sites**
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by MammaHealth, you should go over the privacy policies and other terms, as they could diverge from other sites. MammaHealth will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions. For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-**Children’s Privacy**
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
+Once you leave our store, or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-**Change in Company’s Ownership**
+Links
 
-If by chance another company obtains the assets in the business of MammaHealth, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
+When you click on links on our store or websites, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-**Service Customization**
+Partners
 
-Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
+We may make some content, products and services available through our site by emailing messages to you through cooperative relationships with third-party provider partners. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages our sites. In comes cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner’s use of your information.
 
-**Third-Parties**
+Google Analytics
 
-Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
+We may use third-party service providers, such as Google Analytics, to evaluate the use of our Website. Such third party service providers use automated devices and applications to evaluate use of our Websites and services. We or our service providers use these tools to help us improve our Websites, performance, and user experiences. These entities may use cookies and other tracking technologies, such as web beacons or Flash LSO, to perform their services.
 
-We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
+SECTION 3 – CONSENT
+
+By visiting and using any of the above sites, you agree that your use of the site is governed by this Privacy Policy. We reserve the right to update the effective date of the policy to reflect the date of any changes. By continuing to use any of the above sites after we post updated changes (reflected by the noted date) you accept the Privacy Policy as modified.
+
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
+
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example, on message boards, web logs, through email, or in chat areas, that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+
+How do I withdraw my consent?
+
+Your information related to visiting our sites is stored at the list server that delivers our content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver email to those who would like to receive it.
+
+All of the messaging or emails that we send to you include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link.
+
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by [contacting us](https://mammahealth.com/contact/).
+
+SECTION 4 – DISCLOSURE
+
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets; or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
+
+SECTION 5 – OUR STORE
+
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
+
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+
+Payment/Purchase Transaction Information:
+
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
+
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
+
+SECTION 6 – OUR STORE’S SECURITY
+
+To protect your personal information, our store via Shopify, Inc. takes reasonable precautions and follows industry best practices to make sure your information is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with an AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+SECTION 7 – OUR STORE’S USE OF COOKIES
+
+Here is a list of cookies that we use in our store. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
+
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc.).
+
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+
+_secure_session_id, unique token, sessional
+
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+
+SECTION 8 – AGE OF CONSENT
+
+This site is not directed to children under the age of 18 and we do NOT knowingly collect personally identifiable information from children under the age of 18 as part of any of our sites. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 18, we will delete such information from our records. It is not our intention of offer any of our products, programs or services to minors.
+
+SECTION 9 – CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information [contact](https://mammahealth.com/contact/) our Privacy Compliance Officer.
