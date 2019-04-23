@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhpbilliton.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214174736id_/https%3A//www.bhp.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhpbilliton.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423051902id_/https%3A//www.bhp.com/info/privacy-policy) for the most accurate reproduction.*
 
 # BHP | Privacy Policy
 
@@ -148,6 +148,6 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
 
 **Who we are**
 
-References to BHP in this Privacy Policy mean BHP Billiton Limited of 171 Collins Street, Melbourne, Victoria 3000, Australia; BHP Billiton Plc of Nova South, 160 Victoria Street, London, SW1E 5LB, UK; BHP Marketing Asia Pte Ltd of 10 Marina Boulevard, #50-01 Marina Bay Financial Tower, Tower 2, Singapore 018983; or the local BHP entity in the country in which your Personal Information is collected. For a full list of BHP entities, please see [here](https://www.bhp.com/-/media/documents/investors/annual-reports/2017/bhpannualreport2017.pdf?la=en "Annual Report, all business locations").
+References to BHP in this Privacy Policy mean BHP Group Limited of 171 Collins Street, Melbourne, Victoria 3000, Australia; BHP Group Plc of Nova South, 160 Victoria Street, London, SW1E 5LB, UK; BHP Marketing Asia Pte Ltd of 10 Marina Boulevard, #50-01 Marina Bay Financial Tower, Tower 2, Singapore 018983; or the local BHP entity in the country in which your Personal Information is collected. For a full list of BHP entities, please see [here](https://web.archive.org/-/media/documents/investors/annual-reports/2018/bhpannualreport2018.pdf?la=en).
 
 **Last updated [22 May 2018]**
