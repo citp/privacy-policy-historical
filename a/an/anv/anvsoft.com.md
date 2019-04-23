@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anvsoft.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517154345id_/http%3A//anvsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anvsoft.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423094004id_/https%3A//www.anvsoft.com/privacy.html) for the most accurate reproduction.*
 
 # AnvSoft.com Privacy Policy
 
