@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepaypers.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223191414id_/https%3A//www.thepaypers.com/aboutus/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaypers.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423222812id_/https%3A//www.thepaypers.com/aboutus/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # About us | Privacy policy | The Paypers
 
