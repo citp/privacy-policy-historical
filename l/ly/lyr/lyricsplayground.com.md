@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsplayground.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701161904id_/http%3A//lyricsplayground.com/notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsplayground.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423154830id_/https%3A//www.lyricsplayground.com/notice.html) for the most accurate reproduction.*
 
 # NOTICES, INFORMATION and AGREEMENTS
 
@@ -32,7 +32,7 @@ What is the DoubleClick DART cookie?
 
 The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on International Lyrics Playground displaying AdSense for content ads. When users visit International Lyrics Playground and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers (International Lyrics Playground) better serve and manage the ads on their site(s) and across the web. Users / viewers may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-_ValueClick Media_
+_Converant Media_
 
 We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information,  
 you can visit http://valueclickmedia.com/member_privacy.shtml 
@@ -50,3 +50,7 @@ Although we make International Lyrics Playground freely accessible, we don't int
 We welcome links to our service. You are free to establish a hypertext link to this site so long as the link does not state or imply any sponsorship of your site by International Lyrics Playground. Link Exchanges will only be approved by the Webmaster. Links to International Lyrics Playground must be displayed in a prominent location, eg., the 'home page' or a 'links page' easily accessible to site visitors and search engine bots. Links on subsequent pages are not acceptable for the Link Exchange. International Lyrics Playground will display a text link on the International Lyrics Playground Links Page. Links displayed on International Lyrics Playground does not constitute an endorsement to any products or services. International Lyrics Playground is not responsible for content found on other websites and provides these links as a service and convenience only. Links to sites found to have sexual or criminal content will not be considered for the Link Exchange. 
 
 Hotlinking to ANY files on International Lyrics Playground is monitored and strictly forbidden Hotlinking may result in the banning of your site IP. Offsite linking to our search utility is also forbidden. 
+
+_Exponential_
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via privacy@exponential.com. 
