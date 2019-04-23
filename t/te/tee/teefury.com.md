@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teefury.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403114623id_/http%3A//www.teefury.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teefury.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423224624id_/https%3A//teefury.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TeeFury
+# Privacy Policy – TeeFury
 
 At teefury you can rest assured that your personal information will never be rented, sold, or otherwise shared with any third party. Of course, this excludes the sharing of your shipping address with one of our shipping providers, UPS, FedEx, or USPS, in order to ship you your shirt. This also excludes the transmitting of your credit card information (fully encrypted) to our credit card processor, Authorize.net, in order to process your payment. These two exceptions are completely normal and necessary for any transaction to take place on any website where a physical product is being sold. In addition, we will never include you on any email newsletter unless you have elected to receive it, nor do we record or store any of your friends’ email addresses that are entered into our “Tell a Friend” fields. What we are trying to say is, your information is safe with us.
 
@@ -154,8 +154,8 @@ You can obtain a copy of and request that we correct errors in your personal inf
 
 If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Tee Fury to third parties for the third parties’ direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please contact us or write us:
 
-Tee Fury LLC   
-Attn. Legal – CA Privacy   
+Tee Fury LLC   
+Attn. Legal – CA Privacy   
 21098 Bake Parkway, Unit 100  
 Lake Forest, CA, United States, 92630
 
@@ -171,7 +171,7 @@ Tee Fury wants to communicate with you via email only if you want to hear from u
 
   * 9.2
 
-Your privacy is important to us, and for this reason we will never share or sell your email address with any third parties for direct marketing purposes. Please note, if you decide not to receive marketing emails from Tee Fury, you may still receive “Transactional” email messages regarding your order (i.e. order confirmation, shipping information, customer service notifications, etc.). If you have questions or concerns regarding this statement, please contact us at legal@teefury.com.
+Your privacy is important to us, and for this reason we will never share or sell your email address with any third parties for direct marketing purposes. Please note, if you decide not to receive marketing emails from Tee Fury, you may still receive “Transactional” email messages regarding your order (i.e. order confirmation, shipping information, customer service notifications, etc.). If you have questions or concerns regarding this statement, please contact us at legal@teefury.com.
 
 
 
@@ -181,7 +181,7 @@ Waiver of Liability
 
     * 10.1
 
-Whenever we obtain your personal information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. Nevertheless, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Accordingly, Tee Fury assumes no liability for any disclosure of data due to errors in transmission, unauthorized third party access, or other acts of third parties, or acts or omissions beyond our reasonable control.
+Whenever we obtain your personal information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. Nevertheless, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Accordingly, Tee Fury assumes no liability for any disclosure of data due to errors in transmission, unauthorized third party access, or other acts of third parties, or acts or omissions beyond our reasonable control.
 
     * 10.2
 
@@ -206,4 +206,6 @@ storefront_digest, unique token, indefinite If the shop has a password, this is 
           * If you have any other comments or queries about our privacy policy or the way we collect and use your information please ask.
 
 
+
+  * 
 
