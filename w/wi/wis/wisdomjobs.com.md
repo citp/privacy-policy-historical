@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdomjobs.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206163139id_/https%3A//www.wisdomjobs.com/privacy-and-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdomjobs.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423081640id_/https%3A//www.wisdomjobs.com/privacy-and-policy.php) for the most accurate reproduction.*
 
 # Privacy Policies | Online Jobs, IT Jobs | Wisdom Jobs
 
