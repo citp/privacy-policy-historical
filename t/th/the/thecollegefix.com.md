@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecollegefix.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824121810id_/https%3A//www.thecollegefix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecollegefix.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423190149id_/https%3A//www.thecollegefix.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | The College Fix
 
 ## Privacy Policy
 
@@ -12,7 +12,7 @@ By subscribing to our newsletter you accept our terms to deliver you the digita
 
 We employ third parties to perform _College Fix_ -related services, including database management, maintenance services, analytics, marketing, data processing, and email distribution. These third parties have access to your information only to perform these tasks on our behalf.
 
-If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal ** ** information in public activities or submissions.
+If you choose to engage in public activities on the site, [such as posting comments](https://www.thecollegefix.com/comment-policy/) on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal ** ** information in public activities or submissions.
 
 This Privacy Policy governs the manner in which _The College Fix_ collects, uses, maintains and discloses information collected from users (each, a “User”) of the [thecollegefix.com](http://thecollegefix.com/) website (“Site”). This privacy policy applies to _The College Fix_. This policy does not apply to information collected through any other website or to the practices of companies that  _The College Fix_ does not control.
 
