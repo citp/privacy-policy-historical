@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-css.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125041557id_/https%3A//www.free-css.com/help-and-support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-css.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423020426id_/https%3A//www.free-css.com/help-and-support/privacy-policy) for the most accurate reproduction.*
 
 # Free CSS | Privacy Policy
 
