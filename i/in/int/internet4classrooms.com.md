@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet4classrooms.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026053132id_/https%3A//www.internet4classrooms.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet4classrooms.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423090213id_/https%3A//www.internet4classrooms.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at Internet 4 Classrooms
 
