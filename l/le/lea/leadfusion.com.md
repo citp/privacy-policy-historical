@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadfusion.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006133141id_/https%3A//www.leadfusion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadfusion.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423231821id_/http%3A//www.leadfusion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Leadfusion
 
@@ -15,8 +15,7 @@ There are various forms contained throughout the website including but not limit
 Leadfusion product demonstrations will perform calculations and return results based on financial, demographic, age identifiers, and other data input by the visitor. The input data is collected by Leadfusion.
 
 **Customer Login**  
-Authorized Leadfusion clients can log into Leadfusion’s administrative website by  
-entering their account name and password to verify their identity and establish a secure connection when logging into the administrative area. Activity performed on the administrative website is captured by Leadfusion for auditing and tracking purposes and to provide services to client.
+Authorized Leadfusion clients can log into Leadfusion’s administrative website by entering their account name and password to verify their identity and establish a secure connection when logging into the administrative area. Activity performed on the administrative website is captured by Leadfusion for auditing and tracking purposes and to provide services to client.
 
 **Log Files**  
 Like most standard website servers, Leadfusion uses log files. This includes internet protocol (IP) addresses, browser type, internet service providers (ISP), referring and exit pages, platform type, date and time stamp, number of clicks to analyze trends, track visitor movement in the aggregate, gather broad demographic information, and general site administration. This data is automatically collected when you use our Products and pages relating to such Products. Data collected in log files are not linked to personally identifiable information, such as name, address, email, etc. However, personally identifiable information may be collected when you provide such information to us.
@@ -55,7 +54,9 @@ At Leadfusion we take precautions in accordance with industry standards to prote
 
 When our clients are logged into the administrative area managing their licensed products, their activities are protected by a 128-bit SSL (Secure Socket Layer) encryption technology. While we use SSL encryption to protect information online, we also protect visitor and client information off-line in accordance with industry standards. Nevertheless, no data transmission over the Internet can be guaranteed to be 100% secure and while Leadfusion strives to protect your personal information, we cannot guarantee or warrant that it will remain secure. You agree that Leadfusion shall not be held responsible for harm that you or any person may suffer as a result of a breach of confidentiality in respect to your use of the Leadfusion’s website or Products or any information that is collected or that you transmit to us.
 
-Updating and Correcting Personal Information
+### Updating and Correcting Personal Information 
+
+### 
 
 If a client’s personally identifiable information changes (such as Leadfusion contact, phone, email or postal address), they can email us at support@leadfusion.com, call us toll-free at 1-877-205-9825, or write to us at Leadfusion, Attn: Customer Services, 10590 West Ocean Air Drive, Ste. 200, San Diego, CA 92130.
 
