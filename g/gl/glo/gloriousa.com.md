@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gloriousa.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022011336id_/http%3A//gloriousa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloriousa.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423223108id_/http%3A//www.gloriousa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gloriousa
 
