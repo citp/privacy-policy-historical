@@ -1,57 +1,134 @@
-> *The following text is extracted and transformed from the silodrome.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530053948id_/http%3A//silodrome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silodrome.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423084041id_/https%3A//silodrome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Silodrome
+# Privacy Policy — Silodrome
 
-We collect basic (email address or public username) information from you when you subscribe to our newsletter or join us on Twitter, Google+ or Facebook. This data is _never_ sold and is kept in the strictest confidence.
+Effective date: August 29, 2018
 
- _Google, as a third party vendor, may use cookies to serve ads on the site. Google’s use of the DART cookie enables it to serve ads to you based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. – Note: We are not currently using Google for advertising._
+Silodrome (“us”, “we”, or “our”) operates the silodrome.com website (the “Service”).
 
- **What do we use your information for?**
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-Any of the information we collect from you may be used in one of the following ways:
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from silodrome.com
 
-\- To send periodic emails.  
-The email address you provide for the newsletter, will only be used to send you the newsletter. We will _never_ sell your personal information.  
-**Do we use cookies?**
+## Information Collection And Use
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+### Types of Data Collected
 
- **Do we disclose any information to outside parties?**
+#### Personal Data
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
- **Third party links**
+  * Email address
+  * Cookies and Usage Data
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+#### Usage Data
 
- **Childrens Online Privacy Protection Act Compliance**
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+#### Tracking & Cookies Data
 
- **Online Privacy Policy Only**
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
- **Your Consent**
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-By using this site, you consent to our [website’s privacy policy](http://www.freeprivacypolicy.com/).
+Examples of Cookies we use:
 
- **Changes to our Privacy Policy**
+  *  **Session Cookies.** We use Session Cookies to operate our Service.
+  *  **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  *  **Security Cookies.** We use Security Cookies for security purposes.
 
-If we decide to change our privacy policy, we will post those changes on this page.
 
- **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+## Use of Data
 
- **James McBride**
+Silodrome uses the collected data for various purposes:
 
-http://silodrome.com
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
 
-editor@silodrome.com
+
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Hong Kong and choose to provide information to us, please note that we transfer the data, including Personal Data, to Hong Kong and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Silodrome will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+Silodrome may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Silodrome
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  *  **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  *     * By email: editor@silodrome.com
+
+
+
+See the [Silodrome Terms of Service here](https://silodrome.com/terms-of-service/) – If you have any questions you can contact us directly via our [contact page here](https://silodrome.com/contact-us/).
+
+[](https://silodrome.com/wp-content/uploads/2018/11/Silodrome-Logo-Icon.jpg)
