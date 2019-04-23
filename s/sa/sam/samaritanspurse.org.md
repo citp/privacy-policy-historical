@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231001155id_/https%3A//www.samaritanspurse.org/our-ministry/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423081534id_/https%3A//www.samaritanspurse.org/our-ministry/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **1.1** Samaritan’s Purse is committed to protecting your privacy and will only use the information that we collect about you lawfully. This policy is designed to provide transparency into our privacy practices and principles and to inform you of the way your information is collected and used. 
 
-**1.2** If you have questions about this policy, please contact us through [dataprivacy@samaritan.org](mailto:dataprivacy@samaritan.org), or by writing to Samaritan’s Purse, PO Box 3000, Boone, NC 28607, or calling (828) 262-1980.
+**1.2** If you have questions about this policy, please contact by writing to Samaritan’s Purse, PO Box 3000, Boone, NC 28607, or calling (828) 262-1980.
 
 **1.3** Please read the following carefully to understand our practices regarding your personal data and how we will treat it. BY USING OUR WEBSITE OR PROVIDING US WITH YOUR PERSONAL INFORMATION, YOU AGREE TO YOUR PERSONAL INFORMATION BEING USED AND STORED IN A MANNER SET OUT IN THIS POLICY. We may update this policy periodically so please check it regularly.
 
@@ -104,7 +104,6 @@
 
 **7.1** To request details of the information we hold about you, to request that we no longer contact you or that you no longer wish to receive information from us, to update us on your contact details, or to change your preferences, simply let us know by:
 
-  * (a) sending an email to [dataprivacy@samaritan.org](mailto:dataprivacy@samaritan.org)
   * (b) writing to Data Privacy, c/o Legal Department, Samaritan’s Purse, P.O. Box 3000, Boone, North Carolina 28607; or
   * (c) calling our representatives at (828) 262-1980 between 8am-4:30pm (Monday through Friday).
 
