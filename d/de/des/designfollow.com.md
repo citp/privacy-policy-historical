@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the designfollow.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230100129id_/http%3A//www.designfollow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designfollow.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423115827id_/https%3A//www.designfollow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignFollow
 
 Privacy Policy for www.designfollow.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.designfollow.com/contact/ "Contact Us").
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://www.designfollow.com/contact/ "Contact Us").
 
 At www.designfollow.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.designfollow.com and how it is used.
 
