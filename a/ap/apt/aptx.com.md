@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aptx.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921044813id_/https%3A//www.aptx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptx.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423142834id_/https%3A//www.aptx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | aptX
 
