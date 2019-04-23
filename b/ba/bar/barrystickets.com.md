@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629221813id_/https%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423211448id_/https%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy For Barry's Ticket Service
 
@@ -18,7 +18,7 @@ WE DO NOT SELL YOUR PERSONAL INFORMATION OR EMAIL ADDRESS TO "LIST BROKERS" OR A
 
 
 
-> The special features on our site require the majority of the information we request in order to function properly. The other information and optional questions give us additional information about our user base that helps us improve the site. 
+> The special features on our site require the majority of the information we request in order to function properly. Some orders may require contact with another distributor to complete the transfer of your tickets. The other information and optional questions give us additional information about our user base that helps us improve the site. 
 
   * **Who Collects the Information**
 
@@ -44,13 +44,13 @@ WE DO NOT SELL YOUR PERSONAL INFORMATION OR EMAIL ADDRESS TO "LIST BROKERS" OR A
 
 
 
-> We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or by emailing us at info@Barrystickets.com or you may contact us at 800-801-8425 to opt-out. 
+> We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or by emailing us at info@Barrystickets.com or you may contact us at 800-348-8499 to opt-out. 
 
   * **Update your personal information**
 
 
 
-> If your personally identifiable information changes, or if you no longer desire our service, you may update it by contacting us by telephone at 800-801-8425. 
+> If your personally identifiable information changes, or if you no longer desire our service, you may update it by contacting us by telephone at 800-348-8499. 
 
   * **Member Contact**
 
