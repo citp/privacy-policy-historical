@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119204623id_/http%3A//doit.niu.edu/doit/policies_root/privacy-website.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423215304id_/https%3A//doit.niu.edu/doit/policies_root/privacy-website.shtml) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -25,7 +25,7 @@ NIU websites and online forms are supported by several University servers and a
 
 ### Questions or Concerns
 
-Anyone with questions or concerns about NIU's policies and procedures regarding the protection of personal data may email the University Privacy Officer at [PrivacyOfficer@niu.edu](mailto:PrivacyOfficer@niu.edu). For additional information on privacy rights for NIU community members, please view the [NIU Privacy Policy](https://web.archive.org/web/20181119204623id_/http%3A//doit.niu.edu/doit/policies_root/privacy_policy.shtml).
+Anyone with questions or concerns about NIU's policies and procedures regarding the protection of personal data may email the University Privacy Officer at [PrivacyOfficer@niu.edu](mailto:PrivacyOfficer@niu.edu). For additional information on privacy rights for NIU community members, please view the [NIU Privacy Policy](https://web.archive.org/web/20190423215304id_/https%3A//doit.niu.edu/doit/policies_root/privacy_policy.shtml).
 
 * * *
 
