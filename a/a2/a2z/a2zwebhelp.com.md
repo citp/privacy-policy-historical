@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the a2zwebhelp.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109094434id_/http%3A//a2zwebhelp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zwebhelp.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423050725id_/https%3A//www.a2zwebhelp.com/privacy-policy) for the most accurate reproduction.*
 
 # A2Z Web help - Privacy Policy
-
-Home :: Privacy Policy 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact[at]a2zwebhelp.com](mailto:contact@a2zwebhelp.com) or [a2zwbhelp[at]gmail.com](mailto:a2zwbhelp@gmail.com). 
 
 At [http://www.a2zwebhelp.com](http://www.a2zwebhelp.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [http://www.a2zwebhelp.com](http://www.a2zwebhelp.com/) and how it is used. 
 
 **Log Files**  
-Like many other Web sites, [ http://www.a2zwebhelp.com](http://www.a2zwebhelp.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, [ http://www.a2zwebhelp.com](http://www.a2zwebhelp.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**   
 [http://www.a2zwebhelp.com](http://www.a2zwebhelp.com/) does not use cookies. 
