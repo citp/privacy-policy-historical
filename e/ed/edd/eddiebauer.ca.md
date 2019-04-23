@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddiebauer.ca privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230072538id_/http%3A//www.eddiebauer.ca/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.ca privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423222933id_/https%3A//www.eddiebauer.ca/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
 
 # Privacy And Security | Company Information | Eddie Bauer
 
