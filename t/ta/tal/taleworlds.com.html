@@ -1,0 +1,514 @@
+<!--The following is the downloaded HTML source of the taleworlds.com privacy policy that was archived on 2019-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190423164930id_/https%3A//www.taleworlds.com/en/Home/Privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+        <title>Privacy - TaleWorlds Entertainment</title>
+
+
+
+        <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=6252138831"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/jquery-2.0.2.js"></script>
+<script src="/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+        <script src="/Scripts/jquery-ui-1.10.3.js"></script>
+<script src="/Scripts/jquery.ui.potato.menu.js"></script>
+
+        <script src="/bundles/jqueryval"></script>
+
+        <script src="/Scripts/d-gallery/jquery.d-gallery.js"></script>
+
+        <link href="/Content/d-gallery/jquery.d-gallery.css" rel="stylesheet">
+
+        <link href="/Content/jquery.ui.potato.menu.css" rel="stylesheet">
+<link href="/Content/site.css" rel="stylesheet">
+
+        <script src="/Scripts/jquery.magnific-popup.js" type="text/javascript"></script>
+        <link rel="shortcut icon" href="/tw.png">
+        <link href="/Content/magnific-popup.css" rel="stylesheet">
+        
+        
+        <link href="/Content/aw-showcase/style.css" rel="stylesheet">
+<link href="/Content/aw-showcase/style-index5.css" rel="stylesheet">
+
+        
+       
+        <script type="text/javascript">
+
+            $(document).ready(function () {
+                $('#mainmenu').ptMenu();
+               
+            });
+        </script>
+      <style>
+          
+    .mfp-iframe-scaler 
+    {
+        width:620px;
+        height:400px;
+    }
+  
+      </style>
+        
+
+        <script type="text/javascript">
+
+            $(document).ready(function () {
+
+                //add frame to videos
+                $('iframe').addClass("frame");
+
+                //create language menu
+                $('#langmenu').ptMenu();
+
+                //gallery
+                var galleries = $('.d-gallery').adGallery({ update_window_hash: false });
+
+                $("#modalDiv").dialog({
+                    modal: false,
+                    autoOpen: false,
+                    height: $(window).height(),
+                    width: '750',
+                    draggable: false,
+                    resizeable: false,
+                    title: ''
+                });
+
+                $(window).resize(function () {
+                    $("#modalDiv").dialog("option", "height", $(window).height()-100);
+                    
+                });
+
+
+                $('#registerLink').click(
+                        function () {
+                            url = 'https://forums.taleworlds.com/embed/register.php';
+                            $("#modalDiv").dialog("open");
+                            $("#modalIFrame").attr('src', url);
+                            return false;
+                        });
+
+
+                //MAGNIFY 
+                $('.magnify_image').magnificPopup({
+                    type: 'image'
+                    // other options
+                });
+            });
+
+
+            function LoadNews(section, pageIndex) {
+
+                var url = '/en/Shared/AllNewsPartial?section=_section_&pageIndex=_pageIndex_&pageSize=_pageSize_';
+
+                url = url.replace("_section_", section);
+                url = url.replace("_pageIndex_", pageIndex);
+                url = url.replace("_pageSize_", 30);
+
+                $('#allnews').load(url);
+            }
+
+            function LoadBlogs(section, pageIndex) {
+
+                var url = '/en/Shared/AllBlogsPartial?section=_section_&pageIndex=_pageIndex_&pageSize=_pageSize_';
+
+                alert(url);
+                url = url.replace("_section_", section);
+                url = url.replace("_pageIndex_", pageIndex);
+                url = url.replace("_pageSize_", 30);
+
+                $('#allblogs').load(url);
+            }
+
+        </script>
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-42455293-1', 'taleworlds.com');
+            ga('send', 'pageview');
+
+        </script>
+
+</head><body style=""><div id="fb-root"></div>
+<script>    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=6252138831";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script>
+    <script>        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } } (document, 'script', 'twitter-wjs');</script>
+
+    
+
+
+    
+        
+        <div id="outer">
+        
+           <div id="background">
+           
+           
+
+       
+        
+        
+              <header>
+                    <div id="header" class="header">
+                        <a href="/"><img src="/content/images/twlogo_s.png" alt="logo" style="margin:7px"> </a>
+                        <div id="header-menu" style="text-align:center">
+                                <ul id="mainmenu" style="display:inline-block" class="potato-menu potato-menu-group potato-menu-holizontal">
+                                    <li class="menubutton_l potato-menu-item potato-menu-has-vertical"><a href="#">GAMES</a>
+                                        <ul class="potato-menu-group potato-menu-vertical">
+                                            <li class="potato-menu-item"><a href="/en/Games/MountAndBlade">Mount&amp;Blade</a></li>
+                                            <li class="potato-menu-item"><a href="/en/Games/Warband">M&amp;B Warband</a></li>
+                                            <li class="potato-menu-item"><a href="/en/Games/FireAndSword">M&amp;B with Fire&amp;Sword</a></li>
+                                            <li class="potato-menu-item"><a href="/en/Games/NapoleonicWars">M&amp;B Napoleonic Wars</a></li>
+                                            <li class="potato-menu-item"><a href="/en/Games/Bannerlord">M&amp;B II Bannerlord</a></li>
+                                            <li class="potato-menu-item"><a href="/en/Games/VikingConquest">M&amp;B Viking Conquest</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menubutton_m potato-menu-item"><a href="/en/Content/Company">COMPANY</a></li>
+                                    <li class="menubutton_m potato-menu-item"><a href="/en/Home/Store">STORE</a></li>
+                                    <li class="menubutton_m potato-menu-item"><a href="/en/Home/Support">SUPPORT</a></li>
+                                    <li class="menubutton_r potato-menu-item"><a href="http://forums.taleworlds.com/">FORUM</a></li>
+
+                                </ul>
+                        </div>
+                        <div id="header-topmenu" style="line-height:20px;padding-right:6px">
+                
+                          
+                                    <div class="middle_block login">
+
+        <a id="registerLink" href="#" class="popup-link">Register</a>
+
+        <a href="/en/Account/LogIn?returnUrl=%2Fen%2FHome%2FPrivacy" id="registerLink">Log in</a>
+    </div>
+      
+                          
+
+                        </div>
+           
+                    </div>
+           
+           </header>
+              
+       
+
+        <div id="body">
+          
+                <div id="content">
+                    
+
+
+
+
+<h1>TaleWorlds Notice of Privacy (for the EU/EEA)</h1>
+<p>Last revised: [03 August 2018]</p>
+
+<p>TaleWorlds provides this Privacy Policy to inform you of our policies and procedures regarding the processing of Personal Data of users of (i) our websites located at <a href="https://www.taleworlds.com">https://www.taleworlds.com</a> (our “Site”), including any services, features and content accessible or downloadable from the Site, and (ii) any other TaleWorlds application, service or product licensed, downloaded or otherwise accessed by such users through third party websites or sources ((i) and (ii) collectively, the “Service”).</p>
+<p>We are committed to protecting and respecting your privacy. This Privacy Policy (“Policy”) describes how we treat information that you provide to us or that we collect about you.</p>
+<p>By “Personal Data”, we refer to data that relates to you as an identified or identifiable natural person. Personal Data include your name, your address, your telephone number, your email address, your age, your gender, or a part of your credit card number, for instance. Anonymous information, which we are not in a position to relate to you, does not qualify as Personal Data.</p>
+
+<h3>1. Controller’s name and contact details</h3>
+<p>Controller in the sense of the General Data Protection Regulation (GDPR) and other data protection or data privacy laws in the Member States of the European Union or the European Economic Area and other guidelines with a data protection nature regarding the Services is:</p>
+<p>Taleworlds Entertainment İkisoft Yazılım Bilgi Ve İletişim Eğitim Tekn. Ve Hizm. Elek. San. Ve Tic. LTD. ŞTİ<br>
+Universiteler Mahallesi, Ihsan Dogramaci Bulvari no: 27<br>
+06800, ODTU Teknokent, Galyum Blok<br>
+Cankaya/Ankara, Turkey<br>
+Email: info@taleworlds.com
+</p>
+
+<p>The Controller is called “TaleWorlds”, “we”, “our” and “us” in this Policy.</p>
+<p>The Representative of TaleWorlds pursuant to Art.&nbsp;27 of the GDPR is:
+Rivacy GmbH<br>
+Hammerbrookstr. 90<br>
+20079 Hamburg<br>
+Phone: [telephone number]<br>
+Email: info@rivacy.eu</p>
+
+<h3>2. Contact details of the Data Protection Officer (DPO)</h3>
+<p>The Data Protection Officer of TaleWorlds may be contacted at privacy@taleworlds.com.</p>
+<h3>3. General information on our data processing</h3>
+<p>We process Personal Data only when necessary for the performance of a contract with you, when processing is necessary for compliance with a legal obligation we are subject to, or based on our legitimate interests, except where such interests are overridden by the interests or fundamental rights and freedoms of you which require the protection of your Personal Data. This section applies to all detailed processing activities listed below.</p>
+<h4>3.1 Information Security</h4>
+<p>We and our employees understand the need for user privacy, and we maintain reasonable and appropriate security procedures to protect your information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into due account the risks involved in the processing and the nature of the Personal Data. Access to user data is strictly limited to specific individuals who are trained to respect user privacy. The access given to these employees is restricted to their need for such information for business purposes. A log of those who accessed the data is maintained and monitored to prevent security breaches.</p>
+<h4>3.2 Third-party information storage</h4>
+<p>We may share Personal Data with vendors or agents working on our behalf for the purposes described in this Policy. For example, we may hire companies to assist with protecting and securing our systems or services. Any vendor or agent that we retain must comply with our data privacy and security requirements and are not allowed to use Personal Data they receive from us for any other purpose. Like us, they will never barter, trade, or sell access to your Personal Data. We remain responsible and liable under data protection laws if third-party agents we engage to process Personal Data on our behalf do so in a manner inconsistent with the applicable data protection laws, unless we prove that we are not responsible for the event giving rise to the damage.</p>
+<h4>3.3 Children</h4>
+<p>We recognise that we have a special obligation to protect personal information obtained from children. We will not knowingly collect personal information from any child, or process such information, without parental consent. For the purpose of this Policy, a child means any individual who is under the age of 16 (or the minimum legal age to consent to the collection and processing of personal information where this is different under applicable law).</p>
+<h4>3.4 Retention periods</h4>
+<p>We will retain your Personal Data only as long as it is necessary to fulfil the respective purpose, unless we are required by law to store your Personal Data longer.</p>
+<h4>3.5 Automated Decision-Making</h4>
+<p>We do not use automated-decision making, including profiling.</p>
+<h3>4. Use of our Site</h3>
+<p>On our Site, we gather information either directly from you (e.g., when you provide certain information to us) or indirectly (e.g., through our Site’s technology).</p>
+<h4>4.1. Information collected indirectly</h4>
+<p>We indirectly collect a variety of information through your interaction with and use of our Sites. This information may include, but is not limited to, browser settings, data collected through automated electronic interactions, application usage data, demographic information, geographic or geo-location information, statistical and aggregated information (“Other Information”). The processing is necessary for the purpose of our legitimate interests in accordance with Article&nbsp;6(1)(f) of the GDPR, as we need this information to keep user data safe by detecting certain threats, and to provide you with the best possible experience.</p>
+<p>Statistical or aggregated information does not directly identify a specific person, but it may be derived from Personal Data. For example, we may aggregate Personal Data to calculate the percentage of users in a particular country.</p>
+<p>If we combine Other Information with Personal Data, we will treat the combined information as Personal Data.</p>
+<h5>4.1.1 Tracking Data</h5>
+<p>Website traffic volume and patterns, such as the number of visitors to a given website or page on a daily basis is typically referred to as “Tracking Data”. This type of indirectly collected information is gathered through various means, such as an IP address, which is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that “serve up” web pages, automatically identify your computer by its IP address. When you visit any of our Sites, our servers log your computer’s IP address.</p>
+<p>To obtain these Tracking Data, we use third party analytics providers. The Third Party Analytics Providers use “Cookies”, which are text files placed on your computer, to help us analyse how users use our Sites. The information generated by the Cookie about your use of our Sites, including your IP address, will be transmitted to and stored by Third Party Analytics Providers’ servers. On our behalf, the Third Party Analytics Providers will use this information for the purpose of evaluating your use of our Sites, compiling reports on website activity, and providing other services relating to website activity. The Third Party Analytics Providers will not associate your IP address with any other data held by them.</p>
+<p>You may find information on our Third Party Analytics Provider in section 8 below and a list of Cookies used by them in section 9 below.</p>
+<h5>4.1.2 Our Cookies</h5>
+<p>Other types of indirectly collected information are stored in Cookies from us.</p>
+<p>Some of our Sites use Cookies simply to store your account details so that you do not need to re-enter your information when re-joining our Sites. The use of Cookies is standard on the internet. Although most Web browsers automatically accept Cookies, the decision of whether to accept or not is yours. You may adjust your browser settings to prevent the reception of Cookies, or to provide notification whenever a Cookie is sent to you. You may refuse the use of Cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to access the full functionality of our Sites. Cookies placed by us will expire when you terminate the website session or after a reasonable period of inactivity.</p>
+<p>You may find a list of the Cookies used in section 9 below.</p>
+<h5>4.1.3 Third-party Cookies</h5>
+<p>Additionally, we may use third-party advertising companies to serve ads on our behalf. These companies may use Cookies and action tags to measure advertising effectiveness. You can still decide whether you want to accept these Cookies. You may adjust your browser settings to prevent the reception of third-party Cookies, or to provide notification whenever such third-party Cookies are sent to you. We use the following third-party Cookies:</p>
+<p>You may find a list of Cookies used in section 9 below.</p>
+<h4>4.2. Information collected directly</h4>
+<p>We also collect Personal Data and other information that you voluntarily provide. It is entirely your decision to provide the requested information. However, certain features of our Sites may not be available in this case.</p>
+<p>We keep all information collected directly confidential, and will only use the information for the particular purpose it is collected for. We will seek your specific permission for any additional use. We will never barter, trade, or sell access to your information without your specific consent.</p>
+<h5>4.2.1 User Accounts</h5>
+<p>When setting up an account on one of our Sites (“User Account”), you may be asked to provide Personal Data including, but not limited to, your name, email address, and your phone number. If you choose to purchase any products, services, access codes or other items for sale by us, you will be asked to provide payment details and your full address for billing purposes.</p>
+<p>As a user of our Sites, we may obtain your Personal Data when you register to use our Site or services and products or when you provide feedback about our products or services. The processing is necessary to perform the contract with you according to Article&nbsp;6(1)(b) of the GDPR. As a user, we will use your Personal Data, unless otherwise prohibited by law, for the following purposes:</p>
+<p>To provide you with the products and services you request.</p>
+<p>To communicate with you about your account or transactions with us and send you information about features on our sites or changes to our policies.</p>
+<p>To provide support including, but not limited to, product updates, product patches and fixes and other similar communications.
+</p><p>Furthermore, we will use your Personal Data for our legitimate interests according to Article&nbsp;6(1)(f) of the GDPR to notify you about information about features on our Sites, new product releases and service developments and to advertise our products and services in accordance with this Policy.</p>
+<p>Any User Account data will only be stored until you decide to terminate your User Account. In case we are obliged to further store your Personal Data due to statutory retention requirements, your Personal Data will be barred for further use by us and only stored until such retention periods expire.</p>
+<h5>4.2.2 Personal Data provided by other means</h5>
+<p>Personal Data provided by you on our Sites by other means, e.g., via contact forms, will be stored in our service database and retained for the period necessary to fulfil the business our contractual obligations to you in accordance with Art.&nbsp;6(1)(b) of the GDPR, unless a longer retention period is required by law.</p>
+<h4>4.3 Third country transfers</h4>
+<p>We transfer Personal Data for hosting purposes to the USA. This transfer is safeguarded by Data Processing Agreements with data protection guarantees and the EU-US Privacy Shield, as the recipients are certified under this framework.</p>
+<p>To receive a copy of the respective safeguards, please contact us at privacy@taleworlds.com.</p>
+<h3>5. Our Games</h3>
+<p>This section provides information on how we we treat information that you provide to us or that we collect about you in regard to our games: “Mount &amp; Blade”, “Mount &amp; Blade: Warband”, “Mount &amp; Blade: With Fire and Sword”, “Mount &amp; Blade: Napoleonic Wars”, “Mount &amp; Blade: Warband – Viking Conquest Reforged Edition”, and “Mount &amp; Blade II: Bannerlord” (our “Games”).</p>
+<p>When you are playing one of our Games, we process your IP address, and metrics on how you use our games, this is information on how long you play our Games and how you play them. We will also process game events, like achievements, milestones or other timestamps within the game.</p>
+<p>This Personal Data is necessary for us to provide you with the Games and their full functionality. The legal basis for processing the data is our contract with you (Art. 6(1)(b) of the GDPR). Where the processing exceeds the necessity to fulfil our contract (when analysing how you use our game for the purpose of enhancing your game experience), the legal basis is our legitimate interest (Art. 6(1)(f) of the GDPR) to improve the Games for your future enjoyment.</p>
+<p>For billing purposes, we process your name, your email and postal address and your credit or debit card number, depending on which payment you choose. The basis for the processing of this Personal Data is also our contract with you (Art. 6(1)(b) of the GDPR), and our legal requirement to store this information for tax reasons (Art. 6(1)(c) of the GDPR).</p>
+<p>The provision of all of the Personal Data is a contractual requirement, as we may not provide you with our Games or to carry out any payments by you.</p>
+<p>We transfer Personal Data for billing purposes to the USA. This transfer is safeguarded by Data Processing Agreements with data protection guarantees and the EU-US Privacy Shield, as the recipients are certified under this framework.</p>
+<p>To receive a copy of the respective safeguards, please contact us at privacy@taleworlds.com.</p>
+<h3>6. Job applications</h3>
+<p>This section describes how we process Personal Data you submit through our Site for job applications as further described below. Personal Data includes your name, address, education, contact details, current job title and employer, attachments (such as CV, cover letter), and possibly your passport details.</p>
+<p>Any personal data you provide to us will be used to process your application for the specific position you have applied for. The processing of your personal data is based on Art.&nbsp;6(1)(b) of the GDPR. We need your Personal Data in order to conduct the recruitment process, and we will not be able to consider you for a job offer when you do not provide us with your Personal Data.</p>
+<h3>7. Your rights</h3>
+<p>You have the right to access your Personal Data that we hold about you and to correct, update, amend, suppress, delete or otherwise modify any Personal Data where it is inaccurate, or has been processed in violation of the applicable data protection regulations, unless we have to keep the Personal Data for legitimate business or legal purposes. When updating your Personal Data, we may ask you to verify your identity before we can act upon your request.</p>
+<p>You may object to the use or processing of your Personal Data or withdraw consent to use your Personal Data at any time.</p>
+<p>You have the following rights:</p>
+<p>The right to require free of charge (i) information whether your Personal Data is retained and (ii) access to and/or (iii) duplicates of the Personal Data retained. However, if the request affects the rights and freedoms of others or is manifestly unfounded or excessive, we reserve the right to charge a reasonable fee (taking into account the administrative costs of providing the information or communication or taking the action requested) or refuse to act on the request;</p>
+<p>The right to request proper rectification, removal or restriction of your Personal Data;</p>
+<p>Where processing of your Personal Data is based on legitimate interests according to Article&nbsp;6(1)(f) of the GDPR, the right to object on grounds relating to your particular situation at any time. If you object we will no longer process your Personal Data unless there are compelling and prevailing legitimate grounds for the processing or the data is necessary for the establishment, exercise or defence of legal claims;</p>
+<p>Where processing of your Personal Data is either based on your consent or necessary for the performance of a contract with you and processing is carried out by automated means, the right to receive the Personal Data concerning you in a structured, commonly used and machine-readable format or to have your Personal Data transmitted directly to another company, where technically feasible (data portability);</p>
+Where the processing of your Personal Data is based on your consent, the right to withdraw your consent at any time without impact to data processing activities that have taken place before such withdrawal or to any other existing legal justification of the processing activity in question; and<br>
+The right not to be subject to any automatic individual decisions which produces legal effects on you or similarly significantly affects you.<br>
+To exercise the rights referred to above, please contact us at privacy@taleworlds.com. You may take legal actions in relation to any breach of your rights regarding the processing of the Personal Data, as well as to lodge complaints with the competent authority.<br>
+<h3>8. Google analytics</h3>
+<p>Google Analytics is a web analysis service of Google LLC. (<a href="https://www.google.de/contact/impressum.html">https://www.google.de/contact/impressum.html</a>) (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; hereinafter "Google"). We use this service in order to adapt our site to your needs and to constantly improve it. The information generated by the Cookie about your use of this website (e.g. browser type/version, operating system used, URL of the previously visited page, IP address, time of server request) are transmitted to a Google server in the USA and stored there. The user profiles are created in pseudonymized form.</p>
+<p>The information obtained enables us to evaluate the use of our website and to record website activities. In addition, Google provides other services related to the use of the website and the Internet in order to conduct market research and to be able to design our website in line with requirements. The information may be passed on to third parties if this is required by law or if third parties process this data on behalf of the company. Your IP address will be anonymized (IP masking) and in no case merged with other Google data.</p>
+<p>You can prevent the aforementioned processing by Google and the collection of your data relating to the use of the website (including your IP address) by downloading and installing a browser add-on (<a href="https://tools.google.com/dlpage/gaoptout?hl=en">https://tools.google.com/dlpage/gaoptout?hl=en</a>). This link also provides further information on deactivating and correctly installing the browser add-on.</p>
+<p>For more information about Google Analytics' privacy practices, please visit <a href="https://support.google.com/analytics/answer/6004245?hl=en">https://support.google.com/analytics/answer/6004245?hl=en</a>.</p>
+<p>We use the "Google Analytics" service as described on the basis of our legitimate interest (Art. 6 (1) lit. f DS-GVO).</p>
+<h3>9. Which Cookies we use or third parties use.</h3>
+<p>Some of the data processing operations about which we inform you in this Policy require that we or third parties set Cookies. You can find a detailed list of these Cookies below:</p>
+
+<table>
+    <thead>
+        <tr>
+            <td>
+            Cookie
+        </td>
+        <td>
+            Vendor
+        </td>
+        <td>
+            Purpose
+        </td>
+        <td>
+            Opt-Out/Objection
+        </td>
+        <td>
+            Retention Period
+        </td>
+            </tr>
+        </thead>
+    <tbody><tr>
+        <td>
+            ASP.NET_SessionId
+        </td>
+        <td>
+            TaleWorlds
+        </td>
+        <td>
+            Used for log in function. Keeps user logged in to the site.
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            Immediately expired
+            </td>
+    </tr>
+
+
+    <tr>
+        <td>
+            __RequestVerificationToken
+        </td>
+        <td>
+            TaleWorlds
+        </td>
+        <td>
+            A token kept as a security measure to prevent cross-site request forgery (CSRF) attacks
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            Immediately expired
+        </td>
+    </tr>
+    <tr>
+        <td>
+            TWCookie
+        </td>
+        <td>
+            TaleWorlds
+        </td>
+        <td>
+            Cookie set by forum during login.&nbsp;
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            Immediately expired
+    </td></tr>
+    <tr>
+        <td>
+            PHPSESSID
+        </td>
+        <td>
+            TaleWorlds
+        </td>
+        <td>
+            A general purpose PHP identifier used to maintain user session variables.
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            Immediately expired
+            </td>
+</tr>
+    <tr>
+        <td>
+        __cfduid
+        </td>
+        <td>
+            CloudFlare
+        </td>
+        <td>
+            Used to identify individual clients behind a shared IP address and apply security settings on a per-client basis.
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            24 Hours
+            </td>
+</tr>
+    <tr>
+        <td>
+            tfw_exp
+        </td>
+        <td>
+            Twitter
+        </td>
+        <td>
+            This Cookie is set due to Twitter integration and sharing capabilities for the social media.
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            24 Hours
+            </td>
+</tr>
+    <tr>
+        <td>
+            _ga
+        </td>
+        <td>
+            Google
+        </td>
+        <td>
+            This Cookie is used to distinguish users.
+        </td>
+        <td></td>
+        <td>
+            (2 years)
+            </td>
+</tr>
+    <tr>
+        <td>
+            _gid
+        </td>
+        <td>
+            Google
+        </td>
+        <td>
+            This Cookie is used to distinguish users.
+        </td>
+        <td></td>
+        <td>
+            24 hours
+        </td>
+</tr>
+    <tr>
+        <td>
+            _gat
+        </td>
+        <td>
+            Google
+        </td>
+        <td>
+            This Cookie is used to throttle the request rate.
+        </td>
+        <td></td>
+        <td>
+            1 minute
+            </td>
+        </tr>
+</tbody></table>
+
+<h3>
+    10. Changes to this Policy</h3>
+    <p>We may change this Policy from time to time for various reasons such as changes to reflect in law and regulation, changes in industry practices and technological developments.</p>
+
+                </div>
+           
+            </div>
+
+              <div id="footer">
+                   
+                  <div id="copyright">
+                      <span>© 2005-2019 TaleWorlds Entertainment. All rights reserved.</span> 
+                      <span style="margin-left:10px"><a href="/en/Home/Privacy">Privacy Policy</a></span>
+
+                  </div>
+                    
+                
+
+                </div>
+       
+
+       
+
+
+           </div>
+    </div>
+        
+      
+       
+    
+
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-resizable" tabindex="-1" role="dialog" aria-describedby="modalDiv" aria-labelledby="ui-id-1" style="display: none; position: static;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">&nbsp;</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="modalDiv" class="ui-dialog-content ui-widget-content"><iframe style="width:650px;background-color:White" id="modalIFrame" width="100%" height="100%" marginwidth="0" marginheight="0" frameborder="0" scrolling="auto" title="Dialog Title" class="frame"></iframe></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>
