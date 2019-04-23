@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubreakifix.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904120315id_/https%3A//www.ubreakifix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubreakifix.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423060656id_/https%3A//www.ubreakifix.com/privacy-policy) for the most accurate reproduction.*
 
-# uBreakiFix - Privacy Policy
+# Privacy Policy | uBreakiFix
 
 This Privacy Policy was last modified on April 28, 2015.
 
