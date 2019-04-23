@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the karups.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001205343id_/http%3A//www.karups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karups.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423040238id_/https%3A//www.karups.com/privacy) for the most accurate reproduction.*
 
-# Join Karups.com, the best porn network online!
+# | Karups.com - 4K Porn Network
 
 **This privacy policy is applicable to Karups.com.**
 
