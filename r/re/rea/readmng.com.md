@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readmng.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104083943id_/https%3A//www.readmng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readmng.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423220916id_/https%3A//www.readmng.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Policy | ReadManga Today - Read Free Manga Online!
 
