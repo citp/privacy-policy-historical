@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommpay.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828103707id_/https%3A//ecommpay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommpay.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423092250id_/https%3A//ecommpay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ECOMMPAY
 
@@ -101,7 +101,9 @@ The Website uses cookies to distinguish You from other Visitors of the Website. 
 
  **SECURITY**
 
-All information provided by You to us is stored on secure servers and we use appropriate organisational, technical and administrative measures to protect Your personal data. Once Your information is received, we use strict procedures and security features to prevent any unauthorised access. However, please note that no transmission of information via the internet is completely secure and no storage system is guaranteed to be entirely secure. If You have any reason to believe that Your interaction with us is no longer secure, please contact us immediately. ** **
+All information provided by You to us is stored on secure servers and we use appropriate organisational, technical and administrative measures to protect Your personal data. Once Your information is received, we use strict procedures and security features to prevent any unauthorised access. In accordance with the recommendations of the Payment Card Industry Security Standards Council, Customer card details are protected using Transport Layer encryption — TLS 1.2 and application layer with algorithm AES and key length 256 bit.
+
+However, please note that no transmission of information via the internet is completely secure and no storage system is guaranteed to be entirely secure. If You have any reason to believe that Your interaction with us is no longer secure, please contact us immediately.
 
  **CHANGES TO THE PRIVACY POLICY**
 
