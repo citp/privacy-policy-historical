@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedoctorweighsin.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921043330id_/https%3A//thedoctorweighsin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedoctorweighsin.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423055023id_/https%3A//thedoctorweighsin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Doctor Weighs In
+# Privacy Policy
 
 The Doctor Weighs In website (the “Site”) is strongly committed to protecting your privacy. The purpose of this Privacy Policy is to inform users of the Site as to what information we collect and how and why we use such information.
 
