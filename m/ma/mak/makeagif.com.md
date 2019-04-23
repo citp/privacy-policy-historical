@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the makeagif.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229071922id_/https%3A//makeagif.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeagif.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423023633id_/https%3A//makeagif.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-chatavatar-pattern chatavatar-sad chatavatar Artboard 1 Artboard location-16px_bookmark-star logo Artboard 1 objects-16px_sticker Group Group users-24px-outline_man-glasses
+Artboard 1 Artboard location-16px_bookmark-star logo Artboard 1 objects-16px_sticker Group Group users-24px-outline_man-glasses chatavatar-pattern chatavatar-sad chatavatar
 
 ### last updated April 1st, 2011
 
