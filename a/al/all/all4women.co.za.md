@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the all4women.co.za privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231170339id_/https%3A//www.all4women.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all4women.co.za privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423205021id_/https%3A//www.all4women.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - All 4 Women
+# Privacy Policy – All 4 Women
 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
