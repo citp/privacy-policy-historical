@@ -1,133 +1,111 @@
-> *The following text is extracted and transformed from the toasttab.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121211822id_/https%3A//pos.toasttab.com/toast/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toasttab.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423163141id_/https%3A//pos.toasttab.com/privacy) for the most accurate reproduction.*
 
-# Toast Privacy Policy | Toast
+# Privacy Policy | Toast POS
 
-### Scope
+#### **Toast Privacy Policy**
 
-This Privacy Policy describes the information [Toast](https://pos.toasttab.com/), Inc. (“Toast”, “we”, “us” and/or “our”) collects when you and others interact with us through our products and services, including our customer point-of-sale systems, websites, applications, APIs, and any other covered product or service that links to this Policy (collectively, the “Services”).  It also explains how we use and share that information, the measures we take to secure your information, and the choices you have with respect to information about you.
+Effective: October 1, 2018
 
-### Consent
+**Introduction**
 
-Please read this Policy carefully.  You agree and consent to this Policy by using the Services. 
+Welcome and thank you for visiting the Toast website (this site and any other Toast sites are referred to as the “Site”). Please read through this Privacy Policy carefully as it contains important information about how Toast collects and uses your personal information.
 
-If you are using the Services on behalf of a company, organization, government, or other legal entity, your use certifies to us that an authorized person from your organization has accepted this Policy on your behalf, and that you are authorized to use the Services.
+Toast offers an integrated restaurant point of sale and management system (collectively with its related APIs and applications, the “POS System”) consisting of a suite of integrated hardware, software, tools and services that help our Customers understand their Patrons and offer personalized products and services to them.
 
-Changes to the Privacy Policy
+Here are a few terms we use throughout this Privacy Policy that you should know:
 
-We may revise this Privacy Policy from time to time. The changes will not be retroactive, and the most current version of the Policy, which will always be at https://pos.toasttab.com/privacy, will govern. We will try to notify you of material revisions, for example via a Service notification or an email if you have an account. We will also keep prior versions of this Privacy Policy in an archive for your review. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Policy.
+“Customers” are businesses that have purchased our products or services for use in their establishments.
 
-**Children**
+“Patrons” are those individuals who complete transactions with our Customers.
 
-Our Services are not targeted or directed at children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. 
+“Personal Information” is: (i) information that directly identifies you as an individual, like your name or your email address, or (ii) a combination of pieces of information that do not identify you on their own, but could identify you when combined using reasonable effort.
 
-**Information We Collect**
+This Privacy Policy describes how Toast, Inc. (“Toast”, “we”, “us” and/or “our”) collects, uses, shares and secures the Personal Information (defined below) of Customers in connection with our provision of the Site, POS System, and any other products or services we may offer from time to time (collectively, the “Services”).
 
-We collect information from a variety of sources.
+This Privacy Policy also describes our use of Personal Information collected or received from Patrons. We acquire Personal Information when Patrons visit the Site or interact with the Services offered, including, for example, when Patrons place an order with one of our Customers, participate in loyalty or rewards programs, elect to receive an email, text receipt, or other communication from Toast or our Customers. Standard message and data rates may apply.
 
-#### Information You Provide
+We may also obtain information, including Personal Information, from publicly available sources or third parties, and combine this information with the Personal Information you provide to us.
 
-We collect information from and about you if you create an account (either directly with us or through our customer websites), and as part of our identity verification process.  This information may include personally identifiable information, such as your name, address, phone number, email address, username, and password.
+Our use of Patrons’ information is governed by this Privacy Policy and our contracts with Customers. We are not responsible for the privacy policies or data practices of our Customers.
 
-We collect information about you when you complete a transaction using our Services, such as an online order from one of our customers.  Transaction information includes:
+By using the Services and/or providing us with your Personal Information, you agree to the processing of your Personal Information in the manner set out in this Privacy Policy.
 
-  * Your account and identify information;
-  * Billing and delivery information, including credit card / payment details;
-  * Details about the transaction (amount, goods/services ordered, customer name, time and date, etc.).
+**Scope**
+
+This Privacy Policy only applies to Personal Information collected by us from: (i) visitors to our Site, (ii) our Customers, and (iii) from Patrons interacting with the Services.
+
+Personal Information Collected through the Site
+
+When you visit our Site, create an account, request information or evaluation tools (e.g., a product demo), communicate with customer service, or subscribe to email lists we may collect some, or all, of the following Personal Information from you:
+
+  * Name
+  * Email
+  * Phone Number
 
 
 
-We also collect information about you when you contact us, such as when you:
+**Personal Information Collected Through The Services**
 
-  * Contact us with questions or feedback regarding our Services,
-  * Purchase or register a Service, or
-  * Respond to one of our surveys.
+If you are a Toast Customer we will collect Personal Information from you in connection with your service agreement and use of the Services, including, as applicable, your name, address, birth date, tax ID and/or passport number, Social Security Number, drivers’ license number, and banking or other payment information.
+
+If you are a Customer employee we may collect Personal Information from you in connection with your use of the Services, including your name, address, birthdate, and other information such as wage rates, salaries, and hours worked.
+
+If you are a Patron who placed an order with, made a purchase from, or otherwise completed a transaction with one of our Customers, we may collect or receive the following Personal Information from you through your interaction with the Services during the course of such transaction:
+
+  * Name
+  * Last four digits of card number and expiry
+  * Transaction Details (e.g. amount, goods/services ordered, date, customer location, payment method and amount of payment)
+  * Email
+  * Phone Number
 
 
 
-#### Information We Collect When You Access Our Services
+**Personal Information Obtained from Publicly Available/Third Party Sources**
 
-We collect information about the Services you use and how you use them.  This information includes:
+We may also collect information about you (whether as a Customer, Patron or Site visitor) from third parties and/or our business partners, such as publicly available sources, contact/mailing list providers, identity verification services, credit bureaus (if applicable), credit card companies and/or our business partners with whom Toast has a business relationship.
 
-  * **Log Files and Device Information**
-    * Log files include information such as your IP address, browser type, the referring domain, pages visited, and search terms.  We may also collect information about the device you use to connect to our services, including your device type (e.g., mobile, tablet, desktop/laptop), browser, and operating system.
+**Automatically Collected Information**
+
+When you visit the Site we will automatically collect information about you through cookies and similar technologies.
+
   * **Cookies**
-    * We use Cookies to provide our Services and help collect data.  Cookies are small files sent from a web server to the device you use to connect to the website.  We may use Cookies for four main purposes: (1) authentication and sign-in; (2) security and Service integrity, (3) store your preferences and settings; and (4) analyze how our Services are performing.  We use two types of cookies: Session Cookies, and Persistent Cookies. Session Cookies are temporary cookies that remain in the cookie file of your browser until you leave our website. Session cookies do not store any personally identifying information, but contain a unique visitor ID number we use to customize the Services for you.  Persistent Cookies remain in the cookie file of your browser for much longer, even after you leave our website.  Persistent cookies do not store personal information and are used to remember preferences that should persist from visit to visit.
-  * **Google Analytics**
-    * We use third-party analytics tools, including “Google Analytics,” to collect information about how users engage with our Services.  The analytics tools use cookies and collect a variety of information, such demographics, interests, and behaviors based on the information collected, as well as how often users visit particular websites, what pages they visit when they do so, and the sites they used prior to coming to our website.  We use the information we get from the analytics tools to provide and improve our Services.  Google’s ability to use and share information collected by Google Analytics governed by the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html) and the [Google Partner Privacy Policy](https://www.google.com/policies/privacy/partners/).  You can prevent Google Analytics from recognizing you on return visits to our Websites by disabling cookies on your browser.
+    * A cookie is a small, unique piece of information placed and saved in your browser when you access our Customers’ websites, services, content or ads. Cookies help us collect information about your use of the Services over time. Most web and mobile device browsers are set to automatically accept cookies by default. However, you can change your browser settings to prevent automatic acceptance of cookies, or to notify you each time a cookie is set.
+    * You also can learn more about cookies by visitinghttp://www.allaboutcookies.org, which includes additional useful information on cookies and how to block cookies on different types of browsers and mobile devices. Additionally, on most web browsers, you will find a “help” section on the toolbar. Please use this help section for information on how to request a notification when you receive a new cookie and how to limit, block or delete cookies. Please note, however, that by blocking or deleting cookies used in the Services, you may not be able to use, or take full advantage of the Services.
+    * We use Cookies to provide our Services and help collect data. We may use Cookies for four main purposes: (1) authentication and sign-in; (2) security and Service integrity; (3) store your preferences and settings; and (4) analyze how our Services are performing. We use two types of cookies: Session Cookies, and Persistent Cookies. Session Cookies are temporary cookies that remain in the cookie file of your browser until you leave the Site. Session cookies do not store any personally identifying information, but contain a unique visitor ID number we use to customize the Services for you. Persistent Cookies remain in the cookie file of your browser for much longer, even after you leave the Site. Persistent cookies do not store personal information and are used to remember preferences that should persist from visit to visit.
+  * Log Files and Device Information
+    * Log files include information such as your IP address, browser type, the referring domain, pages visited, and search terms. We may also collect information about the device you use to connect to our services, including your device type (e.g., mobile, tablet, desktop/laptop), browser, and operating system.
+  * Google Analytics
+    * We use third-party analytics tools, including without limitation Google Analytics, to collect information about how users engage with our Services. The analytics tools use cookies and collect a variety of information, such as demographics, interests, and behaviors based on the information collected, as well as how often users visit particular websites, what pages they visit when they do so, and the websites they used prior to coming to the Site. We use the information we get from the analytics tools to provide and improve our Services. Google’s ability to use and share information collected by Google Analytics governed by the Google Analytics Terms of Use (available at https://www.google.com/analytics/terms/us.html) and the Google Partner Privacy Policy (available at https://www.google.com/policies/privacy/partners/). You can prevent Google Analytics from recognizing you on return visits to our Site by disabling cookies on your browser.
 
 
 
-#### Information We Receive From Other Sources
+**How We Use Personal Information**
 
-We receive and store information, which may include information about you, from a variety of other sources. 
+We may use Personal Information to:
 
-We receive information from our customers, which may contain information about you.  Examples of customer information we may receive includes:
-
-  * Employee information, which may include personally identifiable information (name, address, birthdate, etc.), and other information such as wage rates, salaries, and hours worked;
-  * Menu items and prices;
-  * Order and transaction information, including net sales, discounts, and voids;
-
-
-
-We may also receive information about you from third parties.  For example, we may receive information about you from:
-
-  * third-party identity verification and authentication services;
-  * credit bureaus such as Experian and Transunion;
-  * credit card companies such as Visa, MasterCard, American Express, and Discover;
-  * Social media platforms & providers such as Facebook, Google, etc.;
-  * mailing list providers; and
-  * publicly available sources.
+  * Provide, operate, maintain, test, and improve the Services, including:
+    * Provide and create documentation, training, and professional services related to the Services;
+    * Process transactions;
+    * Use transaction data to create user order histories and profiles.
+  * To Secure and Protect Our Networks and Systems, including:
+    * Implementing controls to ensure that users of the Services with accounts are limited in their data access and viewing rights only as authorized;
+    * Monitor our systems to ensure that they are working as intended and to detect and fix errors;
+    * Access log information to investigate problems or unauthorized use.
+  * Create and deliver analytics and data aggregation, including de-identified comparative analytics for our own, or our customer’s sales and quality improvement purpose
+  * Fulfill our legal and contractual obligations
+  * Respond to requests for information about the Services
+  * Marketing. We may contact you, or we may engage a third-party to contact you, via e-mail to send you marketing or promotional information, or requests to complete surveys and provide feedback. If you subscribe to our newsletter we will use your name and email address to send you the newsletter. If you do not wish to receive marketing or promotional emails from us you may follow the unsubscribe instructions included in each such message, or contact us at [privacy@toasttab.com](mailto:privacy@toasttab.com)
+  * Digital Receipts. During your use of the Services, you may also choose to receive receipts and/or other communications from Toast and our Customers via text message through the Services. You always have the option of opting out of automated email or text messages by emailing [privacy@toasttab.com. ](mailto:privacy@toasttab.com)Standard message and data rates may apply.
+  * Financing. If you apply for financing, including for a merchant capital advance, or are otherwise a Customer applying for use of the Services, we will request a credit report to determine your eligibility for such financing and/or recommend financing providers based on your credit profile, as applicable.
 
 
 
-### How We Use Information We Collect
+**Information We Share**
 
-We may use the information we receive to:
-
-  * Provide, operate, maintain, test, and improve the Services;
-  * Provide and create documentation, training, and professional services related to the Services;
-  * Fulfill our legal and contractual obligations;
-  * Process transactions and use transaction data to create user order histories and profiles; and
-  * Create and deliver analytics and data aggregation, including de-identified comparative analytics for our own, or our customer’s sales and quality improvement purposes.
-
-
-
-Examples of ways we use the information for the reasons described above include:
-
-  * Implementing controls to ensure that users with accounts only see the information they are authorized to see;
-  * Monitoring our systems to ensure that they are working as intended and to detect and fix errors;
-  * Accessing log information to investigate problems or unauthorized use; and
-  * Analyzing data and usage patterns to improve the Services and make them easier to use.
-
-
-
-We may use the information we collect to contact you via e-mail, SMS / text, or via in-App notifications.  For example, we may send you:
-
-  * Transaction & order confirmations, cancellations, status updates, and receipts;
-  * News, information, and updates about the Services or your account;
-  * Promotions & marketing information about and from us or our Customers; and
-  * Requests to complete surveys & provide feedback.
-
-
-
-We may also use the information we collect to:
-
-  * Perform and facilitate customer credit checks and financing;
-  * Protect our rights or property, or the security or integrity of our Services;
-  * Enforce the Terms of Service or other applicable agreements or policies;
-  * verify your identity;
-  * Protect us, users of our Services or the public from harm or potentially prohibited or illegal activities.
-  * Investigate, detect, and prevent fraud, security breaches; or
-  * Comply with any applicable law, regulation, legal process, or governmental request.
-
-
-
-Information We Share
-
-We may share the information we collect:
+We may share the Personal Information as follows:
 
   * With any of our parent, subsidiary, or affiliate companies, agents, and business partners for the purposes outlined above;
-  * With third parties to provide, maintain, and improve our Services, including service providers who access information about you to perform services on our behalf, such as: 
+  * With third parties to provide, maintain, and improve our Services, including service providers who access information about you to perform services on our behalf, such as:
     * hosting and database services,
     * payment processors,
     * identity verification services,
@@ -135,29 +113,22 @@ We may share the information we collect:
     * providers of analytics, data processing, order fulfillment, product delivery, user data management, and customer support services, and
     * marketing, research, and survey services.
   * In connection with, or during the negotiation of, any merger, sale of company stock or assets, financing, acquisition, divestiture, or dissolution of all or a portion of our business;
-  * If we believe it is necessary to: 
+  * If we believe it is necessary to:
     * protect our rights or property, or the security or integrity of our Services;
     * enforce the terms of the Terms of Service or other applicable agreements or policies;
-    * verify your identity;
     * protect us, users of our Services, or the public from harm or potentially prohibited or illegal activities.
     * investigate, detect, and prevent fraud, security breaches; or
     * comply with any applicable law, regulation, legal process, or governmental request.
-  * For other purposes after obtaining your consent.
 
 
 
-We may share the information we collect with our customers whom you patronize.  Customers may use this information to contact you directly about their own products and services, promotions, customer rewards programs, and requests to complete surveys and provide feedback.
+**Other Information**
 
-We also may share aggregated information with third parties that does not specifically identify you or any individual user of our Services.
+We also may share aggregated and/or anonymized information that does not directly identify you, including device information and information derived from cookies and log files, to third parties.
 
-#### **Your Choices  
-**
+**Your Account and Personal Information**
 
-You have choices with respect to your information.
-
-#### Your Account and Personal Information
-
-We generally retain information about you only as long as reasonably necessary to provide you the Services.  We may retain archived copies of information about you for a period of time that is consistent with applicable law, or as we believe is reasonably necessary to:
+We generally retain Personal Information as long as reasonably necessary to provide the Services. We may retain archived copies of information about users of our Services for a period of time that is consistent with our data retention policy, applicable law, or as we believe is reasonably necessary to:
 
   * comply with applicable law, regulation, legal process, or governmental request;
   * prevent fraud;
@@ -170,72 +141,66 @@ We generally retain information about you only as long as reasonably necessary t
 
 
 
-If you have an account, you may access, change, or correct your personal account information at any time by logging into your account.  Otherwise, if you believe that we have information about you that should be changed or corrected, you may make the request to us using the contact details below.  We may need to verify your identity before changing or correcting your information.
+**Your Choices**
 
-However, due to legal, contractual, and technical restrictions, we may not be able to make the change or correction.  For example,
+As a Customer with an account, you may access, change, or correct your personal account information at any time by logging into your account.
 
-  * If we received the information about you from one of our customers, we may be legally and contractually required to refer your request to that customer;
+As a Patron or visitor to the Site, if you believe that we have information about you that should be changed or corrected, you may make the request to us at [privacy@toasttab.com ](mailto:privacy@toasttab.com). We may need to verify your identity before changing or correcting your information.
+
+Please note, however, that due to legal, contractual, and technical restrictions, we may not be able to make the requested change or correction. For example,
+
+  * If we received the information about you from one of our Customers, we may be legally and contractually required to refer your request to that customer;
   * In the event of legal action or dispute, we may be prohibited from altering any information; or
   * We maintain regular backups and archives of our data, and changing archived data may be impracticable.
 
 
 
-#### Opt-Out of Communications From Us
+**Opt-Out of Communications From Us**
 
-To the extent possible, we will ensure that e-mail or text communications we send you will contain instructions on how to "opt-out" of receiving future communications.  In addition, if at any time you wish not to receive any future communications, or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+We will endeavor to include instructions on how to "opt-out" of receiving future marketing in e-mail or text communications we send you. In addition, if at any time you wish not to receive any future communications, or you wish to have your name deleted from our mailing lists, please contact us at [privacy@toasttab.com](mailto:privacy@toasttab.com) . Please note that you may still receive transaction-specific communications after opting-out of marketing communications, if applicable.
 
-#### Cookies
+**Do Not Track**
 
-Most web and mobile device browsers are set to automatically accept cookies by default. However, you can change your browser settings to prevent automatic acceptance of cookies, or to notify you each time a cookie is set.
+We may, and we may allow third party service providers and other third parties to use cookies or other technologies on our Services that collect information about your browsing activities over time and across different websites following your use of the Services. Do Not Track (“DNT”) is an optional browser setting that allows you to express your preferences regarding tracking across websites. We currently do not respond to DNT signals. We may continue to collect information in the manner described in this Privacy Policy from web browsers that have enabled DNT signals or similar mechanisms.
 
-You also can learn more about cookies by visiting http://www.allaboutcookies.org, which includes additional useful information on cookies and how to block cookies on different types of browsers and mobile devices. Please note, however, that by blocking or deleting cookies used in the Services, you may not be able to use, or take full advantage of the Services.
+**State Privacy Rights**
 
-#### Do Not Track
+Some state laws may provide additional rights and protections for your information and privacy. For example, California law permits residents of California to request certain details about information we disclose to third parties for direct marketing purposes. If you are a California resident and would like to request this information, please contact us at the address listed below.
 
-Do Not Track (“DNT”) is an optional browser setting that allows you to express your preferences regarding tracking across websites. We currently do not respond to DNT signals. We may continue to collect information in the manner described in this Privacy Policy from web browsers that have enabled DNT signals or similar mechanisms.
+**Security**
 
-#### State Privacy Rights
+We implement commercially reasonable administrative, technical, and physical safeguards, designed to protect your information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction.
 
-Some state laws may provide additional rights and protections for your information and privacy.  We make every effort to comply with those state law requirements.
+Nevertheless, we cannot guarantee that internet, text or e-mail transmissions are fully secure or error free, or that any Personal Information in our possession is fully protected from all loss, misuse and unauthorized access, disclosure, alteration, or destruction. In particular, e-mail or messages sent to or from our Services may not be secure. Therefore, you should take special care in deciding what information you send to us.
 
-California law permits residents of California to request certain details about information we disclose to third parties for direct marketing purposes. If you are a California resident and would like to request this information, please contact us at the address listed below. 
+**Links to Other Services**
 
-#### **Security  
-**
-
-We work hard to maintain the security, reliability, accuracy, and completeness of our Services and the information we hold.  In particular, we:
-
-  * Implement administrative, technical, and physical safeguards, to protect your information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction;
-  * Encrypt many of our Services industry-standard technologies (e.g., SSL, SHA-512, RSA-256);
-  * Comply with the Payment Card Industry Data Security Standard (PCI DSS);
-  * Review our information collection, storage, and processing practices, including physical security measures, to guard against unauthorized access to systems;
-  * Restrict access to personal information to employees, contractors and agents who need to know that information to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations; and
-  * Only use third-party service providers to store and transmit personal information in compliance with this Policy, who agree to appropriate confidentiality and security measures, and if necessary, undergo industry-recognized independent third party data security audits.
-
-
-
-Nevertheless, we cannot guarantee that internet or e-mail transmissions are fully secure or error free.  In particular, e-mail or messages sent to or from our Services may not be secure.  Therefore, you should take special care in deciding what information you send to us.  Please keep this in mind when disclosing any Personal Data to Toast via the Internet.
-
-#### **Links to Other Services**
-
-This Privacy Policy only applies to our Services.  While using the Service, you may be directed through links to third party websites or services.  For example, you may be linked to:
+This Privacy Policy only applies to information collected when visiting our Site or using our Services. While visiting the Site or using the Service, you may be directed through links to third-party websites or services not operated or controlled by us (“Third-Party Sites”). For example, you may be linked to:
 
   * Our social media sites;
-  * Our customer’s websites;
-  * Partner websites; or
+  * Our Customer’s websites;
+  * Partner websites; or;
   * A third-party authentication site (for example, if you use Google, Facebook, or an OAuth service to log into our Services).
 
 
 
-We are not responsible for the privacy practices and policies of those third party websites or services.  If you use or visit those third party services, you are responsible for reviewing and understanding their terms and conditions.  The inclusion of any website link does not imply Our approval, endorsement, or recommendation, and we expressly disclaim any liability for these third party services. 
+We are not responsible for the privacy practices and policies of those Third-Party Sites. If you use or visit those Third-Party Sites, you are responsible for reviewing and understanding their terms and conditions and privacy policies. The inclusion of any website link does not imply our approval, endorsement, or recommendation, and we expressly disclaim any liability for these third party services. Please contact those sites directly for information on their privacy practices and policies.
 
-#### **Contact**
+**Publicly Posted Information**
 
-If you have questions or comments about our privacy policy, please email us at info@toasttab, with "Privacy Policy" in the subject line or contact us at:
+This Privacy Policy does not apply to any information you post to the public areas of the Site, including, for example, comments to our blog. Comments posted to public areas may be viewed, accessed, and used by third parties subject to those parties’ privacy practices and policies.
+
+**Children**
+
+Our Services are not targeted or directed at children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Data to us, please contact us at [privacy@toasttab.com](mailto:privacy@toasttab.com) with "Privacy Policy" in the subject line and we will endeavor to delete that information from our databases.
+
+**Changes to the Privacy Policy**
+
+We may revise this Privacy Policy at any time and will post updated versions of the policy on this Site. Please check the Site and this Privacy Policy regularly for updates. We will also keep prior versions of this Privacy Policy in an archive for your review. By continuing to access or use the Site or Services after we have posted an updated Privacy Policy, you consent to the revised Policy and the practices described therein.
+
+**Contact**
+
+If you have questions or comments about our privacy policy or practices, please email us at [privacy@toasttab.com](mailto:privacy@toasttab.com), with "Privacy Policy" in the subject line or contact us at:
 
 Toast, Inc.  
-401 Park Drive, Suite 801  
-Boston, MA 02215
-
-  
-_Effective as of May 1, 2017_
+401 Park Drive, Suite 801 Boston, MA 02215
