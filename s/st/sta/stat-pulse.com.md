@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the stat-pulse.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817104243id_/https%3A//sendpulse.com/legal/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stat-pulse.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424083925id_/https%3A//sendpulse.com/legal/pp) for the most accurate reproduction.*
 
 # Privacy Policy | SendPulse
-
-  1. [ Home  ](https://sendpulse.com/)
-  2. [ Legal  ](https://sendpulse.com/legal)
-  3. Privacy Policy 
-
-
 
 ## 1\. Definitions 
 
@@ -188,7 +182,7 @@ SendPulse keeps Members email addresses in order to send Members follow up messa
 
 However, if you wish to avoid receiving any future email news from SendPulse, please:
 
-  * choose to unsubscribe from receiving SendPulse news and updates at <http://login.sendpulse.com/settings/> (this sections is available for SendPulse existing customers only) or
+  * choose to unsubscribe from receiving SendPulse news and updates at <https://login.sendpulse.com/login/> (this sections is available for SendPulse existing customers only) or
   * reply back to our message with ‘UNSUBSCRIBE’ in the subject line.
 
 
@@ -241,7 +235,3 @@ Our servers and offices are located in the United States, Federal Republic of Ge
 SendPulse guarantees that any actions regarding Personal Data are carried out in full compliance with this Policy and the principles set forth in the EU GDPR.
 
 Updated: 05.15.2018
-
-### Try SendPulse today for free
-
-[ Sign Up ](https://sendpulse.com/register)
