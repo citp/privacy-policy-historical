@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eugenoprea.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026064447id_/https%3A//eugenoprea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eugenoprea.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424042441id_/https%3A//eugenoprea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Eugen Oprea
+# Privacy Policy – Eugen Oprea
 
 ### **Privacy Policy – Your privacy is important to us**
 
@@ -30,13 +30,13 @@ We use these technologies to recognize you as an EugenOprea.com customer, help 
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
-  * **Commitment to Data Security**
+  *  **Commitment to Data Security**
 
 
 
 Your personally identifiable information is kept secure. Only authorized employees  have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
-  * **Privacy Contact Information**
+  *  **Privacy Contact Information**
 
 
 
