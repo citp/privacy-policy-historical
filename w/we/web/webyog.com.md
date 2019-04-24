@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627173323id_/https%3A//www.webyog.com/eula/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424134127id_/https%3A//www.webyog.com/eula/privacyPolicy) for the most accurate reproduction.*
 
 # Webyog | Privacy Policy, Collection, Use and Disclosure of General Statistical Information
 
-Webyog Softworks Private Limited (“Webyog”) is committed to respecting and protecting the privacy of our customers, partners, webinars attendees and website visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Statement we describe Webyog’s privacy practices in relation to the use of Webyog Website (as defined below) and the related applications, services, products and programs offered by Webyog (collectively, “Services”), as well as individuals’ choices regarding use, access and correction of personal information. If you have questions or complaints regarding Webyog’s Privacy Statement or associated practices, please contact us at [legal@Webyog.com](mailto:legal@Webyog.com).
+Webyog Softworks Private Limited (“Webyog”) is committed to respecting and protecting the privacy of our customers, partners, webinars attendees and website visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Statement we describe Webyog’s privacy practices in relation to the use of Webyog Website (as defined below) and the related applications, services, products and programs offered by Webyog (collectively, “Services”), as well as individuals’ choices regarding use, access and correction of personal information. If you have questions or complaints regarding Webyog’s Privacy Statement or associated practices, please contact us at [legal@Webyog.com](mailto:legal@webyog.com).
 
 Website covered 
 
 This Privacy Statement covers the information practices, including how Webyog collects, uses, shares and secures the personal information you provide to its website (the “Webyog Website”).
+
+Collection of Personal Information
 
 Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address, or mailing address
 
@@ -22,7 +24,7 @@ As you navigate Webyog Website, Webyog may also collect information through the 
 
 Use of Personal Information
 
-Webyog uses Data about Webyog’s customers to perform the Services requested. For example, if you fill out a “Try TestRail for free” Web form, Webyog will use the information provided to contact you about your interest in the Services. In addition, the Webyog may use Data where it believes, in our sole judgment, to protect our rights and interests, for example to check for license validation either using the license key or your account details. Some software products can also use license information to inform you of the availability of applicable updates. 
+Webyog uses Data about Webyog’s customers to perform the Services requested. For example, if you fill out a “Download SQLyog today!” Web form, Webyog will use the information provided to contact you about your interest in the Services. In addition, the Webyog may use Data where it believes, in our sole judgment, to protect our rights and interests, for example to check for license validation either using the license key or your account details. Some software products can also use license information to inform you of the availability of applicable updates. 
 
 Webyog also uses Data about webinars attendees to plan and host corporate events, host online forums and social networks in which event attendees may participate, and to populate online profiles for webinars attendees on Webyog Website. Additional information on Webyog’s privacy practices with respect to Data about webinars attendees may be found in additional privacy statements on the event Websites, as the case may be. 
 
@@ -38,7 +40,7 @@ Disclosure of Personal Information
 
 Business Partners. 
 
-From time to time, Webyog may partner with other companies to jointly offer products, services or programs (such as webinars or downloadable content) such as our channel partners to fulfill product trials and information requests, and provide customers and prospective customers with information about Webyog and its products. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose. Webyog does not share Data about the Webyog attendees with business partners unless: (1) you specifically opt in to such sharing via an event registration form; or (2) you attend a Webyog event and allow the Webyog or any of its business partners to scan your attendee badge. If you do not wish for your information to be shared in this manner, you may choose not to opt in via event registration forms and elect not to have your badge scanned at Webyog events. If you choose to share your information with business partners in the manners described above, your information will be subject to the business partners’ respective privacy state
+From time to time, Webyog may partner with other companies to jointly offer products, services or programs (such as webinars or downloadable content) such as our channel partners to fulfill product trials and information requests, and provide customers and prospective customers with information about Webyog and its products. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose. Webyog does not share Data about the Webyog attendees with business partners unless: (1) you specifically opt in to such sharing via an event registration form; or (2) you attend a Webyog event and allow the Webyog or any of its business partners to scan your attendee badge. If you do not wish for your information to be shared in this manner, you may choose not to opt in via event registration forms and elect not to have your badge scanned at Webyog events. If you choose to share your information with business partners in the manners described above, your information will be subject to the business partners’ respective privacy statements
 
 Webyog sometimes hires vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support, and processing event registrations. We provide those companies only the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
@@ -69,6 +71,8 @@ Webyog Website does not offer information intended to attract children. Webyog d
 Security of Personal Information
 
 When you submit any form requiring registration, we use a secure server. The secure server software (SSL) helps protect your information as it travels over the Internet by encrypting that information before it is sent to us. We have also implemented industry-standard security mechanisms and procedures to protect data from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+
+Use of Cookies
 
 Cookies, Web Beacons and IP Addresses. 
 
@@ -114,13 +118,13 @@ Our Website contain links to information on other websites. We do not have any c
 
 International transfer of information collected
 
-Webyog primarily stores Data about Webyog’s customers and Data about webinars attendees, if applicable, in Europe. To facilitate Webyog’s global operations with its parent company, Idera, Inc., and its affiliated companies, Webyog may transfer and access such information from around the world, including form other countries in which Webyog has operations. A list of Webyog’s parent company and affiliated companies global offices is available at http://www.ideracorp.com/contactus. This Privacy Statement shall apply even if the Webyog transfers Data about Webyog customers or Data about attendees to other countries.
+Webyog primarily stores Data about Webyog’s customers and Data about webinars attendees, if applicable, in the United States. To facilitate Webyog’s global operations with its parent company, Idera, Inc., and its affiliated companies, Webyog may transfer and access such information from around the world, including form other countries in which Webyog has operations. A list of Webyog’s parent company and affiliated companies global offices is available at http://www.ideracorp.com/contactus. This Privacy Statement shall apply even if the Webyog transfers Data about Webyog customers or Data about attendees to other countries.
 
 Accessing, Updating and Correcting Your Personal Information
 
 Webyog may retain your information for a period of time consistent with the original business purpose of collection. For example, we may retain your information during the time in which you have an account to use our Website or Services and for a reasonable period of time afterward. We may also retain your information during the period of time needed for Webyog to pursue our legitim business interest, conduct audits, comply with our legal obligations, resolve disputes and enforce our agreements.
 
-You may request to review, correct, delete or otherwise modify any of the personal information that you have previously provided to us through Webyog Website and Services. If you have registered for an account with Webyog, you may generally update your user settings, profile, organization’s settings or event registration by logging into the applicable website or Services with your username and password and editing your settings or profile. For other requests to access, correct, modify or delete your Data, please email compliance@Webyog.com and we will assist you. Requests to access, change, or delete your information will be addresses within a reasonable timeframe. 
+You may request to review, correct, delete or otherwise modify any of the personal information that you have previously provided to us through Webyog Website and Services. If you have registered for an account with Webyog, you may generally update your user settings, profile, organization’s settings or event registration by logging into the applicable website or Services with your username and password and editing your settings or profile. For other requests to access, correct, modify or delete your Data, please email [compliance@Webyog.com ](mailto:compliance@webyog.com) and we will assist you. Requests to access, change, or delete your information will be addresses within a reasonable timeframe. 
 
 Unsubscribe 
 
@@ -132,11 +136,12 @@ Webyog reserves the right to change this Privacy Statement from time to time. We
 
 Contacting us.
 
-Questions about this Privacy Statement or the information practices of Webyog Website and Services should be directed to our privacy team by filling out this [form](https://web.archive.org/eula/gdpr#gdprcommitment) or by emailing us at [compliance@Webyog.com](mailto:compliance@Webyog.com) or by mailing us at:
+Questions about this Privacy Statement or the information practices of Webyog Website and Services should be directed to our privacy team by emailing us at [compliance@Webyog.com](mailto:compliance@webyog.com) or by mailing us at:
 
-Webyog Softworks Private Limited
+Webyog GmbH
 
 Attn: Legal Department  
+1st Floor, SVR Complex  
 89 Hosur Road, Madiwala  
 Bangalore - 560068  
 
