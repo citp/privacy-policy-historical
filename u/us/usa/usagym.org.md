@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagym.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221030520id_/https%3A//www.usagym.org/pages/aboutus/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagym.org privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424184548id_/https%3A//usagym.org/pages/aboutus/pages/privacy.html) for the most accurate reproduction.*
 
 # USA Gymnastics | Privacy Policy
 
