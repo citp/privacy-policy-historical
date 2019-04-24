@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallysuccessful.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004080149id_/https%3A//www.reallysuccessful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallysuccessful.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424082447id_/https%3A//www.reallysuccessful.com/privacy-policy) for the most accurate reproduction.*
 
 # ReallySuccessful Privacy Policy
 
