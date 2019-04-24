@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iosnoops.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722201343id_/https%3A//www.iosnoops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iosnoops.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424131952id_/https%3A//www.iosnoops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iOSnoops
 
@@ -50,9 +50,9 @@ Comments left by users on our websites are the sole responsibility of the person
 
 Although most changes are likely to be minor, we may change our Privacy Policy from time to time, and in our sole discretion. We encourage visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-_Last update: May 5, 2017. If you have any questions about this Privacy Policy, please feel free to contact us via our[contact page](http://www.iosnoops.com/contact-us/).  
+_Last update: May 5, 2017. If you have any questions about this Privacy Policy, please feel free to contact us via our[contact page](httpd://www.iosnoops.com/contact-us/).  
 _
 
-[](http://creativecommons.org/licenses/by-sa/3.0/)  
+[](https://creativecommons.org/licenses/by-sa/3.0/)  
 This policy was inspired by Automattic.  
-It is released under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+It is released under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
