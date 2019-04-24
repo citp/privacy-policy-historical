@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloradocollege.edu privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206151509id_/https%3A//www.coloradocollege.edu/basics/welcome/leadership/policies/general-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradocollege.edu privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424185200id_/https%3A//www.coloradocollege.edu/basics/welcome/leadership/policies/general-privacy-policy) for the most accurate reproduction.*
 
 # General Privacy Policy • Colorado College
 
