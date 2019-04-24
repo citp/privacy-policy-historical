@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614202754id_/https%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424173326id_/https%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ You can choose to have the Personal Information provided by You deleted.
 
 You always have the ability to opt-out of receiving communications from us.
 
-**Information Collection and Use**
+**Device permissions & Information Collection and Use section**
 
 The Personal Information which You may provide to us and/or which we may collect is or could be the following: 
 
@@ -85,10 +85,10 @@ Further, as per Rule 3(4) of the IT Rules, the Grievance Officer shall acknowled
 
 Accordingly, the Grievance Officer for the purpose of Your personal sensitive information as governed by the Privacy Policy is:
 
-Name:       **Ms. Heena Sohandani**
+Name:       **Ms. Bhavika Dave**
 
 In the event You have any complaints or concerns with respect to the website or our services, please contact:
 
-Name:        **Ms. Heena Sohandani**
+Name:        **Mr. Rounak Siriah**
 
 To register your grievance, [click here](https://web.archive.org/write-to-us.html?grvs=1)
