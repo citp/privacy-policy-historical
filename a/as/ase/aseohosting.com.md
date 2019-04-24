@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aseohosting.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709063125id_/https%3A//www.aseohosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aseohosting.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424163845id_/https%3A//www.aseohosting.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ASEOHosting
 
 Your privacy policy must state that no information submitted by a buyer will not be shared, sold, reused in lists, or be used for any other purpose than to complete a transaction or address a customer service concern. The following is an example privacy policy, you may replace aseohosting.com with your website name if you would like to use it as the privacy policy on your site.
 
-## PRIVACY STATEMENT
+###### PRIVACY STATEMENT
 
 ASEOHosting values the privacy and security of the information that you share with us through aseohosting.com. It is important that you understand how we collect, use, and maintain your information. This Privacy Statement explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us.
 
