@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgyd.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105213115id_/https%3A//www.techgyd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgyd.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424144529id_/https%3A//www.techgyd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
