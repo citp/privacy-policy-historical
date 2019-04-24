@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223222357id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424214950id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
 
 # NC Software Privacy Statement
 
@@ -49,6 +49,6 @@ Material Modifications since May 25, 2018: none
 
 Subscribe to our Newsletter:
 
-© 2018 NC Software, Inc. All rights reserved.  
+© 2019 NC Software, Inc. All rights reserved.  
 Logbook Pro® is a registered trademark of NC Software, Inc.  
 All other trademarks or registered trademarks are property of their respective owners
