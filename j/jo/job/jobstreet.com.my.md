@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobstreet.com.my privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909161456id_/https%3A//www.jobstreet.com.my/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.my privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424201416id_/https%3A//www.jobstreet.com.my/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JS AboutUs MY
 
-###### Effective Date: **21-March-2016**
+###### Effective Date: **08** **-October-2018**
 
 ###### Hi, Your privacy is important to JobStreet.com. Please read this Privacy Notice carefully as it forms part of the Terms of Use which govern the use of the JobStreet.com Services and the JobStreet.com Websites.
 
@@ -46,6 +46,8 @@
       2. ###### The personal information collected during the registration process includes but is not limited to your email address, name, nationality, identity card number, passport number, country of residence.
 
       3. ###### Whenever the personal information requested by JobStreet.com is marked as “Required Field”, you must provide and agree to the processing of this personal information by JobStreet.com. If you do not agree to provide this personal information and/or not agree to us processing it in the manner set out in this Privacy Notice, then JobStreet.com will be unable to provide the relevant services to you and your application for such services will be rejected.
+
+      4. ###### Some Advertisers and/or Employers may also require you to answer a list of questions selected by that Advertiser and/or Employer as part of your online application. By answering the Application questions you acknowledge that JobStreet.com will provide your answers to that Advertiser and/or Employer and may use your answers to populate your JobStreet.com Profile and enable Advertisers and/or Employers to surface that information when using Talent Search. JobStreet.com may also use your answers to improve our products, including through improving our search and matching capabilities.
 
     2. ###### From your use of the JobStreet.com Services and/or the JobStreet.com Websites
 
@@ -274,7 +276,7 @@
 
 
 
-###### JobStreet.com Pte Ltd  
-10 Anson Road  
-#05-20 International Plaza  
+###### JobStreet.com Pte Ltd   
+10 Anson Road   
+#05-20 International Plaza   
 Singapore 079903
