@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618173507id_/http%3A//www.pmo.gov.sg/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424094019id_/https%3A//www.pmo.gov.sg/Privacy-Statement) for the most accurate reproduction.*
 
-# Privacy Statement | Prime Minister‘s Office Singapore
+# PMO | Privacy Statement
 
   1. This is a Government of Singapore website. Thank you for examining our privacy statement. If you are only browsing this website, we do not capture data that allows us to identify you individually.  
  
@@ -13,6 +13,6 @@
   5. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
   
 
-  6. Please contact pmo_hqpmo.gov.sg (a) For any enquires or feedback on our data protection policies and procedures, (b) If you require more information on or access to the data which you have earlier provided to us.
+  6. Please contact [pmo_hq@pmo.gov.sg](mailto:pmo_hq@pmo.gov.sg) (a) For any enquires or feedback on our data protection policies and procedures, (b) If you require more information on or access to the data which you have earlier provided to us.
 
 
