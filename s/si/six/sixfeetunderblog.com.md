@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixfeetunderblog.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223223131id_/http%3A//sixfeetunderblog.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfeetunderblog.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424202408id_/http%3A//sixfeetunderblog.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Six Feet Under Blog
 
@@ -35,3 +35,5 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 
  If there are any questions regarding this privacy policy you may contact us at  **info  (at) sixfeetunderblog (dot) com**
+
+[](https://www.pinterest.com/pin/create/button/)
