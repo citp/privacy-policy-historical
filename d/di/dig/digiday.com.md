@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624094601id_/https%3A//digiday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424201422id_/https%3A//digiday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digiday
 
@@ -10,7 +10,7 @@ We collect your data (specifically outlined below, but generally basic informati
 
 **Our commitment to privacy**
 
-You deserve to know how we collect and use the data you provide to us, and that’s what we are providing to you on this page. This notice applies to all information collected or submitted on the Digiday website, or the website of our sister sites, specifically Glossy, Tearsheet and Gather. This notice was updated in April 2018 to reflect GDPR compliance standards.
+You deserve to know how we collect and use the data you provide to us, and that’s what we are providing to you on this page. This notice applies to all information collected or submitted on the Digiday website or through our tools such as Digiday Connect, or the website of our sister sites, specifically Glossy and Gather. This notice was updated in April 2018 to reflect GDPR compliance standards.
 
 **How we use your information**
 
@@ -26,7 +26,7 @@ We will store this information to keep you informed about other relevant product
 
 We will never use or share the information provided to us online in ways unrelated to the ones described above.
 
-Some information, such as IP and your email address, may be shared with the following third parties who help us run our website and email programs. They will only use this information to serve our needs and are prohibited from using it in any other instance. They are: Bounce Exchange (behavioral marketing and email acquisition), Google (ad serving and website tracking), Campaign Monitor (email), Gravity Forms (email acquisition), Tito (event registration), Open Water (awards programs).
+Some information, such as your IP, address, email address and other data you share with us may be shared with the following third parties who help us run our website and email programs. They will only use this information to serve our needs and are prohibited from using it in any other instance. They are: Bounce Exchange (behavioral marketing and email acquisition), Google (ad serving and website tracking), Campaign Monitor (email), Gravity Forms (email acquisition), Tito (event registration), Open Water (awards programs).
 
 **Consequences of failure to provide consent**
 
@@ -58,10 +58,10 @@ Based on the information you provide to us, we may create or append other inform
 
 **How to ask us to delete your data**
 
-If you would like to unsubscribe from our communications at any time, you may do so in the footer of any of our emails. If you would like us to delete your information entirely, or request the information we store about you, please fill out the form below. Otherwise, by continuing to interact with our emails and programs, you provide us with permission to manage and use your data as described above.
+If you would like to unsubscribe from our communications at any time, you may do so in the footer of any of our emails. If you would like us to delete your information entirely please fill out the form below and we will be in touch with further steps. Otherwise, by continuing to interact with our emails and programs, you provide us with permission to manage and use your data as described above.
 
 **Our commitment to the security of your data**
 
 To prevent unauthorized parties from accessing your data and maintain the accuracy and cleanliness of our own data while ensuring the correct use of it, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Questions about our privacy policy or how we use data? Email Aaron Gottlieb, Digiday Media’s senior manager, audience development: [aaron@digiday.com](mailto:aaron@digiday.com).
+Questions about our privacy policy or how we use data? Email privacy@digiday.com.
