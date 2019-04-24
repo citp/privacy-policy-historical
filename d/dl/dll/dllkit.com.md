@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dllkit.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119003956id_/http%3A//www.dllkit.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dllkit.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424234331id_/http%3A//dllkit.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy And Information Security Policy
 
