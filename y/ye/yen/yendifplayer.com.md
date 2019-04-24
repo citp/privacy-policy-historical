@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yendifplayer.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202222843id_/https%3A//yendifplayer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yendifplayer.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424215935id_/https%3A//yendifplayer.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Yendif Player - Privacy Policy
+# Privacy Policy
 
 yendifplayer.com is committed to protecting you and your personal information when you are using our services. We want our services to safe and enjoyable environments for our users. This Privacy Policy is relevant to our use of any personal information you provide to us during your visit to our site.
 
@@ -55,3 +55,5 @@ If you have any question regarding our privacy policy you may contact us by one 
   * You can use the FORUM
 
 
+
+* * *
