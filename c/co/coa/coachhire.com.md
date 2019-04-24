@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611115648id_/http%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424120824id_/https%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Coach Hire - from coachhire.com
 
@@ -44,7 +44,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### Data Retention
 
-We will retain your information for the periods outlined below as necessary to ensure you receive an excellent service, or as required to fulfill our legal obligations. If you wish to delete your account or request that we no longer use your information contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2a6b7b1baa1a7a2a2bda0a692b1bdb3b1bababba0b7fcb1bdbf). We will respond to your request in a timely manner and delete all records that do not conflict with our legal requirements or inform you of such.
+We will retain your information for the periods outlined below as necessary to ensure you receive an excellent service, or as required to fulfill our legal obligations. If you wish to delete your account or request that we no longer use your information contact us at [techsupport@coachhire.com](mailto:techsupport@coachhire.com). We will respond to your request in a timely manner and delete all records that do not conflict with our legal requirements or inform you of such.
 
 Data Subject Category | Retention period  
 ---|---  
@@ -71,10 +71,10 @@ You may choose to restrict the collection or use of your personal information in
 
 • Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-• If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e0858e91958992898593a0838f81838888899285ce838f8ddf9395828a858394ddb08c85819385c5d2d0958e939582938392898285c5d2d08d85c5d2d086928f8dc5d2d08d81928b8594898e87c5d2d0858d81898c93)
+• If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [enquiries@coachhire.com](mailto:enquiries@coachhire.com?subject=Please%20unsubscribe%20me%20from%20marketing%20emails)
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998.  If you would like a copy of the information held on you please write to  **CoachHire.com  **551 Fairlie Road, Slough, Berkshire, SL1 4PY.
+You may request details of personal information which we hold about you under the Data Protection Act 1998.  If you would like a copy of the information held on you please write to  **CoachHire.com  **SC House, Vanwall Business Park, Maidenhead SL6 4UW.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
