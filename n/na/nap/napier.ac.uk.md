@@ -1,10 +1,25 @@
-> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021030957id_/http%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424071509id_/https%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
+Skip to navigation Skip to main content
+
 Edinburgh Napier University ("We") are committed to protecting your privacy and have adopted this privacy policy to set out the basis on which your personal information is collected, processed and used. 
 
-For the purposes of the Data Protection Act 1998 (the "Act") the data controller is Edinburgh Napier University, Sighthill Campus, EH11 4BN. 
+## General Data Protection Regulation (GDPR)
+
+Edinburgh Napier University is, and always has been, committed to respecting your privacy and protecting your personal information. We have had policies, procedures and privacy notices in place under the Data Protection Act 1998 for many years now and have been busy since 2016 enhancing these to comply with the new General Data Protection Regulation (GDPR) and the new UK Data Protection Act 2018.
+
+For more information on what information we use and how we collect and use it, please see our Data Protection pages using the following links:
+
+  * [Data Protection Policy statement and Code of Practice](http://staff.napier.ac.uk/dataprotection)
+  * [Privacy Notices](http://staff.napier.ac.uk/dpstatements)
+
+
+
+If you have any questions regarding the use of your personal data or want to know more about your rights under the legislation or how the University complies with the legislation please contact the Data Protection Officer at [dataprotection@napier.ac.uk](mailto:dataprotection@napier.ac.uk).
+
+For the purposes of the Data Protection legislation (GDPR and Data Protection Act 2018 (which together are referred to as the “Data Protection legislation”)) the data controller is Edinburgh Napier University, Sighthill Campus, EH11 4BN. 
 
 ## Information we may collect from you
 
@@ -79,9 +94,9 @@ Accepting this statement acknowledges that we will not be responsible for damage
 
 By using our Website you consent to the collection and use of your information as outlined in this Privacy Policy. If this statement is changed we will post these changes on this page and, where appropriate, notify you by email. 
 
-##  Access to information
+## Rights and access to information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing a response. If any information we hold about you is incorrect please let us know by email to [](mailto:governance@napier.ac.uk)[dataprotection@napier.ac.uk ](mailto:dataprotection@napier.ac.uk)and we will correct it. 
+The Data Protection legislation gives you certain rights, including the right to access information held about you. For further information about how to exercise your rights please see our [Data Protection Rights Guide](https://staff.napier.ac.uk/services/governance-compliance/governance/DataProtection/Pages/accesspersonalinformation.aspx). 
 
 ##  Security
 
@@ -133,3 +148,7 @@ Last updated: May 2012
 
   
 
+
+We use cookies to give you the best possible experience. If you continue, we’ll assume you are happy to receive all cookies. See [our cookie policy ](https://web.archive.org/cookie-policy)for more information.
+
+Accept Cookies 
