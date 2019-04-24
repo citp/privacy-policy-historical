@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the restored316designs.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612100137id_/http%3A//restored316designs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restored316designs.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424072737id_/https%3A//restored316designs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Feminine Wordpress Themes • Restored 316
+# Privacy Policy • Restored 316
 
 BY VISITING RESTORED316DESIGNS.COM, YOU ARE CONSENTING TO OUR PRIVACY POLICY.
 
@@ -51,6 +51,28 @@ We maintain security measures to protect your personal information from unauthor
 
 You may access and correct your personal information and privacy preferences by logging into your account or by [emailing us](mailto:hello@restored316.com).
 
+#### Visitors’ GDPR Rights
+
+According to the GDPR a “data subject” is defined as an identifiable natural person. A natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as: a name, an identification number, location data, or online identifier. Alternatively, they may be identified by reference to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person. A data subject may be of any age or nationality.
+
+As a data subject, within the European Union, you are entitled to certain rights under the General Data Protection Regulation (GDPR). Those rights include:
+
+You have the right to be informed with respect to your personally identifiable information (PII) retained by the Company. As such, you may request access to your data that the Company stores and the rights to either correct or erase your personal data.
+
+We will retain any personally identifiable information you choose to provide to us unless: (a) you request for us to delete the information, (b) we stop using our existing data providers, or (c) at Company’s discretion, we decide to remove the data.
+
+You have the right to seek restrictions on the processing of your data.
+
+You have the right to object to the processing of your data and the right to the portability of your data.
+
+You have the right to withdraw consent provided to the Company concerning the processing of your personal data, as well as the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+
+You have the right to not be subjected to automated decision-making via pre-ticked boxes, additions to our email marketing lists and the like.
+
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
+
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us by way of downloading a lead magnet, webinar, freebie or any other traditional list building methods.
+
 #### CHANGES TO THIS POLICY
 
 You acknowledge and agree that it is your responsibility to review this Site and this Policy periodically and to be aware of any modifications. We will notify you of any changes to this privacy policy by posting those changes on this page.
@@ -59,4 +81,4 @@ You acknowledge and agree that it is your responsibility to review this Site and
 
 If you have questions about our privacy policy, please email us [here](http://restored316designs.com/contact/).
 
-Updated: JULY 2015
+Updated: MAY 2018
