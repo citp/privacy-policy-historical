@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfriends.org privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123095611id_/https%3A//bestfriends.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfriends.org privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424191044id_/https%3A//bestfriends.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Friends Animal Society
 
