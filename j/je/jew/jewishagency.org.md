@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishagency.org privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217035914id_/http%3A//www.jewishagency.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishagency.org privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424025849id_/http%3A//www.jewishagency.org/page/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | The Jewish Agency
 
