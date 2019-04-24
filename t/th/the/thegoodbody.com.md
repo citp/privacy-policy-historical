@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thegoodbody.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722160612id_/https%3A//www.thegoodbody.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegoodbody.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424203434id_/https%3A//www.thegoodbody.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy » The Good Body
 
-Privacy Policy for [www.thegoodbody.com](http://www.thegoodbody.com/)
+Privacy Policy for [www.thegoodbody.com](https://www.thegoodbody.com/)
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](http://www.thegoodbody.com/contact).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](https://www.thegoodbody.com/contact/).
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
@@ -34,9 +34,8 @@ Occasionally, we may also use the information we collect to notify you about imp
 **What Are Cookies?**  
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
 
-* Google, as a third party vendor, uses cookies to serve ads on your site.  
-* Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
+**Display Ads**  
+The Website uses Mediavine to manage all third-party advertising on the Website. Mediavine serves content and advertisements when you visit the Website, which may use cookies. Mediavine may collect IP addresses and location to serve personalized ads. If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 **How Do We Use Information We Collect from Cookies?**  
 As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
