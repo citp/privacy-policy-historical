@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easternbank.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927130505id_/https%3A//www.easternbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easternbank.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424075857id_/https%3A//www.easternbank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eastern Bank
 
@@ -6,10 +6,10 @@
 
 If you wish to print a copy of our privacy policy for your records, please use our printer-friendly version.
 
-Revised: January 2018
+Revised: January 2019
 
-Download PDF [Privacy Policy](https://web.archive.org/sites/default/files/2018-01/S12837_Notice_proof.pdf)  
-Download PDF [Privacy Policy (en Español)](https://web.archive.org/sites/default/files/2018-01/PrivacyNotice2018_Spanish_M1.pdf)
+Download PDF [Privacy Policy](https://web.archive.org/media/5136)  
+Download PDF [Privacy Policy (en Español)](https://web.archive.org/media/5141)
 
 Why? | 
 
