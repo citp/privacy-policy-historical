@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yotpo.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221163813id_/https%3A//www.yotpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotpo.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424153536id_/https%3A//www.yotpo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yotpo
 
