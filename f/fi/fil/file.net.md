@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the file.net privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809032930id_/https%3A//www.file.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file.net privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424122517id_/https%3A//www.file.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -122,7 +122,7 @@ The data collected in this way is in turn used by Google to provide us with an e
 
 Google states that it will not connect your IP address to other data. In addition, Google provides further information with regard to its data protection practices at
 
-[https://www.google.com/intl/de/policies/privacy/partners,](https://www.google.com/intl/de/policies/privacy/partners)
+[https://www.google.com/.../privacy](https://www.google.com/intl/de/policies/privacy/partners)
 
 including options you can exercise to prevent such use of your data.
 
@@ -147,16 +147,6 @@ Further information about Shariff is available at
 [http://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html)
 
 The following social networks are integrated into our website:
-
-**Google+** operated by Google LLC, 1600 Amphitheatre Parkway, Mountain View, California, 94043, USA.
-
-Privacy information is available at <https://policies.google.com/privacy>
-
-Through certification according to the EU-US Privacy Shield
-
-[https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active)
-
-Google guarantees that it will follow the EU's data protection regulations when processing data in the United States.
 
 **Facebook** operated by Facebook Inc, 1601 S. California Ave, Palo Alto, CA 94304, USA, operated within the EU by Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland. 
 
@@ -206,6 +196,6 @@ We use the CDN (Content Delivery Network) and SSL encryption protocoll (https) b
 
 #### Contacting us
 
-If you have any questions, just [email us](https://web.archive.org/web/20180809032930id_/https%3A//www.file.net/contact.html).
+If you have any questions, just [email us](https://web.archive.org/web/20190424122517id_/https%3A//www.file.net/contact.html).
 
 This Privacy Policy is effective as of June 19, 2018. The Privacy Policy Statement was provided by the [Law Offices of Weiß & Partner](https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html). We reserve the right to make changes to this privacy policy.
