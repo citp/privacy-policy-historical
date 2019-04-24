@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nothingbundtcakes.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023162221id_/https%3A//www.nothingbundtcakes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingbundtcakes.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424170259id_/https%3A//www.nothingbundtcakes.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Nothing Bundt Cakes
 
 ### Your Privacy Rights
 
@@ -99,11 +99,9 @@ How to Opt-In and Opt-Out of Communications
 
 Our Site provides you the opportunity to opt-in and opt-out of receiving communications from NBF.  To have your information removed from the NBF database, please contact us with your request online, by email or by phone as follows:
 
-Online.  Visit the “My Account” section on our website, and follow the instructions provided.
-
-By email.  Send an email to [contact@nothingbundtcakes.com](mailto:contact@nothingbundtcakes.com) from your email address of record with a subject line of UNSUBSCRIBE.
-
 Click “Unsubscribe”.  Each email we send you contains an “UNSUBSCRIBE” link at the bottom of the email.  Open your email, click “UNSUBSCRIBE”, and follow the instructions on the screen to change your communication preferences.
+
+Online.  Contact us by going to <https://www.nothingbundtcakes.com/contact-us>
 
 By U.S. Mail.  Let us know that you do not wish to receive some or all of these promotional communications by writing to us at NBF Guest Concerns, 4560 Beltline Road, Suite 350, Addison, Texas 75001.
 
@@ -158,7 +156,7 @@ Aggregated and non-personal information.  We may share aggregated information t
 
 ### Information Security
 
-We use technical, administrative, and procedural measures in an attempt to safeguard your personal and other information from unauthorized access or use.  No such measure is 100% effective though, so we do not guarantee that your personal and other information will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such information.  Users are responsible for maintaining the secrecy of their own passwords.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at [contact@nothingbundtcakes.com](mailto:contact@nothingbundtcakes.com).
+We use technical, administrative, and procedural measures in an attempt to safeguard your personal and other information from unauthorized access or use.  No such measure is 100% effective though, so we do not guarantee that your personal and other information will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such information.  Users are responsible for maintaining the secrecy of their own passwords.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at <https://www.nothingbundtcakes.com/contact-us>
 
 Please note that email may not be encrypted and cannot be considered a secure means of transmitting credit card numbers.  NBF will never ask you to submit your credit card information via email.
 
@@ -190,4 +188,4 @@ We are committed to world-class service for all of our guests.  In compliance w
 
 ### Refund Policy
 
-If you are unsatisfied with your order, please contact the local Nothing Bundt Cakes bakery that provided you with your order. If you need further assistance with a refund request, contact our support offices at [contact@nothingbundtcakes.com](mailto:contact@nothingbundtcakes.com). 
+If you are unsatisfied with your order, please contact the local Nothing Bundt Cakes bakery that provided you with your order. If you need further assistance with a refund request, contact our support offices at <https://www.nothingbundtcakes.com/contact-us>
