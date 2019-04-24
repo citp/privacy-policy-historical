@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketfy.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601025543id_/https%3A//marketfy.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketfy.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424173219id_/https%3A//marketfy.com/page/privacy) for the most accurate reproduction.*
 
 # Follow traders, Mirror their trades, Elevate your future | Marketfy
 
