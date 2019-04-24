@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the volgistics.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306060108id_/https%3A//www.volgistics.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volgistics.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424221433id_/https%3A//www.volgistics.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Volgistics
 
-Your privacy is very important to us, and we carefully protect the information you manage through Volgistics. This privacy policy explains what information we collect, how we use it, and the measures we take to protect it. If, after reviewing this policy, you have additional questions, please [contact the Volgistics team](https://web.archive.org/web/20170306060108id_/https%3A//www.volgistics.com/support.htm "contact the Volgistics team").
+Your privacy is very important to us, and we carefully protect the information you manage through Volgistics. This privacy policy explains what information we collect, how we use it, and the measures we take to protect it. If, after reviewing this policy, you have additional questions, please [contact the Volgistics team](https://web.archive.org/web/20190424221433id_/https%3A//www.volgistics.com/support.htm "contact the Volgistics team").
 
 ### What information we collect and how we use it
 
