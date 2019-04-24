@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendswap.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320050742id_/http%3A//blendswap.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendswap.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424213229id_/https%3A//www.blendswap.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blend Swap
 
