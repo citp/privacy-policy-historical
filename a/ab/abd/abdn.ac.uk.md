@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708024626id_/https%3A//www.abdn.ac.uk/about/our-website/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424075938id_/https%3A//www.abdn.ac.uk/about/our-website/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | About | The University of Aberdeen
 
@@ -21,11 +21,11 @@ The University of Aberdeen's central web server [[www.abdn.ac.uk/](http://www.ab
 
 
 
-Information gathered is used for server system administration, identifying broken links, and for producing usage statistics. Logged information may be kept indefinitely. Log files do not contain any personal information.
+Information gathered is used for server system administration, identifying broken links, and for producing usage statistics. The information may also be processed for University academic research projects that have been subject to full ethical and governance approval. Logged information may be kept indefinitely.
 
 The University of Aberdeen also uses the following log reporting services on its website to measure and analyse visitor information:
 
-  * _Net Community_ service from Blackbaud [[www.blackbaud.com/netcommunity/](http://www.blackbaud.com/netcommunity/)]
+  * _Net Community_ service from Blackbaud [www.blackbaud.com/netcommunity/]
   * _Analytics_ service from Google [[www.google.com/analytics/](http://www.google.com/analytics/)]
 
 
@@ -84,7 +84,7 @@ On occasion, staff involved in certain research projects and clinical trials may
 
 Further information on the University's policies on data protection may be found at [[www.abdn.ac.uk/dataprotection/](http://www.abdn.ac.uk/dataprotection/)].
 
-Queries regarding data protection should be addressed in the first instance to the University's Data Protection Officer (Tel: 01224 27 2037, email: [dpa@abdn.ac.uk](mailto:dpa@abdn.ac.uk)).
+Queries regarding data protection should be addressed in the first instance to the University's Data Protection Officer (Tel: +44(0) 1224 272596, email: [dpa@abdn.ac.uk](mailto:dpa@abdn.ac.uk)).
 
 ## Disclaimer
 
