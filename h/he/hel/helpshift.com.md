@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpshift.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119032257id_/https%3A//www.helpshift.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpshift.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424102906id_/https%3A//www.helpshift.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ If you have any questions or concerns about how such information is handled, you
 
 We take care to allow your Personal Information to be accessed only by those who really need to in order to perform their tasks and duties, and to third parties who have a legitimate purpose for accessing it.  We may share your Personal Information with third parties in the following circumstances:
 
-Service Providers and Agents: We employ other companies and people to perform tasks on our behalf. For example, we may decide to use a third-party payment processing company to process payments you make through the Service.  In addition, parts of the Service may be hosted by a third party on our behalf.  Your Personal Information may be accessed by such providers/agents, in the event that we need to share your information with them to provide our Service to you.  Unless we tell you differently, Helpshift’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.  A list of our current third-party and affiliate sub-processors is available at [https://helpshift.com/legal/subprocessors](https://helpshift.com/legal/subprocessors)
+Service Providers and Agents: We employ other companies and people to perform tasks on our behalf. For example, we may decide to use a third-party payment processing company to process payments you make through the Service.  In addition, parts of the Service may be hosted by a third party on our behalf.  Your Personal Information may be accessed by such providers/agents, in the event that we need to share your information with them to provide our Service to you.  Unless we tell you differently, Helpshift’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.  A list of our current third-party and affiliate sub-processors is available at [https://www.helpshift.com/legal/subprocessors](https://www.helpshift.com/legal/subprocessors)
 
 Business Transfers: We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, acquisition, dissolution, corporate reorganization or other similar event. 
 
