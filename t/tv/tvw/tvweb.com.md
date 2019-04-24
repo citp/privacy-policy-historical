@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvweb.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226234729id_/https%3A//tvweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvweb.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424035054id_/https%3A//tvweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TVweb
 
