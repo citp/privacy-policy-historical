@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114201343id_/http%3A//akc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424215041id_/http%3A//akc.org/privacy) for the most accurate reproduction.*
 
 # Website Privacy Statement – American Kennel Club
 
@@ -118,7 +118,7 @@ Additionally, requests to opt out of any marketing use of your personal informat
 
 ## VII. Updating Information
 
-We encourage registered users of the Site to keep their personal information current.  You may access, edit or delete certain personal information you have provided about you by [updating your My AKC account](https://www.akc.org/account/).  For magazine subscribers, you may edit your postal mailing address at the [Change My Address page](https://www.kable.com/pub/agzt/coa.asp).
+We encourage registered users of the Site to keep their personal information current.  You may access, edit or delete certain personal information you have provided about you by [updating your My AKC account](https://www.akc.org/account/).  For magazine subscribers, you may edit your postal mailing address at the [Change My Address page](https://ssl.palmcoastd.com/10803/apps/-173534?iCp=5CFE91E22EAB72E9B9FA23BCF80A3B67791D941CE995789781E0F8FDD08E85D0FE729975F53B7F07E4B8B0F57A0B4123).
 
 ## VIII. Information Storage and Security
 
