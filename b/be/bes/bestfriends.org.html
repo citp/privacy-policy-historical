@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the bestfriends.org privacy policy that was archived on 2018-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123095611id_/https%3A//bestfriends.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestfriends.org privacy policy that was archived on 2019-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190424191044id_/https%3A//bestfriends.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="
 not-ie" lang="en" dir="ltr"><!--<![endif]--><head>
   <!--[if IE]><![endif]-->
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript" async="" src="https://static.addtoany.com/menu/page.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
-<link rel="dns-prefetch" href="//dm76icm4097f8.cloudfront.net">
 <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
-<link rel="shortcut icon" href="https://cdn.bestfriends.org/s3fs-public/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="dns-prefetch" href="//dm76icm4097f8.cloudfront.net">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//google_tag">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-      <script type="text/javascript">
+      <script type="text/javascript" async="" src="https://static.addtoany.com/menu/page.js"></script><script type="text/javascript">
       var objBlackAndWhite  = {
 				hoverEffect: false, // default true
 				// set the path to BnWWorker.js for a superfast implementation
@@ -23,7 +24,8 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head>
 				}
 	    };
 	  </script>  
-    <script type="application/ld+json">{
+    <link rel="shortcut icon" href="https://cdn.bestfriends.org/s3fs-public/favicon.ico" type="image/vnd.microsoft.icon">
+<script type="application/ld+json">{
     "@context": "http://schema.org",
     "@graph": [
         {
@@ -55,9 +57,9 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head>
     ]
 }</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Your privacy is important to Best Friends Animal Society (&quot;Best Friends&quot;). We have developed this privacy policy (&quot;Privacy Policy&quot;) that covers how we collect, use, disclose, and protect your personal information. Please read this Privacy Policy in its entirety to understand how Best Friends will handle the privacy of personal information that you provide through the areas defined below.">
-<style type="text/css">.navigation > div > ul ul li:hover > a, .navigation > div > ul ul li.current-menu-item > a, .navigation > div > ul ul li.current-menu-parent > a, .navigation > div > ul ul li.current-menu-ancestor > a, .navigation > div > ul ul li.current_page_item > a, .navigation > div > ul ul li.current_page_parent > a, .navigation > div > ul ul li.current_page_ancestor > a, .simple-pricing-table.type-1 .featured .cost, .simple-pricing-table.type-2 .title, .widget_popular_posts a:hover h6, .portfolio-filter li a:hover, #sidebar .widget li a:hover, .portfolio-filter .active,  .entry-meta span:before, .entry-title h2 a:hover, #sidebar .jta-tweet-a, .entry-meta a:hover, .author-entry h5, #footer a:hover, .quote-author, .tooltip {color: #f58320 !important;}</style> <style type="text/css">.navigation > div > ul > li:hover > a, .navigation > div > ul > li.current-menu-item > a, .navigation > div > ul > li.current-menu-parent > a, .navigation > div > ul > li.current-menu-ancestor > a, .navigation > div > ul > li.current_page_item > a, .navigation > div > ul > li.current_page_parent > a, .navigation > div > ul > li.current_page_ancestor > a, .scribble .projects-carousel li:hover > a:after, .simple-pricing-table.type-2 .featured .price, .scribble article:hover .project-meta:after, .simple-pricing-table .featured .button, .jta-tweet-list-controls span:hover, .simple-pricing-table.type-1 .title, .gallery-slider-nav:hover a:hover, .color-1.scribble .team-entry:hover:after, .scribble .tabs-nav .active:after, .post-slider-nav:hover a:hover, .flex-direction-nav a:hover, .portfolio-controls a:hover, .acc-trigger.active:before, .detail-box .transform, .ajax-nav li:hover > a, .jcarousel-prev:hover, .jcarousel-next:hover, .wp-pagenavi .current, .button.default:hover, .flexslider .caption, .ajax-nav .current a, ul.type-1 li:before, .quotes-nav a:hover, #back-top:hover, .dropcap.color, i.small-arrows, .curtain, .highlight, .button.default:hover	{background-color: #f58320 !important; }</style> <style type="text/css">.portfolio-items article:hover .project-meta, .projects-carousel li:hover > a, .ajax-nav li:hover:before, .ajax-nav .current:before, .tabs-nav .active, .team-entry:hover{border-color: #f58320 }</style> <style type="text/css">::-moz-selection {background-color: #f58320 }</style> <meta name="robots" content="noindex">
-<style type="text/css">::selection {background-color: #f58320 }</style> <meta name="generator" content="Drupal 7 (http://drupal.org)">
+<meta name="description" content="Your privacy is important to Best Friends Animal Society (&quot;Best Friends&quot;). We have developed this privacy policy (&quot;Privacy Policy&quot;) that covers how we collect, use, disclose, and protect your personal information. Please read this Privacy Policy in its entirety to understand how Best Friends will handle the privacy of personal information that you provide through the areas">
+<style type="text/css">.navigation > div > ul ul li:hover > a, .navigation > div > ul ul li.current-menu-item > a, .navigation > div > ul ul li.current-menu-parent > a, .navigation > div > ul ul li.current-menu-ancestor > a, .navigation > div > ul ul li.current_page_item > a, .navigation > div > ul ul li.current_page_parent > a, .navigation > div > ul ul li.current_page_ancestor > a, .simple-pricing-table.type-1 .featured .cost, .simple-pricing-table.type-2 .title, .widget_popular_posts a:hover h6, .portfolio-filter li a:hover, #sidebar .widget li a:hover, .portfolio-filter .active,  .entry-meta span:before, .entry-title h2 a:hover, #sidebar .jta-tweet-a, .entry-meta a:hover, .author-entry h5, #footer a:hover, .quote-author, .tooltip {color: #f58320 !important;}</style> <style type="text/css">.navigation > div > ul > li:hover > a, .navigation > div > ul > li.current-menu-item > a, .navigation > div > ul > li.current-menu-parent > a, .navigation > div > ul > li.current-menu-ancestor > a, .navigation > div > ul > li.current_page_item > a, .navigation > div > ul > li.current_page_parent > a, .navigation > div > ul > li.current_page_ancestor > a, .scribble .projects-carousel li:hover > a:after, .simple-pricing-table.type-2 .featured .price, .scribble article:hover .project-meta:after, .simple-pricing-table .featured .button, .jta-tweet-list-controls span:hover, .simple-pricing-table.type-1 .title, .gallery-slider-nav:hover a:hover, .color-1.scribble .team-entry:hover:after, .scribble .tabs-nav .active:after, .post-slider-nav:hover a:hover, .flex-direction-nav a:hover, .portfolio-controls a:hover, .acc-trigger.active:before, .detail-box .transform, .ajax-nav li:hover > a, .jcarousel-prev:hover, .jcarousel-next:hover, .wp-pagenavi .current, .button.default:hover, .flexslider .caption, .ajax-nav .current a, ul.type-1 li:before, .quotes-nav a:hover, #back-top:hover, .dropcap.color, i.small-arrows, .curtain, .highlight, .button.default:hover	{background-color: #f58320 !important; }</style> <style type="text/css">.portfolio-items article:hover .project-meta, .projects-carousel li:hover > a, .ajax-nav li:hover:before, .ajax-nav .current:before, .tabs-nav .active, .team-entry:hover{border-color: #f58320 }</style> <meta name="robots" content="noindex">
+<style type="text/css">::-moz-selection {background-color: #f58320 }</style> <style type="text/css">::selection {background-color: #f58320 }</style> <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="https://bestfriends.org/privacy-policy">
 <link rel="shortlink" href="https://bestfriends.org/node/157">
 <meta property="og:site_name" content="Best Friends Animal Society">
@@ -69,38 +71,54 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head>
 <meta property="article:published_time" content="2015-06-29T11:53:15-06:00">
 <meta property="article:modified_time" content="2018-07-10T07:05:22-06:00">
   <title>Privacy Policy | Best Friends Animal Society</title>
-  <link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__BJ6Ou6QsBRtnFTmxaakamOIS8n4QswDP2XnnZ1sxtaM__NBuvkP6eInGIkb1aJvUHx5PX79XApuxBDkk_77W5tYk__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.css?rtc7Y_j14zIaGMehxl_bD3efZeI_vMFy" media="all">
-<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__uAP5bebd2dLDQdmK5pC9dbCEUp4h0sdbe5g8hpAc9R0__nBpV3Zd2TwkMQygaG4H_-KCkK9-invGqS8VH-XeUcS4__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.css?trPCabeRDvebJz78JS9qU4t494PrdOJH" media="all">
-<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__XIg-munIw5E89ts8kNmHg9m4eG4lhnkgfZGypYu-PsA__P7fGZY13vAOZHgRLCJXbOu28q2Z4pz2EIvH0M1VPPHs__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.css?Xd21UBVFNNHlD3_wEuvsUoGuVsAu5ZSJ" media="all">
-<link type="text/css" rel="stylesheet" href="https://bestfriends.org/sites/all/themes/bf_theme/css/font-family.css?pin2ds" media="all">
-<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__Y16MnAqsrWJbCzrHSJpT0D0o_c5_81vS-3e-OR5vJtM__KG8LEg0D5I_JlpznR2SoBwZGEiJ0wLASK-spxndY4tQ__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.css?zZ4iH6dL6JhAIENBtiEJ1bcmaKjYmpnj" media="all">
+  <link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__BJ6Ou6QsBRtnFTmxaakamOIS8n4QswDP2XnnZ1sxtaM__NBuvkP6eInGIkb1aJvUHx5PX79XApuxBDkk_77W5tYk__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.css?xOzhTtdEqfIj6iNoFi4_DekrmpTJOO9l" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__uAP5bebd2dLDQdmK5pC9dbCEUp4h0sdbe5g8hpAc9R0__nBpV3Zd2TwkMQygaG4H_-KCkK9-invGqS8VH-XeUcS4__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.css?sqGgpFinXEKov_JgfCW5AkSZByB_UmEx" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__By5aqAxCIkONdTB61b-AK2BqnKx7hW5cr-hI3m5VV9k__442gjCX8_WsAqi4_F4qZxSYsjtkcN_jwL9ZQ_d-i9Eo__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.css?pMNKUfyJAtOV2h0dxRBgNEYpDbbEWqSG" media="all">
+<link type="text/css" rel="stylesheet" href="https://bestfriends.org/sites/all/themes/bf_theme/css/font-family.css?pqhbia" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__j-GMN5yqwLH7XveuUtuY3UaO5hMK8hvxKdkECdIb9gs__LW2TCYwx6rhmAwJTuDmpDwBAnjh73z3-0FiAMuG1QpY__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.css?4KjLkv_QBXQwlbTZKYyngwnSXtNsFYcI" media="all">
+<style type="text/css" media="all">
+/* <![CDATA[ */
+#search-block-form .form-item-search-block-form input.form-text{color:#FFFFFF}
+
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__mdcsO0-rPpwCYLFv3WJDJUucmogB2qILtqFm8WpA6Go__ZYEfG0Qxh43BhzbI2aZDA1mHu29eh1zkOkAmrx1RY4g__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.css?fMP86cAsyQqxpISeNCllEzmYOSAUIbol" media="all">
 <style type="text/css" media="all">
 /* <![CDATA[ */
 @media screen and (min-width:986px){.responsive-menu-block-wrapper.responsive-menu-block{display:block;}#block-responsive-menu-toggle{display:none;}}
 
 /* ]]> */
 </style>
-<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__VGrgVzKLUm9msa0yk8Aciclg7XdYSFFapVocwvBXVL0__iEttmficU8qpzCsQl-zrJC3sHOlRYa7AIQzr147Qh8w__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.css?hUADNcs1V1wEKLlLwphln0ETd5_wZdrK" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__VGrgVzKLUm9msa0yk8Aciclg7XdYSFFapVocwvBXVL0__iEttmficU8qpzCsQl-zrJC3sHOlRYa7AIQzr147Qh8w__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.css?PzGyyK0GNl.Jd0QMSUCUOuZTO0bW2VLJ" media="all">
 <link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__RpbgAHH8eo27fVK5PkX1VRqzXDt6FsNG1qKi2LT6K6w__3wfvP3ugEWrLNk2dzO2GCmnAL2xkV9EE7JFHQ7eEdds__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.css?zNmYnaVL4EVgeEh5r2rqpBDeB38S5xpY" media="all">
-  <script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__SlxZR0T0y0knhPGspoKKlEQqbk_RdNNsHwLrlCQRTSo__yH48U9VqilbeoCAiJXKTrlGpmG9MDUnGaZ4NzARG7mw__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?9U8y7paM3FStBWcM1f_Fk21MpGf42UG9"></script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__dU859nniAHOO3ZZ49DZUXr5Frl9T3QSa81hYdDf9Uas__TyWgRf3RdO595URkDfppaPE1izXBFal-3jZjE8bW0So__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?lRGHuMZAOtlRmOyfLJF9.IgfRQJj6Uzi"></script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__kGfOnW3jq5GZ1qsBmGLtaljPWa-P16GgEC9IYwRej9w__RfKO3ZqvgUAmxZboYA1P_PLMa97xyroiKw_0RbbEE1Q__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?wMgW3VJJARhwjRxWDdfstD.Y02RfSkpT"></script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__6sNETFe6c5UOTvaOOHJQd74YD8x3QaJ_IctNWU9ejSM__se4yMY6sklssiT86xqE8u8nOC-szP2LOgcmybxooNGM__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?x0qK3gGvjHmwFZaTfsNnW5vUznCPvUgs"></script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__uBTErCfjD1G7Skhcs5WYEEZP1XxbX9sQb5Bi7vV6-MQ__6gywI3u-mxI-dak1nPQ0lu0AXxhvweLuWQ-C2sYBz1w__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?95M5nvG1D4OEt6Dnkx0luduVRAj1ym.t"></script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__5jTx5N2vt1Hu_qH7h7dPfzEO29Adw6R2w8qZoL_XpZQ__GMyVOF_GcBxz1IBJ_aQThM4-QVQwANdGWi7YaJinzVE__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?P09S7NlUL1SvhesrFgVtEHpTuR9GvzsB"></script>
+<link type="text/css" rel="stylesheet" href="https://cdn.bestfriends.org/s3fs-public/advagg_css/css__RpbgAHH8eo27fVK5PkX1VRqzXDt6FsNG1qKi2LT6K6w__SUUzXmLwdd1qOZ-aWlvOOMq66KWHycSTuigvwJcveeg__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.css?zbwl1.hHMWeBqTJO2h5xLRqEFX0jnjlu" media="all">
+  <script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__SlxZR0T0y0knhPGspoKKlEQqbk_RdNNsHwLrlCQRTSo__yH48U9VqilbeoCAiJXKTrlGpmG9MDUnGaZ4NzARG7mw__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.js?V5Bc17Q9AhPELWPBhnov3uhClfYXO24L"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-window.a2a_config=window.a2a_config||{};window.da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='https://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){da2a.script_ready=true;if(da2a.html_done)da2a.init();},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};(function ($){Drupal.behaviors.addToAny = {attach: function (context, settings) {if (context !== document && window.da2a) {if(da2a.script_ready)a2a.init_all('page');da2a.script_load();}}}})(jQuery);a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.templates=a2a_config.templates||{};a2a_config.icon_color = "#d4d4d4";
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__H5AFmq1RrXKsrazzPq_xPQPy4K0wUKqecPjczzRiTgQ__JIy-3lUpq3qC8JjvfOMkqOB8loYzuE93VQgLvC7HpVM__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.js?fn29FgegVnmGQVRnm.WoP3vsA6FzaSJs"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+//--><!]]>
+</script><script src="/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__bFOh74rblCNfeAqBWGqF603OXHEBWOI8xUWm9gk-Mnw__uKP6bdssouSeSOO3xvX5BqOp2WaFmA0I2Uj15IUGujs__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.js?aR9c3spe8rmfn2xxzl46rAyqTBwa_3xB"></script>
+<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__cZnNaEUgaOqC96SvU445sAJeM5GT4PaEBLbtXVfgwNk__wiRfuUQ3MSTV2_bzHOlQOZmSVQHIVUF8dLBWOlAMPHI__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.js?jpX3JNCydGHPa1c_R2d_oY72lbelYJ3a"></script>
+<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__S04MRBWR6h34mRkIPXcbZFh9yh7U6ANayJFp7D5Z3TU__XJyH6-gXSw36VWoaaBasIy4ht5_ytDv6TMBpNcwAnxc__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.js?.eawBXZG44jxccOxrVn_kSNflpPgaMwL"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.a2a_config=window.a2a_config||{};window.da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='https://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){da2a.script_ready=true;if(da2a.html_done)da2a.init();},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};(function ($){Drupal.behaviors.addToAny = {attach: function (context, settings) {if (context !== document && window.da2a) {if(da2a.script_ready)a2a.init_all('page');da2a.script_load();}}}})(jQuery);a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.overlays=a2a_config.overlays||[];a2a_config.templates=a2a_config.templates||{};a2a_config.icon_color = "#d4d4d4";
 //--><!]]>
 </script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__JTiv8pMYVqSvzy7POz8tnY3obDi0xAJwDF0DMqlESSE__p9rfvjpMQ-PsIrd7rfYXAZLO4pSHJcDRH1PSxcN-6t8__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?FhZU0siDwDp6Y9QDCE4BfPy_UTfh2moL"></script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__A8we30fJMt62TO1nVFMrgga1SwJSguJanM6VM1CqXHM__eGxUekMZo8rOqpmk1GjIuVsKOQ4AiOBUTwLlHuzn5rk__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?khPrbLSiixzDQ.Zsl2ohJOQX9zj53tay"></script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__M4IElgUvOoJFIvWOk-z5r0sNosWMjY63lDw9o7Zwn-Y__u9IZrsgQdepB29zO52WehqSSuXxX9HKign4zPuIW-q4__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?tlh3jFAR6giYQW1XH_tLA6Ll.7LbLqiL"></script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__JbQmwif7C7iVv-tzt61yqOcuCY0dyhmFb6Jiiv_vOKA__ykVmnDXid79yQqyVSELl7nv7M8yv8hpWixiDuG0MZOY__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?dEvkPJ7xQAlLuPBz4zF409_2MxamGBIT"></script>
+<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__JTiv8pMYVqSvzy7POz8tnY3obDi0xAJwDF0DMqlESSE__p9rfvjpMQ-PsIrd7rfYXAZLO4pSHJcDRH1PSxcN-6t8__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.js?qJ3aWhEwwHkSbIjnnsyxqwSgkOhiBrOg"></script>
+<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__35ndAGO2aJt7vC8XGQp_m9cAtDNakf860YYyu-c9kUg__lYmMps1GipgWEm6Ui1JsZOaPuzKrhp0prYlHppRHMdU__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.js?tJcdUO1MoS968zI0nqohJqKiSTB8nIFq"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bf_theme","theme_token":"jJHMo3C3c-FIQFgr6NZ7Lyglq6cFHgAJy1pGCBIxrhU","jquery_version":"1.10","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/rg_customizations\/rg_customizations.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/bf_theme\/css\/font-family.css":1,"sites\/all\/modules\/contrib\/miniorange_saml\/css\/bootstrap.min.css":1,"sites\/all\/modules\/contrib\/miniorange_saml\/css\/jquery.ui.css":1,"sites\/all\/modules\/contrib\/miniorange_saml\/css\/style_settings.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/libraries\/mmenu\/dist\/jquery.mmenu.all.css":1,"sites\/all\/modules\/contrib\/better_search\/css\/background_fade.css":1,"0":1,"sites\/all\/modules\/contrib\/responsive_menu\/css\/responsive_menu.css":1,"sites\/all\/modules\/custom\/addtoany\/addtoany.css":1,"sites\/default\/files\/honeypot\/honeypot.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.3.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/goodnex\/css\/style.css":1,"sites\/all\/themes\/goodnex\/css\/drupal.css":1,"sites\/all\/themes\/goodnex\/css\/skeleton.css":1,"sites\/all\/themes\/goodnex\/css\/layout.css":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/css\/flexslider.css":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/jquery.mediaelementplayer.css":1,"sites\/all\/themes\/goodnex\/css\/font-awesome.css":1,"sites\/all\/themes\/bf_theme\/css\/custom.css":1,"sites\/all\/themes\/bf_theme\/css\/responsive.css":1},"js":{"sites\/all\/modules\/contrib\/responsive_menu\/js\/responsive_menu.config.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/miniorange_saml\/js\/testconfig.js":1,"sites\/all\/modules\/contrib\/miniorange_saml\/js\/payment.js":1,"sites\/all\/modules\/custom\/rg_customizations\/bxslider_init.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/libraries\/jstorage\/jstorage.min.js":1,"sites\/all\/libraries\/mmenu\/dist\/jquery.mmenu.all.js":1,"sites\/all\/libraries\/hammerjs\/hammer.min.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.modernizr.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.easing.1.3.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.cycle.all.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.blackandwhite.min.js":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/mediaelement-and-player.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jcarousel.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jflickrfeed.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.touchswipe.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.isotope.min.js":1,"sites\/all\/themes\/goodnex\/js\/mobile-map.js":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/goodnex\/js\/config.js":1,"sites\/all\/themes\/goodnex\/js\/custom.js":1,"sites\/all\/themes\/goodnex\/js\/goodnex.js":1,"sites\/all\/themes\/bf_theme\/js\/jquery.browser.min.js":1,"sites\/all\/themes\/bf_theme\/js\/bf_custom.js":1,"sites\/all\/themes\/bf_theme\/js\/js.cookie.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleCSE":{"cx":"007671674184240066301:4cwztga1vaw","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":1},"gss":{"key":"015306380900599985506:vsk0bxzyrzs"},"better_exposed_filters":{"views":{"promotions":{"displays":{"block":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/privacy-policy":true},"responsive_menu":{"position":"left","theme":"theme-dark","breakpoint":false,"superfish":{"delay":"300","speed":"100","speedOut":"100"}},"colorbox_node":{"width":"600px","height":"600px"}});
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bf_theme","theme_token":"hL5KrUx_9ZkH2AmCHtBBbF9XYFhyrZ9u7eUYgcEGZWc","jquery_version":"1.10","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/gathercontent\/css\/gathercontent_style.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/rg_customizations\/rg_customizations.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/bf_theme\/css\/font-family.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/libraries\/mmenu\/dist\/jquery.mmenu.all.css":1,"sites\/all\/modules\/contrib\/better_search\/css\/background_fade.css":1,"1":1,"sites\/all\/modules\/contrib\/responsive_menu\/css\/responsive_menu.css":1,"sites\/all\/modules\/custom\/addtoany\/addtoany.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.3.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/goodnex\/css\/style.css":1,"sites\/all\/themes\/goodnex\/css\/drupal.css":1,"sites\/all\/themes\/goodnex\/css\/skeleton.css":1,"sites\/all\/themes\/goodnex\/css\/layout.css":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/css\/flexslider.css":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/jquery.mediaelementplayer.css":1,"sites\/all\/themes\/goodnex\/css\/font-awesome.css":1,"sites\/all\/themes\/bf_theme\/css\/custom.css":1,"sites\/all\/themes\/bf_theme\/css\/responsive.css":1},"js":{"sites\/all\/modules\/contrib\/responsive_menu\/js\/responsive_menu.config.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/miniorange_saml\/js\/payment.js":1,"sites\/all\/modules\/contrib\/miniorange_saml\/js\/testconfig.js":1,"sites\/all\/modules\/custom\/rg_customizations\/bxslider_init.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/libraries\/jstorage\/jstorage.min.js":1,"sites\/all\/libraries\/mmenu\/dist\/jquery.mmenu.all.js":1,"sites\/all\/libraries\/hammerjs\/hammer.min.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.modernizr.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.easing.1.3.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.cycle.all.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.blackandwhite.min.js":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/mediaelement-and-player.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jcarousel.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jflickrfeed.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.touchswipe.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.isotope.min.js":1,"sites\/all\/themes\/goodnex\/js\/mobile-map.js":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/goodnex\/js\/config.js":1,"sites\/all\/themes\/goodnex\/js\/custom.js":1,"sites\/all\/themes\/goodnex\/js\/goodnex.js":1,"sites\/all\/themes\/bf_theme\/js\/jquery.browser.min.js":1,"sites\/all\/themes\/bf_theme\/js\/bf_custom.js":1,"sites\/all\/themes\/bf_theme\/js\/js.cookie.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleCSE":{"cx":"004102342884214354013:zivt35g4g2i","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":0},"gss":{"key":"015306380900599985506:vsk0bxzyrzs"},"better_exposed_filters":{"views":{"promotions":{"displays":{"block":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/privacy-policy":true},"responsive_menu":{"position":"left","theme":"theme-dark","breakpoint":false,"superfish":{"delay":"300","speed":"100","speedOut":"100"}},"colorbox_node":{"width":"600px","height":"600px"}});
 //--><!]]>
 </script>
 
@@ -116,33 +134,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
   <!-- User defined CSS --><style type="text/css"></style><!-- End user defined CSS -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script type="text/javascript" async="" src="/sites/all/themes/bf_theme/Fonts/mtiFontTrackingCode.js"></script><script async="" type="text/javascript" src="//bestfriendsorg.disqus.com/count.js"></script><link type="text/css" rel="stylesheet" href="https://fast.fonts.net/lt/1.css?apiType=css&amp;c=f0afa2a5-89dd-4ec4-935a-a720ac5121b2&amp;fontids=1488878,1488884,1488890,1488896,1488914,1488920,1488938,1488944"></head>
+<script async="" type="text/javascript" src="//bestfriendsorg.disqus.com/count.js"></script></head>
 
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-157 node-type-page wide normal pattern-1 custom ">
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-157 node-type-page wide normal pattern-1 custom " style="">
   <div class="page-wrapper">
   <div id="bfas_page">
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMXDTP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- Web fonts connection -->
-<script type="text/javascript">
-    var MTUserId='f0afa2a5-89dd-4ec4-935a-a720ac5121b2';
-    var MTFontIds = new Array();
-
-    MTFontIds.push("1488878"); // Neue Helvetica® W01 45 Light
-    MTFontIds.push("1488884"); // Neue Helvetica® W01 46 Light Italic
-    MTFontIds.push("1488890"); // Neue Helvetica® W01 55 Roman
-    MTFontIds.push("1488896"); // Neue Helvetica® W01 56 Italic
-    MTFontIds.push("1488914"); // Neue Helvetica® W01 75 Bold
-    MTFontIds.push("1488920"); // Neue Helvetica® W01 76 Bold Italic
-    MTFontIds.push("1488938"); // Neue Helvetica® W01 95 Black
-    MTFontIds.push("1488944"); // Neue Helvetica® W01 96 Black Italic
-    (function() {
-        var mtTracking = document.createElement('script');
-        mtTracking.type='text/javascript';
-        mtTracking.async='true';
-        mtTracking.src='/sites/all/themes/bf_theme/Fonts/mtiFontTrackingCode.js';
-
-        (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(mtTracking);
-    })();
-</script>
+<noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMXDTP" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager">Google Tag Manager</iframe></noscript>
 
 <div class="page-wrapper">
   
@@ -189,7 +186,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="30" maxlength="128" class="form-text">
 </div>
-<div class="element-invisible form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="button default form-submit"></div><input type="hidden" name="form_build_id" value="form-yjQ_rQbqMyWAei0kjSuIbenqmbxZCa3byGrm16qEUVE">
+<div class="element-invisible form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="button default form-submit"></div><input type="hidden" name="form_build_id" value="form-_oYpLF76-981vbnm_tUZ6VbEk7ga2hcNOZs0oXZlTcM">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>            </div><!--/ .search-wrapper-->
@@ -202,7 +199,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <div id="head-donate-block"><a href="https://support.bestfriends.org/site/Donation2?df_id=2460&amp;mfc_pref=T&amp;2460.donation=form1" id="head-donate-donate"><b>DONATE</b>&nbsp;<i class="fa fa-angle-double-right" style="color:#f58220;"></i> </a> <a class="head-donate-link" href="https://support.bestfriends.org/site/Donation2?df_id=2461&amp;mfc_pref=T&amp;2461.donation=form1"> One Time </a> <a class="head-donate-link" href="https://support.bestfriends.org/site/Donation2?df_id=2463&amp;mfc_pref=T&amp;2463.donation=form1"> Monthly </a> <a class="head-donate-link" href="https://bestfriends.org/make-gift-memory-dh"> In Memory </a> <a class="head-donate-link" href="https://bestfriends.org/donate/make-gift-memory/make-gift-honor-dh"> In Honor </a></div>
+    <div id="head-donate-block"><a href="https://support.bestfriends.org/site/Donation2?df_id=2460&amp;mfc_pref=T&amp;2460.donation=form1" id="head-donate-donate"><b>DONATE</b>&nbsp;<i class="fa fa-angle-double-right" style="color:#f58220;"></i> </a> <a class="head-donate-link" href="https://support.bestfriends.org/site/Donation2?df_id=2461&amp;mfc_pref=T&amp;2461.donation=form1"> One Time </a> <a class="head-donate-link" href="https://support.bestfriends.org/site/Donation2?df_id=2463&amp;mfc_pref=T&amp;2463.donation=form1"> Monthly </a> <a class="head-donate-link" href="https://bestfriends.org/donate/make-gift-memory/make-gift-memory-donate"> In Memory </a> <a class="head-donate-link" href="https://bestfriends.org/donate/make-gift-memory/make-gift-honor-donate"> In Honor </a></div>
   </div>
 </div>
   </div>
@@ -235,7 +232,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="leaf menu-mlid-549"><a href="/about-best-friends/financial-information">Financial Information</a></li>
 <li class="expanded menu-mlid-1555"><a href="/about-best-friends/media">For the Media</a><ul class="sub-nav menu-tree-mlid-1555"><li class="first last leaf menu-mlid-1365"><a href="/about/media/press-releases" title="">Press Releases</a></li>
 </ul></li>
-<li class="last expanded menu-mlid-819"><a href="/about-best-friends/careers">Careers</a><ul class="sub-nav menu-tree-mlid-819"><li class="first last leaf menu-mlid-893"><a href="/about-best-friends/careers/living-kanab">Living in Kanab</a></li>
+<li class="last expanded menu-mlid-819"><a href="/about-best-friends/careers">Careers</a><ul class="sub-nav menu-tree-mlid-819"><li class="first last leaf menu-mlid-893"><a href="/about-best-friends/careers/living-kanab-utah">Living in Kanab</a></li>
 </ul></li>
 </ul></li>
 <li class="expanded menu-mlid-523"><a href="/our-work" title="programs &amp; initiatives">Our Work</a><ul class="sub-nav menu-tree-mlid-523"><li class="first leaf menu-mlid-2135"><a href="https://bestfriends.org/2025-goal" title="">2025 Goal</a></li>
@@ -259,18 +256,18 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="leaf menu-mlid-554"><a href="/our-work/spay-and-neuter-education">Spay and Neuter Education</a></li>
 <li class="last leaf menu-mlid-555"><a href="/our-work/promoting-adoption-vs-buying">Promoting Adoption vs. Buying</a></li>
 </ul></li>
-<li class="expanded menu-mlid-526"><a href="/events" title="join the fun">Events</a><ul class="sub-nav menu-tree-mlid-526"><li class="first expanded menu-mlid-1383"><a href="/events/best-friends-national-conference">Best Friends National Conference</a><ul class="sub-nav menu-tree-mlid-1383"><li class="first leaf has-children menu-mlid-1385"><a href="/events/best-friends-national-conference/about">About</a></li>
-<li class="leaf menu-mlid-1474"><a href="/events/best-friends-national-conference/become-sponsor">2018 Sponsors</a></li>
-<li class="leaf menu-mlid-1476"><a href="/events/best-friends-national-conference/become-volunteer">Volunteer</a></li>
-<li class="leaf menu-mlid-1690"><a href="//support.bestfriends.org/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=3474" title="">Presentations and Handouts</a></li>
-<li class="last leaf menu-mlid-2292"><a href="https://cdn.bestfriends.org/s3fs-public/2018-BFNC-Audio-Recording-Order-Form.pdf?uk.BBA6i5nzgBLFfLr_JYOzIRaLjgiam" title="">2018 Audio Order Form</a></li>
+<li class="expanded menu-mlid-526"><a href="/events" title="join the fun">Events</a><ul class="sub-nav menu-tree-mlid-526"><li class="first expanded menu-mlid-1383"><a href="/events/best-friends-national-conference">Best Friends National Conference</a><ul class="sub-nav menu-tree-mlid-1383"><li class="first leaf menu-mlid-1928"><a href="http://www.cvent.com/d/2bqym7/4W" title="">Register Now</a></li>
+<li class="leaf has-children menu-mlid-1385"><a href="/events/best-friends-national-conference/about">About</a></li>
+<li class="leaf menu-mlid-1391"><a href="/events/best-friends-national-conference/costs">Costs</a></li>
+<li class="leaf has-children menu-mlid-1386"><a href="/events/best-friends-national-conference/schedule">Schedule</a></li>
+<li class="leaf menu-mlid-1388"><a href="/events/best-friends-national-conference/hotel-and-travel">Hotel and Travel</a></li>
+<li class="leaf menu-mlid-1474"><a href="/events/best-friends-national-conference/become-sponsor">2019 Sponsors</a></li>
+<li class="leaf menu-mlid-1462"><a href="/events/best-friends-national-conference/what-expect/exhibit-hall">Exhibit Hall</a></li>
+<li class="last leaf menu-mlid-1476"><a href="/events/best-friends-national-conference/become-volunteer">Volunteer</a></li>
 </ul></li>
 <li class="leaf menu-mlid-557"><a href="/events/strut-your-mutt" title="Held in cities nationwide, Strut Your Mutt is a mega fundraising event and dog walk. Money raised goes to help Best Friends and other animal rescue groups.">Strut Your Mutt</a></li>
 <li class="leaf menu-mlid-558"><a href="/events/super-adoption-events" title="Find true love at pet adoption events. At Best Friends pet super adoptions, hundreds of adoptable pets are available from shelters and rescue groups">Super Adoption Events</a></li>
-<li class="expanded menu-mlid-559"><a href="/events/workshops">Workshops</a><ul class="sub-nav menu-tree-mlid-559"><li class="first leaf menu-mlid-660"><a href="/events/workshops/best-friends-dog-behavior-and-handling-workshops" title="Dog training workshops, including clicker training workshops, are offered at Best Friends Animal Sanctuary in Kanab, Utah. Register for a canine class today.">Best Friends Dog Behavior and Handling Workshops</a></li>
-<li class="leaf menu-mlid-662"><a href="/events/workshops/how-start-and-run-animal-sanctuary" title="Thinking about starting your own animal rescue organization? The first step is to register for the how to start an animal sanctuary workshop.">How to Start and Run an Animal Sanctuary</a></li>
-<li class="leaf menu-mlid-2310"><a href="/events/workshops/helpful-tips" title="">Helpful Tips</a></li>
-<li class="last leaf menu-mlid-2311"><a href="/events/workshops/refund-policy">Refund Policy</a></li>
+<li class="expanded menu-mlid-559"><a href="/events/workshops">Workshops</a><ul class="sub-nav menu-tree-mlid-559"><li class="first last leaf menu-mlid-662"><a href="/events/workshops/how-start-and-run-animal-sanctuary" title="Thinking about starting your own animal rescue organization? The first step is to register for the how to start an animal sanctuary workshop.">How to Start and Run an Animal Sanctuary</a></li>
 </ul></li>
 <li class="expanded menu-mlid-855"><a href="/events/be-event-volunteer">Be an Event Volunteer</a><ul class="sub-nav menu-tree-mlid-855"><li class="first leaf menu-mlid-856"><a href="/events/be-event-volunteer/volunteer-strut-your-mutt">Volunteer at Strut Your Mutt</a></li>
 <li class="leaf menu-mlid-858"><a href="/events/be-event-volunteer/volunteer-super-adoption-event">Volunteer at a Super Adoption Event</a></li>
@@ -285,11 +282,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="last expanded menu-mlid-2242"><a href="/events/host-event">Host an Event</a><ul class="sub-nav menu-tree-mlid-2242"><li class="first last leaf menu-mlid-2243"><a href="/events/host-event/host-event-faqs">Host an Event FAQs</a></li>
 </ul></li>
 </ul></li>
-<li class="expanded menu-mlid-527"><a href="/sanctuary" title="Angel Canyon, Kanab, UT">The Sanctuary</a><ul class="sub-nav menu-tree-mlid-527"><li class="first expanded menu-mlid-563"><a href="/sanctuary/visit-our-utah-sanctuary">Visit our Utah Sanctuary</a><ul class="sub-nav menu-tree-mlid-563"><li class="first leaf menu-mlid-2084"><a href="/sanctuary/plan-your-sanctuary-visit" title="">Plan Your Sanctuary Vacation</a></li>
+<li class="expanded menu-mlid-527"><a href="/sanctuary" title="Angel Canyon, Kanab, UT">The Sanctuary</a><ul class="sub-nav menu-tree-mlid-527"><li class="first expanded menu-mlid-563"><a href="/sanctuary/visit-our-utah-sanctuary">Visit our Utah Sanctuary</a><ul class="sub-nav menu-tree-mlid-563"><li class="first leaf menu-mlid-2084"><a href="/sanctuary/visit-our-utah-sanctuary/plan-your-sanctuary-visit">Plan Your Sanctuary Vacation</a></li>
 <li class="leaf menu-mlid-635"><a href="/sanctuary/visit-our-utah-sanctuary/directions">Directions</a></li>
 <li class="leaf menu-mlid-636"><a href="/sanctuary/visit-our-utah-sanctuary/places-stay">Places to Stay</a></li>
 <li class="leaf menu-mlid-637"><a href="/sanctuary/visit-our-utah-sanctuary/tours-sanctuary">Book Your Sanctuary Tour</a></li>
-<li class="leaf menu-mlid-640"><a href="/sanctuary/visit-our-utah-sanctuary/best-friends-kids-camp">Best Friends Kids Camp</a></li>
+<li class="leaf menu-mlid-640"><a href="/sanctuary/visit-our-utah-sanctuary/best-friends-kids-camp">Kids at Best Friends</a></li>
 <li class="leaf menu-mlid-642"><a href="/sanctuary/visit-our-utah-sanctuary/things-do-southern-utah">Things to Do in Southern Utah</a></li>
 <li class="last leaf menu-mlid-750"><a href="/sanctuary/visit-our-utah-sanctuary/best-friends-visitor-center">Best Friends Visitor Center</a></li>
 </ul></li>
@@ -297,12 +294,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="leaf has-children menu-mlid-618"><a href="/sanctuary/volunteer/groups">Groups</a></li>
 <li class="leaf menu-mlid-616"><a href="/sanctuary/volunteer/internships">Internships</a></li>
 <li class="leaf menu-mlid-617"><a href="/sanctuary/volunteer/veterinary-externships">Veterinary Externships</a></li>
+<li class="leaf menu-mlid-2223"><a href="/sanctuary/volunteer/fostering-sanctuary">Fostering for the Sanctuary</a></li>
 <li class="leaf menu-mlid-639"><a href="/sanctuary/volunteer/animal-sleepovers">Animal Sleepovers</a></li>
 <li class="leaf menu-mlid-638"><a href="/sanctuary/volunteer/animal-outings">Animal Outings</a></li>
 <li class="leaf has-children menu-mlid-830"><a href="/sanctuary/volunteer/volunteer-near-you">Volunteer near you</a></li>
 <li class="leaf menu-mlid-615"><a href="/sanctuary/volunteer/volunteer-faqs">Volunteer FAQs</a></li>
-<li class="leaf menu-mlid-1700"><a href="https://volunteers.bestfriends.org/?nd=login&amp;logout=1" title="">Log in to volunteer</a></li>
-<li class="last leaf menu-mlid-2223"><a href="/sanctuary/volunteer/fostering-sanctuary">Fostering for the Sanctuary</a></li>
+<li class="last leaf menu-mlid-1700"><a href="https://volunteers.bestfriends.org/?nd=login&amp;logout=1" title="">Log in to volunteer</a></li>
 </ul></li>
 <li class="leaf menu-mlid-1346"><a href="//bestfriends.org/adopt/adoption-promotions/national-adoption-promotions" title="Adopt a homeless animal from our Utah Sanctuary.">Adopt a Pet</a></li>
 <li class="leaf menu-mlid-561"><a href="/donate/sponsor-an-animal" title="">Sponsor a Sanctuary Animal</a></li>
@@ -316,27 +313,21 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="leaf has-children menu-mlid-1881"><a href="/sanctuary/explore-sanctuary/best-friends-animal-clinic">Best Friends Animal Clinic</a></li>
 <li class="leaf menu-mlid-606"><a href="/sanctuary/explore-sanctuary/angels-rest-and-memorials">Angels Rest and Memorials</a></li>
 <li class="leaf menu-mlid-883"><a href="/sanctuary/explore-sanctuary/information-and-admission-policies">Information and Admission Policies</a></li>
-<li class="last leaf menu-mlid-724"><a href="/sanctuary/explore-sanctuary/sanctuary-map" title="">Sanctuary Map</a></li>
+<li class="last leaf menu-mlid-2818"><a href="/sanctuary/explore-sanctuary/sanctuary-map">Sanctuary Map</a></li>
 </ul></li>
 <li class="last leaf menu-mlid-560"><a href="https://stories.bestfriends.org" title="">Sanctuary Scoop</a></li>
 </ul></li>
 <li class="expanded menu-mlid-528"><a href="/stories-blog-videos" title="blog &amp; videos">Stories</a><ul class="sub-nav menu-tree-mlid-528"><li class="first expanded menu-mlid-658"><a href="/stories-blog-videos/latest-news" title="">Latest News</a><ul class="sub-nav menu-tree-mlid-658"><li class="first last leaf menu-mlid-1954"><a href="/stories-blog-videos/latest-news/customize-news-results" title="">Latest News Archives</a></li>
 </ul></li>
-<li class="leaf menu-mlid-619"><a href="http://blogs.bestfriends.org/" title="">Best Friends Blog</a></li>
+<li class="expanded menu-mlid-619"><a href="/blogs" title="">Best Friends Blog</a><ul class="sub-nav menu-tree-mlid-619"><li class="first last leaf menu-mlid-2821"><a href="/blogs/comment-policy">Comment Policy</a></li>
+</ul></li>
 <li class="expanded menu-mlid-620"><a href="/stories/best-friends-magazine">Best Friends Magazine</a><ul class="sub-nav menu-tree-mlid-620"><li class="first last leaf menu-mlid-903"><a href="/stories/best-friends-magazine/magazine-archives">Magazine Archives</a></li>
 </ul></li>
 <li class="leaf menu-mlid-749"><a href="/stories/connect-with-us">Connect with Us</a></li>
 <li class="leaf menu-mlid-773"><a href="/stories/photo-gallery">Photo Gallery</a></li>
 <li class="last leaf menu-mlid-774"><a href="/stories-blog-videos/videos">Video Gallery</a></li>
 </ul></li>
-<li class="expanded menu-mlid-529"><a href="/resources" title="for owners &amp; shelters">Resources</a><ul class="sub-nav menu-tree-mlid-529"><li class="first leaf menu-mlid-715"><a href="/resources/dogs" title="">Dogs</a></li>
-<li class="leaf menu-mlid-716"><a href="/resources/cats" title="">Cats</a></li>
-<li class="leaf menu-mlid-717"><a href="/resources/other-animals" title="">Other Animals</a></li>
-<li class="leaf menu-mlid-718"><a href="/resources/general-pet-care" title="">General Pet Care</a></li>
-<li class="leaf menu-mlid-719"><a href="/resources/for-shelters-and-rescuers" title="">For Shelters and Rescuers</a></li>
-<li class="leaf menu-mlid-720"><a href="/resources/pit-bull-terriers" title="">Pit Bull Terriers</a></li>
-<li class="leaf menu-mlid-722"><a href="/resources/feral-cats-and-tnr" title="">Feral Cats and TNR</a></li>
-<li class="last leaf menu-mlid-721"><a href="/resources/puppy-mills" title="">Puppy Mills</a></li>
+<li class="expanded menu-mlid-529"><a href="https://bestfriends.org/pet-care-resources" title="">Resources</a><ul class="sub-nav menu-tree-mlid-529"><li class="first last leaf menu-mlid-715"><a href="https://resources.bestfriends.org" title="">Visit the new Best Friends resource library for pet care and shelter info from animal experts.</a></li>
 </ul></li>
 <li class="expanded menu-mlid-530"><a href="/adopt-pet" title="Save Them All">Adopt</a><ul class="sub-nav menu-tree-mlid-530"><li class="first expanded menu-mlid-567"><a href="/adopt-pet/adopt-our-sanctuary">From Our Sanctuary</a><ul class="sub-nav menu-tree-mlid-567"><li class="first leaf menu-mlid-679"><a href="/adopt/adopt-our-sanctuary/dogs" title="">Dogs</a></li>
 <li class="leaf menu-mlid-680"><a href="/adopt/adopt-our-sanctuary/cats" title="">Cats</a></li>
@@ -347,15 +338,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="leaf menu-mlid-686"><a href="/adopt/adopt-our-sanctuary/barnyard" title="">Barnyard</a></li>
 <li class="leaf menu-mlid-685"><a href="/adopt/adopt-our-sanctuary/small-furry" title="">Small &amp; Furry</a></li>
 <li class="leaf menu-mlid-2067"><a href="/adopt/adopt-our-sanctuary/other" title="">Other</a></li>
-<li class="leaf menu-mlid-2362"><a href="https://bestfriends.org/adopt/adopt-our-sanctuary/all" title="">All Animals</a></li>
-<li class="last leaf menu-mlid-854"><a href="/adopt-pet/adopt-our-sanctuary/how-adopt">How to Adopt</a></li>
+<li class="last leaf menu-mlid-2362"><a href="https://bestfriends.org/adopt/adopt-our-sanctuary/all" title="">All Animals</a></li>
 </ul></li>
-<li class="expanded menu-mlid-569"><a href="/adopt/adoption-promotions">Adoption Promotions</a><ul class="sub-nav menu-tree-mlid-569"><li class="first leaf menu-mlid-1130"><a href="/adopt/adoption-promotions/national-adoption-promotions">National Adoption Promotions</a></li>
-<li class="last leaf has-children menu-mlid-1609"><a href="/adopt/adoption-promotions/current-sanctuary-adoption-promotions">Current Sanctuary Adoption Promotions</a></li>
-</ul></li>
+<li class="expanded menu-mlid-569"><a href="/adopt-pet/adoption-promotions">Adoption Promotions</a></li>
 <li class="leaf menu-mlid-688"><a href="/adopt/adopt-our-sanctuary/recently-adopted" title="">Recently Adopted</a></li>
-<li class="expanded menu-mlid-568"><a href="/adopt/adopt-near-you">Adopt Near You</a><ul class="sub-nav menu-tree-mlid-568"><li class="first last leaf menu-mlid-1613"><a href="/featured-pets-network-partners">Featured Pets from Network Partners</a></li>
-</ul></li>
+<li class="leaf menu-mlid-568"><a href="/adopt-pet/adopt-near-you">Adopt Near You</a></li>
+<li class="leaf menu-mlid-854"><a href="/adopt-pet/how-adopt">How to Adopt</a></li>
 <li class="last leaf menu-mlid-1941"><a href="https://bestfriends.pawslikeme.com/quiz" title="">New! Get Matched to Adoptable Dogs and Cats</a></li>
 </ul></li>
 <li class="last expanded menu-mlid-531"><a href="/donate">Ways to Give</a><ul class="sub-nav menu-tree-mlid-531"><li class="first leaf menu-mlid-1870"><a href="//support.bestfriends.org/site/Donation2?df_id=1949&amp;mfc_pref=T&amp;1949.donation=form1" title="">Donate Now</a></li>
@@ -369,7 +357,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </ul></li>
 <li class="expanded menu-mlid-1593"><a href="/donate/become-member">Member Center</a><ul class="sub-nav menu-tree-mlid-1593"><li class="first leaf menu-mlid-1596"><a href="https://support.bestfriends.org/site/Donation2?df_id=1740&amp;mfc_pref=T&amp;1740.donation=form1&amp;_ga=2.124757514.1006027899.1506297917-1759328538.1494533880" title="">Become a Member</a></li>
 <li class="leaf menu-mlid-1880"><a href="//support.bestfriends.org/site/Donation2?df_id=1948&amp;mfc_pref=T&amp;1948.donation=form1" title="">Renew Membership</a></li>
-<li class="leaf menu-mlid-2151"><a href="/donate/member-self-service">Member Self-Service</a></li>
+<li class="leaf menu-mlid-2151"><a href="/donate/become-member/member-self-service">Member Self-Service</a></li>
 <li class="last leaf menu-mlid-877"><a href="/donate/become-member/golden-circle">Golden Circle</a></li>
 </ul></li>
 <li class="expanded menu-mlid-1384"><a href="/donate/planned-giving">Planned Giving</a><ul class="sub-nav menu-tree-mlid-1384"><li class="first leaf has-children menu-mlid-1468"><a href="/donate/planned-giving/planned-gift-options">Planned Gift Options</a></li>
@@ -400,20 +388,113 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="container">
                     <section id="share-buttons" class="share-buttons">
                   <div class="region region-share-buttons">
-    <div id="block-addtoany-addtoany-button" class="block block-addtoany">
+    <div id="block-block-30" class="block block-block">
 
     
   <div class="content">
-    <span class="a2a_kit a2a_kit_size_32 a2a_target addtoany_list" id="da2a_3">
-      <a class="a2a_button_facebook"></a>
-<a class="a2a_button_twitter"></a>
-<a class="a2a_button_pinterest"></a>
-<a class="a2a_button_email"></a>
-<a class="a2a_button_print"></a>
-      
-      
-    </span>
-      </div>
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.share-buttons {
+    position: absolute;
+    display: inline;
+    left: -65px;
+}
+
+.region-share-buttons {
+    position: fixed;
+    background-color: none;
+    border: none;
+    padding-bottom: 5px;
+    display: inline-block;
+    top: 300px;
+}
+
+.social-share {
+	height:35px;
+	width: 35px;
+	margin:8px;
+	border-radius:50%;
+	text-align:center;
+	display:block;
+}
+
+.social-share  i {
+	font-family: FontAwesome;
+	color:#FFF;
+	font-style: normal;
+	font-size:24px;
+	line-height:35px;
+}
+
+.fb {
+	background: #4267b2;
+}
+
+.tw {
+	background: #38a1f3;
+}
+
+.pin {
+	height:40px;
+	width: 40px;
+	margin:8px;
+	display:block;
+}
+
+.pin i {
+	font-family:FontAwesome;
+	font-size: 40px;
+	line-height: 40px;
+	color: #bd081c;
+	font-style:normal;
+	display:block;
+}
+
+.email {
+	background: #f58220;
+}
+
+.print {
+	background: #3d3d3e;
+}
+
+@media only screen and (max-width: 1105px) {
+.region-share-buttons {
+    position: fixed;
+    left: 0px;
+    top: auto;
+    bottom: 11px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, .8);
+    padding-bottom: 5px;
+    z-index: 998;
+    text-align: center;
+}
+
+.region-share-buttons p {
+   margin: 0 0 0 0;
+}
+
+.social-share {
+	display:inline-block;
+}
+
+.pin {
+	display: inline-block;
+    position: relative;
+    top: 5px;
+}
+
+}
+
+/*--><!]]>*/
+</style><p><a class="social-share fb share" href="https://www.facebook.com/sharer/sharer.php?u=&amp;t=" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&amp;t=' + encodeURIComponent(document.URL), 'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=500'); return false;" target="_blank" title="Share on Facebook"><i class="fab fa-facebook-f"></i></a> <a class="social-share tw share" href="https://twitter.com/intent/tweet?" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20 '  + encodeURIComponent(document.URL),'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=500'); return false;" target="_blank" title="Tweet"><i class="fab fa-twitter"></i></a> <a class="pin share" data-pin-custom="true" data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/" target="_blank" title="Pin it"><i class="fab fa-pinterest"></i></a> <a class="social-share email" href="mailto:?subject=&amp;body=:%20" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&amp;body=' +  encodeURIComponent(document.URL)); return false;" target="_blank" title="Email"><i class="fas fa-envelope"></i></a> <a class="social-share print" href="javascript:window.print()"><i class="fas fa-print"></i></a> <script type="text/javascript" async="" defer="defer" src="//assets.pinterest.com/js/pinit.js">
+<!--//--><![CDATA[// ><!--
+
+
+//--><!]]>
+</script></p>
+  </div>
 </div>
   </div>
             </section>
@@ -562,28 +643,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         </div>
       
               <div class="footer-mobile">
-            <div class="region region-footer-top-right">
-    <div id="text-alert-block" class="block block-text-alert text-alert-block">
-
-    <div class="heading-2">Get Mobile Updates:</div>
-  
-  <div class="content">
-    <form action="/privacy-policy" method="post" id="text-alert-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-text-alert-phone">
- <input class="text-alert-phone form-text" placeholder="ENTER MOBILE NUMBER" type="text" id="edit-text-alert-phone" name="text-alert-phone" value="" size="13" maxlength="32">
-</div>
-<input class="text-alert-submit button default form-submit" id="text-alert-submit" type="submit" name="op" value=""><div class="clear"></div><div class="signup-body-text" id="text-alert-body-text"><p>Recurring SMS Subscription service. Msg&amp;Data Rates May Apply.<br><strong>Text STOP to 50555 to STOP. Text HELP to 50555 for HELP</strong>.<br>
-Full Terms: &nbsp;<strong><a href="http://www.mGive.com/e" style="color:#f58220;" target="_blank">www.mGive.com/e</a></strong>. Privacy Policy: &nbsp;<strong><a href="http://www.mgive.org/p" style="color:#f58220;" target="_blank">www.mgive.org/p</a></strong>.&nbsp;</p>
-</div><input type="hidden" name="form_build_id" value="form-pF2sNyJ9JGgqhvc8hR8aUpkO0hpjtQSglRjB05fB0pg">
-<input type="hidden" name="form_id" value="text_alert_form">
-<input type="hidden" name="honeypot_time" value="1542966971|Rb5yMPdzMlFxkEydgyKefl2J1efyINN0Q66LoL_5wPI">
-<div class="url-hp-textfield"><div class="form-item form-type-textfield form-item-url-hp">
-  <label for="edit-url-hp">Leave this field blank </label>
- <input autocomplete="off" type="text" id="edit-url-hp" name="url-hp" value="" size="20" maxlength="128" class="form-text">
-</div>
-</div></div></form>  </div>
-</div>
-  </div>
-        </div>
+                  </div>
           </div>
 
       <div class="clear"></div>
@@ -594,12 +654,12 @@ Full Terms: &nbsp;<strong><a href="http://www.mGive.com/e" style="color:#f58220;
 
     
   <div class="content">
-    <div class="follow-icons" style="margin-bottom: 20px;">Follow us:<br><ul><li><a href="https://www.facebook.com/bestfriendsanimalsociety?ref=ts" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    <div class="follow-icons" style="margin-bottom: 20px;">Follow us: <br><ul><li><a href="https://www.facebook.com/bestfriendsanimalsociety?ref=ts" target="_blank"><i class="fa fa-facebook"></i></a></li>
 	<li><a href="https://twitter.com/bestfriends" target="_blank"><i class="fa fa-twitter"></i> </a></li>
-	<li><a href="http://instagram.com/bestfriendsanimalsociety" target="_blank"><i class="fa fa-instagram"></i></a></li>
+	<li><a href="https://instagram.com/bestfriendsanimalsociety" target="_blank"><i class="fa fa-instagram"></i></a></li>
 	<li><a href="https://www.pinterest.com/bfas/" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
 	<li><a href="https://www.linkedin.com/company/best-friends-animal-society" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-	<li><a href="http://www.youtube.com/user/BestFriendsVideos" target="_blank"><i class="fa fa-youtube"></i> </a></li>
+	<li><a href="https://www.youtube.com/user/BestFriendsVideos" target="_blank"><i class="fa fa-youtube"></i> </a></li>
 </ul></div>
 
 <div style="font-size: 16px; line-height: 20px; color: #FFFFFF; max-width: 700px; margin:0px auto; padding-bottom: 30px; text-align: center;">Best Friends, a 501(c)(3) nonprofit organization, operates the nation's largest sanctuary for homeless animals; provides adoption, spay/neuter, and educational programs.</div>
@@ -618,44 +678,22 @@ Full Terms: &nbsp;<strong><a href="http://www.mGive.com/e" style="color:#f58220;
 
     
   <div class="content">
-    <style type="text/css">
-<!--/*--><![CDATA[/* ><!--*/
-.comments-count {
-    display:none;
-}
-
-.form-item-search-block-form input.form-text {
-    background: none !important;
-}
-
-.horizontal-menu > .last > a {
-color: #FFFFFF !Important;
-}
-
-.view-id-news_category_results img{
-    max-width: 172px;
-    height: auto;
-    float: left;
-    margin: 0px 15px 10px 0px;
-}
-
-/*--><!]]>*/
-</style><div class="linksfooter">
+    <div class="linksfooter">
 <div class="footerhead">BEST FRIENDS REGIONAL PROGRAMS:</div>
 
 <div class="footerlinks"><a href="https://ny.bestfriends.org/" target="_blank">New York</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://la.bestfriends.org/" target="_blank">Los Angeles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://utah.bestfriends.org/" target="_blank">Utah</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/our-work/local-programs/best-friends-atlanta" target="_blank">Atlanta</a>&nbsp;| <a href="https://bestfriends.org/our-work/regional-programs/best-friends-houston">Houston</a></div>
 
 <div class="footerhead">NO-KILL PROGRAMS:</div>
 
-<div class="footerlinks"><a href="http://nkla.org/" target="_blank">NKLA</a><a href="http://nkla.org/" target="_blank">&nbsp;No-Kill Los Angeles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://nkut.org/" target="_blank">NKUT</a><a href="http://nkut.org/" target="_blank"> No-Kill</a><a href="http://nkut.org/" target="_blank"> Utah</a></div>
+<div class="footerlinks"><a href="https://nkla.org/" target="_blank">NKLA</a><a href="https://nkla.org/" target="_blank">&nbsp;No-Kill Los Angeles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://nkut.org/" target="_blank">NKUT</a><a href="https://nkut.org/" target="_blank"> No-Kill</a><a href="https://nkut.org/" target="_blank"> Utah</a></div>
 
 <div class="footerhead">OTHER BEST FRIENDS SITES:</div>
 
-<div class="footerlinks"><a href="https://savethemall.bestfriends.org" target="_blank">Save Them All</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://shop.bestfriends.org/storefront.aspx" target="_blank">Best Friends Store</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="https://bestfriends.org/events/national-conference">National Conference</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://network.bestfriends.org">Network Partners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://strutyourmutt.org/" target="_blank">Strut Your Mutt</a></div>
+<div class="footerlinks"><a href="https://savethemall.bestfriends.org" target="_blank">Save Them All</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://shop.bestfriends.org/storefront.aspx" target="_blank">Best Friends Store</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="https://bestfriends.org/events/national-conference">National Conference</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://network.bestfriends.org">Network Partners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://strutyourmutt.org/" target="_blank">Strut Your Mutt</a></div>
 
 <div class="resqwalk_footer" style="margin:30px;">
 <div class="footerhead">MOBILE APPS:</div>
-<a href="/resqwalk"><img alt="RESQWALK" src="https://cdn.bestfriends.org/s3fs-public/rqw.png?z3fOKjG0Fw32NyxDJZjJT7R4VceIMaUO" style="width: 200px; height: auto; margin: 10px auto;"></a></div>
+<a href="/resqwalk"><img alt="RESQWALK" src="https://cdn.bestfriends.org/s3fs-public/rqw.png?z3fOKjG0Fw32NyxDJZjJT7R4VceIMaUO" style="width: 200px; height: auto; margin: 10px 50px;"></a><a href="/best-friends-vet-access"><img alt="Best Friends Vet Access" src="https://cdn.bestfriends.org/s3fs-public/app_vet_access.png?SYsRpdqLp_sSMot_2jRaDUStyjxRErRj" style="width: 200px; height: auto; margin: 10px 50px;"></a></div>
 
 <div class="footer_dt" style="font-size:14px; line-height:18px; max-width:100%;">As seen on&nbsp;<a data-sc-inline="14" href="https://bestfriends.org/sanctuary/explore-sanctuary/dogtown/series">National Geographic’s DogTown</a>&nbsp;and the&nbsp;CW’s&nbsp;Dog&nbsp;Town&nbsp;USA. And the inspiration behind the critically acclaimed film,&nbsp;<a href="https://bestfriends.org/champions">The Champions.</a></div>
 
@@ -663,9 +701,12 @@ color: #FFFFFF !Important;
 
 <div class="footerlinks"><a href="/privacy-policy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms-conditions">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/contact-Us">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about-best-friends/careers">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/media">For the Media</a></div>
 
-<div><a href="https://www.charitywatch.org/ratings-and-metrics/best-friends-animal-society/50" target="_blank"><img alt="Charity Watch Top Rated" src="//815678169699-bfas-files.s3.amazonaws.com/CharityWatch.png" style="width: 95px;  margin-right:12px; margin-left: 12px; margin-bottom:20px;"></a><a href="http://greatnonprofits.org/org/best-friends-animal-society" target="_blank"><img alt="Great Non-Profits 2017" src="https://cdn.bestfriends.org/s3fs-public/greatnonprofits2017.png?6MZR.W8HghOczOceUooj6Q1u3HM8FY6M" style="width: 100px; margin-right: 12px; margin-left: 12px; margin-bottom: 20px; height: 85px;"></a><a href="https://theharrispoll.com/equitrend-ranking-page/" target="_blank"><img alt="Brand of the Year" src="https://cdn.bestfriends.org/s3fs-public/boty.png?Vw6RrArovakNuz3m7gLou8fQ6p5pieOW" style="width:auto; height:85px; margin-right:12px; margin-left: 12px; margin-bottom:20px;"></a><img alt="GuideStar" src="//815678169699-bfas-files.s3.amazonaws.com/guidestar_plat.png" style="width:95px; margin-right:12px; margin-left: 12px; margin-bottom:20px;"><a href="http://shelteranimalscount.org/" target="_blank"><img alt="Shelter Animals Count Platinum Sponsor" src="//815678169699-bfas-files.s3.amazonaws.com/shelter_animals_count_plat.png" style="width:95px; margin-right:12px; margin-left: 12px; margin-bottom:20px;"></a><a href="http://www.pointsoflight.org/service-enterprise-initiative" target="_blank"><img alt="Service Enterprise Certified" src="https://cdn.bestfriends.org/s3fs-public/se_certified1.png?J6ywVnbOOvf7nzTD0A2pmyc3cmrS3wnB" style="width: 100px; margin-left: 8px; margin-bottom: 20px; height: 85px;"></a></div>
+<div><a href="https://www.charitywatch.org/ratings-and-metrics/best-friends-animal-society/50" target="_blank"><img alt="Charity Watch Top Rated" src="//815678169699-bfas-files.s3.amazonaws.com/CharityWatch.png" style="width: 95px;  margin-right:12px; margin-left: 12px; margin-bottom:20px;"></a><a href="https://greatnonprofits.org/org/best-friends-animal-society" target="_blank"><img alt="Great Non-Profits 2017" src="https://cdn.bestfriends.org/s3fs-public/greatnonprofits2017.png?6MZR.W8HghOczOceUooj6Q1u3HM8FY6M" style="width: 100px; margin-right: 12px; margin-left: 12px; margin-bottom: 20px; height: 85px;"></a><img alt="GuideStar" src="//815678169699-bfas-files.s3.amazonaws.com/guidestar_plat.png" style="width:95px; margin-right:12px; margin-left: 12px; margin-bottom:20px;"><a href="https://theharrispoll.com/equitrend-ranking-page/" target="_blank"><img alt="The Harris Poll" src="https://cdn.bestfriends.org/s3fs-public/harris.png" style="width:95px; margin-right:12px; margin-left: 12px; margin-bottom:20px;"></a>
 
-<div class="footercopyright" style="margin-top:10px;">© 2018 Best Friends Animal Society. All Rights Reserved.</div>
+
+<a href="https://shelteranimalscount.org/" target="_blank"><img alt="Shelter Animals Count Platinum Sponsor" src="//815678169699-bfas-files.s3.amazonaws.com/shelter_animals_count_plat.png" style="width:95px; margin-right:12px; margin-left: 12px; margin-bottom:20px;"></a><a href="https://www.pointsoflight.org/service-enterprise-initiative" target="_blank"><img alt="Service Enterprise Certified" src="https://cdn.bestfriends.org/s3fs-public/se_certified1.png?J6ywVnbOOvf7nzTD0A2pmyc3cmrS3wnB" style="width: 100px; margin-left: 8px; margin-bottom: 20px; height: 85px;"></a></div>
+
+<div class="footercopyright" style="margin-top:10px;">© 2019 Best Friends Animal Society. All Rights Reserved.</div>
 </div>
   </div>
 </div>
@@ -699,9 +740,8 @@ color: #FFFFFF !Important;
 <li class="leaf menu-mlid-545"><a href="/about-best-friends/faqs">FAQs</a></li>
 <li class="leaf menu-mlid-546"><a href="/about-best-friends/position-statements">Position Statements</a></li>
 <li class="leaf menu-mlid-547"><a href="/about/leadership">Leadership</a></li>
-<li class="expanded menu-mlid-548"><a href="/about-best-friends/our-partners">Our Partners</a><ul class="sub-nav menu-tree-mlid-548"><li class="first expanded menu-mlid-673"><a href="/about-best-friends/our-partners/corporate-partners">Corporate Partners</a><ul class="sub-nav menu-tree-mlid-673"><li class="first leaf menu-mlid-689"><a href="/about-best-friends/our-partners/corporate-partners/natures-variety">Nature’s Variety</a></li>
-<li class="leaf menu-mlid-1608"><a href="/about-best-friends/our-partners/corporate-partners/skechers">Skechers</a></li>
-<li class="last leaf menu-mlid-2298"><a href="/about-best-friends/our-partners/corporate-partners/ruff-adventure-dog-rad-adoption-program">Ruff Adventure Dog (RAD) Adoption Program</a></li>
+<li class="expanded menu-mlid-548"><a href="/about-best-friends/our-partners">Our Partners</a><ul class="sub-nav menu-tree-mlid-548"><li class="first expanded menu-mlid-673"><a href="/about-best-friends/our-partners/corporate-partners">Corporate Partners</a><ul class="sub-nav menu-tree-mlid-673"><li class="first leaf menu-mlid-2298"><a href="/about-best-friends/our-partners/corporate-partners/ruff-adventure-dog-rad-adoption-program">Ruff Adventure Dog (RAD) Adoption Program</a></li>
+<li class="last leaf menu-mlid-2822"><a href="/universal-pictures">Universal Pictures: A Dog’s Journey</a></li>
 </ul></li>
 <li class="expanded menu-mlid-674"><a href="/about-best-friends/our-partners/foundation-partners">Foundation Partners</a><ul class="sub-nav menu-tree-mlid-674"><li class="first leaf menu-mlid-2214"><a href="/about-best-friends/our-partners/foundation-partners/bb-candles">BB Candles</a></li>
 <li class="leaf menu-mlid-2150"><a href="/about-best-friends/our-partners/foundation-partners/maddies-fund">Maddie’s Fund</a></li>
@@ -714,7 +754,7 @@ color: #FFFFFF !Important;
 <li class="leaf menu-mlid-549"><a href="/about-best-friends/financial-information">Financial Information</a></li>
 <li class="expanded menu-mlid-1555"><a href="/about-best-friends/media">For the Media</a><ul class="sub-nav menu-tree-mlid-1555"><li class="first last leaf menu-mlid-1365"><a href="/about/media/press-releases" title="">Press Releases</a></li>
 </ul></li>
-<li class="last expanded menu-mlid-819"><a href="/about-best-friends/careers">Careers</a><ul class="sub-nav menu-tree-mlid-819"><li class="first last leaf menu-mlid-893"><a href="/about-best-friends/careers/living-kanab">Living in Kanab</a></li>
+<li class="last expanded menu-mlid-819"><a href="/about-best-friends/careers">Careers</a><ul class="sub-nav menu-tree-mlid-819"><li class="first last leaf menu-mlid-893"><a href="/about-best-friends/careers/living-kanab-utah">Living in Kanab</a></li>
 </ul></li>
 </ul></li>
 <li class="expanded menu-mlid-523"><a href="/our-work" title="programs &amp; initiatives">Our Work</a><ul class="sub-nav menu-tree-mlid-523"><li class="first leaf menu-mlid-2135"><a href="https://bestfriends.org/2025-goal" title="">2025 Goal</a></li>
@@ -723,7 +763,8 @@ color: #FFFFFF !Important;
 <li class="leaf menu-mlid-538"><a href="/our-work/regional-programs/best-friends-los-angeles">Los Angeles</a></li>
 <li class="leaf menu-mlid-539"><a href="/our-work/regional-programs/best-friends-new-york">New York</a></li>
 <li class="expanded menu-mlid-1361"><a href="/our-work/regional-programs/best-friends-atlanta">Atlanta</a><ul class="sub-nav menu-tree-mlid-1361"><li class="first leaf menu-mlid-2249"><a href="/our-work/regional-programs/best-friends-atlanta/donate-atlanta">Donate in Atlanta</a></li>
-<li class="last leaf menu-mlid-2248"><a href="/our-work/regional-programs/best-friends-atlanta/volunteer-atlanta">Volunteer in Atlanta</a></li>
+<li class="leaf menu-mlid-2248"><a href="/our-work/regional-programs/best-friends-atlanta/volunteer-atlanta">Volunteer in Atlanta</a></li>
+<li class="last leaf menu-mlid-2372"><a href="/our-work/regional-programs/best-friends-atlanta/foster-atlanta">Foster in Atlanta</a></li>
 </ul></li>
 <li class="last expanded menu-mlid-2265"><a href="/our-work/regional-programs/best-friends-houston">Houston</a><ul class="sub-nav menu-tree-mlid-2265"><li class="first last leaf menu-mlid-2344"><a href="/our-work/regional-programs/best-friends-houston/events-houston">Events in Houston</a></li>
 </ul></li>
@@ -732,7 +773,7 @@ color: #FFFFFF !Important;
 <li class="expanded menu-mlid-541"><a href="/our-work/supporting-network-partners">Network Partners</a><ul class="sub-nav menu-tree-mlid-541"><li class="first leaf menu-mlid-2237"><a href="/network-partners-map" title="">Network Partners Map</a></li>
 <li class="last leaf menu-mlid-853"><a href="/our-work/supporting-network-partners/network-partners" title="">Find a Network Partner Near You</a></li>
 </ul></li>
-<li class="expanded menu-mlid-1893"><a href="/our-work/best-friends-advocacy">Best Friends Advocacy</a><ul class="sub-nav menu-tree-mlid-1893"><li class="first expanded menu-mlid-542"><a href="/our-work/best-friends-advocacy/ending-puppy-mills">Ending Puppy Mills</a><ul class="sub-nav menu-tree-mlid-542"><li class="first last leaf menu-mlid-890"><a href="//bestfriends.org/resources/puppy-mills" title="">Puppy Mill Resources</a></li>
+<li class="expanded menu-mlid-1893"><a href="/our-work/best-friends-advocacy">Best Friends Advocacy</a><ul class="sub-nav menu-tree-mlid-1893"><li class="first expanded menu-mlid-542"><a href="/our-work/best-friends-advocacy/ending-puppy-mills">Ending Puppy Mills</a><ul class="sub-nav menu-tree-mlid-542"><li class="first last leaf menu-mlid-890"><a href="https://resources.bestfriends.org/advocacy/puppy-mills" title="">Puppy Mill Resources</a></li>
 </ul></li>
 <li class="expanded menu-mlid-552"><a href="/our-work/best-friends-advocacy/protecting-community-cats">Protecting Community Cats</a><ul class="sub-nav menu-tree-mlid-552"><li class="first leaf menu-mlid-1600"><a href="/our-work/best-friends-advocacy/protecting-community-cats/seeing-stray-cats">Seeing Stray Cats?</a></li>
 <li class="leaf menu-mlid-1602"><a href="https://support.bestfriends.org/site/PageServer?pagename=index&amp;_ga=2.24697586.933803775.1534262816-1503661829.1525277194" title="">Join our Action Network</a></li>
@@ -752,21 +793,25 @@ color: #FFFFFF !Important;
 <li class="leaf menu-mlid-554"><a href="/our-work/spay-and-neuter-education">Spay and Neuter Education</a></li>
 <li class="last leaf menu-mlid-555"><a href="/our-work/promoting-adoption-vs-buying">Promoting Adoption vs. Buying</a></li>
 </ul></li>
-<li class="expanded menu-mlid-526"><a href="/events" title="join the fun">Events</a><ul class="sub-nav menu-tree-mlid-526"><li class="first expanded menu-mlid-1383"><a href="/events/best-friends-national-conference">Best Friends National Conference</a><ul class="sub-nav menu-tree-mlid-1383"><li class="first expanded menu-mlid-1385"><a href="/events/best-friends-national-conference/about">About</a><ul class="sub-nav menu-tree-mlid-1385"><li class="first leaf menu-mlid-1390"><a href="/events/best-friends-national-conference/about/benefits-attending">Benefits of Attending</a></li>
+<li class="expanded menu-mlid-526"><a href="/events" title="join the fun">Events</a><ul class="sub-nav menu-tree-mlid-526"><li class="first expanded menu-mlid-1383"><a href="/events/best-friends-national-conference">Best Friends National Conference</a><ul class="sub-nav menu-tree-mlid-1383"><li class="first leaf menu-mlid-1928"><a href="http://www.cvent.com/d/2bqym7/4W" title="">Register Now</a></li>
+<li class="expanded menu-mlid-1385"><a href="/events/best-friends-national-conference/about">About</a><ul class="sub-nav menu-tree-mlid-1385"><li class="first leaf menu-mlid-1390"><a href="/events/best-friends-national-conference/about/benefits-attending">Benefits of Attending</a></li>
 <li class="leaf menu-mlid-1467"><a href="/events/best-friends-national-conference/about/who-should-attend">Who Should Attend</a></li>
 <li class="last leaf menu-mlid-1461"><a href="/events/best-friends-national-conference/what-expect/networking">Networking</a></li>
 </ul></li>
-<li class="leaf menu-mlid-1474"><a href="/events/best-friends-national-conference/become-sponsor">2018 Sponsors</a></li>
-<li class="leaf menu-mlid-1476"><a href="/events/best-friends-national-conference/become-volunteer">Volunteer</a></li>
-<li class="leaf menu-mlid-1690"><a href="//support.bestfriends.org/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=3474" title="">Presentations and Handouts</a></li>
-<li class="last leaf menu-mlid-2292"><a href="https://cdn.bestfriends.org/s3fs-public/2018-BFNC-Audio-Recording-Order-Form.pdf?uk.BBA6i5nzgBLFfLr_JYOzIRaLjgiam" title="">2018 Audio Order Form</a></li>
+<li class="leaf menu-mlid-1391"><a href="/events/best-friends-national-conference/costs">Costs</a></li>
+<li class="expanded menu-mlid-1386"><a href="/events/best-friends-national-conference/schedule">Schedule</a><ul class="sub-nav menu-tree-mlid-1386"><li class="first leaf menu-mlid-2819"><a href="/events/best-friends-national-conference/about/best-friends-pre-conference-workshops">Pre-conference workshops</a></li>
+<li class="leaf menu-mlid-1558"><a href="/events/best-friends-national-conference/schedule/tracks">Tracks</a></li>
+<li class="leaf menu-mlid-1478"><a href="/events/best-friends-national-conference/speakers" title="">Speakers</a></li>
+<li class="last leaf menu-mlid-1556"><a href="/events/best-friends-national-conference/schedule/optional-trips">Optional Trips</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1388"><a href="/events/best-friends-national-conference/hotel-and-travel">Hotel and Travel</a></li>
+<li class="leaf menu-mlid-1474"><a href="/events/best-friends-national-conference/become-sponsor">2019 Sponsors</a></li>
+<li class="leaf menu-mlid-1462"><a href="/events/best-friends-national-conference/what-expect/exhibit-hall">Exhibit Hall</a></li>
+<li class="last leaf menu-mlid-1476"><a href="/events/best-friends-national-conference/become-volunteer">Volunteer</a></li>
 </ul></li>
 <li class="leaf menu-mlid-557"><a href="/events/strut-your-mutt" title="Held in cities nationwide, Strut Your Mutt is a mega fundraising event and dog walk. Money raised goes to help Best Friends and other animal rescue groups.">Strut Your Mutt</a></li>
 <li class="leaf menu-mlid-558"><a href="/events/super-adoption-events" title="Find true love at pet adoption events. At Best Friends pet super adoptions, hundreds of adoptable pets are available from shelters and rescue groups">Super Adoption Events</a></li>
-<li class="expanded menu-mlid-559"><a href="/events/workshops">Workshops</a><ul class="sub-nav menu-tree-mlid-559"><li class="first leaf menu-mlid-660"><a href="/events/workshops/best-friends-dog-behavior-and-handling-workshops" title="Dog training workshops, including clicker training workshops, are offered at Best Friends Animal Sanctuary in Kanab, Utah. Register for a canine class today.">Best Friends Dog Behavior and Handling Workshops</a></li>
-<li class="leaf menu-mlid-662"><a href="/events/workshops/how-start-and-run-animal-sanctuary" title="Thinking about starting your own animal rescue organization? The first step is to register for the how to start an animal sanctuary workshop.">How to Start and Run an Animal Sanctuary</a></li>
-<li class="leaf menu-mlid-2310"><a href="/events/workshops/helpful-tips" title="">Helpful Tips</a></li>
-<li class="last leaf menu-mlid-2311"><a href="/events/workshops/refund-policy">Refund Policy</a></li>
+<li class="expanded menu-mlid-559"><a href="/events/workshops">Workshops</a><ul class="sub-nav menu-tree-mlid-559"><li class="first last leaf menu-mlid-662"><a href="/events/workshops/how-start-and-run-animal-sanctuary" title="Thinking about starting your own animal rescue organization? The first step is to register for the how to start an animal sanctuary workshop.">How to Start and Run an Animal Sanctuary</a></li>
 </ul></li>
 <li class="expanded menu-mlid-855"><a href="/events/be-event-volunteer">Be an Event Volunteer</a><ul class="sub-nav menu-tree-mlid-855"><li class="first leaf menu-mlid-856"><a href="/events/be-event-volunteer/volunteer-strut-your-mutt">Volunteer at Strut Your Mutt</a></li>
 <li class="leaf menu-mlid-858"><a href="/events/be-event-volunteer/volunteer-super-adoption-event">Volunteer at a Super Adoption Event</a></li>
@@ -781,11 +826,11 @@ color: #FFFFFF !Important;
 <li class="last expanded menu-mlid-2242"><a href="/events/host-event">Host an Event</a><ul class="sub-nav menu-tree-mlid-2242"><li class="first last leaf menu-mlid-2243"><a href="/events/host-event/host-event-faqs">Host an Event FAQs</a></li>
 </ul></li>
 </ul></li>
-<li class="expanded menu-mlid-527"><a href="/sanctuary" title="Angel Canyon, Kanab, UT">The Sanctuary</a><ul class="sub-nav menu-tree-mlid-527"><li class="first expanded menu-mlid-563"><a href="/sanctuary/visit-our-utah-sanctuary">Visit our Utah Sanctuary</a><ul class="sub-nav menu-tree-mlid-563"><li class="first leaf menu-mlid-2084"><a href="/sanctuary/plan-your-sanctuary-visit" title="">Plan Your Sanctuary Vacation</a></li>
+<li class="expanded menu-mlid-527"><a href="/sanctuary" title="Angel Canyon, Kanab, UT">The Sanctuary</a><ul class="sub-nav menu-tree-mlid-527"><li class="first expanded menu-mlid-563"><a href="/sanctuary/visit-our-utah-sanctuary">Visit our Utah Sanctuary</a><ul class="sub-nav menu-tree-mlid-563"><li class="first leaf menu-mlid-2084"><a href="/sanctuary/visit-our-utah-sanctuary/plan-your-sanctuary-visit">Plan Your Sanctuary Vacation</a></li>
 <li class="leaf menu-mlid-635"><a href="/sanctuary/visit-our-utah-sanctuary/directions">Directions</a></li>
 <li class="leaf menu-mlid-636"><a href="/sanctuary/visit-our-utah-sanctuary/places-stay">Places to Stay</a></li>
 <li class="leaf menu-mlid-637"><a href="/sanctuary/visit-our-utah-sanctuary/tours-sanctuary">Book Your Sanctuary Tour</a></li>
-<li class="leaf menu-mlid-640"><a href="/sanctuary/visit-our-utah-sanctuary/best-friends-kids-camp">Best Friends Kids Camp</a></li>
+<li class="leaf menu-mlid-640"><a href="/sanctuary/visit-our-utah-sanctuary/best-friends-kids-camp">Kids at Best Friends</a></li>
 <li class="leaf menu-mlid-642"><a href="/sanctuary/visit-our-utah-sanctuary/things-do-southern-utah">Things to Do in Southern Utah</a></li>
 <li class="last leaf menu-mlid-750"><a href="/sanctuary/visit-our-utah-sanctuary/best-friends-visitor-center">Best Friends Visitor Center</a></li>
 </ul></li>
@@ -802,6 +847,7 @@ color: #FFFFFF !Important;
 </ul></li>
 <li class="leaf menu-mlid-616"><a href="/sanctuary/volunteer/internships">Internships</a></li>
 <li class="leaf menu-mlid-617"><a href="/sanctuary/volunteer/veterinary-externships">Veterinary Externships</a></li>
+<li class="leaf menu-mlid-2223"><a href="/sanctuary/volunteer/fostering-sanctuary">Fostering for the Sanctuary</a></li>
 <li class="leaf menu-mlid-639"><a href="/sanctuary/volunteer/animal-sleepovers">Animal Sleepovers</a></li>
 <li class="leaf menu-mlid-638"><a href="/sanctuary/volunteer/animal-outings">Animal Outings</a></li>
 <li class="expanded menu-mlid-830"><a href="/sanctuary/volunteer/volunteer-near-you">Volunteer near you</a><ul class="sub-nav menu-tree-mlid-830"><li class="first leaf menu-mlid-874"><a href="/sanctuary/volunteer/volunteer-near-you/become-foster-parent">Become a Foster Parent</a></li>
@@ -811,8 +857,7 @@ color: #FFFFFF !Important;
 <li class="last leaf menu-mlid-831"><a href="https://volunteers.bestfriends.org/login" title="">Log In to Volunteer</a></li>
 </ul></li>
 <li class="leaf menu-mlid-615"><a href="/sanctuary/volunteer/volunteer-faqs">Volunteer FAQs</a></li>
-<li class="leaf menu-mlid-1700"><a href="https://volunteers.bestfriends.org/?nd=login&amp;logout=1" title="">Log in to volunteer</a></li>
-<li class="last leaf menu-mlid-2223"><a href="/sanctuary/volunteer/fostering-sanctuary">Fostering for the Sanctuary</a></li>
+<li class="last leaf menu-mlid-1700"><a href="https://volunteers.bestfriends.org/?nd=login&amp;logout=1" title="">Log in to volunteer</a></li>
 </ul></li>
 <li class="leaf menu-mlid-1346"><a href="//bestfriends.org/adopt/adoption-promotions/national-adoption-promotions" title="Adopt a homeless animal from our Utah Sanctuary.">Adopt a Pet</a></li>
 <li class="leaf menu-mlid-561"><a href="/donate/sponsor-an-animal" title="">Sponsor a Sanctuary Animal</a></li>
@@ -834,27 +879,21 @@ color: #FFFFFF !Important;
 </ul></li>
 <li class="leaf menu-mlid-606"><a href="/sanctuary/explore-sanctuary/angels-rest-and-memorials">Angels Rest and Memorials</a></li>
 <li class="leaf menu-mlid-883"><a href="/sanctuary/explore-sanctuary/information-and-admission-policies">Information and Admission Policies</a></li>
-<li class="last leaf menu-mlid-724"><a href="/sanctuary/explore-sanctuary/sanctuary-map" title="">Sanctuary Map</a></li>
+<li class="last leaf menu-mlid-2818"><a href="/sanctuary/explore-sanctuary/sanctuary-map">Sanctuary Map</a></li>
 </ul></li>
 <li class="last leaf menu-mlid-560"><a href="https://stories.bestfriends.org" title="">Sanctuary Scoop</a></li>
 </ul></li>
 <li class="expanded menu-mlid-528"><a href="/stories-blog-videos" title="blog &amp; videos">Stories</a><ul class="sub-nav menu-tree-mlid-528"><li class="first expanded menu-mlid-658"><a href="/stories-blog-videos/latest-news" title="">Latest News</a><ul class="sub-nav menu-tree-mlid-658"><li class="first last leaf menu-mlid-1954"><a href="/stories-blog-videos/latest-news/customize-news-results" title="">Latest News Archives</a></li>
 </ul></li>
-<li class="leaf menu-mlid-619"><a href="http://blogs.bestfriends.org/" title="">Best Friends Blog</a></li>
+<li class="expanded menu-mlid-619"><a href="/blogs" title="">Best Friends Blog</a><ul class="sub-nav menu-tree-mlid-619"><li class="first last leaf menu-mlid-2821"><a href="/blogs/comment-policy">Comment Policy</a></li>
+</ul></li>
 <li class="expanded menu-mlid-620"><a href="/stories/best-friends-magazine">Best Friends Magazine</a><ul class="sub-nav menu-tree-mlid-620"><li class="first last leaf menu-mlid-903"><a href="/stories/best-friends-magazine/magazine-archives">Magazine Archives</a></li>
 </ul></li>
 <li class="leaf menu-mlid-749"><a href="/stories/connect-with-us">Connect with Us</a></li>
 <li class="leaf menu-mlid-773"><a href="/stories/photo-gallery">Photo Gallery</a></li>
 <li class="last leaf menu-mlid-774"><a href="/stories-blog-videos/videos">Video Gallery</a></li>
 </ul></li>
-<li class="expanded menu-mlid-529"><a href="/resources" title="for owners &amp; shelters">Resources</a><ul class="sub-nav menu-tree-mlid-529"><li class="first leaf menu-mlid-715"><a href="/resources/dogs" title="">Dogs</a></li>
-<li class="leaf menu-mlid-716"><a href="/resources/cats" title="">Cats</a></li>
-<li class="leaf menu-mlid-717"><a href="/resources/other-animals" title="">Other Animals</a></li>
-<li class="leaf menu-mlid-718"><a href="/resources/general-pet-care" title="">General Pet Care</a></li>
-<li class="leaf menu-mlid-719"><a href="/resources/for-shelters-and-rescuers" title="">For Shelters and Rescuers</a></li>
-<li class="leaf menu-mlid-720"><a href="/resources/pit-bull-terriers" title="">Pit Bull Terriers</a></li>
-<li class="leaf menu-mlid-722"><a href="/resources/feral-cats-and-tnr" title="">Feral Cats and TNR</a></li>
-<li class="last leaf menu-mlid-721"><a href="/resources/puppy-mills" title="">Puppy Mills</a></li>
+<li class="expanded menu-mlid-529"><a href="https://bestfriends.org/pet-care-resources" title="">Resources</a><ul class="sub-nav menu-tree-mlid-529"><li class="first last leaf menu-mlid-715"><a href="https://resources.bestfriends.org" title="">Visit the new Best Friends resource library for pet care and shelter info from animal experts.</a></li>
 </ul></li>
 <li class="expanded menu-mlid-530"><a href="/adopt-pet" title="Save Them All">Adopt</a><ul class="sub-nav menu-tree-mlid-530"><li class="first expanded menu-mlid-567"><a href="/adopt-pet/adopt-our-sanctuary">From Our Sanctuary</a><ul class="sub-nav menu-tree-mlid-567"><li class="first leaf menu-mlid-679"><a href="/adopt/adopt-our-sanctuary/dogs" title="">Dogs</a></li>
 <li class="leaf menu-mlid-680"><a href="/adopt/adopt-our-sanctuary/cats" title="">Cats</a></li>
@@ -865,15 +904,12 @@ color: #FFFFFF !Important;
 <li class="leaf menu-mlid-686"><a href="/adopt/adopt-our-sanctuary/barnyard" title="">Barnyard</a></li>
 <li class="leaf menu-mlid-685"><a href="/adopt/adopt-our-sanctuary/small-furry" title="">Small &amp; Furry</a></li>
 <li class="leaf menu-mlid-2067"><a href="/adopt/adopt-our-sanctuary/other" title="">Other</a></li>
-<li class="leaf menu-mlid-2362"><a href="https://bestfriends.org/adopt/adopt-our-sanctuary/all" title="">All Animals</a></li>
-<li class="last leaf menu-mlid-854"><a href="/adopt-pet/adopt-our-sanctuary/how-adopt">How to Adopt</a></li>
+<li class="last leaf menu-mlid-2362"><a href="https://bestfriends.org/adopt/adopt-our-sanctuary/all" title="">All Animals</a></li>
 </ul></li>
-<li class="expanded menu-mlid-569"><a href="/adopt/adoption-promotions">Adoption Promotions</a><ul class="sub-nav menu-tree-mlid-569"><li class="first leaf menu-mlid-1130"><a href="/adopt/adoption-promotions/national-adoption-promotions">National Adoption Promotions</a></li>
-<li class="last expanded menu-mlid-1609"><a href="/adopt/adoption-promotions/current-sanctuary-adoption-promotions">Current Sanctuary Adoption Promotions</a></li>
-</ul></li>
+<li class="expanded menu-mlid-569"><a href="/adopt-pet/adoption-promotions">Adoption Promotions</a></li>
 <li class="leaf menu-mlid-688"><a href="/adopt/adopt-our-sanctuary/recently-adopted" title="">Recently Adopted</a></li>
-<li class="expanded menu-mlid-568"><a href="/adopt/adopt-near-you">Adopt Near You</a><ul class="sub-nav menu-tree-mlid-568"><li class="first last leaf menu-mlid-1613"><a href="/featured-pets-network-partners">Featured Pets from Network Partners</a></li>
-</ul></li>
+<li class="leaf menu-mlid-568"><a href="/adopt-pet/adopt-near-you">Adopt Near You</a></li>
+<li class="leaf menu-mlid-854"><a href="/adopt-pet/how-adopt">How to Adopt</a></li>
 <li class="last leaf menu-mlid-1941"><a href="https://bestfriends.pawslikeme.com/quiz" title="">New! Get Matched to Adoptable Dogs and Cats</a></li>
 </ul></li>
 <li class="last expanded menu-mlid-531"><a href="/donate">Ways to Give</a><ul class="sub-nav menu-tree-mlid-531"><li class="first leaf menu-mlid-1870"><a href="//support.bestfriends.org/site/Donation2?df_id=1949&amp;mfc_pref=T&amp;1949.donation=form1" title="">Donate Now</a></li>
@@ -887,7 +923,7 @@ color: #FFFFFF !Important;
 </ul></li>
 <li class="expanded menu-mlid-1593"><a href="/donate/become-member">Member Center</a><ul class="sub-nav menu-tree-mlid-1593"><li class="first leaf menu-mlid-1596"><a href="https://support.bestfriends.org/site/Donation2?df_id=1740&amp;mfc_pref=T&amp;1740.donation=form1&amp;_ga=2.124757514.1006027899.1506297917-1759328538.1494533880" title="">Become a Member</a></li>
 <li class="leaf menu-mlid-1880"><a href="//support.bestfriends.org/site/Donation2?df_id=1948&amp;mfc_pref=T&amp;1948.donation=form1" title="">Renew Membership</a></li>
-<li class="leaf menu-mlid-2151"><a href="/donate/member-self-service">Member Self-Service</a></li>
+<li class="leaf menu-mlid-2151"><a href="/donate/become-member/member-self-service">Member Self-Service</a></li>
 <li class="last leaf menu-mlid-877"><a href="/donate/become-member/golden-circle">Golden Circle</a></li>
 </ul></li>
 <li class="expanded menu-mlid-1384"><a href="/donate/planned-giving">Planned Giving</a><ul class="sub-nav menu-tree-mlid-1384"><li class="first expanded menu-mlid-1468"><a href="/donate/planned-giving/planned-gift-options">Planned Gift Options</a><ul class="sub-nav menu-tree-mlid-1468"><li class="first leaf menu-mlid-1577"><a href="/donate/planned-giving/planned-gift-options/will-or-trust">Will or Trust</a></li>
@@ -925,7 +961,6 @@ color: #FFFFFF !Important;
 <!--//--><![CDATA[//><!--
 da2a.targets=[
 {title:"Privacy Policy",url:"https:\/\/bestfriends.org\/privacy-policy"},
-{title:"Privacy Policy",url:"https:\/\/bestfriends.org\/privacy-policy"},
 {title:"Privacy Policy",url:"https:\/\/bestfriends.org\/privacy-policy"}];
 da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_load();
 //--><!]]>
@@ -945,8 +980,8 @@ da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_loa
   }());
 //--><!]]>
 </script>
-<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__y7EmwjorvxB3nzFGxN3DoEGovztjIRsnpcpeta382RU__OPynAbuXtvpmBb-rtn72CpbmoInrgDLcyBAtwurRBDE__YgOxJxqJwQq3O44KGjSAPIjEohxkCam7DSwfnzJyjQc.js?KMuK3v1gM4CrQ62byjxKm_584tw5VaXY"></script>
+<script type="text/javascript" src="https://cdn.bestfriends.org/s3fs-public/advagg_js/js__y7EmwjorvxB3nzFGxN3DoEGovztjIRsnpcpeta382RU__OPynAbuXtvpmBb-rtn72CpbmoInrgDLcyBAtwurRBDE__sLFR8W7lN9hyZhrmIL0LR6S8JsUPPPx52g2iPAznlhM.js?v88blctTuDSO3H7CVnzezHA78e8YNuXi"></script>
 </div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c72fbe0d5a","applicationID":"124846150","transactionName":"ZQBVZEcAWEYDWkVbDlxKdlNBCFlbTVdeVgRtFVZXUD5AXAdO","queueTime":0,"applicationTime":1230,"atts":"SUdWEg8aS0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
