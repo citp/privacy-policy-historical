@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatib.us privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221222633id_/http%3A//www.chatib.us/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatib.us privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425015618id_/http%3A//www.chatib.us/welcome/privacy_policy) for the most accurate reproduction.*
 
-# Free Chat Rooms,Free Online Chat With No Registration 2018
+# Free Chat Rooms,Free Online Chat With No Registration 2019
 
 * * *
 
@@ -173,7 +173,7 @@ These cookies are stored on a user’s device in between browser sessions, which
 Most web browsers can be set to disable the use of cookies. However, if you disable cookies, you may not be able to access features on our website correctly or at all. 
 
   
-for additional information , please visit our [Cookie policy](http://www.chatib.us/cookie_policy)
+for additional information , please visit our [Cookie policy](https://www.chatib.us/cookie_policy)
 
 #### **_Web Beacons_**
 
