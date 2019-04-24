@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theworkathomewoman.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926135516id_/https%3A//www.theworkathomewoman.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworkathomewoman.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424234529id_/https%3A//www.theworkathomewoman.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure | The Work at Home Woman
 
