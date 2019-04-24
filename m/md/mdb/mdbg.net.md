@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911213218id_/https%3A//www.mdbg.net/chinese/dictionary%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424230228id_/https%3A//www.mdbg.net/chinese/dictionary%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # MDBG Chinese Dictionary
 
@@ -32,4 +32,4 @@ You can find more information about cookies and how to disable cookies on the fo
 
 [](http://www.facebook.com/pages/MDBG/56716356738)
 
-Tip: In the character dictionary, entering multiple pinyin syllables will result in multiple searches on one result page.
+Tip: Pinyin can be entered with or without tone numbers, e.g. 'nihao' or 'ni3hao3'.
