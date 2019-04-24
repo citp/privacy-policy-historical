@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826074121id_/https%3A//www.reliant.com/en/about/legal/privacy-statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424061914id_/https%3A//www.reliant.com/en/about/legal/privacy-statement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement | Reliant
 
