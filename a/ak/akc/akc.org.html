@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2018-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181114201343id_/http%3A//akc.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2019-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190424215041id_/http%3A//akc.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" type="text/javascript" src="https://oao-d.openx.net/w/1.0/jstag?nc=120519536-akc"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MMZJNHN"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" type="text/javascript" src="https://oao-d.openx.net/w/1.0/jstag?nc=120519536-akc"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MMZJNHN"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta name="google-site-verification" content="DYjjMn-whDLUpjUz1bZtctX3LLtygpu-HpxiKOqWj5E">
     
@@ -51,14 +51,14 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="gigya_css-css" href="https://www.akc.org/wp-content/plugins/gigya-socialize-for-wordpress/gigya.css?ver=4.9.8" type="text/css" media="all">
 <link rel="stylesheet" id="gigya_raas_css-css" href="https://www.akc.org/wp-content/plugins/gigya-socialize-for-wordpress/features/raas/gigya_raas.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="main-css" href="https://www.akc.org/wp-content/themes/akc/component-library/assets/css/main.min.css?ver=20181108" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="https://www.akc.org/wp-content/themes/akc/component-library/assets/css/main.min.css?ver=1556136548" type="text/css" media="all">
 <link rel="stylesheet" id="google-fonts-css" href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900|Merriweather:400,600,700" type="text/css" media="all">
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js?ver=4.9.8#async=1"></script>
 <script type="text/javascript" src="https://www.akc.org/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.akc.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var gigyaParams = {"ajaxurl":"https:\/\/www.akc.org\/wp-admin\/admin-ajax.php","logoutUrl":"https:\/\/www.akc.org\/wp-login.php?action=logout&_wpnonce=3a543e6096","connectWithoutLoginBehavior":"loginExistingUser","jsonExampleURL":"https:\/\/www.akc.org\/wp-content\/plugins\/gigya-socialize-for-wordpress\/admin\/forms\/json\/advance_example.json","enabledProviders":"*","lang":"en","sessionExpiration":"1800"};
+var gigyaParams = {"ajaxurl":"https:\/\/www.akc.org\/wp-admin\/admin-ajax.php","logoutUrl":"https:\/\/www.akc.org\/wp-login.php?action=logout&_wpnonce=7f0074ceb0","connectWithoutLoginBehavior":"loginExistingUser","jsonExampleURL":"https:\/\/www.akc.org\/wp-content\/plugins\/gigya-socialize-for-wordpress\/admin\/forms\/json\/advance_example.json","enabledProviders":"*","lang":"en","sessionExpiration":"1800"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.akc.org/wp-content/plugins/gigya-socialize-for-wordpress/gigya.js?ver=4.9.8"></script>
@@ -176,7 +176,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 <div class="desktop-header">
     <a class="site-header__logo desktop-header__logo" href="https://www.akc.org/">
 <svg class="icon icon-akc-logo-opaque ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-akc-logo-opaque"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-akc-logo-opaque"></use>
 </svg>    </a>
 
     <div class="site-header__nav-area">
@@ -186,7 +186,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <span class="small-icon">
 <svg class="icon icon-event ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-event"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-event"></use>
 </svg>    </span>
 
         Event Search
@@ -196,7 +196,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <span class="small-icon">
 <svg class="icon icon-paw ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-paw"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-paw"></use>
 </svg>    </span>
 
         Find a Puppy
@@ -206,7 +206,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <span class="small-icon">
 <svg class="icon icon-computer ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-computer"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-computer"></use>
 </svg>    </span>
 
         Register Your Dog
@@ -216,7 +216,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <span class="small-icon">
 <svg class="icon icon-cart ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-cart"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-cart"></use>
 </svg>    </span>
 
         Shop
@@ -229,7 +229,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <span class="small-icon">
 <svg class="icon icon-profile-no-circle ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-profile-no-circle"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-profile-no-circle"></use>
 </svg>    </span>
 
         Sign In
@@ -284,7 +284,9 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 <a class="button
     
     
+    
      button--ghost 
+    
     
     
     
@@ -294,7 +296,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
     <form action="#" data-js-component="navigateOnChange">
 <div class="custom-select
     ">
-        <label for="breed-search" class="form-label">Search For a Breed </label>
+        <label for="breed-search" class="form-label">Find By Breed Name </label>
     <select class="custom-select__select" name="breed-search" id="breed-search" placeholder="Select A Breed" data-js-component="selectize">
             <option value="">Select A Breed</option>
 
@@ -582,11 +584,11 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
                         <option value="https://www.akc.org/dog-breeds/smallest-dog-breeds/">Smallest Dog Breeds</option>
                         <option value="https://www.akc.org/dog-breeds/medium-dog-breeds/">Medium Dog Breeds</option>
                         <option value="https://www.akc.org/dog-breeds/largest-dog-breeds/">Largest Dog Breeds</option>
-                        <option value="https://www.akc.org/dog-breeds/smartest-dogs/">Smartest Dogs</option>
+                        <option value="https://www.akc.org/dog-breeds/smartest-dogs/">Smartest Breeds of Dogs</option>
                         <option value="https://www.akc.org/dog-breeds/hypoallergenic-dogs/">Hypoallergenic Dogs</option>
                         <option value="https://www.akc.org/dog-breeds/best-family-dogs/">Best Family Dogs</option>
                         <option value="https://www.akc.org/dog-breeds/best-guard-dogs/">Best Guard Dogs</option>
-                        <option value="https://www.akc.org/dog-breeds/best-dogs-for-kids/">Best Dog Breeds for Children</option>
+                        <option value="https://www.akc.org/dog-breeds/best-dogs-for-kids/">Best Dog Breeds for Kids</option>
                         <option value="https://www.akc.org/dog-breeds/best-dogs-for-apartments-dwellers/">Best Dogs for Apartments Dwellers</option>
                         <option value="https://www.akc.org/dog-breeds/hairless-dog-breeds/">Hairless Dog Breeds</option>
                 </optgroup>
@@ -632,7 +634,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
         <li class="mega-menu-column__menu-item">
 <a class="menu-link  has-icon " href="https://www.akc.org/dog-breed-selector/">
 <svg class="icon icon-circle-heart ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-circle-heart"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-circle-heart"></use>
 </svg>
     <div class="menu-link__text">
         Find Your Match
@@ -648,7 +650,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
         <li class="mega-menu-column__menu-item">
 <a class="menu-link  has-icon " href="https://www.akc.org/compare-breeds/">
 <svg class="icon icon-circle-scale ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-circle-scale"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-circle-scale"></use>
 </svg>
     <div class="menu-link__text">
         Compare Breeds
@@ -664,7 +666,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
         <li class="mega-menu-column__menu-item">
 <a class="menu-link  has-icon " href="https://marketplace.akc.org/" target="_blank">
 <svg class="icon icon-market ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-market"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-market"></use>
 </svg>
     <div class="menu-link__text">
         Find a Puppy
@@ -840,11 +842,13 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 <div class="content-card
 
 
+
 ">
 
     <div class="relative ">
+
             <div class="media-wrap">
-                <img width="400" height="auto" src="https://www.akc.org/wp-content/themes/akc/assets/img/1x1.trans.gif" class="attachment-rectangle_thumbnail size-rectangle_thumbnail wp-post-image lozad" alt="Bulldog Eating" data-src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193514/Bulldog-Eating-400x267.jpg" data-srcset="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193514/Bulldog-Eating-400x267.jpg 400w, https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193514/Bulldog-Eating-300x200.jpg 300w, https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193514/Bulldog-Eating-768x512.jpg 768w, https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193514/Bulldog-Eating.jpg 789w" data-sizes="(max-width: 400px) 100vw, 400px">
+                <img width="400" height="auto" src="https://www.akc.org/wp-content/themes/akc/assets/img/1x1.trans.gif" class="attachment-rectangle_thumbnail size-rectangle_thumbnail wp-post-image lozad" alt="" data-src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/01/14145730/AdobeStock_133625448-400x267.jpeg" data-srcset="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/01/14145730/AdobeStock_133625448-400x267.jpeg 400w, https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/01/14145730/AdobeStock_133625448-300x200.jpeg 300w, https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/01/14145730/AdobeStock_133625448-768x512.jpeg 768w, https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/01/14145730/AdobeStock_133625448-1024x683.jpeg 1024w, https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/01/14145730/AdobeStock_133625448-1200x800.jpeg 1200w, https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/01/14145730/AdobeStock_133625448-50x33.jpeg 50w, https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/01/14145730/AdobeStock_133625448-e1547496731828.jpeg 1500w" data-sizes="(max-width: 400px) 100vw, 400px">
             </div>
 
         
@@ -852,12 +856,12 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <div class="content-card__body">
         <div class="content-card__meta">
-                <a href="https://www.akc.org/expert-advice/nutrition/general-nutrition/" class="content-card__category">
-                    General Nutrition
+                <a href="https://www.akc.org/expert-advice/news/" class="content-card__category">
+                    News
                 </a>
         </div>
-        <a href="https://www.akc.org/expert-advice/nutrition/what-you-need-to-know-about-the-fdas-grain-free-diet-alert/" class="content-card__title">
-            What Dog Owners Need to Know About the FDA's Grain-Free Diet Alert
+        <a href="https://www.akc.org/expert-advice/news/fda-warns-answers-straight-may-contain-salmonella/" class="content-card__title">
+            FDA Warns A+ Answers Beef Formula for Dogs Distributed in Nevada May Contain Salmonella
         </a>
     </div>
 </div>
@@ -1021,7 +1025,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
         <li class="mega-menu-column__menu-item">
 <a class="menu-link  has-icon " href="https://www.akc.org/dog-breed-selector/">
 <svg class="icon icon-circle-heart ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-circle-heart"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-circle-heart"></use>
 </svg>
     <div class="menu-link__text">
         Find Your Match
@@ -1037,7 +1041,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
         <li class="mega-menu-column__menu-item">
 <a class="menu-link  has-icon " href="https://www.akc.org/dog-name-finder/">
 <svg class="icon icon-circle-tag ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-circle-tag"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-circle-tag"></use>
 </svg>
     <div class="menu-link__text">
         Dog Name Finder
@@ -1053,7 +1057,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
         <li class="mega-menu-column__menu-item">
 <a class="menu-link  has-icon " href="https://www.akc.org/dog-food-quiz/">
 <svg class="icon icon-dog-bone ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-dog-bone"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-dog-bone"></use>
 </svg>
     <div class="menu-link__text">
         Can My Dog Eat____?
@@ -1155,7 +1159,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
         <li class="mega-menu-column__menu-item">
 <a class="menu-link " href="http://akc.org/public-education/">
 
-        AKC Public Education
+        AKC Education
 
 
 </a>
@@ -1581,7 +1585,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
                     <div class="mb4 text-center">
                         <a href="https://shop.akc.org">
-                            <img src="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/shop-menu-col-ph.jpg" alt="">
+                            <img src="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/shop-menu-col-ph.jpg" alt="">
                         </a>
                     </div>
 
@@ -1591,7 +1595,9 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
     
     
     
+    
      button--centered
+    
     
     
     " href="https://shop.akc.org">AKC Shop</a>
@@ -1899,15 +1905,6 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 </a>
                     </li>
                 </ul>
-        </li>
-        <li class="mega-menu-column__menu-item">
-<a class="menu-link " href="/sports/conformation/achiever-dog/">
-
-        Achiever Dog Program
-
-
-</a>
-
         </li>
 </ul>
                     </div>
@@ -2586,7 +2583,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
         <div class="bgc-white slim-header__bg"></div>
         <a class="site-header__logo slim-header__logo" href="https://www.akc.org/">
 <svg class="icon icon-akc-logo-opaque ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-akc-logo-opaque"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-akc-logo-opaque"></use>
 </svg>        </a>
 
         <div class="slim-header__mobile-utility" data-js-component="siteMenu">
@@ -2594,9 +2591,9 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 <div class="social-links ">
         <span class="social-links__text ">Share:</span>
     <div class="social-links__wrap addthis_share" data-js-component="addThis">
-            <span class="addthis_share_button social-links__item social-links__bg social-links__bg--facebook-solid" data-service="facebook" data-url="https://www.akc.org/clubs-delegates/delegates/delegates-portal/meetings/" data-title="In this section you will find information related to each AKC Delegate meeting. December 13-14, 2018 Delegate Meeting Hotel Information Airline Discount Information September 24-25, 2018 Delegate Meeting Delegate Meeting Agenda Delegate Committee Election Packet Vote on Chapter 1, Section 4, of the Rules Applying to Dog Shows Vote on Chapter 3, Section 16, of [&amp;hellip;]"></span>
-            <span class="addthis_share_button social-links__item social-links__bg social-links__bg--pinterest-solid" data-service="pinterest" data-url="https://www.akc.org/clubs-delegates/delegates/delegates-portal/meetings/" data-title="In this section you will find information related to each AKC Delegate meeting. December 13-14, 2018 Delegate Meeting Hotel Information Airline Discount Information September 24-25, 2018 Delegate Meeting Delegate Meeting Agenda Delegate Committee Election Packet Vote on Chapter 1, Section 4, of the Rules Applying to Dog Shows Vote on Chapter 3, Section 16, of [&amp;hellip;]"></span>
-            <span class="addthis_share_button social-links__item social-links__bg social-links__bg--twitter-solid" data-service="twitter" data-url="https://www.akc.org/clubs-delegates/delegates/delegates-portal/meetings/" data-title="In this section you will find information related to each AKC Delegate meeting. December 13-14, 2018 Delegate Meeting Hotel Information Airline Discount Information September 24-25, 2018 Delegate Meeting Delegate Meeting Agenda Delegate Committee Election Packet Vote on Chapter 1, Section 4, of the Rules Applying to Dog Shows Vote on Chapter 3, Section 16, of [&amp;hellip;]"></span>
+            <span class="addthis_share_button social-links__item social-links__bg social-links__bg--facebook-solid" data-service="facebook" data-url="https://www.akc.org/privacy/" data-title="I. Scope of this Privacy Statement This Privacy Statement describes the types of personal information American Kennel Club (“AKC,” “us,” “we” or “our”) collects through our web sites that link to this Privacy Statement, including without limitation www.akc.org and any related sub domain names (the “Site”).&nbsp; This Privacy Statement does not govern our collection of [&amp;hellip;]"></span>
+            <span class="addthis_share_button social-links__item social-links__bg social-links__bg--pinterest-solid" data-service="pinterest" data-url="https://www.akc.org/privacy/" data-title="I. Scope of this Privacy Statement This Privacy Statement describes the types of personal information American Kennel Club (“AKC,” “us,” “we” or “our”) collects through our web sites that link to this Privacy Statement, including without limitation www.akc.org and any related sub domain names (the “Site”).&nbsp; This Privacy Statement does not govern our collection of [&amp;hellip;]"></span>
+            <span class="addthis_share_button social-links__item social-links__bg social-links__bg--twitter-solid" data-service="twitter" data-url="https://www.akc.org/privacy/" data-title="I. Scope of this Privacy Statement This Privacy Statement describes the types of personal information American Kennel Club (“AKC,” “us,” “we” or “our”) collects through our web sites that link to this Privacy Statement, including without limitation www.akc.org and any related sub domain names (the “Site”).&nbsp; This Privacy Statement does not govern our collection of [&amp;hellip;]"></span>
     
     </div>
 </div>
@@ -2605,16 +2602,16 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
             <span class="site-header__utility-link slim-header__utility-link slim-header__utility-search">
                 <span class="hide-at-medium slim-header__help-text">Search</span>
 <svg class="icon icon-search ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-search"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-search"></use>
 </svg>            </span>
 
             <span class="site-header__utility-link slim-header__utility-link site-header__utility-menu">
                 <span class="hide-at-medium site-header__help-text">Menu</span>
 <svg class="icon icon-menu ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-menu"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-menu"></use>
 </svg>
 <svg class="icon icon-close ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-close"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-close"></use>
 </svg>            </span>
         </div>
 
@@ -3130,7 +3127,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
                                     <a href="http://akc.org/public-education/" class=" accordion-menu__link accordion-menu__text-link ">
 
                                     
-                                        AKC Public Education
+                                        AKC Education
                                     
 
                                     </a>
@@ -3529,16 +3526,6 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
                                     
                                         Title Recognition Program
-                                    
-
-                                    </a>
-                                </li>
-                                <li class="accordion-menu__list-item">
-
-                                    <a href="/sports/conformation/achiever-dog/" class=" accordion-menu__link accordion-menu__text-link ">
-
-                                    
-                                        Achiever Dog Program
                                     
 
                                     </a>
@@ -4103,7 +4090,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <span class="small-icon">
 <svg class="icon icon-event ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-event"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-event"></use>
 </svg>    </span>
 
         Event Search
@@ -4115,7 +4102,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <span class="small-icon">
 <svg class="icon icon-paw ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-paw"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-paw"></use>
 </svg>    </span>
 
         Find a Puppy
@@ -4127,7 +4114,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <span class="small-icon">
 <svg class="icon icon-computer ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-computer"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-computer"></use>
 </svg>    </span>
 
         Register Your Dog
@@ -4139,7 +4126,7 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
 
     <span class="small-icon">
 <svg class="icon icon-cart ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-cart"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-cart"></use>
 </svg>    </span>
 
         Shop
@@ -4193,13 +4180,15 @@ var tag = {"options":{"customerId":"b8eb03e6e6389f993b31626c92516aaa"}};
     </script>
 
 <div class="article-header">
-<div class="page-header " id="page-title">
-    <h1 class="page-header__title">Website Privacy Statement</h1>
+<div class="page-header page-title__left-align" id="page-title">
+    <h1 class="page-header__title ">
+        Website Privacy Statement
+    </h1>
 </div>
 
-    <div class="article-meta">
-
-
+    <div class="article-meta article-header__article-meta">
+        <div class="article-header__text ">
+        </div>
     </div>
 </div>
 
@@ -4300,7 +4289,7 @@ Navigation Information. &nbsp;When you visit or access the Site we automatically
 </ul>
 <p>Additionally, requests to opt out of any marketing use of your personal information can be sent to us at <a href="mailto:info@akc.org">info@akc.org</a> or 919-233-9767, and we will process your request within any time period required by law. &nbsp;We are not responsible for removing your personal information from the lists of any third party who has previously been provided your information in accordance with this Privacy Statement.</p>
 <h2>VII.&nbsp;Updating Information</h2>
-<p>We encourage registered users of the Site to keep their personal information current.&nbsp; You may access, edit or delete certain personal information you have provided about you by <a href="https://www.akc.org/account/">updating your My AKC account</a>.&nbsp; For magazine subscribers, you may edit your postal mailing address at the <a href="https://www.kable.com/pub/agzt/coa.asp" target="_blank" rel="noopener">Change My Address page</a>.</p>
+<p>We encourage registered users of the Site to keep their personal information current.&nbsp; You may access, edit or delete certain personal information you have provided about you by <a href="https://www.akc.org/account/">updating your My AKC account</a>.&nbsp; For magazine subscribers, you may edit your postal mailing address at the <a href="https://ssl.palmcoastd.com/10803/apps/-173534?iCp=5CFE91E22EAB72E9B9FA23BCF80A3B67791D941CE995789781E0F8FDD08E85D0FE729975F53B7F07E4B8B0F57A0B4123" target="_blank" rel="noopener">Change My Address page</a>.</p>
 <h2>VIII. Information Storage and Security</h2>
 <p>We employ reasonable security precautions to protect personal information about you.&nbsp; We use secure socket layer (SSL) software to encrypt certain types of information, such as payment card information, when transmitting information between your browser and the Site. &nbsp;No method of transmitting or storing data is completely secure.&nbsp; As a result, although we strive to protect personal information about you, we cannot guarantee the security of any information you transmit to us through or in connection with the Site.&nbsp; If you have reason to believe that personal information is no longer secure, please notify us immediately by contacting us in accordance with the last section below.</p>
 <h2>IX. A Special Note about Children</h2>
@@ -4411,6 +4400,10 @@ data-page-id=post-095495d21f7241587b12300bcd0446d3
             </form>
 
             <div class="newsletter-widget-bottom-mobile__text"><i>For all AKC Newsletters, <a href="https://www.akc.org/subscribe">click here</a></i></div>
+
+            <div id="newsletter-widget-bottom__privacy">
+                <a href="https://www.akc.org/privacy" target="_blank">AKC Privacy Policy</a>
+            </div>
         </div>
     </div>
 
@@ -4444,7 +4437,11 @@ data-page-id=post-095495d21f7241587b12300bcd0446d3
                     </button>
                 </div>
             </form>
-            <div class="newsletter-widget-bottom__text"><i>For all AKC Newsletters, <a href="https://www.akc.org/subscribe">click here</a></i></div>
+            <div id="newsletter-widget-bottom__text"><i>For all AKC Newsletters, <a href="https://www.akc.org/subscribe">click here</a></i></div>
+
+            <div id="newsletter-widget-bottom__privacy">
+                <a href="https://www.akc.org/privacy" target="_blank">AKC Privacy Policy</a>
+            </div>
         </div>
     </div>
     <div id="newsletter-widget-bottom__background"></div>
@@ -4468,21 +4465,22 @@ data-page-id=post-095495d21f7241587b12300bcd0446d3
 </script>
 
 <div data-js-component="buttonScrollTop">
-    <a class="button button-scroll-top " href="#">
+    <button id="button-scroll-top" class="button button-scroll-top ">
+
 <svg class="icon icon-arrow-up " viewBox="0 1 18 28" preserveAspectRatio="xMidYMid slice">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-arrow-up"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-arrow-up"></use>
 </svg>
         TOP
-    </a>
+    </button>
 </div>
 <div class="site-footer cmw" data-js-component="footerMenu" data-accordion-panel=".site-footer__section" data-accordion-content=".site-footer__accordion" data-accordion-trigger=".site-footer__section-title">
     <div class="page-container">
 
         <div class="site-footer__wrap site-footer__social site-footer__wrap--ac bpm-py3">
             <div class="site-footer__wrap-inner site-footer__corp-stamp">
-                <div class="logo logo--border">
+                <div class="site-footer__logo site-footer__logo--border">
 <svg class="icon icon-akc-logo ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-akc-logo"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-akc-logo"></use>
 </svg>                </div>
 
                 <div class="site-footer__statement">
@@ -4496,27 +4494,23 @@ data-page-id=post-095495d21f7241587b12300bcd0446d3
 
             <a class="social-links__item" href="https://www.facebook.com/AmericanKennelClub/">
 <svg class="icon icon-facebook  icon-social ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-facebook"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-facebook"></use>
 </svg>            </a>
             <a class="social-links__item" href="https://twitter.com/akcdoglovers">
 <svg class="icon icon-twitter  icon-social ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-twitter"></use>
-</svg>            </a>
-            <a class="social-links__item" href="https://plus.google.com/+americankennelclub">
-<svg class="icon icon-google-plus  icon-social ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-google-plus"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-twitter"></use>
 </svg>            </a>
             <a class="social-links__item" href="https://www.instagram.com/americankennelclub">
 <svg class="icon icon-instagram  icon-social ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-instagram"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-instagram"></use>
 </svg>            </a>
             <a class="social-links__item" href="https://www.youtube.com/user/AmericanKennelClub">
 <svg class="icon icon-youtube  icon-social ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-youtube"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-youtube"></use>
 </svg>            </a>
             <a class="social-links__item" href="https://pinterest.com/akcdoglovers/">
 <svg class="icon icon-pinterest  icon-social ">
-    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets//img/symbols.svg#icon-pinterest"></use>
+    <use xlink:href="https://www.akc.org/wp-content/themes/akc/component-library/assets/img/symbols.svg?ver=20189013#icon-pinterest"></use>
 </svg>            </a>
 
     </div>
@@ -4750,13 +4744,13 @@ data-page-id=post-095495d21f7241587b12300bcd0446d3
     ></div>
 </script>
 <div class="cmw ad-slot  " data-label="Advertisement" data-ad-unit="" data-ad-unit-path="/120519536/AKC.Pages/privacy" data-ad-unit-size="null" data-ad-unit-size-mapping="null" data-ad-unit-targeting="{&quot;pos&quot;:&quot;oop&quot;}" data-ad-unit-out-of-page="true" data-ad-unit-display-immediately="true"></div>
-<script type="text/javascript" src="https://www.akc.org/wp-content/themes/akc/component-library/assets/js/dist/vendor.bundle.js?ver=20181108"></script>
+<script type="text/javascript" src="https://www.akc.org/wp-content/themes/akc/component-library/assets/js/dist/vendor.bundle.js?ver=1556136549"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var __config__ = {"assetPath":"https:\/\/www.akc.org\/wp-content\/themes\/akc\/component-library\/assets\/"};
+var __config__ = {"assetPath":"https:\/\/www.akc.org\/wp-content\/themes\/akc\/component-library\/assets"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.akc.org/wp-content/themes/akc/component-library/assets/js/dist/main.bundle.js?ver=20181108"></script>
+<script type="text/javascript" src="https://www.akc.org/wp-content/themes/akc/component-library/assets/js/dist/main.bundle.js?ver=1556136549"></script>
 <script type="text/javascript" src="https://www.akc.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="https://www.akc.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="https://www.akc.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
@@ -4766,6 +4760,6 @@ var __config__ = {"assetPath":"https:\/\/www.akc.org\/wp-content\/themes\/akc\/c
 <script type="text/javascript" src="https://www.akc.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="https://www.akc.org/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="https://www.akc.org/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9f3033d5ce","applicationID":"75319638","transactionName":"Zl1XZEICWRJTB01eX18XdFNEClgPHRRYUFU=","queueTime":0,"applicationTime":610,"atts":"ShpUEgoYShw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9f3033d5ce","applicationID":"75319638","transactionName":"Zl1XZEICWRJTB01eX18XdFNEClgPHRRYUFU=","queueTime":0,"applicationTime":1571,"atts":"ShpUEgoYShw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
