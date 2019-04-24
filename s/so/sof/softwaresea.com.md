@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaresea.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084246id_/http%3A//www.softwaresea.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaresea.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424220801id_/http%3A//www.softwaresea.com/privacy.html) for the most accurate reproduction.*
 
 # About softwaresea.com
 
