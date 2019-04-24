@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828095746id_/https%3A//www.veeam.com/privacy-policy.html%3Fad%3Din-text-link%23cookie) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424142819id_/https%3A//www.veeam.com/privacy-policy.html%3Fad%3Din-text-link%23cookie) for the most accurate reproduction.*
 
 # Veeam: Privacy Policy – how we use your personal information, use of third party services, cookies
 
@@ -89,4 +89,4 @@ Veeam will not knowingly collect Personal Information from any person that is no
 
 As a technology company, our systems will mature and change as will this Data Privacy Policy. Changes to this Data Privacy Policy with the most recent revision date will be posted at [www.veeam.com](http://www.veeam.com/?ad=in-text-link). We will take the steps to notify you of the material changes to this Data Privacy Policy by posting the changes here or contacting you by e-mail. 
 
-Veeam is committed to responding to reasonable requests to review any of your Personal Information we may have and to amend, correct, or delete any inaccuracies. To have your information amended, corrected, or deleted, or if you have any questions that weren’t answered in this Data Privacy Policy, you can contact us at Veeam Software AG, Linden Park Lindenstrasse 16 Baar, CH-6340 or email us at [privacy@veeam.com](mailto:privacy@veeam.com). 
+Veeam is committed to responding to reasonable requests to review any of your Personal Information we may have and to amend, correct, or delete any inaccuracies. To have your information amended, corrected, or deleted, or if you have any questions that weren’t answered in this Data Privacy Policy, you can contact us at Veeam Software Group GmbH, Linden Park Lindenstrasse 16 Baar, CH-6340 or email us at [privacy@veeam.com](mailto:privacy@veeam.com). 
