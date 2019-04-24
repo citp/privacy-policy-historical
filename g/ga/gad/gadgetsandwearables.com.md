@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gadgetsandwearables.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706213707id_/https%3A//gadgetsandwearables.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsandwearables.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424131855id_/https%3A//gadgetsandwearables.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://gadgetsandwearables.com/wp-content/uploads/2018/05/privacy-policy.jpg)
+[](https://gadgetsandwearables.com/wp-content/uploads/2018/05/privacy-policy.jpg)
 
-Gadgets & Wearables is committed to safeguarding your privacy. We collect your data only to provide you with access to our content. We do not share your personal data with anyone else without your explicit consent to do so. If you wish to unsubscribe from the Services and/or to have us remove your data from our systems, we will do so.
+Gadgets & Wearables Ltd is committed to safeguarding your privacy. We collect your data only to provide you with access to our content. We do not share your personal data with anyone else without your explicit consent to do so. If you wish to unsubscribe from the Services and/or to have us remove your data from our systems, we will do so.
 
-In summary, your anonymity is safe. That is our personal commitment to you as a valued reader. [Contact us](http://gadgetsandwearables.com/about-us/) if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you.
+In summary, your anonymity is safe. That is our personal commitment to you as a valued reader. [Contact us](https://gadgetsandwearables.com/about-us/) if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you.
 
 This Privacy Policy has been updated as of May 20, 2018 to reflect compliance with the European Union’s [General Data Protection and Regulation](https://www.eugdpr.org/) (“GDPR”) requirements. It is important that you read this privacy notice carefully.
 
@@ -72,7 +72,7 @@ Email address: [info@gadgetsandwearables.com](mailto:info@gadgetsandwearables.co
 ](mailto:privacy@wareable.com)
 
 Postal address:  
-Gadgets & Wearables  
+Gadgets & Wearables Ltd  
 199 Latymer Court  
 Hammersmith Road  
 London, W6 7JY, UK
@@ -115,9 +115,9 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 We only work with Processing partners such as [Mailchimp](https://mailchimp.com/) and [Geniuslink](https://www.geni.us/) who are able to ensure adequate level of protection for your data. Data sent on to [Mailchimp](https://mailchimp.com/) for our newsletters will have your explicit GDPR consent. [Geniuslink](https://www.geni.us/), which we use to link to Amazon products, does not keep records of a click’s full IP address. It also disables pixels on links for EU countries by default.
 
-We offer [affiliate links](http://gadgetsandwearables.com/affiliate-disclosure/) on our site. We are in no way responsible for the content on these websites and have no access and control over the cookies that are used by third-party advertisers. If you follow a link to any of these websites, please note that these websites have their own privacy policies and are not affiliated with us. It is your responsibility to check these policies and terms of use for information before you submit any personal data to these websites.
+We offer [affiliate links](https://gadgetsandwearables.com/affiliate-disclosure/) on our site. We are in no way responsible for the content on these websites and have no access and control over the cookies that are used by third-party advertisers. If you follow a link to any of these websites, please note that these websites have their own privacy policies and are not affiliated with us. It is your responsibility to check these policies and terms of use for information before you submit any personal data to these websites.
 
-The ads appearing on this site are delivered to you by [Monumetric](https://www.monumetric.com/), our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site.
+Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. The ads appearing on this site are automatically de-personalized for users in the EEA region.
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Share this button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Unfortunately, there is no way around this if you wish to share content socially or interact with content we have embedded from a 3rd-party. You can always set your browser to block 3rd-party cookies. Content will still work, but no visitor data will be sent sent to a 3rd-party.
 
@@ -161,7 +161,11 @@ We do not use cookies to:
 
 Our cookies do not share any of your personal data with us, and we would never use any information derived from cookies to try to identify anybody.
 
-Ads you see on our website have been placed by [Monumetric](https://www.monumetric.com/). These third parties may generate their own cookies for the purposes of collecting anonymous information relating to their advertising. This information collected cannot be used to personally identify someone. You should consult their privacy policy for more detailed information on their practices as well as for instructions on how to opt out of certain practices.
+Third parties may generate their own cookies for the purposes of collecting anonymous information relating to their advertising. This information collected cannot be used to personally identify someone. You should consult their privacy policy for more detailed information on their practices as well as for instructions on how to opt out of certain practices.
+
+To comply with GDPR, the ads appearing on this site are automatically de-personalized for users in the EEA region.
+
+If you would like to change your data preferences on this Website please visit our Consent management platform.
 
 Browser settings also allow you to choose whether or not to accept cookies or limit certain cookies. You may wish to refer to [this guide](http://www.allaboutcookies.org/manage-cookies/index.html) for information on commonly used browsers. If you use the Service without changing your browser settings, we will assume that you are happy to receive all cookies on the Service. Please be aware that if cookies are disabled, not all features of the Service may operate as intended.
 
@@ -178,7 +182,7 @@ Role: Data Protection Manager
 Email address: [info@gadgetsandwearables.com](mailto:info@gadgetsandwearables.com)[  
 ](mailto:privacy@wareable.com)Postal address:
 
-Gadgets & Wearables  
+Gadgets & Wearables Ltd  
 199 Latymer Court  
 Hammersmith Road  
 London, W6 7JY, UK
