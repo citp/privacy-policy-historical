@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124032728id_/http%3A//cacert.org/policy/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424120329id_/http%3A//www.cacert.org/policy/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
