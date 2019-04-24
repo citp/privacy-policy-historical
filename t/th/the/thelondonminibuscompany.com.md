@@ -1,24 +1,30 @@
-> *The following text is extracted and transformed from the thelondonminibuscompany.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101124755id_/http%3A//www.thelondonminibuscompany.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelondonminibuscompany.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424120824id_/https%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Coach Hire - from coachhire.com
 
-This privacy policy sets out how The London Minibus Company Ltd uses and protects any information that you give The London Minibus Company Ltd when you use this website.
+Privacy Policy
 
-The London Minibus Company Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Updated 22/05/2018
 
-The London Minibus Company Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2010.
+This privacy policy sets out how CoachHire.com uses and protects any information that you give  **CoachHire.com**  when you use this website.
 
-What we collect
+**CoachHire.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+**CoachHire.com**   may update this policy by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/11/2017.
+
+What we collect:
 
 We may collect the following information:
 
-• name and job title
+• Name and job title
 
-• contact information including email address
+• Contact information including email address
 
-• demographic information such as postcode, preferences and interests
+• Demographic information such as postcode, preferences and interests
 
-• other information relevant to customer surveys and/or offers
+• Other information relevant to customer surveys and/or offers
+
+• Other information relating to journey details
 
 What we do with the information we gather
 
@@ -32,11 +38,20 @@ We require this information to understand your needs and provide you with a bett
 
 • From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Security
+### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-How we use cookies
+### Data Retention
+
+We will retain your information for the periods outlined below as necessary to ensure you receive an excellent service, or as required to fulfill our legal obligations. If you wish to delete your account or request that we no longer use your information contact us at [techsupport@coachhire.com](mailto:techsupport@coachhire.com). We will respond to your request in a timely manner and delete all records that do not conflict with our legal requirements or inform you of such.
+
+Data Subject Category | Retention period  
+---|---  
+Leisure/Private individuals | 2 years  
+Corporate | 4 years  
+  
+### How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -46,7 +61,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Links to other websites
+### Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
@@ -54,12 +69,12 @@ Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+• Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [email address]
+• If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [enquiries@coachhire.com](mailto:enquiries@coachhire.com?subject=Please%20unsubscribe%20me%20from%20marketing%20emails)
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to The London Minibus Company Ltd, 83 Desford Way, Ashford, Middlesex. TW15 3AS
+You may request details of personal information which we hold about you under the Data Protection Act 1998.  If you would like a copy of the information held on you please write to  **CoachHire.com  **SC House, Vanwall Business Park, Maidenhead SL6 4UW.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
