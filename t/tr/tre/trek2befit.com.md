@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trek2befit.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726223354id_/http%3A//trek2befit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trek2befit.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424155341id_/https%3A//trek2befit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Trek2BeFit.com
 
 **What information do we collect?**
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 **Your Consent**
 
 Please also visit our Terms section establishing the use, disclaimers, and limitations of liability governing the use of our website at:  
-<http://trek2befit.com/terms>
+<https://trek2befit.com/terms>
 
 **Changes to our Privacy Policy**
 
