@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the pastepub.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512122016id_/http%3A//pastepub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastepub.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424175912id_/https%3A//pastepub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pastepub
 
 The privacy of our visitors is important to pastepub.com. This privacy policy document outlines the types of personal information is received and collected by pastepub and how it’s used.
 
- **Log Files**  
+**Log Files**  
 Like many other Web sites, pastepub.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**  
+**Cookies and Web Beacons**  
 Pastepub.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 Pastepub doesn’t have access to or control over these cookies that are used by third-party advertisers.
