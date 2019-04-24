@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbl.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229061113id_/https%3A//www.jbl.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbl.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424144247id_/https%3A//www.jbl.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | JBL
 
@@ -135,5 +135,5 @@ Stamford, CT 06901, USA 
 
 **Terms of Use**
 
-Please also visit our [Terms of Use](https://web.archive.org/web/20181229061113id_/https%3A//www.jbl.com/terms.html) which includes other terms governing your use of the Services.   
+Please also visit our [Terms of Use](https://web.archive.org/web/20190424144247id_/https%3A//www.jbl.com/terms.html) which includes other terms governing your use of the Services.   
 Email us at [privacy@harman.com](mailto:privacy@harman.com)
