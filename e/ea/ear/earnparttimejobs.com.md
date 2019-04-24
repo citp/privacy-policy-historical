@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earnparttimejobs.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006035656id_/https%3A//www.earnparttimejobs.com//privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnparttimejobs.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424174149id_/https%3A//www.earnparttimejobs.com/privacy.php) for the most accurate reproduction.*
 
-# Earn:// Part Tme Jobs - Work online from Home - Privacy
+# Earn:// Part Tme Jobs - Work online from Home - Privacy - privacy
 
 EarnPartTimeJobs.com is totally committed to protecting the privacy of our site visitors and mambers. The EarnPartTimeJobs team members are mambers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is part of providing a service to you.
 
@@ -39,3 +39,20 @@ Our site may contain links to and from the websites of our partner networks, adv
 **Checking your Details**
 
 If you wish to verify the details you have submitted to EarnPartTimeJobs you may do so by [contacting us](https://web.archive.org/contact.php). Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information. 
+
+**Opting out or erasing your account**
+
+If you wish to opt out of receiving our newsletters, you may do so via the unsubscribe link at the bottom of any newsletter.  
+If you want to entirely erase your account wiht us and all your information, you can do so through the "Edit profile" option on your account management page.
+
+**GDPR (Applicable to EU residents)**
+
+For the purposes of applicable EU data protection law (including the General Data Protection Regulation 2016/679 (the “ **GDPR** ”), we are a ‘data controller’ of your personal information.
+
+You are also entitled to ask us to port your personal information (i.e. to transfer in a structured, commonly used and machine-readable format, to you), to erase it, or restrict its processing. You also have rights to object to some processing that is based on our legitimate interests, such as profiling that we perform for the purposes of direct marketing, and, where we have asked for your consent to process your data, to withdraw this consent as more fully described below.
+
+These rights are limited in some situations – for example, we can demonstrate that we have a legal requirement to process your personal information. In some instances, this means that we may retain some data even if you withdraw your consent.
+
+Where we require your personal information to comply with legal or contractual obligations, then provision of such data is mandatory: if such data is not provided, then we will not be able to manage our contractual relationship with you, or to meet obligations placed on us. In all other cases, provision of requested personal information is optional.
+
+If you have unresolved concerns you also have the right to complain to data protection authorities. The relevant data protection authority will be the data protection authority of the country: (i) of your habitual residence; (ii) of your place of work; or (iii) in which you consider the alleged infringement has occurred.
