@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221021815id_/https%3A//www.scouting.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424234905id_/https%3A//www.scouting.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boy Scouts of America
 
