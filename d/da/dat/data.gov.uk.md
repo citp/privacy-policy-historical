@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.gov.uk privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921073856id_/https%3A//data.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov.uk privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424103558id_/https%3A//data.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - data.gov.uk
 
@@ -85,7 +85,13 @@ We may change this privacy notice at our discretion at any time. In that case th
 
 ##  Questions and complaints 
 
-The data controller for your personal data is the Cabinet Office. Contact the Data Protection Officer if you have any questions or think that your personal data has been misused or mishandled. 
+The data controller for your personal data is the Cabinet Office. Contact the GDS Privacy Team if you have any questions or think that your personal data has been misused or mishandled. 
+
+Email: [gds-privacy-office@digital.cabinet-office.gov.uk](mailto:gds-privacy-office@digital.cabinet-office.gov.uk)
+
+The contact details for our Data Protection Officer are: 
+
+The Data Protection Officer provides independent advice and monitoring of our use of personal information. 
 
 If you have a complaint, you can also contact the [Information Commissioner](https://ico.org.uk/), who is an independent regulator set up to uphold information rights. 
 
