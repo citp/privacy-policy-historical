@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fcbanking.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113713id_/http%3A//www.fcbanking.com/footer/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcbanking.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424124105id_/https%3A//www.fcbanking.com/media/1396/privacy-policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                Rev. May 2014
+                                                                                               Rev. August 2014
                    WHAT DOES FIRST COMMONWEALTH FINANCIAL CORPORATION
    FACTS           DO WITH YOUR PERSONAL INFORMATION?
 Why?               Financial companies choose how they share your personal information. Federal law gives
@@ -18,26 +18,25 @@ How?               All financial companies need to share customers’ personal i
                    business. In the section below, we list the reasons financial companies can share their
                    customers’ personal information; the reasons First Commonwealth Financial Corporation
                    chooses to share; and whether you can limit this sharing.
-                                                                             Does
-Reasons we can share your personal                                  First Commonwealth              Can you limit
-information                                                         Financial Corporation           this sharing?
-                                                                            share?
+                                                                            Does
+Reasons we can share your personal                                First Commonwealth                Can you limit
+information                                                       Financial Corporation             this sharing?
+                                                                           share?
 For our everyday business purposes –
 such as to process your transactions, maintain your
-account(s), respond to court orders and legal                                 Yes                          No
+account(s), respond to court orders and legal                                Yes                           No
 investigations, or report to credit bureaus
 For our marketing purposes –
- to offer our products and services to you                                    Yes                          No
-For joint marketing with other financial companies                            Yes                          No
+ to offer our products and services to you                                   Yes                           No
+For joint marketing with other financial companies                           Yes                           No
 For our affiliates’ everyday business purposes –
-information about your transactions and experiences                           Yes                          No
+information about your transactions and experiences                          Yes                           No
 For our affiliates’ everyday business purposes –
-information about your creditworthiness                                       Yes                          Yes
-For our affiliates to market to you                                           Yes                          Yes
-For nonaffiliates to market to you                                             No                   We don’t share
-To limit our         Call us toll free at 800.711.2265 and talk with our Convenience Banking Center
-sharing                 Representative or call us toll free at 888.711.2265 – our menu will prompt you through your
-                        choice(s).
+information about your creditworthiness                                      Yes                           Yes
+For our affiliates to market to you                                          Yes                           Yes
+For nonaffiliates to market to you                                           No                     We don’t share
+To limit our         Call us toll free at 800.711.2265 and talk with our Engagement Center Representative.
+sharing
                     Please note:
                     If you are a new customer, we can begin sharing your information 30 days from the date we sent
                     this notice. When you are no longer our customer, we continue to share your information as
