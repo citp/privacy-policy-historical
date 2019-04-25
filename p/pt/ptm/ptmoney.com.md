@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ptmoney.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004125236id_/https%3A//ptmoney.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptmoney.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426000047id_/https%3A//ptmoney.com/private-policy) for the most accurate reproduction.*
 
-# Privacy Policy • PT Money
+# Privacy Policy • Part-Time Money®
 
 The privacy of our visitors to PT Money is important to us. At PT Money, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit PT Money, and how we safeguard your information. We never sell your personal information to third parties.
 
