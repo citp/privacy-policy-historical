@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesalert.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310095241id_/https%3A//timesalert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesalert.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425050951id_/https%3A//timesalert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
