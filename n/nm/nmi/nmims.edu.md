@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmims.edu privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109135909id_/http%3A//nmims.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmims.edu privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425101017id_/https%3A//www.nmims.edu/privacy-policy) for the most accurate reproduction.*
 
 # NMIMS | Top University in India | Leading Business School |Narsee Monjee Institute of Management studies
 
