@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ugi.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826125231id_/https%3A//www.ugi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugi.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425190819id_/https%3A//www.ugi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UGI Utilities
 
-UGI Utilities, Inc., and its wholly-owned subsidiaries UGI Central Penn Gas, Inc. and UGI Penn Natural Gas, Inc. (“UGI Utilities”, “us”, “we”, or “our”) adhere to the practices outlined in this Privacy Policy. This Privacy Policy applies to information that we collect: on the UGI Utilities website, [www.ugi.com](https://www.ugi.com/) (the “Website”); in any electronic communications, via any UGI Utilities mobile or desktop based applications downloaded through the Website; on social media sites operated by UGI Utilities (“UGI Utilities Social Media Sites”); and through mail and telephone communications. This Privacy Policy explains our use and collection of your information.
+UGI Utilities, Inc. (“UGI Utilities”, “us”, “we”, or “our”) adhere to the practices outlined in this Privacy Policy. This Privacy Policy applies to information that we collect: on the UGI Utilities website, [www.ugi.com](https://www.ugi.com/) (the “Website”); in any electronic communications, via any UGI Utilities mobile or desktop based applications downloaded through the Website; on social media sites operated by UGI Utilities (“UGI Utilities Social Media Sites”); and through mail and telephone communications. This Privacy Policy explains our use and collection of your information.
 
 ###### Information you provide to UGI:
 
@@ -60,8 +60,8 @@ Please note that you are responsible for any material you submit. You, and not U
 ###### Contact Information:
 
 To ask questions or comment on this Privacy Policy, please contact us at:  
-UGI Utilities, Inc.  
 Attn: Marketing Department  
-2525 North 12th Street  
-Reading, PA 19605  
+UGI Utilities, Inc.  
+P.O. Box 12677  
+Reading, PA 19612-2677  
 [marketingnews@ugi.com](mailto:marketingnews@ugi.com)
