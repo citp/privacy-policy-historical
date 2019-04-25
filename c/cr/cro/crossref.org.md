@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossref.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220162027id_/https%3A//www.crossref.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossref.org privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425122807id_/https%3A//www.crossref.org/privacy) for the most accurate reproduction.*
 
 # Privacy - Crossref
 
@@ -24,7 +24,7 @@ Depending on the type of account, you may receive a series of on-boarding emails
 
 We offer both members and non-members a range of [services to access metadata](https://web.archive.org/services/metadata-delivery). In some cases, the provided metadata may include data (or metadata derived from data) that originated from sources other than our members (“third-party sources”). We will take steps to inform all users of our metadata delivery services about any third-party sources for the metadata. If the third-party source requires it, we will also provide their privacy policies or usage restrictions. We respect the terms and conditions, including the privacy policies, of the third-party sources and we expect the users of our metadata services to do so as well.
 
-If you identify yourself in API queries (our ‘Polite’ or ‘Plus’ API pools), we will not under any circumstances store or use your email for any other purpose than technical troubleshooting and only if absolutely necessary. You may choose to use our ‘Public’ API which won’t identify you at all. More information can be found in the [etiquette](http://api.crossref.org/#etiquette) section of our REST API documentation.
+If you identify yourself in API queries (our ‘Polite’ or ‘Plus’ API pools), we will not under any circumstances store or use your email for any other purpose than technical troubleshooting and only if absolutely necessary. You may choose to use our ‘Public’ API which won’t identify you at all. More information can be found in the [etiquette](https://api.crossref.org/#etiquette) section of our REST API documentation.
 
 ## Asking for support
 
