@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfd-online.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222104619id_/https%3A//www.cfd-online.com/About/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfd-online.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425162433id_/https%3A//www.cfd-online.com/About/privacy_policy.php) for the most accurate reproduction.*
 
 # CFD Online - Privacy Policy
 
