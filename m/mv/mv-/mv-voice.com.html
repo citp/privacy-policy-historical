@@ -1,19 +1,119 @@
-<!--The following is the downloaded HTML source of the mv-voice.com privacy policy that was archived on 2018-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181028214150id_/https%3A//www.mv-voice.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mv-voice.com privacy policy that was archived on 2019-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190425150027id_/https%3A//www.mv-voice.com/about/privacy_policy) for the most accurate reproduction.-->
 
 <html lang="en"><head></head><body class="Embarcadero">﻿<!-- START NewsBeat.com tracking code -- added 8/2/11 -- also in the footer -->
-<script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <!-- END NewsBeat.com tracking code -->
 <meta property="fb:app_id" content="116940531660156">
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<link media="screen" rel="stylesheet" href="//www.embarcaderopublishing.com/colorbox/colorbox.css?v=4">
+<link media="screen" rel="stylesheet" href="//www.embarcaderopublishing.com/colorbox/colorbox.css?v=7">
 <script type="text/javascript" src="//www.embarcaderopublishing.com/colorbox/jquery.colorbox.js"></script>
-<script type="text/javascript" src="//www.embarcaderopublishing.com/class/ajax.js?v=4"></script>
-<script type="text/javascript" src="//www.embarcaderopublishing.com/js/hide_slide.js?v=4"></script>
-<script type="text/javascript" src="//www.embarcaderopublishing.com/js/cookie.js?v=4"></script>
-	<script type="text/javascript" src="//www.embarcaderopublishing.com/js/login_scripts.js?v=4"></script>	
+<script type="text/javascript" src="//www.embarcaderopublishing.com/class/ajax.js?v=7"></script>
+<script type="text/javascript" src="//www.embarcaderopublishing.com/js/hide_slide.js?v=7"></script>
+<script type="text/javascript" src="//www.embarcaderopublishing.com/js/cookie.js?v=7"></script>
+	<script type="text/javascript" src="//www.embarcaderopublishing.com/js/login_scripts.js?v=7"></script>	
 	
+<script type="application/javascript">
+	function retry(isDone, next) {
+		var current_trial = 0, max_retry = 50, interval = 10, is_timeout = false;
+		var id = window.setInterval(
+			function() {
+				if (isDone()) {
+					window.clearInterval(id);
+					next(is_timeout);
+				}
+				if (current_trial++ > max_retry) {
+					window.clearInterval(id);
+					is_timeout = true;
+					next(is_timeout);
+				}
+			},
+			10
+		);
+	}
+
+	function isIE10OrLater(user_agent) {
+		var ua = user_agent.toLowerCase();
+		if (ua.indexOf('msie') === 0 && ua.indexOf('trident') === 0) {
+			return false;
+		}
+		var match = /(?:msie|rv:|Edge)[\s|\/]?([\d\.]+)/.exec(ua); // detect Project Spartan too
+		if (match && parseInt(match[1], 10) >= 10) {
+			return true;
+		}
+		return false;
+	}
+
+	function detectPrivateMode(callback) {
+		var is_private;
+
+		if (window.webkitRequestFileSystem) {
+			window.webkitRequestFileSystem(
+				window.TEMPORARY, 1,
+				function() {
+					is_private = false;
+				},
+				function(e) {
+					console.log(e);
+					is_private = true;
+				}
+			);
+		} else if (window.indexedDB && /Firefox/.test(window.navigator.userAgent)) {
+			var db;
+			try {
+				db = window.indexedDB.open('test');
+			} catch(e) {
+				is_private = true;
+			}
+
+			if (typeof is_private === 'undefined') {
+				retry(
+					function isDone() {
+						return db.readyState === 'done' ? true : false;
+					},
+					function next(is_timeout) {
+						if (!is_timeout) {
+							is_private = db.result ? false : true;
+						}
+					}
+				);
+			}
+		} else if (isIE10OrLater(window.navigator.userAgent)) {
+			is_private = false;
+			try {
+				if (!window.indexedDB) {
+					is_private = true;
+				}                 
+			} catch (e) {
+				is_private = true;
+			}
+		} else if (window.localStorage && /Safari/.test(window.navigator.userAgent)) {
+			try {
+				window.localStorage.setItem('test', 1);
+			} catch(e) {
+				is_private = true;
+			}
+
+			if (typeof is_private === 'undefined') {
+				is_private = false;
+				window.localStorage.removeItem('test');
+			}
+		}
+
+		retry(
+			function isDone() {
+				return typeof is_private !== 'undefined' ? true : false;
+			},
+			function next(is_timeout) {
+				callback(is_private);
+			}
+		);
+	}
+</script>
+
+
+
 <!-- Google Analytics Code START 05.27.2016 -->
 <script type="text/javascript">
 
@@ -24,7 +124,34 @@
   
   _gaq.push(['_trackPageview']);
 
-
+  (function() {
+    detectPrivateMode(
+        function(is_private) {
+            typeof is_private === 'undefined' ? 
+								_gaq.push(['_setCustomVar',
+					  5,             // This custom var is set to slot #5.  Required parameter.
+					  'hiding',   // The name of the custom variable.  Required parameter.
+					  'unknown',      // Sets the value of Required parameter.
+					   1             // Sets the scope to session-level.  Optional parameter.
+				   ])
+			 : is_private ? 
+				_gaq.push(['_setCustomVar',
+					  5,             // This custom var is set to slot #5.  Required parameter.
+					  'hiding',   // The name of the custom variable.  Required parameter.
+					  'private',      // Sets the value of Required parameter.
+					   1             // Sets the scope to session-level.  Optional parameter.
+				   ])
+			 : 
+				_gaq.push(['_setCustomVar',
+					  5,             // This custom var is set to slot #5.  Required parameter.
+					  'hiding',   // The name of the custom variable.  Required parameter.
+					  'not private',      // Sets the value of Required parameter.
+					   1             // Sets the scope to session-level.  Optional parameter.
+				   ])
+		}
+    );
+  })();
+	
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -67,7 +194,10 @@
 
 
 
-<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+
+
+
+<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 <title>Privacy Policy | Mountain View Online |</title>
 
 <!-- START RSS Feed Info -->
@@ -103,36 +233,50 @@
 <link rel="shortcut icon" type="image/png" href="//mv-voice.com/favicon.png">
 
 
-<link rel="stylesheet" type="text/css" href="//www.embarcaderopublishing.com/css/styles_main.css?v=4">
+<link rel="stylesheet" type="text/css" href="//www.embarcaderopublishing.com/css/styles_main.css?v=7">
 
-<!-- START for Google AdManager -->
-				<script type="text/javascript" src="//partner.googleadservices.com/gampad/google_service.js">
-				</script>
-				<script type="text/javascript">
-				  GS_googleAddAdSenseService("ca-pub-2203864489454098");
-				  GS_googleEnableAllServices();
-				</script>
-				<script type="text/javascript">
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_728x90_1")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_300x250_1")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_300x250_2")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_300x250_3")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_300x250_4")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_120x240_1")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_120x240_2")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_120x90_1")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_300x250_s1")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_300x250_s2")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_160x600_1")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_468x60_1")
-GA_googleAddSlot("ca-pub-2203864489454098", "mountainview_everythingelse_300x250_featured")
-</script>
-				<script type="text/javascript">
-				  GA_googleFetchAds();
-				</script>
-				<!-- END for Google AdManager -->
+<!-- Start GPT Async Tag -->
+			<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+			<script>
+				var gptadslots = [];
+				var googletag = googletag || {cmd:[]};
+			</script>
+			<script>
+				googletag.cmd.push(function() {
+//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_728x90_1', [[728,90]], 'div-gpt-ad-leaderboard_1')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_300x250_1', [[300,250]], 'div-gpt-ad-medium_rectangle_1')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_300x250_2', [[300,250]], 'div-gpt-ad-medium_rectangle_2')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_300x250_3', [[300,250]], 'div-gpt-ad-medium_rectangle_3')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_300x250_4', [[300,250]], 'div-gpt-ad-medium_rectangle_4')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_120x240_1', [[120,240]], 'div-gpt-ad-vertical_banner_1')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_120x240_2', [[120,240]], 'div-gpt-ad-vertical_banner_2')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_120x90_1', [[120,90]], 'div-gpt-ad-button_1')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_300x250_s1', [[300,250]], 'div-gpt-ad-medium_rectangle_s1')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_300x250_s2', [[300,250]], 'div-gpt-ad-medium_rectangle_s2')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_160x600_1', [[160,600]], 'div-gpt-ad-skyscraper_1')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_468x60_1', [[468,60]], 'div-gpt-ad-banner_1')
+                             .addService(googletag.pubads()));//Adslot declaration
+				gptadslots.push(googletag.defineSlot('/1006587/mountainview_everythingelse_300x250_featured', [[300,250]], 'div-gpt-ad-featured')
+                             .addService(googletag.pubads()));googletag.pubads().enableSingleRequest();
+				googletag.enableServices();
+			  });
+			</script>
+			<!-- End GPT Async Tag -->
 
 
+    
 
 
 
@@ -162,23 +306,27 @@ addthis.bar.initialize( [
 <div id="container">
     <div id="header">
         <div id="weather">
-			            <div id="weather_temperature"><a href="https://weather.yahoo.com/country/state/city-12797130/" target="_blank"><img src="/weather-icons/28.gif" align="absmiddle" alt="Current Condition" style="height: 40px; width: 40px; border-width: 0px; float: left; padding: 5px 10px 0 50px;"></a>
-            <div style="padding: 15px 0 5px 0; text-align: left; line-height: 15px;"><a href="https://weather.yahoo.com/country/state/city-12797130/" target="_blank"> 72°</a><br>
-			<span class="caption">High: 73° &nbsp; Low: 53°</span></div>
+			                        <div id="weather_temperature"><a href="https://www.accuweather.com/en/us/mountain-view-ca/94041/weather-forecast/337169" target="_blank"><img src="/weather-icons/clear-day.gif" align="absmiddle" alt="Current Condition" style="height: 40px; width: 40px; border-width: 0px; float: left; padding: 5px 10px 0 50px;"></a>
+            <div style="padding: 15px 0 5px 0; text-align: left; line-height: 25px;"> <a href="https://www.accuweather.com/en/us/mountain-view-ca/94041/weather-forecast/337169" target="_blank"> 60°</a><br>
+			<span class="caption">High: 80° &nbsp; Low: 52°</span></div>
             <div style="clear: both;"></div>
             <div style="width: 177px; padding: 0 0 0 45px;" class="caption">
-            							<div style="float: left; text-align: center; width: 44px;"><img src="/weather-icons/30.gif" style="height: 20px;"><br>Mon</div>
-												<div style="float: left; text-align: center; width: 44px;"><img src="/weather-icons/32.gif" style="height: 20px;"><br>Tue</div>
-												<div style="float: left; text-align: center; width: 44px;"><img src="/weather-icons/30.gif" style="height: 20px;"><br>Wed</div>
-												<div style="float: left; text-align: center; width: 44px;"><img src="/weather-icons/28.gif" style="height: 20px;"><br>Thu</div>
+            							<div style="float: left; text-align: center; width: 44px;"><img src="/weather-icons/partly-cloudy-day.gif" style="height: 20px;"><br>Fri</div>
+												<div style="float: left; text-align: center; width: 44px;"><img src="/weather-icons/partly-cloudy-day.gif" style="height: 20px;"><br>Sat</div>
+												<div style="float: left; text-align: center; width: 44px;"><img src="/weather-icons/partly-cloudy-day.gif" style="height: 20px;"><br>Sun</div>
+												<div style="float: left; text-align: center; width: 44px;"><img src="/weather-icons/partly-cloudy-night.gif" style="height: 20px;"><br>Mon</div>
 						            </div>
             </div>
 
         </div>
         <div id="728_ad">
-			<script type="text/javascript">
-				  GA_googleFillSlot("mountainview_everythingelse_728x90_1");
-				</script>        </div>
+			
+				<div id="div-gpt-ad-leaderboard_1">
+				  <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-leaderboard_1'); });
+				  </script>
+				</div>
+				        </div>
 
 <div style="clear: both; padding: 5px 0 0 0;"></div>
         <div id="logo_area">
@@ -189,8 +337,52 @@ addthis.bar.initialize( [
 				               </div>
 
 			            <div id="logo"><a href="/"><img src="/art/top_logo.png" height="80" border="0" alt="Mountain View Online"></a></div>
-				            <div id="social_info"><a id="facebook_icon" href="//facebook.com/MountainViewVoice" target="_blank" title="Facebook"></a><a id="twitter_icon" href="//twitter.com/mvvoice" target="_blank" title="Twitter"></a><a id="rss_icon" href="/news/rss.php?section=1" target="_blank" title="RSS"></a></div>
-            <div id="search"><form action="/search" id="cse-search-box">
+				            <div id="social_info"><a id="facebook_icon" href="//facebook.com/MountainViewVoice" target="_blank" title="Facebook"></a><a id="twitter_icon" href="//twitter.com/mvvoice" target="_blank" title="Twitter"></a><a id="instagram_icon" href="//instagram.com/mvvoice" target="_blank" title="Instagram"></a><a id="rss_icon" href="/news/rss.php?section=1" target="_blank" title="RSS"></a></div>
+                                <style type="text/css">
+                        .action-button {
+                            display: inline-block;
+                            text-align: center;
+                            vertical-align: middle;
+                            padding: 8px 20px;
+                            border: 0px solid #e66a0c;
+                            border-radius: 5px;
+                            background: #e66a0c;
+                            background: -webkit-gradient(linear, left top, left bottom, from(#e66a0c), to(#e66a0c));
+                            background: -moz-linear-gradient(top, #e66a0c, #e66a0c);
+                            background: linear-gradient(to bottom, #e66a0c, #e66a0c);
+                            /*-webkit-box-shadow: #cccccc 1px 1px 6px 0px;
+                            -moz-box-shadow: #cccccc 1px 1px 6px 0px;
+                            box-shadow: #cccccc 1px 1px 6px 0px;*/
+                            font: normal normal normal 18px arial;
+                            color: #ffffff;
+                            text-decoration: none;
+                            margin-top: 5px;
+                        }
+                        .action-button:hover,
+                        .action-button:focus {
+                            border: 0px solid #ff8a10;
+                            background: #ff7f0e;
+                            background: -webkit-gradient(linear, left top, left bottom, from(#ff7f0e), to(#ff7f0e));
+                            background: -moz-linear-gradient(top, #ff7f0e, #ff7f0e);
+                            background: linear-gradient(to bottom, #ff7f0e, #ff7f0e);
+                            color: #ffffff;
+                            text-decoration: none;
+                        }
+                        .action-button:active {
+                            background: #8a4007;
+                            background: -webkit-gradient(linear, left top, left bottom, from(#8a4007), to(#e66a0c));
+                            background: -moz-linear-gradient(top, #8a4007, #e66a0c);
+                            background: linear-gradient(to bottom, #8a4007, #e66a0c);
+                        }
+                    </style>
+
+                    <div id="subscribe_button" align="right" style="padding-right: 16px;">
+                        <a href="/user/subscribe/?utm_source=internal&amp;utm_medium=top_button&amp;utm_campaign=join" class="action-button">Join</a>
+                    </div>
+            
+                    <div id="search" style="padding-top: 8px !important;">
+                            
+            <form action="/search" id="cse-search-box">
                     <input type="hidden" name="cx" value="partner-pub-2203864489454098:hd30o9u6s71">
                     <input type="hidden" name="cof" value="FORID:10">
                     <input type="hidden" name="ie" value="UTF-8">
@@ -200,7 +392,7 @@ addthis.bar.initialize( [
 
 			<style type="text/css">
     .Embarcadero #nav ul li a { /* first level with links */
-        padding: 5px 19px; /* THIS IS THE SPACE BETWEEN THE BUTTONS ON THE FIRST LINE */
+        padding: 5px 22px; /* THIS IS THE SPACE BETWEEN THE BUTTONS ON THE FIRST LINE */
     }
     .Embarcadero #nav {
         margin: 0 0 5px 0;
@@ -260,15 +452,12 @@ addthis.bar.initialize( [
             	</ul>
             </li>
 
-            
-           <li><a href="http://www.Fogster.com" target="_blank">Classifieds</a>
-            </li>
-
-            
-            <li><a href="/user/subscribe/" target="_blank">Join</a>
+                        
+            <li><a href="/user/subscribe/">Join</a>
 				<ul>
-                	<li><a href="/user/subscribe/" target="_blank">Support Local Journalism</a>
-                	</li><li><a href="/promotions">Promotions &amp; Contests</a></li>
+                    <li><a href="/user/subscribe/">Become a Subscribing Member</a></li>
+                    <li><a href="/express">Express Newsletters</a></li>
+                	<li><a href="/promotions">Promotions &amp; Contests</a></li>
                 </ul>
             </li>
 
@@ -277,7 +466,6 @@ addthis.bar.initialize( [
                 <ul class="last">
                     <li><a href="/about/contact/mailto.php?e=editor&amp;s=newstip">Submit News Tip/Photo</a></li>
                     <li><a href="https://portal.cityspark.com/EventEntry/EventEntry/MountainViewVoice" target="_blank">Submit Calendar Item</a></li>
-                    <li><a href="/express">Sign up for Express</a></li>
                     <li><a href="/about/contact">Contact Info</a></li>
                     <li><a href="/circulation">Delivery &amp; Subscription Services</a></li>
                 </ul>
@@ -416,11 +604,11 @@ If you sign up to become a member of mv-voice.com,
 
 	<div class="module_head"><a href="/news" class="grey">Most Viewed Stories</a></div>
 	    <p>
-				</p><div class="hangingIndent">■ <a href="/news/2018/10/26/landmark-north-bayshore-housing-project-wins-approval">Landmark North Bayshore housing project wins approval</a></div>
-						<div class="hangingIndent">■ <a href="/news/2018/10/26/rush-of-money-puts-inks-campaign-near-top-of-field">Rush of money puts Inks campaign near top of field</a></div>
-						<div class="hangingIndent">■ <a href="/news/2018/10/26/persky-ordered-to-pay-recall-campaign-attorneys-fees">Persky ordered to pay recall campaign attorney's fees</a></div>
-						<div class="hangingIndent">■ <a href="/news/2018/10/26/ting-fung-surge-ahead-on-hospital-district-campaign-spending">Ting, Fung surge ahead on hospital district campaign spending</a></div>
-						<div class="hangingIndent">■ <a href="/news/2018/10/27/letters-to-the-editor-oct-26-2018">Letters to the editor: Oct. 26, 2018</a></div>
+				</p><div class="hangingIndent">■ <a href="/news/2019/04/24/car-strikes-8-pedestrians-in-sunnyvale-driver-arrested">Police identify driver arrested after striking 8 pedestrians in Sunnyvale</a></div>
+						<div class="hangingIndent">■ <a href="/news/2019/04/22/palo-alto-woman-who-berated-maga-hat-wearing-man-reported-missing">Palo Alto woman who berated MAGA hat-wearing man reported missing</a></div>
+						<div class="hangingIndent">■ <a href="/news/2019/04/23/crime-brief-sunnyvale-man-arrested-after-downtown-dui-crash">Crime brief: Sunnyvale man arrested after downtown DUI crash</a></div>
+						<div class="hangingIndent">■ <a href="/news/2019/04/23/update-missing-palo-alto-woman-who-berated-maga-hat-wearing-man-found-safe">Update: Missing Palo Alto woman who berated MAGA hat-wearing man found safe</a></div>
+						<div class="hangingIndent">■ <a href="/news/2019/04/23/no-office-projects-without-housing">No office projects without housing</a></div>
 				<p></p>
     <div class="module_tag">
 	    <a href="/news" class="module_tag">See today's stories</a><br>
@@ -430,46 +618,83 @@ If you sign up to become a member of mv-voice.com,
 	
             
             <div style="margin: 0px; padding: 0 0px 15px 0; width: 300px;">
-				<script type="text/javascript">
-				  GA_googleFillSlot("mountainview_everythingelse_300x250_1");
-				</script>            </div>
+				
+				<div id="div-gpt-ad-medium_rectangle_1">
+				  <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-medium_rectangle_1'); });
+				  </script>
+				</div>
+				            </div>
 
 
             <div style="width: 120px; float: left; margin: 15px 0;">
                 <div class="button_ad">
-					<script type="text/javascript">
-				  GA_googleFillSlot("mountainview_everythingelse_120x240_1");
-				</script>                </div>
+					
+				<div id="div-gpt-ad-vertical_banner_1">
+				  <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-vertical_banner_1'); });
+				  </script>
+				</div>
+				                </div>
                 <div class="button_ad">
-					<script type="text/javascript">
-				  GA_googleFillSlot("mountainview_everythingelse_120x240_2");
-				</script>                </div>
+					
+				<div id="div-gpt-ad-vertical_banner_2">
+				  <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-vertical_banner_2'); });
+				  </script>
+				</div>
+				                </div>
                 <div class="button_ad">
-					<script type="text/javascript">
-				  GA_googleFillSlot("mountainview_everythingelse_120x90_1");
-				</script>                </div>
+					
+				<div id="div-gpt-ad-button_1">
+				  <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-button_1'); });
+				  </script>
+				</div>
+				                </div>
             </div>
 
             <div style="width: 160px; float: right; margin: 15px 0;">
-				<script type="text/javascript">
-				  GA_googleFillSlot("mountainview_everythingelse_160x600_1");
-				</script>            </div>
+				
+				<div id="div-gpt-ad-skyscraper_1">
+				  <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-skyscraper_1'); });
+				  </script>
+				</div>
+				            </div>
 
             <div style="margin: 0px; padding: 0px 0px 15px 0; width: 300px;">
-				<script type="text/javascript">
-				  GA_googleFillSlot("mountainview_everythingelse_300x250_2");
-				</script>            </div>
+				
+				<div id="div-gpt-ad-medium_rectangle_2">
+				  <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-medium_rectangle_2'); });
+				  </script>
+				</div>
+				            </div>
 
             <div style="margin: 0px; padding: 0px 0px 15px 0; width: 300px;">
-				<script type="text/javascript">
-				  GA_googleFillSlot("mountainview_everythingelse_300x250_3");
-				</script>            </div>
+				
+				<div id="div-gpt-ad-medium_rectangle_3">
+				  <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-medium_rectangle_3'); });
+				  </script>
+				</div>
+				            </div>
 
             <div style="margin: 0px; padding: 0px 0px 15px 0; width: 300px;">
-				<script type="text/javascript">
-				  GA_googleFillSlot("mountainview_everythingelse_300x250_4");
-				</script>            </div>
-        <!-- end 300_ad_column div -->
+				
+				<div id="div-gpt-ad-medium_rectangle_4">
+				  <script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-medium_rectangle_4'); });
+				  </script>
+				</div>
+				            </div>
+	<div class="module_head"><a href="https://www.mv-voice.com/best_of/" class="grey">Best of 2019</a></div>
+    <p><a href="https://www.mv-voice.com/best_of/" style="font-weight:bold;" class="module_headline">Best of Mountain View ballot is here</a><br>
+    	<a href="https://www.mv-voice.com/best_of/"><img src="/promotions/images/promotions_module_7.jpg" width="100%"></a><br>
+        It's time to decide what local business is worthy of the title "Best Of Mountain View" — and you get to decide! Cast your ballot online. Voting ends May 27th. Stay tuned for the results in the July 19th issue of the Mountain View Voice.</p>
+	<div align="center"><a href="https://www.mv-voice.com/best_of/" class="grey_button">VOTE HERE</a></div>
+	        <!-- end 300_ad_column div -->
         </div>
 
     <!-- end #mainContent -->
@@ -488,7 +713,6 @@ If you sign up to become a member of mv-voice.com,
         <p><a href="/about/contact/mailto.php?e=editor&amp;s=newstip">Send News Tips</a><br>
             <a href="/user/subscribe/" target="_blank">Join</a><br>
             <a href="/print">Print Edition/Archives</a><br>
-            <a href="http://www.Fogster.com" target="_blank"> Fogster Classifieds</a><br>
             <a href="/express/"> Express</a> / <a href="/express/weekend/"> Weekend Express</a><br>
             <a href="/print/special">Special Pubs</a><br>
             <a href="/circulation">Circulation &amp; Delivery</a></p>
@@ -503,7 +727,7 @@ If you sign up to become a member of mv-voice.com,
             <a href="http://www.AlmanacNews.com" target="_blank">The Almanac</a><br>
 			<a href="https://www.thesixfifty.com" target="_blank">TheSixFifty.com</a></p>
         <p>
-            © 2018 <a href="/">Mountain View Online</a><br>
+            © 2019 <a href="/">Mountain View Online</a><br>
             All rights reserved.<br>
             &nbsp;<br>
         	<a href="http://www.EmbarcaderoMediaGroup.com" target="_blank">Embarcadero Media</a><br>
@@ -571,6 +795,9 @@ qacct:"p-7apeS9pNVYMQo"
     </script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script>
     <!-- END ChartBeat.com tracking code -->
     
+<!--||--><br><!--||--><br>
+
+
 <!-- addthis.com tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59889825bf821865"></script>
 
@@ -578,7 +805,8 @@ qacct:"p-7apeS9pNVYMQo"
 <img src="//www.EmbarcaderoPublishing.com/art/icons/icon_rss_color.png" class="PreloadImage">
 <img src="//www.EmbarcaderoPublishing.com/art/icons/icon_twitter_color.png" class="PreloadImage">
 <img src="//www.EmbarcaderoPublishing.com/art/icons/icon_facebook_color.png" class="PreloadImage">
+<img src="//www.EmbarcaderoPublishing.com/art/icons/icon_instagram_color.png" class="PreloadImage">
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4e2e5ec189","applicationID":"13429415","transactionName":"b1RQMUNVDUoDWhVeW1YeZxdYGwJbDUwVGF1WVVcdH0QLSQ==","queueTime":0,"applicationTime":29,"atts":"QxNTRwtPHkQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4e2e5ec189","applicationID":"13429415","transactionName":"b1RQMUNVDUoDWhVeW1YeZxdYGwJbDUwVGF1WVVcdH0QLSQ==","queueTime":0,"applicationTime":31,"atts":"QxNTRwtPHkQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
