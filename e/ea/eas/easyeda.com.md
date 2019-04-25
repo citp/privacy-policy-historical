@@ -1,45 +1,123 @@
-> *The following text is extracted and transformed from the easyeda.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126151606id_/https%3A//easyeda.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyeda.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425023306id_/https%3A//easyeda.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EasyEDA
 
-Your privacy is critically important to us. At EasyEDA we have a few fundamental principles:
+## Introduction
 
-We don’t ask you for personal information unless we truly need it. We can’t stand services that ask you for things like your gender or income level for no apparent reason.  
-We don’t share your data with anyone except to comply with the law or protect our rights.  
-We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+EasyEDA is owned by Shenzhen Lichuang E-commerce Co.,Ltd., a China-based company, headquartered at Rm 519-529, Floor 5, Tianjian Building, No.7 Shangbao Road, Futian District, Shenzhen 518034, China. 
 
-We utilize SSL throughout the entire domain EasyEDA.com. Secure Socket Layer (SSL) technology encrypts all data transferred between your computer and our servers. Your data is for your eyes only.
+Shenzhen Lichuang E-commerce Co.,Ltd. is the responsible body and controller as defined by data protection laws. 
 
-Below is our privacy policy which incorporates these goals. If you have questions about accessing or correcting your personal data please contact our support@easyeda.com.
+At EasyEDA, protecting the personal data you share with us is hugely important. We provide this Privacy Statement to inform you on how we use and manage the information collected at EasyEDA.com. That we have a few fundamental principles:
 
-## Website Visitors
+  * We don’t ask you for personal information unless we truly need it. We can’t stand services that ask you for things like your gender, age or income level for no apparent reason.
+  * We don’t share your data with anyone except to comply with the law or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * We utilize SSL throughout the entire domain EasyEDA.com. Secure Socket Layer (SSL) technology encrypts all data transferred between your computer and our servers. Your data is for your eyes only.
 
-Like most website operators, EasyEDA collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. EasyEDA’s purpose in collecting non-personally identifying information is to better understand how EasyEDA’s visitors use its website. From time to time, EasyEDA may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-## Gathering of Personally-Identifying Information
 
-Certain visitors to EasyEDA’s websites choose to interact with EasyEDA in ways that require EasyEDA to gather personally-identifying information. The amount and type of information that EasyEDA gathers depends on the nature of the interaction. For example, we ask visitors who sign up to EasyEDA to provide their name and email address. Those who engage in transactions with EasyEDA – by purchasing PCB, for example – are asked to provide additional information, including as necessary the personal information required to process those transactions and shipping. In each case, EasyEDA collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with EasyEDA. EasyEDA does not disclose personally-identifying information other than as described below.
+Below is our privacy policy which incorporates these goals. If you have questions about accessing or correcting your personal data please contact us: `support@easyeda.com`
 
-## Protection of Certain Personally-Identifying Information
+## Personal Data We Collect or storage at EasyEDA
 
-EasyEDA discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on EasyEDA’s behalf or to provide services available at EasyEDA’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using EasyEDA’s websites, you consent to the transfer of such information to them. EasyEDA will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, EasyEDA discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when EasyEDA believes in good faith that disclosure is reasonably necessary to protect the property or rights of EasyEDA, third parties or the public at large. If you are a registered user of an EasyEDA website and have supplied your email address, EasyEDA may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with EasyEDA and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. EasyEDA takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+When you register for our services and use EasyEDA, you provide us with the following:
+
+  * Your profile information, email address, avatar, The browser type, Language preference, Referring site, And the date and time of each request. 
+
+  * When you create an account, you are prompted to create a username and a password. EasyEDA maintains your username and password (in an encrypted format) inside our secure environment and only uses your information to welcome you back upon your return and personalize your experience on our services. 
+
+  * We storage the data you created via our website and ediotr(for example, the projects(Including schematic, PCB, covers, attachments), libraries, modules, Gerbers, BOMs(Bill of Meterials), forum topics and comments).
+
+  * Information about you login back to EasyEDA website and editor for data analytic (for example, Broswer type, Language preference, Operation system type, Editor version, Date and time, Operation counts in the editor and website)
+
+
+
+
+When you contact us; we contact you; or you take part in any of our promotions, competitions, surveys or questionnaires about EasyEDA’s services, or you engage with us through social media, we may collect:
+
+  * Personal data you provide (for example, your name and contact details, including address, phone or email);
+
+  * Details of the emails and other digital communications, including any links in them that you access and whether you have opened the communications;
+
+  * Your feedback and contributions to customer surveys and questionnaires.
+
+  * You are free to choose which information you want to provide to us or whether you want to provide us with information at all. However, some information, such as your name, address and information on your requested services may be necessary for the performance of our contractual obligations. Without providing this information, you will not be able to order certain services or enter into a contract with us.
+
+
+
+
+## How We Use and Share Your Personal Data
+
+### We promise to take the following responsibilities for protecting users’ information:
+
+We protect all data generated by and provided to us by our users from being stolen, compromised, or used in violation with this policy.  
+We ensure that user’s information is only used for providing service for users. We will not use your personal information for other purposes without your permission.  
+Under no circumstances will EasyEDA.com sell or share any personal information about you to or with any person or organization. We don’t sell user-provided and user-generated data for financial gain or competitive advantage.  
+We will take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and of personally-identifying information.
+
+### We may share your personal data in the instances described below:
+
+  * EasyEDA and [LCSC](https://lcsc.com/) are owned by Shenzhen Lichuang E-commerce Co.,Ltd. If you register at EasyEDA.com, we will share the information about you with LCSC.
+
+  * EasyEDA and [JLCPCB](https://jlcpcb.com/) are in a group company. EasyEDA PCB order service has been transferred to JLCPCB, your order will be moved on and completed via JLCPCB. If you register or order PCBs at EasyEDA.com, we will share this information about you and your order with JLCPCB, who may contact you to inquire about the use of your PCB orders.
+
+  * Third-party vendors and other service providers that perform services on our behalf, as needed to carry out their work for us, which may include identifying and serving targeted advertisements, providing mailing services, providing tax and accounting services, contest fulfillment, web hosting, online chat services, or providing analytic services.
+
+  * We may share personal data with law enforcement, regulators, and other parties for legal reasons, such as in cases where required by law or subpoena.
+
+  * Other parties in connection with the (actual or potential) sale, purchase, acquisition, merger, reorganization, bankruptcy, liquidation, dissolution, or similar transaction or proceeding of or involving EasyEDA.
+
+
+
+
+## Exercising your other rights
+
+You have the right to access, correct and transfer your data, limit its processing, object to its processing, or withdraw your consent at any time without affecting the lawfulness of processing that was already performed on the basis of consent prior to its withdrawal (if the processing is consent-based).  
+Moreover, should you decide that our processing breaches the provisions of GDPR, you have the right to submit a complaint to a data protection authority.
+
+## When using EasyEDA, you should know
+
+  * _EasyEDA Libraries and Modules are public_  
+All Libraries(Schematiclibs, Spice Symbols, PCBlibs) and Modules(Schematic moduels, PCB modules) on EasyEDA are public, so after you have created and saved a new library, others will be able to find your part and use it, and you will be credited as a contributor.
+
+  * _Delete Your Account_  
+EasyEDA allow you to delete your account and your personal data, such as the data we collect or storage.  
+Delete the account via: [User Center - Account - Advanced - Delete Account](https://easyeda.com/account/user/account/setting/advance)  
+The data EasyEDA won't delete automatically when you delete your account as below, but you can delete them manually: 
+
+    * The Libraries and Modules
+    * The Forum Topics and Comments(forum comment and public project comment).
+  * _Local Webstorage_  
+When you use [EasyEDA editor](https://easyeda.com/editor), EasyEDA will back up your files in your browser using [Webstorage](http://www.w3.org/TR/webstorage/), this will enable you to do crash recovery. You can remove them in your browser. via: [Document Recovery](https://docs.easyeda.com/en/Introduction/Basic-Skill/index.html#Document-Recovery)
+
+
+
 
 ## Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. EasyEDA uses cookies to help EasyEDA identify and track visitors, their usage of EasyEDA website, and their website access preferences. EasyEDA visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using EasyEDA’s websites, with the drawback that certain features of EasyEDA’s websites may not function properly without the aid of cookies.
+EasyEDA use "cookies" to provide information on your computer. Cookies are pieces of data that a website can send to your browser, which may then be stored on your computer or device. EasyEDA may use both session and persistent cookies on our own or through our third-party service providers as described below. Cookies may save your preferences while you are at EasyEDA.com, such as allowing for persistent login on pages that require logging in, and EasyEDA may use them to provide you with tailored information and tracking as you use our services. Cookies help EasyEDA, among other things, to determine which areas of the services are popular by tracking hits to those areas, which may, in turn, allow EasyEDA or our third-party providers to provide you with targeted information or advertising regarding EasyEDA’s products and services. By modifying your browser preferences, you may have the choice to accept cookies, to be notified when a cookie is sent, or to reject cookies. The rejection or limitation of cookies by your browser may limit your ability to use the service.
 
-## Webstorage
+## Third Party Tracking
 
-EasyEDA will back up your files in your browser using [Webstorage](http://www.w3.org/TR/webstorage/), this will enable you to do crash recovery. You can remove them in your browser.
+  * _Google Analytics_  
+The Google Analytics is an analytics program provided by Google Inc, which will help us to evaluate how you use the website and so provide better service to you. We use Google Analytics to recognize you and link the devices you use when you visit EasyEDA, log in to your account on our service, or otherwise engage with us. Google Analytics allows us to better understand how our users interact with our services and to tailor our advertisements and content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's site “How Google uses data when you use our partners’ sites or apps” located at <https://policies.google.com/technologies/partner-sites>. You can learn about Google Analytics’ currently available. 
 
-## Google Analytics
+  * _Facebook Pixel_  
+We use the Facebook pixel from Facebook Inc on our website.  
+This allows user behavior to be tracked after they have been redirected to the provider's website by clicking on a Facebook ad. This enables us to measure the effectiveness of Facebook ads for statistical and market research purposes. The data collected in this way is anonymous to us, i.e. we do not see the personal data of individual users. However, this data is stored and processed by Facebook, which is why we are informing you, based on our knowledge of the situation. Facebook may link this information to your Facebook account and also use it for its own promotional purposes, in accordance with Facebook's Data Usage Policy <https://www.facebook.com/about/privacy/>. You can allow Facebook and its partners to place ads on and off Facebook. A cookie may also be stored on your computer for these purposes. You can object to the collection of your data by Facebook pixel, or to the use of your data for the purpose of displaying Facebook ads by contacting the following address: <https://www.facebook.com/settings?tab=ads> .
 
-Our website uses Google Analytics. Google Analytics is an analytics program provided by Google Inc, which will help us to evaluate how you use the website and so provide better service to you. 
 
-## Privacy Policy Changes
 
-Although most changes are likely to be minor, EasyEDA may change its Privacy Policy from time to time, and in EasyEDA’s sole discretion. EasyEDA will notify all registered users on a privacy policy change.
 
-This privacy policy is licensed under a [Creative Commons License](https://creativecommons.org/licenses/by-sa/2.5/) and based on the template from [Automattic](http://automattic.com/).
+## Changes to this Policy
 
-Last Updated: May 30, 2015
+We may modify or update this Policy from time to time to reflect the changes in our business and practices, so you should review this page periodically.
+
+## Contact us
+
+For any question, please contact us at `support@easyeda.com`.
+
+Date of Last Modification
+
+May 25, 2018
