@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tellyupdates.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120115520id_/http%3A//www.tellyupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellyupdates.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425185502id_/http%3A//www.tellyupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telly Updates
 
-The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as “data” below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor’s control. Please take time to read this site’s [Terms and Condition](http://www.tellyupdates.com/terms-and-conditions/).
+The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as “data” below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor’s control. Please take time to read this site’s [Terms and Condition](https://www.tellyupdates.com/terms-and-conditions/).
 
 ### 1\. Collection of data
 
@@ -34,7 +34,7 @@ We use Google and other third-party advertising companies to serve ads when you 
 
 ### 6\. Editing or deleting your account information
 
-You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user account control panel. You can request that your user account be deleted; to do so, please contact the site administrator _**tellyupdates [at] gmail [dot] com**_. Content or other data that you may have provided, and that is not stored within your user account, such as articles published, may continue to remain on the site at the site editor’s discretion, even after your user account is deleted. Please see the site’s [Terms and Conditions](http://www.tellyupdates.com/terms-and-conditions/) for more information.
+You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user account control panel. You can request that your user account be deleted; to do so, please contact the site administrator _**tellyupdates [at] gmail [dot] com**_. Content or other data that you may have provided, and that is not stored within your user account, such as articles published, may continue to remain on the site at the site editor’s discretion, even after your user account is deleted. Please see the site’s [Terms and Conditions](https://www.tellyupdates.com/terms-and-conditions/) for more information.
 
 ### 7\. Changes to this privacy policy
 
