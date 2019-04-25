@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibc.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231103638id_/http%3A//www.ibc.ca/on/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibc.ca privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425034513id_/http%3A//www.ibc.ca/ns/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
