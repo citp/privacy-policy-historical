@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honorsociety.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903093059id_/https%3A//www.honorsociety.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honorsociety.org privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425065100id_/https%3A//www.honorsociety.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Honor Society
 
@@ -32,7 +32,7 @@ any other transactions between you and us on or in relation to our Website
 If you choose to use our referral service to tell a friend about our Website we will ask you for your friend’s name and email address.  
 We store this information for the sole purpose of sending this one-time email, tracking the success of our referral program, and following up with additional information if your friend opts in to receiving information from us.
 
-Your friend may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dab7bfb7b8bfa8a9bfa8acb3b9bfa99ab2b5b4b5a8a9b5b9b3bfaea3f4b5a8bd) to request that we remove this information from our database.  
+Your friend may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8a5ada5aaadbabbadbabea1abadbb88a0a7a6a7babba7aba1adbcb1e6a7baaf) to request that we remove this information from our database.  
 Treatment of your friend’s information will be subject to the terms of this Privacy Policy.
 
 ## Cookies and Other Tracking Technologies
@@ -114,7 +114,7 @@ When submitting your testimonial you are giving us permission to post your testi
 
 If you post such content, it will be available to other users of the Website. Your posting may also become public and we cannot prevent such information from being used in a manner that may violate our Privacy Policy or the law.
 
-If you would like us to remove or delete your name or testimonial from our Website, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d4048404f485f5e485f5b444e485e6d454243425f5e424e4448595403425f4a).
+If you would like us to remove or delete your name or testimonial from our Website, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b2dfd7dfd0d7c0c1d7c0c4dbd1d7c1f2dadddcddc0c1ddd1dbd7c6cb9cddc0d5).
 
 Note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of our Website for a period of time.
 
@@ -126,7 +126,7 @@ When submitting your review you are giving us permission to post your review on 
 
 If you post such content, it will be available to other users of the Website. Your posting may also become public and we cannot prevent such information from being used in a manner that may violate our Privacy Policy or the law.
 
-If you would like us to remove your name or review from our Website, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d2028202f283f3e283f3b242e283e0d252223223f3e222e2428393463223f2a).
+If you would like us to remove your name or review from our Website, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c4a9a1a9a6a1b6b7a1b6b2ada7a1b784acabaaabb6b7aba7ada1b0bdeaabb6a3).
 
 Note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of our Website for a period of time.
 
@@ -172,7 +172,7 @@ By continuing to use our Website after we post any such changes, you accept the 
 
 ## Contact Information
 
-If you have any questions about this privacy policy or our treatment of your information, please write to us our Privacy Officer by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fe939b939c9b8c8d9b8c88979d9b8dbe969190918c8d919d979b8a87d0918c99)
+If you have any questions about this privacy policy or our treatment of your information, please write to us our Privacy Officer by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e08d858d8285929385929689838593a0888f8e8f92938f8389859499ce8f9287)
 
 or by postal mail at
 
