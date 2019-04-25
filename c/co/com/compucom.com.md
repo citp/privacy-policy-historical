@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compucom.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408034810id_/http%3A//www.compucom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compucom.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425175333id_/https%3A//www.compucom.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | CompuCom
 
@@ -78,8 +78,8 @@ We do not collect personally identifiable information about your online activiti
 We use email addresses provided to us in the following ways:
 
   * Return email: We use email addresses to answer the email we receive.
-  * Promotional email: From time to time, we may send promotional emails to our existing clients and to others that have demonstrated an interest in our products and services. We offer you the option not to receive such promotional email messages  (by emailing us at [privacy@compucom.com](http://privacy@compucom.com/)).
-  * Email addresses obtained from events: To market our products and services, we use email addresses obtained through business reply cards and forms at events (for example, seminars). If you receive an email from us following such an event, we may provide a "message reply" option for you to elect not to receive future email messages related to our product and service promotions (or you may always email us at [privacy@compucom.com](http://privacy@compucom.com/)).
+  * Promotional email: From time to time, we may send promotional emails to our existing clients and to others that have demonstrated an interest in our products and services. We offer you the option not to receive such promotional email messages  (by emailing us at [privacy@compucom.com](mailto:privacy@compucom.com)).
+  * Email addresses obtained from events: To market our products and services, we use email addresses obtained through business reply cards and forms at events (for example, seminars). If you receive an email from us following such an event, we may provide a "message reply" option for you to elect not to receive future email messages related to our product and service promotions (or you may always email us at [privacy@compucom.com](mailto:privacy@compucom.com)).
 
 
 
@@ -91,7 +91,7 @@ If you set up an account for use on our website, we will collect information fro
 **Access To, and Accuracy of, Your Personal Information**  
 CompuCom provides individuals with reasonable access to their own personal information that they provide to us. To protect your privacy, we may take reasonable steps to verify your identity before granting access to your data.
 
-CompuCom strives to maintain accurate records of personal information. To help maintain this accuracy, we use a variety of technologies and management techniques. If your personal information changes or you would like to review the personal information we may have on file, please email us with the new information or your review request at [privacy@compucom.com](http://privacy@compucom.com/).
+CompuCom strives to maintain accurate records of personal information. To help maintain this accuracy, we use a variety of technologies and management techniques. If your personal information changes or you would like to review the personal information we may have on file, please email us with the new information or your review request at [privacy@compucom.com](mailto:privacy@compucom.com).
 
 **Sharing of Your Personal Information**  
 CompuCom will not sell, rent or lease your personal information, or share it with others, except as indicated in this Privacy Policy.
@@ -125,23 +125,23 @@ We are committed to complying with all applicable laws and regulations regarding
 
 Individuals under the age of 18 are not permitted to use CompuCom sites without the supervision of a parent or legal guardian. We do not knowingly collect or solicit personal information from children under the age of 18 or knowingly allow such persons to register for an online account or to place orders or provide personal information through CompuCom sites. If we learn that someone under the age of 18 has provided any personal information through at CompuCom site, we will remove and delete that information as soon as reasonably possible.
 
-If you are a parent or guardian who believes that your minor under the age of 18 has submitted personal information or other information to us without your consent, please contact [privacy@compucom.com](http://privacy@compucom.com/). Once we verify that you are the parent or legal guardian, we will cooperate with you to discuss what, if any, personal information we may have about your child and how that information may have been shared or used.
+If you are a parent or guardian who believes that your minor under the age of 18 has submitted personal information or other information to us without your consent, please contact [privacy@compucom.com](mailto:privacy@compucom.com). Once we verify that you are the parent or legal guardian, we will cooperate with you to discuss what, if any, personal information we may have about your child and how that information may have been shared or used.
 
 **Your California Privacy Rights**  
-Under California’s “Shine the Light” law, California residents who provide personal information in connection with purchasing products or services from us may make a request concerning personal information, if any, that we have shared with other businesses for their own direct marketing purposes. Such a request may be made by sending an email message to [privacy@compucom.com](http://privacy@compucom.com/) with “Request for California Privacy Information” in the subject line of the message. In response to such a request, we will provide information as required by the California law for the previous calendar year concerning such other businesses and the categories of personal information, if any, that we have shared with them.
+Under California’s “Shine the Light” law, California residents who provide personal information in connection with purchasing products or services from us may make a request concerning personal information, if any, that we have shared with other businesses for their own direct marketing purposes. Such a request may be made by sending an email message to [privacy@compucom.com](mailto:privacy@compucom.com) with “Request for California Privacy Information” in the subject line of the message. In response to such a request, we will provide information as required by the California law for the previous calendar year concerning such other businesses and the categories of personal information, if any, that we have shared with them.
 
 **Changes to This Policy**  
 If CompuCom changes this Privacy Policy, we will post the revised version on this website. Such revised version will be effective upon posting. If we make significant changes, we may also notify you by other means, such as sending an email or posting a notice on our home page.
 
 Contact Us  
-CompuCom welcomes your comments regarding our privacy practices. If you have questions about this Privacy Policy, or how your personal information is handled, please contact us at [privacy@compucom.com](http://privacy@compucom.com/).
+CompuCom welcomes your comments regarding our privacy practices. If you have questions about this Privacy Policy, or how your personal information is handled, please contact us at [privacy@compucom.com](mailto:privacy@compucom.com).
 
 If you prefer an alternative to contacting us online, call us at 972-856-3600 and ask to speak with CompuCom’s Privacy Officer. Individuals with formal inquiries or complaints regarding this Privacy Policy or CompuCom's privacy practices should contact CompuCom at:
 
 CompuCom Systems, Inc.  
 c/o CompuCom Legal Department  
-8383 Dominion Parkway  
-Plano, TX 75024  
+8106 Calvin Hall Road  
+Fort Mill, SC 29707  
 USA
 
 Effective September 21, 2017
