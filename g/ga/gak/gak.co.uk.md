@@ -1,79 +1,105 @@
-> *The following text is extracted and transformed from the gak.co.uk privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830225959id_/https%3A//www.gak.co.uk/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gak.co.uk privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425201304id_/https%3A//www.gak.co.uk/en/privacy-policy) for the most accurate reproduction.*
 
 # GAK Privacy Policy
 
-We use cookies to help identify your computer so we will be able to tailor your user experience, track shopping basket contents and remember where you are in the order process.
+**GAK Privacy Notice - Updated 17th May 2018**
 
- **GAK.co.uk Ltd privacy policy**
+We at GAK are committed to maintaining the privacy and security or any and all personal information we collect from you, our customers and this Privacy Policy is designed to explain how we use any personal information we collect about you when you use this website. We may update this policy from time to time, so please ensure you regularly check back to review it. The main reason we will collect and process your information is to fulfil orders placed with us and to provide and maintain a high level of customer service and satisfaction. In cases where you have specifically requested we will keep you up to date with product releases, news and offers, usually via email. This privacy policy explains in clear language _who_ we are and how to contact us, _what_ information we collect and _why_ , and _how_ we use that information and which third parties that information may need to be s _hared’_ with.
 
-This privacy policy sets out how GAK.co.uk Ltd uses and protects any information that you give GAK.co.uk Ltd when you use this website.
+ **Who we are**
 
-GAK.co.uk Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+When we say ‘we’ or ‘us’ in this notice we are generally referring to the two distinct legal entities that make up the GAK Group:
 
-GAK.co.uk Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2016.
-
- **What we collect:**
-
-We may collect the following information:
-
-name and job title
-
-contact information including email address
-
-demographic information such as postcode, preferences and interests
-
-other information relevant to customer surveys and/or offers
-
- **Google Analytics Advertising Features:**  
+  * GAK.co.uk Ltd (registered office: 30-34 North Street, Hailsham, East Sussex, BN27 1DW) 
+  * The Guitar, Amp & Keyboard Centre Ltd (registered office: 30-34 North Street, Hailsham, East Sussex, BN27 1DW) 
 
 
-To monitor and improve our website user experience we have implemented the Google Analytics Tracking Code, this does not contain personal or private identifiable information.
 
-To offer relevant marketing and re-marketing material to our customer we have implemented Google Analytics Advertising features and codes.
+Please contact the GAK Data Protection Officer to make a request under the Data Protection Act or EU data protection regulation or if you have any questions about your personal information:
 
-If you wish to 'opt-out' of Google Analytics Tracking please visit - https://tools.google.com/dlpage/gaoptout  
+Email: dpo@gak.co.uk
+
+Data Protection Officer
+
+GAK.co.uk Ltd
+
+60 Gladstone Place
+
+Brighton
+
+East Sussex
+
+BN2 3QD
+
+In the event that you are not satisfied with the response from the GAK Data Protection Officer you may contact the Information Commissioner directly - <https://ico.org.uk/global/contact-us/>
+
+**What information do we collect**
+
+  * Information you have provided to us such as Forename, Surname, Delivery address, Billing address, Email address and Contact phone number.
+  * Information relating to payment transactions processed as part of placing an order with GAK such as payment provider (Visa, MasterCard, PayPal, Amazon, Bank Transfer, V12 Finance), transaction reference and status. If registered for ‘Express checkout’ we will store a payment token in order to facilitate fast payment through our payment pages provided by a third party Secure Trading Ltd. Please note we do not store your credit card details. 
+  * If you have signed up for a User Account we store your User Name and an encrypted version of your Password.
+  *  ****If you contact us (either via our Contact Us page, direct email or via post) we may keep a copy of that correspondence
+  * If you have placed an order and respond to a Service or Product Review request from one of our third party providers (TrustPilot or Google Reviews) we may store your review and comments.
+  * General website analytics information relating to how users arrive at our site, how long they stay on the site, pages visited, how our site search is used etc. Please review our full Cookie Policy - <https://www.gak.co.uk/en/cookie-policy>.
+  * If you visit any of our retail premises your image may be recorded and stored for a short time in our CCTV system for security purposes only.
 
 
- **What we do with the information we gather:**
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+If you decide not to provide relevant information this may hinder our ability to respond efficiently to your visit to our website and may mean that we will not be able to take any further action to support your enquiry. 
 
-Internal record keeping.
+ **Why we collect this information and How we use it**
 
-We may use the information to improve our products and services.
+We collect personal information from you so we can process orders placed and keep you updated on their progress. Only where you have specifically requested will we use any information collected to contact or update you with marketing communications relating to products or services. When you submit an order with us your personal details may be shared internally with our sales staff, customer service staff and warehouse staff and to fulfil the delivery of your order your personal details may be shared with any relevant third-party courier companies (Fedex, DPD, UK Mail, DHL or Royal Mail) or product suppliers/distributors. 
 
-We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+Where you have specifically requested to join our email marketing list your personal details will be shared with our third party email service provider Pure360 Ltd (you can view the full Pure360 Ltd Privacy Policy - <https://www.pure360.com/privacy/>). When you request to receive email marketing from GAK in the form of newsletters, product updates and information, promotional offers and discounts etc we will not share your email address with any other third parties for marketing purposes.
 
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+Our legal basis for collecting and processing your personal information is generally that we either have your explicit consent, that we require this information in order to perform a contract with you or that we have a legitimate business interest to do so.
 
- **Security**
+ **How long we store the information we collect**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Where we process your information in order to fulfil an order for goods or services, we will securely store your information as long as is necessary for warranty, financial and tax storage requirements. Once we no longer have a legitimate business need to store or process your personal information we will delete or remove it at the earliest opportunity.
 
- **How we use cookies**
+Where we process your personal information in order to keep you updated about products and services we will retain and process that information indefinitely unless you notify us that you no longer wish to receive these communications.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+The information we collect may be stored and processed in various locations, this will not include locations outside the European Economic Area (EEA).
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+ **Who we may Share your personal information with**
 
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+In order to fully process and deliver orders placed we will share relevant personal information with third parties where required and where you have opted-in to our marketing updates we will share relevant personal information with third parties for marketing purposes. 
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+You personal information may be shared with:
 
- **Links to other websites**
+  * Delivery and logistics partners to facilitate the delivery of your goods.
+  * Email service providers that enable us to send relevant marketing email communications.
+  * Server management and data storage providers that host and manage our secure website and business software applications.
+  * Payment service providers that enable payments online through our website, payment links or over the phone.
+  * Suppliers and/or Distributors to facilitate direct shipment of goods from third party warehouses to customers. 
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
- **Controlling your personal information**
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+Any of our business partners mentioned above may have a legitimate business need to store your personal information for a period of time. We recommend that you review their privacy policies, where requested we will assist in accessing copies of any third party Privacy Policy. Please contact our Data Protection Officer for further information.
 
-Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+Where we use any third-party to process personal information on our behalf, we have drafted compliant processor agreements and due diligence procedures for ensuring that they (as well as we) meet and understand their/our Data Protection Legislation obligations. These measures include reviews of the service provided, the necessity of the processing activity, the technical and organisational measures in place and compliance with Data Protection Legislation. 
 
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us
+ **Our website**
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policy.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to at 60 Gladstone Place, Brighton, East Sussex, BN2 3QD
+ **Your rights under Data Protection Law**
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+Under Data Protection Legislation you have the following rights in certain circumstances as an individual:
+
+  * The right to be informed - you have the right to be informed about the collection and use of your personal data, the purpose of processing your data, the retention of your data and who it may be shared with. This is the purpose of this privacy policy.
+  * The right of access - you have the right to be told what personal data we hold about you on our database and how we process that data. You also have the right to be provided with a copy of all personal data we hold (in a format and time frame that is reasonable to request, not exceeding 1 month), we will not charge for providing this information.
+  * The right to request rectification - you have the right to request to have any inaccurate personal data rectified or completed if incomplete. 
+  * The right to request erasure - you have the right to request to have personal data erased, also known as the ‘right to be forgotten’. Where appropriate requests have been made, deletion of personal data will be processed within 1 month.
+  * The right to request to restrict processing - you have the right to request restriction or suppression of you personal data although this only applies in certain circumstances. 
+  * The right to request data portability if data you have provided is processed using automated means - you have the right to obtain and reuse the personal data we hold for your own purposes across different services. This would generally involve a copy or transfer of the personal data we hold in an electronic format from one IT environment to another.
+  * The right to object - you have the right to object to processing based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling), direct marketing (including profiling) and processing for purposes of scientific/historical research and statistics.
+  * Rights related to automated decision making including profiling.
+
+
+
+For further information on your Individual rights please visit the Information Commission’s Office website - <https://ico.org.uk/for-organisations/guide-to-data-protection/principle-6-rights/>
+
+If you wish to exercise any of the rights listed above please contact our Data Protection Officer.
