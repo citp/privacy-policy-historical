@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the h2o.ai privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120173940id_/https%3A//www.h2o.ai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h2o.ai privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425104630id_/https%3A//www.h2o.ai/privacy) for the most accurate reproduction.*
 
-# Privacy - H2O.ai
+# Privacy - Open Source Leader in AI and ML
 
 ### H2O Privacy Policy
 
@@ -61,7 +61,7 @@ You may request deletion of your Personal Information by sending an e-mail to [p
 
 #### Changes to this Privacy Policy
 
-H2O may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting the new privacy statement on our website at [http://www.h2o.ai/privacy](http://www.h2o.ai/privacy/). Users are bound by any changes to the Privacy Policy when he or she uses the Services after such notice has been provided.
+H2O may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting the new privacy statement on our website at [https://www.h2o.ai/privacy](https://www.h2o.ai/privacy/). Users are bound by any changes to the Privacy Policy when he or she uses the Services after such notice has been provided.
 
 #### Questions or Concerns
 
