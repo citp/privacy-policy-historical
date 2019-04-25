@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the listenmoneymatters.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314141059id_/https%3A//www.listenmoneymatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listenmoneymatters.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425233850id_/https%3A//www.listenmoneymatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Listen Money Matters
 
 ## Privacy Policy
 
-**Listen Money Matters**  takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+ **Listen Money Matters**  takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
