@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701073007id_/https%3A//www.whitman.edu/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425025208id_/https%3A//www.whitman.edu/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Whitman College
 
@@ -64,7 +64,7 @@ Whitman College protects the privacy of the educational records of our current a
 
 This privacy policy will be linked from the home page of Whitman College's main website at [www.whitman.edu](http://www.whitman.edu/).
 
-If you have questions about this policy or believes that your personal information has been released without consent, please send an email to [iso@whitman.edu](mailto:iso@whitman.edu).
+If you have questions about this policy or believe that your personal information has been released without consent, please send an email to [iso@whitman.edu](mailto:iso@whitman.edu).
 
 ## Related Policies
 
