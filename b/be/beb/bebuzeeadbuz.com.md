@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bebuzeeadbuz.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610184824id_/https%3A//www.bebuzee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebuzeeadbuz.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425092732id_/https%3A//www.bebuzeeadbuz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bebuzee - Connecting the World
+# Privacy Policy - Bebuzee Adbuz| Legal Terms & Use |
 
 ## Bebuzee Privacy Policy
 
-Bebuzee.com has created this Privacy Policy in order to demonstrate our firm commitment to the privacy of visitors to our site. The following discloses our information gathering and dissemination practices for Bebuzee.com, and any other website through which we conduct business. 
+[Bebuzee.com](https://www.bebuzee.com/) has created this Privacy Policy in order to demonstrate our firm commitment to the privacy of visitors to our site. The following discloses our information gathering and dissemination practices for Bebuzee.com, and any other website through which we conduct business. 
 
 ### Information We Collect and Our Use and Disclosure of Your Information.
 
@@ -49,10 +49,6 @@ This site gives users the following options for removing their information from 
 
 * * *
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, you can contact us. 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, you can [contact us](https://www.bebuzeeadbuz.com/contact-us). 
 
 We also use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
-
-| 
-
-* * *
