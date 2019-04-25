@@ -1,0 +1,1815 @@
+<!--The following is the downloaded HTML source of the adiglobaldistribution.us privacy policy that was archived on 2019-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190425153925id_/https%3A//www.adiglobaldistribution.us/PrivacyPolicyPage) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="" lang="en" data-iscustomerrorenabled="True"><!--<![endif]--><head>
+
+    
+
+
+        <title>ADI | Privacy Statement</title>
+        <meta name="keywords" content="ADI, privacy, policy, statement">
+        <meta name="description" content="ADI Privacy Policy">
+            <link rel="canonical" href="https://www.adiglobaldistribution.us/privacypolicypage">
+
+    
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="icon" href="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/favicon.ico" type="image/x-icon">
+    <link href="https://cdn.adiglobaldistribution.us/ADINA/bundles/css/global.min.css?v=0157f210-eb5f-4a43-814a-cc46db98a81c" rel="stylesheet">
+
+
+    <link href="https://cdn.adiglobaldistribution.us/ADINA/bundles/css/base.min.css?v=d4c7944c-d9e5-4b06-8cd2-6e12dd49c899" rel="stylesheet">
+    
+
+     
+    
+    <style></style>
+
+    
+
+    <style>
+        [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+            display: none !important;
+        }
+    </style>
+
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+            dataLayer = [{
+                'Authentication State': 'Not Logged In',
+                'User ID': '',
+                'Customer Number': ''
+            }];
+        </script>
+            <!-- Google Analytics -->
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })
+            (window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-12340078-239', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <!-- End Google Analytics -->
+
+
+</head>
+<body ng-app="insite" ng-strict-di="">
+    <div ng-hide="ng-hide">
+        <input type="hidden" id="cdnURL" value="https://cdn.adiglobaldistribution.us/">
+            <span id="tst-page-ContentPage"></span>
+                <div style="display: none;" class="cms-shell-controls">
+            <button data-bind="click: $root.ToggleShell"><span class="cms-control-decoration"></span></button><span class="cms-control-label"></span>
+        </div>
+        <div id="narrowNav"></div>
+
+        <div id="nwrap" class="wrapper">
+            <div class="off-canvas panelwrap" role="panel-wrap" ng-controller="SettingsController as settingsController">
+                
+                
+                <div class="overlay"></div>
+                    <header class="global-header" style="z-index:999999;">
+                        <div class="container-fluid">
+                            <div class="row">
+                            </div>
+                            <style></style>
+
+
+
+<script type="text/javascript">
+    var insite = insite || {};
+    insite.navAdjustments = [];
+</script>
+
+
+
+
+<div ng-controller="TopNavController as vm" class="top-nav-container">
+    <isc-updated-quotes-message dashboard-url="/MyAccount"></isc-updated-quotes-message>
+    <div class="top-content">
+        
+
+
+    <div class="widget-richcontent "><div style="width:100%; text-align:right; padding-right:20px"><a href="/sweepstakes"><img alt="Download the New ADI APP" src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/sweepstakes/022119-March-Sweepstakes-WBox-TV-logos-home5.png" style="width: 360px; height: 20px;"></a></div></div>
+
+
+
+    </div>
+
+    <div role="top-panel">
+        <div class="top-slide">
+            
+
+            <div id="searchPanel">
+                <isc-product-search id="narrowSearch" listen-for-data="true"></isc-product-search>
+            </div>
+            <div id="userPanel">
+                <form>
+                    <div class="row collapse" ng-show="::vm.session.isAuthenticated">
+                        <div class="small-12 columns right">
+                            <div class="inf-cust">
+                                <span class="inf-label">Customer #:</span>
+                                <span class="inf-value" ng-bind="::vm.session.billTo.customerNumber"></span>
+                            </div>
+                            <div class="inf-ship">
+                                <span class="inf-label">Ship To:</span>
+                                <span class="inf-value">
+                                    <span ng-bind="::vm.session.shipTo.companyName"></span>
+                                    <span ng-cloak="" ng-if="::(vm.session.shipTo.lastName || vm.session.shipTo.firstName)">
+                                        {{::vm.session.shipTo.lastName}} {{::vm.session.shipTo.firstName}},
+                                    </span>
+                                    <span ng-bind="::vm.session.shipTo.fullAddress"></span>
+                                </span>
+                            </div>
+                            <a ng-if="::vm.session.displayChangeCustomerLink" href="/MyAccount/ChangeCustomer" class="btn primary btn-change-custship">
+                                Change
+                            </a>
+                        </div>
+
+                        <div class="small-12 medium-12 large-12 columns int-settings" ng-show="vm.languages.length > 1 || vm.currencies.length > 1">
+                            <button class="btn tertiary isettings">
+                                <span class="flag-ind" ng-if="::vm.session.language">
+                                    <img ng-cloak="" ng-src="{{::vm.session.language.imageFilePath}}" alt="{{::vm.session.language.description}}">
+                                </span>
+                                <span class="currency-symbol" ng-if="::vm.session.currency" ng-bind="::vm.session.currency.currencySymbol"></span>
+                                International Settings
+                            </button>
+                        </div>
+
+                        <div class="small-12 columns user-info" ng-if="::vm.session.isAuthenticated">
+                            <div class="user-button">
+                                <i class="social foundicon-torso"></i>
+                                <span class="cust-name" ng-bind="::vm.session.userLabel"></span>
+                                <span class="user-role" ng-if="::vm.session.userRoles" ng-bind="::('(' + vm.session.userRoles + ')')"></span>
+                            </div>
+                                                        <a href="javascript:void(0)" class="btn secondary sign-out fastClick" ng-click="vm.signOut('/')">
+                                <span>Sign Out</span>
+                            </a>
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div id="isettingsPanel">
+                <form>
+                    <div class="row collapse">
+                        <div class="small-12 medium-6 large-6 columns isettings-multilang" ng-if="vm.languages.length > 1">
+                            <label>
+                                <span>Language</span>
+                                <img ng-cloak="" ng-if="::vm.session.language" ng-src="{{::vm.session.language.imageFilePath}}" alt="{{::vm.session.language.description}}">
+                            </label>
+                            <select id="currentLanguage" ng-model="vm.session.language" ng-options="language.description for language in vm.languages" ng-change="vm.setLanguage()"></select>
+                        </div>
+                        <div class="small-12 medium-6 large-6 columns isettings-currency" ng-if="vm.currencies.length > 1">
+                            <label>
+                                <span class="currency-symbol" ng-if="::vm.session.currency" ng-bind="::vm.session.currency.currencySymbol"></span>
+                            </label>
+                            <select id="currentCurrency" ng-model="vm.session.currency" ng-options="currency.description for currency in vm.currencies" ng-change="vm.setCurrency(null)"></select>
+                        </div>
+                        <div class="ui-lock small-12 columns right isettings-buttons">
+                            <button class="user-button btn secondary isettings-cancel">Cancel</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<header id="header" role="masthead" class="use-fastclick sign-in cms-rearrangeable" ng-controller="HeaderController as vm">
+    <div class="head-row">
+        <div class="row small-collapse">
+            
+            <div class="clearfix"></div>
+            <div class="small-4 medium-3 large-3 columns logo lft">
+                
+
+
+    <div class="widget-richcontent "><div class="logo-container"><a href="/"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/logo.png"></a></div>
+</div>
+
+
+
+            </div>
+            <div class="large-5 medium-4 columns hide-for-small-down">
+                
+
+                
+                <isc-product-search id="wideSearch"></isc-product-search>
+            </div>
+            
+
+            
+
+            
+            
+            <div class="large-4 medium-5 columns rt header-right-menu hide-for-small-down">
+                <div class="row">
+                    
+
+
+    <div class="widget-richcontent top-ribbon right hide-for-small-down"><ul class="list-inline list-unstyled">
+	<li><a href="/dealerlocator"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-location.png">Branch Locations</a></li>
+	<li><a href="/EventLandingPage">Events</a></li>
+	<li><a href="/SystemSupport">Support</a></li>
+	<li><span style="font-size:10px;">1.877.228.6739</span></li>
+</ul>
+</div>
+
+
+
+                    
+
+
+
+
+<div class="top-ribbon right hide-for-small-down userAdminDiv">
+    <h3></h3>
+    <ul class="list-inline list-unstyled">
+
+        
+    </ul>
+</div>
+
+
+
+                </div>
+
+                <div class="row hide-for-small-down">
+                    <div class="prelogin-menu" ng-class="{'welcome-message': vm.session.isAuthenticated}">
+                        <ul class="prelogin-data">
+                            <li role="sign-in" ng-cloak="" ng-show="::(vm.session &amp;&amp; !vm.session.isAuthenticated)">
+
+
+                                <a href="/MyAccount/SignIn?returnUrl=%2fprivacypolicypage" class="tiny-lnk">
+                                    <img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-user.png">Sign In
+                                </a>
+                            </li>
+                            <li role="sign-up" ng-cloak="" ng-show="::(vm.session &amp;&amp; !vm.session.isAuthenticated)">
+                                <a href="/MyAccount" class=""><span>Sign Up</span></a>
+                            </li>
+                            <li role="sign-in" ng-cloak="" ng-show="::(vm.session &amp;&amp; !vm.session.isAuthenticated)">
+                                <a href="/Account/BecomeAcustomer" class="last-list"><span>Become A Customer</span></a>
+                            </li>
+                        </ul>
+                        <ul class="postlogin-data" ng-show="::vm.session.isAuthenticated">
+                            <li role="user-options" class="user-info-parent" id="open-myaccount-dsktp">
+                                <span class="cust-name"> Welcome &nbsp; <span ng-bind="::vm.session.userLabel  | limitTo: 12"></span> &nbsp; <span class="navIcon">+</span></span>
+                                <div class="user-details" id="user-details-box">
+                                    <p style="margin-bottom:0px;">
+                                        <span class="inf-value left" ng-bind="::vm.session.billTo.customerNumber"></span>
+                                        <span class="change-text">
+                                            <a ng-if="::vm.session.displayChangeCustomerLink" href="/MyAccount/ChangeCustomer">
+                                                Change
+                                            </a>
+                                        </span>
+
+                                    </p>
+                                    <p class="text-left">
+                                        <span class="inf-value left" ng-bind="::vm.session.billTo.companyName"></span><br>
+                                        <span ng-if="::vm.session.shipTo.address1" ng-bind="::vm.session.shipTo.address1"></span><br>
+                                        <span ng-if="::vm.session.shipTo.city" ng-bind="::vm.session.shipTo.city  + ', '"></span>
+                                        <span ng-if="::vm.session.shipTo.state" ng-bind="::vm.session.shipTo.state.name  + ' '"></span>
+                                        <span ng-if="::vm.session.shipTo.postalCode" ng-bind="::vm.session.shipTo.postalCode"></span>
+                                    </p>
+
+                                    <p class="signoutText">
+                                        <a href="javascript:void(0)" ng-click="vm.signOut('/')">
+                                            <span class="text-red">Sign Out</span>
+                                        </a>
+                                    </p>
+                                </div>
+                            </li>
+
+                            <li role="user-options" class="user-account-parent">
+                                <a style="padding-right:0px; border-right:none;" class="myaccount-menu" href="/MyAccount">
+                                    <img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-user.png">My Account
+                                </a>
+                                
+                                
+                            </li>
+                        </ul>
+
+
+
+                    </div>
+                </div>
+                <div class="ui-lock"></div>
+            </div>
+            <div class="small-8 right show-for-small-down">
+                <!--Mobile Pre Login -->
+                <div class="prelogin-menu right" ng-if="::(vm.session &amp;&amp; !vm.session.isAuthenticated)">
+                    <ul class="list-inline">
+                        <li>
+                            <a href="/dealerlocator"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-location.png"></a>
+                        </li>
+                        <li>
+                            <a href="tel:1.877.228.6739"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-call.png"></a>
+                        </li>
+                        <li>
+                            <a href="/MyAccount"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-user.png"></a>
+                        </li>
+                    </ul>
+                </div>
+                <!--Mobile Pre Login -->
+                <!--Mobile Post Login-->
+                <div class="mob-account-details" ng-if="::vm.session.isAuthenticated">
+                    <span>Welcome </span>
+                    <br> <span ng-bind="::vm.session.userLabel | limitTo:10"></span><a href="javascript:void(0)" style="text-decoration: none;"> &nbsp; <span id="open-myaccount" style="font-size:14px;"> + </span> </a>
+                </div>
+                <div class="mobileCartBox" ng-show="::vm.session.isAuthenticated">
+                    <div ng-show="vm.canUserSeeCart">
+                        <div class="mobile-cart right">
+                            
+                                <isc-micro-cart cart="vm.cart"></isc-micro-cart>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--My account Mobile Menu Up and down-->
+            <div class="clearfix"></div>
+            <div class="mobile-account-menu" id="mobile-myaccount">
+                <div class="show-for-small-down">
+                    <div class="mob-myaccount" id="account-menu-status">
+                        <a href="/MyAccount">
+                            <img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-user.png">
+                            <span style="font-size: 11px;"> My Account </span>
+                        </a>
+                        <a class="" id="dropdownMenuMobile">
+                            
+                        </a>
+                        <div class="myaccount-menu-mobile">
+
+                        </div>
+                    </div>
+                    <div class="account-details right" id="mobile-account-details">
+                        <p ng-bind="::vm.session.billTo.customerNumber"></p><br>
+                        <p ng-bind="::vm.session.shipTo.fullAddress"></p> <br>
+                        <div class="triangle">
+                            <div></div>
+                        </div>
+                        <p>
+                            <span class="change-text">
+                                <a href="/MyAccount/ChangeCustomer">CHANGE</a>
+                            </span>
+                            <a href="#signout" class="right sign-out" ng-click="vm.signOut('/')">Sign Out </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--Mobile Post Login-->
+        </div>
+    </div>
+    <div class="isc-nav-bar mainmenu hide-for-small-down">
+        <nav class="isc-nav-wrap mega-menu cust-dsk-menu">
+            <!--<ul class="left clearfix hide-for-small-down">
+
+
+            </ul> -->
+            <ul class="clearfix hide-for-small-down">
+                <insite-header-menu-na></insite-header-menu-na>
+            </ul>
+            <div>
+                <div ng-show="::vm.session.isAuthenticated">
+                    <div ng-show="vm.canUserSeeCart">
+                        <div>
+                                <div class="cart-menu large-3 columns hide-for-small-down">
+                                    <isc-micro-cart cart="vm.cart"></isc-micro-cart>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <!--Mobile Mega Menu -->
+    <nav class="navbar-default-mobile" id="mobileMegaMenu">
+        <div class="mobile-mega-menu show-for-small-down">
+            <div class="row">
+                <div class="small-2 columns">
+                    <div class="mobileToggleMenu">
+                        <img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-menu.png" class="menu-icon" id="mobileMenuOpen" onclick="void(0)">
+                        <img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-close-main-menu.png" class="mnone menu-close-icon" id="mobileMenuClose" onclick="void(0)">
+                        <!--<label for="main-nav-check" title="Menu">&#9776;</label>
+                        <label for="main-nav-check" title="Close Menu">&#9776;</label>-->
+                    </div>
+                </div>
+                <!-- Mobile Search Menu -->
+
+                <div class="small-10 columns" id="mobile-search-box">
+                    <isc-product-search id="wideSearch"></isc-product-search>
+                </div>
+                <div class="small-10 columns signedInMobileUser" id="signedInMbUser">
+                    <ul class="mobile-static-menus right" ng-if="::(vm.session.isAuthenticated)">
+                        <!--Mobile Post Login Menu -->
+                        <li>
+                            <a href="/dealerlocator"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-location-white.png"></a>
+                        </li>
+                        <li>
+                            <a href="tel:tel:1.877.228.6739"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-call-white.png"></a>
+                        </li>
+                        <li>
+                            <a href="/MyAccount"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-user-white.png"></a>
+                        </li>
+                        <!--Mobile Post Login Menu -->
+                    </ul>
+                </div>
+                <div class="small-10 columns">
+                    <div class="narrowText">
+                        <h3>Narrow</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="show-for-small-down">
+            <!-- Mobile Mega Menu -->
+            <nav class="mnone" id="mobileNavBar">
+                <ul>
+                    <li class="" ng-show="::(vm.session &amp;&amp; !vm.session.isAuthenticated)">
+                        <a href="/MyAccount/SignIn?returnUrl=%2fprivacypolicypage" class="text-center" style="color:#cc2028; font-size: 13px !important; font-weight: bold;">SIGN IN</a>
+                    </li>
+                </ul>
+                <div id="mobileDropdownMenu">
+                    <insite-header-menu-na></insite-header-menu-na>
+                    <ul>
+                        <li>
+                            <a href="/MyAccount">My Account </a>
+                            <button type="button"></button>
+                            
+                            
+                        </li>
+                        <li><a href="/EventLandingPage">Events</a><button type="button"></button></li>
+                        <li><a href="/SystemSupport">Support</a><button type="button"></button></li>
+                        <li><a href="/AboutUs">About us </a><button type="button"></button></li>
+                        <li>
+                            <a href="/ContactUs">Contact us</a>
+                            <button type="button"><i class="fa fa-angle-right right show-for-small-down" aria-hidden="true"></i></button>
+                            <ul class="dyn-sub-menu">
+                                <li><a href="">Call</a><button type="button"><i class="fa fa-angle-right right show-for-small-down" aria-hidden="true"></i></button>
+                                </li><li><a href="">Email </a><button type="button"><i class="fa fa-angle-right right show-for-small-down" aria-hidden="true"></i></button></li>
+                                <li><a href="">Visit </a><button type="button"><i class="fa fa-angle-right right show-for-small-down" aria-hidden="true"></i></button></li>
+                            </ul>
+                        </li>
+                        <li style="border-bottom: none;" ng-show="::vm.session.isAuthenticated">
+                            <button class="text-center loginBtnMobile" ng-click="vm.signOut('/')">Sign Out</button>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+    <!--Mobile Mega Menu -->
+    <div class="ui-lock"></div>
+</header>
+<input type="hidden" id="hdBranchDetail" value="">
+<div class="ui-lock"></div>
+
+
+<div class="container-fluid">
+    <!--Extra Menu appeared hide-->
+
+    <div role="main">
+        <div class="ui-lock"></div>
+        
+
+                        </div>
+                    </div></div></header>
+                    <div class="back-drop"></div>
+                <div class="cms-rearrangeable">
+                    
+
+
+
+<div class="row collapse main-row">
+    <div class="medium-12 large-12 columns">
+        <div class="row collapse cm">
+            
+
+
+<div class="medium-12 large-12 columns widget-2column privacyPolicyMainDiv">
+    <div class="row">
+        <div class="medium-4 large-4 columns">
+            
+
+
+
+<div class="privacyStatementLeftText">Privacy Statement</div>
+<div class="head-summary">
+    
+</div><left-nav-landing></left-nav-landing>
+
+
+        </div>
+        <div class="medium-8 large-8 columns">
+            
+
+
+
+
+
+<ul class="widget-breadcrumb breadcrumbs aboutUsBreadcrumb">
+
+
+        <li class="">
+            <a href="/">
+                Home
+            </a>
+        </li>
+    <li class="hide-for-small current">
+Privacy Statement    </li>
+</ul>
+
+
+<div class="privacyStatementContainerText">Privacy Statement</div>
+<div class="head-summary">
+    
+</div>    <div class="widget-richcontent "><h3 align="left" class="ms-WPBody">Introduction</h3>
+
+<p align="left" class="ms-WPBody">ADI is committed to protecting your privacy. This statement details the steps we take to protect your personal information when you visit our websites. It describes the personal information that we collect, the purposes for which we use such information, and your choices regarding our use of it. The steps we take to protect your personal information and how you can review and correct your personal information are also covered here. By accessing our websites, you are consenting to the information collection and use practices described in this privacy statement.</p>
+
+<h3 align="left" class="ms-WPBody">Our collection of information</h3>
+
+<p align="left" class="ms-WPBody">Information collected directly from you. Generally, you can visit ADI's websites without entering any personal information. On certain pages, we may ask you for personal information to provide a service or carry out a transaction that you have requested. The personal information we collect may include:</p>
+
+<div align="left" class="ms-WPBody" webpartid="8ae11355-5952-4981-a153-e5ed5c546793">
+<ul>
+	<li>contact details, such as your name, title, company/organization name, e-mail address, telephone and fax numbers, and physical address;</li>
+	<li>information about your company, and job function;</li>
+	<li>your e-mail marketing preferences;</li>
+	<li>financial information (including credit card or account information);</li>
+	<li>information such as your nationality and country of residence that allows us to determine your eligibility under export control regulations to receive information about certain technologies;</li>
+	<li>information used to customize and facilitate your use of our websites, including login and technical information;</li>
+	<li>inquiries about and orders for our products and services;</li>
+	<li>information that assists us in identifying the products and services that best meet your requirements;</li>
+	<li>event registration information; and</li>
+	<li>feedback from you about our websites and our products and services generally.</li>
+</ul>
+</div>
+
+<p align="left">You are not required to provide any of this information, but if you do not, we may not be able to provide you the requested service or complete your transaction.</p>
+
+<p align="left">Information collected automatically We collect information about your visit to our sites, including what pages you view, the number of bytes transferred, the links you click, the materials you access, and other actions taken within ADI's sites. On sites that you enter with a user ID, we may connect this information with your identity to determine your potential interests in our products and services. We also collect certain standard information that your browser sends to every website you visit, such as your Internet Protocol (IP) address, your browser type and capabilities and language, your operating system, the date and time you access the site, and the website from which you linked to our site. We do not link this information to your identity.</p>
+
+<h3 align="left">Our use of information</h3>
+
+<p align="left">Services and transactions. We use your personal information to deliver services or carry out transactions you have requested, such as providing information on ADI products, registering purchased products, processing product orders, handling warranty claims, replacing product manuals, answering customer service requests, facilitating use of our websites, and so forth. In order to offer you a more consistent experience in your interactions with ADI, information collected by our websites may be combined with information we collect by other means.</p>
+
+<p align="left">Website improvement. We may use your personal information to improve our websites and related ADI products or services, or to make our websites easier to use by eliminating the need for you to repeatedly enter the same information or by customizing our websites to your particular preference or interests.</p>
+
+<p align="left">Communications. With your permission, we may use your personal information gathered via our websites to inform you of products or services available from ADI. When collecting information that might be used to contact you about our products and services, we will always give you the opportunity to opt-out of receiving such communications. Moreover, each e-mail communication we send includes an unsubscribe link allowing you to stop delivery of that type of communication. If you elect to unsubscribe, we will remove you from the relevant list within 10 business days.</p>
+
+<p align="left">Employment Applications. In connection with a job application or inquiry, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout ADI and its controlled subsidiaries and affiliates for the purpose of employment consideration. We will keep the information for future consideration unless you direct us not to do so.</p>
+
+<h3 align="left">Our use of cookies and web beacons</h3>
+
+<p align="left">Cookies are small files that websites save to your hard disk or to your browser's memory. We may use them to track the number of times you have visited the site, to track the number of visitors to the site, to determine and analyze visitors' use of our sites (including the effectiveness of online advertising), to store information that you provide such as your preferences, and to store technical information useful for your interactions with our websites. We may use session cookies (cookies that are deleted when your browser session ends) to store your user ID, elements of your user profile, to facilitate your movement around our websites (particularly in connection with information searches and order placement) and other information useful in administering the session. You have the ability to accept or decline cookies. Most Internet browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. If you choose to decline cookies, you may not be able to fully experience the features of ADI's websites or other websites that you visit. Our sites also may contain electronic images known as web beacons - sometimes called single-pixel gifs - that allow us to count the number of users who have visited those pages. We may include web beacons in promotional e-mail messages or Newsletters in order to determine whether messages have been opened and acted upon.</p>
+
+<h3 align="left">Disclosure of your personal information</h3>
+
+<p align="left">Except as described below, personal information you provide to ADI through our websites will not be shared outside of ADI and its controlled subsidiaries and affiliates without your permission.</p>
+
+<p align="left">Disclosure to service providers. ADI contracts with other companies to provide services on our behalf, such as hosting websites, sending out information, processing transactions, and analyzing our websites. We provide these companies with only those elements of your personal information they need to deliver those services. These companies and their employees are prohibited from using that personal information for any other purpose.</p>
+
+<p align="left">Disclosure to distributors. In responding to a request made by you, we may share your personal information with companies that distribute our products. In those cases, we provide these companies with only those elements of your personal information they need to respond to your request, and these companies and their employees are prohibited from using that personal information for any other purpose. In some cases, we may seek your permission to share your information with distributors for marketing purposes other than responding to a request from you. However, we will not share your information for such marketing purposes unless we have obtained your express consent to do so.</p>
+
+<p align="left">Disclosure in connection with transactions. In connection with certain transactions, we may disclose some or all of your personal information to financial institutions, government entities, and shipping companies or postal services involved in fulfillment.</p>
+
+<p align="left">Disclosures in connection with acquisitions or divestitures. Circumstances may arise where for strategic or other business reasons ADI decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is ADI's practice to seek appropriate protection for information in these types of transactions.</p>
+
+<p align="left">Disclosure for other reasons. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to comply with legal requirements or with legal process served on us, to protect and defend our rights or property, or in urgent circumstances to protect the personal safety of any individual.</p>
+
+<h3 align="left">Security</h3>
+
+<p align="left">ADI is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in facilities to which access is limited. For sites to which you login, it is your responsibility to ensure the security of your password and not to reveal this information to others. When you move around a site to which you have logged in, or from one site to another that uses the same login mechanism, we verify your identity by means of an encrypted cookie placed on your machine.</p>
+
+<h3 align="left">Reviewing your personal information</h3>
+
+<p align="left">In some cases, you can review and correct personal information provided through our websites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our websites or ask ADI to stop using it by completing our Contact Us form. We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number, or e-mail address.</p>
+
+<h3 align="left">Consent to international transfers of personal information</h3>
+
+<p align="left">The personal information we collect on our websites may be sent to the United States or to any other country in which ADI or its affiliates, subsidiaries or agents maintain facilities. We may also store and process the information there. Although the laws that protect personal information in those countries may differ from the laws where you live, we will take reasonable steps to ensure that your privacy is protected. By using our websites and giving your information to us, you consent to the transfer of the data outside of your country.</p>
+
+<h3 align="left">Children's information</h3>
+
+<p align="left">ADI does not knowingly collect information from children and does not target or direct its websites to children.</p>
+
+<h3 align="left">Links to other sites</h3>
+
+<p align="left">Our websites may contain links to other sites such as ADI distributors and sales affiliates, professional and government organizations, and publications. We also link to third-party providers that host, maintain and operate on-line training curricula. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites.</p>
+
+<h3 align="left">Enforcement of this privacy statement</h3>
+
+<p align="left">If you have questions regarding this statement or our handling of your personal information, please Contact Us. We will promptly address your concern and strive to reach a satisfactory resolution.</p>
+
+<h3 align="left">Changes to this privacy statement</h3>
+
+<p align="left">ADI may occasionally update this privacy statement. When we do, we will revise the "last updated" date at the top and bottom of the privacy statement. We will obtain your opt-in consent for any updates to this privacy statement that materially expand the sharing or use of your personal information in ways not disclosed in this privacy statement at the time of collection.</p>
+
+<p align="left">Last Updated October 2018</p>
+</div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+        </div>
+    </div>
+</div>
+                </div>
+            </div>
+
+<style></style>
+
+
+<div class="clearfix"></div>
+<footer class="footer container-fluid" id="footer" ng-controller="TopNavController as vm">
+    <div class="overlayFooter"></div>
+
+    <div class="row footerPadding hide-for-small-down">
+        <div class="borderLine"> </div>
+
+        <div class="large-12 columns no-gutter">
+            
+
+
+<div class="medium-12 large-12 columns widget-3column hide-for-small-down">
+    <div class="row">
+        <div class="medium-3 large-3 columns">
+            
+
+
+<div class="medium-12 large-12 columns widget-1column border-right no-gutter">
+    <div class="row">
+        <div class="medium-12 large-12 columns">
+            
+
+
+
+<div class="footerTitleText noSpaceText">Customer Service</div>
+<div class="head-summary">
+    <div class="footerServiceList">
+<div class="footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="/SystemSupport"><span class="footersubTitleText" title="Support Services">Support Services</span></a></div>
+
+<div class="footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="/ContactUs"><span class="footersubTitleText" title="Contact Us">Contact Us</span></a></div>
+
+<div class="footersubTitleDiv" ng-show="::(vm.session &amp;&amp; !vm.session.isAuthenticated)"><span class="greaterSign">&gt; </span> <a href="/Account/BecomeACustomer"><span class="footersubTitleText" title="Become a Customer">Become a Customer</span></a></div>
+
+<div class="footersubTitleDiv" ng-show="::(vm.session &amp;&amp; !vm.session.isAuthenticated)"><span class="greaterSign">&gt; </span> <a href="/MyAccount/SignIn"><span class="footersubTitleText" title="Sign Up for an Online Account">Sign Up for an Online Account</span></a></div>
+</div>
+
+</div>
+<div class="footerTitleText padding-top35">Support</div>
+<div class="head-summary">
+    <div class="footersubTitleDiv supportNumber"><span style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana, Geneva, sans-serif; font-size: 9.91px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Sales/Service:</span><strong style="margin: 0px 0px 5px; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana, Geneva, sans-serif; font-size: 13.87px; font-style: normal; word-spacing: 0px; display: block; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">1.800.233.6261</strong><span style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana, Geneva, sans-serif; font-size: 9.91px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Website:</span><strong style="margin: 0px 0px 5px; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana, Geneva, sans-serif; font-size: 13.87px; font-style: normal; word-spacing: 0px; display: block; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">1.877.228.6739</strong><span style="color: rgb(102, 102, 102); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana, Geneva, sans-serif; font-size: 9.91px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Product/Systems:</span><strong style="margin: 0px 0px 5px; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana, Geneva, sans-serif; font-size: 13.87px; font-style: normal; word-spacing: 0px; display: block; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">1.800.234.7971</strong></div>
+
+</div>
+<div class="padding-top50"></div>
+<div class="head-summary">
+    
+</div>
+
+
+        </div>
+    </div>
+</div>
+
+
+        </div>
+        <div class="medium-6 large-6 columns">
+            
+
+
+<div class="medium-12 large-12 columns widget-1column border-right no-gutter">
+    <div class="row">
+        <div class="medium-12 large-12 columns">
+            
+
+
+
+<div class="footerTitleText">Shop Products</div>
+<div class="head-summary">
+    
+</div><insite-sitemap-category></insite-sitemap-category>
+<script type="text/ng-template" id="/Directives/CategoryList/CategoryList">
+    <div class="category list-vertical">
+    <div>
+        <ul class="subcategory list-inline list-unstyled" ng-repeat="category in vm.categories" ng-if="(category.name | uppercase) == ('bycat'| uppercase)">
+            <li ng-repeat="subcategory in category.subCategories | orderBy:'shortDescription'">
+                <a class="cms-linklist-linkitem" ng-href="{{subcategory.path}}" title="{{subcategory.shortDescription}}">{{subcategory.shortDescription}}</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+</script>
+
+<div class="footerTitleText padding-top35 wayToShop">More Ways to Shop</div>
+<div class="head-summary">
+    <div class="class=" head-summary="">
+<div class="row">
+<div class="large-4 medium-4 columns footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="/Catalog/shop-brands"> <span class="footersubTitleText" title="Shop Brands">Shop Brands</span> </a></div>
+
+<div class="large-4 medium-4 columns footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="/Catalog/savings/save-now"><span class="footersubTitleText" title="Shop Savings">Shop Savings</span></a></div>
+
+<div class="large-4 medium-4 columns footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="https://mkto.adiglobal.com/2019-GDPR-Website-Implementation-NA_Sign-Up-page.html" target="_blank"><span class="footersubTitleText" title="Subscribe">Subscribe</span> </a>
+
+<ul class="subscribe-footer" style="font-size: 11px;margin-top: 10px;height: auto;">
+	<li style="margin: 5px 0 8px;padding-left: 15px;"><a href="https://mkto.adiglobal.com/2019-GDPR-Website-Implementation-NA_Custom-Unsubscribe-Page.html" target="_blank" title="Unsubscribe">Unsubscribe</a></li>
+	<li style="margin: 5px 0 8px;padding-left: 15px;"><a href="https://mkto.adiglobal.com/ADI-NA-Global-Unsubscribe.html " target="_blank" title="Global Unsubscribe">Global Unsubscribe</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>    <div class="widget-richcontent "><style type="text/css">.footerContainer {padding-top:66px}
+.footerWrapper{ display:block; overflow:visible; float:left}
+.padding-top50 {padding-top:50px}
+
+.footerWrapper ul { margin: 0 .8em; padding: 0; list-style-type: none; width:210px!important; height: 60px; }
+.footerWrapper ul li { display: inline; padding:0 1px 0 }
+.footerWrapper div {font-family:Arial; margin: 0 0 5px; font-weight: 400; font-style:normal; font-size: 18px; }
+
+.appWrap {width:60%}
+.socialWrap {width:40%}
+
+@media only screen and (max-width: 940px) {
+    /* For mobile phones: */
+.appWrap {width:95%}
+.socialWrap {width:95%}
+.footerContainer {padding-top:40px}
+
+}
+</style>
+<div class="footerContainer">
+<div class="footerWrapper appWrap">
+<div>Download the ADI APP</div>
+
+<ul class="footerSocial">
+	<li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=893589767&amp;mt=8" target="_blank"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/footer/btn-itunes.png"></a></li>
+	<li><a href="https://play.google.com/store/apps/details?id=com.honeywell.adi_us" target="_blank"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/footer/btn-android.png"></a></li>
+</ul>
+</div>
+
+<div class="footerWrapper socialWrap">
+<div>Connect with Us</div>
+
+<ul class="footerSocial">
+	<li><a href="https://www.linkedin.com/company/adi-global-distribution/" target="_blank"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/footer/Social1.gif"></a></li>
+	<li><a href="http://www.facebook.com/adiglobal" target="_blank"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/footer/Social2.gif"></a></li>
+	<li><a href="http://blog.adiglobal.us" target="_blank"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/footer/Social4.gif"></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+        </div>
+        <div class="medium-3 large-3 columns">
+            
+
+
+<div class="medium-12 large-12 columns widget-1column thirdColumnData">
+    <div class="row">
+        <div class="medium-12 large-12 columns">
+            
+
+
+
+<div class="footerTitleText">About Us</div>
+<div class="head-summary">
+    <div class="footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="/dealerlocator"><span class="footersubTitleText" title="Branch Locations">Branch Locations</span></a></div>
+
+<div class="footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="/AboutUs"><span class="footersubTitleText" title="Company Information">Company Information</span></a></div>
+
+<div class="footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="/EventLandingPage"><span class="footersubTitleText" title="Events">Events</span></a></div>
+
+<div class="footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="/TrainingEvents"><span class="footersubTitleText" title="Trainings">Trainings</span></a></div>
+
+<div class="footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="/productcatalog"><span class="footersubTitleText" title="Product Catalog">Product Catalogs</span></a></div>
+
+<div class="footersubTitleDiv"><span class="greaterSign">&gt; </span> <a href="https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience" target="_blank"><span class="footersubTitleText" title="Product Catalog">Careers</span></a></div>
+
+</div>
+<div class="footerTitleText padding-top35">Websites</div>
+<div class="head-summary">
+    <div class="padding-left38 footersubTitleDiv">
+<div class="icon icon-play" data-icon="5">&nbsp;</div>
+<!-- <span class="glyphicon glyphicon-play" aria-hidden="true"></span>--><!--<span class=" globalText">Canada</span>--><a alt="Global" href="http://en.adiglobaldistribution.ca/" target="_blank" title="Global"><span class="globalText">Canada</span></a></div>
+
+<div class="padding-left38 footersubTitleDiv">
+<div class="icon icon-play" data-icon="5">&nbsp;</div>
+<!-- <span class="glyphicon glyphicon-play" aria-hidden="true"></span>--><!--<span class=" globalText">Puerto Rico</span>--><a alt="Global" href="http://adiglobaldistribution.pr/" target="_blank" title="Global"><span class="globalText">Puerto Rico</span></a></div>
+
+<div class="padding-left38 footersubTitleDiv">
+<div class="icon icon-play" data-icon="5">&nbsp;</div>
+<!-- <span class="glyphicon glyphicon-play" aria-hidden="true"></span>--><!--<span class=" globalText">Canada</span>--></div>
+
+<div class="padding-left38 footersubTitleDiv"><!-- <span class="glyphicon glyphicon-play" aria-hidden="true"></span>--><!--<span class=" globalText">Global</span>--><a alt="Global" href="http://adiglobal.com/" target="_blank" title="Global"><span class="globalText">Global</span></a></div>
+
+</div>
+
+
+        </div>
+    </div>
+</div>
+
+
+        </div>
+    </div>
+</div>    <div class="widget-richcontent col-lg-12 col-md-12 col-sm-12 col-xs-12 no-gutter copyrightText hide-for-small-down">© ADIGlobal.com - All Rights Reserved <a alt="Terms &amp; Conditions" class="padding-left15" href="/TermsAndConditionsPage" title="Terms &amp; Conditions">Terms &amp; Conditions</a> <a alt="Privacy Statement" class="padding-left15" href="/PrivacyPolicyPage" title="Privacy Statement">Privacy Statement</a></div>
+<div class="medium-12 large-12 columns widget-1column show-for-small-down mobile-footer">
+    <div class="row">
+        <div class="medium-12 large-12 columns">
+            
+
+
+
+<div class="show-for-small-down"></div>
+<div class="head-summary">
+    <div class="borderLine"> </div>
+        <div class="row">
+            <h2 class="text-center">How can we help you?</h2>
+            <div class="small-6 columns">
+                <p class="text-right">1-800-102-1234</p>
+                <a href="/MyAccount/SignIn" ng-show="::(vm.session &amp;&amp; !vm.session.isAuthenticated)"><p class="text-right">Sign In or Sign Up</p></a>
+            </div>
+            <div class="small-6 columns">
+                <a href="/ContactUs"><p class="text-left">Contact Us</p></a>
+                <a href="/MyAccount" ng-show="::(vm.session &amp;&amp; !vm.session.isAuthenticated)"><p class="text-left">Become a Customer</p></a>
+            </div>
+        </div>
+        <div class="footer-separtor"></div>
+</div>
+<div class="show-for-small-down"></div>
+<div class="head-summary">
+    <div class="row">
+            <div class="small-6 columns">
+                <a href="javascript:void();"><p class="text-right">Terms &amp; Conditions</p></a>
+            </div>
+            <div class="small-6 columns">
+                    <a href="javascript:void();"><p class="text-left">Privacy Statement</p></a>
+                    <a href="javascript:void();"><p class="text-left">Cookies</p></a>
+            </div>
+        </div>
+        <a href="javascript:void();"><p class="text-center">© ADIGlobal.com</p></a>
+        <p class="text-center"> All Rights Reserved</p>
+        <div class="ui-lock use-fastclick"></div>
+</div>
+
+
+        </div>
+    </div>
+</div>
+
+
+        </div>
+
+    </div>
+
+    <!--Footer Mobile View-->
+    <div class="show-for-small-down mobile-footer">
+        <div class="borderLine"> </div>
+        <div class="row">
+            <h2 class="text-center">How can we help?</h2>
+            <div class="small-6 columns">
+                <p class="text-right">1.877.228.6739</p>
+                <a href="/MyAccount/SignIn" ng-if="::(vm.session &amp;&amp; !vm.session.isAuthenticated)"><p class="text-right">Sign In or Sign Up</p></a>
+            </div>
+            <div class="small-6 columns">
+                <a href="/ContactUs"><p class="text-left">Contact Us</p></a>
+                <a href="/Account/BecomeAcustomer" ng-if="::(vm.session &amp;&amp; !vm.session.isAuthenticated)"><p class="text-left">Become a Customer</p></a>
+
+            </div>
+        </div>
+        <div class="footer-separtor"></div>
+        <div class="row">
+            <div class="small-6 columns">
+                <a href="/TermsAndConditionsPage" target="_blank"><p class="text-right">Terms &amp; Conditions</p></a>
+            </div>
+            <div class="small-6 columns">
+                <a href="/PrivacyPolicyPage" target="_blank"><p class="text-left">Privacy Statement</p></a>
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-6 columns">
+                <a href="/Cookies" target="_blank"><p class="text-right">Cookies</p></a>
+            </div>
+                <div class="small-6 columns">
+                    <a href="https://mkto.adiglobal.com/2019-GDPR-Website-Implementation-NA_Sign-Up-page.html" target="_blank"><p class="text-left">Subscribe</p></a>
+                </div>
+                        
+
+        </div>
+        <div class="row" style="padding-bottom:10px">
+        </div>
+            <div class="row">
+                <div class="small-6 columns">
+                    <a href="https://mkto.adiglobal.com/2019-GDPR-Website-Implementation-NA_Custom-Unsubscribe-Page.html" target="_blank"><p class="text-right">Unsubscribe</p></a>
+                </div>
+                <div class="small-6 columns">
+                    <a href="https://mkto.adiglobal.com/ADI-NA-Global-Unsubscribe.html" target="_blank"><p class="text-left">Global Unsubscribe</p></a>
+                </div>
+            </div>
+                        
+        <div class="text-center">
+            <span class="text-center sitemapTxt">© ADIGlobal.com</span>
+            <span class="text-center sitemapTxt">&nbsp; All Rights Reserved</span>
+        </div>
+        <div class="ui-lock use-fastclick"></div>
+    </div>
+    <!--Footer Mobile View-->
+</footer>
+            <isc-add-wishlist-popup popup-id="popup-add-wishlist"></isc-add-wishlist-popup>
+            <isc-spinner name="mainLayout"></isc-spinner>
+
+            
+
+            <div data-dropdown="dummy" style="display:none"></div> 
+        </div>
+
+        <script src="https://cdn.adiglobaldistribution.us/bundles/js/libraries.min.js?v=c30a49c0-28e5-4887-bc2f-cd069a4e1729"></script>
+
+        <script>
+            var lodash = _.noConflict();
+        </script>
+
+
+
+
+            <script src="https://cdn.adiglobaldistribution.us/Scripts/Libraries/angular-i18n/angular-locale_en-us.js"></script>
+            <script src="https://cdn.adiglobaldistribution.us/Scripts/Libraries/pickadate/3.5.0-custom/translations/en_US.js"></script>
+
+
+        <script src="https://cdn.adiglobaldistribution.us/bundles/js/global.min.js?v=ec9cbd97-81df-46cc-8466-6d7975356e58"></script>
+
+        <script type="text/javascript">
+            var insite = insite || {};
+
+            insite.core.generalErrorText = "An error has occurred. We apologize for the inconvenience.";
+            insite.core.dateTimeFormat = "M/d/yyyy";
+            var insiteMicrositeUriPrefix = "";
+            var insiteBasicAuthHeader = "isc:009AC476-B28E-4E33-8BAE-B5F103A142BC";
+            var insiteScope = "iscapi";
+                        insite.core.checkForIFrame();
+
+            $(window).load(function () {
+                insite.core.setup();
+                insite.responsive.setup();
+                insite.nav.setup();
+            });
+        </script>
+
+        
+        
+
+
+        <script>
+    insite.personalization.breadcrumbs = [];
+        
+        insite.personalization.breadcrumbs.push('Home');
+        
+</script><script></script><script></script>
+        
+
+        <script></script>
+        
+<script>
+    jQuery(function () {
+        insite.adminBridge.setup();
+        var shellModel = { CurrentContentItem: null };
+            
+            shellModel = {"CurrentContentItem":{"Title":"Privacy Policy Page","ContentKey":354,"ContentItemId":"201bf98b-718e-4fb5-9013-a9dc0142ea31","AllowPublish":true,"CanEdit":true,"States":[{"LanguageId":null,"Language":"","HasPersonaSpecificContent":false,"PersonaId":null,"Persona":"","HasDeviceSpecificContent":false,"DeviceType":null,"PublishOn":"1/21/2019 7:35:46 PM +00:00","FuturePublishOn":null,"IsUnpublished":false,"IsWaitingForApproval":false,"IsLinked":false},{"LanguageId":"a26095ef-c714-e311-ba31-d43d7e4e88b2","Language":"US English","HasPersonaSpecificContent":true,"PersonaId":"d06988c0-9358-4dbb-aa3d-b7be5b6a7fd9","Persona":"Default","HasDeviceSpecificContent":true,"DeviceType":"Desktop","PublishOn":"1/21/2019 7:35:46 PM +00:00","FuturePublishOn":null,"IsUnpublished":false,"IsWaitingForApproval":false,"IsLinked":false}]}};
+            
+        insite.incontext.setup({
+            contentMode: "Viewing",
+            cmsShellLoadUrl: "/ContentAdmin/Shell?resetPersona=True/#frameUrl=/privacypolicypage",
+            cmsShellLoadUrlWithoutPersona: "/ContentAdmin/Shell/#frameUrl=/privacypolicypage",
+            shellModel: shellModel
+        });
+    });
+</script>
+
+
+
+        
+
+        <script type="text/ng-template" id="/Directives/WishList/AddWishListPopup">
+            
+
+
+<div>
+    <div id="popup-add-wishlist" class="reveal-modal popup-add-wishlist" data-reveal data-reveal-init>
+        <div class="modal-wrap" ng-if="isAuthenticated">
+            <h2>Add to List</h2>
+            <div class="pop-content">
+                <div id="error" class="error" ng-show="vm.errorMessage || vm.wishlistNameErrorMessage || vm.wishlistValidErrorMessage ||vm.wishlistExistErrorMessage">
+                    <span ng-show="vm.errorMessage" class="field-validation-error">{{vm.errorMessage}}</span>
+                    <span ng-show="vm.wishlistValidErrorMessage" class="field-validation-error">List Name cannot have the special characters.</span>
+                    <span ng-show="vm.wishlistNameErrorMessage" class="field-validation-error">Select a list or enter a new wishlist name.</span>
+                    <span ng-show="vm.wishlistExistErrorMessage" class="field-validation-error">This list already exists. Please enter a unique list name.</span>
+                </div>
+                <form class="addToListModal" ng-show="isAuthenticated && vm.wishListSettings.allowMultipleWishLists && !vm.successMessage" id="addToWishListForm">
+                    <div class="row select-list listModal">
+                        <div class="large-5 columns both-column">
+                            <span>Select List</span>
+                        </div>
+                        <div class="large-7 columns both-column">
+                            <select id="addWishListPopupWishListSelector" ng-model="vm.selectedWishList" ng-options="wishList.name for wishList in vm.wishListCollection track by wishList.id">
+                                <option value="">Create New List</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row select-list listModal">
+                        <div class="row thor both-column">Or</div>
+                    </div>
+                        <div class="row create-list">
+                            <div class="large-5 columns both-column">
+                                <span>Create a New List</span>
+                            </div>
+                            <div class="large-7 columns both-column">
+                                <input id="addWishListPopupWishListNameInput" type="text" ng-model="vm.newWishListName" ng-disabled="vm.selectedWishList" autofocus="autofocus" maxlength="12">
+
+                                <div class="row btns addToListBtn" style="width:48% !important">
+                                    <button id="addWishListPopupAddToWishListButton" ng-click="vm.addToWishList()" class="btn primary btn-add-wishlist" type="button">Add to List</button>
+                                </div>
+                            </div>
+                        </div>
+</form>
+                <div ng-show="vm.successMessage || !vm.wishListSettings.allowMultipleWishLists" class="row message">Product successfully added to your wishlist
+                
+                <div class="wishlist-footer-container">
+                    <a href="#" class="close-reveal-modal message" style="position:relative;" font-size="">Continue Shopping</a>
+                    <a href="/MyAccount/MyLists" class="go-to-list" style="text-align:right;"><span>Go To List</span></a>
+
+                </div>
+                </div>
+                <a id="addWishListPopupAuthenticatedCloseButton" class="close-reveal-modal">&#215;</a>
+            </div>
+        </div>
+        <div ng-if="!isAuthenticated" class="modal-wrap ">
+            <h4>Please Sign In</h4>
+            <p>You must <a href='/MyAccount/SignIn?returnUrl=/privacypolicypage'>sign in</a> to your account to manage your List</p>
+            <a id="addWishListPopupNotAuthenticatedCloseButton" class="close-reveal-modal">&#215;</a>
+        </div>
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/Core/Pager">
+            
+<div class="pager-wrapper">
+    
+    <div ng-if="vm.showPager()" class="uibar tertiary paginator-34" ng-class="{'pbtm' : vm.bottom, 'ptop' : !vm.bottom}">
+        <ul>
+            <li ng-if="!vm.bottom && vm.pagination.sortOptions != null" class="sort-list">
+                <div class="small-4 columns sorting-label">
+                    <label>Sort by:</label>
+                </div>
+                <div class="small-8 columns sorting-select">
+                    <select id="pagerSortTypeSelector"
+                            name="select"
+                            ng-model="vm.pagination.sortType"
+                            ng-options="option.sortType as option.displayName for option in vm.pagination.sortOptions"
+                            ng-change="vm.updateSortOrder()"></select>
+                </div>
+            </li>
+            <li ng-if="vm.showPerPage()" class="results-list">
+                <div class="small-6 columns per-page">
+                    <label>Per page:</label>
+                </div>
+                <div class="small-6 columns per-page-select">
+                    <select name="select" id="select" class=""
+                            ng-model="vm.pagination.pageSize"
+                            ng-options="pageSizeOption for pageSizeOption in vm.pagination.pageSizeOptions"
+                            ng-change="vm.updatePageSize()"></select>
+                </div>
+            </li>
+            <li class="pagination" ng-if="vm.showPagination()">
+                <div ng-if="vm.pagination.currentPage > 1" class="arrow page-prev">
+                    <a id="pagerPrevPageArrow" href="javascript:void(0)" ng-click="vm.prevPage()" class="next-prev p-prev"></a>
+                </div>
+                <div class="page-current">
+                    <input id="pagerCurrentPageInput" name="cpage" type="text" ng-model="vm.pagination.currentPage" isc-enter="vm.pageInput()" class="enter-page numerictextbox" /> of
+                    <span class="numPages">{{vm.pagination.numberOfPages}}</span>
+                </div>
+                <div ng-if="vm.pagination.currentPage < vm.pagination.numberOfPages" class="arrow unavailable page-next">
+                    <a id="pagerNextPageArrow" href="javascript:void(0)" ng-click="vm.nextPage()" class="next-prev p-next"></a>
+                </div>
+            </li>
+        </ul>
+
+        <div ng-if="!vm.bottom && vm.customContext" class="viewmode-selector">
+            <a id="gridView" class="vms-grid" ng-click="vm.customContext.selectView('grid')" data-view="grid">Grid</a>
+            <a id="listView" class="vms-list" ng-click="vm.customContext.selectView('list')" data-view="list">List</a>
+            <a ng-show="!vm.customContext.isSearch" id="tableView" class="vms-table" ng-click="vm.customContext.selectView('table')" data-view="table">Table</a>
+            <button id="pagerColumnsButton" ng-show="!vm.customContext.isSearch && (vm.customContext.sortedTableColumns.length > 0) && vm.customContext.view == 'table'" href="javascript:void(0);" data-dropdown="choosecolumns" aria-controls="choosecolumns" aria-expanded="false" class="btn tertiary btn-columns">Columns</button>
+            <div id="choosecolumns" data-dropdown-content class="f-dropdown content">
+                <ul class="column-selection">
+                    <li ng-repeat="section in vm.customContext.sortedTableColumns">
+                        <label><input id="pagerColumnSection_{{$index}}" type="checkbox" ng-model="section.checked" ng-change="vm.customContext.changeTableColumn(section)" data-id="{{section.id}}" />{{section.nameDisplay}}</label>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/QuickOrder/QuickOrder">
+            
+<div>
+    <div class="qo-container" ng-show="vm.orderSettings.allowQuickOrder && vm.canAddToCart">
+        <div class="qo-wrap qo-widget">
+            <h3>Quick Order</h3>
+            <span class="qo-links">
+                <a id="quickOrderOrderMultipleItemsLink" ng-href="/QuickOrder">Order Multiple Items</a>
+                <a id="quickOrderUploadAnOrderLink" ng-href="/OrderUpload" ng-show="vm.orderSettings.canOrderUpload">Upload an Order</a>
+            </span>
+            <div class="clearfix"></div>
+            <div class="qo-form">
+                <div class="qo-search-box">
+                    <input id="qo-search-widget" type="text" name="textfield" ng-init="vm.autocompleteOptions.placeholder = 'Enter keyword or item #'" class="qo-searchbox"
+                           kendo-auto-complete k-options="vm.autocompleteOptions" ng-model="vm.searchTerm" isc-enter="vm.onEnter(vm.searchTerm)" />
+                    <span class="qo-msg error" ng-show="vm.errorMessage">{{vm.errorMessage}}</span>
+                </div>
+                <div class="qo-qty">
+                    <label for="quickOrderQuantity">QTY</label>
+                    <input type="text" name="input2" id="quickOrderQuantity" value="1" class="qty numerictextbox" ng-model="vm.selectedQty" />
+                </div>
+                <div class="qo-um">
+                    <label for="quickOrderUM">U/M</label>
+                    <select id="quickOrderUnitOfMeasureSelector" ng-model="vm.selectedUnitOfMeasure" ng-change="vm.changeUnitOfMeasure(vm.product)" name="unitOfMeasure" class="uom-selector">
+                        <option ng-if="vm.alternateUnitsOfMeasure && vm.product.productUnitOfMeasures.length > 0" ng-init="vm.selectedUnitOfMeasure = vm.product.selectedUnitOfMeasure" ng-repeat="uom in vm.product.productUnitOfMeasures" value="{{uom.unitOfMeasure}}"
+                                ng-selected="{{vm.product.selectedUnitOfMeasure == uom.unitOfMeasure}}">
+                            {{uom.description ? uom.description : uom.unitOfMeasureDisplay}} {{uom.qtyPerBaseUnitOfMeasure !== 1 ? "/" + uom.qtyPerBaseUnitOfMeasure : ""}}
+                        </option>
+                        <option ng-if="!(vm.alternateUnitsOfMeasure && vm.product.productUnitOfMeasures.length > 0)" ng-init="vm.selectedUnitOfMeasure = 'EA'" value="EA">
+                            EA
+                        </option>
+                    </select>
+                </div>
+                <button id="quickOrderAddToCartButton" class="btn primary btn-add-cart" ng-click="vm.addToCart(vm.product)" ng-disabled="!vm.selectedQty || vm.selectedQty == 0 || vm.findingProduct || vm.addingToCart">Add to Cart</button>
+            </div>
+        </div>
+        <input type="hidden" id="messageConfigurableProduct" value="Cannot quick order configurable products" />
+        <input type="hidden" id="messageStyledProduct" value="Product requires styling." />
+        <input type="hidden" id="messageEnterProduct" value="Enter a product name." />
+        <input type="hidden" id="messageUnavailable" value="Product is unavailable." />
+        <input type="hidden" id="messageNotFound" value="Product not found." />
+    </div>
+</div>
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Cart/MicroCart">
+            
+
+
+
+<div class="">
+    <ul>
+        <li ng-hide="cart.isAddtocartSpinner">
+            <a id="microCartLink" class="cart-link" href="/Cart">
+                <img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-shopping-cart.png" alt="Shopping cart">
+            </a>
+        </li>
+        <li ng-hide="cart.isAddtocartSpinner"><a href="/Cart" style="color:#cf1f29;" ng-bind="cart.totalCountDisplay"></a></li>
+        <li style="display: inline-block !important;"><img id="addtocart-spinner" ng-src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/addtocart-loader.gif" ng-show="cart.isAddtocartSpinner"></li>
+        <li class="pull-right hide-for-small-down" ng-hide="cart.isAddtocartSpinner">
+            <a href="/Cart" ng-bind="cart.orderSubTotalWithOutProductDiscountsDisplay"> </a>
+        </li>
+    </ul>
+</div>
+
+
+
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/ProductSearch">
+            
+
+
+<div class="search-container">
+    <form>
+        <div class="search-input  search-box">
+            <a href="#" id="clear-search"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-cancel-search.png" class="clear-icon mnone"></a>
+            <input ng-model="vm.criteria" type="text" class="isc-searchAutoComplete"
+                   ng-init="vm.autocompleteOptions.placeholder = 'Search'; vm.translations = [{key: 'category',text: 'Categories'},{key: 'content',text: 'Content'},{key: 'product',text: 'Products'}, {key: 'manufacturerItemNumber',text: 'MFG #'},  {key: 'partNumber',text: 'Part #'},  {key: 'customerPartNumber',text: 'My Part #'}]"
+                   kendo-auto-complete
+                   k-options="vm.autocompleteOptions"
+                   isc-enter="vm.onEnter()"
+                   name="criteria"
+                   onfocus="$(this).data('kendoAutoComplete').search()">
+            
+        </div>
+        <div class="search-history">
+            <div class="search-history-label"><span>Search History</span></div>
+            <div class="clear-search-history"><a href="#" ng-click="vm.clearSearchHistory()">Clear Search History</a></div>
+        </div>
+        <div class="search-button">
+            <button class="btn primary fastClick" ng-click="vm.search()"><img src="https://cdn.adiglobaldistribution.us/userfile-na/US/userfiles/Images/Themes/icons/icon-search.png" class="desktop-search-icon"></button>
+        </div>
+    </form>
+</div>
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/ProductSearchsmb">
+            
+
+
+<div class="search-container">
+    <form>
+        <div class="search-input  search-box">
+            <table style="border: none">
+                <tr>
+                    <td style="padding: 0px">
+                        <input ng-model="vm.criteria" type="text" class="isc-searchAutoCompletesmb"
+                               ng-init=""
+                               kendo-auto-complete
+                               k-options=""
+                               isc-enter=""
+                               placeholder=Search
+                               name="criteria"
+                               onfocus=""
+                               style="width: 325px;">
+                        <button class="btn primary fastClick" ng-click="vm.search('','','00000000-0000-0000-0000-000000000000')" style="margin-top: -54px; margin-right: -40px;"><img src="/Themes/ADI/Images/icons/icon-search.png" style="height: 19px;"></button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+    </form>
+</div>
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/UnitOfMeasureSelectList">
+            
+<div class="small-8 columns" ng-if="(alternateUnitsOfMeasure == 'true' && product.productUnitOfMeasures.length > 1)">
+    <select id="unitOfMeasureSelectList_{{::product.id}}" ng-model="product.selectedUnitOfMeasure" ng-change="changeUnitOfMeasure()" name="unitOfMeasure" class="uom-selector " data-uom-selector="true" data-productid="{{::product.id}}" autocomplete="off">
+        <option ng-repeat="uom in product.productUnitOfMeasures" value="{{uom.unitOfMeasure}}"
+                ng-selected="{{product.selectedUnitOfMeasure == uom.unitOfMeasure}}">
+            {{::(uom.description ? uom.description : uom.unitOfMeasureDisplay)}} {{::(uom.qtyPerBaseUnitOfMeasure !== 1 ? "/" + uom.qtyPerBaseUnitOfMeasure : "")}}
+        </option>
+    </select>
+</div>
+
+<div ng-if="::(displayPack && product.packDescription)">
+    <span class="um-sep">/</span>
+    <span class="small-4 columns pack">Pack: {{::product.packDescription}}</span>
+</div>
+
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/UnitOfMeasureDisplay">
+            
+
+<span class="selected-uom" ng-bind="product.unitOfMeasureDisplay"></span>
+<div class="uom" ng-if="product.unitOfMeasure !== product.baseUnitOfMeasure && product.qtyPerBaseUnitOfMeasure > 0">
+    <span class="base-uom" ng-bind="product.qtyPerBaseUnitOfMeasure + ' ' + product.baseUnitOfMeasureDisplay">
+    </span>
+    <span ng-if="product.unitOfMeasureDisplay.length > 0">
+        <span class="um-sep">/</span>
+        <span class="selected-uom" ng-bind="product.unitOfMeasureDisplay"></span>
+    </span>
+</div>
+
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Core/RequiredField">
+            
+<div>
+    <div class="large-5 columns">
+        <span ng-bind="fieldLabel"></span>
+        <span class="redTxt" ng-show="isRequired">*</span>
+    </div>
+    <div class="large-7 columns">
+        <input type="text" ng-model="fieldValue" autofocus="autofocus" 
+               id="{{fieldName}}"
+               name="{{fieldName}}"
+               data-rule-required="{{isRequired}}"
+               data-msg-required="{{'{0} is required'.replace('{0}', fieldLabel)}}"
+               data-rule-email="{{isEmail}}"
+               data-msg-email="{{'{0} is invalid'.replace('{0}', fieldLabel)}}"
+               data-rule-regex="{{isEmail === 'true' ? '\\w+([-+.\&#39;]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*' : '.*'}}"
+               data-msg-regex="{{'{0} is invalid'.replace('{0}', fieldLabel)}}">
+        <span class="field-validation-valid" data-valmsg-for="{{fieldName}}" data-valmsg-replace="true"></span>
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/AvailabilityMessage">
+            <span ng-if="availability.message && availability.messageType != 0"
+    
+    ng-class='{instock : (availability.messageType == 1), outstock : (availability.messageType == 2), lowstock : (availability.messageType == 3)}'>
+    {{availability.message}}
+</span>
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/ProductThumb">
+            
+
+<div class="small-3 columns item-thumb">
+    <a id="productThumb_{{product.id}}" ng-href="{{product.productUri}}">
+        <img ng-src="{{product.smallImagePath || product.mediumImagePath}}" alt="{{product.altText}}"/>
+    </a>
+</div>
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/ProductName">
+            
+<div>
+    <div ng-if="!noLink" class="item-name"><a ng-href="{{product.productUri}}" ng-bind="product.shortDescription"></a></div>
+    <div class="item-num">
+        <span ng-show="{{product.properties['branD_SEGMENT']}}"             
+              class="item-num-brand"
+              style="display:block !important;">
+            <a ng-if="product.properties['branD_PATH'] && !(noBrandLink=='true')"
+               style="text-transform: capitalize;"
+               href="{{product.properties['branD_PATH']}}">
+                {{product.properties['branD_SEGMENT'].toLowerCase()}}
+                <span>></span>
+            </a>
+            <span ng-if="!product.properties['branD_PATH'] || (noBrandLink=='true')">{{product.properties['branD_SEGMENT']}}</span>
+        </span>        
+        <span class="item-num-sku" ng-if="product.erpNumber">ADI #: <span ng-bind="product.erpNumber"></span></span>
+        <span class="item-num-mfg" ng-if="product.manufacturerItem">Model #: <span ng-bind="product.manufacturerItem"></span></span>
+        <span class="item-num-my" ng-if="product.customerName">My Part #: <span ng-bind="product.customerName"></span></span>        
+        <span class="itm-num-discontinuedText" ng-if="product.discontinuedMessage"><span ng-bind="product.discontinuedMessage"></span></span>
+        <span class="item-num-my" ng-if="product.marketingMessage && (product.discontinuedMessage != product.marketingMessage)"><span ng-bind="product.marketingMessage"></span></span>
+        
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/ProductPrice">
+            
+
+
+<div ng-if="::product.quoteRequired" class="quote-required" id="displayPrice">
+    <span>Requires Quote</span>
+    <div class="quote-tip">
+        <a id="{{::('productPriceQTipButton_' + product.id + '_' + idKey)}}" href="#" data-dropdown="{{::('qtip-cart-' + product.id + '-' + idKey)}}" class="t-dropdown">?</a>
+        <div id="{{::('qtip-cart-' + product.id + '-' + idKey)}}" class="f-dropdown content" data-dropdown-content>
+            <div class="tt-wrap">To obtain a price quote, add this item to your cart and select &#39;Request a Quote&#39; from the cart page. You can request a quote for multiple items.</div>
+        </div>
+    </div>
+</div>
+<span ng-if="::(!product.quoteRequired && product.pricing)" class="price pd-price" id="displayPrice">
+    <span ng-if="product.pricing.actualPrice == product.pricing.regularPrice && !product.pricing.isOnSale && product.properties['classificatioN_CODE'] != 'x' && product.properties['classificatioN_CODE'] != 'X'">
+        <span class="customer-price">
+            <span class="price-title netPrice"><span class="show-for-small-only">Price:</span></span>
+            <span class="net-price" ng-bind="vm.getActualPrice(product)"></span>
+        </span>
+    </span>
+    <span ng-if="product.pricing.actualPrice == product.pricing.regularPrice && product.pricing.isOnSale && product.properties['classificatioN_CODE'] != 'x' && product.properties['classificatioN_CODE'] != 'X'">
+        <span class="low-price" ng-if="vm.ShowYourLowPriceLabel==true && product.salesIndicator=='3'">
+            <span class="price-title">Your Low Price</span>
+            <span class="price-sale" ng-bind="vm.getActualPrice(product)"></span>
+        </span>
+        <span class="customer-price" ng-if="vm.ShowYourLowPriceLabel==false">
+            <span class="price-title netPrice"><span class="show-for-small-only">Price:</span></span>
+            <span class="price-sale" ng-bind="vm.getActualPrice(product)"></span>
+        </span>
+    </span>
+    <span ng-if="(product.pricing.actualPrice < product.pricing.regularPrice && product.pricing.isOnSale 
+          && product.properties['classificatioN_CODE'] != 'x' && product.properties['classificatioN_CODE'] != 'X')
+          || product.salesIndicator=='2'">
+        <span class="sale-price">
+            <span class="price-title">Sale</span>
+            <span class="price-sale" ng-bind="vm.getActualPrice(product)"></span>
+        </span>
+        <span class="regPrice">
+            <span class="price-title">Reg:</span>
+            <span class="price-old" ng-bind="vm.getRegularPrice(product)"></span>
+        </span>
+        <span class="saleEnd" ng-if="vm.showSaleEndDate(product)">
+            <span class="price-title">&bull; Sale Ends</span>
+            <span class="end-date" ng-bind="vm.saleEndDate(product)"></span>
+        </span>
+    </span>
+    <span ng-if="product.pricing.actualPrice == product.pricing.regularPrice 
+          && (product.properties['classificatioN_CODE'] == 'x' || product.properties['classificatioN_CODE'] == 'X')">
+        <span class="clearence-price">
+            <span class="price-title">Clearance</span>
+            <span class="price-sale" ng-bind="vm.getActualPrice(product)"></span>
+        </span>
+    </span>
+    <span ng-if="product.pricing.actualPrice < product.pricing.regularPrice && product.pricing.isOnSale && 
+          (product.properties['classificatioN_CODE'] == 'x' || product.properties['classificatioN_CODE'] == 'X')">
+        <span class="sale-price clearence-price">
+            <span class="price-title">Clearance</span>
+            <span class="price-sale" ng-bind="vm.getActualPrice(product)"></span>
+        </span>
+        <span class="regPrice">
+            <span class="price-title">Reg:</span>
+            <span class="price-old" ng-bind="vm.getRegularPrice(product)"></span>
+        </span>
+        <span class="saleEnd" ng-if="vm.showSaleEndDate(product)">
+            <span class="price-title">&bull; Ends</span>
+            <span class="end-date" ng-bind="vm.saleEndDate(product)"></span>
+        </span>
+    </span>
+</span>
+        </script>
+        <script type="text/ng-template" id="/Directives/Core/BreadCrumb">
+            
+<ul class="breadcrumbs" ng-class="{bsearch: searchQuery}">
+    <li ng-repeat="crumb in breadcrumbs" ng-class="{'hide-for-small': (breadcrumbs.length - $index) != 2, 'current': $last}">
+        <a id="{{'breadCrumbLink_' + $index}}" ng-if="crumb.url" href="{{crumb.url}}">{{crumb.text}}</a>
+        <isc-no-element ng-show="!crumb.url">{{crumb.text}}</isc-no-element>
+    </li>
+    <li ng-if="searchQuery">
+        <a id="breadCrumbHomePage" href="/">Home</a>
+    </li>
+    <li ng-if="searchQuery" class="hide-for-small current">
+        Search Results:
+        <em>{{searchQuery}}</em>
+    </li>
+</ul>
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/QuantityBreakPricing">
+            
+<div ng-show="false">
+    <div class="quantity-pricing" ng-if="(breakPrices && breakPrices.length > 1)">
+        <a id="quantityBreakPricing_{{::(productId + block)}}" href="" data-dropdown="qty-price-{{::(productId + block)}}" class="t-dropdown">Quantity Pricing</a>
+        <div id="qty-price-{{::(productId + block)}}" class="f-dropdown content" data-dropdown-content>
+            <div class="quantity-pricing-popup">
+                <div class="tt-wrap">
+                    <table class="isc-pricebreaks">
+                        <tbody>
+                            <tr ng-repeat="bp in breakPrices | orderBy:'breakQty'">
+                                <td class="col-1" ng-bind="bp.breakQty"></td>
+                                <td class="col-2"><span class="qty-price" ng-bind="bp.breakPriceDisplay"></span></td>
+                                <td class="col-3" ng-bind="bp.savingsMessage"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/Catalog/SortedAttributeValueList">
+            
+<div class="col-md-12 no-gutter" ng-repeat="attributeType in attributeTypes | orderBy : ['sortOrder','label'] | limitTo: (maximumNumber || 100)">
+    <h4 class="col-md-12">{{attributeType.label}}</h4>
+    <ul class="col-md-4">
+        <li ng-repeat="attributeValue in attributeType.attributeValues | orderBy  : ['sortOrder','valueDisplay']">
+            {{attributeValue.valueDisplay}}{{$last ? '' : ', '}}
+        </li>
+
+    </ul>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/Rfq/RequiresQuote">
+            
+
+<span>Requires Quote</span>
+<div class="quote-tip">
+    <a href="#" data-dropdown="{{'qtip-cart-' + id + '-' + idKey}}" class="t-dropdown">?</a>
+    <div id="{{'qtip-cart-' + id + '-' + idKey}}" class="f-dropdown content" data-dropdown-content>
+        <div class="tt-wrap">To obtain a price quote, add this item to your cart and select &#39;Request a Quote&#39; from the cart page. You can request a quote for multiple items.</div>        
+    </div>
+</div>
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Cart/AddToCartPopup">
+            
+<div id="popup-productaddedtocart" class="reveal-modal pop-allpurpose" data-reveal data-reveal-init>
+    <div class="modal-wrap ">
+        <div ng-show="vm.productSettings.showAddToCartConfirmationDialog">
+            <h4><span ng-bind="vm.isAddAll ? 'Add All to Cart' : 'Add to Cart'"></span></h4>
+            <span ng-bind="vm.isAddAll ? 'The requested products have been added to your cart.' : 'The requested product has been added to your cart.'"></span>
+        </div>
+        <div ng-show="vm.isQtyAdjusted"><b>The quantity added to the cart was changed due to rounding or minimum quantity rules.</b></div>
+        <a id="genericPopupCloseButton" class="close-reveal-modal">&#215;</a>
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/Cart/AddressErrorPopup">
+            
+<div id="cartAddressErrorPopup" class="reveal-modal address-error-popup" data-reveal data-reveal-init>
+    <div class="modal-wrap" ng-init="vm.checkoutAddressUrl = '/Checkout/Addresses'; vm.myAccountAddressUrl = '/MyAccount/Addresses'">
+        <p class="messaging" ng-init="vm.reviewAndPayPageUrl = '/Checkout/ReviewAndPay'">
+            <span ng-if="vm.isAddressEditAllowed">Unable to calculate charges due to invalid address. Update your information</span>
+            <span ng-if="!vm.isAddressEditAllowed">Unable to calculate charges due to invalid address, please contact support</span>
+        </p>
+        <div class="btns">
+            <a id="addressErrorPopupContinueButton" ng-if="vm.isAddressEditAllowed && vm.continueUrl" ng-href="{{ vm.continueUrl }}" class="btn primary btn-continue">Continue</a>
+        </div>
+        <a id="errorPopupCloseButton" class="close-reveal-modal">&#215;</a>
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/Core/ApiErrorPopup">
+            <div id="apiErrorPopup" class="reveal-modal api-error-popup" data-reveal data-reveal-init>
+    <div class="modal-wrap">
+        <p class="messaging">
+            <span>Error with api call, error was:<br /></span>
+        </p>
+        <p>
+            <span ng-bind-html="vm.errorMessage"></span>
+        </p>
+        <a id="errorPopupCloseButton" class="close-reveal-modal">&#215;</a>
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/Rfq/UpdatedQuotesMessage">
+            <div ng-if="vm.session.hasRfqUpdates">
+    <div class="head-msg">
+        <span>You have new quote information.
+            <a href="{{::vm.dashboardUrl}}">View My Dashboard</a>
+        </span>
+        <a class="close-msg isc-closemsg" ng-click="vm.closeQuoteInformation()">×</a>
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/Core/Spinner">
+            <span ng-show="vm.show" >
+    <div class="loader-bg" ng-if="vm.size != 'inline' && !vm.replace"></div>
+    <div class="loader" ng-class="{ 'loader-content-area': vm.size == 'fullContent', 'loader-inline': vm.size == 'inline'}" ng-if="!vm.replace"></div>
+    <span ng-transclude></span>
+</span>
+
+        </script>
+        <script type="text/ng-template" id="/Directives/PriceList/PriceListLinkPopup">
+            
+<div>
+    <a href="javascript:void(0)" ng-click="vm.clickPriceList()" class="hide-for-small-only tiny-lnk" id="priceListLink" >Price List</a>
+    <a href="javascript:void(0)" ng-click="vm.openMobilePriceListModal()" class="show-for-small-only tiny-lnk mobilepricelisttrigger" id="priceListLink">Price List</a>
+    <div id="priceListPopupParent">
+        <div id="priceListPopup" class="reveal-modal popup-price-list" data-reveal data-reveal-init>
+            <div class="modal-wrap">
+                <div class="modal-header">
+                    <div class="large-12 medium-12 small-12 no-gutter hide-for-small-only">
+                        <div class="large-8 medium-8 small-8">
+                            <h2>Price List Request</h2>
+                        </div>
+                        <div class="large-4 medium-4 small-4">
+                            <a id="priceListPopupCloseButton" class="close-reveal-modal">×</a>
+                        </div>
+                    </div>
+
+                    <div class="large-12 medium-12 small-12 no-gutter show-for-small-only">
+                        <div class="closeIcon large-4 medium-4 small-4">
+                            <span id="mobileCloseButton" ng-click="vm.closePriceListModal()" >×</span>
+                        </div>
+                        <div class="Mob-pageTitle large-8 medium-8 small-8">
+                            <h2>Price List Request</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="greyborderbottom"></div>
+                <div class="pop-content">
+                    <div class="row message">A price list request has been submitted.</div>
+
+                    <div id="priceListProgress" ng-show="!vm.priceProgressSuccess">
+                        <div class="row message">
+                            <div class="processMessage">
+                                Processing takes a few seconds...
+                            </div>
+                        </div>
+                        <center><img align="middle" id="pricelist-spinner" ng-src="/Themes/ADI/Images/addtocart-loader.gif"></center>
+                    </div>
+                    <div id="priceListSuccess" class="pw-reset" ng-show="vm.priceProgressSuccess">
+                        <div class="row message" ng-bind-html="vm.priceListSentConfirm"></div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <div class="row btns">
+                        <button style="float: right;" id="PriceListPopupCloseButton" type="button" class="btn secondary btn-cancel" ng-click="vm.closePriceListModal()">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>    
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/CategoryList/HeaderMenu">
+            
+
+
+<ul class="hide-for-small-down">
+    <li ng-repeat="category in vm.categories" ng-if="vm.categories.length > 0">
+        <a ng-href="{{category.name=='Savings' ? '/Catalog/savings/save-now' : category.path}}">
+            {{category.shortDescription}}
+            <span class="arrow" ng-if="category.name!='ByBrand'">&#9660;</span>
+        </a>
+        <ul class="sub-menu">
+            <li ng-repeat="subcategory in category.subCategories | orderBy:'sortOrder'" ng-if="category.name!='ByBrand'">
+                <a ng-if="subcategory.name!='NewPriceCuts' && subcategory.name!='SaveNow'" ng-href="{{subcategory.path}}">{{subcategory.shortDescription}}</a>
+                <a ng-if="vm.isAuthenticated && subcategory.name==='NewPriceCuts'" ng-href="{{subcategory.path}}">
+                    {{subcategory.shortDescription}}
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<ul class="show-for-small-down">
+    <li ng-repeat="category in vm.categories" ng-if="vm.categories.length > 0">
+        <a ng-href="{{category.name=='Savings' ? '/Catalog/savings/save-now' : category.path}}">
+            {{category.shortDescription}}
+        </a>
+        <button type="button"><i class="fa fa-angle-right right" aria-hidden="true" ng-if="category.name!='ByBrand'"></i></button>
+
+        <ul class="dyn-sub-menu">
+            <li ng-repeat="subcategory in category.subCategories" ng-if="category.name!='ByBrand'" ng-show="subcategory.name!='SaveNow' && subcategory.name!='NewPriceCuts'">
+                
+                <a ng-if="subcategory.name!='NewPriceCuts' && subcategory.name!='SaveNow'" ng-href="{{subcategory.path}}">{{subcategory.shortDescription}}</a>
+                <button type="button">
+                    <i class="fa fa-angle-right right" aria-hidden="true"></i>
+                </button>
+                <ul class="dyn-sub-menu">
+                    <li ng-repeat="subcat in subcategory.subCategories">
+                        {{vm.isAuthenticated}}{{subcat.shortDescription}}
+                        <a ng-href="{{subcat.path}}">
+                            {{subcat.shortDescription}}
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li ng-repeat="subcategory in category.subCategories" ng-if="category.name!='ByBrand'" ng-show="vm.isAuthenticated &&  subcategory.name==='NewPriceCuts'">
+                <a ng-if="vm.isAuthenticated && subcategory.name==='NewPriceCuts'" ng-href="{{subcategory.path}}">
+                    {{subcategory.shortDescription}}
+                </a>
+                <button type="button">
+                    <i class="fa fa-angle-right right" aria-hidden="true"></i>
+                </button>
+                <ul class="dyn-sub-menu">
+                    <li ng-repeat="subcat in subcategory.subCategories">
+                        {{vm.isAuthenticated}}{{subcat.shortDescription}}
+                        <a ng-href="{{subcat.path}}">
+                            {{subcat.shortDescription}}
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+    </li>
+</ul>
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Account/UserNamePasswordPopup">
+            <div>
+    <div id="popup-signin" class="reveal-modal popup-signin" data-reveal data-reveal-init>
+        <div class="modal-wrap">
+            <div class="large-12 small-12 collapse si-form">
+                <div class="si-step-1 signInFormHeader">
+                    <h1 class="sign-in_title hide-for-small-down">
+                        Sign In
+                    </h1>
+                </div>
+                <div class="signInFormBody">
+                    <form id="signInForm" name="vm.signInForm" novalidate>
+                        <p for="SignInInfo_RequiredInfo" class="requiredFeildText">*Please enter information in required fields</p>
+                        <p class="field-validation-error validationMsg" ng-if="vm.signInError">{{vm.signInError}}</p>
+
+                        <div class="row small-collapse userFeild">
+                            <div class="medium-2 large-2 small-12 columns signInTitle">
+                                <label for="SignInInfo_UserName" class="username validfeild">User Name *</label>
+                            </div>
+                            <div class="large-10 medium-10 small-12 columns signInTextbox">
+                                <input type="text" id="SignInInfo_UserName" name="userName"
+                                       placeholder="Email Address"
+                                       required
+                                       maxlength="75"
+                                       autocomplete="off"
+                                       ng-model="vm.userName" />
+                            </div>
+                        </div>
+
+                        <div class="row small-collapse userFeild">
+                            <div class="medium-2 large-2 small-12 columns signInTitle">
+                                <label for="SignInInfo_Password" class="validfeild password">Password *</label>
+                            </div>
+                            <div class="large-10 medium-10 small-12 columns signInTextbox">
+                                <input type="password" id="SignInInfo_Password" name="password"
+                                       placeholder="Password"
+                                       required
+                                       maxlength="75"
+                                       autocomplete="off"
+                                       ng-model="vm.password" />
+                            </div>
+                        </div>
+
+                        <div class="row rememberUserDiv">
+                            <div class="medium-10 small-12 columns right checkBoxDiv">
+                                <input id="rememberMe" type="checkbox" ng-model="vm.rememberMe" />
+                                <label for="rememberMe" style="margin-left:0px !important">Remember My User Name</label>
+                                <div class="btns left small-12 signinbtn">
+                                    <button id="userNamePasswordSignInButton" type="submit" ng-disabled="vm.disableSignIn" class="btn primary btn-sign-in" ng-click="vm.signIn('Your Sign In attempt was not successful. Please try again.')" test="test">Sign In &gt; </button>
+                                </div>
+                                <div class="clearfix">
+                                    <a href="/MyAccount/recoverusernamepassword" ng-href="/MyAccount/recoverusernamepassword" class="" id="forgotPasswordLink">Forgot your user name or password?</a>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="pw-reset" ng-show="!vm.signInError">
+                <div class="row btns">
+                    <button id="signInPopupCloseAfterSuccessButton" type="button" class="btn primary btn-done" onclick="$('.close-reveal-modal').click()">Close</button>
+                </div>
+            </div>
+            <a id="signInPopupCloseButton" class="close-reveal-modal">&#215;</a>
+        </div>
+    </div>
+</div>
+
+
+        </script>
+        <script type="text/ng-template" id="/Directives/Core/PopupPager">
+            
+<div>
+    
+    <div ng-if="vm.showPager()" class="uibar tertiary paginator-34" ng-class="{'pbtm' : vm.bottom, 'ptop' : !vm.bottom}">
+        <div>
+            
+            <div class="row collapse">
+                <div class="large-12 medium-12 small-12 columns end">
+                    <ul class="right">
+                        <li class="pagination" ng-if="vm.showPagination()">
+                            <div ng-if="vm.pagination.currentPage > 1" class="arrow page-prev">
+                                <span id="pagerPrevPageArrow" href="javascript:void(0)" ng-click="vm.prevPage()" class="next-prev p-prev">Prev</span>
+                            </div>
+                            <div class="page-current">
+                                <ul>
+                                    <li ng-repeat="n in vm.GetPager(vm.pagination.numberOfPages, vm.pagination.currentPage, 2)">
+                                        <a class="page-number" ng-class="{'page-active':vm.pagination.currentPage==n}" ng-click="vm.UpdatePageByNumber(n)" href="javascript:void(0)">{{n}}</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div ng-if="vm.pagination.currentPage < vm.pagination.numberOfPages" class="arrow unavailable page-next">
+                                <span id="pagerNextPageArrow" href="javascript:void(0)" ng-click="vm.nextPage()" class="next-prev p-next">Next</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+        </script>
+        <script type="text/ng-template" id="/Directives/ShopMyBranch/ShopMyBranchHeaderMenu">
+            
+
+<head>
+
+</head>
+
+<ul ng-repeat="category in vm.subCatByCat" style="margin-top:0px !important;">
+    <li ng-repeat="subcategory in category.subCategories"  style="padding-left:0 !important;width:100% !important;margin:0px !important">
+        <a ng-if="subcategory.name!='SaveNow'" ng-href="{{subcategory.path}}?aType=A&catId=00000000-0000-0000-0000-000000000000" style="font-size:12px !important;">{{subcategory.shortDescription}}</a>
+    </li>
+    
+</ul>
+
+        </script>
+
+    </div>
+    <!--PingDom Script - Start-->
+        <script src="//rum-static.pingdom.net/pa-5bb6072c7e84eb00160001dd.js" async=""></script>
+    <!--PingDom Script - End-->
+
+
+
+<!-- RD00155D3C4431 -->
+<!--  -->
+<!-- Persona: Default -->
+
+
+<!-- Cookies Div START-->
+<div id="cookies_UK" class="cookiebanner" style="display: none;">
+    <div class="cookiebannertable">
+        <div>
+            <div class="cookiebannertr">
+                <div class="cookiebannertabletd">
+                    We use cookies to give you the best possible experience. By continuing to use the site you agree to our use of cookies.
+                </div>
+                <div class="cookiebannertdbutton">
+                    <a onclick="javascript:hidecookie(); return false;" class="cookiebutton cookieshide" href="">OK</a>
+                </div>
+                <div class="cookiebannertd">
+                    <a href="javascript:btnTransfer_Click();"> No, I don’t want to use cookies</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Cookies Div END--></body></html>
