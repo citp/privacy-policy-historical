@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrzone.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231012035id_/https%3A//www.hrzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrzone.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425135927id_/https%3A//www.hrzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | HRZone
 
@@ -164,9 +164,9 @@ We keep your personal information for as long as we need to for the purposes for
 
 **Your rights**
 
-You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#553d303925153d272f3a3b307b363a386a2620373f303621681d070f3a3b30706765042030272c). Please state the site(s) it is in reference to.
+You have the right to ask us not to process your personal data or to restrict our processing of your personal data (including for marketing purposes). You can do so at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4a222f263a0a22383025242f6429252775393f28202f293e7702181025242f6f787a1b3f2f3833). Please state the site(s) it is in reference to.
 
-You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f49c919884b49c868e9b9a91da979b99cb8781969e919780c9bca6ae9b9a91d1c6c4a58191868d). Please state the site(s) it is in reference to.
+You also have the right to ask us to correct any mistakes or inaccuracies in your information which we hold at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f098959c80b098828a9f9e95de939f9dcf8385929a959384cdb8a2aa9f9e95d5c2c0a185958289). Please state the site(s) it is in reference to.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -260,10 +260,10 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Complaints**
 
-If you have any complaints about the way we use your personal information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a525f564a7a52484055545f1459555705494f58505f594e0772686055545f1f080a6b4f5f4843) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
+If you have any complaints about the way we use your personal information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e262b223e0e263c3421202b602d2123713d3b2c242b2d3a73061c1421202b6b7c7e1f3b2b3c37) who will try to resolve the issue. If we cannot resolve any issue, you have the right to complain to the data protection authority in your country (the Information Commissioner in the UK).
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e68e838a96a68e949c898883c885898bd99593848c838592dbaeb4bc898883c3d4d6b79383949f) and please state the website(s) it is in reference to.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#761e131a06361e040c1918135815191b490503141c1315024b3e242c191813534446270313040f) and please state the website(s) it is in reference to.
 
 Thank you for visiting our site.
