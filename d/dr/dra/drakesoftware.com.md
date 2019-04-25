@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drakesoftware.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818042556id_/https%3A//drakesoftware.com/assets/pdf/General/Drake%2520Software%2520GLB%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drakesoftware.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425202217id_/https%3A//drakesoftware.com/assets/pdf/General/Drake%2520Software%2520GLB%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
