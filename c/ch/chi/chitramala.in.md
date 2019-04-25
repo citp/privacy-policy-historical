@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chitramala.in privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805000155id_/https%3A//www.chitramala.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chitramala.in privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425032704id_/https%3A//www.chitramala.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](http://www.chitramala.in/) / Privacy Policy
 
 Chitramala recognizes the importance of protecting the privacy of information and will keep the information you entrust to us safely and securely.
 
@@ -12,7 +10,7 @@ This policy tells you how Chitramala collects information from you, how we prote
 
  ** **Information Collection and Use****
 
-We respect each visitor’s right to personal privacy. To that end, we collect and use information throughout our web site only as disclosed in this Privacy Policy. This statement applies solely to the information collected on [chitramala.in](http://chitramala.in/)We will collect personally identifiable information from you in a variety of ways including directly from you when you register on the Sites, use other Chitramala services, enter competitions or prize draws, navigate around our Sites or respond to communications from us.  
+We respect each visitor’s right to personal privacy. To that end, we collect and use information throughout our web site only as disclosed in this Privacy Policy. This statement applies solely to the information collected on [chitramala.in](https://chitramala.in/)We will collect personally identifiable information from you in a variety of ways including directly from you when you register on the Sites, use other Chitramala services, enter competitions or prize draws, navigate around our Sites or respond to communications from us.  
 Chitramala may also receive personally identifiable information from, third parties including our related companies, our business partners and publicly available sources of information.The following is what we normally collect about you to help us provide you with our services, where we can:
 
 • Personal attributes, name, address, gender, date of birth, email, telephone number, and service details;  
