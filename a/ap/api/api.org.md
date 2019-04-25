@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the api.org privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009020808id_/https%3A//www.api.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the api.org privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425095637id_/https%3A//www.api.org/privacy) for the most accurate reproduction.*
 
-# API | Privacy
+# API | Privacy Policy
 
 ## General Statement of Privacy
 
