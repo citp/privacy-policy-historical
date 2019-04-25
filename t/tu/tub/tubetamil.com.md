@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927040457id_/http%3A//www.tubetamil.com/tubetamil-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426005407id_/http%3A//www.tubetamil.com/tubetamil-privacy-notice) for the most accurate reproduction.*
 
 # TubeTamil Privacy Notice | Tubetamil.com
 
