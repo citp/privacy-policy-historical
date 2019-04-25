@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radio.org.ph privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210115446id_/http%3A//www.radio.org.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio.org.ph privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425082128id_/https%3A//radio.org.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Radio.org.ph
 
