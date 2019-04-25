@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsearchonline.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709092300id_/http%3A//aps2k.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsearchonline.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425140318id_/https%3A//aps2k.com/privacy-policy) for the most accurate reproduction.*
 
 # SmartSearch | Privacy Policy
 
@@ -36,7 +36,7 @@ Individuals involved in recruitment and staffing activities interact directly wi
 
 The following information pertains to the SmartSearch® system and our processing and storage of application information. It is not enforceable upon our employer clients, as they set their own privacy and security practices as to who has access to your data and how they protect and manage the security and privacy of that data.
 
-Generally, you can visit APS on the internet at [www.aps2k.com](https://www.aps2k.com/) without telling us who you are, and without providing any personal information about yourself. There are times, though, when we or our partners may need information from you to deliver the products or services you request. For example, you may wish to give us your name, email address or other information to request a product demonstration or to sign up for a webinar.
+Generally, you can visit APS on the internet at [www.aps2k.com](https://aps2k.com/) without telling us who you are, and without providing any personal information about yourself. There are times, though, when we or our partners may need information from you to deliver the products or services you request. For example, you may wish to give us your name, email address or other information to request a product demonstration or to sign up for a webinar.
 
 We respect your privacy and are committed to protect any personal information you share with us.  This policy describes how we collect and use that information.
 
@@ -46,15 +46,15 @@ Personal information means any information that may be used to identify an indiv
 
 When you browse our website, you do so anonymously unless you complete an online form to request a product or service, or you log in to our website with a login ID and password you have previously asked us to remember. We don’t automatically collect or track personal information.
 
-We may log your IP address (the internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there and as a security procedure, but we do not link your IP address to any personal information unless you have logged in to our website. Like many other commercial websites, the APS website may from time-to-time use a standard technology called a “cookie” to collect information about how you use the site. Please read [Cookies and Tracking Technology](http://aps2k.com/privacy/#cookies) below for more information.
+We may log your IP address (the internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there and as a security procedure, but we do not link your IP address to any personal information unless you have logged in to our website. Like many other commercial websites, the APS website may from time-to-time use a standard technology called a “cookie” to collect information about how you use the site. Please read [Cookies and Tracking Technology](https://aps2k.com/privacy/#cookies) below for more information.
 
 APS collects personal information if you register for an APS account, when you use certain APS online products or services (such as career portals hosted on behalf of our clients), or when you submit your personal information to APS for any other reason.
 
-Access to certain APS web pages (including hosted career portals for our clients) may require a login ID and password. The use of those web pages, and the information, programs or files downloadable from them, may be governed by a written agreement between your employer and APS. Unless you request deletion of your personal information as specified below in [Information Sharing and Disclosure](http://aps2k.com/privacy/#sharing), your personal information may be retained by APS to verify compliance with the agreement or to track usage of other services available on those pages.
+Access to certain APS web pages (including hosted career portals for our clients) may require a login ID and password. The use of those web pages, and the information, programs or files downloadable from them, may be governed by a written agreement between your employer and APS. Unless you request deletion of your personal information as specified below in [Information Sharing and Disclosure](https://aps2k.com/privacy/#sharing), your personal information may be retained by APS to verify compliance with the agreement or to track usage of other services available on those pages.
 
 #### Notice
 
-When personal information is collected, we will inform you at that time of the purpose for the collection. APS will not transfer your personal information to third parties without your consent, except under the limited conditions described below under the discussion entitled [Information Sharing and Disclosure](http://aps2k.com/privacy/#sharing).
+When personal information is collected, we will inform you at that time of the purpose for the collection. APS will not transfer your personal information to third parties without your consent, except under the limited conditions described below under the discussion entitled [Information Sharing and Disclosure](https://aps2k.com/privacy/#sharing).
 
 If you choose to provide us with your personal information, we may transfer that information only within APS or to APS’s third-party service providers, and only with your permission. Upon receiving your permission, we may transfer your information across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
 
