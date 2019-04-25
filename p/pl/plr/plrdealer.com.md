@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plrdealer.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816014607id_/http%3A//plrdealer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrdealer.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425133349id_/https%3A//plrdealer.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - PLR Dealer
+# Privacy Policy
 
-The following describes the Privacy Policy for our plrdealer.com website.
+### The following describes the Privacy Policy for our plrdealer.com website.
 
 **Your Privacy**  
 Your privacy is important to us at plrdealer.com.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
