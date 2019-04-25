@@ -1,0 +1,1105 @@
+<!--The following is the downloaded HTML source of the iob.in privacy policy that was archived on 2019-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190425123553id_/https%3A//www.iob.in/Upi-privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>
+	Welcome to Indian Overseas Bank
+</title><link rel="shortcut icon" href="img/favicon.ico"><link rel="stylesheet" href="css/bootstrap.min.css"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"><link href="css/app1.css" rel="stylesheet" type="text/css"><link href="css/app2.css" rel="stylesheet" type="text/css"><link href="css/carousel.css" rel="stylesheet" type="text/css"><link href="css/my-style.css" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+
+
+
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            //min font size
+            var min = 9;
+            //max font size
+            var max = 16;
+            //grab the default font size
+            var reset = $('.content,marquee,.footer-li-link .list-unstyled,.footer-link,.custo-corner,.visitor-main,.nav,.footer-li-link').css('fontSize');
+
+            //font resize these elements
+            var elm = $('.content,marquee,.footer-li-link .list-unstyled,.footer-link,.custo-corner,.visitor-main,.nav,.footer-li-link');
+
+            //set the default font size and remove px from the value
+            var size = str_replace(reset, 'px', '');
+
+            //Increase font size
+            $('a.fontSizePlus').click(function () {
+
+                //if the font size is lower or equal than the max value
+                if (size <= max) {
+
+                    //increase the size
+                    size++;
+
+                    //set the font size
+                    elm.css({ 'fontSize': size });
+                }
+
+                //cancel a click event
+                return false;
+
+            });
+
+            $('a.fontSizeMinus').click(function () {
+
+                //if the font size is greater or equal than min value
+                if (size >= min) {
+
+                    //decrease the size
+                    size--;
+                    //set the font size
+                    elm.css({ 'fontSize': size });
+                }
+                //cancel a click event
+                return false;
+
+            });
+
+            //Reset the font size
+            $('a.fontReset').click(function () {
+
+                //set the default font size	
+                elm.css({ 'fontSize': reset });
+            });
+
+        });
+
+        //A string replace function
+        function str_replace(haystack, needle, replacement) {
+            var temp = haystack.split(needle);
+            return temp.join(replacement);
+        }
+    </script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/jquery.marquee.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="js/jquery.pause.js"></script>
+
+    <script>
+        $(function () {
+            var $mwo = $('.marquee-with-options');
+            $('.marquee').marquee({
+                allowCss3Support: true,
+                css3easing: 'linear',
+                //speed in milliseconds of the marquee
+                speed: 5000,
+                //gap in pixels between the tickers
+                gap: 5,
+                //gap in pixels between the tickers
+                delayBeforeStart: 0,
+                //'left' or 'right'
+                direction: 'up',
+                //true or false - should the marquee be duplicated to show an effect of continues flow
+                duplicated: true,
+                //on hover pause the marquee - using jQuery plugin https://github.com/tobia/Pause
+                pauseOnHover: true
+            });
+
+            //Direction upward
+
+
+            //pause and resume links
+            $('.pause').click(function (e) {
+                e.preventDefault();
+                $mwo.trigger('pause');
+            });
+            $('.resume').click(function (e) {
+                e.preventDefault();
+                $mwo.trigger('resume');
+            });
+            //toggle
+            $('.toggle').hover(function (e) {
+                $mwo.trigger('pause');
+            }, function () {
+                $mwo.trigger('resume');
+            })
+            .click(function (e) {
+                e.preventDefault();
+            })
+        });
+    </script>
+    <script type="text/javascript" src="js/blissaccess.js"></script>    <style>
+        .marquee,
+        .marquee-with-options,
+        .marquee-vert-before,
+        .marquee-vert {
+            width: 100%;
+            overflow: hidden;
+            border: 0px solid #ccc;
+        }
+
+        .marquee {
+            height: 160px !important;
+        }
+
+
+        .ul-main-fourth {
+            height: auto;
+        }
+
+        .reach-us {
+            float: none;
+        }
+
+        .sidelink {
+            margin-top: 10px;
+            padding-left: 30px;
+            list-style: none;
+        }
+
+        ul.sidelink li:before {
+            left: 5px;
+            content: '\f0da';
+            position: absolute;
+            font-family: 'FontAwesome';
+            color: #fff;
+        }
+
+        .sidelink li a {
+            color: white;
+        }
+    </style>
+
+
+
+    
+    </head>
+<body>
+    <form name="aspnetForm" method="post" action="./Upi-privacy-policy?menulevel=1&amp;menuid=2&amp;CatID=63" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E63DAA0D">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="1f1MZa/2yxIZkxaTbFwnMlIpYQtU7tHCXg+YFoeu/kGAHRLzAiaZo88tw2Iaa2rBLa31Cn3TQBclo08ODOjNo8oh7R0PGpcHULaTT26ftJ4i80PeKISmkI3hWHKS3iOsMudr6+CCXytDSbJl2qMAvVtFfcUxwpXo0KYmEojz9+MUFsAEFHZcX43iVxeOJApYz3igCH6K0WVmHhHG3HKX/Cy3wsVkEtNhBLlvripjH2li2PJ2p8qPXzusgD1f+hCwBQZyvTnFmIEIOCt82L7mjGfe+AZQEc+f72Pdv3Kq62LsKVSLbE3Nz5jhciVhA/zv3Z0/WSpIfxG85G22FQIv4w==">
+</div>
+        <div class="main-container">
+            <div class="main-container">
+                
+<header>
+ <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <script src="js/bootstrap.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-102655993-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+   
+    <script>
+        function changebyjs(val) {
+            var asd = jQuery.noConflict();
+            var data = val.value;
+            asd.ajax({
+                type: "POST",
+                url: "Rating.asmx/changebyjs",
+                data: { data: val },
+                success: function (msg) {
+                    window.location = "default.aspx";
+                },
+                error: function (textStatus, errorThrown) {
+                    Success = false;//doesnt goes here
+                }
+            });
+        }
+        var asd = jQuery.noConflict();
+         
+      
+
+        function open_search() {
+            // var strs = document.getElementById('srch');
+           
+            var strs = document.getElementById('ctl00_menubartop_txtSearch').value;
+
+             if (strs.value == "") {
+                 aler("Please enter search textbox");
+                 strs.style.color = "red";
+                 strs.focus();
+
+             }
+             else {
+                  window.location.href = 'SearchData.aspx?usterms=' + strs;
+
+
+             }
+        }
+
+
+        asd(document).keypress(function (e) {
+            if (e.which == 13) {
+                if (asd("#ctl00_menubartop_txtSearch").val() != "") {
+                    __doPostBack('menubartop_btnserch', '');
+
+            }
+        }
+        });
+
+    </script>
+
+
+ <script type="text/javascript">
+
+         var asd = jquery.noConflict();
+
+         asd(document).ready(function () {
+            
+
+             asd(".coldrop").change(function () {
+                  
+                 var selectedCountry = asd(".coldrop option:selected").val();
+                 changecolor(selectedCountry);
+
+             });
+
+             function changecolor(selectedCountry) {
+                  
+                 if (selectedCountry == 1) {
+                     FontWB();
+
+                 }
+
+                 else if (selectedCountry == 2) {
+
+                     FontYR();
+                 }
+                 else if (selectedCountry == 3) {
+                     FontYB();
+                 }
+                 else if (selectedCountry == 4) {
+                     FontYG();
+
+                 }
+
+
+
+             }
+         });
+
+
+
+
+</script>
+
+
+
+    <style>
+
+      .blink_text {
+
+animation:2s blinker linear infinite;
+-webkit-animation:2s blinker linear infinite;
+-moz-animation:3s blinker linear infinite;
+
+ color: #ffeb00;}
+
+@-moz-keyframes blinker {  
+ 0% { opacity: 3.0; }
+ 50% { opacity: 0.0; }
+ 100% { opacity: 3.0; }
+ }
+
+@-webkit-keyframes blinker {  
+ 0% { opacity: 3.0; }
+ 50% { opacity: 0.0; }
+ 100% { opacity: 3.0; }
+ }
+
+@keyframes blinker {  
+ 0% { opacity: 3.0; }
+ 50% { opacity: 0.0; }
+ 100% { opacity: 3.0; }
+ }  
+a{text-decoration:none}a:hover{color:#fff}
+
+
+.sprite{background-image:url(spritesheet.png);background-repeat:no-repeat;display:inline-block}.sprite-Downloads{width:24px;height:24px;background-position:-5px -5px}.sprite-a1,.sprite-a2,.sprite-a4,.sprite-a5{width:15px;height:15px}.sprite-a1{background-position:-39px -5px}.sprite-a2{background-position:-64px -5px}.sprite-a4{background-position:-39px -30px}.sprite-a5{background-position:-64px -30px}.sprite-customer-care-icon{width:40px;height:40px;background-position:-89px -5px}.sprite-src{width:28px;height:29px;background-position:-5px -55px}
+
+
+    </style>
+   
+    <script type="text/javascript">
+        $( document ).ready(function() {
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            console.log(navigator.userAgent);
+             
+            $(".removelink").attr("href", "");
+            $(".removelink").click(function (event) {
+                event.preventDefault();
+            });
+        }
+        else {
+            console.log("web browser");
+        }
+        });
+
+</script>
+  
+  <script type="text/javascript" src="js/blissaccess.js"></script>
+    <div class="container">
+
+         <!--small screen end--> 
+    		<div class="row hidden-lg hidden-md hidden-sm visible-xs">
+                    <div class="col-xs-5" style="padding:0;">
+                    <div class="logo">
+                    <a href="http://iob.in">
+                    <img src="img/mobile-logo.jpg" border="0" class="logo-center" style="width:150px;"></a>
+                    </div>
+                </div>
+                 <div class="col-xs-7" style="padding:0;">        
+                    <div class="m-themesound">
+                	  
+                  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="80" height="25" title="theme" class="hidden-xs">
+                      <param name="movie" value="iob.swf">
+                      <param name="quality" value="high">
+                      <param name="wmode" value="transparent">
+                      <embed src="images/iob.swf" quality="high" wmode="transparent" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="80" height="25">
+                  </object>
+                 <a href="images/IOBSignaturetune.zip" target="_new" class="icondownload hidden-xs" title="Tune Download">
+                        <i class="sprite sprite-Downloads"></i>
+                    </a>
+                   <a href="Screen_Reader.aspx" target="_new"><i class="sprite sprite-src"></i></a>
+                    
+ </div>
+ 
+ <div class="m-atm_btn">
+                    <a href="ATM.aspx" id="ctl00_menubartop_DivAtm_m" class="atm" style="color:#337ab7;"><span id="ctl00_menubartop_lblATM_M">ATM</span></a>
+                    <a href="Branch.aspx" id="ctl00_menubartop_DivBranch_m" style="color: #fff;" class="branch"><span id="ctl00_menubartop_lblBranch">BRANCH</span></a>
+                  
+            </div>
+                     <div class="m-tollfree"><i class="fa fa-phone-square" aria-hidden="true" style="font-size: 20px;"></i>1800 425 4445</div>
+
+                    </div>
+            </div>
+            
+            <div class="row hidden-lg hidden-md hidden-sm visible-xs">
+            		
+            
+            
+            		
+                <div class="m-custo-corner">
+                    <a href="#" title="Customer Corner" style="color: white;">
+                       <div class="custo-img"><i class="sprite sprite-customer-care-icon hidden-xs"></i></div></a>
+                      <a href="CustomersCorner" title="Customer Corner" style="color: white;"> 
+                       <div class="customer-co">
+                            <span id="ctl00_menubartop_lblCustomerconcern_m">Customers' Corner</span></div></a>
+                   
+                    <div class="member">                        
+                        <span id="ctl00_menubartop_lblMemberofBCSBI_m">Member </span>
+                   
+				   
+
+				   </div>
+
+                </div>
+                
+
+                
+            	
+            
+            </div>
+          <!--small screen end-->  
+
+        <div class="row">
+            <div class="col-lg-4 col-md-3 col-sm-3 col-xs-12 hidden-xs">
+                <div class="logo">
+                    <a href="https://www.iob.in/">
+                        <img src="img/logo.png" border="0" class="img-responsive"></a>
+                </div>
+            </div>
+             <div class="col-lg-8 col-md-9 col-sm-9 col-xs-12" style="padding: 0">
+
+                  <div class="themesound hidden-xs">
+                	  
+                  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="80" height="25" title="theme">
+                      <param name="movie" value="iob.swf">
+                      <param name="quality" value="high">
+                      <param name="wmode" value="transparent">
+                      <embed src="../images/images/iob.swf" quality="high" wmode="transparent" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="80" height="25">
+                  </object>
+
+ <a href="images/IOBSignaturetune.zip" target="_new" class="icondownload" title="Tune Download">
+                        <i class="sprite sprite-Downloads"></i>
+                    </a>
+                    
+                     
+
+                </div>
+<div class="src hidden-xs">
+ <a href="Screen_Reader.aspx" target="_blank"><i class="sprite sprite-src"></i></a>
+                    
+
+</div>
+                 
+                <div class="atm_btn hidden-xs">
+                <a href="ATM.aspx" id="ctl00_menubartop_DivAtm" class="atm">ATM</a>
+                <a href="Branch.aspx" id="ctl00_menubartop_DivBranch" style="color: #fff;" class="branch">BRANCH</a>                    
+                </div>
+				
+				<div style="width: 35px;" class="bc-locator">
+                <a href="https://www.iob.in/upload/CEDocuments/AEC-Branch-Locator.pdf" id="ctl00_menubartop_A2" style="color: #FFFFFF;">
+				<span id="ctl00_menubartop_lblAEC">AEC</span></a> 
+                     
+                </div>
+				
+				
+                <div style="width: 90px;" class="bc-locator">
+                <a href="BC_Locator.aspx" id="ctl00_menubartop_A1" style="color: #FFFFFF;">
+				<span id="ctl00_menubartop_lblBC_Locator">BC LOCATOR</span></a> 
+                     
+                </div>
+                <div class="tollfree hidden-xs"><i class="fa fa-phone-square" aria-hidden="true" style="font-size: 15px;"></i>1800 425 4445</div>
+
+  
+                 <div class="custo-corner hidden-xs" style=" margin-top: -18px;">
+                    <a href="#" title="Customer Corner" style="color: white;">
+                       <div class="custo-img"> <i class="sprite sprite-customer-care-icon"></i></div></a>
+                      <a href="CustomersCorner" title="Customer Corner" style="color: white;">  
+                          <div class="customer-co">
+                            <span id="ctl00_menubartop_lblCustomerconcern">Customers' Corner</span></div></a>
+                   
+                    <div class="member">
+                        
+                        <span id="ctl00_menubartop_lblMemberofBCSBI">Member of BCSBI</span>
+						
+                    </div>
+
+                </div>
+		
+				
+
+                <div class="clearfix"></div>
+
+               
+
+            </div>
+     <!--  <div class="accessibility-div-main" style="background-color: transparent;">
+
+             <a href="https://www.iobnet.co.in/ibanking/ibAadhaarValidate.do" class="blk1" target="_blank" style="color: #fff;"><span style="font-size: 17px">
+                    <strong> <span id="ctl00_menubartop_lbladhaar">Dear Customers, To Authenticate your Aadhaar Details with your Bank Accounts,</span> <font size="3" color="yellow">
+                        	<span class="blink_text"><span id="ctl00_menubartop_lblclickhere">Click Here</span></span></font></strong>&nbsp;&nbsp;<img src="aadhaar-logo.jpg" alt="imgg" /></span></a><br>
+          
+
+		   </div> -->
+             <div class="accessibility-div-main">
+			 
+
+                    <div class="language-div">
+                        <a href="https://www.iob.in/" target="_blank"><img src="https://www.iob.in/upload/home-logo.png" alt=""></a> |
+                        
+                        <a onclick="changebyjs(2);" id="ctl00_menubartop_lnkHindi" href="javascript:__doPostBack('ctl00$menubartop$lnkHindi','')">हिन्दी </a>
+                        
+                        |
+                          Color Theme <a href="javascript:void(o);" onclick="javascript:FontWB();"><i class="sprite sprite-a2"></i></a>
+                            		<a href="javascript:void(o);" onclick="javascript:FontYG();"><i class="sprite sprite-a4"></i></a>
+                                    <a href="javascript:void(o);" onclick="javascript:FontYB();"><i class="sprite sprite-a1"></i></a>
+                            		<a href="javascript:void(o);" onclick="javascript:FontYR();"><i class="sprite sprite-a5"></i></a>
+                                
+                    </div>
+                    <div class="font-size-div">
+                        <ul class="list-unstyled list-inline">
+                            <li><a href="#" class="fontSizeMinus">A-</a></li>
+                            <li><a href="#" class="fontReset">A</a></li>
+                            <li><a href="#" class="fontSizePlus">A+</a></li>
+                        </ul>
+                    </div>
+                    <div class="topsearch-div">
+                        
+                            <div style="width: 85%; float: left;">
+
+                                <input name="ctl00$menubartop$txtSearch" type="text" id="ctl00_menubartop_txtSearch" class="  search-query form-control" placeholder="Search">
+                            </div>
+                            <a href="#" style="font-size: 20px; margin: 0 0 0 15px; color: #fff;">
+                
+                               
+                                
+                                <input type="submit" name="ctl00$menubartop$btnsearch" value="Go" id="ctl00_menubartop_btnsearch" style="background-color: black; border-color: black;  margin-left: -12px; font-size:14px;">
+                            </a>
+                        
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    <!--top header end-->
+    <div class="container">
+        <div class="row">
+            <nav class="navbar navbar-inverse">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".mobile_navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <!--<a class="navbar-brand" href="#"></a>-->
+                </div>
+                <div id="ctl00_menubartop_navbar" class="navbar-collapse collapse navbar-border mobile_navbar"> <ul class="nav navbar-nav"><li class="dropdown "><a href="Personal-banking" class="dropdown-toggle removelink disabled" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="text-decoration: none;"> PERSONAL BANKING   <span class="caret"></span></a>  <ul class="dropdown-menu"> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Saving-bank">Saving Bank</a> <ul class="dropdown-menu"><li><a href="Regular-savings-bank">Regular Savings Bank</a></li><li><a href="Iob-eighty-plus-sb">IOB Eighty Plus SB</a></li><li><a href="Iob---savings-bank-gold-i">IOB - Savings Bank Gold I</a></li><li><a href="1Iob---savings-bank-gold-ii1">IOB - Savings Bank Gold II</a></li><li><a href="Iob---savings-bank-silver-i">IOB - Savings Bank Silver I</a></li><li><a href="1Iob---savings-bank-silver-ii1">IOB - Savings Bank Silver II</a></li><li><a href="Iob-student">IOB Student</a></li><li><a href="1Corporate-salary-account1">Corporate Salary Account</a></li><li><a href="1Sb-platinum1">SB Platinum</a></li><li><a href="Sb-small-account">SB Small Account</a></li><li><a href="Basic-sb-deposit-account">Basic SB Deposit Account</a></li><li><a href="1Saving-bank-rules1">Saving Bank Rules</a></li><li><a href="1Savings-bank-application-form1">Savings Bank Application Form</a></li><li><a href="Basic-small-sb-opening-form">Basic Small SB Opening form</a></li><li><a href="Sb---little-star">SB - Little Star</a></li><li><a href="1Iob_savings-bank-sb-defcom1">IOB - Savings Bank SB DEFCOM</a></li><li><a href="1Iob---savings-bank-sb-defnon1">IOB - Savings Bank SB DEFNON</a></li><li><a href="Iob_savings-banksb-arogiyamahila">IOB - Savings Bank SB AROGIYAMAHILA</a></li><li><a href="Iob-mact-sb-account">IOB MACT SB Account</a></li></ul></li> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="3Current-account">Current Account</a> <ul class="dropdown-menu"><li><a href="Iob-cd-classic">IOB-CD Classic</a></li><li><a href="Iob-cd-super">IOB-CD Super</a></li><li><a href="Iob-cd--supreme">IOB CD- Supreme</a></li><li><a href="Current-account-rules">Current Account Rules</a></li></ul></li> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Term-deposit">Term Deposit</a> <ul class="dropdown-menu"><li><a href="1Rates-at-a-glance">Rates At a glance</a></li><li><a href="Reinvestment-deposit">Reinvestment Deposit</a></li><li><a>Fixed Deposit</a></li><li><a href="Recurring-deposit">Recurring Deposit</a></li><li><a href="Iob-eighty-plus-td">IOB Eighty Plus TD</a></li><li><a href="1Vardhan-deposit1">Vardhan Deposit</a></li><li><a href="Tax-saver-scheme">Tax Saver Scheme</a></li><li><a href="Term-deposit-rules">Term Deposit Rules</a></li><li><a href="1Td-application-form1">TD Application Form</a></li><li><a href="Deceased-claims">Deceased Claims</a></li><li><a href="1Floating-rate-deposit1">Floating Rate Deposit</a></li><li><a href="Generate-tds-certificate">Generate TDS Certificate</a></li><li><a href="Iob-macad">IOB MACAD</a></li></ul></li> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Retail-loans">Retail Loans</a> <ul class="dropdown-menu"><li><a target="_blank" href="https://www.iobnet.org:5443/LeadApi/LeadGen.jsp">Reach Us for Loans</a></li><li><a href="Clean-loan">Clean Loan</a></li><li><a href="1Consumption-loans-sahayika1">Consumption Loans-Sahayika</a></li><li><a href="Educational-loans-vidya-jyoti">Educational Loans-Vidya Jyoti</a></li><li><a href="1Vehicle-loans--pushpaka1">Vehicle Loans- Pushpaka</a></li><li><a href="Commercial-cash-credit-against-jewellery">Commercial Cash Credit against Jewellery</a></li><li><a href="Iob-surya">IOB Surya</a></li><li><a href="Iob-royal">IOB Royal</a></li><li><a href="1Reverse-mortgage-loan1">Reverse Mortage Loan</a></li><li><a href="Retail-credit-interest-rates">Retail Credit Interest Rates</a></li><li><a href="Iob-scholar">IOB Scholar</a></li><li><a href="Career-dreams">Career Dreams</a></li><li><a href="Vocational-course-&amp;-skill-develo">Vocational Course &amp; Skill Develo</a></li><li><a href="Personal-loan">Personal Loan</a></li><li><a href="Iob-passion">IOB Passion</a></li><li><a href="Special-personalloan-hni-vip">Special PersonalLoan HNI VIP</a></li><li><a href="1Loan-against-property1">Loan Against Property</a></li></ul></li> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Home-loans-mortgages">Home Loans &amp; Mortgages</a> <ul class="dropdown-menu"><li><a href="Housing-loans---subha-gruha">Housing Loans - Subha Gruha</a></li><li><a href="Home-improvement-scheme">Home Improvement Scheme</a></li><li><a href="1Mortgages--home-decor1">Mortgages- Home Decor</a></li><li><a href="Mortgages--liquirent-(loan-against-rent-receivables)">Mortgages- Liquirent (Loan Against Rent Receivables)</a></li><li><a href="1Mortgages--easy-trade-finance1">Mortgages- Easy Trade Finance</a></li><li><a href="1Nri-home-loan1">NRI Home Loan</a></li><li><a href="1Subhagruha-pre-approved-homeloan1">Subhagruha Pre-Approved Homeloan</a></li><li><a href="Subagruha-top-up-loans">SUBAGRUHA TOP UP LOANS</a></li><li><a href="Subhagruha-housing-loan-cc">SUBHAGRUHA HOUSING LOAN CC</a></li><li><a href="Subhagruha-gen-next-housing-loan">SUBHAGRUHA GEN NEXT HOUSING LOAN</a></li></ul></li> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Status-of-loan-application">Status of Loan Application</a> </li><li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Depository-services1">Depository Services</a> <ul class="dropdown-menu"><li><a href="Dp-forms">DP Forms</a></li><li><a href="Dp-centres">DP Centres</a></li><li><a href="1Equity-trading1">Equity Trading</a></li></ul></li> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Asba1">ASBA</a> </li><li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Iob-fine-gold">IOB Fine Gold</a> <ul class="dropdown-menu"><li><a href="Designated-branches">Designated Branches</a></li><li><a href="Gold-rate">Gold Rate</a></li></ul></li> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" target="_blank" href="https://www.iob.in/Credit-card">Credit Cards</a> </li><li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Insurance-and-mutual-fund1">Insurance and Mutual Fund</a> <ul class="dropdown-menu"><li><a href="Iob-health-care">IOB Health Care</a></li><li><a href="1Third-party-insurance-schemes1">Third Party Insurance Schemes</a></li><li><a href="Easy-health-group-insurance">Easy Health Group Insurance</a></li><li><a href="Iob-suraksha">IOB Suraksha</a></li></ul></li> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Real-time-gross-settlement">Real Time Gross Settlement (RTGS)</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Pension-payment-scheme">Pension Payment Scheme</a> </li><li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Savings-scheme">Savings Scheme</a> <ul class="dropdown-menu"><li><a href="1Provident-fund-scheme-19681">Provident Fund Scheme 1968</a></li><li><a href="1Senior-citizen-scheme-20041">Senior Citizen Scheme 2004</a></li><li><a href="68-percent-savings-taxable-bond-scheme">8 Percent Savings Taxable Bond Scheme</a></li><li><a href="Sukanya-samriddhi-yojana-scheme">Sukanya Samriddhi Yojana Scheme</a></li></ul></li> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Locker-facility">Locker Facility</a> </li><li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Iob-mpassbook">IOB mPassbook</a> <ul class="dropdown-menu"><li><a href="1Product1">Product</a></li><li><a target="_blank" href="UPLOAD/TopMenuFile/TOPSUBMENU150867MainMenuEnglishLevel-3_mPassbook_FAQ.pdf">FAQs - mPassbook</a></li></ul></li> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Self-service-pb-printing-kiosk">Self Service PB Printing KIOSK</a></li></ul></li><li class="dropdown "><a href="1Corporate-banking1" class="dropdown-toggle removelink disabled" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="text-decoration: none;"> CORPORATE BANKING<span class="caret"></span></a>  <ul class="dropdown-menu"> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Micro-small-medium-enterprises">Micro Small &amp; Medium Enterprises(MSME)</a> <ul class="dropdown-menu"><li><a href="Msme-online-application">MSME Online Application</a></li><li><a href="1Mudra-loan-application1">MUDRA Loan Application</a></li><li><a target="_blank" href="UPLOAD/TopMenuFile/TOPSUBMENU142086MainMenuEnglishLevel-3_Stand up India - Loan Application.pdf">Stand up India - Loan Application</a></li><li><a href="Term-loan">Term Loan</a></li><li><a href="1Working-capital-loans1">Working Capital Loans</a></li><li><a href="Banks-commitment-to-mse">Banks Commitment to MSE</a></li><li><a href="Loans-for-professional-and-self-employed">Loans For Professional and Self Employed</a></li><li><a href="1Sme-policies">SME Policies</a></li><li><a href="Sme-misc">SME Misc</a></li><li><a href="Customer-interaction-day">CUSTOMER INTERACTION DAY</a></li><li><a href="1Msme-credit-schemes-at-a-glance1">MSME CREDIT SCHEMES-At a glance</a></li><li><a href="1Regional-msme-care-centres1">Regional MSME care centres</a></li><li><a href="Sme-scheme">SME Scheme</a></li><li><a target="_blank" href="https://www.iob.in/SuccessStoryMudraBeneficiary">Success Story of Mudra Beneficiary</a></li><li><a target="_blank" href="https://www.iob.in/PhotosMudraBeneficiary.aspx">Photos of Mudra Beneficiary</a></li></ul></li> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1It-ites-bpo1">IT &amp; Ites BPO</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Merchant-banking">Merchant Banking</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Swift-centers">SWIFT Centers</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Authorised-dealer-branches1">Authorised Dealer Branches</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Bg-verification">BG Verification</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Iob-expo-gold-card1">IOB Expo Gold Card</a></li></ul></li><li class="dropdown "><a href="Nri-accounts" class="dropdown-toggle removelink disabled" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="text-decoration: none;"> NRI ACCOUNTS<span class="caret"></span></a>  <ul class="dropdown-menu"> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Nri-newsletter">NRI Newsletter</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Nri-queries">NRI QUERIES</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Non-resident-ordinary">Non-Resident Ordinary (NRO)</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Resident-foreign-currency-account">Resident Foreign Currency Account (RFC)</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Foreign-currency-non-resident-accounts">Foreign Currency Non-Resident Accounts(Banks)</a> </li><li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Nri-homeloan-scheme1">NRI Homeloan Scheme</a> <ul class="dropdown-menu"><li><a href="Home-loans-to-nri">Home Loans to NRI</a></li></ul></li> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Nri-remittances1">NRI Remittances</a> <ul class="dropdown-menu"><li><a href="1Swift-format1">SWIFT Format</a></li><li><a href="Us-dollar">US Dollar</a></li><li><a href="1Gulf1">Gulf</a></li><li><a href="Australian-dollar">Australian Dollar</a></li><li><a href="Canadian-dollar">Canadian Dollar</a></li><li><a href="Newzealand-dollar">Newzealand Dollar</a></li><li><a href="Singapore-dollar">Singapore Dollar</a></li><li><a href="Hong-kong-dollar">Hong Kong Dollar</a></li><li><a href="1Danish-kroner1">Danish Kroner</a></li><li><a href="1Norwegean-kroner1">Norwegean Kroner</a></li><li><a href="1Great-britain-pound1">Great Britain Pound</a></li><li><a href="1Swedish-kroner1">Swedish Kroner</a></li><li><a href="1Swiss-franc1">Swiss Franc</a></li><li><a href="Euro">Euro</a></li><li><a href="1Japanese-yen1">Japanese Yen</a></li></ul></li> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Remittances-procedures">Remittances Procedures</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Forward-cover1">Forward Cover</a> </li><li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Overseas-branches-and-representative-offices">Overseas Branches and Representative Offices</a> <ul class="dropdown-menu"><li><a href="Sukhumvit">Sukhumvit</a></li></ul></li> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Forex">Forex</a> <ul class="dropdown-menu"><li><a target="_blank" href="https://www.iob.in/iob_Forex-rates.aspx">Forex Rates</a></li><li><a href="Aml-wolfsberg-questionnaire-2018">AML Wolfsberg Questionnaire 2018</a></li><li><a href="1Fatca-registration-details1">FATCA REGISTRATION DETAILS</a></li><li><a href="1Fatca-form---w-8ben-e1">FATCA FORM - W-8BEN-E</a></li><li><a href="Us---patriot-act">US - PATRIOT ACT</a></li></ul></li></ul></li><li class="dropdown "><a href="Rural" class="dropdown-toggle removelink disabled" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="text-decoration: none;"> RURAL<span class="caret"></span></a>  <ul class="dropdown-menu"> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Iobs-commitment-for-social-causes">IOB's Commitment for Social Causes</a> <ul class="dropdown-menu"><li><a href="Iob-shakti">IOB-Shakti</a></li><li><a href="1Minority---sachar-committee1">Minority - Sachar Committee</a></li><li><a href="Rseti">RSETI</a></li><li><a href="1Rseti-success-stories1">RSETI Success Stories</a></li></ul></li> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Agricultural-short-terms-loans1">Agricultural Short Terms Loans</a> <ul class="dropdown-menu"><li><a href="New-kisan-credit-card">New Kisan Credit Card</a></li><li><a href="Agri-general-purpose-credit-card">Agri General Purpose Credit Card</a></li><li><a href="Agri-clinic">Agri Clinics and Agri Business Centers</a></li><li><a href="Agricultural-jewel-loans">Agricultural Jewel loans</a></li></ul></li> <li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Financial-inclusion1">Financial Inclusion</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Agricultural-term-loans">Agricultural Term Loans</a> </li><li class="dropdown dropdown-submenu "><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Iob-special-credit-schemes">IOB Special Credit Schemes</a> <ul class="dropdown-menu"><li><a href="Iob-green-credit-yojana">IOB Green Credit Yojana</a></li><li><a href="Iob-urban-horticulture-yojana">IOB Urban Horticulture Yojana</a></li><li><a href="Iob---agri-transport-yojana">IOB - Agri Transport Yojana</a></li><li><a href="Bhumilakshmi">Bhumilakshmi</a></li><li><a href="Bhoomi-shakthi">Bhoomi Shakthi</a></li><li><a href="Iob---arthias-yojana">IOB - Arthias Yojana</a></li><li><a href="Iob-sagarlakshmi">IOB Sagarlakshmi</a></li><li><a href="Iob---warehouse-receipt-finance">IOB - Warehouse Receipt Finance</a></li><li><a href="Iob---krishi-samridhi-scheme">IOB - Krishi Samridhi Scheme</a></li></ul></li> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="1Agriculture-loan-forms1">Agriculture Loan Form</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Iob---kisan-tatkal-scheme">IOB - Kisan Tatkal Scheme</a></li></ul></li><li class="dropdown "><a href="Mobile-banking" class="dropdown-toggle removelink disabled" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="text-decoration: none;"> MOBILE BANKING<span class="caret"></span></a>  <ul class="dropdown-menu"> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="iob-banking-faqs">Mobile Banking FAQs</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Sms-banking">SMS Banking</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" target="_blank" href="UPLOAD/TopMenuFile/TOPSUBMENU72209MainMenuEnglishLevel-2_UPI_PIN_FAQ.pdf">UPI App PIN FAQ</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="M-banking-terms-and-condition">M-Banking Terms and Conditions</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Upi-terms-and-conditions">UPI Terms and Conditions</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" href="Upi-privacy-policy">UPI Privacy Policy</a></li></ul></li><li> <a style="text-decoration: none;  target=" _blank'="" href="https://www.iobnet.co.in/index.html">INTERNET BANKING </a></li><li> <a href="tenderlist.aspx">TENDERS</a></li><li class="dropdown "><a class="dropdown-toggle removelink" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> UPDATE AADHAAR<span class="caret"></span></a>  <ul class="dropdown-menu"> <li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" target="_blank" href="https://www.iobnet.co.in/ibanking/ibAadhaarViewStatusEntry.do?mode=A">Aadhaar Seeding and authentications</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" target="_blank" href="https://www.iobnet.co.in/ibanking/ibAadhaarValidate.do">Aadhaar Authentication through eKYC</a> </li><li><a class="dropdown-toggle removelink disabled" data-toggle="dropdown" target="_blank" href="https://www.iobnet.co.in/ibanking/ibAadhaarViewStatusEntry.do?mode=V">Status of Aadhaar seeding and <br>authentication</a></li></ul></li></ul></div> 
+                   
+            </nav>
+
+    </div>
+
+                <div class="clearfix"></div>
+
+                <section class="content row">
+                    <div class="container">
+                        <div class="row">
+
+
+                            
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>  
+<script>  
+    var data = "";
+    $(document).ready(function () {
+        debugger;
+        $("#btnGetCaptcha").prop("disabled", true);  
+        var iNumber = Math.floor(Math.random() * 10000);
+        data = String(iNumber);
+        
+    //    $('#hdncaptcha').val(String(iNumber));
+     //   alert($('#hdncaptcha').val());
+        $("#divGenerateRandomValues").css({ "background-image": 'url(../img/captcha.png)', 'width': '100px', 'height': '50px','color': 'white' });  
+        $("#divGenerateRandomValues").html("<input id='txtNewInput'></input>");  
+        $("#txtNewInput").css({ 'background': 'transparent', 'font-family': 'Arial', 'font-style': 'bold', 'font-size': '40px' });  
+        $("#txtNewInput").css({ 'width': '100px', 'border': 'none', 'color': 'white' });
+        $("#txtNewInput").val(iNumber);  
+        $("#txtNewInput").prop('disabled', true);   
+    });  
+
+ 
+
+
+</script> 
+
+
+
+ <script type="text/javascript">
+      function ValidateEmail(email) {
+         var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+         return expr.test(email);
+     };
+
+     function validatePhone(txtPhone) {
+         debugger;
+         var filter = /^((\+[1-9]{1,4}[ \-]*)|(\([0-9]{2,3}\)[ \-]*)|([0-9]{2,4})[ \-]*)*?[0-9]{3,4}?[ \-]*[0-9]{3,4}?$/;
+
+         return filter.test(txtPhone);
+     };
+  function RemoveSpecialChar(txtCommnt) {
+         if (txtCommnt.value != '' && txtCommnt.value.match(/^[\w ]+$/) == null) {
+             txtCommnt.value = txtCommnt.value.replace(/[\W]/g, '');
+         }
+     }
+
+     function clearallfields_feedback() {
+         document.getElementById('ctl00_onlimePayment_txtName').value = "";
+         document.getElementById('ctl00_onlimePayment_txtEmail').value = "";
+         document.getElementById('ctl00_onlimePayment_txtmobile').value = "";
+         document.getElementById('ctl00_onlimePayment_txtCommnt').value = "";
+         document.getElementById('ctl00_onlimePayment_txtName').style.color = "#3b3b3b";
+         document.getElementById('ctl00_onlimePayment_txtEmail').style.color = "#3b3b3b";
+         document.getElementById('ctl00_onlimePayment_txtmobile').style.color = "#3b3b3b";
+         document.getElementById('ctl00_onlimePayment_txtCommnt').style.color = "#3b3b3b";
+		 document.getElementById('ctl00_onlimePayment_txtCapthca').value = "";
+		 location.reload();
+     }
+  function isNumber(evt) {
+         evt = (evt) ? evt : window.event;
+         var charCode = (evt.which) ? evt.which : evt.keyCode;
+         if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+             return false;
+         }
+         return true;
+     }
+
+ function isString(evt) {
+         evt = (evt) ? evt : window.event;
+         var charCode = (evt.which) ? evt.which : evt.keyCode;
+         if (charCode >= 48 && charCode <= 57) {
+             return false;
+         }
+         return true;
+     }
+
+     function feedbacksubmit() {
+	 var Captcha = document.getElementById('ctl00_onlimePayment_txtCapthca');
+
+         var name = document.getElementById('ctl00_onlimePayment_txtName');
+         var email = document.getElementById('ctl00_onlimePayment_txtEmail');
+         var phone = document.getElementById('ctl00_onlimePayment_txtmobile');
+         var suggestion = document.getElementById('ctl00_onlimePayment_txtCommnt');
+         var j = 0;
+if (name.value == "") {
+
+             name.focus();
+             name.style.color = "red";
+             j = 1;
+             return false;
+         }
+  if (email.value == "") {
+
+             email.focus();
+             email.style.color = "red";
+             j = 1;
+             return false;
+         }
+ if (!ValidateEmail(email.value)) {
+             alert("Invalid Email Address.");
+             email.focus();
+             email.style.color = "red";
+             j = 1;
+             return false;
+         }
+
+
+       
+         if (phone.value == "") {
+
+             phone.focus();
+             phone.style.color = "red";
+             j = 1;
+             return false;
+         }
+         if (phone.value == "") {
+
+             phone.focus();
+             phone.style.color = "red";
+             j = 1;
+             return false;
+         }
+        
+         if (suggestion.value == "") {
+             suggestion.focus();
+             suggestion.style.color = "red";
+             j = 1;
+             return false;
+         }
+		 if (Captcha.value == "") {
+             Captcha.focus();
+             Captcha.style.color = "red";
+             j = 1;
+             return false;
+         }
+  if (data != Captcha.value) {
+             Captcha.focus();
+             Captcha.style.color = "red";
+             alert("Captcha not match!");
+             j = 1;
+             return false;
+         }
+
+         if (j == 0) {
+
+
+             $.ajax({
+                 type: "POST",
+                 url: "Rating.asmx/feedbacksubmitdata",
+                 data: "name=" + name.value + "&email=" + email.value + "&phone=" + phone.value + "&suggestion=" + suggestion.value,
+                 dataType: "text",
+                 success: function (msg) {
+
+                     var fin = msg.replace('<?xml version="1.0" encoding="utf-8"?>', '');
+                     var fin1 = fin.replace('<string xmlns="http://tempuri.org/">', '');
+                     var fin2 = fin1.replace('</string>', '');
+                     var fin4 = fin2.replace(/~/g, '<');
+                     var fin5 = fin4.replace(/`/g, '>');
+
+
+                     if ($.trim(fin5) == "1") {
+                         $('#hdn_checkpopustatus').val("0");
+                         $('#div_commonpopup1').text("Your Feedback has been successfully Submitted!");
+      alert("Your Query Submited Successfully.");
+                         clearallfields_feedback();
+
+                     }
+
+                 }
+             });
+         }
+         else {
+
+             $('#hdn_checkpopustatus').val("0");
+             $('#div_commonpopup1').text("Captcha is not correct!");
+             show_commonpopup1();
+         }
+
+     }
+
+</script>
+
+
+
+<div class="col-lg-3 ul-main-fourth" style="padding-bottom: 10px;">
+    <div id="ctl00_onlimePayment_Divonlinepay" class="col-md-12 padding0" style="margin-bottom: 10px;"> <div class="reach-us">Online Payment</div> <ul class="sidelink"><li><a href="1Tax-payment1">Tax Payment</a></li><li><a target="_blank" href="https://www.billdesk.com/pgidsk/pgmerc/instpy/IOBIndex.jsp">Utility Payment</a></li><li><a target="_blank" href="https://www.visabillpay.in/iob/">Visa Bill Payment</a></li><li><a target="_blank" href="https://www.iobnet.co.in/ibanking/ibSASTEntry.do">Sastra Fee Payment</a></li><li><a target="_blank" href="http://licindia.in/online_payment.htm">LIC Premimum Payment</a></li></ul></div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="reach-us"> <span id="ctl00_onlimePayment_lblReachus">Reach Us!</span></div>
+           <div class="form-main-div">
+                    <form>
+                        <div class="form-collum">
+                            <div class="form-footer"> 
+                                <input name="ctl00$onlimePayment$txtName" type="text" maxlength="30" id="ctl00_onlimePayment_txtName" onkeypress="return isString(event)" placeholder="Name" onkeyup="javascript:RemoveSpecialChar(this)" class="form-footer-control">
+                            </div>
+                            <div class="form-footer"> 
+                                 <input name="ctl00$onlimePayment$txtEmail" type="text" maxlength="50" id="ctl00_onlimePayment_txtEmail" placeholder="Email" class="form-footer-control">
+                            </div>
+
+                            <div class="form-footer"> 
+                                 <input name="ctl00$onlimePayment$txtmobile" type="text" maxlength="10" id="ctl00_onlimePayment_txtmobile" placeholder="Mobile" onkeypress="return isNumber(event)" class="form-footer-control">
+                            </div>
+                              <textarea name="ctl00$onlimePayment$txtCommnt" rows="2" cols="20" id="ctl00_onlimePayment_txtCommnt" placeholder="Comment" onkeyup="javascript:RemoveSpecialChar(this)" class="form-control"></textarea>
+                           <div id="divGenerateRandomValues" style="color:white;"></div> 
+                              <div class="form-footer"> 
+                              <input name="ctl00$onlimePayment$txtCapthca" type="text" id="ctl00_onlimePayment_txtCapthca" placeholder="Captcha" style="color:black;width: 254px; border-radius: 4px;">
+                                </div>
+                         
+                           <div class="form-footer"> 
+                             <input name="ctl00$onlimePayment$Button1" type="button" id="ctl00_onlimePayment_Button1" class="btn btn-danger" onclick="feedbacksubmit();" value="Submit">
+                               </div>
+                                        
+                        </div>  
+                    </form>
+                </div> 
+
+
+    </div>
+
+    </div>
+
+</div>
+
+
+
+
+                            <div class="col-lg-9" style="color: white; background: #0062c3;">
+                                
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js" type="text/javascript"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js" type="text/javascript"></script>
+    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="Stylesheet" type="text/css">
+    <input type="hidden" id="hdn_id" value="-1">
+    <input name="ctl00$ContentPlaceHolder1$hdn_divshow" type="hidden" id="ctl00_ContentPlaceHolder1_hdn_divshow" value="other">
+
+    <script>
+        function show(id) {
+            if (id == $('#hdn_id').val()) {
+                $('#hdn_id').val(-1);
+                $("#arrw" + id + "").html("&#9654;");
+                $("#faqcont" + id + "").slideUp();
+            }
+            else {
+                $('#hdn_id').val(id);
+                $(".slidediv").slideUp();
+                $(".arrow").html("&#9654;");
+                $("#arrw" + id + "").html("&#9660;");
+                $("#faqcont" + id + "").slideDown();
+            }
+        }
+
+        function PrintDiv() {
+            var divContents = document.getElementById("chartdiv").innerHTML;
+            var printWindow = window.open('', '', 'height=200,width=400 ');
+            printWindow.document.write('<html><head><title>Welcome to Indian Overseas Bank</title>');
+            printWindow.document.write('<style>#ContentPlaceHolder1_CompletedCasesReportControl_divreopen{display:none;}.topdf{display:none;}.thhead {background-color: #f9f9f9;font-weight: bold;  color: black;}.table th, .table td {padding: 8px;line-height: 20px;  color: black; vertical-align: top;border-top: 1px solid #ddd; text-align:left;}.thSubhead {color: grey;}.table { width: 100%;margin-bottom: 20px;  color: black;}.table{border:1px solid #ddd;margin-top: 10px;font-size:16px; width: 100%;    color: black; } table th{width:40%;border-right:1px solid #ddd;font-size:16px;text-align:left;  color: black;}table td{font-size:16px;text-align:left;  color: black;}.table th, .table td {padding: 8px;line-height: 20px;text-align:left; vertical-align: top;border-top: 1px solid #ddd;  color: black;}.table th {font-weight: bold;}.thhead {background-color: #f9f9f9;font-weight: bold;  color: black;}</style>');
+            printWindow.document.write('</head><body >');
+            printWindow.document.write(divContents);
+            printWindow.document.write('</body></html>');
+            printWindow.document.close();
+            printWindow.print();
+        }
+    </script>
+
+     
+    <style>
+        .GridPager span {
+            background-color: #A1DCF2;
+            color: #000;
+            border: 1px solid #3AC0F2;
+        }
+
+        h1, h1 {
+    font-size: 15px;
+font-family: 'Lato', sans-serif;
+text-align:justify;
+
+}
+        p {
+                line-height: 22px;
+font-family: 'Lato', sans-serif;
+text-align:justify;
+
+        }
+
+        /*b, strong {
+    font-weight: 400;
+}*/
+
+      table  li {
+            margin-bottom: -20px;
+            text-align:justify;
+
+        }
+
+       td  li {
+            margin-bottom: 5px;
+        }
+
+        .col-lg-9 td li {
+            margin-bottom: 4px;
+        }
+        a {
+        color: #5cf959;
+        }
+
+         a:hover  {
+                color: white;
+        }
+
+         table .table {
+    background-color: transparent;
+    background: none;
+}
+
+        .tablebg {
+          background: none;
+        }
+        div {
+          text-align:justify;
+        }
+        
+    </style>
+
+      <div style="float: right;">
+                <img id="Img1" onclick="PrintDiv();" class="topdf" src="img/print.png" height="25px">
+            </div>
+    <div id="ctl00_ContentPlaceHolder1_pn_dep" class="beadcom">
+	
+
+        <a href="Default.aspx" id="ctl00_ContentPlaceHolder1_link_hometxt" class="txtcolor">Home</a>
+        <span style="font-weight: bold; color:white;">&gt;</span>
+        <a>
+            <span id="ctl00_ContentPlaceHolder1_lbl_mainlink" class="txtcolor">Mobile banking</span></a> <span id="ctl00_ContentPlaceHolder1_mainblink" style="font-weight: bold;  color:white;">&gt;</span>
+        <span id="ctl00_ContentPlaceHolder1_lbl_innerLink" style="color:white;">UPI Privacy Policy</span>
+        <a>
+            </a>
+        <a>
+            <span id="ctl00_ContentPlaceHolder1_lbl_subchildlink" class="txtcolor"></span></a> 
+        <div id="ctl00_ContentPlaceHolder1_lbl_description" style="width: 700px"></div>
+           
+    
+</div>
+     
+    <div id="ctl00_ContentPlaceHolder1_div_lastupdatedon" class="beadcom" style="float: right;">
+        <a id="ctl00_ContentPlaceHolder1_lbl_lastupd">Last Updated on</a>
+        <span id="ctl00_ContentPlaceHolder1_lbl_lastupdated" style="color:White;">30/03/2019</span>
+    </div> 
+             <div id="chartdiv">
+    <div id="div_default">
+        <div id="ctl00_ContentPlaceHolder1_left_inner" style="float: left">
+        </div>
+         
+        <div>  
+            <div style="margin-top:9px; margin-bottom: 10px;">
+                <span id="ctl00_ContentPlaceHolder1_lbl_headingtitle" style="color: #fff; font-size: 19px;">UPI Privacy Policy</span> 
+            </div> 
+            <hr>
+
+        </div>
+
+          
+        <h2>
+            <span id="ctl00_ContentPlaceHolder1_lblNewsType" style="color: #145198; font-size: 20px;"></span> 
+        </h2>
+         
+        
+        
+
+        <div id="ctl00_ContentPlaceHolder1_ohtr_descrp">
+            <p>
+                <span id="ctl00_ContentPlaceHolder1_lbl_othrDescrpt"></span></p><p style="text-align: center;"><strong><span style="text-decoration: underline;">Privacy Policy for BHIM IOB UPI Service</span></strong></p>
+<p style="text-align: center;"><strong><span style="text-decoration: underline;"><br></span></strong></p>
+<p style="text-align: justify;"><strong>Introduction</strong></p>
+<p style="text-align: justify;"><strong></strong>This Privacy Policy is applicable to all Users of&nbsp;BHIM IOB UPI Service. Please read this Privacy Policy carefully. By using this service, you represent that you have read and understood the terms and conditions of usage, which includes this Privacy Policy, and You agree to be bound by all its terms.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong>Policy Change</strong></p>
+<p style="text-align: justify;"><strong></strong>Our privacy policy is subject to change at any time without prior notice. You are advised to review the policies periodically for any changes.</p>
+<p style="text-align: justify;">By using the app and/ or by providing your information, you consent to the collection and use of the information you disclose on the app in accordance with this Privacy Policy, including but not limited to your consent for sharing your information as per this privacy policy.</p>
+<p style="text-align: justify;">If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</p>
+<p style="text-align: justify;">By downloading this app you agree to the terms and conditions of this Privacy Policy given by the application. We will not be able to on board you in case you are not in agreement with the terms and condition. By mere use of BHIM IOB UPI you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.</p>
+<p style="text-align: justify;"><strong>&nbsp;</strong></p>
+<p style="text-align: justify;"><strong></strong><strong>Use and sharing of Information:</strong><span style="font-weight: bold;">&nbsp;</span></p>
+<p style="text-align: justify;">When you use our application, we collect and store your personal information provided by you from time to time. We do so to ensure that you are provided a safe, efficient, smooth and seamless experience. This also allows us to understand your needs and provide for services and features that best suit them. We strive to provide for customizations on our application to ensure that your experience is always safer and easier. This requires collection of personal information to the extent necessary for achieving this purpose and objective.</p>
+<p style="text-align: justify;">You may please note that it is mandatory to register yourself in order to use the app. And once you give us your personal information, you are not anonymous to us. We may automatically track certain information about you based upon your behaviour on our app to the extent we deem fit.</p>
+<p style="text-align: justify;">We retain this information as necessary to resolve disputes in terms of transactions and otherwise, where needed, provide customer support and troubleshoot problems as permitted by law. We collect personally identifiable information (email address, name, phone number, account number etc.) from you when you register with us to create your unique identification in terms of a Virtual Payment Address and/or any other unique registration identification that is/shall be made available to our customers.<span style="font-weight: bold;">&nbsp;</span></p>
+<p style="text-align: justify;">We use personal information to provide the services you request. We use your personal information to resolve disputes; troubleshoot problems; Send money, collect money; etc.We use the information thus obtained to customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions which are an integral part of the use of this application; and as otherwise described to you at the time of such collection.</p>
+<p style="text-align: justify;">We identify and use your IP address to help diagnose problems with our server, and to administer our app. Your IP address is also used to help identify you and to gather broad demographic information.<span style="font-weight: bold;">&nbsp;</span></p>
+<p style="text-align: justify;">We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal processes. We may disclose personal information to law enforcement offices upon such requests, third party rights owners or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.</p>
+<p style="text-align: justify;">We will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.</p>
+<p style="text-align: justify;"><strong>&nbsp;</strong></p>
+<p style="text-align: justify;"><strong>Information Security</strong><span style="font-weight: bold;">&nbsp;</span></p>
+<p style="text-align: justify;">Our app has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control and follows the best practices in the industry in this regard. Whenever you change or access your account information, it is through secure channels. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.</p>
+<p style="text-align: justify;">By Accepting Privacy policy you are agreeing to provide the below permissions required by the application:</p>
+<p style="text-align: justify;"><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>ANDROID APPLICATION PRIVACY POLICY PERMISSIONS REQUIRED AND THEIR PURPOSE</strong></li>
+</ul>
+<p style="text-align: justify;">1.&nbsp; &nbsp;android.permission.ACCESS_FINE_LOCATION - To get a precise location using both GPS_PROVIDER and NETWORK_PROVIDER.</p>
+<p style="text-align: justify;">2.&nbsp; &nbsp;android.permission.ACCESS_COARSE_LOCATION - The Coarse location provides less accurate locations when in a battery save mode.</p>
+<p style="text-align: justify;">3.&nbsp; &nbsp;android.permission.ACCESS_WIFI_STATE - To access information about Wi-Fi networks.</p>
+<p style="text-align: justify;">4.&nbsp; &nbsp;android.permission.ACCESS_NETWORK_STATE - To access internet connection via Direct Internet</p>
+<p style="text-align: justify;">5.&nbsp; &nbsp;android.permission.INTERNET - for accessing internet</p>
+<p style="text-align: justify;">6.&nbsp; &nbsp;android.permission.READ_EXTERNAL_STORAGE - To read the saved QR image files from device gallery.</p>
+<p style="text-align: justify;">7.&nbsp; &nbsp;android.permission.SEND_SMS - To verify user's mobile number.</p>
+<p style="text-align: justify;">8.&nbsp; &nbsp;android.permission.WRITE_EXTERNAL_STORAGE&nbsp; - To save generated QR code file into device so that it can be shared via social apps.</p>
+<p style="text-align: justify;">9.&nbsp; &nbsp;android.permission.CAMERA - to scan the QR code</p>
+<p style="text-align: justify;">10.&nbsp; &nbsp;android.permission.READ_PHONE_STATE - to access sim serial number of user to provide an option to user to send an SMS from available SMS providers.</p>
+            <p></p>
+        </div>
+        
+
+        <div id="ctl00_ContentPlaceHolder1_newarticle">
+        </div>
+
+        
+        <script src="js/newjss/cbpFWTabs.js"></script>
+        <script>
+            (function () {
+
+                [].slice.call(document.querySelectorAll('.tabs')).forEach(function (el) {
+                    new CBPFWTabs(el);
+                });
+
+            })();
+        </script>
+        <script>
+
+            $(document).ready(function () {
+                var NewsId = GetParameterValues('newsid');
+
+
+                if (NewsId == 'section-linebox-6') {
+
+                    $('#section-linebox-6').trigger('Show'); 
+                } 
+                function GetParameterValues(param) {
+                    var url = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+                    for (var i = 0; i < url.length; i++) {
+                        var urlparam = url[i].split('=');
+                        if (urlparam[0] == param) {
+                            return urlparam[1];
+                        }
+                    }
+                }
+            });
+
+        </script> 
+    </div>
+     </div>
+    <style>
+        @media all and (max-width:1210px) {
+        }
+    </style> 
+
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+                
+
+<footer class="content row">
+    <div class="container">
+        <div class="row footer-main-one">
+
+
+            <div class="col-lg-9">
+                <div id="ctl00_Footer_divFooter" class="footer-li-link"><ul class="list-inline"><li><a href="1About-us1">About Us</a></li>|<li><a href="Related-links">Related Links</a></li>|<li><a href="1Careers1">Careers</a></li>|<li><a href="Reach-us">Reach Us</a></li>|<li><a target="_blank" href="https://www.iobnet.co.in:4003/spgrs/cust_login.aspx">For Customer Complaints</a></li>|<li><a href="1Pmjdy-and-financial-inclusion1">PMJDY and Financial Inclusion</a></li>|<li><a href="Investor-cell">Investor Cell</a></li>|<li><a href="Sitemap">SiteMap</a></li>|<li><a href="Staff-and-ex-staff">Staff and Ex-Staff</a></li>|</ul></div>
+
+            </div>
+
+            <div class="col-lg-2 col-xs-8">
+                <div class="visitor-main">
+                    <span id="ctl00_Footer_lblVisitors" style="float: left;">Visitors - </span>
+                    <span class="visi-no">
+                        <span id="ctl00_Footer_lblvisitorCount">50667893</span>
+                         </span>
+                </div>
+            </div>
+            <div class="col-lg-1 col-xs-4 pecs">
+                <a href="http://www.planetecomsolutions.com/" title="http://www.planetecomsolutions.com/" style="color: white;" alt="PECS" target="_blank">
+                    <img src="img/planet_logo.png" style="width: 20px; margin-left: 3px;">PECS</a>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 padding-footer0">
+                    <span id="ctl00_Footer_lblBank">©Indian Overseas Bank - 2010 - 2017</span>
+                    <br>
+                    <span id="ctl00_Footer_lblLastUpdated"> Last Updated On  25-Apr-2019</span>
+
+
+                </div>
+                <div id="ctl00_Footer_DivFooter2" class="col-lg-8 footer-li-link-txt padding-footer0"><a href="Lending-benchmark-rate">Lending Rates (MCLR)</a>&nbsp;<a target="_blank" href="https://www.iob.in/iob_Forex-rates.aspx">Forex Rates</a>&nbsp;<a href="Service-charges">Service Charges</a>&nbsp;<a href="Basel-ii---disclosure">Basel II - Disclosure</a>&nbsp;<a href="Basel-iii-disclosures">Basel III Disclosures</a>&nbsp;<a href="Dncr">DNCR</a>&nbsp;<a href="Whistle-blower-scheme">Whistle Blower Scheme</a>&nbsp;<a href="Rti-act-2005">RTI act 2005</a>&nbsp;<a href="Disclaimer">Disclaimer</a>&nbsp;<a href="1Overseas-branches-and-representative-offices1">Overseas Branches and Representative Offices</a>&nbsp;<a href="1Advance-rate-for-jewel-loan1">Advance Rate for Jewel Loan</a>&nbsp;<a href="1Accessibility-statement1">Accessibility Statement</a>&nbsp;<a href="Auditors">Auditors</a>&nbsp;<a href="Reservation-roster">Reservation Roster</a>&nbsp;</div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+
+</footer>
+
+            </div>
+        </header></div>
+        <div class="sticky-social">
+            <aside id="sticky-social">
+                <ul class="list-unstyled">
+                    <li><a href="https://www.instagram.com/iobindia/" class="entypo-instagrem" target="_blank"><span>Instagram</span></a></li>
+                    <li><a href="https://twitter.com/iobindia" class="entypo-twitter" target="_blank"><span>Twitter</span></a></li>
+                 <li><a href="https://www.youtube.com/c/iobindia" class="entypo-gplus" target="_blank"><span>Youtube</span></a></li>
+                </ul>
+            </aside>
+        </div>
+    
+
+
+</div></form></body></html>
