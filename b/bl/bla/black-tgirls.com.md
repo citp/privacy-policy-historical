@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the black-tgirls.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901150448id_/http%3A//www.black-tgirls.com/compliance/privacypolicy.php%3Fsite%3DBlack%2520TGirls) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the black-tgirls.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426010935id_/http%3A//www.black-tgirls.com/compliance/privacypolicy.php%3Fsite%3DBlack%2520TGirls) for the most accurate reproduction.*
 
-# Black TGirls - Privacy Policy
+# Black TGirls GDPR Policy
 
-PRIVACY POLICY
+GDPR PRIVACY POLICY
 
 FOR
 
 “Black TGirls”
 
-Effective Date: May 17, 2011
+Effective Date: May 22, 2018
 
-Last Edited Date: May 17, 2011
+Last Edited Date: May 24, 2018
 
 * * *
 
   
 This Privacy Policy applies to the following Web site: (“Site” or “we/our”).
 
-**We are totally committed to protecting your privacy and security.**
+At Grooby we are totally committed to protecting your privacy and security.
 
-. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. By accessing and using our Site, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Site. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting. The Site requests that you read this Privacy Policy carefully and consult it regularly.
+The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. By accessing and using our Site, you signify your assent to this GDPR policy. If you do not agree with our information practices, please do not access or use our Site. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting. The Site requests that you read this GDPR policy carefully and consult it regularly.
 
 Information Collection and Use 
 
@@ -41,7 +41,7 @@ A cookie is a piece of data stored on the user’s hard drive when the user visi
 
 Sharing and Third Party Distribution of Information
 
-We reserve the right to distribute, or otherwise make available, personally identifiable information about our users to third parties. We are not responsible for the third parties use of this information. We also reserve the right to make such information available to third parties in the future in order to enhance and personalize our services, or in the case of bankruptcy, sale of an asset, business or division, a merger or acquisition, or similar change of ownership.  The Site also makes chat rooms, forums, message boards, live video chat rooms, clubs, and/or news groups available to our users. Please remember that information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+We do not sell or share, or otherwise make available, personally identifiable information about our users to third parties, other than billing companies who are directly related to your purchase or for the general operation of our sites. We also reserve the right to make such information available to third parties in the future in order to enhance and personalize our services, or in the case of bankruptcy, sale of an asset, business or division, a merger or acquisition, or similar change of ownership. The Site also makes chat rooms, forums, message boards, live video chat rooms, clubs, and/or news groups available to our users. Please remember that information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 Law Enforcement
 
@@ -67,20 +67,31 @@ Information Retention
 
 We retain all user information indefinitely. 
 
-Newsletters, Correspondence, and Opt-out Policy  
+Designated Data Protection Officer (DPO)
+
+Our designated GDPR Officer who is based in the EU may be contacted via the following email address - admin@grooby.com 
+
+Newsletters, Correspondence, Opt-out and Data Removal Policy  
 
 
-We may send our users e-mails or other notices regarding new services, promotions, or other information that may be of general interest. Users who no longer wish to receive materials from us may opt-out of receiving these communications by contacting us. We will comply will all requests for removal. 
+We may send our users e-mails or other notices regarding new services, promotions, or other information that may be of general interest. Users who no longer wish to receive materials from us may opt-out of receiving these communications by contacting us. You may also request complete removal of any data we hold about you. We will comply will all requests for removal. Please email admin@grooby.com with any opt-out or data removal requests. 
+
+How you can access and update your information  
+
+
+The accuracy of your information is important to us. We're working on ways to make it easier for you to review and correct the information that we hold about you. In the meantime, if you change email address, or any of the other information we hold is inaccurate or out of date, please email us at: admin@grooby.com 
+
+You have the right to ask for a copy of the information Grooby hold about you (we may charge 20EUR for information requests) to cover our costs in providing you with details of the information we hold about you. 
 
 Notification of Changes  
 
 
-We reserve the rightto modify this Privacy Policy at any time by posting such changes on our Site. Any changes to this Privacy Policy will become effective upon posting such changes.  If you access or use our Site, you are required to periodically check our Privacy Policy for any changes. If you continue to access or use our Site after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy. 
+We reserve the rightto modify this GDPR policy at any time by posting such changes on our Site. Any changes to this GDPR policy will become effective upon posting such changes.  If you access or use our Site, you are required to periodically check our GDPR policy for any changes. If you continue to access or use our Site after we have changed our GDPR policy, you manifest your assent to the changes to our GDPR policy. 
 
-If we decide to useyour personally identifiable information in a manner materially different from that stated in the Privacy Policy at the time that such information was collected, we will attempt to notify you of such changes.  You agree that if we send you an e-mail to the e-mail address reflected in our records, such e-mail will constitute acceptable notice to you of the change in our policy. The notice will provide you with an opportunity to “opt-out” so that we may not use your personally identifiable information in a manner which is different from the manner described at the time that you provided us with such information. If you do not affirmatively “opt-out” pursuant to the instructions provided to you in the notice, then you agree that we may use your personally identifiable information in the manner described in the notice. (If we have no e-mail address for you, or if we do not have a current e-mail address for you, then you agree that adequate notice of the change in our policy will be effected by posting such a change onto our Privacy Policy, which shall also disclose information about how you may “opt-out” so that we may not use your personally identifiable information in a manner which is materially different from the manner described at the time that you provided us with such information. If you do not affirmatively “opt-out” pursuant to the instructions posted within the time period specified, then you agree that we may use your personally identifiable information as described in the posted notice).
+If we decide to use your personally identifiable information in a manner materially different from that stated in the GDPR policy at the time that such information was collected, we will attempt to notify you of such changes.  You agree that if we send you an e-mail to the e-mail address reflected in our records, such e-mail will constitute acceptable notice to you of the change in our policy. The notice will provide you with an opportunity to “opt-out” so that we may not use your personally identifiable information in a manner which is different from the manner described at the time that you provided us with such information. If you do not affirmatively “opt-out” pursuant to the instructions provided to you in the notice, then you agree that we may use your personally identifiable information in the manner described in the notice. (If we have no e-mail address for you, or if we do not have a current e-mail address for you, then you agree that adequate notice of the change in our policy will be effected by posting such a change onto our GDPR policy, which shall also disclose information about how you may “opt-out” so that we may not use your personally identifiable information in a manner which is materially different from the manner described at the time that you provided us with such information. If you do not affirmatively “opt-out” pursuant to the instructions posted within the time period specified, then you agree that we may use your personally identifiable information as described in the posted notice).
 
 Contact Information
 
-If you have any questions about this Privacy Policy, you can contact us by sending an e-mail. Please provide us with your name and e-mail address so we can service you quicker.
+If you have any questions about this GDPR Policy, you can contact us by sending an e-mail. Please provide us with your name and e-mail address so we can service you quicker.
 
 Please send your e-mail to: admin@grooby.com
