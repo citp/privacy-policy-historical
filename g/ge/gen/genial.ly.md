@@ -1,207 +1,210 @@
-> *The following text is extracted and transformed from the genial.ly privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630132242id_/https%3A//www.genial.ly/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genial.ly privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425083007id_/https%3A//www.genial.ly/privacy) for the most accurate reproduction.*
 
-# Genial.ly - Home Page
+# Genially Privacy Policy
 
-[ ](https://web.archive.org/ "Genial.ly")
+Last updated May 24, 2018.
 
-## Genially Terms of Use
+This webpage is property of GENIALLY WEB SL, CIF: B56019912; Registered Office: PLAZA RAMÓN Y CAJAL, 4, 4º CP 14003 Córdoba, Spain; Telephone: 957251152; Email: info@genial.ly, support@genial.ly
 
-Last updated March 24, 2017. 
+Registered in the Commercial Register of Córdoba, Book 2154, Sheet 51, number CO-35517, registration 1ª - C.I.F. B-56019912.
 
-These terms and conditions ("Terms of Use") govern your use of the Genially service. They apply to the service made available by GeniallyWeb S.L. (“Genially”) on Genial.ly and to any other platform via which the service is made available or can be used. By using the Genially service, you agree to be bound by the following terms and conditions. 
+### 1\. Right to information.
 
-### I. Basic Terms
+The privacy policy of GENIALLY WEB SL (henceforth GENIALLY) provides information about how GENIALLY collects personal data and how it uses that data. Although we believe that our focus when processing personal data is fair and reasonable, review this document carefully. We want to ensure that we are fully transparent about how this data is used.
 
-Understand that Genially provides you with a service, but you remain responsible for both i) how you use the Genially service, and for (ii) any data, text, links, information, image and/or any other material ("Content") that you choose to use to annotate and display using the Genially service. The Acceptable Use Policy sets out rules on what kind of use is acceptable and what is prohibited, and by accepting these Terms of Use you also agree to comply with the Acceptable Use Policy. 
+The current policy of data protection regulates the access and use of the service of the Website www.genial.ly that GENIALLY makes available to Internet Users interested in its services and tools for the creation of content.
 
-Should you violate these Terms of Use or the Policies, you are no longer entitled to use the Genially service, and Genially may take any appropriate actions to prevent you from using the service. 
+This Webpage is subject to the norms exclusively applicable in Europe, and both nationals and foreigners who use the Web are subject to it, and hereafter to the Law 34/2002, of the 11th of July, of Societal Services of Information and Electronic Commerce and the REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND COUNCIL of the 27th of April of 2016 in relation to the protection of natural persons regarding the treatment of personal data and the free circulation of this data under current legislation.
 
-### II. General Conditions
+In conformance with what is established by the current laws and regulations, GENIALLY WEB SL, owner of the Website, informs the user of this site of the existence of a database of personal nature created by GENIALLY under its responsibility.
 
-We reserve the right to modify the Genially service for any reason, and we will post information about any substantial changes made to the service on our website. 
+Access to our Web page by USERS is free, and for PREMIUM USERS it is contingent upon the contract and the payment of the contracted service.
 
-We reserve the right to alter these Terms of Use at any time. You agree that such alteration will be effective upon posting it on our website, and you will be bound to any such alterations when you use the Genially service after such alteration is posted. It is therefore important that you review these Terms of Use regularly to ensure that you are updated regarding any such alterations. 
+Both access points are contingent upon the previous reading and complete explicit and unqualified acceptance of the present GENERAL TERMS OF USE in place from the moment of access and which we ask that you read thoroughly.
 
-### III. Intellectual Property Rights
+The users guarantee and answer to the truthfulness, exactness, authenticity and current nature of the personal data provided.
 
-The Genially service is protected by copyright, trademark, trade secrets and other intellectual property rights of Genially. These Terms of Use do not grant you any rights in the Genially service as such, except for your right to use the service in accordance with these Terms of Use. 
+The provision of personal information by the user through our online portal requires a minimum age of 14, or sufficient legal capacity to contract, by virtue of the legislation of Current Protection of Personal Data. In the case of a user under 14, the legal guardian of the minor will be responsible for the use and access that's carried out through our website.
 
-The rights to use javascripts, modules and any other code from Genially platforms belong without any exception to Genially Web S.L. 
+We can, at any time, modify the presentation and configuration of our Web, increase or reduce services, and even remove it as well as borrowed services and content from the Internet.
 
-We claim no intellectual property rights over the material you provide to the Genially service. Your materials remain yours. However, unless and until otherwise expressly informed by you, you grant Genially a non-exclusive, royalty-free, worldwide and perpetual right to use, modify, distribute, and prepare derivative works of such material solely on the Genially service. 
+Confidentiality and security are primary values of GENIALLY and, as a consequence, we take on the commitment to guarantee the privacy of our Users at all times and to not collect unnecessary information.
 
-### IV. User Eligibility
+Down below, we provide you with all the necessary information about our Privacy Policy in relation to the personal data we collect in compliance with article 10 of the Law 34/2002, of the 11th of July, of the services of the Societal Services of Information and Electronic Commerce (LSSICE) and article 13 of the RGPD 2016/679 of the EUROPEAN PARLIAMENT AND COUNCIL of the 27th of April of 2016 concerning the protection of natural persons with regards to the treatment of personal data and the free circulation of that data, and we inform you of the content of this Treatment, specifying:
 
-Our services are available to people of all ages, but children under thirteen should only use the service under the supervision of their parents or guardians. If you are using the Genially service as a business entity, you (i) acknowledge that you have the authority to bind the entity to these Terms of Use, and (ii) must sign up to a Team Account. 
+  
 
-### V. Account types and fees
 
-Genially offers the service to both individuals and businesses. For descriptions of all account types and features currently available, please see the Genially Website (“Website”). 
+  * Who is in charge of the processing or treatment of your data.
+  * For what purpose do we gather the data we request.
+  * What is the legal basis (legitimation) for your treatment: Consent
+  * Conservation Period of your personal data
+  * In the case of Transfer: To which recipients will your data be disclosed.
+  * What are your rights.
 
-### VI. Release
 
-In the event that you have a dispute with one or more Genially users, you release Genially (and our employees) from claims, demands and damages of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such disputes. 
 
-### VII. Removal of Content
+### 2\. Overseer of the Treatment of Protection of Personal Data
 
-We may, but have no obligation to, remove Content from the Genially service that we determine in our sole discretion is unlawful, offensive, threatening, libelous, defamatory, obscene or otherwise objectionable or violates these Terms of Use. 
+GENIALLY WEB SL, CIF: B56019912; Registered Office: PLAZA RAMÓN Y CAJAL, 4, 4º CP 14003 Córdoba, Spain; Telephone: 957251152; Email: info@genial.ly, support@genial.ly
 
-We review all claims of copyright or other intellectual property right infringements received and remove the Content (including the tags and windows created with the Genially service) from the Genially service if such Content is deemed to have been annotated or displayed in violation of any such laws. To make a claim, please provide us with the following: 
+GENIALLY implements two kinds of Treatments, which comply with current regulations on data protection and ensure that the data you provide is treated legally and securely.
 
-  * A description of the work protected by copyright or other intellectual property right and claimed to have been infringed.
-  * A description of the infringing Content and information reasonably sufficient to enable us to locate the infringing Content.
-  * Your contact information, including your address, telephone number and email address.
-  * A statement by you that you have, without results, requested the provider of the infringing Content to cease the infringing activity or that you have not been able to identify the provider of the infringing Content.
-  * A statement by you that you have a good faith belief that the use of the infringing Content in the manner complained of is not authorized by the rights owner, its agent or by law.
-  * A statement by you that the information in the notification is accurate and that you are the owner of the infringed copyright or other intellectual property right or the person authorized to act on his/her behalf.
-  * Your signature.
+  
 
 
+  1. USERS, for those users registered with the service through a free account for which we request an email and password to provide access to free services. The User can be asked for additional information about his or her profile, with a merely statistical goal (education, enterprise, digital content) and to direct the User to the content that most closely fits his or her profile in conformance with the foreseen use of the tools to create content (professor, student, administration, designer, etc.).
+  2. PREMIUM USERS, for those users registered with the service through the acquisition of a Premium account, through a paid subscription, treated as clients and who are asked for, along with their email, other basic identification data used to manage the commercial and fiscal relationship. The additional information that is asked for with merely statistical goals and to know the user's profile (teacher, student, etc.)
 
-The above claims can be sent to info@genial.ly 
 
-### VIII. Third party content
 
-The Genially service may include content developed by third parties, including but not limited to custom tags, windows and content from third-party websites incorporated into images via the custom tags or windows (“Third-Party Content”). Genially accepts no liability for any errors, omissions or other deficiencies in such Third-Party Content. Third-Party Content can be subject to its own terms of use, which you need to comply with in order to use such Third-Party Content. 
+### 3\. Obligation to provide us with your personal data and the consequences of not doing so.
 
-### IX. Privacy
+The personal data requested is necessary to manage your subscription and/or provide the services of creation of content and/or those services associated with the commercial and administrative activity (Premium Users) of GENIALLY. Therefore, if you don't provide this information to us, we will not be able to give you access to the subscription application or offer you the service your have requested.
 
-Your privacy is of utmost importance to us, as we believe that by protecting your privacy, we also make our service better. In order to see how we collect and process personal data, please see our Privacy Policy. 
+#### THE TYPE OF INFORMATION WE COLLECT.
 
-### X. No Warranty
+We collect Usage Data (that as such does not contain personal data or other personal identifying information) and Personal Data.
 
-We, our officers, directors, employees, and our suppliers provide our website and services on an “as is” and “as available” basis. We do not make any warranties, whether express, implied or statutory (including but not limited to fitness for a particular purpose and non-infringement) regarding the use or the results of the use of the genially service or any third-party content, to the greatest extent permitted by law. 
+Usage data. When you use the GENIALLY service our servers (that can be stored by a third-party provider) can collect information indirectly and automatically (through, for example, the use of your "IP address") about your activity while you visit our website, including the web pages you view and the number of times you view them and information about the browser you are using. We use this browsing information for internal ends, such as to help us understand how websites are being used and to improve it, and also to system administration ends. An IP address is a number that is automatically assigned to your computer when it uses Internet. In some cases, its IP address remains the same from the browsing session until the following session with the browser; but if you use an Internet access provider, your IP address will likely vary from one session to another.
 
-### XI. Liability Limitation
+Generally, the usage data does not contain personal information. However, in some cases, the usage data may be stored along with your personal data in such a way that the usage data can also be considered personal data. In these cases, we handle the data in accordance with the provisions of this Privacy Policy.
 
-In no event shall we, our subsidiaries, officers, directors, employees or our suppliers be liable for any loss or damage, including but not limited to lost profits and any special, incidental or consequential damages arising out of or in connection with our site, our services or these terms of use (however arising, including negligence), to the greatest extent permitted by law. 
+Personal data and personally identifiable information (”Personal Data”). In some circumstances we can also collect Personal Data, such as your name and address. This could occur upon you registering as a user of the Genially service. In such cases, what type of personal data we ask you to provide will be clearly indicated, and that Personal Data will be stored and processed in accordance with this Privacy Policy.
 
-### XII. Indemnity
+We consider the protection of user privacy a very important principle. We understand clearly that you and your information are one of our priorities. We store and process your personal data (if received) in computers located in the United States or in the EU that are protected by physical and technological security devices. Using the GENIALLY service, you give GENIALLY your consent to store, process, and transfer your personal information (if received) outside of your country of residence within the United States or EU.
 
-You agree to indemnify and hold Genially (and our directors, employees or partners) inculpable for any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your breach of these Terms of Use or the documents it incorporates by reference, or your violation of any law or the rights of a third party. 
+If you do not wish to allow your personal information (if existing) to be transferred or used in this way, please do not use the GENIALLY service.
 
-### XIII. Resolution of Disputes and Applicable Law
+We do not collect personal data from persons under 14 years of age. If you are under 14, do not use any feature of the GENIALLY service that requires you to provide your personal information.
 
-In the event a dispute arises between you and Genially, please email Genially at info@genial.ly, and we will work quickly towards a solution. Should we not be able to solve such a dispute amicably in due course, such disputes shall be resolved exclusively under EU law. 
+### 4\. Purpose, legitimacy, storage periods
 
-More info can be found at: https://ec.europa.eu/consumers/odr/main/?event=main.home.show&reload=false 
+The data of the users registered through the contact form provided for this purpose on the Website is gathered by GENIALLY to facilitate the provision of the services that GENIALLY offers through said Website.
 
-## Genially Acceptable Use Policy.
+We use the information we collect for the purposes of providing and developing the Genially service. Some of the features our service offers may rely on the use of information we have collected from you in order to ensure that a given feature is customized and targeted for your specific use.
 
-Last updated March 24, 2017. 
+  
 
-Genially’s Acceptable Use Policy (the "AUP") outlines the acceptable and unacceptable uses of the Genially service. It forms part of our Terms of Use, and terms defined in the Terms of Use have the same definition in this AUP. This is a binding document, and by accepting the Terms of Use you also accept this AUP. Therefore, please review these rules carefully and ensure that your use of the Genially service complies with the rules outlined in this AUP. We reserve the right to change this AUP at our sole discretion, and we will notify you of any changes by posting the new version on our website. 
 
-### I. General rules for the use of the Genially service
+#### USER REGISTRATION FORM
 
-You must not annotate and/or display (i) any material protected by copyright or other intellectual property rights without the prior approval of the respective rights holder, nor (ii) any illegal, offensive, threatening, libelous, defamatory, obscene or otherwise objectionable material, nor (iii) any material that may not be appropriate for all audiences (including pornography and other adult content). 
+Purpose: Facilitate a means with which you can apply for registration and activate your User account to be able to use and create content with the tools that the platform offers as long as you indicate this information in the corresponding spaces and mark the subscription box.
 
-You must not use the Genially service for any illegal, fraudulent or unauthorized purposes. You agree to comply with all local laws regarding online conduct and acceptable content. 
+Legal Basis: The consent of the user when registering through our registration form and the marking of the acceptance box on the terms of use and privacy policy.
 
-You must not copy any elements of the Genially service, including the code and the design, or its name, trademark, logo or other proprietary information, without the company’s prior written consent. 
+Conservation: Once your request is resolved through our form or answered via email, and no new requests or questions are submitted, your data will be erased when you request that it be eliminated.
 
-You must not attempt to circumvent or breach any security or authentication measures put in place by Genially. 
+  
 
-You must not create or submit unwanted tags to any images. 
 
-You must not transmit any worms or viruses, any code of a destructive nature or otherwise interfere with the operation of the Genially service. 
+#### USER SUPPORT FORM
 
-You must not provide us or any other users of the Genially service with any false or misleading information. 
+Purpose: Facilitate a means through which you can get in touch with us and receive information related to your registration, use of the platform, and receive information about our services via electronic means (Email) or through chat as long as you indicate this information in the corresponding spaces and mark the subscription box.
 
-You must not attempt to replicate or circumvent any of the functionality of the Genially service with any unauthorized solutions created by you or by a third party. 
+Legal Basis: The consent of the user when registering through our registration form and the marking of the acceptance box on the terms of use and privacy policy.
 
-You must not collect from any third parties personal data or personally identifiable information in violation of any data protection and/or privacy laws 
+Conservation: Once your request is resolved through our form or answered via email, and no new requests or questions are submitted, your data will be erased when you request that it be eliminated.
 
-You must not encourage or solicit any third party to do any acts prohibited by the Terms of Use or this AUP. 
+(In the case of Premium users, with a current commercial relationship, the time of conservation of their data will be the time legitimized by the commercial relationship itself, through a services contract and according to how long it lasts).
 
-## Genially Privacy Policy.
+  
 
-Last updated March 24, 2017. 
 
-This Genially Privacy Policy provides information on how Genially collects personal data and how it uses that data. Although we believe our approach to processing personal data is fair and reasonable, please review this document carefully as we want to make sure you have full transparency with regard to how your data is used. 
+#### APPLICATION FORM_WORK WITH US
 
-### I. Name and address of the data controller
+Purpose: to inform you about employment offers and open selection processes and offer you a way of contacting us in the case that you are interested in the vacancies that arise in our organization.
 
-Genially Web S.L.   
-C/ Claudio Marcelo, nº6-1ª planta. 14002 Córdoba   
-Registered in the Registro Mercantil de Córdoba, Book 2154, Sheet 51, number CO-35517, registration 1ª - C.I.F. B-56019912.   
+Legal Basis: The consent of the user in getting in contact with us through the email provided and authorizing the processing of his or her data as a Candidate in the moment he or she sends the electronic request through the acknowledgment of receipt.
 
+Conservation: The data provided will be conserved until the assignment of a job position or until you exercise your right to cancel within a year.
 
-### II. Name of the register
+### 5\. Recipients of your data
 
-Genially User Register. 
+GENIALLY uses third-party services ("Providers of data storage, databases, communication and support services, or payment management") to be able to provide the best service possible to our users. The integration with said providers involves the access to data linked to their accounts, limited exclusively to the ability to use the service.
 
-### III. The type of information we collect
+Apart from the Providers of services that are integrated in the tool, GENIALLY, does not reveal its Personal Data to third parties unless:
 
-We collect both Use Data (which as such does not contain personal data or other personally identifiable information) and Personal Data. 
+  
 
-**Use Data.** When you use the Genially service, our servers (which may be hosted by a third-party service provider) may collect information indirectly and automatically (through, for example, the use of your "IP address") about your activities while visiting the websites, including the web pages you view and the times you view them and information about the browser you are using. We use this browsing information for internal purposes such as to help us understand how the websites are being used and to improve them, and for systems administration purposes. An IP address is a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider, your IP address probably varies from session to session. 
 
-The Use Data generally does not contain any Personal Data. However, in some cases Use Data can be stored together with your Personal Data in such a way that the Use Data could be considered to be Personal Data as well. In such cases we handle it in accordance with the provisions of this Privacy Policy. 
+  1. You have given us your explicit consent to do it;
+  2. Except when a legal obligation exists.
 
-**Personal data and personally identifiable information (”Personal Data”).** In some circumstances we can also collect Personal Data, such as your name and address. This could occur upon you registering as a user of the Genially service. In such cases, what type of personal data we ask you to provide will be clearly indicated, and that Personal Data will be stored and processed in accordance with this Privacy Policy. 
 
-We view protection of users' privacy as a very important community principle. We understand clearly that you and your information are one of our most important assets. We store and process your Personal Data (if any) on computers located in the U.S. or E.U. that are protected by physical as well as technological security devices. By using the Genially service, you give Genially Web S.L. consent to store, process and transfer your personal information (if any) outside of your country of residence within the U.S. or E.U. If you object to your personal information (if any) being transferred or used in this way, please do not use the Genially service. 
 
-We do not knowingly collect personal data from anyone under the age of 13. If you are under 13, please do not use any features of the Genially service that would require you to provide Personal Data to us. 
+### 6\. Rights in relation to your personal data
 
-### IV. The purposes for which we use the information
+Anyone can withdraw their consent in any moment when they have allowed for the processing of their data. In no case shall the withdrawal of this consent condition the execution of the services contract or relationships generated previously.
 
-We use the information we collect for the purposes of providing and developing the Genially service. Some of the features our service offers may rely on the use of information we have collected from you in order to ensure that a given feature is customized and targeted for your specific use. 
+You can exercise the following rights:
 
-The Personal Data you provide can also be used for direct marketing unless you let us know that you do not wish to receive such marketing or marketing from our partners, provided that you have given your express opt-in consent. The Personal Data can also be used for contacting you if required for the provision of the Genially service. 
+  
 
-### V. Your right to inspect the information
 
-Genially does not verify the accuracy of the Personal Data you provide. You have the right to inspect the Personal Data we have in store about you in the Genially User Register either via the Genially service (if we, in our sole discretion, offer such functionality) or by requesting it in writing from Genially. 
+  * Request access to your personal data or its correction when it is inexact.
+  * Request its elimination when, among other reasons, the data is no longer necessary for the purposes it was collected for.
+  * Request the limitation of its processing in certain circumstances.
+  * Request to oppose the treatment and processing of your data for reasons related to your particular situation.
+  * Request the portability of the data in cases provided for in the current regulations.
+  * Other rights recognized by the applicable regulations.
 
-### VI. Disclosure of the information to third parties
 
-As noted above, Genially uses third-party service providers (“Hosting Providers”) for hosting the service and storing the information collected from you and other users. Apart from Hosting Providers, Genially does not disclose your Personal Data to third parties unless: 
 
-  1. you have provided us with your express opt-in consent for doing so;
-  2. the disclosure is reasonably necessary for us to be able to enforce our Terms of Service;
-  3. the disclosure is reasonably necessary for the purposes of detecting and preventing fraud or security breaches; or
-  4. applicable law requires us to disclose it .
+Where and how to request your Rights: Through writing directed at the overseer via their address or email address (indicated in section 2. Overseer of Treatment of Protection of Personal Data), indicating the reference "Personal Data", specifying the right that you wish to exercise and what personal data you wish to exercise it with.
 
+In the case of disagreements with the company in relation to the treatment of your data, you can file a claim before the Authority of Data Protection (www.agpd.es).
 
+### 7\. Security of your personal data
 
-We may share aggregate Use Data (provided that it does not contain any Personal Data) to select third parties. 
+With the goal of safeguarding the security of your personal information, we inform you that we have adopted all the measures of a technical and organizational nature necessary to guarantee the security of personal data provided from being altered, lost, or treated or accessed without authorization.
 
-### VII. Removal of information from the register
+GENIALLY uses the standard security mechanisms of the industry to protect the information stored in the Register of Users. The personal data and security copies are stored in protected databases situated behind a firewall and with physical and software control access points.
 
-You can request the removal of any Personal Data by contacting Genially. Removal of any Personal Data does not, however, affect the license to the User Material granted by you to Genially in accordance to the Terms of Use. 
+### 8\. Cookies Policy
 
-### VIII. Cookies.
+GENIALLY Uses cookies to offer better final functionality to the users of the GENIALLY service, such as the ability to calculate statistics related to the use of the service. Cookies allow us to record, for example, various user preferences and to calculate user statistics uniquly related to the use of the GENIALLY service.
 
-We use cookies for the purpose of providing enhanced end-user functionality to users of the Genially service, as well as calculating statistics related to the use of the service. Cookies enable us, for example, to remember various user preferences you have set and to calculate unique user statistics relating to the use of the Genially service. 
+When using the GENIALLY service, there are times that you may also be exposed to cookies from third parties like Facebook, Google, and other third-party service providers with which GENIALLY can be used. GENIALLY cannot be responsible for how these third-party cookies are used and you can consult the privacy policies of these third parties to obtain more information about how they use cookies.
 
-When using the Genially service you might on occasions also be exposed to cookies provided by third parties such as Facebook, Google, and other third-party service providers with which the Genially service can be used. Genially cannot be responsible for how these third-party cookies are used, and you should consult the privacy policies of these third parties for more information about how they use cookies. 
+So, when you access our web, in compliance with article 22 of the Law of Societal Services of Information, we have requested your consent for its use.
 
-### IX. Data Security
+We inform you that you can activate or deactivate these cookies by following the instructions of your Internet browser:
 
-Genially uses industry standard security mechanisms to protect the information stored in the User Register. Personal Data and backups are stored in protected databases located behind a firewall and with both physical and software-based access controls. 
+  
 
-## Genially Cookie Policy
 
-Last updated March 24, 2017. 
+  * Chrome: Settings -> Show advanced options -> Privacy -> Content settings.
+  * Firefox: Tools -> Options -> Privacy -> History -> Personalized Settings.
+  * Internet Explorer: Tools -> Internet Options -> Privacy -> Settings.
+  * Safari: Preferences -> Security.
+  * Opera: Tools -> Preferences -> Edit preferences -> Cookies
+  * Edge: Settings -> See advanced settings -> Privacy and services -> Cookies
 
-Genially respects your privacy. We want to ensure that you have a full understanding of how information about you is collected when you are using our service and thus can make informed decisions about your privacy. To this end, we have prepared this cookie policy. 
 
-We have also included information about cookies set by third parties (“Third-Party Cookies”). Given that these relate to third-party services, we cannot guarantee the completeness or accuracy of the list, but we can say that we have done our best to ensure the list is as accurate as possible at the time this policy was prepared. Nevertheless, we strongly recommend that you consult the third- party websites listed in the cookie descriptions to find out more about the third-party cookies in question. 
 
-Our aim is to ensure that this policy is continuously updated to reflect any material changes in our use of cookies. If we change this policy, we will post an updated version on our site at Genial.ly. 
+For more information, you can consult the Help section of your browser or the support pages:
 
-### Cookies set by Genially
+  
 
-Genially uses cookies to improve performance and enhance the user experience for those who visit our website. This policy clarifies how we do this and how cookies are managed. 
 
-### What are cookies?
+  * Chrome: support.google.com
+  * FireFox: support.mozilla.org
+  * Internet Explorer: windows.microsoft.com
+  * Safari: http://www.apple.com
+  * Opera: http://www.opera.com/help/tutorials/security/cookies/
+  * Edge: https://privacy.microsoft.com/es-es/windows-10-microsoft-edge-and-privacy
 
-Cookies are small text files which a website may put on your computer or mobile device when you first visit a site or page in order to remember your user preferences, help analyze the website’s performance and to recommend content relevant to your visit. The cookie will help the website, or another website, to recognize your device the next time you visit. Most cookies will not collect information that identifies you, and will instead collect more general information such as how users arrive at and use our websites, or a user’s general location. What cookies do we use? Genially´s website uses cookies to inform us about how our website is operating, remember your preferences for services such as language choice, what you’ve chosen to purchase and other settings. Without these cookies installed, many of the services offered by the website will fail to function. 
 
-### Cookies set by third parties
 
-Since Genially is a service which allows content to be included from third-party sites and in other third-party sites, all of these sites may provide cookies on their own in addition to the above listed cookies. For example, viewing a YouTube tag can give you cookies from YouTube. We have no control or knowledge of those cookies. We recommend that you review your browser's privacy settings and adjust them accordingly if you wish to deny cookies from these third-party sites. 
+### 9\. Updating of your information
 
-For more information about our cookie policy please refer to info@genial.ly. 
+It is important that, so that we can keep your personal data updated, you let us know when there has been a change in this information. Otherwise, we will not be held liable for its correctness.
+
+We are not responsible for the privacy policy with respect to the personal data that can third parties may gather through the links available on our web page.
+
+The current Privacy Policy can be modified to adapt itself to the changes produced on our web, such as legislative or case law changes about personal data that arise, and which must be read each time you provide us with your data through this Web.
+
+### 10\. Changes to the current privacy policy
+
+GENIALLY reserves the right to change the current policy to adapt it to the legislative changes or jurisprudence that arise in the future.
