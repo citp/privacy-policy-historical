@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedsy.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710042607id_/https%3A//reedsy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedsy.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425195448id_/https%3A//reedsy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reedsy
 
@@ -52,7 +52,7 @@ We may collect any information contained in any correspondence between us. For e
 
 We will collect information that you upload or post to Reedsy and/or any correspondence or interactions that you may have with other Reedsy users.
 
-We will also collect certain information about how you use Reedsy and the device that you use to access Reedsy. This might include your IP address, geographical location, device information (such as your hardware model, mobile network information, unique device identifiers), browser type, referral source, length of visit to Reedsy, number of page views, the search queries you make on Reedsy and similar information. This information may be collected by a third party website analytics service providers — Google Analytics, Intercom, Facebook, Microsoft Bing — on our behalf and/or may be collected using cookies. For more information on cookies please refer to paragraph 6 below.
+We will also collect certain information about how you use Reedsy and the device that you use to access Reedsy. This might include your IP address, geographical location, device information (such as your hardware model, mobile network information, unique device identifiers), browser type, referral source, length of visit to Reedsy, number of page views, the search queries you make on Reedsy and similar information. This information may be collected by a third party website analytics service providers — Google Analytics, Crisp, Facebook, Microsoft Bing — on our behalf and/or may be collected using cookies. For more information on cookies please refer to paragraph 6 below.
 
 ### Information we receive from third parties
 
@@ -110,14 +110,12 @@ Cookie Name | Purpose | Duration
 ---|---|---  
 _reedsy_session | Authentication  
 Log in to the marketplace | session  
-info_banner_views | Tracking  
-Banner that allows to provide information about how the marketplace works | session  
-viewedOuibounceModal | Tracking  
-Exit pop-up to suggest visitors sign up to Reedsy | session  
-*dynamic* | Authentication  
-Cookie dynamically created depending on user's handle that contains the type of user and allows to log back in to the right place in the application | session  
+_reedsy_discovery_session | Authentication  
+Log in to the Reedsy Discovery | session  
 _ga | Tracking  
 Google Analytics Tracking | 2 years  
+_fbp | Tracking  
+Facebook Pixel Tracking | 2 hours  
 Auth_token | Authentication  
 Allows users to log in to our book production tool | session  
   
