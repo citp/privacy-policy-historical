@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ir.net privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824141541id_/https%3A//ir.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ir.net privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425025721id_/https%3A//ir.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IR.net
 
