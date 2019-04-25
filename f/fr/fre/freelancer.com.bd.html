@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freelancer.com.bd privacy policy that was archived on 2018-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180926192313id_/https%3A//www.freelancer.com.bd/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freelancer.com.bd privacy policy that was archived on 2019-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190425185438id_/https%3A//www.freelancer.com.bd/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="is-mobile-first" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,7 +7,7 @@
     
       <meta name="viewport" content="width=device-width">
     
-    <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-G7FX"></script><script id="external-threatmetrix" type="text/javascript" async="" src="https://cdn1.f-cdn.com/fp/tags.js?org_id=lar9e74p&amp;session_id=2775a34e7804ccebad1f952fe32e0c1ef941147d07f3a706098ca850e944e65b9827996cb8830cb1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-G7FX"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
         var _t = [];
         var _lt = [];
         var _ttref = [];
@@ -27,13 +27,10 @@
     <link rel="dns-prefetch" href="//cdn6.f-cdn.com">
 
 
-    <link rel="icon" href="https://www.freelancer.com.bd/favicon.ico" type="image/ico">
+        <link rel="icon" href="https://www.freelancer.com.bd/favicon.ico" type="image/ico">
     <link rel="shortcut icon" href="https://www.freelancer.com.bd/favicon.ico">
-
-    <link rel="publisher" href="http://plus.google.com/+Freelancer">
     
 
-    
     
     
     
@@ -56,10 +53,11 @@
     
 
     
-
+    
     <meta name="robots" content="index, follow">
     
     
+    <meta name="robots" content="noodp">
     <meta name="verify-v1" content="TTmFSxUJxXuHsKl9kPGeYetHBfsjnO7s87WxaAha8NE=">
 
     <meta name="verify-v1" content="9ejzgFxg7wuxHdyyiqmdTe3JQgBUfIVvdJiXlVRHkEw=">
@@ -71,7 +69,6 @@
     <meta name="y_key" content="145378928393bc8d">
     <meta name="msvalidate.01" content="756854B52F963132E377E441F92F1136">
     <meta property="fb:admins" content="100000662403967">
-    <meta name="robots" content="noodp">
     
     <!-- rss section -->
     
@@ -86,12 +83,12 @@
     
         
           <link href="https://www.f-cdn.com/assets/css/bootstrap/bootstrap-legacy-5b6a3196.css" type="text/css" rel="stylesheet">
-            <link href="https://www.f-cdn.com/assets/css/skin/styles/global-80ce716a.css" type="text/css" rel="stylesheet">
+            <link href="https://www.f-cdn.com/assets/css/skin/styles/global-33f39422.css" type="text/css" rel="stylesheet">
         
     
 
     
-        <link href="https://www.f-cdn.com/assets/css/flux/base-5bb935be.css" type="text/css" rel="stylesheet">
+        <link href="https://www.f-cdn.com/assets/css/flux/base-b89321fe.css" type="text/css" rel="stylesheet">
     
 
     
@@ -104,7 +101,7 @@
     
     
 
-    <link rel="stylesheet" href="https://www.f-cdn.com/assets/webapp-compat/styles.b771cac926017d9b41e3.css">
+    <link rel="stylesheet" href="https://www.f-cdn.com/assets/webapp-compat/styles.ac32447532bbf0c207a8.css">
 
     
 
@@ -320,7 +317,7 @@ w=q.a.offsetWidth;H();z(f,function(a){g=a;e()});x(f,J(c,'"'+c.family+'",sans-ser
             }
         },
         baseUrl: "https://cdn5.f-cdn.com/build/js",
-        urlArgs: "m=6&v=deb070a14909e52f13adf76e3abfbd4f" +
+        urlArgs: "m=6&v=4e4928e8ccff4191d760e3997ff6bf7f" +
             "&lang=en"
     });
 </script>
@@ -357,18 +354,22 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
     // Gets cookie for `event` and sends it if exist
     const gaCookies = document.cookie.split(';');
-    for (let cookie of gaCookies) {
-        cookie = cookie.trim();
-        const [gaKey, gaRawData] = cookie.split('=');
-        if (gaKey === 'gaevent' && gaRawData) {
-            const gaData = decodeURIComponent(gaRawData);
-            const gaEventData = JSON.parse(gaData.replace(/\+/g, ' '));
-            gaEventData.forEach(event => {
-                event.hitType = 'event';
-                ga('send', event);
-            });
-            document.cookie = 'gaevent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;'
-            break;
+    for (var cookie in gaCookies) {
+        cookie = gaCookies[cookie].trim();
+        const cookieArr = cookie.split('=');
+        if(cookieArr[0] !== undefined && cookieArr[1] !== undefined) {
+            const gaKey = cookieArr[0];
+            const gaRawData = cookieArr[1];
+            if (gaKey === 'gaevent' && gaRawData) {
+                const gaData = decodeURIComponent(gaRawData);
+                const gaEventData = JSON.parse(gaData.replace(/\+/g, ' '));
+                gaEventData.forEach(event => {
+                    event.hitType = 'event';
+                    ga('send', event);
+                });
+                document.cookie = 'gaevent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;'
+                break;
+            }
         }
     };
 
@@ -378,7 +379,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 </script>
 <!-- End Google Analytics -->
-
+    
 
     <script type="application/ld+json">
     {
@@ -391,7 +392,6 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         "https://twitter.com/freelancer",
         "https://www.facebook.com/fansoffreelancer",
         "https://www.linkedin.com/company/freelancer-com",
-        "https://plus.google.com/+Freelancer/posts",
         "https://instagram.com/freelancerofficial",
         "http://en.wikipedia.org/wiki/Freelancer.com"
         ]
@@ -409,71 +409,6 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   </head>
   <body>
   
-    
-    
-
-    
-    
-    <script type="text/javascript">
-  (function(d) {
-    function get_session_id() {
-      function rand_4_char_str() {
-        return Math.floor((1 + Math.random()) * 0x10000)
-          .toString(16)
-          .substring(1);
-      }
-      var session_id = '';
-      // 80 character long session id
-      for (var i = 0; i < 20; i++) {
-        session_id += rand_4_char_str();
-      }
-      return session_id;
-    }
-    // Wrapped setItem() in a function due to empty block statement lint error
-    function setSessionIdToLocalStorage(tagsSessionId) {
-      try {
-        localStorage.setItem('tags_session_id', tagsSessionId);
-      } catch (err) { // Safari private browsing mode fix.
-        return false;
-      }
-    }
-
-    window.tags_session_id = localStorage.getItem('tags_session_id');
-    if (window.tags_session_id === null) {
-      window.tags_session_id = get_session_id();
-      setSessionIdToLocalStorage(window.tags_session_id);
-    }
-
-    // Do not initialise again if it has.
-    var existingElement = document.getElementById('external-threatmetrix');
-    if (!existingElement) {
-        var arr = window.document.getElementsByName('thm_session');
-        for (var i = 0; i < arr.length; i++) {
-            arr[i].setAttribute('value', window.tags_session_id);
-        }
-
-        var url = 'https://cdn1.f-cdn.com/fp/tags.js?org_id=lar9e74p&session_id=' +
-        window.tags_session_id;
-        var po = d.createElement('script');
-        po.id = 'external-threatmetrix';
-        po.type = 'text/javascript'; po.async = true; po.src = url;
-        var s = d.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(po, s);
-
-        // set thm_session in cookie
-        var date = new Date();
-        date.setTime(date.getTime() + (365 * 24 * 60 * 60 * 1000));
-        var expires = "path=/;expires=" + date.toUTCString();
-        d.cookie = "session2=" + window.tags_session_id + "; " + expires;
-    }
-
-  })(document);
-</script>
-
-    
-    
-
-
     <div id="fb_pixel"></div>
 
     
@@ -613,13 +548,17 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
             window.webappCompat['tracking'] = {};
                     window.webappCompat['modals'] = {};
                     window.webappCompat['abtest'] = {};
+                    window.webappCompat['local-storage'] = {};
+                    window.webappCompat['threatmetrix'] = {};
             </script>
 
 <style>
-                                                                </style>
+                                                                                                        </style>
             <webapp-compat-tracking class="WebappCompatPlaceholder"></webapp-compat-tracking>
                 <webapp-compat-modals class="WebappCompatPlaceholder"></webapp-compat-modals>
                 <webapp-compat-abtest class="WebappCompatPlaceholder"></webapp-compat-abtest>
+                <webapp-compat-local-storage class="WebappCompatPlaceholder"></webapp-compat-local-storage>
+                <webapp-compat-threatmetrix class="WebappCompatPlaceholder"></webapp-compat-threatmetrix>
     <webapp-compat></webapp-compat>
 
 
@@ -637,41 +576,42 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 
 
 
-<header class="fl-header" data-target="primary-header-container">
-    <div class="primary-navigation-section" data-target="primary-header" fl-analytics-section="DaVinciNavigation">
+<header class="fl-header " data-target="primary-header-container">
+    <div class="primary-navigation-section " data-target="primary-header" fl-analytics-section="DaVinciNavigation">
         <div class="navigation-section-inner">
 
-            <!-- Logo container-->
+            <!-- Header left hand side container -->
+            <div>
+                <!-- Logo container-->
+                <div class="fl-logo-container">
+                    <a class="fl-logo" href="/" fl-analytics="PrimaryLogo">
+                                                                                    <img class="flicon-logo-fullcolor" src="https://www.f-cdn.com/assets/img/fl-logo-c555380d.svg" alt="Freelancer Logo">
+                                                                        </a>
+                </div>
 
-            <div class="fl-logo-container">
-                <a class="fl-logo" href="/" fl-analytics="PrimaryLogo">
-                     <img class="flicon-logo-fullcolor" src="https://www.f-cdn.com/assets/img/fl-logo-c555380d.svg" alt="Freelancer Logo"> 
-                    
-                </a>
-            </div>
+                
+                
+                
+                <!-- Primary nav (logged out) -->
+
+                <nav class="primary-navigation">
+                    <ul class="primary-navigation-list">
+                                                <li>
+                            <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/info/how-it-works" data-qtsb-section="NavBar" data-qtsb-label="HowItWorks" id="nav-how-it-works">
+                                How It Works                            </a>
+                        </li>
+                                                                        <li>
+                            <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/jobs/" data-qtsb-section="NavBar" data-qtsb-label="BrowseJobs" id="nav-browse-jobs">
+                                Browse Jobs                            </a>
+                        </li>
+                                            </ul>
+                </nav>
+
+                
+                
+                            </div>
 
             
-            
-            
-
-            <!-- Primary nav (logged out) -->
-
-            <nav class="primary-navigation">
-                <ul class="primary-navigation-list">
-                    <li>
-                        <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/info/how-it-works">
-                            How It Works                        </a>
-                    </li>
-                    <li>
-                        <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/jobs/">
-                            Browse Jobs                        </a>
-                    </li>
-                </ul>
-            </nav>
-
-            
-            
-
             <!-- Login section -->
 
             <div class="LoginSection">
@@ -694,13 +634,13 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                         </a>
                     
                     
-                    <!-- ABTest: T58952 -->
-                    <div id="text-to-post" class="LoginSection-textToPost
-                        " data-uitest-target="text-to-post">
-                    </div>
-                    
-                    
-
+                                                                                            <!-- ABTest: T58952 -->
+                            <div id="text-to-post" class="LoginSection-textToPost
+                                " data-uitest-target="text-to-post">
+                            </div>
+                            
+                            
+                                            
                 
             </div>
 
@@ -730,7 +670,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         
         <div id="main" class="container" aria-label="Content">
         
-          <h1 class="margin-t20 margin-b20">FREELANCER.COM</h1>
+          
+<h1 class="margin-t20 margin-b20">FREELANCER.COM</h1>
 
 <h2>Privacy Policy</h2>
 
@@ -1005,6 +946,7 @@ If we do not resolve your privacy complaint to your satisfaction, you may lodge 
 If you are in the European Union, you can choose to instead lodge a complaint with your local Data Protection Authority (DPA).  The list of DPAs is at <a href="http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm">http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm</a>.
 </p>
 
+
             <div class="clearfix"></div>
         </div>
     </div> <!-- end of gaf-container -->
@@ -1013,8 +955,7 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
     
     
     <div class="pinky-template">
-      
-          
+                      
     <footer class="FooterNew">
         <div class="FooterNew-content">
             <div class="FooterNew-content-inner">
@@ -1024,15 +965,19 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                             <div class="Grid-col Grid-col--desktopSmall-4">
                                 <div class="FooterNew-info-section">
                                     <a href="/" class="FooterNew-logo">
-                                        <img class="FooterNew-logo-img" src="https://www.f-cdn.com/assets/img/footer/Freelancer-footer-logo-522454d7.svg" alt="Freelancer Logo">
-                                    </a>
+                                                                                    <img class="FooterNew-logo-img" src="https://www.f-cdn.com/assets/img/footer/Freelancer-footer-logo-522454d7.svg" alt="Freelancer Logo">
+                                                                            </a>
                                 </div>
                                 <div class="FooterNew-info-section">
-                                    <a id="locale-selector" class="FooterNew-subTitle" href="/choose-your-country/" data-robots="LocaleSelector" data-qtsb-section="footer" data-qtsb-subsection="LanguageSelector" data-qtsb-label="GoToLanguageSelector" role="button"><span class="Icon--light Icon FooterNew-subTitle-icon"><svg class="Icon-image" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                    <a id="locale-selector" class="FooterNew-subTitle" href="/choose-your-country/" data-robots="LocaleSelector" data-qtsb-section="footer" data-qtsb-subsection="LanguageSelector" data-qtsb-label="GoToLanguageSelector" role="button">
+  <span class="Icon--light Icon FooterNew-subTitle-icon"><svg class="Icon-image" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
     <path d="M0 0h24v24H0z" fill="none"></path>
     <path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2 0 .68.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2 0-.68.07-1.35.16-2h4.68c.09.65.16 1.32.16 2 0 .68-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2 0-.68-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z"></path>
 </svg>
-</span>English - Bangladesh</a>  
+</span>
+      English - Bangladesh
+  </a>
+
 
 
 
@@ -1080,7 +1025,7 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="FooterNew-link" href="/enterprise" data-uitest-target="GoToEnterprise" data-qtsb-section="footer" data-qtsb-subsection="Enterprise" data-qtsb-label="GoToEnterprise">
+                                            <a class="FooterNew-link" href="/enterprise/" data-uitest-target="GoToEnterprise" data-qtsb-section="footer" data-qtsb-subsection="Enterprise" data-qtsb-label="GoToEnterprise">
                                                     Enterprise
                                             </a>
                                         </li>
@@ -1222,10 +1167,6 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
         <svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.192 21c-2.28 0-4.404-.668-6.192-1.815 2.144.252 4.282-.342 5.98-1.672-1.768-.034-3.26-1.202-3.772-2.806.633.12 1.256.085 1.823-.07-1.942-.39-3.282-2.14-3.24-4.01.545.302 1.17.484 1.83.505C2.822 9.93 2.313 7.555 3.37 5.738c1.992 2.444 4.97 4.053 8.326 4.22C11.106 7.434 13.024 5 15.63 5c1.163 0 2.212.49 2.95 1.276.92-.18 1.785-.517 2.565-.98-.3.944-.942 1.736-1.775 2.235.817-.097 1.596-.314 2.32-.635-.542.807-1.228 1.52-2.016 2.088C19.93 14.665 15.694 21 8.192 21z"></path></svg>
 
     </a>
-    <a class="FooterNew-social-icon Icon Icon--light" rel="nofollow" href="https://plus.google.com/+Freelancer" target="_blank" title="Freelancer on Google Plus" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToGooglePlus">
-        <svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 12.5h-3v3h-2v-3h-3v-2h3v-3h2v3h3M7 18.5c-3.87 0-7-3.13-7-7s3.13-7 7-7c1.89 0 3.47.69 4.69 1.83l-1.9 1.83C9.27 7.66 8.36 7.08 7 7.08c-2.39 0-4.34 1.98-4.34 4.42S4.61 15.92 7 15.92c2.77 0 3.81-1.99 3.97-3.02H7v-2.4h6.61c.06.35.11.702.11 1.16 0 4-2.68 6.84-6.72 6.84z"></path></svg>
-
-    </a>
     <a class="FooterNew-social-icon Icon Icon--light" rel="nofollow" href="https://www.youtube.com/freelancerchannel" target="_blank" title="Freelancer on Youtube" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToYoutube">
         <svg class="Icon-image" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13.983 14.66c-.303 0-.562.194-.753.426v-1.988h-.855v6.173h.855v-.348c.236.294.494.407.804.407.564 0 .774-.44.774-1.002v-2.526c0-.618-.205-1.142-.825-1.142zm-.047 3.545c0 .145-.024.25-.073.314-.094.12-.295.115-.434.046l-.2-.16v-2.84l.174-.137c.148-.076.34-.062.442.073.06.08.09.197.09.35v2.352zM11.084 9.25V7.024c0-.263.12-.456.37-.456.274 0 .39.187.39.455V9.25c0 .26-.132.452-.37.452-.248 0-.39-.2-.39-.453zm-1.94 4.745h-.988v5.277h-.954v-5.277h-.987v-.897h2.928v.897zm1.557.722h.848v4.554H10.7v-.5c-.154.183-.317.325-.486.422-.457.26-1.083.256-1.083-.668v-3.807h.847v3.49c0 .185.045.307.226.307.165 0 .395-.212.498-.34v-3.457zM13.507 5.7h.89v3.666c0 .193.045.322.237.322.173 0 .414-.222.523-.358V5.7h.89v4.783h-.89v-.53c-.386.46-.76.598-1.028.598-.477 0-.62-.38-.62-.852V5.7h-.002zm-2.034-.04c.72 0 1.278.537 1.278 1.286V9.29c0 .803-.563 1.28-1.278 1.28-.862 0-1.303-.437-1.303-1.28V6.946c0-.768.518-1.285 1.302-1.285zM7.865 4l.69 2.59L9.198 4h1.018L9.05 7.853v2.63H8.046v-2.63L6.857 4h1.008zm8.918 16.706c-1.822.123-7.746.123-9.566 0C5.245 20.57 5.015 19.376 5 16.25c.015-3.133.247-4.322 2.217-4.458 1.82-.124 7.744-.124 9.566 0 1.972.135 2.202 1.33 2.217 4.457-.015 3.13-.247 4.32-2.217 4.456zm-.05-6.103c-.764 0-1.286.548-1.286 1.338v2.045c0 .82.414 1.41 1.223 1.41.892 0 1.268-.532 1.268-1.41v-.342h-.87v.316c0 .396-.022.636-.38.636-.34 0-.37-.296-.37-.637v-.86h1.62v-1.16c0-.82-.39-1.337-1.204-1.337zm.334 1.792h-.748v-.46c0-.314.064-.534.377-.534.305 0 .37.226.37.534v.46z" fill-rule="evenodd"></path></svg>
 
@@ -1259,15 +1200,21 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                 <div id="footerTotalJobsPostedCount" class="SiteStat-value FooterNew-siteStat-value">---</div>
                 <div class="SiteStat-name FooterNew-siteStat-name">
                     <span class="SiteStat-name-text">Total Jobs Posted</span>
-                    <button id="posted-listings" class="SiteStat-name-icon" data-content="Jobs Posted (Filtered) is defined as the sum of Total Posted Projects and Total Posted Contests, filtered for spam, advertising, test projects, unawardable or otherwise projects that are deemed bad and unable to be fulfilled.">
-                    </button>
+                    <span class="SiteStat-name-icon Icon Icon--small Tooltip--light Tooltip--bottom Tooltip--large" data-tooltip="Jobs Posted (Filtered) is defined as the sum of Total Posted Projects and Total Posted Contests,
+                        filtered for spam, advertising, test projects, unawardable or otherwise projects that are deemed bad and unable to be
+                        fulfilled.">
+                        <span class="Icon Icon--small"><svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path d="M12 2C6.486 2 2 6.487 2 12c0 5.515 4.486 10 10 10s10-4.485 10-10c0-5.513-4.486-10-10-10zm0 16.25c-.69 0-1.25-.56-1.25-1.25s.56-1.25 1.25-1.25 1.25.56 1.25 1.25-.56 1.25-1.25 1.25zm1-4.375V15h-2v-3h1c1.104 0 2-.897 2-2 0-1.104-.896-2-2-2s-2 .896-2 2H8c0-2.205 1.795-4 4-4s4 1.795 4 4c0 1.86-1.277 3.43-3 3.875z"></path>
+</svg>
+</span>
+                    </span>
                 </div>
             </div>
         </div>
         <div class="Grid-col Grid-col--desktopSmall-6">
             <p class="FooterNew-siteStat-term">Freelancer ® is a registered Trademark of Freelancer Technology Pty Limited (ACN 142 189 759)</p>
-            <p class="FooterNew-siteStat-term">Copyright © 2018 Freelancer Technology Pty Limited (ACN 142 189 759)</p>
-        </div>
+                            <p class="FooterNew-siteStat-term">Copyright © 2019 Freelancer Technology Pty Limited (ACN 142 189 759)</p>
+                    </div>
     </div>
 </div>
 
@@ -1279,8 +1226,6 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
         </div>
     </footer>
     
-
-
 
 
       
@@ -1593,18 +1538,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     
     
+    
 
 
     <!-- The messaging data is needed on all logged in pages -->
     
 
-
-    <!-- These 2 configs are needed for Threatmetrix to work. @see /modules/common/threatmetrix for more info -->
-    
     
 
     
-
     
     
     
@@ -1614,14 +1556,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- SystemJS  -->
 <script defer="" src="https://www.f-cdn.com/assets/polyfills-dd3bd39c.js"></script>
 
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/freelancer-tracking-tracking-module-ngfactory.3a5345bf70ce06902f61.js" as="script">
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-modals-module-ngfactory.fa2c9f4f02014790b412.js" as="script">
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-abtest-module-ngfactory.660b1a7ac2e334473bf6.js" as="script">
-<script defer="" src="https://www.f-cdn.com/assets/webapp-compat/runtime.acc87e62c83a285fb1ec.js"></script>
-<script defer="" src="https://www.f-cdn.com/assets/webapp-compat/main.76f8871deb058de47031.js"></script>
+<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/freelancer-tracking-tracking-module-ngfactory.6344f750fa894ee18b46.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-modals-module-ngfactory.acb851b458c2d8df70df.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-abtest-module-ngfactory.5f15b63a3c4733516584.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-local-storage-module-ngfactory.ca1f769cfa5de1f67f76.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-threatmetrix-module-ngfactory.d952faed69fe99f2fbcc.js" as="script">
+<script defer="" src="https://www.f-cdn.com/assets/webapp-compat/runtime.c3664603333dc8a69248.js"></script>
+<script defer="" src="https://www.f-cdn.com/assets/webapp-compat/main.cac7aa50fb49e8e20b25.js"></script>
 
 <script defer="" id="systemjs-loader" src="https://www.f-cdn.com/assets/systemjs-83712958.js"></script>
-<script defer="" id="systemjs-config" src="https://www.f-cdn.com/assets/systemjs-config-20b91bc3.js"></script>
+<script defer="" id="systemjs-config" src="https://www.f-cdn.com/assets/systemjs-config-97434521.js"></script>
 <script>
 document.getElementById('systemjs-loader').addEventListener('load', function() {
   System.config({
@@ -1691,11 +1635,10 @@ document.getElementById('systemjs-config').addEventListener('load', function() {
       var siteName;
       var cdnUrls;
       var facebookAppId;
+      var enterprise;
       var messagingABTests;
       var globalMatchmakingABTests;
       var recaptchaPublicKey;
-      var thmSslBaseUrl;
-      var thmOrgId;
       return {
         setters: [],
         execute: function() {
@@ -1708,11 +1651,10 @@ document.getElementById('systemjs-config').addEventListener('load', function() {
           __export('siteName', "freelancer.com.bd");
           __export('cdnUrls', ["cdn2.f-cdn.com","cdn3.f-cdn.com","cdn5.f-cdn.com","cdn6.f-cdn.com"]);
           __export('facebookAppId', "120131118061981");
+          __export('enterprise', null);
           __export('messagingABTests', []);
           __export('globalMatchmakingABTests', []);
           __export('recaptchaPublicKey', "6Lc1CCcTAAAAABxlulYmWJj_ZNAHHegrhLV3vS2Z");
-          __export('thmSslBaseUrl', "https:\/\/cdn1.f-cdn.com");
-          __export('thmOrgId', "lar9e74p");
           }
       };
     }
@@ -1751,7 +1693,6 @@ document.getElementById('systemjs-config').addEventListener('load', function() {
   System.import('modules/footer-locale-selector');
   System.import('modules/footer-site-stats');
   System.import('modules/footer-new');
-  System.import('modules/webapp-modals');
   System.import('modules/gdpr-consent');
 });
 </script>
