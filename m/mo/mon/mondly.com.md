@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondly.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010194814id_/https%3A//www.mondly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondly.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426004325id_/https%3A//www.mondly.com/privacy) for the most accurate reproduction.*
 
 # Mondly Languages Privacy Policy - Mondly.com
 
