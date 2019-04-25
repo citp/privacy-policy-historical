@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancer.ca privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103220524id_/https%3A//www.freelancer.ca/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.ca privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425185441id_/https%3A//www.freelancer.ca/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freelancer
 
