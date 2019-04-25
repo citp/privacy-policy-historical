@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the absa.co.za privacy policy that was archived on 2018-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181216103819id_/https%3A//www.absa.co.za/legal-and-compliance/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the absa.co.za privacy policy that was archived on 2019-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190426015803id_/https%3A//www.absa.co.za/legal-and-compliance/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" mod-js mod-flexbox mod-canvas mod-canvastext mod-webgl mod-no-touch mod-geolocation mod-postmessage mod-websqldatabase mod-indexeddb mod-hashchange mod-history mod-draganddrop mod-websockets mod-rgba mod-hsla mod-multiplebgs mod-backgroundsize mod-borderimage mod-borderradius mod-boxshadow mod-textshadow mod-opacity mod-cssanimations mod-csscolumns mod-cssgradients mod-cssreflections mod-csstransforms mod-csstransforms3d mod-csstransitions mod-fontface mod-generatedcontent mod-video mod-audio mod-localstorage mod-sessionstorage mod-webworkers mod-applicationcache mod-svg mod-inlinesvg mod-smil mod-svgclippaths" style=""><!--<![endif]--><head>
 	
@@ -1403,77 +1403,95 @@ window.location = "https://www.absa.co.za/browser-not-supported/";
 	<div class="component-content">
 		
 		<style>
-     .globalSearchResults-icon {
-          display: none;
-     }
-.articleSearchResults .articleSearchResult-title p .small-text strong {
-     color: transparent;
-}
-.box-comparison-table-wrapper .table tr {
-      line-height: 21px !important;
-}
-.any-header-box-open .image-main-logo {
-      padding: 11px !important;
-}
-.is-js-negative .navigation-home-page {
-    height: 53px !important;
-}
-@media only screen and (max-width: 600px) {
-    .table-scroll {
-        overflow: scroll;
+    .globalSearchResults-icon {
+        display: none;
     }
-    .table-scroll::-webkit-scrollbar {
-        width: 0px;  /* remove scrollbar space */
-        background: transparent;  /* optional: just make scrollbar invisible */
-    }    
-}
 
-.scroll-to-me {
-    max-height: 0 !important;
-    overflow: hidden !important;
-    margin: 0 !important;
-    position: relative !important;
-}
+    .box-product-card .richText-image {
+        margin: 20px auto;
+        max-width: 75%;
+    }
 
-.cq-wcm-edit .scroll-to-me {
-    max-height: 10000px !important;
-    overflow: visible !important;
-    margin: auto !important;
-    position: relative !important;
-}
-</style>
-<script>
-window.onload = function() {
-    var sPageURL = window.location.search.substring(1);
-    var sURLVariables = sPageURL.split('&');
-    for (var i = 0; i < sURLVariables.length; i++){
-        var sParameterName = sURLVariables[i].split('=');
-        if (sParameterName[0] == "scrolltome"){
-            $('.scroll-to-me').each(function() {
-                $(this).attr('id', $(this).find('.box-heading').text().replace(/\s/g,''));
-            });
-            setTimeout(function() {
-                if($('#' + sParameterName[1]).closest('.tabs').length > 0){
-                    $('#' + sParameterName[1]).closest('.tabs-content').removeClass('is-hidden').siblings('.tabs-content').addClass('is-hidden');
-                }
-                
-                if($('#' + sParameterName[1]).closest('.accordion-slide').length > 0) {
-                    $('#' + sParameterName[1]).closest('.accordion-slide').addClass('is-active').closest('.accordion-slide').find('.accordion-content-wrapper').css('max-height', '10000px');
-                }
+    .articleSearchResults .articleSearchResult-title p .small-text strong {
+        color: transparent;
+    }
 
-                var scrollTo =  $('#' + sParameterName[1]).offset().top - Math.floor(window.innerHeight/2);
-                $('html').animate({
-                    scrollTop: scrollTo
-                }, 1000);
-            }, 2000);
+    .box-comparison-table-wrapper .table tr {
+        line-height: 21px !important;
+    }
 
-            
+    .any-header-box-open .image-main-logo {
+        padding: 11px !important;
+    }
+
+    .is-js-negative .navigation-home-page {
+        height: 53px !important;
+    }
+
+    .richText-big-icon-showcase .richText-image {
+        max-height: 100px !important;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .table-scroll {
+            overflow: scroll;
+        }
+
+        .table-scroll::-webkit-scrollbar {
+            width: 0px;
+            /* remove scrollbar space */
+            background: transparent;
+            /* optional: just make scrollbar invisible */
         }
     }
-};
+
+    .scroll-to-me {
+        max-height: 0 !important;
+        overflow: hidden !important;
+        margin: 0 !important;
+        position: relative !important;
+    }
+
+    .cq-wcm-edit .scroll-to-me {
+        max-height: 10000px !important;
+        overflow: visible !important;
+        margin: auto !important;
+        position: relative !important;
+    }
+</style>
+<script>
+    window.onload = function () {
+        var sPageURL = window.location.search.substring(1);
+        var sURLVariables = sPageURL.split('&');
+        for (var i = 0; i < sURLVariables.length; i++) {
+            var sParameterName = sURLVariables[i].split('=');
+            if (sParameterName[0] == "scrolltome") {
+                $('.scroll-to-me').each(function () {
+                    $(this).attr('id', $(this).find('.box-heading').text().replace(/\s/g, ''));
+                });
+                setTimeout(function () {
+                    if ($('#' + sParameterName[1]).closest('.tabs').length > 0) {
+                        $('#' + sParameterName[1]).closest('.tabs-content').removeClass('is-hidden').siblings('.tabs-content').addClass('is-hidden');
+                    }
+
+                    if ($('#' + sParameterName[1]).closest('.accordion-slide').length > 0) {
+                        $('#' + sParameterName[1]).closest('.accordion-slide').addClass('is-active').closest('.accordion-slide').find('.accordion-content-wrapper').css('max-height', '10000px');
+                    }
+
+                    var scrollTo = $('#' + sParameterName[1]).offset().top - Math.floor(window.innerHeight / 2);
+                    $('html').animate({
+                        scrollTop: scrollTo
+                    }, 1000);
+                }, 2000);
+
+
+            }
+        }
+    };
+
+   
 
 </script>
-
 	</div>
 
 			
@@ -1545,8 +1563,7 @@ window.onload = function() {
 		
 		
 			<div class="richText-content">
-				<h1>Privacy policy<br>
-</h1>
+				<h1>Privacy policy</h1>
 
 			</div>
 		
@@ -1632,41 +1649,7 @@ window.onload = function() {
 
 
 
-    
-        <a id="2121015230" style="visibility:hidden"></a>
-    
 
-
-
-	
-	
-		
-		<div class="parametrizedhtml section default-style component reference-remove-card-faces-this-page first odd last ">
-			
-
-
-
-
-
-	<div class="component-content">
-		
-		<script type="text/javascript">
-    function checkForImage() {
-        if ( $('.do-not-hide-on-this-page').length < 1 ) {
-            if( $('img[src*="faces"]')) {
-                $('img[src*="faces"]').css('display', 'none');
-            }
-        }
-    }
-    checkForImage();
-    $(window).on('load scroll', checkForImage());
-</script>
-	</div>
-
-			
-		</div>
-		
-	
 
 
 
@@ -1721,9 +1704,8 @@ window.onload = function() {
 		
 		
 			<div class="richText-content">
-				<h3 style="text-align: center;">Absa's commitment to customer privacy</h3>
-<p style="text-align: center;"><span class="intro-paragraph">Absa Group Limited, Registration Number 1986/004794/06 (“Absa”), with its head office at 15 Troye Street, Johannesburg, South Africa, is committed to maintaining the privacy of its customers' personal information ("customer information") submitted to Absa via the <a href="https://www.absa.co.za" class="external">www.absa.co.za</a> website ("the/this website"). This privacy policy ("this policy") outlines Absa's practices and commitment to the customer in this regard.</span><br>
-</p>
+				<h3 style="text-align: center;">Absa's commitment to information privacy</h3>
+<p style="text-align: center;">At Absa, the collection and processing of your personal information is important to us. We are committed to handling your personal information in the right way, for the right reasons. Our privacy policy outlines Absa’s practices in this regard.</p>
 
 			</div>
 		
@@ -1869,14 +1851,10 @@ window.onload = function() {
 		
 		
 			<div class="richText-content">
-				<p><span class="intro-paragraph">Absa knows that you expect a high level of privacy and security for the personal information that you have shared or intend sharing with us. This privacy notice is designed to inform you of the types of information we collect from our customers, how we use that information, and the circumstances under which we will share it with third parties. By visiting Absa.co.za and supplying us with your information, you are accepting the practices described within this privacy notice.</span><br>
-</p>
-<p><span class="intro-paragraph">Absa is strongly committed to ensuring that the personal information you provide to us is treated securely and responsibly. We appreciate the fact that you are aware of your rights as an individual relating to personal information and thus will not act in a manner that would potentially lead to negative impacts on your financial well being.</span></p>
-<ul>
+				<ul>
 <li><span class="intro-paragraph">This policy must be read with the&nbsp;<a href="https://www.absa.co.za/legal-and-compliance/terms-of-use/" class="external">Terms of use</a>&nbsp;for absa.co.za that is incorporated into this policy.</span></li>
-<li><span class="intro-paragraph">Previously updated —&nbsp;November 2010</span></li>
-<li><span class="intro-paragraph">Reviewed and updated —&nbsp;November 2011</span></li>
-<li><span class="intro-paragraph">Previously updated —&nbsp;January 2016</span></li>
+<li><span class="intro-paragraph">Previously updated — January 2016</span></li>
+<li><span class="intro-paragraph">Reviewed and updated — April 2019</span></li>
 </ul>
 <p>&nbsp;</p>
 
@@ -1984,13 +1962,13 @@ window.onload = function() {
 		
 		
 			<div class="richText-content">
-				<p>Absa promises to treat all of your personal information carefully and responsibly.</p>
-<p>Personal information includes any information that lets Absa identify you as a unique individual, such as your name and surname combined with your physical address, contact details and/or passport/identity number.</p>
-<p>Personal information (in South Africa) also refers to the personal information that identifies a legal entity uniquely, such as the trading name of a company combined with the company registration number.</p>
-<p>Personal information also includes details about your religious and philosophical beliefs, political persuasion, trade union membership, health or sex life, biometric information, or any alleged criminal activities.</p>
-<p>Personal information may be given to or collected by Absa, including in writing as part of a written application form, electronically (email), telephonically, online or via the Absa banking app.</p>
-<p>Processing of personal information includes any initial processing that Absa does when it first collects your personal information. It also includes any further and ongoing processing that Absa is allowed to carry out legitimately in terms of the reasons listed in paragraph 9 (below). The term ‘processing’ includes collecting, using, altering, merging, linking, organising, disseminating, storing, retrieving, disclosing, erasing, archiving, destroying or disposing of personal data.<br>
-</p>
+				<p>1. Absa Group Limited (Registration Number 1986/003934/06), including Absa Bank Limited, its legal entities and subsidiaries, (‘Absa’, ‘it’, ‘we’, ‘us’ or “our”) has its head office at 15 Troye Street, Johannesburg, South Africa.</p>
+<p>2. Absa promises to treat all your personal information carefully and responsibly.</p>
+<p>3. Personal information includes any information that lets Absa identify you as a unique individual, such as your name and surname combined with your physical address, contact details and/or passport/identity number.</p>
+<p>4. Personal information (in South Africa) also refers to the personal information that uniquely identifies a legal entity, such as the trading name of a company combined with the company registration number.</p>
+<p>5. Personal information includes special personal information. Special personal information are details about your race or ethnic origin, religious and philosophical beliefs, political persuasion, trade union membership, health or sex life, biometric information, or any criminal behavior which relates to alleged criminal offences or proceedings.</p>
+<p>6. Personal information may be given to or collected by Absa in writing as part of a written application form, electronically (email), telephonically, online (absa.co.za or absa.africa) or via the Absa banking app.</p>
+<p>7. Processing of personal information includes any initial processing that Absa does when we first collect your personal information. It also includes any further and ongoing processing that Absa is allowed to carry out legitimately in terms of the reasons listed in paragraph 9 (below). The term ‘processing’ includes collecting, using, altering, merging, linking, organising, disseminating, storing, retrieving, disclosing, erasing, archiving, destroying or disposing of personal information.</p>
 
 			</div>
 		
@@ -2041,32 +2019,41 @@ window.onload = function() {
 		
 		
 			<div class="richText-content">
-				<p><strong>Absa collects and processes your information in order to give you the product and/or service that you want and it takes seriously its responsibility to safeguard your privacy.&nbsp;</strong></p>
-<p>Absa will only collect and process the personal information it needs in order to provide products and/or services to you, or to enable it to comply with the requirements of specific laws that it is governed by.</p>
-<p>Absa may also process your personal information in order to protect your or its legitimate interests. Absa will not collect and process personal information about you that it does not need for this purpose. The general purpose for which it collects and processes your personal information includes, but is not limited to:<br>
-<br>
-Creating a record of you on its system in order to verify your identity, provide you with the products and/or services you have applied for, and then communicate with and keep you informed about these products and/or services;</p>
+				<p>8. Absa will only collect and process your personal information in line with the purpose for which you provided it to us, or to enable us to comply with the requirements of specific laws that we are governed by.</p>
+<p>9. Absa may process your personal information in order to protect your or our legitimate interests. Absa will not collect and process personal information about you that we do not need for this purpose. The general purposes for which Absa collects and processes your personal information include, but are not limited to:</p>
 <ul>
-<li>Assessing whether you qualify for the granting of credit, or the increasing of your credit limit;</li>
+<li>Creating a record of you on our system in order to verify your identity; provide you with the products and/or services you have applied for; and then communicate with and keep you informed about these products and/or services in order to better service you as a customer;</li>
+<li>Assessing whether you qualify for the granting of credit; or the increasing or decreasing of your credit limit;</li>
 <li>Identifying you and verifying your physical address, source of income and similar information;</li>
-<li>Providing income tax-related information to tax authorities; and</li>
-<li>Assessing your personal financial circumstances and needs before providing advice to you.<br>
-</li>
+<li>Assessing your personal financial circumstances and needs before providing advice to you;</li>
+<li>Any purpose related to the prevention of financial crime including sanctions screening, monitoring of anti-money laundering and any financing of terrorist activities;</li>
+<li>Further processing for historical, statistical or research purposes where the outcomes will not be published in an identifiable format;</li>
+<li>Providing income tax-related information to tax authorities;</li>
+<li>Where you have applied for employment at Absa, we also perform&nbsp; applicant screening and background checks;</li>
+<li>Where you are an Absa employee (including contractor), we also create an employment record of you on our system to facilitate continuous monitoring during your employment with us;</li>
+<li>Where you are an Absa director, we also create a record of you as a director on our system; and</li>
+<li>Where you are a supplier to Absa, we also process your personal information for due diligence, risk assessment, administrative and payment purposes.</li>
 </ul>
-<p>Furthermore, Absa will not process your special personal information unless:</p>
+<p>10. Furthermore, Absa will not process your special personal information unless:</p>
 <ul>
 <li>You have consented to Absa processing it;</li>
-<li>It is necessary to exercise or defend a right or obligation in law;&nbsp;</li>
+<li>It is necessary to exercise or defend a right or obligation in law;</li>
 <li>It is necessary to comply with an international legal obligation of public interest;</li>
 <li>It is for certain historical, research or statistical purposes that would not adversely affect your privacy; or</li>
-<li>You have deliberately made the information public yourself.<br>
-</li>
+<li>You have deliberately made your information public.</li>
 </ul>
-<p>There are some personal information fields that you have to fill in if you want Absa to provide you with your chosen product and/or service. This information can be provided in writing, electronically or telephonically, but it must be accurate and complete. These fields are indicated by an asterisk on the respective forms/websites. If Absa does not receive the necessary personal information, it will not be able to continue with your application. If you are already a client and Absa asks you for this information and you do not provide it, Absa will have to suspend the provision of the product and/or services for a period of time, or even terminate its relationship with you.</p>
-<p>In most cases, personal information will be collected directly from you, but there may be other instances when Absa will collect personal information from other sources. These may include: public records; places where you may already have made your personal information public (for example, on social media), credit bureaus, or individuals/directors whom you have appointed as your representative.</p>
-<p>Absa will, in most instances, collect and process your personal information internally. However, there are times when Absa needs to outsource these functions to third parties, either within Absa or external to Absa, including parties in other countries. Absa may also need to share your data with credit bureaus or other regulatory or industry bodies, so that it can meet its due diligence or regulatory requirements. When Absa decides to transfer your personal information to other parties, it will only provide it to companies that have the same data privacy policies as Absa or are subject to laws relating to the processing of personal information that are similar to those that apply to Absa.</p>
-<p>There may be instances where Absa will process your personal information through a secured automated tool, or performing profiling resulting in a decision that may affect you significantly. If you are unhappy about the outcome of such a decision, please contact your local customer service centre.<br>
-</p>
+<p>11. There are some personal information fields that you have to fill in if you want Absa to provide you with your chosen product and/or service or onboard you as an employee, supplier, director or job applicant. This information can be provided in writing, electronically or telephonically, but it must be accurate and complete. These fields are indicated by an asterisk (or as otherwise indicated) on the respective forms/websites. If Absa does not receive the necessary personal information, we will not be able to continue with your application. If you are already a customer/employee/supplier/director and Absa asks you for this information and you do not provide it, Absa will have to suspend the provision of the product and/or services for a period of time, or as the case may be, even terminate our relationship with you.</p>
+<p>12. In most cases, personal information will be collected directly from you, but there may be other instances when Absa will collect personal information from other sources. These may include: public records; places where you may already have made your personal information public (for example, on social media); credit bureaus; or individuals/directors whom you have appointed as your representative, where you are a corporate entity. Absa will only collect your personal information from other sources where we are legally entitled or obliged to do so, and you are entitled to enquire from Absa as to the sources from which your personal information has been collected, should you so wish.</p>
+<p>13. For the purposes outlined in paragraph 9 (above), Absa will, in most instances, collect and process your personal information internally. However, there are times when Absa needs to outsource these functions to third parties, either within Absa or external to Absa, including parties in other countries. Where your personal information is shared internally within Absa, such sharing will be carried out only for the purposes outlined in paragraph 9 (above). Absa may also need to share your personal information with external organisations such as credit bureaus, tax authorities or other regulatory or industry bodies, so that we can meet our due diligence or regulatory requirements. Absa will not share your personal information with third parties who do not need your personal information, or where Absa is not legally permitted to do so. When Absa decides to transfer your personal information to third parties, we will only provide it to organisations that have the same data privacy policies as Absa or those who are subject to laws relating to the processing of personal information that are similar to those that apply to Absa.</p>
+<p>14. There may be instances where Absa will process your personal information through a secure automated tool, or perform profiling resulting in a decision that may affect you significantly. If you are unhappy about the outcome of such a decision, please contact:</p>
+<ul>
+<li>your Local Customer Service centre (for customers);</li>
+<li>your Resourcing Consultant (for job applicants);</li>
+<li>your People Business Partner (for employees);</li>
+<li>your Supplier Relationship Manager (for suppliers); or</li>
+<li>Absa’s Group Secretariat office (for directors of Absa-owned companies).</li>
+</ul>
+<p>&nbsp;</p>
 
 			</div>
 		
@@ -2087,7 +2074,7 @@ Creating a record of you on its system in order to verify your identity, provide
 			
 				<li class="accordion-slide odd ">
 					
-						<h3 class="accordion-head"><a href="#accordion-content-1185241373-2" title="Absa respects your right to opt out of receiving marketing material via electronic communications">Absa respects your right to opt out of receiving marketing material via electronic communications</a><div class="accordion-arrow"></div></h3>
+						<h3 class="accordion-head"><a href="#accordion-content-1185241373-2" title="Absa respects your rights">Absa respects your rights</a><div class="accordion-arrow"></div></h3>
 					
 					<div class="accordion-content-wrapper" id="accordion-content-1185241373-2">
 						
@@ -2117,11 +2104,19 @@ Creating a record of you on its system in order to verify your identity, provide
 		
 		
 			<div class="richText-content">
-				<p>As a customer, if you have opted out of receiving electronic marketing communication, Absa will not market to you using electronic media. However, if you are receiving marketing via electronic communications, you have the right to opt out at any time by following the instructions on the relevant marketing material.</p>
-<p>As a non-customer, if you would like to receive marketing information from Absa, please submit your details to Absa in writing.</p>
-<p>If you are a resident of the European Union, you may also ask Absa to port your personal data to another party in terms of applicable EU data privacy legislation.</p>
-<p>If you have a complaint relating to the protection of your personal information, including the way in which it has been collected or processed by Absa, please contact us on 0800 41 41 41 or email us on actionline@absa.co.za. If you have not had your complaint dealt with satisfactorily, you may lodge a complaint with your local privacy regulator in terms of local privacy laws.<br>
-</p>
+				<p>15. As a customer, if you have opted out of receiving electronic marketing communications (via media such as SMS, email or automated calling machines), Absa will not market to you using electronic media. However, if you are receiving marketing via electronic media, you have the right to opt out at any time by following the instructions on the marketing material received. Absa will continue to market to you using telephonic means until such time you have opted out.</p>
+<p>16. As a non-customer, if you would like to receive marketing information from Absa through electronic media, please submit your details to Absa in writing.</p>
+<p>17. To the extent that local legislation permits or if you are a resident of the European Union or United Kingdom, you have the following rights regarding your personal information:</p>
+<ul>
+<li>The right to access your personal information that we have on record. Please refer to our <a href="/content/dam/south-africa/absa/pdf/insurance/pala-manual.pdf" target="_blank" title="PAIA">PAIA manual</a> for the process to access your personal information.</li>
+<li>You have the right to ask Absa to correct any of your personal information that is incorrect. These requests must be made to us in writing.</li>
+<li>You can ask Absa to delete or destroy your personal information. You can also object to Absa processing your personal information. These requests must be made to Absa in writing. However, the result of such a request will be that Absa may have to suspend the provision of products and/or services for a period of time, or even to terminate our relationship with you. Absa’s records are subject to regulatory retention periods, which means Absa may not be able to delete or destroy your personal information immediately upon request.</li>
+<li>You may also ask Absa to port your personal information to another party in terms of applicable European Union and United Kingdom data privacy legislation.</li>
+<li>Please refer to the <a title="PAIA manual" href="/content/dam/south-africa/absa/pdf/insurance/pala-manual.pdf" target="_blank">PAIA manual</a> for contact details to submit these requests in writing.</li>
+</ul>
+<p>18. If you have a complaint relating to the protection of your personal information, including the way in which it has been collected or processed by Absa, please contact us using the local contact details as listed below. If you have not had your complaint dealt with satisfactorily, you may lodge a complaint with your local privacy regulator in terms of applicable privacy laws.</p>
+<p>South Africa: 0800 41 41 41 or email us on&nbsp;<a href="mailto:actionline@absa.co.za" class="external">actionline@absa.co.za</a></p>
+<p>&nbsp;</p>
 
 			</div>
 		
@@ -2140,7 +2135,7 @@ Creating a record of you on its system in order to verify your identity, provide
 					</div>
 				</li>
 			
-				<li class="accordion-slide even ">
+				<li class="accordion-slide last even ">
 					
 						<h3 class="accordion-head"><a href="#accordion-content-1185241373-3" title="Right to amend this privacy statement">Right to amend this privacy statement</a><div class="accordion-arrow"></div></h3>
 					
@@ -2172,68 +2167,9 @@ Creating a record of you on its system in order to verify your identity, provide
 		
 		
 			<div class="richText-content">
-				<p>Absa reserves the right to amend this policy at any time. All amendments to this policy will be posted on the website. Unless otherwise stated, the current version shall supersede and replace all previous versions of this policy.</p>
-
-			</div>
-		
-	</div>
-
-			
-		</div>
-		
-	
-
-
-
-</div>
-
-						</div>
-					</div>
-				</li>
-			
-				<li class="accordion-slide last odd ">
-					
-						<h3 class="accordion-head"><a href="#accordion-content-1185241373-4" title="Help contribute to the protection of your information">Help contribute to the protection of your information</a><div class="accordion-arrow"></div></h3>
-					
-					<div class="accordion-content-wrapper" id="accordion-content-1185241373-4">
-						
-						<div class="accordion-content">
-							<div class="item_5 paragraphSystem">
-
-
-
-
-    
-        <a id="1658489659" style="visibility:hidden"></a>
-    
-
-
-
-	
-	
-		
-		<div class="richText section richText-padded alpha component first odd last ">
-			
-
-
-
-
-
-	<div class="component-content">
-		
-		
-			<div class="richText-content">
-				<p>The customer can also help maintain the security of banking information by:</p>
-<ul>
-<li>Not sharing the customer's ID or password with anyone</li>
-<li>Changing the customer's password regularly</li>
-<li>Remembering to sign off after an online banking session</li>
-<li>Not leaving the customer's computer unattended while conducting online transactions</li>
-<li>Reporting lost or stolen cards</li>
-<li>Helping Absa maintain accurate records by letting Absa know when changes occur in the customer's situation so Absa can update its records accordingly</li>
-<li>Not sending any confidential information via non-encrypted email</li>
-<li>Not supplying the customer's personal and financial information to any site he/she doesn't know or trust</li>
-</ul>
+				<p>Absa reserves the right to amend this statement at any time. All amendments to this statement will be posted on the website. Unless otherwise stated, the current version shall supersede and replace all previous versions of this statement.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 			</div>
 		
@@ -2476,8 +2412,7 @@ Creating a record of you on its system in order to verify your identity, provide
 		
 		
 			<div class="richText-content">
-				<p><a href="/content/dam/south-africa/absa/pdf/sens/2018/2017-full-year-results-booklet.pdf" target="_blank">2017 Full year results</a></p>
-<p><a href="https://www.absa.co.za/find-us/" class="external">Find a Branch or ATM</a></p>
+				<p><a href="https://www.absa.co.za/find-us/" class="external">Find a Branch or ATM</a></p>
 <p><a href="https://www.absa.co.za/security-centre/" class="external">Security Centre</a></p>
 <p><a href="https://www.absa.co.za/indices/" class="external">Indices</a></p>
 <p><a href="https://www.absa.co.za/ways-to-bank/" class="external">Ways to Bank</a></p>
@@ -2585,7 +2520,8 @@ Creating a record of you on its system in order to verify your identity, provide
 <p><a href="https://www.absastockbrokers.co.za" target="_blank">Stockbrokers and Portfolio Management</a></p>
 <p><a href="https://www.absa.co.za/corporate-and-investment-banking/" class="external">Corporate and Investment Banking</a></p>
 <p><a href="https://www.absa.co.za/business/sector-solutions/franchising/" class="external">Franchising</a></p>
-<p><a href="https://www.absa.co.za/business/sector-solutions/agribusiness/" class="external">AgriBusiness</a></p>
+<p><a href="https://www.absa.co.za/business/sector-solutions/agribusiness/" class="external">AgriBusiness</a>&nbsp;</p>
+<p><a href="https://www.absa.co.za/business/sector-solutions/renewable-energy/" class="external">Renewable Energy</a></p>
 <p><a href="https://www.absa.co.za/business/sector-solutions/wholesale-and-retail/explore/" class="external">Wholesale and Retail</a></p>
 <p><a href="https://www.absa.co.za/business/engagement-channel/" class="external">Regional Engagement Channel</a></p>
 <p><a href="https://blog.absa.co.za/" target="_blank">Absa blog</a></p>
@@ -2685,13 +2621,13 @@ Creating a record of you on its system in order to verify your identity, provide
 		
 			<div class="richText-content">
 				<p><a href="https://www.absa.co.za/about-us/absa-bank/" class="external">About Absa</a></p>
-<p><a href="/content/dam/south-africa/absa/pdf/sens/2018/2017-full-year-results-booklet.pdf" target="_blank">2017 Full year results</a></p>
 <p><a href="https://www.absa.africa/absaafrica/investor-relations.html" target="_blank">Investor Relations</a></p>
 <p><a href="https://www.absa.africa/absaafrica/citizenship/">Citizenship</a></p>
 <p><a href="https://www.absa.co.za/media-centre/" class="external">Media Centre</a></p>
 <p><a href="https://www.absa.co.za/about-us/sponsorship/" class="external">Sponsorship</a></p>
 <p><a href="https://www.absa.africa/absaafrica/careers/" target="_blank">Careers</a></p>
 <p><a href="https://www.absa.co.za/offers/africanacity/" class="external">New Absa FAQs</a></p>
+<p><a href="https://www.absa.africa/wef.html">Absa in Davos at the World Economic Forum</a></p>
 
 			</div>
 		
@@ -3436,8 +3372,8 @@ or<br>
 	<div class="component-content">
 		
 		<script type="text/javascript">
-window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);
-;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"457e6c96ef",applicationID:"158477103",sa:1}
+    window.NREUM || (NREUM = {}), __nr_require = function (t, n, e) { function r(e) { if (!n[e]) { var o = n[e] = { exports: {} }; t[e][0].call(o.exports, function (n) { var o = t[e][1][n]; return r(o || n) }, o, o.exports) } return n[e].exports } if ("function" == typeof __nr_require) return __nr_require; for (var o = 0; o < e.length; o++)r(e[o]); return r }({ 1: [function (t, n, e) { function r(t) { try { s.console && console.log(t) } catch (n) { } } var o, i = t("ee"), a = t(15), s = {}; try { o = localStorage.getItem("__nr_flags").split(","), console && "function" == typeof console.log && (s.console = !0, o.indexOf("dev") !== -1 && (s.dev = !0), o.indexOf("nr_dev") !== -1 && (s.nrDev = !0)) } catch (c) { } s.nrDev && i.on("internal-error", function (t) { r(t.stack) }), s.dev && i.on("fn-err", function (t, n, e) { r(e.stack) }), s.dev && (r("NR AGENT IN DEVELOPMENT MODE"), r("flags: " + a(s, function (t, n) { return t }).join(", "))) }, {}], 2: [function (t, n, e) { function r(t, n, e, r, s) { try { p ? p -= 1 : o(s || new UncaughtException(t, n, e), !0) } catch (f) { try { i("ierr", [f, c.now(), !0]) } catch (d) { } } return "function" == typeof u && u.apply(this, a(arguments)) } function UncaughtException(t, n, e) { this.message = t || "Uncaught error with no additional information", this.sourceURL = n, this.line = e } function o(t, n) { var e = n ? null : c.now(); i("err", [t, e]) } var i = t("handle"), a = t(16), s = t("ee"), c = t("loader"), f = t("gos"), u = window.onerror, d = !1, l = "nr@seenError", p = 0; c.features.err = !0, t(1), window.onerror = r; try { throw new Error } catch (h) { "stack" in h && (t(8), t(7), "addEventListener" in window && t(5), c.xhrWrappable && t(9), d = !0) } s.on("fn-start", function (t, n, e) { d && (p += 1) }), s.on("fn-err", function (t, n, e) { d && !e[l] && (f(e, l, function () { return !0 }), this.thrown = !0, o(e)) }), s.on("fn-end", function () { d && !this.thrown && p > 0 && (p -= 1) }), s.on("internal-error", function (t) { i("ierr", [t, c.now(), !0]) }) }, {}], 3: [function (t, n, e) { t("loader").features.ins = !0 }, {}], 4: [function (t, n, e) { function r(t) { } if (window.performance && window.performance.timing && window.performance.getEntriesByType) { var o = t("ee"), i = t("handle"), a = t(8), s = t(7), c = "learResourceTimings", f = "addEventListener", u = "resourcetimingbufferfull", d = "bstResource", l = "resource", p = "-start", h = "-end", m = "fn" + p, w = "fn" + h, v = "bstTimer", y = "pushState", g = t("loader"); g.features.stn = !0, t(6); var b = NREUM.o.EV; o.on(m, function (t, n) { var e = t[0]; e instanceof b && (this.bstStart = g.now()) }), o.on(w, function (t, n) { var e = t[0]; e instanceof b && i("bst", [e, n, this.bstStart, g.now()]) }), a.on(m, function (t, n, e) { this.bstStart = g.now(), this.bstType = e }), a.on(w, function (t, n) { i(v, [n, this.bstStart, g.now(), this.bstType]) }), s.on(m, function () { this.bstStart = g.now() }), s.on(w, function (t, n) { i(v, [n, this.bstStart, g.now(), "requestAnimationFrame"]) }), o.on(y + p, function (t) { this.time = g.now(), this.startPath = location.pathname + location.hash }), o.on(y + h, function (t) { i("bstHist", [location.pathname + location.hash, this.startPath, this.time]) }), f in window.performance && (window.performance["c" + c] ? window.performance[f](u, function (t) { i(d, [window.performance.getEntriesByType(l)]), window.performance["c" + c]() }, !1) : window.performance[f]("webkit" + u, function (t) { i(d, [window.performance.getEntriesByType(l)]), window.performance["webkitC" + c]() }, !1)), document[f]("scroll", r, { passive: !0 }), document[f]("keypress", r, !1), document[f]("click", r, !1) } }, {}], 5: [function (t, n, e) { function r(t) { for (var n = t; n && !n.hasOwnProperty(u);)n = Object.getPrototypeOf(n); n && o(n) } function o(t) { s.inPlace(t, [u, d], "-", i) } function i(t, n) { return t[1] } var a = t("ee").get("events"), s = t(18)(a, !0), c = t("gos"), f = XMLHttpRequest, u = "addEventListener", d = "removeEventListener"; n.exports = a, "getPrototypeOf" in Object ? (r(document), r(window), r(f.prototype)) : f.prototype.hasOwnProperty(u) && (o(window), o(f.prototype)), a.on(u + "-start", function (t, n) { var e = t[1], r = c(e, "nr@wrapped", function () { function t() { if ("function" == typeof e.handleEvent) return e.handleEvent.apply(e, arguments) } var n = { object: t, "function": e }[typeof e]; return n ? s(n, "fn-", null, n.name || "anonymous") : e }); this.wrapped = t[1] = r }), a.on(d + "-start", function (t) { t[1] = this.wrapped || t[1] }) }, {}], 6: [function (t, n, e) { var r = t("ee").get("history"), o = t(18)(r); n.exports = r, o.inPlace(window.history, ["pushState", "replaceState"], "-") }, {}], 7: [function (t, n, e) { var r = t("ee").get("raf"), o = t(18)(r), i = "equestAnimationFrame"; n.exports = r, o.inPlace(window, ["r" + i, "mozR" + i, "webkitR" + i, "msR" + i], "raf-"), r.on("raf-start", function (t) { t[0] = o(t[0], "fn-") }) }, {}], 8: [function (t, n, e) { function r(t, n, e) { t[0] = a(t[0], "fn-", null, e) } function o(t, n, e) { this.method = e, this.timerDuration = isNaN(t[1]) ? 0 : +t[1], t[0] = a(t[0], "fn-", this, e) } var i = t("ee").get("timer"), a = t(18)(i), s = "setTimeout", c = "setInterval", f = "clearTimeout", u = "-start", d = "-"; n.exports = i, a.inPlace(window, [s, "setImmediate"], s + d), a.inPlace(window, [c], c + d), a.inPlace(window, [f, "clearImmediate"], f + d), i.on(c + u, r), i.on(s + u, o) }, {}], 9: [function (t, n, e) { function r(t, n) { d.inPlace(n, ["onreadystatechange"], "fn-", s) } function o() { var t = this, n = u.context(t); t.readyState > 3 && !n.resolved && (n.resolved = !0, u.emit("xhr-resolved", [], t)), d.inPlace(t, y, "fn-", s) } function i(t) { g.push(t), h && (x ? x.then(a) : w ? w(a) : (E = -E, O.data = E)) } function a() { for (var t = 0; t < g.length; t++)r([], g[t]); g.length && (g = []) } function s(t, n) { return n } function c(t, n) { for (var e in t) n[e] = t[e]; return n } t(5); var f = t("ee"), u = f.get("xhr"), d = t(18)(u), l = NREUM.o, p = l.XHR, h = l.MO, m = l.PR, w = l.SI, v = "readystatechange", y = ["onload", "onerror", "onabort", "onloadstart", "onloadend", "onprogress", "ontimeout"], g = []; n.exports = u; var b = window.XMLHttpRequest = function (t) { var n = new p(t); try { u.emit("new-xhr", [n], n), n.addEventListener(v, o, !1) } catch (e) { try { u.emit("internal-error", [e]) } catch (r) { } } return n }; if (c(p, b), b.prototype = p.prototype, d.inPlace(b.prototype, ["open", "send"], "-xhr-", s), u.on("send-xhr-start", function (t, n) { r(t, n), i(n) }), u.on("open-xhr-start", r), h) { var x = m && m.resolve(); if (!w && !m) { var E = 1, O = document.createTextNode(E); new h(a).observe(O, { characterData: !0 }) } } else f.on("fn-end", function (t) { t[0] && t[0].type === v || a() }) }, {}], 10: [function (t, n, e) { function r(t) { var n = this.params, e = this.metrics; if (!this.ended) { this.ended = !0; for (var r = 0; r < d; r++)t.removeEventListener(u[r], this.listener, !1); if (!n.aborted) { if (e.duration = a.now() - this.startTime, 4 === t.readyState) { n.status = t.status; var i = o(t, this.lastSize); if (i && (e.rxSize = i), this.sameOrigin) { var c = t.getResponseHeader("X-NewRelic-App-Data"); c && (n.cat = c.split(", ").pop()) } } else n.status = 0; e.cbTime = this.cbTime, f.emit("xhr-done", [t], t), s("xhr", [n, e, this.startTime]) } } } function o(t, n) { var e = t.responseType; if ("json" === e && null !== n) return n; var r = "arraybuffer" === e || "blob" === e || "json" === e ? t.response : t.responseText; return h(r) } function i(t, n) { var e = c(n), r = t.params; r.host = e.hostname + ":" + e.port, r.pathname = e.pathname, t.sameOrigin = e.sameOrigin } var a = t("loader"); if (a.xhrWrappable) { var s = t("handle"), c = t(11), f = t("ee"), u = ["load", "error", "abort", "timeout"], d = u.length, l = t("id"), p = t(14), h = t(13), m = window.XMLHttpRequest; a.features.xhr = !0, t(9), f.on("new-xhr", function (t) { var n = this; n.totalCbs = 0, n.called = 0, n.cbTime = 0, n.end = r, n.ended = !1, n.xhrGuids = {}, n.lastSize = null, p && (p > 34 || p < 10) || window.opera || t.addEventListener("progress", function (t) { n.lastSize = t.loaded }, !1) }), f.on("open-xhr-start", function (t) { this.params = { method: t[0] }, i(this, t[1]), this.metrics = {} }), f.on("open-xhr-end", function (t, n) { "loader_config" in NREUM && "xpid" in NREUM.loader_config && this.sameOrigin && n.setRequestHeader("X-NewRelic-ID", NREUM.loader_config.xpid) }), f.on("send-xhr-start", function (t, n) { var e = this.metrics, r = t[0], o = this; if (e && r) { var i = h(r); i && (e.txSize = i) } this.startTime = a.now(), this.listener = function (t) { try { "abort" === t.type && (o.params.aborted = !0), ("load" !== t.type || o.called === o.totalCbs && (o.onloadCalled || "function" != typeof n.onload)) && o.end(n) } catch (e) { try { f.emit("internal-error", [e]) } catch (r) { } } }; for (var s = 0; s < d; s++)n.addEventListener(u[s], this.listener, !1) }), f.on("xhr-cb-time", function (t, n, e) { this.cbTime += t, n ? this.onloadCalled = !0 : this.called += 1, this.called !== this.totalCbs || !this.onloadCalled && "function" == typeof e.onload || this.end(e) }), f.on("xhr-load-added", function (t, n) { var e = "" + l(t) + !!n; this.xhrGuids && !this.xhrGuids[e] && (this.xhrGuids[e] = !0, this.totalCbs += 1) }), f.on("xhr-load-removed", function (t, n) { var e = "" + l(t) + !!n; this.xhrGuids && this.xhrGuids[e] && (delete this.xhrGuids[e], this.totalCbs -= 1) }), f.on("addEventListener-end", function (t, n) { n instanceof m && "load" === t[0] && f.emit("xhr-load-added", [t[1], t[2]], n) }), f.on("removeEventListener-end", function (t, n) { n instanceof m && "load" === t[0] && f.emit("xhr-load-removed", [t[1], t[2]], n) }), f.on("fn-start", function (t, n, e) { n instanceof m && ("onload" === e && (this.onload = !0), ("load" === (t[0] && t[0].type) || this.onload) && (this.xhrCbStart = a.now())) }), f.on("fn-end", function (t, n) { this.xhrCbStart && f.emit("xhr-cb-time", [a.now() - this.xhrCbStart, this.onload, n], n) }) } }, {}], 11: [function (t, n, e) { n.exports = function (t) { var n = document.createElement("a"), e = window.location, r = {}; n.href = t, r.port = n.port; var o = n.href.split("://"); !r.port && o[1] && (r.port = o[1].split("/")[0].split("@").pop().split(":")[1]), r.port && "0" !== r.port || (r.port = "https" === o[0] ? "443" : "80"), r.hostname = n.hostname || e.hostname, r.pathname = n.pathname, r.protocol = o[0], "/" !== r.pathname.charAt(0) && (r.pathname = "/" + r.pathname); var i = !n.protocol || ":" === n.protocol || n.protocol === e.protocol, a = n.hostname === document.domain && n.port === e.port; return r.sameOrigin = i && (!n.hostname || a), r } }, {}], 12: [function (t, n, e) { function r() { } function o(t, n, e) { return function () { return i(t, [f.now()].concat(s(arguments)), n ? null : this, e), n ? void 0 : this } } var i = t("handle"), a = t(15), s = t(16), c = t("ee").get("tracer"), f = t("loader"), u = NREUM; "undefined" == typeof window.newrelic && (newrelic = u); var d = ["setPageViewName", "setCustomAttribute", "setErrorHandler", "finished", "addToTrace", "inlineHit", "addRelease"], l = "api-", p = l + "ixn-"; a(d, function (t, n) { u[n] = o(l + n, !0, "api") }), u.addPageAction = o(l + "addPageAction", !0), u.setCurrentRouteName = o(l + "routeName", !0), n.exports = newrelic, u.interaction = function () { return (new r).get() }; var h = r.prototype = { createTracer: function (t, n) { var e = {}, r = this, o = "function" == typeof n; return i(p + "tracer", [f.now(), t, e], r), function () { if (c.emit((o ? "" : "no-") + "fn-start", [f.now(), r, o], e), o) try { return n.apply(this, arguments) } catch (t) { throw c.emit("fn-err", [arguments, this, t], e), t } finally { c.emit("fn-end", [f.now()], e) } } } }; a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","), function (t, n) { h[n] = o(p + n) }), newrelic.noticeError = function (t) { "string" == typeof t && (t = new Error(t)), i("err", [t, f.now()]) } }, {}], 13: [function (t, n, e) { n.exports = function (t) { if ("string" == typeof t && t.length) return t.length; if ("object" == typeof t) { if ("undefined" != typeof ArrayBuffer && t instanceof ArrayBuffer && t.byteLength) return t.byteLength; if ("undefined" != typeof Blob && t instanceof Blob && t.size) return t.size; if (!("undefined" != typeof FormData && t instanceof FormData)) try { return JSON.stringify(t).length } catch (n) { return } } } }, {}], 14: [function (t, n, e) { var r = 0, o = navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/); o && (r = +o[1]), n.exports = r }, {}], 15: [function (t, n, e) { function r(t, n) { var e = [], r = "", i = 0; for (r in t) o.call(t, r) && (e[i] = n(r, t[r]), i += 1); return e } var o = Object.prototype.hasOwnProperty; n.exports = r }, {}], 16: [function (t, n, e) { function r(t, n, e) { n || (n = 0), "undefined" == typeof e && (e = t ? t.length : 0); for (var r = -1, o = e - n || 0, i = Array(o < 0 ? 0 : o); ++r < o;)i[r] = t[n + r]; return i } n.exports = r }, {}], 17: [function (t, n, e) { n.exports = { exists: "undefined" != typeof window.performance && window.performance.timing && "undefined" != typeof window.performance.timing.navigationStart } }, {}], 18: [function (t, n, e) { function r(t) { return !(t && t instanceof Function && t.apply && !t[a]) } var o = t("ee"), i = t(16), a = "nr@original", s = Object.prototype.hasOwnProperty, c = !1; n.exports = function (t, n) { function e(t, n, e, o) { function nrWrapper() { var r, a, s, c; try { a = this, r = i(arguments), s = "function" == typeof e ? e(r, a) : e || {} } catch (f) { l([f, "", [r, a, o], s]) } u(n + "start", [r, a, o], s); try { return c = t.apply(a, r) } catch (d) { /*throw u(n + "err", [r, a, d], s), d */ } finally { u(n + "end", [r, a, c], s) } } return r(t) ? t : (n || (n = ""), nrWrapper[a] = t, d(t, nrWrapper), nrWrapper) } function f(t, n, o, i) { o || (o = ""); var a, s, c, f = "-" === o.charAt(0); for (c = 0; c < n.length; c++)s = n[c], a = t[s], r(a) || (t[s] = e(a, f ? s + o : o, i, s)) } function u(e, r, o) { if (!c || n) { var i = c; c = !0; try { t.emit(e, r, o, n) } catch (a) { l([a, e, r, o]) } c = i } } function d(t, n) { if (Object.defineProperty && Object.keys) try { var e = Object.keys(t); return e.forEach(function (e) { Object.defineProperty(n, e, { get: function () { return t[e] }, set: function (n) { return t[e] = n, n } }) }), n } catch (r) { l([r]) } for (var o in t) s.call(t, o) && (n[o] = t[o]); return n } function l(n) { try { t.emit("internal-error", n) } catch (e) { } } return t || (t = o), e.inPlace = f, e.flag = a, e } }, {}], ee: [function (t, n, e) { function r() { } function o(t) { function n(t) { return t && t instanceof r ? t : t ? c(t, s, i) : i() } function e(e, r, o, i) { if (!l.aborted || i) { t && t(e, r, o); for (var a = n(o), s = h(e), c = s.length, f = 0; f < c; f++)s[f].apply(a, r); var d = u[y[e]]; return d && d.push([g, e, r, a]), a } } function p(t, n) { v[t] = h(t).concat(n) } function h(t) { return v[t] || [] } function m(t) { return d[t] = d[t] || o(e) } function w(t, n) { f(t, function (t, e) { n = n || "feature", y[e] = n, n in u || (u[n] = []) }) } var v = {}, y = {}, g = { on: p, emit: e, get: m, listeners: h, context: n, buffer: w, abort: a, aborted: !1 }; return g } function i() { return new r } function a() { (u.api || u.feature) && (l.aborted = !0, u = l.backlog = {}) } var s = "nr@context", c = t("gos"), f = t(15), u = {}, d = {}, l = n.exports = o(); l.backlog = u }, {}], gos: [function (t, n, e) { function r(t, n, e) { if (o.call(t, n)) return t[n]; var r = e(); if (Object.defineProperty && Object.keys) try { return Object.defineProperty(t, n, { value: r, writable: !0, enumerable: !1 }), r } catch (i) { } return t[n] = r, r } var o = Object.prototype.hasOwnProperty; n.exports = r }, {}], handle: [function (t, n, e) { function r(t, n, e, r) { o.buffer([t], r), o.emit(t, n, e) } var o = t("ee").get("handle"); n.exports = r, r.ee = o }, {}], id: [function (t, n, e) { function r(t) { var n = typeof t; return !t || "object" !== n && "function" !== n ? -1 : t === window ? 0 : a(t, i, function () { return o++ }) } var o = 1, i = "nr@id", a = t("gos"); n.exports = r }, {}], loader: [function (t, n, e) { function r() { if (!x++) { var t = b.info = NREUM.info, n = l.getElementsByTagName("script")[0]; if (setTimeout(u.abort, 3e4), !(t && t.licenseKey && t.applicationID && n)) return u.abort(); f(y, function (n, e) { t[n] || (t[n] = e) }), c("mark", ["onload", a() + b.offset], null, "api"); var e = l.createElement("script"); e.src = "https://" + t.agent, n.parentNode.insertBefore(e, n) } } function o() { "complete" === l.readyState && i() } function i() { c("mark", ["domContent", a() + b.offset], null, "api") } function a() { return E.exists && performance.now ? Math.round(performance.now()) : (s = Math.max((new Date).getTime(), s)) - b.offset } var s = (new Date).getTime(), c = t("handle"), f = t(15), u = t("ee"), d = window, l = d.document, p = "addEventListener", h = "attachEvent", m = d.XMLHttpRequest, w = m && m.prototype; NREUM.o = { ST: setTimeout, SI: d.setImmediate, CT: clearTimeout, XHR: m, REQ: d.Request, EV: d.Event, PR: d.Promise, MO: d.MutationObserver }; var v = "" + location, y = { beacon: "bam.nr-data.net", errorBeacon: "bam.nr-data.net", agent: "js-agent.newrelic.com/nr-1071.min.js" }, g = m && w && w[p] && !/CriOS/.test(navigator.userAgent), b = n.exports = { offset: s, now: a, origin: v, features: {}, xhrWrappable: g }; t(12), l[p] ? (l[p]("DOMContentLoaded", i, !1), d[p]("load", r, !1)) : (l[h]("onreadystatechange", o), d[h]("onload", r)), c("mark", ["firstbyte", s], null, "api"); var x = 0, E = t(17) }, {}] }, {}, ["loader", 2, 10, 4, 3]);
+    ; NREUM.info = { beacon: "bam.nr-data.net", errorBeacon: "bam.nr-data.net", licenseKey: "457e6c96ef", applicationID: "158477103", sa: 1 }
 </script>
 	</div>
 
