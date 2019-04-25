@@ -1,62 +1,96 @@
-> *The following text is extracted and transformed from the cloudywithachanceofwine.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401194935id_/http%3A//www.merakilane.com/legal-stuff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudywithachanceofwine.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425230353id_/https%3A//www.merakilane.com/privacy-policy) for the most accurate reproduction.*
 
-# DISCLOSURE, PRIVACY, & COPYRIGHT POLICIES - Meraki Lane
+# Privacy Policy - Meraki Lane
 
-## **DISCLOSURE POLICY**
+Meraki Lane Inc. (“we”, “us”,) operates the website [www.merakilane.com](https://www.merakilane.com/). We respect your privacy and are committed to protecting your personal data. Personal data consists of any information relating to an individual in reference to an identifier (name, IP address, number, etc..).
 
-This policy privacy is valid as of November 2011.
+This privacy policy applies to all users of this website and is effective as of the date of its posting on [www.merakilane.com](https://www.merakilane.com/). If you do not agree to the terms set out in this Privacy Policy, you must stop using this website immediately.
 
-This blog is a personal blog written and edited by me.
+**Collection, Use and Disclosure of Personal Data**
 
-This blog accepts forms of cash advertising, sponsorship, paid insertions, and other forms of compensation.
+Meraki Lane Inc. uses log files to analyze website activity, administer the website and gather demographic information. The types of information that we collect through the use of log files consists of IP addresses, browser types, ISPs (internet service providers), date/time stamps, referring/exit pages, and number of clicks. We also collect first names and email addresses of individuals for the purpose of subscribing them to our autism newsletter.
 
-This blog abides by word of mouth marketing standards. I believe in honesty of relationship, opinion, and identity. The compensation received will never influence the advertising content, topics, or posts made in this blog.
+Personal data may be stored until retention is no longer necessary for business or legal purposes. The data you provide may also be stored for internal record keeping purposes.
 
-I am compensated to provide opinion on products, services, websites and various other topics. Even though I receive compensation for my posts or advertisements, I always give my honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely my own. Any product claim, statistic, quote, or other representation about a product or service should be verified with the manufacturer, provider, or party in question.
+We may collect, use or disclose your personal data without your consent in the following circumstances:
 
-This blog does not contain content which might present a conflict of interest.
+  1. when permitted or required by law;
+  2. in an emergency that threatens an individual’s life, health, or personal security;
+  3. when the personal data is available from a public source;
+  4. when we require legal advice from a lawyer;
+  5. for the purposes of collecting a debt or protection from fraud; or
+  6. other legally established reasons.
 
-I use third-party advertising companies to serve ads when you visit my blog. These companies may use aggregated information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following Web address: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-## **PRIVACY POLICY**
 
-If you require any more information or have any questions about my privacy policy, please feel free to contact me by email at hello [at] merakilane [dot] com.
+**Service Providers**
 
-At www.merakilane.com, the privacy of my visitors is of extreme importance to me. This privacy policy document outlines the types of personal information that is received and collected by www.cloudywithachanceofwine.com and how it is used.
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
-**Log Files**  
-Like many other Web sites, www.merakilane.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-**Cookies and Web Beacons**  
-www.merakilane.com does not use cookies.
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
-**DoubleClick DART Cookie**
+**For European Economic Area Residents**
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.merakilane.com.
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.merakilane.com and other sites on the Internet.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Meraki Lane Inc.’s Privacy Policy does not apply to, and we cannot control the activities of such other advertisers or websites.
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+**Amazon Services LLC Associates Program**
 
-Some of my advertising partners may use cookies and web beacons on my site. My advertising partners include:
+Meraki Lane participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and providing links to www.amazon.com.
 
--Google Adsense  
--Amazon  
--Advertising.com LLC and its affiliates  
--iMedia Communications, Inc.
+**Cookies**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.merakilane.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+[www.merakilane.com](https://www.merakilane.com/) does not use cookies. However, Google, as a third party vendor, uses cookies to serve ads on this website. A cookie is data that is sent to your browser from a web server and stored on your computer’s hard drive. A cookie can’t read data off your hard disk nor read cookie files created by other sites. Cookies do not damage your system and are commonly used in website design. You may opt out of the use of ad serving cookies by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>.
 
-www.merakilane.com has no access to or control over these cookies that are used by third-party advertisers.
+Some of our advertising partners may use cookies and web beacons on our website. www.merakilane.com has no access to or control over the cookies that are used by third-party advertisers or their affiliates. More detailed information about cookie management with specific web browsers can be found on those browsers’ respective websites.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.merakilane.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You can control whether to accept cookies on your browser. You have the option to refuse all cookies or allow your browser to show you when a cookie is being sent. However, choosing not to accept these cookies may limit your experience at our site and some features may not work as intended.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**Accuracy**
 
-Meraki Lane is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+Meraki Lane Inc. is committed to ensuring that personal data is accurate. A link is provided at the bottom of every email which gives individuals the opportunity to update their profile information. Individuals may also contact us at [hello@merakilane.com](mailto:hello@merakilane.com) to correct any errors or omissions in their personal information that is under our control.
 
-Should you have any further questions, please contact me via email at hello [at] merakilane [dot] com.
+**Individual Access to Personal Data**
 
-## **COPYRIGHT POLICY**
+To submit a question to us about the collection or use of your personal information, please email us at [hello@merakilane.com](mailto:hello@merakilane.com) and insert “Privacy Information Question” in the subject header. If requested, we will provide you with a copy of your Personal Information in electronic form, which may include:
 
-© Dani Ryan and Meraki Lane, 2016. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Dani Ryan and Meraki Lane with appropriate and specific direction to the original content.
+  * what Personal Information we are storing;
+  * where it is being stored; and
+  * for what purpose we are storing it.
+
+
+
+At any time, you may request that we remove your Personal Information from our records and we will delete your Personal Information within seven (7) days of such request.
+
+**Links to Other Sites**
+
+Our website may contain links to other sites that are not operated by us or our affiliates. We strongly advise you to review the privacy policy of every site you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Security**
+
+We are committed to ensuring the security of your personal data. To mitigate unauthorized access or disclosure, we have adopted appropriate physical, electronic, and managerial procedures designed to safeguard and secure the information that we collect online. While we strive to use commercially acceptable means to protect your personal information, you acknowledge and agree that no method of transmission over the internet, or method of electronic storage is 100% secure. We make no guarantee as to the absolute security of your personal data.
+
+In the unlikely event that our system is breached, and your Personal Information has been compromised, we will notify such local authorities as may be required within seventy-two (72) hours of the breach, and will also use our best efforts to notify you, using the most current contact information that we have on file. We are not responsible for any failure to notify you based on incorrect or outdated contact information.
+
+**Children**
+
+If you are a parent or guardian and you are aware that your minor child has provided us with personal information, please contact us. If we become aware that we have collected personal information from minors without verification of parental consent, we take steps to remove that information from our servers.
+
+**Unsubscribe**
+
+You can unsubscribe from our autism newsletter at anytime by following the hyperlinked word “Unsubscribe” that is provided at the bottom of every emailed newsletter. After you have unsubscribed, your information will be scheduled for deletion.
+
+**Changes to this Privacy Policy**
+
+We may update our Privacy Policy. We will post any updates to our Privacy Policy to this page. You are advised to review this page periodically to be aware of any updates. Changes to this policy are effective upon posting to this page.
+
+If any material changes are made to this Privacy Policy, we will notify you through email or by placing a prominent notice on this website.
+
+By continuing to use this website after changes are made to the Privacy Policy, you are agreeing to be bound by the new Privacy Policy. If you do not agree to be bound by the new Privacy Policy, please stop using this website.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy please contact Dani Ryan at [hello@merakilane.com](mailto:hello@merakilane.com)
