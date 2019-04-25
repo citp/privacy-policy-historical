@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123204411id_/https%3A//www.postscapes.com/tou-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426010357id_/https%3A//www.postscapes.com/tou-privacy) for the most accurate reproduction.*
 
 # Site Terms of Use and Privacy Statement | Postscapes
 
@@ -10,7 +10,7 @@ Your privacy is very important to us. This Privacy Policy describes and governs 
 
 Please note that this Privacy Policy applies only to information collected by Postscapes and not to information collected by any third-party sites to which Postscapes may link or information provided to or collected by third-parties through third-party cookies, web beacons, and other third-party technologies served during your visit to the Websites.
 
- **Effective Date**
+**Effective Date**
 
 January 1, 2016  
 [Privacy Policy](https://www.iubenda.com/privacy-policy/452223 "Privacy Policy")  
