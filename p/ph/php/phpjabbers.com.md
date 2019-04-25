@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpjabbers.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109131934id_/https%3A//www.phpjabbers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpjabbers.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425181317id_/https%3A//www.phpjabbers.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PHPJabbers | Privacy Policy
 
