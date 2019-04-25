@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimmocamporeale.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927135222id_/http%3A//www.mimmocamporeale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimmocamporeale.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425170048id_/http%3A//www.mimmocamporeale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
