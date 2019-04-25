@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xms.me privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207073306id_/http%3A//www.xms.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xms.me privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425042657id_/http%3A//xms.me/privacy.html) for the most accurate reproduction.*
 
 # XMS. Unlimited messaging. Better. Free.
 
