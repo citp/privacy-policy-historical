@@ -1,198 +1,143 @@
-> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824111537id_/https%3A//www.duke-energy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425145942id_/https%3A//www.duke-energy.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Duke Energy
 
-_**Last Updated: May 11, 2018**_
+Your session will expire in {{countBack}} seconds, please select OK to continue your session
 
-**_  
-_** Privacy has always been an important part of how we do business. We would like to make our policy concerning information collection and use absolutely clear. This notice explains our online information practices and the choices you can make about the way your information is collected and used.
+  * The types of personal information we may obtain about you through our Digital Services include:  
 
-Duke Energy Business Services LLC is the service company subsidiary of Duke Energy Corporation (Duke Energy Corporation and its subsidiaries is referred to herein, individually and collectively, as "Duke Energy", "we", "us" or "our"). This privacy policy describes how Duke Energy collects, uses, shares, and secures the personal information you provide. It also describes your choices regarding use, access, and correction of your personal information.
+    * contact information (such as name, phone and fax number, email address and mailing and service address);  
+    * information used to create your online account and other account-related information (such as username, password, security questions and answers, account number, and any content you choose to store in your account);  
+    * demographic information, such as date of birth, gender and other background information (such as your ethnicity if you inquire about programs applicable to minorities);  
+    * Social Security number, driver’s license number, tax identification number and other government-issued identification numbers;  
+    * payment information, such as name, billing address, bank account information, and payment card details (including payment card number, expiration date and security code), some of which is collected and stored by our third-party payment processor on our behalf;  
+    * information related to your transactions with us, such as your payment history;  
+    * social media handles; and  
+    * other personal information in content you submit to us, such as information you provide to us when you create or modify your online account, contact us through emails or our Digital Services, respond to surveys, use our forums, and complete any registration or self-service transaction forms.  
 
-If you have questions or concerns regarding this policy, please communicate with us through [Contact Us](https://www.duke-energy.com/customer-service). 
+We may obtain some information about you from third parties. For example, during the Start Service process, Duke Energy supplements the information you provide through our Digital Services with additional data received from third-party sources. We also may supplement your information with additional information we receive from a credit check performed when you apply for certain services. This information helps us to verify, update and correct the information our customers provide to us and enables us to determine if a deposit will be needed to provide you with services.  
 
-  
-[](http://feedback-form.truste.com/watchdog/request)
+  We also may collect other information about you through our Digital Services in ways for which we provide specific notice or otherwise with your consent.  
 
-### The Information We Collect
+_Automated Collection of Data  _
 
-We do not collect personal information about you through our websites or mobile website unless you voluntarily provide it. We may collect personal information when you create or modify your online account, respond to surveys, contact us via the web or mobile device, or complete any self-service transaction with us online. For example, if you choose to use online or mobile customer services, including account access, e-bill and product or service enrollment, you will be asked to provide personal information.
+  When you interact with our Digital Services or open our emails, we may obtain certain information by automated means, such as browser cookies, web beacons, device identifiers, server logs, and other technologies. A “browser cookie” is a text file that we save on your device when you use our Digital Services. Cookies allow us to uniquely identify users and to store information or settings. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is a clear picture file that allows us and third parties to store information about your interactions with our Digital Services, such as how you use the Digital Services and view our content.  
 
-At any time, you may opt out of providing such personal information by simply not providing it or by discontinuing your use of our website or mobile website. (Please note: Even if you choose not to have an online account with us, we will still store some of your personal information in our billing system if you are our customer. If you choose not to provide this information, we may not be able to provide you with the requested service or complete your transaction.)
+  We may use these automated technologies to collect information about your devices, browsing actions, and usage patterns. The information we obtain in this manner may include your device IP address, Internet service provider, identifiers associated with your devices, domain name, device and operating system type and characteristics, web browser characteristics, language preferences, information about your interactions with and preferences on our Digital Services (such as clickstream data), the webpage from which you link to or from our Digital Services, dates and times of access to our Digital Services, and other information about your use of our Digital Services. These technologies help us (1) remember your information so you will not have to re-enter it; (2) track and understand how you use and interact with our Digital Services; (3) tailor our Digital Services around your preferences; (4) measure the usability of our Digital Services; (5) understand the effectiveness of our communications; (6) identify, diagnose and resolve technical issues; and (7) otherwise manage and enhance our Digital Services (and our other products and services) and help ensure they are working properly. 
 
-Personal information is information that identifies you specifically. Examples of information that you may provide to us while using our site, whether personal information, demographic information or other, include:
+  You can manage cookies through your web browser. Most web browsers will tell you how to stop accepting new browser cookies, how to be notified when you receive a new browser cookie and how to disable existing cookies. You can find out how to do this for your particular browser by clicking “help” on your browser’s menu or by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/). In addition, your mobile device settings may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with mobile app developers and operators such as us. Please note, however, that without cookies and similar technologies we use, you may not be able to take full advantage of all features of our Digital Services. Our Digital Services currently do not respond to “Do Not Track” signals.  
 
-  * Account number (if you are a current customer)
-  * Name
-  * Email address/es
-  * Mailing or service address
-  * Phone number
-  * Social Security number
-  * Date of birth
-  * Driver’s license number or government-issued ID number
-  * Information about your computer and browser
-  * Gender and ethnicity (if you inquire about programs applicable to minorities)
-  * To assist you with finding a nearby payment location, we may ask you to provide the location information of your mobile device. This information is transmitted to us in an encrypted format and is not stored by us for future use. Location services can be turned off within the settings of your mobile device.
+  We also may receive your mobile device’s precise geolocation. We may use this information to provide you with location-based services, such as to assist you with finding a nearby payment location. This information is not stored by us for future use. Your device may provide you with a notification when the Digital Services attempt to collect your precise geolocation. Location services can be turned off within the settings of your mobile device.
 
+  * We may use the information we obtain about you to: 
 
+    * provide and manage our services, including to process, evaluate, communicate and fulfill requests, inquiries and claims we receive in connection with our services;  
+    * create, manage, administer and communicate with you about your account, including identifying and authenticating you so you may access your account or use certain features of our Digital Services;  
+    * personalize your experience with our Digital Services (such as to tailor content and information we may communicate to you, and to offer location-based and personalized content and communications);  
+    * provide customer and technical support; 
+    * process, evaluate and respond to requests, inquiries and applications we receive in connection with our services; 
+    * provide you with information about Duke Energy; 
+    * subject to applicable law, communicate about and administer our services, events, surveys, programs and promotions (such as by sending alerts, promotional materials, newsletters and other marketing communications); 
+    * perform data analytics (such as crash analytics, offer acceptance rates, market research, trend analysis, data aggregation and anonymization, financial analysis and customer segmentation); 
+    * operate, evaluate and improve our business (including administering, enhancing and improving our services; developing new services; managing our communications and customer relationships; and performing accounting, auditing, billing, reconciliation and collection activities);  
+    * protect against and prevent fraud and other unlawful activity, unauthorized transactions, claims and other liabilities;  
+    * conduct investigations and comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations, and our policies and terms (such as our privacy policies and Terms of Use); and  
+    * maintain and enhance the safety and security of our services, network, information, customers, employees and others. 
 
-You may be asked to submit additional personal or financial information such as identifying topics of interest, your title and function for business users, or account information in order to:
+We also may use the information we obtain about you in other ways for which we provide specific notice and obtain your consent if required by applicable law. We may combine information we obtain about you (such as through our Digital Services or from third parties) for the purposes described above.  
 
-  * use certain specific services offered in customer account transaction areas
-  * customize some areas within our site
-  * ask detailed questions or request information to meet your specific needs
+  _Third-Party Online Analytics Services  _
 
+  Through our Digital Services, we may obtain personal information about your online activities over time and across third-party apps, websites, devices and other online services. We use third-party online analytics services on our Digital Services, such as those of Google Analytics. The service providers that administer these analytics services use automated technologies to collect data (such as email, IP addresses, cookies and other device identifiers) to evaluate, for example, use of our Digital Services and to diagnose technical issues. For more information about how Google Analytics collects and processes data and the Google Analytics opt-out browser add-on, please visit <https://policies.google.com/privacy#infocollect> and <https://policies.google.com/technologies/partner-sites>. 
 
+  In our Digital Services, we may use certain Google Analytics advertising features, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, and integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers. In connection with these Google Analytics advertising features, Google Analytics may collect data about your traffic via Google advertising cookies and identifiers. To learn more about how Google uses this information, please visit [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). If you do not want Google Analytics to use this information for the purpose of serving you targeted ads, you may opt out of certain Google Analytics advertising features by visiting the Google Ads Settings page available at <https://adssettings.google.com/>. 
 
-### Appended Information
+  _Online Tracking and Interest-Based Advertising  _
 
-During the Start Service process, Duke Energy supplements/appends the information you provide with additional data received from third-party sources. This supplemental information helps us to verify, update and correct the information our customers provide as well as helps us determine if a deposit will be needed in order to provide you with services.
+  Through our Digital Services, both we and certain third parties may collect information about your online activities to provide you with advertising about products, services and corporate initiatives tailored to your individual interests. Where required by applicable law, we will obtain your consent for the processing of your personal information for direct marketing purposes. You may see our ads on other websites or mobile apps because we participate in advertising networks. Ad networks allow us to target our messaging to users considering demographic data, users’ inferred interests and browsing context. These networks track users’ online activities over time by collecting information through automated means, including through the use of browser cookies, web beacons, device identifiers, server logs and other similar technologies. The networks use this information to show ads that may be tailored to individuals’ interests, to track users’ browsers or devices across multiple websites and apps, and to build a profile of users’ online browsing and app usage activities. The information our ad networks may collect includes data about users’ visits to websites and apps that participate in the relevant ad networks, such as the pages or ads viewed and the actions taken on the websites or apps. This data collection takes place both on our Digital Services and on third-party websites and apps that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. 
 
-### Automatic Collection of Information
+  To learn how to opt out of ad network interest-based advertising in the U.S., please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) and <http://www.networkadvertising.org/choices/>. 
 
-We receive and store certain types of information when you interact with our website, mobile website, emails and online advertising to monitor proper functionality, determine areas for continuous improvement and to support website analytics and marketing campaigns. We collect information such as the number of visits to our site and mobile website, mobile device identifier and operating system, the amount of time visitors spend on the site and mobile website, the number of pages viewed and the domains from which visitors visit the site. This information is gathered automatically and we store it in log files. 
+  * We do not sell or otherwise share personal information about you except as described in this Digital Privacy Policy.  
 
-Examples include internet protocol (IP) addresses or similar identifiers, browser type, internet service provider (ISP), referring websites, exit pages, operating system, date/time stamp and clickstream data, meaning the path you take to navigate through our webpages. 
+    * Subject to applicable law, we may share your personal information with our affiliates and subsidiaries for the purposes described in this Digital Privacy Policy. 
+    * We may share your personal information with service providers who perform services for us or on our behalf, such as those related to payment processing, database and web hosting, email service providers, map service providers, sweepstakes administrators, credit reporting agencies, advertising and marketing, electronic bill payment services or debt collection, data analytics and administrative or management functions. We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. 
+    * We may share your information with third parties who are providing the product, service or information that you have requested.  
+    * With your consent, we also may share your information with third parties who may send you promotional materials and marketing communications about products and services that may be of interest to you. 
+    * We may disclose personal information about you (1) if we are required to do so by law or legal process (such as a court order or subpoena), (2) to law enforcement authorities or other government officials to comply with legal requests, (3) when we believe disclosure is necessary to prevent physical harm or financial loss, (4) to establish, exercise or defend our legal rights, (5) in connection with an investigation of suspected or actual fraud or illegal activity or (6) otherwise with your consent. 
 
-To collect this information, we use tracking technologies like cookies and clear gifs (aka web beacons/web bugs). These technologies may be invisible to you, and we analyze the information collected only in the aggregate; it is not associated with any specific individuals. We use these tracking technologies at the point of collection of your personal information, not in emails that you receive from us. We also use a third-party tracking service that uses these technologies to track nonpersonal information about visitors to our site. This information is collected in the aggregate and is used to track usage and volume statistics. The use of cookies by our third-party tracking service is not covered by our privacy policy. We do not have access or control over these cookies.
+We reserve the right to transfer any information we have about you in the event of a potential or actual sale or transfer of all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution, liquidation or other corporate restructuring). 
 
-These third-party technologies may also be used to collect nonpersonal information about your activities on this and other websites to provide you targeted advertising based upon your interests on this and other websites. These third-party technologies may use cookies or similar tracking technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may [opt out of interest-based advertising](http://optout.networkadvertising.org/?c=1#!/). Please note that this does not opt you out of being served advertising. You will continue to receive generic ads.
+  * Some state laws, and certain state utility commissions with regulatory oversight of our utility service territories, require that certain customer information be protected from disclosure to our affiliate companies. The relevant laws and codes of conduct may be found here:
 
-We use "cookies" to recognize you as you use or return to our websites or mobile website. This is done so that we can provide a continuous and more personalized experience for you. A cookie is a small text file that a website or email may save to your browser and store on your hard drive. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our shopping cart. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. To remove persistent cookies, follow directions provided in the internet browser's "help" file.
+  * We offer you certain choices in connection with the personal information we obtain about you. To update your preferences, limit the communications you receive from us or submit a request, please contact us as specified in the How to Contact Us section of this Digital Privacy Policy or adjust the privacy settings in the Digital Service, as applicable.  
 
-If you reject cookies, you may still use our website or mobile website, but your ability to use some areas of our websites or mobile website, such as contests or surveys, will be limited.
+  You will receive email communications from us in connection with your use of our Digital Services and other services, such as when you sign up for an account online, perform an online transaction (for example, paying your bill or requesting a new password) or provide your email address to a customer contact representative. You may also receive email communications from us about new products and services. To opt out of receiving marketing emails from us, use the one-click unsubscribe link at the bottom of the email you received. In some instances, Duke Energy will co-brand with another company. Please be aware that the privacy policy referenced at the bottom of the webpage governs the collection of information on that page. 
 
-### How We Use the Information We Collect
+  * Our Digital Services may transfer you to or provide links to third-party websites or provide you access to certain third-party features (such as the ability to view third-party videos and content or connect to certain social networks or third-party services through our Digital Services) for your convenience and to provide selected services or functions. These third-party websites and features may use cookies to collect information on our sites, including via plug-ins and widgets. These third parties may operate independently from us. The privacy practices of the relevant third parties, including details on the information they may collect about you, are subject to the privacy statements of these parties, which we strongly suggest you review. To the extent any linked services or third-party features are not owned or controlled by us, Duke Energy is not responsible for these third parties’ information practices.   
 
-We use your information to provide requested services and to support our business functions. For example, we may use your information to:
 
-  * Fulfill your requests for products and services and communicate with you about those requests
-  * Help you quickly find and/or receive information about Duke Energy or one of its affiliated companies
-  * Register and service your account
-  * Administer surveys
-  * Provide customer service
-  * Improve the content of our websites and mobile website for your reference
-  * Alert you to updated information and services
-  * Protect the security or integrity of our websites, mobile website and our business
-  * Answer your questions
+  * **Subject to certain limits under California law, California residents may ask us to provide them with (1) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties.   To make this request, California residents may contact us as specified in the How to Contact Us section below.**  
 
 
+  * We maintain administrative, technical and physical safeguards designed to protect personal information against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. 
 
-We will retain your information for as long as your account is active or as needed to provide you services, and as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services, please review the “Access” section below.
+  * Certain of Duke Energy's Digital Services are directed to children and teens located in the United States, including children under age 13. We do not knowingly collect or solicit personal information from children under age 13 without parental consent, unless permitted by law. If we become aware that we have collected personal information from a child under age 13 without parental consent or unless otherwise permitted by law, we will delete it in accordance with applicable law. If you believe that a child may have provided us with personal information without parental consent or otherwise not permitted by law, please contact us as specified in the How to Contact Us section of this Digital Privacy Policy.  
 
-### Information Sharing
+  Duke Energy is committed to protecting the privacy of children who use our Digital Services. This Section of the Digital Privacy Policy explains our information practices in the United States with respect to information provided by children under the age of 13. Please note that this Section of the Digital Privacy Policy applies regardless of whether your child uses a computer, mobile phone, tablet, or other device to access our Digital Services. 
 
-Duke Energy does not sell, rent or lease your personal information, nor does Duke Energy share such information with third parties for the purpose of sending you advertisements for products or services unaffiliated with Duke Energy, its affiliates or business partners without your consent.
+ **WHAT INFORMATION DO WE COLLECT?  **  
+_Information your child provides directly  _  
+Some Duke Energy Digital Services enable your child to give us information directly. For example, your child may be asked to provide the email address of his or her parent or guardian in connection with registering for a Digital Service. With your consent, we may combine the parental email address information we collect from your child with information about your Duke Energy customer account. 
 
-Absent your consent, Duke Energy may, however, share personal information you provide to us for legitimate business purposes, including, without limitation, the following:
+  _Information about your child’s use of the Digital Services  _  
+We may also collect information about your child’s use of our Digital Services through software on the device your child uses and other means. For example, we may collect: 
 
-  * Transferring such information to Duke Energy’s affiliates and subsidiaries, unless such transfer is prohibited by law.
-  * Transferring such information as part of a merger, consolidation, acquisition, divestiture or other corporate restructuring (including bankruptcy). If such an activity occurs, we will provide notice as described below in "Changes to our Privacy Policy."
-  * Making such information available to third parties who are providing the product, service or information that you have requested (but never your password).
-  * Making such information available to third parties who are service providers to Duke Energy or its subsidiaries or affiliates, e.g., third parties performing computer-related services, credit card processing, email service providers, map service providers, employment services, sweepstakes administrators, credit reporting agencies, electronic bill payment services or debt collection purposes (in the event of account default) for Duke Energy or its affiliates (but never your password). These companies are authorized to use your personal information  _only as necessary to provide  _these services to us.
-  * We form a good faith belief that disclosure of such information is necessary to investigate, prevent or take action regarding any illegal activities or regarding interference with the operation of our site or violation of its terms of use.
+    * **Log information** \- such as the time and duration of your child’s use of the Digital Service, and any information stored in cookies that we have set on the device. 
+    * **Device information** \- such as the hardware model, IMEI number and other unique device identifiers, MAC address, IP address, operating system versions, and settings. 
+    * **Other information** about your child’s use of the Digital Services, such as how your child interacts with content offered through a Service. 
 
+**HOW DO WE USE YOUR CHILD’S INFORMATION?  **  
+We may use information we collect from your child for the following purposes: 
 
+    * to provide a Digital Service or feature your child requests; 
+    * to notify and communicate with you, the child’s parent or guardian, about your child’s use of the Digital Service; 
+    * to provide customized content and provide personalized services based on your child’s past activities on our Digital Services; 
+    * for assessment and analysis of our market, customers, products, and services; and 
+    * to understand the way people use our Digital Services so that we can improve them and develop new products and services.  
 
-We reserve the right to disclose any and all pertinent information about you in our possession if we are required to do so by federal or state law, subpoena or court order, or as we, in good faith, believe it is necessary or appropriate. In addition, in order to strengthen our network security, we may participate in partnership programs with public or private entities that involve the sharing of certain information collected automatically as described above.
+**TO WHOM DO WE DISCLOSE YOUR INFORMATION?  **  
+We will not disclose information collected from your child to third parties for their own independent marketing or business purposes without your further consent. However, we may disclose such information to the following entities: 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not retain this information.
+    * **Service providers**. We may disclose the information collected from your child to companies that provide services for or on behalf of us, such as companies that help our Digital Services to function. These entities are limited in their ability to use the information collected from your child for purposes other than providing services for us. 
+    * **Other Parties When Required by Law or as Necessary to Protect Our Services**. There may be instances when we disclose information collected from your child to other parties:  
+      1. to comply with the law or respond to compulsory legal process (such as a search warrant or other court order); 
+      2. to verify or enforce compliance with the policies governing our Digital Services; and 
+      3. to protect the rights, property, or safety of Duke Energy Corporation, or any of our respective affiliates, business partners, or customers. 
+    * **Other Parties in Connection with Corporate Transactions**. We may disclose information collected from your child to a third party as part of a merger or transfer, or in the event of a bankruptcy. 
 
-Widgets, such as the “Share” feature, support functions that require that you disclose certain personal information given your choice of participation. These features may collect your IP address and which page you are visiting on our site, and they may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
+**DATA RETENTION AND DELETION  **  
+As a parent or guardian, you can review or have the information collected from your child deleted. You may also refuse to permit further collection or use of the information. To do so, please email our Privacy Team at [ethicsofficer@duke-energy.com](mailto:ethicsofficer@duke-energy.com) or contact us using the information below.  
 
-We also post testimonials on our site from customers who have given approval to post their personal information along with their testimonial.
 
-### Aggregate Information
+  * This Digital Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will indicate at the top of the policy when it was most recently updated.  
 
-Duke Energy reserves the right to share any aggregate and statistical information (i.e., nonpersonal information) with any third parties for any reason, unless prohibited by law.
 
-**
+  * If you have any questions about this Digital Privacy Policy or our privacy practices, or if you would like us to update information we have about you, change your preferences or exercise other applicable privacy rights, please email our Privacy Team at ethicsofficer@duke-energy.com or contact us using the information below:
 
-### Consent
-
-**
-
-By providing personal information, you expressly consent to these privacy practices. We may also supplement your information with additional information we receive from a credit check performed when you apply for certain services.
-
-**
-
-### Regulatory Requirements
-
-**
-
-Some state statutes, and certain state utility commissions with regulatory oversight of our Duke Energy utility service territories, require that certain customer information be protected from disclosure to our Duke Energy affiliate companies.
-
-The statutes or applicable codes of conduct may be found here:
-
-  * [North Carolina and South Carolina](https://www.duke-energy.com/_/media/pdfs/legal/duke-piedmont-code-of-conduct.pdf?la=en)
-  * [Ohio](http://codes.ohio.gov/orc/4928.17)
-  * [Kentucky](http://www.lrc.ky.gov/KRS/278-00/2213.PDF)
-  * [Indiana](https://www.duke-energy.com/_/media/pdfs/legal/de-in-affiliate-standards.pdf?la=en)
-  * Florida: [Rule No. 25-6.014](https://www.flrules.org/gateway/RuleNo.asp?title=ELECTRIC%20SERVICE%20BY%20ELECTRIC%20PUBLIC%20UTILITIES&ID=25-6.014) and [Rule No. 25-6.015](https://www.flrules.org/gateway/RuleNo.asp?title=ELECTRIC%20SERVICE%20BY%20ELECTRIC%20PUBLIC%20UTILITIES&ID=25-6.015)
-
-
-
-**
-
-### Communications from Us
-
-**
-
-You will receive email communications from us when you sign up for an account online, perform an online transaction (such as paying your bill, requesting a new password, etc.) or provide your email address to a customer contact representative. We may contact you via email about new products and services. To opt out of receiving these marketing emails, please log into your online account and edit your profile or use the one click unsubscribe link at the bottom of the email you received. In some instances, Duke Energy will co-brand with another company. Please be aware that the privacy policy referenced at the bottom of the webpage governs the collection of information on that page.
-
-**
-
-### Information Protection
-
-**
-
-The privacy, security and integrity of your information are very important to us. Duke Energy uses industry-standard practices to protect your personal information from loss, misuse, alteration and destruction. Such measures include, but are not limited to, firewalls, intrusion monitoring and Secure Sockets Layers (SSL) to encrypt and protect certain sensitive transmissions of information. However, no security system is fail-safe, and Duke Energy cannot guarantee the information you provide will never be obtained by unauthorized persons. You should protect the confidentiality of your information such as your customer account number, email address and password.
-
-**
-
-### Password Protection
-
-**
-
-Duke Energy will not intentionally disclose your password to a third party; however, you are also responsible for maintaining the privacy and security of your password. We strongly urge you to guard the confidentiality of your username and password. We advise you to not share your username and password with third-party services or use your Online Services password with any other website. Passwords are your first line of defense against unauthorized access to your account. If your password is compromised, your information can be misused. Please take precautions to guard your password. If you believe your password has been compromised in any way, please contact us immediately at one of the 1-800 numbers listed below. 
-
-**
-
-### Children's Policy
-
-**
-
-We do not intend to collect any personal information from children through this website or mobile website. Please do not allow children under the age of 13 to provide any personal information in connection with this website or mobile website. If we determine that a child under 13 has provided personal information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 13, please send us an [email](mailto:DigitalMedia-External@duke-energy.com) so we can delete this information.
-
-**
-
-### Access
-
-**
-
-If you wish to correct, delete or edit your information or email address online, please log into your account and access your online profile. To request removal of your personal information from our blog or community forum, contact us through one of the methods listed below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-If you wish to obtain a copy of the personal information or email addresses that we have obtained from you through your use of this site or mobile website for any reason, including if you believe it is in error, please contact us using the information below:
-
-**
-
-### How to Reach Us
-
-**
-
-  | Duke Energy | **Duke Energy Progress**  
+  | Duke Energy | Duke Energy Progress  
 ---|---|---  
-**General  
+General  
 Correspondence  
 Address  
 _Not for customer  
 account inquiries  
-or payments_** | 550 S. Tryon Street  
+or payments_ | 550 S. Tryon Street  
 Charlotte, NC 28202 | P.O. Box 1771  
 Raleigh, NC 27602  
-**Customer  
+Customer  
 Service  
-Email/Web** | 
+Email/Web | 
 
 [Contact Us](https://www.duke-energy.com/customer-service)
 
@@ -200,32 +145,16 @@ Email/Web** |
 
 [Contact Us](https://www.duke-energy.com/customer-service)  
   
-**Customer  
+Customer  
 Service  
-Telephone** | 
+Telephone | 
 
-Carolinas - [800.777.9898](tel:800.777.9898)  
-Florida - [800.700.8744](tel:800.700.8744)  
-Indiana - [800.521.2232](tel:800.521.2232)  
-Ohio and Kentucky - [800.544.6900](tel:800.544.6900)
+Carolinas - [800.777.9898](tel:800.777.9898)  
+Florida - [800.700.8744](tel:800.700.8744)  
+Indiana - [800.521.2232](tel:800.521.2232)  
+Ohio and Kentucky - [800.544.6900](tel:800.544.6900)
 
-| Carolinas - [800.452.2777](tel:800.452.2777)  
+| Carolinas - [800.452.2777](tel:800.452.2777)  
   
-  
-If you have questions or concerns regarding this Privacy Policy or believe we have not followed this Privacy Policy in any instance, please contact our business ethics officer by email at [ethicsofficer@duke-energy.com](mailto:ethicsofficer@duke-energy.com).
 
-**
 
-### Links to Non-Duke Energy Sites
-
-**
-
-For the convenience of our users, some pages of our website and mobile website offer you the ability to link to and view pages of websites not operated or controlled by Duke Energy (such as weather and financial information). Often, but not always, you can tell that you have linked to a non-Duke Energy website because a separate browser window will open. If you use such links, you will leave the Duke Energy website. Links by Duke Energy to such external websites do not imply endorsement by Duke Energy of that company, its site or its privacy policy, which may differ from Duke Energy’s practices. Duke Energy and its affiliates do not monitor or control the content or the privacy policies of the external sites, and they are not responsible for the privacy practices or the content of linked external websites. When using a link to a non-Duke Energy website, we recommend that you investigate the privacy practices and policies of such external site. Any use of external links is at the sole discretion of the user.
-
-**
-
-### Changes to Our Privacy Policy
-
-**
-
-Duke Energy reserves the right to change this Privacy Policy and its email practices at any time. If we decide to make material changes to our policy regarding privacy and/or email practices, we will notify you here, on our mobile website home page and on our website home page prior to the changes taking effect, so that you are aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. When an update is made, the date at the top of this page changes to reflect the date new content was posted. You may want to visit this website and mobile website periodically to review the current Privacy Policy. Use of our website and mobile website after the posting of a revised privacy policy constitutes your agreement with the revised policy. This Privacy Policy is not intended to and does not create any contractual or legal rights in or on behalf of any party. Use of this website and mobile website after the posting of a revised Privacy Policy constitutes your acceptance of our privacy practices.  
