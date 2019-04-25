@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stoppingscams.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170828id_/https%3A//stoppingscams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoppingscams.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425092706id_/https%3A//stoppingscams.com/privacy-policy) for the most accurate reproduction.*
 
 # StoppingScams.com Privacy Policy
 
