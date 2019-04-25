@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudandquiet.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908125743id_/http%3A//www.loudandquiet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudandquiet.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425125423id_/https%3A//www.loudandquiet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Loud And Quiet
 
@@ -34,6 +34,8 @@ Your personal information is contained behind secured networks and is only acces
 We implement a variety of security measures when a user places an order to maintain the safety of your personal information.
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+User data will be kept for no-longer than 14 months.
 
  **Do we use ‘cookies’?**
 
@@ -145,13 +147,7 @@ To be in accordance with CANSPAM, we agree to the following:
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at
-
-  * Follow the instructions at the bottom of each email.
-
-
-
-and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, please follow the instructions at the bottom of each email and we will remove you from ALL correspondence within 28 days.
 
  **Contacting Us**
 
@@ -163,4 +159,4 @@ London, Nw1w 8th
 United Kingdom  
 [info@loudandquiet.com](mailto:info@loudandquiet.com)
 
- _Last Edited on 26-10-2016_
+ _Last Edited May 2018_
