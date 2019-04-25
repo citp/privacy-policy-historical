@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030104831id_/https%3A//www.speakingtree.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425022906id_/https%3A//www.speakingtree.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Speaking Tree
 
