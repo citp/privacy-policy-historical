@@ -1,44 +1,358 @@
-> *The following text is extracted and transformed from the cardschat.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211103502id_/https%3A//www.cardschat.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardschat.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425044846id_/https%3A//www.cardschat.com/privacy-policy.php) for the most accurate reproduction.*
 
-# CardsChat.com Website Privacy Policy
+# CardsChat.com™ Website Privacy Policy
 
-## CardsChat.com Privacy Policy
+## CardsChat.com™ Privacy Policy
 
-Welcome to the CardsChat website, operated by CC Internet Media Inc. (“ _CardsChat_ ”) and located at www.cardschat.com (the “ _Site_ ”). This Privacy Policy addresses CardsChat’s practices regarding information collected from visitors of the Site **and only addresses information collected** directly through or from the Site – it does not address or govern any information-gathering, use, or dissemination practices related to information collected from a visitor (sometimes referred to as " _you_ " or " _your_ ") other than directly through or from the Site, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media.
+### INTRODUCTION
 
-This Privacy Policy is incorporated into CardsChat's [Terms and Conditions](https://www.cardschat.com/terms-and-conditions.php) for the Site by reference, as if set forth fully therein, which must be reviewed and accepted by you. The Site is not intended for persons under the age of 18. CardsChat does not knowingly collect personal information online from visitors in this age group.
+Welcome to the CardsChat.com Privacy Notice.
 
-If you have any questions concerning this Privacy Policy, please email CardsChat using the [contact form](https://www.cardschat.com/about.php).
+CardsChat.com respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website and tell you about your privacy rights and how the law protects you.
 
-## 1\. Collection of Personal Information from Site Visitors. 
+Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
 
-Except as specifically set forth herein, CardsChat may collect: (a) the email addresses of users that communicate with CardsChat via email; and (b) information knowingly provided by the user through the Site. CardsChat may also use Internet cookies and other identifiers or methods of web analysis (such as Google Analytics) to gather, store, and track certain information related to your visit to and activity on the Site. If you are uncomfortable with the idea of your information being used in this way, most computer systems and web browsers offer privacy settings and options, such as disabling cookies or opting for “Do Not Track” features. However, in order to access certain content, features, services, products or benefits on the Site, you may be required to provide CardsChat with certain information, including some types of personally identifying information such as your email, your address, and your phone number. If you do not wish to provide such information through the Site or if you opt to utilize the aforementioned privacy features of your computer system or web browser, you may be unable to obtain certain content, features, services, products or benefits of the Site.
+[1\. IMPORTANT INFORMATION AND WHO WE ARE](https://www.cardschat.com/privacy-policy.php#important)  
+[2\. THE DATA WE COLLECT ABOUT YOU](https://www.cardschat.com/privacy-policy.php#data)  
+[3\. HOW IS YOUR PERSONAL DATA COLLECTED](https://www.cardschat.com/privacy-policy.php#collected)  
+[4\. HOW WE USE YOUR PERSONAL DATA](https://www.cardschat.com/privacy-policy.php#howweuse)  
+[5\. DISCLOSURES OF YOUR PERSONAL DATA](https://www.cardschat.com/privacy-policy.php#disclosures)  
+[6\. INTERNATIONAL TRANSFERS](https://www.cardschat.com/privacy-policy.php#transfers)  
+[7\. DATA SECURITY](https://www.cardschat.com/privacy-policy.php#security)  
+[8\. DATA RETENTION](https://www.cardschat.com/privacy-policy.php#retention)  
+[9\. YOUR LEGAL RIGHTS](https://www.cardschat.com/privacy-policy.php#rights)  
+[10\. RIGHT TO UPDATE PRIVACY POLICY](https://www.cardschat.com/privacy-policy.php#update)  
+[11\. GLOSSARY](https://www.cardschat.com/privacy-policy.php#glossary)
 
-## 2\. Use of Personal Information Collected. 
+## 1\. IMPORTANT INFORMATION AND WHO WE ARE
 
-Personal information collected by CardsChat may be used by CardsChat for limited purposes, including recordkeeping, editorial and feedback purposes, content improvement, or to customise the content and layout of the Site. Personally identifying information, such as names, postal and email addresses, phone numbers, and other personal information voluntarily provided to CardsChat may be added to CardsChat’s databases and used for future contact regarding updates to the Site or new services provided by CardsChat. From time to time, CardsChat may need to contact you regarding information you submitted to CardsChat. You agree that CardsChat may use your personal information for such contact with you. CardsChat may also desire to contact you for market research purposes or to provide you with marketing information that CardsChat believes would be of particular interest.
+### PURPOSE OF THIS PRIVACY NOTICE
 
-## 3\. Disclosure of Personal Information to Third Parties. 
+This privacy notice aims to give you information on how CardsChat.com collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign-up and register for a member account.
 
-Except as specifically set forth herein, any personally identifying information that you provide to CardsChat through the Site will not be disclosed to other third party entities not affiliated with CardsChat. Your personal information and data, whether personally identifying or not, may be disclosed or distributed to another party with which CardsChat enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase, or to a third party pursuant to a subpoena, court order, or other form of legal process, in response to a request by or on behalf of any local, state, federal, or other government agency, department, or body, whether or not pursuant to a subpoena, court order, or other form of legal process, or if determined by CardsChat in its sole judgment that such disclosure or distribution is appropriate to protect the life, health, or property of CardsChat or any other person or entity.
+This website is not intended for children and we do not knowingly collect data relating to children.
 
-Your personal information and data, whether personally identifying or not, may also be provided to third parties that contract with CardsChat to provide products, information, or other services that CardsChat believes that visitors to the Site may be interested in obtaining. While CardsChat may undertake efforts to see that any third party to which CardsChat discloses personal information is under an obligation to use the personal information solely for the purposes for which the information was disclosed, such third parties are independent third parties over which CardsChat exercises no control. CardsChat is not responsible for, and will not be liable for, the conduct, actions, omissions, or information handling or dissemination practices of third parties.
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
 
-## 4\. Links to Other Sites.
+### CONTROLLER
 
-The Site may also contain links to third party websites, for the convenience of users in locating information, products, or services that may be of interest. If you access a third party website from a link on this Site, any information you disclose on that website is not subject to this Privacy Policy. It is possible that these links may be used by third parties or others to collect personal or other information about you. CardsChat is not responsible for the privacy practices of such websites, advertisers, or third parties or the content of such websites and it is your sole obligation to review and understand the privacy practices and policies of these other websites. CardsChat does not control these third parties’ uses of cookies, collection of information, or how they manage such information. It is solely your obligation to review and understand the privacy practices and policies of these other websites, advertisers and any third parties.
+CC Internet Media Inc is made up of different legal entities. This privacy notice is issued on behalf of the CC Internet Media Inc group so when we mention “CC Internet Media Inc”, “we”, “us” or “our” in this privacy notice, we are referring to the relevant company in the group responsible for processing your data. CC Internet Media Inc is the Controller and responsible for this website.
 
-## 5\. Security Measures and Communications. 
+### CONTACT DETAILS
 
-The confidentiality of any communication or material transmitted to or from CardsChat via the Site or via email cannot be, and is not, guaranteed. You acknowledge that the technical processing and transmission of the Site’s content may be transferred unencrypted and involve: (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Accordingly, CardsChat is not responsible for the security of information transmitted via the Internet.
+Our full details are:
 
-## 6\. Access to and Ability to Correct Personal Information; Opt-Out Right.
+Name of legal entity: CC Internet Media Inc
 
-Except as necessary to obtain the services or information requested, you may opt out of having your personal information, which has been voluntarily provided by you to CardsChat through email, contact forms, or other online avenues, prospectively retained by CardsChat or used by CardsChat for secondary purposes, by contacting CardsChat. This provision does not apply to collection of the type of web browser used to visit the Site or to information provided or collected that does not meet the description hereunder. 
+Email address: help@CardsChat.com
 
-## 7\. Right to Change Privacy Policy. 
+You have the right to make a complaint at any time to your relevant supervisory data protection authority. We would, however, appreciate the chance to deal with your concerns before you approach any data protection authority, so please contact us in the first instance.
 
-CardsChat reserves the right at any time to modify, alter or update this Privacy Policy. Your use of the Site following any changes means that you agree to follow and be bound by the Privacy Policy as changed. Any change to this Privacy Policy shall be effective as to any visitor who has visited the Site before the change was made. It is the obligation of users visiting the Site before the change to learn of changes to the Privacy Policy since their last visit.
+### CHANGES TO THE PRIVACY NOTICE AND YOUR DUTY TO INFORM US OF CHANGES
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+
+### THIRD-PARTY LINKS
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit. 
+
+## 2\. THE DATA WE COLLECT ABOUT YOU
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use and store different kinds of personal data about you which we have grouped together as follows:
+
+  * **Identity Data** includes first name, last name, username or similar identifier, title, date of birth, gender.
+  * **Contact Data** includes email address.
+  * **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+  * **Profile Data** includes your username and password, your interests, preferences, feedback and your forum/thread posts and private messaging.
+  * **Usage Data** includes information about how you use our website and services.
+  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and your communications preferences.
+
+
+
+We also collect, use and share **Non-Identifiable Aggregated Data** such as statistical or demographic data for any purpose. Non-Identifiable Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website page and/or feature. However, if we combine or connect Non-Identifiable Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
+
+We do not collect any **Special Categories of Personal Data** about you.
+
+### IF YOU FAIL TO PROVIDE PERSONAL DATA
+
+Where we need to collect personal data by law and you fail to provide that data when requested, we may not be able to provide the services to you.
+
+## 3\. HOW IS YOUR PERSONAL DATA COLLECTED
+
+We use different methods to collect data from and about you including through:
+
+  * **Direct Interactions.** You may give us your Identity and Contact Data by filling in forms or by corresponding with by email or online contact forms. This includes personal data you provide when you: 
+    * create an account on our website;
+    * subscribe to our services and publications (including newsletters);
+    * request marketing to be sent to you;
+    * enter a competition, promotion or survey;
+    * post content in the forums and in threads;
+    * send private messages;
+    * give us some feedback
+  * **Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs, and other similar technologies. Please see our **cookie policy** below for further details.
+  * **Third parties or publicly available sources.** We may receive personal data about you from various third parties as set out below:
+
+\- Technical Data from the following parties:
+
+(a) analytics and technology providers; and
+
+(b) search information providers such as Google 
+
+
+
+
+### COOKIES POLICY
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
+
+A cookie is a small file of letters and numbers stored on your internet browser when a user’s browser loads a particular website.
+
+We use the following cookies:
+
+  * **Strictly necessary cookies.** These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into the members’ areas of our website.
+  * **Analytical/performance cookies.** Our carefully selected partners place third party cookies on our behalf that allow us to record your visit to our website, the pages you have visited and the links you have followed. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily and to make our website, and the content displayed on it, more relevant to you. Information collected includes, for example, the internet browsers and operating systems used, the number of visits, average duration of visit, and pages viewed. All information these cookies collect is non-identifiable personal data and all IP addresses derived from such cookies for visitors in the EEA are anonymised. If you do not allow these cookies, we may be unable to monitor the website’s performance, and enhance your experience. We use services from Google, Clicky, Hotjar and VWO in connection with such analytical/performance cookies.
+  * **Functionality cookies.** These are used to recognise you when you return to our website. This enables us to keep you logged in to the site, greet you by name and remember your preferences (for example, your choice of language or region).
+
+
+
+Please note that third parties (including, for example, providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies.
+
+Most web browsers automatically accept cookies, but, if you wish, you can change these browser settings by accepting, rejecting and deleting cookies.
+
+You may block cookies by activating the settings on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies), you may not be able to access all or parts of our site.
+
+For more information about cookies and how to stop cookies being installed visit the following website: http://www.allaboutcookies.org.
+
+## 4\. HOW WE USE YOUR PERSONAL DATA
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+Generally, we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email. You have the right to withdraw consent to marketing at any time by contacting us or by changing your preferences in your CardsChat privacy settings.
+
+### PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA 
+
+We have set out below in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+Purpose/Activity | Type of data | Lawful basis for processing including basis of legitimate interest  
+---|---|---  
+To register you as a new member | (a) Identity
+
+(b) Contact 
+
+| Necessary for our legitimate interests (to enable us to provide you with member only content, allow you to post in the forums, give feedback and to study how you use our services and to enhance them).  
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy
+
+(b) Asking you to leave a review or take a survey 
+
+| (a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Marketing and communications 
+
+| Necessary to comply with a legal obligation.
+
+Necessary for our legitimate interests (to keep our records updated and to study how members use our products/services.   
+  
+To enable you to partake in a prize draw, competition or complete a survey | (a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications 
+
+| Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business).  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | (a) Identity
+
+(b) Contact
+
+(c) Technical 
+
+| Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise).
+
+Necessary to comply with a legal obligation   
+  
+To deliver relevant website content to you and measure or understand the effectiveness of the content we serve to you | (a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+(f) Technical 
+
+| Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+To use data analytics to improve our website, products/services, marketing and experiences | (a) Technical
+
+(b) Usage 
+
+| Necessary for our legitimate interests (to define types of customers for our services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+To make suggestions and recommendations to you about goods or services that may be of interest to you | (a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Usage
+
+(e) Profile 
+
+| Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+### MARKETING
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. In your CardsChat privacy account settings, you can view and make certain decisions about your personal data use.
+
+### PROMOTIONAL OFFERS FROM US
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
+
+You will receive marketing communications from us if you have requested information from us (such as monthly member newsletters), and, in each case, you have not opted out of receiving that marketing.
+
+### THIRD-PARTY MARKETING
+
+We will never share your personal data with any company outside the Controller’s group of companies for marketing purposes. If that changes, we will get your express opt-in consent to do so.
+
+### OPTING OUT
+
+You can ask us to stop sending you newsletters at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by contacting us at any time.
+
+### COOKIES
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see above.
+
+### CHANGE OF PURPOSE
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please Contact us.
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+## 5\. DISCLOSURES OF YOUR PERSONAL DATA
+
+We may have to share your personal data with the parties set out below for the purposes contained in the table in paragraph 4 above.
+
+  * Internal third-party companies in the same group as the Controller.
+  * External third-party companies in connection with their use of third party cookies to enable us to monitor your use and interaction on our website for analytics purposes. Such data is non-identifiable personal data and anonymised in respect to visitors IP addresses in the EEA. External third-party parties also include marketing service providers to allow us to send email communications to you (including newsletters).
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions. 
+
+## 6\. INTERNATIONAL TRANSFERS
+
+We share your personal data within the Controller group of companies. This may involve transferring your data outside the European Economic Area (EEA).
+
+Some of our external third parties are based outside the EEA so their processing of your personal data may involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. 
+  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+
+
+## 7\. DATA SECURITY
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+## 8\. DATA RETENTION
+
+### HOW LONG WILL YOU USE MY PERSONAL DATA FOR?
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by Contacting us.
+
+In some circumstances you can ask us to delete your data: see _Request erasure_ below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) in which case we may use this information indefinitely without further notice to you.
+
+## 9.YOUR LEGAL RIGHTS
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. These are as follows:
+
+  * Request access to your personal data.
+  * Request correction of your personal data.
+  * Request erasure of your personal data.
+  * Object to processing of your personal data.
+  * Request restriction of processing your personal data.
+  * Request transfer of your personal data.
+  * Right to withdraw consent.
+
+
+
+If you wish to exercise any of the rights set out above, please Contact us.
+
+### NO FEE USUALLY REQUIRED
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+### WHAT WE MAY NEED FROM YOU
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+### TIME LIMIT TO RESPOND
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+## 10\. RIGHT TO UPDATE PRIVACY POLICY
+
+We reserve the right, at any time, to modify, alter or update this Privacy Policy.
+
+## 11.GLOSSARY
+
+### LAWFUL BASIS
+
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by Contacting us.
+
+**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+### YOUR LEGAL RIGHTS
+
+You have the right to:
+
+**Request access** to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
 * * *
 
