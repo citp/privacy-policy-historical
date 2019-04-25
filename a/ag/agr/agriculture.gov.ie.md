@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922144122id_/http%3A//www.agriculture.gov.ie/legalnotices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425074504id_/http%3A//www.agriculture.gov.ie/legalnotices/privacy) for the most accurate reproduction.*
 
 # DAFM - Privacy
 
@@ -34,8 +34,11 @@ The Department will also use a simple cookie to record that a site visitor has a
 
 It is possible to disable the use of cookies in your browser. However, this can affect your browsing experience and some services on this site and others may not function properly, or at all. The procedure for disabling cookies depends on your browser. We have supplied links to several of the more popular browsers for procedures on how to view and disable cookies.
 
-[Google Chrome Browser](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
-[Microsoft Internet Explorer Browser](http://windows.microsoft.com/en-IE/windows-vista/Block-or-allow-cookies)   
-[Mozilla Firefox Browser](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)   
-[Apple Safari Browser](http://support.apple.com/kb/HT1677)   
-[Opera Web Browser](http://www.opera.com/help/tutorials/security/)
+  * [Google Chrome Browser](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Microsoft Internet Explorer Browser](https://support.microsoft.com/en-ie/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Mozilla Firefox Browser](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Apple Safari Browser](https://support.apple.com/en-ie/HT201265)
+  * [Opera Web Browser](https://help.opera.com/en/latest/web-preferences/)
+  * [IMT Data Protection Notice](https://web.archive.org/legalnotices/privacy/imtdataprotectionnotice/)
+
+
