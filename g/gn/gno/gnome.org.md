@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnome.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221235706id_/https%3A//www.gnome.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnome.org privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425152811id_/https%3A//www.gnome.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for the GNOME Foundation – GNOME
 
@@ -118,7 +118,7 @@ As outlined above, in certain circumstances we may use your personal information
 
 Unless you consent, the Foundation will never process or share the personal data you provide to us except as described below.
 
-  * To attribute your contributions to mailing lists, source repositories, Etherpads, wikis, and IRC channels.
+  * To attribute your contributions to mailing lists, source repositories, Etherpads, wikis, forums, and IRC channels.
   * As required to provide service (as a consequence of uses already described in this Privacy Statement)
   * Sponsors, partners and collaborators, such as those organizations with whom we host co-branded events.
   * Our service providers who are acting as processors and who assist us with our administrative or business functions, or in the provision of any of our products/services to you.
@@ -154,7 +154,7 @@ We will keep your information for as long as is necessary to provide you with th
 
 ## Public Forums Reminder
 
-The Foundation often makes mailing lists, source repositories, Etherpads, wikis, and IRC logs available to the public. Please remember that any information that is disclosed in these areas becomes public information. Please think carefully about your desired level of anonymity before you disclose personal information. Although we value individual ideas and encourage free expression, the Foundation reserves the right to take necessary action to preserve the integrity of these areas, such as removing any posting that is vulgar or inappropriate. It is in the Foundation’s legitimate business interests to provide all users with an accurate record of data and content provided in the public forums it maintains and uses; to maintain the integrity of that data and content for historical, scientific, and research purposes; and to provide an environment for the free exchange of ideas relevant and constructive to the development and propagation of free software.
+The Foundation often makes mailing lists, source repositories, Etherpads, wikis, websites, forums and IRC logs available to the public. Please remember that any information that is disclosed in these areas becomes public information. Please think carefully about your desired level of anonymity before you disclose personal information. Although we value individual ideas and encourage free expression, the Foundation reserves the right to take necessary action to preserve the integrity of these areas, such as removing any posting that is vulgar or inappropriate. It is in the Foundation’s legitimate business interests to provide all users with an accurate record of data and content provided in the public forums it maintains and uses; to maintain the integrity of that data and content for historical, scientific, and research purposes; and to provide an environment for the free exchange of ideas relevant and constructive to the development and propagation of free software.
 
 ## Our Commitment to Children’s Online Privacy
 
@@ -223,7 +223,7 @@ The Foundation will work with you to resolve any concerns you may have about thi
 
 ## Changes to this Privacy Statement
 
-The Foundation reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Policy will be posted on this site. A notice will be posted on our homepage for 30 days whenever this privacy statement is changed in a material way. This Privacy Policy was last amended on June 12, 2018.
+The Foundation reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Policy will be posted on this site. A notice will be posted on our homepage for 30 days whenever this privacy statement is changed in a material way. This Privacy Policy was last amended on April 18, 2019.
 
 ## Attribution and License
 
