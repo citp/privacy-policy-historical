@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eightvape.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114080026id_/https%3A//www.eightvape.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eightvape.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426010009id_/https%3A//www.eightvape.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – EightVape
+# Privacy Statement | EightVape.com
 
 #### **SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**
 
@@ -15,12 +15,12 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [info@eightvape.com](mailto:info@eightvape.com "info@eightvape.com")
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us
 
  or mailing us at:
 
-3110 Polari Ave  
-Las Vegas, NV, 89102
+6175 S Sandill Rd #100  
+Las Vegas, NV, 89120
 
 ####    
 **SECTION 3 - DISCLOSURE**
@@ -83,7 +83,10 @@ If our store is acquired or merged with another company, your information may be
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at daxin@eightcig.com or by mail at
 
-EightVape  
-[Re: Privacy Compliance Officer]  
-3110 Polari Ave  
-Las Vegas, NV, 89102
+EightVape
+
+[Re: Privacy Compliance Officer]
+
+6175 S. Sandhill Road, Suite 100
+
+Las Vegas, NV. 89120
