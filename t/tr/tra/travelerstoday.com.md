@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelerstoday.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614084843id_/http%3A//www.travelerstoday.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelerstoday.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425182814id_/https%3A//www.travelerstoday.com/privacypolicy) for the most accurate reproduction.*
 
 # TravelersToday
 
