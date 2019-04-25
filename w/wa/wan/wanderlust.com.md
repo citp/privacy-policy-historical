@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wanderlust.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906033249id_/https%3A//wanderlust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderlust.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425182332id_/https%3A//wanderlust.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · Wanderlust
+# Wanderlust Privacy Policy · Wanderlust
 
 **Your Privacy: Overview**
 
