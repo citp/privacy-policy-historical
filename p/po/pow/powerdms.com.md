@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerdms.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313083718id_/http%3A//www.powerdms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerdms.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425150848id_/https%3A//www.powerdms.com/privacy-policy) for the most accurate reproduction.*
 
 # PowerDMS Privacy Policy
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site or fill out a form
 
 ## What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways:
+ **Any of the information we collect from you may be used in one of the following ways:**
 
   * To personalize your experience(your information helps us to better respond to your individual needs)
   * To improve our website(we continually strive to improve our website offerings based on the information and feedback we receive from you)
@@ -43,7 +43,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Do we use cookies?
 
-We use cookies for tracking statistical information.
+We use cookies for tracking statistical information. Learn more about how we use cookies and your choices concerning cookies on our [Cookie Policy page](https://www.powerdms.com/cookie-policy/).
 
 ## Your Consent
 
