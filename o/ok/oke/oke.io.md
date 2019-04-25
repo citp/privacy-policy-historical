@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oke.io privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021040430id_/http%3A//oke.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oke.io privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425042739id_/http%3A//oke.io/pages/privacy) for the most accurate reproduction.*
 
 # Free URL Shortner Privacy Policy
 
