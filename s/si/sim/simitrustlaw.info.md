@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simitrustlaw.info privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223074659id_/http%3A//simitrustlaw.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simitrustlaw.info privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425135137id_/http%3A//simitrustlaw.info/privacy) for the most accurate reproduction.*
 
 # privacy – simitrustlaw.info
 
