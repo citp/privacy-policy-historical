@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockgumshoe.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031192047id_/http%3A//www.stockgumshoe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockgumshoe.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425031415id_/https%3A//www.stockgumshoe.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stock Gumshoe
 
@@ -92,6 +92,3 @@ Northampton, MA 01060
 
 **Fax** : (866) 516-7341  
 **Phone** : (617) 249-4867 (toll free) 
-
-Are _you_ getting our free Daily Update "reveal" emails?   
-If not, just click here... 
