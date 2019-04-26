@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crescendonetworks.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115152020id_/https%3A//www.f5.com/company/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crescendonetworks.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426142850id_/https%3A//www.f5.com/company/policies/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Notice | F5
 
 **_Effective Date: 12 September 2018_**
 
