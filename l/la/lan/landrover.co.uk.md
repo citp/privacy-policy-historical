@@ -1,295 +1,297 @@
-> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906024349id_/https%3A//www.landrover.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426235012id_/https%3A//www.landrover.co.uk/privacy-policy/index.html) for the most accurate reproduction.*
 
-# Cookies & Privacy Policy - Land Rover UK
+# Privacy Policy | Land Rover | Respecting website visitor privacy
 
-## PRIVACY POLICY
+### 1\. WHAT YOU CAN EXPECT TO SEE FROM READING THIS PRIVACY POLICY
 
-Jaguar Land Rover limited respects the privacy of every individual who visits its websites. Any information collected about you will be used to fulfil any service you might request, to inform you about new products and services and also to improve how we serve you. Your data will be treated in accordance with relevant European Union and local country legal provisions. Your information will not be disclosed to anyone outside of Jaguar Land Rover, its affiliated or associated companies, and its retailers, agencies and licensees of any of these companies, and any other companies with which Jaguar Land Rover has directly or indirectly arranged services for your benefit.   
+Jaguar Land Rover is one of the world’s leading producers of premium cars. Innovation and design give our customers experiences they love for life – anticipating and exceeding their needs and expectations. Quality and excellence are our hallmarks. Taking care of our customers is paramount. 
 
+We respect the privacy of every individual who visits our websites. This Privacy Policy explains how we use personal data received from our websites, and informs you of your data protection rights. 
 
-Jaguar Land Rover will not collect personal information about you using cookies however by enabling cookies or keeping cookies enabled, you are providing your consent to Jaguar Land Rover storing cookies on your browser. Please note that disabling cookies is likely to impact website functionality and your experience of the Jaguar Land Rover website.   
+We will also help you to know when there is new information available in this Policy. We will tell you when this Privacy Policy was last updated, so you can take time to read it if it has changed since your last visit. **Privacy Policy Last Updated: 9th May 2018.**.
 
+### 2\. DATA PROTECTION – WHAT YOU SHOULD KNOW WHEN USING OUR WEBSITES
 
-The purpose of this privacy policy is to describe the types of information that we collect from you when you visit our site and explain how we use this information.   
+#### 1\. WHO WE ARE AND WHICH WEBSITES ARE COVERED BY THIS PRIVACY POLICY
 
+**Who We Are:** When we refer to ‘Jaguar Land Rover’, ‘JLR’ ‘we’ ‘our’ or ‘us’ in this Privacy Policy, we refer to: Jaguar Land Rover Limited, whose registered office is at: Abbey Road, Whitley, Coventry CV3 4LF, and whose registered number is: 1672070. 
 
-Due to the international nature of Jaguar Land Rover’s business, Jaguar Land Rover processes and stores personal data outside the EU. We are obliged to ask you to agree to this. If you do not wish to, unfortunately we will not be able to process any request you make through this website.   
+If you want to find out more about the JLR group, please have a look at the “Tell me more” box below. 
 
+**What this Privacy Policy covers:** This Privacy Policy covers the identified UK websites, that are set out in the Annex at the end. To be transparent, when you visit a JLR website not covered by this Privacy Policy, these may be controlled by other JLR group entities, or by a third party acting on our group’s behalf. We encourage you to check the Privacy Policy link at the bottom of the website you are visiting to see its privacy policy terms. 
 
-If you do agree, you may do so on the basis either that we use your data ONLY to process the request you make, or that Jaguar Land Rover can make further use for further contacts (always subject to the Privacy Policy below). 
+**How we are regulated:** For UK data protection legislation purposes, Jaguar Land Rover Limited is registered with the Information Commissioner’s Office under registration number ZA020510. 
 
-### DATA PROTECTION
+**Customer Relationship Centre contact details:** If you would like to get in touch on a website related query, Jaguar Land Rover Customer Relationship Centre contact details are accessible from these web pages: 
 
-We protect the data in strict accordance with the Principles of the European Union Data Protection Framework Directives, in particular EU Directive 95/46/EC   
+Queries in relation to Jaguar: <https://www.jaguar.co.uk/contact-us/index.html>
 
+Queries in relation to Land Rover: <https://www.landrover.co.uk/contact-us.html>
 
-Any information that you choose to provide us with about yourself will be held on a secure computer server in the United Kingdom. The server software (SSL) encrypts all the information you supply us.   
+Queries in relation to any purchases made from the Jaguar store: <https://shop.jaguar.com/uk/contact/>
 
+Queries in relation to any purchases made from the Land Rover store: <https://shop.landrover.com/uk/contact/>
 
-This ensures, among other things, that data we hold about you is processed lawfully and fairly. We aim to ensure that the personal data stored will be accurate, relevant and not excessive. We will keep the data up to date and not retain the information longer than is necessary. We will keep data securely to prevent unauthorised access by other people. You have the right to see what is held about you and correct any inaccuracies.   
+#### 2\. WHAT INFORMATION WE COLLECT FROM  OUR WEBSITES AND WHAT INFORMATION WE RECEIVE FROM OTHER SOURCES.
 
+Our websites serve primarily as information portals to help you better understand our cars, products and services. We also, however, offer a number of website functions that collect information you provide to us when you ask to be kept informed, to be added to lists, events or experiences, or when you buy goods or book or request services. 
 
-Jaguar Land Rover will not share or loan any identifiable information about you to any third party without your consent. We may share generalised information about site visitor patterns with partners or other parties in such a way that individual visitors can never be identified. It is possible to view our site without providing any personal details. However, without registering your details you will not be able to receive further communications from us. 
+**The main ways we collect information from our websites:**
 
-### WHAT PERSONAL INFORMATION IS COLLECTED
+  * When you visit, or use and interact with our websites, for example to take steps to request or use any of our online-available services (including but not limited to website shops, or our experiences), where you find out more about an event or experience or where you request any other information;
+  * When you enter into personalised web areas and use our websites as a way to engage with us, as a place where you can ask for personalised reminders, receive information about your vehicle, and/or request vehicle service or other information to be notified to you;
+  * When you provide information to or interact with any of Jaguar Land Rover careers pages;
+  * When you contact us (via contact details or forms made available on our websites), or send us correspondence.
+  *   
+Click on the “Tell me more” box to find out more about the data we may receive from you directly.   
 
-We collect your personal information on a registration form.   
 
 
-This information may include data such as your name, email address, country and preferred language.   
 
+**Information may also be received from other sources. For example:**
 
-We use this information:   
+  * **Vehicle related data from independent third party sources:** When you own a JLR vehicle, information connected with you and your vehicle (including the vehicle identification number or VIN) may be shared as is appropriate between our network of retailers, repairers, importers, credit providers and credit hire product providers, and used to inform any personalised web areas you register to receive. The information that is shared will depend on factors like who you have bought your vehicle from and the services that you request from us throughout the period of your vehicle ownership. Please visit Section 4 (Who we share personal data with) below to find out more. Please also visit our separate InControl terms and privacy policies (here for Jaguar: [https://incontrol.jaguar.com](https://incontrol.jaguar.com/) and here for Land Rover: [https://incontrol.landrover.com](https://incontrol.landrover.com/)) for more information on vehicle data.
+  * **Third party support services:** For the performance of our website services and to allow us to maintain appropriate records and to support ongoing queries, we may receive data about you or your website activities from our group companies or third party providers (e.g. to confirm website payments, to track website order deliveries, to appropriately update our data records and to support website maintenance). More information on our categories of suppliers is provided at Section 4 (Who we share personal data with) below.
+  * **Device data:** Our websites automatically take certain device information in order to optimise your website experience (for example, allowing our website to automatically adapt screen size as appropriate for the device you are using to browse the website). This data also supports our website analytics. More information on automated data collection and cookies can be found in our Cookies policy, available [via this link](https://web.archive.org/cookie-policy/index.html "Cookies Policy - Hero Title Banner").
+  * **Marketing data:** Your contact details, marketing preferences, demographic or other information may be shared with us by retailers or other third parties partners, where there is appropriate notice and in compliance with applicable data protection laws. You have the right to ask us not to use your personal data for marketing purposes. Please see your data protection rights at Section 7 (Your data protection rights) below for further information on these.
+  * **Public sources of data:** We may use public sources of data, for example, to support website functionality (e.g. to support authentication or fraud checks), and/or to maintain the accuracy of the data we hold. For example, we may make checks from time to time with the DVLA to check our vehicle owner information remains up to date.
 
 
-  1. To help make your visit more enjoyable
-  2. To send you relevant information about products and services
-  3. To email you from time to time about promotions or products and services which we think may be of interest to you
 
+**TELL ME MORE ...  
+...about the personal data JLR may receive direct...**
 
+We receive information you provide to us in your use of our websites, for example, when you add information to online forms or to data fields on our websites. We may also receive information from you by other online means, for example, if you comment on our social media pages. This will be the information that is visible to you, and may include your name, occupation, contact information (e.g. email, postal address and phone/mobile number), credit card/payment details, driving licence details, vehicle data and general information you decide to share such as your experience with JLR products and services.
 
-If you choose to receive information or other communications from us, you can select that option by ticking the relevant box on the registration form. You can also contact us at any time if you don't want to receive any more communications from us by using the Contact Us link on the website.   
+#### 3\. HOW WE USE YOUR PERSONAL INFORMATION.
 
+We use personal data to manage and meet service and information requests, to understand service, vehicle and website use, and to make our products and services (including our web services) as effective as possible. For more information on our processing, and the legal grounds that are relevant, please see the “Tell me more” box below. 
 
-If you have allowed us to use your personal information for the purposes above, we may from time to time disclose this information to any company or organisation to which we pass the responsibility to handle email or other direct marketing communications on our behalf. Should this happen, we ensure that any third party companies who handle your information comply with the relevant Data Protection legislation. 
+**TELL ME MORE ...**
 
-### OTHER INFORMATION COLLECTED DURING YOUR VISIT TO OUR SITE
+The main uses of your personal data and the legal grounds we rely on for these are: 
 
-Whenever you browse the [www.landrover.com](http://www.landrover.com/) website, read pages, or download information, our computers automatically record certain information about your visit from the computer you use to access our site.   
-
-
-The information includes the following:   
-
-
-This information does not identify you personally. It just tells us how many visitors come to our site and the types of computers they use. With this information, we can improve our site for all our visitors and make it more useful to you   
-
-
-  1. The date and time you access our site.
-  2. How many and which pages you visit during a 'session' on our site and how long you were on the site.
-  3. Your Internet domain name (this might be your internet service provider such as aol.com or your place of work) and the 'IP' address (this is a number assigned to your computer whenever you are surfing the web) which allows you to access our website.
-  4. The Internet browser you use (e.g. Microsoft Explorer or Netscape) and your computer's operating system (e.g. Windows 98).
-  5. The site you were on before you linked to rangerover.com / landrover.com (e.g. Yahoo if you found us from a search engine).
-
-
-
-### PROTECTION OF EMAIL ADDRESSES
-
-Your email address is only used for the purposes of replying to you unless you have given consent as detailed above. 
-
-### DATA PROTECTION ON PIXEL TAGS
-
-We may use "pixel tags," which are small graphic files that allow us to monitor the use of our websites. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears; the URL (Uniform Resource Locator) of the page on which the pixel tag appears; the time the page containing the pixel tag was viewed; the type of browser that fetched the pixel tag; and the identification number of any cookie on the computer previously placed by that server. When corresponding with you via HTML capable e-mail, we may use "format sensing" technology, which allows pixel tags to let us know whether you received and opened our e-mail. 
-
-### MORE QUESTIONS ABOUT PRIVACY?
-
-You have the right as an individual to find out what information we hold about you and make corrections if necessary. You also have the right to ask us to not use your information for marketing purposes by choosing not to give your consent on the registration form. 
-
-If you have any specific questions that are not covered in this section, or want to know what information we currently store on you, please [contact us.](http://www.landrover.co.uk/contact-us.html)
-
-If you have a specific data protection concern or complaint, you can address it to our Data Protection & Privacy Team at [DPOffice@jaguarlandrover.com](mailto:DPOffice@jaguarlandrover.com)
-
-## COOKIE POLICY
-
-### What Is A Cookie?
-
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. Cookies can help a website to arrange content to match your preferred interests more quickly - most major websites use cookies. Cookies alone cannot be used to identify you.   
-
-
-A cookie will typically contain the name of the domain from which the cookie has come; the "lifetime" of the cookie; and a value, usually a randomly generated unique number.   
-
-
-Two types of cookies are used on this website:   
-
-
-  1. Session Cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site.
-  2. Persistent Cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
-
-
-
-### Our Cookies Policy
-
-How cookies are used on this site and what information is collected. Session Cookies are used:   
-
-
-  * To allow you to carry information across pages of our site and avoid having to re-enter information.
-  * Within registration to allow you to access stored information.
-
-
-
-Persistent Cookies are used:
-
-  * To help us recognise you as a unique visitor (using a number, you cannot be identified personally) when you return to our website.
-  * To allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly.
-  * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
-
-
-
-Here's a list of the main cookies we use, and what we use them for. You'll find information about 3rd party cookies on the next tab.
-
-**Cookie Name** | **Cookie Purpose  
-**  
+Activity: | Necessary for contract:  
 ---|---  
-JLR_cookies   
-| Hides cookie banner once it has been closed.   
+**Maintaining and supporting website use**
+
+Where you use an online service governed by our provided online Terms and Conditions (for example, purchases from the online stores, or entering into prize draws and competitions), we and our permitted third parties will process data in a number of ways that support our website services. For example, this may include the following activities: identity confirmation, any fraud and authentication checks, service delivery, administration of prize draws, competitions, membership offers, surveys and other promotional activities, any applicable payment processes and collections activities, customer support and any ongoing service communications. We may also seek to improve our services, using user experiences to strengthen our internal processes, and our Retail Network interactions. For example, we send customer satisfaction surveys (or use third parties to send these on our behalf). We will also let you know when you call us (our Customer Relationship Centre numbers are available from our websites) that our calls may be recorded to support training, audit and quality purposes).
+
+| Legitimate Interests in running effective website services, and use of customer satisfaction surveys to support and improve our services. 
+
+Where personal data is required for entering into a contract, we will identify to you where information is mandatory. The consequences of not providing this information may include being unable to proceed with the requested service.  
   
-JLR_IgniteBar   
-| So the Ignite bar knows if the items have changed from the previous page. So it can animate out any new items.   
+Managing your requests 
+
+We will process data in managing your requests made on or via our websites (e.g. where you request a brochure, sign up to ‘keep me informed’ or add your details into any other website data form or data field). We will also process data in providing and maintaining personalised website experiences.
+
+| Legitimate Interests in running effective website services.  
+Enhancing website experience 
+
+Where we pre-fill website data fields to enhance and streamline your online experience.
+
+| Legitimate Interests in enhancing, simplifying and streamlining website experiences.  
+Internal research and development 
+
+For internal research, development, analytics, analysis and reporting purposes, e.g. to monitor current vehicle performance, predict trends or performance, develop new functions, products and services, or to evidence compliance with regulatory requirements.
+
+| Legitimate Interests in assessing and improving performance, managing compliance, monitoring trends and developing new products.  
+Marketing activities and research and analytics 
+
+We will obtain your consent where required for marketing communications to be sent to you using electronic means (e.g. email, text etc.), and may share your details for electronic marketing communications with our network of independent third parties, where you give consent for this to happen. We will also comply with cookie obligations where we use cookies on our website. 
+
+Other marketing activities will happen assessed on the Legitimate Interests ground. e.g. where we tailor marketing communications or send targeted marketing messages via post, phone or social media and other third party platforms; and in providing existing customers with information (via email or other channels) about similar products and services. In order to improve the services we offer via our websites, we may ask you to participate in research from time to time. It is entirely up to you whether you choose to do so. 
+
+We will use profiling, including segmentation tools and carry out research and analytics activities to inform our marketing strategies, to create a better understanding of our customers and visitors; and use of our websites, to support our website advertising, and to better improve the website information, functionality and the services we provide.
+
+| 
+
+Consent   
+Note: Where we collect your personal data with consent, you may withdraw your consent for us to use your information in any of these ways at any time. Please see Withdrawing your consent in Section 7 below for further details. (This right does not effect the lawfulness of processing that was based on that consent before its withdrawal.) 
+
+Legitimate Interests for direct marketing purposes
+
+Legitimate Interests for internal analytics and profiling, service awareness and service improvement.  
+Records maintenance and general administration 
+
+To maintain, cleanse and update our records, administer and maintain our websites, support your queries and any other internal operations and administrative purposes (for example, this will include troubleshooting, testing, supporting our audit requirements and in responding to any enquiries you may make, including any data protection rights you raise).
+
+| Legitimate Interests in maintaining appropriate websites, records and service administration  
+Network and information security 
+
+To maintain our network and information security in order for us to take steps to protect your information against loss or damage, theft or unauthorised access. And to maintain appropriate server locations (for example, we may work with third parties to support appropriate use of cloud services).
+
+| Legitimate Interests as appropriate for ensuring network and information security  
+Corporate acquisitions and disposals 
+
+Any data processed as is necessary in the context of corporate acquisitions or disposals.
+
+| Legitimate business Interests   
+Legal Obligation  
+Management of legal and regulatory requirements 
+
+To manage legal and regulatory requests and requirements, meet or defend legal rights or for the prevention/detection of crime, (including where required to assist HMRC, law enforcement agencies such as the Police, the Driver and Vehicle Licensing Agency (DVLA) or any other public authority or criminal investigation body, or for the safeguarding of national security).
+
+| Legitimate Interests in complying with law and regulation, including responding to regulators Legal Obligation  
+Service communications 
+
+In the event we communicate to you an urgent safety or product recall notices.
+
+| Vital interests 
+
+Legal Obligation  
   
-cmTPSet   
-| These cookies are used to track user interaction with the site - which pages they navigate, which links they click, etc.   
-  
-90401137_login   
-|   
-  
-90401137_reset   
-|   
-  
-TestSess3   
-| These cookies are used to track user interaction with the site - which pages they navigate, which links they click, etc.   
-  
-gs_u_GSN-065099-V, gs_u_GSN-657216-Q   
-| Go Squared Analytics cookie, used to determine new sessions/visits. The cookie is created when the JavaScript library executes and no existing gs_u_GSN cookie exists. The cookie is updated every time data is sent to GoSquared.   
-  
-psyma_participation   
-| Stores users preference in participation of the Psyma research survey  
-Media Innovation Group Appnexus   
-| These various online ad tracking cookies help us show you online adverts relevant to you. They track the adverts you have seen, those you have clicked on, and the pages you have visited on our site afterwards.  
-  
-### Third Party Cookies
+#### 4\. WHO WE SHARE PERSONAL DATA WITH.
 
-Third parties serve cookies via this site.   
+We may share your personal data with:
 
-
-These are used for the following purposes:   
-
-
-  * To serve advertisements on our site and track whether these advertisements are clicked on by users.
-  * To control how often you are shown a particular advertisement.
-  * To tailor content to your preferences.
-  * To count the number of anonymous users of our site.
-  * To provide security within shopping baskets or transactions.
+  * Those third parties who need to handle it so we can provide to you the products, services you have signed up to or requested, for example, to provide or offer finance or credit, insurance, to provide marketing and advertising support services and for optimised website services.
+  * With our network of retailers, authorised repairers and where relevant our importers network (together our “retail network”), so as to be able to fulfil requests for goods, services, etc, and for assessment and training, to be able to enhance the quality of the services you obtain when interacting with our Retail Network.
+  * Jaguar Land Rover group companies in line with the data uses set out in this Privacy Policy.
+  * Third parties in the event we sell or buy any business or assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or requests, or in order to enforce these terms or to investigate actual or suspected breaches.
 
 
 
-**Cookie  
-** | **Cookie Name  
-** | **Cookie Purpose  
-**  
----|---|---  
-Psyma   
-| psyma_participation   
-| Stores users preference in participation of the Psyma research survey.   
-  
-Addthis  | __atuvc   
-__atuvs   
-bt   
-um   
-uit   
-uid   
-loc   
-dt   
-bt2   
-di2 | These cookies are used in recording user sharing and social activity and to help publishers know approximately where people sharing information are located.   
-For more information you can visit:[www.addthis.com/](http://www.addthis.com/)  
-  
-### Web Beacons
+We have safeguards in place with our service providers to ensure that your data is kept securely and used in accordance with the purposes set out in this Privacy Policy. 
 
-Some of our Web pages may contain electronic images known as Web Beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web Beacons collect only limited information which includes a cookie number; time and date of a page view; and a description of the page on which the Web Beacon resides. We may also carry Web Beacons placed by third party advertisers. These Beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign 
+**TELL ME MORE ....  
+… about JLRs network of Independent Third Parties ...**   
+We work with a number of independent third parties to provide services, such as our Retail Network, credit product providers, contract hire products. Personal data may be sent directly to these entities by you (for example if you contact them by phone or email or via their website pages), or we may share personal data with them where appropriate to support with your queries or other service requirements. 
 
-### Managing Cookies
+Where you use the UK websites to find or make contact with our Retail Network, a credit provider, or a contract hire product provider, these are (unless otherwise stated), independent businesses and not JLR group companies. Any contact you make to them (for example, to call or send an email) and any data you provide to them in use of their websites, will be controlled by them, not by JLR. If you have questions regarding a third party’s (such as a retailer, importer, credit provider, contract hire product provider or repairer's) use of your personal data, we recommend you contact those parties directly. 
 
-Disabling and Enabling Cookies   
+For information on independent third parties we work with:   
+For Jaguar:
 
-
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. Guideline instructions on how to check cookies are enabled follow below:   
-
-
-How to check cookies are enabled for PC’s   
-
-
-Google Chrome   
-
-
-  1. Click on 'Tools' at the top of your browser window and select Options
-  2. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button
-  3. Now select 'Allow local data to be set'
+  * Our Retail Network is generally identifiable from the ‘locate a retailer’ website functionality. They can be searched for by name, location or postcode. A full list of all UK Retailers is accessible [by clicking here](https://www.jaguar.co.uk/retailer-locator/index.html).
+  * In the UK, credit is provided by Black Horse Limited trading as Jaguar Financial Services, St William House, Tresillian Terrace, Cardiff CF10 5BH.
 
 
 
-Microsoft Internet Explorer 6.0, 7.0, 8.0   
+For Land Rover:
 
-
-  1. Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab
-  2. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser
-  3. Settings above Medium will disable cookies
-
-
-
-Mozilla Firefox   
-
-
-  1. Click on 'Tools' at the top of your browser window and select Options
-  2. Then select the Privacy icon
-  3. Click on Cookies, then select 'allow sites to set cookies'
+  * Our Retail Network is generally identifiable from the ‘locate a retailer’ website functionality. They can be searched for by name, location or postcode. A full list of all UK Retailers is accessible [by clicking here.](https://www.landrover.co.uk/national-dealer-locator.html)
+  * Credit products are provided by Black Horse Limited trading as Land Rover Financial Services, St William House, Tresillian Terrace, Cardiff CF10 5BH.
+  * Contract Hire products are provided by Lex Autolease Limited trading as Land Rover Contract Hire, Heathside Park, Heathside Park Road, Stockport SK3 0RB.
 
 
 
-Safari   
+**… about Suppliers ...**   
+We use a number of service suppliers to support our business and these service providers may have access to our systems and data in order to provide services to us and on your behalf, for example payment processors, information technology such as hosting service providers, marketing and digital advertising support services, customer services and relationship handling, service and system specialists, website analytics support, online store shipping, delivery and support for events and experiences. 
 
+**… about JLR Group companies, and how they may provide service support ...**   
+As a member of the Tata Group of companies, we can benefit from the large IT infrastructure and expertise that exists within our wider corporate structure. This means that the personal data you provide to us may be accessed by members of our group of companies only as necessary for service and system maintenance and support, aggregate analytics, business continuity, IT and administrative purposes. For example where necessary to support particular website enquiries, or to provide technical support that maintains website functionality. 
 
-  1. Click on the Cog icon at the top of your browser window and select the 'Preferences' option
-  2. Click on 'Security', check the option that says 'Block third-party and advertising cookies'
-  3. Click 'Save'
+**… about Public bodies, law enforcement and regulators ...**   
+From time to time, the police, other law enforcement agencies and regulators can request personal data, for example for the purposes of preventing or detecting crime, or apprehending or prosecuting offenders.
 
+#### 5\. INFORMATION ABOUT INTERNATIONAL DATA TRANSFERS.
 
+The Jaguar Land Rover UK websites use servers which are hosted in the EU. However we may share website personal data with suppliers or group companies located outside of the EU where this is necessary for the purposes described above. Where this happens, we apply safeguards to add to the data protections that apply to those data transfers. This includes an assessment of the adequacy of the third country in question, use of European Commission approved model contract terms where appropriate, and assessment of Privacy Shield certification for US located entities where applicable. 
 
-### How to check cookies are enabled for Macs
+**TELL ME MORE ...
 
-Microsoft Internet Explorer 5.0 on OSX   
+...about the adequacy checks JLR puts in place for international data transfers...
 
+**
 
-  1. Click on 'Explorer' at the top of your browser window and select 'Preferences' options
-  2. Scroll down until you see 'Cookies' under Receiving Files
-  3. Select the 'Never Ask' option
+Where JLR chooses to share personal data with a third party located outside the EU, the following factors are assessed to support adequate transfer of this data:
 
-
-
-Safari on OSX   
-
-
-  1. Click on 'Safari' at the top of your browser window and select the 'Preferences' option
-  2. Click on 'Security' then 'Accept cookies'
-  3. Select the 'Only from site you navigate to'
-
-
-
-Mozilla and Netscape on OSX   
-
-
-  1. Click on 'Mozilla' or 'Netscape' at the top of your browser window and select the 'Preferences' option
-  2. Scroll down until you see cookies under 'Privacy & Security'
-  3. Select 'Enable cookies for the originating web site only'
+  * **Internal checks to identify the existence or absence of any adequacy decision by the European Commission.** We have group companies, and use suppliers located in countries that have been approved by the European Commission as having essentially equivalent data protection laws. A full list of these countries as at the date of this Privacy Policy is: Andorra, Argentina, Canada, Faroe Islands, Guernsey, Israel, Switzerland, Jersey, New Zealand, Uruguay and the Isle of Man. (The European Commission has also approved as adequate the EU-US Privacy Shield programme – this is described below). This list and information about the protections the European Commission has considered is available via [this link](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
+  * **Use of measures like European Commission approved measures to support adequate transfers of personal data.** We also have group companies, and use suppliers located in countries that are elsewhere in the world. To manage data protection compliance with these transfers, we will use European Commission approved data transfer mechanisms such as use of model contractual clauses approved by the Commission. We will also assess where applicable where a supplier is able to demonstrate to us they have Binding Corporate Rules. (Binding Corporate Rules is a GDPR – recognised Data Protection mechanism to ensure adequate personal data transfers). We may work with suppliers who are able to demonstrate to us they are Privacy Shield certified. 
+    * To understand the protections required in European Commission approved Model Clauses, a template copy of these [is accessible from this location.](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)
+    * To see a full list of approved Binding Corporate Rules, [please click this link](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/binding-corporate-rules_en).
+    * A full list of Privacy Shield participants, and their Privacy Shield certification information is available from [this website link](https://www.privacyshield.gov/welcome).
 
 
 
-Opera   
+#### 6\. HOW LONG WE HOLD PERSONAL DATA FOR.
+
+We will keep your personal data for as long as we need it to provide the products and services you have signed up to. We may also keep it to comply with our legal obligations, respond to queries and resolve any disputes, to meet our legitimate interests and to enforce our rights. 
+
+The criteria we use to determine storage periods include the following: Information we have told you about storage periods on our website or in website terms and conditions. We will also use criteria such as applicable contractual provisions that are in force, legal statutory limitation periods, applicable regulatory requirements and industry standards.
+
+#### 7\. YOUR DATA PROTECTION RIGHTS.
+
+You have rights in connection with your personal data that, with effect from the 25th May 2018 will include the following: to withdraw consent where you have given it, to be informed and have access to your personal data, to correct or complete inaccurate data, and in certain circumstances to restrict, request erasure, object to processing, or request portability of your personal data to another organisation. 
+
+We try to ensure that we deliver the best levels of customer service. if you do need or want to get in touch with us for any reason regarding your data protection rights, please get in touch using either of the email addresses below, and add into the subject header that it relates to your data protection rights. These Customer Relationship email addresses are the appropriate contact details for our Data Protection Officer where queries are data protection related:
+
+  * [jagcrc@jaguarlandrover.com](mailto:jagcrc@jaguarlandrover.com)
+  * [lradvice@jaguarlandrover.com](mailto:lradvice@jaguarlandrover.com)
 
 
-  1. Click on 'Menu' at the top of your browser window and select 'Settings'
-  2. Then select 'Preferences', select the 'Advanced' tab
-  3. Then select 'Accept cookies' option
+
+If you are not happy and have a data protection related complaint, please contact us direct at this email address: [DPOffice@jaguarlandrover.com](mailto:DPOffice@jaguarlandrover.com). If you are not satisfied, you also have the right to complain to the Information Commissioner’s Office. 
+
+To learn more about these data protection rights, see the “Tell me more” box below 
+
+**TELL ME MORE ...
+
+...about my data subject rights...
+
+**
+
+  * If you have given us consent to process your personal data, including for electronic marketing communications, you have the right to withdraw that consent at any time. Just use the unsubscribe options presented, for example, these are present in the email marketing communications sent by us.
+  * You can ask for access to the personal data we hold about you, object to the processing, request that we correct any mistakes, restrict or stop processing or delete it. If you do ask us to delete or stop processing it, we will not always be required to do so. If this is the case, we will explain why.
+  * In certain circumstances you can ask us to provide you with your personal data in a usable electronic format and transmit it to a third party (right to data portability). This right only applies in certain circumstances. Where it does not apply, we will explain why.
 
 
 
-### Deleting cookies
+**… about how I can get in touch with the Information Commissioner’s Office (ICO) …**
 
-You can easily delete any cookies that have been installed in the cookie folder of your browser. For example, if you are using Microsoft Windows Explorer:   
-Open 'Windows Explorer'   
-Click on the 'Search' button on the tool bar   
-Type "cookie" into the search box for 'Folders and Files'   
-Select 'My Computer' in the 'Look In' box   
-Click 'Search Now'   
-Double click on the folders that are found   
-'Select' any cookie file   
-Hit the 'Delete' button on your keyboard   
-If you are not using Microsoft Windows Explorer, then you should select "cookies" in the "Help" function for information on where to find your cookie folder.
+The Information Commissioner’s Office (the ICO) is the supervisory authority that regulates personal data in the UK. You can get in touch with the ICO in any of the following ways:
+
+  * By going to their website: [www.ico.org.uk](https://web.archive.org/web/20190426235012id_/https%3A//www.landrover.co.uk/privacy-policy/www.ico.org.uk)
+  * By giving them a call on 0303 123 1113
+  * or by writing to them. Their address is: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow SK9 5AF.
+
+
+
+#### 8\. LINKS TO OTHER WEBSITES
+
+Our website may contain links to other websites run by other organisations which we do not control. This policy does not apply to those other websites ‚ so we encourage you to read their privacy statements. We are not responsible for the privacy policies and practices of other websites and apps (even if you access them using links that we provide) and we provide links to those websites solely for your information and convenience. We specifically disclaim responsibility for their content, privacy practices and terms of use, and we make no endorsements, representations or promises about their accuracy, content or thoroughness.
+
+#### 9\. KEEPING YOUR INFORMATION SECURE
+
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+
+We require all of our services providers to have appropriate measures in place to maintain the security of your information. 
+
+Where we have given you (or where you have chosen) a password that enables you to access any personalised area in a JLR website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted over the internet; any transmission is at your own risk. Your information will be kept in a secure environment protected by a combination of physical and technical measures such as encryption technologies or authentication systems to prevent any loss, misuse, alteration, disclosure, destruction, theft or unauthorised access. 
+
+**Annex - Which JLR websites are covered under this Privacy Policy**
+
+This Privacy Policy covers those websites identified below. These are JLR websites for which Jaguar Land Rover Limited is a data controller. 
+
+Jaguar Land Rover is responsible for the processing any personal data you provide to us through these websites:
+
+In this privacy policy we refer to these as ‘the **UK JLR website pages** ’ or **our websites** ’. 
+
+For transparency this Privacy Policy does not cover all JLR branded websites, and we would always encourage you to click the Privacy Policy link of the website you are visiting to see the privacy information that applies. 
+
+In particular, please be aware that the following websites have their own separate website terms and Privacy Policy and are currently not within the scope of this Privacy Policy. 
+
+**The InControl Websites:**
+
+These are websites for which Jaguar Land Rover Limited is also data controller, but they are governed by separate and different website terms and privacy policies. 
+
+**The British Motor Museum Website:**
+
+The data controller for this website is not Jaguar Land Rover, but a separate entity in the JLR group. This site has its own separate and different Privacy Policy. 
+
+**Independent companies we don’t control:** Where you go from our websites to a third party, such as a retailer, repairer, importer, credit product provider, or contract hire product provider these are independent parties and not part of the JLR group. This means JLR will no longer control (and in some cases will not even see) the data you provide to third parties in these instances. Click on “Tell me more” in Section 4 (Who we share personal data with) above to find out more about this. 
+
+**Websites we don’t control:** When you visit the following websites:
+
+  * <https://www.landroverinsurance.com/>
+  * [https://www.jaguarcarinsurance.co.uk](https://www.jaguarcarinsurance.co.uk/)
+  * [http://compare.jaguar.co.uk](http://compare.jaguar.co.uk/)
+  * [http://compare.landrover.co.uk](http://compare.landrover.co.uk/)
+
+
+
+Please note, these fall outside the scope of this Privacy Policy, and will be covered by their own Privacy Policy terms.
