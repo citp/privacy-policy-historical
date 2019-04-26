@@ -1,46 +1,49 @@
-> *The following text is extracted and transformed from the highlightsfootball.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314050649id_/http%3A//highlightsfootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlightsfootball.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426060312id_/https%3A//highlightsfootball.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HighlightsFootball
+# Privacy Policy - Highlights Football
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at .
+## **Your choices**
 
-At http://highlightsfootball.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://highlightsfootball.com/ and how we use it.
+You have the following rights concerning our processing of your personal data:
 
-**Log Files**  
-Like many other Web sites, http://highlightsfootball.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-**Cookies and Web Beacons**  
-http://highlightsfootball.com/ uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
-
-**DoubleClick DART Cookie**
-
-→ Google, as a third party vendor, uses cookies to serve ads on http://highlightsfootball.com/.  
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://highlightsfootball.com/ and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
-
-**Our Advertising Partners**  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
-
-  * Google
+  1. the right to request access to your personal data as well as its rectification, removal or restriction of processing,
+  2. the right to object to the processing,
+  3. the right to transfer data,
+  4. the right to withdraw consent for the processing of personal data for a specific purpose, if such consent has been previously given,
+  5. the right to bring a complaint to the supervisory authority in connection with the processing of personal data.
 
 
 
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
-You may consult this listing to find the privacy policy for each of the advertising partners of http://highlightsfootball.com/._
+The above mentioned rights can be exercised in accordance with the rules described in art. 16 – 21 of GDPR, by contacting us through contact form found on our website [http://highlightsfootball.com](https://highlightsfootball.com/contact-us/). We may refuse to exercise certain rights from those indicated above in a situation where the implementation of a given right would be in conflict with the legitimate purpose of the data we process. For example, we may refuse to delete personal data specified in your order until the expiry of the limitation period for claims under the concluded contract. We may contact you to ask you for further information to help you exercise your legal rights, or to speed up our response. We will try to respond to requests within one month and we will let you know if we need to take longer, for example because your request is complicated.
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://highlightsfootball.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+**Opt out of communications.**  You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your HighlightsFootball account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database. Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services. You can opt out of some notification messages in your account settings.
 
-http://highlightsfootball.com/ has no access to or control over these cookies that are used by third-party advertisers.
+**Send “Do Not Track” Signals.**  Some browsers have incorporated “Do Not Track” (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not yet a common understanding of how to interpret the DNT signal, our Services do not currently respond to browser DNT signals. You can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above.
 
-**Third Party Privacy Policies**  
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://highlightsfootball.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+Please see Cookies Policy above to understand how you can opt-out from certain cookies used though-out HighlightsFootball.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+## What rights you have over your data
 
-**Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms.
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-**Update**  
-This Privacy Policy was last updated on: Thursday, December 29th, 2016.  
-[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
-_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Your Consent
+
+By using this Site, you signify your acceptance of this Privacy Policy and our [Terms of Use](https://highlightsfootball.com/terms-of-use/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Our policy towards children
+
+Our services are not directed to individuals under 16. We do not knowingly collect personal information from children under 16. If we become aware that a child under 16 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact us.
+
+## Changes to this policy
+
+We will notify you by email should there be any significant changes to this policy. We encourage you to review our privacy policy whenever you use our services to stay informed about our information practices and the ways you can help protect your privacy.
+
+## Who can I ask if I have any additional questions?
+
+If you have any questions about this Privacy Policy and our practices, or you have reason to believe Highlightsfootball.com may have failed to adhere to this Privacy Policy, you can contact us using the [Contact page](https://highlightsfootball.com/contact-us/), email us on the given address.
+
+**Email:** support@highlightsfootball.com
+
+This document was last updated on  _May 20, 2018_
