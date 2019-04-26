@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the restomods.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410203813id_/http%3A//restomods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restomods.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426110224id_/https%3A//restomods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Restomods.com
 
-This policy describes how and why restomods.com collects non-personally identifiable data from users and website visitors to http://RESTOMODS.COM, and how that data will be used. restomods.com is committed to respecting the privacy of non-personal identifiable data gathered.
+This policy describes how and why restomods.com collects non-personally identifiable data from users and website visitors to https://RESTOMODS.COM, and how that data will be used. restomods.com is committed to respecting the privacy of non-personal identifiable data gathered.
 
 restomods.com’s Privacy Policy is incorporated into and subject to the restomods.com Terms of Use. Each time that you access or use the Site you signify that you have read, understand, and agree to be bound by the Terms of Use, and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using our Services.
 
@@ -83,10 +83,6 @@ restomods uses third-party online behavioral advertising technologies which incl
 **Changes to Policy**
 
 From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
-
-**Governing Law**
-
-This Privacy Policy is governed by and construed in accordance with the laws of Costa Rica. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of Costa Rica.
 
 **Contact us**
 
