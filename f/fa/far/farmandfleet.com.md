@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903154941id_/https%3A//www.farmandfleet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426044535id_/https%3A//www.farmandfleet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blain's Farm & Fleet
 
-[ Home ](https://web.archive.org/) > Privacy Policy
+[Home](https://web.archive.org/) > Privacy Policy
 
 ### We Respect Your Privacy
 
@@ -46,7 +46,7 @@ We may also collect non-personal information about users through several common 
 
 ### How We Collect Information
 
-We collect information passively by using tracking tools like browser and flash cookies, web beacons, and other similar technologies. Cookies are small bits of information that this site places on your computer. We use these technologies to identify your IP address, browser type, device characteristics, domain name, referring URLs and specific links and web pages through which you click. This data is collected automatically and utilized for data analytics, site operations, fraud prevention and to help us improve the customer's overall experience. However, in general, you can visit Blain's Farm & Fleet on the World Wide Web without telling us who you are or revealing any PII about yourself. We may also use technologies, such as out own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://dtmc.farmandfleet.com/adinfo/choice/prod/?type=fpc&cid=61331&cname=Blains%20Farm%20and%20Fleet&cmagic=30b8a6&clogo=61331.png&loc=us&lang=en-us).
+We collect information passively by using tracking tools like browser and flash cookies, web beacons, and other similar technologies. Cookies are small bits of information that this site places on your computer. We use these technologies to identify your IP address, browser type, device characteristics, domain name, referring URLs and specific links and web pages through which you click. This data is collected automatically and utilized for data analytics, site operations, fraud prevention and to help us improve the customer's overall experience. However, in general, you can visit Blain's Farm & Fleet on the World Wide Web without telling us who you are or revealing any PII about yourself. We may also use technologies, such as out own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://optout.networkadvertising.org/?c=1).
 
 We collect information directly from you, such as names, addresses, email addresses and the like, only when voluntarily provided by a visitor to the site. We collect information when you register online, update your account, log-in, place orders, opt-in to receive emails, shop online, and participate in contests, promotions or surveys. You can choose not to provide certain information, but you may not be able to take advantage of many of our features.
 
