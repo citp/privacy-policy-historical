@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrepreneurial-insights.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123113443id_/https%3A//www.cleverism.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrepreneurial-insights.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426075455id_/https%3A//www.cleverism.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cleverism
 
