@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231010758id_/https%3A//www.thrifty.com/AboutUs/content/Global_Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426035235id_/https%3A//www.thrifty.com/AboutUs/content/Global_Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Global Privacy Policy
 
-The Hertz Corporation, its rental and other rental-related businesses, business affiliates, and subsidiaries, including Dollar, Thrifty, and Firefly (together “We”, “Us”, and “Our”) respects the privacy rights of Our customers and We are committed to protecting your privacy. This Privacy Policy (the “Policy”) explains Our data handling practices as a “Controller” with regard to your Personal Data, as well as your rights associated with your Personal Data. This Policy was last materially updated on May 17, 2018.
+The Hertz Corporation, its rental and other rental-related businesses, business affiliates, and subsidiaries, including Dollar, Thrifty, and Firefly (together “We”, “Us”, and “Our”) respects the privacy rights of Our customers and We are committed to protecting your privacy. This Privacy Policy (the “Policy”) explains Our data handling practices as a “Controller” with regard to your Personal Data, as well as your rights associated with your Personal Data. This Policy was last materially updated on January 29, 2019.
 
 Our goal is to provide Our customers with excellent services. We do business in many countries and We aim to comply with all privacy laws that apply to the data We collect and use. This policy is subject to compliance with local law. Where this policy provides a higher standard than local law, this policy will control how Hertz handles your Personal Data. By providing your Personal Data to Us, Our designated service providers, or other third parties as noted within this Policy, you consent to Our use and disclosure of your data for the operational and other purposes listed in this Policy. 
 
@@ -312,7 +312,7 @@ In addition, under certain conditions, more fully described on the Privacy Shiel
 
 * **Contact Us**
 
-Please contact Us by emailing [privacy@hertz.com](mailto:privacy@hertz.com), or for EU residents - [euprivacy@hertz.com](https://web.archive.org/web/20181231010758id_/https%3A//www.thrifty.com/AboutUs/Dollar/euprivacy@hertz.com) or writing to the address below if you have any questions, wish to exercise your rights of access, or seek other assistance as described above. 
+Please contact Us by emailing [privacy@hertz.com](mailto:privacy@hertz.com), or for EU residents - [euprivacy@hertz.com](https://web.archive.org/web/20190426035235id_/https%3A//www.thrifty.com/AboutUs/Dollar/euprivacy@hertz.com) or writing to the address below if you have any questions, wish to exercise your rights of access, or seek other assistance as described above. 
 
 The Hertz Corporation
 
