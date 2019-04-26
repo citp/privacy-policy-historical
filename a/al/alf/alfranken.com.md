@@ -1,109 +1,101 @@
-> *The following text is extracted and transformed from the alfranken.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710065225id_/https%3A//www.alfranken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfranken.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426135314id_/https%3A//alfranken.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy – AlFranken.com
 
-[](https://www.alfranken.com/)
+### Last updated and effective as of April 1, 2019.
 
-Menu
+This website is operated by Alan Franken, Inc. (referred to in this Privacy Policy as “we,” “us” or “our”). This Privacy Policy (“Policy”) explains how we collect, use and protect information that we learn about you as a result of your interaction with us through the websites on which this Policy is posted, including the websites that you may access using your mobile electronic device (collectively, “Sites”), and through the services provided through the Sites (“Services”). **By accessing any portion of the Sites or using any of the Services, you agree to the practices described in this Policy and you consent to the collection, use and disclosure of your personal information as set out in this Policy. If you do not wish to provide your consent and/or do not agree with any part of this Policy, you must discontinue all use of the Sites and the Services immediately.**
 
-## AL FRANKEN FOR SENATE  
-PRIVACY POLICY
+* * *
 
-_**Last Updated:   February 3, 2015**_
-
-This Privacy Policy explains how information about you is collected, used and disclosed by Al Franken for Senate 2020 (“AFS”).  This Privacy Policy applies to information we collect when you use our websites, mobile sites, mobile applications and other online services that link to this Privacy Policy (collectively, the “Sites”) or when you otherwise interact with us.
-
-We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).  We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.
-
-### Collection of Information 
-
-**_Information You Provide to Us_**
-
-We collect information you provide directly to us.  For example, we collect information when you fill out a form, make a donation, send us an email, sign up to receive email or text message updates, sign a petition, sign up as a volunteer, create an account, schedule an event, participate in a contest or promotion, make a purchase, communicate with us via third party social media sites, request information, or otherwise communicate with us.  The types of information we may collect include your name, email address, postal address, phone number, fax number, credit card information and other contact or identifying information you choose to provide.In addition, the Federal Election Commission (FEC) may require us to collect personal information from donors.  For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per calendar year.
-
-**_Information We Collect Automatically When You Use the Sites_**
-
-When you access or use our Sites, we automatically collect information about you, including:
-
-  * **Log Information:**   We log information about your use of the Sites, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Sites. 
-    * **Device Information:   **We may collect information about the computer or mobile device you use to access our Sites, including the hardware model, operating system and version, device identifiers and mobile network information.
-  * **Information Collected by Cookies and Other Tracking Technologies:**   We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits.  We may also collect information using web beacons (also known as “tracking pixels”).  Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.  For more information about cookies, and how to disable them, please see “Your Choices” below.
+  * When does this Policy apply?
+  * What is the effective date of this Policy? 
+  * What is our policy on children’s privacy and privacy rights of California minors?
+  * What information about you do we collect and how do we use it?
+  * Will we share your information with other parties, and what are your California Privacy Rights?
+  * What choices do you have about the collection and use of your information?
+  * What is our policy on tracking?
+  * What security measures do we take?
+  * Does this Policy apply outside the United States?
+  * How can you contact us with questions about this Policy or our privacy practices?
 
 
 
-**_Information We Collect From Other Sources_**
+## When does this policy apply?
 
-We may also obtain information from other sources and combine that with information we collect through our Sites.  For example if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+This Policy applies solely to our online information collection, use and disclosure practices in connection with the Sites, and does not apply to any of our practices conducted offline.
 
-### Use of Information
+This Policy is only applicable to the Sites and not to any other website or service that you may be able to access from any of the Sites, or use in connection with the Sites or the Services. When you click on an advertisement or a logo displayed on any of the Sites that links you to a different website, or when you use any third-party app, tool, widget, plug-in or extension on the Sites or as part of any of the Services, information about you may be collected through automated means. **We do not control, and are not responsible for, any third party’s collection and use of your personal information. You should refer to the privacy policies of such third parties to learn about their information collection, use and disclosure practices.**
 
-We may use information about you for various purposes, including to:
+The Services may also have message boards, forums or chat areas, where users can exchange ideas and communicate with one another. When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available on-line.
 
-  * Provide, maintain and improve our Sites;
-  * Provide and deliver the information, products and services you request, process contributions and transactions and send you related information, including confirmations and invoices,
-  * Send you confirmations, technical notices, updates, security alerts and support and administrative messages;
-  * To request feedback and to otherwise contact you about your use of the Sites;
-  * Respond to your comments, questions and requests and provide customer service;
-  * To send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;
-  * To help connect you with other supporters, and to solicit volunteers, donations and support for AFS and for candidates, issues and organizations that we support;
-  * To remind you to send in your voter registration form and to vote;
-  * To assist you in finding your registration information and polling location;
-  * To contact you if other information is necessary under Federal election laws;
-  * Monitor and analyze trends, usage and activities in connection with our Sites;
-  * Personalize and improve the Sites and provide advertisements, content or features that match user profiles or interests;
-  * Process and deliver contest entries and rewards;
-  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
-  * Carry out any other purpose for which the information was collected.
-  * AFS is based in the United States and the information we collect is governed by U.S. law.  By accessing or using the Sites or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
+## What is the effective date of this Policy?
+
+This Policy is effective as of the “last updated and effective” date set out at the top of this page. We reserve the right to modify this Policy at any time, and such revisions will become effective upon the earlier of (1) posting of the revisions to the Sites, or (2) distribution of the revisions by electronic mail. Your continued use of any of the Sites or the Services after the effective date of any modifications means that you accept and agree to all such revisions. Please visit this page on a regular basis and check the “last updated and effective” date at the top of this page to ensure that you are familiar with the most recent version of this Policy.
+
+## What is our policy on children’s privacy and privacy rights of California minors?
+
+The Sites and the Services are not for children under 13 years of age, and we do not knowingly collect or store personal information from users of the Sites or the Services who are under 13 years of age. No personal information should be submitted to or posted at the Sites by visitors who are under 13 years of age. If you become aware that your child under 13 years of age has provided his or her personal information to us, please contact us [here](mailto:privacy@alfranken.com). If we determine that we are storing personal information about a child who is or who was, at the time of providing information, under 13 years of age, we will delete such information from our files immediately.
+
+If you are a resident of the State of California, under 18 years of age, and a registered user of a service available on the Sites, and you have posted content or information on the Sites, you may request and obtain removal of the content or information posted by you, by contacting us [here](mailto:privacy@alfranken.com). Please note that our removal of such content or information does not ensure complete or comprehensive removal of this content or information from the Sites.
+
+## What information about you do we collect and how do we use it?
+
+By accessing the Sites or using the Services, you may provide to us two types of information: (1) personally-identifiable information that you voluntarily choose to disclose to us, such as your name, address, telephone number, e-mail address and credit card information; and (2) non-personally-identifiable information, which we collect through the use of technologies such as “cookies,” “web beacons” or “web logs.” We use the information we collect to monitor and analyze how the Sites and the Services are used, to provide customer service, and to maintain and improve the Sites and the Services. We may also collect technical information to help us identify your mobile device.
+
+You may be asked to submit personally-identifiable information to access or use certain aspects of the Services offered on the Sites – for example, when you create an account, subscribe to our mailing list, contact us, purchase goods, receive customer or technical support, and/or participate in questionnaires, surveys or promotions. The personally-identifiable information that you provide to us allows us to fulfill your service request or product order, respond to your questions, contact you about your account or your order, alert you of new products or services and new product and service features, and inform you of promotions, special events and other offers that we think may be of interest to you.
+
+We use cookies for a variety of purposes. We may use cookies for system administration, to assess the performance of the Sites and the Services, to enhance your online experience, and to personalize your use of the Sites. You may choose to disable cookies, block all cookies, or receive a warning before a cookie is stored on your computer or your mobile device; please consult instructions for your web browser to disable or block cookies, or to receive a warning before a cookie is stored on your computer or your mobile device. However, if you disable or block cookies, it is possible that some parts of the Sites or the Services will not be accessible or available to you.
+
+We use tracking technologies, including web beacons and web logs (also called “clear GIFs,” “pixel tags” or “pixels”), to monitor and analyze how the Sites and the Services are used, to provide customer service, and to maintain and improve the Services. Web beacons and web logs allow our servers to automatically record information that your browser sends whenever you visit the Sites. This information includes the time and date of your visit, your Internet Protocol address, your geographic location (your zip code, your area code and/or your time zone), your browser type and version, the Sites and the Services you use, and when and how long you use them. We use this information to monitor and analyze how the Sites and the Services are used, to provide customer service, and to maintain and improve the Sites and the Services. We may also use this information to deliver content, including ads, relevant to your interests, on the Sites and on third-party websites. We may also collect technical information to help us identify your mobile device. Mobile devices typically provide users with the ability to disable location services. If you have questions about how to disable the location services on your mobile device, you should contact your mobile service provider or your device manufacturer.
+
+## Will we share your information with other parties, and what are your California Privacy Rights?
+
+We may use your personally-identifiable information and your non-personally-identifiable information to provide analysis of the users of the Sites and the Services, in the aggregate, to prospective partners, advertisers and other third parties. We may also share your non-personally-identifiable information with our business partners for the purpose of their delivering content, including ads, on the Sites and on third-party websites.
+
+We may exchange, sell or rent your name and mailing address, but not your e-mail address or telephone number, with companies that offer marketing information or products through direct mail. We may disclose your personally-identifiable information to our employees, agents, contractors and sub-contractors, and to our related and affiliated entities, and their respective employees, agents, contractors, sub-contractors, for the limited purpose of enabling them to communicate with you directly about events and promotions that may be of interest to you. We will share your personally-identifiable information with other parties under the following circumstances:
+
+  * **Protection of Rights.** We will share your personally-identifiable information if we have a good faith belief that: (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities; (ii) such action is appropriate to enforce the [Terms of Use](https://web.archive.org/pages/terms-of-use) for the Sites, including any investigation of potential violations thereof; (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Sites or the Services; or (iv) such action is appropriate to protect our rights, property or safety or the rights, property or safety of our employees, users of the Sites or the Services, or others.
+  * **Asset Transfers.** If we become involved in a merger, acquisition, or other transaction involving the sale or transfer of some or all of our assets, or in the event of an insolvency or bankruptcy, the information, including personally-identifiable information, collected from you through your use of the Sites may be included in the transferred assets. Should such an event occur, we will use reasonable measures to notify you, either through e-mail or a prominent notice on the Sites.
+  * **Service Providers.** We may share your personally-identifiable information with the companies that provide e-commerce tools for the Sites or the Services. For example, WordPress [ provides our website platforms, Shopify (](http://wordpress.org/)[www.shopify.com](http://%3D/)) provides and hosts the e-commerce platform for our online store, MailChimp ([www.mailchimp.com](http://www.mailchimp.com/)) provides software and services for our e-mail marketing campaigns, PayPal ([www.paypal.com](http://www.paypal.com/)) and Stripe ([www.stripe.com](http://www.stripe.com/)), among others, process our payment transactions, and Slingshot eCommerce ([www.slingshotecommerce.com](http://www.slingshotecommerce.com/)) manages our online store. These companies and other service providers may access your personally-identifiable information that they need in order to perform their services on our behalf.
+  * **Sweepstakes and Contests.** If we offer, and you choose to participate in, any on-line promotions, such as a sweepstakes or a contest, your personally-identifiable information collected in connection with a promotion may be shared with the third-party sponsor of the promotion, or as otherwise provided in the Official Rules. You should carefully review the Official Rules of each promotion in which you choose to participate through the Sites, as the Official Rules may contain additional important information about a third party’s collection and use of your information. To the extent that the Official Rules of any promotion conflict with this Policy, the Official Rules will govern collection and use of your personally-identifiable information in conjunction with that particular promotion.
 
 
 
-### Sharing of Information
+If you are a resident of the State of California and you have provided any personally-identifiable information to us, you have the right to request a list of all third parties to whom we have disclosed your personally-identifiable information during the preceding year for direct marketing purposes. If you are a California resident and wish to make such a request, please send an email [here](mailto:privacy@alfranken.com) or contact us at the address below.
 
-We may share information about you as follows or as otherwise described in this Privacy Policy:
+## What choices do you have about the collection and use of your information?
 
-  * With vendors, consultants and other service providers or volunteers who need access to such information to carry out work on our behalf;
-  * With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives;
-  * To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year. **_ _** (for additional information, visit the FEC website at [ http://www.fec.gov](http://www.fec.gov/));
-  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
-  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of AFS, its employees, volunteers, constituents or others;
-  * In connection with, or during negotiations of, any reorganization, formation of new committee or successor organization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of AFS; and
-  * With your consent or at your direction, including if we notify you through our Sites that the information you provide will be shared in a particular manner and you provide such information.
+For any of the Services that include an account access, you may review, update or delete your personally-identifiable information, and modify your account preferences for the Services, by contacting us [here](mailto:privacy@alfranken.com). To update or delete personally-identifiable information that you had provided in connection with any other Services, you may contact us [here](mailto:privacy@alfranken.com). Please note that when you delete your account or request that we delete your personally-identifiable information, we may retain your information for a reasonable period of time, for the purpose of internal account management and fraud prevention.
 
+If you no longer wish to receive our e-mail announcements, you may unsubscribe from receiving them at any time by clicking on the link “to manage your communication preferences,” appearing at the bottom of our e-mails, and by following subsequent instructions, or by contacting us [here](mailto:privacy@alfranken.com). If you send an e-mail to us to change your contact preferences, we will implement your requested changes within a reasonable amount of time. Please note that your requested changes will not be effective until we implement such changes. Please also note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.
 
+**If you choose to join a mobile marketing list offered by us, please be aware that there are usually costs associated with receiving SMS or MMS messages, which are determined by your carrier. You should contact your carrier to determine the charges that may apply, before you sign up to receive our updates via SMS or MMS.** If you wish to stop receiving such messages from us, at any time, simply write “STOP” in a reply to any message from us.
 
-We may also share aggregated or anonymized information that does not directly identify you.
+You agree that, in the event that any dispute or claim arises out of or relating to this Policy or our privacy practices, you will attempt to negotiate, in good faith, a written resolution of your dispute or claim directly with us and/or our affiliates or subsidiaries, depending on your concern. You agree that if your dispute or claim remains unresolved for forty-five (45) days after notification (via Certified Mail or personal delivery) that a dispute or claim exists, the parties shall join in mediation services in DDDDDDDDDD, with a mutually chosen mediator, in an attempt to resolve the dispute or claim. Should you file any arbitration claims, any administrative actions, or any court actions without first having attempted to resolve your dispute or claim by mediation, then you agree that you will not be entitled to recover any costs of the proceeding, including, without limitation, your attorneys’ fees or other costs, even if you would otherwise be entitled to them.
 
-### Online Petitions
+## What is our policy on tracking?
 
-If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available.  In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press;
+You may be able to adjust your browser’s settings to turn on a “do not track” feature. Although our policy may change in the future, because there is no uniform standard for “do not track” signal recognition currently, we do not support “do not track” and will not honor your web browser’s “do not track” signal.
 
-### Social Sharing Features 
+We do not intentionally or knowingly allow other parties to collect personal information about your online activities over time and across different websites, when you visit the Sites or use any of the Services.
 
-The Sites may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Sites with other media, and vice versa.  The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.  For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+## What security measures do we take?
 
-### Advertising and Analytics Services Provided by Others
+The personally-identifiable information that you provide to us is processed and stored by our service providers, who design protocols and procedures to ensure the security of such information. In addition, we restrict access to personally-identifiable information to our employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Sites and the Services. **However, no data transmission over the Internet or through mobile telecommunications can be guaranteed to be completely secure, and, for this reason, we cannot ensure or warrant the security of any information that you transmit to us or that is transmitted to us as a result of your use of the Sites or any of the Services.** You can help protect your personally-identifiable information by using strong passwords, changing your password often, using a secure web browser, and signing off and closing your web browser when you are finished with the use of the Sites.
 
-We may allow third parties to use cookies or other technologies to provide analytics services and to serve ads on other websites based on your visits to this site and other sites across the Internet.  These entities may collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by AFS and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity.For example, we use Remarketing with Google Analytics to advertise online. This enables third-party vendors, including Google, to show our ads on sites across the Internet.  Such third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.  For information on how you can opt out of Google’s use of cookies for interest-based ads please visit Google’s [Ads Settings](https://www.google.com/settings/ads).For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices).
+## Does this policy apply outside of the United States?
 
-### Children’s Privacy
+We comply with United States privacy laws and regulations. We do not represent that the Sites are governed by or operated in accordance with the laws of other nations, or that the Sites or the Services are appropriate or available for use in any particular location. If you choose to access the Sites or the Services, you do so at your own risk, and you are responsible for complying with all local laws, rules and regulations. By using any part of the Sites or the Services, visitors to the Sites from outside the United States acknowledge and agree that the Sites are subject to the United States laws and regulations, and waive any claims that may arise under their own national laws.
 
-The Sites are not directed to children under 13, and we do not intend to solicit any personal information from children under 13.  However, in the event that we become aware that we are collecting any personal information from a child under 13, we will only do so in compliance with the provisions of the Children’s Online Privacy Protection Act of 1998 (COPPA).
+## How can you contact us with questions about this Policy or our privacy practices?
 
-### Security
+If you have questions about this Policy or our privacy practices, please contact us. Please include your name and your contact information in your mail or e-mail correspondence.
 
-AFS takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+Postal address:  
+Al Franken Website  
+[Re: Privacy Compliance Officer]  
+PO Box 1147  
+Columbia, TN 38402
 
-### Your Choices
-
-**_Cookies_  **
-
-Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Sites.
-
-**_Promotional Communications_**
-
-You may opt out of receiving text messages, updates and newsletters by following the instructions in those emails or text messages.  If you opt out, we may still send you other types of emails, such as those about your use of the Sites or any donations or transactions.
-
-### Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at: [info@alfranken.com](mailto:info@alfranken.com)
+E-mail us [here](mailto:privacy@alfranken.com).
