@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a2zapk.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421182657id_/http%3A//a2zapk.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zapk.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426100038id_/https%3A//a2zapk.com/privacy-policy.html) for the most accurate reproduction.*
 
-# A2Z APK, Download APK, Mod APK, Android Apps & Games
+# Privacy Policy - A2Z APK, Download APK, Mod APK, Android Apps & Games
 
 Below is information regarding A2ZAPK.com's commitment to protect the privacy of users and to ensure the integrity of the Internet. This Privacy Policy was last revised on July 20, 2014.
 
@@ -14,7 +14,7 @@ You can send email requesting help and your email will NOT be shared in any way 
 
 Ads used on this website can use cookies and/or web beacons to collect data in the ad serving process. You can remove them at any time using your browser tools.
 
-If you have any questions or concerns regarding this matter, please feel free to [contact us](http://a2zapk.com/contact-us.php).
+If you have any questions or concerns regarding this matter, please feel free to [contact us](https://a2zapk.com/contact-us.php).
 
 **Third Party Advertising Partners**
 
@@ -22,4 +22,4 @@ A2ZAPK.com use Google Adsense and other advertising companies to serve ads when 
 
 A2ZAPK.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
 
-Users may opt out of the use of the DART cookie by visiting the [Google Advertising Privacy & Terms](http://www.google.com/policies/technologies/ads/).
+Users may opt out of the use of the DART cookie by visiting the [Google Advertising Privacy & Terms](https://www.google.com/policies/technologies/ads/).
