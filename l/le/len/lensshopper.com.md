@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensshopper.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925100654id_/http%3A//www.lensshopper.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensshopper.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426041253id_/https%3A//www.lensshopper.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for Lensshopper.com
 
