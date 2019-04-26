@@ -1,25 +1,53 @@
-<!--The following is the downloaded HTML source of the vivino.com privacy policy that was archived on 2017-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170328145555id_/https%3A//www.vivino.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivino.com privacy policy that was archived on 2019-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190426124808id_/https%3A//www.vivino.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PSPBKC"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"da3daba8e4","applicationID":"3301434","transactionName":"eg4NRhBdXFkBQUlKQVgVClFNQkJcElIFQA==","queueTime":0,"applicationTime":27,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8OVFVTGwADVFBWBAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+<meta content="#a61a30" name="theme-color">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-3503103446.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"da3daba8e4","applicationID":"3301434","transactionName":"eg4NRhBdXFkBQUlKQVgVClFNQkJcElIFQA==","queueTime":0,"applicationTime":27,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8OVFVTGwADVFBWBAU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(u){try{i("ierr",[u,c.now(),!0])}catch(d){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),u=t("gos"),f=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(u(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(f);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[f,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),u=XMLHttpRequest,f="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(u.prototype)):u.prototype.hasOwnProperty(f)&&(o(window),o(u.prototype)),a.on(f+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",u="clearTimeout",f="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[u,"clearImmediate"],u+d),i.on(c+f,r),i.on(s+f,o)},{}],6:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=f.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,f.emit("xhr-resolved",[],t)),d.inPlace(t,x,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(3);var u=t("ee"),f=u.get("xhr"),d=t(18)(f),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",x=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=f;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{f.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),f.on("send-xhr-start",function(t,n){r(t,n),i(n)}),f.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else u.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],7:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(13);n.exports={generateTraceHeader:r}},{}],8:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return v(r)}function i(t,n){var e=u(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),u=t(9),f=t(7).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(12),v=t(11),w=window.XMLHttpRequest;s.features.xhr=!0,t(6),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=f();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=v(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof w&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],9:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],10:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[u.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),u=t("loader"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){f[n]=o(l+n,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,f.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[u.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[u.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[u.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,u.now(),!1,n])}},{}],11:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],12:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],13:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],14:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(u){l([u,"",[r,a,o],s])}f(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw f(n+"err",[r,a,d],s),d}finally{f(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function u(t,n,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,u?s+o:o,i,s))}function f(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=u,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,u=0;u<c;u++)s[u].apply(a,r);var d=f[g[e]];return d&&d.push([y,e,r,a]),a}}function p(t,n){x[t]=m(t).concat(n)}function h(t,n){var e=x[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return x[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){u(t,function(t,e){n=n||"feature",g[e]=n,n in f||(f[n]=[])})}var x={},g={},y={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return y}function i(){return new r}function a(){(f.api||f.feature)&&(l.aborted=!0,f=l.backlog={})}var s="nr@context",c=t("gos"),u=t(15),f={},d={},l=n.exports=o();l.backlog=f},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return f.abort();u(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),u=t(15),f=t("ee"),d=t(14),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var x=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},y=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:x,features:{},xhrWrappable:y,userAgent:d};t(10),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(17)},{}]},{},["loader",2,8]);</script>
 <title>Vivino Privacy Policy
 </title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="apple-itunes-app" content="app-id=414461255">
-<meta name="google-site-verification" content="8NZTT7MXFibsnHJeZ3ilvO4z23G0KIM_fUQ1I8xTk6w">
-<meta http-equiv="content-language" content="en">
-<meta name="google" content="notranslate">
+<meta content="app-id=414461255" name="apple-itunes-app">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta content="8NZTT7MXFibsnHJeZ3ilvO4z23G0KIM_fUQ1I8xTk6w" name="google-site-verification">
+<meta content="en" http-equiv="content-language">
+<meta content="notranslate" name="google">
 
 
-<meta name="msvalidate.01" content="349EE2713EF53F78481EF984414C3194">
-<meta name="yandex-verification" content="5f3f00895990c41a">
+<meta content="48422FBC259827C5029060CA5844588E" name="msvalidate.01">
+<meta content="5f3f00895990c41a" name="yandex-verification">
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="LBPGTYBCdpVIkNUFV/lYnQ+fmineVlHVz/rwCB/wZK0Tyuj4xAxmogJUTcfsdh6pMC/HqzVGFHvrNSx/496WTg==">
-<link rel="stylesheet" media="all" href="https://assets.vivino.com/assets/application-5483c67358cccb62684d247a8fc9c92c.css" data-turbolinks-track="true">
+<meta name="csrf-token" content="YJmLDt+OJxAdkNwD+ufHdNaeWr81JZuhMuzjtdqSe0yFFQHTNswpoWjsjUMyxpMUHFNmk1bQFEGmdafkhvhIHQ==">
+<link as="font" crossorigin="anonymous" href="https://www.vivino.com/assets/latolatin/LatoLatin-Light-e7f20acf99d6377102667d2c890598d84aa2a16df257ac87d324f0abdf467c2b.woff2" rel="preload" type="font/woff2">
+<link as="font" crossorigin="anonymous" href="https://www.vivino.com/assets/latolatin/LatoLatin-Regular-ddd4ef7f97f4361b60841d59753218a57134b0f99f5b46a9612234f1c2733ab0.woff2" rel="preload" type="font/woff2">
+<link as="font" crossorigin="anonymous" href="https://www.vivino.com/assets/latolatin/LatoLatin-Medium-60593ef08991381d651875bc78e259b2b66938e1b66175a445a7fefdb46e3d78.woff2" rel="preload" type="font/woff2">
+<link as="font" crossorigin="anonymous" href="https://www.vivino.com/assets/latolatin/LatoLatin-Black-e2c997abb38ede2240d957b57a3216882e8416b1f757f26b92128a8875e00e73.woff2" rel="preload" type="font/woff2">
+<link as="font" crossorigin="anonymous" href="https://www.vivino.com/assets/latolatin/LatoLatin-Bold-276401632a998400be8a5895038f4f72d3760d3c3d6aaf3cf445d109cb9d1540.woff2" rel="preload" type="font/woff2">
+<link as="font" crossorigin="anonymous" href="https://www.vivino.com/assets/latolatin/LatoLatin-Italic-23d062b46761d2148b84ca93d72dfdf2f16833f2ebb54ebdafdf25f1e10afc50.woff2" rel="preload" type="font/woff2">
+<link as="script" href="https://www.vivino.com/packs/offersPage-c45e5448ebc9582b3660.js" rel="prefetch">
+<link as="script" href="https://www.vivino.com/packs/offersPage-cc791ce01778ed872c6f.css" rel="prefetch">
+<link as="script" href="https://www.vivino.com/packs/masterWinePage-46149cf5ad8ed394fa5d.js" rel="prefetch">
+<link as="script" href="https://www.vivino.com/packs/masterWinePage-2ee7bdf7a63693b9bfa8.css" rel="prefetch">
+<link as="script" href="https://www.vivino.com/packs/vintagePage-1b3e3807ea30991d84f1.js" rel="prefetch">
+<link as="script" href="https://www.vivino.com/packs/vintagePage-d6ba948a7ea42eed466b.css" rel="prefetch">
+<link as="script" href="https://www.vivino.com/packs/common-bf2776b4588040a84964.js" rel="preload">
+<link as="script" href="https://www.vivino.com/packs/global-eac6c15566e44b1e0d6c.js" rel="preload">
+<link as="script" href="https://www.vivino.com/packs/layout-b477153501fdc2f93800.js" rel="preload">
+<link as="script" href="https://www.vivino.com/packs/runtime-8e4fa56d5a1cf62878e2.js" rel="preload">
+<link as="script" href="https://www.vivino.com/packs/vendor-e17e9ac2568af5fbcc98.js" rel="preload">
+<link as="script" href="https://www.vivino.com/packs/sentry-9fedd5f8e2d2a2267ee4.js" rel="preload">
+<link href="//heapanalytics.com" rel="preconnect">
+<link href="//images.vivino.com" rel="preconnect">
+<link href="//thumbs.vivino.com" rel="preconnect">
+<link href="//heapanalytics.com" rel="dns-prefetch">
+<link href="//images.vivino.com" rel="dns-prefetch">
+<link href="//thumbs.vivino.com" rel="dns-prefetch">
+<link rel="stylesheet" media="screen" href="https://www.vivino.com/packs/common-92d450237ea411ccb59e.css">
+
+<link rel="stylesheet" media="screen" href="https://www.vivino.com/packs/layout-bad405b034202afa52fa.css">
+<link rel="stylesheet" media="all" href="https://www.vivino.com/assets/application-7ac7f77421fc7f8279e204f7a315b90aa00fe2e0035b4767e785fa876cd106f9.css" data-turbolinks-track="true">
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
@@ -27,6 +55,12 @@
 <!-- Google Analytics tracking code. -->
 <script>
 var dataLayer = [{"user":{"status":"logged-out"}}];
+</script>
+<script>
+var vivinoCacheKey = '446940327868b531465e8731986d9a0d77e9';
+var stripeKey = 'pk_live_f4BNIfN3nlvNKpyNQx36OAsN';
+var gtagId = 'AW-965616812';
+var gtagEventId = '1bCyCMjWzX8QrMm4zAM';
 </script>
 <!-- Start Alexa Certify Javascript -->
 <script>
@@ -36,9 +70,27 @@ as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getEl
 s.parentNode.insertBefore(as, s); })();
 </script>
 <noscript>
-<img src='https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=b87Li1a8Dy00gU' style='display:none' height='1' width='1' alt=''>
+<img alt='' height='1' src='https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=b87Li1a8Dy00gU' style='display:none' width='1'>
 </noscript>
+<!-- facebook tracking pixel -->
 <script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '564683513994910');
+</script>
+<script>
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img alt='' height='1' src='https://www.facebook.com/tr?id=564683513994910&amp;ev=PageView&amp;noscript=1' style='display:none' width='1'>
+</noscript>
+      <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -47,12 +99,18 @@ s.parentNode.insertBefore(as, s); })();
         ga('create', 'UA-222490-2', 'auto', 'vivinoTracker');
         ga('vivinoTracker.require', 'displayfeatures');
         ga('vivinoTracker.send', 'pageview');
+      </script>
 
-      </script></head>
+      <script type="text/javascript">
+          window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+          heap.load('3503103446');
+      </script>
 
-      
+      <script type="text/javascript" src="/locale_packs/generic_en-de71eb1412d4df1824174aad3e971d155f35cb10e84717a0cb1e9387bfac11f2.js">
 
-<body class="inner-page">
+</head>
+
+<body class='inner-page'>
 <!-- Google Tag Manager -->
       <noscript>
         <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PSPBKC' height='0' width='0' style='display:none;visibility:hidden'></iframe>
@@ -65,240 +123,432 @@ s.parentNode.insertBefore(as, s); })();
         })(window,document,'script','dataLayer','GTM-PSPBKC');
       </script>
 
-<div id="fb-root"></div>
+</head><body><div id="fb-root"></div>
 <div class="wrap" itemscope="" itemtype="">
 <!-- Header -->
-<header data-item-type="menu" data-track-type="hnv" class="navbar navbar-default navbar-fixed-top" role="banner">
-<div class="container-fluid top-navbar-container">
-<div class="navbar-header">
-<button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
-<span class="sr-only">Toggle Navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<a class="navbar-brand" href="/">
-<img alt="Vivino Logo" class="vivino-logo-header " src="https://assets.vivino.com/assets/logo_navbar-281b6701a8ed7ae2e54b1e59b8722e84.png">
+<!-- Navigation -->
+<div id="navigation-container">
+<div class="navigation__skeletonMobileView--2TWNt">
+<div class="navigation__container--1Ic9A">
+<nav class="navigation__navigation--1DqmP">
+<a class="navigation__burgerIcon--2Cr3s">
+<svg version="1.1" viewBox="0.0 0.0 100.0 100.0" xmlns="http://www.w3.org/2000/svg">
+<line stroke-width="5" stroke="#1d1d1d" x1="15" x2="85" y1="25" y2="25"></line>
+<line stroke-width="5" stroke="#1d1d1d" x1="15" x2="85" y1="50" y2="50"></line>
+<line stroke-width="5" stroke="#1d1d1d" x1="15" x2="85" y1="75" y2="75"></line>
+</svg>
 </a>
-</div>
-<div data-item-type="menu" id="menu">
-<nav class="collapse navbar-collapse" role="banner">
-<ul class="nav navbar-nav left-nav" id="collapsable-navbar">
-<li>
-<a data-expand="app" data-item-name="the-app" class="text-center" href="/app">The App</a>
-</li>
-<li class="new">
-<a data-item-name="market" class="text-center" href="/market">Vivino Market</a>
-</li>
-<li class="hidden-xs">
-<a data-expand="wine-news" class="text-center" href="/news">Wine News</a>
-</li>
-<li class="dropdown visible-xs">
-<a data-toggle="dropdown" class="dropdown-toggle text-center" href="#">
-Wine News
-<i class="icon-down-open"></i>
+<div class="navigation__flexFiller--3Zw2d"></div>
+<a aria-label="vivino.com" class="navigation__logo--3viRC" href="/">
+<svg viewBox="0 0 125 22" xmlns="http://www.w3.org/2000/svg">
+<path d="M1677.87,450.937h5.57V429.16h-5.57v21.777Zm36.84,0.006,5.56-.012V429.172h-5.56v21.771Zm-63.73-21.792,5.59,0,5.45,12.555h0.38l5.54-12.559,5.71-.008-9.52,21.8-3.54.012Zm36.77,0.018,5.57,0.007,5.43,12.534h0.41l5.49-12.541,5.71,0.007-9.47,21.761-3.56.011Zm39.72-.018h3.92c0.5,0.7.93,1.331,1.37,1.9h0.38c5.56-4.223,14.08-1.577,14.08,5.585l-0.01,14.305h-5.42l-0.05-13.423c-0.27-4.463-6.9-5.1-8.19-.561a14.126,14.126,0,0,0-.41,4.409l0.01,9.586-5.71-.011Zm37-.162c6.35,0,11.53,4.944,11.53,10.983a11.3,11.3,0,0,1-11.53,11.037v-4.57a6.321,6.321,0,0,0,0-12.641v-4.809Zm0,22.02a11.3,11.3,0,0,1-11.53-11.037c0-6.039,5.18-10.983,11.53-10.983V433.8a6.321,6.321,0,0,0,0,12.641v4.57Z" fill-rule="evenodd" fill="#a61a30" transform="translate(-1651 -429)"></path>
+</svg>
 </a>
-<ul class="dropdown-menu">
-<li>
-<a class="text-center" href="/news/categories/latest">Vivino News</a>
-</li>
-<li>
-<a class="text-center" href="/news/categories/featured">Featured</a>
-</li>
-<li>
-<a class="text-center" href="/news/categories/trends">Trends</a>
-</li>
-<li>
-<a class="text-center" href="/news/categories/entertainment">Entertainment</a>
-</li>
-<li>
-<a class="text-center" href="/news/categories/food-and-drink">Food And Drink</a>
-</li>
-<li>
-<a class="text-center" href="/news/categories/wine-101">Wine 101</a>
-</li>
-<li>
-<a class="text-center" href="/news/categories/tips-and-tricks">Tips And Tricks</a>
-</li>
-<li>
-<a class="text-center" href="/news/categories/travel">Travel</a>
-</li>
-</ul>
-</li>
-<li>
-<a data-expand="top-lists" class="text-center" href="/toplists">Top Lists</a>
-</li>
-<li>
-<a data-expand="wine-styles" class="text-center" href="/wine-styles">Wine Styles</a>
-</li>
-<li class="hidden-xs">
-<a data-expand="users" class="text-center" href="javascript:;">Our Users</a>
-</li>
-<li id="wine_shop_link_us">
-<a data-expand="wine-offers" class="text-center" href="//jws.shops.vivino.com">Wine Offers</a>
-</li>
-<li>
-<a data-expand="sellers" class="text-center" href="/merchants">Merchants</a>
-</li>
-<li class="dropdown" id="more-menu-dropdown">
-<a data-toggle="dropdown" class="dropdown-toggle text-center" href="#">
-More
-<i class="icon-down-open"></i>
-</a>
-<ul data-item-name="more" data-item-type="dropdown" class="dropdown-menu text-center" id="collapsed" role="menu">
-<li>
-<a class="text-center" href="/wine-countries">Countries</a>
-</li>
-<li>
-<a class="text-center" href="/wineries">Wineries</a>
-</li>
-<li>
-<a class="text-center" href="/wines">Wines</a>
-</li>
-<li>
-<a class="text-center" href="/grapes">Grapes</a>
-</li>
-<li>
-<a class="text-center" href="/wine-regions">Regions</a>
-</li>
-</ul>
-</li>
-<li class="visible-xs mobile-session-buttons bordered-section">
-<a class="text-center" href="/login/signup" item_name="sign-up">Sign up</a>
-</li>
-<li class="visible-xs mobile-session-buttons">
-<a class="text-center" href="/login" item_name="log-in">Log in</a>
-</li>
-</ul>
-<ul class="session-nav nav navbar-nav navbar-right">
-<li data-item-name="search" id="search-menu-item">
-<a class="quick-search-toggle hidden-xs hidden-sm" href="#">
-<span>Search</span>
-<i class="icon-search icon-small"></i>
-</a>
-<a class="visible-xs visible-sm text-center" href="/search/wines">Search</a>
-</li>
-<form class="quick-search navbar-form navbar-left hidden-xs hidden-sm" action="/search/wines" role="search" method="get">
-<div class="row-no-gutter hidden-xs hidden-sm">
-<div class="col-sm-1 quick-search-icon text-center">
-<i class="icon-search icon-large"></i>
+<div class="searchBar__search--2PGLm">
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<div class="searchBar__mobileSearchIcon--1yheJ">
+<svg viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+<path d="M2166.47,444.39a6.5,6.5,0,1,0-1.08,1.083l6.3,6.295a0.759,0.759,0,0,0,.54.223,0.776,0.776,0,0,0,.54-0.223,0.764,0.764,0,0,0,0-1.083Zm-9.95-3.956a4.91,4.91,0,1,1,4.91,4.9A4.913,4.913,0,0,1,2156.52,440.434Z" fill-rule="evenodd" fill="#1d1d1d" transform="translate(-2155 -434)"></path>
+</svg>
 </div>
-<div class="col-sm-8">
-<input class="quick-search-input form-control light" name="q" type="text" placeholder="Search">
 </div>
-<p class="bg-danger" id="search-empty-error" style="display: none"></p>
-<button class="quick-search-btn btn btn-default col-sm-2">Search</button>
-<button class="quick-search-close close col-sm-1" type="button" data-dismiss="search" aria-hidden="true">
-×
-</button>
 </div>
-</form>
-
-<li class="session-buttons hidden-xs">
-<a class="sign_in" href="/login" item_name="log-in">Log in</a>
-<a class="sign_up btn btn-primary" href="/login/signup" item_name="sign-up">Sign up</a>
-<span data-item-name="the-app" data-track-type="get-app" id="headerAppsMenu" class="app-store-links hidden-sm hidden-xs hide">
-<a href="/redirect/appstore" class="visible-app-store-link btn-apple-store btn-sm  text-hide" target="_blank" data-item-type="iphone">Apple AppStore</a><a href="/redirect/play" class="visible-app-store-link btn-google-store btn-sm  text-hide" target="_blank" data-item-type="android">Google Play</a>
+</div>
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<span class="cartMenu__cartIcon--uMzHR">
+<svg viewBox="0 0 27 23" xmlns="http://www.w3.org/2000/svg">
+<path d="M2909.58,749.536a0.563,0.563,0,0,0-.69.387l-0.38,1.339h-20.48l0.41-1.856a0.445,0.445,0,0,0,0-.229,1.53,1.53,0,0,0-1.5-1.175h-3.38a0.55,0.55,0,1,0,0,1.1h3.38a0.417,0.417,0,0,1,.36.215l-0.53,2.382v0.009a0.583,0.583,0,0,0,0,.228v0.006h0l2.33,9.863-0.6,2.1a1.234,1.234,0,0,0,.28,1.1,1.384,1.384,0,0,0,1.06.489h16.26a0.551,0.551,0,1,0,0-1.1h-16.26a0.214,0.214,0,0,1-.18-0.083,0.192,0.192,0,0,1-.06-0.145l0.54-1.836,15.72-1.646a1.505,1.505,0,0,0,1.49-1.126l2.64-9.344A0.552,0.552,0,0,0,2909.58,749.536Zm-3.33,9.749a0.421,0.421,0,0,1-.45.3l-15.67,1.638-2.09-8.858h20.16Zm-15.46,7.282a2.214,2.214,0,1,0,2.3,2.212A2.256,2.256,0,0,0,2890.79,766.567Zm0,3.323a1.113,1.113,0,1,1,1.16-1.111A1.135,1.135,0,0,1,2890.79,769.89Zm13.59-3.323a2.213,2.213,0,1,0,2.29,2.212A2.259,2.259,0,0,0,2904.38,766.567Zm0,3.323a1.112,1.112,0,1,1,1.15-1.111A1.138,1.138,0,0,1,2904.38,769.89Z" data-name="cart icon" fill-rule="evenodd" fill="#1d1d1d" transform="translate(-2883 -748)"></path>
+</svg>
 </span>
-</li>
-</ul>
-<div class="visible-xs" id="latest-news-holder">
-<h3 class="inflate semi text-mini">Popular wine news</h3>
-<div class="last-two-popular-news"></div>
+</div>
 </div>
 </nav>
+<div class="divider__divider--33M7- navigation__divider--2dyr2"></div>
+<div class="navigation__wineNav--3osOx">
+<div class="wineNavigationMenu__menu--EbAXr navigation__wineNavMenu--1JnXH">
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<a class="menuLink__menuLink--EBdvT wineNavigationMenu__menuLink--Nsggg" href="/explore?wine_type_ids[]=1&amp;wine_type_ids[]=2">
+<span class="menuLink__icon--28jYW">
+<svg viewBox="0 0 20 20">
+<g id="red">
+<path d="M9.85,17a.48.48,0,0,1-.48-.49V12.89a.48.48,0,0,1,1,0v3.66A.48.48,0,0,1,9.85,17Z" fill="#1e1e1e"></path>
+<path d="M9.85,13.37a.53.53,0,0,1-.3-.09l-.12-.09A15.3,15.3,0,0,1,6.62,10.9,4.46,4.46,0,0,1,6,7.17c.22-1.22.7-3.35.73-3.44a.48.48,0,0,1,.47-.38h5.4a.48.48,0,0,1,.47.38c0,.09.51,2.22.73,3.44a4.49,4.49,0,0,1-.67,3.74,16,16,0,0,1-2.82,2.29l-.12.08A.5.5,0,0,1,9.85,13.37Zm-2.32-9c-.15.68-.47,2.13-.63,3a3.6,3.6,0,0,0,.47,3,13.89,13.89,0,0,0,2.48,2,13.89,13.89,0,0,0,2.48-2,3.6,3.6,0,0,0,.47-3c-.16-.89-.48-2.34-.63-3Z" fill="#1e1e1e"></path>
+<path d="M12.32,17H7.38a.49.49,0,1,1,0-1h4.94a.49.49,0,1,1,0,1Z" fill="#1e1e1e"></path>
+<path d="M13.36,9h-7a.49.49,0,0,1,0-1h7a.49.49,0,0,1,0,1Z" fill="#1e1e1e"></path>
+</g>
+</svg>
+</span>
+<span class="menuLink__text--2brZ7"></span>
+</a>
+</div>
+</div>
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<a class="menuLink__menuLink--EBdvT wineNavigationMenu__menuLink--Nsggg" href="/explore?order_by=discount_percent&amp;order=desc&amp;vc_only=true&amp;discount_prices=true">
+<span class="menuLink__icon--28jYW menuLink__iconDiscount--1-UV_">
+<svg viewBox="0 0 20 20">
+<path d="M8.3,17.42a1.75,1.75,0,0,1-.32,0,1.27,1.27,0,0,1-.77-.63L7,16.29a1.08,1.08,0,0,0-1-.54l-.51,0a1.25,1.25,0,0,1-.94-.36,1.21,1.21,0,0,1-.35-.93l0-.5a1.16,1.16,0,0,0-.55-1l-.46-.23A1.22,1.22,0,0,1,2.75,11L3,10.61A1.17,1.17,0,0,0,3,9.52l-.28-.43a1.22,1.22,0,0,1,.47-1.76l.46-.23a1.16,1.16,0,0,0,.55-.95l0-.51a1.23,1.23,0,0,1,.35-.93,1.21,1.21,0,0,1,.94-.35l.51,0a1.17,1.17,0,0,0,1-.55l.24-.45A1.22,1.22,0,0,1,9,2.91l.44.28a1.19,1.19,0,0,0,1.1,0L11,2.91a1.22,1.22,0,0,1,1.76.47l.24.45a1.1,1.1,0,0,0,1,.55l.51,0a1.22,1.22,0,0,1,.94.35,1.23,1.23,0,0,1,.35.93l0,.51a1.14,1.14,0,0,0,.55.95l.46.23a1.22,1.22,0,0,1,.47,1.76l-.28.43a1.17,1.17,0,0,0,0,1.09l.28.43a1.22,1.22,0,0,1-.47,1.76l-.46.23a1.14,1.14,0,0,0-.55,1l0,.5a1.21,1.21,0,0,1-.35.93,1.23,1.23,0,0,1-.94.36l-.51,0a1.09,1.09,0,0,0-1,.54l-.24.46a1.24,1.24,0,0,1-.77.63,1.28,1.28,0,0,1-1-.16l-.44-.28a1.19,1.19,0,0,0-1.1,0L9,17.22A1.25,1.25,0,0,1,8.3,17.42ZM6,14.94a2,2,0,0,1,1.65,1l.23.45a.42.42,0,0,0,.27.22.4.4,0,0,0,.35-.05L9,16.26a2,2,0,0,1,2,0l.43.28a.43.43,0,0,0,.35.05.42.42,0,0,0,.27-.22l.23-.45a2,2,0,0,1,1.71-1l.52,0a.41.41,0,0,0,.45-.44l0-.51a2,2,0,0,1,1-1.7l.46-.23a.45.45,0,0,0,.22-.27.39.39,0,0,0-.06-.33l-.28-.43a2,2,0,0,1,0-2l.28-.43a.39.39,0,0,0,.06-.33.42.42,0,0,0-.22-.27l-.46-.23a2,2,0,0,1-1-1.7l0-.51a.44.44,0,0,0-.12-.32.44.44,0,0,0-.33-.13l-.52,0a2,2,0,0,1-1.71-1L12,3.75a.45.45,0,0,0-.27-.22.44.44,0,0,0-.35.06L11,3.87a2,2,0,0,1-2,0H9l-.43-.28a.44.44,0,0,0-.35-.06.45.45,0,0,0-.27.22l-.23.46A2,2,0,0,1,6,5.19l-.52,0a.46.46,0,0,0-.33.13A.44.44,0,0,0,5,5.61l0,.51a2,2,0,0,1-1,1.7l-.46.23a.42.42,0,0,0-.22.27.39.39,0,0,0,.06.33l.28.43a2,2,0,0,1,0,2l-.28.43a.39.39,0,0,0-.06.33.42.42,0,0,0,.22.27l.46.23A2,2,0,0,1,5,14l0,.51a.44.44,0,0,0,.12.32.41.41,0,0,0,.33.12l.52,0Z" fill="#1e1e1e"></path>
+<path d="M9.65,8.43A1.47,1.47,0,0,1,9.24,9.5a1.17,1.17,0,0,1-.44.29,1.35,1.35,0,0,1-.52.11,1.42,1.42,0,0,1-.55-.11A1.13,1.13,0,0,1,7.3,9.5,1.44,1.44,0,0,1,7,9a1.9,1.9,0,0,1-.1-.61A2,2,0,0,1,7,7.81,1.33,1.33,0,0,1,7.73,7a1.43,1.43,0,0,1,1.1,0,1.28,1.28,0,0,1,.43.3,1.17,1.17,0,0,1,.29.47A1.72,1.72,0,0,1,9.65,8.43Zm2-1.28A1.31,1.31,0,0,1,11.75,7,.41.41,0,0,1,12,7h.74L8.29,12.78a.69.69,0,0,1-.13.11.34.34,0,0,1-.18,0H7.22ZM8.87,8.43a1.54,1.54,0,0,0,0-.4.9.9,0,0,0-.13-.26.52.52,0,0,0-.19-.14.68.68,0,0,0-.46,0,.49.49,0,0,0-.18.14A.71.71,0,0,0,7.74,8a1.54,1.54,0,0,0,0,.4,1.38,1.38,0,0,0,0,.38.54.54,0,0,0,.13.25.4.4,0,0,0,.18.14.68.68,0,0,0,.46,0,.43.43,0,0,0,.19-.14.65.65,0,0,0,.13-.25A1.38,1.38,0,0,0,8.87,8.43ZM13,11.54a1.64,1.64,0,0,1-.11.6,1.38,1.38,0,0,1-.31.46,1.23,1.23,0,0,1-.44.3,1.31,1.31,0,0,1-.52.11,1.37,1.37,0,0,1-.54-.11,1.23,1.23,0,0,1-.44-.3,1.32,1.32,0,0,1-.28-.46,1.64,1.64,0,0,1-.1-.6,1.81,1.81,0,0,1,.1-.63,1.47,1.47,0,0,1,.28-.47,1.23,1.23,0,0,1,.44-.3,1.37,1.37,0,0,1,.54-.1,1.42,1.42,0,0,1,.55.1,1.32,1.32,0,0,1,.44.3,1.47,1.47,0,0,1,.28.47A1.81,1.81,0,0,1,13,11.54Zm-.79,0a1.49,1.49,0,0,0,0-.4.58.58,0,0,0-.13-.26.38.38,0,0,0-.19-.14.56.56,0,0,0-.23-.05.59.59,0,0,0-.23.05.4.4,0,0,0-.18.14.7.7,0,0,0-.12.26,1.45,1.45,0,0,0,0,.4,1.35,1.35,0,0,0,0,.38.73.73,0,0,0,.12.25.49.49,0,0,0,.18.14.85.85,0,0,0,.23,0,.79.79,0,0,0,.23,0,.45.45,0,0,0,.19-.14.59.59,0,0,0,.13-.25A1.38,1.38,0,0,0,12.22,11.54Z" fill="#1d1d1d"></path>
+</svg>
+</span>
+<span class="menuLink__text--2brZ7"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navigation__skeletonDesktopView--2bHlg">
+<div class="navigation__container--1Ic9A">
+<nav class="navigation__navigation--1DqmP">
+<a class="navigation__logo--3viRC" href="/">
+<svg viewBox="0 0 125 22" xmlns="http://www.w3.org/2000/svg">
+<path d="M1677.87,450.937h5.57V429.16h-5.57v21.777Zm36.84,0.006,5.56-.012V429.172h-5.56v21.771Zm-63.73-21.792,5.59,0,5.45,12.555h0.38l5.54-12.559,5.71-.008-9.52,21.8-3.54.012Zm36.77,0.018,5.57,0.007,5.43,12.534h0.41l5.49-12.541,5.71,0.007-9.47,21.761-3.56.011Zm39.72-.018h3.92c0.5,0.7.93,1.331,1.37,1.9h0.38c5.56-4.223,14.08-1.577,14.08,5.585l-0.01,14.305h-5.42l-0.05-13.423c-0.27-4.463-6.9-5.1-8.19-.561a14.126,14.126,0,0,0-.41,4.409l0.01,9.586-5.71-.011Zm37-.162c6.35,0,11.53,4.944,11.53,10.983a11.3,11.3,0,0,1-11.53,11.037v-4.57a6.321,6.321,0,0,0,0-12.641v-4.809Zm0,22.02a11.3,11.3,0,0,1-11.53-11.037c0-6.039,5.18-10.983,11.53-10.983V433.8a6.321,6.321,0,0,0,0,12.641v4.57Z" fill-rule="evenodd" fill="#a61a30" transform="translate(-1651 -429)"></path>
+</svg>
+</a>
+<div class="searchBar__search--2PGLm">
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<form class="searchBar__searchForm--2hvVg">
+<input autocomplete="off" class="searchBar__searchInput--2aCeZ" name="q" placeholder="Search any wine" value="">
+</form>
+</div>
+</div>
+</div>
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<div class="navigationItem__selectedKey--2r-Wk"><span class="navigationItem__label--28_PE"></span></div>
+<svg class="chevron__chevron--2zNRX navigationItem__dropdownIcon--3kUuU chevron__down--1at3D" viewBox="0 0 7 14">
+<g>
+<path d="M-0.000,13.281 L6.568,7.001 L-0.000,0.722 " fill="none" stroke-width="2" stroke="#989999"></path>
+</g>
+</svg>
+</div>
+</div>
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<div class="navigationItem__selectedKey--2r-Wk"><span class="navigationItem__label--28_PE"></span></div>
+<svg class="chevron__chevron--2zNRX navigationItem__dropdownIcon--3kUuU chevron__down--1at3D" viewBox="0 0 7 14">
+<g>
+<path d="M-0.000,13.281 L6.568,7.001 L-0.000,0.722 " fill="none" stroke-width="2" stroke="#989999"></path>
+</g>
+</svg>
+</div>
+</div>
+<a class="userMenu__loginLink--10nyo" href="/login?trigger=navigation">
+<div class="navigationItem__selectedKey--2r-Wk"><span class="navigationItem__label--28_PE"></span></div>
+</a>
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<span class="cartMenu__cartIcon--uMzHR">
+<svg viewBox="0 0 27 23" xmlns="http://www.w3.org/2000/svg">
+<path d="M2909.58,749.536a0.563,0.563,0,0,0-.69.387l-0.38,1.339h-20.48l0.41-1.856a0.445,0.445,0,0,0,0-.229,1.53,1.53,0,0,0-1.5-1.175h-3.38a0.55,0.55,0,1,0,0,1.1h3.38a0.417,0.417,0,0,1,.36.215l-0.53,2.382v0.009a0.583,0.583,0,0,0,0,.228v0.006h0l2.33,9.863-0.6,2.1a1.234,1.234,0,0,0,.28,1.1,1.384,1.384,0,0,0,1.06.489h16.26a0.551,0.551,0,1,0,0-1.1h-16.26a0.214,0.214,0,0,1-.18-0.083,0.192,0.192,0,0,1-.06-0.145l0.54-1.836,15.72-1.646a1.505,1.505,0,0,0,1.49-1.126l2.64-9.344A0.552,0.552,0,0,0,2909.58,749.536Zm-3.33,9.749a0.421,0.421,0,0,1-.45.3l-15.67,1.638-2.09-8.858h20.16Zm-15.46,7.282a2.214,2.214,0,1,0,2.3,2.212A2.256,2.256,0,0,0,2890.79,766.567Zm0,3.323a1.113,1.113,0,1,1,1.16-1.111A1.135,1.135,0,0,1,2890.79,769.89Zm13.59-3.323a2.213,2.213,0,1,0,2.29,2.212A2.259,2.259,0,0,0,2904.38,766.567Zm0,3.323a1.112,1.112,0,1,1,1.15-1.111A1.138,1.138,0,0,1,2904.38,769.89Z" data-name="cart icon" fill-rule="evenodd" fill="#1d1d1d" transform="translate(-2883 -748)"></path>
+</svg>
+</span>
+</div>
+</div>
+</nav>
+<div class="divider__divider--33M7- navigation__divider--2dyr2"></div>
+<div class="navigation__wineNav--3osOx">
+<div class="wineNavigationMenu__menu--EbAXr navigation__wineNavMenu--1JnXH">
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<a class="menuLink__menuLink--EBdvT wineNavigationMenu__menuLink--Nsggg" href="/explore?wine_type_ids[]=1&amp;wine_type_ids[]=2">
+<span class="menuLink__icon--28jYW">
+<svg viewBox="0 0 20 20">
+<g id="red">
+<path d="M9.85,17a.48.48,0,0,1-.48-.49V12.89a.48.48,0,0,1,1,0v3.66A.48.48,0,0,1,9.85,17Z" fill="#1e1e1e"></path>
+<path d="M9.85,13.37a.53.53,0,0,1-.3-.09l-.12-.09A15.3,15.3,0,0,1,6.62,10.9,4.46,4.46,0,0,1,6,7.17c.22-1.22.7-3.35.73-3.44a.48.48,0,0,1,.47-.38h5.4a.48.48,0,0,1,.47.38c0,.09.51,2.22.73,3.44a4.49,4.49,0,0,1-.67,3.74,16,16,0,0,1-2.82,2.29l-.12.08A.5.5,0,0,1,9.85,13.37Zm-2.32-9c-.15.68-.47,2.13-.63,3a3.6,3.6,0,0,0,.47,3,13.89,13.89,0,0,0,2.48,2,13.89,13.89,0,0,0,2.48-2,3.6,3.6,0,0,0,.47-3c-.16-.89-.48-2.34-.63-3Z" fill="#1e1e1e"></path>
+<path d="M12.32,17H7.38a.49.49,0,1,1,0-1h4.94a.49.49,0,1,1,0,1Z" fill="#1e1e1e"></path>
+<path d="M13.36,9h-7a.49.49,0,0,1,0-1h7a.49.49,0,0,1,0,1Z" fill="#1e1e1e"></path>
+</g>
+</svg>
+</span>
+<span class="menuLink__text--2brZ7"></span>
+</a>
+</div>
+</div>
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<a class="menuLink__menuLink--EBdvT wineNavigationMenu__menuLink--Nsggg" href="/explore?order_by=discount_percent&amp;order=desc&amp;vc_only=true&amp;discount_prices=true">
+<span class="menuLink__icon--28jYW menuLink__iconDiscount--1-UV_">
+<svg viewBox="0 0 20 20">
+<path d="M8.3,17.42a1.75,1.75,0,0,1-.32,0,1.27,1.27,0,0,1-.77-.63L7,16.29a1.08,1.08,0,0,0-1-.54l-.51,0a1.25,1.25,0,0,1-.94-.36,1.21,1.21,0,0,1-.35-.93l0-.5a1.16,1.16,0,0,0-.55-1l-.46-.23A1.22,1.22,0,0,1,2.75,11L3,10.61A1.17,1.17,0,0,0,3,9.52l-.28-.43a1.22,1.22,0,0,1,.47-1.76l.46-.23a1.16,1.16,0,0,0,.55-.95l0-.51a1.23,1.23,0,0,1,.35-.93,1.21,1.21,0,0,1,.94-.35l.51,0a1.17,1.17,0,0,0,1-.55l.24-.45A1.22,1.22,0,0,1,9,2.91l.44.28a1.19,1.19,0,0,0,1.1,0L11,2.91a1.22,1.22,0,0,1,1.76.47l.24.45a1.1,1.1,0,0,0,1,.55l.51,0a1.22,1.22,0,0,1,.94.35,1.23,1.23,0,0,1,.35.93l0,.51a1.14,1.14,0,0,0,.55.95l.46.23a1.22,1.22,0,0,1,.47,1.76l-.28.43a1.17,1.17,0,0,0,0,1.09l.28.43a1.22,1.22,0,0,1-.47,1.76l-.46.23a1.14,1.14,0,0,0-.55,1l0,.5a1.21,1.21,0,0,1-.35.93,1.23,1.23,0,0,1-.94.36l-.51,0a1.09,1.09,0,0,0-1,.54l-.24.46a1.24,1.24,0,0,1-.77.63,1.28,1.28,0,0,1-1-.16l-.44-.28a1.19,1.19,0,0,0-1.1,0L9,17.22A1.25,1.25,0,0,1,8.3,17.42ZM6,14.94a2,2,0,0,1,1.65,1l.23.45a.42.42,0,0,0,.27.22.4.4,0,0,0,.35-.05L9,16.26a2,2,0,0,1,2,0l.43.28a.43.43,0,0,0,.35.05.42.42,0,0,0,.27-.22l.23-.45a2,2,0,0,1,1.71-1l.52,0a.41.41,0,0,0,.45-.44l0-.51a2,2,0,0,1,1-1.7l.46-.23a.45.45,0,0,0,.22-.27.39.39,0,0,0-.06-.33l-.28-.43a2,2,0,0,1,0-2l.28-.43a.39.39,0,0,0,.06-.33.42.42,0,0,0-.22-.27l-.46-.23a2,2,0,0,1-1-1.7l0-.51a.44.44,0,0,0-.12-.32.44.44,0,0,0-.33-.13l-.52,0a2,2,0,0,1-1.71-1L12,3.75a.45.45,0,0,0-.27-.22.44.44,0,0,0-.35.06L11,3.87a2,2,0,0,1-2,0H9l-.43-.28a.44.44,0,0,0-.35-.06.45.45,0,0,0-.27.22l-.23.46A2,2,0,0,1,6,5.19l-.52,0a.46.46,0,0,0-.33.13A.44.44,0,0,0,5,5.61l0,.51a2,2,0,0,1-1,1.7l-.46.23a.42.42,0,0,0-.22.27.39.39,0,0,0,.06.33l.28.43a2,2,0,0,1,0,2l-.28.43a.39.39,0,0,0-.06.33.42.42,0,0,0,.22.27l.46.23A2,2,0,0,1,5,14l0,.51a.44.44,0,0,0,.12.32.41.41,0,0,0,.33.12l.52,0Z" fill="#1e1e1e"></path>
+<path d="M9.65,8.43A1.47,1.47,0,0,1,9.24,9.5a1.17,1.17,0,0,1-.44.29,1.35,1.35,0,0,1-.52.11,1.42,1.42,0,0,1-.55-.11A1.13,1.13,0,0,1,7.3,9.5,1.44,1.44,0,0,1,7,9a1.9,1.9,0,0,1-.1-.61A2,2,0,0,1,7,7.81,1.33,1.33,0,0,1,7.73,7a1.43,1.43,0,0,1,1.1,0,1.28,1.28,0,0,1,.43.3,1.17,1.17,0,0,1,.29.47A1.72,1.72,0,0,1,9.65,8.43Zm2-1.28A1.31,1.31,0,0,1,11.75,7,.41.41,0,0,1,12,7h.74L8.29,12.78a.69.69,0,0,1-.13.11.34.34,0,0,1-.18,0H7.22ZM8.87,8.43a1.54,1.54,0,0,0,0-.4.9.9,0,0,0-.13-.26.52.52,0,0,0-.19-.14.68.68,0,0,0-.46,0,.49.49,0,0,0-.18.14A.71.71,0,0,0,7.74,8a1.54,1.54,0,0,0,0,.4,1.38,1.38,0,0,0,0,.38.54.54,0,0,0,.13.25.4.4,0,0,0,.18.14.68.68,0,0,0,.46,0,.43.43,0,0,0,.19-.14.65.65,0,0,0,.13-.25A1.38,1.38,0,0,0,8.87,8.43ZM13,11.54a1.64,1.64,0,0,1-.11.6,1.38,1.38,0,0,1-.31.46,1.23,1.23,0,0,1-.44.3,1.31,1.31,0,0,1-.52.11,1.37,1.37,0,0,1-.54-.11,1.23,1.23,0,0,1-.44-.3,1.32,1.32,0,0,1-.28-.46,1.64,1.64,0,0,1-.1-.6,1.81,1.81,0,0,1,.1-.63,1.47,1.47,0,0,1,.28-.47,1.23,1.23,0,0,1,.44-.3,1.37,1.37,0,0,1,.54-.1,1.42,1.42,0,0,1,.55.1,1.32,1.32,0,0,1,.44.3,1.47,1.47,0,0,1,.28.47A1.81,1.81,0,0,1,13,11.54Zm-.79,0a1.49,1.49,0,0,0,0-.4.58.58,0,0,0-.13-.26.38.38,0,0,0-.19-.14.56.56,0,0,0-.23-.05.59.59,0,0,0-.23.05.4.4,0,0,0-.18.14.7.7,0,0,0-.12.26,1.45,1.45,0,0,0,0,.4,1.35,1.35,0,0,0,0,.38.73.73,0,0,0,.12.25.49.49,0,0,0,.18.14.85.85,0,0,0,.23,0,.79.79,0,0,0,.23,0,.45.45,0,0,0,.19-.14.59.59,0,0,0,.13-.25A1.38,1.38,0,0,0,12.22,11.54Z" fill="#1d1d1d"></path>
+</svg>
+</span>
+<span class="menuLink__text--2brZ7"></span>
+</a>
+</div>
+</div>
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<a class="menuLink__menuLink--EBdvT wineNavigationMenu__menuLink--Nsggg" href="/explore">
+<span class="menuLink__icon--28jYW menuLink__iconCheese--E4TeA">
+<svg viewBox="0 0 20 20">
+<g id="b">
+<g id="a">
+<path d="M17.4,9.12a.37.37,0,0,0,.36-.37V7.45a.22.22,0,0,0,0-.08v0l-.05-.07,0,0-.07,0-.05,0L6.64,3.68a.31.31,0,0,0-.19,0A5.75,5.75,0,0,0,2.53,7.34a.21.21,0,0,0,0,.11v8a.36.36,0,0,0,.36.37H17.38a.37.37,0,0,0,.37-.37V11.62a.37.37,0,0,0-.35-.37,1.07,1.07,0,0,1,0-2.13ZM6.52,4.39,15,7.12H3.41A5,5,0,0,1,6.52,4.39ZM17,11.93v3.22H3.23V7.85H17v.58a1.8,1.8,0,0,0,0,3.5ZM5.76,10.2a.82.82,0,0,0,.81-.82.81.81,0,0,0-.81-.81h0a.82.82,0,0,0-.82.81A.82.82,0,0,0,5.76,10.2Zm7.59-.08a.82.82,0,1,0,.84.82.82.82,0,0,0-.84-.82Zm1.82,4.59a.62.62,0,1,0-.61-.62A.62.62,0,0,0,15.17,14.71ZM8.87,11a1.47,1.47,0,1,0,1.46,1.46A1.48,1.48,0,0,0,8.87,11Z" fill="#1e1e1e"></path>
+</g>
+</g>
+</svg>
+</span>
+<span class="menuLink__text--2brZ7"></span>
+</a>
+</div>
+</div>
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<a class="menuLink__menuLink--EBdvT wineNavigationMenu__menuLink--Nsggg" href="/explore">
+<span class="menuLink__icon--28jYW">
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.54,8.37A.51.51,0,0,1,9.07,8,7.14,7.14,0,0,0,5.73,4a.5.5,0,0,1-.15-.69.51.51,0,0,1,.7-.14A8,8,0,0,1,10,7.7a.49.49,0,0,1-.3.64A.47.47,0,0,1,9.54,8.37Z" fill="#1d1d1d"></path>
+<path d="M7.69,9.46H7.61a.5.5,0,0,1-.42-.57A3.07,3.07,0,0,1,8.26,7,.5.5,0,0,1,9,7a.49.49,0,0,1,0,.7A2.1,2.1,0,0,0,8.18,9,.49.49,0,0,1,7.69,9.46Z" fill="#1d1d1d"></path>
+<path d="M9.1,14.69a2,2,0,0,1-.27-3.94,1.93,1.93,0,0,1,1.47.38,2,2,0,0,1,.77,1.31,2,2,0,0,1-.38,1.47,2,2,0,0,1-1.31.76A1.32,1.32,0,0,1,9.1,14.69Zm0-3H9a1,1,0,1,0,.27,1.94,1,1,0,0,0,.65-.38,1,1,0,0,0,.19-.72h0a1,1,0,0,0-.38-.64A1,1,0,0,0,9.11,11.73Z" fill="#1d1d1d"></path>
+<path d="M12,14.28A2,2,0,1,1,14,12h0a2,2,0,0,1-.39,1.47,2,2,0,0,1-1.3.77Zm0-3h-.13a1,1,0,1,0,.27,1.94A1,1,0,0,0,12,11.32Z" fill="#1d1d1d"></path>
+<path d="M10.22,11.94a2,2,0,0,1-2-1.71A2,2,0,0,1,10,8a2,2,0,0,1,2.23,1.69,2,2,0,0,1-.38,1.47,2,2,0,0,1-1.31.77Zm0-3h-.14a.92.92,0,0,0-.64.38,1,1,0,0,0-.19.73,1,1,0,0,0,1.11.84,1,1,0,0,0,.64-.39.94.94,0,0,0,.19-.72h0A1,1,0,0,0,10.22,9Z" fill="#1d1d1d"></path>
+<path d="M13.2,11.36a2,2,0,1,1,2-2.26h0a2,2,0,0,1-.38,1.47,2,2,0,0,1-1.31.77Zm0-3h-.14a1,1,0,0,0-.65.39,1,1,0,0,0-.19.72,1,1,0,0,0,.38.65,1,1,0,0,0,1.57-.92A1,1,0,0,0,13.21,8.39Z" fill="#1d1d1d"></path>
+<path d="M10.93,17.05a1.9,1.9,0,0,1-1.19-.4A1.92,1.92,0,0,1,9,15.34a2,2,0,0,1,1.69-2.23,1.93,1.93,0,0,1,1.47.38,2,2,0,0,1,.77,1.31h0A2,2,0,0,1,11.21,17Zm0-3H10.8A1,1,0,0,0,10,15.21a1,1,0,0,0,1.11.83,1,1,0,0,0,.65-.38,1,1,0,0,0,.19-.72h0a1,1,0,0,0-.38-.64A1,1,0,0,0,10.94,14.09Z" fill="#1d1d1d"></path>
+<path d="M6.77,12.39a2,2,0,1,1,2-2.26h0a2,2,0,0,1-1.69,2.24Zm0-3H6.64a1,1,0,0,0-.84,1.11,1,1,0,0,0,.38.65,1,1,0,0,0,.73.19,1,1,0,0,0,.84-1.11h0A1,1,0,0,0,6.77,9.42Z" fill="#1d1d1d"></path>
+<path d="M9.5,6.07A2.74,2.74,0,0,1,8.94,6a.49.49,0,0,1-.4-.43,2.9,2.9,0,0,1,.91-2.41,2.83,2.83,0,0,1,2.47-.69.51.51,0,0,1,.41.44,2.87,2.87,0,0,1-.91,2.4A2.83,2.83,0,0,1,9.5,6.07Zm1.83-2.65a1.86,1.86,0,0,0-1.8,1.65,1.88,1.88,0,0,0,1.21-.48A1.84,1.84,0,0,0,11.33,3.42Z" fill="#1d1d1d"></path>
+</svg>
+</span>
+<span class="menuLink__text--2brZ7"></span>
+</a>
+</div>
+</div>
+<div class="navigationItem__navigationItem--2OVra">
+<div class="navigationItem__labelContainer--2ceeV">
+<a class="menuLink__menuLink--EBdvT wineNavigationMenu__menuLink--Nsggg" href="/explore">
+<span class="menuLink__icon--28jYW">
+<svg viewBox="0 0 20 20">
+<g id="location">
+<path d="M10.21,16.61a.37.37,0,0,1-.31-.15L6.35,12.11a5.33,5.33,0,0,1-1.57-3.8,5.43,5.43,0,0,1,9.27-3.83h0a5.41,5.41,0,0,1,0,7.66l-3.53,4.32A.37.37,0,0,1,10.21,16.61Zm0-12.91a4.61,4.61,0,0,0-3.27,7.87l3.27,4,3.24-4a4.61,4.61,0,0,0,0-6.55h0A4.62,4.62,0,0,0,10.21,3.7Zm0,7.33a2.89,2.89,0,0,1-2.06-.85h0a2.92,2.92,0,0,1,0-4.12,3,3,0,0,1,4.12,0,2.91,2.91,0,0,1-2.06,5Zm0-5a2.11,2.11,0,0,0-1.49,3.6h0a2.15,2.15,0,0,0,3,0A2.11,2.11,0,0,0,10.21,6Z" fill="#1d1d1d"></path>
+</g>
+</svg>
+</span>
+<span class="menuLink__text--2brZ7"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 </div>
-</div>
-<div class="container-fluid expanded-navbar-container hidden-xs">
-<div data-item-type="dropdown" class="menu-expanded"></div>
-</div>
-</header>
 
+<script>
+  window.__PRELOADED_COUNTRY_CODE__ = "US";
+  window.__PRELOADED_ENV__ = "production";
+  window.__PRELOADED_LOCALE__ = "en";
+  window.__PRELOADED_PRICE_TOKEN__ = "796a28d384f30871247a40986fccfe166b84a2e2";
+  window.__PRELOADED_STATE_CODE__ = "CA";
+  window.__PRELOADED_USER_COUNTRY_CODE__ = "US";
+  window.__PRELOADED_USER_STATE_CODE__ = "CA";
+</script>
 <!-- Begin page content -->
-<section class="contact section-lg section-alt">
+<section class="section-lg section-alt">
 <div class="container">
 <div class="row">
 <div class="col-sm-5">
 <h1 class="header-larger light">Privacy policy</h1>
-<p class="text-small">This Privacy Policy describes how and when Vivino collects, uses and shares your information when you use our Services. Vivino receives your information through our website and smartphone app (the "Services" or "Vivino"). For example, you send us information when you use Vivino from our website, or take a photo with our app. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
+<p class="text-small">This policy is effective from May 25 2018.
 </p>
-<p class="text-small">Irrespective of which country you reside in or supply information from, you authorize Vivino to use your information in the United States and any other country where Vivino operates.
+<p class="text-small">This Privacy Policy describes how and when Vivino collects, uses and shares your personal information ("information") when you use our Services. Vivino receives your information through our website and our app (the "Services" or "Vivino"). For example, you send us information when you use Vivino from our website, or take a photo with our app. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 </p>
-<p class="text-small">If you have any questions or comments about this Privacy Policy, please contact us at <a href="mailto:privacy@vivino.com">privacy@vivino.com</a>.
+<p class="text-small">This privacy policy sets out how Vivino uses and protects any information that you give Vivino when you use our website, app or other products.
+</p>
+<p class="text-small">Vivino is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified, then you can be assured that it will only be used in accordance with this privacy statement.
+</p>
+<p class="text-small"><b>For the purpose of the European Union General Data Protection Regulation, the data controller is VIVINO ApS, Njalsgade 21G, 1., 2300 Copenhagen S, Denmark, company registration number DK32081193.</b>
+</p>
+<p class="text-small">As a company, Vivino operates in many countries. Irrespective of which country you reside in or supply information from, you authorize Vivino to use your information in the United States and any other country where Vivino operates.
+</p>
+<p class="text-small">If you have any questions or comments about this Privacy Policy, please contact our data protection officer at <a href="mailto:privacy@vivino.com">privacy@vivino.com</a>.
 </p>
 </div>
 </div>
 </div>
 </section>
-<section class="contact section-lg">
+<section class="section-lg">
 <div class="container">
 <ol class="terms-of-use list list-larger list-bordered text-larger">
 <li>
 <div class="row">
-<h4 class="header-smaller semi col-sm-4">The main points to understand</h4>
+<h4 class="header-smaller semi col-sm-4">Your rights</h4>
 <div class="col-sm-8">
-<p></p><ol>
-   <li>
-     When using Vivino with default settings, you have a publicly available Vivino-account,
-     where other users can follow your activity. If you want your wine-experiences to be private,
-     you can change your Privacy Setting from "Anyone" to "Nobody" in the app or the website.
-   </li>
-   <li>
-     Vivino never posts content to your Facebook account automatically. Any sharing on Facebook,
-     Twitter or other social networks outside Vivino only happens when you actively request the posting to happen.
-   </li>
-   <li>Vivino Aps owns all rights to photos taken with the Vivino app. </li>
-   <li>
-     When using Vivino from certain countries, with the default settings unchanged, you will receive
-     emails from Vivino containing special offers on premium wines available at a discount. You can
-     unsubscribe from these mails at any time, including during sign-up.
-   </li>
-<p></p>
-</ol></div>
+<p>You have the right to request access to and receive information about the information we maintain about you, update and correct inaccuracies in your information, and have the information blocked or deleted, as appropriate. You also have the right to object to our processing of your information and withdraw your consent to our processing of your information at any time.
+</p>
+<p>The right to access information may be limited in some circumstances by local law requirements.
+</p>
+<p>Please note that you may not be able to benefit from all features if you request the deletion of your information, object or withdraw your consent to the processing of your information.You have the right to data portability and we will provide you with the information we store about you on request.
+</p>
+<p>You can control your personal information from the Settings page on our website, <a href="https://www.vivino.com">www.vivino.com</a>. If you have any questions or requests regarding your personal information that you cannot find an answer to on our Settings page, please contact our customer support at <a href="mailto:support@vivino.com">support@vivino.com</a>.
+</p>
+<p>You can complain about the processing of your information to the Danish Data Protection Agency, Borgergade 28, 5., 1300 Copenhagen K, Denmark. E-mail: dt@datatilsynet.dk.
+</p>
+</div>
 </div>
 </li>
 <li>
 <div class="row">
-<h4 class="header-smaller semi col-sm-4">Information Collection and Use</h4>
+<h4 class="header-smaller semi col-sm-4">Revoking consent and deleting your account</h4>
 <div class="col-sm-8">
-<p>Tip We collect and use your information below to provide our Services and to measure and improve them over time.
+<p>Vivino complies with the General Data Protection Regulation (GDPR) which protects your personal information. In this Privacy Policy we will describe what information you provide or we gather about you, why we do so, and how we use it.
 </p>
-<p>Information Collected Upon Registration: When you create or reconfigure a Vivino account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results.
+<p>If you are a registered user of our Services, we provide you with tools and account settings to access or modify the personal information you provided to us and associated with your account.
+</p>
+<p>You can at any time revoke your consent to our Privacy Policy by deleting your Vivino account. <b>This can be done from the Settings section on our website, Vivino.com</b>.
+</p>
+<p>When you delete your account, all personally identifiable information is deleted from our systems. Content that can be fully anonymized, like ratings of wines, will not be deleted, but instead disconnected from your deleted account and will no longer be traceable back to you.
+</p>
+<p>Please remember that if you just delete the Vivino app from your phone, your Vivino account and information remains on our servers. In other words, if you want to delete your Vivino data, it is not enough to delete the app – you need to delete your account via the Settings page on our website.
+</p>
+<p>You can at any time change your consent to different types of communication from Vivino. <b>This can be done from the Settings section on our website, Vivino.com.</b>
+</p>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<h4 class="header-smaller semi col-sm-4">Collection and use of information</h4>
+<div class="col-sm-8">
+<p>We collect and use your information below to provide our Services and to measure and improve them over time. If you use Vivino Checkout to purchase products, we also use your information to fulfill your order.
+</p>
+<p>We process your information based on the legal basis of your consent, to fulfill our contractual obligations or based on our legitimate interests in processing the information.
+</p>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<h4 class="header-smaller semi col-sm-4">Your Account on Vivino</h4>
+<div class="col-sm-8">
+<p>When using Vivino with default settings, you have a <b>publicly</b> available Vivino-account, where other users can follow your activity, namely your ratings and reviews of wines. This is because Vivino at heart is a community of wine-lovers, and our mission is to make everybody smarter about wine by facilitating the sharing of wine experiences and knowledge.
+</p>
+<p>If you want your wine-experiences to be private, you can change your Privacy Setting from "Anyone" to "Nobody" in the app or the website. You can also chose the setting "Invite only", which means that only Vivino accounts that you have specifically allowed can see your activity – like your friends or family.
+</p>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<h4 class="header-smaller semi col-sm-4">Communications from Vivino</h4>
+<div class="col-sm-8">
+<p>When you sign up to Vivino, you may provide an email address. If you install the Vivino app you may also give your consent to notifications from Vivino on your smartphone.
+You can at any time unsubscribe from any and all communication from Vivino through our Settings page, both emails and notifications. All emails we send will include a link to directly unsubscribe.
+</p>
+<p>Vivino does NOT sell your communication data to 3rd parties, and by signing up to Vivino you will only receive communication from Vivino, no one else.
+</p>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<h4 class="header-smaller semi col-sm-4">Social media</h4>
+<div class="col-sm-8">
+<p>When using Vivino, you can choose to connect to certain social media, like Twitter, Facebook and Google Plus. This only happens if you explicitly chose to do so. Vivino can then fetch your list of friends from these sites, so that you can easily find your friends on Vivino. Vivino does not get access to contacting your friends through the social media, nor would we do so if it became possible.
+</p>
+<p>When connecting to social media through Vivino, you can also choose to share specific actions from Vivino to the social media. This only happens if you explicitly choose to do so. Please note that when you share content from Vivino to other platforms, the shared content is from then on governed by the privacy policies of those networks.
+</p>
+<p>Vivino does NOT sell your social media friend list to any 3rd party.
+</p>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<h4 class="header-smaller semi col-sm-4">Information you provide to Vivino</h4>
+<div class="col-sm-8">
+<p>When signing up for Vivino, you can choose to create a user account. This is useful if you want to use Vivino across multiple devices, or ensure access to your data when switching to a new phone.
+</p>
+<p>When you create or reconfigure a Vivino account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results.
 </p>
 <p>You may use your account settings to unsubscribe from notifications from Vivino. You may also unsubscribe by following the instructions contained within the notification or the instructions on our website. We may use your contact information to help others find your Vivino account, including through third-party services and client applications.
 </p>
 <p>Your account settings control whether others can find you by your email address. If you email us, we may keep your message, email address and contact information to respond to your request. If you connect your Vivino account to your account on another service in order to cross-post between Vivino and that service, the other service may send us your registration or profile information on that service and other information that you authorize. This information enables cross-posting.
 </p>
-<p>Wine ratings, Tasting Notes, Following, Followers: Our Services are designed to help you share information with the world. Our default is almost always to make the information you provide public for as long as you do not delete it from Vivino, but we generally give you settings to make the information more private if you want. Your public information is broadly and instantly disseminated. For instance, your public user profile information may be searchable by search engines. When you share information or content like photos or ratings via the Services, you should think carefully about what you are making public.
+<p>Our Services are designed to help you share information with the world. Our default is almost always to make the information you provide public for as long as you do not delete it from Vivino, but we generally give you settings to make the information more private if you want. Your public information is broadly and instantly disseminated. For instance, your public user profile information may be searchable by search engines. When you share information or content like photos or ratings via the Services, you should think carefully about what you are making public.
+</p>
+<p>While using Vivino, you can choose to provide further information that will be linked to your account:
+</p>
+<p></p><ul>
+  <li>Pictures of wines</li>
+  <li>Ratings of wines</li>
+  <li>Reviews of wines</li>
+  <li>Likes and Comments on other users activity</li>
+</ul>
+<p></p>
+<p>All the above is voluntary and only created and collected at your initiative.
 </p>
 <p>Location Information: You may choose to add your location in your Scans. We may use and store information about your location to provide features of our Services, such as creating lists of availability of certain wines.
+</p>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<h4 class="header-smaller semi col-sm-4">Information we gather about you</h4>
+<div class="col-sm-8">
+<p>As you use our website and app, we use digital tracking tools, like website cookies, to track your actions. We do this to find bugs and errors in our systems, to understand what features are popular and not popular, and to personalize your product experience. For example, if you look at a lot of white wines, we will use this data to surface wine recommendations that match your preference, or recommend you to follow like-minded users on Vivino.
 </p>
 <p>Cookies: Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles. A cookie is a small data file that is transferred to your computer's hard disk. Vivino may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.
 </p>
 <p>Log Data: Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services or interact with our email notifications. Vivino uses Log Data to provide our Services and to measure, customize, and improve them. If not already done earlier, we will either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months.
 </p>
-<p>Third-Party Service Providers: Vivino uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address.
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<h4 class="header-smaller semi col-sm-4">Third-Party Service Providers</h4>
+<div class="col-sm-8">
+<p>We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.
 </p>
-<p>Vivino Checkout: If you submit an order request through Vivino Checkout, we will share the order request and the order information with the licensed seller of alcohol ("Seller") that Vivino has partnered with to fulfill your order request. Prior to the final submission of your order request, Vivino Checkout identifies the specific Seller to which your order request and order information will be submitted. Consult the Seller's privacy policy for further information regarding the Seller's collection, use, and sharing of the order information.
+<p>Law and Harm: Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Vivino's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information.
+</p>
+<p>Business Transfers: In the event that Vivino is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
 </p>
 </div>
 </div>
 </li>
 <li>
 <div class="row">
-<h4 class="header-smaller semi col-sm-4">Information Sharing and Disclosure</h4>
+<h4 class="header-smaller semi col-sm-4">Information when buying wine on Vivino</h4>
 <div class="col-sm-8">
-<p>Service Providers: We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. Law and Harm: Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Vivino's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information. Business Transfers: In the event that Vivino is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
+<p>Vivino is a marketplace, and as such we need to share the information needed to complete your order with the merchant partner that holds the wine. When you buy wine on Vivino, the name of the merchant partner is displayed to you.
 </p>
-</div>
-</div>
-</li>
-<li>
-<div class="row">
-<h4 class="header-smaller semi col-sm-4">Modifying Your Personal Information</h4>
-<div class="col-sm-8">
-<p>If you are a registered user of our Services, we provide you with tools and account settings to access or modify the personal information you provided to us and associated with your account.
+<p>When you buy wine on Vivino, you need to provide information needed to ensure that you get your wine and that you have a great customer experience. This information includes
+</p>
+<p></p><ul>
+  <li>The wine you ordered</li>
+  <li>Your name</li>
+  <li>Your postal address</li>
+  <li>Phone number</li>
+  <li>Email address</li>
+  <li>Payment information</li>
+  <li>Delivery preferences</li>
+</ul>
+<p></p>
+<p>If you submit an order request through Vivino Checkout, we will share the order request and the order information with the licensed seller of alcohol ("Seller") that Vivino has partnered with to fulfill your order request. Prior to the final submission of your order request, Vivino Checkout identifies the specific Seller to which your order request and order information will be submitted. Consult the Seller's privacy policy for further information regarding the Seller's collection, use, and sharing of the order information.
+</p>
+<p>We store your information as long as you have a profile on our website or in our app. If you have used Vivino Checkout we store your information for record keeping for a period of 3 years.
+</p>
+<p>The information we share with the merchant partner is:
+</p>
+<p></p><ul>
+  <li>The wine you ordered</li>
+  <li>Your name</li>
+  <li>Your postal address</li>
+  <li>Delivery preferences</li>
+</ul>
+<p></p>
+<p>We do NOT share your phone number, email address or payment information, as this is not needed for the partner to deliver the wine. According to our merchant contracts, it is not allowed for our merchant partners to contact you via your postal address outside of the specific wine transaction.
 </p>
 </div>
 </div>
@@ -314,9 +564,9 @@ More
 </li>
 <li>
 <div class="row">
-<h4 class="header-smaller semi col-sm-4">EU Safe Harbor Framework</h4>
+<h4 class="header-smaller semi col-sm-4">EU-US Privacy Shield</h4>
 <div class="col-sm-8">
-<p>Vivino complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit the U.S. Department of Commerce website.
+<p>Vivino complies with the EU-US Privacy Shield framework of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield framework, and to view our certification, please visit the U.S. Department of Commerce website <a href="https://www.privacyshield.gov/list" target="_blank">https://www.privacyshield.gov/list</a> .
 </p>
 </div>
 </div>
@@ -325,600 +575,321 @@ More
 <div class="row">
 <h4 class="header-smaller semi col-sm-4">Changes to this Policy</h4>
 <div class="col-sm-8">
-<p>We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at <a href="http://www.vivino.com/privacy">http://www.vivino.com/privacy</a>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Vivino update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+<p>We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at <a href="https://www.vivino.com/privacy">https://www.vivino.com/privacy</a>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Vivino update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 </p>
 </div>
 </div>
 </li>
 </ol>
-<p class="bold">Effective: August 4, 2012</p>
+<p class="bold">Effective: May 25, 2018</p>
 </div>
 </section>
 
-<footer class="footer" role="contentinfo">
-<div class="container">
-<div class="footer__app-advert">
-<div class="footer__app-advert__copy">
-<h4 class="header-small">Take a photo of any wine<br>&amp; get ratings, prices and user reviews instantly.</h4>
-<h6 class="header-micro">Get the vivino app for iOS or Android</h6>
-</div>
-<div class="footer__app-advert__image">
-<img src="https://assets.vivino.com/assets/app-pages/download-the-app-2b7bbf86874bf4b668135a21443d3c02.png">
-</div>
-<div class="footer__app-advert__links">
-<div data-item-name="the-app" data-item-type="newfooter" data-track-type="get-app" class="app-store-links">
-<a href="/redirect/appstore" class="visible-app-store-link btn-apple-store btn-sm btn-red text-hide" target="_blank" data-item-subname="iphone">Apple AppStore</a><a href="/redirect/play" class="visible-app-store-link btn-google-store btn-sm btn-red text-hide" target="_blank" data-item-subname="android">Google Play</a>
-</div>
-</div>
-</div>
-<div class="footer__main">
-<div class="footer__main__menu text-small">
-<a href="/about" title="About">About</a>
-·
-<a href="/contact" title="Contact">Contact</a>
-·
-<a href="/press" title="Contact">Press</a>
-·
-<a href="/support" title="Support">Support</a>
-·
-<a href="/releases/premium" title="Premium">Premium</a>
-·
-<a href="/privacy" title="Privacy Policy">Privacy Policy</a>
-·
-<a href="/content" title="Content Policy">Content Policy</a>
-·
-<a href="/terms" title="Terms of Use">Terms of Use</a>
-·
-<a href="/merchants" title="Merchants">Merchants</a>
-·
-<a href="/claim-your-winery" title="Wineries">Wineries</a>
-·
-<a href="/jobs" title="Jobs">Jobs</a>
-·
-<a href="/sitemap" title="Sitemap">Sitemap</a>
-</div>
-<div class="footer__main__social-links">
-<a href="https://www.facebook.com/vivino" target="_blank">
-<i class="icon-facebook-circled"></i>
+<div data-scan="false" id="footer-container">
+<div data-scan="false" id="footer-container">
+<section class="appAdvertisement__appAdvertisement--1w7F5">
+<div class="appAdvertisement__teaserImage--1N1lU"></div>
+<div class="appAdvertisement__teaserCTA--Mc00J">
+<p class="appAdvertisement__teaserHeadline--3aE5A">Trusted by 35 million users for wine ratings, prices and hassle-free shopping.</p>
+<p class="appAdvertisement__teaserSubheadline--2Kw_X">Download the app today</p>
+<div class="appAdvertisement__teaserCTALinks--26IyP" data-item-name="the-app" data-item-type="big-banner-frontpage" data-track-type="get-app">
+<a class="appAdvertisement__teaserCTAApple--1TD3l" data-item-subname="iphone" href="/redirect/appstore" target="_blank" title="Apple AppStore">
+<svg viewBox="0 0 135 40">
+<g>
+<path d="M130.197,40H4.729C2.122,40,0,37.872,0,35.267V4.726C0,2.12,2.122,0,4.729,0h125.468 C132.803,0,135,2.12,135,4.726v30.541C135,37.872,132.803,40,130.197,40L130.197,40z" fill="#A6A6A6"></path>
+<path d="M134.032,35.268c0,2.116-1.714,3.83-3.834,3.83H4.729c-2.119,0-3.839-1.714-3.839-3.83V4.725 c0-2.115,1.72-3.835,3.839-3.835h125.468c2.121,0,3.834,1.72,3.834,3.835L134.032,35.268L134.032,35.268z"></path>
+<g>
+<g>
+<path d="M30.128,19.784c-0.029-3.223,2.639-4.791,2.761-4.864c-1.511-2.203-3.853-2.504-4.676-2.528 c-1.967-0.207-3.875,1.177-4.877,1.177c-1.022,0-2.565-1.157-4.228-1.123c-2.14,0.033-4.142,1.272-5.24,3.196 c-2.266,3.923-0.576,9.688,1.595,12.859c1.086,1.553,2.355,3.287,4.016,3.226c1.625-0.067,2.232-1.036,4.193-1.036 c1.943,0,2.513,1.036,4.207,0.997c1.744-0.028,2.842-1.56,3.89-3.127c1.255-1.78,1.759-3.533,1.779-3.623 C33.507,24.924,30.161,23.647,30.128,19.784z" fill="#FFFFFF"></path>
+<path d="M26.928,10.306c0.874-1.093,1.472-2.58,1.306-4.089c-1.265,0.056-2.847,0.875-3.758,1.944 c-0.806,0.942-1.526,2.486-1.34,3.938C24.557,12.205,26.016,11.382,26.928,10.306z" fill="#FFFFFF"></path>
+</g>
+</g>
+<g>
+<path d="M53.645,31.504h-2.271l-1.244-3.909h-4.324l-1.185,3.909h-2.211l4.284-13.308h2.646L53.645,31.504z M49.755,25.955L48.63,22.48c-0.119-0.355-0.342-1.191-0.671-2.507h-0.04c-0.131,0.566-0.342,1.402-0.632,2.507l-1.105,3.475 H49.755z" fill="#FFFFFF"></path>
+<path d="M64.662,26.588c0,1.632-0.441,2.922-1.323,3.869c-0.79,0.843-1.771,1.264-2.942,1.264 c-1.264,0-2.172-0.454-2.725-1.362h-0.04v5.055h-2.132V25.067c0-1.026-0.027-2.079-0.079-3.159h1.875l0.119,1.521h0.04 c0.711-1.146,1.79-1.718,3.238-1.718c1.132,0,2.077,0.447,2.833,1.342C64.284,23.949,64.662,25.127,64.662,26.588z M62.49,26.666 c0-0.934-0.21-1.704-0.632-2.31c-0.461-0.632-1.08-0.948-1.856-0.948c-0.526,0-1.004,0.176-1.431,0.523 c-0.428,0.35-0.708,0.807-0.839,1.373c-0.066,0.264-0.099,0.48-0.099,0.65v1.6c0,0.698,0.214,1.287,0.642,1.768 s0.984,0.721,1.668,0.721c0.803,0,1.428-0.31,1.875-0.928C62.266,28.496,62.49,27.68,62.49,26.666z" fill="#FFFFFF"></path>
+<path d="M75.699,26.588c0,1.632-0.441,2.922-1.324,3.869c-0.789,0.843-1.77,1.264-2.941,1.264 c-1.264,0-2.172-0.454-2.724-1.362H68.67v5.055h-2.132V25.067c0-1.026-0.027-2.079-0.079-3.159h1.875l0.119,1.521h0.04 c0.71-1.146,1.789-1.718,3.238-1.718c1.131,0,2.076,0.447,2.834,1.342C75.32,23.949,75.699,25.127,75.699,26.588z M73.527,26.666 c0-0.934-0.211-1.704-0.633-2.31c-0.461-0.632-1.078-0.948-1.855-0.948c-0.527,0-1.004,0.176-1.432,0.523 c-0.428,0.35-0.707,0.807-0.838,1.373c-0.065,0.264-0.099,0.48-0.099,0.65v1.6c0,0.698,0.214,1.287,0.64,1.768 c0.428,0.48,0.984,0.721,1.67,0.721c0.803,0,1.428-0.31,1.875-0.928C73.303,28.496,73.527,27.68,73.527,26.666z" fill="#FFFFFF"></path>
+<path d="M88.039,27.772c0,1.132-0.393,2.053-1.182,2.764c-0.867,0.777-2.074,1.165-3.625,1.165 c-1.432,0-2.58-0.276-3.449-0.829l0.494-1.777c0.936,0.566,1.963,0.85,3.082,0.85c0.803,0,1.428-0.182,1.877-0.544 c0.447-0.362,0.67-0.848,0.67-1.454c0-0.54-0.184-0.995-0.553-1.364c-0.367-0.369-0.98-0.712-1.836-1.029 c-2.33-0.869-3.494-2.142-3.494-3.816c0-1.094,0.408-1.991,1.225-2.689c0.814-0.699,1.9-1.048,3.258-1.048 c1.211,0,2.217,0.211,3.02,0.632l-0.533,1.738c-0.75-0.408-1.598-0.612-2.547-0.612c-0.75,0-1.336,0.185-1.756,0.553 c-0.355,0.329-0.533,0.73-0.533,1.205c0,0.526,0.203,0.961,0.611,1.303c0.355,0.316,1,0.658,1.936,1.027 c1.145,0.461,1.986,1,2.527,1.618C87.77,26.081,88.039,26.852,88.039,27.772z" fill="#FFFFFF"></path>
+<path d="M95.088,23.508h-2.35v4.659c0,1.185,0.414,1.777,1.244,1.777c0.381,0,0.697-0.033,0.947-0.099l0.059,1.619 c-0.42,0.157-0.973,0.236-1.658,0.236c-0.842,0-1.5-0.257-1.975-0.77c-0.473-0.514-0.711-1.376-0.711-2.587v-4.837h-1.4v-1.6h1.4 v-1.757l2.094-0.632v2.389h2.35V23.508z" fill="#FFFFFF"></path>
+<path d="M105.691,26.627c0,1.475-0.422,2.686-1.264,3.633c-0.883,0.975-2.055,1.461-3.516,1.461 c-1.408,0-2.529-0.467-3.365-1.401s-1.254-2.113-1.254-3.534c0-1.487,0.43-2.705,1.293-3.652c0.861-0.948,2.023-1.422,3.484-1.422 c1.408,0,2.541,0.467,3.396,1.402C105.283,24.021,105.691,25.192,105.691,26.627z M103.479,26.696 c0-0.885-0.189-1.644-0.572-2.277c-0.447-0.766-1.086-1.148-1.914-1.148c-0.857,0-1.508,0.383-1.955,1.148 c-0.383,0.634-0.572,1.405-0.572,2.317c0,0.885,0.189,1.644,0.572,2.276c0.461,0.766,1.105,1.148,1.936,1.148 c0.814,0,1.453-0.39,1.914-1.168C103.281,28.347,103.479,27.58,103.479,26.696z" fill="#FFFFFF"></path>
+<path d="M112.621,23.783c-0.211-0.039-0.436-0.059-0.672-0.059c-0.75,0-1.33,0.283-1.738,0.85 c-0.355,0.5-0.533,1.132-0.533,1.895v5.035h-2.131l0.02-6.574c0-1.106-0.027-2.113-0.08-3.021h1.857l0.078,1.836h0.059 c0.225-0.631,0.58-1.139,1.066-1.52c0.475-0.343,0.988-0.514,1.541-0.514c0.197,0,0.375,0.014,0.533,0.039V23.783z" fill="#FFFFFF"></path>
+<path d="M122.156,26.252c0,0.382-0.025,0.704-0.078,0.967h-6.396c0.025,0.948,0.334,1.673,0.928,2.173 c0.539,0.447,1.236,0.671,2.092,0.671c0.947,0,1.811-0.151,2.588-0.454l0.334,1.48c-0.908,0.396-1.98,0.593-3.217,0.593 c-1.488,0-2.656-0.438-3.506-1.313c-0.848-0.875-1.273-2.05-1.273-3.524c0-1.447,0.395-2.652,1.186-3.613 c0.828-1.026,1.947-1.539,3.355-1.539c1.383,0,2.43,0.513,3.141,1.539C121.873,24.047,122.156,25.055,122.156,26.252z M120.123,25.699c0.014-0.632-0.125-1.178-0.414-1.639c-0.369-0.593-0.936-0.889-1.699-0.889c-0.697,0-1.264,0.289-1.697,0.869 c-0.355,0.461-0.566,1.014-0.631,1.658H120.123z" fill="#FFFFFF"></path>
+</g>
+<g>
+<g>
+<path d="M49.05,10.009c0,1.177-0.353,2.063-1.058,2.658c-0.653,0.549-1.581,0.824-2.783,0.824 c-0.596,0-1.106-0.026-1.533-0.078V6.982c0.557-0.09,1.157-0.136,1.805-0.136c1.145,0,2.008,0.249,2.59,0.747 C48.723,8.156,49.05,8.961,49.05,10.009z M47.945,10.038c0-0.763-0.202-1.348-0.606-1.756c-0.404-0.407-0.994-0.611-1.771-0.611 c-0.33,0-0.611,0.022-0.844,0.068v4.889c0.129,0.02,0.365,0.029,0.708,0.029c0.802,0,1.421-0.223,1.857-0.669 S47.945,10.892,47.945,10.038z" fill="#FFFFFF"></path>
+<path d="M54.909,11.037c0,0.725-0.207,1.319-0.621,1.785c-0.434,0.479-1.009,0.718-1.727,0.718 c-0.692,0-1.243-0.229-1.654-0.689c-0.41-0.459-0.615-1.038-0.615-1.736c0-0.73,0.211-1.329,0.635-1.794s0.994-0.698,1.712-0.698 c0.692,0,1.248,0.229,1.669,0.688C54.708,9.757,54.909,10.333,54.909,11.037z M53.822,11.071c0-0.435-0.094-0.808-0.281-1.119 c-0.22-0.376-0.533-0.564-0.94-0.564c-0.421,0-0.741,0.188-0.961,0.564c-0.188,0.311-0.281,0.69-0.281,1.138 c0,0.435,0.094,0.808,0.281,1.119c0.227,0.376,0.543,0.564,0.951,0.564c0.4,0,0.714-0.191,0.94-0.574 C53.725,11.882,53.822,11.506,53.822,11.071z" fill="#FFFFFF"></path>
+<path d="M62.765,8.719l-1.475,4.714h-0.96l-0.611-2.047c-0.155-0.511-0.281-1.019-0.379-1.523h-0.019 c-0.091,0.518-0.217,1.025-0.379,1.523l-0.649,2.047h-0.971l-1.387-4.714h1.077l0.533,2.241c0.129,0.53,0.235,1.035,0.32,1.513 h0.019c0.078-0.394,0.207-0.896,0.389-1.503l0.669-2.25h0.854l0.641,2.202c0.155,0.537,0.281,1.054,0.378,1.552h0.029 c0.071-0.485,0.178-1.002,0.32-1.552l0.572-2.202H62.765z" fill="#FFFFFF"></path>
+<path d="M68.198,13.433H67.15v-2.7c0-0.832-0.316-1.248-0.95-1.248c-0.311,0-0.562,0.114-0.757,0.343 c-0.193,0.229-0.291,0.499-0.291,0.808v2.796h-1.048v-3.366c0-0.414-0.013-0.863-0.038-1.349h0.921l0.049,0.737h0.029 c0.122-0.229,0.304-0.418,0.543-0.569c0.284-0.176,0.602-0.265,0.95-0.265c0.44,0,0.806,0.142,1.097,0.427 c0.362,0.349,0.543,0.87,0.543,1.562V13.433z" fill="#FFFFFF"></path>
+<path d="M71.088,13.433h-1.047V6.556h1.047V13.433z" fill="#FFFFFF"></path>
+<path d="M77.258,11.037c0,0.725-0.207,1.319-0.621,1.785c-0.434,0.479-1.01,0.718-1.727,0.718 c-0.693,0-1.244-0.229-1.654-0.689c-0.41-0.459-0.615-1.038-0.615-1.736c0-0.73,0.211-1.329,0.635-1.794s0.994-0.698,1.711-0.698 c0.693,0,1.248,0.229,1.67,0.688C77.057,9.757,77.258,10.333,77.258,11.037z M76.17,11.071c0-0.435-0.094-0.808-0.281-1.119 c-0.219-0.376-0.533-0.564-0.939-0.564c-0.422,0-0.742,0.188-0.961,0.564c-0.188,0.311-0.281,0.69-0.281,1.138 c0,0.435,0.094,0.808,0.281,1.119c0.227,0.376,0.543,0.564,0.951,0.564c0.4,0,0.713-0.191,0.939-0.574 C76.074,11.882,76.17,11.506,76.17,11.071z" fill="#FFFFFF"></path>
+<path d="M82.33,13.433h-0.941l-0.078-0.543h-0.029c-0.322,0.433-0.781,0.65-1.377,0.65 c-0.445,0-0.805-0.143-1.076-0.427c-0.246-0.258-0.369-0.579-0.369-0.96c0-0.576,0.24-1.015,0.723-1.319 c0.482-0.304,1.16-0.453,2.033-0.446V10.3c0-0.621-0.326-0.931-0.979-0.931c-0.465,0-0.875,0.117-1.229,0.349l-0.213-0.688 c0.438-0.271,0.979-0.407,1.617-0.407c1.232,0,1.85,0.65,1.85,1.95v1.736C82.262,12.78,82.285,13.155,82.33,13.433z M81.242,11.813v-0.727c-1.156-0.02-1.734,0.297-1.734,0.95c0,0.246,0.066,0.43,0.201,0.553c0.135,0.123,0.307,0.184,0.512,0.184 c0.23,0,0.445-0.073,0.641-0.218c0.197-0.146,0.318-0.331,0.363-0.558C81.236,11.946,81.242,11.884,81.242,11.813z" fill="#FFFFFF"></path>
+<path d="M88.285,13.433h-0.93l-0.049-0.757h-0.029c-0.297,0.576-0.803,0.864-1.514,0.864 c-0.568,0-1.041-0.223-1.416-0.669s-0.562-1.025-0.562-1.736c0-0.763,0.203-1.381,0.611-1.853c0.395-0.44,0.879-0.66,1.455-0.66 c0.633,0,1.076,0.213,1.328,0.64h0.02V6.556h1.049v5.607C88.248,12.622,88.26,13.045,88.285,13.433z M87.199,11.445v-0.786 c0-0.136-0.01-0.246-0.029-0.33c-0.059-0.252-0.186-0.464-0.379-0.635c-0.195-0.171-0.43-0.257-0.701-0.257 c-0.391,0-0.697,0.155-0.922,0.466c-0.223,0.311-0.336,0.708-0.336,1.193c0,0.466,0.107,0.844,0.322,1.135 c0.227,0.31,0.533,0.465,0.916,0.465c0.344,0,0.619-0.129,0.828-0.388C87.1,12.069,87.199,11.781,87.199,11.445z" fill="#FFFFFF"></path>
+<path d="M97.248,11.037c0,0.725-0.207,1.319-0.621,1.785c-0.434,0.479-1.008,0.718-1.727,0.718 c-0.691,0-1.242-0.229-1.654-0.689c-0.41-0.459-0.615-1.038-0.615-1.736c0-0.73,0.211-1.329,0.635-1.794s0.994-0.698,1.713-0.698 c0.691,0,1.248,0.229,1.668,0.688C97.047,9.757,97.248,10.333,97.248,11.037z M96.162,11.071c0-0.435-0.094-0.808-0.281-1.119 c-0.221-0.376-0.533-0.564-0.941-0.564c-0.42,0-0.74,0.188-0.961,0.564c-0.188,0.311-0.281,0.69-0.281,1.138 c0,0.435,0.094,0.808,0.281,1.119c0.227,0.376,0.543,0.564,0.951,0.564c0.4,0,0.715-0.191,0.941-0.574 C96.064,11.882,96.162,11.506,96.162,11.071z" fill="#FFFFFF"></path>
+<path d="M102.883,13.433h-1.047v-2.7c0-0.832-0.316-1.248-0.951-1.248c-0.311,0-0.562,0.114-0.756,0.343 s-0.291,0.499-0.291,0.808v2.796h-1.049v-3.366c0-0.414-0.012-0.863-0.037-1.349h0.92l0.049,0.737h0.029 c0.123-0.229,0.305-0.418,0.543-0.569c0.285-0.176,0.602-0.265,0.951-0.265c0.439,0,0.805,0.142,1.096,0.427 c0.363,0.349,0.543,0.87,0.543,1.562V13.433z" fill="#FFFFFF"></path>
+<path d="M109.936,9.504h-1.154v2.29c0,0.582,0.205,0.873,0.611,0.873c0.188,0,0.344-0.016,0.467-0.049 l0.027,0.795c-0.207,0.078-0.479,0.117-0.814,0.117c-0.414,0-0.736-0.126-0.969-0.378c-0.234-0.252-0.35-0.676-0.35-1.271V9.504 h-0.689V8.719h0.689V7.855l1.027-0.31v1.173h1.154V9.504z" fill="#FFFFFF"></path>
+<path d="M115.484,13.433h-1.049v-2.68c0-0.845-0.316-1.268-0.949-1.268c-0.486,0-0.818,0.245-1,0.735 c-0.031,0.103-0.049,0.229-0.049,0.377v2.835h-1.047V6.556h1.047v2.841h0.02c0.33-0.517,0.803-0.775,1.416-0.775 c0.434,0,0.793,0.142,1.078,0.427c0.355,0.355,0.533,0.883,0.533,1.581V13.433z" fill="#FFFFFF"></path>
+<path d="M121.207,10.853c0,0.188-0.014,0.346-0.039,0.475h-3.143c0.014,0.466,0.164,0.821,0.455,1.067 c0.266,0.22,0.609,0.33,1.029,0.33c0.465,0,0.889-0.074,1.271-0.223l0.164,0.728c-0.447,0.194-0.973,0.291-1.582,0.291 c-0.73,0-1.305-0.215-1.721-0.645c-0.418-0.43-0.625-1.007-0.625-1.731c0-0.711,0.193-1.303,0.582-1.775 c0.406-0.504,0.955-0.756,1.648-0.756c0.678,0,1.193,0.252,1.541,0.756C121.068,9.77,121.207,10.265,121.207,10.853z M120.207,10.582c0.008-0.311-0.061-0.579-0.203-0.805c-0.182-0.291-0.459-0.437-0.834-0.437c-0.342,0-0.621,0.142-0.834,0.427 c-0.174,0.227-0.277,0.498-0.311,0.815H120.207z" fill="#FFFFFF"></path>
+</g>
+</g>
+</g>
+</svg>
 </a>
-<a href="https://twitter.com/vivino" target="_blank">
-<i class="icon-twitter-circled"></i>
+<a class="appAdvertisement__teaserCTAAndroid--26tJG" data-item-subname="android" href="/redirect/play" target="_blank" title="Google Play">
+<svg viewBox="0 0 155 60" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 -1 0 202)" gradientUnits="userSpaceOnUse" id="a" x1="31.8" x2="15.02" y1="183.29" y2="166.51">
+<stop offset="0" stop-color="#00a0ff"></stop>
+<stop offset=".01" stop-color="#00a1ff"></stop>
+<stop offset=".26" stop-color="#00beff"></stop>
+<stop offset=".51" stop-color="#00d2ff"></stop>
+<stop offset=".76" stop-color="#00dfff"></stop>
+<stop offset="1" stop-color="#00e3ff"></stop>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 -1 0 202)" gradientUnits="userSpaceOnUse" id="b" x1="43.83" x2="19.64" y1="172" y2="172">
+<stop offset="0" stop-color="#ffe000"></stop>
+<stop offset=".41" stop-color="#ffbd00"></stop>
+<stop offset=".78" stop-color="orange"></stop>
+<stop offset="1" stop-color="#ff9c00"></stop>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 -1 0 202)" gradientUnits="userSpaceOnUse" id="c" x1="34.83" x2="12.07" y1="169.7" y2="146.95">
+<stop offset="0" stop-color="#ff3a44"></stop>
+<stop offset="1" stop-color="#c31162"></stop>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 -1 0 202)" gradientUnits="userSpaceOnUse" id="d" x1="17.3" x2="27.46" y1="191.82" y2="181.66">
+<stop offset="0" stop-color="#32a071"></stop>
+<stop offset=".07" stop-color="#2da771"></stop>
+<stop offset=".48" stop-color="#15cf74"></stop>
+<stop offset=".8" stop-color="#06e775"></stop>
+<stop offset="1" stop-color="#00f076"></stop>
+</linearGradient>
+</defs>
+<path d="M0 0h155v60H0z" fill="none"></path>
+<rect height="40" rx="5" ry="5" width="135" x="10" y="10"></rect>
+<path d="M140 10.8a4.2 4.2 0 0 1 4.2 4.2v30a4.2 4.2 0 0 1-4.2 4.2H15a4.2 4.2 0 0 1-4.2-4.2V15a4.2 4.2 0 0 1 4.2-4.2h125m0-.8H15a5 5 0 0 0-5 5v30a5 5 0 0 0 5 5h125a5 5 0 0 0 5-5V15a5 5 0 0 0-5-5z" fill="#a6a6a6"></path>
+<path d="M57.42 20.24a2.71 2.71 0 0 1-.75 2 2.91 2.91 0 0 1-2.2.89 3.15 3.15 0 0 1-2.21-5.37 3 3 0 0 1 2.21-.9 3.1 3.1 0 0 1 1.23.25 2.47 2.47 0 0 1 .94.67l-.53.53a2 2 0 0 0-1.64-.71 2.32 2.32 0 0 0-2.33 2.4 2.36 2.36 0 0 0 4 1.73 1.89 1.89 0 0 0 .5-1.22h-2.17v-.72h2.91a2.54 2.54 0 0 1 .04.45zM62 17.74h-2.7v1.9h2.46v.72H59.3v1.9H62V23h-3.5v-6H62zM65.28 23h-.77v-5.26h-1.68V17H67v.74h-1.72zM69.94 23v-6h.77v6zM74.13 23h-.77v-5.26h-1.68V17h4.12v.74h-1.67zM83.61 22.22a3.12 3.12 0 0 1-4.4 0 3.24 3.24 0 0 1 0-4.45 3.1 3.1 0 0 1 4.4 0 3.23 3.23 0 0 1 0 4.45zm-3.83-.5a2.31 2.31 0 0 0 3.26 0 2.56 2.56 0 0 0 0-3.44 2.31 2.31 0 0 0-3.26 0 2.56 2.56 0 0 0 0 3.44zM85.58 23v-6h.94l2.92 4.67V17h.77v6h-.8l-3.05-4.89V23z" fill="#fff" stroke-miterlimit="10" stroke-width=".2" stroke="#fff"></path>
+<path d="M78.14 31.75A4.25 4.25 0 1 0 82.41 36a4.19 4.19 0 0 0-4.27-4.25zm0 6.83a2.58 2.58 0 1 1 2.4-2.58 2.46 2.46 0 0 1-2.4 2.58zm-9.31-6.83A4.25 4.25 0 1 0 73.09 36a4.19 4.19 0 0 0-4.27-4.25zm0 6.83A2.58 2.58 0 1 1 71.22 36a2.46 2.46 0 0 1-2.4 2.58zm-11.09-5.52v1.8h4.32a3.77 3.77 0 0 1-1 2.27 4.42 4.42 0 0 1-3.33 1.32 4.8 4.8 0 0 1 0-9.6A4.6 4.6 0 0 1 61 30.14l1.27-1.27A6.29 6.29 0 0 0 57.74 27a6.61 6.61 0 1 0 0 13.21 6 6 0 0 0 4.61-1.85 6 6 0 0 0 1.56-4.22 5.87 5.87 0 0 0-.1-1.13zm45.31 1.4a4 4 0 0 0-3.64-2.71 4 4 0 0 0-4 4.25 4.16 4.16 0 0 0 4.22 4.25 4.23 4.23 0 0 0 3.54-1.88l-1.45-1a2.43 2.43 0 0 1-2.09 1.18 2.16 2.16 0 0 1-2.06-1.29l5.69-2.35zm-5.8 1.42a2.33 2.33 0 0 1 2.22-2.48 1.65 1.65 0 0 1 1.58.9zM92.63 40h1.87V27.5h-1.87zm-3.06-7.3h-.07a3 3 0 0 0-2.24-1 4.26 4.26 0 0 0 0 8.51 2.9 2.9 0 0 0 2.24-1h.06v.61c0 1.63-.87 2.5-2.27 2.5a2.35 2.35 0 0 1-2.14-1.51l-1.63.68A4.05 4.05 0 0 0 87.29 44c2.19 0 4-1.29 4-4.43V32h-1.72zm-2.14 5.88a2.59 2.59 0 0 1 0-5.16A2.4 2.4 0 0 1 89.7 36a2.38 2.38 0 0 1-2.28 2.58zm24.38-11.08h-4.47V40h1.87v-4.74h2.61a3.89 3.89 0 1 0 0-7.76zm0 6h-2.61v-4.26h2.65a2.14 2.14 0 1 1 0 4.29zm11.53-1.8a3.5 3.5 0 0 0-3.33 1.91l1.66.69a1.77 1.77 0 0 1 1.7-.92 1.8 1.8 0 0 1 2 1.61v.13a4.13 4.13 0 0 0-1.95-.48c-1.79 0-3.6 1-3.6 2.81a2.89 2.89 0 0 0 3.1 2.75 2.63 2.63 0 0 0 2.4-1.2h.06v1h1.8v-4.81c0-2.19-1.66-3.46-3.79-3.46zm-.23 6.85c-.61 0-1.46-.31-1.46-1.06 0-1 1.06-1.33 2-1.33a3.32 3.32 0 0 1 1.7.42 2.26 2.26 0 0 1-2.19 2zM133.74 32l-2.14 5.42h-.06L129.32 32h-2l3.33 7.58-1.9 4.21h1.95L135.82 32zm-16.81 8h1.87V27.5h-1.87z" fill="#fff"></path>
+<path d="M20.44 17.54a2 2 0 0 0-.46 1.4v22.12a2 2 0 0 0 .46 1.4l.07.07L32.9 30.15v-.29L20.51 17.47z" fill="url(#a)"></path>
+<path d="M37 34.28l-4.1-4.13v-.29l4.1-4.14.09.05L42 28.56c1.4.79 1.4 2.09 0 2.89l-4.89 2.78z" fill="url(#b)"></path>
+<path d="M37.12 34.22L32.9 30 20.44 42.46a1.63 1.63 0 0 0 2.08.06l14.61-8.3" fill="url(#c)"></path>
+<path d="M37.12 25.78l-14.61-8.3a1.63 1.63 0 0 0-2.08.06L32.9 30z" fill="url(#d)"></path>
+<path d="M37 34.13l-14.49 8.25a1.67 1.67 0 0 1-2 0l-.07.07.07.07a1.66 1.66 0 0 0 2 0l14.61-8.3z" opacity=".2"></path>
+<path d="M20.44 42.32a2 2 0 0 1-.46-1.4v.15a2 2 0 0 0 .46 1.4l.07-.07zM42 31.3l-5 2.83.09.09L42 31.44A1.75 1.75 0 0 0 43 30a1.86 1.86 0 0 1-1 1.3z" opacity=".12"></path>
+<path d="M22.51 17.62L42 28.7a1.86 1.86 0 0 1 1 1.3 1.75 1.75 0 0 0-1-1.44L22.51 17.48c-1.4-.79-2.54-.13-2.54 1.47v.15c.03-1.61 1.15-2.27 2.54-1.48z" fill="#fff" opacity=".25"></path>
+</svg>
 </a>
-<a href="https://www.instagram.com/vivino/" target="_blank">
-<i class="icon-instagram-circled"></i>
+</div>
+</div>
+</section>
+<footer class="footer__footer--2GIr-" role="contentinfo">
+<div class="footer__footerMenu--3LThT">
+<a class="footer__footerMenuLinks--3BoqH" href="/app" title="App">App</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/wine-news" title="Wine News">Wine News</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/about" title="About">About</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/contact" title="Contact">Contact</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/press" title="Press">Press</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/support" title="Support">Support</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/privacy" title="Privacy Policy">Privacy Policy</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/content" title="Content Policy">Content Policy</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/terms" title="Terms of Use">Terms of Use</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/merchants/signup" title="Merchants">Merchants</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/jobs" title="Jobs">Jobs</a>
+<a class="footer__footerMenuLinks--3BoqH" href="/sitemap" title="Sitemap">Sitemap</a>
+</div>
+<div class="footer__socialMedia--3NHkM">
+<a class="footer__socialMediaLinks--c6pyY footer__facebook--18Gw7" href="https://www.facebook.com/vivino" title="Facebook">
+<svg viewBox="0 0 64 64">
+<path d="M23.556 61.245V29.948H15.5V19.42h8.056v-7.122a11.949 11.949 0 0 1 3.339-6.58A12.394 12.394 0 0 1 33.534 2H46.81v10.297H40.29a3.403 3.403 0 0 0-2.097.813c-.43.5-.73 1.098-.873 1.742v4.567h9.492v10.858H37.32v30.968" fill="#fff"></path>
+</svg>
 </a>
-<a href="https://www.linkedin.com/company/vivino/" target="_blank">
-<i class="icon-linkedin-circled"></i>
+<a class="footer__socialMediaLinks--c6pyY footer__twitter--2bcL-" href="https://twitter.com/vivino" title="Twitter">
+<svg viewBox="0 0 64 64">
+<path d="M60.571 14.143a25.257 25.257 0 0 1-6.928 1.886 11.971 11.971 0 0 0 5.314-6.7 24.286 24.286 0 0 1-7.614 2.857 12.014 12.014 0 0 0-20.772 8.257c-.008.922.088 1.842.286 2.743A33.957 33.957 0 0 1 6.086 10.614 11.986 11.986 0 0 0 9.77 26.671a11.886 11.886 0 0 1-5.428-1.428v.128a12.071 12.071 0 0 0 9.628 11.8c-1.03.275-2.091.41-3.157.4a10 10 0 0 1-2.271-.214A12.129 12.129 0 0 0 19.77 45.73a24.143 24.143 0 0 1-14.914 5.085A21.1 21.1 0 0 1 2 50.643a33.843 33.843 0 0 0 18.429 5.4c22.1 0 34.185-18.314 34.185-34.186V20.3a24.043 24.043 0 0 0 5.957-6.157z" fill="#fff"></path>
+</svg>
+</a>
+<a class="footer__socialMediaLinks--c6pyY footer__instagram--r2eH9" href="https://www.instagram.com/vivino/" title="Instagram">
+<svg viewBox="0 0 24 24">
+<path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" fill="#fff"></path>
+</svg>
+</a>
+<a class="footer__socialMediaLinks--c6pyY footer__linkedin--HBjm8" href="https://www.linkedin.com/company/vivino/" title="LinkedIn">
+<svg viewBox="0 0 430.117 430.117">
+<path d="M430.117,261.543V420.56h-92.188V272.193c0-37.271-13.334-62.707-46.703-62.707   c-25.473,0-40.632,17.142-47.301,33.724c-2.432,5.928-3.058,14.179-3.058,22.477V420.56h-92.219c0,0,1.242-251.285,0-277.32h92.21   v39.309c-0.187,0.294-0.43,0.611-0.606,0.896h0.606v-0.896c12.251-18.869,34.13-45.824,83.102-45.824   C384.633,136.724,430.117,176.361,430.117,261.543z M52.183,9.558C20.635,9.558,0,30.251,0,57.463   c0,26.619,20.038,47.94,50.959,47.94h0.616c32.159,0,52.159-21.317,52.159-47.94C103.128,30.251,83.734,9.558,52.183,9.558z    M5.477,420.56h92.184v-277.32H5.477V420.56z" fill="#FFFFFF"></path>
+</svg>
 </a>
 </div>
-<div class="footer__main__copyright text-smaller">
-© Vivino 2017
-</div>
-</div>
-</div>
+<div class="footer__copyright--pjaze">© Vivino 2019</div>
 </footer>
-
-</div>
-<div aria-hidden="true" aria-labelledby="expert-ratings-title" data-item-type="expert-ratings-modal" class="modal fade" id="expert-ratings" tabindex="-1" role="dialog">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-header">
-<button aria-hidden="true" data-dismiss="modal" class="close" type="button">×</button>
-<h3 class="header-medium light modal-title" id="expert-ratings-title">About Expert Ratings</h3>
-</div>
-<div class="modal-body clearfix">
-<div class="col-xs-12 text-center">
-<p>As a Premium user you get unique insight into the opinions of some of the most prominent wine critics with new Expert Ratings. Robert Parker and Wine Enthusiast ratings are shown when available, along with the community ratings, so you can instantly get a complete overview.</p>
-<div class="whitespace clearfix"></div>
-<div class="col-xs-12 col-sm-8 col-sm-offset-2">
-<a class="btn btn-md btn-block btn-premium" href="/releases/premium">Learn more about Vivino Premium</a>
-</div>
-<div class="whitespace clearfix"></div>
-</div>
-<div class="row">
-<div class="col-sm-6 col-xs-12 expert-rating">
-<figure class="expert-picture robert-parker">
-<div class="image-inner"></div>
-</figure>
-<span class="text-block header-small bold">Robert Parker (RP)</span>
-<span class="text-muted text-small">The Wine Advocate</span>
-<div class="expert-description">
-<p class="text-small">The most influential and powerful wine critic in the world, Robert Parker gained recognition in the years following the first publication of The Wine Advocate. Today he has tasted a large part of the world's most expensive and prestigious wines and rated these on his 100 point wine-scoring scale.</p>
-<p class="text-small">The scale employs a 50-100 point quality scale ranging from unacceptable to extraordinary.</p>
-</div>
-<table class="expert-scale text-smaller">
-<tbody><tr>
-<td class="bold no-wrap">96-100:</td>
-<td>Extraordinary</td>
-</tr>
-<tr>
-<td class="bold no-wrap">90-95:</td>
-<td>Outstanding</td>
-</tr>
-<tr>
-<td class="bold no-wrap">80-89:</td>
-<td>Barely above average to very good</td>
-</tr>
-<tr>
-<td class="bold no-wrap">70-79:</td>
-<td>Average</td>
-</tr>
-<tr>
-<td class="bold no-wrap">60-69:</td>
-<td>Below average</td>
-</tr>
-<tr>
-<td class="bold no-wrap">50-59:</td>
-<td>Unacceptable</td>
-</tr>
-</tbody></table>
-</div>
-<div class="col-sm-6 col-xs-12 expert-rating">
-<figure class="expert-picture stephen-tanzer">
-<div class="image-inner"></div>
-</figure>
-<span class="text-block header-small bold">Stephen Tanzer (ST)</span>
-<span class="text-muted text-small text-block">&nbsp;</span>
-<div class="expert-description">
-<p class="text-small">Stephen Tanzer is a US-based, widely respected wine critic, editor and publisher of international Wine Cellar and wine columnist for Forbes, and Food &amp; Wine. Tanzer has a particular expertise on the wines of Burgundy, Piemonte, California, Washington State, South Africa and Bordeaux.</p>
-<p class="text-small">He employs a modern wine rating system on a 70-100 point quality scale.</p>
-</div>
-<table class="expert-scale text-smaller">
-<tbody><tr>
-<td class="bold no-wrap">95-100:</td>
-<td>Extraordinary</td>
-</tr>
-<tr>
-<td class="bold no-wrap">90-94:</td>
-<td>Outstanding</td>
-</tr>
-<tr>
-<td class="bold no-wrap">85-89:</td>
-<td>Very Good to Excellent</td>
-</tr>
-<tr>
-<td class="bold no-wrap">80-84:</td>
-<td>Good</td>
-</tr>
-<tr>
-<td class="bold no-wrap">75-79:</td>
-<td>Average</td>
-</tr>
-<tr>
-<td class="bold no-wrap">70-74:</td>
-<td>Below Average</td>
-</tr>
-<tr>
-<td class="bold no-wrap">&lt;70:</td>
-<td>Avoid</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-6 col-xs-12 expert-rating">
-<figure class="expert-picture wine-enthusiast">
-<div class="image-inner"></div>
-</figure>
-<span class="text-block header-small bold">Wine Enthusiast (WE)</span>
-<span class="text-muted text-small text-block">&nbsp;</span>
-<div class="expert-description">
-<p class="text-small">Founded in 1979, Wine Enthusiast is a magazine and website, that is now a world leading guide to the latest wine trends, wine ratings, education, food, travel, and everything needed to enjoy wine to the fullest. The magazine is published 14 times per year and has a readership of 800,000 consumers worldwide.</p>
-<p class="text-small">Wine Enthusiast's 100-point wine-scoring scale:</p>
-</div>
-<table class="expert-scale text-smaller">
-<tbody><tr>
-<td class="bold no-wrap">98-100:</td>
-<td>Classic</td>
-</tr>
-<tr>
-<td class="bold no-wrap">94-97:</td>
-<td>Superb</td>
-</tr>
-<tr>
-<td class="bold no-wrap">90-93:</td>
-<td>Excellent</td>
-</tr>
-<tr>
-<td class="bold no-wrap">87-89:</td>
-<td>Very good</td>
-</tr>
-<tr>
-<td class="bold no-wrap">83-86:</td>
-<td>Good</td>
-</tr>
-<tr>
-<td class="bold no-wrap">80-82:</td>
-<td>Acceptable</td>
-</tr>
-</tbody></table>
-</div>
-<div class="col-sm-6 col-xs-12 expert-rating">
-<figure class="expert-picture antonio-galloni">
-<div class="image-inner"></div>
-</figure>
-<span class="text-block header-small bold">Antonio Galloni (AG)</span>
-<span class="text-muted text-small text-block">&nbsp;</span>
-<div class="expert-description">
-<p class="text-small">Vinous' CEO and founder and one of the world's top wine critics. From 2006 to 2013 Galloni reviewed wines at Robert Parker;s The Wine Advocate, where he covered the wines of Italy, California, Burgundy and Champagne.</p>
-<p class="text-small">Antonio Galloni's 100-point wine-scoring scale:</p>
-</div>
-<table class="expert-scale text-smaller">
-<tbody><tr>
-<td class="bold no-wrap">96-100:</td>
-<td>Exceptional. A profound and emotionally moving wine that exemplifies the very best attributes of its kind. These are the world's great, iconic wines.</td>
-</tr>
-<tr>
-<td class="bold no-wrap">90-95:</td>
-<td>Outstanding. A wine of remarkable personality and breed that is well worth seeking out.</td>
-</tr>
-<tr>
-<td class="bold no-wrap">85-89:</td>
-<td>Excellent. A strong wine with true character that provides highly enjoyable drinking.</td>
-</tr>
-<tr>
-<td class="bold no-wrap">80-84:</td>
-<td>Average. A wine with no flaws, but no distinction.</td>
-</tr>
-<tr>
-<td class="bold no-wrap">75-79:</td>
-<td>Below Average. A wine with at least one noticeable flaw.</td>
-</tr>
-<tr>
-<td class="bold no-wrap">&lt;75:</td>
-<td>Not worth your time.</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-6 col-xs-12 expert-rating">
-<figure class="expert-picture james-halliday">
-<div class="image-inner"></div>
-</figure>
-<span class="text-block header-small bold">James Halliday (JH)</span>
-<span class="text-muted text-small text-block">&nbsp;</span>
-<div class="expert-description">
-<p class="text-small">James Halliday is an Australian wine writer and critic. During his nearly 40-year career of judging and tasting wines in Australia's most important wine competitions, J. Halliday has written more than 40 books on wine and is recognized as an authority of wine.</p>
-<p class="text-small">Halliday uses a 100-point wine-scoring system:</p>
-</div>
-<table class="expert-scale text-smaller">
-<tbody><tr>
-<td class="bold no-wrap">94-100:</td>
-<td>Outstanding</td>
-</tr>
-<tr>
-<td class="bold no-wrap">90-93:</td>
-<td>Highly recommended</td>
-</tr>
-<tr>
-<td class="bold no-wrap">87-89:</td>
-<td>Recommended</td>
-</tr>
-<tr>
-<td class="bold no-wrap">84-86:</td>
-<td>Far to good</td>
-</tr>
-<tr>
-<td class="bold no-wrap">80-83:</td>
-<td>An everyday wine</td>
-</tr>
-<tr>
-<td class="bold no-wrap">75-79</td>
-<td>Deficient</td>
-</tr>
-</tbody></table>
-</div>
-<div class="col-sm-6 col-xs-12 expert-rating">
-<figure class="expert-picture decanter">
-<div class="image-inner"></div>
-</figure>
-<span class="text-block header-small bold">Decanter (D)</span>
-<span class="text-muted text-small text-block">&nbsp;</span>
-<div class="expert-description">
-<p class="text-small">Decanter is a British high-end magazine on wine and spirits published on a monthly basis. It specializes in wine industry and vintage news, wine recommendations and reviews. Decanter organizes annual international wine competition 'The Decanter World Wine Awards'.</p>
-<p class="text-small">Decanter has a scoring scale based on a five-star system:</p>
-</div>
-<table class="expert-scale text-smaller">
-<tbody><tr>
-<td class="bold no-wrap">5 stars:</td>
-<td>Outstanding quality, virtually perfect example</td>
-</tr>
-<tr>
-<td class="bold no-wrap">4 stars:</td>
-<td>Highly recommended</td>
-</tr>
-<tr>
-<td class="bold no-wrap">3 stars:</td>
-<td>Recommended</td>
-</tr>
-<tr>
-<td class="bold no-wrap">2 stars:</td>
-<td>Quite good</td>
-</tr>
-<tr>
-<td class="bold no-wrap">1 star:</td>
-<td>Acceptable</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-6 col-xs-12 expert-rating">
-<figure class="expert-picture james-suckling">
-<div class="image-inner"></div>
-</figure>
-<span class="text-block header-small bold">James Suckling (JS)</span>
-<span class="text-muted text-small text-block">&nbsp;</span>
-<div class="expert-description">
-<p class="text-small">James Suckling - an American wine critic and journalist, who is internationally known as one of the world's most influential wine critics. J. Suckling was working for Wine Spectator before creating his own website (JamesSuckling.com) and is mainly known for his specialization in the wines of Italy and Bordeaux.</p>
-<p class="text-small">James Suckling's 100-point wine-scoring scale:</p>
-</div>
-<table class="expert-scale text-smaller">
-<tbody><tr>
-<td class="bold no-wrap">95-100:</td>
-<td>A 'must buy'</td>
-</tr>
-<tr>
-<td class="bold no-wrap">90-95:</td>
-<td>Outstanding</td>
-</tr>
-</tbody></table>
-</div>
-<div class="col-sm-6 col-xs-12 expert-rating">
-<figure class="expert-picture jancis-robinson">
-<div class="image-inner"></div>
-</figure>
-<span class="text-block header-small bold">Jancis Robinson (JR)</span>
-<span class="text-muted text-small text-block">&nbsp;</span>
-<div class="expert-description">
-<p class="text-small">Jancis Robinson - one of the world's leading wine journalists and critics, who writes daily for JancisRobinson.com and weekly for the Financial Times. J.Robinson is also a co-author of Wine Grapes, a complete guide to 1,368 vine varieties and an advisor for the wine cellar of Queen Elizabeth II.</p>
-<p class="text-small">Jancis Robinson's 20-point wine scoring scale:</p>
-</div>
-<table class="expert-scale text-smaller">
-<tbody><tr>
-<td class="bold no-wrap">20 -</td>
-<td>Truly exceptional</td>
-</tr>
-<tr>
-<td class="bold no-wrap">19 -</td>
-<td>A humdinger</td>
-</tr>
-<tr>
-<td class="bold no-wrap">18 -</td>
-<td>A cut above superior</td>
-</tr>
-<tr>
-<td class="bold no-wrap">17 -</td>
-<td>Superior</td>
-</tr>
-<tr>
-<td class="bold no-wrap">16 -</td>
-<td>Distinguished</td>
-</tr>
-<tr>
-<td class="bold no-wrap">15 -</td>
-<td>Average</td>
-</tr>
-<tr>
-<td class="bold no-wrap">14 -</td>
-<td>Deadly dull</td>
-</tr>
-<tr>
-<td class="bold no-wrap">13 -</td>
-<td>Borderline faulty or unbalanced</td>
-</tr>
-<tr>
-<td class="bold no-wrap">12 -</td>
-<td>Faulty or unbalanced</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-</div>
-<div class="modal-footer clearfix">
-<p class="text-smaller text-center">Vivino is not sponsored by, affiliated or associated with Robert Parker, Stephen Tanzer, Wine Enthusiast, Antonio Galloni, James Halliday, Decanter, James Suckling or Jancis Robinson.</p>
-</div>
-</div>
 </div>
 
 </div>
-<script src="https://assets.vivino.com/assets/application-b8fbbc05911a0d98819e1df47e5f053a.js" data-turbolinks-track="true"></script>
-<script src="https://assets.vivino.com/assets/vendor-7f8b6809cfff605e32371d8c378dbd7c.js" data-turbolinks-track="true"></script>
+<script src="https://www.vivino.com/packs/sentry-9fedd5f8e2d2a2267ee4.js"></script>
+<script>
+  window.__SENTRY_DSN__ = 'https://62eea5ac00304aea934f4e7ddf603b1f@sentry.io/163490';
+</script>
+
+</div>
+<script src="https://www.vivino.com/packs/runtime-8e4fa56d5a1cf62878e2.js"></script>
+<script src="https://www.vivino.com/packs/vendor-e17e9ac2568af5fbcc98.js"></script>
+<script src="https://www.vivino.com/packs/common-bf2776b4588040a84964.js"></script>
+<script src="https://www.vivino.com/packs/global-eac6c15566e44b1e0d6c.js"></script>
+<script src="https://www.vivino.com/packs/layout-b477153501fdc2f93800.js"></script>
+<script src="https://www.vivino.com/assets/application-24e5d596ebb142b1303a1231dd1392942e483e7f0c3c6be9f84f2ec9de04bbdf.js" data-turbolinks-track="true"></script>
+<script src="https://www.vivino.com/assets/vendor-6819a8c9bb1dd97c6e8b4ebd95ef959481221cd4ee71b68326d47f27add10b44.js" data-turbolinks-track="true"></script>
 <script>
 //<![CDATA[
-window._token = 'Lh+PBvks025fD9C0HG2hrbGTk/9Vf+tYEYYImOUewEQRxqGzvWLDWRXLSHan4ueZjiPOfb5vrvY1SdTvGTAypw=='
+window._token = 'E6PpGaIQ2SV1DQ1K5IX4hGA0ms5d9MIcHxChxBQBZ7P2L2PES1LXlABxXAospKzkqvmm4j4BTfyLieWVSGtU4g=='
 //]]>
 </script>
+
 <script>
-  var xhr;
-  var menuCollapseResizeHandler;
-  function checkMenuCollapse() {
-    if( findBootstrapEnvironment() === 'xs' ) {
-      return false;
+  (function() {
+    var category, i, len, ref;
+  
+    if (this.GoogleAnalyticsTracker) {
+      return;
     }
   
-    if( $('.top-navbar-container').height() > ( $('.left-nav').height() + 10 ) ) {
-      while( $('.top-navbar-container').height() > ( $('.left-nav').height() + 10 ) ) {
-        if( $( '#more-menu-dropdown' ).prev().length ) {
-          $( '#more-menu-dropdown' ).prev().addClass( 'moved-nav-item' ).prependTo( '#more-menu-dropdown ul' );
-        } else {
-          break;
+    this.GoogleAnalyticsTracker = {
+      categories: [
+        'FrontPage',
+        'Explorer',
+        'ExploreWidget',
+        'Search',
+        'VivinoCheckout',
+        'WinePage',
+        'Monetization',
+        'Market',
+        'Cart',
+        'MerchantDashboard',
+        'OutgoingClicks',
+        'AbTests',
+        'Misc',
+        'Navigation'
+      ],
+      // Based on environment
+      debug: false,
+      track_gaEvent: function(category, action, label, value, noninteraction) {
+        var gaArgs, noninteractionObj;
+        if (label == null) {
+          label = '';
         }
-      }
-    } else if( $( '#more-menu-dropdown ul li.moved-nav-item' ).length ) {
-      $( '#more-menu-dropdown ul li.moved-nav-item' ).eq( 0 ).insertBefore( '#more-menu-dropdown' ).removeClass( 'moved-nav-item' );
-      checkMenuCollapse();
-    }
-    updateSwipes();
-  }
-  
-  setTimeout(checkMenuCollapse, 0);
-  
-  $( window ).on( 'resize', function() {
-    clearTimeout( menuCollapseResizeHandler );
-    menuCollapseResizeHandler = setTimeout( checkMenuCollapse, 25);
-  });
-  
-  $('.navbar-nav a').hover( function() {
-    $( '.navbar-nav a' ).removeClass( 'active' );
-    if( !$( this ).data( 'expand' ) ) {
-      $( '.menu-expanded' ).stop(true,true).delay(250).slideUp('fast', function() {
-        $( this ).removeAttr( 'style' );
-      });
-    }
-  });
-  
-  $( '.navbar-nav a' ).filter( function() {
-    return $( this ).data( 'expand' );
-  }).hover( function() {
-    xhr && xhr.abort();
-    var currentItem = $( this );
-    if( !$( '.menu-expanded .menu-expanded-' + $( this ).data( 'expand' ) ).length ) {
-      xhr = $.get( {
-        url: '/menu',
-        format: 'js',
-        data: {
-          id: currentItem.data( 'expand' )
-        },
-        dataType: 'script',
-        complete: function() {
-          $( '.menu-expanded div[class*=menu-expanded-]' ).addClass( 'hide' );
-          if( !$( '.menu-expanded .menu-expanded-' + currentItem.data( 'expand' ) ).is(':empty') ) {
-            $( '.menu-expanded .menu-expanded-' + currentItem.data( 'expand' ) ).removeClass( 'hide' );
-            $( '.menu-expanded' ).stop(true, true).removeAttr( 'style' ).delay(500).slideDown('fast', function() {
-              initializeSwipes();
-              updateSwipes();
-            });
-          }
-          $( '.navbar-nav a' ).removeClass( 'active' );
-          currentItem.addClass( 'active' );
+        if (value == null) {
+          value = null;
         }
-      });
-    } else {
-      $( this ).addClass( 'active' );
-      if( !$( '.menu-expanded .menu-expanded-' + currentItem.data( 'expand' ) ).is(':empty') ) {
-        $( '.menu-expanded div[class*=menu-expanded-]' ).addClass( 'hide' );
-        $( '.menu-expanded .menu-expanded-' + currentItem.data( 'expand' ) ).removeClass( 'hide' );
-        $( '.menu-expanded' ).stop(true, true).delay(500).slideDown('fast', function() {
-          initializeSwipes();
-          updateSwipes();
-        });
-      } else {
-        $( '.menu-expanded' ).stop(true, true).delay(250).slideUp('fast', function() {
-          $( this ).removeAttr( 'style' );
+        noninteractionObj = noninteraction
+          ? {
+              nonInteraction: 1
+            }
+          : null;
+        gaArgs = ['vivinoTracker.send', 'event', category, action];
+        if (label) {
+          gaArgs.push(label.toString());
+        }
+        if (value) {
+          gaArgs.push(value);
+        }
+        if (noninteractionObj) {
+          gaArgs.push(noninteractionObj);
+        }
+        if (this.debug) {
+          console.log(
+            '[Development] Tracked ' +
+              (noninteraction ? '[non-interaction] ' : '') +
+              category +
+              ' event: "' +
+              action +
+              '", label: "' +
+              label +
+              '", value: ' +
+              value
+          );
+          return false;
+        }
+        return typeof ga !== 'undefined' && ga !== null
+          ? ga.apply(this, gaArgs)
+          : undefined;
+      },
+      track_nonInteractionEvent: function(category, action, label, value) {
+        if (label == null) {
+          label = '';
+        }
+        if (value == null) {
+          value = null;
+        }
+        return this.track_gaEvent(category, action, label, value, true);
+      },
+      track_pageview: function(url, opt) {
+        if (this.debug) {
+          console.log('[Development] Page tracked: ' + url);
+          return false;
+        }
+        return typeof ga === 'function'
+          ? ga('vivinoTracker.send', 'pageview', url, opt)
+          : undefined;
+      },
+      // Create specific functions to call for the defined categories
+      // It helps to track down what and where we track
+      addCategoryEventTrackMethod: function(category) {
+        return (GoogleAnalyticsTracker['track' + category + 'Event'] = function(
+          action,
+          label,
+          value,
+          noninteraction
+        ) {
+          return this.track_gaEvent(
+            category,
+            action,
+            label,
+            value,
+            noninteraction
+          );
         });
       }
-    }
-  }).mouseleave( function( e ) {
-    xhr && xhr.abort();
-    if(
-      $( e.toElement ).hasClass( 'menu-expanded' ) ||
-      $( e.toElement ).hasClass( 'navbar-collapse' ) ||
-      $( e.toElement ).data( 'expand' ) ||
-      $( e.toElement ).find( '>a' ).data( 'expand' ) ||
-      $( e.toElement ).closest( '.menu-expanded' )
-    ) {
-      // Stop expanded menu from appearing if mouse leaves navbar before completition
-      $( '.navbar' ).mouseleave( function() {
-        $( '.menu-expanded' ).stop(true,true).delay(250).slideUp('fast', function() {
-          $( this ).removeAttr( 'style' );
-        });
-        $( '.navbar-nav a' ).removeClass('active');
-      } );
-    } else {
-      $( '.menu-expanded' ).stop(true, true).delay(250).slideUp('fast', function() {
-        $( this ).removeAttr( 'style' );
-      });
-      $( this ).removeClass('active');
-    }
-  });
+    };
   
-  $( '.menu-expanded' ).mouseleave( function() {
-    $( this ).stop(true,true).delay(250).slideUp('fast', function() {
-      $( this ).removeAttr( 'style' );
-    });
-    $( '.navbar-nav a' ).removeClass('active');
-  });
-  
-  $('.navbar-collapse').on('show.bs.collapse', function () {
-    $( 'body' ).addClass( 'fixed' );
-    if( !$.trim($( '#latest-news-holder .last-two-popular-news' ).html()) ) {
-      $.get( {
-        url: '/menu/menu/get_latest_news',
-        dataType: 'script',
-        format: 'js'
-      });
+    ref = GoogleAnalyticsTracker.categories;
+    for (i = 0, len = ref.length; i < len; i++) {
+      category = ref[i];
+      GoogleAnalyticsTracker.addCategoryEventTrackMethod(category);
     }
-  });
-  
-  $('.navbar-collapse').on('hide.bs.collapse', function () {
-    $( 'body' ).removeClass( 'fixed' );
-  });
+  }.call(window));
 </script>
 
+<script src="https://www.googletagmanager.com/gtag/js?id=AW-965616812" async="async"></script>
+<script>
+  //Google AdWords Global Site tag
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+  gtag('config', window.gtagId);
+  //Bing UET Tag
+  (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"25000735"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+  //Yahoo Gemini Dot tag
+  (function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10053911'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");
+</script>
+<script>
+  window.csrfToken = "JZAxOyRNTxCs0jkcMFabiNXBfmBCW4N6rmiEywvBGzjAHLvmzQ9BodmuaFz4d8/oHwxCTCGuDJo68cCaV6soaQ==";
+</script>
 <script>
   // Facebook SDK
   window.fbAsyncInit = function() {
-    FB.init({ appId: "234884409929472", cookie: true, xfbml: true, version: 'v2.2' });
+    FB.init({ appId: "234884409929472", cookie: true, xfbml: true, version: 'v3.0' });
   };
-  (function(d){ var js, id = 'facebook-jssdk', ref =
-  d.getElementsByTagName('script')[0]; if (d.getElementById(id))
-  {return;} js = d.createElement('script'); js.id = id; js.async =
-  true; js.src = "//connect.facebook.net/en_US/sdk.js";
-  ref.parentNode.insertBefore(js, ref); }(document));
-  
-  // Google+
-  (function() {
-    var po = document.createElement('script');
-    po.type = 'text/javascript';
-    po.async = true;
-    po.src = 'https://apis.google.com/js/client:plusone.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(po, s);
-  })();
-  function signinCallback(authResult) {
-    if (authResult['access_token'] && (authResult['status']['method'] == 'PROMPT' || authResult['prompt'] == 'consent')) {
-      gapi.client.load('plus','v1', function(){
-        var request = gapi.client.plus.people.get({
-         'userId': 'me'
-        });
-        request.execute(function(resp) {
-          if (authResult['status']['signed_in']) {
-            var email = '';
-            var redirect_to = $( '.btn-gp' ).data( 'redirect-to' );
-            resp.emails.forEach(function(item) {
-              if(item['type'] == 'account') {
-                email = item['value'];
-              }
-            });
-            $.post( '/login/googleplus', {
-              external_user_id: resp.id,
-              access_token: authResult.access_token,
-              first_name: resp.name.givenName,
-              last_name: resp.name.familyName,
-              email: email,
-              redirect_to: redirect_to
-            });
-          }
-        });
-      });
-    }
-    return authResult;
-  }
-  
-  function disconnectUser(access_token) {
-    $.get({
-      url: 'https://accounts.google.com/o/oauth2/revoke?token=' + access_token,
-      async: false,
-      contentType: 'application/json',
-      dataType: 'jsonp'
-    });
-  }
-  
-  // Fetch Prices and bind tracking action
-  updatePriceAvailabilityFromMarkup();
-  bind_track_call_to_visit_shop_btn();
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Fetch Prices and bind tracking action
+    updatePriceAvailabilityFromMarkup();
+    bind_track_call_to_visit_shop_btn();
+  });
 </script>
 
 
