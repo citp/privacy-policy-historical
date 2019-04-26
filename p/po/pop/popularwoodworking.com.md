@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the popularwoodworking.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108093449id_/http%3A//www.fwmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularwoodworking.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426161743id_/https%3A//www.popularwoodworking.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy policy | F+W Media
+# Privacy Policy - F+W Media
 
-Privacy Policy
+[Click here to view our Terms of Use Policy, Updated December 15, 2017](https://www.fwcommunity.com/termsofuse)
 
 SUMMARY  
 This web site is owned by F+W Media, Inc. (“F+W”). At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
@@ -60,18 +60,35 @@ To determine how many users visit our site and to better understand the areas of
 Google Inc. http://www.google.com/intl/en/privacy.html  
 Omniture, Inc. http://www.omniture.com/privacy/product
 
+THIRD PARTY ADVERTISING TECHNOLOGIES  
+We use analytics tools and other third-party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services.
+
+REMARKETING  
+F+W Media, Inc. (“F+W”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
+
+The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
+
+Google has additional information available about their [Remarketing Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465?rd=3) and [Policies](http://support.google.com/adwords/answer/2549116?hl=en&from=178363&rd=1)
+
+OPT-OUT
+
+You may opt out of the DoubleClick cookie by visiting the Google [advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+DOUBLECLICK’S REMARKETING PIXELS  
+You may opt out of DoubleClick’s remarketing pixels, by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout)  or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
 INFORMATION ACCESS  
 Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
 
 You can access this information by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+Upon request, we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
 
 SECURITY  
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site, and we employ security features generally accepted in the industry to protect the security of transactions made on our site. Transactions are protected via Secure Sockets Layer (SSL) technology. We require customers to identify themselves via a unique username and password to access their personal information.
 
 CHANGES TO THIS POLICY  
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site. We will also provide you with the ability to opt out of these new uses.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our website. We will also provide you with the ability to opt out of these new uses.
 
 If you believe that this site is not following its stated information policy, you may contact us at the above address, the DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, or state or local chapters of the Better Business Bureau.
 
