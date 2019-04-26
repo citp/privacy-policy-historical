@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804005521id_/https%3A//www.eurojobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426194654id_/https%3A//www.eurojobs.com/privacy) for the most accurate reproduction.*
 
 # Eurojobs.com: Privacy
 
@@ -10,11 +10,15 @@ Eurojobs.com is vigilant about protecting your privacy. As a European job board,
 
 ### Privacy Statement
 
-This statement discloses the privacy practices for www.Eurojobs.com. We have designed Eurojobs.com so that no personal identifying information is displayed online or is accessible to the general public.
+This statement discloses the privacy practices for www.Eurojobs.com. We have designed Eurojobs.com so that no personal identifying information is displayed online or is accessible to the general public or recruiters.
 
 ### What Information We Gather/Track
 
-We do NOT collect and/or store any of the following information about our candidates: name, email address, or billing information, such as address, phone number and CV details. We do store contact details for recruiters for verification purposes only. As a free to use site, Eurojobs does not obtain or store credit card details.
+We store information candidates have entered about themselves, but only for their own use. 
+
+We store contact details for recruiters for verification purposes only.
+
+As a free to use site, Eurojobs does not obtain or store credit card details.
 
 We also receive and may store certain types of information whenever you interact with us. For example, we obtain certain types of information when your Web browser accesses Eurojobs.com. In order to tailor our subsequent communications to you and continuously improve our products and services, we may also ask you to provide us with information regarding your experience with our services. You will have the option of choosing not to provide us with this information.
 
@@ -22,13 +26,17 @@ We also receive and may store certain types of information whenever you interact
 
 Eurojobs.com uses your information to better understand your needs and provide you with a better service. Specifically, we use your information to communicate back to you, to update you on service and benefits and to personalize our website for you.
 
+We do not use personal data stored on the site for any purpose, whatsoever. The only personal information submitted to recruiters is the information you send when you are applying for jobs, so you control completely what is being sent.
+
+Candidates, as well as recruiters, are in full control over their own information stored on the site. You can edit and delete as much as you want or delete your records completely. You're in charge.
+
 ### Web Applications
 
 Certain online third party applications, such as the various elements we use on Eurojobs.com, store some cookies on your hard drive. The software employs proprietary technology to scan your computer system and retrieve information regarding your installed software and hardware. The information that is retrieved is used to provide the services you have chosen to use. In addition, unless you indicate you do not want this service, the information will be used to generate advertising that is appropriate for you. The information gathered by these applications is used only to generate output directed to you and is not aggregated or used for any other purpose. It is not stored along with any identifying information about you, nor is it sold, rented, or shared with any outside parties in any form whatsoever.
 
 ### Use of Your Email Address
 
-Eurojobs.com does not collect or store email addresses, nor do we engage in email marketing. We only send out email as a response to people contacting us. Eurojobs NEVER emails unsolicited job offers, requests for personal information or references. Any unsolicited email received claiming to come from Eurojobs.com will be spam and should be binned immediately. Eurojobs have installed SPF (Sender Policy Framework) which enables receiving email servers to identify incoming email as genuinely coming from Eurojobs.com. Any email that fails to be identified as genuine should be deleted immediately.
+Eurojobs.com does not collect or store email addresses for any other reason than communicating with you, and we do not engage in email marketing. We only send out email as a response to people contacting us. Eurojobs NEVER emails unsolicited job offers, requests for personal information or references. Any unsolicited email received claiming to come from Eurojobs.com will be spam and should be binned immediately. Eurojobs have installed SPF (Sender Policy Framework) which enables receiving email servers to identify incoming email as genuinely coming from Eurojobs.com. Any email that fails to be identified as genuine should be deleted immediately.
 
 ### Who We Share Data With
 
@@ -48,7 +56,7 @@ We respond to feedback sent to us. Feedback or questions will be answered as qui
 
 ### Correct/Update/Delete User Information
 
-Users (Companies) can update, correct, or delete their company information on Eurojobs.com through our login option on the site.
+Users (Candidates as well as companies) can update, correct, or delete their personal or company information on Eurojobs.com through our login option on the site.
 
 ### How Eurojobs.com uses cookies on its websites
 
@@ -109,9 +117,10 @@ If you have any queries regarding this Cookie Policy please contact our Privacy 
     
     Privacy Coordinator
     Eurojobs.com Ltd
-    Upton Fold
-    Bosley
-    Macclesfield SK11 0PX
+    Brook House
+    Bashurst Copse
+    Itchingfield
+    West Sussex RH13 0NZ
     United Kingdom
     Tel: +44 (0)20 3372 4781
     info@eurojobs.com
@@ -124,4 +133,4 @@ All information gathered on the Eurojobs.com site is stored and maintained in se
 
 If we change our privacy policy, we will post a notice on our site so our users are aware of the change in what information we collect, how we use it, and/or under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users through a message on the site. Users may choose to have their information used in accordance with the privacy policy under which the information was collected.
 
-This document was last updated on 10 March 2014.
+This document was last updated on 25 April 2018.
