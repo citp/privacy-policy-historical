@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fairygodboss.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222181621id_/https%3A//fairygodboss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairygodboss.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426045139id_/https%3A//fairygodboss.com/privacy-policy) for the most accurate reproduction.*
 
-# Jobs and company reviews for women | Fairygodboss
+# Privacy Policy | Fairygodboss
 
 ## Fairygodboss Privacy Policy
 
@@ -126,7 +126,7 @@ California Civil Code Section 1798.83 permits Members of the Sites who are Calif
 
 Fairygodboss Inc
 
-32 W 39th Street, 4th fl.
+15 W 38th Street, 5th fl.
 
 New York, NY 10018
 
