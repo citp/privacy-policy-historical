@@ -1,100 +1,125 @@
-> *The following text is extracted and transformed from the newslines.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newslines.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426150544id_/https%3A//newslines.org/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Newslines
 
-**Go Daddy Respects Your Privacy**
+The Social News Company Ltd., producer of Newslines, is committed to protecting and respecting your privacy in compliance with EU- General Data Protection Regulation (GDPR) 2016/679, dated April 27th 2016. This privacy statement explains how we collect personal information, how we use it, the conditions under which we may disclose it to others and how we keep it secure. This Privacy Statement applies to the use of our services and to our sales, marketing and customer contract fulfillment activities. It also applies to individuals seeking a job with us.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**When do we collect personal data about you?**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  * When you are using our services.
+  * When you interact with us in person, through correspondence, by phone, by social media, or through our websites.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Why do we collect and use personal data?**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect and use personal data mainly to perform customer service, sales and marketing. We also collect data about suppliers, partners and persons seeking employment with us.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may use your information for the following purposes:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  * Send you marketing communications which you have requested. These may include information about our products and services, events, activities.
+  * Send you information about the products and services that you have purchased from us.
+  * Perform direct sales activities in cases where legitimate and mutual interest is established.
+  * Provide you content and venue details for an event you signed up for.
+  * Reply to a ‘Contact me’ or other web forms you have completed on one of our websites.
+  * Follow up on incoming requests (customer support, emails, chats, or phone calls).
+  * Perform contractual obligations such as order confirmation, invoice, reminders, and similar. Notify you about any disruptions to our services (system messages).
+  * Process a job application.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Our legal basis for collecting personal data**
 
-**Security**
+Collecting personal data based on consents
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * The collection of personal data based on consent from the data subject will be done by using “Consent Forms” that will store documentation related to the consent given by the individual. Individual consents will always be stored and documented in our systems.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Collecting personal data based on contracts
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * We use personal information for fulfilling our obligations related to contracts and agreements with customers, partners and suppliers.
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+Collecting personal data based on legitimate interest
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * We may use personal data if it is considered to be of legitimate interest, and if the privacy interests of the data subjects do not override this interest. Normally, to establish the legal basis for data collection, an assessment has been made during which a mutual interest between us and the individual person has been identified. This legal basis is primarily related to our sales and marketing purposes. We will always inform individuals about their privacy rights and the purpose for collecting personal data.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**What type of personal data is collected?**
 
-**Third Party Service Providers**
+  * We collect name, phone number, title and email address and where relevant your company’s name and contact information. We may also collect feedback, comments and questions received from you in service-related communication and activities, such as meetings, phone calls, documents, and emails. From our voting websites we collect IP-address to ensure votes are individual and genuine.
+  * If you upload photos or videos, add posts or comments, etc. on any of our websites, the information can be read by anyone and used for purposes over which we have no control. Therefore The Social News Company Ltd. is not responsible for any of this type of information you submit to any of our websites.
+  * If you apply for a job with us, we collect the data you provide during the application process.
+  * We do not collect or process any special categories of personal data, such as public unique identifiers or sensitive personal data.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
+**How we secure, store, retain and delete your data**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  * We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored. We encrypt personal data provided to us via web forms using up to date standards to prevent others from intercepting the information in transit.
+  * We retain personal data only for as long as necessary to provide the services or interaction you have requested and thereafter for a variety of legitimate legal purposes. These might include retention periods: 
+    * mandated by law;
+    * for preserving, resolving, defending or enforcing our legal/contractual rights; or
+    * needed to maintain adequate and accurate business and financial records.
+  * When the personal data is no longer required we will delete it in a secure manner
+  * We may process data for statistical purposes, but in such cases, data will be anonymized.
 
-**Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Your right to control your personal data**
 
-**Tell-A-Friend**
+You have the following rights with respect to your personal data:
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+  * The right to request a copy of all the personal data that we hold about you.
+  * The right to request that we correct your personal data if inaccurate or out of date.
+  * The right to request that your personal data is deleted when it is no longer necessary to retain such data.
+  * The right to withdraw any consent to personal data processing at any time. For example, your consent to receive e-marketing communications: 
+    * If you want to withdraw your consent to e-marketing, please click on the ‘unsubscribe’ link.
+  * The right to request that we provide you with your personal data and, if possible, to pass on this information directly (in a portable format) to another data controller when the processing is based on consent or contract.
+  * The right to request a restriction on further data processing, in case there is a dispute in relation to the accuracy or processing of your personal data.
+  * The right to object to the processing of personal data, in case data processing has been based on legitimate interest and/or direct marketing.
 
-**What Happens to my Personal Information if I Opt Out?**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**Transfer of Data Abroad**
+**The use of Cookies**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We use cookie data and similar technologies to collect information on our web pages for a variety of purposes, such as to improve the design and content of our website.
 
-**Changes in Our Practices**
+**Sharing your personal data**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+  * We do not share, sell, rent, or trade your information with any third parties without your consent, except from what is described below:
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Third-party Service Providers working on our behalf:
 
-* * *
+  * We may pass your information on to our distributors, agents, sub-contractors (such as courier companies) and other associated organizations with the purpose of them providing services to you on our behalf.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+
+
+If required by law:
+
+  * We will disclose your personal information if required by law or if we, as a company, reasonably believe that disclosure is necessary to protect our company’s rights and/or to comply with a judicial proceeding, court order or legal process. However, we will do what we can to ensure that your privacy rights continue to be protected.
+
+
+
+If you have any questions, concerns, or complaints about our Privacy Policy you may contact our Data Protection Officer by email at info@newslines.org
+
+As an alternative, you may contact us by either of the following means:
+
+By Mail:
+
+  * Attn: Office of the Data Protection Officer, The Social News Company Ltd, 0/2 66 Main Street Uddingston, Glasgow, G71 7LR
+
+
+
+We will respond to all requests, enquiries or concerns within thirty (30) days.
+
+**Changes to our Privacy Statement**
+
+We may need to make changes to this Privacy Notice in the future (for example, to comply with new legal requirements).
+
+Where that is the case, we will provide a revised Privacy Notice that can be accessed on our website/s
