@@ -1,47 +1,136 @@
-> *The following text is extracted and transformed from the aba-liga.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614214907id_/http%3A//www.aba-liga.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aba-liga.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426121206id_/https%3A//www.aba-liga.com/files/2018-19/ABA_League_-_Privacy_Policy.pdf) for the most accurate reproduction.*
 
-# ABA League
+# Privacy Policy
 
-ABA league is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ABA league Web site and governs data collection and usage. By using the ABA league website, you consent to the data practices described in this statement.
+Privacy Policy
+In the Adriatic Basketball Association - ABA Liga j.t.d. (hereinafter: the Company or us) applies high
+standards of business governance and transparency, which imply the responsible, legal and ethical
+behavior including the respect for privacy and protection of personal data.
+Adhering to the above-mentioned standards, the Company as the controller collects and processes
+personal data in a lawful, fair and transparent manner in accordance with applicable regulations and by
+taking appropriate technical and organizational measures aimed at protecting the said data against
+unauthorized access and abuse.
+The Company is aware that the protection of personal data is important to our users and data subjects.
+Therefore, we want to show you what personal data we collect, how we handle it, and how we provide
+for its protection:
+The purpose, scope and legal basis of data processing
+Personal data is collected for special, explicit and legitimate purposes, in the necessary scope, and
+processed in a manner consistent with these purposes.
+The Company will collect and process personal data only in cases where it is permissible under
+regulations:
+                    When processing is necessary to comply with legal obligations;
+                    When the data subject has given consent for processing of their personal data;
+                    When processing is necessary for the performance of the contract in which the data
+                     subject is a party, or in order to take action at the request of the data subject before
+                     the contract is signed;
+                    When processing is necessary to protect the key interests of the data subject or other
+                     natural person;
+                    When processing is necessary for the legitimate interests of the Company or
+                     affiliated companies.
+ Collection and use of personal data
+Personal data is information that identifies you directly or indirectly, such as your name, e-mail address,
+telephone number, IP address, or postal address.
 
-Collection of your Personal Information
 
-ABA league collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. ABA league also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+The Company does not collect your personal data unless you submit such information explicitly (e.g.
+by making a product or service inquiry, entering a contract or requesting certain actions prior to entering
+a contract, joining a loyalty program, subscribing to an electronic newsletter, participating in surveys,
+competitions and      prize games, ordering samples or brochures, asking for donations, requesting
+information, submitting a resume or tendering an offer, or applying for vacancies, as well as taking
+employment in our Company).
+Your personal data is collected, stored, used, or transmitted to the extent — in terms of both content and
+time — needed in a particular case, such as answering your queries, meeting your requirements,
+informing you of our products, contest or prize game results; fulfilling a contractual obligation or
+performing a necessary action prior to entering a contract, or fulfilling our other statutory or legal
+obligations. For those purposes, the Company occasionally needs to transfer personal data to external
+service providers, for further processing. Service providers can, for example, be engaged in the context
+of call-center services, shipping, distribution of advertising material, or organizing and implementing
+prize games. The Company requests from these parties the adoption of valid legal regulations,
+compliance with our instructions, and compliance with our internal rules on the protection of personal
+data as well as the requirements for the application of adequate organizational and technical protection
+measures. For the same reasons, your personal information will sometimes have to be transferred to
+other EU or non-EU countries, in which case the Company will ensure that the transfer is in full
+compliance with the law and that all available and appropriate personal data protection measures are
+applied.
+The Company warrants that your personal data will not be sold to anyone. It will not forward or lend
+your personal data to a third party unless it is necessary to fulfill a certain purpose for which you have
+given us consent. It warrants that your data will not be given to any unauthorized recipient.
+Your personal data may be submitted to a competent institution or body of public authority if so required
+by law or other binding regulation.
+The collected data will be stored as long as necessary with regard to the purpose for which it was
+collected, or for the length of time that is in accordance with the applicable regulations.
+Use of personal data for advertising and marketing purposes
+When your personal data is used for advertising and marketing purposes in accordance with applicable
+legal regulations in the field of protection of personal data, your data will be stored and used for such
+purposes, such as sending newsletters, product samples, invitations to participate in competitions and
+prize games, via e-mail or regular mail or other communication channel you have accepted.
 
-There is also information about your computer hardware and software that is automatically collected by ABA league. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by ABA league for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the ABA league Web site.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through ABA league public message boards, this information may be collected and used by others. Note: ABA league does not read any of your private online communications.
+If your personal data is used for the purpose of sending advertisements and promotion materials
+customized to you individually, through creating and maintaining a user profile, you will be notified in
+advance, prior to our submitting such ads and promotions, and we will ask your special, explicit and
+informed consent for such processing beforehand.
+We will use your information as needed to analyze and improve the efficiency of our Internet services,
+advertising, marketing, market research and sales efforts, through surveys or other types of inquiries, or
+in a way that will ensure that your personal information is anonymous, that is, not able to be connected
+to your person.
+Exercise of the rights of data subjects
+You can ask us for information about your personal data we process at any time, as well as request a
+correction, the termination of use, or deletion. You can also revoke your consent for some or all purposes
+(except where this is not possible, e.g. when the processing is done for statistical purposes and the
+personal data no longer allow identification). You can also transfer data to another controller under legal
+conditions, or cancel the consent to receve our informative and promotional materials.
+You can also file a complaint about the use of your personal data in the situations in which we base the
+use on our legitimate interest, and certainly when we use it for purposes of direct marketing.
+On our part, we will take care that the personal data you have made available to us is properly recorded
+as far as possible and reasonable, but the responsibility for the accuracy of the said data is on you. We
+ask you to update it regularly and timely, or submit a request to us to change or correct it.
+To exercise all your rights and obligations regarding the use of personal data, you can contact the
+company via the e-mail address or Company headquarters address, both of which are available on our
+website, or via e-mail address or a contact channel provided on the promotional materials you have
+received from us.
+During the contact and the setting up of these requirements, we will make all reasonable efforts to
+confirm your identity and prevent unauthorized processing of personal data.
+Upon receipt of your request we will undertake the required activity within a reasonable period of time
+and within 30 days of receipt at the latest, and inform you as necessary, all in accordance with the law.
+Children
+As a rule, we do not collect data on children. If we find out that such information has been transferred
+to us without the consent of the child's parents or legal guardians, we will delete it as soon as feasible.
+In doing so, we will follow the guidelines we receive from you as a parent or legal guardian.
 
-ABA league encourages you to review the privacy statements of Web sites you choose to link to from ABA league so that you can understand how those Web sites collect, use and share your information. ABA league is not responsible for the privacy statements or other content on Web sites outside of the ABA league and ABA league family of Web sites.
 
-Use of your Personal Information
+However, if for some purpose we collect data on children at an age at which parental consent is required
+for processing of personal data in accordance with applicable laws, we will provide relevant information
+and apply reasonable measures to determine that the said children do indeed have consent of parents or
+legal guardians.
+Data security
+We have implemented the technical and organizational measures to prevent the loss of your data, its
+alteration, theft or access by unauthorized third parties, or any unauthorized processing. Access to your
+personal information is limited to those employees who need it in order to provide our services or process
+your request. We continually educate our employees on the importance of confidentiality of data,
+protection of privacy and protection of your data. We collect only the data necessary for a specific
+processing task and we do not keep it longer than necessary, or longer than determined by statutory
+regulations.
+On our website you will sometimes find links to other websites or portals, and we can also offer you the
+links to social networks that allow sharing of personal information on social networks. We cannot be
+responsible for the privacy policies of such portals and social networks or other third parties. Our
+recommendation is to familiarize yourself with those policies and measures, as they may differ from
+ours.
+Limitation of liability
+Whereas we take all available technical, organizational and personnel measures of protection of personal
+data against accidental or deliberate misuse, destruction, loss, unauthorized changes or access by third
+parties, we cannot guarantee that some of the personal data we collect will never be disclosed by
+accident, contrary to the provisions of this Privacy Policy.
+We exclude liability for damage caused to users or third parties by accidental disclosure of personal data
+to the maximum extent permitted by law.
+Since we do not have control over the personal data you submit when accessing or using other sites and
+portals, or the data submitted directly to third parties (e.g . when participating in sponsored activities),
+we exclude liability for damages that may arise to you or third parties from such submission of personal
+data.
 
-ABA league collects and uses your personal information to operate the ABA league Web site and deliver the services you have requested. ABA league also uses your personally identifiable information to inform you of other products or services available from ABA league and its affiliates. ABA league may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-ABA league does not sell, rent or lease its customer lists to third parties. ABA league may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, ABA league may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to ABA league, and they are required to maintain the confidentiality of your information.
-
-ABA league does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
-
-ABA league keeps track of the Web sites and pages our customers visit within ABA league, in order to determine what ABA league services are the most popular. This data is used to deliver customized content and advertising within ABA league to customers whose behavior indicates that they are interested in a particular subject area.
-
-ABA league Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on ABA league or the site; (b) protect and defend the rights or property of ABA league; and, (c) act under exigent circumstances to protect the personal safety of users of ABA league, or the public.
-
-Use of Cookies
-
-The ABA league Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize ABA league pages, or register with ABA league site or services, a cookie helps ABA league to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same ABA league Web site, the information you previously provided can be retrieved, so you can easily use the ABA league features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the ABA league services or Web sites you visit.
-
-Security of your Personal Information
-
-ABA league secures your personal information from unauthorized access, use or disclosure. ABA league secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Changes to this Statement
-
-ABA league will occasionally update this Statement of Privacy to reflect company and customer feedback. ABA league encourages you to periodically review this Statement to be informed of how ABA league is protecting your information.
-
-Contact Information
-
-ABA league welcomes your comments regarding this Statement of Privacy. If you believe that ABA league has not adhered to this Statement, please contact ABA league at [info@aba-liga.com](mailto:info@aba-liga.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Updates and changes
+We reserve the right to modify or update parts of this Policy at any time and without prior notice. Visit
+the site from time to time to get acquainted with changes or updates to the Policy. We will indicate the
+start date for implementation of the current version of the Policy.
+This Policy was last amended on May 24, 2018.
