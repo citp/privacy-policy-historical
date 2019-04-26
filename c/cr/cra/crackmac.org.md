@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crackmac.org privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217105837id_/http%3A//crackmac.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackmac.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426135343id_/https%3A//crackmac.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy for Crack Mac
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at http://crackmac.org/contact-us/. At crackmac.org we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by crackmac.org and how we use it.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at https://crackmac.org/contact-us/. At crackmac.org we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by crackmac.org and how we use it.
 
 ### Log Files
 
