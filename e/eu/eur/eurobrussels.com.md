@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229201240id_/https%3A//www.eurobrussels.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426185816id_/https%3A//www.eurobrussels.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | EuroBrussels
 
@@ -59,23 +59,23 @@ We may share your personal data with potential recruiters. Recruiters will have 
 
 Additionally, we may provide these potential recruiters with aggregated information (generic information on users of our services) about the performance of the Site such as the number of visitors, their country of residence, age, gender and language preferences.
 
-## 3.3 EuroJobsites aim to store candidate personal data in the EU
+## 3.3 EuroJobsites aim to store candidate personal data in the EU/EEA/UK
 
-Personal candidate information held by EuroJobsites is generally stored within the EU. Therefore EuroJobsites websites, servers running websites and databases are located within the EU. EuroJobsites Newsletter, Job Alerts, Job Application and CV database systems hold your personal data on databases and servers within the EU.
+Personal candidate information held by EuroJobsites is generally stored within the EU/EEA/UK. Therefore EuroJobsites websites, servers running websites and databases are located within the EU/EEA/UK. EuroJobsites Newsletter, Job Alerts, Job Application and CV database systems hold your personal data on databases and servers within the EU/EEA/UK.
 
-## 3.4 Service providers not located in the EU
+## 3.4 Service providers not located in the EU/EEA/UK
 
-For a few services, mainly for handling client, sales and analytics information, EuroJobsites use US companies which may process your information outside the EU.   
+For a few services, mainly for handling client, sales and analytics information, EuroJobsites use US companies which may process your information outside the EU/EEA/UK.   
 If you send emails to EuroJobsites this is read and managed using a system provided by a US based supplier. EuroJobsites may also store some personal data in Google Analytics, Google Docs, Google Drive or Dropbox, which are US based suppliers.  
-These service providers all participate in and certify their compliance with the EU-US Privacy Shield Framework, which means these Suppliers undertake to make sure that the privacy rights of EU individuals can be exercised when their data are being processed in the United States including safeguards on US government access to data.
+These service providers all participate in and certify their compliance with the EU-US Privacy Shield Framework, which means these Suppliers undertake to make sure that the privacy rights of EU/EEA/UK individuals can be exercised when their data are being processed in the United States including safeguards on US government access to data.
 
-## 3.5 Recruiters from outside the EU may advertise jobs
+## 3.5 Recruiters from outside the EU/EEA/UK may advertise jobs
 
-Some recruiters advertising jobs on our websites or emails may have some operations outside of the EU. Therefore if you apply for a job some of your personal data may leave the EU, even if the job is located inside the EU. Please consult the recruiter’s privacy policy for more details before applying.
+Some recruiters advertising jobs on our websites or emails may have some operations outside of the EU/EEA/UK. Therefore if you apply for a job some of your personal data may leave the EU/EEA/UK, even if the job is located inside the EU/EEA/UK. Please consult the recruiter’s privacy policy for more details before applying.
 
-## 3.6 Recruiters from outside the EU may use the CV database
+## 3.6 Recruiters from outside the EU/EEA/UK may use the CV database
 
-If you upload your personal details to the CV database your data may be viewed and your CV downloaded by a recruiter outside the EU.
+If you upload your personal details to the CV database your data may be viewed and your CV downloaded by a recruiter outside the EU/EEA/UK.
 
 ## 3.7 Third parties suppliers and subcontractors
 
@@ -91,11 +91,11 @@ If you apply for a job, your application including a CV or other personal inform
 
 ## 4.3 Updating or removing your CV database information
 
-You can login and update your CV database registration at any time. If you do not login within 27 months EuroJobsites automatically remove your CV from our database. To be completely removed from the system before this please email dataprotection@eurojobsites.com with subject “Remove me from the CV database”.
+You can login and update or remove your CV and details at any time. [Click here to login to the CV database](https://eurobrussels.com/cv). If you do not login or indicate you wish to continue within 27 months we automatically delete your CV from our system and remove your candidate profile from our database. If you have forgotten your password you can request a new one from the above link.
 
 ## 4.4 Your rights as a data subject
 
-Under UK and EU data protection law, you have certain rights over the personal information that we hold about you. Here is a summary of the rights that usually apply:  
+Under EU and UK data protection law, you have certain rights over the personal information that we hold about you. Here is a summary of the rights that usually apply:  
 You have the right to request access to the personal data that we hold about you.  
 You have the right to have inaccurate or incomplete information we hold about you corrected.  
 You have the right to ask us to delete some or all of your personal information.  
@@ -155,4 +155,4 @@ If you have any queries, concerns or amendments please contact us at dataprotect
 
 Any changes we may make to this policy in the future will be posted on this website so please check this page occasionally to ensure that you’re happy with any changes. If we make any significant changes we’ll make this clear on this website.
 
-This Privacy Policy Summary was updated on 29th June 2018.
+This Privacy Policy Summary was updated on 6th February 2019.
