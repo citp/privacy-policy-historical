@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakingbites.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225000251id_/http%3A//bakingbites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakingbites.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426085213id_/http%3A//bakingbites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baking Bites
 
