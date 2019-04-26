@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008172643id_/https%3A//www.interactivebrokers.com/en/index.php%3Ff%3D305) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427013815id_/https%3A//www.interactivebrokers.com/en/index.php%3Ff%3D305) for the most accurate reproduction.*
 
 # Privacy Policy | Interactive Brokers
 
@@ -88,15 +88,15 @@ If you provide Personal Information to us about someone else (such as one of you
 
 To the extent required by law, we will take appropriate technical and organizational measures to keep your Personal Information confidential and secure in accordance with our internal procedures covering the storage, disclosure of and access to Personal Information. Personal Information may be kept on our Information Technology systems, those of our contractors or in paper files.
 
-**Transferring your Personal Information outside the EEA (if GDPR applies)**
+**Transferring your Personal Information outside the European Economic Area ("EEA")  (if GDPR applies)**
 
-For Personal Information subject to the General Data Protection Regulation (EU) 2016/679 (“GDPR”) we may transfer your Personal Information outside the EEA for the Permitted Purposes as described above. This may include countries that do not provide the same level of protection as the laws of your home country (for example, the laws within the EEA or the United States). We will ensure that any such international transfers are made subject to appropriate or suitable safeguards if required by the GDPR or other relevant laws. You may contact us at any time using the contact details below if you would like further information on such safeguards.
+For Personal Information subject to the General Data Protection Regulation (EU) 2016/679 ("GDPR") we may transfer your Personal Information outside the EEA for the Permitted Purposes as described above. This may include countries that do not provide the same level of protection as the laws of your home country (for example, the laws within the EEA or the United States). We will ensure that any such international transfers are made subject to appropriate or suitable safeguards if required by the GDPR or other relevant laws. You may contact us at any time using the contact details below if you would like further information on such safeguards.
 
-With respect to persons covered by GDPR, in case Personal Information is transferred to countries or territories outside of the European Economic Area (“EEA”) that are not recognized by the European Commission as offering an adequate level of data protection, we have put in place appropriate data transfer mechanisms to ensure Personal Information is protected. 
+With respect to persons covered by GDPR, in case Personal Information is transferred to countries or territories outside of the EEA that are not recognized by the European Commission as offering an adequate level of data protection, we have put in place appropriate data transfer mechanisms to ensure Personal Information is protected. 
 
 **Updating your Personal Information**
 
-If any of the Personal Information that you have provided to us changes, for example if you change your email address or if you wish to cancel any request that you have made of us, please let us know by contacting IBKR Customer Service through the IBKR website at [interactivebrokers.com/help](https://web.archive.org/help/index.php). We will not be responsible for any losses arising from any inaccurate, inauthentic, deficient or incomplete Personal Information that you provide to us.
+If any of the Personal Information that you have provided to us changes, for example if you change your email address or if you wish to cancel any request that you have made of us, please let us know by contacting IBKR Customer Service through the IBKR website at [interactivebrokers.com/help](https://web.archive.org/en/index.php?f=1560). We will not be responsible for any losses arising from any inaccurate, inauthentic, deficient or incomplete Personal Information that you provide to us.
 
 **How long do we retain your Personal Information?**
 
@@ -104,9 +104,7 @@ We retain your Personal Information in an identifiable form in accordance with o
 
 **Further rights for persons or information covered by GDPR**
 
-With respect to EEA residents and where your Personal Information is processed by an IBKR Entity established in the EEA (“Covered Individuals”). 
-
-If you are a Covered Individual you have a number of legal rights under GDPR in relation to the Personal Information that we hold about you. These rights include:
+With respect to EEA residents and where your Personal Information is processed by an IBKR Entity established in the EEA ("Covered Individuals"), you have a number of legal rights under GDPR in relation to the Personal Information that we hold about you. These rights include:
 
   * Obtaining information regarding the processing of your personal information and access to the personal information that we hold about you. Please note that there may be circumstances in which we are entitled to refuse requests for access to copies of personal information, (in particular, information that is subject to legal professional privilege);
   * Requesting that we correct your personal information if it is inaccurate or incomplete; 
@@ -128,4 +126,4 @@ This Privacy Policy was last updated on 17 May 2018. We reserve the right to upd
 
 **How to contact us**
 
-We welcome your views about our website and our Privacy Policy. If you have any questions about this Policy, please contact the Data Protection Office at [dpo@interactivebrokers.co.uk](mailto:dpo@interactivebrokers.co.uk) or please contact IB Customer Service through the IB website at [interactivebrokers.com/help](https://web.archive.org/help/index.php).
+We welcome your views about our website and our Privacy Policy. If you have any questions about this Policy, please contact the Data Protection Office at [dpo@interactivebrokers.co.uk](mailto:dpo@interactivebrokers.co.uk) or please contact IB Customer Service through the IB website at [interactivebrokers.com/help](https://web.archive.org/en/index.php?f=1560).
