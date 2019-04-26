@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reallycolor.com privacy policy that was archived on 2017-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170318170418id_/https%3A//www.reallycolor.com/about/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reallycolor.com privacy policy that was archived on 2019-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190426082448id_/https%3A//www.reallycolor.com/about/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -207,121 +207,6 @@
 <h2>11. DON'T FORGET TO HAVE FUN</h2>
 <p>Wow, now THAT was a lot of legalese. In the end, the whole point of ReallyColor is to have fun, so, this Privacy Agreement also requires you to do that. Please have fun using the ReallyColor service!</p>
 </div>
-	<!-- begin change email modal -->
-	<div class="modal fade" id="changeEmailModal" tabindex="-1" role="dialog" aria-labelledby="changeEmailModalLabel" aria-hidden="true">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-					<h4 class="modal-title" id="changeEmailModalLabel">Change Email</h4>
-				</div>
-				<div class="modal-body">
-					<form class="" action="actions/x_change_email.php?return=index.php" method="post">
-						<div class="form-group">
-							<label for="changeEmail">Current Email:</label>
-														<input type="email" class="form-control changeEmail" name="changeEmail" id="changeEmail" value="" placeholder="" required="" disabled="">
-						</div>
-						<div class="form-group">
-							<label for="newEmail">NEW Email:</label>
-							<input type="email" class="form-control newEmail" name="newEmail" id="newEmail" value="" placeholder="" required="">
-							<p id="changeEmailAlert" class="label label-warning" style=""></p>
-						</div>
-						<div class="form-group">
-							<label for="newEmailAgain">NEW Email Again:</label>
-							<input type="email" class="form-control newEmailAgain" name="newEmailAgain" id="newEmailAgain" value="" placeholder="" required="">
-							<!-- fields for security only accepting posts from this site/form -->
-							
-							<!-- honey top  -->
-							<input name="passhoneytop" type="text" id="passhoneytop" class="honeytop">
-						</div>
-						<div class="form-group">
-							<!--recaptcha-->
-							<div id="captcha_container"></div>
-							<script src="https://www.google.com/recaptcha/api.js?onload=loadCaptcha&amp;render=explicit" async="" defer=""></script>
-						</div>
-						<button type="submit" class="btn btn-cta" id="changeEmailSubmit" disabled="">Change Email</button>
-						<p class="help-pass-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After you click the button, your email address will be changed to the new email address.</p>
-						<span class="help-pass label"></span>
-					</form>	
-				</div>
-				<div class="modal-footer"></div>
-			</div>
-		</div>
-	</div>	<!-- ./end forgot password reset modal -->
-<script type="text/javascript">
-	function validateChangeEmail(email){
-		var chgEmail = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
-		return chgEmail.test(email);
-	};
-
-	//function to check Email availability and compare two emails
-	$(function() {
-		$('#newEmail').blur(function() {
-			$('#changeEmailAlert').removeClass("label-success");
-			$('#changeEmailAlert').removeClass("label-warning");
-			$('#changeEmailAlert').removeClass("label-danger");
-
-			var newEmail = $.trim($(this).val());
-			if (newEmail == '') return;
-				
-			if (validateChangeEmail(newEmail)) {
-
-				$.ajax({
-					type: "POST",
-					url: "ajax/aj_check_email.php",
-					data: $.param({'regEmail': newEmail}),
-					cache: false,
-					success: function(result){
-						var result = $.trim(result);
-						if(result!='good'){ //this email exists in database - need to pick new email
-							$('#changeEmailAlert').addClass('label-danger');
-							$('#changeEmailAlert').html('This email is already registered. Please try again.');
-																
-						} else { //email does not exist in the database, newEmail is good to go!
-							$('#changeEmailAlert').html('Email address is good, please verify the address by typing it again below.');
-							$('#changeEmailAlert').addClass("label-success");
-						}
-					}
-				});
-			}else{
-				$('#changeEmailAlert').html('Please enter a valid email address');
-				$('#changeEmailAlert').addClass("label-warning");
-			}
-		});
-	});
-
-	//function to confirm the new email and verify email match - if so, enable the submit button
-	$(function() {
-		$('#newEmailAgain').blur(function() {
-			$('#changeEmailAlert').removeClass("label-success");
-			$('#changeEmailAlert').removeClass("label-warning");
-			$('#changeEmailAlert').removeClass("label-danger");
-
-			var newEmail = $.trim($('#newEmail').val());
-			var newEmailAgain = $.trim($(this).val());
-			console.log(newEmail);
-			console.log(newEmailAgain);
-
-			//if (newEmailAgain == '') return;
-			//if (newEmail == '') return;
-			
-			if (newEmail != newEmailAgain) {
-				$('#changeEmailAlert').addClass('label-danger');
-				$('#changeEmailAlert').html('The verify email does not match the NEW email. Please try again.');
-			} else {
-				$('#changeEmailSubmit').prop('disabled', false);
-				
-			};
-			
-			
-		});
-	});
-	
-	
-	
-
-
-</script>
 
  <!-- BEGIN FOOTER -->
    <div class="row footer">
@@ -373,6 +258,9 @@
                   <a href="/about/privacy-policy.php">Privacy Policy</a>
                 </li>
               </ul>
+<br style="clear: both;">
+                <div style="font-style: italic;" class="nav navbar-nav navbar-right tertiary pull-right text-right">U.S. Pat. 9,569,857 9,602,835</div>
+
          </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
       </nav>
@@ -696,7 +584,7 @@
 
   ga('create', 'UA-37878162-2', 'auto');
   ga('send', 'pageview');
-  
+
 
 </script>
 
