@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myartguides.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124172038id_/https%3A//www.iubenda.com/privacy-policy/196548/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myartguides.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426170025id_/https%3A//www.iubenda.com/privacy-policy/196548/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of myartguides.com
 
@@ -10,7 +10,7 @@ Light Box S.n.c. di Mara Sartore & C.
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: email address, first name, last name, Cookies, phone number, profession, country, gender, city, VAT Number, company name, address, state, province, ZIP/Postal code, Tax ID, Usage Data, geographic position, date of birth, username, password, picture and workplace. 
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: email address; first name; last name; Cookies; phone number; profession; country; gender; city; VAT Number; company name; address; state; province; ZIP/Postal code; Tax ID; Usage Data; geographic position; date of birth; username; password; picture; workplace. 
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.  
@@ -109,7 +109,7 @@ These services are not activated automatically, but require explicit authorizati
 
 This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
 
-Permissions asked: Access private data, Current City and Email. 
+Permissions asked: Access private data; Current City; Email. 
 
 Place of processing: US – [Privacy Policy](https://www.facebook.com/policy.php). 
 
@@ -138,7 +138,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). 
 
@@ -146,7 +146,7 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on this Application.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant. 
 
@@ -156,13 +156,13 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
 
-Personal Data collected: city, Cookies, country, email address, first name, gender, last name, phone number and profession. 
+Personal Data collected: city; Cookies; country; email address; first name; gender; last name; phone number; profession. 
 
 #### Contact form (This Application)
 
 By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
-Personal Data collected: address, city, company name, country, email address, first name, gender, last name, phone number, profession, province, state, Tax ID, VAT Number and ZIP/Postal code. 
+Personal Data collected: address; city; company name; country; email address; first name; gender; last name; phone number; profession; province; state; Tax ID; VAT Number; ZIP/Postal code. 
 
   * ### Content performance and features testing (A/B testing)
 
@@ -173,7 +173,7 @@ The services contained in this section allow the Owner to track and analyze the 
 Google Website Optimizer is an A/B testing service provided by Google Inc.  
 Google may use Personal Data to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/). 
 
@@ -186,7 +186,7 @@ This type of service might still collect web traffic data for the pages where th
 
 Instagram is an image visualization service provided by Instagram, Inc. that allows this Application to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.instagram.com/about/legal/privacy/). 
 
@@ -204,15 +204,16 @@ Place of processing: US – [Privacy Policy](https://www.digitalocean.com/legal/
 
   * ### Interaction with external social networks and platforms
 
-This type of services allow interaction with social networks or other external platforms directly from the pages of this Application.  
+This type of service allows interaction with social networks or other external platforms directly from the pages of this Application.  
 The interaction and information obtained through this Application are always subject to the User’s privacy settings for each social network.  
-This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
+This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.  
+It is recommended to log out from the respective services in order to make sure that the processed data on this Application isn’t being connected back to the User’s profile.
 
 #### Google+ +1 button and social widgets (Google Inc.)
 
 The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/). 
 
@@ -220,7 +221,7 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/policie
 
 The Tumblr sharing button and social widgets are services allowing interaction with the Tumblr social network provided by Tumblr Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.tumblr.com/policy/en/privacy). 
 
@@ -228,7 +229,7 @@ Place of processing: US – [Privacy Policy](https://www.tumblr.com/policy/en/pr
 
 The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation). 
 
@@ -236,7 +237,7 @@ Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/ex
 
 The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://twitter.com/privacy). 
 
@@ -255,13 +256,13 @@ Personal Data collected: geographic position.
 This type of services makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
 These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
 
-#### MailChimp (The Rocket Science Group, LLC.)
+#### Mailchimp (The Rocket Science Group, LLC.)
 
-MailChimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
+Mailchimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
 
 Personal Data collected: email address. 
 
-Place of processing: US – [Privacy Policy](https://mailchimp.com/legal/privacy/). 
+Place of processing: US – [Privacy Policy](https://mailchimp.com/legal/privacy/). Privacy Shield participant. 
 
   * ### Registration and authentication
 
@@ -296,7 +297,7 @@ Place of processing: US – [Privacy Policy](https://www.linkedin.com/legal/priv
 
 The User registers by filling out the registration form and providing the Personal Data directly to this Application.
 
-Personal Data collected: address, city, company name, country, date of birth, email address, first name, gender, last name, password, phone number, picture, profession, province, state, Tax ID, username, VAT Number, workplace and ZIP/Postal code. 
+Personal Data collected: address; city; company name; country; date of birth; email address; first name; gender; last name; password; phone number; picture; profession; province; state; Tax ID; username; VAT Number; workplace; ZIP/Postal code. 
 
 #### Instagram Authentication (Instagram, Inc.)
 
@@ -317,7 +318,7 @@ Considering the widespread distribution of this system, it is difficult to deter
 Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.  
 The way Cloudflare is integrated means that it filters all the traffic through this Application, i.e., communication between this Application and the User's browser, while also allowing analytical data from this Application to be collected.
 
-Personal Data collected: Cookies and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Cookies; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: US – [Privacy Policy](https://www.cloudflare.com/security-policy/). 
 
