@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the speechanddebate.org privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305194248id_/https%3A//www.speechanddebate.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speechanddebate.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426183351id_/https%3A//www.speechanddebate.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Speech & Debate Association
 
-_Last modified: February 23, 2017_
+_Last modified: May 30, 2018_
 
 ## Introduction
 
@@ -102,7 +102,7 @@ We use information that we collect about you or that you provide to us, includin
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
 
-We may disclose personal information that we collect or you provide as described in this privacy policy:
+We may disclose aggregated personal information that we collect or you provide as described in this privacy policy:
 
   * To our subsidiaries and affiliates. 
   * To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them. 
@@ -120,6 +120,10 @@ We may also disclose your personal information:
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of National Speech & Debate Association, our customers, or others.
 
 
+
+## Deleting Your Data
+
+If you would like to delete your personal information, you can do so by contacting us via the website.
 
 ## Data Security
 
@@ -144,5 +148,4 @@ National Speech & Debate Association
 West Des Moines, IA 50265-4730
 
 Email: [info@speechanddebate.org](mailto:info@speechanddebate.org)  
-Phone: (920) 748-6206  
-Fax: (920) 748-9478
+Phone: (920) 748-6206
