@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalnavy.mod.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230160035id_/https%3A//www.royalnavy.mod.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalnavy.mod.uk privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426235042id_/https%3A//www.royalnavy.mod.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Royal Navy
 
@@ -21,7 +21,7 @@ It includes:
   3. [The identity and contact details of MOD Data Controller and Data Protection Officer](https://www.gov.uk/government/publications/ministry-of-defence-privacy-notice/mod-privacy-notice#the-identity-and-contact-details-of-mod-data-controller-and-data-protection-officer)
   4. [The kind of information we hold about you](https://www.gov.uk/government/publications/ministry-of-defence-privacy-notice/mod-privacy-notice#the-kind-of-information-we-hold-about-you)
   5. [How we collect or process your data](https://www.gov.uk/government/publications/ministry-of-defence-privacy-notice/mod-privacy-notice#how-we-collect-or-process-your-data)
-  6. [Our legal basis for processing your personal data](https://web.archive.org/web/20181230160035id_/https%3A//www.royalnavy.mod.uk/6.Our%20legal%20basis%20for%20processing%20your%20personal%20data)
+  6. [Our legal basis for processing your personal data](https://web.archive.org/web/20190426235042id_/https%3A//www.royalnavy.mod.uk/6.Our%20legal%20basis%20for%20processing%20your%20personal%20data)
   7. [Why are we collecting or processing your data](https://www.gov.uk/government/publications/ministry-of-defence-privacy-notice/mod-privacy-notice#why-are-we-collecting-or-processing-your-data)
   8. [If you fail to provide personal information](https://www.gov.uk/government/publications/ministry-of-defence-privacy-notice/mod-privacy-notice#if-you-fail-to-provide-personal-information)
   9. [Change of purpose](https://www.gov.uk/government/publications/ministry-of-defence-privacy-notice/mod-privacy-notice#change-of-purpose)
