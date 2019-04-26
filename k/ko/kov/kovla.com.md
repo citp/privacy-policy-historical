@@ -1,141 +1,164 @@
-> *The following text is extracted and transformed from the kovla.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603035504id_/http%3A//kovla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kovla.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426115941id_/https%3A//kovla.com/privacy) for the most accurate reproduction.*
 
-# Privacy- Kovla.com
+# Privacy Policy - Kovla.com
 
-**Privacy**
+#### When you visit any website, you automatically provide some of your personal details to the website’s owners. Therefore, each company that operates online has its own privacy policy, having read which the clients can get acquainted with their rights and obligations.
 
-The content of this policy as well as all claims and disagreements that may arise from it (this also includes any aspects that have not been included as part of the contract) is subject to the laws of England. Should any incongruity be found between this original version of the policy plan that is in English and other versions translated into other languages, this version will take precedence.
+Our website as well has its privacy policy. Read it carefully before you start to use our internet platform in order to experience our services comfortably. Whatever questions you have, do not hesitate to contact us.
 
-**Who we are**
+If you read our Privacy Policy, you will find out that we use personal information you provide us, when you enter our website or register on it, only for an amelioration of our services. The term “you” as used herein refers to all individuals and/or entities accessing the website for any reason. By continuing to use the website, you are indicating your acceptance to be bound by the terms and conditions of this Private Policy between you and our website. If you do not accept the Private Policy stated here, our website is not willing to allow you to use the website and you should immediately stop using it. You must be at least 18 years of age to use the website. If you are not at least 18 years old, you should immediately stop using the website. It is your responsibility to review this Agreement periodically. We reserves the right to modify this Private Policy from time to time without notice and in its sole discretion at any time by updating this web page, and your continued use of the website after any modifications by us shall constitute your acceptance of such modifications.
 
-Kovla is operated by Kovla.com Limited, a company registered in Cyprus.
+Using our website, you can be sure that your personal information will never be transmitted to third parties or used to deceive you or to harm you. If we need to disclose some of your personal information, it will only be made by your prior consent.
 
-Kovla is well aware of your immense and genuine unease regarding how others use your private information as you participate on social sites.  This policy was formulated to address this concern. In here, you know how your private details are stored and utilized. 
+Management of your personal information.
 
-As you visit and interact with the Kovla site (URL: [www.Kovla.com](http://www.kovla.com/)) which will henceforth be referred to as “Koyla”, this policy will be applicable. We encourage you to peruse it alongside the Privacy Policy because it our assumption that by accessing Kovla, you are in agreement with all its contents. This includes terms on collect, keep, utilize and divulge your private information.
+##### I. Notice
 
-Any changes and alterations to this Policy remain at the discretion of Kovla and may be made at any time and the company is under no obligation to notify users prior to this. To stay updated we advice that you keep referring to this policy every so often for such updates.
+###### What type of personal information we collect:
 
-UNLESS YOU ARE IN AGREEMENT WITH THE TERMS PROVIDED HEREIN, DO NOT VISIT THE WEBSITE.  
+When you enter our website, the system automatically captures the Internet provider"s domain name and country that you log from (e.g., "aol.com") as well as the path you follow, when you switch from one page to another (i.e., your "click stream" activity).
 
-**1\. Using and visiting the Kovla website**
+###### Visitor Registration or Requests for Information:
 
-Should you choose to be part of our social e-society, what personal data will be taken by Kovla?   
+We gather that personal details of our clients that they wish to provide to us on a voluntary basis when they register. "Personal information" is that data that helps to identify you as a natural person. It can be, for example, your name or email address; and, in the case of affiliate agreements, your name and company name.
 
-Only mature persons, aged above 18 can patronize Kovla. This is a platform for virtual meeting and socializing among a worldwide society of individuals.   
+###### Browsing and the use of Cookies:
 
-Before you enter the network, we require that you register by filling in some of your personal details. These details are like your email, birth date, your location etc. In addition, you have a chance to give more personal information if you so wish. Since you will be fully in charge of your “Profile” section, you can always enter at anytime you wish and update it. 
+We use cookie technology for website"s statistical reporting. A cookie is a small piece of information sent by a website that is saved on your hard disk by your computer"s browser. It includes information a website may need to customize your specific experience on the website (i.e., rotating images on home page) and to gather statistical data. It can include which pages client visits, what type of content is downloaded, the internet provider"s domain name and country that you come from (e.g. "aol.com," or "umich.edu") and the websites that you visit immediately before and after, coming to our site. But none of this data is associated with you as a particular individual. It is measured only in aggregate. The information in the cookies lets us trace client’s "click stream". Cookies do not capture your individual email address or any type of personal information.  
+We also use standard Web server log files that help us to count many visitors and to assess the website"s technical capacity. Such information helps us to organize our pages in the most user-friendly way, and fulfill them with the most appropriate content. We also record information on website traffic, but not on individuals.
 
-After you created your profile we save your IP address and email for further use.
+You can browse the website without cookies if you configure your browser. You can always reject all cookies, or to notify you when a cookie is set. If you are not familiar with cookies technology, check “Help menu” in your browser to modify your cookie preferences. Each browser has a different policy on cookies.
 
-**Usage by persons under the age of 18**
+###### The way we can use the collected information
 
-The legal age for you to join Kovla is 18. This is also dependent on the general age of the country that you stay in. Any information on minors is not collected by Kovla knowingly. This rule also applies to the products and services that we market. Minors are not part of our target group. We kindly ask that if you are below the age of 18, you should not present any information of yours to us. We have ways of making sure that minors do not open accounts with us. If you have opened an account with us and you are a minor, your account will be terminated at our disclosure. Additionally, any information that you may have to use to enter your account and in your profile will also be deleted from our systems. To make sure that you will not attempt to sign up with us again we will retain your computer’s IP address and the email with which you signed up with. 
+We may use the data to:
 
-**Collection of personal information of visitors without profile**
+  * Create the most user-friendly website;
+  * Fulfill your demand for specific products and services;
+  * Customize the services we offer to our clients;
+  * Communicate special offers to you, if you agree to get notified about it;
+  * Manage your account and your preference list;
+  * Ameliorate our website content, structure, products and services;
+  * Identify fraudsters;
+  * Protect our clients against fraudulent transactions, activities, etc;
+  * Provide the answers to your questions and take into account your suggestions.
 
-We do not retain any of the information that you enter into our systems as a visitor. We only make use of computer cookies by placing IDs on your computer. If you are not aware of what cookies are, you can check out the information based on the answer given to “what methods does Kovla use to collect information concerning me.”
 
-**Use of my information that is collected on the website**
 
-Any other information you place in our systems will be used to help you have a more interactive experience with other members at Kovla. We have a chat system that allows you to send and receive an electronic message to and from other users. Due to privacy, we urge you to be careful about the kind of information that you send to other users about yourself. There are tips that you can read on the Guidelines and safety section. Because your profile is public and can be viewed by anyone, it is encouraged that you avoid placing any sensitive contact information such as email addresses, your full name, and your phone numbers. Credit card details as well as your national ID ~~pin~~ should also not be posted on your profile. Additionally, any sensitive information such as your faith or health conditions should be avoided as well. You may be wondering as to how this is so because you may have provided this information while you were signing up, however, this information came to us, and neither we nor you should disclose it to the public. It is important that you take note that videos and pictures about you may accidentally give away personal information. Once you do agree to post videos and photos you do so at your own consent. However, do note that if you violate our Terms, we do have the right to end your account at our own discretion. 
+###### Email, Mailing Lists, and Other Services:
 
-**Information collected by Kovla when you use your phone to browse the site**
+If you send us an email with a question, request, claim, we will shortly reply you, taking into account the content of your letter. We will store your communication in case we will continue it further.
 
-Thanks to Kovla, you now have the chance to stay connected to your buddies and the friends you may have made online. It doesn’t matter as to your location. This can be done through your desktop from which you can easily download the application. Or better yet, you can use it on your cell phone meaning that you will stay connected wherever you are, be it at home, school or even work. Through using your mobile phone, other Kovla users will be able to find your location. 
+If you agree to, you will receive from us newsletters, account updates, special offers.
 
-We are able to pinpoint your location through the use of WIFI and your IP that helps us locate you on a latitudinal and longitudinal scale. Your location may be shown to the user if you happen to use application within their area. There are users who do not want to know their location, if you are one of them, and then you can simply opt not to download the application on your computer. You should also avoid using the application from your cell phone. Another option you have would be to disable the location setting. 
+###### Linking To Other Websites:
 
-**Information required from persons wishing to use Kovla premium services**
+If you leave the website, you have to keep in mind that our Privacy Policy is no longer valid. We recommend you to read the Privacy Policy of another website not to get into trouble. Take into account that if another website contains link to our website, still its Privacy Policy is valid while you experience working on it.
 
-Kovla will retain additional financial information to cater for the expenses that you will incur by using a premium account. Personally, our systems are not designed to store any financial information from our users. However, the companies from which we use their payment services will retain your financial information. It is a requirement that as a company, we are required to meet. 
+###### Sharing information policy:
 
-Whenever you choose to play Kovla games, we do save information concerning your mobile device or desktop. However, all this information is technical in nature. The technical information that we collect is part of a feedback system from which we are able to come up with better ways for you to enjoy your gaming experience. 
+Service Providers: We may disclose some of your personal data to third companies that help us to develop new products and services for you. For example, we may work with an outside company to: (a) arrange a database of customers; (b) assist us in distributing emails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) to prevent fraud. We require that these third companies keep our clients’ information confidentially. In order to ensure the security of our clients, we conclude with them separate agreements that state how they have to process the personal information of our clients.
 
-**Users who frequent other social sites such as Facebook**
+Other Companies: We may provide some details of your personal data to double-checked outside companies if we suggest that their products or services may be of interest to you.
 
-Because we have partnered with other social networks, there is a possibility that the information on either one of the sites can be viewed by users on our partners’ sites. It is your choice to register with a site we have partnered with. If you have chosen to do so, we strongly advise you to go through their policies on privacy as we will not be held responsible for how they choose to use your personal information. 
+Business Transitions: We may transfer or share a copy of a personal file in the case, if our internet platform or one of its properties, affiliates or subsidiaries goes through a business transition, such as a merger, being acquired by another company or selling a portion of its assets.
 
-**Additional information saved by Kovla**
+Compliance with Law: We may provide access to information if we are legally obliged to do so, to cooperate with police investigations or other legal proceedings, to protect against unauthorized use of our website, to protect our rights and the rights, property, or safety of our clients.  
+We hereby reserve any and all intellectual property rights in the website.
 
-You may use your email address to contact our team support team and because we want to be able to answer your questions, we do keep tabs on your IP address. To help us serve you better in the future, we do keep any conversations that you may have had with our support team. The same can be said about any complaints that we may receive from other users concerning you.
+###### Age Restrictions
 
-**Regular updates and communication from Kovla**
+Those under eighteen years are prohibited to use our website. We work in compliance with the Children’s Online Privacy Protection Act. Any type of information we may receive from users we believe to be under the age of 18 will be purged from our database.
 
-We do regularly send emails regarding any notifications that you may have received. This feature can easily be turned off from your setting page. 
+##### II. Choice
 
-**Other ways that your information may be used by Kovla**
+###### Choice/Opt-Out
 
-Occasionally, we do pick up posts that you have posted on public areas and use them on our partner sites. We can also use that information in our advertisements and products. We do this as a way of making sure that we improve all of your experiences with us. 
+We may send you from time to time email messages telling about new updates, innovative features and promotional offers. At any point of time you can choose to stop receiving such emails.
 
-Your personal data may also be used by us to solve any issues that may arise and to make sure our terms of use are adhered to.
+You can also read "unsubscribe" sections on our website and follow instructions indicated in it.
 
-**Ways that Kovla gathers data from users**
+##### III. Access
 
-Cookies are a ~~form~~ text that is kept on your cell phone or laptop by the web browser that you use. We often make use of your cookies to collect information about you. As you browse our site and access places that are public, a cookie is placed on your computer, but it doesn’t stay forever, as it only stores itself while you are in session. There are different types of cookies we may place on your electronic device, which will help you in experiencing no hassles as you log onto our site. 
+###### Updating Your Information
 
-It is important that you take note that our partners may also place cookies on your device through use. Once we hand over the access to these cookies, we have no way of regulating them. What our partners choose to do with your cookies is at their own discretion. 
+To modify or delete your personal information, follow the instructions:
 
-If you wish to control the type of cookies that are stored onto your device you can find out how to do so by going to the ‘Help’ icon on your browser and following the instructions from there. The website has a lot of information concerning cookies, what they are, how they work and how you can use them. You have a variety of sites at your disposal to do so. Aside from just that, there are other cookies that are known as flash cookies which are different as compared to browser cookies. There is also additional information about flash cookies that can be found on the internet. We must warn you though, if you choose to disable the cookies from your device, you will have limited access to some of our features and our site.
+  * 1. Log into your account,
+  * 2. Select My Account on our Main Page,
+  * 3. Scroll down and select My profile,
+  * 4. Delete or edit your personal details,
+  * 5. Select Save.
 
-**2\. Other Kovla members  **
 
-**Visibility of your personal information to other Kovla users**
 
-This is a feature that will depend on your settings. If you choose ‘any users’ then all Kovla users will be able to see the information on your profile. This information does include **profile information, videos** and pictures too. The information you post on the site depends on just how much you want other users to know you. However, if you are sensitive about who can see your profile you can adjust the privacy settings by limiting your visibility by using some factors. 
+Or send a request to our Support team, and we will make the requested changes.
 
-**Using information left by other users**
+##### IV. Security
 
-A positive way of you making use of the personal information about others is by being their friends and communicating with them often. We do warn you not to use any information you may find about other Kovla users to create spam, for commercial reasons or even to harass them. You will be in violation of our terms of use and your account can be terminated without warning.
+###### Security
 
-**Inviting your friends to the Kovla community**
+The security of your personal information is of high importance to us. Therefore, we are committed protecting it. We use firewalls and take security measures to protect our clients against the loss, misuse, or alteration of information.
 
-If you know of any of your friends that may also be using Kovla, you can simply invite them to be friends with you. You can do this by using the search button at the top of the site and entering your friend’s name. Other pieces of information you may use are their email address and their location. If your friends are not part of Kovla and you wish them to be you can choose to send them an email invitation. This email will prompt them to **be** a part of Kovla too. If the person you sent the invite to do not respond to it, we may, from time to time, send other emails just to remind them. There is a feature that allows you to invite all of your friends or if you choose, you can uptick the names of those whom you do not wish the invite to be sent to. However, in compliance with our terms of use, we strongly remind you not to invite minors or those who are below the age of 18. 
+Our website has VeriSign and McAfee secure certificates that guarantee that it is fully tested, approved and certified by these two leading security systems. When you use it, you can be sure to be protected from any virus, identity theft, credit card fraud, spyware, spam, or online scam on our website.
 
-It will be upon you to decide whether or not your friend would wish to receive an invite from Kovla. Once you invite your friend, we do keep their email addresses. This will be used to help you and them connect more easily. We do assure you that we do not commercialize any of the email addresses you give to use that belong to your friends. If your friend does not wish to have anything to do with Kovla they may simply visit our feedback page and request to have their emails removed from our systems. This will only be applicable to the email address that you had provided to us earlier. 
+##### V. Customer Service and Recourse
 
-**3\. Third parties**
+###### Contacting the Website
 
-**Personal information use**
+Whenever you submit any information to us, when you use any of our services, you consent to policy on a processing of such information.  
+If you have any questions, comments or complaints about Privacy Policy and/or the way it affects you, please, contact our Customer support.
 
-**Selling of my personal information**
+###### Acceptance of Privacy Statement
 
-**W** e do not use any of your personal information in a commercial manner or in a way that may benefit us financially. The kind of information we do release is non-personal in nature and is only used for marketing purposes. The type of information we give out cannot be used to trace back to you. 
+Any type of usage of our website is subject to Privacy Policy, as well Terms and Conditions, if applicable. By using our website, you agree to our Privacy Policy and Terms and Conditions.
 
-**Giving personal data to other persons by Kovla**
+You warrant that you will not create any databases, websites, software, legal entities and services that will be competitive with our website. If it happens to be, appropriate legal action will be taken. They may include limitation, civil, criminal, and injunctive redress.
 
-We can use part of your personal information to share to other parties, but none of that information can identify you. We use that information to perform demographic researches to ensure that we offer you advertisements that are applicable within your locality. The same can be said of advertising parties that we may have involved. The companies that take this information do so, so that they can provide you with advertisements that you are likely to like. 
+We reserve the right to change, modify or amend this policy at any time without notice and in its sole discretion at any time by updating this web page, and your continued use of the website after any modifications by us shall constitute your acceptance of such modifications.
 
-It is our desire to maintain healthy relationships with all our members and to keep and follow all laws. If for any reason, the government or other law agencies may require your personal information, we will give it to them as we are compelled to by the law. 
+###### Invalidity
 
-If for whatever reason, Kovla experiences a change of ownership, we may be required to give out your personal information. The same goes for any administrational disputers we may have. 
+If any provision of this Private Policy is held to be invalid or unenforceable in whole or in part in any jurisdiction, then that provision shall be deemed ineffective in such jurisdiction but shall have no effect on the enforceability of the remaining provisions.
 
-**4\. Storage of data  **
+###### Governing law, consent to jurisdiction and limitation on claims
 
-**Keeping my information**
+This Private Policy and your use of the website, along with the Information contained therein, shall be governed by and construed in accordance with the laws
 
-Kovla is a site that is used globally and there may be limitations when it comes to the amount of data that can be protected depending on your country of residence’s protection laws. Once you disclose your information and join Kovla, you do agree to allow your data to be kept and processed in any of those countries. 
+###### Effective Date
 
-**5\. Protection of Data**
+This privacy statement was last revised on **registered addresses:**
 
-**Guaranteed security for my personal data**
+* * *
 
-Kovla has made it a priority to ensure that any of the information you disclose to us remain private. Some of the measures we use are like firewalls and our technical team that works around the clock to ensure that you are protected. 
+[ ](https://web.archive.org/profile/119219)
 
-Though we try our best to ensure all your information is kept secure, we cannot guarantee that instances of hacking or loss of data may never occur. To help us, we encourage you to make your password as difficult as possible and to be known only by yourself. Kindly work together with us by doing your part to ensure your information is kept safe by ensuring your log out after your session has ended.
+ID: 119219 Online
 
-**Ensuring my information is kept safe**
+[ ](https://web.archive.org/profile/119651)
 
-You can help us help you by ensuring that you never give out your password to anyone. If for whatever reason you feel your account may be at risk, notify support immediately. You should also change your current password to another one. Make sure it is difficult to guess.      
+ID: 119651 Online
 
-**6\. The rights of the users**
+[ ](https://web.archive.org/profile/114635)
 
-**Changing your profile**
+ID: 114635 Online
 
-A lot of your personal information such as your email address and your photos can be changed. If for whatever reason, any of your personal information may have changed, we do ask you to log into your account and change it. As an added security measure we advise you to change your password from time to time. 
+[ ](https://web.archive.org/profile/120668)
 
-**Deleting your account**
+ID: 120668 Online
 
-It is possible for you to delete your account and you can do this through the settings or through our feedback page. At first, your account will only be deactivated and you will not be able to use any of the features. Within a period of one month, if you do not reactivate your account, we will delete it and any information you may have given to us. We keep your information for a period of one month if you change your mind and want to continue using our site. We urge you to delete your account only if you are sure that you do not want to continue using Kovla. If your account was terminated or deleted, we reserve the right to keep some information to ensure that you do not try to sign up again. Parts of your information or posts may still be visible even though your account may be deleted. We have no control over this.
+[ ](https://web.archive.org/profile/122506)
 
-The last update made on this privacy policy was on the 1st of January 2012. 
+ID: 122506
+
+[ ](https://web.archive.org/profile/119643)
+
+ID: 119643
+
+[ ](https://web.archive.org/profile/120552)
+
+ID: 120552
+
+[ ](https://web.archive.org/profile/121089)
+
+ID: 121089
