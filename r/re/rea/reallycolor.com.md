@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallycolor.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318170418id_/https%3A//www.reallycolor.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallycolor.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426082448id_/https%3A//www.reallycolor.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # ReallyColor.com Terms and Conditions
 
