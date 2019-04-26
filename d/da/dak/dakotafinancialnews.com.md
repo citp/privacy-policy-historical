@@ -1,31 +1,29 @@
-> *The following text is extracted and transformed from the dakotafinancialnews.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829024821id_/http%3A//dakotafinancialnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dakotafinancialnews.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426100410id_/https%3A//dakotafinancialnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Financial Market News
+# Privacy Policy - Dakota Financial News
 
-Financial Market News takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may collect and use information about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media, such as mobile apps, about goods and services that may be of interest to you, and to understand how users respond to advertising on our website and other websites. These companies may collect this information using technologies such as cookies and pixels. We may also share personal information such as your email address in hashed non-human readable form with these advertising companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.networkadvertising.org_managing_opt-5Fout.asp&d=CwMFAg&c=XRWvQHnpdBDRh-yzrHjqLpXuHNC_9nanQc6pPG_SpT0&r=g3oaDsRBobxWPv7kusJizmKv_KyKj40UA0HhKo2OeS8&m=G0-xsNI-wGWMCi5s2iZTGG3g-lZUq6p8nV4yLStnOqY&s=rL_E93oOvKDNSIzCq1tkNbVmgZW_-rWzhQvH4ceKlgg&e=).
 
-### Routine Information Collection
+**Dakota Financial News** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
+
+## Routine Information Collection
 
 All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-### Cookies and Web Beacons
+## Cookies and Web Beacons
 
-Where necessary, Financial Market News uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Dakota Financial News uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
-### Controlling Your Privacy
+## Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
 
-### Special Note About Google Advertising
+## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
-### **Third-Party Advertising Notice**
+## Contact Information
 
-We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
-
-### Contact Information
-
-Concerns or questions about this privacy policy can be directed to <http://www.financial-market-news.com/aboutcontact/> for further clarification.
+Concerns or questions about this privacy policy can be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for further clarification.
