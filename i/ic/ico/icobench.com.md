@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icobench.com privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703134332id_/https%3A//icobench.com/ICObench%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icobench.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426033355id_/https%3A//icobench.com/ICObench%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 
 
