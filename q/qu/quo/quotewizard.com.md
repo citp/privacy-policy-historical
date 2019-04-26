@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909132308id_/https%3A//quotewizard.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426073544id_/https%3A//quotewizard.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuoteWizard
 
-_This privacy policy was last updated on July 28th, 2017_
+_This privacy policy was last updated on October 17th, 2018_
 
-QuoteWizard is committed to protecting you private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please revisit this page occasionally to check for updates.
+QuoteWizard is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update any collected personal information. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please revisit this page occasionally to check for updates.
 
 ### Telephone Consumer Protection Act Compliance
 
@@ -12,13 +12,13 @@ If you provide a cell phone number with your contact information, QuoteWizard an
 
 ### Information We Collect
 
-Collecting various types of information from our visitors allows QuoteWizard to periodically adjust this site to meet our users’ needs and expectations. Some of this information is collected automatically, through cookies. Other information is collected when you register for any of our online services, or when you request information from one of our insurance partners.
+QuoteWizard collects various types of information from our visitors in order meet our users’ needs and expectations and to enhance security. Some of this information is collected automatically, through a text file known as a “cookie.” or similar technologies. Other information is collected when you register for any of our online services, or when you request information from one of our insurance partners. You can refuse cookies by turning them off in your browser. If you do so, please note that some of our features and services may not function properly if your cookies are disabled.
 
 ### Information Collected Automatically
 
 Some information is automatically sent to QuoteWizard by your browser or Internet session each time you visit one of our sites. These types of information include:
 
-  * The name of your browser, e.g., Internet Explorer, Netscape Navigator.
+  * The name of your browser, e.g., Internet Explorer, Chrome, etc.
   * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc.
   * Your computer’s operating system, e.g., Windows, Macintosh, UNIX, Linux.
   * Your navigation path, e.g., the URL(s) that you use to access our site, which of our pages you visit, and where you go when you leave.
@@ -42,7 +42,7 @@ QuoteWizard uses cookies to store contact information for each user. If the user
 
 By submitting a quote request, you authorize QuoteWizard to provide your information to insurance agents, both local and national. You also authorize QuoteWizard to provide your information to one of our third party agent networks in the event that our primary agent network has few or no agents in your zip code. You authorize these agent networks to share your information with their vendors, suppliers, and insurance carriers in order to generate information for your quotes. By submitting a quote request, you acknowledge that QuoteWizard’s service requires you to agree that our partner companies may obtain a consumer report or credit score from a consumer reporting agency (also known as a credit bureau) and that these partner companies do not have the right to obtain a consumer report or credit score without your written instruction which you are granting by clicking the submit button. Accordingly, by submitting a quote request you instruct consumer reporting agencies to provide a consumer report or credit score on you to these partner companies if requested within a reasonable date from the time you submit information to QuoteWizard. In the event that one of our partner companies obtains this credit information that partner company will not share this information with any other party, including insurance carriers, but insurance carriers may elect to obtain credit information on their own in connection with the quoting and underwriting of the requested insurance. Where permitted by law, some insurance companies or their agents may confirm your information, through the use of consumer reports, which may include credit score and driving record.
 
-By submitting a quote request, you also authorize QuoteWizard to provide the information submitted in the quote request to third party marketing partners so that they can market related products or services to you. If you do not want us to make your information available to these companies, you can [ **click here**](http://www.qw-unsub.com/unsub/unsub.form?id=1c4781e3a8f79b7ff6377e9474d852410d23e1ceee8c948da054b1aab0994ee0) to unsubscribe.
+By submitting a quote request, you also authorize QuoteWizard to provide the information submitted in the quote request to third -party marketing partners so that they can market related products or services to you. If you would like to opt-out of receiving promotional or marketing emails from QuoteWizard or such marketing partners in the future, do not want us to make your information available to these companies, you can [ **click here**](http://www.qw-unsub.com/unsub/unsub.form?id=1c4781e3a8f79b7ff6377e9474d852410d23e1ceee8c948da054b1aab0994ee0) to unsubscribe. Please note that your decision to opt-out does not preclude us from communicating with you regarding your existing or past relationship with QuoteWizard and shall not preclude us or our representatives from accessing and using the information you have provided in a manner that is not personally identifying (such as in aggregate or anonymous form). If you do not wish to receive further communications from any person or entity (such as a marketing partner) to whom we have forwarded your information with your permission, you must contact them directly.
 
 ### How We Use This Information
 
@@ -56,7 +56,9 @@ In order to provide you with the most accurate quotes possible, insurance compan
 
 ### Your Rights—Our Obligations
 
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning release of personal information. On occasion, we may use certain directory information that we collect from you to send you information, via direct mail or email, about products and services, or updates and other information that we think may be of interest to you. We may share this information with our insurance partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request that your name and address should be removed from our lists. **If you do not want to receive e-mails from us, please submit a request to have your e-mail address unsubscribed by[ clicking here](http://www.qw-unsub.com/unsub/unsub.form?id=1c4781e3a8f79b7ff6377e9474d852410d23e1ceee8c948da054b1aab0994ee0) .**
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning release of personal information. On occasion, we may use certain directory information that we collect from you to send you information, via direct mail or email, about products and services, or updates and other information that we think may be of interest to you. We may share this information with our insurance partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request that your name and address should be removed from our lists. **If you do not want to receive e-mails from us, please submit a request to have your e-mail address unsubscribed by[ clicking here](http://www.qw-unsub.com/unsub/unsub.form?id=1c4781e3a8f79b7ff6377e9474d852410d23e1ceee8c948da054b1aab0994ee0)**.
+
+If you wish to review or update the personal information that QuoteWizard has collected from you, please email us at consumerinquiries@quotewizard.com. To protect your privacy and better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 ### Our Security Measures
 
@@ -98,8 +100,12 @@ A browser session is defined as the period of time a browser is in consecutive u
 
 ### SSL Encryption (Secure Sockets Layer)
 
-The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. QuoteWizard also uses SSL encryption whenever we display your personal information (e.g. name and address).
+All information submitted through QuoteWizard is encrypted using SSL (Secured Sockets Layer) protocol, The the leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. QuoteWizard also uses SSL encryption whenever we display your personal information (e.g. name and address) on our website.
 
 ### URL (Uniform Resource Locator)
 
 An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for QuoteWizard is //quotewizard.com.
+
+### Contacting Us
+
+If you have any questions or concerns about our company or this Privacy Policy, please email us at consumerinquiries@quotewizard.com.
