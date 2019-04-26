@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the radzen.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713124433id_/http%3A//www.radzen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radzen.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426070911id_/https%3A//www.radzen.com/privacy-policy) for the most accurate reproduction.*
 
-# Radzen - Privacy Policy
+# Privacy Policy
 
-## Effective date: June 3rd, 2016
+### Effective date: June 3rd, 2016
 
   1. Introduction 
 
