@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollandbranch.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907042641id_/https%3A//www.bollandbranch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollandbranch.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426113531id_/https%3A//www.bollandbranch.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boll & Branch
 
@@ -44,7 +44,7 @@ Network Advertising Initiative: <http://www.networkadvertising.org/choices/>
 
 ## DO NOT TRACK SIGNALS
 
-The Site does not alter their practices when it receives Do-Not-Track (“DNT”) signals. At this time, we do not track user personal information over time and across third-party websites. Third parties that have services on our Site may obtain information about your browsing or usage habits, in accordance with their respective privacy policies. To find out more about DNT, you may wish to visit the following third party website [www.allaboutdnt.com](https://web.archive.org/web/20180907042641id_/https%3A//www.bollandbranch.com/pages/www.allaboutdnt.com).
+The Site does not alter their practices when it receives Do-Not-Track (“DNT”) signals. At this time, we do not track user personal information over time and across third-party websites. Third parties that have services on our Site may obtain information about your browsing or usage habits, in accordance with their respective privacy policies. To find out more about DNT, you may wish to visit the following third party website [www.allaboutdnt.com](https://web.archive.org/web/20190426113531id_/https%3A//www.bollandbranch.com/pages/www.allaboutdnt.com).
 
 ## PURPOSES OF INFORMATION COLLECTION, PROCESSING, AND/OR USE
 
@@ -127,5 +127,5 @@ Questions and requests related to this Policy may be directed to the postal addr
 **Mailing Address:**  
 Boll & Branch  
 c/o Privacy  
-332 Springfield Avenue  
+One Prospect Street  
 Summit, New Jersey 07901
