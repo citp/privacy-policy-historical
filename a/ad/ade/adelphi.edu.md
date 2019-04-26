@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelphi.edu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230100554id_/https%3A//operations.adelphi.edu/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelphi.edu privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426054316id_/https%3A//operations.adelphi.edu/privacy-notice) for the most accurate reproduction.*
 
 # GDPR Privacy Notice | Adelphi University
 
