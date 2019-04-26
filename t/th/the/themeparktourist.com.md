@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeparktourist.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205010152id_/https%3A//www.themeparktourist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparktourist.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426193252id_/https%3A//www.themeparktourist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Theme Park Tourist
 
