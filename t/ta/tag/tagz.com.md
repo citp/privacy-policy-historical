@@ -1,59 +1,38 @@
-> *The following text is extracted and transformed from the tagz.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520210952id_/http%3A//www.twiig.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagz.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426085255id_/https%3A//tagz.com/privacy-policy) for the most accurate reproduction.*
 
-# Twiig - Meet and share with people in your area.
+# TAGZ | Privacy Policy
 
-1\. In General
+**Privacy Policy**
 
-This policy is written in accordance with the laws and regulations of the Province of Quebec.
+At TAGZ, we are committed to protecting your privacy in accordance with the Privacy Act 1988. This Privacy Policy describes our current policies and practices in relation to the collection, handling, use and disclosure of personal information. It also deals with how you can complain about a breach of the privacy laws, how you can access the personal information we hold about you and how to have that information corrected. 
 
-This Privacy Policy informs users of how their information is collected, used or communicated. Except when otherwise stated on Twiig.com, the site is open to all users. Therefore, by using this website, by becoming a member or by subscribing to the different services offered, you agree to be bound by this Privacy Policy.
+**What information do we collect and how do we use it?**  
+When you use the TAGZ Platform, we ask you for the information we need to verify your identity and support such services provided on TAGZ in order to facilitate the provision of buying, selling and trading digital currency. This can include a broad range of information ranging from your name, address, contact details, IP address, device information, operating system, web log information, passport number, driver licence number, bank account numbers, and digital currency account information. We may provide the information that you provide to identity verification services, credit bureaus or to our customer support team to enable them to verify your identity under Anti-Money Laundering policies and to protect you and other users of our Platform from fraud and other illegal activities. We may also provide your personal information if requested by a law enforcement or government agency. We also use your information to enable us to manage your ongoing requirements and our relationship with you, e.g.to process transactions, email you a notice or receipt of your transaction, troubleshoot a problem, send promotional offer, prevent or investigate illegal or potentially illegal activities, and to customise and improve TAGZ’s Platform. We may do so by electronically unless you tell us that you do not wish to receive electronic communications. From time to time we will use your contact details to send you offers, updates, events, articles, newsletters or other information about products and services that we believe will be of interest to you. We may also send you regular updates by email. We will always give you the option of electing not to receive these communications and you can unsubscribe at any time by notifying us that you wish to do so. We may also use your information internally to help us improve our services and help resolve any problems. 
 
-We strongly suggest you read this Privacy Policy carefully before using our website or submitting any personal information.
+**What if you don’t provide some information to us?**  
+If you do not provide us with some or all of the information that we ask for, we may not be able to verify your identity and as such you may not be able to open a trading account with TAGZ and use our Platform. 
 
-Twiig.com reserves the right, in its sole discretion, to change the Privacy Policy by updating this web page, without prior notice.
+**How do we hold and protect your information?**  
+We strive to maintain the relevance, reliability, accuracy, completeness and currency of the personal information we hold and to protect its privacy and security. We keep personal information only for as long as is reasonably necessary for the purpose for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements. We ensure that your information is safe by managing access controls, such as identity, access management, permissions and security credentials. Access to personal information is only granted to an employee of TAGZ to carry out duties required to support our customers. Strong, multi-factor authentication is used and access is revoked when no longer required. 
 
-The policies described on this page are only valid for Twiig.com and do not apply to any of the sites Twiig.com is linked to.
+**Will we disclose the information we collect to anyone?**  
+We do not sell, trade, or rent your personal information to others. We may disclose your information to law enforcement agencies in Australia if requested as part of an investigation. We may disclose some of your personal information to third party suppliers and service providers (e.g. an email sending service such as MailChimp), third party identity verification services, or to other companies in the event of a corporate sale, merger, re-organisation, dissolution or similar event. However, we will take all reasonable steps to ensure that they protect your information in the same way that we do. We may provide your information to others if we are required to do so by law or under some unusual other circumstances which the Privacy Act permits. 
 
-Twiig.com does not offer any guarantee and is not responsible for any of the other websites to which a user might be granted access through Twiig.com.
+**How can you check, update or change the information we are holding?**  
+Upon receipt of your written request and enough information to allow us to identify the information, we will disclose to you the personal information we hold about you. We will also correct, amend or delete any personal information that we agree is inaccurate, irrelevant, out of date or incomplete. We will allow you to correct, amend or delete certain personal information on our Platform by logging into your TAGZ account and clicking on the settings section. In some cases, to ensure security and integrity of the Platform, we may be required to maintain historical personal information you have submitted to us. You may also seek to access or correct your personal information by submitting a support request from TAGZ’s website. We do not charge for receiving a request for access to personal information or for complying with a correction request. In some limited cases, we may need to refuse access to your information or refuse a request for correction. We will advise you as soon as possible after your request if this is the case and the reasons for our refusal. 
 
-2\. Collecting information
+**What happens if you want to complain?**  
+If you have any concerns about whether we have complied with the Privacy Act or this Privacy Policy when collecting of handling your personal information, please submit a support request. Your complaint will be considered by us through our internal complaints resolution process and we will try to respond with a decision within 45 days of you making the complaint. 
 
-Names, addresses, postal codes, marital statuses, dates of birth, emails, are all personal information that users voluntarily choose to submit when subscribing. The users agree that the submitted and collected information is used to respond to their expectation towards Twiig.com. 
+**Your Consent**  
+By opening an account with TAGZ and using our Platform and Services, you consent to the collection and use of the information you have provided to us for the purposes described above. 
 
-Use of cookies and other technologies to collect information
+**Anonymous data**  
+We use technology to collect anonymous information about the use of our platform. For example, when you browse our platform our service provider logs your server address, the date and time of your visit, the pages and links accessed and the type of browser used. It does not identify you personally and we only use this information for statistical purposes and to improve the content and functionality of our website, to better understand our clients and markets and to improve our services. 
 
-We use cookies and various other technologies to collect information from your computer. Each time you visit our website, information is automatically collected from your browser. This information includes your IP address, your browser type, language as well as access times and is used by Twiig.com to know the number of people having access to Twiig.com. 
+**Cookies**  
+In order to collect this anonymous data, we may use “cookies”. Cookies are small pieces of information which are sent to your browser and stored on your computer’s hard drive. Cookies are utilised by almost all websites that you visit and allow websites and browsers to operate more efficiently, improve your browsing experience as well as to provide anonymised information to the owners of the site. 
 
-Our website might share some of this information with third parties but does not provide any personal information to these parties. Users may change the settings of their browsers to refuse or destroy these cookies.
+Sometimes they identify users where the Platform requires information to be retained from one page to the next. This is purely to increase the functionality of the site. We may use Cookies to recognise you as a customer and user of TAGZ’s Service, to customise our services and advertising, and to collect information in order alleviate the risk of fraud and illegal conduct. We may also utilise cookies to assist in delivering targeted advertising campaigns at certain times through third party sites. 
 
-3\. Use of collected information
-
-Personal information collected is never shared with third parties for the purpose of publicity or marketing uses.
-
-Only the general information submitted by users through their profile on Twiig.com is published online.
-
-Users may, in any time, withdraw the information they submitted or correct them online or by communicating with Twiig.com.
-
-In some situations, Twiig.com may have to share information with government agencies and other corporations. This is notably the case:
-
-1\. When it is allowed or required by law;
-
-2\. To respond to an emergency situation where someone's life, well-being or security is at stake;
-
-3\. To hold an internal investigation into a possible infringement to a Canadian law; 
-
-4\. When the information is already accessible to the public.
-
-4\. Security
-
-The recognizable personal information is safeguarded by being stocked and encrypted during its transmission. Only an authorized employee of Twiig.com can have access to this information.
-
-Twiig.com is equipped with a system to protect the transmitted information. However, Twiig.com is not to be held responsible for the transmission of any type of computer virus in any shape or form. Surfing or downloading information on the website is done at the users' own risks.
-
-Users are responsible not to disclose confidential information in their profile and in the messages they send to other users via Twiig.com. 
-
-5\. Other policies
-
-This policy is governed, interpreted and supervised by the laws applicable in the Province of Quebec and all litigious matters that may arise from it are to be decided by the judiciary of Quebec City, Province of Quebec.
-
-For any questions pertaining to this Privacy Policy or if you like to request information on Twiig.com is inner workings or its Terms and Conditions Agreement, please contact Twiig.com costumer service. 
+Cookies do not damage your computer and you can set your browser to notify you when you receive a cookie so that you can decide if you want to accept it. You can also de-activate the use of cookies if you do not want to receive targeted advertising however; although this may impact the operation of the website. In order to provide a more user-friendly experience and enhance security, cookies will also be used to allow our website to recognise your computer when you return in the future.
