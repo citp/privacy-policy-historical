@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819175032id_/https%3A//www.rti.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426070041id_/https%3A//www.rti.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RTI
 
