@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426125940id_/http%3A//www.ifrs.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427001355id_/https%3A//www.ifrs.org/legal/privacy) for the most accurate reproduction.*
 
-# IFRS
+# IFRS - Privacy and Cookies
 
-The IFRS Foundation (we) promise to respect any personal data you share with us through this site (the Website). We aim to be transparent when we collect your data and not to use your information in any way that you would not reasonably expect.
+The IFRS Foundation (we) promise to respect any personal data you share with us through this site (the Website) or any other means. We aim to be transparent when we collect your data and not to use your information in any way that you would not reasonably expect.
 
 Developing a better understanding of your preferences through your personal data enables us to ensure that you are receiving the information that interests you most, and even more importantly allows us to ensure that you are able to play an active role in the Standard Setting Process.
 
 This Privacy and Cookies Policy (the Policy) explains how the IFRS Foundation uses your personal data if and when it is collected and provides information about the cookies that we use on the Website. This Policy is designed to ensure that you are fully aware of how your personal data is processed and stored so that we can fulfil our legal and moral obligations toward you as a data subject.
 
-If you do not agree with this Policy or the [Terms of Use](https://web.archive.org/-/media/feature/about-us/legal-and-governance/legal-docs/terms-and-conditions.pdf?la=en&hash=9C2C0990DC1E54A5158910BAD56133F2C57E450F) please do not use any part of this Website. If you signify acceptance of this Policy, this constitutes a positive action confirming your consent for us to use the personal data you provide to us in accordance with this Policy.
+If you do not agree with this Policy or the [Terms of Use](https://web.archive.org/-/media/feature/about-us/legal-and-governance/legal-docs/terms-and-conditions.pdf?la=en) please do not use any part of this Website. If you signify acceptance of this Policy, this constitutes a positive action confirming your consent for us to use the personal data you provide to us in accordance with this Policy.
 
 ## Contents
 
@@ -42,24 +42,25 @@ We do this in order for us to communicate with you regarding:
 
 In order to register to receive any alerts and communications from us or to subscribe for any of our subscription services featured on the Website, you may be requested to provide relevant personal information, which we need to process your registration. The personal information provided upon registration allows us to deliver our services, as well as allowing us to maintain your account. As a registered user of the Website you will be entitled to receive information regarding our work and services including invitations to events and seminars. Sometimes we may contact you by email, post or telephone for research purposes relating to our Websites or to research opinion on proposed developments if you have consented to such communications. 
 
-### 3. Sharing Your Information
+### 3. Sharing your information
 
 When you register for any of our services including subscription services, the information you provide is for our purposes only. We do not share your personal data with any third parties for marketing purposes. However, we do require that you acknowledge and agree that we may occasionally use third party providers to conduct research, process data or develop and maintain the Website and its content on our behalf.
 
-### 4. Direct Marketing
+### 4. Direct marketing
 
-You have the legal right to request that we do not process your personal data for the purposes of direct marketing.  If you would prefer that we cease to send you direct marketing information, you may adjust your preferences in the [Manage Email Alerts](http://eifrs.ifrs.org/eifrs/Register) section of your account at any time. Please note that if you do so, the only information that you will receive from the IFRS Foundation will be responses to requests for services provided by the IFRS Foundation.
+If you have consented to receive direct-marketing emails you have the right to revoke your consent at any time. You may do this by adjusting your preferences in [your Dashboard](https://web.archive.org/dashboard/#manage) or using the unsubscribe link at the bottom of emails you receive. Please note that if you are Premium subscriber, you will continue to receive emails in relation to your Premium Subscription and account only.
 
 ### 5. Cookies
 
-Our Website uses cookies to distinguish you as an individual user. This helps us to provide you with a tailored experience when you browse our Website and also allows us to improve the Website through data analysis. By continuing to browse the Website, you are agreeing to our use of cookies.   
+Our Website uses cookies to distinguish you as an individual user. This helps us to provide you with a tailored experience when you browse our Website and also allows us to improve the Website through data analysis. By continuing to browse the Website, you are agreeing to our use of cookies. 
+
 A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you click the ‘agree’ button in the cookie notification pop-up at the footer of your browser. Cookies contain information that is transferred to your computer hard drive. The cookies function by saving your Website preferences and as a result it is possible to speed up your future activities at the Website and allows us to provide you with information specifically tailored to your interests.
 
 Most browsers allow you to stop receiving cookies; however, you should be aware that if you do disable cookies, you may have trouble logging into eIFRS areas, or using our Web Shop and/or our eIFRS Web App, and you will have to agree to the Terms of Use and this Policy every time you visit the Website.
 
  We use the following cookies: 
 
-  1. Strictly necessary cookies: these are cookies that are required for the operation of our Website. They include, for example, cookies that enable you to log into eIFRS Basic or eIFRS Professional, buy products at [shop.ifrs.org](http://shop.ifrs.org/) using e-billing services or use the shopping cart feature.
+  1. Strictly necessary cookies: these are cookies that are required for the operation of our Website. They include, for example, cookies that enable you to log into eIFRS Basic or eIFRS Professional, buy products at [shop.ifrs.org](https://shop.ifrs.org/) using e-billing services or use the shopping cart feature.
   2. Analytical/performance cookies: they allow us to recognise and count the number of visitors and to see how visitors move around our Website when they are using it. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
   3. Functionality cookies: these are used to recognise you when you return to our Website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region and whether you have agreed to the Terms of Use and this Policy).
 
@@ -89,107 +90,19 @@ Below we list the cookies that are used on each of the Website and a brief expla
   
 ---|---|---|---  
   
-shop.ifrs.org
-
-| 
-
-APTIFY_ECOMMERCE_PWD (Encrypted)
-
-| 
-
-When the browsing session ends
-
-| 
-
-Used to keep the visitors logged in the shop and keep the shopping cart active for the duration of the logged browsing session. We use the industry standard encryption so the password cannot be plainly read.  
-  
-shop.ifrs.org
-
-| 
-
-APTIFY_ECOMMERCE_UID (Encrypted)
-
-| 
-
-When the browsing session ends
-
-| 
-
-Used to keep the visitors logged in the shop and keep the shopping cart active for the duration of the logged browsing session.  
-  
-shop.ifrs.org
-
-| 
-
-ASP.NET_SessionId (Encrypted)
-
-| 
-
-When the browsing session ends
-
-| 
-
-Session IDs are a 120-bit random number that is represented, generally, by a 20-character string. The string is formatted so that it can be included in a URL and it does not have to undergo URL encoding. For example, the string may be used in cookie-less sessions. The most commonly used method of delivering session IDs is by using cookies to store the session IDs.  
-  
-shop.ifrs.org
-
-| 
-
-co-enabled
-
-| 
-
-One year
-
-| 
-
-Used to record the acceptance of our terms and conditions.  
-  
-**ifrs.org**
-
-**What they're used for**
-
-| 
-
-**Cookie Name**
-
-| 
-
-**Default Expiration Time**
-
-| 
-
-**Description**  
-  
----|---|---|---  
-  
-shop.ifrs.org
-
-| 
-
-co-enabled
-
-| 
-
-One year
-
-| 
-
-Used to record the acceptance of our terms and conditions.  
-  
 ifrs.org
 
 | 
 
-ARRAffinity
+0{ID} (a global unique id)
 
 | 
 
-Duration of browsing
+One hour
 
 | 
 
-Used to manage user session and direct requests from client software (browsers) to a specific server on the server farm.  
+This is an authentication cookie that holds encrypted information about your sign-in to IFRS. Allows you to navigate between IFRS pages as a logged in user.  
   
 ifrs.org
 
@@ -204,20 +117,6 @@ Duration of browsing (when logged in)
 | 
 
 Used to manage access to personalised content on ifrs.org.  
-  
-ifrs.org
-
-| 
-
-Single Sign On Refresh token
-
-| 
-
-Duration of browsing (when logged in)
-
-| 
-
-Allows user access across ifrs.org, shop and eifrs.  
   
 ifrs.org
 
@@ -303,21 +202,137 @@ Mission-statement
 
 Records the status of the mission statement bar on the home page and whether to display it or not.  
   
-**Google Analytics Cookies:**
+ifrs.org
 
-Click here for a full list of [Google Analytics Cookies](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+| 
+
+Incap_ses_nnnn  
+visid_incap_nnnnn
+
+| 
+
+Six months
+
+| 
+
+Cookies used by Incapsula—a virtual firewall designed to protect web traffic against attack. All IFRS Foundation web systems route through Incapsula.  
+  
+*ifrs.org
+
+| 
+
+_ga  
+_ga_UAT-{ID}  
+_gid  
+__utmvc  
+_ceg.s  
+_ceg.u
+
+| 
+
+10 minutes to two years
+
+| 
+
+The IFRS Foundation uses Google Analytics to report at an aggregate level of use of our web site—these are the Google Analytics cookies which uniquely identify you as a user and relate to the IFRS account for Google Analytics.  
+  
+*ifrs.org
+
+| 
+
+nlbi_{ID}
+
+| 
+
+When the browsing session ends
+
+| 
+
+Security cookie.  
+  
+shop.ifrs.org
+
+| 
+
+APTIFY_ECOMMERCE_PWD (Encrypted)
+
+| 
+
+When the browsing session ends
+
+| 
+
+Used to keep the visitors logged in the shop and keep the shopping cart active for the duration of the logged browsing session. We use the industry standard encryption so the password cannot be plainly read.  
+  
+shop.ifrs.org
+
+| 
+
+APTIFY_ECOMMERCE_UID (Encrypted)
+
+| 
+
+When the browsing session ends
+
+| 
+
+Used to keep the visitors logged in the shop and keep the shopping cart active for the duration of the logged browsing session.  
+  
+shop.ifrs.org
+
+| 
+
+ASP.NET_SessionId (Encrypted)
+
+| 
+
+When the browsing session ends
+
+| 
+
+Session IDs are a 120-bit random number that are represented, generally, by a 20-character string. The string is formatted so that it can be included in a URL and it does not have to undergo URL encoding. For example, the string may be used in cookie-less sessions. The most commonly used method of delivering session IDs is by using cookies to store the session IDs.  
+  
+shop.ifrs.org
+
+| 
+
+co-enabled
+
+| 
+
+One year
+
+| 
+
+Used to record the acceptance of our terms and conditions.  
+  
+eifrs.ifrs.org
+
+| 
+
+JSESSIONID
+
+| 
+
+Session
+
+| 
+
+This cookie represents session state in the eIFRS application and is used to cache information used to deliver the eIFRS application to your desktop.  
+  
+Google may use other analytics cookies in addition to the ones we've listed above, so please [visit Google for a full list](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage).
 
 ### 6. Withdrawal of consent
 
-Prior to processing your personal data the IFRS Foundation ensures that it is entitled to do so under relevant data protection laws. You may withdraw your consent to future processing of your Personal Data at any time.
+Prior to processing your personal data the IFRS Foundation ensures that it is entitled to do so under relevant data protection laws. If you have consented to receiving direct-marketing emails you have the right to revoke your consent at any time. If you receive any other type of communication from the IFRS Foundation, these will include an option for you to unsubscribe from such communications.
 
-From time to time, as noted above, the IFRS Foundation may send you marketing information and by providing your contact details through the Website, you are providing your explicit consent to receiving these. You may manage your preferences in accordance with your interests in relation to marketing and other emails sent to you through the [Manage Email Alert](http://eifrs.ifrs.org/eifrs/Register) tab of your user account at any time.
+You may manage your preferences in accordance with your interests in relation to marketing and other emails sent to you through [your Dashboard](https://web.archive.org/dashboard/#manage) at any time.
 
-If a statutory condition applies allowing the IFRS Foundation to process your personal data and you withdraw consent to process your personal data, this will not necessarily mean that the IFRS Foundation ceases to process your personal data as it may, for example, be under a statutory duty to do so.
+Please be aware that there may be other grounds under which the IFRS Foundation may be entitled to process your personal data, for example in order to provide services to you.
 
 ### 7. European Economic Area (EEA)
 
-Please note that your personal data may be transferred outside of the EEA so that we can provide you with your requested services. Where such transfers are made it will be in accordance with applicable data protection laws to ensure sufficient protection of your personal data. If you have any concerns in relation to such transfers, please contact us. 
+Please note that your personal data may be transferred outside of the EEA so that we can provide you with your requested services. Where such transfers are made it will be in accordance with applicable data protection laws to ensure sufficient protection of your personal data. If you have any concerns in relation to such transfers, please email [compliance@ifrs.org](mailto:compliance@ifrs.org). 
 
 ### 8. Continued Processing
 
@@ -345,16 +360,16 @@ Your telephone calls and e-mails to us may be recorded and monitored for quality
 
 You have a right to ask us to stop processing your personal data, and if we do not need to process your data to carry out a service for you or communicate with you; or as permitted or required by law; we will cease all processing activities immediately.
 
-You also have a right to ask for a copy of the information we hold about you. We reserve the right to charge £10 to cover the costs involved and we will require valid identification (original driving licence or passport).  If there are any discrepancies in the information we provide, please let us know and we will correct them.
+You also have a right to ask for a copy of the information we hold about you. We will require valid identification (original driving licence or passport). If there are any discrepancies in the information we provide, please let us know and we will correct them.
 
-If you have any concerns, or if you would like us to stop processing your personal data or you  would like a copy of the information we hold about you, please contact us with your queries or request. In order to confirm your identity , we require proof of identification  to be sent by post to us for the attention of Head of Legal and Compliance at IFRS Foundation, First Floor, 30 Cannon Street, London EC4M 6XH.
+If you have any concerns, or if you would like us to stop processing your personal data or you  would like a copy of the information we hold about you, please email [compliance@ifrs.org](mailto:compliance@ifrs.org) with your queries or request. In order to confirm your identity , we require proof of identification  to be sent by post to us for the attention of Head of Legal and Compliance at IFRS Foundation, Columbus Building, 7 Westferry Circus, Canary Wharf, London, E14 4HD, UK.
 
-For further information see the [Information Commissioner’s guidance here](https://ico.org.uk/for-the-public/personal-information/).
+For further information see the [Information Commissioner’s guidance here](https://ico.org.uk/for-the-public/personal-information/).
 
 ### 14. Contact us
 
 If you have any queries relating to this Privacy Statement and Cookies Policy or you wish to notify us about any of the matters set out above, please feel free to contact us or by writing to:
 
-Legal Department, IFRS Foundation, 30 Cannon Street, London, EC4M 6XH, United Kingdom.
+Legal Department, IFRS Foundation, Columbus Building, 7 Westferry Circus, Canary Wharf, London, E14 4HD, UK.
 
-  This Privacy Statement was last updated: **May 2017.**
+  This Privacy Statement was last updated: **July 2018.**
