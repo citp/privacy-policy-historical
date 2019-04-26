@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlyle.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129191641id_/https%3A//www.carlyle.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlyle.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426130520id_/https%3A//www.carlyle.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | The Carlyle Group
 
