@@ -1,43 +1,51 @@
-> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227063734id_/http%3A//www.build.com/index.cfm%3Fpage%3Dsupport%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426094818id_/https%3A//www.build.com/support/security) for the most accurate reproduction.*
 
-# What Makes Build.com So Secure?
+# Security & Privacy Policies | Build.com
 
-The Privacy Information was last updated Apr 21, 2014. 
+**Security & Privacy**
 
-## Our Company
+ **\- Protecting Your Personal Information -**
+
+The Privacy Information was last updated Mar 14, 2018
+
+ **Our Company**
 
 Our postal address is:  
-Build.com, Inc.   
-402 Otterson Drive, Suite 100   
+Build.com, Inc.   
+402 Otterson Drive, Suite 100   
 Chico, CA 95928
 
 We can be reached online through our online Customer Service center. We can be contacted by phone at (800) 375-3403, which is our customer service call center.
 
-We electronically verify each transaction with the credit company, processing only those orders if the credit company so authorizes it. In the case of a suspicious or declined transaction, our company may contact you to confirm the validity and ensure your identity or cancel that order with full notification. 
+ **Transaction Security**
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the address of the window changing from http:// to https://, meaning a secure connection. In the event that an order cannot be completed, please contact our Customer Service. If our website cannot establish a secure connection, we will not risk your confidential information (it will not be transmitted). 
+We electronically verify each transaction with the credit company, processing only those orders if the credit company so authorizes it. In the case of a suspicious or declined transaction, our company may contact you to confirm the validity and ensure your identity or cancel that order with full notification.
 
-## Information you give us
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the address of the window changing from https:// to https://, meaning a secure connection. In the event that an order cannot be completed, please contact our Customer Service. If our website cannot establish a secure connection, we will not risk your confidential information (it will not be transmitted).
 
-We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, customizing future shopping suggestions, improving our store, and fulfilling your order. 
+ **Information you give us**
 
-*Emails: Email addresses we receive are used to contact you concerning inquiries before, during and after your order is placed, solely concerning your order. An exception to this is our Newsletters (more information below). 
+We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, customizing future shopping suggestions, improving our store, and fulfilling your order.
 
-## Automatic information
+See Terms of Service about Reviews, Comments, Communications and other forms of Content.
 
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your web browser accesses Build.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Build.com if we cannot recognize you, we want you to be aware that these tools exist. 
+*Emails: Email addresses we receive are used to contact you concerning inquiries before, during and after your order is placed, solely concerning your order. An exception to this is our Newsletters (more information below), as stated above when you provide an email in conjunction with establishing an account with us, and when providing content either in posts or via use of or mobile app. That content can be used as described herein, basically in any way we choose.
 
-## Cookies
+ **Automatic information**
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as the storage of items in your Shopping Cart. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you disable cookies, you will not be able to purchase from the Web site. We recommend that you leave them turned on or please contact our Customer Service to have your order placed. 
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your web browser accesses Build.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Build.com if we cannot recognize you, we want you to be aware that these tools exist.
 
-## Do Not Track Information
+ **Cookies**
 
-Build.com automatically collects key information from your browser session to provide a customized shopping experience. Without certain tracking code enabled, much of the functionality of the site, including but not limited to product recommendations, would cease to function. As such, we do not currently honor the do not track feature of your browser, as this would adversely affect the shopping experience. 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as the storage of items in your Shopping Cart. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you disable cookies, you will not be able to purchase from the Web site. We recommend that you leave them turned on or please contact our Customer Service to have your order placed.
 
-## Emails and newsletters
+ **Do Not Track Information**
 
-Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Build.com and our Network of Stores use email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including: 
+Build.com automatically collects key information from your browser session to provide a customized shopping experience. Without certain tracking code enabled, much of the functionality of the site, including but not limited to product recommendations, would cease to function. As such, we do not currently honor the do not track feature of your browser, as this would adversely affect the shopping experience.
+
+ **Emails and newsletters**
+
+Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Build.com and our Network of Stores use email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
 
   * A direct response to an inquiry,
   * Communication concerning an order (receipt, shipping confirmation, etc), or
@@ -45,24 +53,91 @@ Because we value your right to privacy, we do not sell or otherwise share your c
 
 
 
-From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by: 
+From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by:
 
   * Logging into your account and editing your "Change Billing Info"
   * Sending an email to newsletters@build.com
-  * Contacting us by phone at (800) 375-3403. Representatives in our call center can also alter your subscription preferences.
 
 
 
-## Sharing information
+Contacting us by phone at (800) 375-3403. Representatives in our call center can also alter your subscription preferences.
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. 
+ **Sharing information**
 
-## What About Third-Party Advertisers and Links to Other Websites?
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We engage 3d party vendors that collect information about your entire shopping experience while on our site. We review that information to understand your shopping habits and better serve you and other customers. We have made it clear to these vendors that this information is ours and they do not have rights to use that information. They only have rights to collect on our behalf. Information collected from you such as name, address and email is given to 3rd parties vendors we engage to use for marketing purposes at our direction and only on our behalf. These vendors may anonymize and aggregate data collected from you and use that data for the sole purpose of improving their product.
 
-Our site includes third-party advertising and links to other Web sites. Infomation about your browsing behaviour may be collected and used to provide more relevant ads to you. Like other online ad networks, we use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, “cookies”). Cookies enable us to learn about what ads you see, what ads you click, and other actions you take on our sites and other sites. This allows us to provide you with more useful and relevant ads. For example, if we know what ads you are shown we can be careful not to show you the same ones repeatedly. We do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads. 
+ **What About Third-Party Advertisers and Links to Other Websites?**
 
-If you wish to opt out from receiving interest-based advertising, [click here](http://www.aboutads.info/choices) and follow the instructions. Please note, because our opt-out is cookie-based, your browser must be set to accept third party cookies. 
+Our site includes third-party advertising and links to other Web sites. Information about your browsing behavior may be collected and used to provide more relevant ads to you. Like other online ad networks, we use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, “cookies”). Cookies enable us to learn about what ads you see, what ads you click, and other actions you take on our sites and other sites. This allows us to provide you with more useful and relevant ads. For example, if we know what ads you are shown we can be careful not to show you the same ones repeatedly. We do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads. 
 
-## Conditions of use, notices, and revisions
+If you wish to opt out from receiving interest-based advertising, [click here](https://www.aboutads.info/choices) and follow the instructions. Please note, because our opt-out is cookie-based, your browser must be set to accept third party cookies.
 
-If you choose to visit Build.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Build.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes. 
+Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog.
+
+To opt-out of receiving our direct mail or catalogs, you may send us an email at catalog@build.com or call us at (800) 375-3403.
+
+ **Conditions of use, notices, and revisions**
+
+If you choose to visit Build.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Build.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
+
+ **SMS Terms of Use**
+
+ _What is Build.com SMS?_
+
+Build.com provides SMS service to send order information. Order status, shipping status and delivered status. SMS will be sent if a subscriber opts in and has a mobile phone number. Standard messaging rates may apply. Message frequency will vary by user.
+
+A user may also opt-in to receive a one time message with a link to a specific product details, shopping cart items or mobile applications. MMS service is used to send messages of product photos to and from the user.
+
+ _What is the cost for Build.com SMS?_
+
+There is no additional charge for Build.com SMS services. However, normal text messaging rates or package deductions may apply. Please check with your carrier for details on your plan.
+
+ _What carriers are compatible with Build.com SMS?_
+
+Compatible carriers include: AT&T, T-Mobile*, Metro PCS, Verizon Wireless, Sprint, Nextel, Boost, Alltel, US Cellular and Cellular One. *T-Mobile is not liable for delayed or undelivered messages.
+
+ _Are there any additional charges associated with this service?_
+
+Standard message rates apply to all text messages. Message rates differ from carrier to carrier, please contact your wireless service provider to inquire about the details specific to your plan.
+
+ _Is Build.com SMS service available to international users?_
+
+Currently this service is only available to domestic service plans within the United States.
+
+ _How do I stop receiving SMS messages from Build.com?_
+
+To discontinue SMS service from Build.com, text " **STOP** " to 40791
+
+ _Who do I contact for help?_
+
+If you need any further assistance please contact us at 1-800-375-3403 or email CS@Build.com.
+
+ **Build.com App**
+
+With respect to Build.com Mobile Apps, the following Privacy/Security policy  
+
+The Privacy/Security Policy applicable to the Build.com websites apply to the Build.com apps; however, anything you upload to our Apps can and will be viewed by your team members, and as previously stated, you provide us a right to use uploaded material as we see fit.
+
+The Build.com app is meant to be shared with Build.com Team Members as well as others with whom you choose to share access to our Build.com Apps cannot be responsible for of personal information including credit card information when posted to the Build Mobile Apps. 
+
+We receive and store any information you enter on our App or give us in any other way. We use the information that you provide for such purposes as responding to your requests, customizing future shopping suggestions, improving our store, and fulfilling your order.  See Terms of Service Reviews, Comments, Communications and other forms of Content.  Email addresses we receive are used to contact you concerning inquiries before, during and after your order is placed, solely concerning your order. An exception to this is our Newsletters (more information below), as stated above when you provide an email in conjunction with establishing an account with us, and when providing content either in posts or via of our Mobile Apps. That content can be used as described herein, basically in any way we choose.
+
+The Privacy/Security Policy applicable to the Build.com websites apply to the Build.com Apps. 
+
+When posting or sharing do not post or share content containing your full name(s) or other confidential identifiable information of yourself or others. With regard to sharing personal information, doing so is at your own risk. Build.com is not responsible for damage or harm resulting from your choice to share personal information. Anything you upload to our app site, excluding payment information, can and will be viewed by your team members.
+
+You are responsible for your own data and usage costs.
+
+Recently Viewed Products
+
+[](https://web.archive.org/big-ass-fans-2025/s1313527?uid=3119757)
+
+7 Ft 6 Blade Commercial / Industria...
+
+[](https://web.archive.org/big-ass-fans-indoor-60/s1600557?uid=3822014)
+
+Haiku 60" Indoor 3 Blade DC Ceiling...
+
+[](https://web.archive.org/big-ass-fans-bas-hpf2-24050103100100p13/s1516335?uid=3557659)
+
+23" Wide High-Powered LED Commercia...
