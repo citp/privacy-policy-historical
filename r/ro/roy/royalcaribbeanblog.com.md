@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the royalcaribbeanblog.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224015021id_/https%3A//www.royalcaribbeanblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcaribbeanblog.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426163922id_/https%3A//www.royalcaribbeanblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Caribbean Blog
 
 ROYALCARRIBEANBLOG.COM  
 PRIVACY POLICY  
-Last Updated: June 5, 2018
+Last Updated: January 2, 2019
 
-This privacy policy (“Policy”) describes how Royalcarribeanblog.com, a website operated by Matt Hochberg, (the “Blog”) collects, uses and shares personal information of consumer users of this website, RoyalCarribeanBlog.com (the “Site”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
+This privacy policy (“Policy”) describes how Royalcarribeanblog.com, a website operated by Regal Sea Media LLC, (the “Blog”) collects, uses and shares personal information of consumer users of this website, RoyalCarribeanBlog.com (the “Site”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
 ### WHAT WE COLLECT
 
@@ -145,7 +145,7 @@ If you wish to exercise any of the rights set out above, please contact us. You 
 
  **CONTACT INFORMATION**. We welcome your comments or questions about this privacy policy. You may also contact us at our address:
 
-Royalcarribeanblog.com  
+Regal Sea Media LLC  
 6222 Lewis and Clark Ave  
 Winter Garden, Florida 34787  
 [matt@royalcarribbeanblog.com](mailto:matt@royalcarribbeanblog.com)
