@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607011616id_/https%3A//www.travelex.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426114427id_/https%3A//www.travelex.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Travelex
+# Privacy Policy | Travelex US
 
 * * *
 
@@ -150,4 +150,4 @@ This Privacy Policy was last updated on 22 September 2015 .
 
 **Contact**
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Travelex Currency Services Inc at [privacy.manager@travelexusa.com](mailto:privacy.manager@travelexusa.com) or 122 East 42nd Street, Suite 2800, New York, NY 10168, or by calling 1-800-511-7115.
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Travelex Currency Services Inc at [privacy.manager@travelexusa.com](mailto:privacy.manager@travelexusa.com) or 355 Lexington Ave, 3rd Floor, New York, NY 10017, or by calling 1-800-511-7115.
