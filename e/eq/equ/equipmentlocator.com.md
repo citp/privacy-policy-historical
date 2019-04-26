@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equipmentlocator.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226030958id_/http%3A//www.equipmentlocator.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equipmentlocator.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427005143id_/http%3A//equipmentlocator.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Page ELS-Equipment Locator Service
 
@@ -13,4 +13,4 @@ All data gathered from visitors to **Equipment Locator Service** and **Tom Rowe 
 
 **Tracking:** As with all web servers, our server keeps detailed logs of which pages are requested, including your IP address, operating system used, and web browser brand and version. The information gathered in our web server logs is analyzed to help us determine which pages are frequently used and the geographic origins of our users. The log files are not released to third parties - however, results of log analysis, such as "hit" counts and geographic breakdowns, may occasionally be released to third parties. Tom Rowe & Associates also tracks the following information: Search Queries: What parameters are used in equipment search queries (i.e. type, make, model, year, location). No personal information or IP address is associated with the queries. Equipment Hits: How many times a particular piece of equipment has been viewed. This information is shared only with the Equipment Locator Service dealer member who is listing the equipment. No personal information or IP address is associated with the queries. 
 
-If you have any questions or concerns regarding our privacy policies, please e-mail [info@tomrowe.com](mailto:info@tomrowe.com). 
+If you have any questions or concerns regarding our privacy policies, please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cda4a3aba28db9a2a0bfa2baa8e3aea2a0). 
