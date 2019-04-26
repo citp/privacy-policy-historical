@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycommerce.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104123714id_/https%3A//www.mycommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycommerce.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426221516id_/https%3A//www.mycommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mycommerce
 
