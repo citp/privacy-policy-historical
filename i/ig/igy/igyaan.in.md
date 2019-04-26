@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igyaan.in privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929011355id_/https%3A//www.igyaan.in/privacy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igyaan.in privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426074417id_/https%3A//www.igyaan.in/privacy-disclaimer) for the most accurate reproduction.*
 
 # Privacy & Disclaimer | iGyaan Network
 
