@@ -1,690 +1,497 @@
-<!--The following is the downloaded HTML source of the tagz.com privacy policy that was archived on 2013-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520210952id_/http%3A//www.twiig.com/policies.asp) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# twiigpublish: http://ogp.me/ns/apps/twiigpublish#">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<link rel="stylesheet" type="text/css" href="css/index_font.css">
-    <link rel="icon" href="http://www.twiig.com/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="http://www.twiig.com/favicon.ico" type="image/x-icon">
-    
-    <link rel="stylesheet" type="text/css" href="css/twiig_style.css">
-    
-
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="js/twiig.js"></script>
-    <script type="text/javascript" src="js/jquery-1.4.3.min.js"></script>
-    <script type="text/javascript" src="js/jquery.tinyscrollbar.js"></script>
-    <script type="text/javascript" src="js/cloudbox.js"></script>
-
-    <script type="text/javascript">
-		
-			(function($)
-			{
-				$.fn.stickyContent = function()
-				{
-					var gotBottom       = 0;
-					var elem 		    = this;
-					var elemPosTop      = this.position().top;			
-					var containerHeight = $("#sidebarContainer").position().top + $("#sidebarContainer").height();
-					
-					$(window).scroll(function()
-					{
-						var wintop = $(window).scrollTop(), docheight = $(document).height(), winheight = $(window).height();
-						if (wintop > elemPosTop)
-							elem.css({ "position":"fixed", "top":"10px" });
-						else
-							elem.css({ "position":"absolute", "top":elemPosTop+"px" });
-		
-						if($(window).scrollTop() > (containerHeight-600)) { elem.css({ "position":"fixed", "top":""+((containerHeight-600)-$(window).scrollTop())+"px" });}
-					});
-					return this;
-				};
-			
-			})(jQuery);
- 		
-</script>
-
-    
-	<script type="text/javascript" src="js/twiig_ads.js"></script>
-    <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
-    
-    
-	<script type="text/javascript">
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-    (function() {
-    var gads = document.createElement('script');
-    gads.async = true;
-    gads.type = 'text/javascript';
-    var useSSL = 'https:' == document.location.protocol;
-    gads.src = (useSSL ? 'https:' : 'http:') +
-    '//www.googletagservices.com/tag/js/gpt.js';
-    var node = document.getElementsByTagName('script')[0];
-    node.parentNode.insertBefore(gads, node);
-    })();
-    </script>
-      
-    
-    
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
-    
-    <title>Twiig - Meet and share with people in your area.</title>
-    
-
-    <meta name="medium" content="blog">
-    <meta name="title" content="Twiig - Meet and share with people in your area.">
-    <meta name="description" content="Twiig is a social network that allows you to MEET and DISCUSS with people in YOUR AREA who share the same INTERESTS as you! Come share your photos, videos, thoughts and lifestyle!">
-    <meta property="og:description" content="Twiig is a social network that allows you to MEET and DISCUSS with people in YOUR AREA who share the same INTERESTS as you! Come share your photos, videos, thoughts and lifestyle!">
-    <link id="image_src" rel="image_src" href="http://www.twiig.com/images/twiig_facebook_icon.png">
-    <meta property="og:title" content="Come and check out Twiig.com!">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="http://www.facebook.com/pages/Twiig/194686600640309">
-    <meta property="og:image" content="http://www.twiig.com/images/twiig_facebook_icon.png">
-    <meta property="og:site_name" content="http://www.twiig.com">
-    <meta property="fb:app_id" content="109647035847023">
-
-    
-
-    <script language="javascript" type="text/javascript">
-        var global_menu = "";
-        var position 	= 0;
-        var move_pos 	= 0;
-        var flag     	= false;
-        var arrUsed 	= new Array();
-
-        var adDoPub      = 1;
-        var adTagzProfil = "";
-        var adTagzSex  	 = "";
-        var adTagzLang   = "0";
-        var adTagzAge    = "";
-        var adTagzGlobalSite    = "";
-
-        if (isNaN(adTagzProfil)) adTagzProfil = 0;
-        if (isNaN(adTagzSex))    adTagzSex 	  = 0;
-        if (isNaN(adTagzLang))   adTagzLang   = 1;
-        if (isNaN(adTagzAge))    adTagzAge    = 0;
-        if (isNaN(adTagzGlobalSite))    adTagzAge    = 100;
-
-        Array.prototype.inArray = function(p_val)
-        {
-            var l = this.length;
-            for(var i = 0; i < l; i++) {
-                if(this[i] == p_val) {
-                    return true;
-                }
-            }
-            return false;
-        }
-    </script>
-
-    <script>
-$(document).ready(function(){
-$(".fbautoimg").css("opacity", "0");
-$('.regular_input_txtmsg').focus(function() {
-	//$(this).val("");
-    $(this).delay(200).css("color","#707070");
-});
-$('.regular_input_txtmsg').focusout(function() {
-    $(this).css("color","#cccccc");
-});
-
-$(".fbautologin").hover(function() {
-$(".fbautoimg").stop().animate({"opacity": "1"},"fast");
-},
-function() {
-$(".fbautoimg").animate({"opacity": "0"},"fast");
-});
-
-});
-
-/*$(document).ready(function() {
-		$("#explBarBubbpe").animate({"opacity":"1"},"fast");
-	 });*/
-
-function closeBarBubble(){
-		$("#explBarBubbpe").fadeOut("fast");
-		if (window.XMLHttpRequest)
-		  {xmlhttp=new XMLHttpRequest();}
-			else{xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
-			xmlhttp.onreadystatechange=function(){}
-		xmlhttp.open("GET","bubble_write.asp?bid=&btype=3",true);
-		xmlhttp.send();
-}
-function closeProfileBubble(){
-		$("#explBarProfile").fadeOut("fast");
-		if (window.XMLHttpRequest)
-		  {xmlhttp=new XMLHttpRequest();}
-			else{xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
-			xmlhttp.onreadystatechange=function(){}
-		xmlhttp.open("GET","bubble_write.asp?bid=&btype=10",true);
-		xmlhttp.send();
-}
-</script>
-
-</head>
-
-<body>
-<div id="fb-root"></div>
-
-<script src="http://connect.facebook.net/en_US/all.js"></script>
-
-<script type="text/javascript" language="javascript">
-
-    window.fbAsyncInit = function () {
-        FB.init({
-            appId: '109647035847023', // App ID
-            //channelUrl: '//www.twiig.com/fb_channel.asp', // Channel File
-            status: true, // check login status
-            cookie: true, // enable cookies to allow the server to access the session
-            xfbml: true  // parse XFBML
-        });
-    };
-
-    (function (d, s, id) {
-
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js";
-        fjs.parentNode.insertBefore(js, fjs);
-    } (document, 'script', 'facebook-jssdk'));
-
-	function onMyEmailLoaded(response) {
-		formSubmitPost("fb_login.asp","varstamp="+response.id);
-	}
-	function showMyEmail()
-	{
-		
-		FB.api('/me/', onMyEmailLoaded);
-		
-	}
-
-	function getFBEmail() {
-	FB.getLoginStatus(onFacebookInitialLoginStatus);
-	}
-
-	function facebookLogin()
-	{
-		FB.login(onFacebookLoginStatus, {scope:'user_about_me,user_location,email,user_birthday,user_photos,user_hometown,publish_stream,publish_actions'});
-	}
-	function onFacebookInitialLoginStatus(response)
-	{
-		if (response.status=="connected" && response.authResponse)
-		{
-			showMyEmail();
-		}
-		else
-		{
-			facebookLogin();
-		}
-	}
-	function onFacebookStatusChange(response)
-	{
-	}
-	function onFacebookLoginStatus(response)
-	{
-		if (response.status=="connected" && response.authResponse)
-		{
-			showMyEmail();
-		}
-		else
-		{
-		}
-	}
-
-
-	var reloadBar = false;
-	var delay = (function(){
-		var timer = 0;
-		return function(callback, ms){
-			clearTimeout (timer);
-			timer = setTimeout(callback, ms);
-		};
-	})();
-
-	function LoadBar()
-	{
-		
-				TriggerHeadBar();
-			
-			setTimeout(function() { reloadBar = true; }, 1000)
-		
-
-	}
-
-	$(window).resize(function()
-	{
-		if(reloadBar)
-		{
-			
-					delay(function(){ TriggerHeadBar();  }, 500);
-				
-		}
-	});
-
-
-
-</script>
-
-
-
-	<script language="javascript" type="text/javascript">
-		function grayOver(sender) { sender.style.backgroundImage = "url(images/index_new_enter_on.png)"; }
-		function grayOn(sender)   { sender.style.backgroundImage = "url(images/enter_btn_on.png)";   }
-		function grayOut(sender)  { sender.style.backgroundImage = "url(images/index_new_enter_off.png)";      }
-
-		function loadTopHeadBar(headTab,arrIds,arrPic,arrUsed)
-		{
-			pageWidth  = parseInt($(window).width());
-			screenWIdth= parseInt(screen.width);
-			headTab.style.width="0px";
-
-			for(var i = 0; i < arrIds.length; i++)
-			{
-				tableWidth = parseInt(headTab.offsetWidth+57);
-				if((tableWidth<=screenWIdth) && (tableWidth<=pageWidth) && (arrIds[i]!="") && (arrUsed.inArray(arrIds[i])==false))
-				{
-
-					var vTD    = document.createElement("TD");
-					var vLnk   = document.createElement("A");
-					var vImg   = document.createElement("Img");
-					var vSpan  = document.createElement("Span");
-					var vImgTT = document.createElement("Img");
-
-					var tmpPic= "http://storage.twiig.com/profil_pics/"+arrPic[i].replace("/pro","/80_pro")
-					arrUsed.push(arrIds[i]);
-
-					vLnk.href = "profil_view.asp?uid="+arrIds[i]+"&top=1";
-					vLnk.className = "HdrTooltip";
-
-					vImg.border       = 0;
-					vImg.style.width  = "57px";
-					vImg.style.height = "55px";
-					vImg.src   	      = tmpPic;
-
-					vImgTT.border     = 0;
-					vImgTT.width      = 84;
-					vImgTT.height     = 82;
-					vImgTT.src        = tmpPic;
-					vImgTT.onclick    = function() { window.location=this.parentNode.parentNode.href; };
-
-					vSpan.appendChild(vImgTT);
-					vLnk.appendChild(vSpan);
-					vLnk.appendChild(vImg);
-					vTD.appendChild(vLnk);
-					headTab.getElementsByTagName("TR")[0].appendChild(vTD);
-				}
-			}
-
-			if(pageWidth<=screenWIdth)
-				headTab.style.width="100%";
-			else
-				headTab.style.width="0px";
-
-		}
-
-		function checkLogin()
-		{
-			with(document.login_frm)
-			{
-				if((login.value=="") || (login.value=="Login"))
-				{
-					alert("Please specify your your login");
-				}
-				else if ((pass.value=="") || (pass.value=="Password"))
-				{
-					alert("Please specify your password");
-				}
-				else
-				{
-					submit();
-				}
-			}
-		}
-
-		function clearField(sender)
-		{
-			if(sender.name=="login")
-			{
-				if(sender.value=="Login") sender.value="";
-			}
-			else
-			{
-				if(sender.value=="Password")
-				{
-					sender.value = "";
-
-					var input= sender.cloneNode(false);
-					input.setAttribute('type','password');
-					sender.parentNode.replaceChild(input,sender);
-					setTimeout(function() { document.getElementsByName('pass')[0].focus(); }, 100);
-
-				}
-			}
-		}
-
-		function processKey(e)
-		{
-
-			if (null == e) e = window.event ;
-			if (e.keyCode == 13 && $(document.getElementById('loginNameField').value != "") && document.getElementById('loginPassField').value != "" && document.getElementById('loginPassField').value != "Password") { checkLogin(); };
-		}
-
-        function TriggerHeadBar()
-        {
-			if(document.getElementById("TopHeadBar"))
-			{
-				var headTab = document.getElementById("TopHeadBar").getElementsByTagName("table")[0];
-				var arrIds  = ("").split("::");
-				var arrPic  = ("").split("::");
-
-				loadTopHeadBar(headTab,arrIds,arrPic,arrUsed);
-			}
-        }
-
-		LoadBar();
-	</script>
-
-    <table width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#000; border-bottom:1px solid #515151">
-    <tbody><tr>
-        <td align="center" valign="top" style="height:100px; width:100%; height:84px;">
-            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
-                <tbody><tr>
-                    <td align="center" valign="top">
-                        <form name="login_frm" action="profil_login.asp" method="post">
-                            <table width="980" cellspacing="0" cellpadding="0" border="0">
-                                <tbody><tr>
-                                    <td>
-                                        <table cellspacing="0" cellpadding="0" border="0" width="100%" height="84">
-                                            <tbody><tr valign="top">
-                                                <td align="left" width="484" valign="top">
-												
-                                                    	<a href="index.asp"><img src="images/index_new_logo_white.png" border="0"></a>
-													
-                                                </td>
-                                                <td align="right" valign="top" height="84">
-                                                
-                                                        <table cellspacing="0" cellpadding="0" border="0">
-                                                            <tbody><tr><td colspan="6" align="right">&nbsp;</td></tr>
-                                                            <tr><td colspan="6" height="2" style="line-height:2px">&nbsp;</td></tr>
-                                                            <tr>
-                                                                <td style="height:31px; !important">
-                                                                    <table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td alt="Connect with Facebook" name="Connect with Facebook"><div class="fbautologin" style="background-image:url(/images/login_fb_icon_black_off.png); background-repeat:no-repeat; cursor:pointer; margin-top:2px;" onclick="getFBEmail()" title="Connect with Facebook"><img class="fbautoimg" style="opacity:0" src="/images/login_fb_icon_black_hover.png"></div>
-                                                                    </td><td align="center" width="45" class="f_default_gray" style="font-style:italic; color:#d3d3d3;">or</td></tr></tbody></table>
-                                                                </td>
-                                                                <td align="center" style="height:31px; !important">
-                                                                    <table cellpadding="0" cellspacing="0" border="0" width="152" height="32" bgcolor="#515151">
-                                                                        <tbody><tr>
-                                                                            <td align="center" valign="middle">
-                                                                            
-                                                                                <input id="loginNameField" type="text" name="login" size="15" value="Login" onfocus="clearField(this)" onkeypress="processKey(event)" style="width:142px; font-style:italic; font-size:13px; background-color:#515151; color:#f3f4f4" onblur="if(this.value == '') { this.value = 'Login';}">
-                                                                            </td>
-                                                                        </tr>
-                                                                    </tbody></table>
-                                                                </td>
-                                                                <td width="14">&nbsp;</td>
-                                                                <td align="center" style="height:31px; !important">
-                                                                    <table cellpadding="0" cellspacing="0" border="0" width="152" height="32" bgcolor="#515151">
-                                                                        <tbody><tr>
-                                                                            <td align="center" valign="middle">
-                                                                                <input id="loginPassField" name="pass" type="text" size="15" value="Password" onfocus="clearField(this)" onkeypress="processKey(event)" style="width:142px; font-style:italic; font-size:13px; background-color:#515151; color:#f3f4f4">
-                                                                            </td>
-                                                                        </tr>
-                                                                    </tbody></table>
-                                                                </td>
-                                                                <td width="14">&nbsp;</td>
-                                                                <td valign="middle">
-                                                                    <table cellpadding="0" cellspacing="0" border="0" width="69" height="32">
-                                                                        <tbody><tr>
-                                                                            <td align="center" valign="middle" style="background:url(images/index_new_enter_off.png) no-repeat; width:69px; height:31px !important; cursor:pointer;" onmouseover="grayOver(this)" onmouseout="grayOut(this)" onclick="checkLogin();">
-                                                                                Enter
-                                                                            </td>
-                                                                        </tr>
-                                                                    </tbody></table>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td></td>
-                                                                <td align="left">
-                                                                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                                                                        <tbody><tr>
-                                                                            <td valign="middle"><input style="margin:0; padding:0;" id="chStayconnect" name="chStayconnect" type="checkbox" value="1"></td>
-                                                                            <td valign="middle" style="font-size:11px; color:#d3d3d3;">Remember me</td>
-                                                                        </tr>
-                                                                    </tbody></table>
-                                                                </td>
-                                                                <td width="5">&nbsp;</td>
-                                                                <td colspan="3" align="left" style="font-size:11px;"><a href="profil_lost_pass.asp" style="font-size:11px; color:#d3d3d3;">Lost password?</a></td>
-                                                            </tr>
-                                                        </tbody></table>
-                                                    
-                                                </td>
-                                            </tr>
-                                        </tbody></table>
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        </form>
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-    </tbody></table>
-	
-<script>
-function createAccount(fb)
-{
-	makePOSTRequest("account_create.asp","popUp=1&facebook="+fb,function(){
-		with(http_request)
-		if(readyState==4 && status==200)
-			if(responseText.length>0)
-			{
-			_initCloudBox("SUBSCRIBE FOR FREE!",responseText, 625, 200);
-			}
-	});
-}
-</script>
-<table width="100%" cellpadding="0" cellspacing="0" border="0" align="left">
-    <tbody><tr>
-        <td align="center" valign="top">
-            <table width="980" cellspacing="20" cellpadding="0" border="0" align="center" bgcolor="#ffffff">
-                <tbody><tr><td align="left" class="f_large_darkblue"><b>PRIVACY POLICY</b></td></tr>
-                <tr><td height="5" style="line-height:5px;">&nbsp;</td></tr>
-                <tr>
-                	<td align="left" class="f_default_gray" bgcolor="#ffffff">
-						
-                            <p class="f_medium_gray" style="font-weight:bold">1.	In General</p><br>
-                            <p>This policy is written in accordance with the laws and regulations of the Province of Quebec.</p><br>
-                            <p>This Privacy Policy informs users of how their information is collected, used or communicated.  Except when otherwise stated on Twiig.com, the site is open to all users. Therefore, by using this website, by becoming a member or by subscribing to the different services offered, you agree to be bound by this Privacy Policy.</p><br>
-                            <p>We strongly suggest you read this Privacy Policy carefully before using our website or submitting any personal information.</p><br>
-                            <p>Twiig.com reserves the right, in its sole discretion, to change the Privacy Policy by updating this web page, without prior notice.</p><br>
-                            <p>The policies described on this page are only valid for Twiig.com and do not apply to any of the sites Twiig.com is linked to.</p><br>
-                            <p>Twiig.com does not offer any guarantee and is not responsible for any of the other websites to which a user might be granted access through Twiig.com.</p><br>
-                            
-                            <p class="f_medium_gray" style="font-weight:bold">2.	Collecting information</p><br>
-                            <p>Names, addresses, postal codes, marital statuses, dates of birth, emails, are all personal information that users voluntarily choose to submit when subscribing. The users agree that the submitted and collected information is used to respond to their expectation towards Twiig.com. </p><br>
-                            
-                            <p>Use of cookies and other technologies to collect information</p><br>
-                            <p>We use cookies and various other technologies to collect information from your computer. Each time you visit our website, information is automatically collected from your browser. This information includes your IP address, your browser type, language as well as access times and is used by Twiig.com to know the number of people having access to Twiig.com. </p><br>
-                            <p>Our website might share some of this information with third parties but does not provide any personal information to these parties.  Users may change the settings of their browsers to refuse or destroy these cookies.</p><br>
-                            
-                            <p class="f_medium_gray" style="font-weight:bold">3.	Use of collected information</p><br>
-                            <p>Personal information collected is never shared with third parties for the purpose of publicity or marketing uses.</p><br>
-                            <p>Only the general information submitted by users through their profile on Twiig.com is published online.</p><br>
-                            <p>Users may, in any time, withdraw the information they submitted or correct them online or by communicating with Twiig.com.</p><br>
-                            <p>In some situations, Twiig.com may have to share information with government agencies and other corporations. This is notably the case:</p>
-                            <p>1.	When it is allowed or required by law;</p>
-                            <p>2.	To respond to an emergency situation where someone's life, well-being or security is at stake;</p>
-                            <p>3.	To hold an internal investigation into a possible infringement to a Canadian law; </p>
-                            <p>4.	When the information is already accessible to the public.</p><br>
-                            
-                            <p class="f_medium_gray" style="font-weight:bold">4.	Security</p><br>
-                            <p>The recognizable personal information is safeguarded by being stocked and encrypted during its transmission. Only an authorized employee of Twiig.com can have access to this information.</p><br>
-                            <p>Twiig.com is equipped with a system to protect the transmitted information.  However, Twiig.com is not to be held responsible for the transmission of any type of computer virus in any shape or form. Surfing or downloading information on the website is done at the users' own risks.</p><br>
-                            <p>Users are responsible not to disclose confidential information in their profile and in the messages they send to other users via Twiig.com. </p><br>
-                            
-                            <p class="f_medium_gray" style="font-weight:bold">5.	Other policies</p><br>
-                            <p>This policy is governed, interpreted and supervised by the laws applicable in the Province of Quebec and all litigious matters that may arise from it are to be decided by the judiciary of Quebec City, Province of Quebec.</p><br>
-                            <p>For any questions pertaining to this Privacy Policy or if you like to request information on Twiig.com is inner workings or its Terms and Conditions Agreement, please contact Twiig.com costumer service. </p><br><br><br>
-                        
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-</tbody></table>
-
-
-
-<script type="text/javascript" src="js/json2.js"></script>
-
-
-
-
-<!-- ---------------------------------------- // MOVEMBER --------------------------------------------------- -->
-
-
-<!-- ---------------------------------------- // MOVEMBER --------------------------------------------------- -->
-
-
-    <table cellpadding="0" cellspacing="0" width="100%" border="0" align="left">
-	    
-        <tbody><tr>
-            <td>
-                <table width="100%" cellspacing="0" cellpadding="0" border="0" style="height:45px;background:#000000;bottom:0;z-index:150;" class="f_default_light">
-                    <tbody><tr><td align="center">
-	<script type="text/javascript" language="javascript">
-	function openLanguagePopup()
-	{
-		$(document).scrollTop(0);
-		_initCloudBox('Pick a Language','<table cellspacing=10 cellpadding=0 border=0 width="100%" align="center" class="f_default_gray"><tr><td height="10" style="line-height:10px">&nbsp;</td></tr><tr><td align="center"><a href="javascript:changeLanguage(1);">FRENCH</a></td></tr><tr><td align="center"><a href="javascript:changeLanguage(0);">ENGLISH</a></td></tr><tr><td height="10" style="line-height:10px">&nbsp;</td></tr></table>',450,150);
-	}
-
-	function changeLanguage(lang)
-	{
-		document.frmFooter.lang.value = lang;
-		document.frmFooter.submit();
-	}
-	</script>
-    <form method="post" id="frmFooter" name="frmFooter" action="">
-    <table width="980" cellspacing="0" cellpadding="0" border="0">
-        <tbody><tr>
-            <td align="left">
-                <table cellpadding="0" cellspacing="0" border="0" align="left">
-                    <tbody><tr>
-                        <td><a style="font-size:11px;" href="media.asp">Media</a></td>
-                        <td width="15" align="center">·</td>
-                        <td><a style="font-size:11px;" href="master_terms.asp">Terms and Conditions</a></td>
-                        <td width="15" align="center">·</td>
-                        <td><a style="font-size:11px;" href="policies.asp">Privacy Policy</a></td>
-                        <td width="15" align="center">·</td>
-                        <td><a style="font-size:11px;" href="contact.asp">Publicity</a></td>
-                        <td width="15" align="center">·</td>
-                        <td><a style="font-size:11px;" href="contact.asp">Contact Us</a></td>
-                        <td width="15" align="center">·</td>
-                        <td><a style="font-size:11px;" href="javascript:openLanguagePopup();">English</a></td>
-                    </tr>
-                </tbody></table>
-            </td>
-            <td align="right">
-                <table cellpadding="0" cellspacing="0" border="0" align="right">
-                	<tbody><tr>
-                        <td style="font-size:11px;">Twiig.com © 2013</td>
-                        <td style="font-size:11px;" width="20" align="center">-</td>
-                        <td style="font-size:11px;">All rights reserved</td>
-                        
-                        <td width="10">&nbsp;</td>
-                        <td align="right"><iframe src="//www.facebook.com/plugins/like.php?locale=en_US&amp;href=http://www.facebook.com/pages/Twiig/194686600640309&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; width:100px; height:21px; font-size:10px;" allowtransparency="true"></iframe></td>
-                        
-                    </tr>
-                </tbody></table>
-            </td>
-        </tr>
-    </tbody></table>
-    <input type="hidden" name="lang">
-    </form>
-    </td></tr>
-                </tbody></table>
-            </td>
-        </tr>
-    </tbody></table>
-
-
-
-
-
-    
-    
-	<div id="adBigBoxBox" style="display:none;">
-		<script src="http://www.googletagservices.com/tag/js/gpt.js">
-        if(document.getElementById('adBigBox'))
-        {
-            
-            AdBigBox();
-            
-        }
-        </script>
-	</div>
-    
-	<script type="text/javascript">
-		function makeObjectsOpaque()
-        {
-            var elementToAppend = document.createElement('param');
-            elementToAppend.setAttribute('name', 'wmode');
-            elementToAppend.setAttribute('value', 'opaque');
-            var objects = document.getElementsByTagName('object');
-        
-            objWMode = document.getElementsByTagName('param');
-            for(var j=0;j<objWMode.length;j++)
-              if(objWMode[j].getAttribute("name")=="wmode")
-                 objWMode[j].parentNode.removeChild(objWMode[j]);
-        
-            for (var i = 0; i < objects.length; i++) 
-            {
-                var newObject = objects[i].cloneNode(true);
-                elementToAppend = elementToAppend.cloneNode(true);
-        
-                newObject.appendChild(elementToAppend);
-                objects[i].parentNode.replaceChild(newObject, objects[i]);
-            }
-        }
-	
-        if(document.getElementById('adBigBox'))
-        {
-            makeObjectsOpaque();
-            document.getElementById('adBigBox').appendChild(document.getElementById('adBigBoxBox'));
-            document.getElementById('adBigBoxBox').style.display="";
-        }
-    </script>
-
-	<div id="adSkyBox" style="display:none;">
+<!--The following is the downloaded HTML source of the tagz.com privacy policy that was archived on 2019-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190426085255id_/https%3A//tagz.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://tagz.com/xmlrpc.php">
+	<title>TAGZ | Privacy Policy</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://tagz.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="TAGZ | Privacy Policy">
+<meta property="og:description" content="Privacy Policy At TAGZ, we are committed to protecting your privacy in accordance with the Privacy Act 1988. This Privacy...">
+<meta property="og:url" content="https://tagz.com/privacy-policy/">
+<meta property="og:site_name" content="TAGZ Exchange">
+<meta property="article:publisher" content="https://www.facebook.com/tagzexchange/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Privacy Policy At TAGZ, we are committed to protecting your privacy in accordance with the Privacy Act 1988. This Privacy...">
+<meta name="twitter:title" content="TAGZ | Privacy Policy">
+<meta name="twitter:site" content="@tagzexchange">
+<meta name="twitter:creator" content="@tagzexchange">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tagz.com/#organization","name":"Tagz Group Pty Ltd","url":"https://tagz.com/","sameAs":["https://www.facebook.com/tagzexchange/","https://www.linkedin.com/company/tagzexchange/","https://www.youtube.com/channel/UCnksUM6Pyd9eGLQkyaV_AAw?view_as=subscriber","https://twitter.com/tagzexchange"],"logo":{"@type":"ImageObject","@id":"https://tagz.com/#logo","url":"https://tagz.com/wp-content/uploads/logo_footer.png","caption":"Tagz Group Pty Ltd"},"image":{"@id":"https://tagz.com/#logo"}},{"@type":"WebSite","@id":"https://tagz.com/#website","url":"https://tagz.com/","name":"TAGZ","publisher":{"@id":"https://tagz.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://tagz.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://tagz.com/privacy-policy/#webpage","url":"https://tagz.com/privacy-policy/","inLanguage":"en-US","name":"TAGZ | Privacy Policy","isPartOf":{"@id":"https://tagz.com/#website"},"datePublished":"2019-03-19T03:20:55+00:00","dateModified":"2019-03-21T08:26:06+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="TAGZ Exchange » Feed" href="https://tagz.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="TAGZ Exchange » Comments Feed" href="https://tagz.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="TAGZ Exchange » Privacy Policy Comments Feed" href="https://tagz.com/privacy-policy/feed/">
 		<script type="text/javascript">
-        if(document.getElementById('adSky'))
-        {
-        	//	AdSky();
-        }
-        </script>
-	</div>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tagz.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=e7a181746b2359367f22eba55ba36e2e"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://tagz.com/wp-includes/js/wp-emoji-release.min.js?ver=e7a181746b2359367f22eba55ba36e2e" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="ct-preloader-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-preloader.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<style id="ct-preloader-inline-css" type="text/css">
 
+		body:not(.compose-mode) .ct-icon .ct-icon-half-1,
+		body:not(.compose-mode) .ct-icon .ct-icon-half-2 {
+			opacity: 0 !important;
+			}
+</style>
+<link rel="stylesheet" id="ct-reset-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-reset.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<style id="ct-reset-inline-css" type="text/css">
 
-
-
-
+		.fullwidth-block {
+			-webkit-transform: translate3d(0, 0, 0);
+			-moz-transform: translate3d(0, 0, 0);
+			-ms-transform: translate3d(0, 0, 0);
+			transform: translate3d(0, 0, 0);
+		}
+</style>
+<link rel="stylesheet" id="ct-grid-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-grid.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="ct-style-css" href="https://tagz.com/wp-content/themes/cryption/style.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="ct-header-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-header.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="ct-widgets-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-widgets.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="ct-new-css-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-new-css.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="perevazka-css-css-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-perevazka-css.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="ct-google-fonts-css" href="//fonts.googleapis.com/css?family=Barlow%3Aregular%2C300%2C800%2C700%7CMontserrat%3A700%2Cregular%7COpen+Sans%3A700&amp;subset=latin-ext%2Clatin%2Ccyrillic-ext%2Cvietnamese%2Ccyrillic%2Cgreek-ext%2Cgreek&amp;ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="ct-custom-css" href="https://tagz.com/wp-content/themes/cryption/css/custom.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://tagz.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.7" type="text/css" media="all">
+<link rel="stylesheet" id="ct-additional-blog-1-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-additional-blog-1.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="ct-hovers-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-hovers.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-fancybox-css" href="https://tagz.com/wp-content/themes/cryption/js/fancyBox/jquery.fancybox.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="ct-vc_elements-css" href="https://tagz.com/wp-content/themes/cryption/css/ct-vc_elements.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://tagz.com/wp-includes/css/dist/block-library/style.min.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://tagz.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=e7a181746b2359367f22eba55ba36e2e" type="text/css" media="all">
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-34507619-1']);
-  _gaq.push(['_setDomainName', 'twiig.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+/* <![CDATA[ */
+var ctSettings = {"isTouch":"","forcedLasyDisabled":"","tabletPortrait":"1","tabletLandscape":"1","topAreaMobileDisable":"","parallaxDisabled":"","fillTopArea":"","themePath":"https:\/\/tagz.com\/wp-content\/themes\/cryption","rootUrl":"https:\/\/tagz.com","mobileEffectsEnabled":"","isRTL":""};
+/* ]]> */
 </script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/ct-settings-init.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/ct-fullwidth-loader.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://tagz.com/wp-content/themes/cryption/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<script type="text/javascript" src="https://tagz.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://tagz.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<link rel="https://api.w.org/" href="https://tagz.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tagz.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tagz.com/wp-includes/wlwmanifest.xml"> 
+
+<link rel="shortlink" href="https://tagz.com/?p=3">
+<link rel="alternate" type="application/json+oembed" href="https://tagz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftagz.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://tagz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftagz.com%2Fprivacy-policy%2F&amp;format=xml">
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//tagz.com/?wordfence_lh=1&hid=F871BEBE1F0E1D508E76426780609306');
+</script>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://tagz.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+
+<body class="page-template-default page page-id-3 wpb-js-composer js-comp-ver-5.7 vc_responsive">
+
+
+	<div id="page-preloader"><div class="page-preloader-spin"></div></div>
+	
+<div id="page" class="layout-fullwidth">
+
+			<a href="#page" class="scroll-top-button"></a>
+	
+	
+		
+		<div id="site-header-wrapper" class="site-header-wrapper-transparent">
+
+			
+			<header id="site-header" class="site-header animated-header" role="banner">
+								
+				<div class="transparent-header-background" style="background-color: rgba(255, 255, 255, 0);">					<div class="container">
+						<div class="header-main logo-position-left header-colors-light header-layout-default header-style-">
+															<div class="site-title">
+									<div class="site-logo">
+	<a href="https://tagz.com/" rel="home">
+					<span class="logo"><img src="https://tagz.com/wp-content/uploads/ct-logos/logo_c4845812abdb608f84b3e16ee70cd44e_1x.png" srcset="https://tagz.com/wp-content/uploads/ct-logos/logo_c4845812abdb608f84b3e16ee70cd44e_1x.png 1x,https://tagz.com/wp-content/uploads/ct-logos/logo_c4845812abdb608f84b3e16ee70cd44e_2x.png 2x,https://tagz.com/wp-content/uploads/ct-logos/logo_c4845812abdb608f84b3e16ee70cd44e_3x.png 3x" alt="" style="width:210px;" class="default"><img src="https://tagz.com/wp-content/uploads/ct-logos/logo_509ba4738693ebaa3efd89602f1801bd_1x.png" srcset="https://tagz.com/wp-content/uploads/ct-logos/logo_509ba4738693ebaa3efd89602f1801bd_1x.png 1x,https://tagz.com/wp-content/uploads/ct-logos/logo_509ba4738693ebaa3efd89602f1801bd_2x.png 2x,https://tagz.com/wp-content/uploads/ct-logos/logo_509ba4738693ebaa3efd89602f1801bd_3x.png 3x" alt="" style="width:140px;" class="small light"><img src="https://tagz.com/wp-content/uploads/ct-logos/logo_509ba4738693ebaa3efd89602f1801bd_1x.png" srcset="https://tagz.com/wp-content/uploads/ct-logos/logo_509ba4738693ebaa3efd89602f1801bd_1x.png 1x,https://tagz.com/wp-content/uploads/ct-logos/logo_509ba4738693ebaa3efd89602f1801bd_2x.png 2x,https://tagz.com/wp-content/uploads/ct-logos/logo_509ba4738693ebaa3efd89602f1801bd_3x.png 3x" alt="" style="width:140px;" class="small"></span>
+			</a>
+</div>
+								</div>
+																	<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+										<button class="menu-toggle dl-trigger">Primary Menu<span class="menu-line-1"></span><span class="menu-line-2"></span><span class="menu-line-3"></span></button>
+																				<ul id="primary-menu" class="nav-menu dl-menu styled no-responsive"><li id="menu-item-3491" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3491 megamenu-first-element mobile-clickable"><a href="https://tagz.com/#about">About</a></li>
+<li id="menu-item-3492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3492 megamenu-first-element mobile-clickable"><a href="https://tagz.com/#DGE">Platform</a></li>
+<li id="menu-item-3699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3699 megamenu-first-element"><a href="https://tagz.com/#affiliates_airdrops">Affiliates/Airdrops</a></li>
+<li id="menu-item-3493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3493 megamenu-first-element mobile-clickable"><a href="https://tagz.com/#crowdsale">Crowdsale</a></li>
+<li id="menu-item-3494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3494 megamenu-first-element mobile-clickable"><a href="https://tagz.com/#roadmap">Roadmap</a></li>
+<li id="menu-item-3497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3497 megamenu-first-element mobile-clickable"><a href="https://account.tagz.com/register"><b>Sign Up</b></a></li>
+<li id="menu-item-3496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3496 megamenu-first-element mobile-clickable"><a href="https://tagz.com/#faq">FAQ</a></li>
+<li id="menu-item-3495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3495 megamenu-first-element mobile-clickable"><a href="https://tagz.com/#team">Team</a></li>
+</ul>									</nav>
+																					</div>
+					</div>
+					</div>			</header><!-- #site-header -->
+					</div><!-- #site-header-wrapper -->
+
+	
+	<div id="main" class="site-main">
+
+<div id="main-content" class="main-content">
+
+
+<div class="block-content">
+	<div class="container">
+		<div class="panel row">
+
+			<div class="panel-center col-xs-12">
+				<article id="post-3" class="post-3 page type-page status-publish hentry">
+
+					<div class="entry-content post-content clearfix">
+												
+						
+<p class="has-large-font-size"><strong>Privacy Policy</strong></p>
+
+
+
+<p>At TAGZ, we are committed to protecting your privacy in accordance with the Privacy Act 1988. This Privacy Policy describes our current policies and practices in relation to the collection, handling, use and disclosure of personal information. It also deals with how you can complain about a breach of the privacy laws, how you can access the personal information we hold about you and how to have that information corrected. </p>
+
+
+
+<p><strong>What information do we collect and how do we use it?</strong><br>When you use the TAGZ Platform, we ask you for the information we need to verify your identity and support such services provided on TAGZ in order to facilitate the provision of buying, selling and trading digital currency. This can include a broad range of information ranging from your name, address, contact details, IP address, device information, operating system, web log information, passport number, driver licence number, bank account numbers, and digital currency account information. We may provide the information that you provide to identity verification services, credit bureaus or to our customer support team to enable them to verify your identity under Anti-Money Laundering policies and to protect you and other users of our Platform from fraud and other illegal activities. We may also provide your personal information if requested by a law enforcement or government agency. We also use your information to enable us to manage your ongoing requirements and our relationship with you, e.g.to process transactions, email you a notice or receipt of your transaction, troubleshoot a problem, send promotional offer, prevent or investigate illegal or potentially illegal activities, and to customise and improve TAGZ’s Platform. We may do so by electronically unless you tell us that you do not wish to receive electronic communications. From time to time we will use your contact details to send you offers, updates, events, articles, newsletters or other information about products and services that we believe will be of interest to you. We may also send you regular updates by email. We will always give you the option of electing not to receive these communications and you can unsubscribe at any time by notifying us that you wish to do so. We may also use your information internally to help us improve our services and help resolve any problems. </p>
+
+
+
+<p><strong>What if you don’t provide some information to us?</strong><br>If you do not provide us with some or all of the information that we ask for, we may not be able to verify your identity and as such you may not be able to open a trading account with TAGZ and use our Platform. </p>
+
+
+
+<p><strong>How do we hold and protect your information?</strong><br>We strive to maintain the relevance, reliability, accuracy, completeness and currency of the personal information we hold and to protect its privacy and security. We keep personal information only for as long as is reasonably necessary for the purpose for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements. We ensure that your information is safe by managing access controls, such as identity, access management, permissions and security credentials. Access to personal information is only granted to an employee of TAGZ to carry out duties required to support our customers. Strong, multi-factor authentication is used and access is revoked when no longer required. </p>
+
+
+
+<p><strong>Will we disclose the information we collect to anyone?</strong><br>We do not sell, trade, or rent your personal information to others. We may disclose your information to law enforcement agencies in Australia if requested as part of an investigation. We may disclose some of your personal information to third party suppliers and service providers (e.g. an email sending service such as MailChimp), third party identity verification services, or to other companies in the event of a corporate sale, merger, re-organisation, dissolution or similar event. However, we will take all reasonable steps to ensure that they protect your information in the same way that we do. We may provide your information to others if we are required to do so by law or under some unusual other circumstances which the Privacy Act permits. </p>
+
+
+
+<p><strong>How can you check, update or change the information we are holding?</strong><br>Upon receipt of your written request and enough information to allow us to identify the information, we will disclose to you the personal information we hold about you. We will also correct, amend or delete any personal information that we agree is inaccurate, irrelevant, out of date or incomplete. We will allow you to correct, amend or delete certain personal information on our Platform by logging into your TAGZ account and clicking on the settings section. In some cases, to ensure security and integrity of the Platform, we may be required to maintain historical personal information you have submitted to us. You may also seek to access or correct your personal information by submitting a support request from TAGZ’s website. We do not charge for receiving a request for access to personal information or for complying with a correction request. In some limited cases, we may need to refuse access to your information or refuse a request for correction. We will advise you as soon as possible after your request if this is the case and the reasons for our refusal. </p>
+
+
+
+<p><strong>What happens if you want to complain?</strong><br>If you have any concerns about whether we have complied with the Privacy Act or this Privacy Policy when collecting of handling your personal information, please submit a support request. Your complaint will be considered by us through our internal complaints resolution process and we will try to respond with a decision within 45 days of you making the complaint. </p>
+
+
+
+<p><strong>Your Consent</strong><br>By opening an account with TAGZ and using our Platform and Services, you consent to the collection and use of the information you have provided to us for the purposes described above. </p>
+
+
+
+<p><strong>Anonymous data</strong><br>We use technology to collect anonymous information about the use of our platform. For example, when you browse our platform our service provider logs your server address, the date and time of your visit, the pages and links accessed and the type of browser used. It does not identify you personally and we only use this information for statistical purposes and to improve the content and functionality of our website, to better understand our clients and markets and to improve our services. </p>
+
+
+
+<p><strong>Cookies</strong><br>In order to collect this anonymous data, we may use “cookies”. Cookies are small pieces of information which are sent to your browser and stored on your computer’s hard drive. Cookies are utilised by almost all websites that you visit and allow websites and browsers to operate more efficiently, improve your browsing experience as well as to provide anonymised information to the owners of the site. </p>
+
+
+
+<p>Sometimes they identify users where the Platform requires information to be retained from one page to the next. This is purely to increase the functionality of the site. We may use Cookies to recognise you as a customer and user of TAGZ’s Service, to customise our services and advertising, and to collect information in order alleviate the risk of fraud and illegal conduct. We may also utilise cookies to assist in delivering targeted advertising campaigns at certain times through third party sites. </p>
+
+
+
+<p>Cookies do not damage your computer and you can set your browser to notify you when you receive a cookie so that you can decide if you want to accept it. You can also de-activate the use of cookies if you do not want to receive targeted advertising however; although this may impact the operation of the website. In order to provide a more user-friendly experience and enhance security, cookies will also be used to allow our website to recognise your computer when you return in the future.</p>
+					</div><!-- .entry-content -->
+
+					
+					
+					
+					
+				</article><!-- #post-## -->
+
+			</div>
+
+			
+		</div>
+
+	</div>
+</div><!-- .block-content -->
+</div><!-- #main-content -->
+
+
+</div><!-- #main -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+			
+<div class="row inline-row footer-widget-area" role="complementary">
+	<div id="text-2" class="widget inline-column col-md-3 col-sm-6 col-xs-12 count-4 widget_text">			<div class="textwidget"><p>
+	</p><div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="197" height="69" src="https://tagz.com/wp-content/uploads/logo_footer.png" class="vc_single_image-img attachment-full" alt="Tagz Logo"></div>
+		</figure>
+	</div>
+<div class="clearboth"></div><div class="ct-divider " style="margin-top: 35px;"></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #120641;">TAGZ is a fully licensed Australian AML/CTF Compliant Austrac Regulated Cryptocurrency Exchange. Trading under Tagz Group Pty Ltd and Registered ACN 632 160 920. </span></p>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="ct-divider " style="margin-top: -15px;"></div><div class="ct-button-container ct-button-position-inline"><a class="ct-button ct-button-size-small ct-button-style-outline ct-button-text-weight-normal ct-button-border-1" style="border-radius: 35px;border-color: #cd45ff;color: #cd45ff;" onmouseleave="this.style.borderColor='#cd45ff';this.style.backgroundColor='transparent';this.style.color='#cd45ff';" onmouseenter="this.style.borderColor='#cd45ff';this.style.backgroundColor='#cd45ff';this.style.color='#ffffff';" href="" target="_self">About Us</a></div> <p></p>
+</div>
+		</div><div id="contacts-3" class="widget inline-column col-md-3 col-sm-6 col-xs-12 count-4 widget_contacts"><h3 class="widget-title">Contact</h3><div class="ct-contacts"><div class="ct-contacts-item ct-contacts-address">Address:<br> 6/631 Orrong Rd, Toorak VIC 3142, Australia</div></div></div><div id="text-3" class="widget inline-column col-md-3 col-sm-6 col-xs-12 count-4 widget_text"><h3 class="widget-title">Links</h3>			<div class="textwidget"><p><a href="https://account.tagz.com/login">Login</a><br>
+<a href="https://account.tagz.com/register">Sign Up</a><br>
+<a href="https://tagz.com/aml-policy/">AML Policy</a><br>
+<a href="https://tagz.com/privacy-policy/">Privacy Policy</a><br>
+<a href="https://tagz.com/terms-conditions/">Terms &amp; Conditions</a><br>
+<a href="https://tagz.com/affiliate_program">Affiliate Program</a><br>
+<a href="https://tagz.com/affiliate_terms">Affiliate Program T&amp;C’s</a><br>
+<a href="https://tagz.com/#contact">Contact Us</a></p>
+</div>
+		</div><div id="text-5" class="widget inline-column col-md-3 col-sm-6 col-xs-12 count-4 widget_text">			<div class="textwidget"></div>
+		</div></div><!-- .footer-widget-area -->
+		</div>
+	</footer><!-- #colophon -->
+
+
+	<footer id="footer-nav" class="site-footer">
+		<div class="container"><div class="row">
+
+				<div class="col-md-4 col-md-push-8">
+											<div id="footer-socials"><div class="socials inline-inside socials-colored socials-rounded">
+																											<a href="https://twitter.com/tagzexchange" target="_blank" title="twitter" class="socials-item"><i class="socials-item-icon twitter"></i></a>
+																																				<a href="https://www.facebook.com/tagzexchange/" target="_blank" title="facebook" class="socials-item"><i class="socials-item-icon facebook"></i></a>
+																																				<a href="https://www.linkedin.com/company/tagzexchange/" target="_blank" title="linkedin" class="socials-item"><i class="socials-item-icon linkedin"></i></a>
+																																																					<a href="https://www.youtube.com/channel/UCnksUM6Pyd9eGLQkyaV_AAw?view_as=subscriber" target="_blank" title="youtube" class="socials-item"><i class="socials-item-icon youtube"></i></a>
+																																				<a href="https://t.me/tagzexchange" target="_blank" title="telegram" class="socials-item"><i class="socials-item-icon telegram"></i></a>
+																																																	</div></div><!-- #footer-socials -->
+									</div>
+
+				<div class="col-md-4">
+											<nav id="footer-navigation" class="site-navigation footer-navigation centered-box" role="navigation">
+							<ul id="footer-menu" class="nav-menu styled clearfix inline-inside"><li id="menu-item-3693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3693"><a href="https://tagz.com/aml-policy/">AML Policy</a></li>
+<li id="menu-item-3687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3687"><a href="https://tagz.com/terms-conditions/">Terms &amp; Conditions</a></li>
+<li id="menu-item-3682" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3 current_page_item menu-item-3682 menu-item-active"><a href="https://tagz.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
+<li id="menu-item-3486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3486"><a href="https://tagz.com/#contact">Support</a></li>
+<li id="menu-item-3487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3487"><a href="https://account.tagz.com/register">Sign up</a></li>
+<li id="menu-item-3488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3488"><a href="https://account.tagz.com/login">Login</a></li>
+</ul>						</nav>
+									</div>
+
+				<div class="col-md-4 col-md-pull-8"><div class="footer-site-info">Copyright © Tagz Group Pty Ltd 2019.</div></div>
+
+			</div></div>
+	</footer><!-- #footer-nav -->
+
+
+</div><!-- #page -->
+
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/jquery.dlmenu.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ct_dlmenu_settings = {"backLabel":"Back","showCurrentLabel":"Show this page"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/ct-menu_init.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/svg4everybody.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/ct-form-elements.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/jquery.easing.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/ct-header.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/ct-lazyLoading.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/jquery.transform.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://tagz.com/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/odometer.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/ct-sticky.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/functions.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/fancyBox/jquery.mousewheel.pack.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/fancyBox/jquery.fancybox.pack.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/fancyBox/jquery.fancybox-init.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/ct-vc_elements_init.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/tagz.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tagz.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-includes/js/wp-embed.min.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/themes/cryption/js/isotope.min.js?ver=e7a181746b2359367f22eba55ba36e2e"></script>
+<script type="text/javascript" src="https://tagz.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.7"></script>
+<style>
+	#enquiry-type {
+		background-color: #e1e0fb !important;
+		color: #120641 !important;
+		height:64px;
+		width: 296px;
+		border-radius: 35px;
+		-webkit-border-radius: 35px;
+		padding: 0px 30px;
+		-moz-appearance: none;
+    	-webkit-appearance: none;
+    	appearance: none;
+    	outline-width: 0;
+		background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='rgb(8, 204, 195)'><polygon points='0,0 100,0 50,50'/></svg>") no-repeat;
+		background-size: 12px;
+  background-position: calc(100% - 24px) 60%;
+  background-repeat: no-repeat;
+		border: 0px;
+		font-size: 15px !important;
+	}
+	.team-person-image img {
+		-webkit-filter: none !important;
+		max-height: 261px !important;
+	}
+	
+	.ct-image a:before, .team-person-image a:before {
+		background-color: rgba(205, 69, 255, 0.8) !important;
+	}
+	
+	.team-person-name {
+		color: #cd45ff !important;
+	}
+	
+	.team-person-position {
+		color: #909090 !important;
+	}
+	
+	.team-person-socials, i.socials-item-icon, i.socials-item-icon:visited, i.socials-item-icon:active {
+		color: #08ccc3 !important;
+	}
+	
+	i.socials-item-icon:hover, i.socials-item-icon:focus {
+		color: #120641 !important;
+	}
+	
+	.team-person-info {
+		background: #E0E0E0 !important;
+	}
+	@media screen and (max-width: 1023px) {
+		.vc_custom_1555589217007, .vc_custom_1555589871423, .vc_custom_1555589884223 {
+			padding-left: 0px !important;
+		}
+		.vc_custom_1553173060491 {
+			padding-top: 0px !important;
+		}
+		.jfix-center .title-xlarge {
+			font-size: 42px !important;
+		}
+		.jfix-center-alt {
+			margin-top: 20px !important;
+			font-size: 32px !important;
+		}
+		.vc_custom_1553933761139 {
+			margin-bottom: 0px !important;
+		}
+		.vc_custom_1555589884223 {
+			padding-top: 45px !important;
+		}
+		.vc_custom_1553179916006 {
+			margin-top: 35px !important;
+		}
+		.vc_custom_1553176827622 {
+			margin-top: -60px !important;
+		}
+		.jfix-center {
+			text-align: center !important;
+			height: 30px !important;
+			width: 100% !important;
+			display: block !important;
+		}
+		.jfix-center-alt {
+			text-align: center !important;
+			padding-top: 5px !important;
+		}
+		#site-header .site-title {
+			padding: 0px !important;
+		}
+		.jx128 {
+			padding-top: -10px !important;
+		}
+		.ja-gix {
+			display: block !important;
+			padding-top: 40px !important;
+		}
+		.jaga-x {
+			margin-top: -70px !important;
+		}
+		.jax {
+			font-size: 32px !important;
+		}
+		.vc_custom_1553933761139 {
+			padding-bottom: 42px !important;
+		}
+		.title-h1 p, .ja-gix .fix-headtitle {
+			font-size: 32px !important;
+		}
+		.vc_custom_1553935606457 .ct-button-container a {
+			width: 100% !important;
+		}
+		.mobile-bigfnts {
+			font-size: 20px !important;
+		}
+		.vc_custom_1524818495860 .title-xlarge {
+			left: 25% !important;
+		}
+		.vc_custom_1524818495860 p {
+			text-align: center !important;
+		}
+	}
+	.jfix-center-alt {
+		padding-top: 145px;
+	}
+	.jx128 {
+		padding-top: 35px !important;
+	}
+	.ja-gix {
+		display: none;
+	}
+</style>
 
 
 </body></html>
