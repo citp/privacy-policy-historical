@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelondoneconomic.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025042826id_/http%3A//thelondoneconomic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelondoneconomic.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426070108id_/https%3A//www.thelondoneconomic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | TLE
+# Privacy policy
 
 **Section 1. Introduction**
 
@@ -8,13 +8,13 @@ At The London Economic (TLE) we respect the right to personal privacy and our ob
 
 By using this website, you are accepting the terms of this privacy statement. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy statements of these other websites.
 
-**Section 2. Types of Information Collected**
+ **Section 2. Types of Information Collected**
 
 We retain two types of information:
 
 “Personal Data”
 
-This is data that identifies you or can be used to identify or contact you and includes information such as your name, address, sex, email address, birth date, marital status, occupation and salary range. While information such as name and email address is mandatory (we need it to provide you with the service), the rest is only collected from you if you voluntarily submit it to us.
+Any data that identifies you is only collected from you if you voluntarily submit it to us.
 
 “Non-Personal Data”
 
@@ -24,7 +24,7 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website and clicking on the ‘I Accept’ button, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-**Section 3. Purposes for which we hold your Information**
+ **Section 3. Purposes for which we hold your Information**
 
 “Non-Personal Data”
 
@@ -46,23 +46,23 @@ to seek your views on our site and our services;
 
 to send you newsletters or other forms of communication that you register for.
 
-**Section 4. Disclosure of Information to Third Parties**
+ **Section 4. Disclosure of Information to Third Parties**
 
-We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our website. For example, we might inform third parties regarding the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
+We may provide **Non-Personal Data** to third parties, where such information is combined with similar information of other users of our website. For example, we might inform third parties regarding the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
 
 We will not disclose your Personal Data to third parties unless you have consented to this disclosure or unless the third party is required to fulfil a service you have requested (in such circumstances, the third party is bound by similar data protection requirements). Any third party we disclose the information to will use it for the purposes of delivering the service in question unless you have agreed otherwise.
 
 We will disclose your Personal Data if we believe in good faith that we are required to disclose it in order to comply with any applicable law, a summons, a search warrant, a court or regulatory order, or other statutory requirement.
 
-**Section 5. Security**
+ **Section 5. Security**
 
 Your Personal Data is held on secure servers hosted by our Internet Service Provider. The nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet. No data transmission over the Internet can be guaranteed to be 100 per cent secure. However, we will take all reasonable steps (including appropriate technical and organisational measures) to protect your Personal Data.
 
-**Section 6. Updating, Verifying and Deleting Personal Data**
+ **Section 6. Updating, Verifying and Deleting Personal Data**
 
 You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2003 we will update or delete your Personal Data accordingly. We will not hold your Personal Data for any longer than is necessary for functions for our website. We will review our databases on a periodic basis, and shall delete data that is outdated, inaccurate, or no longer necessary. The London Economic (TLE) reserves the right to contact users in this regard.
 
-**Section 7. Changes to the Website Privacy Policy**
+ **Section 7. Changes to the Website Privacy Policy**
 
 Any changes to this Website Privacy Statement will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Statement, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
 
