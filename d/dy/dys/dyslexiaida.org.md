@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyslexiaida.org privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909042451id_/https%3A//dyslexiaida.org/wp-content/uploads/2016/06/Donor-Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyslexiaida.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426123148id_/https%3A//dyslexiaida.org/wp-content/uploads/2016/06/Donor-Privacy.pdf) for the most accurate reproduction.*
 
 # Donor Privacy Policy
 
