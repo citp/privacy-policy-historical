@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1ink.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323075500id_/https%3A//www.1ink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1ink.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426204151id_/https%3A//www.1ink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,7 +119,7 @@ Bing Ads is an advertising service provided by Microsoft Corporation.
 
 Personal Data collected: Cookie and Usage data.
 
-Place of processing: USA – [ Privacy Policy](http://www.microsoft.com/privacystatement/en-us/MicrosoftOnlineAdvertising/Default.aspx) – Opt Out
+Place of processing: USA – [ Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement) – Opt Out
 
   * ### Analytics
 
