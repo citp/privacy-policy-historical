@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchh.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921121705id_/https%3A//punchh.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchh.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426124922id_/https%3A//punchh.com/privacy_policy) for the most accurate reproduction.*
 
 # Punchh | Privacy Policy
 
@@ -90,7 +90,7 @@ Our collection and use of your information is based, in different contexts, upon
 
 ### **3\. SHARING OF PERSONAL INFORMATION**
 
-Except as explained herein, we do not sell, rent, share, trade or give away personal information.
+Except as explained herein, we do not sell, rent, share, trade or give away personal information. In accordance with Privacy Shield, we take responsibility for the processing of personal information that we transfer to third parties acting as an agent on our behalf. 
 
 **Partners.** We share User personal information with our Partners. In doing so, we require that our Partners use the User personal information they receive from us subject to the terms of this Privacy Policy. Please understand, however, that our Partners may also obtain User personal information directly from Users (e.g., when those Users patronize their restaurants, visit their websites, use their mobile apps, etc.). Any information collected directly by our Partners is not subject to this Privacy Policy. You may contact any of our Partners for a copy of their own privacy policy applicable to the information they collect directly from you.
 
@@ -181,7 +181,6 @@ If you have questions or concerns about our Privacy Policy or any other privacy 
 
 If Punchh needs to communicate with you regarding your personal information, we may do so using any method practicable, including electronically, through the platform, through postal mail, or by telephone.
 
-Punchh complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Punchh has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. Punchh’s compliance with Privacy Shield is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. Under certain conditions, in accordance with the Privacy Shield, you may also be able to invoke binding arbitration in the event of a dispute. For additional information, please refer to https://www.privacyshield.gov/article?id=ANNEX-I-introduction
+Punchh complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom to the United States. Punchh has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
-Punchh has further committed to refer unresolved Privacy Shield complaints to PrivacyTrust, an alternative  
-dispute resolution provider located in the United Kingdom. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.privacytrust.com/drs/punchh> for more information or to file a complaint. The services of PrivacyTrust are provided at no cost to you.
+Punchh has further committed to refer unresolved Privacy Shield complaints to PrivacyTrust, an alternative dispute resolution provider located in the United Kingdom. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.privacytrust.com/drs/punchh> for more information or to file a complaint. The services of PrivacyTrust are provided at no cost to you.
