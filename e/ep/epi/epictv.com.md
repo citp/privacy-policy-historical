@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epictv.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009070724id_/https%3A//shop.epictv.com/en/our-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epictv.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426071616id_/https%3A//shop.epictv.com/en/our-security-policy) for the most accurate reproduction.*
 
 # Our privacy notice | EpicTV Shop
 
