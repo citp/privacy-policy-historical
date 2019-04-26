@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mthruf.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819031641id_/http%3A//mthruf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mthruf.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426113449id_/http%3A//mthruf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mthruf.com
 
@@ -16,8 +16,8 @@ Mthruf.com uses cookies to store information about visitors’ preferences, to r
 
 ## DoubleClick DART Cookie
 
-→ Google, as a third party vendor, uses cookies to serve ads on http://mthruf.com.  
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://mthruf.com and other sites on the Internet.  
+→ Google, as a third party vendor, uses cookies to serve ads on .  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to and other sites on the Internet.  
 → Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 ## Our Advertising Partners
@@ -31,7 +31,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies). You may consult this listing to find the privacy policy for each of the advertising partners of Mthruf.com._
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://mthruf.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
 Mthruf.com has no access to or control over these cookies that are used by third-party advertisers.
 
