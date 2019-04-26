@@ -1,123 +1,110 @@
-> *The following text is extracted and transformed from the bookmark.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615142818id_/http%3A//www.bookmark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmark.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426035419id_/https%3A//www.bookmark.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Bookmark.com
+# Privacy Policy | Bookmark
 
-Privacy Policy
+## Signup Now - It’s time for your website to begin
 
-Service: Bookmark.com | Effective Date: July 2, 2010 | Last Modified: February 28, 2011 
-
-This Privacy Policy applies to all of the products, services and websites offered by Bookmark Your Life Inc. or its subsidiaries or affiliated companies; collectively, our “Services”. In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular Services process personal information. These notices can be found in the [Legal Notices](http://www.bookmark.com/legal/) portion of our website.
-
-Bookmark.com adheres to the U.S. Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/).
-
-If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at
-
-Privacy Matters  
-c/o Bookmark Your Life Inc.  
-171 East Liberty St., Suite 220  
-Toronto, ON M6K 3P6  
-Canada  
+  
+  
 
 
-### Information we collect and how we use it
+By using any of Bookmark’s Services, you confirm you have agreed to the [Terms and Conditions](https://www.bookmark.com/terms) and read and understood this Privacy Policy as well as the [Cookie Policy](https://www.bookmark.com/cookie-policy).
 
-In order to provide our full range of Services, we may collect the following types of information:
+Last Updated:    **May 24th, 2018**
 
-_Information you provide._ When you sign up for a Bookmark.com Account, we ask you for personal information (such as your name, email address, physical address and an account password). For certain Services, we may also request credit card or other payment account information, which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from third parties in order to provide you with a better experience and to improve the quality of our Services. For certain services, we may give you the opportunity to opt out of combining such information.
+Bookmark Your Life Inc. (“Bookmark,” “we,” “us,” or “our”) recognizes the importance of privacy to our customers and users of this website.  This Privacy Policy applies to the privacy practices of Bookmark, including on our website [www.bookmark.com](http://www.bookmark.com/privacy) (“Website”), and sets out the manner in which Bookmark collects, uses, discloses and otherwise manages personal information.
 
-_Cookies._ When you visit Bookmark.com, we may send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our Service, including for storing user preferences, improving ad selection, and tracking user trends, such as how people use our Services. We may set one or more cookies in your browser when you click on an ad presented on our website.
+### COLLECTION AND USE OF PERSONAL INFORMATION
 
-_Log information._ When you access our Services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+Bookmark is a website development and e-learning platform.  As part of our website development service offering, our customers may provide us with certain personal information for the purposes of performing services on their behalf (e.g. the sending of emails such welcome emails, registration emails, password resets and other notifications) in connection with their own websites.  We do not collect or use the personal information of our customers for any purpose other than to provide the services our customers’ request.  For details about the way in which individual websites hosted by Bookmark treat your personal information, please contact the website operator directly.
 
-_User communications._ When you send email or other communications to Bookmark.com, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
+We may otherwise collect and use personal information when you:
 
-_Affiliated Bookmark.com Services on other sites._ We may offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Bookmark.com in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies.
+  
 
-_Location data._ Bookmark.com may offer location-enabled services. If you use those services, Bookmark.com may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID) or IP address.
 
-_Links._ Bookmark.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our customized content and advertising.
+  * **Register for our Website:**  You do not have to register in order to browse our Website.  However, in order to use our templates, participate in our e-learning platform, community forums or other services, you will need to register and provide a name, email address and a password that you select.  We will also collect any domain names that you may wish for us to administer.  We use this information to identify who you are, communicate with you about our services (including promotional offers), and otherwise administer your use of our Website. 
 
-_Other sites._ This Privacy Policy applies to Bookmark.com Services only. We do not exercise control over sites that include Bookmark.com applications, products or services, or links from within our various Services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+  * **Make a Purchase on our Website:**  If you choose to subscribe to one of our paid services, we or our third-party service provider may collect your payment information such as your name, address, phone number, email address, billing address, and payment card information. This information is used to process and fulfill your order. 
 
-Bookmark.com processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific Services. In addition to the above, such purposes include:
+  * **Participate in our e-Learning Platform and Community Forums:  **If you participate in our e-Learning platform or other message boards, community forums, chat rooms or similar functions on our Website, we may collect your name and email address, as well as any comments, suggestions and other feedback you provide as postings.  We may use your comments, suggestions or feedback to monitor and/or improve our product and service offerings and our Website. Please remember that any information that you provide in these comment areas is accessible to the public as well as other users of the Website and you should exercise caution when deciding to disclose any personal information about yourself or anyone else. 
 
-  * Providing our Services, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our Services;
-  * Ensuring the technical functioning of our network;
-  * Protecting the rights or property of Bookmark.com or our users;
-  * Developing new Services; and
-  * Marketing and advertising sales.
+  * **Participate in a Contest:** When you enter a contest, we may collect your name, address, phone number, email address, and other information you provide. We use this information to administer your participation in the contest.  If a contest, is jointly sponsored by us and one or more sponsors, your personal information may be shared with such sponsors, as specified at the time of collection of your personal information. We do not control the use, disclosure or security of your personal information by other sponsors, and recommend you review their respective privacy notices or statements. 
+
+  * **Participate in a Survey:** From time to time, we may offer you the opportunity to participate in one of our surveys. The information obtained through our surveys is used in a non-personally identifiable form. We use this information to help us understand our customers, to enhance our product and service offerings, promotions and events. 
+
+  * **Engage with us through Social Media:** We may offer you the opportunity to engage with us or our content on or through third-party social networking websites, plug-ins and applications. For example, we collect the Personal Information you provide us when you register to our Services; when you sign-in to our Services via third party services such as Facebook or Google When you engage with us or our content in this manner, you may allow us to have access to certain information associated with your social media account (e.g., name, username, email address, profile picture, gender) to deliver the content or as part of the operation of the website, plug-in or application. When you provide information from your social media account, we may use this information to personalize your experience with us and to provide you with other products or services you may request. 
+
+  * **Contact our Customer Service:**  When you contact us with a comment, question or complaint, you may be asked for information that identifies you (such as your name, address and a telephone number) along with additional information we need to help us promptly answer your question or respond to your comment.  We may also retain this information to assist you in the future and to improve our customer service, product and service offerings, and our Website. 
 
 
 
-You can find more information about how we process personal information by referring to the supplementary privacy notices for particular services.
 
-Bookmark.com processes personal information on our servers in Canada, the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own Services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+### DISCLOSURE OF PERSONAL INFORMATION 
 
-### Choices for personal information
+We will not disclose, trade, rent, sell or otherwise transfer personal information, without consent, except as otherwise set out herein.
 
-When you sign up for our Service, which requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+**Service Provider Arrangements:** We may transfer (or otherwise make available) personal information to third parties who provide services on our behalf.  For example, we may use service providers to process payments, host our website and store information on our behalf.  Personal information may be maintained and processed by third party service providers in the US or Canada and may be accessed by the courts, law enforcement and national security authorities as required under the laws of those jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. For more information about the way in which our service providers treat personal information, contact us as set out below.
 
-If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use Sensitive Information, as such term is defined below, for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
+**Sale of Business:**  We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceeding) involving all or part of Bookmark or as part of a corporate reorganization or other change in corporate control.
 
-For the purposes of this Privacy Policy, “Sensitive Information” shall mean information we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality and tied to personal information.
+**Legal:** Bookmark and our Canadian, US and other service providers may provide personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required or permitted by applicable Canadian, US or other law. 
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Bookmark.com features and services may not function properly if your cookies are disabled.
+We may also disclose personal information where necessary for the establishment, exercise or defence of legal claims and to investigate or prevent actual or suspected loss or harm to persons or property. 
 
-You can decline to submit personal information to any of our Services, in which case Bookmark.com may not be able to provide those services to you.
+### ADDITIONAL INFORMATION ABOUT OUR WEBSITE
 
-### Information sharing
+**Visiting our Website:**  We collect the IP (Internet protocol) addresses of all visitors to our Website and other related information such as page requests, browser type, operating system and average time spent on our Website. We use this information to help us understand our Website activity, and to monitor and improve our Website. An example would be Google analytics which we utilize to Improve performance across all sites, apps, and offline marketing. Google’s analytics solutions can help you turn customer insights into action for your business. You can view Google privacy policy regarding analytics here: <https://www.google.com/policies/privacy/>
 
-Bookmark.com shares personal information with other companies or individuals outside of Bookmarks.com in the following limited circumstances:
+**We use cookies to:**
 
-We have your consent. We require opt-in consent for the sharing of any Sensitive Information.
+  * Authenticate you - cookies help us to verify your account and to automatically log you into your website from the same browser.
 
-We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * Understand and save user's preferences for future visits
 
-We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Bookmark.com, its users or the public as required or permitted by law.
+  * Keep track of advertisements
 
-If Bookmark.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, this Privacy Policy may be superseded by the acquiring party's policies.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who bookmarked a certain webpage, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+  * Third Party Services may use cookies to help you sign into their services from our Services. Any such third party cookie usage is governed by the policy of the third party placing the cookie.
 
-Please contact us at the address below for any additional questions about the management or use of personal data.
-
-### Information security
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-
-We restrict access to personal information to Bookmark.com employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-
-### Data integrity
-
-Bookmark.com processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable Service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our Services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
-
-### Accessing and updating personal information
-
-When you use Bookmark.com Services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our Services may have different procedures to access, correct or delete users' personal information. We provide the details for these procedures, if any, in the specific privacy notices or FAQs for these Services.
-
-### Enforcement
-
-Bookmark.com regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or our treatment of personal information by contacting us through this web site or by writing to us at
-
-Privacy Matters  
-c/o Bookmark Your Life Inc.  
-171 East Liberty St., Suite 220  
-Toronto, ON M6K 3P6  
-Canada  
+  * You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. To learn more about Bookmark and the cookies, please go to our [Cookie Policy](https://www.bookmark.com/cookie-policy).
 
 
-When we receive formal written complaints at this address, it is our policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Bookmark.com and an individual.
 
-### Changes to this Privacy Policy
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain Services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its Effective Date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+**Tracer Tags & Web Beacons: **  Our Website may also use a technology called "tracer tags" or “Web Beacons”. This technology allows us to understand which pages you visit on our Website and which posts you view on our e-Learning platform and community forums. These tracer tags are used to help us optimize and tailor our Website for you and other future visitors to our Website.  
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at
+**Third Party Links:**  Our Website may contain links to other websites that Bookmark does not own or operate. Also, links to our Website may be featured on third party websites on which we advertise. Except as provided herein, we will not provide personal information to these third parties without consent.  We provide links to third party websites as a convenience to the user.  These links are not intended as an endorsement of or referral to the linked websites.  The linked websites have separate and independent privacy statements, notices and terms of use.  We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat personal information.
 
-Privacy Matters  
-c/o Bookmark Your Life Inc.  
-171 East Liberty St., Suite 220  
-Toronto, ON M6K 3P6  
-Canada  
+### SECURITY OF PERSONAL INFORMATION
 
+We have implemented reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control.  
+
+### ACCESS TO PERSONAL INFORMATION
+
+Individuals have the right to access, update, and correct inaccuracies in their personal information in our custody and control, subject to certain exceptions prescribed by law.  You may request access, updating and corrections of inaccuracies in personal information we have in our custody or control by emailing or writing to us at the contact information set out below.  We may request certain personal information for the purposes of verifying your identity. 
+
+### CHANGES 
+
+This Privacy Policy may be updated periodically to reflect changes to our personal information practices.  The revised Privacy Policy will be posted on the website. 
+
+### CONTACTING US
+
+Please contact us at the address set out below if:
+
+  * you have any questions or comments about this Privacy Policy;
+
+  * you wish to access, update, and/or correct inaccuracies in your personal information; or
+
+  * you otherwise have a question or complaint about the manner in which we or our service providers treat your personal information.
+
+
+
+
+**Bookmark Your Life Inc.**   
+c/o Privacy Officer   
+171 East Liberty Street, Unit 260   
+Toronto, ON   
+M6K 3P6   
+[info@bookmark.com](mailto:info@bookmark.com)
