@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126061402id_/http%3A//macdailynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427004655id_/http%3A//macdailynews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MacDailyNews - Welcome Home
 
