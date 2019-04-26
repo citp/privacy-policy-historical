@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simpsonsworld.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207200109id_/http%3A//www.simpsonsworld.com/settings/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpsonsworld.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426190328id_/http%3A//www.simpsonsworld.com/settings/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FX Networks | Simpsons World on FXX
 
-**Effective as of May 17, 2017.**
+**Effective as of March 20, 2019**
 
 **Table of Contents:**
 
@@ -20,7 +20,8 @@
 
 FX Networks, LLC ("FX"), which operates the FXNetworks.com website, has developed this Privacy Policy to describe how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through the entertainment-related websites (the “FX Sites”), mobile sites, applications ("apps"), widgets, and other content and services that are linked to this Privacy Policy (collectively, the "FX Services"). 
 
-By providing personal information to us and using the FX Services, you agree to the terms and conditions of this Privacy Policy. To see a list of our affiliated companies ("FX Affiliates") click [here](http://www.21cf.com/). 
+By providing personal information to us and using the FX Services, you agree to the terms and conditions of this Privacy Policy. Our Affiliates include members of [The Walt Disney Family of Companies (“FX Affiliates”)](https://privacy.thewaltdisneycompany.com/en/definitions/). For further information on FX Affiliates please contact [privacycontact@disney.com](mailto:privacycontact@disney.com).   
+__
 
 As set forth in our [Terms of Use](http://www.fxnetworks.com/terms-of-use), the FX Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
 
@@ -30,7 +31,7 @@ This Privacy Policy applies to all users, including both those who use some of t
 
 FX and our service providers collect the following information from and about you: 
 
-**Registration Information** iis the information you submit to register for our FX Services, for example to create an FX account, receive a newsletter or mobile alert, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code, birthday, and phone number. 
+**Registration Information** is the information you submit to register for our FX Services, for example to create an FX account, receive a newsletter or mobile alert, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code, birthday, and phone number. 
 
 **Public Information and Posts** consist of comments or content that you post to the FX Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, and profile information. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines. 
 
@@ -40,7 +41,7 @@ FX and our service providers collect the following information from and about yo
 
 **Site Activity Information** . When you access and interact with the FX Services, FX and our service providers may collect certain information about those visits. For example, in order to permit your connection to the FX Services, our servers receive and record information about your computer, device and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the FX Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data (including your precise location), or other transactional information for that device in order to provide the FX Services to it. 
 
-Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies), which are comprised of small bits of data may also be used. Websites, apps, and other services send this data to your browser when you first request a web page and then store the data on your computer or other device so the website, app or other service can access information when you make subsequent requests for pages from that website, app or other service. These technologies may also be used to collect and store information about your usage of the FX Services, such as pages you have visited, the videos and other content you have viewed, search queries you have run and advertisements you have seen. Cookies may also be used by us or by our service providers to collect and store information on your use of other companies’ websites or services, such as sites you visit and materials you view. We may merge this with other data we collect about you from third parties to assist us in our ability to provide the Services, including, without limitation, to advertise and provide content to you. Our work in this respect is compliant with the Digital Advertising Alliance’s Principles for the Self-Regulation of Online Behavioral Advertising. To learn more, visit [ www.aboutads.info/choices ](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.aboutads.info_choices&d=AwMGaQ&c=uw6TLu4hwhHdiGJOgwcWD4AjKQx6zvFcGEsbfiY9-EI&r=tcybxeMN2xi-Ev3xlsXdGY8Y9UxJ93Z6lSU_QBnzZhI&m=0D4A5UDgB2LxB8MybODqPLW-J2d_t5kxhpskoYtNk7g&s=oN0J75OPh9aF4_eWiF_HV8cmehRO9kGfzebmeuex2lg&e=) . ****
+Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies), which are comprised of small bits of data may also be used. Websites, apps, and other services send this data to your browser when you first request a web page and then store the data on your computer or other device so the website, app or other service can access information when you make subsequent requests for pages from that website, app or other service. These technologies may also be used to collect and store information about your usage of the FX Services, such as pages you have visited, the videos and other content you have viewed, search queries you have run and advertisements you have seen. Cookies may also be used by us or by our service providers to collect and store information on your use of other companies’ websites or services, such as sites you visit and materials you view. We may merge this with other data we collect about you from third parties to assist us in our ability to provide the Services, including, without limitation, to advertise and provide content to you. Our work in this respect is compliant with the Digital Advertising Alliance’s Principles for the Self-Regulation of Online Behavioral Advertising. To learn more, visit [ www.aboutads.info/choices](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.aboutads.info_choices&d=AwMGaQ&c=uw6TLu4hwhHdiGJOgwcWD4AjKQx6zvFcGEsbfiY9-EI&r=tcybxeMN2xi-Ev3xlsXdGY8Y9UxJ93Z6lSU_QBnzZhI&m=0D4A5UDgB2LxB8MybODqPLW-J2d_t5kxhpskoYtNk7g&s=oN0J75OPh9aF4_eWiF_HV8cmehRO9kGfzebmeuex2lg&e=). ****
 
 Third parties that support the FX Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate FX Service usage statistics, may also use these technologies to collect similar information when you use the FX Services or third party service. These third parties may also use these technologies, along with Site Activity Information they collect to recognize you across the devices you use, such as a mobile device and a laptop or other computer. FX does not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party ad networks and similar entities that use these technologies, including your choices with respect to them, see the section entitled “To deliver relevant advertisements,” below. 
 
@@ -84,7 +85,7 @@ We use the personal information and other information we collect from and about 
 
 **To contact you** . FX may periodically send promotional materials (e.g., newsletters) or notifications related to the FX Services to the email address you provided to us at registration or for your account. If you want to stop receiving promotional materials from an FX Service, you can change your FX account setting, or follow the unsubscribe instructions at the bottom of each email, or send an email to [FX.Privacy@fox.com](mailto:FX.Privacy@fox.com). There are certain service notification emails that you may not opt-out of, such as notifications of changes to the FX Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app. 
 
-**To share with our Affiliates** . FX may share your information with FX Affiliates for the purposes described in this Privacy Policy. A link to a website that lists FX Affiliates can be found at the beginning of this policy. Users who visit FX Affiliates' services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. 
+**To share with our Affiliates** . FX may share your information with FX Affiliates for the purposes described in this Privacy Policy. Users who visit FX Affiliates' services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. 
 
 **To share with business partners** . FX may share your information with business partners to permit them to send you marketing communications, consistent with your choices. 
 
@@ -116,7 +117,7 @@ We ask that you not send us, and you not disclose, any sensitive personal inform
 
 **9\. CONTACT US**
 
-If you have questions about this Privacy Policy, please send an email to [FX.Privacy@fox.com](mailto:FX.Privacy@fox.com). 
+If you have questions about this Privacy Policy, please send an email to [privacycontact@disney.com](mailto:mailto:privacycontact@disney.com). 
 
 Additionally, you can contact us by mail at: 
 
