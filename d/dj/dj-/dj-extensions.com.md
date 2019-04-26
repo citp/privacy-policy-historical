@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dj-extensions.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908123213id_/https%3A//dj-extensions.com/privacy-policy-gdpr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dj-extensions.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426105242id_/https%3A//dj-extensions.com/privacy-policy-gdpr) for the most accurate reproduction.*
 
 # Privacy Policy GDPR
 
-Privacy Policy GDPR 4.0 out of 5 based on 3 votes. 
+Privacy Policy GDPR 4.0 out of 5 based on 6 votes. 
 
 **This Privacy Policy comes into force on May 25, 2018.**
 
@@ -101,7 +101,7 @@ We use processor services to ensure the highest possible quality of service. You
 
 We use the services of entities located outside the EU. Your data may be transferred to a third country. We make sure that your data is safe.
 
-You have the option of obtaining a copy of the data. To do this, contact us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy8648%20=%20'privacy'%20+%20'@';%20addy8648%20=%20addy8648%20+%20'dj-extensions'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy8648%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy8648%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E.)[privacy@dj-extensions.com](mailto:privacy@dj-extensions.com).
+You have the option of obtaining a copy of the data. To do this, contact us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy57293%20=%20'privacy'%20+%20'@';%20addy57293%20=%20addy57293%20+%20'dj-extensions'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy57293%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy57293%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E.)[privacy@dj-extensions.com](mailto:privacy@dj-extensions.com).
 
 Please note that all DJ-Extensions.com data processor providers have been checked to be all GDPR-compliant.
 
