@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205100827id_/https%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426135201id_/https%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
 
 # Privacy policy - Secure online storage and backup
 
 #### Privacy Policy 
 
-Last Modified: Jan 09, 2012
+Last Modified: May 08, 2018
 
 Pro Softnet Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
@@ -51,12 +51,6 @@ After successfully logging in to the Service from our website, you can correct, 
 
 We will retain your information for as long as your account is active or as needed to provide you our Services. If you wish to cancel your account or request that we no longer use your information to provide you Services, you may delete your account through the account settings after logging in to our Service from our website. Your files will automatically be removed from our servers within 10 business days of cancellation. Please note, that there might be latency in deleting backed-up versions of files that may exist after deletion. We may retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-###### Safe Harbor Policy
-
-We participate in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. We are committed to the resolution of complaints about your privacy and the collection or use of your personal information, and any complaints by European Union citizens relating to this policy, which cannot be resolved directly with Pro Softnet, will be resolved through EU Data Protection Authorities. 
-
-For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://export.gov/safeharbor/) website. If you would like to contact us directly about the Safe Harbor program, please send an e-mail to [safeharbor@pro-softnet.com.](mailto:safeharbor@pro-softnet.com)
-
 ###### Security
 
 We take reasonable precautions to protect personal information in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. User data is password protected and your password should never be shared with anyone. When we receive certain types of sensitive information such as financial information we redirect visitors to the secure portion of our site using industry standard SSL.
@@ -65,6 +59,12 @@ We take reasonable precautions to protect personal information in our possession
 
 Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at [privacy@pro-softnet.com.](mailto:privacy@pro-softnet.com) If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information from our files.  
 
+
+###### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+
+Pro Softnet Corp. has certified its compliance with the EU-U.S. and Swiss–U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union member countries and Switzerland to the United States. Pro Softnet Corp. complies with the Privacy Shield Principles for all onward transfers of personal information from the EU and Switzerland, including the onward transfer liability provisions. You can find Pro Softnet Corp.’s Privacy Shield certification [here](https://www.privacyshield.gov/list). You can also learn more about Privacy Shield at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+Pro Softnet Corp. is subject to oversight by the U.S. Federal Trade Commission. JAMS is the US-based independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS at <https://www.jamsadr.com/eu-us-privacy-shield> (free of charge). In the event your concern still isn't addressed by JAMS, you may be entitled to binding [arbitration](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) under Privacy Shield and its principles. 
 
 ###### Changes to our Privacy Policy
 
@@ -75,8 +75,6 @@ This Privacy Policy may change from time to time. If we make a change to this pr
 If you have any questions about this privacy statement, the practices of this site or your dealings with this website you can contact:
 
 **Attn: Privacy Management**  
-
-
 Pro Softnet Corp.  
 26115 Mureau Road, Suite A,  
 Calabasas, CA 91302.   
