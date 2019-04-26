@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112221427id_/https%3A//www.lendingtree.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426171435id_/https%3A//www.lendingtree.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LendingTree
 
 ## Privacy Policy
 
-Last Updated: October 23, 2017
+Last Updated: January 9, 2019
 
 [2012 Consumer Privacy Disclosure](https://web.archive.org/content/documents/2012-consumer-privacy.pdf)
+
+  * If at any time you do not wish to receive communications from the LendingTree Business, you may modify your preferences through your MyLendingTree profile. In addition, you may email [privacy@lendingtree.com](mailto:privacy@lendingtree.com) to unsubscribe. There may be an unsubscribe link at the bottom of emails sent from the LendingTree Business.
+
+
 
 LendingTree, LLC and its subsidiaries (collectively, “LendingTree”, “us”, “we”, or “our”) are committed to maintaining your confidence and trust as it relates to the privacy and usage of your information. Please read below and learn how we collect, protect, share, and use your information as part of our technology platforms, and all of our products and services.
 
@@ -16,7 +20,7 @@ This privacy policy applies to this site [www.lendingtree.com](https://web.archi
   * LendingTree, LLC
   * SimpleTuition
   * CompareCards
-  * Iron Horse Holdings, LLC 
+  * Iron Horse Holdings, LLC
   * LendingTree, LLC d/b/a LT Technologies (NJ, NY, RI, TX, WA)
   * DepositAccounts
   * MagnifyMoney
@@ -30,9 +34,9 @@ This privacy policy applies to this site [www.lendingtree.com](https://web.archi
     * b.    _Non-Personally Identifiable Information:_   We also collect information such as demographic data, data about your online activity, and other information which could not be used to identify you (collectively, “Non-Personally Identifiable Information” or “NPII”).
     * c.    _Information:_ PII and NPII are known together as “Information”.
   2. **How We Collect Information**
-    * a.    _Information provided by you:_  Information is collected from you when you enter information in connection with an inquiry into our services. This Information could be provided via an online form, over the phone, or via other means in which you interact with our services. 
-    * b.   _Information from service providers:_ Information is collected from third party service providers, such as credit bureaus and service providers who may have data on your financial profile, home, or other demographic information. 
-    * c.   _Information from cookies and other tracking technologies:_   Like many websites, we use cookies, web beacons, and similar technologies to record your preferences, track the use of our Site and collect Information. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other Information we collect about you. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of our Site may not function properly. 
+    * a.    _Information provided by you:_  Information is collected from you when you enter information in connection with an inquiry into our services. This Information could be provided via an online form, over the phone, or via other means in which you interact with our services.
+    * b.   _Information from service providers:_ Information is collected from third party service providers, such as credit bureaus and service providers who may have data on your financial profile, home, or other demographic information.
+    * c.   _Information from cookies and other tracking technologies:_   Like many websites, we use cookies, web beacons, and similar technologies to record your preferences, track the use of our Site and collect Information. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other Information we collect about you. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of our Site may not function properly.
   3. **How We Use Information**
     * a.    _In General:_   We may use Information to: 
 
@@ -65,28 +69,30 @@ iv. In connection with state and/or federal licensing requirements regarding the
 v. We may share Non-Personally Identifiable Information with third parties in our discretion.
 
     * **Unsubscribe**
-      * a.    _Unsubscribe:_   If at any time you do not wish to receive communications from the LendingTree Business, you may modify your preferences through your MyLendingTree profile. In addition, you may email [privacy@lendingtree.com](mailto:privacy@lendingtree.com) to unsubscribe. There may be an unsubscribe link at the bottom of emails sent from the LendingTree Business.
-      * b.    _Advertising on third party sites:_   We may use third-party tracking technology. This technology allows targeted advertisements to you from LendingTree Business. Some of these advertising companies may be networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies. The opt-out is available at <http://optout.networkadvertising.org/#!/>
-    * **Updating and Accessing Your Information**
-      * a.   The appropriate method(s) for accessing your Information, if any, will depend on which Site or services you have used. Depending on the respective Site or service, you may have the ability to view or edit some of your Information online. If you have submitted a loan request with a LendingTree Business, you can update your personal information by contacting our Customer Care Department at [customercare@lendingtree.com](mailto:customercare@lendingtree.com). Our address is 11115 Rushmore Drive, Charlotte, NC 28277.
-    * **How We Protect Your Information**
-      * a.    We take what we believe to be industry standard security measures (including physical, electronic, and procedural measures) to help safeguard your Information from unauthorized access and disclosure. We also require employees to comply with information security safeguards, we use encryption in the transmission of your Information between your system and ours, and we use firewalls and other intrusion detection and prevention controls to help prevent unauthorized persona from gaining access to your Information.
-      * b.    No system can be completely secure. Therefore, although we take steps to secure your Information, we cannot guarantee that your Information, searches, or other communication will always remain secure.
-    * **Changes to this Privacy Policy**  
-LendingTree has the discretion to update this privacy policy at any time. When we do, we will revise the date at the bottom of this page. We encourage you to frequently check this page for any changes to stay informed about how we are helping to protect the Information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
-    * **Visiting our Websites From Outside the United States**  
-The Site is governed by the laws of the United States, and is intended for the enjoyment of residents of the United States only. We make no representation that the Site is governed by or operated in accordance with the laws of any other nation. 
-    * **Compliance with Children’s Online Privacy Protection Rule**
-      * a.    We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her PII without the parent/guardian’s consent. If we become aware that we have unknowingly collected PII from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
-    * **LendingTree ChatBot Disclosure**
-      * a.    _Our LendingTree chat bot is enabled by Microsoft Bot Framework. The Microsoft Bot Framework is a set of web-services that enable intelligent services and connections using conversation channels you authorize. As a service provider, Microsoft will transmit content you provide to our bot/service in order to enable the service. For more information about Microsoft privacy policies please see their privacy statement here: http://go.microsoft.com/fwlink/?LinkId=521839. In addition, your interactions with this bot/service are also subject to the conversational channel’s applicable terms of use, privacy and data collection policies. To report abuse when using a bot that uses the Microsoft Bot Framework, please visit the Microsoft Bot Framework website at https://www.botframework.com and use the “Report Abuse” link in the menu to contact Microsoft._
-    * **How to Contact Us**
-      * a.    If you have any questions about this privacy policy, the practices of any LendingTree Business, or your dealings with a LendingTree Business, please contact us at: 
-        * Compliance Officer  
+    * a.    _Unsubscribe:_   If at any time you do not wish to receive communications from the LendingTree Business, you may modify your preferences through your MyLendingTree profile. In addition, you may email [privacy@lendingtree.com](mailto:privacy@lendingtree.com) to unsubscribe. There may be an unsubscribe link at the bottom of emails sent from the LendingTree Business.
+    * b.    _Advertising on third party sites:_   We may use third-party tracking technology. This technology allows targeted advertisements to you from LendingTree Business. Some of these advertising companies may be networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies. The opt-out is available at <http://optout.networkadvertising.org/#!/>
+  5. **Updating and Accessing Your Information**
+    * a.   The appropriate method(s) for accessing your Information, if any, will depend on which Site or services you have used. Depending on the respective Site or service, you may have the ability to view or edit some of your Information online. If you have submitted a loan request with a LendingTree Business, you can update your personal information by contacting our Customer Care Department at [customercare@lendingtree.com](mailto:customercare@lendingtree.com). Our address is 11115 Rushmore Drive, Charlotte, NC 28277.
+  6. **How We Protect Your Information**
+    * a.    We take what we believe to be industry standard security measures (including physical, electronic, and procedural measures) to help safeguard your Information from unauthorized access and disclosure. We also require employees to comply with information security safeguards, we use encryption in the transmission of your Information between your system and ours, and we use firewalls and other intrusion detection and prevention controls to help prevent unauthorized persona from gaining access to your Information.
+    * b.    No system can be completely secure. Therefore, although we take steps to secure your Information, we cannot guarantee that your Information, searches, or other communication will always remain secure.
+  7. **Changes to this Privacy Policy**  
+LendingTree has the discretion to update this privacy policy at any time. When we do, we will revise the date at the bottom of this page. We encourage you to frequently check this page for any changes to stay informed about how we are helping to protect the Information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+  8. **Visiting our Websites From Outside the United States**  
+The Site is governed by the laws of the United States, and is intended for the enjoyment of residents of the United States only. We make no representation that the Site is governed by or operated in accordance with the laws of any other nation.
+  9. **Compliance with Children’s Online Privacy Protection Rule**
+    * a.    We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her PII without the parent/guardian’s consent. If we become aware that we have unknowingly collected PII from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
+  10. **LendingTree ChatBot Disclosure**
+    * a.    _Our LendingTree chat bot is enabled by Microsoft Bot Framework. The Microsoft Bot Framework is a set of web-services that enable intelligent services and connections using conversation channels you authorize. As a service provider, Microsoft will transmit content you provide to our bot/service in order to enable the service. For more information about Microsoft privacy policies please see their privacy statement here: http://go.microsoft.com/fwlink/?LinkId=521839. In addition, your interactions with this bot/service are also subject to the conversational channel’s applicable terms of use, privacy and data collection policies. To report abuse when using a bot that uses the Microsoft Bot Framework, please visit the Microsoft Bot Framework website at https://www.botframework.com and use the “Report Abuse” link in the menu to contact Microsoft._
+  11. **LendingTree Voice Assistant Disclosure**
+    1. _LendingTree Skill_   supports LendingTree’s conversation bot on voice assistant devices, including, but not limited to, Google Assistant or Amazon Alexa. Through _LendingTree Skill_ ,  LendingTree asks you questions about your credit needs and responds with offers from appropriate Network Partners. LendingTree may ask you about your loan needs and collect information regarding your desired loan amount, type of property or collateral, down payment, property address and profile information such as your name, zip code and address, phone number, and email address.  We use that information to provide you with offers, match you with Network Partners that are appropriate for your request and personal profile, and internally monitor performance to learn better matching and processing algorithms.  LendingTree may share your Information with Network Partners which provide services to deliver the products and services you requested.
+  12. **How to Contact Us**
+    * a.    If you have any questions about this privacy policy, the practices of any LendingTree Business, or your dealings with a LendingTree Business, please contact us at: 
+      * Compliance Officer  
 LendingTree, LLC  
 11115 Rushmore Drive  
-Charlotte, NC 28277 
-        * or
-        * [privacy@lendingtree.com](mailto:privacy@lendingtree.com)
+Charlotte, NC 28277
+      * or
+      * [privacy@lendingtree.com](mailto:privacy@lendingtree.com)
 
 
