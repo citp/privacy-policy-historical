@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euromedalex.org privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928181855id_/http%3A//www.annalindhfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euromedalex.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426071430id_/https%3A//www.annalindhfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anna Lindh Foundation
 
