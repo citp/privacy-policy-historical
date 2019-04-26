@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoevolution.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825021508id_/https%3A//www.autoevolution.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoevolution.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426214923id_/https%3A//www.autoevolution.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - autoevolution
 
