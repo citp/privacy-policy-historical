@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bitpanda.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116033917id_/https%3A//www.bitpanda.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpanda.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426022811id_/https%3A//www.bitpanda.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## 1\. General
 
-1.1 Bitpanda GmbH (formerly Coinimal GmbH) with its business address at Burggasse 116/3 & 3a, 1070 Vienna, Austria, registered in the commercial register of the Commercial Court of Vienna under FN 423018k (hereinafter referred to as "Bitpanda" or "we"), offers via [www.bitpanda.com](https://www.bitpanda.com/) (the **"Website"** ) services related to buying and selling digital currencies. This Privacy Policy explains how personal data are processed by Bitpanda if a person uses Bitpanda's services, the Website or otherwise interacts with Bitpanda (such person hereinafter called "Customer"). Only persons of legal age are permitted to use the website and to register to it.
+1.1 Bitpanda GmbH (formerly Coinimal GmbH) with its business address at Campus 2, Jakov-Lind-Straße 2, 1020, Austria, registered in the commercial register of the Commercial Court of Vienna under FN 423018k (hereinafter referred to as "Bitpanda" or "we"), offers via [www.bitpanda.com](https://www.bitpanda.com/) (the **"Website"** ) services related to buying and selling digital currencies. This Privacy Policy explains how personal data are processed by Bitpanda if a person uses Bitpanda's services, the Website or otherwise interacts with Bitpanda (such person hereinafter called "Customer"). Only persons of legal age are permitted to use the website and to register to it.
 
 1.2 Bitpanda is the controller and responsible person for the personal data processed via the Website. Bitpanda is aware that the protection and careful handling of the Customer's personal data are very important. Bitpanda will solely use the personal data provided by the Customer in compliance with the applicable data protection requirements, this Privacy Policy and the consent of the Customer.
 
@@ -48,7 +48,7 @@ The basis for such processing is contract performance (Art 6 para 1 lit b GDPR),
 (a) our employees who need them to fulfill contractual and legal obligations and legitimate interests, its subsidiary Pantos GmbH, Vienna, Austria, for the purpose of processing the Initial Coin Offerings ("Pantos ICO") or to perform crowdsales and to its subsidiary Bitpanda UK Limited, London, United Kingdom, for the purpose of processing payments made by the Customer required to complete the transaction. A list of Bitpanda's current group companies is available here: 
 
   * Bitpanda UK Limited, 68 Hanbury Street, E1 5JL, London, United Kingdom
-  * Pantos GmbH, Burggasse 116/3, 1070 Vienna, Austria
+  * Pantos GmbH, Campus 2, Jakov-Lind-Straße 2, 1020, Austria
 
 
 
@@ -96,7 +96,7 @@ The basis for such processing is contract performance (Art 6 para 1 lit b GDPR),
 
 ## 7\. Data subject rights
 
-7.1 In accordance with applicable law, the Customer has the right to access, correct, request deletion of his personal data, to object to the processing of his personal data, and to dataportability of his personal data, to request restriction of the processing of his personal data. To exercise these rights the Customer can send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#84f7f1f4f4ebf6f0c4e6edf0f4e5eae0e5aae7ebe9) or a letter to Bitpanda GmbH, Burggasse 116/3 & 3a, 1070 Vienna, Austria. Bitpanda does not use personal data for automated decisions within the meaning of Art 22 GDPR (i.e. decisions producing legal effects concerning data subjects, or otherwise significantly affecting them, based solely on automated processing of personal data, including profiling).
+7.1 In accordance with applicable law, the Customer has the right to access, correct, request deletion of his personal data, to object to the processing of his personal data, and to dataportability of his personal data, to request restriction of the processing of his personal data. To exercise these rights the Customer can send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d5e585d5d425f596d4f44595d4c43494c034e4240) or a letter to Bitpanda GmbH, Campus 2, Jakov-Lind-Straße 2, 1020, Austria. Bitpanda does not use personal data for automated decisions within the meaning of Art 22 GDPR (i.e. decisions producing legal effects concerning data subjects, or otherwise significantly affecting them, based solely on automated processing of personal data, including profiling).
 
 7.2 The Customer has the right to file a complaint to the competent data protection authority, when he believes his data protection rights have been violated.
 
@@ -106,7 +106,7 @@ The basis for such processing is contract performance (Art 6 para 1 lit b GDPR),
 
 **8.2 Further, by checking the respective separate box the Customer can consent that his email address name, last login date, register date will be sent to UAB "MailerLite" in order to receive marketing communication as described in point 5 above.**
 
-**The Customer has the right to withdraw his consents at any time via mail to Bitpanda GmbH, Burggasse 116/3 & 3a, 1070 Vienna, Austria, or via E-Mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d7e787d7d627f794d6f64797d6c63696c236e6260). The withdrawal of his consent does not affect the lawfulness of processing based on consent before its withdrawal.**
+**The Customer has the right to withdraw his consents at any time via mail to Bitpanda GmbH, Campus 2, Jakov-Lind-Straße 2, 1020, Austria, or via E-Mail to[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec9f999c9c839e98ac8e85989c8d82888dc28f8381). The withdrawal of his consent does not affect the lawfulness of processing based on consent before its withdrawal.**
 
 ## 9\. Updates to this Privacy Policy
 
