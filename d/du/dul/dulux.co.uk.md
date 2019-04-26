@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815082424id_/https%3A//www.dulux.co.uk/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426101936id_/https%3A//www.dulux.co.uk/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Dulux
 
@@ -18,10 +18,10 @@ This Privacy Statement is applicable to the processing of personal data of users
 
 We use your personal data for a number of different purposes. You will find an overview of the types of personal data and the purposes for which these are used below.
 
-  * **When you use our Website or Apps, to deliver you the Website or App and for the technical and functional management of the Website.**  
+  *  **When you use our Website or Apps, to deliver you the Website or App and for the technical and functional management of the Website.**  
 We process technical data such as your IP-address, the internet browser you use, the visited webpages, previous/next visited websites and the duration of a visit for the purposes of delivering the functionalities of the Website to allow to find the information in a quick and simple manner. This data is also used for resolving technical difficulties or for improving accessibility of certain parts of the website. For this purpose we also use cookies [read more] (/en/cookies)
 
-  * **When you open a Dulux account with us, to administer the account and to ensure confidentiality and security of your purchases.**
+  *  **When you open a Dulux account with us, to administer the account and to ensure confidentiality and security of your purchases.**
 
 
 
@@ -30,7 +30,7 @@ We process technical data such as your IP-address, the internet browser you use,
 
 When you choose to register with us, you need to provide personal data such as your name, a valid email address and any other information requested, so that we can create a personal account for you. Upon creating your account, we will send you your personal login information. These personal data enable us to administer your account and enable us to ensure the confidentiality and maintain the security of your purchases. We also process data such as your display name, your role and your login data. We are, for instance, able to change your password for you. We are, however, not able to view your password.
 
-  * **When you purchase products through our web shop, to process your order and for customer service and relationship management**
+  *  **When you purchase products through our web shop, to process your order and for customer service and relationship management**
 
 
 
@@ -38,7 +38,7 @@ When you choose to register with us, you need to provide personal data such as y
 
 When you use our web shop services, we use personal data to service your purchase and deliver your order, report the status of your order and when a transaction has failed, we use personal data to contact you about the transaction. For this we need at least your name and geographical address, contact details such as telephone number or e-mail address, credit card or other payment information, your acceptance of our applicable terms and conditions, and whether or not you want to receive our newsletter. We also process information about what you have purchased from us. When you contact us through our contact form on the Website, by e-mail or otherwise, we will use your contact information, your correspondence with us about your question and all other personal data provided by you in order to answer your question.
 
-  * **For the development and improvement of products and services**
+  *  **For the development and improvement of products and services**
 
 
 
@@ -46,9 +46,9 @@ When you use our web shop services, we use personal data to service your purchas
 
 We use aggregated personal data to analyse customer behaviour and to adjust our products and services accordingly, to ensure that it is relevant to our customers. This means that we analyse how often you read our newsletters, how often you visit our Website, which pages you click on and what goods you purchase through our website. Based on this information, we can make adjustments to our offering, our newsletters or our Website. We may also adapt our promotions on the basis of our analysis. We may also perform research into market trends through statistical analysis to evaluate and adapt our products and marketing to new developments, but research results are only reported on an aggregated basis. We may purchase supplementary data from public sources to complement our database for the above purposes.
 
-**Your choices**
+ **Your choices**
 
-  * **If you participate in prize contests, events, competitions, promotions and/or games of chance, to administer your participation**
+  *  **If you participate in prize contests, events, competitions, promotions and/or games of chance, to administer your participation**
 
 
 
@@ -56,13 +56,13 @@ We use aggregated personal data to analyse customer behaviour and to adjust our 
 
 With your consent, we can send you emails with promotions and invitations to participate in a prize contests, events, competitions or games of chance. If you choose to participate in one of these activities, we need your personal data to be able to announce and organise these. Also, if you participate in any of these activities, we need your personal data to announce when you are a winner, to distribute the prizes and to measure the response to prize contests, events, competitions, promotions and or games of chance. For this, we process your name, address, email address and your entries in the activity.
 
-  * **Only if you have consented to this during your account registration, for sending you personalized information about AkzoNobel**
+  *  **Only if you have consented to this during your account registration, for sending you personalized information about AkzoNobel**
 
 
 
 ##### What does this purpose entail?
 
-You may choose to receive personalised commercial messages, including a personalised newsletter, from AkzoNobel that are tailored towards your personal preferences. For this we will create profiles and analyze your interactions with us. We will look at personal data such as: \- your name, gender, date of birth, e-mail address, and physical address; \- your preferences and interests, such as those that you have actively shared with us, but also those inferred through your registered interactions with AkzoNobel websites and apps (for which we may use cookies); \- your shopping history, both online (if you link your purchases to your profile) and offline (when making an offline purchase) ; and \- the links you click in our emails.
+You may choose to receive personalised commercial messages, including a personalised newsletter, from AkzoNobel that are tailored towards your personal preferences. For this we will create profiles and analyze your interactions with us. We will look at personal data such as: - your name, gender, date of birth, e-mail address, and physical address; - your preferences and interests, such as those that you have actively shared with us, but also those inferred through your registered interactions with AkzoNobel websites and apps (for which we may use cookies); - your shopping history, both online (if you link your purchases to your profile) and offline (when making an offline purchase) ; and - the links you click in our emails.
 
 This way we learn about your interests and can ensure that we provide you with the information and promotions that are of most interest to you. We may also ask you for your opinion about our products and services. If you don’t want to receive any more messages or if you want to opt-out of receiving or seeing a particular form of communication with us (for example SMS, social media, e-mail or regular mail), just, follow the steps in that particular communication.
 
@@ -70,13 +70,13 @@ This way we learn about your interests and can ensure that we provide you with t
 
 We treat your data with care and confidentiality and do not share your data with third parties other than as explicitly addressed in this Privacy Statement.
 
-  * **With other entities within the AkzoNobel group**  
+  *  **With other entities within the AkzoNobel group**  
 We may share pseudonimised or anonymised, or aggregated information about our consumers with other members of the AkzoNobel Group, for example to be used for trend analysis. The relevant group members are: Akzo Nobel Decorative Coatings B.V. and Akzo Nobel Coatings International B.V. together with all their direct or indirect subsidiaries operating in the business of decorative paints worldwide through the trading brands Dulux (Valentine), Trimetal, Coral, Flexa, Hammerite, Marshall, Sadolin, Alabastina, Astral, Levis, Corona, International Paints.
 
-  * **With service providers**  
+  *  **With service providers**  
 We use various companies which process data on our behalf, such as hosting companies, delivery services, payment providers and credit scoring agencies. These companies use your information on our behalf, and are subject to strict rules they need to adhere to in order to process your information. We do not allow such companies to use the data in any other way than as per our instructions.
 
-  * **Other 3rd parties**  
+  *  **Other 3rd parties**  
 We may need to disclose personal information at the request of governmental or law enforcement agencies. We will only further share your information only with other companies or individuals when we have your valid consent to do so.
 
 
@@ -102,22 +102,18 @@ Please read the privacy policies of those social networks for detailed informati
 
 ### How do we secure the data?
 
-Your personal data are treated strictly confidential and we have taken the appropriate technical and organisational security measures against loss or unlawful processing of this data. To this purpose we use several security techniques including secure servers, firewalls and encryption, as well as physical safeguard of the locations where data are stored.
+Your personal data is treated strictly confidentialy and we have taken the appropriate technical and organisational security measures against loss or unlawful processing of this data. To this purpose we use several security techniques including secure servers, firewalls and encryption, as well as physical safeguard of the locations where data are stored.
 
 #### Retention of the data
 
 We will not retain your personal data for a period longer than is necessary for achieving the purposes for which they were collected, or as long as the law prescribes.
 
-### Who to address regarding questions and requests of access, removal etc.
+### Request/Deletion/Correction of your Personal Data
 
-You can request access of the personal data that we processes about you at any time, and have these corrected or removed by sending a request to:
+By clicking on this [link](https://www.dulux.co.uk/en/contact-us) and completing the contact us form, you will be able to request one of the following:
 
-AkzoNobel UK – Privacy Officer – Rachel Streek - AkzoNobel UK (ICI Paints)
+  * Request a copy of the personal data we hold.
+  * Request for deletion of your personal data.
+  * Request to correct any of your personal data.
 
-Wexham Road
 
-Slough
-
-SL2 5DS
-
-01753 550000
