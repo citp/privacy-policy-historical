@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatous.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825194507id_/https%3A//chatous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatous.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426102953id_/https%3A//chatous.com/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -70,7 +70,7 @@ Except as expressly provided otherwise, this document addresses only the use and
 
 **11\. Other Terms and Conditions**
 
-Your access to and use of the Services is subject to the Terms of Service at [www.chatous.com/terms](https://web.archive.org/web/20180825194507id_/https%3A//chatous.com/www.chatous.com/terms)
+Your access to and use of the Services is subject to the Terms of Service at [www.chatous.com/terms](https://web.archive.org/web/20190426102953id_/https%3A//chatous.com/www.chatous.com/terms)
 
 **12\. Updates to this Policy**
 
