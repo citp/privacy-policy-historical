@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxysite.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527064708id_/https%3A//www.proxysite.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxysite.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426045215id_/https%3A//www.proxysite.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ProxySite.com
 
