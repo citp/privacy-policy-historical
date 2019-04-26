@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the yourvideofile.org privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319235252id_/http%3A//www.yourvideofile.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourvideofile.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426052057id_/https%3A//www.yourvideofile.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Terms Of Service..
 
-**Terms of service:** Usage of this website and all provided products is subject to compliance of your countries legal permissions, if your local laws do not permit downloads and audio conversions of online videos you are not allowed to use this service. You are also not permitted to use this utility to infringe any sort of copyright by downloading multimedia content which you don't have rights to use or is not open-source.
+**Terms of service:** Usage of this website and all provided products is subject to compliance of your country's legal permissions, if your local laws do not permit downloads and audio conversions of online videos you are not allowed to use this service. You are also not permitted to use this utility to infringe any sort of copyright by downloading multimedia content which you don't have rights to use or is not open-source. Also, this addon/service is not associated in anyway with Youtube - which is a trademark of Google.
 
 **What do we use your information for?**
 
-We respect our users privacy and DO NOT COLLECT ANY PERSONALLY IDENTIFIABLE INFORMATION, and only following STANDARD web-analytic information is ever recorded:
+We respect our user's privacy and DO NOT COLLECT ANY PERSONALLY IDENTIFIABLE INFORMATION, and only following STANDARD web-analytic information is ever recorded:
 
 ; Analytic to measure traffic and improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
@@ -37,7 +37,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.yourvideofile.org](http://www.yourvideofile.org/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.yourvideofile.org](https://www.yourvideofile.org/)
 
  **Your Consent**
 
@@ -47,11 +47,11 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 26 May 2014
+This policy was last modified on 31 July 2016
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://yourvideofile.org  
+https://www.yourvideofile.org  
 contact@yourvideofile.org
