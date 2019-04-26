@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf4cars.co.za privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921090344id_/https%3A//www.surf4cars.co.za/useful_tools/private_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf4cars.co.za privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426092624id_/https%3A//www.surf4cars.co.za/useful_tools/private_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Surf4cars
 
