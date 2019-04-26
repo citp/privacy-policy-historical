@@ -1,181 +1,119 @@
-> *The following text is extracted and transformed from the visitbrussels.be privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906091138id_/https%3A//visit.brussels/en/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitbrussels.be privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426085757id_/https%3A//visit.brussels/en/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Visit Brussels
 
-**1\. GENERAL WARNING**
+**visit.brussels ASBL**
 
-**1.1** The ASBL visit.brussels (hereinafter " **visit.brussels** ") respects the privacy of its users (hereinafter " **Users** ").
+Effective since: 10/09/2018
 
-**1.2** visit.brussels deals with the personal data transmitted to it in accordance with the legislation in force, and in particular the law of 8 December 1992 on the protection of privacy and its executive decrees.
+We make it a matter of pride to respect the privacy of our users and to treat their personal data in the strictest confidentiality and in accordance with the legislation in force.
 
-**1.3** Access to the [www.visit.brussels](http://www.visit.brussels/)  (hereinafter "the **Website** ") implies full and unconditional acceptance by the user of this Privacy Policy (hereinafter "the **Charter** "), as well as its Terms of Use (hereinafter the " **ToU** ").
+The privacy policy is intended to inform you, in a transparent manner, about the data we collect, the purpose for collecting it, the way we use it and the rights you have regarding the processing of such data.
 
-**1.4** The User acknowledges having read the information below and authorizes visit.brussels to deal, in accordance with what is specified below, with the personal data he/she communicates on/to the Website within the framework of the service proposed by visit.brussels (hereinafter the " **Service** ").
+On this page, we provide you with a simplified version of our privacy policy in the form of questions and answers. We invite you to also read the detailed version available [here](https://web.archive.org/site/binaries/content/assets/pdf/en_pp_pdf.pdf)
 
-**1.5** By providing information to Users, visit.brussels may be required to amend and adapt the Charter, in order to comply with any new applicable legislation and / or regulations (such as the adoption of the new European regulation in dealing with the personal data - Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data - of 14 April 2016, and applicable as from 25 May 2018), the recommendations of the Belgian Privacy Commission, the guidelines, recommendations and good practice of the European Data Protection Committee and the decisions of courts and tribunals in this field.
+We draw your attention to the need to read this privacy policy carefully. If you have any other questions, do not hesitate to contact us at the following address: [dataprivacy@visit.brussels](mailto:dataprivacy@visit.brussels)
 
-**1.6** The Charter is valid for all the hosted pages on the Website and for the savings of this Website. It is not valid for the hosted pages by third parties that visit.brussels may redirect to and where their privacy policies may differ. visit.brussels cannot be held responsible for any data processed on these Websites or by them.
+  1. **WHO IS RESPONSIBLE FOR PROCESSING YOUR DATA?**
 
-**1.7** The communication of personal data is sometimes necessary in order to access to certain parts of the Website (for example for the booking of the Tram Experience or for taking part in a competition). Without communication by the User to visit.brussels of these data, access may be denied.
 
-**2\. RESPONSIBLE FOR PROCESSING**
 
-**2.1** Access to the Website shall in principle be possible without having to provide personal data, such as, for example, surname, first name, postal address, e-mail address, etc.
+Visit.brussels is the controller of your personal data. 
 
-**2.2** However, as part of the Service, the User may be required to transmit certain personal data. In such case, the person in charge of processing these data is:
+Here is our complete contact information: 
 
-The ASBL visit.brussels
+Asbl visit.brussels,   
+Rue Royale 2-4  
+1000 Bruxelles 
 
-Rue Royale 2-4
+Belgian business registry (BCE) number: 0600.885.207  
+[dataprivacy@visit.brussels](mailto:dataprivacy@visit.brussels)
 
-1000 Brussels
+  2. **WHAT DATA DO WE COLLECT?**
 
-N ° BCE: 0600.885.207
 
-**2.3** Any question or request concerning the processing of these data may be addressed to the following address: [dataprivacy@visit.brussels](mailto:dataprivacy@visit.brussels) .
 
-**3\. COLLECTED INFORMATION**
+We collect your data - personal or otherwise - for various reasons which are defined in the following point (see point 3). It includes the following data: 
 
-**3.1. DATA TRANSMITTED TO VISITBRUSSELS BY ACTIVE INTERVENTION OF USERS**
+  * your identifying information (surname, first name, marital status, email address, date of birth and delivery address);
+  * your bank details (credit card number, IBAN and BIC/SWIFT)
+  * your invoicing details;
+  * our communications (by email or other);
+  * the type of domain with which you connect to the Internet;
+  * the IP address assigned to you;
+  * the date and time of your access to our website;
+  * location data or other data relating to the communication;
+  * the pages you viewed on our website;
+  * the type of browser, platform and/or operating system you are using;
+  * the search engine and the keywords used to find the website;
+  * your browsing preferences and
+  * any other data that you would communicate to us.
 
-By browsing the Website, filling out forms or newsletters on the Website, through the mobile application or social networks linked to visit.brussels, the User allows visit.brussels to register and maintain, for the purposes mentioned in point 4, the following information:
 
-\- identification data, such as surname and first name, gender, e-mail address, date of birth and contact information;
+  3. **WHY DO WE COLLECT YOUR DATA?**
 
-\- the banking information required by the Service, such as bank account numbers, IBAN and BIC / SWIFT;
 
-\- billing information;
 
-\- communications between Users and visit.brussels;
+We collect your data  to establish, carry out and conduct the contractual relationship with you, for the User to participate in games / contests / quiz and, in general, to provide the Service,- to incorporate users' personal data into one or more automated files, to analyze, adapt and improve the content of the Website, to carry out internal statistical surveys and market surveys and to deploy various statistical systems and studies, to allow the User to receive messages and manage his account from different devices (computer, tablet, smartphone, etc.), to detect and / or prevent fraud or similar activities of an illegal nature, to verify credit cards and other types of payment cards, to respond to requests for information, for any marketing and promotions actions offered by visit.brussels to Subscribers to the Newsletter, to inform them about the evolutions of the Website and its functionalities, to transfer the personal data of our booth visitor to our partners present on the booth, and for any other purpose for which the User has expressly consented.
 
-\- the additional information requested by visit.brussels from the User in order to identify or prevent him/her from breaching any of the provisions of the Charter; and
+to facilitate the provision and use of the Website and improve the Services offered by visit.brussels as well as the experience of the Users; The legal bases for processing your data are listed in the full version of the [Privacy Policy](https://web.archive.org/site/binaries/content/assets/pdf/en_pp_pdf.pdf).
 
-\- any other information voluntarily transmitted to visit.brussels by the User for a determined purpose in the Charter, in the ToU, on/to the Website or on any other communication tool used by visit.brussels.
+  4. **HOW DO WE COLLECT YOUR DATA?**
 
-**3.2. DATA AUTOMATICALLY TRANSMITTED TO VISITBRUSSELS WHEN CONSULTING THE WEBSITE**
 
-**3.2.1. « COOKIES»**
 
-In order to facilitate browsing the Website and optimize technical management, the Website may use "cookies".
+Most of your data is communicated to us by your active intervention Other data, such as the date and time of your access to our website, the pages you have viewed, or your location data, are collected automatically through servers consulted and "cookies" placed on our website. For more information on what a cookie is, how it is used and the exact data it collects, visit our page concerning our [cookie policy](https://visit.brussels/en/article/cookies-policy). 
 
-A "cookie" is a small file containing information saved by a website on the computer or an application on the user's smartphone. This "cookie" can be retrieved during a subsequent visit to the same application or website. The "cookie" cannot be read by another website than the one that created it. The Website uses "cookies" for the purposes of good administration of the Website, in particular to save the User's browsing preferences, or to obtain information on the visited pages and the dates and times of visit.
+  5. **ARE YOUR DATA PROTECTED?**
 
-Most "cookies" only work for a session or a single visit. It is also possible for the User to set up his browser to be informed during each creation of "cookie" or to prevent their saving, individually or not. However, disabling cookies may prevent access to certain parts of the Website or making access more difficult.
 
-Subject to the prior consent of the User, the Website may also allow the use of third-party cookies, including the following:
 
-**\- Facebook, Twitter, Google +**
+We take pride in respecting the privacy of our users. We maintain a strict privacy policy and take all appropriate measures to ensure that our servers prevent, to the extent possible, any unauthorized leak, destruction, loss, disclosure, use, access or modification of your data. 
 
-visit.brussels uses on its Website the social modules of social network providers Facebook, Twitter and Google +. These social modules establish a direct connection to the server of the social network via the User’s browser. The social network provider on which the User has clicked receives information that the User has visited the Website. If the User is registered and identified on the relevant social network, the provider can correlate the profile of the User with the visited Website. The network provider can then establish future interactions. If the User is not registered with the social network, the provider can save the IP address of the User. In order to avoid transferring these data to the social network provider, the User must not click on the button corresponding to the social network.
+  6. **HOW LONG DO WE STORE YOUR DATA?**
 
-**\- Google analytics**
 
-The Website also uses Google analytics. This service, offered by Google, analyzes the activity of the Website. For these purposes, Google collects information related to web traffic and the number of visitors. This tool allows visit.brussels to measure the performance of the Website in terms of browsing and to consolidate activity reports and other services.
 
-**3.2.2. REGISTERED INFORMATION ON VISITED SERVERS**
+We keep your data for the time necessary to accomplish the objectives pursued (see point 3). __ Once this goal is achieved, we delete them.
 
-When the User accesses the Website, the visited servers automatically save certain data, such as the type of domain with which the User connects to the Internet, the IP address assigned to the User (when logged in), the date and time of access to the Website and other traffic data, location data or other communication data, viewed pages, type of browser used, platform and / or system, the search engine as well as the keywords used to retrieve the Website, etc.
+  7. **WHAT ARE YOUR RIGHTS AND HOW CAN THEY BE EXERCISED?**
 
-However, no personal data identifying the User is collected through these savings. This information is kept for statistical and improvement purposes only.
 
-**4\. PURPOSES OF PROCESSING**
 
-**4.1. GENERAL PURPOSES**
+You may, at any time, request to verify, access, rectify, delete, transfer and object to the use of your data, as well as request the limitation of such use of your data. To do so, simply send us an email at the following address: [dataprivacy@visit.brussels](mailto:dataprivacy@visit.brussels) . _We will then make every effort to take the necessary action as soon as possible._
 
-Without prejudice to what has been specified under point 3.2. concerning the automatically transmitted data, the Website collects, saves and processes the personal data of its Users in particular for the following purposes:
+  8. **WHO HAS ACCESS TO YOUR DATA AND TO WHOM ARE THEY COMMUNICATED?**
 
-\- to establish, carry out and conduct the contractual relationship with the User;
 
-\- for the User to participate in games / contests / quiz and, in general, to provide the Service;
 
-\- to incorporate users' personal data into one or more automated files;
+Our employees and subcontractors have access to your data only to the extent necessary for fulfilling the objectives pursued (see point 3). Each of them is subject to a strict obligation of confidentiality. The categories of recipients are listed in the full version of the Privacy Policy.
 
-\- to analyze, adapt and improve the content of the Website;
+  9. **DO WE TRANSFER YOUR DATA ABROAD?**
 
-\- to carry out internal statistical surveys and market surveys and to deploy various statistical systems and studies;
 
-\- to allow the User to receive messages and manage his account from different devices (computer, tablet, smartphone, etc.);
 
-\- to detect and / or prevent fraud or similar activities of an illegal nature;
+We only transfer your data to a non-EU country if it provides a level of protection equivalent to what you can find in your country of residence (for more information, please check: <https://goo.gl/1eWt1V> ).
 
-\- to verify credit cards and other types of payment cards;
+  10. **HOW TO RECEIVE OUR PRODUCTS ?**
 
-\- to facilitate the provision and use of the Website and improve the Services offered by visit.brussels as well as the experience of the Users;
 
-\- to respond to requests for information;
 
-\- for any marketing and promotions actions offered by visit.brussels to Subscribers to the Newsletter;
+With your consent or based on our legitimate interest based in particular on our relationship, we will subscribe you to our newsletter and offer you other similar products or services that may interest you. You can unsubscribe and withdraw your consent to these communications at any time by sending an email to the following address: [dataprivacy@visit.brussels](mailto:dataprivacy@visit.brussels)
 
-\- to inform them about the evolutions of the Website and its functionalities; and
+  11. **WHAT IS OUR POLICY ON DATA CONCERNING MINORS?**
 
-\- for any other purpose for which the User has expressly consented.
 
-**4.2. COMMUNICATION TO THIRD PARTIES**
 
-visit.brussels considers personal data as confidential information. It shall not communicate them to third parties under conditions other than those specified in the Charter or under the conditions in which it is required by law, including the competent authorities who request it.
+Our website is not targeted to children under the age of 18. If you learn that your minor child has provided us with their personal data without your consent, contact us at the following address: [dataprivacy@visit.brussels](mailto:dataprivacy@visit.brussels) .
 
-Are considered as partners of visit.brussels ; All regional administrations and bodies in the performance of their duties, any player in the touristic, cultural and catering sector (hereinafter the " **Partners** "). In this context, visit.brussels may communicate to its Partners, the personal information of its Users, for the purpose of accomplishing the purposes defined in paragraph 4.1.
+  12. **WHAT HAPPENS IN THE EVENT OF A CHANGE TO THE PRIVACY POLICY?**
 
-visit.brussels may transmit to third parties the personal information of its Users insofar as this information is necessary for the execution of a contract with its Users (for example, a restaurant so that it can make a reservation made via the Website or a transportation company to deliver a prize won by participating in a contest). In such a case, such third parties shall not communicate this information to other third parties, except in one of the following two situations:
 
-(i) disclosure by these third parties of such information to their suppliers or subcontractors to the extent necessary for the performance of the contract, and
 
-(ii) where such third parties are obliged by the regulations in force to disclose certain information or documents to the competent authorities regarding the anti-money-laundering, as well as to any competent public authority in general.
+If we had to make any changes to this privacy policy, you would be notified through our website. 
 
-The disclosure of such information to the aforementioned persons shall in all circumstances be limited to what is strictly necessary or required by the applicable regulations.
+  13. **WHAT TO DO IN THE EVENT OF A DISPUTE?**
 
-In order to discover new products to its users that maybe of interest to them, visit.brussels may also disclose the personal information of its Users to third parties, insofar as the Users have explicitly consented to it.
 
-**4.3. TRANSFER TO A COUNTRY NOT A MEMBER OF THE EUROPEAN ECONOMIC AREA**
 
-visit.brussels does not transfer data to a country which is not a member of the European Economic Area unless it provides an adequate level of protection within the meaning of the law of 8 December 1992 on the protection of privacy, or within the limits permitted by the same law, for example by ensuring the protection of data by appropriate contractual provisions.
-
-**4.4. DIRECT MARKETING**
-
-Personal data will not be used for direct marketing purposes for products or services other than those to which the User has already subscribed, unless the User has explicitly consented thereto by ticking the boxes provided for this purpose ("opt-in").
-
-When the User has given his consent for the use of these information for direct marketing purposes, the User retains the right to oppose such use at any time, upon request and free of charge. To do so, the User must unsubscribe with the corresponding link in each newsletter by ticking the box of the Website.The User shall in all cases be responsible for the veracity of the
-
-data provided and shall inform VISITBRUSSELS of any amendments to the data.
-
-provided for this purpose on each User accountor to send his unambiguous request to the addressFollowing: [dataprivacy@visit.brussels](mailto:dataprivacy@visit.brussels) .The User shallinall cases beresponsible for theveracity ofthedata provided and shall inform VISITBRUSSELSof anyamendments to the data.
-
-**5.SECURITY**
-
-**5.1** visit.brussels has takenthe adequate measuresto ensure that the servers hosting the processedpersonal data prevent, to the extent possible:
-
--the processing, access or unauthorizedmodificationof these data;
-
--the inadequate useor disclosureof such data; and
-
--the unlawful destructionor accidental loss of such data.
-
-**5.2** In this respect, visit.brussels employeeswho have access to these data are subject to a strict confidentiality obligation. visit.brussels cannot, however, be held liable for anymisappropriationof thesedata by a third party in spite of the adoptedsecurity measures.
-
-**5.3** TheUsers undertake not to commit any actswhich may becontrary tothe present Charter,the ToU or, generally,the law. Offenses againsttheconfidentiality, integrity and availabilityof computer systemsand saved data, processed or transmitted by suchsystems, orthe attempt to commit anyof theseoffenses,are punishableby three months to five years’ imprisonmentandbya fine of twenty-six eurostotwo hundred thousand eurosorby one of these penaltiesonly.
-
-**6.CONSERVATION PERIOD**
-
-visit.brussels will normallykeepthe personal dataof itsUsers for the necessary duration for theaccomplishment of the pursued purposes(see point 4).visit.brussels mayalso continueto maintainpersonal data concerning the unsubscribed User, including any correspondenceor requestfor assistanceaddressed tovisit.brussels, in order to be ableto answer any questionsor complaints that may beaddressed to it,and inorder tocomplywith all applicablelaws (including taxation),in particulartheconservationof information on paymentsmade.
-
-**7.RIGHTS OFTHE CONCERNEDPERSON**
-
-**7.1** The User may atanytime request access, rectification or, if necessary, deletion to/ from his/herpersonaldata, with the exceptionofthosewhich visit.brussels wouldhave a legal obligation tokeep, bysending a written request accompanied by a copy of his identity cardor passport to the data controller:
-
--at the following postal address:visit.brussels-Legal Department/ Internal Audit, Rue Royale2-4,1000 Brussels or;
-
--tothe following email address: [dataprivacy@visit.brussels](mailto:dataprivacy@visit.brussels) .
-
-**7.2** visit.brussels will then take the necessary measures to satisfy this request as soon as possible.
-
-**8\. NOTE CONCERNING MINORS**
-
-Persons under the age of 18 and persons who do not have full legal capacity are not permitted to communicate their personal data to visit.brussels.
-
-**9\. APPLICABLE LAW AND COMPETENT JURISDICTION**
-
-**9.1** The Charter shall be governed by the Belgian law to the fullest extent permitted by the applicable rules of private international law.
-
-**9.2** In the event of a dispute concerning the validity, application, interpretation or enforcement of the Charter, the courts of the judicial district of Brussels (Belgium) shall have exclusive jurisdiction, to the fullest extent permitted by the rules of private international law.
-
-**9.3** Before undertaking any legal dispute resolution, the Customer undertakes to resolve the dispute by amicable means by contacting visit.brussels directly, if necessary by mediation, before resorting to arbitration, litigation, or any other means of dispute resolution.
+Lengthy trials do not benefit anyone. In the event of a dispute between us, we commit to give priority to dialogue and openness in search of an amicable solution. You can also contact the Data Protection Authority.
