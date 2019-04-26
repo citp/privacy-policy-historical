@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320014212id_/http%3A//www.ynot.com/ynot-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426155302id_/https%3A//www.ynot.com/ynot-com-privacy-policy) for the most accurate reproduction.*
 
-# YNOT Privacy Policy | YNOT
+# YNOT | YNOT Privacy Policy
 
 **YNOT Privacy Policy**  
 _Last Modified: October 7, 2016_
