@@ -1,54 +1,120 @@
-> *The following text is extracted and transformed from the gsmusbdriver.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231011509id_/https%3A//gsmusbdriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmusbdriver.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426194947id_/https%3A//gsmusbdriver.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of GSM USB Driver
 
-At gsmusbdriver.com, we respect the privacy of our visitors!
+Effective date: July 07, 2018
 
- **Declaration of consent** :
+GSM USB Driver (“us”, “we”, or “our”) operates the https://gsmusbdriver.com/ website (the “Service”).
 
-By visiting this website, you automatically agree with the collection and use of information in the manner described here.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-Occasionally, if prescribed by law, you may be asked to provide your consent for the processing of certain data and information that has been collected on this website or which you yourself have provided.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://gsmusbdriver.com/
 
- **Collecting and processing your personal data**
+## Information Collection And Use
 
-During your visit to our website, we collect your IP address and use cookies and other Internet technologies to collect general information about our visitors and what is of interest to them.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
- **What Are Cookies** :
+### Types of Data Collected
 
-As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or ‘break’ certain elements of the functionality of the site. For more general information on cookies see the Wikipedia article on HTTP Cookies.
+ **Personal Data**
 
- **How We Use Cookies** :
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-We use cookies for a variety of reasons detailed below. Unfortunately, in most cases, there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.
+1\. Email address  
+2\. First name and last name  
+3\. Cookies and Usage Data
 
- **Disabling Cookies** :
+ **Usage Data**
 
-You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit.
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-Disabling cookies will usually result in also disabling certain functionality and features of this site. Therefore it is recommended that you do not disable cookies.
+ **Tracking & Cookies Data**
 
- **The Cookies We Set** :
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterward to remember your site preferences when logged out.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
- **Third Party Cookies** :
+ **Examples of Cookies we use:**
 
-In some special cases, we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
+1\. **Session Cookies**. We use Session Cookies to operate our Service.  
+2\. **Preference Cookies**. We use Preference Cookies to remember your preferences and various settings.  
+3\. **Security Cookies**. We use Security Cookies for security purposes.
 
-This site uses Google Analytics which is one of the most widespread and trusted analytics solutions on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
+## Use of Data
 
-For more information on Google Analytics cookies, see the official Google Analytics page.  
-Third party analytics are used to track and measure usage of this site so that we can continue to produce engaging content. These cookies may track things such as how long you spend on the site or pages you visit which helps us to understand how we can improve the site for you.
+GSM USB Driver uses the collected data for various purposes:
 
-The Google AdSense service we use to serve to advertise uses a DoubleClick cookie to serve more relevant ads across the web and limit the number of times that a given ad is shown to you.
+1\. To provide and maintain the Service  
+2\. To notify you about changes to our Service  
+3\. To allow you to participate in interactive features of our Service when you choose to do so  
+4\. To provide customer care and support  
+5\. To provide analysis or valuable information so that we can improve the Service  
+6\. To monitor the usage of the Service  
+7\. To detect, prevent and address technical issues
 
-For more information on Google AdSense see the official Google AdSense privacy FAQ.
+## Transfer Of Data
 
-We use adverts to offset the costs of running this site and provide funding for further development. The behavioral advertising cookies used by this site are designed to ensure that we provide you with the most relevant adverts where possible by anonymously tracking your interests and presenting similar things that may be of interest.
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
- **More Information** :
+If you are located outside Malaysia and choose to provide information to us, please note that we transfer the data, including Personal Data, to Malaysia and process it there.
 
-Hopefully, that has clarified things for you and as was previously mentioned if there is something that you aren’t sure whether you need or not it’s usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. However if you are still looking for more information then you can contact us using the [contact form](https://gsmusbdriver.com/contact).
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+GSM USB Driver will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+GSM USB Driver may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+1\. To comply with a legal obligation
+
+2\. To protect and defend the rights or property of GSM USB Driver  
+3\. To prevent or investigate possible wrongdoing in connection with the Service  
+4\. To protect the personal safety of users of the Service or the public  
+5\. To protect against legal liability
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+ **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
