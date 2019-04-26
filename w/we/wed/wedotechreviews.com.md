@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedotechreviews.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103002312id_/http%3A//www.wedotechreviews.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedotechreviews.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426221431id_/http%3A//www.wedotechreviews.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure - We Do Tech Reviews
 
