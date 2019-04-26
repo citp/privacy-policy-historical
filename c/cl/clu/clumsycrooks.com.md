@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223032412id_/http%3A//www.clumsycrooks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426154306id_/http%3A//www.clumsycrooks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Clumsy Crooks
 
-**Privacy Policy**
+  
+[xhub.video](https://xhub.video/)
+
+ **Privacy Policy**
 
 We respect your privacy, and we want you to feel comfortable using the ClumsyCrooks.com web site. Therefore, we are providing you with this privacy policy so you can better understand how we collect information about you, what we do with your information, and who, other than ClumsyCrooks.com may also receive your information.
 
