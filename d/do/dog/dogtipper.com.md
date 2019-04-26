@@ -1,74 +1,84 @@
-> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119185846id_/http%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426074514id_/https%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-This privacy policy applies to the use of DogTipper.com.
+This privacy policy sets out how DogTipper uses and protects any information that you give DogTipper when you use this website.
 
-We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
+DogTipper is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-At DogTipper.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Dogtipper.com, and how we safeguard your information. We never sell your personal information to third parties.
+DogTipper may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 19, 2018.
 
-**Third Party Information**
+**What we collect**
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
+We may collect the following information:
 
-**Log Files**
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Cookies and Web Beacons**
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+**What we do with the information we gather**
 
-We also use third party advertisements on DogTipper.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about giveaways, new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Partially Provided by JenSense
-
-**Links to Other Websites**
-
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
-
-**Registration and Use of Personal Information**
-
-Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
-
-If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
-
-Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
-
-We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at editors@dogtipper.com, by clicking on the “unsubscribe” link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
-
-Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
-
-Access to Personally Identifiable Information
-
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at editors@dogtipper.com. You also may make your request by postal mail at the address indicated at the end of this privacy policy.
 
 **Security**
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore“ — as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
+[](https://www.pawzaar.com/collections/pawpromise-bracelets)
 
-You may submit any questions you may have about our security procedures by emailing us at editors@dogtipper.com.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**Links to Other Websites**
+**How we use cookies**
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**Legal Disclaimer**
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-**Contact Details**
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-If you have any questions or concerns regarding this privacy policy, or you wish to contact us by email or postal mail, our contact information is as follows:
+**Links to other websites**
 
-editors@dogtipper.com
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-PO Box 1389  
-Cedar Park, TX 78630
+**Controlling your personal information**
 
-This privacy policy was last updated on June 7, 2012.
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at editors@dogtipper.com.
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to PO Box 1389, Cedar Park, TX 78630 USA.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+For more information on the privacy policies of websites we use:
+
+  * [Google Analytics](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI)
+  * [Akismet anti-spam comments and Jetpack plugin](https://automattic.com/privacy-notice)
+  * [Giveaway Tools privacy policy](https://giveawaytools.com/privacy.php)
+  * [Social Warfare social sharing buttons](https://warfareplugins.com/privacy-policy/)
+  * [Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=asus_gen_not?ie=UTF8&nodeId=468496&ld=NSGoogle)
+  * [PawZaar](https://www.pawzaar.com/pages/privacy)
+  * [MailChimp](https://mailchimp.com/legal/privacy/)
+  * [Disqus comments](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)
+  * [WP Engine web hosting](https://wpengine.com/legal/privacy/)
+
+
+
+_This privacy policy updated May 19, 2018._
+
+[](https://www.pawzaar.com/)
