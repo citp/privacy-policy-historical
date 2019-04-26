@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001121613id_/https%3A//www.temptalia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426120416id_/https%3A//www.temptalia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,8 @@ Personal and other information you may provide when entering contests or giveawa
 **Data From Creating a User Account**
 
 Personal and other information you may provide when creating or updating your user account. You are under no obligation to complete all data fields in your profile; however, for required information if you choose not to submit the data your ability to create, update, or use your User Account may be limited, restricted, or prohibited.
+
+Consent Options
 
 ### USE OF YOUR INFORMATION
 
