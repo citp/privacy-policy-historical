@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyreviewguide.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227005006id_/https%3A//familyreviewguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyreviewguide.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426114506id_/https%3A//familyreviewguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Family Review Guide
 
