@@ -1,217 +1,230 @@
-> *The following text is extracted and transformed from the lusha.co privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522104611id_/https%3A//www.lusha.co/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lusha.co privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426112937id_/https%3A//www.lusha.co/privacy_policy) for the most accurate reproduction.*
 
-# Lusha
+# Privacy - Lusha - How Lusha collects and uses information
 
-#### Last Updated: March 26, 2016
+Last Updated: February 11, 2018
 
-[I do not want my details to be used by Lusha](https://web.archive.org/web/20170522104611id_/https%3A//www.lusha.co/remove_profile.php)
+LUSHA ALLOWS YOU TO ACCESS YOUR PERSONAL INFORMATION, EDIT IT OR OBTAIN DATA COLLECTED ABOUT YOU. JUST CLICK [THIS LINK](https://dashboard.lusha.co/opt-out) AND FILL IN YOUR REQUEST
 
-Welcome to Lusha, provided to you by www.Lusha.co (the “ **Company** ”, “ **we** ” or “ **us** ”). We designed this privacy policy (“ **Policy** ”) to explain users about our data collection practices when they access to the Lusha website (www.lusha.co) (the “ **Site** ”) or use the Lusha browser extension (the “ **Plugin** ”) and respective Services, as defined under the Lusha Terms of Service (collectively the “ **Product** ” or “ **Lusha** ”). This Policy constitues an integral part of the Lusha Terms of Service (“ **Terms** ”, and collectively, the “ **Agreement** ”) and unless mentioned otherwise, the same definitions apply to this Policy. 
+### GENERAL
 
-By accessing, downloading, installing or otherwise using the Product or Services, you provide your consent to the terms of this Policy, and to the collection, use and disclosure of your information, including Personal Information as described in this Policy. If you disagree with any term provided herein, please do not install or use the Product or Services. 
+This Privacy Policy outlines Lusha’s (the “ **Lusha** ”, “ **we** ” or “ **us** ”) practices with respect to collecting, using and disclosing your information when providing our online services (collectively, the “ **Services** ) and constitutes an integral part of Lusha’s Terms of Service (“ **Terms** ”, and collectively, the “ **Agreement** ”).
 
-Please note, that although we may use third party services as part of the Product or Services, this Policy applies ONLY to our data collection practices, and we encourage you to carefully read, understand and consent to any third party policy that is introduced to you as part of the Services. 
+ _Our Services are designed to help Users and vendors (e.g. HR professionals, B2B partners, sales platforms) to find business profiles they seek in order to interact with relevant Contacts (as defined below)._ _Lusha enables its trusted vendors and business partners to access to business profiles obtained in Lusha’s database (“ **Lusha Database** ”) for the purpose of enriching their current data. _
 
-## WHAT IS LUSHA?
+ _Lusha operates as a search platform, and therefore most of   **the information it retrieves is not created or interfered directly by Lusha** , rather than retrieved from the web or from the _contribution _of relevant data from other users and business partners._
 
-Lusha is a human resource (“HR”) tool, designed to help HR professionals to locate people across the web and get the ability to contact them with job offers. Lusha operates as a search platform, and therefore, the information it retrieves is not created or interfered by Lusha, rather than retrieved from the web or from contribution of data from other users. The Product gathers in one place an information that is being searched, assessed and available in several web tools. **If you believe that information about you that is provided through the Product or Services is inaccurate, false or if you wish such information about you to be removed, please send us proper request[here](mailto:Support@Lusha.co?subject=Request%20to%20remove%20or%20edit%20personal%20information). **
+### We respect your privacy and are committed to protecting the privacy and security of:
 
-## WHAT TYPE OF INFORMATION WE COLLECT?
+  * (i) Individuals’ business information, such as email address, name and telephone number (each individual, a “ **Contact** ”), which is collected and obtained in Lusha Database (“ **Business Profile(s)** ”); and
 
-When operating Lusha and the Services and in order to keep improving them and introduce new features, we collect the following information about users: 
+  * (ii) Our users who download, install or use the Lusha browser extension (the “ **Plugin** ”) or access the [Lusha’s website](https://www.lusha.co/staging/) (the “ **Site** ”) (each, a “ **User** ”).
 
-  * (a)
 
-Non-Personal Information:   
-means information that alone cannot identify you, including data we receive and/or extract from your device upon installation and operation of the Plugin and/or update of a new feature. This information includes the type and version of operating system you use, type and version of your browser and your language settings. 
 
-  * (b)
 
-Personal Information:   
-means information about you that specifically identifies you or, when combined with other information we have, can be used to identify you. Such information is collected as part of the following activities and include the following items: 
+ _The term “ **you** ” shall refer to Users or Contacts, as applicable._
 
-    * (i)
+ **We encourage you to read the Privacy Policy carefully and use it to make informed decisions. By using the Services, you agree to the terms of this Privacy Policy and your continued use of the Services constitutes your ongoing agreement to this Privacy Policy.**
 
-When you register to the Site or Services - the information we collect includes your name and email address. 
+In this Privacy Policy you will read about:
 
-    * (ii)
+  * Lusha Database
+  * What type of information we collect
+  * Cookies
+  * How we use the information we collect
+  * Sharing the information with third parties
+  * Marketing
+  * How do we safeguard your information
+  * How to contact us
 
-When you register or connect the Site or Services with one of your social networks or email provider (such as Gmail) (each a “ **Platform** ”) - the information we collect includes your name and email address. In case you provide additional approval throughout that registration channel, we may get access to your contacts at your email or otherwise get access to retrieve data that is accessible by that social network or email services, as the case may be. Such information may be collected and stored as part of your information in our database. Such information will be retrieved in accordance with the applicable permissions of the respective Platform. We do not store or password or security related information. 
 
-    * (iii)
 
-If you install the Plugin – we may collect information regarding your online web activity that is related to the Services and is designated to improve and upgrade them. 
+### LUSHA DATABASE
 
-    * (iv)
+ _The Business Profiles we collect from publicly available sources and from our trusted business partners are stored in Lusha Database. Our algorithms process this information contained in the database in order to identify the most up-to-date information related to each profile.  _
 
-If you agree to use Lusha’s referral service to invite friends to use Lusha, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting them to visit the Site and install the Plugin. 
+ _ **Lusha Database does not include any information which is shared with us by our Users when downloading or using our Plugin, Salesforce App, or accessing our Site.**_
 
-    * (v)
+ _ **Lusha Salesforce App – If a User chooses to connect its Salesforce account to the Lusha Salesforce App, Lusha will not collect information associated with such use.**_
 
-When you upgrade and therefore purchase the paid version of the Product you will be requested to enter your payment information. We do not collect such information and any payment processing is made by a trusted third party (such as PayPal). 
+ _ **In addition, The database includes a vast amount of Business Profiles relating to individuals, which was lawfully obtained by Lusha from business partners who own established and legitimate directories or from publicly available sources.  **_
 
+ _We may use and share Business Profiles with our Users when they use our Plugin online for the purpose of finding relevant data related to a specific individual.  _
 
+ _ **We may also disclose to our vendors and business partners (or permit their access to) Business Profiles obtained in Lusha Database for the purpose of ensuring that their current data is up to date, enriching it and allowing our partners to obtain relevant Business Profiles for employment, commercial and business opportunities.  **_
 
+ _If you prefer that we will not disclose your Business Profile with our Users, vendors or business partners, you may opt-out by filling in your relevant details  [here](https://dashboard.lusha.co/opt-out). In this case, we shall not continue to use or disclose your Business Profile. _To learn more on our commitment to respect your rights in accordance with applicable privacy and data protection regulations, please see “ _Your Rights Regarding Your Personal Information_ ” below.
 
-## HOW WE COLLECT THE INFORMATRION?
+### WHAT TYPE OF INFORMATION WE COLLECT
 
-The information is collected in the following ways: 
+As explained in details below, we collect two main types of information. The first type (i.e. “ **Business Profiles** ”) is used to enrich Lusha Database and allow us to share Business Profiles with our Users, vendors and business partners. The second type of information (i.e. “ **User’s Data** ”) is mainly collected to allow Users to use our Plugin and other related services and products.
 
-  * (a)
+1\. **Business Profiles**
 
-Cookies   
-A cookie is a small data file that is sent to your device when you first visit a website. Cookies usually include an identification number that is unique to the device you are using. Such identifier can help us better understand our users and how they are using the Site and the Services. Cookies also enable recognition of a user when they re-visit the Site, keeping their settings and preferences and ability to offer customized features. If you prefer, however, at any time you can reset your browser so it refuses all cookies, or notifies you when a cookie is being sent. The Services may implement the following types of cookies: 
+We collect Business Profiles which is related to individuals from different public sources and from our trusted business partners  **in order to enhance, optimize and enrich Lusha Database and make it current and up to date as possible**. We collect information about you from the following third-party sources: (i) third parties who license, sell or otherwise provide data they have collected; or (ii) information from publicly available sources, such as via the Internet and social networks, including through public or licensed APIs. For example, we use open web services and APIs to complete and update the information we have about Contacts and enrich it (e.g. by adding links to Contacts’ verified social network profiles), in order to allow our Users and vendors to find relevant Business Profiles.  **Lusha Database will not include any Business Profiles or any other information which are shared with us by our Users when downloading or using our Plugin or accessing our Site**.
 
-    * (i)
+2\. **User’s Data**
 
-Cookies implemented by us for the purposes described above (“ **First Party Cookie** ”); 
+We collect two categories of information from our Users:
 
-    * (ii)
+  * i. The first category of information is un-identified and non-identifiable information pertaining to a User(s), which may be made available or gathered via your use of the Services (“ **Non-personal Information** ”). We are not aware of the identity of the User from which the Non-personal Information was collected. Such information includes the following:
 
-Session ID Cookies (“ **Third Party Cookie** ”) – when third parties provide you with their own services via the operation of the Services (e.g. PayPay, your browser, analytics services, our affiliates). Such cookies used to analyze your visits and sessions with Site, measure your level of engagement, recognize you as a re-visiting user. 
+  * (a) We collect technical information transmitted by your device, including certain software and hardware information (e.g. the type of browser and operating system your device uses, language preference, access time and the domain name from which you linked to the Services; etc.), in order to enhance the functionality of the Services and to provide you with a better user experience.
 
-  * (b)
+  * (b) We may also collect information about your use of the Services, such as log files, User activity (e.g. pages viewed, the amount of time spent on particular pages, online browsing, clicks, actions, installs, etc.), time stamps, alerts, etc. This information is collected for amongst other things troubleshooting errors and bugs as well as for research and analytics purposes about your use of the Services.
 
-Information you submit    
-when you join or register to the Services or if you voluntarily contact us, you will provide us directly with the information that is relevant to you, and sometimes, with information about your contacts or friends on a given Platform. 
+  * (c) We may anonymize or de-identify the information collected by the Services or via other means so that the information cannot, on its own, personally identify you. Our use and disclosure of such aggregated or de-identified information are not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation and for any purpose.
 
+  * ii. The second category of information is information about you that specifically identifies you or when combined with other information we have, can be used to identify you. Such information is collected as part of the following activities and includes the following items:
 
+  * (a) In order to download our Plugin, you will be required to register for the Services (e.g. through our Site). As part of the registration process, we will collect your full name, email address, and telephone number. In addition, when you upgrade and purchase our paid version of the Plugin you will be requested to enter your payment information (e.g. your credit card number, PayPal account, etc.). We do not collect such information directly and the processing of such payment information is made by our trusted third party service providers.
 
+  * (b) When you register or connect the Site or Services with your social network account or email services (each a “Platform”), we may have access to basic information about you from such Platform, such as your name, home address, email address, contact list, as well as any other information you made publicly available on such Platform or agreed to share with us. At all times, we will abide by the terms, conditions, and restrictions of such Platforms.
 
-## HOW DO WE PROCESS AND USE THE INFORMATION?
+  * (c) We collect information which you provide us voluntarily. For example, when you respond to communications from us, performing a purchase through our Site, communicate with us via email or the Site or share additional information about yourself or about others through your use of the Services.
 
-We use the information in the ways and for the purposes described above. We may also use your contact information in the following ways, and for the following purposes: 
+  * (d) If you agree to use Lusha’s referral service to invite friends to use Lusha, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting them to visit the Site and install the Plugin.
 
-  * (a)
 
-To verify your registration to the Services and approve your email address 
 
-  * (b)
 
-From time to time, we may use your email address to send you information that is related to the Services, including updates, upgrades, notifications or if we introduce new features that might be interesting for you. In which case you will always be provided with an opportunity to opt out of receiving such information by choosing the unsubscribing option available at the bottom of each email sent. 
+3\. **Gmail Service**
 
-  * (c)
+  * If you use the Gmail Service, we will ask you to grant us access to your Gmail account using the application settings in your account (For a complete description of the Gmail Service, please see our [Terms of Service](https://www.lusha.co/staging/terms_and_conditions).
+  * The Gmail Service will have access to the content of your Gmail account and will automatically add contact information to the Lusha Database. The information added to the Lusha Database through your use of the Gmail Service will be governed by Lusha’s Privacy Policy.
 
-We may use other contact information - if provided by you - to notify you about issues concerning your use of the Site and/or Plugin and Services, including material changes introduced to this privacy policy. 
 
-  * (d)
 
-To respond to your inquiries, support request, feedbacks or questions. 
+### COOKIES
 
+A cookie is a small data file that is sent to your device when you first visit a website. Cookies usually include an identification number that is unique to the device you are using. Such identifier can help us better understand our Users and how they are using the Site and the Services.
 
+Cookies also enable recognition of a User when they re-visit the Site, keeping their settings and preferences and ability to offer customized features. If you prefer, however, at any time you can reset your browser so it refuses all cookies, or notifies you when a cookie is being sent.
 
+The Services may implement the following types of cookies:  (i) cookies implemented by us for the purposes described above (“First Party Cookie”); and (ii) third party cookies which are set by other online services who run content on the page you are viewing, for example by third party analytics companies who monitor and analyze our web access.
 
-## SHARING INFORMATION WITH 3RD PARTIES
+You may remove the cookies by following the instructions of your device preferences; however, if you choose to disable cookies, some features of our Services may not operate properly and your online experience may be limited.
 
-We may share the information we collect with the following parties: 
+### HOW DO WE PROCESS AND USE THE INFORMATION?
 
-  * (a)
+We use the information we collect in the ways and for the purposes described above. We may also use such information in the following ways, and for additional purposes, as follows:
 
-Other users in Lusha’s community when they use the Services. That may include your name, email address and phone number, if available. 
+1\. **Business Profiles**
 
-  * (b)
+We may use Business Profiles which are related to Contacts for the following purposes:
 
-Service Providers that help us operate the Services, including: 
+  * To enable our trusted vendors and business partners  **to access to Business Profiles obtained in Lusha Database**  (e.g. through API) for the purpose of enriching their current data;
+  * To  **enrich Lusha Database**  with current and up to date Business profiles;
+  * To  **respond to Contacts’ inquiries** , support request, feedbacks or questions;
+  * To  **detect and prevent fraudulent and illegal activity**  or any other type of activity that may jeopardize or negatively affect the integrity of the Services;
+  * To  **investigate violations and enforce our policies** , and as required by law, regulation or other governmental authority, or to comply with a subpoena or similar legal process or respond to a government request.
 
-    * (i)
 
-email or newsletter services; 
 
-    * (ii)
+2\. **User’s Data**
 
-for market analysis and research; 
+We may use User’s Data for the following purposes:
 
-    * (iii)
+  * To  **verify User’s registration to the Services**  and approve User’s email address;
+  * To provide our Services and  **help Users finding relevant Business Profiles**  when using top social network websites;
+  * To  **respond to User’s inquiries** , support request, feedback or questions.
+  * To  **manage User’s account**  and provide Users with customer support;
+  * To identify and  **authenticate User’s access**  to the Services;
+  * To  **detect and prevent fraudulent and illegal activity**  or any other type of activity that may jeopardize or negatively affect the integrity of the Services;
+  * To  **communicate with you**  and to keep you informed of our latest updates, upgrades, and products;
+  * To  **perform a research or to conduct analytics**  in order to improve and customize our Services to your needs and interests; and
+  * To  **investigate violations and enforce our policies** , and as required by law, regulation or other governmental authority, or to comply with a subpoena or similar legal process or respond to a government request.
 
-with third party storage and/or security services as required; 
 
-The information in this case will be provided only to the extent and in the scope required to provide the specific service, and will be subject to security obligations. 
 
-  * (c)
+### SHARING INFORMATION WITH THIRD PARTIES
 
-Disclosures for legal reasons - if we believe in good faith that such disclosure is necessary or required: 
+We may share your information with third parties in the ways and for the purposes described above. We may also share and disclose such information, if we believe in good faith that such disclosure is necessary or required: (i) to comply with a law, regulation, governmental or securities exchange requirement, court order, judicial proceeding or legal process, such as a subpoena or a search warrant; (ii) to address a violation of the law; (iii) to investigate fraud or criminal activity, and to protect our rights or those of our affiliates, vendors and Users, or as part of legal proceedings affecting or may affect us or our affiliates, vendors or Users; and (iv) to allow Lusha to exercise its legal rights or respond to a legal claim.
 
-    * (i)
+We may also share your information in the following ways, and for additional purposes, as follows:
 
-to comply with a law, regulation, governmental or securities exchange requirement, court order, judicial proceeding or legal process, such as a subpoena or a search warrant; 
+1\. **Business Profiles**
 
-    * (ii)
+We may share Business Profiles which are related to Contacts with our trusted vendors and business partners. Specifically, we may disclose to them (or permit their access to) Business Profiles obtained in Lusha Database for the purposes of ensuring that their existing Business Profiles are current and up to date and enriching them.
 
-to address a violation of the law; 
+At any time, you may decide to opt-out from enabling us to disclose or allow access to your Business Profiles stored on Lusha Database with our vendors and business partners, by filing in your relevant details [here](https://dashboard.lusha.co/opt-out).
 
-    * (iii)
+We may also share Business Profiles stored in our database with the following recipients: (i) our subsidiaries; (ii) subcontractors and other third-party service providers (e.g. hosting services, etc.); (iii) auditors or advisers of our business processes; and (iv) any potential purchasers or investors in Lusha.
 
-to investigate fraud or criminal activity, and to protect our rights or those of our affiliates, vendors and users, or as part of legal proceedings affecting or may affect us or our affiliates, vendors or users; 
+2\. **User’s Data**
 
-    * (iv)
+We may share User’s Personal Information with the following recipients: (i) our subsidiaries; (ii) subcontractors and other third-party service providers (e.g. payment processors, hosting services, etc.); (iii) auditors or advisers of our business processes; and (iv) any potential purchasers or investors in Lusha.
 
-to allow Lusha to exercise its legal rights or respond to a legal claim. 
+### LINKS TO OTHER WEBSITES
 
-  * (d)
+This Privacy Policy applies only to our Services and not to websites or applications owned by third parties. We may provide links to other websites (e.g. through advertisements, marketing materials, etc.) which we believe may be of interest to you. We cannot guarantee the privacy standards of such websites to which we link or be responsible for the contents of sites and this Privacy Policy is not intended to be applicable to them.
 
-Disclosures to a buyer of the Company if the Company or its substantial assets are acquired, or in the event of a merger or bankruptcy, your Information may be among the transferred assets. You will be notified via email and/or a prominent notice on the site of any change in, as well as any choices you may have regarding your personal information. 
+You are knowingly and voluntarily assuming all risks of using third-party sites. You agree that we shall have no liability whatsoever with respect to such third party sites and your usage of them.
 
-  * (e)
+ **YOUR RIGHTS REGARDING YOUR PERSONAL INFORMATION**
 
-Upon your specific consent; 
+We respect your privacy rights and therefore you may contact us at any time and we shall work diligently to respect your choices and requests regarding your Personal Information. The purpose of the list stipulated below is to allow Users and Contacts to exercise their rights under applicable privacy and data protection regulations:
 
+  *  **Right of Access** : You may request to access your Personal Information and obtain a copy of Personal Information which is being processed by Lusha. In the event that you request to know what Personal Information is being processed by us, we will provide you with the following information free of charge: purposes of processing; categories of Personal Information processed; recipient(s) of Personal Information; length of time during which the Personal Information will be stored; your privacy rights; and information on data transfers. Such requests will be made by filing in your relevant details
+  *  **Right of Rectification** : You may request to change, update or complete any missing data we process about you, by contacting Support@Lusha.co with your relevant details. Please note that we may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion.
+  *  **Right of Erasure** : You may at any time withdraw your consent to our processing of your Personal Information. In this case, if there is no overriding legitimate interest for continuing the processing of your Personal Information (e.g. to comply with our legal obligations, resolve disputes, enforce our agreements, etc.) and the Personal Information is no longer necessary in relation to the purpose for which it was originally collected, we will erase your data. Such withdrawal of consent will be made by contacting us at Support@Lusha.co with your relevant details.
+  *  **Right of Restriction of Processing:** You may request us to restrict processing of your Personal Information if one of the following applies: (i) the accuracy of the Personal Information is contested by you; (ii) the processing is unlawful; or (iii) if we no longer need the Personal Information. Such request will be made by contacting us at Support@Lusha.co with your relevant details.
+  *  **Right to Data Portability:** You have the right to receive the Personal Information in a structured, commonly used and machine-readable format. Such request will be made by contacting us at Support@Lusha.co with your relevant details.
+  *  **Right to** **object to processing Data:** You have the right to object to processing your data. Such a request will be made by sending an email with your relevant details to Support@Lusha.co
 
 
 
-## USER CHOICES
+If you wish to raise a complaint on how we have handled your Personal Information, please contact us directly at Support@Lusha.co
 
-You can make the following choices regarding your information: 
+If you are not satisfied with our response or believe we are collecting or processing your Personal Information not in accordance with the laws, you can complain to the applicable data protection authority.
 
-  * (a)
+### RETENTION
 
-Cookies \- at any time you can choose to not accept cookies from us by setting your browser’s privacy preferences. In that case you are notified that some of the features may not function properly when you visit the Site. 
+Personal Information will be retained by Lusha in such a way that you can be identified only as long as is necessary for Lusha’s processing activities (“ **Processing Date** ”). Lusha will adopt the same retention policy for all Users and Contacts regardless of their place of residence, which will follow the reasonable mandatory retention period, which is **7 years as from the Processing Date**
 
-  * (b)
+Please note that we may retain the information we collect for as long as needed to provide the Services and to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-Email  Communication – at any time you can choose to unsubscribe from receiving email notifications from us by clicking the unsubscribe option at the bottom of each such email notification. In which case, please be notified that some updates and notifications would not be available for you. 
+If you wish to remove Business Profiles existing in our servers or if you prefer that we will not disclose your Business Profiles with our Users, vendors or business partners, you may opt-out by filling in your relevant details [here](https://dashboard.lusha.co/opt-out). In this case, we shall not continue to use or disclose your Business Profiles.
 
-  * (c)
+ **Please be notified** : some of the information that is gathered about you may arrive from the web and is public by other platforms. In some cases, you may encounter your details again after the request for removal, in case they were re-collected over the web, contributed by other partners or in other means that are not including access to your device. We recommend you to periodically check your profile or the Services to ensure that your then-existed profile or account include only the Information you chose to have displayed.
 
-Data  collection \- at any time you can choose to opt out from our data collection by sending us a request to [Support@Lusha.co](mailto:Support@Lusha.co) with details that would allow us to properly identify you and address your request. 
+### HOW DO WE SAFEGUARD AND TRANSFER YOUR INFORMATION?
 
-  * (d)
+We take great care in implementing and maintaining the security of the Services and your information. We employ industry standard procedures and policies to ensure the safety of your information and prevent unauthorized use of any such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Services, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
-Removal  of  Data – if you wish to edit or remove the data existed in our servers about you please send us a proper request to [Support@Lusha.co](mailto:Support@Lusha.co) with details that will enable us to identify you and the data you wish to edit or remove (including relevant links). 
+Since we operate globally, it may be necessary to transfer your Personal Information to countries outside the European Union. The data protection and other laws of these countries may not be as comprehensive as those in the European Union − in these instances we will take steps to ensure that a similar level of protection is given to your Personal Information.  **You hereby consent to transfer of your  Personal Information to countries outside the European Union**.
 
+If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse our Services or acted in an inappropriate manner, please contact us directly at [support@lusha.co](mailto:Support@Lusha.co).
 
+### MINORS CONTROL
 
+The products and services of Lusha are not targeted to or intended for children under the age of 13. If you are under 13, you may not submit information about yourself to Lusha. Lusha reserves the right to modify or remove any information on the Site or Services at its own discretion.
 
-**Please be notified** : some of the information that is gathered about you may arrive from the web and is public by other platforms. In some cases, you may encounter your details again after request for removal, in case they were re-collected over the web, contributed by other users or in other means that are not including access to your device. We recommend you to periodically check your profile or the Services to ensure that your then-existed profile or account include only the Information you chose to have displayed. 
+In the event that we become aware that a User is under the age of 13 has shared any information, we will discard such information. If you have any reason to believe that a minor has shared any information with us, please contact us at [support@lusha.co](mailto:support@lusha.co).
 
-## SAFEGUARDING YOUR INFORMATION
+### MARKETING
 
-The security of your Information is important to us. We follow generally accepted industry standards to protect the Information submitted to us, both during transmission and once we receive it. However, no method of Internet transmission or electronic storage is 100% secured. Therefore, while we strive to use commercially acceptable means to protect your Information, we cannot guarantee its absolute security. 
+We may use Users’ Personal Information, such as names and email addresses, ourselves or by using our third-party subcontractors for the purpose of providing our Users with promotional materials and newsletters concerning our Services, which we believe may interest them.
 
-If you feel that your privacy was treated not in accordance with this Policy or is you have a good reason to believe that your information has been abused, please contact us directly at Support@Lusha.co and we will investigate accordingly. 
+Out of respect to their right to privacy, at any time, Users may request to unsubscribe and discontinue receiving marketing offers by sending us a blank message with the word “remove” to [support@lusha.co](mailto:Support@Lusha.co).
 
-## MINORS CONTROL
+### CORPORATE TRANSACTION
 
-The products and services of Lusha are not targeted to or intended for children under the age of 18. If you are under 18, you may not submit information about yourself to Lusha. Lusha reserves the right to modify or remove any information on the Site or Product at its own discretion. 
+We may share information, including Personal Information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale of an asset or transfer in the operation thereof) of the Lusha or any of its affiliates. In the event of the above, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy
 
-If you are minor and provided us with Personal Information, please contact our Privacy Compliance Officer at: [Support@Lusha.co](mailto:Support@Lusha.co) and we will investigate and handle accordingly. 
+### CHANGES TO THIS POLICY
 
-## CHANGES TO THIS POLICY
+Lusha reserves the right to modify this Privacy Policy from time to time, so please review it regularly. If we make material changes to this policy, we will notify you here, by email or by means of a notice on the Site’s homepage prior to the changes becoming effective.
 
-Lusha reserves the right to modify this Policy from time to time, so please review it regularly. If we make material changes to this policy, we will notify you here, by email, and/or by means of a notice on the Site’s homepage prior to the changes becoming effective. 
+You are requested to regularly reviewing the Privacy Policy. You hereby declare that your continued use following any changed made to the Services or the Privacy Policy shall constitute your consent to any modified terms.
 
-## SPECIFIC JURISDICTIONS
+### CONTACT US
 
-  * (a)
+If you have questions or concerns regarding this Policy, you should first contact us by email at Support@Lusha.co or:
 
-If you reside in Canada, you may have the right to be provided with access to Personal Information we have collected about you and written information about our policies and practices with respect to the transfer of your Personal Information to third parties outside of Canada. For request according with this section you may email us at [Support@Lusha.co](mailto:Support@Lusha.co). 
+Lusha Systems Inc
 
-  * (b)
+1177 Avenue of the Americas, 5th Floor
 
-If you reside in California, you may obtain certain information about the type and details of third parties with whom we share Personal Information about you for the purpose of direct marketing during the proceeding calendar year. To request a copy of the Personal Information disclosure by us pursuant to Section 1798.83 of the California Civil Code, please contact us via the email to [Support@Lusha.co](mailto:Support@Lusha.co). Please be noted that our response may take up to 30 days for a response. 
-
-
-
-
-## CONTACT US
-
-If you have questions or concerns regarding this Policy, you should first contact: [Support@Lusha.co](mailto:Support@Lusha.co). 
+New York, NY 10036
