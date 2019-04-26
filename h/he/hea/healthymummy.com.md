@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the healthymummy.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019105237id_/https%3A//www.healthymummy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthymummy.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426110150id_/https%3A//www.healthymummy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Healthy Mummy
+
+Lifetime Membership is BACK with PAYMENT PLANS! 4 interest-free payments with NO ONGOING CHARGES! Make a change for LIFE. [Take Part Now](https://secure.healthymummy.com/lifetime-membership-bundle-plan/)
 
 ##  [ Privacy Policy ](https://www.healthymummy.com/privacy-policy/)
 
