@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911000908id_/https%3A//www.ixiacom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426050848id_/https%3A//www.ixiacom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ixia
 
