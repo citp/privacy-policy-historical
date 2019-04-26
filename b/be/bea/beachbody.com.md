@@ -1,70 +1,147 @@
-> *The following text is extracted and transformed from the beachbody.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928105146id_/https%3A//www.beachbody.com/product/about_us/privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachbody.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426020347id_/https%3A//www.beachbody.com/product/about_us/privacy_policy.do) for the most accurate reproduction.*
 
 # Beachbody Privacy Policy - Fitness, Nutrition, Diet, Weight Loss Official Web Site - beachbody.com
 
-_Last updated_ : August 1, 2016
+_Last updated_ : October 15, 2018
 
 Beachbody, LLC (applicable to our U.S. audience) and Team Beachbody Canada, LP (applicable to our Canadian audience), together with our parent companies, affiliates, and subsidiaries (collectively, " **Beachbody** ", " **us** ", " **we** " or " **our** ") know that you care about how your information is used and shared, and we appreciate the trust you place in us that we will do so carefully and sensibly. We provide you with this Privacy Policy because we want you to know how we may collect, use, share and keep information about you, and the choices that are available to you.
 
-Please don't hesitate to contact us at any time if you have any questions regarding the contents in this Privacy Policy by e-mailing [Privacy@Beachbody.com](mailto:privacy@beachbody.com)
+Please don't hesitate to contact us at any time if you have any questions regarding the contents in this Privacy Policy by emailing [Privacy@Beachbody.com](mailto:privacy@beachbody.com)
 
 ## When Does this Privacy Policy Apply?
 
 This Privacy Policy applies whenever we collect personal information from or about you when you access or use any of our websites, applications, content, streaming services, products, goods, equipment, services, promotions, software, technology and any other materials (collectively, “ **Beachbody Services** ”), or when you contact us in any manner.
 
-## What Information Is Collected From You Through Beachbody Services?
+## What Information Is Collected About You Through Beachbody Services?
 
-The information we receive from you helps us personalize and continually improve our business. Here are the general types of personal information (and sensitive personal information) we (and certain third parties) may gather:
+The information we receive from you helps us personalize and continually improve your experience using the Beachbody Services and our business. Here are the general types of personal information we (and certain third parties) may gather:
 
-  * ### **Information You Give Us :**
+##### **Information You Give Us:**
+
+  * ### **Sources of Information You Give Us :**
 
 We receive, store and process personal information you provide to us when you purchase or use the Beachbody Services, set up a Team Beachbody account, enter information on our websites or message boards, communicate with us over phone, e-mail or otherwise, use our applications on mobile or connected devices, use our streaming services, take our surveys, participate in any promotion, interact with our social media presence, or in any other way.
 
-    * #### Examples of Information You Give Us: 
+  * ### **Examples of Information You Give Us :**
 
-This includes without limitation your name, shipping, billing, and/or business addresses; location information; phone number; e-mail address; username and password information; credit or other payment card information; gender; date of birth; and survey response data. If you sign up as a Team Beachbody Coach, we may also collect your social security/social insurance or other similar identification number and bank account information in order to remit any commission payments you may have earned. If you apply to join our Affiliate Program, we may also collect information about your business, such as your (or your organization's) name, e-mail address, street address, telephone number, tax identification number, and information about your website (e.g., the URL, the number of unique users and page views, the demographics of your user base, etc.). To help track your workout activity, Beachbody may send and receive data to and from Apple's Healthkit Application if you enabled this feature.
+This includes without limitation:
 
-We may also collect other types of information that you provide to us to help you achieve your health and wellness goals, such as your:
+    * **Contact information:**
 
-      * _physical information_ (e.g., weight, waist, hip and bicep measurements, etc.);
+name, shipping, billing, and/or business addresses; phone number; e-mail address; 
 
-      * _food and nutritional information_ (e.g., types of food and beverages consumed, and any related caloric, fat, fiber, cholesterol and other information);
+    * **Log-in information:**
 
-      * _metabolic information_ (e.g., caloric and fat burn through exercise, and other related information);
+username and password information; 
 
-      * _fitness and activity information_ (e.g., the types and number of workouts you may be using, workout and activity tracking, hours exercised, etc.); and
+    * **Payment information:**
 
-      * _general feedback_ (e.g., content you post on our message boards, or information you submit about our products, goods or services).
+credit or other payment card information;
+
+    * **Demographics information:**
+
+gender; date of birth; and survey response data;
+
+    * **Fitness and wellness information:**
+      * _Physical information_ (e.g., weight, waist, hip and bicep measurements, etc.); 
+
+      * _Food and nutritional information_ (e.g., types of food and beverages consumed, and any related caloric, fat, fiber, cholesterol and other information); 
+
+      * _Metabolic information_ (e.g., caloric and fat burn through exercise, and other related information); 
+
+      * _Fitness and activity information_ (e.g., the types and number of workouts you may be using, workout and activity tracking, hours exercised, etc.). 
+
+    * **General feedback:**
+
+content you post on our message boards, photos you upload into the Beachbody Services, or information you submit about our products, goods or services; 
+
+    * **If you sign up as a Team Beachbody Coach,**
+
+we may also collect your social security/social insurance or other similar identification number and bank account information in order to remit any commission payments you may have earned;
+
+    * **If you apply to join our Affiliate Program,**
+
+we may also collect information about your business, such as your organization's name, email address, street address, telephone number, tax identification number, and information about your website (e.g., the URL, the number of unique users and page views, the demographics of your user base, etc.); 
+
+    * **If you enable Apple’s Healthkit Application when using Beachbody Services,**
+
+Beachbody may send and receive data to and from Apple’s Healthkit Application to help track your workout activity and enhance your overall experience using Beachbody Services. Beachbody will not use or share health data collected through Apple HealthKit for marketing purposes. For example, we may collect and display fitness data, such as heart rate, and use it to estimate your calorie burn while performing exercises with Beachbody programs. 
 
 
 
-  * ### **Information We Automatically Receive** : 
 
-We automatically receive and store certain technical information whenever you interact with us. For example, like many other websites, we use “cookies” to enhance your experience on our websites as described below, which allows us to obtain certain information when your web browser accesses any of our websites.
+##### **Information We Automatically Receive:**
 
-    * #### Examples of Information We Automatically Receive: 
+  * ### **Sources of Information We Automatically Receive** : 
 
-This includes without limitation your Internet protocol (IP) address (the number used to identify your computer or modem to the Internet, which can potentially identify your location and Internet Service Provider), browser or device type, version and time zone setting, operating system and platform; information about your activities on our websites, including the Uniform Resource Locator (URL) from which you came to our websites and the URLs that you visited on our websites; cookie identifier; products you viewed or searched for; the phone number you used to call us; pixel tag data as described below; and purchase history. During some visits to our websites, we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
+We automatically receive and store certain technical information about your device and systems you use to connect with and interact with us. For example, like many other websites, we use “cookies” to recognize your device and enhance your experience on our websites as described below. We also use pixel tags which allows us to obtain certain information when your web browser accesses any of our websites or you download images in emails we send you. We may use software tools such as JavaScript to collect information about visits to our website. We may also automatically collect information about you through our mobile apps.
+
+  * ### **Examples of Information We Automatically Receive When You Use Our Sites** : 
+
+This includes without limitation:
+
+    * **Device identifiers:**
+
+your Internet protocol (IP) address (the number used to identify your computer or modem to the Internet, which can potentially identify your location and Internet Service Provider), and cookie identifiers;
+
+    * **Device, system, and usage data:**
+
+browser type, device type, device screen size, version and time zone setting, operating system; information about your activities on our websites, including the Uniform Resource Locator (URL) from which you came to our websites and the URLs that you visited on our websites; products you viewed or searched for; the phone number you used to call us; pixel tag data as described below; and purchase history; session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
 
 
 
   * ### **Mobile and Connected Device Information** : 
 
-When you download, install or use our applications through mobile or connected devices, we may receive information about your device and may access your camera, microphone, or other device services or hardware. Some devices may allow you to opt-out of this collection or access, and in those cases, you may be able to subsequently stop the collection or access. Please review your device settings for more information. 
+When you download, install, first launch, or use our applications through mobile or connected devices, we may receive information about your device and may access your camera, microphone, or other device services or hardware. Some devices may allow you to opt-out of this collection or access, and in those cases, you may be able to subsequently stop the collection or access. Please review your device settings for more information. 
 
-    * #### Examples of Mobile Information: 
+  * **Examples of Mobile and Connected Device Information We Collect** : 
 
-This includes without limitation unique identifiers for your device, device and usage information, precise geolocation information (if you enabled this feature), carrier provider, and the types of mobile devices and operating systems accessing the application.
+This includes without limitation the same types of data that we collect through our websites as described above, and the following: 
+
+    * **Mobile device identifiers:**
+
+mobile device IDs, including AdIDS; 
+
+    * **Mobile device, system, and usage data:**
+
+precise geolocation information (if you enabled this feature), mobile carrier provider, the types of mobile devices and mobile operating systems accessing the application, and information that we may obtain from device features you allow us to access such as photos and voice data. 
 
 
 
-  * ### **Information We Obtain From Other Sources** : 
 
-We may receive information about you from other sources, including from third party vendors, services and commercially available sources (such as data aggregators and public databases). We may also collect information that you publicly post on our social media pages, such as our Facebook®, Instagram®, and Twitter® pages. In addition, we may combine information you give us with other information from Beachbody sources, communications and transactions. Where permitted by law, we combine this information received from other sources, including from social media websites, with information you give us and information that we collect automatically about you.
+##### **Information We Obtain From Other Sources:**
 
-    * #### Examples of Information We Obtain From Other Sources: 
+  * ### **Sources of Information We Obtain From Other Sources** : 
 
-This includes without limitation, information that you provide to our vendors; updated credit card number and expiration dates from your bank or credit card company which we use to keep our records current and service you better; updated delivery and address information from our carriers or other third parties which we use to keep our records current, process orders, deliver your next purchase, and service you better; account information which we use to validate access to your accounts with us; transactional data from third party purchases; demographic and profile data; social media posts, such as your likes, interests, feedback, preferences, pictures, comments, suggestions, opinions, and complaints; information we may receive from your Team Beachbody Coach (if applicable); information that you provide through our e-mail and text message campaigns; information about products or services purchased from other companies.
+We may receive information about you from other sources. In addition, we may combine information you give us with other information from these sources. 
+
+  * ### **Examples of Information We Obtain From Other Sources** : 
+
+These sources include without limitation the following categories:
+
+    * **Our vendors:**
+
+information that you provide to or through our vendors, such as through our email and text message campaigns;
+
+    * **Your Team Beachbody Coach (if applicable):**
+
+information such as account information, or which may be contained in a contest, sweepstakes or other entry which your Coach may submit on your behalf;
+
+    * **Payment service providers:**
+
+updated credit card number and expiration dates from your bank or credit card company which we use to keep our records current and service you better; 
+
+    * **Delivery service providers:**
+
+delivery details such as updated delivery and address information from our carriers or other third parties which we use to keep our records current, process orders, deliver your next purchase, and service you better; 
+
+    * **Social media services:**
+
+information that you publicly post on our and your social media pages (e.g., our Facebook®, Instagram®, and Twitter® pages), such as your personal information, likes, interests, feedback, preferences, pictures, comments, suggestions, and opinions;
+
+    * **Other third party sources (including data aggregators and public databases):**
+
+transactional data from third party purchases; demographic and profile data; information about products or services purchased from other companies. 
 
 
 
@@ -75,25 +152,25 @@ Beachbody may use the information provided above in various ways, including with
 
   * Process and fulfill your requests or orders for any Beachbody Services, and verify your identity and/or location to allow access to your accounts (such as your Team Beachbody or Beachbody On Demand account);
 
-  * Communicate with you about your orders or any inquiries you may have submitted to us;
+  * Communicate with you about your orders or any inquiries you may have submitted to us or other customer service issues;
 
   * Tell you about new products, goods or services, including if you started a transaction with us and provided your information, but did not finalize your order;
 
   * Service and manage your accounts, or contact you about your accounts;
 
-  * Address a problem or issue affecting your use of any Beachbody Services, or to inquire about or verify information concerning a transaction;
+  * Troubleshoot and/or address a problem or issue affecting your use of any Beachbody Services, or to inquire about or verify information concerning a transaction;
 
-  * Assist you with your health and wellness goals, such as providing you with advice and feedback on your goals, and connecting you with individuals who share your interests;
+  * Assist you with your health and wellness goals, such as providing you with information and feedback on your goals, and helping you connect with individuals who share your interests;
 
-  * Improve any Beachbody Services and related advertising or materials;
+  * Improve any Beachbody Services, such as the look and feel of our apps or websites, and related advertising or materials;
 
   * Enhance and personalize your Beachbody experience on any Beachbody Services, and control the frequency of advertisements to your device;
 
   * Target advertising or promotions that may be of interest to you, such as e-mails, direct mail, banner ads, splash ads (ads that appear as you sign in or out of your online accounts) or promotions based on your demographic profile, interests, or location;
 
-  * Send you emails and other communications about Beachbody's or any of our business partners' products or services that we think you may find useful, or to see if you are interested in participating in surveys, market research or other inquiries;
+  * Send you emails and other communications with offers about Beachbody's or any of our business partners' products or services that we think you may find useful, or to see if you are interested in participating in surveys, market research or other inquiries;
 
-  * Administer contests, promotions, events, surveys or other features;
+  * Administer contests, promotions, events, market research, surveys or other features;
 
   * Improve, personalize, and optimize your website browsing and mobile application experiences by examining which parts of our website you visit or which aspect of our mobile applications you find most useful, and to improve existing or develop new products and services;
 
@@ -101,7 +178,7 @@ Beachbody may use the information provided above in various ways, including with
 
   * Assist us in taking data security precautions and to engage in fraud prevention, detection, and remediation;
 
-  * Carry out other purposes which are disclosed to you and to which you consent;
+  * Carry out other purposes which are disclosed to you and, where required by law, to which you consent;
 
   * Undertake statistical analysis and research, and for demographic profiling purposes; or
 
@@ -110,13 +187,11 @@ Beachbody may use the information provided above in various ways, including with
 
 
 
-Apple HealthKit Data: Beachbody will not use or share health data collected through Apple HealthKit for marketing purposes.
-
 ## What About Cookies, Pixel Tags and Third Party Tracking Tools?
 
   * ### **Cookies** : 
 
-Like almost every company, Beachbody and others use a technology commonly known as a "cookie", which is a small data file our server places on your computer or mobile device to recognize your device and provide personalized features and advertisements. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information. Through cookies, we are able to collect information that we use to improve our websites and mobile applications, improve your overall experience on them, and personalize your experiences and advertisements. For example, through cookies, we can keep count of return visits to our website or our advertisers' or partners' websites, collect and report on aggregate statistical information, authenticate your login credentials, and manage multiple instances of our websites in a single browser. We may also collect other data through cookies, such as the page or website that referred you to us, the date and time you visited us, and your current IP address. The cookies we place on your hard drive are known as "first-party cookies" and any cookies placed by third parties are called “third party cookies.” Third party cookies enable third party features or functionality to be provided on or through the website (e.g., advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
+Like almost every company, Beachbody and others use a technology commonly known as a "cookie", which is a small data file our server places on your computer or mobile device to recognize your device and provide personalized features and advertisements. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information. Through cookies, we are able to collect information that we use to improve our websites and mobile applications, improve your overall experience on them, and personalize your experiences and advertisements. For example, through cookies, we can keep count of return visits to our website or our advertisers' or partners' websites, understand how much time is spent on certain webpages, know which links were clicked, understand what users do and do not like, collect and report on aggregate statistical information, authenticate your login credentials, and manage multiple instances of our websites in a single browser. We may also collect other data through cookies, such as the page or website that referred you to us, the date and time you visited us, and your current IP address. The cookies we place on your hard drive are known as "first-party cookies" and any cookies placed by third parties are called “third party cookies.” Third party cookies enable third party features or functionality to be provided on or through the website (e.g., advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
 
   * ### **Disabling Cookies** : 
 
@@ -124,11 +199,11 @@ Most major web browsers provide users with the option to accept or reject cookie
 
   * ### **Pixel Tags** : 
 
-We also collect information through the use of "pixel tags" on our websites and in e-mail messages we may send to you that may be placed by us or third parties with whom we partner. "Pixels," also known as "Web beacons," are tiny graphic files or code snippets, not visible to the human eye, that can be included in HTML-encoded e-mail messages and web pages. When such a message is opened in an HTML-capable e-mail program, the recipient's computer or device will communicate with our server to retrieve the pixel tag file, allowing us to record and store, along with the recipient's e-mail address, the date and time the recipient viewed the e-mail message, the fact that the recipient's e-mail client is capable of receiving HTML-encoded e-mail, and other standard logging information. The pixel tag may also see or read cookies. Beachbody may use pixel tags in order to measure and understand traffic better, improve site performance, track visitor behavior to improve user experience, and for tracking promotional and marketing campaign response, among others. You can disable the pixel tag feature by changing the settings on your e-mail client to prevent the automatic downloading of images, changing your browser settings to omit images, disabling Javascript, or there are commercial software packages available that can omit pixel tags and most advertisements.
+We also collect information through the use of "pixel tags" on our websites and in e-mail messages we may send to you that may be placed by us or third parties with whom we partner. "Pixels," also known as "Web beacons," are tiny graphic files or code snippets, not visible to the human eye, that can be included in HTML-encoded e-mail messages and web pages. When such a message is opened in an HTML-capable e-mail program, the recipient's computer or device will communicate with our server to retrieve the pixel tag file, allowing us to record and store, along with the recipient's e-mail address, the date and time the recipient viewed the e-mail message, the fact that the recipient's e-mail client is capable of receiving HTML-encoded e-mail, and other standard logging information. The pixel tag may also see or read cookies. Beachbody may use pixel tags in order to measure and understand traffic better, improve site performance, track visitor behavior to improve user experience, and for tracking promotional and marketing campaign response, among others. You can disable the pixel tag feature in emails by changing the settings on your email client to prevent the automatic downloading of images, on websites by changing your browser settings to omit images or disabling Javascript. There are also commercial software packages available that can omit pixel tags and most advertisements.
 
   * ### **Behavioral Advertising on Third Party Websites** : 
 
-We also work with third parties that use tracking technologies on our websites and on other websites in order to provide and track tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These third party partners may place or recognize a unique cookie on your hard drive. They may help Beachbody place first party cookies from our servers, or third party cookies from their own or other third party servers. Beachbody and our advertisers and third party advertising partners may use cookies in order to collect information about you, which may include how many times you have seen an ad or whether you have interacted with an ad. We and our partners may also use cookies to provide you with interest-based or behavioral advertising. The use of third-party cookies is not covered by this Privacy Policy as these third parties are subject to their own privacy policies. For more information about this practice and to understand your options for many of our advertising partners, please visit [http://www.youradchoices.com](http://www.youradchoices.com/) (U.S.), [http://www.youradchoices.ca](http://www.youradchoices.ca/) (Canada) or the Network Advertising Initiative at [www.networkadvertising.org](http://www.networkadvertising.org/). If you choose to opt-out of behavioral advertising using these cookies, you will still be served with advertisements on the Internet, but it may not be tailored to your interests. Most major web browsers provide users with the option to accept or reject third party cookies. Opting out relies on information in the unique cookies placed on your web browser by our partners, so if you delete cookies, use a different device, or change web browsers, you may need to opt out again.
+We also work with third parties that use tracking technologies on our websites and on other websites in order to provide and track tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These third party partners may place or recognize a unique cookie on your hard drive or use other tracking technologies. They may help Beachbody place first party cookies from our servers, or third party cookies from their own or other third party servers. Beachbody and our advertisers and third party advertising partners may use cookies and other tracking technologies in order to collect information about you, which may include how many times you have seen an ad or whether you have interacted with an ad. We and our partners may also use cookies and other tracking technologies to provide you with interest-based or behavioral advertising. The use of third-party cookies is not covered by this Privacy Policy as these third parties are subject to their own privacy policies. For more information about this practice and to understand your options for many of our advertising partners, please visit [http://www.youradchoices.com](http://www.youradchoices.com/) (U.S.), [http://www.youradchoices.ca](http://www.youradchoices.ca/) (Canada) or the Network Advertising Initiative at [www.networkadvertising.org](http://www.networkadvertising.org/). If you choose to opt-out of behavioral advertising using these cookies, you will still be served with advertisements on the Internet, but it may not be tailored to your interests. Most major web browsers provide users with the option to accept or reject third party cookies. Opting out relies on information in the unique cookies placed on your web browser by our partners, so if you delete cookies, use a different device, or change web browsers, you may need to opt out again.
 
   * ### **Do Not Track Signals** : 
 
@@ -147,11 +222,11 @@ We utilize third party companies and individuals to perform business functions o
 
   * ### **Assignment to a Team Beachbody Coach and/or Master Trainer** : 
 
-To maximize the benefits of our products and services, we assign an independent Team Beachbody Coach (a " **Coach** ") to all customers who agree to a Team Beachbody Club membership or who consent to be contacted by a Coach. Your assigned Coach is available to assist you in understanding and using the products you ordered, and help give you the motivation you need to help you achieve your fitness goals. To help you both get in contact, your assigned Coach will receive access to certain information you provided during your purchase process, such as your name, address, phone number, e-mail address and the names of the products you purchased. Your Coach may contact you to offer support, and provide general information and marketing materials. Please note that Beachbody will never provide your assigned Coach your credit or debit card information or, if you provided it, your Social Security number/Social Insurance number. If you joined Beachbody LIVE!, we may provide certain basic information to the Master Trainer assigned to train you during your training, such as your name, e-mail address and phone number.
+To maximize the benefits of our products and services, we assign an independent Team Beachbody Coach (a " **Coach** ") to all customers who purchase a product through Beachbody/Team Beachbody Club membership or who consent to be contacted by a Coach. Your assigned Coach is available to assist you in understanding and using the products you ordered, and help give you the motivation you need to help you achieve your fitness goals. To help you both get in contact, your assigned Coach will receive access to certain information you provided during your purchase process, such as your name, address, phone number, e-mail address and the names of the products you purchased. Your Coach may contact you to offer support, and provide general information and marketing materials. Please note that Beachbody will never provide your assigned Coach your credit or debit card information or, if you provided it, your Social Security number/Social Insurance number. If you joined Beachbody LIVE!, we may provide certain basic information to the Master Trainer assigned to train you during your training, such as your name, e-mail address and phone number.
 
-  * ### **Related Companies; Third Party Offers** : 
+  * ### **Affiliates and Subsidiaries; Related Companies; Third Party Offers** : 
 
-Beachbody occasionally partners with third parties to learn more about our customers so we can service you better or offer products or services that we feel may be useful to you (" **Related Company** "). In such case, we may disclose to a Related Company certain information, such as your name, e-mail, billing or shipping address, products purchased and price. If you request information from a Related Company, we may disclose additional information such as your e-mail address, phone number and other contact information, so the Related Company can provide you with the information you requested. If you purchased a product or service from a Related Company, we will also disclose your credit card information so they can complete your purchase. We may disclose aggregated, de-identified information to Related Companies: (i) so the Related Companies can provide you with advertisements tailored to your interests; (ii) for statistical analysis, research, and demographic profiling purposes; and (iii) to support our business and improve our mission to help our customers achieve their health and wellness goals.
+Beachbody may share your personal information with its affiliates, subsidiaries and parent companies. Beachbody occasionally partners with third parties to learn more about our customers so we can service you better or offer products or services that we feel may be useful to you (" **Related Company** "). In such case, we may disclose to a Related Company certain information, such as your name, e-mail, billing or shipping address, products purchased and price. If you request information from a Related Company, we may disclose additional information such as your e-mail address, phone number and other contact information, so the Related Company can provide you with the information you requested. If you purchased a product or service from a Related Company, we will also disclose your credit card information so they can complete your purchase. We may disclose aggregated, de-identified information to Related Companies: (i) so the Related Companies can provide you with advertisements tailored to your interests; (ii) for statistical analysis, research, and demographic profiling purposes; and (iii) to support our business and improve our mission to help our customers achieve their health and wellness goals.
 
   * ### **Protection of Beachbody and Others** : 
 
@@ -159,7 +234,7 @@ We may share your information, including personally identifiable information, in
 
   * ### **De-identified Data Disclosures** : 
 
-We may also disclose non-identifying transaction information to third parties for the purpose of accounting and record keeping. We may also disclose aggregated, de-identified user data or non-personal information with business partners, advertisers, and others.
+We may also disclose non-identifying transaction information to third parties for accounting, record keeping and other purposes. We may also disclose aggregated, de-identified user data or non-personal information with business partners, advertisers, and others.
 
 
 
@@ -172,11 +247,11 @@ These third parties have separate data collection and privacy practices independ
 
 ## How Secure is Information About Me?
 
-Beachbody has implemented and uses reasonable security measures designed to help prevent the loss and unauthorized access of your information. Despite these efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against interception or to be absolutely secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or our online services. If you suspect a website or mobile application is pretending to be that of Beachbody's (also known as "spoofing"), do not enter any personal information, but please let us know by e-mailing [CyberSecurity@Beachbody.com](mailto:CyberSecurity@Beachbody.com). Personal information may be accessed by persons within our organization, or our third party service providers, who require such access to carry out the purposes indicated above, or such other purposes as may be permitted or required by the applicable law. Personal Information we collect is maintained in the United States.
+Beachbody has implemented and uses reasonable security measures designed to help prevent the loss and unauthorized access of your information. Despite these efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against interception or to be absolutely secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or our online services. You can help protect your personal information by not reusing any passwords you use in connection with your Beachbody accounts. If you suspect a website or mobile application is pretending to be that of Beachbody's (also known as "spoofing"), do not enter any personal information, but please let us know by e-mailing [CyberSecurity@Beachbody.com](mailto:CyberSecurity@Beachbody.com). Personal information may be accessed by persons within our organization, or our third party service providers, who require such access to carry out the purposes indicated above, or such other purposes as may be permitted or required by the applicable law. Personal Information we collect is maintained in the United States.
 
 ## What Happens to My Information if Beachbody is Sold to or Merges With Another Company?
 
-As we continue to develop and grow our business or in the unlikely event of a bankruptcy, we might sell one or more of our assets, subsidiaries or business units. In such transactions, customer information is typically one of the transferred business assets.
+As we continue to develop and grow our business or in the unlikely event of a bankruptcy, we might sell one or more of our assets, subsidiaries or business units. In such transactions, customer information is typically one of the transferred business assets. Customer information may also be disclosed in connection with due diligence or in preparation of a potential sale or investment.
 
 ## Users Based Outside of the USA; Transfer of Personal Information
 
@@ -184,13 +259,13 @@ Like most websites and businesses, Beachbody's websites may be accessed by an in
 
 ## How Can I Access or Update My Information?
 
-We want to be sure your personal information is kept accurate and complete, and for this reason we ask that you inform us in the event of any changes to your information. If you provided your information _directly to Beachbody,_ you may access or update certain personal information by calling our Customer Service at (800) 470-7870 or logging into your Team Beachbody account if you created one. When calling Customer Service, please have your e-mail address and order information available. We will use commercially reasonable efforts to respond to your request to access or update your information. Please note that certain access may be subject to a fee.
+We want to be sure your personal information is kept accurate and complete, and for this reason we ask that you inform us in the event of any changes to your information. If you provided your information _directly to Beachbody,_ you may access or update certain personal information by calling our Customer Service at (800) 804-4333. When calling Customer Service, please have your e-mail address and order information available. If you want to update information with your account, please visit the “Help” section within your Team Beachbody or Beachbody On Demand account for more information. We will use commercially reasonable efforts to respond to your request to access or update your information. Please note that certain access may be subject to a fee.
 
 ## Your Privacy Choices: Opt-Out
 
   * ### **Marketing** : 
 
-We offer you various ways to opt-out of receiving certain communications from us. If you would like to opt-out of receiving e-mail marketing communications from us, you may click the “Unsubscribe” link found at the bottom of Beachbody marketing e-mails that we send and follow the easy instructions to opt-out, or you may click the "Preferences" links to update your e-mail settings. If you would like to opt-out of receiving marketing phone calls, you can inform the agent with whom you speak that you would like to be placed on Beachbody’s "Do Not Call" list. If you would like to opt-out of any Beachbody text message campaign, please follow the instructions provided when you opt-in to the campaign; typically, responding "STOP" to your specific short code will opt you out of the campaign for which you signed up.
+We offer you various ways to opt-out of receiving certain communications from us. If you would like to opt-out of receiving e-mail marketing communications from us or your assigned Team Beachbody Coach, you may click the “Unsubscribe” link found at the bottom of Beachbody marketing e-mails that we send and follow the easy instructions to opt-out, or you may click the "Preferences" links to update your e-mail settings. If you would like to opt-out of receiving marketing phone calls, you can inform the agent with whom you speak that you would like to be placed on Beachbody’s "Do Not Call" list. If you would like to opt-out of any Beachbody text message campaign, please follow the instructions provided when you opt-in to the campaign; typically, responding "STOP" to your specific short code will opt you out of the campaign for which you signed up.
 
   * ### **Online Advertising** : 
 
