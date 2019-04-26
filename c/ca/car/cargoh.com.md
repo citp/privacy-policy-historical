@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cargoh.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224141021id_/http%3A//www.cargoh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargoh.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426130730id_/https%3A//www.cargoh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cargoh
 
