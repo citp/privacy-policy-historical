@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818042947id_/https%3A//www.fragrancenet.com/help/privacy%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426074232id_/https%3A//www.fragrancenet.com/help/privacy%23privacy) for the most accurate reproduction.*
 
 # Discount Perfume, Cologne & Discounted Fragrances
+
+1,054,819
+
+Only 16 days left until MOTHER'S DAY! 
 
 Privacy & Safety 
 
@@ -49,7 +53,7 @@ back to top
 
 The Company and the Service gathers personal information mainly to communicate with you and to process your orders, but also to help improve our products and customer service, to provide an enhanced and more personalized shopping experience and to inform you, and your gift and message recipients, of special offers and discounts from the FragranceNet.com, Inc. family of brands, Company Affiliates (as that term is defined below and in our [Terms of Use](https://www.fragrancenet.com/help/terms_of_use)) and selected third parties.
 
-For individuals in the European Union (“EU”), our processing (i.e. use) of your personal data is justified on the following legal bases:
+For individuals in the European Union ("EU"), our processing (i.e. use) of your personal data is justified on the following legal bases:
 
   * the processing is necessary to perform a contract with you or take steps to enter into a contract at your request.
   * the processing is necessary for us to comply with a relevant legal obligation.
@@ -110,17 +114,17 @@ Our Service may also use a common web technology called "action tags" (also call
 
   1. _Our Services_. We collect data from you for use in interest-based advertising when you use our Service. Other companies may serve interest-based advertisements on our Service. We comply with the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance ( aboutads.info).
   2. _Other Services_. Advertisements for our products and services may appear on third party websites around the Internet. Some websites and services deliver these advertisements based upon data that has been previously collected about your past behavior online. For example, if you have viewed websites about gift baskets, these websites or services may display to you an advertisement for our gift baskets. This kind of targeted advertising is sometimes called interest-based or online behavioral advertising. It is generally not based upon your personal information (such as your name or email address), but rather, upon your online activities. We do not control such third party websites or services on which these advertisements appear. Further, we do not control how they collect and use data about your online activities.
-  3. _Consent_. You may opt-out of being tracked online by certain companies who are listed at [www.aboutads.info/choices/](https://web.archive.org/web/20180818042947id_/https%3A//www.fragrancenet.com/help/www.aboutads.info/choices/) OR [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20180818042947id_/https%3A//www.fragrancenet.com/help/www.networkadvertising.org/managing/opt_out.asp) and may also learn more about online behavioral advertising at such websites. If you opt-out, you will still receive generic advertisements, but they will not be delivered to you by such companies from whom you have opted out based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, for each browser and each device, so if you delete your cookies or use a different computer, you will have to repeat this process. We do not respond to or honor "do not track" (a/k/a DNT) signals or similar mechanisms transmitted by web browsers. 
+  3. _Consent_. You may opt-out of being tracked online by certain companies who are listed at [www.aboutads.info/choices/](https://web.archive.org/web/20190426074232id_/https%3A//www.fragrancenet.com/help/www.aboutads.info/choices/) OR [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20190426074232id_/https%3A//www.fragrancenet.com/help/www.networkadvertising.org/managing/opt_out.asp) and may also learn more about online behavioral advertising at such websites. If you opt-out, you will still receive generic advertisements, but they will not be delivered to you by such companies from whom you have opted out based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, for each browser and each device, so if you delete your cookies or use a different computer, you will have to repeat this process. We do not respond to or honor "do not track" (a/k/a DNT) signals or similar mechanisms transmitted by web browsers. 
 
 
 
 #### **D. Push Notifications.**
 
-As a user who has downloaded our Company’s mobile application, we may from time-to-time send you push notifications to your device in order to communicate with you and advise you of current offers and promotions. To ensure that you receive timely notification of such communications and promotions, we need to collect certain information from your device as indicated above. If at any time you do not wish to receive these types of communications, you may turn them off at the device level. 
+As a user who has downloaded our Company's mobile application, we may from time-to-time send you push notifications to your device in order to communicate with you and advise you of current offers and promotions. To ensure that you receive timely notification of such communications and promotions, we need to collect certain information from your device as indicated above. If at any time you do not wish to receive these types of communications, you may turn them off at the device level. 
 
 #### **E. Mobile Analytics.**
 
-We use mobile analytics software to allow us to better understand the functionality of our Company’s mobile application on your device. This software may record information such as how often you use the application, the events that occur within the application, usage, performance data, and the source from which the application was downloaded. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application. 
+We use mobile analytics software to allow us to better understand the functionality of our Company's mobile application on your device. This software may record information such as how often you use the application, the events that occur within the application, usage, performance data, and the source from which the application was downloaded. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application. 
 
 back to top
 
@@ -193,7 +197,7 @@ back to top
 
 The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [feedback@fragrancenet.com.](mailto:feedback@fragrancenet.com)
 
-If you place an order on our Website, it encrypts the credit/debit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the website is viewed using Microsoft IE®, Google Chrome®, Mozilla Firefox®, and Apple Safari® browsers. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive.
+If you place an order on our Website, it encrypts the credit/debit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the website is viewed using Microsoft Edge®, Google Chrome®, Mozilla Firefox®, and Apple Safari® browsers. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive.
 
 Portions of the Service (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the "Password"). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Service (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts.
 
@@ -203,9 +207,9 @@ back to top
 
 We want to communicate with you only to the extent you want to hear from us.
 
-Any promotional email we send to you (or your gift recipient after consent) will include an “unsubscribe” link to use or a link to opt-out of receiving further promotional emails from the sender.
+Any promotional email we send to you (or your gift recipient after consent) will include an "unsubscribe" link to use or a link to opt-out of receiving further promotional emails from the sender.
 
-If you wish to set your preferences concerning promotional communications, or you prefer not to have your personal information shared with third parties, please let us know by contacting us as noted below in the “How to Contact Us” section and identify your preferences regarding promotional communications and the sharing of your contact information. Your instructions will be processed as soon as reasonably practicable and in accordance with law.
+If you wish to set your preferences concerning promotional communications, or you prefer not to have your personal information shared with third parties, please let us know by contacting us as noted below in the "How to Contact Us" section and identify your preferences regarding promotional communications and the sharing of your contact information. Your instructions will be processed as soon as reasonably practicable and in accordance with law.
 
 back to top
 
@@ -220,7 +224,7 @@ FragranceNet.com
 Deer Park, NY 11729  
 Attn: General Counsel 
 
-If you would like to update or correct information previously provided to us, please contact us as indicated below in the “How to Contact Us” section. Upon your written request, we will provide you with information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe.
+If you would like to update or correct information previously provided to us, please contact us as indicated below in the "How to Contact Us" section. Upon your written request, we will provide you with information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe.
 
 Members can directly access, modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Update Membership" page.
 
