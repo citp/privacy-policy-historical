@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportanddev.org privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709072117id_/https%3A//www.sportanddev.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportanddev.org privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426110100id_/https%3A//www.sportanddev.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | sportanddev.org
 
