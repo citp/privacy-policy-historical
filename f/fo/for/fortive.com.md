@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortive.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822001831id_/http%3A//www.fortive.com/sites/default/files/inline-files/Fortive_Corp_Privacy_Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortive.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426161809id_/https%3A//www.fortive.com/sites/default/files/inline-files/Fortive_Corp_Privacy_Notice.pdf) for the most accurate reproduction.*
 
 # F
 
