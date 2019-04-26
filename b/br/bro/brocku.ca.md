@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brocku.ca privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625211709id_/http%3A//brocku.ca/university-secretariat/freedom-information-protection-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brocku.ca privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426135029id_/https%3A//brocku.ca/university-secretariat/fippa) for the most accurate reproduction.*
 
 # Protection of Privacy – University Secretariat
 
@@ -10,7 +10,7 @@ The University collects personal information as part of its role in providing se
 
 Access to and use of personal information is restricted to those who need it in order to fulfill the purpose(s) for which it was intended. Various safeguards are in place to ensure that the information is protected from improper use, disclosure or destruction. The University’s Access to Information and Protection of Privacy Policy includes protection of privacy requirements regarding the collection, use, disclosure, retention and disposal of personal information.
 
-  * [Access to Information and Protection of Privacy Policy](https://brocku.ca/policies/wp-content/uploads/sites/94/FINAL-Access-to-Info-Protection-of-Privacy-Policy-March-7-2018.pdf)
+  * [Access to Information and Protection of Privacy Policy](https://brocku.ca/policies/wp-content/uploads/sites/94/Access-to-Info-Protection-of-Privacy-Policy.pdf)
   * [Freedom of Information and Protection of Privacy Act](https://www.ontario.ca/laws/statute/90f31)
   * [Personal Health Information Protection Act (PHIPA)](https://www.ontario.ca/laws/statute/04p03)
   * [Information and Privacy Commissioner/Ontario](http://www.ipc.on.ca/)
