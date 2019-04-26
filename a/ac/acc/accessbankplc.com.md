@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessbankplc.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823104906id_/http%3A//accessbankplc.com/footer/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessbankplc.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426055148id_/https%3A//www.accessbankplc.com/footer/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Access Bank Group | Privacy Policy
 
