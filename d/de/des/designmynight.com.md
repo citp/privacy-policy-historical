@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designmynight.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905090229id_/https%3A//www.designmynight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designmynight.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427134213id_/https%3A//www.designmynight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignMyNight
 
@@ -44,6 +44,14 @@ By subscribing to our newsletter, this will mean receiving our weekly newsletter
 
 Your information will be stored in an encrypted database in the EEA and will be retained for 6 years. However you may ask for this to be deleted in accordance with the Rights of the GDPR by contacting [Information.Security@theaccessgroup.com](mailto:Information.Security@theaccessgroup.com) 
 
+## Cookies
+
+When you visit our website, we may automatically collect non-personal information about you, such as the type of browser you use and the way you arrived at our website (either a direct visit or via some referring website). The collection of this information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the website. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the website.
+
+You cannot be identified from the information collected in this way on its own and it is only used to assist us in providing an effective service on our website and to collect broad demographic information for aggregate use and to improve the website.
+
+Most browsers accept cookies automatically. You can erase or block cookies from your computer if you want to, but certain services may not work correctly or as fast or at all if you set your browser not to accept cookies
+
 ## Contact Information
 
 Our Information Security/ Data Protection Manager can be contacted at - [Information.Security@theaccessgroup.com](mailto:Information.Security@theaccessgroup.com) 
@@ -54,9 +62,11 @@ Further information relating to GDPR can be found on our Client Portal [here](ht
 
 **Important note:** If you feel we have not processed your data in accordance with the Principles and Rights of the individual under GDPR, please contact [Information.Security@theaccessgroup.com](mailto:Information.Security@theaccessgroup.com) or you may also lodge a complaint with the [Information Commissioners Office](https://ico.org.uk/concerns/)
 
-newsletter
+____ London newsletter 
 
 Get weekly inspiration straight to your inbox! Get 250 (£2.50) reward points if you sign up now.
+
+By entering your email address you agree to our [terms and conditions](https://www.designmynight.com/terms-and-conditions "Terms") and [privacy policy](https://www.designmynight.com/privacy-policy "Privacy Policy").
 
 Congratulations, you have subscribed!
 
@@ -70,4 +80,4 @@ Get on board for exclusive discounts and money off the best events.
 
 Signup
 
-You should start seeing new bars, offers and openings in your inbox soon!
+You should start seeing new bars, offers and openings in your inbox soon! 
