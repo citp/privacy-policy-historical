@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130163256id_/https%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427024348id_/https%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Center for Nutrition Studies
 
@@ -17,6 +17,15 @@ If you wish to subscribe to our electronic newsletter(s) or receive other materi
 ### Use of Collected Information
 
 The information collected is used for the following purposes: to manage and improve our Site; to enable you to get involved in CNS activities; to allow you to receive information such as updates and newsletters on our activities to enable you to support CNS; to apply for a position of employment at CNS; and to respond to your inquiries, requests or communications. If you choose to provide your information to CNS, you may receive information from CNS about various projects and activities. 
+
+### Legal Bases for Collecting and Using Information
+
+A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:  
+(1) The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account–for example, in order to enable access to our website on your device; or  
+(2) The use is necessary for compliance with a legal obligation; or  
+(3) The use is necessary in order to protect your vital interests or those of another person; or  
+(4) We have a legitimate interest in using your information–for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalize your experience; or  
+(5) You have given us your consent–for example before we place certain cookies on your device and access and analyze them later on, as described below in our Cookies Policy.
 
 ### Disclosure of Information
 
