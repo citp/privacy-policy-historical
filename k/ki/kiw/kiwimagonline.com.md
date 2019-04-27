@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the kiwimagonline.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601001842id_/http%3A//www.kiwimagonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwimagonline.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427020735id_/http%3A//www.kiwimagonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KIWI magazine : KIWI magazine
 
-**Last modified: February 21, 2012**
+**Last modified: May 25, 2018**
 
-Through its websites kiwimagonline.com, greenmomsmeet.com, and myhealthyschool.com (“Websites”). May Media Group LLC, publisher of KIWI magazine, aims to bring you information that is tailored to your individual needs, and, at the same time, we want to protect your privacy. The following discloses our information gathering and dissemination practices for these Websites.
+Through its websites kiwimagonline.com, momsmeet.com, and myhealthyschool.com (“Websites”). May Media Group LLC, publisher of KIWI magazine, aims to bring you information that is tailored to your individual needs, and, at the same time, we want to protect your privacy. The following discloses our information gathering and dissemination practices for these Websites.
 
 Your use of these Websites is subject to this Privacy Policy and our Terms and Conditions. Your use of these Websites constitutes acknowledgement of this Privacy Policy. In addition to carefully reviewing this Privacy Policy, please carefully review our Terms and Conditions for use of these Websites.
 
-If you have any questions about this Privacy Policy, or wish to inquire about or correct your personally identifiable information that we have collected, please contact our Privacy Policy Coordinator by e-mail at [webmaster@maymediagroup.com](mailto:webmaster@maymediagroup.com), or send your inquires by mail to:
+If you have any questions about this Privacy Policy, or wish to inquire about or correct your personally identifiable information that we have collected, please contact our Privacy Policy Coordinator by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d5a484f404c5e59485f6d404c54404849444c4a5f42585d034e4240), or send your inquires by mail to:
 
 Privacy Policy Coordinator  
 KIWIMAGONLINE.com  
@@ -23,14 +23,18 @@ May Media Group LLC is the registrant of these Websites.
 
 ## WHAT INFORMATION WE COLLECT FROM YOU
 
-These Websites may ask adults that subscribe to our publication(s), make purchases on these Websites, participate in our surveys, contests, sweepstakes and other offerings, to provide certain personal information, including name, mailing address, e-mail address and phone number. Participants may optionally provide additional information which may include, age, gender, education, marital status, etc. The type of information requested is specifically tailored to the particular offering (e.g. number of children in household, preferences for food products, healthcare, etc.).
+These Websites may ask adults that create a member account, subscribe to our publication(s), make purchases on these Websites, participate in our Sampling Programs, surveys, contests, sweepstakes and other offerings, to provide certain personal information, including name, mailing address, e-mail address and phone number. Participants may optionally provide additional information which may include, age, gender, education, marital status, etc. The type of information requested is specifically tailored to the particular offering (e.g. number of children in household, preferences for food products, healthcare, etc.). We may also collect information from you if you contact us for customer service issues. The identifiable information we collect is used for internal purposes only.
+
+We also collect photos and information provided by you in our Feedback Surveys. You have the option to opt out of sharing these photos publicly while filling out the survey.
 
 If you make purchases on these Websites, we also collect credit card, financial and billing information from you.
+
+The information we collect from you is stored indefinitely.
 
 ## HOW WE USE INFORMATION PROVIDED BY YOU
 
 All credit card, financial and billing information that we collect is used solely in connection with payment for your purchases from these Websites.  
-We use the information you supply through these Websites to provide you with the information, product, or service you requested, to enhance your experience on these Websites, and for internal business purposes consistent with this policy. For example, if you subscribe to any of our publications, or make purchases on these Websites, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your purchases, or, if you enter one of our contests, we will use this information to notify you if you won. We may also use the information to tell you about publications, products or services that we believe will interest you, or improve existing services and product offerings by tailoring them to your interests. We also share certain information with our affiliates, and certain companies who we believe can offer you products and services that may interest you.
+We use the information you supply through these Websites to provide you with the information, product, or service you requested, to enhance your experience on these Websites, and for internal business purposes consistent with this policy. For example, if you subscribe to any of our publications, or make purchases on these Websites, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your purchases, or, if you enter one of our contests, we will use this information to notify you if you won. We may also use the information to tell you about publications, products or services that we believe will interest you, or improve existing services and product offerings by tailoring them to your interests. We also share certain information with our affiliates in order to better situate their products and services for market. The information shared with these affiliates includes but is not limited to anonymous data provided during a Feedback Survey for a Sampling Program. It does not include your individual information but may use your first name and last initial.
 
 While your individual information (personally identifiable information) is protected as described in this privacy policy, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as finding compatible advertisers and partners and analyzing usage trends.
 
@@ -38,17 +42,19 @@ While your individual information (personally identifiable information) is prote
 
 May Media Group LLC does not sell, share or distribute any personal information with third parties, except as described in this Privacy Policy.
 
-Certain third parties may need access to your information for the sole purpose of providing you the product or service you requested. For example, if you purchase products through these Websites, we may forward your information to third parties for services such as credit card processing and order fulfillment.
+Certain third parties may need access to your information for the sole purpose of providing you the product or service you requested. For example, if you purchase products through these Websites, we may forward your information to third parties for services such as credit card processing and order fulfillment. We may provide a third party with your first and last name and mailing address in order to send you a shipment for a Sampling Program that you have opted into.
+
+We never sell or share your e-mail address or other individual information with third parties.
 
 Your information may also be disclosed if the law requires us to do so in connection with investigations or other legal proceedings. This includes but is not limited to sharing information with third parties for fraud protection.
 
-## THIRD PARTY ADVERTISEMENTS
+## THIRD-PARTY SERVICE PROVIDERS
 
-We may provide your information to our advertisers so you see ads and are able to link to other sites that may interest you. However, our Privacy Policy does not cover information collected on those third party sites, and these third party companies are not bound by our Privacy Policy. Always consult the other site’s privacy policies before providing any information on those sites, as May Media Group LLC does not bear any responsibility for any actions or policies of third parties.
+We may provide your information to our third-party service providers. However, our Privacy Policy does not cover information collected on those third-party sites, and these third-party companies are not bound by our Privacy Policy. Always consult the other site’s privacy policies before providing any information on those sites, as May Media Group LLC does not bear any responsibility for any actions or policies of third parties.
 
 ## OPT-OUT
 
-If you do not wish to continue to receive email solicitations from May Media Group LLC, you may opt-out by clicking the “unsubscribe” link at the bottom of the email, or, by sending an email to webmaster@maymediagroup.com with the word “UNSUBSCRIBE” in the subject line. Please allow 10 business days for your request to take effect.
+If you do not wish to continue to receive email solicitations from May Media Group LLC, you may opt-out by clicking the “unsubscribe” link at the bottom of the email, or, by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the word “UNSUBSCRIBE” in the subject line. Please allow 10 business days for your request to take effect.
 
 ## TECHNOLOGY WE USE
 
