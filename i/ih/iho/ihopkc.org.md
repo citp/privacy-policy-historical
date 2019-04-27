@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihopkc.org privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117123046id_/http%3A//www.ihopkc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihopkc.org privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427122551id_/https%3A//www.ihopkc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - International House of Prayer
 
