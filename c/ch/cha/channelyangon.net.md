@@ -1,27 +1,60 @@
-> *The following text is extracted and transformed from the channelyangon.net privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217094805id_/http%3A//channelyangon.net/index.php/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelyangon.net privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427202638id_/http%3A//channelyangon.net/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Channel Yangon – Myanmar News and Entertainment
+# Privacy Policy – Channel Yangon
 
-In ChannelYangon.net, the privacy of our visitors is very important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.  
-This Privacy Policy is reviewed and revised, sometimes. You should revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
+## Privacy Policy
 
-1\. Log Files  
-We use log files like many other websites. The information in the log files include:  
-* Internet Protocol addresses (IP)  
-* Types of browser  
-* Internet Service Provider (ISP)  
-* Date and time stamp  
-* Number of clicks  
-All of this information is not linked to anything that is personally identifiable.
+At Channelyangon, accessible from http://channelyangon.net, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Channelyangon and how we use it.
 
-2\. Cookies  
-We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers,  ChannelYangon has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.  
-If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at Info@Channelyangon.net
 
-3\. Comments
+## Log Files
 
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+Channelyangon follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.
 
-4\. Other  
-You might be asked to subscribe to our newsletter by providing name and email address to receive communication. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.  
-If you’ve any question about our privacy policy please contact us.
+## Cookies and Web Beacons
+
+Like any other website, Channelyangon uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.
+
+## Google DoubleClick DART Cookie
+
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <https://policies.google.com/technologies/ads>
+
+## Our Advertising Partners
+
+Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
+
+  * Google 
+
+<https://policies.google.com/technologies/ads>
+
+
+
+
+## Privacy Policies
+
+You may consult this list to find the Privacy Policy for each of the advertising partners of Channelyangon.
+
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Channelyangon, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+
+Note that Channelyangon has no access to or control over these cookies that are used by third-party advertisers.
+
+## Third Pary Privacy Policies
+
+Channelyangon’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites. What Are Cookies?
+
+## Children’s Information
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+Channelyangon does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+## Online Privacy Policy Only
+
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Channelyangon. This policy is not applicable to any information collected offline or via channels other than this website.
+
+## Consent
+
+By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
