@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023010142id_/https%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427153820id_/https%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ACMA
 
@@ -126,7 +126,7 @@ The ACMA’s purpose and legal authority to collect personal information will ty
 
 The purpose of the collection will vary according to the law which authorises or requires the collection, for example, [investigations](https://web.archive.org/theACMA/Newsroom/Newsroom); **** licence applications, renewals and transfers; control and compliance notifications; ****[payment of licensing fees, taxes and charges](https://web.archive.org/theACMA/About/Making-payments); **** applications for exemptions/exceptions; declarations of conformity. 
 
-In some instances, the form or notice will also explain how the information provided will be managed, for example, the ‘[Application for apparatus licence(s) (R057)](https://web.archive.org/theACMA/help-with-acma-apparatus-licence-application-forms)’ form has a number of fields marked with an asterisk. A note on the form advises the applicant that the personal information provided in the fields so marked will be included in the [Register of Radiocommunications Licences](https://web.archive.org/Industry/Spectrum/Radiocomms-licensing/Register-of-radiocommunications-licences) ** ** and will be made available to the public.
+In some instances, the form or notice will also explain how the information provided will be managed, for example, the ‘Application for apparatus licence(s) (R057)’ form has a number of fields marked with an asterisk. A note on the form advises the applicant that the personal information provided in the fields so marked will be included in the [Register of Radiocommunications Licences](https://web.archive.org/Industry/Spectrum/Radiocomms-licensing/Register-of-radiocommunications-licences) ** ** and will be made available to the public.
 
 ### Recruitment
 
@@ -247,7 +247,7 @@ We will not use it for any other purpose, nor will we disclose it, unless one of
 
 Part 7A of the ACMA Act empowers the ACMA to share authorised disclosure information (defined in section 3 of that Act) in certain circumstances, including to an authority of a foreign country responsible for regulating matters relating to communications or media (see section 59D). The definition of authorised disclosure information encompasses personal information given in confidence to the ACMA in connection with the performance of any of its functions or the exercise of any of its powers. The ACMA may make a disclosure on request or of its own volition. The decision to disclose will be made in light of the facts. For more information see the ACMA’s _[Regulatory Guide No 3 ](https://web.archive.org/theACMA/About/The-ACMA-story/Regulating/regulatory-guides-guidelines-limitations-on-control-acma)_– _Information sharing under Part 7A of the Australian Communications and Media Authority Act 2005.    _
 
-The ACMA has also entered into memoranda of understanding (MOUs) with a number of domestic and international agencies. The MOUs do not provide the legal basis for making disclosures. They assist the ACMA and the other signatory to respond appropriately to, and manage requests for, assistance, including requests for access to information held by the ACMA. These MOUs are available [here](https://web.archive.org/Citizen/Phones/Mobile/Dealing-with-mobile-spam/international-cooperation-your-mobile-world-i-acma).   
+The ACMA has also entered into memoranda of understanding (MOUs) with a number of domestic and international agencies. The MOUs do not provide the legal basis for making disclosures. They assist the ACMA and the other signatory to respond appropriately to, and manage requests for, assistance, including requests for access to information held by the ACMA. These MOUs are available [here](https://web.archive.org/Citizen/Complaints/Internet-complaints/Spam-and-telemarketing/acmas-compliance-and-enforcement-approach).   
 
 Information on the operation of the FOI Act is available [here](https://web.archive.org/theACMA/About/Corporate/Accountability/acma-freedom-of-information-act-publication-plan).   
 
@@ -257,7 +257,7 @@ The protection and security of information held by the ACMA is of critical impor
 
 The ACMA has a range of measures in place to protect the personal information we hold from misuse, interference and loss, and from unauthorised access, modification or disclosure. 
 
-All information collected by the ACMA is secured and managed in accordance with the Australian Government’s Protective [Security Policy Framework](https://www.protectivesecurity.gov.au/), [_Information Security Manual_](http://www.asd.gov.au/infosec/ism/)  and the [Archives Act](http://www.comlaw.gov.au/Series/C2004A02796%20) (and see also the [pages of the National Archives of Australia website regarding Commonwealth records management](http://www.naa.gov.au/records-management/)).  
+All information collected by the ACMA is secured and managed in accordance with the Australian Government’s Protective [Security Policy Framework](https://www.protectivesecurity.gov.au/), _[Information Security Manual](https://acsc.gov.au/infosec/ism/index.htm)_   and the [Archives Act](http://www.comlaw.gov.au/Series/C2004A02796%20) (and see also the [pages of the National Archives of Australia website regarding Commonwealth records management](http://www.naa.gov.au/records-management/)).  
 
 The ACMA’s ePort security statement is available [here](https://web.archive.org/Industry/Broadcast/Television/Licence-fees-and-charges/broadcasting-licence-fees-licence-fees-acma). 
 
