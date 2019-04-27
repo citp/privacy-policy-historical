@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remingtonproducts.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009223238id_/http%3A//www.remingtonproducts.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remingtonproducts.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427220727id_/http%3A//www.remingtonproducts.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Remington®
 
