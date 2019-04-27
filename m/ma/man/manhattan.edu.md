@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manhattan.edu privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910121957id_/https%3A//manhattan.edu/privacy-notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manhattan.edu privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427082205id_/https%3A//manhattan.edu/privacy-notice.php) for the most accurate reproduction.*
 
 # Privacy Notice | Manhattan College | Riverdale, NY
 
