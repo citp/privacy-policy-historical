@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the reasonablefaith.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125214413id_/http%3A//www.reasonablefaith.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonablefaith.org privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427065406id_/https%3A//www.reasonablefaith.org/privacy-policy) for the most accurate reproduction.*
 
-# Reasonable Faith: Privacy Policy
+# Privacy Policy | Reasonable Faith
 
-Reasonable Faith has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.reasonablefaith.org.
+**Privacy Policy**
 
-In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Reasonable Faith reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
+Reasonable Faith has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.reasonablefaith.org. 
 
-Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of:
+In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Reasonable Faith reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting. 
+
+Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of: 
 
 1\. What personally identifiable information of yours is collected through the Site;   
 2\. Who collects such information;   
@@ -42,9 +44,8 @@ Our Site contains links to other Web sites. Please note that when you click on o
 **Contacting the Web Site** :   
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
 
-Reasonable Faith 
-
+Reasonable Faith   
 P.O. Box 72888  
 Marietta, GA 30007
 
-You can also send an email to: [info@reasonablefaith.org](mailto:info@reasonablefaith.org "E-mail info@reasonablefaith.org")
+You can also send an email to: [info@reasonablefaith.org](mailto:info@reasonablefaith.org "E-mail info@reasonablefaith.org")  
