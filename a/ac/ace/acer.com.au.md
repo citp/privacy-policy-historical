@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.com.au privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909141712id_/https%3A//www.acer.com/ac/en/AU/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.com.au privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427150416id_/https%3A//www.acer.com/ac/en/AU/content/privacy) for the most accurate reproduction.*
 
 # Privacy | Acer Official Site
 
