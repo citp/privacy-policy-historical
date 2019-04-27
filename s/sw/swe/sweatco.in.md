@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweatco.in privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122193844id_/https%3A//sweatco.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweatco.in privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427231641id_/https%3A//sweatco.in/privacy) for the most accurate reproduction.*
 
-# Sweatcoin — the app that pays you to get fit
+# Sweatcoin | It pays to walk
 
 _This Privacy Policy was last updated on 23 May 2018_
 
@@ -55,9 +55,9 @@ We use a number of industry-standard data analytics tools, such as Google Analyt
 
 YOUR RIGHTS
 
-  1. You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing (i.e. “opt out”) by clicking ‘unsubscribe’ at the bottom of our marketing emails or by emailing privacy@sweatco.in, with the subject ‘unsubscribe’. 
+  1. You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing (i.e. “opt out”) by clicking ‘unsubscribe’ at the bottom of our marketing emails or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), with the subject ‘unsubscribe’. 
   2. You have the right to change your personal information we hold about you. You can exercise your right by accessing your Account information in our app (Open Sweatcoin app -> Your Account Screen -> Edit (on Android) or Pencil icon (on iPhone) -> Change your details -> Save)
-  3. You have the right to ask us about the personal information we hold about you and to request a copy of your personal information. You can exercise your right to access this information by emailing privacy@sweatco.in, with the subject ‘data access request’. 
+  3. You have the right to ask us about the personal information we hold about you and to request a copy of your personal information. You can exercise your right to access this information by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), with the subject ‘data access request’. 
   4. You have the right to delete your account and any personal information we hold on you. You can exercise your right to delete your Sweatcoin account and the personal information attached to it yourself, by triggering an account deletion via the Help section within the Sweatcoin app (Open Sweatcoin app -> Your Account Screen -> Settings -> Help -> Contact us -> Choose your problem = Delete Account)
 
 
@@ -70,4 +70,4 @@ We reserve the right to change this Privacy Policy at any time.  Any such chang
 
 CONTACT
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [privacy@sweatco.in](mailto:privacy@sweatco.in) with subject line “enquiry”.
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e494968d9285879da49793818590878bca8d8a) with subject line “enquiry”.
