@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129094400id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428001325id_/https%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nanigans – Advertising for Incremental Revenue
+# Privacy Policy - Nanigans
 
-**Privacy Policy**  
 Last updated: May 24, 2018
 
 ## Introduction
@@ -209,5 +208,6 @@ London
 c/o WeWork, 1 Fore Street  
 London, EC2Y 5EJ.
 
-For the purposes of EU data protection legislation, Nanigans, Inc. is the controller of your personal information.  
+For the purposes of EU data protection legislation, Nanigans, Inc. is the controller of your personal information.
 
+[](https://privacy.truste.com/privacy-seal/Nanigans,-Inc/validation?rid=c9094ce1-1e66-4fef-9d0a-55dfd4be0fda "TRUSTe online privacy certification")
