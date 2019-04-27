@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102135549id_/https%3A//www.pct.edu/about/penn-college-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427041030id_/https%3A//www.pct.edu/about/penn-college-privacy) for the most accurate reproduction.*
 
 # Penn College Privacy | Pennsylvania College of Technology
 
@@ -40,12 +40,6 @@ The College contracts with Blackbaud, Inc., of Charleston, SC, USA, a leading pr
 
 For those who wish to give to The Penn College Fund without submitting sensitive information online, we also provide a printable form that can be mailed to the Institutional Advancement Office.
 
-##### Planned Giving
-
-The College contracts with Crescendo Interactive, Inc., of Camarillo, CA, USA, to provide its GiftLegacy planned giving marketing and communications solutions to donors and prospective donors to Penn College. Neither the College nor Crescendo will disclose or share financial information without your consent, except for general statistical purposes and certain explicit circumstances in which disclosure may be required by law. Your financial information will not be distributed or sold to third-party organizations.
-
-Read [Crescendo's privacy statement](http://www.pctgift.org/?pageID=98) for more information.
-
 ##### Alumni Information Update
 
 Alumni Relations offers an Information Update form to maintain current contact information and supply information for [Class Notes](https://web.archive.org/magazine/class-notes) published in _Penn College Magazine_. Alumni may elect to opt out of email from the Alumni Relations office.
@@ -54,19 +48,13 @@ We have also asked alumni, on occasion, to act as ambassadors for the College, t
 
 We do not share contact information with anyone outside the College without permission.
 
-##### "You're the Chef"
-
-We request information from the user when the user chooses to ask a question of the Chef. This information is used to determine the demographics of our audience, as well as to respond to questions.
-
-If a user elects to use our "Send this recipe to a friend" option for informing a friend about a recipe, we ask them for the friend's name and email address only. We will send the friend a one-time email inviting them to visit the site. We store this information for the sole purpose of sending this one-time-only email.
-
 ##### The College Store
 
 The College contracts with Missouri Bookstore to provide online shopping cart technology for purchases. The user's email address will not be shared with anyone, and the user will receive no correspondence unless it relates directly to a question or order. Missouri Bookstore uses secure SSL technology to secure all transactions.
 
-##### Workforce Development & Continuing Education
+##### Workforce Development
 
-We accept online registrations for noncredit classes taught through our Workforce Development & Continuing Education office. The information is used solely for registration purposes. Also, because we accept credit card payment, this site is secured.
+We accept online registrations for noncredit classes taught through our Workforce Development office. The information is used solely for registration purposes. Also, because we accept credit card payment, this site is secured.
 
 ##### Wildcat Wishes
 
