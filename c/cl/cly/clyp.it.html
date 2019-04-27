@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clyp.it privacy policy that was archived on 2018-09-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180925101338id_/https%3A//clyp.it/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clyp.it privacy policy that was archived on 2019-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190427180216id_/https%3A//clyp.it/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -9,24 +9,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-<meta name="description" content="Clyp is the easiest way to record, upload and share audio. No account required.">
-<meta property="og:description" content="Clyp is the easiest way to record, upload and share audio. No account required.">
+<meta name="description" content="Clyp is the easiest way to record, upload and share audio.">
+<meta property="og:description" content="Clyp is the easiest way to record, upload and share audio.">
 <meta property="og:title" content="Privacy - Clyp">
 <meta property="og:image" content="https://static.clyp.it/site/images/logos/clyp-og-1200x630.png">
 <meta property="og:site_name" content="Clyp">
 <meta property="og:type" content="website">
-
-<meta name="twitter:card" content="app">
-<meta name="twitter:site" content="@Clyp_It">
-<meta name="twitter:app:name:iphone" content="Clyp">
-<meta name="twitter:app:id:iphone" content="844687108">
-<meta name="twitter:app:name:ipad" content="Clyp">
-<meta name="twitter:app:id:ipad" content="844687108">
-<meta name="twitter:app:name:googleplay" content="Clyp">
-<meta name="twitter:app:id:googleplay" content="it.clyp">
-<meta name="apple-itunes-app" content="app-id=844687108">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 <link rel="icon" type="image/png" href="https://static.clyp.it/site/images/favicons/apple-touch-icon-precomposed.png">
 <link rel="apple-touch-icon" href="https://static.clyp.it/site/images/favicons/apple-touch-icon-60x60.png">
@@ -36,8 +24,8 @@
 <link rel="apple-touch-icon" sizes="152x152" href="https://static.clyp.it/site/images/favicons/apple-touch-icon-152x152.png">
 <link rel="apple-touch-icon" sizes="180x180" href="https://static.clyp.it/site/images/favicons/apple-touch-icon-precomposed.png">
 
-    <link href="//static.clyp.it/site/css/siteinformation-1.0.5.css" rel="stylesheet">
-    <link href="//static.clyp.it/site/css/clyp-1.0.30.css" rel="stylesheet">
+    <link href="//static.clyp.it/site/css/siteinformation-1.0.6.css" rel="stylesheet">
+    <link href="//static.clyp.it/site/css/clyp-1.0.32.css" rel="stylesheet">
 
     <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
     window.clypCampaigns = [
@@ -228,8 +216,8 @@
 
 
     <section role="banner" id="banner">
-        <a href="/featuredsubmissions" class="fixed-banner">
-            <h4 class="fixed-banner-text">Vote on Next Week's Featured Clyps</h4>
+        <a href="/premium-pricing" class="fixed-banner blue">
+            <h4 class="fixed-banner-text">Custom widgets available with Pro</h4>
         </a>
     </section>
 
@@ -369,7 +357,7 @@
         in Austin, TX.</span>
     </div>
     <div class="footer-copyright footer-section">
-        <span>© 2018 Clyp, Inc. All rights reserved.</span>
+        <span>© 2019 Clyp, Inc. All rights reserved.</span>
     </div>
 </footer>
 </div>
@@ -378,7 +366,7 @@
     <input name="AudioFile" class="upload-input" type="file" accept=".mp3, .ogg, .m4a, .wav, .3gpp, .aiff, .aif" data-bind="audiourUpload: { uploads: 'uploadingFiles', completed: 'completedFiles', headerViewModel: headerViewModel }">
 </div>
 
-<audio id="nativeAudioPlayer" src="https://static.clyp.it/site/audio/smallest-possible-wav.wav" autoplay=""></audio>
+<audio id="nativeAudioPlayer"></audio>
 
 <div style="opacity: 0; visibility: hidden;" id="global-upload-dropzone" data-bind="hidden: hidden, opaque: opaque">
     <div class="dropzone-text" data-bind="text: dropzoneText"></div>
@@ -459,6 +447,13 @@
     <a href="#" class="button modal-button modal-bottom-element">Done</a>
     <!-- /ko -->
     <!-- /ko -->
+</div>
+
+<div class="remodal account-verification-request" data-remodal-id="account-verification-request" data-remodal-options="hashTracking: false">
+    <div class="modal-headline" data-bind="text: headlineText()"></div>
+    <div class="modal-text" data-bind="text: subheaderText()"></div>
+    <button class="button primary" data-bind="click: sendEmail, css: { 'disabled' : !sendEmailButtonEnabled() }, visible: !unverifiedEmailVM.emailSent()">Send verification email</button>
+    <button class="button primary" data-bind="click: close, visible: unverifiedEmailVM.emailSent">Done</button>
 </div>
 
 <div class="remodal upload-modal-wrapper" data-remodal-id="uploadModal" data-remodal-options="hashTracking: false, closeOnOutsideClick: true" data-bind="css: { 'remodal-error-inline': !!uploadBoxVm.errorMessage() }">
@@ -582,7 +577,7 @@
     </div>
 </div>
 
-    <script src="//static.clyp.it/site/js/global-1.0.61.js"></script>
+    <script src="//static.clyp.it/site/js/global-1.0.63.js"></script>
 
 
 <script>
@@ -607,6 +602,14 @@
 
         var modalVm = new ModalViewModel(bootstrapData, headerViewModel, remodalWrapper, $(remodalElement));
         ko.applyBindings(modalVm, remodalElement);
+
+        var accountVerificationModalWrapper = $.remodal.lookup[$('[data-remodal-id=account-verification-request]').data('remodal')];
+        var accountVerificationModalElement = document.getElementsByClassName('remodal account-verification-request')[0];
+        var accountVerificationModalVM = new AccountVerificationRequestModalViewModel(
+            headerViewModel,
+            accountVerificationModalWrapper);
+        ko.applyBindings(accountVerificationModalVM, accountVerificationModalElement);
+        headerViewModel.accountVerificationModalVM = accountVerificationModalVM;
 
         var remodalUploadModalWrapper = $.remodal.lookup[$('[data-remodal-id=uploadModal]').data('remodal')];
         var remodalUploadModalElement = document.getElementsByClassName('upload-modal-wrapper')[0];
