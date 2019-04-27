@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the talend.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919142613id_/https%3A//www.talend.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talend.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427145835id_/https%3A//www.talend.com/privacy-policies) for the most accurate reproduction.*
 
 # Talend Website Privacy Notice - Talend Real-Time Open Source Data Integration Software
 
-**Last Updated: May 14, 2018**
+**Last Updated: December 31, 2018**
 
 ### Your Privacy Matters
 
@@ -30,11 +30,11 @@ Talend is a global organization, with legal entities, business processes, manage
 
 ### Collection of Personal Information
 
-_Information that you provide_
+ _Information that you provide_
 
 To participate in certain activities and to obtain certain services offered on our Website, you will be asked to provide varying amounts of personal information. For example, we may ask you to provide your contact details in order to register an account with us, to subscribe to marketing communications from us, and/or to submit inquiries to us.  The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
-_Information we collect automatically_
+ _Information we collect automatically_
 
 In addition to the information you provide, Talend may also collect information during your visit to the Website through our automatic data collection tools, which may include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our Website such as your browser type and language, access times, and the address of the Website from which you arrived at a Talend Website. They may also collect information about your Internet Protocol (IP) address, clickstream behavior (i.e. the pages you view, the links you click, and other actions you take in connection with the Website) and product information. Talend may also use some of these automatic data collection tools in connection with certain emails sent from Talend and therefore may collect information using these tools when you open the email or click on a link contained in the email.
 
@@ -44,39 +44,37 @@ For more information about cookies and similar tracking technology, please see t
 
 ### How Talend Uses Personal Information
 
-Talend uses your personal information to better meet individual needs, to respond to specific requests for information, to send promotional materials, and to make you aware of new or similar products or offerings in which you might be interested.
-
-Talend reserves the right to send registrants email communications (regarding product updates and promotional offers) from time to time in accordance with their communications preferences. You may opt-out at any time by (i) sending an email to [unsubscribe@talend.com](mailto:unsubscribe@talend.com); (ii) by clearly following the “unsubscribe” instructions at the bottom of any email you receive; or (iii) by contacting the privacy department at the address above to unsubscribe to mailing lists. To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided above.
-
-When it is necessary to do so, we may send you service-related announcements via e-mail regarding technical or administrative issues, legal notices or other important information about the Website and products and service considered valuable or essential to your continued ability to use them properly. 
-
-Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, please contact us by (i) sending an email to [unsubscribe@talend.com](mailto:unsubscribe@talend.com); or (ii) by contacting the privacy department at the address above to unsubscribe to mailing lists.
+Talend uses your personal information to better meet individual needs, to respond to specific requests for information, to send promotional materials, and to make you aware of new or similar products or offerings in which you might be interested.  
+Talend reserves the right to send registrants email communications (regarding product updates and promotional offers) from time to time in accordance with their communications preferences. You may opt-out at any time by (i) sending an email to [unsubscribe@talend.com](mailto:unsubscribe@talend.com); (ii) by clearly following the “unsubscribe” instructions at the bottom of any email you receive; or (iii) by contacting the privacy department at privacy@talend.com. To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided above. You can also visit your [Email Preference Center](https://info.talend.com/emailpreferencesen.html) to determine and manage your preferences in term of communication you receive from Talend.   
+In addition, to the extent you may be a business contact of Talend, please refer to our [Talend Group Contacts Privacy Notice](https://web.archive.org/contacts-privacy-policy/) for information on how we collect, share and use personal information about our business contacts, and how our contacts can exercise their privacy rights.   
+When it is necessary to do so, we may send you service-related announcements via e-mail regarding technical or administrative issues, legal notices or other important information about the Website and products and service considered valuable or essential to your continued ability to use them properly.   
+Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, please contact us by (i) sending an email to [unsubscribe@talend.com](mailto:unsubscribe@talend.com); or (ii) by contacting the privacy department at [privacy@talend.com](mailto:privacy@talend.com).
 
 ### What Information is Shared
 
 Talend does share non-personal, non-individual information from which individuals cannot be identified and which do not relate to individuals in aggregate form with third parties for business purposes, such as consultants and advisors to the company. Talend will not disclose personal information to any third parties without your consent except in the following very limited circumstances:
 
-_Group Companies_
+ _Group Companies_
 
 Talend shares information with entities within the Talend group. A list of our current group companies is available in Exhibit 8.1 of our 20-F filed with the SEC available at www.sec.gov.
 
-_Partners and Agents_
+ _Partners and Agents_
 
 Talend shares information with trusted agents who provide specific services you have requested and/or administer information offered at the Website, for example, service providers who help manage, track and respond to customer inquiries, information requests, etc. Talend may also share information with authorized resellers and integration partners, who may be better suited to reply directly in response to your specific inquiries about Talend products and services. Talend may also share information with authorized resellers and integration partners in order to execute joint marketing initiatives. These parties do not use or otherwise disclose any information except as authorized agents for the purpose of providing the products and services that you have requested or administering the activities on Talend’s behalf, or participating in joint marketing initiatives with Talend. Any company that Talend shares personal information with will have executed a confidentiality agreement, requiring that they keep all data received confidential.
 
-_Third Party Vendors_
+ _Third Party Vendors_
 
 We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering materials, sending postal mail, processing registrations or sending emails. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-_Legal Requirements and Investigations_
+ _Legal Requirements and Investigations_
 
 Talend will disclose your personal information to a third party if required to do so by law or if, in good faith, Talend believes that such action is necessary to: (1) comply with the law or with legal process; (2) protect and defend the company’s rights and property or prevent fraud; (3) protect the company against abuse, misuse or unauthorized use of Talend’s products or services; or (4) protect the personal safety or property of personnel, users or the public (among other things, this means that if you provide false or deceptive registration information or attempt to pose as someone else, information about you including your computer’s IP address – may be disclosed to a third party (including the recipient of an email) as part of any type of investigation into your actions.
 
-_IP Addresses_
+ _IP Addresses_
 
 An IP address is a number that is assigned to your computer when you are using your browser on the Internet. The servers that operate the Website automatically identify a computer by its IP address. If Talend, in good faith, determines that you have used the service to menace, threaten, harass, intimidate or otherwise deceptively pose as another person, your actions will be investigated and your IP address may be disclosed to the recipient of any email, their legal counsel or representatives, and law enforcement officials as part of such an investigation.
 
-_Sale of Assets_
+ _Sale of Assets_
 
 Talend may transfer its database, including personal information contained therein, to a third party who acquires all or substantially all of the assets or stock of Talend whether by merger, acquisition, reorganization or otherwise.
 
