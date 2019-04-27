@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyinholland.nl privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903231322id_/https%3A//www.studyinholland.nl/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyinholland.nl privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427134043id_/https%3A//www.studyinholland.nl/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — Study in Holland
 
@@ -8,7 +8,9 @@ You register with a network, sign up for a training or subscribe to a newsletter
 
 ## Use
 
-We will use your personal data exclusively for the purpose for which have you provided it. If you entered your name and email address to subscribe to a newsletter, for example, we will not use the data to send you other information. Unless expressly stated otherwise, we will not pass on your personal data to third parties. Your data may be used by the autorities, if legally required.
+We will use your personal data exclusively for the purpose for which have you provided it. If you entered your name and email address to subscribe to a newsletter, for example, we will not use the data to send you other information. Unless expressly stated otherwise, we will not pass on your personal data to third parties. Your data may be used by the authorities, if legally required.
+
+If you ask us a question we may need to involve another organisation to answer this question. The data that we exchange with this organisation will only be used by them to answer your question.
 
 When you subscribe to a newsletter, you can indicate a preference for certain topics. You will then only get to see news about those topics. We will save your preferences for as long as you are subscribed to the newsletter. 
 
