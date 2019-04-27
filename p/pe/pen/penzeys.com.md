@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the penzeys.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122003259id_/https%3A//www.penzeys.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penzeys.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427150602id_/https%3A//www.penzeys.com/Privacy-policy) for the most accurate reproduction.*
 
 # Spices at Penzeys
 
 ### Privacy Policy
 
-Penzeys Spices and penzeys.com are committed to ensuring your online privacy. If you have any questions regarding the information below please call us toll-free at 1-800-741-7787 or email us at [questions@penzeys.com.](mailto:questions@penzeys.com)
+Penzeys Spices and penzeys.com are committed to ensuring your online privacy. If you have any questions regarding the information below please call us toll-free at or email us at [questions@penzeys.com.](mailto:questions@penzeys.com)
 
 Penzeys Spices does not sell or trade customer address or email address information. Email addresses are used to send receipts and shipping notifications on placed orders and as a means to contact you if you cannot be reached by phone, and may be used by us for occasional marketing communications. You can opt out at any time by clicking the link in the email, or by sending an email to [customerservice@penzeys.com.](mailto:customerservice@penzeys.com.) Your address information is used to accurately ship orders and mail-order catalogs. If you wish to be removed from our catalog mailing list, simply email your request to [customerservice@penzeys.com.](mailto:customerservice@penzeys.com.)
 
