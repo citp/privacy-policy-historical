@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwebindex.net privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621040427id_/https%3A//www.globalwebindex.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwebindex.net privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428001221id_/https%3A//www.globalwebindex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalWebIndex
 
@@ -74,8 +74,8 @@ If you have a question about this Privacy Policy, please contact
 Personal data means any information about an individual from which that person can be identified. We may collect, use, store and transfer different types of data about you:
 
   * Identity Data. We process information about our business contacts using a customer relationship management ( **CRM** ) platform. Personal Information is collected and added to our CRM platform by GlobalWebIndex staff and includes: name, email address, job title, company name, company size, industry, jurisdiction and other business contact information.
+  * Personal Information may also be collected when you submit a form on the GlobalWebIndex website and when you provide it to us in connection with the provision of our services.
 
-Personal Information may also be collected when you submit a form on the GlobaWebIndex website and when you provide it to us in connection with the provision of our services.
 
   * Browsing Data. When you visit our website, we track traffic data, location data, any weblogs and other communication data between us, and the resources that you access. We also track location of usage, frequency of access, data used from and details of the person who logs in to use our products and services.
   * Technical Data. Whenever you visit our website, we collect your internet protocol (IP) address, browser type and version, time zone setting and location, browser plug-in types and versions, Operating system (type and version) and information about device (type and version) you use.
@@ -353,7 +353,7 @@ We and our partners use cookies to provide you with the best possible user exper
 
 Important note about cookies: When you visit our website, we will ask you to consent to our and our third-party partners’ setting and reading cookies from your browser.
 
-We always want you to be in control of the information you share with us, and there are a number of ways that you can remove or block cookies at any time, including by following the help file directions in your internet browser. But if you want to tell us right now that you don’t want us to use cookies, then you can opt-out of this process here [GWI to provide link].
+We always want you to be in control of the information you share with us, and there are a number of ways that you can remove or block cookies at any time, including by following the help file directions in your internet browser. But if you want to tell us right now that you don’t want us to use cookies, then you can opt-out of this process [here](https://web.archive.org/gwiq/opt-out).
 
 When you opt out, we delete the existing values in our cookie on your device and replace them with an “opt out” value which tells our server not to continue to track your behaviour, and we will ignore all subsequent requests coming from your browser. Please note that if you block cookies, our opt-out process may not function properly. Please also note that if you choose to opt-out now, but then at some point later you decide to delete, block, or otherwise restrict cookies, or if you use a different device or internet browser, you will need to renew your opt-out choice.
 
@@ -367,6 +367,7 @@ We may disclose your data to third parties such as:
   * Other members of our group of companies;
   * Authorised third-party service providers who provide IT and administration services to us to help us to provide our services, including the provider of our CRM system and other software solutions used by us in the provision of our services;
   * Other third party data processors for analytics and communication purposes, to help us to provide our services;
+  * Bounce Exchange, Inc. (“BounceX”), a third party service provider, acting as a controller, engaged by us to provide device fingerprinting services which enable us to record certain characteristics of the devices used by users accessing our service to ensure such access is in accordance with the terms and conditions for our services. BounceX will process your personal data in accordance with its privacy policy available at <https://www.bouncex.com/privacy>.
   * Professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services;
   * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets; or where we may seek to acquire other businesses or merge with them; and
   * Third parties where we are under a duty to disclose or share your personal data in order to comply with any legal obligation.
@@ -470,7 +471,7 @@ EC4A 4AB
 
 In connection with the cookies set by Trendstream Limited, a unique identification number will be stored in or associated with the cookies or related technologies. A cookie is a piece of information placed on your computer’s browser when you visit a website. They are used for a range of purposes, including to remember your identity when visit a website.  Cookies can also to track your internet activity, including what pages you visit on website, to determine the effectiveness of advertising on your behaviour.
 
-Below please find descriptions of the cookies and similar technologies we use, including our tracking cookies. Except for cookies which are essential for this website to work, you can manage the use of cookies and similar technologies by expressing your preferences as set forth below.  Please understand that if you exercise your right to opt-out of a cookie, we will place a cookie on your device typically referred to as an “opt out cookie”. If you later clear your cookies, you will also remove this opt out cookie and you will have to renew your choices. To access the opt-out links after you consent, please visit [GWI to provide link].
+Below please find descriptions of the cookies and similar technologies we use, including our tracking cookies. Except for cookies which are essential for this website to work, you can manage the use of cookies and similar technologies by expressing your preferences as set forth below.  Please understand that if you exercise your right to opt-out of a cookie, we will place a cookie on your device typically referred to as an “opt out cookie”. If you later clear your cookies, you will also remove this opt out cookie and you will have to renew your choices. To access the opt-out links after you consent, please visit [here](https://legal.trendstream.net/survey-cookie-notice).
 
 Please be aware that the use of cookies is browser-specific. If you use multiple browsers or devices, you will need to modify your preferences on each one.
 
