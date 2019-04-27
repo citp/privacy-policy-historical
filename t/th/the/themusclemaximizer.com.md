@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themusclemaximizer.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226233820id_/http%3A//www.themusclemaximizer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusclemaximizer.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427200345id_/http%3A//www.themusclemaximizer.com/privacy) for the most accurate reproduction.*
 
-# The Muscle Maximizer
+# Privacy | The Muscle Maximizer
 
 The Muscle Maximizer and all its related websites (" **TMM** ", “ **we** ” or “ **us** ”) is the “data controller” in respect of your personal information. We take our relationship with all our users seriously, and this includes how we handle your personal information. TMM is committed to protecting the privacy of our customers’ personal information. This Policy sets out the ways we process any personal data relating to you. Please check back frequently as it is your sole responsibility to be aware of any changes. TMM does not provide notices of changes in any manner other than by posting changes at our website.
 
