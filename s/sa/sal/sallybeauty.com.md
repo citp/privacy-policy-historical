@@ -1,34 +1,50 @@
-> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230142732id_/http%3A//www.sallybeauty.com/privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428001146id_/https%3A//www.sallybeauty.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# sallybeauty.com Privacy Policy
+# Privacy Policy
 
-## PRIVACY POLICY
+### Effective Date: April 28, 2015
 
-Effective Date:  April 28, 2015  
-This is the web site of Sally Beauty Supply LLC. Please also read our [ **Terms of Use**](http://www.sallybeauty.com/terms-of-use/usageTerms,default,pg.html).  
-Our postal address is  
+This is the web site of Sally Beauty Supply LLC. Please also read our [Terms of Use.](https://www.sallybeauty.com/usageTerms.html)
+
+**Our postal address is:**
+
 Sally Beauty Supply LLC  
 Attn.: Web Privacy  
 3001 Colorado Blvd.  
-Denton, TX 76210  
-or you can reach us by telephone at [1-940-898-7500](tel:+1-940-898-7500) or [1-800-777-5706](tel:+1-800-777-5706).
+Denton, TX 76210 
 
-This Privacy Policy governs only the privacy practices related to the personal information collected through the [**www.sallybeauty.com**](http://www.sallybeauty.com/on/demandware.store/Sites-SA-Site/default/Home-Show) website (this "Site") and/or store programs. California residents: click here to read [ **Your California Privacy Rights**](http://www.sallybeauty.com/California-Privacy-Rights/calPrivacy,default,pg.html) and Canadian residents: click here to read our [ **Canadian Privacy Policy**](http://www.sallybeauty.com/Canadian-Privacy-Policy/canPrivacy,default,pg.html); the terms of which, in addition to those contained in this Privacy Policy, will govern the collection, use, disclosure and storage of personal information through this Site for those respective residents.
+Or you can reach us by telephone at 
 
-Security and Privacy: We realize that making purchases at this Site or any other web site, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we will work to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in our [ **Terms of Use**](http://www.sallybeauty.com/terms-of-use/usageTerms,default,pg.html) and this Privacy Policy. This includes your name, address, phone number, e-mail address, and credit card or checking account information, in addition to any other personal information that can be linked to you, personally. We believe that you have a right to know, before shopping at this Site at any other time, exactly what information we might collect from you, why we collect it and how we use it. We do not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit. If you have an account at this Site and you want to change, modify or delete any of your personal information, you can do so anytime by going to My Account. Log in with your e-mail address and password, then click the appropriate category listing to edit or delete whatever personal information you wish. While your information may be deleted from "My Account" or similar, it will remain on our Global server for archival or historical purposes. For your protection, we don’t retain financial information and don’t maintain credit card or checking account information beyond the needs of your particular shopping transaction, so there is no information of that sort in your account for you to change. This Site may provide links to certain third party websites. This Privacy Policy applies only to activities conducted and personal information collected on this Site. Other websites may have their own policies regarding privacy and security. Subject to our policy on cookies as stated in this Privacy Policy, we will obtain your consent before allowing the download of any software from this Site, and this Site will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to, downloaded software, required or automated updates, modifications, reinstallations or software otherwise obtained through the use of this Site is done at your own discretion and risk, and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.
+[1-940-898-7500](tel:1-940-898-7500)
+
+ or 
+
+[1-800-777-5706](tel:1-800-777-5706)
+
+.
+
+This Privacy Policy governs only the privacy practices related to the personal information collected through the www.sallybeauty.com website (this "Site") and/or store programs. California residents: [click here](https://www.sallybeauty.com/calPrivacy.html) to read Your California Privacy Rights and Canadian residents: [click here](https://www.sallybeauty.com/canPrivacy.html) to read our Canadian Privacy Policy; the terms of which, in addition to those contained in this Privacy Policy, will govern the collection, use, disclosure and storage of personal information through this Site for those respective residents.
+
+#### Security and Privacy:
+
+We realize that making purchases at this Site or any other web site, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we will work to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in our Terms of Use and this Privacy Policy. This includes your name, address, phone number, e-mail address, and credit card or checking account information, in addition to any other personal information that can be linked to you, personally. We believe that you have a right to know, before shopping at this Site at any other time, exactly what information we might collect from you, why we collect it and how we use it. We do not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit. If you have an account at this Site and you want to change, modify or delete any of your personal information, you can do so anytime by going to My Account. Log in with your e-mail address and password, then click the appropriate category listing to edit or delete whatever personal information you wish. While your information may be deleted from "My Account" or similar, it will remain on our Global server for archival or historical purposes. For your protection, we don’t retain financial information and don’t maintain credit card or checking account information beyond the needs of your particular shopping transaction, so there is no information of that sort in your account for you to change. This Site may provide links to certain third party websites. This Privacy Policy applies only to activities conducted and personal information collected on this Site. Other websites may have their own policies regarding privacy and security. Subject to our policy on cookies as stated in this Privacy Policy, we will obtain your consent before allowing the download of any software from this Site, and this Site will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to, downloaded software, required or automated updates, modifications, reinstallations or software otherwise obtained through the use of this Site is done at your own discretion and risk, and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.
 
 For each visitor to this Site, the Site server automatically recognizes the consumer’s domain name, if any, and collects the date and time of visit, the client IP address, and referring site. If you have registered as a ProCard or Beauty Club member, this Site will recognize your number if you choose to enter it into the Site.
 
 We collect the information above, as well as e-mail addresses visitors to this Site choose to give us, the e-mail addresses of those who communicate with us via e-mail, and information volunteered by the consumer, such as survey information and/or site registrations, and purchase history. In addition, we receive and may store any information you enter on this Site or give to this Site in any other way. For example, we collect information you provide when you place an order, register with us, send us an e-mail or call us, enter a sweepstakes, or enroll or participate in a club or service such as gift registries. This information may include:
 
- **your name.  
-your mailing address.  
-your e-mail address.  
-your phone number.  
-It may also include any other personal or preference information you provide to us.  
-It may also include information you submit about other people, for example, the name and address of a gift recipient.**
+  * Your name.
+  * Your mailing address.
+  * Your e-mail address.
+  * Your phone number.
 
-Information from Other Sources
+
+
+It may also include any other personal or preference information you provide to us.
+
+It may also include information you submit about other people, for example, the name and address of a gift recipient.
+
+#### Information from Other Sources
 
 We may receive information about you from other sources. This may help improve the personalization of our service to you by providing better product recommendations or special offers that we think will interest you.
 
@@ -36,9 +52,9 @@ This section describes when and with whom we share your personal information. We
 
 When contacting consumers for informational, marketing and for commercial purposes, Sally, like many organizations, may utilize third party service providers for some routine services such as promotional mailings. In such cases, Sally provides only the information necessary to ensure the service is delivered and requires that the service provider sign a non-disclosure agreement agreeing to keep the customer’s information confidential and secure and limiting its use to the purpose for which it was disclosed. After the service provider has completed the service, the service provider must either destroy the information or return it to Sally.
 
-Additionally, we do use cookies, which are small text files that are stored on your computer to gather and keep track of information and help us review traffic patterns and improve the site, and to facilitate your online shopping and purchasing experience. We use cookies to record ProCard and Beauty Club member-specific information on the pages those users may access or visit. Although many browsers are set to accept cookies, you can set your browser to reject cookies, but this may prevent you from using some of the features of the site. Many of the best features of our website require the use of cookies. Some of these features include: Storage of items in your cart for purchase at a later date, storing of recently viewed items for purchase at a later date and providing a more personalized shopping experience based on your past shopping and web browsing behavior.  We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  To opt out of our cookies used for this online advertising, [click here **.**](http://dtmc.sallybeauty.com/adinfo/choice/prod/?type=fpc&cid=2990&cname=SallyBeauty&cmagic=f6b5f8&clogo=sally_beauty.png&loc=us&lang=en-us)[DS1]  ** ** _[i]_****
+Additionally, we do use cookies, which are small text files that are stored on your computer to gather and keep track of information and help us review traffic patterns and improve the site, and to facilitate your online shopping and purchasing experience. We use cookies to record ProCard and Beauty Club member-specific information on the pages those users may access or visit. Although many browsers are set to accept cookies, you can set your browser to reject cookies, but this may prevent you from using some of the features of the site. Many of the best features of our website require the use of cookies. Some of these features include: Storage of items in your cart for purchase at a later date, storing of recently viewed items for purchase at a later date and providing a more personalized shopping experience based on your past shopping and web browsing behavior. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here.[DS1] [i]
 
-If you do not want to receive e-mail from us in the future, please let us know by calling our Customer Service Department at [1-866-234-9442](tel:+1-866-234-9442) or by writing to us at the above address. Requests to remove your e-mail address for our lists may take up to ten days to fulfill from the date we receive your request. If you supply us with your postal address on-line, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the above phone number or by writing to us at the above address. Requests to remove your postal address from our mailing lists may take up to eight weeks to fulfill. If you receive postal mail from us during this eight-week period, please disregard the mail.
+If you do not want to receive e-mail from us in the future, please let us know by calling our Customer Service Department at 1-866-234-9442 or by writing to us at the above address. Requests to remove your e-mail address for our lists may take up to ten days to fulfill from the date we receive your request. If you supply us with your postal address on-line, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the above phone number or by writing to us at the above address. Requests to remove your postal address from our mailing lists may take up to eight weeks to fulfill. If you receive postal mail from us during this eight-week period, please disregard the mail.
 
 Aside from the purposes described above, we will never share your personal information with any other third parties unless you expressly authorize such disclosure or we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury, or a perceived physical threat to any individual (such as product recalls, fraud, claims or other liability) or is required by law, or to comply with valid legal processes (subpoenas, warrants, or in response to a request from local, state or federal law enforcement officials) as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.
 
@@ -46,9 +62,9 @@ If we merge with another business entity or substantially all of its assets rela
 
 We do not knowingly collect, maintain or use personally identifiable information submitted to the site by children under 13 years of age. If we become aware that a child under 13 years of age has submitted personally identifiable information to the site, we will not use that information and will immediately delete the information from its records.
 
-Persons may opt in to receive Sally Beauty Alerts SMS messages about sneak peeks, sales, events and more! User information will only be used for the service user has explicitly opted-in for and will not be used for other services provided on short code 72559. User information will not be sold to a third party. User requests will not be used as a blanket opt-in to receive additional messages outside the context of the specific program they are opting in to. You may opt out at any time by texting STOP to 72559 to cancel. By sending STOP to 72559, you agree to one additional confirmation message stating that you've opted out and will no longer receive SMS messages from Sally Beauty. To get help, text HELP to 72559 or get additional support by sending an email to [ **sbsupport@sallybeauty.com**](mailto:sbsupport@sallybeauty.com) or by calling [1-888-807-4732](tel:+1-888-807-4732).
+Persons may opt in to receive Sally Beauty Alerts SMS messages about sneak peeks, sales, events and more! User information will only be used for the service user has explicitly opted-in for and will not be used for other services provided on short code 72559. User information will not be sold to a third party. User requests will not be used as a blanket opt-in to receive additional messages outside the context of the specific program they are opting in to. You may opt out at any time by texting STOP to 72559 to cancel. By sending STOP to 72559, you agree to one additional confirmation message stating that you've opted out and will no longer receive SMS messages from Sally Beauty. To get help, text HELP to 72559 or get additional support by sending an email to sbsupport@sallybeauty.com or by calling 1-888-807-4732.
 
-With respect to Ad Servers: We do partner with or have relationships with ad server companies.  We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+With respect to Ad Servers: We do partner with or have relationships with ad server companies. We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at www.networkadvertising.org/choices.
 
 From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to this Site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, please check back at this Site periodically.
 
@@ -56,11 +72,11 @@ Upon a reasonable request we will provide site visitors with access to informati
 
 With respect to security: We have appropriate physical, electronic and procedural security safeguards to protect and secure the information we collect.
 
-Secure Sockets Layering (SSL)
+#### Secure Sockets Layering (SSL)
 
 Our website uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. Because we use SSL, placing an order online at our website is just as safe as giving your credit card number over the phone.
 
-Safe Shopping Guarantee
+#### Safe Shopping Guarantee
 
 Our security measures are designed to prevent anyone from stealing and using your credit card number. In addition, consumer protection laws protect you against the unauthorized use of your credit card. Under the Fair Credit Billing Act, if your credit card is used without your authorization, your liability for those fraudulent charges cannot exceed $50. So, if someone steals your credit card or your credit card number, your liability is limited to $50 no matter how much the thief charges to your account. If your credit card provider does hold you liable for any part of this $50, we will cover the entire liability for you, up to the full $50.
 
