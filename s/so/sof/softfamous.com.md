@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the softfamous.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112063225id_/https%3A//softfamous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softfamous.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427194051id_/https%3A//softfamous.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Soft Famous
 
 Privacy and Cookie Policy
 
-Please read this Privacy policy carrefully. Is available using our site.  
-For any further informations we can be contacted via e-mail (see the link Contact us)
+Please read this Privacy policy carefully. Is available using our site.  
+For any further information, we can be contacted via e-mail (see the link Contact us)
 
- **Collection of Information about your personal datas or informations**  
-During you are surfing our site ,we collect personally identifiable information such as names, postal addresses, email addresses, etc. and informations about your computer details like IP , browser,operating system, country,speed of Internet .Some of these datas are voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. The informations you provide to us are not used in other manner that is described in the contact forms.Navigating these pages you can use all informations just for personal use ,not for commercial one.
+ **Collection of Information about your personal data or information**  
+During you are surfing our site, we collect personally identifiable information such as names, postal addresses, email addresses, etc. and information about your computer details like IP, browser, operating system, country, the speed of the Internet. Some of these data are voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. The information you provide to us is not used in another manner that is described in the contact forms. Navigating these pages you can use all information just for personal use, not for commercial one.
 
  **Types of Data collected**
 
@@ -30,6 +30,6 @@ The softfamous.com may use cookie and tracking technology depending on the featu
 
 We may use [third-party advertising companies](http://dh0xkipwqhwym.cloudfront.net/pp.html) to serve ads when you visit our website.
 
-This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at [the About Cookies website](http://www.aboutcookies.org/) which offers guidance for all modern browsers
+This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymized tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at [the About Cookies website](http://www.aboutcookies.org/) which offers guidance for all modern browsers.
 
-For any further informations, you can contact us using email communication [here](https://softfamous.com/contact/).
+For any further information, you can contact us using email communication [here](https://softfamous.com/contact/).
