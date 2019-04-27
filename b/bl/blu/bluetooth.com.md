@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923013722id_/https%3A//www.bluetooth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427021634id_/http%3A//www.bluetooth.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bluetooth Technology Website
 
-We are committed to user privacy in our products and services.
+## We are committed to user privacy in our products and services.
 
-This policy outlines our personal information-handling practices. Any contact information provided to us will be handled in accordance with this policy. This policy covers the Bluetooth SIG individual website. Bluetooth SIG encourages you to read this privacy policy and those of all websites you visit.
+This policy outlines our personal information-handling practices. Any contact information provided to us will be handled in accordance with this policy. This policy covers the Bluetooth SIG individual website. Bluetooth SIG encourages you to read this privacy policy and those of all websites you visit.
 
 ### Use of Personal Information
 
-Bluetooth SIG continually strives to protect the information you share with us. Access to personal member information is limited to specific individuals, employees, and agents of Bluetooth SIG. Bluetooth SIG will not sell or rent your personal information to third parties. Bluetooth SIG may disclose personal information to third parties to complete a transaction you have requested, as part of the terms and conditions for a particular service, or when we otherwise have your consent to do so..
+Bluetooth SIG continually strives to protect the information you share with us. Access to personal member information is limited to specific individuals, employees, and agents of Bluetooth SIG. Bluetooth SIG will not sell or rent your personal information to third parties. Bluetooth SIG may disclose personal information to third parties to complete a transaction you have requested, as part of the terms and conditions for a particular service, or when we otherwise have your consent to do so.
 
 ### Linked Websites
 
@@ -21,3 +21,5 @@ The Bluetooth SIG website uses cookies. Cookies help provide a better user exper
 If you choose to disable cookies in your browser, you can still access most of our websites. Please be aware, however, that some websites will not allow you to complete certain activities if cookies are disabled.
 
 The Bluetooth SIG website may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from website visitors. Advertisers use this information to target the ads and measure their impact.
+
+[Opt Out of Website Tracking](https://www.bluetooth.com/?marketo_opt_out=true)
