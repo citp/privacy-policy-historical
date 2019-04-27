@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the visitorscoverage.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826002226id_/https%3A//www.visitorscoverage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorscoverage.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427121442id_/https%3A//www.visitorscoverage.com/privacy) for the most accurate reproduction.*
 
 # VisitorsCoverage Inc. - Privacy statement and privacy policy
-
-### **SCOPE**
-
-This Privacy Policy explains the practices of VisitorsCoverage Inc. (VCI, we, us or our) regarding the collection, use and disclosure of information that we receive when you use with respect to your access and use of our travel insurance services (the Services), whether through our website located at http://visitorscoverage.com or other websites we may own or control (the Website), or through contacting us by telephone or other form of communication. This Privacy Policy applies only to VCIs travel insurance services and doesnt apply to any third-party websites, services or applications, even if they are accessible through our Services or the Site.
-
-By using or accessing our Services or the Site, you give us your consent to collect store and process your personal data in accordance with this Privacy Policy (except in certain cases described below, where you may specifically opt out of certain uses of your personal data). If you do not wish to allow us to do so, please do not use our Services. If you wish us to stop collecting and processing your personal data, please contact us as indicated in this Privacy Policy.
 
 ### **INFORMATION WE MAY COLLECT**
 
@@ -34,7 +28,7 @@ We also collect, use and share **Aggregated Data** such as statistical or demogr
 
 Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that information when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with an insurance quote or policy). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-### **HOW WE COLLECT YOUR DATA**
+### HOW WE COLLECT YOUR DATA
 
 We collect different information about you in a number of ways:
 
@@ -56,7 +50,7 @@ We may receive information about you from third parties as set out below:
 
 
 
-### **HOW WE MAY USE YOUR INFORMATION**
+### HOW WE MAY USE YOUR INFORMATION
 
 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
@@ -176,7 +170,7 @@ To make suggestions and recommendations to you about goods or services that may 
 
 | Necessary for our legitimate interests (to develop our products/services and grow our business)  
   
-### **ADDITIONAL DETAIL**
+### ADDITIONAL DETAIL
 
 **Fulfilling Quote Requests or Policy Purchases**
 
@@ -200,7 +194,7 @@ We reserve the right to use or disclose any information as needed to satisfy any
 
 Personal data, may be transferred to a third party if there is a transfer of the assets or ownership of VCI or if VCI files for bankruptcy.
 
-### **USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES**
+### USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES
 
 **Cookies**
 
@@ -224,25 +218,25 @@ You may also disable Web beacons by disabling HTML images in your email program,
 
 To opt out of data recording and analysis by Google Analytics, see https://tools.google.com/dlpage/gaoptout.
 
-### **EXTERNAL LINKS AND THIRD PARTIES**
+### EXTERNAL LINKS AND THIRD PARTIES
 
 Some of the pages and section uses frames, external interfaces and external links wherever necessary to effectively present the information for your convenience, so you can get the necessary information and apply for a specific insurance plan online, without leaving visitorscoverage.com.
 
 This privacy policy does not apply to information users consent to give to third parties not affiliated with VCI. Any information users give to another party is governed by the rules of that party's privacy policy, which may differ from this privacy policy. VCI. is not responsible for information given to other parties. Any data submitted by you to be provided to an insurance company or their administrator will be governed by that insurance company's data privacy policy.
 
-### **CHILDREN**
+### CHILDREN
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). We do not knowingly collect or process any information from anyone under 13 years of age (16 in the EU). Our Site and Service is directed to people who are at least 13 years old or older (16 in the EU). However, we will collect and process personal data about children under 13 years of age (16 in the EU) when submitted by a parent, guardian or other appropriate adult for the purposes of obtaining a quote for, or purchasing, an insurance policy covering such children.
 
-### **DO NOT TRACK**
+### DO NOT TRACK
 
 We do not respond to the Do Not Track setting in your browser. We use only user input cookies as described above. We do not otherwise use cookies to collect personally identifiable information or track users online activities over time. We do not use cookies to track personally identifiable information or users online activities across different web sites. However, certain of the third party advertising providers we use (e.g., Google, Facebook, Quora) may be able to do so, though we do not have access to that information. For information regarding Do Not Track mechanisms, see http://allaboutdnt.com.
 
-### **INTERNATIONAL TRANSFER**
+### INTERNATIONAL TRANSFER
 
 Your personal data may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If youre located outside the United States and choose to provide your personally identifiable information to us, we may transfer your personal data to the United States and process it there.
 
-### **SECURITY**
+### SECURITY
 
 If you use your credit or debit card to purchase a policy through us, the payment information is transmitted directly to the insurance company providing the policy. We do not receive that information. The insurance companies we work with process payment information securely and in accordance with the Payment Card Industry Data Security Standard (PCI-DSS). You can find more information about this standard here: https://www.pcisecuritystandards.org/pci_security/.
 
@@ -254,13 +248,13 @@ You should be aware that if you voluntarily disclose information in visible foru
 
 Due to the open nature of communication through the Internet, we cannot guarantee that communications between you and VCI, or between VCI and the insurance carriers to which you ask us to submit your information, will be free from unauthorized access by third parties, nor that third parties will not be able to circumvent the safeguards we have put in place. We cannot absolutely guarantee the security of any information that is disclosed or transmitted online.
 
-### **DATA RETENTION**
+### DATA RETENTION
 
 We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-### **YOUR RIGHTS AND CONTROLLING YOUR PERSONAL DATA**
+### YOUR RIGHTS AND CONTROLLING YOUR PERSONAL DATA
 
 **Your Rights**
 
@@ -274,7 +268,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 To exercise your rights with respect to your personal data or otherwise ask us about our collection and processing of your personal data, use our[contact us](https://www.visitorscoverage.com/contact-us/) form.
 
-### **CHANGES**
+### CHANGES
 
 Any information that we collect is subject to the Privacy Policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, well provide notice of such changes by posting them here, and well indicate when such changes will become effective. Information will continue to be governed by the Privacy Policy in effect at the time such information was collected.
 
