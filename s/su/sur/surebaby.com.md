@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surebaby.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325224751id_/http%3A//www.surebaby.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surebaby.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427203837id_/http%3A//www.surebaby.com/privacy-policy.php) for the most accurate reproduction.*
 
 # SureBaby.com Privacy Policy
 
