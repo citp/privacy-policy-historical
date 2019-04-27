@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffiliate.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126004339id_/http%3A//www.traffiliate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffiliate.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428000946id_/http%3A//traffiliate.com/privacy.html) for the most accurate reproduction.*
 
 # Traffiliate – Privacy Policy - Landing Page and Conversion Funnel Optimization Platform
 
