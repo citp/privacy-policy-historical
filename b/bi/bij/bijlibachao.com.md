@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127134257id_/https%3A//www.bijlibachao.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427225053id_/https%3A//www.bijlibachao.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Bijli Bachao
 
 **What information do we collect?**  
 
-We collect information from you when you register on our site, subscribe to our [newsletter](https://web.archive.org/web/20170127134257id_/https%3A//www.bijlibachao.com/newsletter-signup), respond to a survey or fill out a form. 
+We collect information from you when you comment on our website or respond to a survey or fill out a form. 
 
-When registering on our site, you may be asked to enter your Facebook Login. You may, however, visit our site anonymously.
+If you do no put any comments then you can visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
  **What do we use your information for?**  
 
@@ -22,7 +22,7 @@ Any of the information we collect from you may be used in one of the following w
 
 
 
-**How do we protect your information?**  
+ **How do we protect your information?**  
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
@@ -40,13 +40,13 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Online Privacy Policy Only**  
+ **Online Privacy Policy Only**  
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **[Terms and Conditions](https://web.archive.org/web/20170127134257id_/https%3A//www.bijlibachao.com/terms-and-conditions)**  
+ **Terms and Conditions**  
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.bijlibachao.com/terms-and-conditions](https://web.archive.org/web/20170127134257id_/https%3A//www.bijlibachao.com/terms-and-conditions)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.bijlibachao.com/terms-and-conditions>
 
  **Your Consent**  
 
@@ -56,13 +56,13 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 22nd January 2014
+This policy was last modified on 7th August 2018
 
  **Contacting Us**  
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
- **www.bijlibachao.com**  
+ **Wattcon Technologies Pvt. Ltd.**  
 204 Frangipani, Nahar Amrit Shakti, Chandivali  
 Mumbai, Maharashtra 400072  
 India  
