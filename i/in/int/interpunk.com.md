@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823221806id_/http%3A//www.interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427201748id_/https%3A//interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy @ Interpunk.com - The Ultimate Punk Music Store
 
@@ -87,7 +87,7 @@ This policy was last modified on 9/22/2016
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 interpunk.com  
-203 E German School Rd  
+6290 Old Warwick Rd STE E  
 Richmond, VA 23224-1460  
 United States  
 gethelp@interpunk.com  
