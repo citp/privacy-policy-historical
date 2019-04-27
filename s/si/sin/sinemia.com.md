@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinemia.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227040858id_/https%3A//www.sinemia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinemia.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427214231id_/https%3A//www.sinemia.com/privacy-policy) for the most accurate reproduction.*
 
 # Sinemia
 
@@ -25,6 +25,18 @@ _Payment Data:_ Commercial shopping and payment dates
 
 _Data Collected by Cookies:_ Browser type, IP, operating system, viewed pages, display time 
 
+_ID verification data includes the following due diligence / ID verification information and documentation about you:_
+
+(i) copy of I.D. card or passport,
+
+(ii) proof of residence (e.g. utility bill),
+
+(iii) KYC database checks,
+
+(iv) fraud database checks and
+
+(v) any documentation or information which we may, from time to time be required to collect to ensure compliance with any applicable legislation (including applicable foreign laws) and global KYC practices; and/or otherwise be mandated to collect by any competent authority or law enforcement agency (local or overseas).
+
 Data that are anonymized in an irreversible manner shall not be considered as data within the scope of this Policy. 
 
 You can feel safe while using our Site. However, no system is completely secure. Even if we take all the necessary actions to protect your information, the possibility of insecurity always exists. For this reason, you should be very careful when you disclose and carry out your personal information. The processing of the information submitted by you without the request of the Company shall not be counted as personal data processed by the Company under this Policy. You should avoid sending your voice, images, and other personal information that is not requested by the Company via any communication channel including but not limited to e-mail or message. 
@@ -34,7 +46,33 @@ The Company may process the personal data provided by Users and Members and the 
 
 The Company may obtain the information related to the Users' usage of the Site by using cookies that are technical communication files and may transfer them the third parties with the aim of processing them in the scope of the analysis services provided by third parties. The technical communication files mentioned are the small word files that are sent to the User’s browser to keep in the main memory by the Site. The technical communication file simplifies the usage of the internet by keeping the preference and condition settings about the web site. The technical communication file is used for gaining statistical information about how many people use the Site in proportion of the time, for which purpose, how often people visit and stay on the Site and designed for helping the dynamic production of advertisements and content from the pages specifically designed for the Users. 
 
+We have the right to use your ID Verification Data for the purpose of:
+
+(i) To determine you are who you say you are, and you do not have multiple accounts on our platform.
+
+(ii) To establish and verify your identity.
+
+(iii) To fulfil our other internal ID verification policies and requirements.
+
+(iv) To detect, prevent and report fraudulent or suspicious activity on our platform.
+
+(v) To identify actions that contradicts our terms and conditions and prevent abuse.
+
 In order to identify system problems and resolve issues promptly, the Company identifies and uses the IP address of the users where necessary. IP addresses can also be used to identify users in general and to collect comprehensive demographic information. 
+
+**If you fail to provide ID Verification Data**
+
+Where we need to collect personal data about you: 
+
+\- by law; or 
+
+\- under the terms of, or in connection with, the contract that we have with you (as discussed in Section 1 above); or 
+
+\- as part of our legitimate (business) interests to verify the identity of our applicants and clients, mitigate against risks (such as potential or suspected fraud) and in particular, to assess and take a decision on whether we will or should enter into a relationship with you (as subject to our client acceptance criteria and policies); 
+
+and you either fail to provide that data when requested, or else provide incomplete or insufficient data, we may have to terminate your account. 
+
+In certain instances, particularly where this relates to ID Verification Data, we may even need to exercise our prerogative to terminate our contract with you, and thus withdraw the availability of our services to you. We will however notify you if this is the case at that point in time. 
 
 **Who Can Access Your Data?**  
 Company can share the personal data provided by the Users and the Members and the new data acquired by the Company with outsourcing service providers, third parties companies providing advertisements, campaigns  and promotions and other third parties to provide and develop the services, to develop the experience of the Members and the Users and to fulfill any of the purposes under the title of “ _For which purposes your data are processed?_ ”. 
@@ -109,7 +147,9 @@ the application form related to the applications to be made by the Person (Perso
 The Applicant agrees that the information in this Policy is complete, correct and up-to-date and will be updated immediately if there is any change in this information. If the applicant does not have up-to-date information, the Company will not have any responsibility. 
 
 **Storage Time of Personal Data**  
-The Company is entitled to store data collected for the benefit of Users from the Site and for the benefit of Members to use the Services in accordance with this Policy, Terms of Use, fulfilling the collection purposes; complying with the data protection regulations; carrying our administrative and judicial proceedings related with a dispute and for the time limits specified under the applicable legislation. 
+The Company is entitled to store data collected for the benefit of Users from the Site and for the benefit of Members to use the Services in accordance with this Policy, Terms of Use, fulfilling the collection purposes; complying with the data protection regulations; carrying our administrative and judicial proceedings related with a dispute and for the time limits specified under the applicable legislation.
+
+We will retain your ID verification data for the duration of the review period and once your identity is successfully verified, the data will be removed from our servers. 
 
 **Our Precautions And Undertakings About Data Safety**  
 The Company undertakes to make the necessary audit and takes the necessary technical and administrative precautions about the following issues which are determined in the related regulations, indicated in this Policy and transmitted electronically form the Site: 
