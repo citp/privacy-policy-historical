@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recoverytoolbox.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214215855id_/https%3A//recoverytoolbox.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recoverytoolbox.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427081203id_/https%3A//recoverytoolbox.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
