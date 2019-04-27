@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bible.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705155632id_/https%3A//www.bible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bible.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427200551id_/https%3A//www.bible.com/privacy) for the most accurate reproduction.*
 
 # YouVersion Privacy Policy | The Bible App | Bible.com
 
@@ -212,7 +212,7 @@ However, given the nature of communications and information technology, and that
 
 ## Processing of Data
 
-We will only collect and process personal data about you where we have lawful bases. Lawful bases include consent (where you have given consent), contract (where processing is necessary for the performance of a contract with you (such as providing YouVersion and YouVersion functionality you request and acting in accordance with this Privacy Policy and our [Terms of Use](https://www.bible.com/terms)) and other legitimate interests. Such legitimate interest include protection to you, us and other Members and third parties, to comply with applicable law, to enable and administer our business, to manage corporate transactions, to generally understand and improve our business and user relationships, and to enable us and other users of YouVersion to connect with you to exchange information, provided that the foregoing adequately protects your rights and freedoms.
+We will only collect and process personal data about you where we have lawful bases. Lawful bases include consent (where you have given consent), contract (where processing is necessary for the performance of a contract with you, such as providing YouVersion and YouVersion functionality you request and acting in accordance with this Privacy Policy and our [Terms of Use](https://www.bible.com/terms)) and other legitimate interests. Such legitimate interest include protection to you, us and other Members and third parties, to comply with applicable law, to enable and administer our business, to manage corporate transactions, to generally understand and improve our business and user relationships, and to enable us and other users of YouVersion to connect with you to exchange information, provided that the foregoing adequately protects your rights and freedoms.
 
 Where we rely on your consent to process personal data, you have the right to withdraw or decline your consent at any time and where we rely on legitimate interests, you have the right to object. If you have any questions about the lawful bases upon which we collect and use your personal data, please contact us at [help@youversion.com](mailto:help@youversion.com?Subject=Privacy%20Policy).
 
