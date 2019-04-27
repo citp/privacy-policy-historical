@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news10.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622121605id_/http%3A//www.news10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427210440id_/https%3A//www.news10.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WTEN
+# Privacy Policy
 
 **Updated: November 06, 2017**
 
