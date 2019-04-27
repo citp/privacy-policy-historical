@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the publy.net privacy policy that was archived on 2018-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180704111816id_/http%3A//www.publy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publy.net privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428000950id_/https%3A//www.publy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy – Publy
 
 Publy takes your privacy very seriously. This privacy policy governs and details the main privacy principles we apply to the data we collect through our services.
 
@@ -14,7 +14,7 @@ With our service, you should receive personalized ads that are more relevant for
 
 In our adv tag could run some different ads from many agencies, for example:
 
-**Google AdSense** : <http://www.google.com/intl/en/ads>  
+ **Google AdSense** : <http://www.google.com/intl/en/ads>  
 **OpenX** : <http://openx.com/legal/openx-website-privacy-principles/>  
 **Criteo** : <http://www.criteo.com/privacy/>  
 **Rubicon Project** : <http://rubiconproject.com/privacy/>  
@@ -31,21 +31,21 @@ Online web environment: _(desktop, tablet, and smartphone browsers)_
 Publy “tags” visitors to its partners’ websites with browser cookies. Users tagged by Publy are given a technical identifier. At no point does Publy collect identifying personal data such as your name or address.  
 The browser cookies track the products viewed by the visitor and pages visited of the partner for whom Publy is delivering ads. Pixel tags are used by Publy to transfer browsing data from visitors of our partner’s websites to Publy’s servers.
 
-**What are cookies?**  
+ **What are cookies?**  
 A cookie is a small text file stored on a user’s computer for record-keeping purposes. There are two types of cookies:  
 Session cookies are used to make it easier for you to navigate on websites. A session ID cookie expires when you close your browser.  
 Persistent cookies are used to run our technology as they enable us to track and target the interests of our users to enhance the experience on our partners’ websites. Persistent cookies remain on your hard drive for an extended period of time. You can remove persistent cookies by following the directions provided in your internet browser’s ‘help’ file.
 
-**What are pixel tags?**  
+ **What are pixel tags?**  
 A pixel tag _(also commonly known as a web beacon)_ is an industry-standard, often-transparent graphic image usually no larger than a 1×1 pixel that is placed in a website.  
 Our partners’ advertisements are displayed on many websites, also known as “publishers.” These publishers may also place cookies on your browser. These cookies are there so that the publishers recognize that Publy has a personalized advertisement available for your browser.
 
-**Browser matching:** _(desktop, tablet, and smartphone browsers)_  
+ **Browser matching:** _(desktop, tablet, and smartphone browsers)_  
 To serve you our personalized advertisements and provide a harmonized web experience we may match your identifiers on the different browsers you are using. At no point we collect identifying personal data such as your name or address to operate the matching.
 
 We use exact matching methods by leveraging our advertising partner’s identifiers or email hash that they may pass to us. See data collection paragraph to learn more. Matching your devices only works in the online environement _(browser to browser)_ ; mobile application environment remains separate.
 
-**Other environments** _(Mobile applications)_  
+ **Other environments** _(Mobile applications)_  
 In environments that do not support cookies, like mobile applications, we may use other similar technologies for the same purpose of cookies. To serve our ads in mobile applications we collect identifiers, such as Google Advertising ID or IDFA depending on the operating system of your mobile device. These identifiers consist in a string of technical and random characters singling out your device that Publy stored by Publy with a hash _(non reversible encrypting method)_.
 
 ### 3 – Data collection and use
@@ -56,7 +56,7 @@ We only collect data related to your browsing activity through cookies or equiva
 events related to your activity on the partner’s website _(such as the number of pages viewed, the products you viewed on that website, your searches made on the partner’s website)_ information related to your device _(device type, operating system, version)_ and events related to the Publy ad serving activity such as the number of ads displayed to you.  
 We also collect technical user identifiers from our partners for the purpose of matching the browsers you use and serve you relevant ads based on your behaviour accross browsers.
 
-**For that purpose we process and store**
+ **For that purpose we process and store**
 
   1. We do not collect any identifying information
   2. We do not know who you are.
@@ -73,9 +73,9 @@ We also collect technical user identifiers from our partners for the purpose of 
 
 
 
-*** In compliance with the best industry standards, we use IP addresses:**
+ *** In compliance with the best industry standards, we use IP addresses:**
 
-    1. For fraud detection purposes _(and not for targeting purposes)_ to help alert us to situations which could not have been caused by human behavior, such as a massive amount of clicking in a limited period of time;
+  1.     1. For fraud detection purposes _(and not for targeting purposes)_ to help alert us to situations which could not have been caused by human behavior, such as a massive amount of clicking in a limited period of time;
     2. To extract geographical information.
 
 
@@ -98,7 +98,7 @@ IAB Europe opt-out platform (<http://www.youronlinechoices.com/uk/your-ad-choice
 You may also want to use browser settings to modify your preferences. At Publy our goal is to offer a harmonized online experience whatever browser you use. Most browsers accept our cookies by default but in certain cases, like Safari, our cookies are blocked by default by the browser settings _(and potentially without your knowledge)_. In these situations we will inform you before we drop our cookies so that you can tell us either that you want to experience our ads, or opt-out of our services by using the Publy opt-out. In cases where you interact with our service and want to experience our personalized ads your browser settings may nonetheless be configured to block certain third party cookies. In this situation, the most efficient way to disable our ads in for these browsers is by using our Opt-out.  
 As described above, we elected to provide mechanisms of choice through our proprietary opt out and through industry platforms and do not respond to web browser do not track signals.
 
-**Other environments (Mobile applications)**  
+ **Other environments (Mobile applications)**  
 Please note: to opt-out from advertising served by Publy in mobile applications, you must be browsing in applications.  
 If you no longer want to be exposed to Publy personalized banners in the mobile application environment, you can opt out simply by clicking on the opt-out button accessible through the ad choices icons integrated in all our banners. (see complementary options for iOS and Android here under)  
 Please note that this procedure will only block ads that are displayed by Publy. If you want to disable more services, please refer to your operating system settings, or follow instructions below. Your opt-out will be stored server side linked to your device ID.  
@@ -126,7 +126,7 @@ The user can deny / revoke consent to third party cookies by going to the third 
 
 Most browsers (Internet Explorer, Firefox, Chrome, etc.) are configured to accept Cookies. Cookies are stored on the hard drive of the user’s device and can be deleted. You can disable Cookies on the main website browsers by following the instructions provided at the following links:
 
-**Chrome**  
+ **Chrome**  
 <https://support.google.com/chrome/answer/95647?hl=it>
 
 **Firefox**  
@@ -162,7 +162,7 @@ Please note that we may update or change this privacy policy. If we revise our p
 
 ### Cookies
 
-In order to provide a smoother and more intuitive navigation, the Site and Platform make use of Cookie Technology. Cookies are small text extensions stored by the browser on the User’s device with the intent of speeding up the process of analyzing internet traffic, thus improving the User’s access to the services provided by the Site. Cookies may contain information related to the User, collected and archived by the same User’s browser during navigation, some examples of which include the User’s preferences, tastes, interests, etc. 
+In order to provide a smoother and more intuitive navigation, the Site and Platform make use of Cookie Technology. Cookies are small text extensions stored by the browser on the User’s device with the intent of speeding up the process of analyzing internet traffic, thus improving the User’s access to the services provided by the Site. Cookies may contain information related to the User, collected and archived by the same User’s browser during navigation, some examples of which include the User’s preferences, tastes, interests, etc.
 
 The eventual use of data collected by the Cookies generated by Publy is for the means of providing the client the best experience possible on the Site, as well as to identify the User and register their preferences for purposes strictly related to the provision of activities and/or service requested by the user. Third party Cookies may be present on certain pages of the Site, for the intent of tracking the functionality of services provided or to personalize said services based on the tastes and preferences of the User. Publy will not have access to said Cookies, nor will it have control over them.
 
