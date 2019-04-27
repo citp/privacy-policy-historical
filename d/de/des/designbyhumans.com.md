@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229223322id_/https%3A//www.designbyhumans.com/help/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427203756id_/https%3A//www.designbyhumans.com/help/policies/privacy) for the most accurate reproduction.*
 
 # T Shirt Help
 
@@ -98,8 +98,8 @@ If you have a question or concern regarding this Privacy Policy, believe that th
 
 Privacy Policy Agent   
 DBH Worldwide, LLC   
-1262 Humboldt Avenue  
-Chico, CA 95928
+495 Ryan Ave.  
+Chico, CA 95973 
 
 In your correspondence, please describe your question, concern, or complaint in as much detail as possible. We will investigate and respond to you promptly.
 
