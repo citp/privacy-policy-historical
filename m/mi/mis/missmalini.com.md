@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008180155id_/https%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427074946id_/https%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
 
-# Privacy | MissMalini
+# Privacy
 
 This privacy policy (“ **Policy** ”) forms an electronic contract within the provisions of the Information Technology Act, 2000 and does not require any physical, electronic or digital signature. By visiting this Website the User agrees to be bound by the terms and conditions of this Policy. In the event a User is not agreeable with the terms and conditions hereof, the User is requested to please refrain from using this Website.  
 This Policy shall, at all times be read and construed in consonance and along with theTnC’s.  
@@ -118,7 +118,7 @@ The Website may contain links that will redirect the Users to third party websit
 8.1. The User may, report violation of breach of privacy, Information or identity theft or grievances in relation to the Information shared, collected, stored or disseminated in accordance with this Policy, to the Grievance Officer appointed by the Website in accordance with the Information Technology Act, 2000 at the following:
 
 Grievance Redressal  
-Attn : Grievance Officer  
+Attn : Grievance Officer  
 Address : Amardeep, 3rd Floor, 17th North Ave, Santacruz West, Mumbai 400054, India  
 Phone Number : (+91) (22) 2661 2022  
-E-Mail Address : [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+E-Mail Address : [info@missmalini.com](https://web.archive.org/cdn-cgi/l/email-protection)
