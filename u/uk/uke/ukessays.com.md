@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825212732id_/https%3A//www.ukessays.com/contact/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427233553id_/https%3A//www.ukessays.com/contact/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UK Essays
 
@@ -26,7 +26,11 @@ Sometimes, when a file is too large to upload to our database, we will ask you t
 
 If you have explicitly consented to receive direct marketing from us, or if you have ordered from us in the past, we will sometimes use your name and email address to send you offers and promotions about the services we provide. We do this using a service called Mailchimp. You can read Mailchimp's privacy policy [here](https://mailchimp.com/legal/privacy/).
 
-Similarly, we might also use your name and phone number to text you about offers and promotions that we are currently running. We do this using a service called Esendex. You can read Esendex's privacy policy [here](https://www.esendex.co.uk/privacy-policy).
+Similarly, we might also use your name and phone number to text you about offers and promotions that we are currently running. We do this using a service called Esendex or Twilio. You can read Esendex's privacy policy [here](https://www.esendex.co.uk/privacy-policy) and you can read Twilio's privacy policy [here](https://www.twilio.com/legal/privacy).
+
+We use a service called Voucherify to power our refer-a-friend feature. If you enter your email address, a referral link will be generated for you and you'll be emailed when anyone you share the link with places an order. You can read Voucherify's privacy policy [here](https://www.voucherify.io/legal/privacy-policy/v1-1).
+
+If you choose to opt in to recieve push notifications, we use a service called OneSignal to send you these via your customer control panel. You can view the OneSignal privacy policy [here](https://onesignal.com/privacy_policy).
 
 We will only ever call you about an existing service you have asked us to provide or to talk about something important related to your account.
 
@@ -90,7 +94,3 @@ If you are 13 or under, you must have permission from a parent or guardian befor
 ### Links to other websites
 
 Our websites may contain links to external third-party websites. We are not responsible for the privacy and security of these websites unless they belong to All Answers Limited. This privacy policy applies only to UK Essays.
-
-##### Invest in your future **today**
-
-[Place an Order](https://web.archive.org/order/?country=2&product=1)
