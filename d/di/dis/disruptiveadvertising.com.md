@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912114915id_/https%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428015031id_/https%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Disruptive Advertising
 
@@ -48,5 +48,5 @@ Our Privacy Policy may change from time to time. If we decide to change our priv
 This Privacy Policy is effective and was last updated on January 22, 2013.  
 Disruptive Advertising, Inc.  
 support@disruptiveadvertising.com  
-1715 East 130 North Spanish Fork, UT, 84660  
+384 S. 400 W. Ste 200, Lindon, UT 84042  
 1-877-956-7510
