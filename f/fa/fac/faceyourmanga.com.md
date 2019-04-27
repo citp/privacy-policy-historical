@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faceyourmanga.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118132346id_/http%3A//faceyourmanga.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceyourmanga.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427073643id_/https%3A//www.faceyourmanga.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # FaceYourManga
 
@@ -7,7 +7,7 @@ This document aims to describe how the "faceyourmanga.com" (the site), belonging
 "Holder" of treatment
 
 Following the consultation of this Site data of identified or identifiable people may be treated.  
-The "owner" of the data treatment is TO UP S.r.l., sited in Roma (Italia) via Palasciano n. 24, 00151 
+The "owner" of the data treatment is TO UP S.r.l., sited in via di Monte Verde 2/G - 00152, Roma (Italia) 
 
 Place of Data Treatment 
 
@@ -44,7 +44,7 @@ The data here supplied, as art. 13…….".safeguarding of one's rights relating
 3) aims meant to the management of the Company ( as sale of goods and services on line). 
 
 Users may exercise a right according art. 7 Act 196/2003.  
-In this case the person concerned may contact the Company at its e-mail address, and provide his data. The person responsible for the treatment of data made by TO UP, with official site in Via Palasciano, 24 Rome, is the Manager of the Company, working at the same address, and who can be contacted at [info@faceyourmanga.com](mailto:info@faceyourmanga.com)
+In this case the person concerned may contact the Company at its e-mail address, and provide his data. The person responsible for the treatment of data made by To Up Srl, Via di Monte Verde 2/G - 00152 Rome, is the Manager of the Company, working at the same address, and who can be contacted at [info@faceyourmanga.com](mailto:info@faceyourmanga.com)
 
 Concerned people's rights (enter right to personal data)
 
