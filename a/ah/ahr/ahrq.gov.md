@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214115229id_/https%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427214053id_/https%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
 
 # AHRQ Privacy Policy Notice | Agency for Healthcare Research & Quality
 
