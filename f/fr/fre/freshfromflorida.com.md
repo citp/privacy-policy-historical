@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshfromflorida.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225081329id_/http%3A//www.freshfromflorida.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshfromflorida.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427190907id_/https%3A//www.freshfromflorida.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home - Florida Department of Agriculture & Consumer Services
 
