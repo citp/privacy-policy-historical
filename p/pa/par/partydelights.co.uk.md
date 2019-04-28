@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905060038id_/https%3A//www.partydelights.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428065339id_/https%3A//www.partydelights.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
-# Party & Fancy Dress - One Stop Party Shop | Party Delights
+# Privacy Policy | Party Delights
 
 Last updated: April 2018
 
