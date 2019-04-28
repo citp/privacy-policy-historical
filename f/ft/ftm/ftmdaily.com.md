@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214132404id_/https%3A//followthemoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428143545id_/https%3A//followthemoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Followthemoney.com
 
-This Privacy Policy governs the manner in which Robinson Media Group, LLC (FTMDaily.com) collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.ftmdaily.com](http://www.ftmdaily.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Robinson Media Group, LLC (FTMDaily.com).
+This Privacy Policy governs the manner in which Robinson Media Group, LLC (FollowtheMoney.com) collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.FollowtheMoney.com](https://www.followthemoney.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Robinson Media Group, LLC (FollowtheMoney.com).
 
  **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
  **How we use collected information**
 
-Robinson Media Group, LLC (FTMDaily.com) collects and uses Users personal information for the following purposes:
+Robinson Media Group, LLC (FollowtheMoney.com) collects and uses Users personal information for the following purposes:
 
   *  _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -57,7 +57,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
  **Changes to this privacy policy**
 
-Robinson Media Group, LLC (FTMDaily.com) has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Robinson Media Group, LLC (FollowtheMoney.com) has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
  **Your acceptance of these terms**
 
@@ -66,10 +66,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Robinson Media Group, LLC (FTMDaily.com)](http://www.ftmdaily.com/)  
-[http://www.ftmdaily.com](http://www.ftmdaily.com/)  
+[Robinson Media Group, LLC (FollowtheMoney.com)](https://www.followthemoney.com/)  
+[http://www.FollowtheMoney.com](https://www.followthemoney.com/)  
 PO BOX 1911, Fayetteville, AR, 72702  
 (800) 609-5530  
-info@ftmdaily.com
+info@FollowtheMoney.com
 
-This document was last updated on June 4, 2014
+This document was last updated on January 17, 2019
