@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the saveoffline.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129064759id_/http%3A//www.saveitoffline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveoffline.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428101819id_/https%3A//www.saveoffline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
-This Privacy Policy governs the manner in which Saveitoffline.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [Save It Offline](https://www.saveitoffline.com/) website ("Site").
+This Privacy Policy governs the manner in which saveoffline.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [Save Offline](https://www.saveoffline.com/) website ("Site").
 
 ### Personal identification information
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ### How we use collected information
 
-Saveitoffline.com may collect and use Users personal information for the following purposes:
+saveoffline.com may collect and use Users personal information for the following purposes:
 
   * _To run and operate our Site_  
 We may need your information display content on the Site correctly. 
@@ -49,11 +49,11 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://www.google.com/privacy_ads.html>
 
 ### Changes to this privacy policy
 
-Saveitoffline.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+saveoffline.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your acceptance of these terms
 
