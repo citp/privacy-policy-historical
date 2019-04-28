@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterment.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228222325id_/https%3A//www.betterment.com/security/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterment.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428185828id_/https%3A//www.betterment.com/security/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Betterment
 
