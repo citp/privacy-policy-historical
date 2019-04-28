@@ -1,0 +1,652 @@
+<!--The following is the downloaded HTML source of the oercommons.org privacy policy that was archived on 2019-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190428202157id_/https%3A//www.oercommons.org/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class=" js canvas canvastext postmessage history backgroundsize borderradius boxshadow textshadow cssgradients video audio svg svgclippaths"><head>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NT9GH9"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"e226d3b87c","agent":"","transactionName":"b1YGbEADVhAHUBBfC1YcIk1cAUwKCV1LRRBZRw1bQgNfBhUdEl8BT0BeaEALTgIFSjJfAU8dA11G","applicationID":"51934178","errorBeacon":"bam.nr-data.net","applicationTime":109}</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="1JGS_D8Mwwo6m_mGm5XzCdDSiRvc1NpoTTZ8X0PWd-w">
+    
+    <title>OER Commons Platform Privacy Policy | OER Commons</title>
+    
+    
+      
+  <meta property="og:site_name" content="OER Commons">
+
+
+  <meta property="og:title" content="OER Commons Platform Privacy Policy">
+
+
+  <meta property="og:image" content="https://www.oercommons.org/static/newdesign/images/logo-hidpi-square.png?b9a5b8a31e3c">
+
+
+
+    
+    <link rel="shortcut icon" href="/static/images/favicon.ico?5ea7dcf3fcd2">
+
+    
+      
+        
+
+
+
+
+<link rel="stylesheet" href="/static/CACHE/css/cd5621b854a6.css" type="text/css">
+
+      
+    
+
+    <link rel="stylesheet" href="/static/CACHE/css/6edb495a3f2b.css" type="text/css">
+    
+
+<script>
+  var dataLayer = window.dataLayer = window.dataLayer || [];
+  dataLayer.push({
+    "user" : {"hubMembership": "", "abtesting": "", "userGroups": ""},
+    "page" : {},
+    "fireGtm": true
+  });
+</script>
+<script src="/static/core/googleanalytics/data-layer-utils.js?1a0cd9ce4f3f"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NT9GH9');</script>
+<!-- End Google Tag Manager -->
+
+
+    
+
+<script type="text/javascript" src="/static/javascripts/lib/modernizr.custom.js?61644b88dc0b"></script>
+
+
+    
+  <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
+  <script type="text/javascript">
+    window.liveSettings={
+      api_key:"acf957e1d7874a7c842f5958e376e00d",
+      picker: false,
+      detectlang: function() {
+        //return language code
+        return "en";
+      },
+      ignore_class: ["js-transifex-ignore"]
+    };
+  </script>
+
+
+
+    
+
+    
+  </head>
+  <body class="
+                                                  
+                                                   _be
+                                                  ">
+  
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NT9GH9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+  <div class="global-wrapper">
+
+      
+
+      
+
+      
+        <div class="js-learner-options">
+          
+
+<div class="flc-uiOptions fl-uiOptions-fatPanel fl-uiOptions-iframe">
+    <div class="flc-slidingPanel-panel flc-uiOptions-iframe"></div>
+    <div class="fl-panelBar">
+        <button class="flc-slidingPanel-toggleButton fl-toggleButton">Show/Hide</button>
+    </div>
+
+    <input type="hidden" name="static_url" value="/static/">
+</div>
+
+          <div class="fl-clearfix">
+  <div class="flc-toc-tocContainer fl-toc-tocContainer"> </div>
+</div>
+
+        </div>
+      
+
+      
+        
+
+
+
+
+
+
+
+
+<header class="header-navbar-global global-header js-global-header"><nav class="header-toolbar visible-lg-block js-header-toolbar"><div class="container"><a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=41-2045091" class="header-donate-link" target="_blank"><i class="fa fa-heart" aria-hidden="true"></i> Donate
+        </a><div class="header-toolbar-learning-widget" role="menuitem" aria-label="Viewing Preferences"><button type="button" class="header-toolbar-learner-options-toggle btn-link js-header-learner-options-dropdown-toggle" title="Open Display Preferences" id="header-toolbar-learner-options-toggle" aria-haspopup="true" aria-expanded="false">
+            Display Settings
+          </button></div></div></nav><nav class="navbar navbar-inverse navbar-default"><div class="container header-navbar js-header-dropdown-wrap js-skip-links-prepend-to"><button type="button" class="btn btn-mobile btn-toggle-menu hidden-lg js-toggle-mobile-menu"><i class="fa fa-bars" aria-hidden="true"></i></button><a class="header-navbar-logo-link" href="/"><img alt="OER Commons" src="/static/newdesign/images/header/oerc-logo.png?28da783b8fde" srcset="/static/newdesign/images/header/oerc-logo-2x.png?7f774a7d031b 2x"></a><div class="header-navbar-main-navigation visible-lg-block" role="menubar" aria-label="Main Navigation"><div class="header-navbar js-header-dropdown-wrap js-skip-links-prepend-to"><div class="dropdown header-dropdown-arrow js-header-dropdown js-header-mobile-item" role="menuitem"><a class="header-nav-link header-navbar-navigation-dropdown-toggle dropdown-toggle " data-toggle="dropdown" href="#" id="header-navbar-dropdown-1-open-btn" aria-haspopup="true" aria-expanded="false"><span>Discover</span><span class="fa-stack header-navbar-navigation-arrow-down"><i class="fa fa-chevron-down fa-stack-1x" aria-hidden="true"></i><i class="fa fa-chevron-up fa-stack-1x" aria-hidden="true"></i></span></a><ul class="header-dropdown-menu dropdown-menu-left dropdown-menu" role="menu" aria-labelledby="header-navbar-dropdown-1-open-btn"><li class="header-dropdown-menu-item" role="menuitem"><a href="/oer" class="header-dropdown-menu-item-link">Resources</a></li><li class="header-dropdown-menu-item" role="menuitem"><a href="/curated-collections" class="header-dropdown-menu-item-link">Collections</a></li><li class="header-dropdown-menu-item" role="menuitem"><a href="/oer/providers" class="header-dropdown-menu-item-link">Providers</a></li></ul></div><div class="dropdown header-dropdown-arrow js-header-dropdown js-header-mobile-item" role="menuitem"><a class="header-nav-link header-navbar-navigation-dropdown-toggle dropdown-toggle " data-toggle="dropdown" href="#" id="header-navbar-dropdown-2-open-btn" aria-haspopup="true" aria-expanded="false"><span>Hubs</span><span class="fa-stack header-navbar-navigation-arrow-down"><i class="fa fa-chevron-down fa-stack-1x" aria-hidden="true"></i><i class="fa fa-chevron-up fa-stack-1x" aria-hidden="true"></i></span></a><ul class="header-dropdown-menu header-dropdown-panel dropdown-menu-left dropdown-menu" role="menu" aria-labelledby="header-navbar-dropdown-2-open-btn"><li class="header-dropdown-menu-item" role="menuitem"><div class="header-dropdown-panel-items-section"><div class="header-dropdown-panel-anon text-center visible-lg-block"><p>Sign in to see your Hubs</p><a rel="nofollow" class="btn btn-primary header-dropdown-panel-login-btn js-header-dropdown-panel-login" href="/login">Login</a><a class="login-form-url hide" href="/login/form"></a></div></div><div class="header-dropdown-panel-featured-items-section"><span class="header-dropdown-panel-title">Featured Hubs</span><div class="header-dropdown-panel-featured-items"><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/hubs/alecso" title="ALECSO OER"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/a1/2e/a12edd86d7ef994c597166f0a3838a1a.png" alt="ALECSO OER" class="visible-lg-block"><span class="visible-xs-block">ALECSO OER</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/hubs/msde" title="Maryland's OER Project: PreK-12"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/9f/76/9f761272f8ca8cda3a9e8a80151249ae.png" alt="Maryland's OER Project: PreK-12" class="visible-lg-block"><span class="visible-xs-block">Maryland's OER Project: PreK-12</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/hubs/mco" title="Michigan Colleges Online"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/6d/ca/6dca230206078d2a6cd6e62cc46424b1.png" alt="Michigan Colleges Online" class="visible-lg-block"><span class="visible-xs-block">Michigan Colleges Online</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/hubs/openstax" title="OpenStax"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/e2/5c/e25cd575ed6ccd1d3f2d5a648abaf09e.png" alt="OpenStax" class="visible-lg-block"><span class="visible-xs-block">OpenStax</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/hubs/PAIU" title="Pennsylvania Association of Intermediate Units OER"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/4c/df/4cdfed0536c8be7f49ccde654498225c.png" alt="Pennsylvania Association of Intermediate Units OER" class="visible-lg-block"><span class="visible-xs-block">Pennsylvania Association of Intermediate Units OER</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/hubs/unesco" title="UNESCO ICT Competency Framework for Teachers"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/7a/f6/7af6642554177ff7ebaf764f048179fd.png" alt="UNESCO ICT Competency Framework for Teachers" class="visible-lg-block"><span class="visible-xs-block">UNESCO ICT Competency Framework for Teachers</span></a></div></div><div class="header-dropdown-panel-see-all mod-right"><a href="/hubs/">See all Hubs</a></div></div></li></ul></div><div class="dropdown header-dropdown-arrow js-header-dropdown js-header-mobile-item" role="menuitem"><a class="header-nav-link header-navbar-navigation-dropdown-toggle dropdown-toggle " data-toggle="dropdown" href="#" id="header-navbar-dropdown-3-open-btn" aria-haspopup="true" aria-expanded="false"><span>Groups</span><span class="fa-stack header-navbar-navigation-arrow-down"><i class="fa fa-chevron-down fa-stack-1x" aria-hidden="true"></i><i class="fa fa-chevron-up fa-stack-1x" aria-hidden="true"></i></span></a><ul class="header-dropdown-menu header-dropdown-panel dropdown-menu-left dropdown-menu" role="menu" aria-labelledby="header-navbar-dropdown-3-open-btn"><li class="header-dropdown-menu-item" role="menuitem"><div class="header-dropdown-panel-items-section"><div class="header-dropdown-panel-anon text-center visible-lg-block"><p>Sign in to see your Groups</p><a rel="nofollow" class="btn btn-primary header-dropdown-panel-login-btn js-header-dropdown-panel-login" href="/login">Login</a><a class="login-form-url hide" href="/login/form"></a></div></div><div class="header-dropdown-panel-featured-items-section"><span class="header-dropdown-panel-title">Featured Groups</span><div class="header-dropdown-panel-featured-items"><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/groups/adult-education-open-community-of-resources/45/" title="Adult Education Open Community of Resources"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/60/b5/60b53c1372cfe89df7a5602320fa83cf.png" alt="Adult Education Open Community of Resources" class="visible-lg-block"><span class="visible-xs-block">Adult Education Open Community of Resources</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/groups/lansing-community-college/966/" title="Lansing Community College"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/e4/13/e413767f82fd3387186622c0bef5a2cd.png" alt="Lansing Community College" class="visible-lg-block"><span class="visible-xs-block">Lansing Community College</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/groups/vtopen/1655/" title="#VTOpen"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/5d/a1/5da160598b9e6dbc56632243897ac9ba.png" alt="#VTOpen" class="visible-lg-block"><span class="visible-xs-block">#VTOpen</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/groups/open-education-community-of-practice/1762/" title="Open Education Community of Practice"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/42/71/4271a431d5a93c0752543334807632f8.png" alt="Open Education Community of Practice" class="visible-lg-block"><span class="visible-xs-block">Open Education Community of Practice</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/groups/2018-nasa-flight-technology-amf/1906/" title="2018 NASA &amp; Flight Technology @ AMF"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/99/9e/999eb4774ed84b9838dea4e188d2f023.png" alt="2018 NASA &amp; Flight Technology @ AMF" class="visible-lg-block"><span class="visible-xs-block">2018 NASA &amp; Flight Technology @ AMF</span></a></div><div class="header-dropdown-panel-featured-item-thumbnail"><a href="/groups/creator-fest-2018/2238/" title="Creator Fest 2018"><img src="https://oercommons.s3.amazonaws.com/media/thumbnails/89/26/89265af78d6f94f78ac8d8020489cea6.png" alt="Creator Fest 2018" class="visible-lg-block"><span class="visible-xs-block">Creator Fest 2018</span></a></div></div><div class="header-dropdown-panel-see-all mod-right"><a href="/groups/">See all Groups</a></div></div></li></ul></div><div class="dropdown header-dropdown-arrow js-header-dropdown js-header-mobile-item" role="menuitem"><a class="header-nav-link header-navbar-navigation-dropdown-toggle dropdown-toggle " data-toggle="dropdown" href="#" id="header-navbar-dropdown-4-open-btn" aria-haspopup="true" aria-expanded="false"><span>Our Services</span><span class="fa-stack header-navbar-navigation-arrow-down"><i class="fa fa-chevron-down fa-stack-1x" aria-hidden="true"></i><i class="fa fa-chevron-up fa-stack-1x" aria-hidden="true"></i></span></a><ul class="header-dropdown-menu dropdown-menu-left dropdown-menu" role="menu" aria-labelledby="header-navbar-dropdown-4-open-btn"><li class="header-dropdown-menu-item" role="menuitem"><a href="/about-hubs" class="header-dropdown-menu-item-link">OERC Hubs</a></li><li class="header-dropdown-menu-item" role="menuitem"><a href="/microsites" class="header-dropdown-menu-item-link">Microsites</a></li><li class="header-dropdown-menu-item" role="menuitem"><a href="/information-services" class="header-dropdown-menu-item-link">Information Services</a></li><li class="header-dropdown-menu-item" role="menuitem"><a href="/training" class="header-dropdown-menu-item-link">PD &amp; Training</a></li><li role="separator" class="divider"></li><li class="header-dropdown-menu-item" role="menuitem"><a href="/about" class="header-dropdown-menu-item-link">About OER Commons</a></li><li class="header-dropdown-menu-item" role="menuitem"><a href="/help-center" class="header-dropdown-menu-item-link">Help Center</a></li></ul></div><div class="header-authoring-overview js-header-mobile-item mod-authoring-overview" role="menuitem" area-label="Create"><a href="/authoring-overview" class="btn btn-primary header-authoring-overview-link" title="Create">Create</a></div><div class="dropdown header-navbar-dropdown header-dropdown-arrow header-dropdown-create-options js-header-dropdown" role="menuitem" aria-label="Create"><button type="button" class="dropdown-toggle btn btn-primary header-create-options-toggle" data-toggle="dropdown" title="Show Create Options" id="header-create-options-toggle" aria-haspopup="true" aria-expanded="false"><i class="fa fa-angle-down" aria-hidden="true"></i></button><ul class="header-dropdown-menu dropdown-menu-left dropdown-menu header-create-options-menu" role="menu" aria-labelledby="header-create-options-toggle"><li role="menuitem"><a href="/courses/add" class="header-dropdown-menu-item-link">Submit</a><p class="header-create-options-description">Recommend a resource from the web</p></li><li role="menuitem"><a href="/authoring/new" class="header-dropdown-menu-item-link">Resource Builder</a><p class="header-create-options-description">Create media-rich learning resources</p></li><li role="menuitem"><form action="/courseware/lesson/add" method="post"><button type="submit" class="btn btn-link header-dropdown-menu-item-link">Lesson Builder</button><p class="header-create-options-description">Author K-12 teacher and student facing lessons</p></form></li><li role="menuitem"><form action="/courseware/module/add" method="post"><button type="submit" class="btn btn-link header-dropdown-menu-item-link">Module Builder</button><p class="header-create-options-description">Author Higher-Ed instructor and student facing modules</p></form></li></ul></div></div></div><div class="header-navbar-widgets" role="menubar" aria-label="Search and User menu"><div class="dropdown header-navbar-search-dropdown header-dropdown-arrow js-header-search-dropdown" role="menuitem" aria-label="Search Form Dropdown"><button type="button" class="dropdown-toggle header-navbar-dropdown-open-btn header-navbar-search-dropdown-open-btn js-mobile-search-toggle-btn" data-toggle="dropdown" title="Open Search Form" id="header-navbar-search-dropdown-open-btn" aria-haspopup="true" aria-expanded="false"><i class="fa fa-search" aria-hidden="true"></i><i class="fa fa-times" aria-hidden="true"></i></button><div class="header-navbar-search-dropdown-wrap header-dropdown-menu dropdown-menu" aria-labelledby="header-navbar-search-dropdown-open-btn"><div class="container"><div class="header-navbar-search-dropdown-inner"><form action="/search" method="GET" name="advanced-search" class="header-navbar-search-dropdown-form js-header-search-dropdown-form js-header-search-form"><div class="header-navbar-search-dropdown-search-field"><input type="text" name="f.search" class="header-navbar-search-dropdown-search-input form-control" title="Search keywords" placeholder="Search OER Commons"></div><select name="f.general_subject" class="header-navbar-search-dropdown-search-select form-control"><option value="">Subject</option><option value="applied-science">Applied Science</option><option value="arts-and-humanities">Arts and Humanities</option><option value="business-and-communication">Business and Communication</option><option value="career-and-technical-education">Career and Technical Education</option><option value="education">Education</option><option value="english-language-arts">English Language Arts</option><option value="history">History</option><option value="law">Law</option><option value="life-science">Life Science</option><option value="mathematics">Mathematics</option><option value="physical-science">Physical Science</option><option value="social-science">Social Science</option></select><select name="f.sublevel" class="header-navbar-search-dropdown-search-select form-control"><option value="">Education Level</option><option value="preschool">Preschool</option><option value="lower-primary">Lower Primary</option><option value="upper-primary">Upper Primary</option><option value="middle-school">Middle School</option><option value="high-school">High School</option><option value="community-college-lower-division">Community College / Lower Division</option><option value="college-upper-division">College / Upper Division</option><option value="graduate-professional">Graduate / Professional</option><option value="career-technical">Career / Technical</option><option value="adult-education">Adult Education</option></select><select name="f.alignment_standard" id="id_curriculum_standard_in_header" class="header-navbar-search-dropdown-search-select form-control js-header-standards-select" data-helper-url="/standards/align-widget-helper?existing"><option value="">Standard</option></select><button class="btn btn-primary header-search-dropdown-search-button">Search</button></form><div class="header-search-dropdown-advanced-search-call-out"><a href="/advanced-search">Advanced Search</a></div></div></div></div></div><div class="visible-lg-block js-notifications-widget-container"></div><div class="header-dropdown-user-menu visible-lg-block js-header-mobile-item mod-user-menu"><a rel="nofollow" class="header-navbar-dropdown-open-btn login js-login" href="/login">Sign In/Register</a><a class="login-form-url hide" href="/login/form"></a></div></div></div></nav><nav class="header-mobile-container hidden-lg js-header-mobile-container js-action-links"></nav></header>
+
+      
+
+      
+
+      <div id="content" class="content">
+
+        
+          <div class="container-status-messages hidden">
+  <div id="status-messages">
+    
+  </div>
+</div>
+
+        
+
+        
+          <div class="container">
+            
+  
+  
+  
+  
+
+  <div class="formatted-text">
+  <h1 class="page-title">OER Commons Platform Privacy Policy</h1>
+  <p>Date last updated: 10/1/17</p>
+  <p>The Institute for the Study of Knowledge Management in Education (“ISKME”) collects limited personally identifiable information (“PII”) and non-personally identifiable information in connection with your use of the oercommons.org website and those OER Commons goods or services of ISKME that interact with it, including our API and mobile application (collectively, the “OERC Platform”). Please read this Privacy Policy carefully to obtain a clear understanding of how we collect, use, protect, and otherwise handle your PII and non-personally identifiable information. We share your PII only with your consent or as described in this policy. If you do not agree to any part of this policy, please do not access the OERC Platform or provide us with your PII; by using our OERC Platform, you consent to the practices described in this policy. ISKME reserves the right to change this Privacy Policy and will provide notice prior to doing so. If you have comments, suggestions, questions, or concerns regarding our privacy policy, please contact us at <a href="mailto:info@oercommons.org">info@oercommons.org</a> for fastest processing, please include the phrase “Privacy Policy” in the subject line and in the body of your message.</p>
+  <h2>Table of Contents</h2>
+  <ol>
+    <li><a href="#section-scope">Scope.</a></li>
+    <li><a href="#section-consent">Consent to Collection &amp; Processing in The United States</a></li>
+    <li><a href="#section-how-we-collect">How we collect Information</a>
+      <ul>
+        <li><a href="#section-information-you-provide">Information You Provide to Us</a></li>
+        <li><a href="#section-other-information">Other Information We Collect</a></li>
+      </ul>
+    </li>
+    <li><a href="#section-removing">Removing or Correcting Your Information</a></li>
+    <li><a href="#section-how-we-use">How we Use Information</a></li>
+    <li><a href="#section-disclosure">Disclosure of Information to Others</a></li>
+    <li><a href="#section-student-data">Student Data and FERPA Compliance</a></li>
+    <li><a href="#section-security">Security</a></li>
+    <li><a href="#section-personal-choices">Your Personal Choice</a></li>
+    <li><a href="#section-updates">Updates to Our Privacy Policy</a></li>
+  </ol>
+
+  <h2 id="section-scope">Scope.</h2>
+
+  <p>This Privacy Policy covers the treatment of PII and non-personally identifiable information that we obtain when you interact with the OERC Platform. If you have participated in or used the OERC Platform (for example, through contributing materials to the OERC Platform, adding comments, or creating a group), you will have provided PII and non-personally identifiable information to ISKME. PII means individually identifiable information about an individual user collected online by ISKME from that individual and maintained by ISKME in an accessible form, including your first name, last name, and email address. Information that we use internally to identify you as a user or Registered User of the OERC Platform (e.g., your User ID) is not considered PII.</p>
+
+  <p>This policy does not cover the privacy practices of third parties, such as the practices of third-party social networking services, or our partners and/or advertisers. In addition, our service may contain links to the websites or services of third parties. Such third-party services and websites operate independently of our OERC Platform and each has its own privacy and security practices. We encourage you to review their policies before submitting any information to them.</p>
+
+  <h2 id="section-consent">Consent to Collection &amp; Processing in The United States.</h2>
+
+  <p>Our technology infrastructure is based in the United States. Accordingly, by using the OERC Platform, you consent to having your information, including PII, transferred to and processed in the United States.</p>
+
+  <h2 id="section-how-we-collect">How we collect Information.</h2>
+  <h3 id="section-information-you-provide">Information You Provide to Us.</h3>
+  <p>When you create a Registered User account we require that you provide your name and email address.</p>
+
+  <p>You may also choose to provide us with optional profile information, such as your country and state of residence, website URL, social media account information, and the like. You are not required to provide us with this optional information to use the OERC Platform.</p>
+
+  <p>When you request assistance through or regarding the OERC Platform, you may also provide us with additional information. For example, if you email us requesting a callback, you will provide us with your telephone number.</p>
+
+  <p>From time to time, we may contact you regarding a voluntary survey, to help us better tailor the OERC Platform to the needs of our users. Such surveys may ask for additional PII or other information from you.</p>
+
+  <h3 id="section-other-information">Other Information We Collect.</h3>
+
+  <p><strong>Log Files &amp; Analytics.</strong> Similar to many websites and internet services, we gather certain information automatically and store it in web server log files. This information includes your web request, Internet Protocol (“IP”) address information, unique device identifier (e.g., UDID, MAC Address, etc.), browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, web beacons, page activity, and other such information. We may analyze such data using our own analytics, Google Analytics, or other similar third-party services. To learn more about how Google Analytics collects and uses your data when you use this site, and how you can control the information sent to Google Analytics, please review <a href="https://google.com/policies/privacy/partners" target="_blank">https://google.com/policies/privacy/partners</a>. We use these log files and analytics to improve and administer the OERC Platform, to analyze trends, and to gather information about our user base.</p>
+
+  <p><strong>Cookies.</strong> When you visit our website or use any part of our OERC Platform, one or more cookies may be sent to your computer. A cookie is a small text file containing a string of alphanumeric characters used to uniquely identify your browser, to help you log in faster, and to enhance your navigation through a website. A cookie may also convey information to ISKME about how you use our OERC Platform (e.g., the pages you view, the links you click and other actions you take, etc.), and allow ISKME to track your usage of our OERC Platform over time. We use both session cookies and persistent cookies. A session cookie is temporary and disappears after you close your browser. A persistent cookie remains on your hard drive after you close your browser, to facilitate subsequent visits to our service. Both session cookies and persistent cookies can be removed in the security or privacy settings of your web browser. You can set your web browser to refuse all cookies or to indicate when a cookie is being sent, however, some features of our OERC Platform may not function properly if cookies are disabled.</p>
+
+  <p><strong>Do Not Track (DNT).</strong> Because there is disagreement within the privacy industry about how to interpret the DNT setting, the OERC Platform does not currently respond to DNT settings in web browsers.</p>
+
+  <p><strong>Information Concerning Children.</strong> As explained further in our terms of use (available at <a href="/terms">https://www.oercommons.org/terms</a>), you must be 18 years of age or older – or, if you are under the age of majority in your jurisdiction, have the consent of your parent or legal guardian – to use the OERC Platform. In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (“COPPA”), we will never knowingly solicit or collect PII from those known to be under thirteen (13) years of age. If you believe that we have information from or about anyone under thirteen (13) years of age, please notify our Privacy Officer by email at <a href="mailto:info@oercommons.org">info@oercommons.org</a> for fastest processing, please include the phrase “COPPA Concern” in the subject line and in the body of your message.</p>
+
+  <h2 id="section-removing">Removing or Correcting Your Information.</h2>
+
+  <p><strong>Via the OERC Platform.</strong> As a Registered User of our OERC Platform, you can login with your email address and password to view and change your personal information at the URL
+    <a href="/profile/edit">https://www.oercommons.org/profile/edit</a>.</p>
+
+  <p><strong>Contact Us.</strong> You may contact ISKME at any time, by emailing the support desk at <a href="mailto:info@oercommons.org">info@oercommons.org</a>, to request that your PII be removed from the OERC Platform, or to request that your Registered User account be permanently deleted; for fastest processing, please include the phrase “PII Request” in the subject line and in the body of your message.</p>
+
+  <h2 id="section-how-we-use">How we Use Information.</h2>
+
+  <p><strong>To Provide You with the OERC Platform.</strong> We use your information for the purpose of providing you with the OERC Platform.</p>
+
+  <p><strong>In Our Communications with You.</strong> We use email and/or prominent notifications on our website as a primary means of informing our users of important OERC Platform and promotional announcements.</p>
+
+  <p><strong>OERC Platform-Related Announcements.</strong> When you register to become a Registered User of the OERC Platform, we use the email address provided during account creation (or any other email address you may specify within your Registered User account) to deliver important OERC Platform-related announcements to you. Examples of OERC Platform-related announcements include email verification during registration, requests for password reset, important security or server maintenance updates, upgrades, and new releases or policy changes. These OERC Platform-related announcements are considered a fundamental part of the OERC Platform; Registered Users cannot opt out of these email announcements.</p>
+
+  <p><strong>Promotional Announcements.</strong> In order to improve the experience for our Registered Users, we may send updates from time to time. These communications are enhancements to our OERC Platform and are entirely optional. We make it easy for you to unsubscribe from these communications via a link in the footer of each such email you receive. If you are a Registered User of the OERC Platform, you can also see and modify your email preferences at <a href="/profile/preferences">https://www.oercommons.org/profile/preferences</a>.</p>
+
+  <p><strong>On Our Website.</strong> We may use the information we collect to calculate and publish anonymous, non-personal, aggregate statistics that we believe our user base is interested in viewing. We publish this data in aggregate form only, and do not publish any PII in connection with this use.</p>
+
+  <p><strong>For Internal Reporting and Analysis.</strong> As noted above, we use information gathered from log files, cookies, and the like to improve the OERC Platform, analyze trends, administer the site, track the movements of users around the site, and gather aggregate information about our customers as a whole.</p>
+
+  <p><strong>Google Drive.</strong> If you choose to do so, you may import content to and/or export content from the OERC Platform via your Google Drive account. You must authorize read access for your Google Drive to import content from Google Drive; you must authorize write access to export content from the OERC Platform to your Google Drive. With the exception of content that you import to and/or export from the OERC Platform, ISKME does not gain any additional information about you from Google by virtue of your use of these features.</p>
+
+  <h2 id="section-disclosure">Disclosure of Information to Others.</h2>
+
+  <p><strong>Our Commitment to Your Privacy.</strong> We are committed to handling responsibly the information and data we collect. We share your information, including your PII, for the purpose of providing you with the OERC Platform, and only as described in this policy or with your express consent.</p>
+
+  <p><strong>Sharing, Renting, &amp; Selling Information We Collect.</strong> Except as provided herein, we will neither rent nor sell your PII to any other third party not under our common ownership or common corporate control. We may share aggregate information about our user base with partners, and we may publish these aggregate usage statistics on our website for the interest of our users.</p>
+
+  <p><strong>Services to Which We Provide Links via OERC.</strong> In some cases, we allow you to access or link to other web services through our OERC Platform. For example, we allow you to follow us on Twitter via a link contained in the OERC Platform. In such cases, those services may choose to collect your personal information as they deem appropriate. As noted above, we are neither responsible for nor in control of how third parties collect, use, or disclose information obtained through these linked services. We encourage you to be aware when using these third-party services and to review their policies before submitting any personal information to them.</p>
+
+  <p><strong>Third-Party Service Providers.</strong> We use other companies, agents, and/or contractors to perform services on our behalf or to assist us with providing the OERC Platform to you. For example, we may engage such service providers to provide marketing, communications, provide website hosting infrastructure and IT services, personalize and optimize the OERC Platform, provide customer service, and/or analyze and enhance data. In the course of providing such services to us, these other companies may have access to your information. We do not authorize these companies to use or disclose your PII, except in connection with providing the services we request from them.</p>
+
+  <p><strong>Legal and Related disclosures.</strong> We reserve the right to disclose your information, including your PII, when we have a good faith belief that access, use, preservation, or disclosure of such information is necessary to (a) comply with any law, regulation, legal process, or enforceable governmental request; (b) enforce our terms of use, including investigation of potential violations of our terms of use; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against harm to our rights, property, or safety, or those of our employees, users, or the public, as required or permitted by law.</p>
+
+  <p><strong>Infringing User Content.</strong> If we receive notice that User Content you have posted to or through the OERC Platform may infringe the rights of thirds parties, including their intellectual property rights, we reserve the right (in our sole discretion) to disclose information, including PII, about you to those third parties, so that they can contact you directly regarding their concern.</p>
+
+  <p><strong>Acquisition.</strong> If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, including bankruptcy, our assets, including Registered User account information and PII, may be transferred to a third party. At that time, your information may become subject to that third-party’s privacy policy.</p>
+
+  <p><strong>CA Shine the Light / Your California Privacy Rights.</strong> California Civil Code Section 1798.83, known as the “Shine the Light” law, permits our customers who are California residents to request and obtain from us a list of what personal information (if any) we may have disclosed to third parties for direct marketing purposes in the preceding calendar year, including the names and addresses of those third parties. Requests may be made only once a year and are free of charge. If you would like to make a request pursuant to California Civil Code Section 1798.83, you must do so in writing via email to <a href="mailto:info@oercommons.org">info@oercommons.org</a> please include the phrase “Request for California Privacy Information” in the subject line and in the body of your message. We currently do not share any personal information with third parties that are not under our common ownership or common corporate control for their direct marketing purposes.</p>
+
+  <h2 id="section-student-data">Student Data and FERPA Compliance.</h2>
+
+  <p><strong>Student Data.</strong> Any student information collected by ISKME is provided by educators on behalf of students, or by students themselves.</p>
+
+  <p><strong>FERPA Compliance.</strong> If you are a school administrator or teacher in the United States and want your students, who are over age thirteen (13), to use our OERC Platform, including in conjunction with the establishment of an account for your school or a group of students at your school, you are solely responsible for complying with the U.S. Family Educational Rights and Privacy Act (“FERPA”). This means you must notify those students’ parents/guardians of the PII you will collect and share with ISKME and obtain parental/guardian consent before your students establish accounts or use our OERC Platform. When obtaining such consent, you should provide parents/guardians with a copy of our Terms of Use Agreement. You must keep all consents on file and provide them to us if we request them. If you are located outside of the United States, we will rely upon you to obtain any required consent or approval from the parent or guardian of any student covered by similar laws and, as a condition to your and your students’ use of our OERC Platform, you will comply with such laws.</p>
+
+  <p><strong>Concerns.</strong> If you have a privacy concern with regard to students, please contact the ISKME support team via this email address: <a href="mailto:info@oercommons.org">info@oercommons.org</a> for fastest processing, please include the phrase “Student Concern” in the subject line and in the body of your message.</p>
+
+  <h2 id="section-security">Security.</h2>
+
+  <p>The accounts of Registered Users are password protected. Please do not share your password with anyone, and remember to change your password from time to time, to help keep your account secure. Also, remember to sign off your account and close your browser window when you have finished your visit to the OERC Platform. This is to help ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a school computer lab, a library, or a cafe with an internet connection.</p>
+
+  <p>Unfortunately, no data transmission over the internet and no data storage can be 100% secure. Consequently, while we will use reasonable efforts to safeguard your information against unauthorized access and disclosure, we do not warrant or guarantee the security of any information you transmit.</p>
+
+  <p>Both we and our partners maintain standard physical and electronic procedural safeguards that limit access to your PII and other data to employees (or people working on our behalf and pursuant to confidentiality obligations) who, through the course of standard business activities or provision of the OERC Platform, need to access your PII or other data.</p>
+
+  <h2 id="section-personal-choices">Your Personal Choices</h2>
+
+  <p><strong>Accessing and Editing Your Personal Information.</strong> As noted above, Registered Users may view, edit, and/or delete certain information they have submitted to the OERC Platform; that information is available for editing via the link <a href="/profile/edit">https://www.oercommons.org/profile/edit</a>.</p>
+
+  <p><strong>Receiving Communications.</strong> If you subscribe to an optional promotional communication through the OERC Platform, you will be able to unsubscribe via a link in the footer of each such email you receive, or via <a href="/profile/preferences">https://www.oercommons.org/profile/preferences</a>.</p>
+
+  <p><strong>Editing / Deleting Your Account.</strong> You may contact ISKME at any time, by emailing the support desk at <a href="mailto:info@oercommons.org">info@oercommons.org</a>, to request that your PII be removed from the OERC Platform, or to request that your Registered User account be permanently deleted; for fastest processing, please include the phrase “PII Request” in the subject line and in the body of your message.</p>
+
+  <h2 id="section-updates">Updates to Our Privacy Policy.</h2>
+
+  <p>From time to time, we review and may make changes to our privacy policy. If we make material changes to the policy, we will notify you that the policy has changed either by emailing you or by placing a notice on our website. The most recent version of our privacy policy is always available from a link on our homepage at <a href="/privacy">https://www.oercommons.org/privacy</a>.</p>
+
+  <p>If you have any questions regarding our Privacy Policy, please contact us at:
+  <br>
+  <br>
+    ISKME<br>
+    Attn: Privacy Policy Request<br>
+    323 Harvard Ave.<br>
+    Half Moon Bay, CA 94019<br>
+    USA<br>
+    Tel: 650-728-3322<br>
+    Email: <a href="mailto:info@oercommons.org">info@oercommons.org</a><br>
+  </p>
+
+  </div>
+
+          </div>
+        
+
+      </div>
+
+      <form name="next-url" action="/" method="get">
+        <input type="hidden" name="next" value="/privacy">
+      </form>
+
+      
+
+      
+        
+
+
+<footer class="global-footer footer global js-sticky-footer container-fluid ">
+  
+
+    <div class="footer-action row">
+      <div class="footer-navigation-ct col-md-9 col-sm-12">
+        
+          <div class="row">
+
+            <div class="footer-column col-md-2 col-sm-4 col-xs-6">
+              <span class="footer-item-title">Discover</span>
+              <ul class="footer-item-links list-unstyled">
+                <li class="footer-item mod-with-border"><a href="/oer" class="footer-item-link">Resources</a></li>
+                <li class="footer-item"><a href="/curated-collections" class="footer-item-link">Collections</a></li>
+                <li class="footer-item"><a href="/oer/providers" class="footer-item-link">Providers</a></li>
+              </ul>
+            </div>
+
+            <div class="footer-column col-md-2 col-sm-4 col-xs-6">
+              
+                <span class="footer-item-title">Community</span>
+                <ul class="footer-item-links list-unstyled">
+                  <li class="footer-item"><a href="/hubs/" class="footer-item-link">All Hubs</a></li>
+                  <li class="footer-item"><a href="/groups/" class="footer-item-link">All Groups</a></li>
+                </ul>
+              
+            </div>
+
+            <div class="footer-column col-md-2 col-sm-4 col-xs-6">
+              
+                <span class="footer-item-title">Create</span>
+                <ul class="footer-item-links list-unstyled">
+                  <li class="footer-item"><a href="/authoring-overview" class="footer-item-link">Resource Builder</a></li>
+                  <li class="footer-item">
+                    <form action="/courseware/lesson/add" method="post">
+                      <button type="submit" class="footer-item-link btn btn-link">Lesson Builder</button>
+                    </form>
+                  </li>
+                  <li class="footer-item">
+                    <form action="/courseware/module/add" method="post">
+                      <button type="submit" class="footer-item-link btn btn-link">Module Builder</button>
+                    </form>
+                  </li>
+                  <li class="footer-item"><a href="/courses/add" class="footer-item-link">Submit a Resource</a></li>
+                </ul>
+              
+            </div>
+
+            
+              <div class="footer-column col-md-2 col-sm-4 col-xs-6">
+                <span class="footer-item-title">Our Services</span>
+                <ul class="footer-item-links list-unstyled">
+                  <li class="footer-item"><a href="/about-hubs" class="footer-item-link">OERC Hubs</a></li>
+                  <li class="footer-item"><a href="/microsites" class="footer-item-link">Microsites</a></li>
+                  <li class="footer-item"><a href="/information-services" class="footer-item-link">Information Services</a></li>
+                  <li class="footer-item"><a href="/training" class="footer-item-link">PD &amp; Training</a></li>
+                  <li class="footer-item"><a href="/about" class="footer-item-link">About OER Commons</a></li>
+                  <li class="footer-item"><a href="/help-center" class="footer-item-link">Help Center</a></li>
+                </ul>
+              </div>
+            
+
+            <div class="footer-column col-md-2 col-sm-4 col-xs-6">
+              <span class="footer-item-title">My Account</span>
+              <ul class="footer-item-links list-unstyled">
+                <li class="footer-item"><a href="/my" class="footer-item-link">My Items</a></li>
+                <li class="footer-item"><a href="/groups/my-groups/" class="footer-item-link">My Groups</a></li>
+                <li class="footer-item"><a href="/hubs/my-hubs/" class="footer-item-link">My Hubs</a></li>
+              </ul>
+            </div>
+
+          </div>
+        
+      </div>
+      <div class="footer-social-ct col-md-3 col-sm-12">
+        <div class="footer-social-ct-inner">
+          <div>
+            <span class="footer-info-title">Subscribe to OER Newsletter</span>
+            
+<form action="/subscribe" method="get" id="newsletter-subscribe">
+  
+  <div class="field">
+    <div class="errors"></div>
+    <input class="form-control footer-subscribe-input" id="subscribe_email" name="email" placeholder="Your email address" size="40" title="Newsletter sign-up" type="email" required="">
+    <button class="btn footer-subscribe-submit" title="Subscribe to OER Newsletter">
+      Subscribe
+    </button>
+  </div>
+  
+</form>
+
+          </div>
+
+          <div class="footer-social-item footer-social-link-ct">
+            <span class="footer-info-title">Connect with OER Commons</span>
+            <a href="https://www.facebook.com/pages/OER-Commons/197344756972678" class="footer-social-link" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/oercommons" class="footer-social-link" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+          </div>
+
+          <div class="footer-social-item">
+            <a href="https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=41-2045091" class="footer-donate-link" target="_blank">
+              <i class="fa fa-heart" aria-hidden="true"></i> Donate
+            </a>
+          </div>
+
+          <div class="footer-social-item">
+            <span class="footer-info-title">Powered By</span>
+            <a href="http://iskme.org/" class="footer-iskme-logo" target="_blank" title="ISKME"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-service-links-ct">
+      <a href="https://www.oercommons.org/terms" class="footer-service-link">Terms of Service</a>
+      <a href="https://www.oercommons.org/privacy" class="footer-service-link">Privacy Policy</a>
+      <a href="https://www.oercommons.org/ip-dcma" class="footer-service-link">DMCA</a>
+    </div>
+
+  
+
+  
+    <div class="footer-copyright-bar">
+      <span>© 2007 - 2019, OER Commons</span>
+      <div class="footer-copyright">
+        A project created by ISKME.
+        Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License.
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="footer-copyright-img" target="_blank" aria-hidden="true"></a>
+      </div>
+    </div>
+  
+
+</footer>
+
+      
+
+    </div>
+
+    
+
+
+
+
+
+
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.22/jquery-ui.min.js"></script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.20.0/polyfill.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/1.1.1/fetch.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/url-search-params/0.10.0/url-search-params.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.19.41/system.js"></script>
+<script>
+  System.config({
+    map: {
+      "prop-types": "https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.6.0/prop-types.min.js",
+      "react": "https://cdnjs.cloudflare.com/ajax/libs/react/16.2.0/umd/react.production.min.js",
+      "react-dom": "https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.2.0/umd/react-dom.production.min.js",
+      "react-bootstrap": "https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.32.1/react-bootstrap.min.js",
+      "classnames": "https://cdnjs.cloudflare.com/ajax/libs/classnames/2.2.5/index.min.js",
+      "redux": "https://cdnjs.cloudflare.com/ajax/libs/redux/3.6.0/redux.min.js",
+      "react-redux": "https://cdnjs.cloudflare.com/ajax/libs/react-redux/5.0.6/react-redux.min.js",
+      "react-router": "https://cdnjs.cloudflare.com/ajax/libs/react-router/3.2.0/ReactRouter.min.js",
+      "react-router-redux": "https://cdnjs.cloudflare.com/ajax/libs/react-router-redux/4.0.7/ReactRouterRedux.min.js",
+    },
+    baseURL: "/static/COMPILED"
+  });
+  System.defaultJSExtensions = true;
+
+  // https://github.com/systemjs/systemjs/issues/172
+  var systemLocate = System.locate;
+  System.locate = function (load) {
+      var System = this;
+      return Promise.resolve(systemLocate.call(this, load)).then(function (address) {
+          return address + System.cacheBust;
+      });
+  };
+  System.cacheBust = "?af30d5443a19120b6c78551c1858f2ce4bfba5e6";
+</script>
+
+
+
+
+
+<script type="text/javascript" src="/jsi18n"></script>
+
+<script type="text/javascript" src="/static/CACHE/js/460f2241c7bc.js"></script>
+
+<script type="text/javascript" src="/static/CACHE/js/90985a9522bc.js"></script>
+
+    
+      
+
+
+<script type="text/javascript" src="/static/CACHE/js/4ca02c91f8c8.js"></script>
+
+    
+    
+
+
+
+
+<script type="text/javascript" src="/static/CACHE/js/2ea3186e7edb.js"></script>
+
+    
+    <script>
+      $(function() {
+        new StickyFooter();
+        $('.dropdown-toggle').dropdown();
+      });
+    </script>
+    
+
+    
+    
+
+    
+      
+        
+          <div class="login-popup js-login-popup is-hidden" role="dialog" tabindex="-1">
+  
+
+
+
+
+
+<form method="post" class="formatted login-form" name="login" action="https://www.oercommons.org/login">
+
+
+  <link rel="stylesheet" href="/static/COMPILED/newdesign/styles/ui/buttons.css?fcb3d6586a80">
+
+
+<div class="login-title">Sign in / Register</div>
+  <div class="col-md-6 login-form-ct">
+    
+
+    
+
+    <div class="errors global" aria-live="polite">
+      
+    </div>
+
+    
+      
+
+<div class="field required" id="div_id_login-username" aria-live="polite">
+  
+    <div class="label">
+      <label for="id_login-username">Your email or username:</label>
+       <span class="required-asterisk">*</span>
+    </div>
+  
+  
+    
+  
+  <div class="errors">
+    
+  </div>
+  <input class="text" id="id_login-username" name="login-username" size="25" type="text" required="">
+  
+</div>
+
+    
+
+    
+      <div class="mailcheck-message" style="display: none;">
+        Did you mean <a href="#"></a>?
+      </div>
+    
+
+    
+      
+
+<div class="field required" id="div_id_login-password" aria-live="polite">
+  
+    <div class="label">
+      <label for="id_login-password">Password:</label>
+       <span class="required-asterisk">*</span>
+    </div>
+  
+  
+    
+  
+  <div class="errors">
+    
+  </div>
+  <input class="text" id="id_login-password" name="login-password" size="25" type="password" required="">
+  
+</div>
+
+    
+
+    <div class="login-form-extra">
+      <a href="/reset-password-init" class="forgot-password">Forgot password?</a>
+      <label class="toggle-show-password"><input type="checkbox" name="password-toggle" class="password-toggle"> Show password</label>
+    </div>
+
+    <div class="buttons">
+      <input type="submit" class="btn btn-success btn-sign-in btn-green-plain" value="Sign in">
+    </div>
+  </div>
+
+
+
+  <div class="col-md-6 custom-login-buttons-ct">
+    <div class="custom-login-buttons">
+      <div class="col-md-12 col-xs-6 btn-social-provider-ct">
+        <div class="buttons">
+          <label>Create an account</label>
+          <a href="/registration" class="btn btn-register">Register</a>
+        </div>
+        <div class="dividing-text">or</div>
+        
+<a title="Clever" class="btn btn-social-provider mod-clever" href="https://clever.com/oauth/authorize?response_type=code&amp;client_id=2b251d5a88339f0fd5d9&amp;redirect_uri=https%3A%2F%2Fwww.oercommons.org%2Fclever%2Finstant-login%2F&amp;scope=read%3Auser_id+read%3Asis&amp;state=bdyD5MdRP3octgDgii7PJZPvOFuKwH">
+   Sign in with Clever
+</a>
+
+
+      </div>
+    </div>
+  </div>
+
+  <div class="login-form-divider"></div>
+
+</form>
+
+</div>
+
+        
+      
+    
+
+    <script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
+<script type="text/javascript">
+	FreshWidget.init("", {"queryString": "&widgetType=popup", "utf8": "✓", "widgetType": "popup", "buttonType": "text", "buttonText": "Support", "buttonColor": "white", "buttonBg": "#94ba4d", "alignment": "2", "offset": "250px", "formHeight": "500px", "url": "https://help.oercommons.org"} );
+</script>
+
+
+  
+
+</body></html>
