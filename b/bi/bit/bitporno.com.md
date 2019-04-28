@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitporno.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227121904id_/https%3A//www.bitporno.com%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitporno.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429003242id_/https%3A//www.bitporno.com%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # DMCA Notice & Takedown Policy and Procedures - Bitporno
 
