@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usacoinbook.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231155225id_/https%3A//www.usacoinbook.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacoinbook.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428051031id_/https%3A//www.usacoinbook.com/privacy-policy.php) for the most accurate reproduction.*
 
 # USA Coin Book Privacy Policy
 
