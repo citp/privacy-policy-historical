@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogcatalog.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121001251id_/https%3A//www.blogcatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogcatalog.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428163249id_/https%3A//www.blogcatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlogCatalog
 
