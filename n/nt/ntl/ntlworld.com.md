@@ -1,172 +1,395 @@
-> *The following text is extracted and transformed from the ntlworld.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615234041id_/http%3A//ntlworld.com/termsconditions/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntlworld.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428170600id_/https%3A//www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html) for the most accurate reproduction.*
 
-# ntl.com | Privacy Policy
+# Privacy Policy | Virgin Media
 
+At Virgin Media, we take the safeguarding of your information very seriously. One of the ways we do this is by adhering to the requirements of UK data protection legislation, and this has changed as part of the General Data Protection Regulation (GDPR for short) in force from 2018.
+
+This means we’ve made some changes to our [privacy policy](https://www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html), and we want to make sure you understand what these changes mean for you.
+
+Before we get started, here’s a few things to keep in mind. When we talk about ‘you’ or ‘your’ we mean the person who is the account holder and has a contract with Virgin Media Limited or Virgin Mobile Telecoms Limited or Virgin Media Mobile Finance Limited.
+
+Where we talk about Virgin Media we mean these three companies that provide our products and services that include broadband, TV, landline and mobile services and/or products.
+
+Virgin Media will be the Controller of the information that you provide to us, and that we collect about you when you use our online services (<https://www.virginmedia.com/> website and MyVM account). We’ll also collect information when we provide you with, or answer questions about, our products and services, including broadband, TV, landline, mobile. Our [contact details](https://www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html#getintouch) are set out below.
+
+This [Privacy Policy](https://www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html) gives you detailed information on when and why we collect your information, how we use it, and how we keep it secure.  Please take a moment to read it so you know what choices and rights you have about the information we may ask you for or collect about you. This policy may change from time to time so it's a good idea to come back and read through it every now and then. If there’s a significant change to the policy, we’ll let you know straight away. So, let’s get into it.  
+ 
+
+####  What kind of information do you collect, when and how? __ What kind of information do you collect, when and how? __
+
+There are a few ways we collect your information. This could be when you:
+
+o   Order our products or services (whether via this website, over the phone, in one of our stores or with our field agents)
+
+o   Create and log in to your My Virgin Media account on our website
+
+o   Use our products or services e.g. TiVo and TV apps; mobile
+
+o   Contact us by telephone, email, electronic messaging (such as SMS, MMS or live chat tools) or post
+
+o   Visit this website, including service availability checks in your area or using the “Cable my street” tool
+
+o   When someone refers you for our products and services
+
+o   We also collect information about you from third parties. An example of this could be from members of your household, from content providers and/or delivery service providers
+
+We’ll never keep more information from you than we need to. The types of information we collect will depend upon: (i) whether we collect the information from you or from someone else; and (ii) how / when we collect that information.
+
+**Information you give to us:**
+
+  * When you apply for and/or purchase our products or services, create an online account, or contact us with queries we’ll ask you to give us, where necessary, your generic details (i.e. name, surname, date of birth), your contact details (i.e. address, email, phone number), your financial details (i.e. bank account, payment method, credit card number)
+  * When you talk to us on the phone, email, communicate via electronic messaging (such as SMS, MMS or live chat tools), write to us or visit us in our retail stores
+  * In customer surveys from time to time, to help us provide you with improved products and services, we might ask you to fill in a questionnaire, just so you can let us know how we're doing. When sending you a questionnaire we’ll ask you to provide us with the following information: name, account number, email address, telephone number
+
+
+
+**Information we collect from you when you use our products and services:**
+
+  * When you visit this website, we’ll use cookies (which are stored on your device(s) – your laptop, mobile phone, tablet etc.) to collect information about your use of our online services (<https://www.virginmedia.com/> website and My Virgin Media account). See our [Cookies Policy](https://www.virginmedia.com/shop/our-cookies.html) for more details.
+  * When you use Virgin Media services (such as our Broadband, TV, home phone lines, mobile phone lines, Virgin Red, Virgin Store, apps such as Virgin TV Go and Virgin TV Control and other apps such as Netflix), we collect information about your use of those services including the following:
+
+
+
+o   Call data (i.e. your telephone number, inbound / outbound caller number, time and duration of the call, your device details)
+
+o   Usage data (i.e. frequency, time, location and duration of service usage, data traffic (internet / minutes / SMS) used per month)
+
+o   Billing data (your financial details, bills and its components), which may be used to validate your state of residence is the UK, for the purposes of providing you with access to UK-only online content while you are temporarily visiting another EU member state
+
+o   Payment and transaction data
+
+o   Your television viewing data (shows and ads you’ve watched through video on demand, use of Virgin Media services, technical data such as time and duration of watched content, information on the content recorded/watched, MAC/IP address, the quality of the connection, the model and service number of your set top box)
+
+Audio files if you use the voice search functionality on your Virgin TV Go application, so we can tune and improve speech recognition for your application will learn to understand you.
+
+o   Interactive data (apps usage data, websites usage / visits data)
+
+o   Device Data (IP address, device make and manufacturer, browser information and other similar identifying information required from your devices to communicate with websites and applications on the internet)
+
+We may also monitor, record, store and use the communications we have directly with you to improve the quality of our customer service and/or for training, operational and compliance purposes
+
+**Information collected from others:**
+
+We may supplement the information that we collect from you and about your use of the services as described above, with information that we receive from third parties.
+
+This may include:
+
+o   Data we collect from other members of your household
+
+o   Data we receive when someone refers you for our products and services
+
+o   Data from other organisations who have obtained your permission to share information about you with us
+
+o   Information we get from reporting agencies, such as credit reference agencies. They give us information about your financial history so we can assess creditworthiness and product suitability, check your identity, manage your account, trace and recover debts and prevent criminal activity. We’ll continue to exchange information about you with credit reference agencies on an ongoing basis, including about your settled accounts and any debts not fully repaid on time.  Credit reference agencies will share your information with other organisations.  Your data will also be linked to the data of your spouse, any joint applicants or other financial associates. The identities of the Credit Reference Agencies and the way they operate are explained in more detail via  <https://www.equifax.co.uk/crain>
+
+Here are a few places third party data comes from:
+
+  * Companies or individuals that introduce you to us
+  * Credit Reference Agencies
+  * Fraud Prevention Agencies
+  * Market Researchers
+  * Public Information sources such as the electoral roll.
+
+
+
+####  Why do you collect my information? __ Why do you collect my information? __
+
+There are a few ways we use the information we hold about you. We’ll use it:
+
+**Where it’s necessary to perform our contract with you**
+
+o   To determine your eligibility for our products and services / whether they’re available in your area
+
+o   To process your orders for our products and services and to bill you for the same
+
+o   To provide you with the products and services you have ordered from us
+
+o   To provide access to privileged areas of our online services (MyVM account)
+
+o   To respond to any questions or complaints you may have regarding our products and services
+
+o   To provide recommendations of TV shows and services you might like
+
+**Where you’ve given us your consent**
+
+o   To send you details of products, services, special offers and rewards that we think will be of interest to you. However, we hate junk mail as much as you do so it's up to you to decide whether or not you want to receive this information. We’ll cover more of that further down.
+
+o   To occasionally carry out market research
+
+o   To administer contests and competitions
+
+Where we process your information on the basis of your consent, you’ve got the right to withdraw your consent at any time.  You can do this by:
+
+  * Accessing Marketing Preferences page on your My Virgin Media account, or contacting us
+  * This won’t affect the lawfulness of anything we’ve done with your information on the basis of consent prior to that point
+
+
+
+**Where we’ve got a legitimate interest –** which is where we’ve got a good reason to process your data; e.g. situations where Virgin Media needs to process information to operate its business. However we always do this by considering the safeguards and impact to you. Processing activities based on a legitimate interest are:
+
+o   To provide you with service information and updates in relation to the products and services you’ve ordered from us ****
+
+o   To enable us to gain customer insights and to review, develop and improve our products, services and special offers to ensure we are giving customers what they want
+
+o   Defining types of customers for new products or services and personalise service offers to you
+
+o   To check your credit information with credit rating agencies to guarantee payment of our services
+
+o   Complying with laws and regulations that apply to us
+
+o   To provide you with access to additional services, such as Virgin Red
+
+o   To analyse your telephony and mobile internet data to prevent fraud and warn you about nuisance calls
+
+o   To personalise your experience of our services e.g. your interaction with our call centres, digital platforms or of the TV service based on your usage and viewing profile so that we can recommend shows you might enjoy, or tailor advertising contained within our services so that it corresponds with your likely interests. We’ll not, however, use information about your use of third party applications on our TV service to personalise or tailor advertising
+
+o   To provide you with tailored advertising, features and content.  We use the information we hold about you to tailor the adverts, content and features you receive to make them more relevant.
+
+If you don’t wish to received tailored advertising as part of your TiVo service you can switch this off at any time on your set top box by accessing the Help menu and selecting the option to opt out of tailored advertising
+
+**Where we’ve got a legal obligation to process personal information:**
+
+Virgin Media is required to capture, retain and share some personal data for legal reasons such as:
+
+  * Where there’s a need to block unauthorised or illegitimate content
+  * Responding to courts and enforcement authorities
+  * To help authorities with any security, crime or anti-terrorism enquiries
+  * To demonstrate compliance with anti-money laundering rules
+  * To ensure monitor any other regulatory requirements linked with treating customers fairly and processing records properly.
+  * Administering call caps
+
+
+
+####  Who do you share my information with? __ Who do you share my information with? __
+
+Sometimes we’ll need to share the information we hold about you with others. We provide information about you:
+
+o   To our employees and field agents so they can administer, and deal with any questions or complaints you’ve got about your account with us and/or the products and services provided to you by Virgin Media now or in the future
+
+o   To search the files of a credit reference agency, which will keep a record of that search, when you apply for service. This is so that we can confirm your eligibility for our products and services and guarantee a regular payment for those
+
+o   Additionally, details of how you conduct your account with us may also be disclosed to the credit reference agency. This information may be used by other organisations in assessing applications from you and members of your household
+
+o   For the purposes of fraud prevention and screening preventing nuisance calls
+
+o   We may use aggregate information and statistics for the purposes of monitoring usage of our services in order to help us develop our services, and may provide such aggregate information to third parties, for example, content partners and advertisers. These statistics do not include information that can be used to identify any individual
+
+o   To the marketing agencies we work with when creating marketing campaigns, special offers and promotions targeted for you. We may share your information with our partner companies who provide you with customer service on our behalf or help deliver/provide the product or service you have chosen
+
+o   Our service providers in order for us to provide our services to you, for example if you use the Voice Search functionality on your Virgin TV Go application we may share your audio files with our provider in the United States for storage and processing
+
+o   We may share your information to comply with legal and regulatory obligations to protect or enforce our rights or that of a third party such as analysing activity on our network to help block unauthorised or illegal content access or publication; for the purpose of protecting vital interests, national security, statutory obligations or responding to requests from courts and enforcement authorities
+
+o   Companies that you ask us to share your data with
+
+o   If you’ve got the Virgin Red App to gain access to exclusive offers and competitions
+
+o   TV Apps such as BT Sport Europe, My Nick Jr
+
+  * If you use Direct Debits we’ll share your data with the Direct Debit scheme
+  * If you apply for mobile phone insurance through us we’ll pass your personal details onto the insurer (Asurion)
+
+
+
+Where we share your personal data with another company we make sure that they respect your data protection rights too. We do share your personal data with some companies that are based outside the European Economic Area such as India and Philippines – where we have organisations that help with customer care activity and the USA to enable TV stuff.
+
+We only share your data with other controllers if this is directly requested by you, for example for your number porting to a different service provider.
+
+We won’t pass on your personal information to third parties except in accordance with this policy and our Terms and Conditions or where we are required to disclose that information in order to comply with any legal or regulatory requirements.
+
+####  How do you protect my information? __ How do you protect my information? __
+
+The security of your information is really important to us. Any information sent to us is protected using robust security methods. The methods we use are industry-standard ensuring data is safeguarded whilst being sent over unprotected communications paths such as the internet. When it reaches us, we store it securely and only provide access to it by those authorised. Although we safeguard your personal information once received, Virgin Media cannot guarantee the safety of any personal information you transmit to us using online methods.
+
+Our security measures include:
+
+o   Encryption of data where appropriate
+
+o   Regular penetration testing of systems
+
+o   Security controls which protect the entire Virgin Media Information Technology infrastructure from external attack and unauthorised access
+
+o   Regular cyber security assessments of all service providers who may handle your personal data
+
+o   Regular scenario planning and crisis management exercises to ensure we are ready to respond to cyber security attacks and data security incidents
+
+o   Internal policies setting out our data security approach
+
+o   Training for employees on security and privacy
+
+We’ll never ask you for your Virgin Media identification, on-line passwords or PIN numbers directly associated with your Virgin Media account in any unsolicited phone calls or unsolicited emails. In accordance with our Terms and Conditions, you’re responsible for keeping your password and PIN secure and we very strongly recommend you do not disclose them to anyone (unless you wish to authorise them to access your account and potentially incur charges on your account).
+
+####  How do you keep my information? __ How do you keep my information? __
+
+We collect and store your data safely and only for the time strictly necessary to operate services provided to you by Virgin Media and/or based on the reasons that we process your personal data.  Afterwards it’ll either be destroyed or anonymised.
+
+When determining the relevant time we store information periods, we take into account factors such as: 
+
+  * Legal obligation(s) requiring data to be kept for certain periods of time
+  * (Potential) disputes
+  * Guidelines issued by the UK’s data protection authority.
+
+
+
+A few examples for how long we’ll keep your data:
+
+o   Unless you ask us not to, we store your generic details (i.e. name, surname, contact details) for up to two years after you stop being our customer, to contact you just in case you change your mind
+
+o   In the case of VOD viewing data, we collect and store your TV data for 4 weeks after viewing, after which is deleted or anonymised.
+
+o   We keep your billing data for 7 years, for tax purposes.
+
+####  What are my rights when it comes to my information? __ What are my rights when it comes to my information? __
+
+Here we’ll explain the rights you have regarding your information:
+
+**Rights**
+
+| 
+
+**What does this mean?**  
   
-
-
-## 1\. Introduction
-
-We take the security and privacy of customer information seriously and we are committed to safeguarding your privacy online. This guide describes how we collect, use and safeguard the information you provide us with when you use our online services.
-
-Personal data is the information you supply that identifies you, for example, your name and address. Anonymous data is information that does not identify you personally, for example, the average length of visit to one of our sites is 10 minutes.
-
-**ntl** 's primary reason for collecting personal data is to provide you with a more enjoyable and personalised service. We also collect data so that we can understand and identify our customers' needs and habits with the aim of making each online experience a better one. Personalisation is designed to save you time and effort by providing a service tailored to your individual requirements. Understanding your needs means we are in a better position to meet them and we can do this by looking at how you use our services.
-
-Please take a moment to read our Privacy Policy so you know what choices you have about the information we may ask you for. This policy may change from time to time so please check back periodically.
-
-## 2\. What Information Do We Hold and Where Do We Get It From?
-
-**Information about your visits to our services:**  
-**ntl** may gather data about what pages you visit within the service, how long you stayed on a page and the route you took to navigate through the pages. This information helps us monitor the accessibility of our service and what your needs might be. It also helps us to develop and improve our service generally and in direct response to customer requirements.
-
-**Purchase history:**  
-**ntl** may collect information about your online purchases in order to suggest other products and services which may be of interest.
-
-**Personal details:**  
-When you provide your personal details (such as your name, address and contact details) as part of any registration or online form, we collect these personal details. This helps us to build a user profile, from which we can provide a personalised service, unique to you. The greater the information we have from you, the more personalised service we can provide. It will also enable us to contact you, for example, to provide further information in relation to ntl's products and services, to get your feedback on your online experiences and/or to find out if you experienced any problems using or completing any registration or online form.
-
-We may also ask you for personal details at other times, for example, if we run a market research questionnaire, competition, sweepstake or promotion. However, the majority of this data collection is not compulsory.
-
-Your personal information may be obtained in any of the following ways:
-
-  * Online registration
-  * Online forms from time to time
-  * By telephone recording (Interactive Voice Response, IVR)
-  * By email or telephone
-  * When dealing with an **ntl** customer services representative /li>
-  * Automatically by your internet browser
-  * On Customer agreements
-  * By post
-
-
-
-**Cookies:**
-
-**_Use of Cookies on our site_**  
-Like most major websites, **ntl** uses cookies to enhance your browsing experience. Cookies allow ntl to arrange content to match your preferred interests. The following information explains how ntl uses cookies on our websites.
-
-**_What is a cookie?_**  
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie and a value, usually a randomly generated unique number.
-
-We use the following types of cookies on our websites:
-
-_Session Cookies_  
-These are temporary cookies that remain in the cookie file of your browser until you leave the site. We use these cookies:
-
-  * To allow information to carry across pages of our site and avoid you having to re-enter information 
-  * To allow you to maintain a shopping 
-  * Within registration to allow you to access stored information
-
-
-
-_Persistent cookies_  
-These cookies remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). Cookies cannot be used by themselves to identify you. We use these cookies:
-
-  * To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests 
-  * " To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
-
-
-
-_Third Party Cookies_  
-We also allow third parties to serve cookies via this site. These are used for the following purposes:
-
-  * To count the number of anonymous users of our site and allow us to better understand user activity 
-  * To tailor content to your preferences
-  * To serve advertisements on our site and track whether these advertisements are clicked on by users 
-  * To control how often you are shown a particular advertisement
-  * To tailor content to your preferences
-  * To provide security within shopping baskets or transactions
-
-
-
-**_Advertising_**  
-ntl does not collect personal identifiable information (such as name, address, phone number and email address) that may be used to identify ntl users. Only anonymous information about your Internet browser and Web surfing is collected and used to better determine which ads to show you and to prevent repetitive ads being delivered to the same user. We may also allow third party ad networks to serve ads on our sites, and these networks can also send cookies to your cookie file. If you wish to prevent a third party ad network from doing this, you must visit each ad network’s website and opt out from there, if available. Currently 24/7 Real Media UK Limited [www.247realmedia.com/privacy](http://www.247realmedia.com/privacy) provides ad network services to ntl.
-
-**_Web Beacons_**  
-Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which usually includes a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
-
-**_Your preferences / Disabling cookies_**  
-To ensure you get the best from our websites, we advise that users keep cookies active on their machine whilst visiting ntl websites. You can manually disable and enable cookies on your PC. The process will depend on your browser and is usually part of your 'Security Settings'. For further information about managing and disabling cookies, you can refer to your browser's help section or user guide. Alternatively, the Interactive Advertising Bureau has produced a series of web pages (see www.allaboutcookies.org) which explain to users how cookies work and can be managed.
-
-**_What happens if I use a link from this site to another site?_**
-
-Please be aware that our site may provide access to other web sites by linking to them. We are not responsible for the data policies (including data protection and cookies), content or security of these linked web sites.
-
-**Preferences:**  
-**ntl** may ask you for information about your leisure interests and lifestyle. Again this is in an effort to provide a more personalised service for you and the greater the information we have the more able we are to do this.
-
-## 3\. What Does **ntl** Do With Your Personal Information?
-
-**Your Personal Information:**  
-**ntl** will combine the different types of data held to create a profile for each user or customer. This helps us to provide you with a personalised service, most accurately suited to your needs. This is a continuing process as you continue to use our services, and is in direct response to the amount of information we are supplied with by you. The more information we have, the better service we can provide.   
-When you apply for or use ntl's products and services, you agree to ntl's Terms and Conditions. Clause 8 of our Terms and Conditions sets out the purposes for which ntl may use your personal information, and to whom it may be disclosed. Please refer to our Terms and Conditions at [http://www.home.ntl.com/page/termsresidential for full details.](http://www.home.ntl.com/page/termsresidential)   
-**Anonymous aggregate reports:**  
-**ntl** may provide reports to third parties, for example content partners and advertisers, as well as to ntl management to enhance the service. These reports will be anonymous summaries used to monitor the success of our content and advertising, and to help us develop a service in line with customer need. From our aggregate reports we can provide general information about our service, for example, '10,000 people clicked on an advertisement yesterday', or '20% of our customers are over 40 years old'.
-
-## 4\. Who Else Gets To See your information?
-
-We won't pass on your personal information to third parties except in accordance with our Terms and Conditions, with your specific consent or at your request, or where we are required by law to disclose that information.
-
-As described in Clause 8.3 of our Terms and Conditions, ntl may pass your details to carefully selected reputable third party organisations so they can contact you with recommendations for products and services which we think may be of interest to you. ntl may sometimes hold promotions with other companies. In this case, some of the data collected at this time would be shared with the sponsor. If so, you will be told about this before your data is collected.
-
-If you request additional information from an advertiser or sponsor you will in effect be giving ntl consent to provide them with the personal details needed for them to fulfil your request.
-
-We may offer you the choice of saving your credit card details on a secure site, instead of providing them every time you make a purchase online. This information is encrypted and made secure but may be accessed by ntl, on behalf of ntl partners, when making a secure transaction.
-
-From time to time, **ntl** may also ask you questions about your tastes and preferences. 
-
-## 5\. What choices do you have?
-
-You have the right to object at any time to your personal details being used by us to send you direct marketing by post or to us contacting you by telephone, email, other electronic messaging services (such as text, voice, sound or image messages including automated calling systems) or fax for marketing or promotional purposes. You may also object to us analysing your call, usage, billing, viewing and interactive data for marketing purposes. You can also object to us providing your personal data to third parties outside the ntl group of companies for marketing or promotional purposes. We will not disclose your email address to third parties for marketing purposes without your specific consent or at your request.
-
-If you do not wish to receive marketing or promotional information from us or our carefully selected third parties, please visit www.ntl.com/home/dataprotection to register. If you prefer, you can write to us at: NTL Data Policy, PO Box 9521, Sutton Coldfield, B76 1BR. If you write to us, please state in your letter whether you would prefer not to receive any promotional material from us or whether you would like to receive information from ntl by some but not other methods (the options are: by mail, telephone, electronic messaging services, fax and email). Please provide the same information in relation to promotional material from our carefully selected third parties. Remember that if you say you do not wish to receive any promotional material from ntl or our third parties, this will preclude you from receiving any of our special offers or promotions or those of third parties which may be of interest to you. 
-
-If you'd prefer not to receive unsolicited telephone marketing calls from any organisation without your consent, you should also register with the Telephone Preference Service (TPS). TPS is a central register (run by the Direct Marketing Association) that helps you to make sure your telephone number is no longer available to organisations who may telephone you with offers and information you do not wish to receive. For further information or to register for the Telephone Preference Service, call 0845 070 0707 or visit www.tpsonline.org.uk.
-
-You may set your PC to refuse cookies or ask your browser to show you when a cookie is being set up. Please refer to section 2 for more details on cookies.
-
-## 6\. Protecting Children’s Privacy
-
-Safeguarding the personal information of children is very important to **ntl**.
-
-Children should always ask a parent or guardian for permission before sending personal information to anyone online and, at ntl, we encourage parents and guardians to spend time online with their children. Where ntl has reasons to believe that a user is under 18, we try to collect the minimum amount of personal information necessary for the effective operation of the service. ntl also endeavours not to share with third parties any personal information supplied by users believed to be aged under 18.
-
-In addition, ntl aims not to send direct email offers to users who indicate they are aged under 18. No information should be submitted to, or posted on, ntl services by visitors under the age of 18 without the consent of their parent or guardian.
-
-## 7\. Looking After Your Data
-
-**ntl** is committed to data security. We have implemented technical, managerial and operational security, rules, procedures and measures to ensure that your personal information is held within operating environments that are not available to the public. We take steps to guard against unauthorised access, improper use, alteration, destruction and accidental loss of personal data. This includes rules for all ntl staff with access to the servers or databases that hold your personal information. Although we make every effort to create a secure environment for your personal information, ntl cannot guarantee the safety of any personal information you transmit to ntl online.
-
-In any event, we will not ask you for your ntl identification and authentication passwords or PIN numbers in an unsolicited phone call or unsolicited email. You should not disclose your password or PIN to anyone.
-
-## 8\. When does the **ntl** privacy policy not apply?
-
-Please note that this policy only applies to the collection and use of data by ntl and not to other companies, individuals and organisations to which we provide links through our interactive services.
-
-This privacy policy does not cover advertisers and content partners within our service who may also collect your personal details. These companies should have their own privacy policies.
-
-If you place any of your personal details on any services we might develop for chat, bulletin boards, emails, your personal home page or public profile page or any other publicly accessible page, then under these circumstances data will not be covered by this privacy policy.
-
-**ntl** advises its customers to be cautious of providing their personal information, such as contact information like email address, postal address, telephone or name, to organisations on the open web. Customers are advised always to read a web site's privacy policy before submitting personal information.
-
-## 9\. Contacting Us
-
-If you have any questions or concerns about our use of your personal information you should write to ntl's Group Compliance Department at the address below.
-
-Group Compliance  
-**ntl:Telewest**  
-160 Great Portland Street  
-London  
-W1W 5QA
-
-## Information Commissioner
-
-If you want to learn more about your rights regarding personal data you should contact the Information Commissioner's office information line on 01625 545745 or visit their web site at [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/).
-
-(Version: May 2006)
-
-* This is a Microsoft Word document. To download the document, right-click on the link and select 'Save Target As'. You will need a compatible application to view this document. [Visit the Microsoft website for more information.](http://www.microsoft.com/)
-
+---|---  
   
+1.      The right to be informed
 
+| 
+
+You have the right to be provided with clear, transparent and easily understandable information about how we use your information and your rights. This is why we’re providing you with the information in this [Privacy Policy](https://www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html).  
+  
+2.      The right of access
+
+| 
+
+You’re welcome to ask us what information we have about you, any time you like.
+
+You have the right to obtain access to your information (if we’re processing it), and certain other information (similar to that provided in this [Privacy Policy](https://www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html)).
+
+This is so you’re aware and can check that we’re using your information in accordance with data protection law.
+
+We won’t charge for this and we’ll do our best to get details back within 30 days.
+
+Check out the Contacting Us section if you want to find out how to get access to your information.  
+  
+3.      The right to rectification
+
+| 
+
+You’re entitled to have your information corrected if it’s inaccurate or incomplete. Just let us know where to make the changes!  
+  
+4.      The right to erasure
+
+| 
+
+This is also known as ‘the right to be forgotten’ and, in simple terms, enables you to request the deletion or removal of your information where there’s no compelling reason for us to keep using it. This is not a general right to erasure; there are exceptions.  
+  
+5.      The right to restrict processing
+
+| 
+
+You have rights to ‘block’ or suppress further use of your information. When processing is restricted, we can still store your information, but may not use it further. We keep lists of people who have asked for further use of their information to be ‘blocked’ to make sure the restriction is respected in future.  
+  
+6.      The right to data portability
+
+| 
+
+You have rights to obtain and reuse your personal data for your own purposes across different services. e.g. if you decide to switch to a new provider, this enables you to move, copy or transfer your relevant information easily between our IT systems and theirs safely and securely, without affecting its usability, such as your name and address.  
+  
+7.      The right to object
+
+| 
+
+You have the right to object to certain types of processing, including processing for direct marketing (which we do only with your consent).  
+  
+8.      Rights in relation to automated decision making and profiling
+
+| 
+
+We sometimes make automated decisions based on personal information you’ve supplied or we’ve collected from others about you.  This helps us to make sure the decisions we make are quick, fair and correct based on what we know about you.  These automated decisions can affect the products and services that we may offer you.  We’ll ensure that human intervention is possible where there are any concerns about the decision.  We want to ensure that decisions about automated decisions such as credit approval are fair and transparent. We use technology to make decisions automatically or to build profiles about you. This technology uses logic that analyses your preferences and how you use our products and services, which helps us to improve your customer experience, making it more relevant for you and allowing you to get the most out of our products and services.  What this means for you is that you will regularly receive from us personalised content (offers, promotions, TV programmes recommendations etc.).
+
+We also use technology to make decisions automatically based on your credit score analysis, which allows us to guarantee your regular payments for our products and services. What this means for you is that we’ll decide your eligibility for our products and services based on your credit history.  
+  
+To exercise any of these rights at any time, check out the Contact Us section.
+
+####  How do you market your products and services? __ How do you market your products and services? __
+
+We’ll automatically contact you with regard to your services, for example, with updates to your services, service disruption messages or bill payments.
+
+We may also, subject to your consent, use your personal information to contact you with information about special offers and rewards. But don't worry, your details won't be shared with other companies for marketing purposes without your consent. ****
+
+If you’ve given consent for us to contact you, then from time to time, we may contact you by mail, telephone, email, other electronic messaging services (such as text, voice, sound or image messages including using automated calling systems) with information about our products and services (including discounts and special offers).
+
+**Managing your Marketing Preferences**
+
+If you’d like to change your marketing preferences at any time you can do this in the following ways:
+
+  * Sign into [My Virgin Media](https://www.virginmedia.com/myvirginmedia) and go to My Profile
+  * Log into your [Virgin Mobile](https://mobile.virginmedia.com/ecare/login) account and go to My Profile
+  * Clicking on the unsubscribe link in any marketing email from us
+  * Text STOP in reply to a Marketing SMS send by us
+  * By calling us. If you’re a Virgin Media customer (TV, VM Store, Broadband and/or landline) call our team on 150 from your landline or 0345 454 1111* from any other phone
+  * If you’re a Virgin Mobile customer just call our team on 789 from your Virgin Mobile phone, or 0345 6000 789* from any other phone
+  * By writing to us at PO Box 333, Swansea SA7 9BB or emailing us at dpo@virginmedia.co.uk
+
+
+
+Remember that if you say you don’t wish to receive any promotional material from us, this will preclude you from receiving any of our special offers or promotions which may be of interest to you. ****
+
+####  What do I need to know about cookies? __ What do I need to know about cookies? __
+
+Like most website providers, we use cookies. You can find out everything you need to know about cookies on our [dedicated page](https://www.virginmedia.com/shop/our-cookies.html).
+
+####  What happens when I click a link on your website that takes me to another site? __ What happens when I click a link on your website that takes me to another site? __
+
+Occasionally our site may provide access to other web sites by linking to them. We’re not responsible for the data policies (including data protection and cookies), content or security of these linked websites. So, it’s a good idea to make sure you refer to their privacy policies to ensure you know how they use your data.
+
+## **  
+How can I get in touch with you?**
+
+For queries regarding Virgin Media's services, please call our team on 0345 454 1111 or dial 150 from a Virgin Media phone line or if you’re a Virgin Mobile customer dial 789 from your Virgin Mobile phone, or 0345 6000 789* from any other phone
+
+If you’ve got any questions or concerns about our use of your personal information you can:
+
+o   Write to us at:
+
+    Data Protection Team  
+    Virgin Media Limited  
+    Swansea PO Box 333
+
+o   Send an email to dpo@virginmedia.co.uk
+
+If you’re not satisfied with our response to your question or concern, or believe our processing of your information doesn’t comply with data protection law, you can make a complaint to the Information Commissioner’s Office (ICO) at https://ico.org.uk/global/contact-us/
+
+Where you’ve got access to Virgin Media products and/or services but you’re not the account holder then Virgin Media will need contact to be made and/or authorised via the account holder. We don’t want to share information with anyone unless we know who they are and this can be difficult without proof; we’re acting in your best interests. ****
+
+* For details about how much it costs to call our team from a Virgin Media home phone, visit virginmedia.com/call costs. Call costs from other networks and mobiles vary.
+
+\+ Data [Privacy Policy](https://www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html) last updated May 2018 but it will be updated regularly to ensure we stay on top of compliance requirements.
+
+## Here’s a glossary of data types
+
+**Contact details:** name, date of birth, ID or passport number, social security number, passwords, address, telephone number, email address, gender, nationality, language, delivery details.
+
+**Account data:** Customer ID, payment method, bank account, credit card number (if applicable to your subscriptions), billing address, product subscriptions, segment, products purchased through any of our channels, as well as the transaction details.  Your credit rating information (acquired from credit rating agencies). They also include **Customer Care data** : your support requests and the details required to resolve them. The time and duration of the call and the solution applied. We may also record your call to the service desk.
+
+**Telephony data:** your telephone number, the phone numbers that you call and send messages to, time and duration of the call, geo-location data, device details (hardware model, operating system version, IMEI), amount of data used. ****
+
+**Internet data:** amount of data used, time duration of the session, device, IP/MAC address, the websites you visit.
+
+**Television data** : __ Programs you view, use of our services (e.g. Replay), technical data such as time and duration of watched content, the quality of the connection, the model and service number of your set top box, software version used, smartcard ID, and level of the service package.
+
+**Personalised TV service:** If you have one of our latest Set Top Boxes, we use your data to provide a personalised TV service that helps you remember your favorite shows, your most watched channels, most used apps and we may also recommend new ones suited to your taste, according to your viewing history.
+
+**Home content data** : if you have activated the home network setup wizard, we will have a list of stored video, music and photo files.
+
+**Email data** : if you use our e-mail services we collect technical data and the email addresses of the sender and receiver.
+
+**Data collected in our website** : when you log into our website we collect the time and duration of the session, pages visited, campaign attributes, transaction details and technical details (IP/MAC address, operating system and browser type)
+
+**Data from our apps** : we keep record of whether or not and how often you use the apps we present to you in the set top box menu.
+
+**Data collected in our stores** : We retain information related to the purchase of a product or service in our stores.
+
+**Directories** : We will publish your name, address and telephone number in case you have given your consent to be included in the public directories.
+
+Privacy Notice Version 1.2 Published on 18th May 2018
