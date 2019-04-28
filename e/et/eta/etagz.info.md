@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etagz.info privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231232344id_/http%3A//etagz.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etagz.info privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428030755id_/http%3A//etagz.info/privacy) for the most accurate reproduction.*
 
 # privacy – etagz.info
 
