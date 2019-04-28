@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the betseyjohnson.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228015152id_/https%3A//www.betseyjohnson.com/content.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betseyjohnson.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428152935id_/https%3A//betseyjohnson.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Betsey Johnson
+# PRIVACY POLICY – Betsey Johnson
 
-BJ Acquisition LLC ("Betsey Johnson") respects your privacy and is committed to taking reasonable steps towards protecting your privacy online and managing your information responsibly, in order to best understand the products and services that are most useful to you. This Privacy Policy is intended to notify you of our online privacy practices, the type of information that may be collected and stored, how the information is used, with whom the information may be shared, what choices are available to you regarding the collection, use and distribution of the information, what kind of security procedures are in place to protect the loss, misuse or alteration of information under our control, and who to contact with questions or concerns. 
+BJ Acquisition LLC ("Betsey Johnson") respects your privacy and is committed to taking reasonable steps towards protecting your privacy online and managing your information responsibly, in order to best understand the products and services that are most useful to you. This Privacy Policy is intended to notify you of our online privacy practices, the type of information that may be collected and stored, how the information is used, with whom the information may be shared, what choices are available to you regarding the collection, use and distribution of the information, what kind of security procedures are in place to protect the loss, misuse or alteration of information under our control, and who to contact with questions or concerns. 
 
 This Privacy Policy applies to the website located at www.betseyjohnson.com (the "Website"), to any phone, fax, and/or mail operations concerning processing of orders and questions about products or services, as well as our marketing contacts with you. This Privacy Policy does not apply to other websites to which we may link, or to other companies or persons who might be listed as third-party contacts or suppliers on this Website, or to whom we may refer you if you call or write us. We may post links on this Website as a way of helping you locate related information and products easily. However, when linking to another website, you must review that website’s privacy notice as other websites may not treat information collected online in the same manner as we do. This Privacy Policy also does not apply to information collected when you purchase our products in department and specialty stores, or on other third-party websites where our products are sold. Unless otherwise specified, personal information collected from these other channels is not provided to Betsey Johnson, and Betsey Johnson has no control over how they use information that they collect.
 
-**By using this Website and/or by contacting us and providing any personal information, you consent to the collection and use of information by us in accordance with this Privacy Policy, as well as the Website Terms of Use. If we decide to change our Privacy Policy, we will post those changes on this page and, at the end of this Privacy Policy, indicate the date that changes were last made.**
+ **By using this Website and/or by contacting us and providing any personal information, you consent to the collection and use of information by us in accordance with this Privacy Policy, as well as the Website Terms of Use. If we decide to change our Privacy Policy, we will post those changes on this page and, at the end of this Privacy Policy, indicate the date that changes were last made.**
 
-###  ** _WHY WE COLLECT INFORMATION:_**
+### **_WHY WE COLLECT INFORMATION:_**
 
 We collect personal information because it helps us improve and deliver our products and services. In addition, your personal information helps us communicate to you our latest products, special offers, and information and events about which you might like to hear. We also collect your personal information to help us design and deliver our Website, and to deliver targeted marketing to you based on your interests and previous purchases. We also may correlate your personal information obtained from you with information from other sources. For example, if you provide us with your personal information, we may cross-check that against information that might be otherwise available through other entities such as when you, or a business with which you are affiliated, seeks to open a credit account with us, or in order to prevent or detect fraud.
 
 ###  ** _WHAT INFORMATION WE COLLECT:_**
 
 The following generally describes the type of information we may collect about you. Those who wish to communicate with us but do not wish to provide personally identifiable information online may contact us through the address or phone numbers provided on our Website, or through our online chat function. However, you should note that if you contact us by phone, online chat or via postal mail, you may still be submitting personally identifiable information to us, as set forth herein.  
-**             Telephonic Shopping and Customer Support:**  
+ **             Telephonic Shopping and Customer Support:**  
 You may call our customer service line for information about our products or personal shopping advice. If you do so, we may ask you for information such as your name, email address, postal address, telephone number and, if you choose to make a purchase, your payment card information. We use this information to respond to your requests and process your transactions.  
-**             Online Shopping:**  
+ **             Online Shopping:**  
 When you order products or services from the Website, we will collect the information necessary to complete your order, such as your name, e-mail address, shipping address, payment information (including credit card number and/or PayPal identifier) and billing address and/or shipping address. You may also provide us with other information that you might submit. If you create an account, we will collect information about your purchases and payment methods, as well as the shipping addresses that you add to your address book, in order to make future shopping experiences faster and more convenient.  
-**             General Browsing:**  
+ **             General Browsing:**  
 We do not automatically collect information unless you voluntarily input or submit this information, such as during a registration or ordering process, when you submit questions or comments, request information or participate in online surveys, contests, promotions or other activities. Should you voluntarily provide us with personally identifiable information, you consent to our use of it in accordance with this Privacy Policy.  
 Even if you do not submit personal information through the Website, we gather navigational information about where visitors go on the Website and information about the technical efficiencies of our Website and services (i.e., time to connect to the Website, time to download pages, etc.). This information allows us to see which areas of our Website are most visited and helps us better understand the user experience. This helps us improve the quality of the Website by recognizing and delivering more of the features, areas, and services our visitors prefer. In this process of gathering information, we may collect personally identifiable and non-personally identifiable information (for example, domain type, browser type and version, service provider and IP address, referring/exit pages, operating system, date/time stamp, and click-stream data). We may also create and use electronic records to compile statistics about how our visitors collectively interact with our Website.
 
 ###  ** _HOW WE COLLECT INFORMATION:_**
 
-We collect information in three primary ways: 
+We collect information in three primary ways:
 
   1. **You Give Us Information:**  We collect information from you when you submit it to us through our Website or other digital media.
   2. **We Collect Information Automatically:**  We automatically collect certain types of information when you visit our Website or use our products and services. For example, we automatically collect various types of technical information when you use our Website as otherwise described in this Privacy Policy.
@@ -35,21 +35,21 @@ We collect information in three primary ways:
 
 **             Use of Cookies:**  
 Cookies are bits of electronic information that a website may transfer to a visitor’s computer to identify specific information about the visitor’s visits to the website. We use cookies, for example, to preserve the contents of your virtual shopping bag between visits. The Website uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer’s hard drive and are used to help track clicks as you go through the pages within our Website. We may also use cookies to tell us whether you have previously visited the Website. We also use cookies which may be set by third-parties with whom we have entered into agreements which may enable us to obtain analytics information about the use of our Website. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. You may also use commonly available tools in your browser to remove cookies which may have been placed onto your computer. However, please be aware that the Website requires cookies to operate correctly. For example, if you turn off cookies or refuse them, you will not be able to make purchases on the Website. We will not use shared local objects (commonly referred to as "FLASH cookies") in a manner inconsistent with the purposes for which they were designed unless you are specifically notified that we intend to use them for a specific service. FLASH cookies are cookies that are placed on your computer that are not removed through normal browser management tools.  
-**             Use of Web Beacons, Clear-GIFs, Pixel Tags and JavaScript:**  
+ **             Use of Web Beacons, Clear-GIFs, Pixel Tags and JavaScript:**  
 We also may use "pixel tags" (also called "action pixels," "web beacons" or "clear gifs") and/or JavaScript plug-ins, placed on our Website and in our emails to you. These web beacons and plug-ins are small graphic images (typically that you cannot see) or code on a website or in an email message which are used for such things as recording web pages and advertisements clicked-on by a user, or for tracking the performance of email marketing campaigns. These devices help us analyze our customers' online behavior and measure the effectiveness of our Website and our marketing. We also work with third-party service providers that help us track, collect, and analyze this information. Third-party entities with whom we have agreements may place these devices on the Website and/or in e-mails to use information obtained from them such as pages viewed, items purchased, e-mails opened and items upon which you may click in e-mails. These third-party providers may also place cookies onto your computer. Those third-party cookies may enable us to obtain aggregate demographic information and user statistics about you and your preferences from these third-party sources as well as our information we have about you.  
-**             Server Logs and Widgets:**  
+ **             Server Logs and Widgets:**  
 A web "server log" is a record of activity created by a computer that delivers certain web pages to your browser. Certain activities that you perform on our Website may record information in server logs, such as if you enter a search term into a search box located on the Website. The server log may record the search term(s), or the link you clicked on to bring you to our Website. The server log may also record information about your browser, such as your IP address and the cookies set on your browser.
 
 A "widget" is generally an application that can be embedded in a webpage. Widgets can provide real-time information to the webpage. Widgets are often provided by third-parties and we may provide widgets on our Website. Widgets may enable the third-parties that provide them to collect date about users visiting the Website.  
-**             Search Queries on Our Website:**  
+ **             Search Queries on Our Website:**  
 We may provide you with options to search for information on our Website. If you enter information in a search query box, we may store that information and we may aggregate that information with other information we may have about the browser and/or IP address from which the search query originated.  
-**             Surveys, Contests and Promotions:**  
+ **             Surveys, Contests and Promotions:**  
 From time to time, we may request information from users via surveys, contests and other promotions. Participation in these surveys, contests or promotions is completely voluntary and the user therefore has a choice whether or not to disclose this information. If you choose to participate, we may ask you for additional information, which may include contact information (such as name, email and shipping address) and/or demographic information (such as postal code, age level), to provide better services and options to you. We use the information you provide to administer our contests, sweepstakes and other promotions, in addition to the purposes set forth herein. If your information gathered via a survey will be used in a manner different from that described in this Privacy Policy, such use will be detailed in the survey instructions. For example, the instructions will alert you if the information will be shared with anyone in addition to those identified in this Privacy Policy, such as a third-party sponsoring the survey.  
-**             Content You Share**  
+ **             Content You Share**  
 You may be able to post information and materials publicly, for example, in reviews, chat areas, and other similar forums (collectively, "Forums"), subject to the Forum rules in our Terms of Use. If you post any information in a Forum on the Website, it will be deemed public information and available to the general public. Please do not post any personally identifiable information in a review or forum. If you do post personally identifiable information, you do so at your own risk, and consent to it being used as a Submission, in accordance with our Terms of Use.  
 You may also be able to send certain content to other individuals using the Website. To send information to others, we request both your email address and theirs. We use this information only to fulfill your request. We may retain the information you provide in connection with this feature. We will not include any third-party advertisements within the messages sent to your friends.
 
-###  ** _HOW WE USE THE INFORMATION WE COLLECT:_**
+### **_HOW WE USE THE INFORMATION WE COLLECT:_**
 
 We use the information we collect internally in our business for many business purposes, such as to: (i) provide the products or services you may order, including processing orders and returns; (ii) analyze trends and conduct research about improving our products and services; (iii) provide support and respond to questions from customers and Website visitors; (iv) improve our Website, products and/or services; (v) learn about customers’ needs; (vi) contact consumers for research, informational, and marketing purposes, including customizing our product recommendations and promotions to you based upon your information and purchases; (vii) track traffic patterns and Website usage; (viii) enable online ordering and provide customer service with respect to such orders; (ix) correlate information with other commercially available information to identify demographics and preferences to assist us in our marketing efforts; (x) provide specific relevant marketing, promotional, or other information to you; (xi) address information security and/or privacy practices control, network functioning, engineering, and troubleshooting issues; (xii) investigate claims and/or legal actions, violations of law or agreements, and compliance with relevant applicable laws and legal process; (xiii) comply with law, or based on our good faith belief that it is necessary to conform or comply with the law, or otherwise to disclose information to prevent fraud to reduce credit risks, to cooperate with police and other governmental authorities, or to protect the rights, property or safety of visitors to the Website or the public; and, (xiv) process or engage in a sale of all or part of our business, or if we go through a reorganization or merger.
 
@@ -71,10 +71,10 @@ If you do not consent to the way in which we may use your personal information, 
 Betsey Johnson Direct  
 Attn: Director of Customer Service, Ecommerce  
 52-16 Barnett Ave  
-Long Island City, NY 11104 
+Long Island City, NY 11104 
 
 To learn more about interest-based advertising or to "opt-out" of interest based advertising programs from participating companies:  
-• visit [www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/), or visit [www.aboutads.info/choices/](http://www.aboutads.info/choices/)
+• visit [www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/), or visit [www.aboutads.info/choices/](http://www.aboutads.info/choices/)
 
 ### **_USE BY MINORS_**
 
@@ -88,15 +88,15 @@ We collect various types of personal information about you during the course of 
 Betsey Johnson Direct  
 Attn: Director of Customer Service, Ecommerce  
 52-16 Barnett Ave  
-Long Island City, NY 11104 
+Long Island City, NY 11104 
 
-### **_VISITORS TO THE WEBSITE OUTSIDE OF THE UNITED STATES_**
+###  ** _VISITORS TO THE WEBSITE OUTSIDE OF THE UNITED STATES_**
 
 If you are visiting the Website from a location outside of the United States, your connection will be through servers located in the United States. All information you receive from the Website will be created on servers located in the United States, and all information you provide will be maintained on web servers and systems located within the United States. The data protection laws in the United States and other countries might not be as those in your country. By using this Website and/or submitting information to us, you specifically consent to the transfer of your information to the United States to the facilities and servers we use, and to those with whom we may share your information.
 
 ###  ** _UPDATING PERSONAL INFORMATION_**
 
-We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please login to your account  [here](https://web.archive.org/user/login.jsp).
+We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please login to your account  [here](https://www.betseyjohnson.com/user/login.jsp).
 
 ###  ** _LINKS_**
 
@@ -110,5 +110,5 @@ While we use the foregoing security measures to protect your information, please
 
 ###  ** _QUESTIONS / CHANGES TO PRIVACY POLICY:_**
 
-If you have questions or concerns with respect to our Privacy Policy, you may contact us at info@betseyjohnson.com. We may elect to change or amend our Privacy Policy, in whole or in part, at our discretion and without prior notice; in such event, we will post any such changes or amendments in our Privacy Policy on the Website, which will supersede all prior versions. If you are concerned about how your personal information is used, please visit our Website often for this and other important announcements and updates.  
-_Last Updated: February 6, 2018_
+If you have questions or concerns with respect to our Privacy Policy, you may contact us at info@betseyjohnson.com. We may elect to change or amend our Privacy Policy, in whole or in part, at our discretion and without prior notice; in such event, we will post any such changes or amendments in our Privacy Policy on the Website, which will supersede all prior versions. If you are concerned about how your personal information is used, please visit our Website often for this and other important announcements and updates.  
+ _Last Updated: February 6, 2018_
