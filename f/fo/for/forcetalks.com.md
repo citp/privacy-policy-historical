@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forcetalks.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518224459id_/http%3A//forcetalks.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcetalks.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428211944id_/https%3A//www.forcetalks.com/p/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Forcetalks
+# Salesforce | Privacy Policy - Forcetalks
 
 ## 1\. FORCETALKS Privacy Statement. effective as of January 1, 2016
 
@@ -24,10 +24,10 @@ To operate and improve the Company’s website, it may use Web Site Navigational
 
 ## 4\. Web Site Navigational
 
-**Cookies, Web Beacons and IP Addresses**  
+ **Cookies, Web Beacons and IP Addresses**  
 Forcetalks may collect information through the use of popular information-gathering tools namely Web beacons and cookies. This includes information from your Web browser such as browser type, browser language, your Internet Protocol (“IP”) address, and the view/click actions you take on the Company’s Web site. This section describes clearly the types of Web Site Navigational Information that the Company may use and how this information may be used.
 
-**Cookies**
+ **Cookies**
 
 Forcetalks encourages optimization targeting easy and meaningful interactions on the Company’s website with the help of cookies. When you visit one of the Company’s Web site, Forcetalks’ servers will then send a cookie to your machine. Cookies do not personally identify you but they only recognize you with the help of your Web browser. You remain anonymous to the Company unless you choose to identify yourself to Forcetalks via filling out a Web form, creating an account or contacting the Forcetalks team.  
 Forcetalks uses session-based and persistent-based cookies. Session cookies disappear from your computer as you close your browser software or switch off your computer. Persistent cookies however remain on your computer after you close browser or switch off your computer. Please note after disabling your browser’s ability to accept cookies, you may not be able to use all the Services successfully but you can still browse the Company’s Web site.
@@ -98,4 +98,4 @@ Forcetalks reserves the right to change this Privacy Statement. Forcetalks shall
 
 ## 10 Contacting us
 
-Have any questions regarding this Privacy Statement? Have a question on the information practices of the Forcetalks Web site? Do direct them at [legal@forcetalks.com](mailto:legal@forcetalks.com)
+Have any questions regarding this Privacy Statement? Have a question on the information practices of the Forcetalks Web site? Do direct them at [support@forcetalks.com](mailto:support@forcetalks.com)
