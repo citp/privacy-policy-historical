@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infogr.am privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220172503id_/https%3A//infogram.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infogr.am privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428113811id_/https%3A//infogram.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Infogram
 
@@ -232,7 +232,7 @@ California Civil Code Section 1798.83, known as the “Shine the Light” law, p
 
 ### Account Closure
 
-You may cancel your account and you may opt out of receiving marketing emails from us at any time. In order to cancel your account, opt out of, or modify your personal information, you must do so by logging in and visiting your [Settings & Account page](https://web.archive.org/app/#settings/profile) and following the instructions provided, or go to our [Help & Support page.](https://support.infogram.com/hc/en-us/articles/360001462693-Managing-your-Infogram-account-settings-) We encourage you promptly to update your personal information when it changes. Information concerning your past behavior with the Services may be retained by us as long as necessary for the purposes set out above.
+You may cancel your account and you may opt out of receiving marketing emails from us at any time. In order to cancel your account, opt out of, or modify your personal information, you must do so by logging in and visiting your [Settings & Account page](https://web.archive.org/app/#settings/profile) and following the instructions provided, or go to our [Help & Support page.](https://support.infogram.com/hc/en-us/articles/360001462693) We encourage you promptly to update your personal information when it changes. Information concerning your past behavior with the Services may be retained by us as long as necessary for the purposes set out above.
 
 Please note that although you may opt out of receiving certain emails, we reserve the right to communicate with you via email regarding specific products and services you have ordered, requested, or inquired about.
 
