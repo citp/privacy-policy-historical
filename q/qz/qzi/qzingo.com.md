@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qzingo.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119002356id_/https%3A//www.qzingo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qzingo.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428050212id_/https%3A//buddymeter.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Contact Us
+# Privacy Policy
 
 Fair Information Practices 
 
@@ -98,10 +98,8 @@ This online privacy policy applies only to information collected through our web
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-www.qzingo.com
+www.buddymeter.com
 
 India
 
-contactqzingo@gmail.com
-
-Last Edited on 2017-09-29
+Last Edited on 2018-04-12
