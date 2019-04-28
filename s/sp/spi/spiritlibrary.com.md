@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritlibrary.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906093725id_/http%3A//spiritlibrary.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritlibrary.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428020052id_/https%3A//spiritlibrary.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
