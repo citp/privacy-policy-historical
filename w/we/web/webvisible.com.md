@@ -1,66 +1,65 @@
-> *The following text is extracted and transformed from the webvisible.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101101927id_/http%3A//www.webvisible.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvisible.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428191658id_/https%3A//webvisible.com/privacy-policy) for the most accurate reproduction.*
 
-# Webvisible - Privacy Policy
+# Privacy Policy | Web Visible
 
-  
+We collect information from you when you register on our site.
+
+When registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+## Why we use your information
+
+Any of the information we collect from you may be used in one of the following ways:
+
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 
-### Effective as of August 11, 2011
 
-We at WebVisible, Inc. (“we,” “WebVisible,” or “us”) are committed to the responsible use of your personal information and the protection of your privacy. This privacy policy applies to all the solutions and services on our Web site, [www.webvisible.com](http://www.webvisible.com/) where we collect information on the Web site or via e-mail.
+## How we protect your information
 
-We strongly encourage you to read this policy carefully. If you have any questions about our policy or our use of your personal information, please feel free to contact us by sending an e-mail to privacy [ at ] webvisible.com or by writing to us at WebVisible, Inc., 5510 Lincoln Blvd, Suite 200, Playa Vista, CA, 90094 Attn: Privacy Issues.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-We may update this policy from time to time to reflect changes in our use of your personal information and/or applicable law. Any changes made to our policy will be reflected in an updated policy (denoted by an effective date later than the one currently identified above) posted to our Web site.
+## Do we use cookies?
 
-### What personal information do we collect and how do we use it?
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information  
+We use cookies to understand and save your preferences for future visits.
 
-In order to provide our full range of services and provide the best customer experience for our customers, we may collect the following types of information:
+## **Advertisers**
 
-**User provided information.** Certain aspects of our Web site allow you to submit personal information to us (such as your name, e-mail address, telephone number, and mailing address) via Internet browser-based forms or by sending us an e-mail. In addition, certain aspects of our Web site require that you register in order to obtain a user name and password from us. We may retain and use those communications in order to process your requests, respond to communications, or improve the quality of our customer experience. If you provide feedback via our “contact us” form or otherwise, we may also retain and use those communications for the same purposes. In order to purchase solutions or services from our Web site, we may require you to submit a credit card for payment. We take reasonable steps to encrypt your credit card information as it is processed and stored on our servers.
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, we do not have access to this information. We work with the ad companies: Google Adsense. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**Cookies.** When you visit our Web site, we may send one or more small files, commonly referred to as “cookies,” which allow us to uniquely identify your Internet browser. We use these cookies to store information about you and to track your use of our Web site, all in order to improve our customer experience. Your browser may enable you to delete or disable our cookie files. Deleting, disabling, or restricting the receipt of our cookie files may affect your ability to access certain portions of our Web site.
+## Affiliate
 
-**Logs.** By accessing our Web site, our Internet servers automatically record information your Internet browser sends when you visit a Web site. These logs may contain information such as your Internet Protocol (IP) address, browser version, domain name, language, date and time, and the referring Web site. We do not use any logs created by your visit except as necessary for you to submit user provided information via our Web site.
+This website is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com, endless.com, MYHABIT.com, SmallParts.com, or AmazonWireless.com.
 
-We will only use your personal information (i) to provide our services or information about our services to you, (ii) for analysis in order to improve our services and operations, (iii) to develop solutions and services, (iv) to comply with applicable law, rules and regulations, and (iv) for the specific reasons outlined on our Web site when we collect your information.
+## We do not disclose any information to outside parties
 
-If we use your information for a purpose different from those outlined above, we will ask for your consent prior to such use. You may choose to opt-out of such use at such time. You may also request we remove your personal information from our active systems at any time by contacting us at the e-mail or street address noted above.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### 
+## Third party links
 
-With whom do we share your information?
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We will not share your personal information with third parties unless we have your consent or unless we have a good faith belief we are required to share such information to satisfy applicable law, including the prevention of fraud. We may share certain aggregated, non-personal information collected from you (such as your browser type) with third parties in order to improve our services, but such information will not be sufficient to individually identify you. If you wish to revoke your consent to our sharing of your personal information, you may contact us at the e-mail or street address noted above to request we discontinue sharing your personal information. You may not revoke your consent to our sharing of your information when such revocation would violation applicable law or a directive from a court of competent jurisdiction.
+## California Online Privacy Protection Act Compliance
 
-We do not share or sell your information to third parties for marketing purposes.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.  
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their profile and going to the ‘Edit My Information’ page.
 
-### Do we allow you to review your personal information?
+## Childrens Online Privacy Protection Act Compliance
 
-You may review and request changes to your personal information stored on our active systems by contacting us at the e-mail or street address above.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-### What security do we use to protect your personal information?
+## Online Privacy Policy Only
 
-#### Security
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-We take reasonable measures to identify and prevent unauthorized access to our systems and disclosure of your personal information. We also restrict access to your personal information to only those persons who need to know the information in order to perform the services we offer. Your personal information may be stored on computers systems maintained by an agent or service provider of our company, each of which will be bound by agreement to protect the confidentiality of your personal information. Our computer systems are located in the United States of America, but the computer systems of our service providers may be located in another country. Your submission of personal information constitutes your consent to the transfer and storage of your information across international borders.
+## Your Consent
 
-#### Data integrity
+By using our site, you consent to our web site privacy policy, disclaimer and terms.
 
-We only store and process your information for the purpose we collected such information or as otherwise described in this policy. We take reasonable steps to verify the information we collect is complete and accurate, but our ability to maintain the accuracy and completeness of such information is dependent on the users of our Web site providing updated and corrected information to us as necessary. We review our information use practices as necessary in order to improve the services we offer.
+## Changes to our Privacy Policy
 
-### Do we accept personal information from children?
-
-Our Web site is not designed nor directed at anyone under the age of 18, and we do not knowingly accept personal information from persons under the age of 18. If we become aware a person under the age of 18 has provided us personal information, we will discontinue the use of such information and remove it from our active systems.
-
-### Does this policy apply to links on our Web site?
-
-We may provide hyperlinks to third party-controlled Web sites on our Web site. This privacy policy does not govern the use of such Web sites.
-
-### Do we comply with EU privacy laws?
-
-We adhere to the US Safe Harbor privacy principles. You can find more information about the Safe Harbor framework or our registration at the Department of Commerce’s web site, <http://www.export.gov/safeharbor/>.
-
-### Do we comply with regulations set forth as a Google AdWords Partner?
-
-We comply with regulations outlined in Google’s AdWords Advertiser’s Guide, which can be read [here](http://www.google.com/adwords/thirdpartypartners/ "Google Advertiser Guide").
+If we decide to change our privacy policy, we will post those changes on this page.  
+If you have any questions, please contact us using the contact page. 
