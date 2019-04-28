@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podtrac.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109162424id_/http%3A//analytics.podtrac.com/privacy-policy-gdrp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podtrac.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428125502id_/https%3A//analytics.podtrac.com/privacy-policy-gdrp) for the most accurate reproduction.*
 
 # Privacy Policy GDRP - Podtrac
 
@@ -17,14 +17,19 @@ Our Offerings are not directed to children and children are not eligible to use 
 Personal data means any information capable of identifying an individual. It does not include anonymized data. We may process the following categories of personal data about you:
 
   * Communication Data - any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defense of legal claims. Our lawful ground for this processing is our legitimate interests, which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
-  *  Customer Data - data relating to registering to use our services such as your name, title, address, email address, phone number, and contact details. We process this data to supply you with goods and/or services you have requested or purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
+
+  * Customer Data - data relating to registering to use our services such as your name, title, address, email address, phone number, and contact details. We process this data to supply you with goods and/or services you have requested or purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
+
   * User Data - data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests, which in this case are to enable us to properly administer our website and our business.
-  * Technical Data  \- data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
-  *  Marketing Data - data about your preferences in receiving marketing from us and your communication preferences. We process this data to enable you to deliver relevant website and email content and advertisements to you and measure or understand the effectiveness of this advertising.  Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+
+  * Technical Data - data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
+
+  * Marketing Data - data about your preferences in receiving marketing from us and your communication preferences. We process this data in order to deliver relevant website and email content and advertisements to you and measure or understand the effectiveness of this content and advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
 
 
 
-We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook ads or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests, which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
+
+We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content, email and advertisements to you (including Facebook ads or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests, which is to grow our business. We may also use such data to send other marketing communications to you. We use MailChimp as our email marketing platform. Your information will be transferred to MailChimp. Learn more about MailChimp’s privacy practices [here](https://mailchimp.com/legal/). Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
 
 Podtrac currently provides free services to podcast publishers whereby Podtrac gathers data specific to individual podcasts (e.g., audience survey data, content ratings, measurement data, etc.).  This podcast data is not personal data and may be shared by Podtrac with member advertisers or other third parties in Podtrac’s sole discretion.
 
@@ -76,12 +81,18 @@ You can ask us to stop sending you marketing messages at any time by following t
 
  We may have to share your personal data with the parties set out below:
 
-  * Other companies in our group who provide services to us.  
+  * Other companies in our group who provide services to us.
+
   * Service providers who provide IT and system administration services.
+
   * Professional advisers including lawyers, bankers, auditors and insurers
+
   * Government bodies that require us to report processing activities.
+
   * Market research firms who provide services to us.
+
   * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
+
 
 
 
