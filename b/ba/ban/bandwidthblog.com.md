@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandwidthblog.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628180415id_/http%3A//bandwidthblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidthblog.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428222134id_/http%3A//bandwidthblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bandwidth Blog - South African technology & gadget news
 
