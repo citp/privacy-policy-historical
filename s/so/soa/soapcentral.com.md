@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205044357id_/http%3A//www.soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428091945id_/http%3A//www.soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement | Soap Central
+# Privacy Statement | Soap Central on Soap Central
 
 Thank you for visiting the Soap Central
 
@@ -68,11 +68,11 @@ COMMITTED TO SECURITY
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
 WHAT TO DO IF YOUR INFORMATION NEEDS TO BE UPDATED OR CORRECTED   
-Instructions on how to edit any of your personally identifiable information is available at the point of collection. Should you need to correct or edit any of your personally identifiable information, you may contact us by [Feedback](http://www.soapcentral.com/soapcentral/feedback.php?feedback=Privacy). For verification purposes please include your first name, last name, e-mail address and the password you use on the Soap Central
+Instructions on how to edit any of your personally identifiable information is available at the point of collection. Should you need to correct or edit any of your personally identifiable information, you may contact us by [Feedback](https://www.soapcentral.com/soapcentral/feedback.php?feedback=Privacy). For verification purposes please include your first name, last name, e-mail address and the password you use on the Soap Central
 
 site. 
 
 HOW TO CONTACT US   
 If you have any questions or concerns about the Soap Central
 
-Privacy Policy or its implementation you may contact us by [Feedback](http://www.soapcentral.com/soapcentral/feedback.php?feedback=Privacy). 
+Privacy Policy or its implementation you may contact us by [Feedback](https://www.soapcentral.com/soapcentral/feedback.php?feedback=Privacy). 
