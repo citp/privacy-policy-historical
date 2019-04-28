@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acmehair.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224040818id_/http%3A//www.acmehair.com/art/privacy-policy_a0029.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmehair.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428071740id_/https%3A//acmehair.com/art/privacy-policy_a0029.html) for the most accurate reproduction.*
 
 # Privacy Policy,Help Center
 
