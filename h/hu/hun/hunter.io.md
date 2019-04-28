@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter.io privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105193616id_/https%3A//hunter.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter.io privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428020242id_/https%3A//hunter.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Hunter
 
@@ -29,7 +29,7 @@ This Privacy applies to all services offered by Hunter including:
 
 When you're using our website, we track your usage which includes statistics such as which pages you visit and how long you look at them. This information may include but is not limited to IP address, geolocalisation information, browser type and information about the use of our website, including a history of the pages you view. 
 
-If you create an account, we ask information such including but not limited to: your email, you name or what company you work for. All this information is used to personalize your experience or send you onboarding emails and invoices. In cases of high-risk of fraud, we might ask for a phone number for verification purposes (we never use it for marketing purposes). If you become a paying customer, we will collect your payment card information. 
+If you create an account, we ask information such including but not limited to: your email, your name or what company you work for. All this information is used to personalize your experience or send you onboarding emails and invoices. In cases of high-risk of fraud, we might ask for a phone number for verification purposes (we never use it for marketing purposes). If you become a paying customer, we will collect your payment card information. 
 
 ### When you use our services
 
@@ -41,13 +41,23 @@ When using our services, you might send us some data or data files (for the Emai
 
 If you reach out via email or chat, we keep conversations and other data you might send during those exchanges. When you delete your account, those conversations are removed after a period of up to 6 months. 
 
-### When someone uses the MailTracker or Outreach services
+### When someone uses the MailTracker
 
-Our users can send emails through the MailTracker or our Outreach feature and get tracking information on them. We’ll let them know if we think their emails have been opened, where and how many times. 
+Our users can send emails through their usual Gmail interface and our MailTracker extension will provide tracking information. We’ll let them know if we think their emails have been opened, where and how many times. 
 
-To offer these features, we store some information regarding the identification of emails such as the subject of the email, the date and time in which the email was sent and information of the recipient(s) but we don’t store the body of the concerned email. When possible, we store the data in a pseudonymized form as much as possible. 
+We store the approximate location of the person opening the emails using IP addresses. To respect their privacy, the IP addresses collected this way are pseudonymized making it impossible to precisely localize them. 
 
-We also may store the location of the person opening the emails using IP addresses. To respect their privacy, the IP addresses collected this way are pseudonymized. 
+The recipients, subject or content of emails are never stored or sent to our servers. We only store the identification numbers of emails and conversations (for example “1617567580158230396”). 
+
+### When someone uses the Outreach
+
+When connecting their Gmail or G Suite accounts, our users can send emails through Hunter. Through our dashboard, we’ll provide tracking information and help manage replies. 
+
+As with the MailTracker, we store the location of the person opening the emails using IP addresses. To respect their privacy, the IP addresses collected this way are pseudonymized making it impossible to precisely localize them. 
+
+As Hunter provides an interface to organize outreach efforts, we need to store emails sent (which includes the recipients, subjects and content) and the potential replies they receive. To increase the productivity of our users, certain features might perform searches in their mailboxes; the emails returned will be temporarily stored on our servers. 
+
+The Gmail data used by the Outreach feature is never shared with third-parties. It stays private to the user and his or her team if applicable. 
 
 ### When we parse public web data
 
@@ -153,6 +163,6 @@ The servers we use to store and process personal data are exclusively in the Eur
 
 ## Updates & contact
 
-Date of last revision: June 4, 2018. 
+Date of last revision: January 30, 2019. 
 
-The company behind Hunter, Hunter Web Services, Inc., is incorporated in the United States. You can reach us via email: [contact@hunter.io](mailto:contact@hunter.io) or snail-mail (only USPS): Hunter Web Services, Inc., 427 N Tatnall St #50754, Wilmington, Delaware, 19801-2230, USA. 
+The company behind Hunter, Hunter Web Services, Inc., is incorporated in the United States. You can reach us via email: [contact@hunter.io](mailto:contact@hunter.io) or snail-mail (only USPS): Hunter Web Services, Inc., 2810 N Church St #50754, Wilmington, Delaware, 19802-4447, USA. 
