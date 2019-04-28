@@ -1,113 +1,295 @@
-> *The following text is extracted and transformed from the symplur.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119144252id_/https%3A//www.symplur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symplur.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428025925id_/https%3A//www.symplur.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Symplur
+# Privacy Policy
 
-Symplur commits to strong, secure and transparent privacy practices. Our Privacy Policy explains:
+_Updated May 2018._
 
-  * What information we collect and why we collect it
-  * How we use this information
-  * The choices we offer, including how to access, update and remove information
+Symplur is committed to protecting the privacy of our users (“user”, “you” or “your”).
+
+This Privacy Policy explains how Symplur LLC, a California limited liability company, (“Symplur”, “us”, “we”, “our”), as data controllers, for the purposes of EU data protection law, protects the information (which may include personal data) that we receive or collect through; our website at www.symplur.com (the Site), our subscription services (the Services), other interactions in the course of our marketing, and other activities.
+
+Who does this policy apply to?
+
+This policy applies to:
+
+  * visitors to our Websites (“Website Visitors”);
+  * individuals who register to use the products and services which we market for subscription (the “Service(s)”);
+  * individuals who sign up to receive newsletters and other updates about Symplur products and services;
+  * individuals who are third-party content authors of social media content (“Social Media Authors”),
 
 
 
-We have kept this simple for your understanding, but if you’re not familiar with terms like “cookies”, “IP addresses” or “API”, then feel free to contact us! Your privacy is really important to us, so whether you’re new to Symplur or a long-time user, please take the time to get to know our practices.
+For the purposes of this Policy, the term, “Site(s)”, shall refer collectively to www.symplur.com as well as the other websites that we operate and that link to this Policy.
 
-Effective as of July 1, 2016
+Symplur’s Privacy Policy is designed to assist you in understanding how we collect, use, share and safeguard the information you provide to us through;
 
-Symplur LLC (“Symplur”, “we”, “us”, “our”) provides this “Privacy Policy” to inform our users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information that we receive when they visit and use the [www.symplur.com](https://www.symplur.com/) site and any websites owned by Symplur (collectively, the “Sites”), and when they use any of Symplur’s services. For ease of reading in this Privacy Policy, the Sites and our services are collectively referred to as the “Service(s).” This Privacy Policy applies only to information that you provide to us when you use the Sites or Service.
+  * your use of our Site and/or Services;
+  * your interactions with us or our business partners, contractors and suppliers;
+  * the information we receive regarding Social Media Authors,
 
-## Symplur’s Service and Social Data
 
-Customers of our Service (“Clients”) may use our Service to collect information from third-party applications and services publically available in connection with social media (“Social Data”). Social Data may include, without limitation, information about the identity of social media users (such as nickname, name, bio, homepage, etc.), as well as information about information shared in public, and the actions that they take while using social media. The Symplur Service allows Clients the ability to pass Social Data into Symplur’s Service, and, at each Client’s direction, out from Symplur into a variety of third-party applications and services, and from one application or service to another. Symplur may also store this data at the instruction of our Client. Symplur is not responsible for inspecting the Social Data that it collects, and collects Social Data automatically under the direction of its Clients when providing our Service.
 
-Each of the social media networks “Social Data Providers” has its own policies regarding the collection and use of your information. This Privacy Policy does not apply to websites, applications, or services that display or link to different privacy statements. This Privacy Policy also does not apply to Social Data. We recommend that you review the policies of the Social Data Providers through whom your information may be collected and submitted to us. We are not responsible for our Clients’ privacy policies or actions with respect to Social Data. The use of Social Data provided by our Clients in connection with our Services is subject to the written agreement between Symplur and Client.
+as well as to set out the rights you have to control the use of your information, and thereby assist you in making informed decisions when using our Site and Services.
 
-## Collection of Personally Identifying Information
+This Policy (and where it relates to our Services; together with our Terms and Conditions) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
-In the course of your use of the Services, you may provide us with certain personally identifying information that can be used to provide you the Service, to identify and contact you, and to set up and administer your account (“Personally Identifying Information” or “PII”). PII may include, but is not limited to, your name, phone number, credit card or other billing information, email address, and postal addresses. You may at any time refuse to provide the PII that we request; however, this may limit our ability to provide the Services to you.
+This Privacy Policy does not apply, however, to Symplur employees, employment applicants, suppliers, or distributors except where they are acting in a ”user” capacity.
 
-## How We Use Personally Identifying Information
+**Important Note for European Users**
 
-PII is used for the following purposes: (i) to provide, administer and improve our Services, (ii) to better understand your needs and interests, (iii) to fulfill requests you may make, (iv) to personalize your experience, (v) to provide Service announcements, (vi) to provide you with further information and offers from Symplur or our affiliates, and (vii) protect, investigate and deter against fraudulent, harmful, unauthorized or illegal activity.
+Information submitted by you will be stored, processed, and used by us and our third party service providers who help us to deliver our services and operate our business.
 
-We appreciate that the language above is a pretty high level description – so below we explain in more detail where we collect information and how we use the information that we collect.
+Please note that information covered by this Privacy Policy will be hosted and stored in the United States. The United States has data protection laws that may not be consistent with those of other countries, including those in the European Union (EU).  We will take all reasonable steps to ensure that your privacy rights are protected in accordance with this Privacy Policy.
 
-## Website Visitors
+By using the Site or our Services, you acknowledge that you have read and understood the terms of this Privacy Policy and the use of personal data described.
 
-Like many websites, we collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access our Site. We may use both session cookies and persistent cookies to identify that you’ve logged in to the Site and to tell us how and when you interact with our Site. We may also use cookies to monitor aggregate usage and web traffic routing on our Site and to customize and improve our Service. We may link this information to your user account. Unlike persistent cookies, session cookies are deleted when you log off from the Site and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of the Service. We may also use cookies in connection with third party services to run analytics on our Site; such cookies may collect PII about users.
+## Who We Are
 
-Symplur does not respond to “Do Not Track” browser signals or other similar mechanisms. Third parties may collect personal information about your online activities over time and across sites when you visit the Sites or use the Service.
+Symplur is a healthcare social media analytics company that promotes deeper understanding of healthcare by strengthening the voices of those who need to be heard with insights from the Healthcare Social Graph®.
 
-We may employ and/or our third party tracking utility company may employ software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by informing us what content is effective. These gifs (or other tracking technology) may be included in or associated with e-mails or other communications that you receive from us (or our partners) in order to help us track your response and interests and to deliver you relevant content and services. We may tie information gathered by clear gifs or other tracking technology to PII.
+We have offices in the greater Los Angeles region in California, USA. Our headquarters information is listed below in the Contact Us section.
 
-Our servers may automatically record certain information about how a person uses our Site (we refer to this information as “Log Data”), including both account holders and non-account holders. Log Data may include information such as a user’s Internet Protocol (IP) address, device and browser type, operating system, the pages or features of our Site to which a user browsed and the time spent on those pages or features, the frequency with which the Site is used by a user, search terms, the links on our Site that a user clicked on or used, and other statistics. We use this information to administer the Service and we analyze (and may engage third parties to analyze) this information to improve and enhance the Service by expanding its features and functionality and tailoring it to our users’ needs and preferences.
+## Information We May Collect about You
 
-## Behavioral Targeting / Re-targeting
+We may collect and process the following information about you:
 
-We may partner with a third party ad network to either display advertising on our Site or to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on our Site and other Web sites to provide you targeted advertising based upon your interests.
+**Information we collect about you**
 
-## Purchase Information
+  *     * _Website Visitors and Attendees_ – 
+      * We log standard technical information about visitors to our Site, such as your IP address, interactions on different pages, and browser information.  Our Site may use common tools, such as cookies, Javascript and web beacons to collect this information. See our [Cookie Policy](https://web.archive.org/cookie-policy/) for more information;
+      * If you express interest in obtaining additional information about our services or if you sign up with a Symplur Account, we may also collect contact information (such as your name, job title, email address, work mailing address and business telephone number) as well as company information (such as company name, industry, location, annual revenue) that you provide “by completing forms on the Site, including if you download content, register for an event or webinar, upload or submit any material via the Site, submit a request for a demo or ask us for more information;
+      * We may also collect data about how you interact with messages we send to you, for example; whether you opened an email and how you respond to periodic email and website campaigns;
+      * We collect information you provide to us through communications you send to us, for example; to report a problem or to submit queries, concerns or comments regarding the Site or its content;
+      * We may also collect other data directly from you, from time to time.
 
-If you purchase subscriptions to our Service from our Site, we request that you provide your name, email address, billing address, credit card information, telephone number and other information necessary to open your account and complete the transaction. We do not collect or store your full credit card information (although we may store the last four digits for verification purposes). Our credit card processing service provider will collect and store full payment card information from you to pay for your Service.
 
-## Children
+  * _Customer_ – In order to provide the Services, we require our customers to provide us with certain contact information (such as company name, contact names, email addresses, mailing address, phone numbers, job titles and Authorized Users of the Services). We may also require financial/billing information (billing name, email address, mailing address, and credit card numbers) from our customers.
 
-Because the nature of our Service does not appeal to children under the age of 13, Symplur does not knowingly acquire or receive PII from children under 13. If we later learn that any user of our Service is under the age of 13, we will take appropriate steps to remove that user’s information from our account database and will restrict that individual from future access to the Service.
 
-## Testimonials
+  * _Authorized Users_ – 
+    *       * Additionally, we collect user and contact information (such as your name, email address, job profile, title, user permissions and password) about the individuals who are authorized to use our Services on behalf of our Customers (“Authorized Users”). If you are not an administrative user for your account, the same data about you may be provided by a colleague or other third party;
+      * Our Services may also collect technical information from the computers of Authorized Users through the use of cookies, Javascript and web beacons. This information includes the IP address, browser information and information about Authorized Users’ actions within our Services. See our [Cookie Policy](https://web.archive.org/cookie-policy/) for more information;
+      * We collect data about you when you use any part of our Services. For example, if you are logged in to your account, we will collect data as to how often you use the Services, which Services you use, what queries you created or amended, user permission settings and activities, API usage, and other data about how you interact with the Services;
+      * We may also collect data about how you interact with messages we send to you, for example; whether you opened an email or read an in-app message and how you respond to periodic surveys;
+      * We collect information you provide to us through communications you send to us, for example; to report a problem or to submit queries, concerns or comments regarding the Services; if you contact our support services, we will collect the data we need to categorize your question and respond to it. We also use this data to track potential issues with our Services and customize our support responses to better serve you;
+      * We may also require financial/billing information (billing name, email address, mailing address, and credit card numbers) from our customers, which may include Authorized Users’ information;
+      * We may also collect other data directly from you, from time to time.
 
-We display personal testimonials of satisfied customers on our Site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, please contact us. If you provide us with comments or feedback we may collect your name and email address, as well as any other content included in the e-mail to send you a reply and improve our Service.
 
-## Social Media Widgets
+  * _Social Media Authors_ – Finally, our Services themselves collect, process and store information, that may include personal information, from a variety of publicly available online sources, such as social networking sites, blogs, forums and news websites. This information is sourced only from content that has been made publicly available on the Internet and is used solely to provide our Services. The only parts of this Policy that are applicable to Third Party Content are contained in the Third Party Content and Social Media Authors section below.
 
-Our Site may include social media features, such as the Twitter “tweet” button and widgets, such as the “follow” button. These features may collect your PII and track your use of the Site. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such functionality.
 
-## Mailing List Information
 
-You may choose to submit your email address or other contact information via our Site. We may use this information to send you news about Symplur-related services, products or promotions. We may use one or more service providers to administer these messages, but we do not share your email address with spammers or any other third parties without your permission. We will give you the ability to opt out of marketing-related emails by logging in and changing your account settings or by clicking on a link at the bottom of each such e-mail. In some of our communications, we use tracking means, such as a “click-through URL” linked to content on the Site. We track this data to help us measure the effectiveness of our customer communications.
+It is always your choice whether or not to provide personal information. However, if you should choose to withhold requested information, you may not be able to use certain features of the Site or we may not be able to provide you with certain services.
 
-## Aggregate Information
+**Information we receive from other sources**
 
-Symplur may collect and analyze non-PII information about the performance of its Service. From time to time, Symplur may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its Service.
+Information may be gathered from our business partners and third party sources, including without limitation, our third-party service providers, publicly available data, other companies and referrals. Our Sites and Services also use cookies and other automated collection means.  With regard to each of your visits to our Site, our server may automatically collect certain usage information by means of cookies and/or other similar technologies. This information could include your IP address, cookie information, browser information, the page you request, and other website usage patterns.  For more detail on the cookies and similar technologies we use and how you can control them, see our [Cookie Policy](https://web.archive.org/cookie-policy/).
 
-## Disclosure to Third Parties
+## Our Lawful Basis
 
-We do not share or sell the Personally Identifying Information that you provide us with other organizations without your express consent. Under this Privacy Policy you hereby consent to sharing under the following circumstances:
+We will only process personal data in a way that is compatible with and relevant to the purpose for which it has been collected. To the extent necessary for those purposes, we will take reasonable steps to ensure that the Information is accurate, complete, current and reliable for its intended use.
 
-Service Providers. We may employ third party companies and individuals to administer and provide the Service on our behalf, (including, without limitation, bill and credit card payment processing, maintenance, administration, support, hosting and database management services). These third parties may have access to your PII only to perform these tasks on our behalf in accordance with this Privacy Policy and are obligated not to disclose or use it for any other purpose.
+**EU Users & Data Subjects: Our Lawful Basis for Using Personal Data**
 
-Compliance with Laws and Law Enforcement; Protection and Safety. Symplur may disclose information about you to government or law enforcement officials or private parties as required by law, and disclose and use such information as we believe reasonably necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, unauthorized or harmful.
+The data protection law in Europe only permits processing under certain prescribed lawful bases.  For our EU users and data subjects we have been careful to ensure we have a lawful basis for all the personal data we process. Our lawful bases include:
 
-Business Transfers. Symplur may sell, transfer or otherwise share some or all of its business or assets, including your personal information, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankruptcy, in which case we will require the recipient to honor this Privacy Policy. You acknowledge that such transfers may occur and that any acquirer or successor of Symplur or its assets may continue to use your personal information as set forth in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site or Service of any change in ownership or resulting change in uses of your personal information, as well as any choices you may have regarding your personal information.
+  * Performing the contract we have with you: In certain circumstances, we need your personal data to comply with our contractual obligation to deliver our products or services to you.  For example, if you want to use our products or subscribe to our Service, we need your name and contact details so we can communicate with you.
+  * Legitimate interests: This is a technical term in data protection law for our commercial interests where these have been weighed against the interests or rights and freedoms of the individual and it has been decided that our interests are not outweighed by those rights and freedoms. We sometimes require your personal data to pursue our legitimate interests in a way which might be reasonably expected as part of running our business and which does not materially impact your interests, rights.  For example, we analyze how users interact with our Site and Services so we can better understand which elements are working well and which are not working well.
+  * Consent: The legal basis for our processing of data may also be where we have your consent (for example where consent is required to send certain marketing communications).
+  * Compliance with a legal obligation: Sometimes the law says we need to collect and use your data.  For example, we may pass on details of individuals involved in fraud or other criminal activity to law enforcement authorities and tax laws require us to retain records of orders and payments for our Services, which can include contact details of individuals within our corporate customers.
 
-## Changing or Deleting Your Information
 
-All Symplur account holders may review, update, correct or delete the PII in their registration profile. Removing your information may limit our ability to provide the Service to you. If you completely delete all such information, your account will be deactivated and you will lose access to the Service. You may also contact us directly to accomplish the foregoing or if you have additional requests or questions. We’ll take reasonable steps to provide, modify or delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. We may limit or reject your request in certain cases, including without limitation where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, where the rights of other persons would be violated, or as required by law. We will respond to all requests within 30 days (or less!).
 
-Access to Data Controlled by our Social Data Providers. Symplur has no direct relationship with the individuals whose personal data is contained within the Social Data processed by our Service. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate personal data provided by our Social Data Providers should direct their query to Symplur’s Social Data Providers. If the Social Data Providers requests Symplur to remove or modify the data, we will respond to their request within 30 days. You may also contact us if you have additional questions or concerns.
+We may communicate with you by phone, in writing, via email, or other means available on or through the Site and Services (for example, via pop-up messaging or push notifications). We may communicate transactional or service messages to you, such as welcoming you to our Services or informing you of scheduled downtime. We may also send you marketing communications, as described below.
 
-## Changes to Privacy Policy
+## How Your Information May be Used
 
-We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy you will be notified via email or otherwise in some manner through the Service that we deem reasonably likely to reach you (which may include posting a new privacy policy on our Site – or a specific announcement on this page or on our blog).
+We use information held about you for a wide range of purposes, including:
 
-Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Service (or as otherwise indicated at the time of posting). In all cases, your continued use of the Service or Site after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
+  * to provide, operate, maintain, improve, and promote the Site and Services; including any obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * to process and complete transactions, and send you related information, including purchase confirmations and invoices; as well as verify and carry out financial transactions in relation to payments you make to us;
+  * to send transactional messages, including responses to your comments, questions, and requests; provide customer service and support; and send you technical notices, updates, security alerts, and support and administrative messages;
+  * to provide you with information about services, products or programs we feel may interest you, such as new products and services, features, a/b testing opportunities, surveys, newsletters, offers, promotions; and provide other news or information about us and our partners. You can opt-out of receiving marketing communications from us by contacting us through the Contact Us options provided below or following the unsubscribe instructions included in our marketing communications. In order to provide our Services to you, you cannot opt out of receiving transaction or service messages from us;
+  * to administer our Site and Services under our terms and for internal operations, including troubleshooting, account management, and, in our legitimate interests, data analysis, work prioritization, testing, research, tracking users’ movements, and gathering broad demographic information for aggregate use for the improvement of our Site and Services so that we can provide all of our users with a better experience;
+  * to ensure in our legitimate interests that content from our Site and Services are presented in the most effective manner for you and for your computer;
+  * as part of our legitimate efforts to keep our Site and Services safe and secure, including to investigate and prevent fraudulent transactions, unauthorized access to the Site and Services, and other illegal activities;
+  * for our legitimate interest of measuring or understanding the effectiveness of advertising we serve to you and others, and to personalize the Site and Services, including by providing features or advertisements that match your interests and preferences;
+  * to notify you about changes to our services or policies; and
+  * for other purposes for which we obtain your consent.
+
+
+
+We may combine the information you give to us with the information we collect about you. We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).  We may also use data to conduct research and development.
+
+## Information Sharing
+
+We do not sell or trade personally identifiable information about our Site visitors or our Customers or their Authorized Users.
+
+We may share your personal data with:
+
+  * Trusted third parties, including our business partners, sub-contractors, and suppliers who provide services to us (including handling and delivering email communications, newsletters, and website hosting services). These third parties assist us in operating our Site and Services, conducting our business, or servicing you and have agreed to keep this information confidential and use such information only for purposes relating to their services for us;
+  * Other Users on the Site: From time to time, we may post testimonials on the Site that may contain personal information. We obtain your consent to post your name along with your testimonial. If you wish to update or delete your testimonial, you can contact us through the Contact Us options noted below;
+
+
+  * Social networking and other websites: the Site or Service may allow you to post information on social networking sites.  We do not share your personal data to such websites unless you direct the Site or Service to share it. The use of the information by such social networking sites will be governed by their privacy policies and we do not control their use of shared data;
+  * Analytics and search engine providers that assist us in the improvement and optimization of our Site and Services. See our [Cookie Policy](https://web.archive.org/cookie-policy/) for more information;
+  * Our prospects or customers: If you choose to be a reference to our prospects and customers regarding our products and services, we will obtain your consent to provide your contact information to them. If you wish to update or remove your reference information, you can contact us through the Contact Us options noted below.
+
+
+
+We may also share your personal data under the following circumstances:
+
+  * Merger, sale, or other asset transfers: As a result of the sale, merger, consolidation, acquisition, change in control, transfer of substantial assets, reorganization or liquidation of Symplur.  Your personal data may be transferred as part of such a transaction (as one of the transferred assets) as permitted by law and/or contract;
+  * As required by law: If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and other agreements with you; or to protect the rights, property, or safety of Symplur, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection, credit risk reduction, and law enforcement purposes;
+  * With your consent: We may also disclose your information, including your personal information, where you have specifically provided your consent for the disclosure.  You may withdraw consent at any time by clicking the unsubscribe link at the bottom of any communication we send to you, or by using one of the Contact Us options noted below.
+
+
+
+## Marketing Choices (Opt-Out/Discontinue)
+
+You can tell us not to contact you with information regarding our products and services or those of third parties, either at the point such information is collected on the Site (by ticking the relevant box) or, where you do not wish for us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you. You can also exercise the right at any time by contacting us (using the Contact Us details at the end of this privacy policy).
+
+Please keep in mind however, that regardless of these preferences regarding promotional contacts,, we may contact you for other reasons connected to the service you request or receive, such as those related to:
+
+  * an order for a product or a service you placed;
+  * an inquiry you made;
+  * a newsletter you may have subscribed to;
+  * a legally required notice; and
+  * any other necessary administrative, service or maintenance notices relating to your subscription or account.
+
+
+
+We may also retain a record of any stated objection by you to receiving Symplur updates for the purpose of ensuring we can continue to respect your wishes and not contact you further.
+
+## External Links
+
+This Site may contain links to third-party websites. These links are provided solely as a convenience to you and not as an endorsement by Symplur of the contents on such third-party websites. Symplur is not responsible for the privacy practices or content of linked third-party sites and does not make any warranty or representation regarding the content or accuracy of materials on such sites. If you decide to access linked third-party websites, you do so at your own risk. Please review the privacy policies of these websites before submitting any personal data to these sites.
+
+## Blogs/Comments/Social
+
+If you comment on a blog post on our Sites (“Interactive Area”), you should be aware that any personal data you submit there can be read, collected, or used by other readers of these blogs, and could be used to send you unsolicited messages. We are not responsible for the personal data you choose to submit in these blogs.  To request removal of your personal information from an Interactive Area, you may contact us through the Contact Us options noted below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Security
 
-The security of your PII is important to us. We follow generally accepted industry standards to protect the PII submitted to us, both during transmission and once we receive it (including encrypted storage, firewalls and password protection). Each of our employees is aware of our security policies, and your information is only available to those employees who need it to perform their jobs. No method of transmission over the Internet using industry standard technology is 100% secure. Therefore, we cannot guarantee the absolute security of your information.
+We place great importance on the security of all personal data associated with our users.  We have security measures in place to attempt to protect against the loss, misuse, unauthorized access, disclosure, alteration, or destruction of personal data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized personnel have access to personal data. While we cannot ensure or guarantee that loss, misuse, unauthorized access, disclosure, alteration, or destruction of information will never occur, we use all reasonable efforts to prevent it.
 
-## International Transfer
+You should bear in mind that submission of information over the Internet is never entirely secure. We cannot guarantee the security of information you submit via the Site, or Services, while it is in transit over the Internet and any such submission is at your own risk.
 
-Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Symplur, please be advised that we transfer PII to the United States and process it there.
+You are responsible for maintaining the confidentiality of any user name or password that you use. It is advisable to logoff the Site or Service and close your browser when you have finished your user session to help ensure others do not access your personal data.
 
-## Links to Other Sites and Services
+## Storage and Transfers of Your Information
 
-The Service may contain links to other websites and services. The fact that we link to a website or service is not an endorsement, authorization or representation that we are affiliated with that third party. We do not exercise control over third party websites or services, and are not responsible for their actions. Other websites and services follow different rules regarding the use or disclosure of the PII you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit and services you use.
+Your personal data which we collect is sent to and stored on secure servers located in the United States. Such storage is necessary in order to process the information. Personal data submitted may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see Information Sharing), which may be situated outside the European Union (EU) and may be processed by staff operating outside the EU. Where we transfer your personal data, we will take all reasonable steps to ensure that your privacy rights continue to be protected.
 
-## Voluntary Public Disclosure of Personal Information
+Where personal data is transferred in relation to providing our services we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy, and is subject to appropriate safeguards, such as relying on a recognized legal adequacy mechanism which may include by entering into EC approved standard contractual clauses relevant to transfers of personal data (see <https://ec.europa.eu/info/law/law-topic/data-protection_en>).
 
-We may make available on our Site, or link to, certain opportunities for our members and other users to share information online (e.g., on message boards, in chat areas, in file uploads, through events, etc.). Please be aware that whenever you voluntarily disclose personal information online, that information becomes public and can be collected and used by others. We have no control over, and take no responsibility for, the use, storage or dissemination of such publicly-disclosed personal information. By posting personal information online in public forums, you may receive unsolicited messages from other parties.
+## Retention and Deletion of Personal Data
 
-## Questions?
+We will only keep your personal data as long as necessary to fulfill the purposes we collected it for, including the purposes of satisfying any legal, accounting, or reporting requirements. We may need to retain certain personal data even once the purpose of using data under this Policy has been completed to enforce our terms, for fraud prevention, to identify, issue, or resolve legal claims, for proper record keeping purposes and/or as required for our business operations, or by applicable laws. We may retain certain information beyond this time for historical or statistical research purposes. We may also retain a record of any stated objection by you to receiving our updates for the purpose of ensuring we can continue to respect your wishes and not contact you further.
 
-If you have any questions or concerns at all about our Privacy Policy, please feel free to [contact us](https://www.symplur.com/contact/)!
+## Your Rights (EU Users)
+
+Under the General Data Protection Regulation (GDPR), individuals located in the EU have the right under certain circumstances:
+
+  * to be provided with a copy of their personal data held by us;
+  * to request the update, correction, or erasure of any of their personal data held by us;
+  * to object to any further processing of their personal data, including the right to object to marketing communications;
+  * to request that we restrict the processing of their personal data;
+  * to request that the data they have provided be transferred to a third party; and
+  * to withdraw consent: where the basis of processing their personal information is based on consent, they have the right to withdraw that consent at any time.
+
+
+
+You can exercise the rights listed above at any time by contacting us at privacy@symplur.com or through the Contact Us options noted below.
+
+You will not have to pay a fee to access your data or to exercise any other rights.  We may, however, charge a fee if we believe your request is unfounded or excessive.
+
+We may need to request specific information from you to enable us to confirm your identity and to ensure that you have the right to access your personal data (or to exercise any of your other rights).  This is a security measure to ensure that your personal data is not disclosed to any person who does not have the right to receive it. We may also contact you to ask you for further information in relation to your request, in order to process your request.
+
+We aim to respond to all legitimate requests within 30 days.  Occasionally, it may take us longer than 30 days to process your request pending the extent and complexity of your request.  In this case, we will notify you and keep you updated.
+
+If your request or concern is not satisfactorily resolved by us, you may approach your local data protection authority (see http://ec.europa.eu/justice/dataprotection/internationaltransfers/transfer/index_en.html) that can provide further information about your rights and our obligations in relation to your personal data. In the UK, this is the Information Commissioner (<https://ico.org.uk/>).
+
+## Third Party Content and Social Media Authors
+
+Symplur receives personal data from third parties, such as Twitter, and other online public blogs and forums.  We are required to comply with our contract with them or their public terms and conditions.
+
+  * Our Services collect, use, process and store information that has been made publicly available on the Internet (“Third Party Content”). In general, the Third Party Content can be found using a standard Internet search engine or by visiting the applicable websites directly. We do not have any ownership interest or control over the Third Party Content or any direct relationship with those persons who post such Third Party Content. We obtain Third Party Content through agreements with certain data providers, who either have a direct relationship with Social Media Authors or who search and index publicly available information (including data) from the Internet. We do not attempt to gain unauthorized access to any information and do not circumvent any passwords or other technology protections. We only gather Third Party Content that is made available to the public by the site or by the individual Social Media Author.
+  * Our Services provide analytics that allow our customers to aggregate and analyze the Third Party Content. Our Services may also be used by our customers to collect certain personal information about individual Social Media Authors and their online activities, such as interactions with a customer’s website and/or in relation to a customer’s products and services. We require our customers to comply with all applicable legal requirements in using the Third Party Content, including any applicable privacy laws.
+
+
+
+**Information we collect about you**
+
+The data we collect varies depending on the source of the data, what the source or platform chooses to make available to us, and what you choose to make publicly available. It could include the following:
+
+  * your name, username, handle, or other identifier;
+  * the content of the information you have published via that name, username, handle, or other identifier, including comments, expressions, opinions, posts, etc.;
+  * your profile picture or other images or videos that you post or interact with;
+  * your job title or profession (including category of profession, for example “journalist”);
+  * your interests;
+  * your location;
+  * any other information you publish on an Internet website we search or on a third party platform that provides us with data.
+
+
+
+In addition to the data you make available about yourself, we may also use that information to infer other data about you in the context of a wider conversation. For example, based on your name, we may infer your gender and use it in an aggregated display as part of our Services. Equally, based on the content of one of your posts, we may infer some of your interests, your profession, your location, etc.
+
+We may also analyze the content of the data you publish and provide our analysis to our customers. For example, if you publish a Tweet stating that you like a certain conference, we may mark that Tweet as having a positive sentiment toward that conference.
+
+**Uses of the Information We Collect about You**
+
+The legal basis for the data that we process is pursuant to our legitimate interests. Our legitimate interests are in providing our Services to our customers, which includes providing technology that empowers our customers to act with more certainty in a way that is easy-to-access and use.
+
+Additionally, your information is used in the following ways:
+
+  * Allow our customers to learn more about their brand, their customers, their competitors, and other information available on the social web that is relevant to our customers;
+  * In ways related to, but ancillary, to the Services that we offer. For example, we may use the data to comply with our legal obligations or enforce our rights, including the legal obligations or enforcement of rights of third parties;
+  * We may also use the data to improve our Services.
+
+
+
+Although it is the responsibility of our customers to use our Services properly, we do put in place safeguards to protect your data. We require our customers to comply with applicable law, including data privacy law, when using our Services. We also prohibit our customers from using our Services, including your data, in a way that is outside of your reasonable expectations.
+
+When we infer data about you, we do so automatically. The inferences are based on algorithms that analyze the data that you have posted. We do not make any decisions about you based on the data that we process about you (inferred or not). In other words, we only make the data available to our customers. It is up to our customers what (if anything) to do with the data and any inferences about the data.
+
+We will only process data about you which may be deemed sensitive or part of a special category under data protection law which has been made public and available to us by virtue of it being public.
+
+**Sharing your data**
+
+In addition to sharing your data with our Customers, we may share your data as described in the Information Sharing section (with the exclusion of Site testimonials and prospect or customer references) of this Policy.
+
+We will store and transfer your data as described in Storage and Transfers of Your Information.
+
+**Retention of your data**
+
+In relation to our legitimate interests as it relates to historical and statistical research, we retain your data for as long as it is made publicly available.
+
+**Privacy practices of third parties**
+
+This Policy only addresses our collection, processing, and use (including disclosure) of your data. Our customers and other third parties that may have access to your data can use it in other ways in accordance with their own privacy practices and applicable law. We encourage you to familiarize yourself with the privacy statements provided by any platform you use to publish any information.
+
+**Your Rights**
+
+As a Social Media Author, you are the source of the data. You have control over that data within the platform or forums that you choose to publish it on (e.g. Twitter, and other blogs, forums, etc.), including through using the privacy settings made available to you by that platform or forum. In addition to whatever rights you have via your relationship with any publishing platform, you also have certain rights relating to your data that we process, as set out in this Policy.
+
+If you believe we have information from you that you do not want us to have, please Contact Us as described below and contact the social media provider to whom you initially gave that information. We will delete your content upon your request, if we are able to do so.
+
+If you reside in the European Union (EU) or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by contacting us through the Contact Us options described in this Policy (See Your Rights (EU Users) above).
+
+## Children’s Privacy
+
+We are committed to protecting the online privacy of children.  In accordance with the Children’s Online Privacy Protection Act in the United States and the GDPR in the EU, we will not knowingly collect or solicit any personally identifiable information from or provide any services to children under the age of 16.  Our Site and its content are not directed at children under the age of 16. If we learn that we have collected personal data from a child under the age of 16 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 16, please contact us at privacy@symplur.com.
+
+## Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. The amended Privacy Policy will be posted on the Site. Please check this page regularly for changes to this Privacy Policy. If we make any material changes to this Privacy Policy we will notify you before they take effect either through the Site or by sending you a notification.  Any such material changes will only apply to personal data collected after the revised Privacy Policy takes effect.
+
+## Contact Us
+
+If you have any questions or concerns regarding our Privacy Policy or any questions about the privacy and security practices of Symplur, you can contact us using the methods listed below.
+
+Email questions about our privacy and security practices to: privacy@symplur.com
+
+Online request through: [Contact Us](https://web.archive.org/contact/)
