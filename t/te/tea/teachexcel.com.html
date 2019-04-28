@@ -1,52 +1,59 @@
-<!--The following is the downloaded HTML source of the teachexcel.com privacy policy that was archived on 2016-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130175723id_/http%3A//www.teachexcel.com/privacy/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teachexcel.com privacy policy that was archived on 2019-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190428092636id_/https%3A//www.teachexcel.com/privacy/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="excel, tutorials, help, walkthroughs, videos, microsoft, ms, privacy, policy, administrator">
 <meta name="description" content="Privacy Policy for teachexcel.com.">
 
 
 <title>Privacy Policy - TeachExcel.com - Excel Video Tutorials Free</title>
  
-<link href="http://www.teachexcel.com/main.css" rel="stylesheet" type="text/css">
-<link href="http://www.teachexcel.com/excel-help/css/common-eh.css" rel="stylesheet" type="text/css">
-<link href="http://www.teachexcel.com/includes/css/common_fluid-v1.css" rel="stylesheet" type="text/css">
+<link href="//www.teachexcel.com/main.css" rel="stylesheet" type="text/css">
+<link href="//www.teachexcel.com/excel-help/css/common-eh.css" rel="stylesheet" type="text/css">
+<link href="//www.teachexcel.com/includes/css/common_fluid-v1.css" rel="stylesheet" type="text/css">
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" async="async"></script>
+<script>
+// Check if jquery is loaded from the google CDN and, if not, load it from local version.
+window.jQuery || document.write('<script src="//www.teachexcel.com/libs/js/jquery-2.1.4.min.js" async="async">\x3C/script>')
+</script><script src="//www.teachexcel.com/libs/js/jquery-2.1.4.min.js" async="async"></script>
 
-<script type="text/javascript" src="http://www.teachexcel.com/includes/code/js/general_functions.js"></script>
-<script type="text/javascript" src="http://www.teachexcel.com/talk/code/js/common.js"></script>
+<script type="text/javascript" src="//www.teachexcel.com/includes/code/js/general_functions.js"></script>
+<script type="text/javascript" src="//www.teachexcel.com/talk/code/js/common.js"></script>
 
-<link href="http://www.teachexcel.com/store/components/css/store.css" rel="stylesheet" type="text/css"><script>
+<link href="//www.teachexcel.com/store/components/css/store.css" rel="stylesheet" type="text/css"><script>
+// Dynamic loading of the tinymce after the page loads
+window.addEventListener("load", selectAllFeature_Add);
 
-jQuery(document).ready(function ($) {
+function selectAllFeature_Add() {
 	$('pre.prettyprint').each(function(index, element) {
 		$(this).prepend('<div class="code_select_all_container" style="display:block;"><span class="code_select_all_text nocode" onclick="SelectText(this);">Select All</span></div>');
 		$(this).css('padding-top','2px');
 	});
-});
 
-jQuery.fn.selectText = function(){
-    var doc = document
-        , element = this[0]
-        , range, selection
-    ;
-    if (doc.body.createTextRange) {
-        range = document.body.createTextRange();
-        range.moveToElementText(element);
-        range.select();
-    } else if (window.getSelection) {
-        selection = window.getSelection();        
-        range = document.createRange();
-        range.selectNodeContents(element);
-        selection.removeAllRanges();
-        selection.addRange(range);
-    }
+	jQuery.fn.selectText = function(){
+	    var doc = document
+	        , element = this[0]
+	        , range, selection
+	    ;
+	    if (doc.body.createTextRange) {
+	        range = document.body.createTextRange();
+	        range.moveToElementText(element);
+	        range.select();
+	    } else if (window.getSelection) {
+	        selection = window.getSelection();        
+	        range = document.createRange();
+	        range.selectNodeContents(element);
+	        selection.removeAllRanges();
+	        selection.addRange(range);
+	    }
+	};
+
 };
 
 function SelectText(a){
@@ -67,7 +74,7 @@ function add_favorite(item_id){
 
     $.ajax
     ({ 
-        url: 'http://www.teachexcel.com/ajax.php?what=add_fav',
+        url: '//www.teachexcel.com/ajax.php?what=add_fav',
         type: 'POST',
 		data: {
 			id: item_id
@@ -135,7 +142,7 @@ function remove_favorite(item_id){
 
     $.ajax
     ({ 
-        url: 'http://www.teachexcel.com/ajax.php?what=remove_fav',
+        url: '//www.teachexcel.com/ajax.php?what=remove_fav',
         type: 'POST',
 		data: {
 			id: item_id
@@ -206,7 +213,7 @@ function add_fav_category(){
 
     $.ajax
     ({ 
-        url: 'http://www.teachexcel.com/ajax.php?what=fav_add_cat',
+        url: '//www.teachexcel.com/ajax.php?what=fav_add_cat',
         type: 'POST',
 		data: {
 			title: cat_title,
@@ -286,7 +293,7 @@ function remove_fav_category(id){
 
     $.ajax
     ({ 
-        url: 'http://www.teachexcel.com/ajax.php?what=fav_remove_cat',
+        url: '//www.teachexcel.com/ajax.php?what=fav_remove_cat',
         type: 'POST',
 		data: {
 			id: id
@@ -357,7 +364,7 @@ function edit_fav_category(id){
 
     $.ajax
     ({ 
-        url: 'http://www.teachexcel.com/ajax.php?what=fav_edit_cat',
+        url: '//www.teachexcel.com/ajax.php?what=fav_edit_cat',
         type: 'POST',
 		data: {
 			id: id,
@@ -428,7 +435,7 @@ function add_fav_to_category(tutorial_id, category_id){
 
     $.ajax
     ({ 
-        url: 'http://www.teachexcel.com/ajax.php?what=fav_add_to_cat',
+        url: '//www.teachexcel.com/ajax.php?what=fav_add_to_cat',
         type: 'POST',
 		data: {
 			tid: tutorial_id,
@@ -490,14 +497,18 @@ function add_fav_to_category(tutorial_id, category_id){
 
 
 //remove favorite from category
-function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){ 
+function remove_fav_from_category(tutorial_id, category_id, cat_page){ 
+	
+	//default value for cat_page -> default = 0
+	//doing it this way instead of above allows it to work in more browsers (screw you IE)
+	cat_page = typeof cat_page !== 'undefined' ? cat_page : 0;
 	
 	//show the loading sign
 	$('#loading_img_fav_addremove_tut_cat_' + tutorial_id + category_id).show();
 
     $.ajax
     ({ 
-        url: 'http://www.teachexcel.com/ajax.php?what=fav_remove_from_cat',
+        url: '//www.teachexcel.com/ajax.php?what=fav_remove_from_cat',
         type: 'POST',
 		data: {
 			tid: tutorial_id,
@@ -568,6 +579,7 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
 
 
 </script>
+
 <script type="text/javascript">
   (function() {
     var useSSL = 'https:' == document.location.protocol;
@@ -586,6 +598,24 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
     googletag.enableServices();
   });
 </script>
+
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9922184077056116",
+    enable_page_level_ads: true
+  });
+</script><!-- Global site tag (gtag.js) - Google Ads: 1011047809 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1011047809"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1011047809');
+</script>
+    
 
 </head>
 
@@ -618,7 +648,7 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
         
             <div id="login_bar_v2_top_form">
                 <form id="login_form" method="post" action="/login/">
-                    <input type="hidden" name="curpage" value="http://www.teachexcel.com/privacy/privacy.php">
+                    <input type="hidden" name="curpage" value="https://www.teachexcel.com/privacy/privacy.php">
                     
                     <div class="login_bar_element_container">
                     	Email: <input class="login_bar_input_field" name="email" type="text">
@@ -630,7 +660,7 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
                     
                     <div class="login_bar_element_container">
                     	<input class="login_bar_login_button" type="submit" value="Login">&nbsp;&nbsp;
-                    	<a href="/gen.php?l=forgot_pass">Pass?</a>
+                    	<a href="https://www.teachexcel.com/gen.php?l=forgot_pass">Pass?</a>
 					</div>
                     
                 </form>
@@ -648,14 +678,16 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
     <div id="header_fluid">
 
         <div id="logo_fluid">
-            <a href="http://www.teachexcel.com"><img src="http://www.teachexcel.com/images/logo/logo_v2.jpg" alt="TeachExcel"></a>
+            <a href="//www.teachexcel.com"><img src="//www.teachexcel.com/images/logo/logo_v2.jpg" alt="TeachExcel"></a>
         </div>
         
         <div class="google_plus_follow_button_header_wrapper">
-        	<!-- Place this tag where you want the widget to render. -->
-<div class="g-follow" data-annotation="bubble" data-height="24" data-href="https://plus.google.com/102588223597148625384" data-rel="publisher"></div>        </div>
+        	        </div>
         
-                
+        <div class="header_link_general_wrapper small_kill" style="display: none;">
+	<a class="btn_general btn_large_profile btn_round_med btn_standout" href="https://www.teachexcel.com/premium-courses/68/idiot-proof-forms-in-excel">Premium Course</a>
+	
+</div>        
 		
 <div style="display:none;" id="shopping_cart_preview_header_container">
     <div class="s_cart_preview_title">
@@ -666,12 +698,12 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
         	<td class="s_cart_preview_text_td">
             	Empty            </td>
             <td class="s_cart_preview_view_cart_link_td">
-            	<a href="http://www.teachexcel.com/store/cart/">View Cart</a>
+            	<a href="//www.teachexcel.com/store/cart/">View Cart</a>
             </td>
             <td class="s_cart_preview_checkout_button_container_td">
                     <form id="cart_page_checkout" method="post" action="https://www.teachexcel.com/billing/billing.php?p=1">
                         <input type="hidden" name="gowh" value="cart_checkout">
-                        <input type="hidden" name="curpage" value="http://www.teachexcel.com/privacy/privacy.php">
+                        <input type="hidden" name="curpage" value="https://www.teachexcel.com/privacy/privacy.php">
                         <input class="s_cart_preview_checkout_button" type="submit" value="Nothing in Cart" disabled="">                    </form>
             </td>
 		</tr>
@@ -694,7 +726,7 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
         <input type="submit" value="Search" class="btn_subtle btn_med_profile search_box_header_submit_button">                
     
         <div class="general_search_sections_container" style="display:none;">
-            <label><input type="checkbox" name="forum" value="yes" checked="checked"> Forum </label><label><input type="checkbox" name="s1" value="yes" checked="checked"> Tutorial </label><label><input type="checkbox" name="s2" value="yes" checked="checked"> Macro </label>        </div>
+            <label><input type="checkbox" name="forum" value="yes" checked="checked"> Forum </label><label><input type="checkbox" name="s1" value="yes" checked="checked"> Tutorials </label><label><input type="checkbox" name="s2" value="yes" checked="checked"> Macros </label>        </div>
         
     </form>
                     
@@ -708,20 +740,24 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
 </div>
 <div id="header_menu">
     <ul>
-    	<li><span><a href="http://www.teachexcel.com/talk/microsoft-office">Forum</a></span></li>
+    	<li><span><a href="//www.teachexcel.com/talk/microsoft-office">Forum</a></span></li>
     	<li><a href="http://blog.teachexcel.com/">Blog</a></li>
-        <li><a href="http://www.teachexcel.com/excel-tutorial/">Excel Tutorials</a></li>
-        <li><a href="http://www.teachexcel.com/free-excel-macros/">Free Excel Macros</a></li>
+        <li><a href="//www.teachexcel.com/excel-tutorial/">Excel Tutorials</a></li>
+        <li><a href="//www.teachexcel.com/free-excel-macros/">Free Excel Macros</a></li>
         <li><a href="#">Extra Resources</a>
             <ul>
-                <li><a href="http://www.teachexcel.com/talk/microsoft-office">Forum</a></li>
-                <li><a href="http://www.teachexcel.com/excel-tutorials/">Excel Video Tutorials</a></li>
-                <li><a href="http://www.teachexcel.com/shortcuts/shortcuts.php">Keyboard Shortcuts</a></li>
-                <li><a href="http://www.teachexcel.com/excel-help/">Excel Help Resources</a></li>
+                <li><a href="//www.teachexcel.com/talk/microsoft-office">Forum</a></li>
+                <li><a href="https://www.teachexcel.com/free-training/">Free Excel Training</a></li>
+                <li><a href="//www.teachexcel.com/excel-tutorials/">Excel Video Tutorials</a></li>
+                <li><a href="//www.teachexcel.com/shortcuts/shortcuts.php">Keyboard Shortcuts</a></li>
+                <li><a href="//www.teachexcel.com/excel-help/">Excel Help Resources</a></li>
             </ul>
         </li>
-        <li><a href="http://www.teachexcel.com/contact/contact.php">Contact</a></li>
+        <li><a href="//www.teachexcel.com/contact/contact.php">Contact</a></li>
     </ul>
+</div>
+<div style="float:right; margin-top:60px;">
+    <a class="btn_general btn_large_profile btn_round_med btn_standout" href="https://www.teachexcel.com/premium-courses/68/idiot-proof-forms-in-excel">Premium Course</a>
 </div>		
         
                 
@@ -746,30 +782,30 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
                 <td width="205px" height="283" valign="top">
 				
 				<div id="container_left_menu">
-                  <div id="left_column_header"><div id="left_column_header_text"><a href="http://www.teachexcel.com/excel-tutorials/">Video Tutorials</a></div></div>
+                  <div id="left_column_header"><div id="left_column_header_text"><a href="//www.teachexcel.com/excel-tutorials/">Video Tutorials</a></div></div>
 				  <div id="container_left_menu_inner">
 				  <div id="center_left_menu">
                   <ul id="nav">
                       
-                   <li> <a href="http://www.teachexcel.com/free-excel-macros/" class="span" onclick="menuexpand('m4');return false;">Free Macros</a>
+                   <li> <a href="//www.teachexcel.com/free-excel-macros/" class="span" onclick="menuexpand('m4');return false;">Free Macros</a>
                           <ul id="m4">
                           </ul>
                     </li>
-					<li> <a href="http://www.teachexcel.com/excel-help/" class="span">Excel Help Directory</a>
+					<li> <a href="//www.teachexcel.com/excel-help/" class="span">Excel Help Directory</a>
                     </li>
-					<li> <a href="http://www.teachexcel.com/excel2007/excel2007.php" class="span" onclick="menuexpand('m5');return false;">Excel 2007 Resources</a>
+					<li> <a href="//www.teachexcel.com/excel2007/excel2007.php" class="span" onclick="menuexpand('m5');return false;">Excel 2007 Resources</a>
                           <ul id="m5">
                           </ul>
                     </li>
-                    <li> <a href="http://www.teachexcel.com/shortcuts/shortcuts.php" class="span" onclick="menuexpand('m6');return false;">Keyboard Shortcuts</a>
+                    <li> <a href="//www.teachexcel.com/shortcuts/shortcuts.php" class="span" onclick="menuexpand('m6');return false;">Keyboard Shortcuts</a>
                           <ul id="m6">
                           </ul>
                     </li>
-                    <li> <a href="http://www.teachexcel.com/forum/" class="span" onclick="menuexpand('m7');return false;">Excel Forum</a>
+                    <li> <a href="//www.teachexcel.com/forum/" class="span" onclick="menuexpand('m7');return false;">Excel Forum</a>
                           <ul id="m7">
                           </ul>
                     </li>
-                    <li> <a href="http://www.teachexcel.com/contact/contact.php" class="span" onclick="menuexpand('m8');return false;">Contact</a>
+                    <li> <a href="//www.teachexcel.com/contact/contact.php" class="span" onclick="menuexpand('m8');return false;">Contact</a>
                           <ul id="m8">
                           </ul>
                     </li>
@@ -804,7 +840,7 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
 	google_ad_height = 90;
 	//-->
 	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 	</script>
 		
 		
@@ -826,14 +862,14 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
 
 <div id="container_left_menu">
 	<center>
-		<a href="http://www.excelkey.com/forum/" rel="nofollow"><img src="http://www.teachexcel.com/images/ask_q_forum_box.jpg" border="0"></a>
+		<a href="https://www.teachexcel.com/talk/microsoft-office"><img src="/images/ask_q_forum_box.jpg" border="0"></a>
 	</center>
 </div>
 
 
 <div id="container_left_menu">
 	<center>
-		<a rel="nofollow" href="http://www.teachmsoffice.com/list-of-tutorials.php?src=tebnnrv1lmen"><img src="http://www.teachexcel.com/images/ads/160x600-excel-oriented-V1-static.jpg" border="0"></a>
+		<a rel="nofollow" href="http://www.teachmsoffice.com/list-of-tutorials.php?src=tebnnrv1lmen"><img src="//www.teachexcel.com/images/ads/160x600-excel-oriented-V1-static.jpg" border="0"></a>
 	</center>
 </div>		
 				
@@ -845,6 +881,9 @@ function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){
 					<br>
 					We, teachexcel.com, do not sell, distribute, or otherwise disseminate anything related to your visit on this website. 
 					Cookies are present on this website, however, we do not sell, distribute, or otherwise disseminate anything related to your visit.  Some portions of the website contain ads.  The information below pertains to these ads.
+                  <br>
+                  <br>
+                  We reserve the right to use information that you provide us to contact you.
                   <br>
                   <br>
     * Google, as a third party vendor, uses cookies to serve ads on your site.<br>
@@ -870,37 +909,37 @@ These companies often use a cookie or third party web beacon to collect this inf
 <div id="tip_box_inner">
 
 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-20,npv-dcf-cash-flow-calculate-excel.html">Net Present Value / Discounted Cash Flow Calculations</a></font><br>(<font class="green_home_page">Intermediate</font>)
+                    <font class="recent_tutorials"><a href="//www.teachexcel.com/excel-tutorials/t-21,.html">FV() Find the Future Value of Cash Today<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Savings/Retirement Plan Calculations</a></font><br>(<font class="green_home_page">Intermediate</font>)
 					
 					<!-- 09-Jan	-->		 
 					     
 				  </div>
 	 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-22,bond-pricing-future-present-value-in-excel.html">Bond Pricing Calculations for Simple Bonds<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Future Value, Present Value, Interest Rate, etc.</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
+                    <font class="recent_tutorials"><a href="//www.teachexcel.com/excel-tutorials/t-22,bond-pricing-future-present-value-in-excel.html">Bond Pricing Calculations for Simple Bonds<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Future Value, Present Value, Interest Rate, etc.</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
 					
 					<!-- 09-Jan	-->		 
 					     
 				  </div>
 	 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-32,remove-na-error-from-vlookup-excel.html">Remove #N/A Error Result from Empty VLOOKUP() Formulas</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
+                    <font class="recent_tutorials"><a href="//www.teachexcel.com/excel-tutorials/t-34,intro-make-formulas-in-excel.html">Introduction to Making Formulas in Excel</a></font><br>(<font class="green_home_page">Easy</font>)
 					
 					<!-- 10-Jan	-->		 
 					     
 				  </div>
 	 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-33,match-index-functions-excel.html">Lookups With MATCH() and INDEX() Functions</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
+                    <font class="recent_tutorials"><a href="//www.teachexcel.com/excel-tutorials/t-35,ifs-nested-into-excel.html">IF Statement Introduction &amp; Using Nested IF's</a></font><br>(<font class="yellow_home_page">Easy</font>)
 					
 					<!-- 10-Jan	-->		 
 					     
 				  </div>
 	 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-34,intro-make-formulas-in-excel.html">Introduction to Making Formulas in Excel</a></font><br>(<font class="green_home_page">Easy</font>)
+                    <font class="recent_tutorials"><a href="//www.teachexcel.com/excel-tutorials/t-39,absolute-relative-references-excel.html">Absolute and Relative Cell References<br>&nbsp;&nbsp;&nbsp;-&nbsp;&amp; INDIRECT() Function Introduction</a></font><br>(<font class="yellow_home_page">Easy</font>)
 					
 					<!-- 10-Jan	-->		 
 					     
 				  </div>
 	 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-38,and-or-if-formulas-in-excel.html">AND(), OR(), and IF() Statements/Formulas</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
+                    <font class="recent_tutorials"><a href="//www.teachexcel.com/excel-tutorials/t-42,consolidate-data-in-excel.html">Consolidate &amp; Combine Data from Separate Worksheets or Workbooks(Excel Files)</a></font><br>(<font class="green_home_page">Intermediate</font>)
 					
 					<!-- 10-Jan	-->		 
 					     
@@ -923,9 +962,9 @@ These companies often use a cookie or third party web beacon to collect this inf
   </tbody></table>
   <div id="footer_fluid">
     <div id="footer_inner_fluid">
-        <a href="http://www.teachexcel.com/contact/contact.php">Contact</a> | <a href="http://www.teachexcel.com/privacy/privacy.php">Privacy Policy</a> | <a href="http://www.teachexcel.com/disclaimer/disclaimer.php">Disclaimer</a> | <a href="http://www.teachexcel.com/tos.php">Terms</a>
+        <a href="//www.teachexcel.com/contact/contact.php">Contact</a> | <a href="//www.teachexcel.com/privacy/privacy.php">Privacy Policy</a> | <a href="//www.teachexcel.com/disclaimer/disclaimer.php">Disclaimer</a> | <a href="//www.teachexcel.com/tos.php">Terms</a>
         <br>
-        Copyright© 2016 TeachExcel.com
+        Copyright© 2019 TeachExcel.com
     </div>
 </div>
 
