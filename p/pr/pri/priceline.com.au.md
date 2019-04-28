@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceline.com.au privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325022326id_/https%3A//www.priceline.com.au/priceline-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceline.com.au privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428144810id_/https%3A//www.priceline.com.au/priceline-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
