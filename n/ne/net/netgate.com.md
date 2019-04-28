@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116235516id_/https%3A//www.netgate.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428145558id_/https%3A//www.netgate.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
