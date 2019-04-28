@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialfresh.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328181239id_/https%3A//www.socialfresh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialfresh.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428124747id_/https%3A//www.socialfresh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Last Updated: December 15, 2011**
+**Last Updated: March  27, 2017**
 
-Social Fresh is committed to protecting your privacy. This Statement of Privacy applies to Social Fresh websites SocialFresh.com, SocialFreshAcademy.com, InvestInSocial.com, SocialFreshConference.com and governs data collection and usage of that data. By using the Social Fresh website, you consent to the data practices described in this statement.
+Social Fresh is committed to protecting your privacy. This Statement of Privacy applies to Social Fresh websites SocialFresh.com, SocialMediaCurrent.com, SocialFreshConference.com and governs data collection and usage of that data. By using the Social Fresh website, you consent to the data practices described in this statement.
 
 #### Your Personal Information
 
@@ -36,12 +36,12 @@ Social Fresh will occasionally update this Statement of Privacy to reflect compa
 
 #### Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should first contact us at info@socialfresh.com. If you do not receive acknowledgement of your inquiry or we have not addressed your inquiry to your satisfaction, you should then contact us at support@socialfresh.com.
+If you have questions regarding this statement, [contact us here](https://www.socialfresh.com/contact/). If you do not receive acknowledgement of your inquiry or we have not addressed your inquiry to your satisfaction, you should then [contact us here](https://www.socialfresh.com/contact/).
 
 #### To Unsubscribe From Social Fresh
 
-You may unsubscribe from Social Fresh marketing communications by clicking on the “unsubscribe” link located on the bottom of the company’s emails. Additionally, you may unsubscribe by contacting Social Fresh Support at support@socialfresh.com
+You may unsubscribe from Social Fresh marketing communications by clicking on the “unsubscribe” link located on the bottom of the company’s emails. Additionally, you may unsubscribe by [contacting Social Fresh Support here](https://www.socialfresh.com/contact/).
 
 #### Contact Information
 
-Social Fresh welcomes your comments regarding this Statement of Privacy. If you believe that Social Fresh has not adhered to this Statement, please contact Social Fresh at support@socialfresh.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Social Fresh welcomes your comments regarding this Statement of Privacy. If you believe that Social Fresh has not adhered to this Statement, please [contact Social Fresh here](https://www.socialfresh.com/contact/). We will use commercially reasonable efforts to promptly determine and remedy the problem.
