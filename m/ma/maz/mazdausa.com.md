@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazdausa.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825123706id_/https%3A//www.mazdausa.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazdausa.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428131137id_/https%3A//www.mazdausa.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mazda USA
 
@@ -52,4 +52,4 @@ If you have any questions or concerns about the Online Services or this Privacy 
 
 © 2016 Mazda North American Operations. All rights reserved. All text, images, graphics, animation, videos, music, sounds and other materials on the Online Services are subject to the copyrights and other intellectual property rights of Mazda Motor of America, Inc., its affiliated companies and its licensors. Mazda Motor of America, Inc. owns the copyrights in the selection, coordination and arrangement of the materials on the Online Services. These materials may not be copied for commercial use or distribution, nor may these materials be modified or reposted to other web sites.
 
-Effective Date: April 21, 2015
+Effective Date: September 10, 2018
