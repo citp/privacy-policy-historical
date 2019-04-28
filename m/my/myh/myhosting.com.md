@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202020949id_/https%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429002936id_/https%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myhosting.com
 
@@ -11,10 +11,6 @@ This Privacy Policy (the “Policy”) governs all aspects of how myhosting.com 
 **myhosting.com values the privacy of their customers.**
 
 The privacy of Users continues to be very important to myhosting.com since being founded in 1997. myhosting.com complies with the requirements of the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”).
-
-SoftCom Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program does not cover information that may be collected through downloadable software, mobile applications or behind the login of the Site. The TRUSTe program covers only information that is collected through this Site, www.myhosting.com and does not cover information that may be collected through our mobile applications
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [legal@softcom.com](mailto:legal@softcom.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 All content contained on the myhosting.com website is intended only for people 18 years of age and over and myhosting.com does not knowingly collect or use Personal Information from anyone under the age of 18.
 
