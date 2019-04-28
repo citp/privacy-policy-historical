@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the toptropicals.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230025238id_/http%3A//toptropicals.com/html/toptropicals/sale/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptropicals.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428064001id_/https%3A//toptropicals.com/html/toptropicals/sale/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - TopTropicals.com
 
-This Privacy Policy applies to all of the products and services offered by Top Tropicals LLC or its subsidiaries or affiliated companies.
+This Privacy Policy applies to all of the products and services offered by Top Tropicals LLC and its subsidiaries or affiliated companies.
 
 **What information do we collect?**
 
   * We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
-  * When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+  * When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
 
 
@@ -15,9 +15,11 @@ This Privacy Policy applies to all of the products and services offered by Top T
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
+  * To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.  
 
-  * To send periodic emails. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * To send periodic emails. The email address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.   
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. You may also unsubcribe from our [Newsletter subscription page](https://toptropicals.com/html/toptropicals/misc/maillist.htm).
+  * To administer a contest, promotion, survey or other site feature.
 
 
 
@@ -31,13 +33,16 @@ Any of the information we collect from you may be used in one of the following w
 
 **Do we use cookies?**
 
-Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
+Cookies are small files that a site or its service provider transfers to your computers' hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.   
 We use cookies to help us remember and process the items in your shopping cart.
 
 **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Your Consent**
 
@@ -47,8 +52,8 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 09/28/2011
+This policy was last modified on 04/19/2017
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20161230025238id_/http%3A//toptropicals.com/html/toptropicals/links/contact.htm).
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20190428064001id_/https%3A//toptropicals.com/html/toptropicals/links/contact.htm).
