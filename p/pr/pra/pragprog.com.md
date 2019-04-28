@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003142753id_/https%3A//pragprog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428094630id_/https%3A//pragprog.com/privacy) for the most accurate reproduction.*
 
 # Our Commitment to Privacy | The Pragmatic Bookshelf
 
@@ -30,6 +30,8 @@ We collect the personal data that you may volunteer while using our services. We
 You may choose to register yourself, giving us your e-mail address to enable us to identify you. You may optionally elect to have us send you email using that address. This email falls into two categories. One is information on orders (for example, telling you that a download is available, or sending you a receipt). The second category is informational, low-volume marketing information—in particular we send out a weekly newsletter, and very occasionally send out information about sales. You may opt in to one or both of these email options.
 
 In order to purchase things at our online store, you will need to give us certain personal information (name, e-mail address, telephone number, address(s), credit card type, number, expiration, and CVV2 value). We store your contact information in our order entry system. We do not store your credit card details. In fact, your credit card information never passes through our site—it is captured directly by our payment gateway provider, Braintree Payments ([https://www.braintreepayments.com](https://www.braintreepayments.com/)).
+
+If you are an author, we may ask you to provide us with bank account information which we use to electronically pay royalties, this information is shared with our third party payment provider to facilitate ACH payments.
 
 ### Automatic Collection of Information
 
@@ -126,7 +128,7 @@ Access to your data is controlled at a number of levels:
   * Our hosting provider (Amazon AWS) might possibly be able to access data (for example as it passes through their internal networks). All external information flow is encrypted using SSL, but some interserver traffic can not be encrypted, and is outside our control.
   * Our payment processor, Braintree Payments, handles all payment-specific data. For this to work, we pass it the order details (including your name, email, and (for tangible orders) shipping address).
   * Our fulfillment company, ORM, ships physical products on our behalf. We pass them details on each order to ship, including your name, email, shipping address, and the items to ship.
-  * If you have opted-in to our weekly newsletter, then we will include your email address in the mailing list we maintain at Sendgrid, If you opt out (either by changing your preferences on our site or by clicking the unsubscribe link in every newsletter) your email address will be removed from their list or added to their suppression list, depending on your method of unsubscription.
+  * If you have opted-in to our weekly newsletter, then we will include your email address in the mailing list we maintain at Twilio SendGrid, If you opt out (either by changing your preferences on our site or by clicking the unsubscribe link in every newsletter) your email address will be removed from their list or added to their suppression list, depending on your method of unsubscription. Other Twilio group entities, who may also assist Twilio as sub-processors are listed in Appendix 1 of Twilio’s Sendgrid “Processor Policy” here: https://www.twilio.com/legal/bcr/processor#appendix-1
 
 
 
@@ -135,3 +137,5 @@ Access to your data is controlled at a number of levels:
 We use Google Analytics to measure the use of our site. As part of this, we use Google Analytics Demographics and Interest Reporting. This does not give us specific information about you—we only see aggregated data. However, you can opt out using Google’s [Ads Settings](https://www.google.com/settings/ads).
 
 Our intent is to use this information to tune the way we organize our site and the information it contains.
+
+The Pragmatic Programmers, LLC, Privacy Policy was updated on **April 11, 2019**
