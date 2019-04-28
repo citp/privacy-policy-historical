@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the recovery-android.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603014836id_/https%3A//www.recovery-android.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recovery-android.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428175106id_/https%3A//www.recovery-android.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Recovery-Android.com
-
-### 
 
 Thank you for visiting Recovery-Android.com and please read it in full. Recovery-Android.com understands the importance of security and privacy, so always thinks it our responsibility to respect and protect the privacy of every user and ensure the integrity of internet by using every reasonable means. Please give us abundant confidence about the ability to ensure your confidentiality and to maintain your trust.
 
