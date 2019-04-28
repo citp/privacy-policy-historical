@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringgitplus.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228155204id_/https%3A//ringgitplus.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringgitplus.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429002602id_/https%3A//ringgitplus.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - RinggitPlus
 
@@ -164,11 +164,11 @@ If you have any questions regarding this policy, please contact the following:-
  **Privacy Officer**
 
 Address:  
-Unit No A-20-9,   
-Level 20, Tower A,   
-Menara UOA Bangsar,   
-No 5 Jalan Bangsar Utama 1,   
-59000 Kuala Lumpur, Malaysia.  
+Level 25  
+Vertical Corporate Tower B  
+Avenue 10, Bangsar South  
+No. 8 Jalan Kerinchi  
+59200 Kuala Lumpur, Malaysia.  
 
 
 Email: [dataprivacy@ringgitplus.com](mailto:dataprivacy@ringgitplus.com)
@@ -342,10 +342,11 @@ Jika anda mempunyai sebarang soalan tentang dasar ini, sila hubungi:-
 
 Alamat:
 
-Unit No A-20-9,  
-Menara UOA Bangsar,  
-No 5 Jalan Bangsar Utama 1,  
-59000 Kuala Lumpur  
+Level 25,  
+Vertical Corporate Tower B,  
+Avenue 10, Bangsar South,  
+No. 8 Jalan Kerinchi,  
+59200 Kuala Lumpur,  
 Malaysia.
 
 E-mel: [dataprivacy@ringgitplus.com](mailto:dataprivacy@ringgitplus.com)
