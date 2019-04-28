@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinrilla.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230134314id_/https%3A//spinrilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinrilla.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428120206id_/https%3A//spinrilla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Spinrilla
 
