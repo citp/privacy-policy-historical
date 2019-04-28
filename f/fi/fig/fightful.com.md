@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightful.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127215743id_/https%3A//www.fightful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightful.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428231102id_/https%3A//www.fightful.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fightful News
 
@@ -166,5 +166,5 @@ Fightful, reserves the right, in its sole discretion, to reject, refuse to post 
 If you have any questions about Shazzu Privacy Policy, or want to make a request with regard to your information, please contact our Data Protection Officer at [gdpr@shazzu.com](mailto:dpo@moqups.com).
 
 Shazzu Inc.  
-6303 Blue Lagoon Drive, Suite 400  
-Miami, Florida, 33126
+PO Box 26086 Braodway PO  
+Toronto, ON M4P 0A8
