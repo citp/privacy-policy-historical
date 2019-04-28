@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the broadbandbuyer.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216021745id_/http%3A//www.broadbandbuyer.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandbuyer.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428062849id_/https%3A//www.broadbandbuyer.com/policy/privacy) for the most accurate reproduction.*
 
 # broadbandbuyer - Privacy Policy
 
 ## We are Essanet Limited (Company No. 04109894) and our address is Thornton Chase, Linford Wood, Milton Keynes, MK14 6FD, UK (“ **we** ” or “ **us** ” or “ **our** ”).
 
-We are providers of the websites [www.broadbandbuyer.com](https://web.archive.org/web/20181216021745id_/https://www.broadbandbuyer.com/policy/privacy/www.broadbandbuyer.com) and unificloud.co.uk (“ **Sites** ”) and provide Configuration & Subscription Services (“ **Services** ” or “ **Service Data** ”). 
+We are providers of the websites [www.broadbandbuyer.com](https://web.archive.org/web/20190428062849id_/https://www.broadbandbuyer.com/policy/privacy/www.broadbandbuyer.com) and unificloud.co.uk (“ **Sites** ”) and provide Configuration & Subscription Services (“ **Services** ” or “ **Service Data** ”). 
 
 Our VAT number is 765 5019 20.
 
@@ -14,7 +14,7 @@ A reference to “ **you** ” or “ **your** ” is a reference to a user of a
 
 ## How to Contact Us
 
-Should you have questions or comments relating to this Privacy Policy, please email our privacy team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4c4e554a5d5f457c5e4e535d585e5d52585e4945594e125f5351).
+Should you have questions or comments relating to this Privacy Policy, please email our privacy team at [privacy@broadbandbuyer.com](mailto:privacy@broadbandbuyer.com).
 
 ## What Does This Policy Cover?
 
@@ -108,11 +108,11 @@ Data Protection is very important to us and we take reasonable commercial measur
 
 ## Children’s Privacy
 
-Our websites and services are not intended for children under the age of 13 and we do not knowingly collect personal information from those children without appropriate parental or guardian consent. If you are a parent or guardian and discover that your child under the age of 13 years of age has provided Personal Data to us, then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3d4d4f544b5c5e447d5f4f525c595f5c53595f4844584f135e5250)to request to delete your child’s Personal Data from our systems.
+Our websites and services are not intended for children under the age of 13 and we do not knowingly collect personal information from those children without appropriate parental or guardian consent. If you are a parent or guardian and discover that your child under the age of 13 years of age has provided Personal Data to us, then you may contact us at [privacy@broadbandbuyer.com](mailto:privacy@broadbandbuyer.com)to request to delete your child’s Personal Data from our systems.
 
 ## Your rights
 
-You are entitled to request the following Data Subject Rights from us, and more information can be found on these on the Information Commissioners website [www.ico.org.uk](https://web.archive.org/web/20181216021745id_/https://www.broadbandbuyer.com/policy/privacy/www.ico.org.uk). 
+You are entitled to request the following Data Subject Rights from us, and more information can be found on these on the Information Commissioners website [www.ico.org.uk](https://web.archive.org/web/20190428062849id_/https://www.broadbandbuyer.com/policy/privacy/www.ico.org.uk). 
 
   1. Right of access –to request access to your Personal Data and information about how we process it.
   2. Right to rectification –to have your Personal Data corrected if it is inaccurate and to have incomplete Personal Data completed.
@@ -124,9 +124,9 @@ You are entitled to request the following Data Subject Rights from us, and more 
 
 
 
-If you have any general questions about your rights or want to exercise your rights please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89f9fbe0ffe8eaf0c9ebfbe6e8edebe8e7edebfcf0ecfba7eae6e4).
+If you have any general questions about your rights or want to exercise your rights please contact [privacy@broadbandbuyer.com](mailto:privacy@broadbandbuyer.com).
 
-You have the right to lodge a complaint with a data protection regulator in Europe, in particular in a country where you work or live, or where your legal rights have been infringed. The contact details for the Information Commissioner’s Office (ICO), (the data protection regulator in the UK), are available on the ICO website [www.ico.org.uk](https://web.archive.org/web/20181216021745id_/https://www.broadbandbuyer.com/policy/privacy/www.ico.org.uk). Where your Personal Data has or is being used in a way that you believe does not comply with GDPR, however, we encourage you to contact us before making any complaint and we will seek to resolve any issues or concerns.
+You have the right to lodge a complaint with a data protection regulator in Europe, in particular in a country where you work or live, or where your legal rights have been infringed. The contact details for the Information Commissioner’s Office (ICO), (the data protection regulator in the UK), are available on the ICO website [www.ico.org.uk](https://web.archive.org/web/20190428062849id_/https://www.broadbandbuyer.com/policy/privacy/www.ico.org.uk). Where your Personal Data has or is being used in a way that you believe does not comply with GDPR, however, we encourage you to contact us before making any complaint and we will seek to resolve any issues or concerns.
 
 ## Changes to This Policy
 
