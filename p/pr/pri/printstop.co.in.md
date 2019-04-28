@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printstop.co.in privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607042445id_/http%3A//www.printstop.co.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printstop.co.in privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428123309id_/https%3A//www.printstop.co.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
