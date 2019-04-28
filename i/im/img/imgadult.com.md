@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgadult.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119145939id_/https%3A//imgadult.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgadult.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428041252id_/https%3A//imgadult.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy - Earn Money Sharing Adult Images | ImgAdult
 
