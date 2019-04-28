@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paked.net privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424160246id_/https%3A//www.paked.net/Pak/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paked.net privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428032140id_/https%3A//www.paked.net/Pak/privacypolicy.htm) for the most accurate reproduction.*
 
 # Pak/ed - Privacy Policy
 
