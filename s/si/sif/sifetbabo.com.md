@@ -1,36 +1,69 @@
-> *The following text is extracted and transformed from the sifetbabo.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201012011id_/http%3A//sifetbabo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sifetbabo.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428063244id_/https%3A//sifetbabo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of SifetBabo.com
+# Privacy Policy
 
-**The privacy of our visitors is important to us.  Third Party Advertising**
+## Who we are
 
-We use Google, Kontera, Amazon, Share A Sale, Advertising.com, Tribal Fusion, SixApart and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this web site in order to provide advertisements on this site about goods and services that may be of interest to you.
+Our website address is: https://sifetbabo.com/.
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the links provided below.
+## What personal data we collect and why we collect it
 
-Google – http://www.google.com/privacy.html  
-Third Party Cookies and Web Beacons
+### Comments
 
-In the course of serving advertisements to this site, our third-party advertisers, including those listed above, may place or recognize a unique “cookie” or web beacon on your browser
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**What are cookies?**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-A cookie is a file that tracks a user or customer’s preferences on pages visited while on a website. On our website we may use cookies or third parties may do so on our behalf.
+### Media
 
-Should you accept a cookie, each subsequent visit to our site will identify you and collect and compile anonymous statistics related to your interests, tastes, purchasing intentions and general uses of the sites.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-The data collected by the cookie is compiled and used in the future to market other products and services or advertisements to you, to analyze the usage of our website to provide data on how to improve the website and for feedback generally. No sensitive personal data or personally identifiable data capable of identifying you as a private individual are collected.
+### Contact forms
 
-All data are for specific purposes for our private use only and not for use of any other third party unless specifically instructed by us and only for a specific purposes, such as marketing of products and services.
+### Cookies
 
-**Google and the DoubleClick DART cookie:**
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-**Your Choices**
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-You do not have to accept cookies and you may block or disable all cookies from your browser at anytime.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a “Privacy” setting in your browser setup.
+### Embedded content from other websites
 
-You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. You may also opt-out of receiving cookies from third party advertising networks by using the NAI Opt-out Tool.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
