@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eblnews.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129084952id_/https%3A//eblnews.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eblnews.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428151610id_/https%3A//eblnews.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EBL News
 
@@ -152,10 +152,6 @@ and we will promptly remove you from **ALL** correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**Vallic d.o.o.**
-
-Hektoroviceva ulica 2, Zagreb, 10000 Croatia
-
-[info@eblnews.com](mailto:info@eblnews.com)  // [www.vallic.com](http://www.vallic.com/)
+[info@eblnews.com](mailto:info@eblnews.com)
 
 Last Edited on 2016-06-20
