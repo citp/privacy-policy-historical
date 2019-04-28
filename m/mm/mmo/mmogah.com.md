@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmogah.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231135454id_/https%3A//www.mmogah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmogah.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428140518id_/https%3A//www.mmogah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Mmogah-Always Trustworthy
 
@@ -42,4 +42,4 @@ How We Use Information Mmogah uses the personal information we collect online pr
 
 Account Protection Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your Mmogah password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify Mmogah and change your password.
 
-All content copyright © 2006-2018 Mmogah.com. All rights reserved.
+All content copyright © 2006-2019 Mmogah.com. All rights reserved.
