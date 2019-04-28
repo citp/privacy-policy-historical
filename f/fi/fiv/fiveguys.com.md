@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602171148id_/http%3A//www.fiveguys.com/Contact-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428030722id_/http%3A//www.fiveguys.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,16 @@ An "IP Address" is a number that is automatically assigned to your computer when
 
 In addition to cookies, Five Guys uses "pixels" to enable certain cookies or advertisements on the Sites and to track the number of times a link or advertisement is served on a webpage. A pixel is a tiny, 1x1 image that is loaded when you visit our Sites, but instead of calling up an image, it causes a cookie or application to be downloaded. Pixels can be used to track user activities, track the number of times a user has viewed a particular link or advertisement, track and optimize website traffic, display advertisements, keep track of advertising commissions, and otherwise collect data for online marketing and website analysis. As with cookies, our Sites utilize both session pixels and persistent pixels.
 
-We also use cookies and tracking/marketing pixels for four general purposes: (1) to ensure the functionality, optimization, and ease of use of our Sites; (2) to ensure and maintain the security of our Sites; (3) to collect anonymous, statistical data regarding how visitors interact with the Sites; and, (4) for marketing purposes. We also utilize the tools available through Google Analytics in order to monitor site flow and statistical data regarding our Site users.
+We also use cookies and tracking/marketing pixels for four general purposes: 
+
+  1. to ensure the functionality, optimization, and ease of use of our Sites 
+  2. to ensure and maintain the security of our Sites 
+  3. to collect anonymous, statistical data regarding how visitors interact with the Sites 
+  4. for marketing purpose 
+
+
+
+We also utilize the tools available through Google Analytics in order to monitor site flow and statistical data regarding our Site users.
 
 The cookies that we use for functionality and security purposes are considered necessary cookies, without which the Site would not function properly. These cookies allow some of the basic functions of our Sites to work properly, such as remembering your preferences as you navigate the Sites. In addition, these cookies help us secure the Sites by preventing cross-site request forgery attacks and by throttling excessive request rates.
 
@@ -66,7 +75,7 @@ In certain circumstances, we may be required to disclose your Personal Informati
 
 To protect your Personal Information, we agree to take reasonable technical and organizational precautions in addition to following industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered, or destroyed.
 
-Five Guys has implemented industry-standard organizational and electronic means of protecting your Personal Information. We store Personal Information behind a computer firewall, which is a barrier designed to prevent outsiders from accessing our servers. In addition, Five Guys protects your Personal Information from unauthorized physical access by storing your Personal Information in a controlled facility. Except as provided elsewhere in this Privacy Policy, Five Guys limits access to Personal Information, regardless of if it is stored electronically or in physical form, to those persons (including employees and contractors) in Five Guys' organization who have a business need for such access.
+Five Guys has implemented industry-standard organizational and electronic means of protecting your Personal Information. Our Sites make use of back-end technology that has been CSA STAR Certified and covered by a range of ISO certifications, including ISO 27001:2013, ISO 27017:2015, ISO 27018:2014, ISO 20000-1:2011, ISO 22301:2012, and ISO 9001:2015, and which is designed protect your Personal Information. We store Personal Information behind a computer firewall, which is a barrier designed to prevent outsiders from accessing our servers. In addition, Five Guys protects your Personal Information from unauthorized physical access by storing your Personal Information in a controlled facility. Except as provided elsewhere in this Privacy Policy, Five Guys limits access to Personal Information, regardless of if it is stored electronically or in physical form, to those persons (including employees and contractors) in Five Guys' organization who have a business need for such access.
 
 Even though we have taken significant steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed to or by unauthorized persons, you should know that Five Guys cannot completely eliminate security risks associated with Personal Information.
 
@@ -79,7 +88,7 @@ Subject to local law, you can control your Personal Information in the following
   * You can ask us to see and/or obtain a copy of the Personal Information we hold about you;
   * You can inform us of any changes to your Personal Information, or if you want us to correct any of the Personal Information we hold about you;
   * In certain situations, you can ask us to erase, block, or restrict the Personal Information we hold about you, or object to the particular ways in which we are using your Personal Information; and
-  * In certain situations, you can also ask us to send the Personal Information you have given us to a third party
+  * In certain situations, you can also ask us to send the Personal Information you have given us to a third party.
 
 
 
@@ -122,7 +131,7 @@ By using this Site, you represent that you are at least the age of majority in y
 
 If we have provided a link to any other website or location, it is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
 
-Of particular note, please be aware that the Five Guys “Order” website and application, and the Five Guys “Career” website, are operated by our trusted partners and are not controlled or operated by Five Guys. The terms of our Privacy Policy do not apply to these outside websites and applications, and these websites and applications have their own Terms of Service and Privacy Policy. We are not responsible for the privacy practices of these websites and applications, except as otherwise required under the relevant laws and regulations. We encourage you to read their terms and privacy statements if you wish to utilize these websites and applications.
+**Of particular note, please be aware that the Five Guys “Order” website and application, and the Five Guys “Career” website, are operated by our trusted partners and are not controlled or operated by Five Guys. The terms of our Privacy Policy do not apply to these outside websites and applications, and these websites and applications have their own Terms of Service and Privacy Policy. We are not responsible for the privacy practices of these websites and applications, except as otherwise required under the relevant laws and regulations. We encourage you to read their terms and privacy statements if you wish to utilize these websites and applications.**
 
 Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. For your convenience, we may provide pop-up banners or notices in some instances when you leave our store’s website or are directed to a third-party website or application, but we make no representations that we will provide such notice for all third party links on our Site.
 
@@ -176,7 +185,7 @@ When you contact us to exercise any of the privacy rights described above, pleas
   1. Your first and last name;
   2. Your e-mail address;
   3. Your phone number;
-  4. If you were an employee of Five Guys in the past, your employee ID number;
+  4. If you were an employee of Five Guys in the past, your employee ID number; 
   5. Your country or countries of citizenship; and,
   6. A brief description of your request, which can be based on the above list.
 
@@ -186,7 +195,7 @@ Because we do not want your Personal Information to be exposed to someone else, 
 
 Five Guys will only use the Personal Information you provide in connection with your request to check our systems and confirm whether we possess any of your Personal Information and to process any Personal Information access or management requests we receive from you. After we have completed reviewing your request, we may store the information we provide to you for a reasonable amount of time after fulfilling your request in case you have additional inquiries. After the information is no longer necessary, we will automatically delete this information from our records or make it permanently unreadable (masked data).
 
-Any contact information provided in connection with a request to exercise your rights related to your Personal Information will not be used for direct marketing purposes and will not be shared with others unless necessary to verify your identity and/or complete your request.
+**Any contact information provided in connection with a request to exercise your rights related to your Personal Information will not be used for direct marketing purposes and will not be shared with others unless necessary to verify your identity and/or complete your request.**
 
 We will do our best to respond to your request as soon as possible, and, in any event, no later than 30 days after receiving your request. Please note that making multiple requests at one time may slow down our processing of your request. If additional time is required to complete your request, we will notify you of that fact and the reasons why we require additional time to fully respond to your particular request.
 
