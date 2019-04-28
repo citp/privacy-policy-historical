@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatcollections.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202102255id_/https%3A//www.greatcollections.com/main.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatcollections.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428125326id_/https%3A//www.greatcollections.com/main.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
 
 # GreatCollections - Privacy
 
@@ -72,6 +72,6 @@ If there are any questions regarding this privacy policy, you may contact us usi
 17500 Red Hill Avenue, Suite 160,  
 Irvine, CA 92614  
 United States  
-E-mail: [info@greatcollections.com](mailto:info@greatcollections.com)  
+E-mail: [[email protected]](https://www.greatcollections.com/cdn-cgi/l/email-protection#83eaede5ecc3e4f1e6e2f7e0ecefefe6e0f7eaecedf0ade0ecee)  
 Tel: +1-949-679-4180  
 Fax: +1-949-679-4178 
