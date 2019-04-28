@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231201118id_/https%3A//www.firebox.com/admin/privacy%3Fvia%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428170715id_/https%3A//www.firebox.com/admin/privacy%3Fvia%3Dfooter) for the most accurate reproduction.*
 
 # Not for Everyone | FIREBOX®
 
