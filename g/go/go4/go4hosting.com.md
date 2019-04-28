@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4hosting.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208155701id_/http%3A//www.go4hosting.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4hosting.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428091212id_/http%3A//www.go4hosting.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Read Our Privacy Policy – Go4hosting
 
@@ -64,7 +64,7 @@ Cyfuture is ardently pursuant of GDPR directives for data subjects in the EU. If
 
 **QUERIES REGARDING PRIVACY**
 
-Cyfuture is always open to answering queries, providing clarifications and addressing concerns regarding your privacy. If you have any questions regarding this Privacy Policy, please contact us via e-mail at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2454564d5245475d64475d4251505156410a474b49)
+Cyfuture is always open to answering queries, providing clarifications and addressing concerns regarding your privacy. If you have any questions regarding this Privacy Policy, please contact us via e-mail at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a6a68736c7b79635a79637c6f6e6f687f34797577)
 
 **PRIVACY POLICY UPDATES**
 
