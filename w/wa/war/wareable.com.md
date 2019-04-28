@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wareable.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220173247id_/https%3A//www.wareable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wareable.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428183114id_/https%3A//www.wareable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Wareable
 
