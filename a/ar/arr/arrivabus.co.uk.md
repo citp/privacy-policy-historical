@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arrivabus.co.uk privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828191829id_/https%3A//www.arrivabus.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrivabus.co.uk privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428072411id_/https%3A//www.arrivabus.co.uk/privacy) for the most accurate reproduction.*
 
-# Arriva Bus Privacy Policy
+# Arriva Bus Privacy Policy - Arriva Buses
 
 ## Last updated: 23 May 2018
 
@@ -285,7 +285,7 @@ and **Scholar Saver tickets** for:
 
 f **rom our new online smartcard store from Monday 20 August 2018**.
 
-[Buy now ](https://www.arrivaconnect.co.uk/)
+[Buy now ](https://web.archive.org/link/1b19d5d848544b54aff1d7fe10a542c1.aspx?id=190614)
 
 #### Arriva m-ticket app
 
@@ -305,30 +305,9 @@ You can buy a selection of tickets on your Arriva bus, from single tickets, to w
 
 [Find out more](https://web.archive.org/link/5da53911b0484e7e80e46f2d1bf7507a.aspx?id=5870)
 
-#### Careers in the bus industry
+#### We've made it easier for you to find a new job with Arriva
 
-Our drivers make up our largest group of employees but this role is often just the beginning of someone’s career at Arriva.
-
-[Careers with Arriva](https://web.archive.org/link/531b59b6cef243129635f579d75c1471.aspx?id=25525)
-
-#### Apprenticeships
-
-Interested in Engineering? Like being hands-on? Want to work and learn? Then an Arriva Apprenticeship might be the ideal opportunity for you.  
-
-
-[Arriva Apprenticeships ](https://web.archive.org/link/6e59e625676a4b53ba93708a1355f5a2.aspx?id=25514)
-
-#### Graduate Scheme
-
-Our Graduate Development Programme will give you the skills to become a future business leader in an organisation that is always looking ahead.
-
-[Graduate Scheme](https://web.archive.org/link/9f2cd32eb4644e8ea00c86b09735cff2.aspx?id=25500)
-
-#### Find a job
-
-We can offer a wide range of opportunities from drivers and supervisors to managerial and engineering roles. Find out if we have the perfect job for you.
-
-[View our current vacancies](https://web.archive.org/link/de17bad8139a427fbc0f148f80958f79.aspx?id=23846)
+If you're interested in working with Arriva buses, you will find all our vacancies on our new recruitment website. See what's available near where you live and perhaps we'll be welcoming you to the team soon!
 
 #### Lost Property
 
