@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designsave.net privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331160155id_/http%3A//www.designsave.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designsave.net privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428123314id_/https%3A//designssave.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Designsave.com
+# Privacy policy - Designssave.com
 
 ## Introduction
 
@@ -38,7 +38,7 @@ You may stop your browser from accepting cookies or web beacons. The Help portio
 
 ## Google Analytics
 
-**Designsave** uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help **Designsave** analyze how users use the site. You may find Google’s Privacy Policy at [http://www.google.com/intl/en/privacypolicy.html](http://www.designsave.net/goto/http_www_google_com_intl_en_privacypolicy_html/287/1).
+**Designsave** uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help **Designsave** analyze how users use the site. You may find Google’s Privacy Policy at <http://www.google.com/intl/en/privacypolicy.html>.
 
 ## Choice
 
