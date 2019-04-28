@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emp.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226230951id_/https%3A//www.emp.co.uk/customer-service/terms-%2526-conditions/terms-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emp.co.uk privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428025512id_/https%3A//www.emp.co.uk/customer-service/terms-%2526-conditions/terms-privacy-policy.html) for the most accurate reproduction.*
 
 # Terms - Privacy Policy
 
@@ -6,21 +6,19 @@
 
 Protecting your data is very important to us. Therefore, when you use our website EMP.de or the EMP app for iOS or Android, we will, of course, comply with applicable provisions of data protection law in accordance with the following data privacy policy.
 
-### 1 Data controller
+Protecting your data is very important to us. Therefore, when you use our website EMP.de or the EMP app for iOS or Android, we will, of course, comply with applicable provisions of data protection law in accordance with the following data privacy policy.
 
-E.M.P. Merchandising Handelsgesellschaft mbH
+###   
+1 Data controller
 
-represented by managing directors Ernst Trapp and Dr. Jan Fischer
-
-Darmer Esch 70a
-
-49811 Lingen
-
-GERMANY
-
-phone: 05 91 - 9 14 310
-
-e-mail: mailbox@emp.de
+  
+EMP Mail Order UK Ltd.  
+c/o Francis Clark LLP  
+North Quay House  
+Sutton Harbour  
+Plymouth  
+PL4 0RA  
+United Kingdom
 
 Data protection officer:
 
@@ -101,7 +99,7 @@ The EMP company with whom you placed the order transmits your data to the other 
 
 If you use our contact form to contact us with a service request, we collect the data required for contacting us (name, e-mail address). Optionally, you can also enter your customer number and address so that we can process your service request more effectively and quickly.
 
-### 11.2.5 Marketing purposes, e.g., magazine subscription
+### 2.5 Marketing purposes, e.g., magazine subscription
 
 In addition, we will use your personal data for our own marketing purposes (e.g., mailing of our magazine). If you subscribe to our magazine, we will collect your name and address. We will also collect additional, optional personal data (date of birth, e-mail address, telephone number, how you found out about us), if you so choose.
 
@@ -155,7 +153,7 @@ You have the right to demand that we make available to you or transfer to other 
 
 You may also object to the use, processing, or transfer of your personal data, including, without limitation, for direct advertising purposes (e.g., e-mail advertising or magazine), at any time by notifying our data protection officer (at the above address or by sending an e-mail to datenschutz@emp.de). This will result in no transmission charges other than the standard rates. After receiving your objection, we will no longer use or process the data in question for direct advertising purposes and we will promptly stop sending you any further advertising, including our magazine.
 
-You may also lodge a complaint with the competent data protection regulatory authority in Hannover.
+You may also lodge a complaint with the competent data protection regulatory authority ICO <https://ico.org.uk/>
 
 ### 8 Security and encryption
 
@@ -169,11 +167,7 @@ By selecting the payment option "payment by invoice" you consent that we may col
 
 You may at any time revoke your consent to Klarna's use of your personal data by notifying Klarna. However, even if you revoke consent, Klarna will continue to have the right to process, use, and transfer personal data if and to the extent necessary for processing payment using Klarna's services, required by law, or ordered by a court or regulatory authority.
 
-### 10 Refer-a-friend advertising
-
-We use the service of Aklamio GmbH (hereinafter "Aklamio") for refer-a-friend advertising. For refer-a-friend advertising you must register with your e-mail address with Aklamio. For the purpose and scope of data collection and the further processing and use of data by Aklamio, and for your related rights and setting options to protect your privacy, please refer to the data privacy policy of Aklamio: https://www.aklamio.com/de/datenschutz
-
-### 11 Contests
+### 10 Contests
 
 If you participate in a contest, we will collect the personal data you have provided for purposes of the contest.
 
@@ -183,7 +177,7 @@ Personal data of participants will be processed for purposes of holding the cont
 
 Stored personal data will be erased when they are no longer needed for holding the contest or if storage is or becomes unlawful for other legal reasons.
 
-### 12 Facebook Connect and Google+ Sign-In
+### 11 Facebook Connect and Google+ Sign-In
 
 To register on our website you can use "Facebook Connect," a service of Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, U.S.A. (hereinafter "Facebook"). If you register with Facebook Connect, your profile on our website will be linked to your profile on Facebook. If you use Facebook Connect, you can use your Facebook login data to register on our website. In that case, your Facebook user ID will be sent to us and linked to your user account on our website. In addition, you hereby grant us permission to send you e-mails to the e-mail address associated with your Facebook account. For information about your data, data collection, and protection of your privacy, please refer to the data privacy policy of Facebook. If you do not wish your Facebook profile to be linked to your user account, do not use Facebook Connect.
 
@@ -191,7 +185,7 @@ You may also register on our website using Google+ Sign-In, a service of Google,
 
 If you do not consent to such data transfer, please use your EMP account instead of Facebook Connect or Google + Sign-In to register.
 
-### 13 Social plugins
+### 12 Social plugins
 
 We use social plugins (hereinafter "plugins") of social networks.
 
@@ -209,11 +203,11 @@ For the purpose and scope of data collection and the further processing and use 
 
 <https://www.whatsapp.com/legal/#privacy-policy>
 
-### 14 Userlike live chat
+### 13 Userlike live chat
 
 Our website offers the option of Userlike, live chat software of the company Devcores UG (haftungsbeschränkt) (hereinafter "Userlike"). Userlike uses cookies that will be stored on your computer and allow personal conversations with you in the form of real-time chats on the website. When using the chat function, the chat, including the pages viewed, will be collected, processed and stored by Userlike in Germany. For additional information about the data privacy policy of Userlike, please click here.
 
-### 15 Cookies and tracking
+### 14 Cookies and tracking
 
 Cookies are small text files that are stored by your browser on the hard drive of your computer. Our cookies contain no personal information of any kind and merely serve navigation and recognition purposes.
 
@@ -221,7 +215,7 @@ We use two types of cookies: "persistent cookies" that remain on your computer f
 
 Most browsers accept cookies by default. You can allow or block session cookies and persistent cookies independently from one another by selecting the appropriate security settings in your browser. If you block cookies, certain features of our website may under certain circumstances no longer be available to you and some websites may not be displayed correctly.
 
-### 15.1 Google Analytics
+### 14.1 Google Analytics
 
 Our website uses Google Analytics, a web analysis service of Google. Google Analytics uses cookies that are stored on your computer and allow an analysis of your use of the website.
 
@@ -231,11 +225,11 @@ We also use Google Analytics advertising features to track impressions in the Go
 
 You can prevent the tracking of data about your use of the website (including your IP address) generated by cookies and the tracking of data from Google advertising products and processing of such data by Google by downloading and installing a browser plugin that is available at the following link: http://tools.google.com/dlpage/gaoptout?hl=de.
 
-### 15.2 Google Conversion Tracking
+### 14.2 Google Conversion Tracking
 
 The success of our advertising campaigns using Google Adwords is measured by Google Conversion Tracking, a tool of Google Inc., 1600 Amphitheater Pkwy., Mountain View, CA 94043 (hereinafter "Google"). If you are transferred to our website through a Google ad, a cookie will be placed on your computer. Via such cookies we receive feedback on which products and services on our websites are used by our customers. Cookies are automatically deleted after 30 days. No personal data are transmitted to us in this connection. If you want to deactivate cookies for conversion tracking, you can select the appropriate settings in your browser so that cookies from the domain "googladdservices.com" will be blocked.
 
-### 15.3 Google remarketing
+### 14.3 Google remarketing
 
 We use Google remarketing for our Online Shop, a Google program for interest-based advertising. On the basis of cookies that have been stored for this purpose during prior visits to our Online Shop we can run online advertisements that are geared towards the interests of users. Such ads are either for products that you have already viewed or products that may interest you based on your purchasing and browsing behavior.
 
@@ -245,13 +239,13 @@ In the alternative, you can also deactivate the use of cookies by third-party pr
 
 You can find additional notices and information about the data privacy policy of Google here: http://www.google.de/intl/de/policies/privacy/
 
-### 15.4 Criteo retargeting
+### 14.4 Criteo retargeting
 
 We use retargeting technology of Criteo GmbH, Gewürzmühlstr. 11, 80538 Munich, (hereinafter "Criteo"),= for our website. This technology collects information about the browsing behavior of website visitors for marketing purposes in anonymous form and places cookies for this purpose. This allows Criteo to analyze browsing behavior and on that basis display specific product recommendations in the form of appropriate advertising banners when other websites are visited. Under no circumstances can anonymous data be used to identify visitors to the website. Data collected by Criteo will merely be used to improve advertised products and services. Each display banner will include, in the lower right-hand corner, a small "i" (which stands for "information"), which when you mouse over it will open and which when clicked will transfer you to a page on which the system is explained and an opt-out is offered. If you click on "opt-out" [please insert link for opt-out cookie], an opt-out cookie will be placed preventing such banners from being displayed in the future. Data will not be used for any other purposes or transferred to any third parties.
 
 You will find additional information about the data privacy policy of Criteo here: https://www.criteo.com/privacy/.
 
-### 15.5 Webtrekk
+### 14.5 Webtrekk
 
 We use the services of Webtrekk GmbH, Robert-Koch-Platz 4, 10115 Berlin (hereinafter "Webtrekk") for statistically tracking usage of our website. For this purpose some information about your website visit will be tracked and transmitted by your browser. The following data will be collected: request (file name of requested file), browser type/version (e.g., Firefox 29), browser language (e.g., German), operating system used (e.g., Windows 8), internal resolution of browser window, monitor resolution, JavaScript activation, Java on/off, cookies on/off, color depth, referrer URL (previously visited website), IP address (will be promptly rendered anonymous and deleted immediately after use), time of access, clicks, order amounts, if any, and content of completed forms, if any (for user-defined text fields, e.g., name and password, only "filled out "or "not filled out" will be transferred).
 
@@ -265,13 +259,13 @@ You may at any time opt out of data collection and storage by Webtrekk by clicki
 
 Please note that this cookie will be activated only for the particular browser and the particular terminal device used and that you must opt out separately for any additional browsers or terminal devices. This also applies if all cookies on your terminal device are deleted.
 
-### 15.6 AdClear
+### 14.6 AdClear
 
 We use the services of AdClear GmbH, Robert-Koch-Platz 4, 10115 Berlin (hereinafter "AdClear") on our website to collect statistical data for campaign tracking in an effort to optimize our products and services for our customers. For this purpose cookies are used. Data are tracked exclusively in pseudonymous form. No personal data will be sent to AdClear. AdClear's campaign tracking service is data protection certified by TÜV Saarland.
 
 You may opt out of AdClear campaign tracking. If you do so, a cookie named "adclearoptout" will be placed by the domain www.emp.de. Your opt-out will be valid as long as you do not delete the cookie. To do so, please click here <http://adc.emp.co.uk/acv/A3116773/?setOptoutCookie>
 
-### 15.7 Facebook Pixel
+### 14.7 Facebook Pixel
 
 We use Facebook Custom Audience Pixel, a service of Facebook, on our website. A cookie is placed that allows us to understand how our marketing is received on Facebook and can be improved.
 
@@ -279,13 +273,13 @@ For example, your behavior can be tracked after you are transferred to the websi
 
 Data that are collected in this connection are anonymous for us and thus allow us to make no inferences as to your identity. However, data will be stored and processed by Facebook, so that they may be linked to your user profile and Facebook may use such data for its own advertising purposes in accordance with the Facebook data use policy (https://www.facebook.com/about/privacy/). This may allow Facebook and its business partners to run advertisements on or off Facebook.
 
-### 15.8 Dynatrace Performance Monitoring
+### 14.8 Dynatrace Performance Monitoring
 
 We use Dynatrace Performance Monitoring, a web service of Dynatrace LLC, on our website. The service monitors the performance of web applications. When the service is used, your data will be immediately rendered anonymous. You can find additional information about data privacy at Dynatrace Performance Monitoring here:
 
 www.dynatrace.com/company/terms-and-conditions/privacy
 
-### 15.9 Salesforce Commerce Cloud Analytics
+### 14.9 Salesforce Commerce Cloud Analytics
 
 We use Salesforce Commerce Cloud Analytics, a service of Salesforce Germany GmbH, for our website. The service manages user transaction data from our website. Collected and indexed data can be analyzed. For example, indexed data can be categorized or aggregated, shown in various diagrams and graphics, or supplemented with additional data or information.
 
@@ -293,7 +287,7 @@ You can find additional information about data privacy at salesforce here:
 
 https://www.salesforce.com/company/privacy/full_privacy/
 
-### 15.8 All Response Media
+### 14.10 All Response Media
 
 We use All Response Media Ltd. for our analysis and optimisation and they utilise your non-personal data to plan and optimise media campaigns to most effectively deliver our marketing strategies and ensure the ads that you receive from us are relevant to you. They do this through Performance, Analysis and Targeting cookies.
 
@@ -307,12 +301,84 @@ We use All Response Media Ltd. for our analysis and optimisation and they utilis
 
 Further detail of the related cookies can be noted in the Cookie Policy on this website and
 
-[All Response Media’s website. ](https://web.archive.org/web/20181226230951id_/https%3A//www.emp.co.uk/customer-service/terms-%2526-conditions/www.allresponsemedia.com/privacy-policy/)
+[All Response Media’s website. ](https://web.archive.org/web/20190428025512id_/https%3A//www.emp.co.uk/customer-service/terms-%2526-conditions/www.allresponsemedia.com/privacy-policy/)
 
-### 15.9 Crashlytics
+### 14.11 Crashlytics
 
   
 We use the service Crashlytics from Google (Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) to collect information about errors and crashes which occur in our iOS and Android apps. This helps us to improve the stability and quality of our app. Crashlytics processes data such as your Android device ID. The information transferred from our app is stored on the Crashlytics servers in the USA. You can find more information on data protection on the Crashlytics site [http://try.crashlytics.com/terms/](https://fabric.io/terms?utm_campaign=crashlytics-marketing&utm_medium=natural).
+
+### 15 eKomi
+
+We use the independent evaluation Portal eKomi, which is operated by eKomi Ltd., Markgrafenstr. 11, 10969 Berlin, Germany. We constantly want to improve ourselves and our service and for this reason we have decided to use such a solution. Accordingly, it is not possible for us to control or influence evaluation invitations individually. When you place an order with us, you will automatically receive an email from us afterwards with a link to evaluate your shopping experience with us. This is the only way to ensure a complete, independent and uninfluenced customer evaluation of our company and our services. The data passed on to eKomi: [Order-ID, Date and Time of the order] will be used by eKomi itself or passed on to third parties to fulfill the contract. The evaluation is free of charge to you as a customer. By submitting the evaluation/feedback, you agree to the current communication rules of eKomi. If you have any questions regarding the collection, processing or use of your personal data, information, rectification, blocking or deletion of data and revocation of any given consent or opposition to a certain data use please contact us at: [datenschutz@emp.de](mailto:datenschutz@emp.de).
+
+### 15.9 Data Protection Notice to transfer E-Mail addresses to Funko and Direct Marketing Consent
+
+E.M.P. Merchandising Handelsgesellschaft mbH ("EMP", "we" or "our") provides this Data Protection Notice ("Notice") to explain our practices as the responsible data controller regarding the processing of your email addresses in the context of transferring them to our business partner Funko UK Limited, 21 Holborn Viaduct, London, United Kingdom, EC1A 2DY ("Funko"). 
+
+#### 15.9.1. CATEGORIES OF PERSONAL DATA
+
+EMP collects, processes, and uses your email address as part of your check-out process during the purchase of Funko products on the EMP Website.
+
+#### 15.9.2. PROCESSING PURPOSES, BASIS, RECIPIENT AND CONSEQUENCES
+
+You are in the process of purchasing Funko products on our Website. For the purposes of inter alia delivering the Funko products, providing customer care services, compliance with legal obligations and defending, establishing and exercising legal claims we process your email address in accordance with our Website Privacy Policy which you can find here:[Privacy Policy](https://www.emp.co.uk/customer-service/terms-%26-conditions/terms-privacy-policy.html "Privacy Policy").
+
+In addition to that and based on your explicit and voluntary consent in accordance with Art. 6 (1) lit. (a) General Data Protection Regulation ("GDPR") provided on the basis of this Notice, we will transfer your email address to Funko after September 2021. Funko will process your email address to send you marketing information about other Funko products and services, new developments, and their events via email. 
+
+The provision of your email address for the transfer to Funko is voluntary and is not required as part of the purchase. Not providing it will not result in any disadvantages for you and will especially not result in legal consequences for you.
+
+#### 15.9.3. INTERNATIONAL TRANSFERS OF PERSONAL DATA
+
+Funko is located in the UK (London) and depending on the outcome of the Brexit process will be located outside the European Economic Area ("EEA") from March 29, 2019 onwards. In case of a hard Brexit the UK will be considered a country which does not adduce an adequate level of protection from a European data protection law perspective. We will take all necessary measures to ensure that transfers out of the EEA are adequately protected as required by applicable data protection law by basing the transfer on appropriate safeguards, such as standard data protection clauses adopted by the European Commission or by a supervisory authority, approved codes of conduct together with binding and enforceable commitments of Funko. You can ask for a copy of such appropriate safeguards by contacting us as set out in the "Questions" section below.
+
+#### 15.9.4. RETENTION PERIOD
+
+Your email address is stored by EMP strictly for the time necessary to achieve the purposes for which the information is collected, in accordance with applicable data protection laws. After the transfer of your email address to Funko in October 2021 and if EMP no longer needs to use your email address for other purposes (as set out in our Website Privacy Policy), we will remove it from our systems and records and/or take steps to properly anonymize it so that you can no longer be identified from it (unless we need to keep your information to comply with legal or regulatory obligations to which EMP is subject).
+
+#### 15.9.5. YOUR RIGHTS
+
+#### 15.9.5.1 Right to withdraw your consent
+
+If you have declared your consent to the transfer of your email address to Funko and the receipt of certain type of direct marketing communication via email from Funko, you can withdraw this consent at any time with future effect. Such a withdrawal will not affect the lawfulness of the processing prior to the consent withdrawal. Please contact us as stated in the "Questions" section below to withdraw your consent or contact Funko (supporteushop@funkoeuropeshop.com). You may also use the "unsubscribe" button in each email provided by Funko.
+
+#### 15.9.5.2 Additional data privacy rights
+
+Pursuant to applicable data protection law you may have the right to: (i) request access to your personal data; (ii) request rectification of your personal data; (iii) request erasure of your personal data; (iv) request restriction of processing of your personal data; (v) request data portability; and (vi) object to the processing of your personal data (including objection to profiling).
+
+Please note that the aforementioned rights might be limited under the applicable national data protection law. Below please find further information on your rights under the GDPR:
+
+**5.2.1 Right of access:** You may have the right to obtain from us confirmation as to whether or not personal data concerning you is being processed, and, where that is the case, to request access to the personal data. The access information includes – inter alia – the purposes of the processing, the categories of personal data concerned, and the recipients or categories of recipient to whom the personal data have been or will be disclosed. However, this is not an absolute right and the interests of other individuals restrict your right of access.
+
+You may have the right to obtain a copy of the personal data undergoing processing. For further copies requested by you, we may charge a reasonable fee based on administrative costs.
+
+**5.2.2 Right to rectification:** You may have the right to obtain from us the rectification of inaccurate personal data concerning you. Depending on the purposes of the processing, you may have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
+
+**5.2.3 Right to erasure (right to be forgotten):** Under certain circumstances, you may have the right to obtain from us the erasure of personal data concerning you and we may be obliged to erase such personal data.
+
+**5.2.4 Right to restriction of processing:** Under certain circumstances, you may have the right to obtain from us restriction of processing your personal data. In this case, the respective data will be marked and may only be processed by us for certain purposes.
+
+**5.2.5 Right to data portability:** Under certain circumstances, you may have the right to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and you may have the right to transmit those data to another entity without hindrance from us.
+
+**5.2.6 Right to object:** Under certain circumstances, you may have the right to object, on grounds relating to your particular situation, at any time to the processing of your personal data by us and we can be required to no longer process your personal data. Such right to object may especially apply if EMP or Funko processes your personal data for direct marketing via email. If you have a right to object and you exercise this right, your personal data will no longer be processed for such purposes by us. You may exercise this right without incurring any costs other than the transmission costs in accordance with the basic tariffs of your telecommunication provider by contacting us as stated in the "Questions" section below.
+
+Such a right to object may not exist, in particular, if the processing of your personal data is necessary to take steps prior to entering into a contract or to perform a contract already concluded.
+
+If you have also consented to direct marketing but no longer want to receive any direct marketing via email, you also need to withdraw your consent as explained above .
+
+To exercise your rights please contact us as stated in the "Questions" section below.
+
+You also have the right to lodge a complaint with the competent data protection supervisory authority.
+
+#### Questions
+
+If you have any questions about this Notice or if you want to exercise your rights as explained in the "Your Rights" section, please contact datenschutz@emp.de
+
+EMP's data protection officer can be contacted at E.M.P. Merchandising Handelsgesellschaft mbH, André Bosse, Darmer Esch 70a, D-49808 Lingen, datenschutz@emp.de.
+
+In case of exclusive purchase of Funko products (e.g., shopping cart contains only Funko products) you receive the option to give your consent to transfer your email address to Funko UK Limited, 21 Holborn Viaduct, London, United Kingdom, EC1A 2DY and to receive marketing information from Funko as of October 2021.You can obtain the related data protection information here: [Privacy Policy](https://www.emp.co.uk/customer-service/terms-%26-conditions/terms-privacy-policy.html "Privacy Policy").
+
+If you have declared your consent to the transfer of your email address to Funko and the receipt of certain type of direct marketing communication via email from Funko, you can withdraw this consent at any time with future effect. Such a withdrawal will not affect the lawfulness of the processing prior to the consent withdrawal. Please contact us as stated in the "Questions" section below to withdraw your consent or contact Funko (supporteushop@funkoeuropeshop.com). You may also use the "unsubscribe" button in each email provided by Funko.
 
   
 
