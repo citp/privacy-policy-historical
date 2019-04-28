@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the teachexcel.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130175723id_/http%3A//www.teachexcel.com/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachexcel.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428092636id_/https%3A//www.teachexcel.com/privacy/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TeachExcel.com - Excel Video Tutorials Free
 
 Privacy Policy __
 
 We, teachexcel.com, do not sell, distribute, or otherwise disseminate anything related to your visit on this website. Cookies are present on this website, however, we do not sell, distribute, or otherwise disseminate anything related to your visit. Some portions of the website contain ads. The information below pertains to these ads. 
+
+We reserve the right to use information that you provide us to contact you. 
 
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
