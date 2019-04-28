@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovelindsay.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215104837id_/https%3A//www.ilovelindsay.com/about-lindsay/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovelindsay.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428051516id_/https%3A//www.ilovelindsay.com/about-lindsay/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lindsay
 
