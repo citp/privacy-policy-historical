@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patreon.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231190540id_/https%3A//www.patreon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patreon.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429112828id_/https%3A//www.patreon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Patreon
 
@@ -60,7 +60,7 @@ Our service does not support Do Not Track requests at this time, which means our
 
 We use third-party advertising cookies to present you with opportunities while on Patreon. We also use retargeting cookies to present you with Patreon advertising on other websites.
 
-  1. Sift Science: The [Sift Science](https://siftscience.com/) page and [privacy policy](https://siftscience.com/site-privacy) explains their cookies and provides information on opt-out.
+  1. Sift: The [Sift](https://sift.com/) page and [privacy policy](https://sift.com/service-privacy) explains their cookies and provides information on opt-out.
   2. Visual Website Optimiser (Wingify): You can read the [Visual Website Optimiser](https://wingify.com/) and its [privacy policy](https://vwo.com/privacy-policy/) to learn about its cookies and have the option to [opt-out.](https://vwo.com/opt-out/)
   3. Facebook Custom Audiences: You can adjust your Facebook advertising settings from within your Facebook account and opt-out of advertisements from within the Facebook application.
   4. Google Adwords: You can [adjust](https://www.google.com/settings/u/0/ads/authenticated?hl=en) the Google ads settings and [opt-out](https://support.google.com/ads/answer/2662922?hl=en) of this program.
@@ -156,7 +156,7 @@ We retain your information for ten years, unless you disable your account inform
 
   6. ### Additional Questions Related to Privacy
 
-For additional privacy-related questions about your account, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bacac8d3ccdbd9c3facadbcec8dfd5d494d9d5d7).
+For additional privacy-related questions about your account, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7404061d0215170d3404150006111b1a5a171b19).
 
 
 
@@ -185,6 +185,6 @@ Patreon is not directed at children under the age of 13, and they may not create
 
 We may sometimes make changes to this policy. If we make material changes that adversely affect your rights under this policy, we will let you know by posting an announcement on the site or sending you an email prior to the changes coming into effect. Continuing to use Patreon after a change to this policy means you accept the new policy.
 
-If you have any questions, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#38484a514e595b417848594c4a5d5756165b5755).
+If you have any questions, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cdbdbfa4bbacaeb48dbdacb9bfa8a2a3e3aea2a0).
 
 Effective May 25, 2018. Last updated on May 22, 2018
