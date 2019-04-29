@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the larosas.com privacy policy that was archived on 2016-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160814140731id_/https%3A//www.larosas.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the larosas.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429081259id_/https%3A//www.larosas.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# LaRosa's Pizza | Serving Greater Cincinnati for Over 60 Years
+# LaRosa's Pizzeria | Our Privacy Policy
 
 ## We will always respect your privacy.
 
-You are our guest, and we think of our guests as old friends. Sometimes, we ask you for personal information like name, phone number, address, email address, etc. so that we can better serve you. But, like old friends do, we promise to keep that information private and secure. Below, we explain some of the ways we collect information, and how we might use it. If you have any questions, please click on “Contact Us” on any page of larosas.com. You'll find complete contact information there.
+You are our guest, and we think of our guests as old friends. Sometimes, we ask you for personal information like name, phone number, address, email address, etc. so that we can better serve you. But, like old friends do, we promise to keep that information private and secure. Below, we explain some of the ways we collect information, and how we might use it. If you have any questions, please click on “Contact Us” on any page of larosas.com. You'll find complete contact information there. 
 
 ## Ways we collect information.
 
@@ -46,6 +46,8 @@ This is our current privacy policy, but we reserve the right to change our websi
 
 If you have any questions, or believe that this policy has been violated in any way, please let us know. Just click on "[Contact Us](https://web.archive.org/contact/contact-larosas.aspx)" on any page of larosas.com. You'll find complete contact information there.
 
+## Other Legal Information
+
 ## General:
 
 We try to keep accurate and current information on our websites, but cannot promise that all information is always accurate. We are not liable for any direct, indirect, consequential, or punitive damages caused by use of our websites (including but not limited to viruses, omissions or misstatements).
@@ -68,8 +70,8 @@ About Us
   * [Contact Us](https://web.archive.org/contact/contact-larosas.aspx)
   * [Join the Team](https://web.archive.org/join-the-team/)
   * [Franchise](http://www.larosas.com/franchise/)
-  * [News](https://web.archive.org/about/news.aspx)
   * [Management Team](https://web.archive.org/about/management.aspx)
   * [Privacy](https://web.archive.org/about/privacy.aspx)
+  * [Website Accessibility](https://web.archive.org/about/accessibility.aspx)
 
 
