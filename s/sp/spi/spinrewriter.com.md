@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinrewriter.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804051327id_/https%3A//www.smiley-tech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinrewriter.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429185324id_/https%3A//www.smiley-tech.com/privacy-policy) for the most accurate reproduction.*
 
 # SmileyTech Solutions - Privacy Policy
 
@@ -91,7 +91,7 @@ Our staff has restricted access to personal identifiable information unless requ
 
 We may promote our services through remarketing. Remarketing is a way for us to connect with users, based upon your past interactions with any of our websites. Third-party marketing vendors may be hired to perform remarketing services. As a result, third-party vendors, including Google, may show ads for our services on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on user's prior visits to any of our websites. 
 
-To opt out of customized Google Display Network ads, [click here](https://www.google.com/settings/ads/onweb/?hl=en&hl=en&sig=ACi0TCjO-P9kncoNV8waYtavL8ZEwWRLAhhGX7ESyhREjNPEH7nMGxWksJO-uFQYNVKIjB9_qnXgHCHNy2WETTCMIXVQ9R_Oea0MHA_VGyn22H4gZ6ZzDwhG6WUzEyMYFOOFEsH-XUeLEPx9qaWYBbMCH9J2Pi6g9yczOd4TKR-Hncu30k0iavWl68hNVXe0XNEKqTFn_x-A5x6uNuRE2_f9MSeEWE5UApqYhSa8fAPM5tGWnjrOwc6bnYApRXRe1_HQ0HP0H4qK&hl=en "Google - Ads Preferences Manager"). To find out more about how Google uses any data it collects, please visit <http://www.google.com/privacy_ads.html>. 
+To opt out of customized Google Display Network ads, [click here](https://www.google.com/settings/ads/onweb/?hl=en&hl=en&sig=ACi0TCjO-P9kncoNV8waYtavL8ZEwWRLAhhGX7ESyhREjNPEH7nMGxWksJO-uFQYNVKIjB9_qnXgHCHNy2WETTCMIXVQ9R_Oea0MHA_VGyn22H4gZ6ZzDwhG6WUzEyMYFOOFEsH-XUeLEPx9qaWYBbMCH9J2Pi6g9yczOd4TKR-Hncu30k0iavWl68hNVXe0XNEKqTFn_x-A5x6uNuRE2_f9MSeEWE5UApqYhSa8fAPM5tGWnjrOwc6bnYApRXRe1_HQ0HP0H4qK&hl=en "Google - Ads Preferences Manager"). To find out more about how Google uses any data it collects, please visit <https://www.google.com/privacy_ads.html>. 
 
 Any information collected this way is used only for remarketing purposes and will not be used by us or our partners for any other purpose. 
 
@@ -112,8 +112,8 @@ If you have any questions in relation to our Privacy Policy, or you would like t
 The following registered business is recognized as the SmileyTech Solutions trademark holder: 
 
 **INFINET d.o.o.** (officially translated: INFINET LLC)  
-Dasnica 66  
-4228 Zelezniki  
+Kunaverjeva ulica 9  
+1000 Ljubljana  
 Slovenia, EUROPE
 
 VAT ID Number: SI-97705446  
@@ -124,4 +124,4 @@ Registration Number: 3914828000
 
 Contact Email Address: _available in the footer of all pages of this website_
 
-**Most Recent Revision:** This document has been updated on March 25th, 2018 at 10:23 AM EST (New York time).
+**Most Recent Revision:** This document has been updated on December 4th, 2018 at 8:21 AM EST (New York time).
