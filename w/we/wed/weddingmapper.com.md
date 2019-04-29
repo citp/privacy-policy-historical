@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308220218id_/https%3A//www.weddingmapper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingmapper.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429071618id_/https%3A//www.weddingmapper.com/privacy) for the most accurate reproduction.*
 
 # Wedding Mapper
 
@@ -8,7 +8,7 @@ Last Updated: June 18th, 2010
 
 **SUMMARY**
 
-We take the privacy of our users very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [privacy@WeddingMapper.com](mailto:privacy@WeddingMapper.com) or in writing at: Privacy Director, Community Walk, 880 Lombard Street, San Francisco, CA 94133. 
+We take the privacy of our users very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [[email protected]](https://www.weddingmapper.com/cdn-cgi/l/email-protection#bfcfcdd6c9dedcc6ffe8dadbdbd6d1d8f2decfcfdacd91dcd0d2) or in writing at: Privacy Director, Community Walk, 880 Lombard Street, San Francisco, CA 94133. 
 
 **Online Privacy Standards.** While there are no official standards governing privacy practices on the Internet, we look to the principles supported by the Federal Trade Commission's Fair Information Practices Principles for guidance, currently available at http://www.ftc.gov/reports/privacy3/tos.htm. 
 
@@ -30,7 +30,7 @@ We take the privacy of our users very seriously. Please read this Privacy Policy
 
 **B. Information We Do Not Collect**
 
-**Children.** As explained further in our Terms of Service, available at www.WeddingMapper.com/company/policies/terms_of_service, our website is intended for adults only. You must be 13 years of age or older to register to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at privacy@WeddingMapper.com or write to our Privacy Director at the address noted above.
+**Children.** As explained further in our Terms of Service, available at www.WeddingMapper.com/company/policies/terms_of_service, our website is intended for adults only. You must be 13 years of age or older to register to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [[email protected]](https://www.weddingmapper.com/cdn-cgi/l/email-protection) or write to our Privacy Director at the address noted above.
 
 **Social Security Number.** We do not ask for or require your social security number to use any part of the Services or to access any part of our site.
 
