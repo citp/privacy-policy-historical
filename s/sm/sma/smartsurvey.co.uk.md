@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109010536id_/https%3A//www.smartsurvey.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429022613id_/https%3A//www.smartsurvey.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartSurvey
 
@@ -235,14 +235,6 @@ Google Analytics also helps to stop you from seeing the same ad over and over ag
 Google stores a record of the ads we serve in our logs which include your web request, IP address (which can also be used to infer general location), browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser. This data is anonymised by removing part of the IP address (after 9 months) and cookie information (after 18 months). This data is stored with Google not SmartSurvey. SmartSurvey receives anonymised data of this so we cannot identify whom the individuals are. 
 
 To opt out of google Analytics, please visit [ https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout/)
-
-####  Crisp 
-
-Used to monitor a Site Visitor’s live chat with our sales team while on our site. This will store information about you for the purposes of support such as your name, phone number, department, and message. 
-
-We also use the information to compile reports for our sales team and improve our support services. The cookies collect information in an anonymous form. 
-
-To learn more about Crisp, please visit: https://crisp.chat/en/privacy/ 
 
 ####  VWO 
 
