@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratechery.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015043837id_/https%3A//stratechery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratechery.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429194750id_/https%3A//stratechery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Stratechery by Ben Thompson
 
