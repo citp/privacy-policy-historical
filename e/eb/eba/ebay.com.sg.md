@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ebay.com.sg privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222195406id_/https%3A//pages.ebay.com.sg/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com.sg privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429102444id_/https%3A//pages.ebay.com.sg/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
 This Privacy Notice was posted on **May 1, 2018**. It is effective immediately for new users, and from **June 1, 2018** for all other users. [See previous version of this Privacy Notice](https://web.archive.org/pages/help/pp_previous.html).
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 eBay is committed to your privacy. This privacy notice explains our collection, use, disclosure, retention and protection of your personal information.
 
@@ -420,7 +418,7 @@ If you reside outside of the United States, you are contracting with one of our 
 
   * If you reside in a country within the European Union (except the United Kingdom) you are contracting with eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany;
 
-  * If you reside in the United Kingdom you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom;
+  * If you reside in the United Kingdom you are contracting with eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom;
 
   * If you reside in India you are contracting with eBay Singapore Services Pte Ltd, 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315;
 
