@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the throwawaymail.com privacy policy that was archived on 2018-07-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180708113558id_/https%3A//www.throwawaymail.com/en/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the throwawaymail.com privacy policy that was archived on 2019-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190429031638id_/https%3A//www.throwawaymail.com/en/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Pragma" content="no-cache">
@@ -299,11 +299,70 @@ Copyright © 2017
 <script src="//www.throwawaymail.com/jquery.min.js"></script>
 <script src="//www.throwawaymail.com/js/bootstrap.min.js"></script>
 
-<script src="https://optanon.blob.core.windows.net/consent/b5c0a886-492f-4309-a840-b50e356b2860.js" type="text/javascript" charset="UTF-8"></script>
-<script type="text/javascript">
-function OptanonWrapper() { }
-</script>
 
+
+
+<script src="//get.s-onetag.com/4259b5a1-3195-49b0-9597-3ea0da0e53ac/tag.min.js" async="" defer=""></script>
+
+<script>
+        (function (window, document) {
+            if (!window._cmp) {
+                window._cmp = (function () {
+                    var listen = window.attachEvent || window.addEventListener;
+                    listen('message', function (event) {
+                        window._cmp.receiveMessage(event);
+                    }, false);
+
+                    function addLocatorFrame() {
+                        if (!window.frames['__cmpLocator']) {
+                            if (document.body) {
+                                var frame = document.createElement('iframe');
+                                frame.style.display = 'none';
+                                frame.name = '__cmpLocator';
+                                document.body.appendChild(frame);
+                            } else {
+                                setTimeout(addLocatorFrame, 5);
+                            }
+                        }
+                    }
+
+                    addLocatorFrame();
+
+                    var commandQueue = [];
+                    var cmp = function (command, parameter, callback) {
+                        if (command === 'ping') {
+                            if (callback) {
+                                callback({
+                                    gdprAppliesGlobally: !!(window._cmp && window._cmp.config && window._cmp.config.storeConsentGlobally),
+                                    cmpLoaded: false
+                                });
+                            }
+                        } else {
+                            commandQueue.push({
+                                command: command,
+                                parameter: parameter,
+                                callback: callback
+                            });
+                        }
+                    };
+                    cmp.commandQueue = commandQueue;
+                    cmp.receiveMessage = function (event) {
+                        var data = event && event.data && event.data._cmpCall;
+                        if (data) {
+                            commandQueue.push({
+                                callId: data.callId,
+                                command: data.command,
+                                parameter: data.parameter,
+                                event: event
+                            });
+                        }
+                    };
+                    cmp.config = {};
+                    return cmp;
+                }());
+            }
+        })(window, document);
+    </script><iframe name="__cmpLocator" style="display: none;"></iframe>
 
 
 </body></html>
