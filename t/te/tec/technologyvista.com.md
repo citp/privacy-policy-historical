@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technologyvista.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001082607id_/http%3A//www.technologyvista.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyvista.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429043534id_/http%3A//www.technologyvista.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Technology Vista
+# Privacy Policy » Technology Vista
 
 This Privacy Policy governs the way in which[  **www.TechnologyVista.com**](http://technologyvista.com/)[ ](http://honeybunni.com/ "honeybunni")collects, uses, maintains and discloses information collected from users of the [www.TechnologyVista.com](http://technologyvista.com/) website. This Privacy Policy applies to the website, all products and services offered to users by [ **www.TechnologyVista.com**](http://technologyvista.com/ "honeybunni")
 
