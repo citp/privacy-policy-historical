@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the freshpreserving.com privacy policy that was archived on 2018-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180909070035id_/https%3A//www.freshpreserving.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freshpreserving.com privacy policy that was archived on 2019-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190429121232id_/https%3A//www.freshpreserving.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-<script type="text/javascript" async="" src="https://js.bronto.com/c/9ym7uymri41dlcjpj41nsfyqjn2sm0hyuotd1k2rp9w8kwg70w/3b25222c4ff5c8489018d04c8563f5be269d5b33493af4c45b94ce446a9b6e99/s/b.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PL4TV5"></script><script src="//cdn.optimizely.com/js/6614590093.js"></script>
+<script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=vtMqpNTdeKE9&amp;v=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PL4TV5"></script><script src="//cdn.optimizely.com/js/6614590093.js"></script>
 <meta charset="UTF-8">
 <title>Privacy Policy</title>
 <link href="/on/demandware.static/Sites-BALL-Site/-/default/dw4d7dbad0/images/favicon.ico" rel="shortcut icon">
 <meta name="description" content="  <h1>Ball</h1>">
 <meta name="keywords" content="  Ball">
-<link href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/html5.js"></script>
 <![endif]-->
 <!--[if lte IE 9]>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/matchMedia.js"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/matchMedia.js"></script>
 <![endif]-->
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -30,7 +30,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -76,27 +82,54 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/css/bootstrap.min.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/css/bootstrap.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/css/bootstrap-theme.min.css">
 
 <link href="//fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/css/custom-fonts.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/css/style.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/css/owl.carousel.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/css/owl.theme.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/css/owl.transitions.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/css/custom-fonts.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/css/owl.carousel.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/css/owl.theme.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/css/owl.transitions.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
 <meta name="google-site-verification" content="e9Cal7g64Go8GRT5dGxrfSW1UxznA_27X1BSQutDwTg">
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
 <script type="text/javascript">
 if (window.jQuery) {
@@ -315,7 +348,7 @@ Canning
 <span class="drop-down menu-down-arrow"><img src="/on/demandware.static/Sites-BALL-Site/-/default/dwae88286e/images/dropdown-black.png"></span>
 <ul id="js-drown-level2" class="canningmenu">
 <div class="content-asset">
-<link href="https://www.freshpreserving.com/on/demandware.static/-/Sites-BALL-Library/en_US/v1536404532239/assets/canning/css/canning-mega-menu.css" rel="stylesheet" type="text/css">
+<link href="https://www.freshpreserving.com/on/demandware.static/-/Sites-BALL-Library/en_US/v1556535644532/assets/canning/css/canning-mega-menu.css" rel="stylesheet" type="text/css">
 <div class="row desktop-mega-menu canning-mega-menu">
 <div class="col-xs-12 col-md-9">
 <h2><a href="https://www.freshpreserving.com/canningmenu.html">CANNING</a></h2>
@@ -368,9 +401,9 @@ Canning
 </ul>
 <a alt="" class="sub-mega-item-head" href="https://www.freshpreserving.com/canning-reftool-growing.html">GROWING</a>
 <ul class="sub-mega-items">
-<li><a alt="" href="https://www.freshpreserving.com/Produce-Purchase-Guide.html">Produce Purchase Guide</a></li>
-<li><a alt="" href="https://www.freshpreserving.com/harvesting-guide.html">Seed-to-harvest Guide (PDF)</a></li>
-<li><a alt="" href="http://www.freshlypreservedideas.com" target="_blank">Interactive Canning Map (Tumblr)</a></li>
+
+<li><a alt="" href="https://www.freshpreserving.com/harvesting-guide.html">Planning for Canning Season</a></li>
+<li><a alt="" href="https://www.freshpreserving.com/Ball%C2%AE+Canning+Map.html" target="_blank">Interactive Canning Map</a></li>
 </ul>
 </div>
 </div>
@@ -383,7 +416,7 @@ Canning
 <li><a href="https://www.facebook.com/BallCanning" target="_blank"><img alt="" src="https://www.freshpreserving.com/on/demandware.static/-/Sites-BALL-Library/default/dwc64dbd70/assets/canning/images/facebok_megamenu_icon.png">Facebook</a> <a href="http://pinterest.com/ballcanning" target="_blank"><img alt="" src="https://www.freshpreserving.com/on/demandware.static/-/Sites-BALL-Library/default/dw00995ce2/assets/canning/images/pinterest_megamenu_icon.png">Pinterest</a> <a href="https://twitter.com/BallCanning" target="_blank"><img alt="" src="https://www.freshpreserving.com/on/demandware.static/-/Sites-BALL-Library/default/dwae3d7841/assets/canning/images/twitter_megamenu_icon.png">Twitter</a> <a href="http://www.youtube.com/user/BallCanning" target="_blank"><img alt="" src="https://www.freshpreserving.com/on/demandware.static/-/Sites-BALL-Library/default/dwe66790cf/assets/canning/images/youtube_megamenu_icon.png">YouTube</a> <a href="https://www.instagram.com/ballcanning" target="_blank"><img alt="" src="https://www.freshpreserving.com/on/demandware.static/-/Sites-BALL-Library/default/dwfd5474cf/assets/canning/images/instagram_megamenu_icon.png">Instagram</a> <a href="http://www.freshlypreservedideas.com" target="_blank"><img alt="" src="https://www.freshpreserving.com/on/demandware.static/-/Sites-BALL-Library/default/dw0c105b12/assets/canning/images/tumblr_megamenu_icon.png">Tumblr Feed</a></li>
 </ul>
 <h3><a href="https://www.freshpreserving.com/time-well-spent.html">Time Well Spent</a></h3>
-<h3><a href="https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/StateFairProgramLogin-Show">Fair Program Login</a></h3>
+
 <h3><a href="https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Page-Show?cid=international-sites">International Sites</a></h3>
 <a alt="" class="sub-mega-item-head" href="http://www.freshpreserving.com.au/" target="_blank">Australia/New Zealand</a> <a alt="" class="sub-mega-item-head" href="https://www.bernardin.ca" target="_blank">Canada</a> <a alt="" class="sub-mega-item-head" href="http://www.freshpreserving.co.za/" target="_blank">South Africa</a> <a alt="" class="sub-mega-item-head" href="http://www.freshpreservinguk.co.uk/" target="_blank">United Kingdom</a></div>
 </div>
@@ -447,8 +480,8 @@ Canning
 </ul>
 <a alt="" class="sub-mega-item-head" href="https://www.freshpreserving.com/canning-reftool-growing.html">GROWING</a>
 <ul class="sub-mega-items">
-<li><a alt="" href="https://www.freshpreserving.com/Produce-Purchase-Guide.html">Produce Purchase Guide</a></li>
-<li><a alt="" href="https://www.freshpreserving.com/harvesting-guide.html">Seed-to-harvest Guide (PDF)</a></li>
+
+<li><a alt="" href="https://www.freshpreserving.com/harvesting-guide.html">Planning for Canning Season</a></li>
 <li><a alt="" href="http://www.freshlypreservedideas.com" target="_blank">Interactive Canning Map (Tumblr)</a></li>
 </ul>
 </div>
@@ -953,7 +986,7 @@ width: auto;
 <p>BY USING OR ACCESSING THIS WEBSITE YOU SIGNIFY YOUR ACKNOWLEDGMENT AND ASSENT TO THIS PRIVACY POLICY. PLEASE READ THIS POLICY CAREFULLY. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THIS WEBSITE.</p>
 <p>This policy is intended to help you understand how Newell Brands Inc., its subsidiaries and affiliates (collectively, "Newell Brands," "we" or "us") collect, use and safeguard the information you provide on this website. This policy covers this website and all Newell Brands websites except where otherwise indicated. Some Newell Brands websites may have policies that supplement this policy. We encourage you to read this policy and any supplemental policies on Newell Brands websites. In the event of any conflict between this policy and terms set forth in a supplemental policy, the latter will apply to the website on which such supplemental policy is posted.</p>
 <h2><strong>Collection of Personal Information</strong></h2>
-<p>If you browse any Newell Brands website, you may generally do so anonymously without providing any personal information. However, there are cases in which we may ask you for personal data. For example, we will occasionally conduct on-line surveys to better understand the needs and profile of our visitors. In addition, we may request personal information when you register to receive additional information regarding our products and services, download software, sign up for a newsletter or send us a question. In such cases, the personal information we request will typically consist of: your title, first and last name, mailing address and email address, as well as certain billing and credit card information for purposes of effecting payments. Additionally, we may provide you with the option of submitting information such as your birthday, anniversary date, information regarding the size and composition of your household and your preferred retailers, all of which are intended to enhance your experience, and inform you, of our product and service offerings Even if you choose not to give information we request, you can still visit most of the Newell Brands website, but you may be unable to access certain options, offers and services.</p>
+<p>If you browse any Newell Brands website, you may generally do so anonymously without providing any personal information. However, there are cases in which we may ask you for personal data. For example, we will occasionally conduct on-line surveys to better understand the needs and profile of our visitors. In addition, we may request personal information when you register to receive additional information regarding our products and services, download software, sign up for a newsletter or send us a question. In such cases, the personal information we request will typically consist of: your title, first and last name, mailing address and email address, as well as certain billing and credit card information for purposes of effecting payments. Additionally, we may provide you with the option of submitting information such as your birthday, anniversary date, information regarding the size and composition of your household and your preferred retailers, all of which are intended to enhance your experience, and inform you, of our product and service offerings Even if you choose not to give information we request, you can still visit most of the Newell Brands website, but you may be unable to access certain options, offers and services.</p> 
 
 <h2><strong>Newell Brands Mailings/Marketing Communications</strong></h2>
 <p>If you provide us with personal information, and choose to join a particular company's e-mail list, we will place you on that company's list to receive e-mail regarding product/service updates, special offers, important issues and new products and services from that company as well as other subsidiaries and affiliates of Newell Brands. The personal information that you provide to that particular company will be shared internally with other subsidiaries and affiliates of Newell Brands. If you do not wish to receive e-mail updates or other marketing communications from that particular company or other Newell Brands subsidiariesand affiliates, please contact us at the opt-out e-mail address specified below. </p>
@@ -993,9 +1026,9 @@ Atlanta, Georgia 30328<br>
 </div>
 </div> 
 </div>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/js/md5.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/js/tagmanager.js"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/js/youtubeEvents.js"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/js/md5.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/js/tagmanager.js"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/js/youtubeEvents.js"></script>
 <script>
 dataLayer = ;
 
@@ -1017,10 +1050,10 @@ dataLayer = ;
 	jQuery(document).load(function(){ if ('tagManager' in window) tagManager.init(dataLayer, pageContext); });
 </script>
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -1028,24 +1061,24 @@ dataLayer = ;
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/bootstrap.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/printThis.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jspdf.debug.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/jquery.uniform.js"></script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/lib/jquery/owl.carousel.js"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/bootstrap.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/printThis.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jspdf.debug.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/jquery.uniform.js"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/lib/jquery/owl.carousel.js"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quick View","US_INVALID_ZIPCODE":"Please specify a valid US zipcode.","USER_NAME":"Username","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-BALL-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-BALL-Site/en_US/Page-Include","continueUrl":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Page-Show/C1832140803","staticPath":"/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/","addGiftCert":"/on/demandware.store/Sites-BALL-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-BALL-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-BALL-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-BALL-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.freshpreserving.com/payment","addressesList":"https://www.freshpreserving.com/addresses","wishlistAddress":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-BALL-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-BALL-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-BALL-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-BALL-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-BALL-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-BALL-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-BALL-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-BALL-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-BALL-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-BALL-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-BALL-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-BALL-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-BALL-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-BALL-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-BALL-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-BALL-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-BALL-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-BALL-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-BALL-Site/en_US/Page-Include?cid=cookie_hint","newsletterOptIn":"/on/demandware.store/Sites-BALL-Site/en_US/Home-OptIn","includeOptIn":"/on/demandware.store/Sites-BALL-Site/en_US/Home-IncludeOptIn","printOption":"/on/demandware.store/Sites-BALL-Site/en_US/Product-PrintOptions"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":false,"COOKIE_HINT":false};
-window.User = {"zip":null,"storeId":null,"geolocation":{"city":null,"countryCode":"FI","countryName":"Finland","latitude":60.1708,"longitude":24.9375,"postalCode":null,"regionCode":null,"regionName":null}};
-window.Scripts = {"useMin":true,"storeLocator":{"vars":{"zoomradius":"{\"0\": 600000,\"1\": 600000,\"2\": 10000,\"3\": 6000,\"4\": 3000,\"5\": 1600,\"6\": 800,\"7\": 300,\"8\": 150,\"9\": 100,\"10\": 70,\"11\": 40,\"12\": 20,\"13\": 10,\"14\": 5,\"15\": 3,\"16\": 3,\"17\": 3,\"18\": 3,\"19\": 3,\"20\": 3}","storeurl":"/on/demandware.store/Sites-BALL-Site/en_US/Stores-Details?StoreID=","markerurl":"https://www.freshpreserving.com/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/images/marker.png","markerdetailurl":"https://www.freshpreserving.com/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/images/markerdetail.png","queryurl":"/on/demandware.store/Sites-BALL-Site/en_US/Stores-GetNearestStores","cookieurl":"/on/demandware.store/Sites-BALL-Site/en_US/Stores-SetGeoLocation","cookiename":"LEACustomerLocation","defaultlocation":"United States","maptype":"ROADMAP"}}};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_FIRSTNAME":"Please enter a valid First name","INVALID_LASTNAME":"Please enter a valid Last name","INVALID_ADDRESS1":"Please enter a valid Address1","INVALID_ADDRESS2":"Please enter a valid Address2","INVALID_CITY":"Please enter a valid City","INVALID_ZIPCODE":"Please provide a valid zipcode.","INVALID_INPUT":"Please check your input.","INVALID_EMAIL":"The email address is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quick View","US_INVALID_ZIPCODE":"Please specify a valid US zipcode.","CA_INVALID_ZIPCODE":"Please specify a valid Canada zipcode.","USER_NAME":"Username","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-BALL-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-BALL-Site/en_US/Page-Include","continueUrl":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Page-Show/C487561765","staticPath":"/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/","addGiftCert":"/on/demandware.store/Sites-BALL-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-BALL-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-BALL-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-BALL-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.freshpreserving.com/payment","addressesList":"https://www.freshpreserving.com/addresses","wishlistAddress":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-BALL-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-BALL-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-BALL-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-BALL-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-BALL-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-BALL-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-BALL-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-BALL-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-BALL-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-BALL-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-BALL-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-BALL-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-BALL-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-BALL-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-BALL-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-BALL-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-BALL-Site/en_US/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-BALL-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-BALL-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-BALL-Site/en_US/Page-Include?cid=cookie_hint","newsletterOptIn":"/on/demandware.store/Sites-BALL-Site/en_US/EmailSignup-Subscribe","includeOptIn":"/on/demandware.store/Sites-BALL-Site/en_US/EmailSignup-IncludeForm","printOption":"/on/demandware.store/Sites-BALL-Site/en_US/Product-PrintOptions"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":false,"COOKIE_HINT":false,"BT_LOCALE":"en_US","BT_CALLING_APP":"Ball","BT_CREATE_CASE_SYSTEM":"SFDC","BT_APIKEY":"APIKeyCC","BT_CREATE_CASE_ENDPOINT":"https://api.newellbrands.com/Digital/CreateCase/Create"};
+window.User = {"zip":null,"storeId":null,"geolocation":{"city":null,"countryCode":"US","countryName":"United States","latitude":37.751,"longitude":-97.822,"postalCode":null,"regionCode":null,"regionName":null}};
+window.Scripts = {"useMin":true,"storeLocator":{"vars":{"zoomradius":"{\"0\": 600000,\"1\": 600000,\"2\": 10000,\"3\": 6000,\"4\": 3000,\"5\": 1600,\"6\": 800,\"7\": 300,\"8\": 150,\"9\": 100,\"10\": 70,\"11\": 40,\"12\": 20,\"13\": 10,\"14\": 5,\"15\": 3,\"16\": 3,\"17\": 3,\"18\": 3,\"19\": 3,\"20\": 3}","storeurl":"/on/demandware.store/Sites-BALL-Site/en_US/Stores-Details?StoreID=","markerurl":"https://www.freshpreserving.com/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/images/marker.png","markerdetailurl":"https://www.freshpreserving.com/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/images/markerdetail.png","queryurl":"/on/demandware.store/Sites-BALL-Site/en_US/Stores-GetNearestStores","cookieurl":"/on/demandware.store/Sites-BALL-Site/en_US/Stores-SetGeoLocation","cookiename":"LEACustomerLocation","defaultlocation":"United States","maptype":"ROADMAP"}}};
 }());
 
 
@@ -1066,7 +1099,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 }(window.DW = window.DW || {}));
 
 </script>
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/js/app.min.js"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/js/app.min.js"></script>
 <script>pageContext = {};</script>
 <script>
 var meta = "";
@@ -1086,11 +1119,7 @@ var keywords = "";
 <ul>
 <li class="first">
 <h4 class="accordion-heading">Help &amp; Customer Service</h4>
-<div class="content"><a href="https://www.freshpreserving.com/contact-us">Contact Us</a> <a href="https://www.freshpreserving.com/terms-and-conditions.html">Terms and Conditions</a><a href="https://www.freshpreserving.com/copyright-policy.html">Copyright Policy</a><a href="https://www.freshpreserving.com/shipping-information.html">Shipping Information</a> <a href="https://www.freshpreserving.com/return-policy.html">Returns, Exchanges and Sales Tax</a><a href="https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Page-Registration"> freshTECH Warranty Registration</a> <a href="https://www.freshpreserving.com/faqs.html">Fresh Preserving FAQs</a> <a href="https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/SiteMap-Start">Site Map</a>&nbsp;<a href="https://www.freshpreserving.com/storelocator.html">Store Locator</a></div>
-</li>
-<li>
-<h4 class="accordion-heading">Account Preferences</h4>
-<div class="content"><a href="https://www.freshpreserving.com/account">Create An Account</a> <a href="https://www.freshpreserving.com/account-profile">Update Profile</a> <a href="https://www.freshpreserving.com/order-history">Track Order</a></div>
+<div class="content"><a href="https://www.freshpreserving.com/contact-us">Contact Us</a> <a href="https://www.freshpreserving.com/terms-and-conditions.html">Terms and Conditions</a><a href="https://www.freshpreserving.com/copyright-policy.html">Copyright Policy</a><a href="https://www.freshpreserving.com/shipping-information.html">Shipping Information</a> <a href="https://www.freshpreserving.com/return-policy.html">Returns, Exchanges and Sales Tax</a> <a href="https://www.freshpreserving.com/faqs.html">Fresh Preserving FAQs</a> <a href="https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/SiteMap-Start">Site Map</a> <a href="https://www.freshpreserving.com/storelocator.html">Store Locator</a> <a href="https://www.freshpreserving.com/on/demandware.store/Sites-BALL-Site/en_US/Page-Registration">Warranty Registration</a></div>
 </li>
 <li>
 <h4 class="accordion-heading">About Ball<sup>®</sup> Canning</h4>
@@ -1106,7 +1135,8 @@ var keywords = "";
 <form class="email-alert-signup" method="post">
 <input name="" type="hidden" value="">
 <div class="input-wrapper">
-<input class="email-alert-address q email required" maxlength="75" name="email-alert-address" placeholder="Enter email address" type="text"> <input type="submit" value="Signup">
+<input class="email-alert-address q email required" maxlength="75" name="email_alert_address" placeholder="Enter email address" type="text"> <input type="submit" value="Signup">
+<input type="hidden" name="ltkSubscriptionCode" value="nb_ball_us_footer">
 </div>
 </form>
 <h4>Connect With Us</h4>
@@ -1119,30 +1149,97 @@ var keywords = "";
 <div class="content-asset">
 <div class="links"><a href="https://www.freshpreserving.com/privacy-policy.html">Privacy Policy</a> <a href="https://www.freshpreserving.com/terms-and-conditions.html">Terms of Use</a></div>
 <div class="copyright">
-<div class="top">©<script>document.write(new Date().getFullYear())</script>2020 Hearthmark, LLC dba Jarden Home Brands All Rights Reserved. Distributed by Hearthmark, LLC dba Jarden Home Brands, Fishers, IN 46037, USA. Hearthmark, LLC is a subsidiary of <span style="line-height: 20.8px;">Newell Brands (NYSE: NWL)</span>.</div>
+<div class="top">©<script>document.write(new Date().getFullYear())</script>2020 RUBBERMAID INCORPORATED | 6655 PEACHTREE DUNWOODY RD NE ATLANTA, GA 30328.</div>
+<div class="top">www.freshpreserving.com | Newell Brands | 1-800-240-3340</div>
 <div class="bottom"><img alt="Ball" src="https://www.freshpreserving.com/on/demandware.static/-/Sites-BALL-Library/default/dwa9e0e48f/footer/ball_copy.png" title="Ball"> and Ball<sup>®</sup>, TMs Ball Corporation, used under license. All other trademarks used herein are the property of their respective owners.</div>
 </div>
 </div> 
 </div>
 </div>
 <div id="popup-dialog"></div>
-<script src="https://cdn.bronto.com/bba/bba.js" data-bbaid="aa6516f7-3e7b-4bca-8c9d-b3c5562f5252" async=""></script>
-<script type="text/javascript" src="//p.bm23.com/bta.js"></script>
-<script type="text/javascript">
-	var bta = new __bta("V4VEhfgQQKTYmxIqWWpIdQ");
-	bta.setHost("app.bronto.com");
-</script>
-<script data-name="__br_tm" type="text/javascript">
-  var _bsw = _bsw || [];
-  _bsw.push(['_bswId', '3b25222c4ff5c8489018d04c8563f5be269d5b33493af4c45b94ce446a9b6e99']);
-  (function() {
-    var bsw = document.createElement('script'); bsw.type = 'text/javascript'; bsw.async = true;
-    bsw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.bronto.com/c/9ym7uymri41dlcjpj41nsfyqjn2sm0hyuotd1k2rp9w8kwg70w/3b25222c4ff5c8489018d04c8563f5be269d5b33493af4c45b94ce446a9b6e99/s/b.min.js';
-    var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(bsw, t);
-  })();
-</script>
-<script bronto-popup-id="113e7b06-a913-42e0-8ec4-3f10aaa72eeb" src="https://cdn.bronto.com/popup/delivery.js"></script>
 </footer>
+<script type="text/javascript">
+        var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+        (function (d, s, id, tid, vid) {
+            var js, ljs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+            js.src = biJsHost + "cdn.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
+            ljs.parentNode.insertBefore(js, ljs);
+        })(document, 'script', 'ltkSDK', 'vtMqpNTdeKE9', '1');					
+	</script>
+<script type="text/javascript">
+	(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+	
+	try {
+		
+		/* Capture the click from a message. */
+		_ltk.Click.Submit();
+	}
+	catch (er)
+	{
+		/* An error has occurred, yet to determine if we want to do anything here. */
+	}
+	});
+</script>
+
+<script type="text/javascript">
+(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+	
+
+	/* Used to reset the activity tracker parameters in the pdict upon successful send up to Listrak endpoint. */
+	function resetProductActivityParams()
+	{
+		var path = '/on/demandware.store/Sites-BALL-Site/en_US/ltkActivityTrackerClearItems-ClearFlag';
+		jQuery.ajax({
+			  url: path,
+			  context: document,
+			  success: function(){ }
+		});
+	}	
+	
+	try {
+		/* Perform activity/page/product browse logging. */
+		var sessionSku = 'null';
+		var sessionCategory = 'null';
+		var sessionQuickViewSkus = 'null';		
+		
+		/* Iterate through any quickviews and add them as product browses. */
+		if (sessionQuickViewSkus != null && sessionQuickViewSkus != "null" && sessionQuickViewSkus.length > 0)
+		{
+			var quickViews = sessionQuickViewSkus.split(',');
+			
+			for (var i = 0; i < quickViews.length; i++)
+			{
+				_ltk.Activity.AddProductBrowse(quickViews[i]);			
+			}
+		}
+		
+		/* Add the product browse if we have it. */
+		if (sessionSku != null && sessionSku != "null" && sessionSku.length > 0)
+		{
+			_ltk.Activity.AddProductBrowse(sessionSku);
+		}			
+		
+		/* Add the page browse. We should ALWAYS have if this JS fires. */
+		var currentPage = window.location.href;
+		_ltk.Activity.AddPageBrowse(currentPage);
+		
+		/* Submit the activity through client side JS to the endpoint. */
+		_ltk.Activity.Submit();
+		
+		/* Do a post to reset the browse/quickview/page parameters if there are products in them. */
+		resetProductActivityParams();
+	}
+	catch (er)
+	{
+		/* An error has occurred, yet to determine if we want to do anything here. */
+	}
+});
+</script>
 </div>
 
 <script type="text/javascript">//<!--
@@ -1161,9 +1258,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1536404532239/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-BALL-Site/-/en_US/v1556535644532/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
