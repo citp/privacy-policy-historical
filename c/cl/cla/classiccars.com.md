@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classiccars.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227211213id_/https%3A//classiccars.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classiccars.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429110436id_/https%3A//classiccars.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ClassicCars.com
 
 Your privacy is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way your information is collected and used. We believe that a full disclosure of our privacy policy is essential to our success and to your ongoing patronage. To make this Privacy Policy easy to find, we make it available on our home page and on every page where personally identifiable information may be voluntarily supplied or requested. 
 
@@ -88,7 +88,7 @@ This Privacy Policy covers the use of cookies by The Collector Car Network, Inc.
 
 ### __   Tracking Graphics
 
-We and/or our third-party partners employ a software technology called tracking graphics (a.k.a. "Web beacons" or "Web bugs") that help us better manage content on our sites by informing us what content is effective. Tracking graphics are tiny, transparent images with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, tracking graphics are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. As with cookies, we may tie the information gathered by tracking graphics to our customers' personally identifiable information. 
+We and/or our third-party partners employ a software technology called tracking graphics (a.k.a. "Web beacons" or "Web bugs") that help us better manage content on our sites by informing us what content is effective. Tracking graphics are tiny, transparent images with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, tracking graphics are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. As with cookies, we may tie the information gathered by tracking graphics to our users' personally identifiable information. 
 
 We use tracking graphics in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt out of these emails, you may do so by following the instructions included in every such communication. 
 
