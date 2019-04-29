@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231170444id_/https%3A//dazeinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429085232id_/https%3A//dazeinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dazeinfo
 
@@ -6,7 +6,7 @@ Dazeinfo.com is a Technology analysis blog which showcases amazing insights of I
 
 We make use of [Google](http://dazeinfo.com/tag/google/ "Google")’s services like Feedburner and other services to send [email](http://dazeinfo.com/tag/email/ "email") notification and Rss feed campaigns for to our users/readers. And we assure that such information shared with such services are never available to use for any third-party and its use is governed by privacy policy and other terms of service by those services.
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/connect/ "contact us").
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/connect/ "contact us").
 
  **What information do we collect?**
 
