@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdvr.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926184750id_/http%3A//privacy.tribunemedia.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdvr.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429030002id_/http%3A//privacy.tribunemedia.com) for the most accurate reproduction.*
 
 # Tribune Media | Privacy Policy
 
