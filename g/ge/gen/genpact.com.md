@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genpact.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012051146id_/http%3A//www.genpact.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genpact.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429030809id_/http%3A//www.genpact.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | Genpact
 
@@ -11,16 +11,16 @@ We, Genpact, may at times collect your personal data in one of the following way
 
   * By entering information such as your name, and email address, country of residence, company you represent, industry and details of the inquiry on the page titled Contact Us, you enable us to respond to a general/ business inquiry made by you or on behalf of your company that you represent.  If you wish to be contacted by telephone, we may also collect your work phone number.
   * We use cookies and web beacons to collect data on how you use our websites. This may include for example information on which Genpact websites you have visited, how long you stayed on them, which items you clicked on and your IP-address. To know more about our use of cookies, please see our Cookies Privacy Policy.
-  * By sending in your resume and other personal details through our [Careers page](https://careers.genpact.com/), which enables you to apply online for a job at Genpact. We may use this information throughout Genpact and its affiliates and subsidiaries in order to consider you for employment or to respond to your inquiry. We may also keep the information for future consideration of any jobs that may arise. Please [click here](http://www.genpact.com/about-us/gdpr) to see our candidate privacy notice for further details.
+  * By sending in your resume and other personal details through our [Careers page](https://careers.genpact.com/), which enables you to apply online for a job at Genpact. We may use this information throughout Genpact and its affiliates and subsidiaries in order to consider you for employment or to respond to your inquiry. We may also keep the information for future consideration of any jobs that may arise. Please [click here](https://www.genpact.com/about-us/gdpr) to see our candidate privacy notice for further details.
   * You provide us information when subscribing and using the Genpact Subscription Center. This data may include for example your name, email address and company you represent. The subscription center also keeps track of your communication preferences (over email or phone) and areas of interest (such as receiving newsletters, thought leadership content and/or marketing collateral) that you may have either opted into or opted out of.
-  * E-mail Communications: If you are a recipient of our marketing communications, we will track whenever you receive, open, click a link, or share an e-mail you receive from Genpact. Please [click here](http://www.genpact.com/about-us/gdpr) to see our customer privacy notice for further details.
+  * E-mail Communications: If you are a recipient of our marketing communications, we will track whenever you receive, open, click a link, or share an e-mail you receive from Genpact. Please [click here](https://www.genpact.com/about-us/gdpr) to see our customer privacy notice for further details. To unsubscribe from Genpact marketing communications, please [click here](https://www.genpact.com/form/unsubscribe). 
   * Information from Other Sources: We might receive information about you from other sources to ensure the accuracy and completeness of your profile.
 
 
 
-Genpact shall only process the received information pursuant to pursue our legitimate business interests for example screening CV's of prospective candidates, establishing communication with prospective customers (whom you represent) and personnel with general/ business inquiries and to enhance our user experience. Please [click here](http://www.genpact.com/about-us/gdpr) to see our customer privacy notice and [click here](http://www.genpact.com/about-us/gdpr) to see our candidate privacy notice for further details.
+Genpact shall only process the received information pursuant to pursue our legitimate business interests for example screening CV's of prospective candidates, establishing communication with prospective customers (whom you represent) and personnel with general/ business inquiries and to enhance our user experience. Please [click here](https://www.genpact.com/about-us/gdpr) to see our customer privacy notice and [click here](https://www.genpact.com/about-us/gdpr) to see our candidate privacy notice for further details.
 
-You also have the option to subscribe/opt-in to receive newsletters, thought leadership content and/or marketing collateral. You can always opt-out of such options using our [subscription center](http://www.genpact.com/form/genpact-subscription-center) or write to [Marketing.GDPR@Genpact.com](mailto:Marketing.GDPR@Genpact.com). Genpact shall adhere to your preferences.
+You also have the option to subscribe/opt-in to receive newsletters, thought leadership content and/or marketing collateral. You can always opt-out of such options using our [subscription center](https://www.genpact.com/form/genpact-subscription-center) or write to [Marketing.GDPR@Genpact.com](mailto:Marketing.GDPR@Genpact.com). Genpact shall adhere to your preferences.
 
 **Security**  
 We have implemented industry standard security measures to keep your personal data secure and confidential, including and not limited to:
@@ -41,7 +41,7 @@ We have implemented industry standard security measures to keep your personal da
 
 
  **International and group company transfers of personal data**  
-We are part of an international group of companies and, as such, transfer personal data concerning you to countries outside the European Union (EU).  Please visit [click here](http://www.genpact.com/about-us/regions) to see a list of the locations within our corporate group.
+We are part of an international group of companies and, as such, transfer personal data concerning you to countries outside the European Union (EU).  Please visit [click here](https://www.genpact.com/about-us/regions) to see a list of the locations within our corporate group.
 
 We transfer personal data between our group companies and data centers for the purposes described above. We may also transfer personal data to our third party suppliers outside of the EU as described above.
 
@@ -54,9 +54,9 @@ Where we transfer personal data between our group companies we have covered thes
 **Data Storage and Retention**  
 Genpact shall retain your personal data pursuant to the business purposes and in line with our retention policies. We will only keep your personal data for as long as is reasonably necessary taking into consideration our purposes outlined above or to comply with legal requirements under applicable law(s).
 
-Personal data received from prospective candidates shall be retained in accordance with the retention criteria set out in our candidate privacy notice. Please [click here](http://www.genpact.com/about-us/gdpr) to see our candidate privacy notice for further details.
+Personal data received from prospective candidates shall be retained in accordance with the retention criteria set out in our candidate privacy notice. Please [click here](https://www.genpact.com/about-us/gdpr) to see our candidate privacy notice for further details.
 
-Personal data received from prospective customers shall be retained for the duration of the prospective customer’s business relationship with the Genpact and in accordance with the retention criteria set out in our customer privacy notice. Please [click here](http://www.genpact.com/about-us/gdpr) to see our customer privacy notice for further details.
+Personal data received from prospective customers shall be retained for the duration of the prospective customer’s business relationship with the Genpact and in accordance with the retention criteria set out in our customer privacy notice. Please [click here](https://www.genpact.com/about-us/gdpr) to see our customer privacy notice for further details.
 
 For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact our Data Protection Officer, details available in the contact section below.
 
