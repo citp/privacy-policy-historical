@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piratestorm.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927065233id_/https%3A//legal.bigpoint.com/US/privacy-policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piratestorm.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429220257id_/https%3A//legal.bigpoint.com/US/privacy-policy/en) for the most accurate reproduction.*
 
 # BIGPOINT GMBH - PRIVACY POLICY - EFFECTIVE DATE: AUGUST 01, 2017
 
