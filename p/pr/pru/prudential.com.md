@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prudential.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117020409id_/https%3A//www.prudential.com/links/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prudential.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429201327id_/https%3A//www.prudential.com/links/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Prudential Financial
 
