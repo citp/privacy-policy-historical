@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203161108id_/https%3A//www.blacks.co.uk/customer-care/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429144246id_/https%3A//www.blacks.co.uk/customer-care/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+We've made a change to our privacy policy - click to see the changes
 
 Company Name: Blacks Outdoor Retail Limited
 
@@ -1122,7 +1124,7 @@ We will only keep your information for as long as is necessary to carry out the 
 
   * cookies are deleted in accordance with our [cookies policy](https://web.archive.org/customer-care/cookies);
   * CCTV images are kept for 60 days;
-  * marketing consents will be refreshed/deleted after 4 years, however, our aim is only to market to you for as long as we believe you want to continue hearing from us based on how you interact with us.
+  * marketing consents will be refreshed/deleted after 6 years, however, our aim is only to market to you for as long as we believe you want to continue hearing from us based on how you interact with us.
 
 
 
@@ -1212,4 +1214,4 @@ Our websites may, from time to time, contain links to and from the websites of t
 
 We will take all measures necessary to communicate any changes to this privacy policy to you, and will post any updated privacy policies on this page.
 
-This policy was last reviewed and updated in May 2018.
+This policy was last reviewed and updated in February 2019
