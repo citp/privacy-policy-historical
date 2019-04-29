@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsbl.info privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110155813id_/http%3A//www.dnsbl.info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsbl.info privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429103151id_/https%3A//www.dnsbl.info/privacy-policy.php) for the most accurate reproduction.*
 
 # DNSBL Information - Privacy Policy
 
