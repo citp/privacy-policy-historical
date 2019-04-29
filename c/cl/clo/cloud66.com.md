@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125214959id_/https%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429123115id_/https%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
 
 # Cloud 66 · Privacy
 
@@ -15,6 +15,8 @@ Your data belongs to you and we do not sell or lend any part of your data to any
 ### What happens to your data when you leave Cloud 66?
 
 We delete everything we have on our servers about you, your servers and your apps permanently. We might hold on to your name and email address so we can contact you later
+
+We fully comply with the European General Data Protection Regulation (GDPR) laws, requirements and regulations. If you have any questions regarding this please contact [privacy@cloud66.com](mailto:privacy@cloud66.com?subject=GDPR)
 
 ##  The “ **I am a lawyer** ” version 
 
