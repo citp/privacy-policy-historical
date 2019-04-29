@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230224223id_/https%3A//www.giftrocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429073141id_/https%3A//www.giftrocket.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GiftRocket
 
