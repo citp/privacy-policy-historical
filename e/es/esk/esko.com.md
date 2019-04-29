@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826115613id_/https%3A//www.esko.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429152547id_/https%3A//www.esko.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # 
 
