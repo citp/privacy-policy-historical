@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertkit.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120084259id_/https%3A//convertkit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertkit.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429092958id_/https%3A//convertkit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ConvertKit
 
@@ -8,7 +8,7 @@
 
 _Last Updated: April 6, 2018_
 
-ConvertKit LLC (“ConvertKit”, “we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy (“Policy”) describes how we collect, use, and disclose data. This Policy applies to your use of ConvertKit’s products, services, and Website located at [www.convertkit.com](http://www.convertkit.com/) on all platforms (collectively, “Services”).
+ConvertKit LLC (“ConvertKit”, “we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy (“Policy”) describes how we collect, use, and disclose data. This Policy applies to your use of ConvertKit’s products, services, and Website located at [www.convertkit.com](https://convertkit.com/) on all platforms (collectively, “Services”).
 
 ConvertKit is a United States limited liability company subject to the laws of the United States. The United States may not offer a level of privacy protection as great as that offered in other jurisdictions. Since our servers are located in the United States, your data may be transferred to, stored, or processed in the United States. By using our Services, you understand and consent to the collection, storage, processing, and transfer of your data to our facilities in the United States and those third parties we share your data with as described in this Policy and our Terms of Service Agreement. 
 
