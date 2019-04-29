@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sofi.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814002436id_/https%3A//www.sofi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofi.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429111227id_/https%3A//www.sofi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SoFi
 
-Effective Date: March 5, 2018
+Effective Date: March 15, 2019
 
 SoFi is a new kind of finance company taking a radical approach to lending and wealth management. From unprecedented products and tools to faster service and open conversations, we’re all about helping our members get ahead and achieve success. Whether they’re looking to buy a home, save money on student loans, ascend in their careers, or invest in the future, the SoFi community works to empower our members to accomplish the goals they set and achieve financial greatness as a result.
 
@@ -17,6 +17,7 @@ This Privacy Policy is written to apply to Social Finance, Inc. and its affiliat
   * SoFi Wealth, LLC
   * Social Finance Life Insurance Agency LLC
   * SoFi Lending Corp.
+  * SoFi Digital Assets, LLC
 
 
 
@@ -144,7 +145,7 @@ SoFi takes the privacy and security of its members personal information seriousl
 
 We protect personal information you provide online in connection with registering yourself as a user of our website. Access to your own personal information is available through a unique user ID and password selected by you. This password is encrypted while transmitted from your browser to our servers and while stored on our systems. To protect the security of your personal information, never share your password to anyone. Please notify us immediately if you believe your password has been compromised.
 
-Whenever we save your personal information, it’s stored on servers and in facilities that only selected SoFi personnel and our contractors have access to. We encrypt all data that you submit through SoFi’s website during transmission using Transport Layer Security (TLS) in order to prevent unauthorized parties from viewing such information. Remember – all information you submit to us by email is not secure, so please do not send sensitive information in any email to SoFi. We never request that you submit sensitive or personal information over email, so please report any such requests to us by sending an email to [privacy@sofi.com](mailto:privacy@sofi.com).
+Whenever we save your personal information, it’s stored on servers and in facilities that only selected SoFi personnel and our contractors have access to. We encrypt all data that you submit through SoFi’s website during transmission using Transport Layer Security (TLS) in order to prevent unauthorized parties from viewing such information. Remember – all information you submit to us by email is not secure, so please do not send sensitive information in any email to SoFi. We never request that you submit sensitive or personal information over email, so please report any such requests to us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9eeeecf7e8fffde7deedf1f8f7b0fdf1f3).
 
 **3.2. Steps you can take to help us keep your information safe**
 
@@ -152,7 +153,7 @@ There are many steps you can take to help us keep your information safe. First a
 
 SoFi urges your caution when using a public computers or networks, like at a coffee shop or library. To best protect your personal information and login information, don’t use such computers to access your sensitive accounts, and if you must do, ensure that you logout of your account entirely.
 
-When either you or we update information in your account, such as the status of a loan application, we typically send you notice of these changes via email or text message. In recent years, individuals, businesses and even governments have seen a rise in “phishing” attacks. Phishing occurs when someone attempts to obtain your password or other sensitive information. Scammers often do this by impersonating a trusted user, or offering a compelling reason to open a malicious email attachment, click on a link or give over information. We never ask for your sensitive personal information, such as password, over email or other unsecure methods or through any site not under the sofi.com domain. Please notify us at [security@sofi.com](mailto:security@sofi.com) if you ever receive suspicious correspondence from us.
+When either you or we update information in your account, such as the status of a loan application, we typically send you notice of these changes via email or text message. In recent years, individuals, businesses and even governments have seen a rise in “phishing” attacks. Phishing occurs when someone attempts to obtain your password or other sensitive information. Scammers often do this by impersonating a trusted user, or offering a compelling reason to open a malicious email attachment, click on a link or give over information. We never ask for your sensitive personal information, such as password, over email or other unsecure methods or through any site not under the sofi.com domain. Please notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89faeceafcfbe0fdf0c9fae6efe0a7eae6e4) if you ever receive suspicious correspondence from us.
 
 We want you to be aware of the choices you have in limiting the sharing of your personal information. Please refer to the below table to review your options in sharing with us:
 
@@ -166,7 +167,9 @@ For our affiliates’ everyday business purposes—information about your credit
 For our affiliates to market to you| Yes| Yes  
 For non-affiliates to market to you| No| We don’t share  
   
- **Your Rights As a California Resident**
+See below for more on your rights under state law
+
+**Your Rights As a California Resident**
 
 Residents of the state of California have the right to request certain information from us with respect to the types of personal information we share with third parties for their direct marketing purposes, as well as the identities of the third parties we have shared such information with during the immediately preceding calendar year.
 
@@ -191,4 +194,4 @@ We don’t respond to “do not track” signals or similar mechanisms – where
 
 We want to provide you with the resources you need to keep your information with us correct and up-to-date. You can access and maintain your personal and personally identifiable information by logging into your account and going to **“My Profile”**. This section of the site is password-protected to safeguard your information. As a registered user, you can update your password, physical address, phone numbers, education and employment information at any time on the website. If you need to change any other information in your profile, please contact our customer service hotline at [1-855-456-SOFI](tel:1-855-456-SOFI) (7634).
 
-SoFi takes your privacy seriously, and maintains a process to respond to your concerns regarding violations of this Policy. If you believe that we haven’t complied with this policy in regards to you personal information or have questions regarding your privacy with us, please contact us at [privacy@sofi.com](mailto:privacy@sofi.com). If you are reporting non-compliance with this Privacy Policy, please describe the issue in as much detail as possible without disclosing any sensitive information about you or third parties. We will respond to your request by email within 7-10 business days.
+SoFi takes your privacy seriously, and maintains a process to respond to your concerns regarding violations of this Policy. If you believe that we haven’t complied with this policy in regards to you personal information or have questions regarding your privacy with us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#314143584750524871425e57581f525e5c). If you are reporting non-compliance with this Privacy Policy, please describe the issue in as much detail as possible without disclosing any sensitive information about you or third parties. We will respond to your request by email within 7-10 business days.
