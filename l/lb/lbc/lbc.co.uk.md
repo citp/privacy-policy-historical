@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023224046id_/https%3A//www.lbc.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429095231id_/https%3A//www.lbc.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Statement - LBC
 
@@ -51,8 +51,6 @@ We use your personal information:
 
 
 If you would like more information regarding OBA and how to opt out, please visit <http://www.youronlinechoices.com/uk/>
-
-By opting out of personalised advertising, you will still see adverts, but they will not be tailored to your interests. You can change your preferences by clicking here.
 
 We will use your data either because you have consented for us to do so or because we have a legitimate interest in processing your information, as follows:
 
