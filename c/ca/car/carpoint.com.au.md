@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722235613id_/https%3A//www.carsales.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429074059id_/https%3A//www.carsales.com.au/info/privacy-policy/%3Fret%3Dcarsales-desktop-footer%26utm_source%3Dcarsales-desktop-footer%26utm_medium%3Dreferral-internal) for the most accurate reproduction.*
 
 # None
 
