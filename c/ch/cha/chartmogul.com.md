@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartmogul.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114130724id_/https%3A//chartmogul.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartmogul.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429194750id_/https%3A//chartmogul.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ChartMogul
 
@@ -10,27 +10,17 @@ The following statements describe which types of data we collect when you use ou
 
 For the purposes of the EU General Data Protection Regulation (GDPR) (EU) 2016/679, the responsible entity is:
 
-ChartMogul Ltd
-
-71-75 Shelton Street
-
-London WC2H 9JQ
-
-United Kingdom
-
-Chief Executive Officer: Nicholas Franklin
-
-The responsible place of business is the German branch office of ChartMogul Ltd, which is:
-
-ChartMogul Ltd
-
-Invalidenstraße 35
-
-10115 Berlin
-
+ChartMogul CMTDE GmbH & Co. KG  
+Oberwallstr. 6  
+10117 Berlin  
 Germany
 
-Chief Executive Officer: Nicholas Franklin
+General Partner of ChartMogul CMTDE GmbH & Co. KG:  
+ChartMogul Management GmbH  
+Oberwallstraße 6  
+10117 Berlin
+
+Managing directors of ChartMogul Management GmbH: Nicholas Franklin, Ingmar Zahorsky, Martin Raißle
 
 ## Appointed Data Protection Officer for the German branch office
 
@@ -39,8 +29,7 @@ The appointed data protection officer is:
 ePrivacy GmbH
 
 Große Bleichen 21  
-20354 Hamburg
-
+20354 Hamburg  
 Germany
 
 For questions related to data protection, you can contact the appointed data protection officer via email through:
@@ -52,8 +41,7 @@ Or by post:
 ePrivacy GmbH
 
 Große Bleichen 21  
-20354 Hamburg
-
+20354 Hamburg  
 Germany
 
 ## Definitions
@@ -269,30 +257,6 @@ You can find further information about Mailchimp’s data processing and data pr
 
 <https://mailchimp.com/legal/privacy/>
 
-## Heap
-
-Heap is a customer behavior analytics & insights platform. ChartMogul uses Heap to understand how users use ChartMogul’s websites and the ChartMogul Application.
-
-The responsible entity is:
-
-Heap Inc.,
-
-460 Bryant Street,
-
-3rd Floor,
-
-San Francisco, CA 94107
-
-United States
-
-Personally identifiable information, including name & email address is submitted to Heap when a user chooses to sign up to the ChartMogul Application.
-
-Other information, including IP address, browser version, OS version, activity data, usage information, and transaction information is submitted to Heap and linked to a profile, whenever a user is browsing ChartMogul’s websites or using the ChartMogul Application.
-
-You can learn more about how Heap processes and protects personal data at:
-
-<https://heapanalytics.com/privacy>
-
 ## Facebook
 
 ChartMogul has integrated Facebook into its website.
@@ -494,20 +458,6 @@ You can find further information about Perfect Audience’s data processing and 
 
 <https://www.perfectaudience.com/privacy/>
 
-## Instapage
-
-ChartMogul uses Instapage to host websites for specific product features and events hosted or sponsored by ChartMogul, and analyse the user’s behaviour on these websites which enables us to improve our website.
-
-The responsible entity is:
-
-Instapage Inc., 118 King St. Suite 450, San Francisco, CA 94107 USA
-
-The analysis of your use of our website is made possible through the use of cookies. Information obtained via these cookies is transferred to Instapage’s servers located in the United States, and saved there. The analyses of your actions on our website is transferred to us in the form of reports. Instapage may give this information to further parties where legally required to do so, or these parties are contracted to by Instapage.
-
-You may find further information about Recurly’s data processing and data protection here:
-
-<https://instapage.com/privacy-policy>
-
 ## Eventbrite
 
 ChartMogul uses Eventbrite to manage registrations to events hosted or sponsored by ChartMogul.
@@ -578,7 +528,7 @@ You may find further information about Zapier’s data processing and data prote
 
 ChartMogul reserves the right to update this Privacy Policy from time to time without notice. Any changes are effective when we post the updated Policy on our website. We recommend that you regularly check back. We may provide you with notices about changes to this Privacy Policy if you are a registered user of the ChartMogul Application.
 
-Should you have further questions, or wish to make contact with us, you can do so though our website at [www.chartmogul.com](https://web.archive.org/web/20181114130724id_/http://chartmogul.com/privacy/www.chartmogul.com). When you do so, the data required to answer your query will be automatically saved and processed. Your data will not be transferred to third parties unless ChartMogul has a lawful ground to do so..
+Should you have further questions, or wish to make contact with us, you can do so though our website at [www.chartmogul.com](https://web.archive.org/web/20190429194750id_/https://chartmogul.com/privacy/www.chartmogul.com). When you do so, the data required to answer your query will be automatically saved and processed. Your data will not be transferred to third parties unless ChartMogul has a lawful ground to do so..
 
 ## Deletion of Personal Data
 
@@ -619,4 +569,4 @@ Additionally, you always have the right to make a complaint to the relevant auth
 
 Should you wish to exercise any of these rights, you will need to provide proof of identification that you are the person to whom the data relates. The data you will receive includes data we have related to you, the source of that data, the recipients, or types of recipients to whom the data was transferred, and the purposes for which the data was stored. To exercise these rights, please contact our data protection officer named in the beginning of this document.
 
-**Updated:** May 25, 2018
+**Updated:** Jan 15, 2019
