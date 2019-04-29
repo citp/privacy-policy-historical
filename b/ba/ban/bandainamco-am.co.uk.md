@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandainamco-am.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228020330id_/http%3A//www.bandainamco-am.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandainamco-am.co.uk privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429033820id_/http%3A//www.bandainamco-am.co.uk/privacy) for the most accurate reproduction.*
 
 # 
 
