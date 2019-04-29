@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petrix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131926id_/http%3A//petrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrix.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429025354id_/https%3A//petrix.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -20,11 +20,11 @@ External Links
 Our sites contain links to other sites. We are not responsible for the privacy practices or the content of such websites.
 
 Advertisers  
-[Third-party vendors or ad networks](http://www.google.com/support/dfp_sb/bin/answer.py?answer=94149), including Google, use cookies to serve ads based on a user's prior visits to our websites. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the[ ads preference manager](http://www.google.com/ads/preferences/), and out of the use of third-party vendor's or ad network’s cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+We allow third parties to perform data analytics on User Data and serve ads utilizing the User Data. [Third-party vendors or ad networks](https://support.google.com/dfp_premium/answer/94149), including [Google](https://www.google.com/policies/technologies/partner-sites/), use cookies to serve ads based on a user's prior visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [Google Ads Settings](https://adssettings.google.com/), and out of the use of third-party vendor's or ad network’s cookies for interest based advertising by visiting [aboutads.info](https://www.aboutads.info/).
 
 Contacting Us  
-If you have any questions about this privacy statement, the practices of our sites, or your dealings with our websites, you can [contact us](https://web.archive.org/web/20170606131926id_/http%3A//petrix.com/contact.html)[](https://web.archive.org/web/20170606131926id_/http%3A//petrix.com/cdissuer.html).
+If you have any questions about this privacy statement, the practices of our sites, or your dealings with our websites, you can [contact us](https://web.archive.org/web/20190429025354id_/https%3A//petrix.com/contact.html)[](https://web.archive.org/web/20190429025354id_/https%3A//petrix.com/cdissuer.html).
 
 * * *
 
-[Privacy statement](https://web.archive.org/web/20170606131926id_/http%3A//petrix.com/privacy.html)
+[Privacy statement](https://petrix.com/privacy.html)
