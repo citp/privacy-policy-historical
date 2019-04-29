@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motoring.com.au privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722235613id_/https%3A//www.carsales.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoring.com.au privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429074105id_/https%3A//www.carsales.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # None
 
