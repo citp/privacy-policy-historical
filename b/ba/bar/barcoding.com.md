@@ -1,43 +1,78 @@
-> *The following text is extracted and transformed from the barcoding.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607151347id_/http%3A//www.barcoding.com/barcode_privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcoding.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430143243id_/https%3A//www.barcoding.com/about-barcoding-inc/privacy-policy) for the most accurate reproduction.*
 
-# Bar Code Industry Privacy Statement - Information Collected Cookies, Log Files, Shopping Cart, Links, Policy Modifications
+# Privacy Policy - Barcoding, Inc. - Barcoding, Inc.
 
-|   
----  
-| [](https://web.archive.org/web/20020607151347id_/http%3A//www.barcoding.com/barcode_wireless_solutions.shtml)  
-[](https://web.archive.org/web/20020607151347id_/http%3A//www.barcoding.com/barcode_professional_services.shtml)  
-[](https://web.archive.org/web/20020607151347id_/http%3A//www.barcoding.com/barcode_printing.shtml)  
-[](https://web.archive.org/web/20020607151347id_/http%3A//www.barcoding.com/barcode_online_resources.shtml)  
-[](https://web.archive.org/web/20020607151347id_/http%3A//www.barcoding.com/barcode_application.shtml)  
-[](https://web.archive.org/web/20020607151347id_/http%3A//www.barcoding.com/barcode_software.shtml)  
-[](https://web.archive.org/web/20020607151347id_/http%3A//www.barcoding.com/barcode_scanners.shtml)  
-  
-Barcoding.com takes your privacy seriously. We appreciate the trust you are putting in us and will not betray that trust. Please read the following to learn more about our privacy policy and the steps we take to protect you as our guest and/or customer. If you have any comments, questions, or concerns, please write to us at [admin@barcoding.com](mailto:admin@barcoding.com). 
+## ONLINE PRIVACY POLICY AGREEMENT
 
-Ownership of Information  
-Barcoding.com is the sole owner of the information collected on this site. We will not sell, rent, or distribute your personally identifiable information to anyone. The information collected is for use in the following ways only: 
+Barcoding Inc., (Barcoding), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Barcoding Inc. of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
-  * For the purposes for which you specifically provided the information including, for example, to enable us to process, validate, and verify orders (If we need to send personally identifiable information to other companies to provide a product or service for you these companies do not have any right to use that information beyond what is necessary to assist us.) 
-  * To send you e-mail notifications about our new or existing products and services, special offers, or to otherwise contact you (If you do not wish to receive e-mails of this nature, you may remove your address at any time by sending a message to [admin@barcoding.com](mailto:admin@barcoding.com)) 
-  * To enhance existing features or develop new features, products, and services 
-  * To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences 
+_THEREFORE_ , this Privacy Policy Agreement shall apply to Barcoding Inc. , and thus it shall govern any and all data collection and usage thereof. Through the use of [www.barcoding.com ](http://www.barcoding.com/)you are herein consenting to the following data procedures expressed within this agreement.
 
-Information Collected  
-Cookies  
-When you enter the site (or go to certain pages within the site) a cookie is stored in your browser memory. The cookie gives you an identification number so that any product you place in your "Shopping Cart" is remembered so you can browse the site without losing the data. Our cookies will terminate when you close your browser. 
+_Collection of Information_
 
-Log Files  
-We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. 
+This website collects various types of information, such as:
 
-Shopping Cart  
-Phone numbers and credit card information are not stored in any related fields on the website. This information is sent via e-mail so the order may be processed. 
+  * **Voluntarily provided information which may include your name, address, email address, billing and/or credit card information , which may be used when you purchase products and/or services and to deliver the services you have requested.**
+  * **Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server**
 
-Links  
-Barcoding.com may make content or services from other Web sites available to you through links located on our site. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy. 
 
-Policy Modifications  
-Barcoding.com may edit this policy from time to time. We will post any changes here, so be sure to check back periodically. 
 
-This policy was last updated on October 6, 2000 Copyright © 2000 Barcoding.com, Inc. All Rights Reserved.
+Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site.
 
-| 
+We may also gather information about the type of browser you are using, IP address or type of operating system to assist us in providing and maintaining superior quality service.
+
+It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected.
+
+_Use of Information Collected_
+
+Barcoding Inc. may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from [www.barcoding.com ](http://www.barcoding.com/). Barcoding Inc. may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
+
+Barcoding Inc. does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties.
+
+Barcoding Inc. may deem it necessary to follow websites and/or pages that our users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
+
+Barcoding Inc. may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to:
+
+  * **Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Barcoding and/or our website;**
+  * **Maintain, safeguard and/or preserve all the rights and/or property of Barcoding ; and**
+  * **Perform under demanding conditions in an effort to safeguard the personal safety of users of**[ **barcoding.com**](http://www.barcoding.com/) **and/or the general public.**
+
+
+
+_Children Under Age of 13_
+
+Barcoding Inc. does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
+
+_Unsubscribe or Opt-Out_
+
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to[ info@barcoding.com. ](mailto:info@barcoding.com)If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
+
+_Links to Other Web Sites_
+
+Our website does contain links to affiliate and other websites. Barcoding Inc. does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
+
+_Security_
+
+Barcoding Inc. shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control.
+
+The company also uses Secure Socket Layer (SSL) for authentication and private communications in an effort to build users’ trust and confidence in the internet and website use by providing simple and secure access and communication of credit card and personal information.
+
+_Changes to Privacy Policy Agreement_
+
+Barcoding Inc. reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at [www.barcoding.com, ](http://www.barcoding.com/)so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Barcoding Inc. decides to make use of any personally identifiable information on file, in a manner vastly different from that
+
+which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
+
+_Acceptance of Terms_
+
+Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
+
+_How to Contact Us_
+
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
+
+Email: [info@barcoding.com](mailto:info@barcoding.com) Telephone Number: 1.888.412.7226
+
+Mailing Address: Barcoding Inc. 2220 Boston St
+
+Baltimore, Maryland 21231 05/11/2018
