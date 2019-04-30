@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentalcargroup.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914095108id_/https%3A//www.rentalcargroup.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcargroup.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430131829id_/https%3A//www.rentalcargroup.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# 🚗 Privacy Policy | RentalCarGroup rent a car, car rental with all-inclusive rates
+# 🚗 Privacy & Security Policy | RentalCarGroup rent a car, car rental with all-inclusive rates
 
 **We  know how serious you are about your personal privacy. We value our customer relationship with you and we keep your privacy in mind. You have a right to know how we use the personal data we collect in order to help you with your rent a car.**
 
@@ -21,8 +21,23 @@ We share this information with the car rental franchisees that provide you 
 **Security**  
 We protect our customer information. Any personal data we receive through our site is protected and encrypted by Secure Socket Layer (SSL). We have taken what we believe to be reasonable steps to ensure your personal data is accessible only to those whom we designate.
 
-###### Contact our reservations department
+Call center opening hours
 
 [EST] Mon - Fri: 03:00 - 16:00  Sat - Sun : 03:00 - 11:00
 
-[GMT] Mon - Fri: 08:00 - 16:00  Sat - Sun : 08:00 - 16:00
+[GMT] Mon - Fri: 08:00 - 16:00  Sat - Sun : 08:00 - 16:00 
+
+Call center opening hours
+
+Mon - Fri
+
+Sat - Sun
+
+03:00 - 16:00  
+08:00 - 16:00
+
+03:00 - 11:00  
+03:00 - 16:00
+
+  
+
