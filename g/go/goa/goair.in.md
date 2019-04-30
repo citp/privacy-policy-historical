@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goair.in privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830011040id_/https%3A//www.goair.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goair.in privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430131712id_/https%3A//www.goair.in/privacy-policy) for the most accurate reproduction.*
 
-# GoAir - Privacy Policy
+# Privacy Policy - GoAir
 
 We respect the privacy of our users. This privacy statement is designed to help them understand the type of information we gather and what we do with the gathered information.
 
