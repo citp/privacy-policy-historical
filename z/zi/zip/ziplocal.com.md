@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ziplocal.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105052716id_/http%3A//ziplocal.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziplocal.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501014032id_/https%3A//ziplocal.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy - Ziplocal
 
-### PRIVACY POLICY
+### **PRIVACY POLICY**
 
-Ziplocal LP, together with its subsidiaries (“we”, “us”, “Ziplocal“) has created this privacy policy (the “Policy”) is firmly committed to the protection of your privacy. This Policy sets out how we collect, use and secure the personal information of individuals using any website owned by us (each, a “Website”). We may from time-to-time revise this privacy policy, and the date of last revision will be available at the bottom of this page, so please be sure to check back periodically. By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.
+ZipLocal LP, together with its subsidiaries (“we”, “us”, “ZipLocal“) has created this privacy policy (the “Policy”) is firmly committed to the protection of your privacy. This Policy sets out how we collect, use and secure the personal information of individuals using any website owned by us (each, a “Website”). We may from time-to-time revise this privacy policy, and the date of last revision will be available at the bottom of this page, so please be sure to check back periodically. By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.
 
-### What information do we collect?
+### **What information do we collect?**
 
-Ziplocal may collect information from or about you when you use the Website, including your email address, username, password, bookmarks and associated content, conversations and messages, IP address, browser data, and cookies. In addition to the information you knowingly provide, Ziplocal collects the domain names and IP addresses of its visitors, along with usage statistics (e.g., types of web browsers and operating systems used) and browsing history. This data is used to more efficiently operate Ziplocal’s business, promote our products and services and administer the Website. Ziplocal may combine this information with the personally identifiable information it collects.
+ZipLocal may collect information from or about you when you use the Website, including your email address, username, password, bookmarks and associated content, conversations and messages, IP address, browser data, and cookies. In addition to the information you knowingly provide, ZipLocal collects the domain names and IP addresses of its visitors, along with usage statistics (e.g., types of web browsers and operating systems used) and browsing history. This data is used to more efficiently operate ZipLocal’s business, promote our products and services and administer the Website. ZipLocal may combine this information with the personally identifiable information it collects.
 
-How does Ziplocal use the information collected?  
+How does ZipLocal use the information collected?  
 When you provide personal information for a specific purpose (for example, registering to use a feature on the Website), we generally use it for that purpose. We will generally collect and use personal information to administer our contests, promotions, surveys, reward programs and other services, to understand our customers’ responses, needs and preferences, and to generally manage our business.
 
 We may also use the information you provide:  
@@ -18,11 +18,11 @@ We may also use the information you provide:
 – To process and respond to inquiries  
 – To improve the content and navigability of the Website  
 – To otherwise communicate with you  
-– To enforce the Terms of Use (corporate.ziplocal.com/online-terms-of-use/)
+– To enforce the Terms of Use ([ziplocal.com/online-terms-of-use/](https://web.archive.org/online-terms-of-use/))
 
 In addition, Ziplocal may use personal information you provide in combination with the information Ziplocal automatically collects through the Website to protect our property or other rights (for example, to enforce any policies or contractual provisions regarding copyright, or other features of the Website).
 
-### Information Sharing
+### **Information Sharing**
 
 Personal information may be shared with our agents or contractors in connection with services that they perform for us. Our agreements with such agents and contractors ensure that personal information can only be used for the purposes for which it was shared with them, and that they handle the personal information in accordance with this Statement. Some of our agents and contractors are located outside of the United-States and, as such, are subject to foreign laws, including laws that may require disclosure of personal information to government agencies in those countries. We may share your personally identifiable information with other companies in the Ziplocal family, business partners and network partners, and will require the recipient to comply with the provisions of this privacy policy. As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including personally identifiable information. However, personally identifiable information would remain subject to this Privacy Policy. Ziplocal may also share personal information with other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
@@ -30,7 +30,7 @@ We may disclose or share non-personally identifiable Information with partners, 
 
 We also use third party service providers to track and analyze non-personally identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for advertisers. Please note that this is not personally identifiable information, only general summaries of the activities of our users. Such data is collected on our behalf, and is owned and used by us.
 
-### How you can view or update your personal information:
+### **How you can view or update your personal information:**
 
 To ensure that you have as much control over your personally identifiable information as possible, you may update your information by contacting us at customer.service@ziplocal.com . We will use reasonable efforts to process any change you make.
 
