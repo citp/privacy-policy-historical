@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noisecreep.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220234853id_/http%3A//noisecreep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisecreep.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430084624id_/https%3A//noisecreep.com/privacy) for the most accurate reproduction.*
 
 # Noisecreep - Rock and Heavy Metal Videos, News and More
 
