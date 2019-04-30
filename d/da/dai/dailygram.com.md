@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailygram.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025200454id_/https%3A//dailygram.com/index.php/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygram.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430191136id_/https%3A//dailygram.com/index.php/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Dailygram ... The Business Network
 
