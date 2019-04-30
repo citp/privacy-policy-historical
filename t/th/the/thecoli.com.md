@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecoli.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023132142id_/https%3A//www.thecoli.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoli.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501001403id_/https%3A//www.thecoli.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sports, Hip Hop & Piff - The Coli
 
@@ -76,13 +76,13 @@ When using the TheColi.com forum, you may choose to limit public viewing of appl
 
 The Coli will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you security information, product updates, or other information pertaining to The Coli , or your account.
 
-If you discover any of the information The Coli holds for you is incorrect or incomplete, that you are unable to change yourself, please [contact us](https://web.archive.org/web/20181023132142id_/https://www.thecoli.com/help/privacy-policy/misc/contact) as soon as possible so the necessary changes can be made.
+If you discover any of the information The Coli holds for you is incorrect or incomplete, that you are unable to change yourself, please [contact us](https://web.archive.org/web/20190501001403id_/https%3A//www.thecoli.com/help/misc/contact) as soon as possible so the necessary changes can be made.
 
 ## Rights
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20181023132142id_/https://www.thecoli.com/help/privacy-policy/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20181023132142id_/https://www.thecoli.com/help/privacy-policy/misc/contact) to ask us to complete or correct that information.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20190501001403id_/https%3A//www.thecoli.com/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20190501001403id_/https%3A//www.thecoli.com/help/misc/contact) to ask us to complete or correct that information.
 
-You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20181023132142id_/https://www.thecoli.com/help/privacy-policy/misc/contact) if you would like us to remove your personal data.
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20190501001403id_/https%3A//www.thecoli.com/help/misc/contact) if you would like us to remove your personal data.
 
 ## Acceptance of this policy
 
