@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the callhippo.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111161438id_/https%3A//callhippo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callhippo.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430111546id_/https%3A//callhippo.com/privacy) for the most accurate reproduction.*
 
-# CallHippo - Privacy Policy ·
+# CallHippo - Privacy Policy · CallHippo
 
 **CallHippo** understands that your privacy is important to you and that you care about how your information is used and shared online. We respect and value the privacy of everyone who visits Our Site and will only collect and use information in ways that are useful to you and in a manner consistent with your rights and Our obligations under the law.
 
@@ -15,11 +15,11 @@ In this Policy the following terms shall have the following meanings:
 **“Cookie”** | means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 12, below  
 **“Our Site”** | means this website, www.callhippo.com  
 **“UK and EU Cookie Law”** | means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015 ****  
-**“We/Us/Our”** | means CallHippo or Bueno Technologies, whose registered address is 340 S LEMON AVE #7359, WALNUT, CA 91789, UNITED STATES  
+**“We/Us/Our”** | means CallHippo or Bueno Technologies, whose registered address is 340 S LEMON AVE #7359, WALNUT, CA 91789, UNITED STATES   
   
 ## **2 - Information About Us**
 
-  * **2.1** Our Site, **www.callhippo.com** is **[owned and]** operated by Bueno Technologies, whose registered address is 340 S LEMON AVE #7359, WALNUT, CA 91789, UNITED STATES 
+  * **2.1** Our Site, **www.callhippo.com** is **[owned and]** operated by Bueno Technologies, whose registered address is 340 S LEMON AVE #7359, WALNUT, CA 91789, UNITED STATES
   * **2.2** **For Data Protection we can be contacted at support@callhippo.com**
 
 
@@ -48,9 +48,14 @@ Some data will be collected automatically by Our Site **(for further details, pl
 
 
 
+**CallHippo asks for permission to get access to Contacts on your phone. Such access is needed in 2 situations:**
+
+* When you intend to call a contact or send them a text directly from the CallHippo app, CallHippo will access your phone contacts with your permission.
+* When you want to make a call to a phone contact, you will see a list of apps through which you can complete that action. CallHippo is one of them. If you choose CallHippo in this case, it will receive access to your contacts.
+
 ## **5 - How Do We Use Your Data?**
 
-  1.     * **5.1** All personal data is stored securely in accordance with the EU [General Data Protection Regulation (Regulation (EU) 2016/679)](https://uk.practicallaw.thomsonreuters.com/PLCCoreDocument/ViewDocument.html?navId=AACF20BB9BED7DE45F3549371482B6BD&comp=pluk&DocumentGuid=Ie887bae554de11e698dc8b09b4f043e0&ViewType=FullText&HasDraftingNotes=False&ResearchReportViewMode=False&SessionScopeIsValid=True&IsCourtWireDocument=False&IsSuperPrivateDocument=False&IsPrivateDocument=False&ClientMatter=Cobalt.Website.Platform.Web.UserData.ClientMatter&AuthenticationStrength=5&IsMedLitStubDocument=False&IsOutOfPlanDocumentViewClicked=False&TransitionType=Default&ContextData=\(sc.Default\)&BillingContextData=\(sc.Default\)) (GDPR). For more details on security see section 6, below.
+  1.     * **5.1** All personal data is stored securely in accordance with the EU [General Data Protection Regulation (Regulation (EU) 2016/679)](https://uk.practicallaw.thomsonreuters.com/PLCCoreDocument/ViewDocument.html?navId=AACF20BB9BED7DE45F3549371482B6BD?=pluk&DocumentGuid=Ie887bae554de11e698dc8b09b4f043e0&ViewType=FullText&HasDraftingNotes=False&ResearchReportViewMode=False&SessionScopeIsValid=True&IsCourtWireDocument=False&IsSuperPrivateDocument=False&IsPrivateDocument=False&ClientMatter=Cobalt.Website.Platform.Web.UserData.ClientMatter&AuthenticationStrength=5&IsMedLitStubDocument=False&IsOutOfPlanDocumentViewClicked=False&TransitionType=Default&ContextData=\(sc.Default\)&BillingContextData=\(sc.Default\)) (GDPR). For more details on security see section 6, below.
     * **5.2** We use your data to provide the best possible **products and** services to you. This includes: 
       * **5.2.1** **Providing and managing your Account**
       * **5.2.2** **Providing and managing your access to Our Site**
@@ -174,6 +179,16 @@ _atrfs | Unclassified | Yes
 _CO_5975f06536a4c4f46b9c578d | Unclassified | Yes  
 _CO_5abcab95ce03921a7ab99bd4 | Unclassified | Yes  
 uuid | Unclassified | Yes  
+DSID | Google DFP Advertising | Yes  
+IDE | Google DFP Advertising | Yes  
+__cfduid |  __cfduid cookie is used to identify individual clients location | Yes  
+c_user | "This cookie contains the user ID of the currently logged in user. | Yes  
+i_user | This cookie contains the user ID of the currently logged in user. | Yes  
+act | Allow you to control the "Follow us on Facebook" and "Like" buttons  | Yes  
+csm | Allow you to control the "Follow us on Facebook" and "Like" buttons  | Yes  
+datr | Allow you to control the "Follow us on Facebook" and "Like" buttons  | Yes  
+fr | Allow you to control the "Follow us on Facebook" and "Like" buttons  | Yes  
+p | This is a session cookie.  | Yes  
  
 
   * **12.7** Our Site uses analytics services provided by Google and Facebook Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling Us to better understand how people use Our Site. This, in turn, enables Us to improve Our Site and the **products and** services offered through it. You do not have to allow Us to use these Cookies, as detailed below, however whilst Our use of them does not pose any risk to your privacy or your safe use of Our Site, it does enable Us to continually improve Our Site, making it a better and more useful experience for you.
@@ -243,8 +258,4 @@ If you have any questions about Our Site or this Privacy Policy, please contact 
 
 ## **16 - Changes to Our Privacy Policy**
 
-We may change this Privacy Policy as we may deem necessary from time to time, or as may be required by law. Any changes will be immediately posted on Our Site and you will be deemed to have accepted the terms of the Privacy Policy on your first use of Our Site following the alterations. We recommend that you check this page regularly to keep up-to-date.
-
-### Setup your phone system in less than 3 minutes
-
-No credit card required.
+We may change this Privacy Policy as we may deem necessary from time to time, or as may be required by law. Any changes will be immediately posted on Our Site and you will be deemed to have accepted the terms of the Privacy Policy on your first use of Our Site following the alterations. We recommend that you check this page regularly to keep up-to-date. 
