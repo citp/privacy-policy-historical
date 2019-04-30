@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731100751id_/https%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430220822id_/https%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
 
 # WeRelate:Privacy policy - Genealogy
 
@@ -27,7 +27,7 @@
 
 If you only read the WeRelate pages, no more information is collected than is typically collected in server logs by web sites in general. 
 
-If you contribute to the WeRelate, you are publishing every word you post publicly. If you write something, assume that it will be retained forever. This includes articles, user pages and talk pages. Some limited exceptions are described below. 
+If you contribute to the WeRelate, you are publishing to the public every word and every image you post. That means that even if you delete it at some future time, it may have been copied by a third party prior to your deletion; and has been or will be republished by a stranger. Assume that it will remain published somewhere forever. This includes articles, user pages and talk pages. Some limited exceptions are described below. 
 
 ## Publishing on the Wiki and Public Data
 
