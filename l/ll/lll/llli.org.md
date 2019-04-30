@@ -1,110 +1,91 @@
-> *The following text is extracted and transformed from the llli.org privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128011855id_/http%3A//www.llli.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llli.org privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430082136id_/https%3A//www.llli.org/privacy-policy) for the most accurate reproduction.*
 
-# LLLI | Privacy Policy
+# Privacy Policy | La Leche League International
 
-La Leche League International (“LLLI”) is committed to maintaining your confidence and trust, and accordingly maintains the following Privacy Policy to protect personal information you provide online.  This page explains how the information you provide at this Website (www.llli.org) is collected and used by LLLI. 
+## La Leche League International Privacy Policy
 
-#### What Information does LLLI Collect?
+La Leche League International (“us”, “we”, or “our”) operates the www.llli.org website (the “Service”).
 
-We may collect both personally identifiable information about you and non-personally identifiable information about your visit when you access our Website. 
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-Personally Identifiable Information:  The personally identifiable information we collect includes information you submit to us.  For example, if you decide to contact us or submit a question by way of an online Help Form, we may ask you to provide us with your contact information, baby’s birth date, and baby’s gender. Further, if you register for an LLLID in order to participate on the Mother to Mother Forums, we may ask for your email address, and you may decide to create an online profile, which includes your name, contact information, and other personal information about you.  In addition, when you place an order through LLLI’s online store, become an LLLI Member through online registration, or make a donation to LLLI through the Website, we may ask you to provide your name, contact information, and billing information, which includes your credit card number.  Because participation in these activities is completely voluntary, you have a choice whether or not to disclose this information. 
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Non-personally Identifiable Information:  When you visit www.llli.org, we collect certain information about your computer hardware and software, access times and referring website addresses.  We also collect navigational information about which pages our visitors view and what information you search for within www.llli.org.  Additional non-personal information, such as, domain type, browser version, service provider, and Internet protocol address may be collected to provide general information regarding www.llli.org.  This Website visitation data is identified only by a unique identification number, and it is not linked with personal information.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
 
-#### **  
-How is Your Information Used?**
+#### Information Collection And Use
 
-Personally Identifiable Information:  LLLI considers the personally identifiable information contained in our business records to be confidential.  LLLI may use your personally identifiable information to: (i) process and fulfill your orders, which includes sending you emails to confirm your order status and shipment; (ii) process a donation you make to LLLI using the online form at www.LLLI.org, which includes sending you a donation receipt and Donor Newsletter; (iii) conduct a transaction you have requested; (iv) create an LLLID upon your request; (vi) communicate with you in response to your online question or comment through the “Contact Us” link or your submission of a “Help Form” through www.llli.org; (v) provide you with information about LLLI and its products and services, unless you direct us not to contact you with such communications; and (vi) any other purpose that LLLI deems appropriate. 
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address and name (“Personal Information”).
 
-In addition, LLLI may hire other companies to perform services on our behalf such as operating certain aspects of the Website, processing certain transactions, or sending you email.  These other companies may be supplied with or have access to your personally identifiable information for the sole purpose of providing these services to us or on our behalf. 
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-We may also on occasion provide your personal information to other reputable nonprofit and/or commercial organizations that do not violate LLLI standards to enhance our ability to market to you those products that may be of interest to you.  If you do not want us to share this information you may call us at (312) 646-6260, mail your request to La Leche League International, 35 E. Wacker Dr., 850, Chicago, IL, USA, or email us at fdassociate@llli.org, to have your name removed. 
+#### Log Data
 
-Non-personally Identifiable Information:  Non-personal information collected about your Website visits will be used to allow us to better understand the entire audience that is visiting our Website.  This information is used for the operation of the Website, to maintain quality of the Website, and to provide general statistics regarding use of the Website.  This information allows us to see which areas of our Website are most visited and helps us improve the quality of your online experience.  We may further use this information to help diagnose problems with our servers, gather broad demographic information, and administer our Website. 
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Other disclosures of personally Identifiable and Non-personally Identifiable Information:  To the extent permitted by law, any information collected over our Website or concerning its use (personal and non-personal) may be disclosed to government authorities or third parties pursuant to a legal request, subpoena, or other process that requires disclosure of information.  We also may use or disclose your information as permitted by law to fight fraud, identity theft, or protect the rights or property of LLLI, our Website, its users, or third parties, or when we otherwise believe in good faith that the law requires it. 
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-Information Posted to Public Forums:  This Website allows users to leave comments on the Website’s Mother To Mother Forums.  please remember that any information that is disclosed through this function becomes public information and you should exercise caution when deciding to disclose your personal information.  LLLI cannot accept any responsibility for ensuring the privacy of information that you choose to disclose. 
+#### Cookies
 
-####   
-What About Cookies and Web Beacons?
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-LLLI and certain of our service providers working on the Website use technologies such as cookies and web beacons to enhance the information we have about your preferences and to learn about your visit.  A cookie is a piece of information that is sent to your browser from a web server and stored on your computer’s hard drive.  A cookie allows LLLI to determine that a visit has occurred within our Website, as well as which pages were viewed.  Cookies cannot be used to run programs or deliver viruses to your computer. You can decide if and how your computer will accept cookies by configuring your preferences option within your web browser.  If you choose to decline cookies, however, some of the functionality of this Website may be impaired.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-Web beacons, also known as clear gifs, pixel tags or web bugs, allow us to recognize a cookie on your computer when you view a web page.  These electronic images help us analyze our visitors’ online behavior and measure the effectiveness of our Website and our marketing.  This technology tells us information about your visit to www.llli.org, including the pages you view, the features you use, the links you click, and other actions you take in connection with the Website.  This information may include your computer’s Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer.    
-Web beacons and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from LLLI. 
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-These website visitation statistics are collected in aggregate form and never linked with personal information about you.  We do not use web beacons or cookies to access personal information about you.  Rather, these are tools we use to gather aggregated statistics about www.llli.org Website usage.
+#### Do Not Track Disclosure
 
-We may work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet.  These companies may collect information about your visits to our Website and your interactions with our advertising and other communications.  If you would like more information about this practice and to know your choices about not having information about you used by these companies, please feel free to contact LLLI to obtain additional information through one of the means listed in the section entitled, “How Can You Contact LLLI?”, below. 
+We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
-####   
-What if You Live Outside the United States?
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-Like almost every website, this Website is accessible around the world.  By visiting this Website and providing your information, you acknowledge and agree that your personal information can be used for the purposes identified in this Privacy Policy.  We process and store your information in North America and your information may be stored on servers located outside your residential jurisdiction and which may have less stringent privacy practices than your own.  If you access this Website from outside the United States, your usage of this Website constitutes consent to the transfer of your data outside of your country and to North America. 
+#### Service Providers
 
-####   
-What Information is Collected from Children?
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
 
-LLLI is concerned about children’s privacy.  This Website is not targeted to or intended for use by children under the age of 13.  We do not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent and unless expressly identified on specific pages of our website.  If you are under the age of 13, please do not provide personally identifiable information of any kind whatsoever.
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
-####   
-How do we Protect Personally Identifiable Information Collected on this Website?
+#### Communications
 
-LLLI is committed to protecting the security of the personal information you provide through www.llli.org.  We take reasonable precautions to protect your personal information in our possession from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. 
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
 
-Additionally, our secure server encrypts the information you input before it is sent to us so that no outside sources may capture it.  Specifically, when you enter personal information on our Website in connection with purchasing items from our store, making a donation, registering for membership or requesting an LLLID, we use Secure Sockets Layer (“SSL”) technology to protect your information as it is transmitted to LLLI.  To make sure you are accessing our secure server before you submit personal financial information, look at the URL, or Location line of your browser.  If you have accessed a secure server, the first characters of the address in that line should change from “http” to “https.”
+#### Compliance With Laws
 
-Once you have placed your online order, made a donation, or registered for membership, and your credit card has been authorized for the purchase, donation, or registration, your credit card information is deleted.  All of your future orders will require you to input your credit card information again.  We recognize that this may seem redundant, however, this process ensures your security.  That said, your credit card information is stored if you make recurring donations.  This information is stored by Blackbaud Sphere software, a service technology platform and social CRM (Constituent Relationship Management) that LLLI uses for all donations, and a few employees have limited access to this information.
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
- LLLI is VeriSign certified to ensure your security on the web.  Simply click the VeriSign symbol on our Website to confirm our certification.
+#### Security
 
-While we implement the above security measures on this website, you should be aware that 100% security is not always possible, and that no data transmission over the Internet can be guaranteed to be absolutely secure.  If you are not comfortable shopping online, making a donation, or registering for membership at our Website, please feel free to place your order with us through one of the methods listed in the section entitled, “How Can You Contact LLLI?” below. 
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
 
-####   
-What if You Need to Change the Personal Information We Collect?
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
-LLLI prefers to keep the personal information it collects as accurate and up-to-date as possible.  To do this, we provide you with the opportunity to access and update or modify the information you provide LLLI by contacting us directly at fdassociate@llli.org, or through one of the other methods listed below in the section entitled, “How Can You Contact LLLI?” In addition, on the LLLI website, you may register and create a LLLID.  When you submit your email address to create the LLLID, we will send a message to that address with an email verification link.  Once you have created your LLLID and verified your email address, you may set your password, create a personal profile, and manage your Website activity.  Your personal information contained within your profile can be accessed on the Website once you sign in with your LLLID and password, which then allows you to make updates or modifications to that information.
+#### International Transfer
 
-####   
-How Can You Opt Out of Communications From Us or Remove Your Information From Our Database?
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-If you do not wish to receive communications or information from us or our affiliates, or if you wish to have your personal information removed from our database, you may call us at (312) 646-6260, mail your request to La Leche League International, 35 E. Wacker Dr., Suite 850, Chicago, IL 60601 USA, or email us at fdassociate@llli.org and provide us with your request.
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
 
-####   
-What Websites Does This Policy Cover?
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-For your convenience and information, our website may contain links to other websites (“linked websites”), which may have privacy policies that differ form our own.  This Privacy Policy applies only to our Website, www.llli.org, which is owned and operated by LLLI.  LLLI does not evaluate and is not responsible for the content, information collection and use practices, or security measures of any linked website.  We recommend that you review the privacy and security policies of any linked website that you access through www.llli.org.
+#### Links To Other Sites
 
-####   
-What happens to Your Information If There is a Corporate Change of Control?
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-In the event of a corporate change in control resulting from, for example, a merger with another entity, we reserve the right to transfer your personal information to the new party in control.
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-####   
-How can You Contact LLLI?
+#### Children’s Privacy
 
-If you have any questions or concerns about our privacy policies or data use, wish to change your options or your personal information, wish to place an order, make a donation, or wish to obtain information about how LLLI uses or shares your personal information, please contact us at the following email address, telephone number, facsimile number or mailing address.
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
 
- _For personal information changes, deletions, etc._
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a child under age 13 without verification of parental consent, we take steps to remove that information from our servers.
 
-email:  fdassociate@llli.org
+#### Changes To This Privacy Policy
 
-telephone (office administration): 1+919-459-2167
+This Privacy Policy is effective as of February 14, 2018 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-facsimile: 1+919-459-2167
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
-La Leche League International  
-110 Horizon Drive, Suite 210  
-Raleigh, NC 27615  
-USA
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
-####   
-What About Changes to This Privacy Policy?
+#### Contact Us
 
-LLLI reserves the right, in its sole discretion, to modify, alter or otherwise update this Privacy Policy at any time and you agree to be bound by such modifications, alterations or updates.  We will notify you of material changes to this Privacy Policy by posting the revised Privacy Policy with the date it was revised on this page.  Your continued use of our Website constitutes your agreement to this Privacy Policy and any updates.  We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. 
-
-#### Last Revised: January 17, 2015
-
-[](http://www.addthis.com/bookmark.php?v=250&pub=xa-4a8b35070f50b60a)
+If you have any questions about this Privacy Policy, please [contact us](mailto:info@llli.org).
