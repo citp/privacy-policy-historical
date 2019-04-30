@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportresult.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228031946id_/http%3A//www.swisstiming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportresult.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430214543id_/http%3A//www.swisstiming.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Swiss Timing
 
@@ -65,7 +65,17 @@
 
 4.1.1. If you fill out a contact form providing your name, email-address, telephone number, preferences, etc., we use your data for answering your questions, sending you information or performing other tasks you ask us to. 
 
-4.1.2. If you apply for a job offer. 
+4.1.2. We collect personal data, that you provide to us, such as by applying to a job opening, attending an interview, doing an assessment, which may consist of:
+
+  * contact information (such as name, postal address, email address, and mobile or other telephone number);
+  * passport data (such as passport number, date/place of issue or date of birth);
+  * information regarding your personal or professional interests, experiences and achievements included in your CV, motivation letter, certificates, diplomas, etc.;
+  * information about your current level of remuneration;
+  * information about your entitlement to work in the country in which you apply for a job.
+
+
+
+We collect personal data about you we may obtain from our third-party service providers or former employers. 
 
 4.1.3.  If you register an account with us, then we process the data required to open that account, for example your name, address, email-address, password, profile picture, third party account data (if you register using your Facebook account, for example), etc. to allow your registration and management of your account. 
 
