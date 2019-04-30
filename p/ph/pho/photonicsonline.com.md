@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628045736id_/https%3A//www.photonicsonline.com/static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430091714id_/https%3A//www.photonicsonline.com/static/Privacy) for the most accurate reproduction.*
 
 # Photonics Online : Privacy Statement
 
