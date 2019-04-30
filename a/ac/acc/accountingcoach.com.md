@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908141758id_/https%3A//www.accountingcoach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430040826id_/https%3A//www.accountingcoach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingCoach
 
