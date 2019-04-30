@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedwithisrael.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230112917id_/https%3A//unitedwithisrael.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedwithisrael.org privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430032652id_/https%3A//unitedwithisrael.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United with Israel
 
