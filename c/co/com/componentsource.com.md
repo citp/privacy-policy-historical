@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the componentsource.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903141438id_/https%3A//www.componentsource.com/help-support/about-us/policy-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the componentsource.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430230342id_/https%3A//www.componentsource.com/help-support/about-us/policy-privacy) for the most accurate reproduction.*
 
 # ComponentSource Privacy Statement
 
