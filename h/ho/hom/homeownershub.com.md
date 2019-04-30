@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163305id_/https%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeownershub.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430192318id_/https%3A//www.homeownershub.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,11 +16,7 @@ _HomeOwnersHub.com_ also collects potentially personally-identifying information
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to _HomeOwnersHub.com_ 's websites choose to interact with _HomeOwnersHub.com_ in ways that require _HomeOwnersHub.com_ to gather personally-identifying information. The amount and type of information that _HomeOwnersHub.com_ gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a forum user account at _HomeOwnersHub.com_ to provide a username and email address as well as, 
-
-_optionally_
-
-, the first and last name. Those who engage in transactions with _HomeOwnersHub.com_ \- by purchasing a product or service, for example - are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, _HomeOwnersHub.com_ collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with _HomeOwnersHub.com_. _HomeOwnersHub.com_ does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
+Certain visitors to _HomeOwnersHub.com_ 's websites choose to interact with _HomeOwnersHub.com_ in ways that require _HomeOwnersHub.com_ to gather personally-identifying information. The amount and type of information that _HomeOwnersHub.com_ gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a forum user account at _HomeOwnersHub.com_ to provide a username and email address. We advise users not to use their real names for the username as this information is shown publicly on pages of this website. Email address is not shown publicly. In each case, _HomeOwnersHub.com_ collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with _HomeOwnersHub.com_. _HomeOwnersHub.com_ does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
 
 ### Aggregated Statistics
 
@@ -66,4 +62,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Although most changes are likely to be minor, _HomeOwnersHub.com_ may change its Privacy Policy from time to time, and in _HomeOwnersHub.com_ 's sole discretion. _HomeOwnersHub.com_ encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
 
-This Privacy Policy has been last updated on August 21st, 2015
+This Privacy Policy has been last updated on May 25th, 2018
