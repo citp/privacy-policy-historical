@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009005524id_/https%3A//www.webbyawards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430132457id_/https%3A//www.webbyawards.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Webby Awards
+# Privacy Policy -- The Webby Awards
 
   *     * What information do we collect? How do we use it?
     * How can you edit your personal information?
