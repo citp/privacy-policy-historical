@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyli.st privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829101803id_/https%3A//www.babylist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyli.st privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430210915id_/https%3A//www.babylist.com/privacy) for the most accurate reproduction.*
 
 # Babylist Privacy Policy
 
