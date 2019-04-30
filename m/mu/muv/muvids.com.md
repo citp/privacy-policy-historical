@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muvids.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211135443id_/http%3A//muvids.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muvids.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430155135id_/http%3A//muvids.com/private-policy) for the most accurate reproduction.*
 
 # Check out privacy policy at Muvids.com
 
