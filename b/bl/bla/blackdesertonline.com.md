@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdesertonline.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222065208id_/https%3A//www.blackdesertonline.com/account/Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdesertonline.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430032517id_/https%3A//www.blackdesertonline.com/account/Policy.html) for the most accurate reproduction.*
 
 # Black Desert Online Login
 
@@ -55,6 +55,11 @@ When you access our website, a banner is displayed informing you which cookies w
 
 You can remove cookies. You do this by changing the settings of your browser. At the bottom of this Privacy Policy you will find an instruction how to remove Cookies.
 
+**Personal Data Storage Period**
+
+Personal data of customers are normally stored permanently.  
+When a customer requests to delete his/her account, the personal data of the relevant customer will be stored for 2 years in order to handle any civil services.
+
 **What personal data do we collect when you play a game on our Website and for what purposes?**
 
 When you decide to play a game on our Website, you have to create an account. The following data is processed when you create an account.
@@ -68,6 +73,8 @@ _Email address;_
 _IP address;_
 
 _Date of birth;_
+
+*For users who have signed up through Steam or Facebook, the UID used for authentification of the relevant platform will be stored.
 
 This information is used to identify your account. It allows us to let you make in game purchase, access the offered games, request customer support and assist you if you lose your password. We use the data also to inform you about our product range, to improve our services and fix bugs. We do not sell your information to third parties for commercial purposes. We may also use your IP address in order to generate anonymous statistics about our player base.
 
@@ -107,7 +114,18 @@ Your billing information are collected and processed by third parties who provid
 
 **Will Kakao Games Europe send me newsletters as soon as I have registered my email?**
 
-Yes, Kakao Games Europe will send you newsletters with relevant developments on the platform, game updates, offers or other relevant information for our users. The frequency depends on these factors.
+Yes, Kakao Games Europe will send you newsletters with relevant developments on the platform, game updates, offers or other relevant information for our users. The frequency depends on these factors. Whether or not you agree to receive newsletters can be changed on myinfo page on the website. Upon withdrawing from the agreement to receive newsletters, any provided date will be destroyed.
+
+**Handling personal data in order to resolve CS requests**
+
+In order to process CS request,   
+authorization process of the individual will be performed. The personal data used   
+to authenticate the identity of the customer will be deleted within 7 days after   
+the CS request is resolved.
+
+**Handling personal data for event winners**
+
+IPersonal data of the customer may be collected in order to distribute the reward related to an event promotion. This personal data will be deleted at the point of receipt for the reward, or this personal data may be encrypted and stored if this data needs to be rechecked to omit any duplicate wins for recurring events.
 
 **Who do you share my personal data with? And where do you store my data?**
 
@@ -123,9 +141,22 @@ All subsequent legal entities, in the case of a merger, acquisition, consolidati
 
 All personal data is stored on our servers located in the European Union.
 
+**Kakao Games Europe may share personal data of customers for the following reasons:**
+
+Partners and Service-providing agencies  
+Kakao Games Europe may share information in order to improve upon service, process payments, and send newsletters.
+
+**Affiliates**
+
+The content of the ticket may be shared in order to handle customer service.
+
 **What are my rights?**
 
 You have the following rights:
+
+**Right to be informed**
+
+To ensure fair and transparent handling of personal information, Kakao Games Europe must inform its Customers on how their personal information is being used. If the Customer requests information on how his or her personal information is being used, Kakao Games Europe must provide the relevant information in a simple and straightforward manner. Customers may make these requests through Customer Service.
 
 **The right of access**
 
@@ -154,6 +185,10 @@ You have the right to object to the data processing if the data processing takes
 **The right to lodge complaints with the Dutch Data Protection Authority (“DPA”)**
 
 You have the right to lodge a complaint about the processing of your personal data at the Dutch DPA. According to [Article 57 of the GDPR](https://gdpr-info.eu/art-57-gdpr/), the Dutch DPA is obliged to handle all complaints it receives.
+
+**Right to related to automated decision making and profiling**
+
+In the case of when an issue may have major repercussions such as issues which require legal action, the Customer will not be affected by decisions which are based on automated systems such as profiling. In these cases, the Customer may request a withdrawal of such decisions.
 
 If you have questions about this privacy policy or your rights, please contact us. You can reach us at the following e-mail address: privacy@blackdesertonline.com
 
