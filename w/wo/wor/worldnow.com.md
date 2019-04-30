@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230080356id_/https%3A//franklyinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430035620id_/https%3A//franklyinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frankly Inc.
 
 ### FRANKLY CO. PRIVACY POLICY
 
- **Last Updated: April 8, 2015**
+**Last Updated: April 8, 2015**
 
-Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our website located at [www.franklyinc.com](https://franklyinc.com/) (“Site”) and instant messaging and social networking services for professionals, accessible via our mobile device application (“App”). To make the terms in this Privacy Policy easier to read, our Site, services and App are collectively called the Services. This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services.
+Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our website located at [www.franklyinc.com](https://web.archive.org/) (“Site”) and instant messaging and social networking services for professionals, accessible via our mobile device application (“App”). To make the terms in this Privacy Policy easier to read, our Site, services and App are collectively called the Services. This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services.
 
 ##### HOW DO WE COLLECT AND USE INFORMATION?
 
@@ -82,7 +82,7 @@ As noted above, as part of our Services, Account holders may communicate with ot
 
 ##### MODIFYING YOUR INFORMATION
 
-You can access and modify the PII about you associated with your Account through the profile page in your Account. If you want us to delete your PII and your Account, please contact us at help@franklyinc.com with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+You can access and modify the PII about you associated with your Account through the profile page in your Account. If you want us to delete your PII and your Account, please contact us at [help@franklyinc.com](mailto:help@franklyinc.com) with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
 ##### OPTING OUT
 
@@ -106,17 +106,17 @@ Please contact us at [help@franklyinc.com](mailto:help@franklyinc.com) if you 
 
 ##### FRANKLY CO. COPYRIGHT POLICY
 
- **DMCA Notice of Alleged Infringement (“Notice”)**
+**DMCA Notice of Alleged Infringement (“Notice”)**
 
   1. Identify the copyrighted work that you claim has been infringed, or – if multiple copyrighted works are covered by this Notice – you may provide a representative list of the copyrighted works that you claim have been infringed.
   2. Identify the material that you claim is infringing (or to be the subject of infringing activity) and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material, including at a minimum, if applicable, the URL of the link shown on or through the Service(s) where such material may be found.
   3. Provide your mailing address, telephone number, and, if available, email address.
-  4. Include both of the following statements in the body of the Notice:
-    *  _“I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).”_
-    *  _“I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.”_
-  5. Provide your full legal name and your electronic or physical signature. Deliver this Notice, with all items completed, to Frankly Co.’s Designated Copyright Agent:
-    *  **Copyright Agent**
-    *  **c/o Frankly Co.**
+  4. Include both of the following statements in the body of the Notice: 
+    * _“I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).”_
+    * _“I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.”_
+  5. Provide your full legal name and your electronic or physical signature. Deliver this Notice, with all items completed, to Frankly Co.’s Designated Copyright Agent: 
+    * **Copyright Agent**
+    * **c/o Frankly Co.**
     * 333 Bryant Street, Suite 240
     * San Francisco, CA 94107
     * Tel: (415) 861-9797
@@ -124,3 +124,5 @@ Please contact us at [help@franklyinc.com](mailto:help@franklyinc.com) if you 
     * Email: [IP@franklyinc.com](mailto:IP@franklyinc.com)
 
 
+
+Our website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Reject [Read More](https://franklyinc.com/)
