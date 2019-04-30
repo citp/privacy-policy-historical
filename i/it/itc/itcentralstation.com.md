@@ -1,16 +1,24 @@
-> *The following text is extracted and transformed from the itcentralstation.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227214402id_/https%3A//www.itcentralstation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcentralstation.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430054741id_/https%3A//www.itcentralstation.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | IT Central Station
 
 **IT Central Station Privacy And Cookies Policy**
 
-This Privacy and Cookies Policy was last updated on May 25, 2018.
+This Privacy and Cookies Policy was last updated on January 20, 2019.
 
 **I. Overview**
 
-IT Central Station Ltd. (“ **IT Central Station** ”, “ **we** ”, “ **our** ”, or “ **us** ”) takes the privacy and protection of personal information seriously. By visiting our Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this Privacy and Cookies Policy (the “ **Privacy Policy** ”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the IT Central Station Terms of Use, which can be found [here](https://web.archive.org/web/20181227214402id_/https%3A//www.itcentralstation.com/tos) and which incorporate this Privacy Policy by reference. This Privacy Policy describes IT Central Station's practices with respect to Personal Information that we collect when you visit our Site or use the Services. 
+IT Central Station Ltd. (“ **IT Central Station** ”, “ **we** ”, “ **our** ”, or “ **us** ”) takes the privacy and protection of personal information seriously. By visiting our Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this Privacy and Cookies Policy (the “ **Privacy Policy** ”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the IT Central Station Terms of Use, which can be found [here](https://web.archive.org/web/20190430054741id_/https%3A//www.itcentralstation.com/tos) and which incorporate this Privacy Policy by reference. This Privacy Policy describes IT Central Station's practices with respect to Personal Information that we collect when you visit our Site or use the Services. 
 
 “ **Personal Information** ” is information that is personally identifiable such as names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing. In some regions, an individuals’ internet protocol address (“ **IP address** ”) may be considered Personal Information. We collect and use Personal Information as described in this Privacy Policy from visitors to our Site and Users of our Services. 
+
+IT Central Station complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. IT Central Station has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+IT Central Station is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. IT Central Station may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+IT Central Station is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and for the subsequent transfers of such personal data to any third party acting as an agent on IT Central Stations’s behalf. IT Central Station will be liable under the Privacy Shield Principles if its agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless IT Central Station proves that it is not responsible for the event giving rise to the damage. 
+
+Under certain conditions, as more fully described on the Privacy Shield website on [this page](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 BY VISITING OUR SITE, USING THE SERVICES, OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICES, YOU EXPRESSLY CONSENT TO THE PROCESSING AND USE OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY, INCLUDING THE COLLECTION, USE, DISCLOSURE, STORAGE, TRANSFER AND PROCESSING OF YOUR PERSONAL INFORMATION AS DESCRIBED HEREIN. YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS IN OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING THE PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. 
 
