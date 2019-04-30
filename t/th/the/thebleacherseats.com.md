@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebleacherseats.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229092018id_/http%3A//www.metrodaycare.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebleacherseats.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430221308id_/http%3A//www.metrodaycare.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # Child Day Care Centers, Home daycare & family child care, Find child care, home daycare and child day care centers.
 
