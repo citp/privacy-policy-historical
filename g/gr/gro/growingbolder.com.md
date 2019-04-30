@@ -1,84 +1,128 @@
-> *The following text is extracted and transformed from the growingbolder.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701215807id_/https%3A//www.growingbolder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingbolder.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430110845id_/https%3A//www.growingbolder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Growing Bolder
 
-### We Want Your Trust
-
 Our relationship with you is built on trust. We want you to feel safe and enjoy your experience with Growing Bolder, which includes our network of websites, television, radio, magazines, books, newsletters, motion pictures, and all other related services, digital or otherwise. Although you do not have to provide us with any information to visit our website, you will not be able to fully utilize all of the services on our website if you choose not to provide certain information. Growing Bolder continually strives to ensure the privacy and accuracy of your confidential information.
 
-### Information Collection and Use by Growing Bolder
+**Growing Bolder (“Website”) is governed by the following Privacy Policy.**
 
-Aggregate information on website usage is recorded, and information volunteered by site users including all data submitted is collected and stored. This includes the use of specific services on the Website and/or Service(s) such as performing keyword searches, registering for events, or requesting additional information. We also collect and retain your email address and any other information you provide, when you communicate with us via email. 
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement applies to this Website and others managed by Bolder Broadcasting Inc.
 
-We use this information for several purposes, such as to understand more about our audience’s interests, to communicate with you and to give you a better experience when visiting the Growing Bolder Network by personalizing tools, content, services and email messages. Growing Bolder also uses this information to build new services and develop offers that are more relevant and valuable to you.
+### TABLE OF CONTENTS
 
-The information collected by Growing Bolder is used to create aggregated portraits of the Growing Bolder audience, portraits which present anonymous statistical demographic information but no personally identifiable information. This aggregated information is used, among other things, to determine trends and needs, and also to supply market research to potential advertisers and partners to help them understand whom the Growing Bolder audience is.
+  1. WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
+  2. HOW YOUR INFORMATION MAY BE USED
+  3. THIRD-PARTY USE OF PERSONAL INFORMATION
+  4. ANONYMOUS DATA
+  5. PUBLICLY VISIBLE INFORMATION
+  6. COOKIES
+  7. ADVERTISING
+  8. RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+  9. SENSITIVE PERSONAL INFORMATION
+  10. CHILDREN’S INFORMATION
+  11. CONTACT INFORMATION
 
-### **Aggregate Information**
 
-We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us information about you that they have independently developed or acquired.
 
-### IP Address Information and Other Information Collected Automatically
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-We automatically receive and record information from your device or web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
+  * **Information You Voluntarily Submit to the Website  
+**We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records.
+  * **Information We Collect from Others  
+**We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
+  * **Automatically-Collected Information  
+**We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+  * **Cookies  
+**We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site or mobile application. We may use this data in aggregate form, that is, as a statistical measure. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
 
-### Location Data
 
-Some of our Services, such as mobile applications, may collect geo-location data to provide location-related functionality. We may link location data to other information we have collected about you. You may stop sharing your location data by adjusting your mobile device’s location services settings. For instruction on changing the relevant settings, please contact your service provider or device manufacturer.
+**HOW YOUR INFORMATION MAY BE USED**
 
-### Email Communications
+We may use the information collected in the following ways:
 
-We may receive a confirmation when you open an email from us. We use this confirmation to improve our Services, including customer service. At anytime you may opt out or unsubscribe from receiving email notifications, newsletters, or other such email communication from Growing Bolder.
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To process payment for purchases you make through the Website; or,
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-### Use of Cookies
 
-From time to time we may use “cookie technology” to personalize content and advertisements, provide you with a more individualized delivery of information and an optimal viewing experience. So, for example, instead of seeing just a generic welcome page, you might see a welcome page with your name on it and information that relates to where you live (your zip code) and products or services that reflect your interests.
 
-A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer’s hard drive. A cookie can’t read data off of your computer hard disk or read cookie files created by other Websites. Cookies do not damage your system. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent — however, you must enable cookies from Growing Bolder in order to use most functions on the site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
+**THIRD-PARTY USE OF PERSONAL INFORMATION**
 
-### Our Commitment To Data Security
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-The confidential data you submit is secure. Because your privacy is important to us, we have installed safeguards to secure the credit card information we collect online. Our e-commerce store uses Secure Sockets Layer (SSL) encryption technology to protect your online transactions. SSL encrypts your credit card number, name, address, and phone number before they travel over the Internet. We also use additional technologies and measures to prevent unauthorized access or disclosure and ensure appropriate use of this information.
+Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers:
 
-Furthermore, all of the customer data we collect is protected against unauthorized access and is never sold, traded or rented for commercial purposes to other organizations except to provide services, information, or products you’ve requested, when we have your permission, or in the following circumstances: (a) in the case of a sale of all of the assets of Growing Bolder, a merger involving Growing Bolder, a sale of assets involving Growing Bolder or a corporate reorganization involving Growing Bolder; and (b) when it is necessary to share information to investigate, prevent, or take action regarding illegal activities, suspected threatening or fraudulent activities, and violations of Terms of Service, or as otherwise required by law.
+  * Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+  * PayPal Payment Processing – this service is used to serve our ecommerce platform. At no time is your banking information passed to the Website. We receive only information used for order fulfillment.
+  * MailChimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.
+  * VHX Checkout – this service is used to serve our ecommerce platform. At no time is your banking information passed to the Website. We receive only information used for order fulfillment.
 
-### Links
 
-Growing Bolder may contain links to other Websites. Growing Bolder is not responsible for the privacy policies and/or practices on other sites. Because we do not control the privacy policies of our business affiliates or any other sites to which we may provide hyperlinks, we recommend you review the privacy policy of the site you are visiting. If you cannot find that site’s privacy policy, or if you are uncertain about the entity to which you are providing your information, you should contact that site directly for more information.
 
-### Information Related to Advertising and the Use of Web Beacons
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-To support and enhance the services of Growing Bolder, we may serve advertisements, and also allow third parties advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. We may engage with ad networks that are members or organizations or programs that manage the advertising privacy choices these ad networks offer consumers.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-When you visit our Site or use our mobile applications or other Services, ad networks and other parties may collect information about your online activities over time and across different websites. We are not responsible for the privacy practices of these ad networks and other parties.
+**ANONYMOUS DATA**
 
-Advertisements served through the Services may be targeted to users who fit a certain general profile category may be inferred from information provided to us by a user, may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use other than in connection with the Services.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-To increase the effectiveness of ad delivery, we may deliver a file (known as a “web beacon”) from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
+**PUBLICLY VISIBLE INFORMATION**
 
-### Public Areas
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.
 
-Growing Bolder may include a variety of features, such as public forums, bulletin boards and chat rooms, which allow interaction between site users. Growing Bolder does not control the posting of messages, information or files that others may provide through the Site. Please be aware that whenever you voluntarily post public information to any Public Forums (bulletin boards, chat rooms) that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+**COOKIES**
 
-Some of your activity on and through Growing Bolder is public by default. This may include, but is not limited to, content you have posted publicly on the webite or otherwise through the Services, such as written posts, comments, or other submissions by you.
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-Please also remember that by choosing to provide Personal Information using certain public features of the Services, you make your information publicly available. User reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-Growing Bolder reserves the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, or to refuse to post or to remove any information or materials, in whole or in part, that in Growing Bolder sole discretion are objectionable or in violation of the Terms of Use.
+**ADVERTISING**
 
-### **Is Information About Me Secure?**
+  * **Display Ads  
+**We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+  * **Retargeting Ads  
+**From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+  * **Sponsored Content Tracking Pixels  
+**This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+  * **Affiliate Program Participation  
+**The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions. Growing Bolder is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+  * **Newsletters  
+**On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
-We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
-We otherwise store all of our information, including your IP address information, using techniques reasonably designed to secure the information. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.
 
-### Changes in Our Privacy Policy
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
 
-From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use users’ personally identifiable information in a manner materially different from that stated at the time of collection we will notify you and other users by posting a notice on our Website for 30 days.
+  * **Opt-out  
+**You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at support@growingbolder.com to be removed from our mailing list.
+  * **Access  
+**You may access the personal information we have about you by submitting a request to support@growingbolder.com.
+  * **Amend  
+**You may contact us at support@growingbolder.com to amend or update your personal information.
+  * **Forget  
+**In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to support@growingbolder.com.
+  * Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
-### Contacting Growing Bolder
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, please contact us at: support@GrowingBolder.com Last updated: April 29, 2014  
-Copyright 2013-2014, Bolder Broadcasting, Inc. All rights reserved.
+
+**SENSITIVE PERSONAL INFORMATION**
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+**CHILDREN’S INFORMATION**
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at support@growingbolder.com and we will use our best efforts to promptly remove such information from our records.
+
+**CONTACT INFORMATION**
+
+At any time, please contact us at support@growingbolder.com for questions related to this Privacy Policy.
+
+_Last updated: May 25, 2018_
