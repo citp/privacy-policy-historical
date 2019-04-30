@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startec.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229124603id_/http%3A//www.startec.com/us/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startec.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430134852id_/http%3A//www.startec.com/us/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Startec
 
