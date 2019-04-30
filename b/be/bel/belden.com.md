@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belden.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819072251id_/https%3A//www.belden.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belden.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430060645id_/https%3A//www.belden.com/about/privacy) for the most accurate reproduction.*
 
 # Belden - Privacy
 
@@ -23,6 +23,7 @@ We recommend that you read this Privacy Notice in full to ensure you are fully i
   * Children and privacy
   * Your data protection rights
   * Modifications to Our Privacy notice
+  * Privacy Shield Provisions
 
 
 
@@ -32,13 +33,15 @@ The personal information that we may collect about you broadly falls into the fo
 
   * _Information that you provide voluntarily_
 
-CCertain parts of our Website may ask you to provide personal information voluntarily: for example, we may ask you to provide your name, address, e-mail address, company affiliation, telephone number, and other similar information. From time to time our Website may request additional information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose additional information that may be requested. Information requested via surveys and contests may include additional demographic information.
+Certain parts of our Website may ask you to provide personal information voluntarily: for example, we may ask you to provide your name, address, e-mail address, company affiliation, telephone number, and other similar information. From time to time our Website may request additional information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose additional information that may be requested. Information requested via surveys and contests may include additional demographic information.
 
 We use personal information for purposes of administering our business activities and providing customer service. The Personal Information you provide to us when filling out and submitting an online form or requesting us to contact you will be used for the purpose for which it was provided – such as contacting you or processing a request.
 
 Occasionally, we may also use the personal information we collect to notify you about important changes to our Website, new services and special offers we think you will find valuable. Any lists used to send you product and service offers are developed and managed under our traditional company standards designed to safeguard the security and privacy of our customers' personal information. As a customer, you will be given the opportunity, after registration, to notify us of your desire not to receive any further e-mails from us.
 
-  * _Information that we collect automatically_ When you visit our Website, we may collect certain information automatically from your device. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.
+  * _Information that we collect automatically_
+
+When you visit our Website, we may collect certain information automatically from your device. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.
 
 Specifically, the information we collect automatically may include information like your IP addresses, Internet domain names, the web browser and operating system used to access the Website, the files or pages visited, the time spent in each file or page, and the time and date of each visit. We use this information to improve our Website, for example by enhancing pages or features that are visited frequently, and on occasion we may share this information with our affiliates or other third party companies to provide them with an indication of the amount of interest in our Website for advertising purposes and to help us plan for technical improvements.
 
@@ -59,10 +62,10 @@ In general, we will use the personal information we collect from you only for th
 
 We may disclose your personal information to the following categories of recipients:
 
-  * to our **group companies, third party services providers and partners** who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Website), or who otherwise process personal information for purposes that are described in this Privacy Notice or notified to you when we collect your personal information. A list of our current group companies is available in Belden Inc.’s most recent annual report on Form 10-K, filed with the United States Securities and Exchange Commission and available at <http://investor.belden.com/investor-relations>.
+  * to our **group companies, third party services providers and partners** who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Website), or who otherwise process personal information for purposes that are described in this Privacy Notice or notified to you when we collect your personal information. A list of our current group companies is available in Belden Inc.’s most recent annual report on Form 10-K, filed with the United States Securities and Exchange Commission and available at <http://investor.belden.com/investor-relations>.
   * to any **competent law enforcement body, regulatory, government agency, court or other third party** where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person;
   * to a **potential buyer** (and its agents and advisers) in connection with any proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Notice;
-  * to any other person with your consent to the disclosure.
+  * to any **other person with your consent** to the disclosure.
 
 
 
@@ -82,9 +85,9 @@ If you have questions about or need further information concerning the legal bas
 
 ### Cookies and similar tracking technology
 
-We use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you, including to serve interest-based advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice at [http://www.belden.com/about/privacy/cookies](https://www.belden.com/about/privacy/cookies?hsLang=en).
+We use cookies and similar tracking technology (collectively, “ **Cookies** ”) to collect and use personal information about you, including to serve interest-based advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice at [http://www.belden.com/about/privacy/cookies](https://www.belden.com/about/privacy/cookies?hsLang=en).
 
-### How do we keep your personal information secure
+### How do we keep your personal information secure?
 
 We use appropriate technical and organizational measures to protect the personal information that we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information.
 
@@ -130,9 +133,25 @@ We respond to all requests we receive from individuals wishing to exercise their
 
 Our Data Subject Access Rights Policy and more detailed information on how to submit a request may be found at [http://www.belden.com/about/privacy](https://www.belden.com/about/privacy?hsLang=en).
 
-### Modifications to Our Privacy Policies
+### Modifications to Our Privacy Notice
 
 Belden reserves the right to change our Privacy Notice at any time, except as may be prohibited by law. We will post revisions online. Use of our Website after the Privacy Notice has changed means that you consent to the Privacy Notice as changed.
+
+### Privacy Shield Provisions
+
+As previously mentioned, Belden complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. (Your organization name) has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Accordingly, Belden is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+In compliance with the Privacy Shield Principles, Belden commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [belden.privacy@belden.com](mailto:belden.privacy@belden.com)
+
+We have further committed to refer unresolved Privacy Shield complaints to ICDR/AAA, an alternative dispute resolution provider located in the United States. You may find more information about dispute resolution and how to file and arbitration claim with ICDR/AAA at [http:info.adr.org/privacyshield](http://info.adr.org/privacyshield). The services of ICDR/AAA are provided at no cost to you. Under certain conditions, individuals may invoke binding arbitration for complaints regarding Privacy Shield compliance that are not previously resolved by other Privacy Shield mechanisms. Please visit <https://www.privacyshield.gov/article?id=ANNEX-I-introduction> for more information.
+
+As disclosed above, Belden may share Personal Data with third parties that provide certain services to Belden, including but not limited to, outside accountants and lawyers, consultants and service providers. Prior to transferring Personal Data within the Belden Group, Belden will ensure that the protection and transfer of such Personal Data complies with the Privacy Shield Principles or, in the case of Switzerland-Based Parties human resources data, the Swiss-U.S. Privacy Shield.
+
+Belden may transfer Personal Data to a third party acting as an agent for Belden by having the third party enter into an agreement with Belden in which the third party promises to provide the same level of protection as required by the Privacy Shield Principles or, in the case of Switzerland-Based Parties human resources data, the Swiss-U.S. Privacy Shield. If the third party agent does not comply with its privacy obligations, Belden will take commercially reasonable steps to prevent or stop the use or disclosure of Personal Data. Belden acknowledges that it remains potentially liable under the Privacy Shield Principles for the actions of its agents.
+
+Belden may also transfer Personal Data to a third party without your consent in response to requests by public authorities, including to meet national security or law enforcement requirements, including, for example, if we are required to do so by law, regulation, subpoena, court order or any other government, judicial or regulatory process.
+
+The U.S. subsidiaries of Belden Inc. that comply with Privacy Shield include the following: Coast Wire and Plastic Tech LLC; Garretcom, Inc.; Grass Valley USA LLC; Prosoft Technology, Inc.; PPC Broadband, Inc.; Snell Advanced Media; Thinklogical, LLC; Tripwire, Inc.; and Tripwire International, Inc..
 
 ### How to Contact Us
 
@@ -141,10 +160,13 @@ If you have any questions or would like additional information about our privacy
 Belden Legal Department  
 1 N. Brentwood Blvd., 15th Floor  
 St. Louis, MO 63105  
-Email: [belden.legal@belden.com](mailto:belden.legal@belden.com); [belden,privacy@belden.com](mailto:belden,privacy@belden.com)  
+Email: [belden.legal@belden.com](mailto:belden.legal@belden.com); [belden,privacy@belden.com](mailto:belden,privacy@belden.com)
+
 The data controller of your personal information is Belden Inc.
 
-_This Privacy Policy was last revised in May 2018._
+Belden has appointed the law firm Shoosmiths as its external Data Protection Officer and should you have any questions or concerns for our DPO regarding the way in which your personal information has been used, please contact them at [belden,privacy@belden.com](mailto:belden,privacy@belden.com).
+
+_This Privacy Policy was last revised in March 2019._
 
 ### Cookie Policy
 
