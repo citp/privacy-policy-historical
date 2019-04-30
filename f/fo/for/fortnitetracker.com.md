@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortnitetracker.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228135501id_/https%3A//thetrackernetwork.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortnitetracker.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430190335id_/https%3A//thetrackernetwork.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Tracker Network Tracker Network Privacy Policy
 
