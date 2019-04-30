@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228031123id_/https%3A//birdeye.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430143503id_/https%3A//birdeye.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BirdEye
 
@@ -26,7 +26,7 @@ Google's use of advertising cookies enables it and its partners to serve ads to 
 
 Users may opt out of personalized advertising by visiting 
 
-[ Ads Settings](https://www.google.com/settings/ads/)
+[ Ads Settings](https://adssettings.google.com/anonymous?hl=en&sig=ACi0TCjiOGNmAJvKFkIC0mcypt-Ktbem3ML5cez582wnRo0H29p5nRqZWEC875WvEeEjOV8tmhpH4smJKbnp3v_BZsJay1BwragTZX2-FI4hBiTedc2CaN4)
 
 or by visiting 
 
@@ -53,7 +53,7 @@ BirdEye uses the information it collects in the following ways:
 
 #### Third Party Applications and Your Use
 
-BirdEye provides users with the ability to link to their Data on third party sites such as Facebook, Twitter, Google Plus, and LinkedIn. Such linking is at the complete discretion of users. Because of this, BirdEye cannot be held responsible or liable for the linking of user’s Data to such third party sites, nor for how these third party sites use such links.
+BirdEye provides users with the ability to link to their Data on third party sites such as Facebook, Twitter and LinkedIn. Such linking is at the complete discretion of users. Because of this, BirdEye cannot be held responsible or liable for the linking of user’s Data to such third party sites, nor for how these third party sites use such links.
 
 #### Marketing and Publicity
 
