@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the opinionoutpost.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915081510id_/https%3A//www.opinionoutpost.com/en/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionoutpost.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430093617id_/https%3A//www.opinionoutpost.com/en/policies/privacy) for the most accurate reproduction.*
 
 # Ways to Make Money Online | Privacy Policy | Opinion Outpost
 
-**SSI [Opinion Outpost, SurveySpot, QuickThoughts, OpinionWorld, Centro De Opinion, ProOpinion, It Influencers, iPoll, Opinion Miles Club, Miles for Thoughts, Save With Surveys, Survey Points Club, Que Crees, Points for Surveys, Opinion Rewards Panel, Opinions Take Flight, Opinion Check In, Club Opinions, Your Voice, Smile City, MyOpinions] Privacy Policy for Residents of Every Country Except EU Countries and Mexico**
+**Dynata [Opinion Outpost, SurveySpot, QuickThoughts, OpinionWorld, Centro De Opinion, ProOpinion, It Influencers, iPoll, Opinion Miles Club, Miles for Thoughts, Save With Surveys, Survey Points Club, Que Crees, Points for Surveys, Opinion Rewards Panel, Opinions Take Flight, Opinion Check In, Club Opinions, Your Voice, Smile City, MyOpinions] Privacy Policy for Residents of Every Country Except EU Countries and Mexico**
 
 **First Effective: August 15, 2013**
 
 **This Version: Effective April 1st, 2017**
 
-The following sets forth the privacy policy for the Survey Sampling International, LLC online panel communities, the Survey Sampling International, LLC panel websites and/or the Survey Sampling International, LLC mobile applications (collectively “Application/Services”) offered by Survey Sampling International, LLC and its parent, subsidiary and affiliated companies (collectively “ ** _SSI_** ”). 
+The following sets forth the privacy policy for the Dynata,LLC f/k/a Survey Sampling International, LLC online panel communities, the Dynata,LLC f/k/a Survey Sampling International, LLC panel websites and/or the Dynata,LLC f/k/a Survey Sampling International, LLC mobile applications (collectively “Application/Services”) offered by Dynata,LLC f/k/a Survey Sampling International, LLC and its parent, subsidiary and affiliated companies (collectively “ ** _Dynata_** ”). 
 
-This Privacy Policy sets forth the collection, use and disclosure of personal data or personally identifiable information (“ ** _PII_** ”) and other information by SSI in connection with SSI’s Services as defined herein and other SSI and third party activities as defined herein (“Non-Research Activities”).  SSI’s Services provide you with the opportunity to join a panel, participate in surveys administered by SSI or by third parties (whether as a panel member or a non-panel member), use the websites associated with the panels, use the Application/Services associated with the panels, and receive and redeem rewards and incentives, including, without limitation, sweepstakes entries, offered in connection with panel membership and/or the completion of surveys (collectively “ ** _Services_** ”). Non-Research Activities include, but are not limited to, SSI marketing SSI Services and/or third parties marketing their services to you and/or sharing individual and/or aggregate profile data with third parties to develop marketing insights and/or audience/look alike models.  Non-Research Activities are described in more detail in this Privacy Policy. 
+This Privacy Policy sets forth the collection, use and disclosure of personal data or personally identifiable information (“ ** _PII_** ”) and other information by Dynata in connection with Dynata’s Services as defined herein and other Dynata and third party activities as defined herein (“Non-Research Activities”).  Dynata’s Services provide you with the opportunity to join a panel, participate in surveys administered by Dynata or by third parties (whether as a panel member or a non-panel member), use the websites associated with the panels, use the Application/Services associated with the panels, and receive and redeem rewards and incentives, including, without limitation, sweepstakes entries, offered in connection with panel membership and/or the completion of surveys (collectively “ ** _Services_** ”). Non-Research Activities include, but are not limited to, Dynata marketing Dynata Services and/or third parties marketing their services to you and/or sharing individual and/or aggregate profile data with third parties to develop marketing insights and/or audience/look alike models.  Non-Research Activities are described in more detail in this Privacy Policy. 
 
-Your use of SSI’s Application/Services is completely voluntary and therefore SSI’s processing of your PII in connection with the Application/Services and Non-Research Activities and this Privacy Policy is with your consent.
+Your use of Dynata’s Application/Services is completely voluntary and therefore Dynata’s processing of your PII in connection with the Application/Services and Non-Research Activities and this Privacy Policy is with your consent.
 
-Surveys administered by third parties and the data collected in connection therewith are not subject to this Privacy Policy. Registration with, use of, and access to SSI’s Services is subject to [SSI’s Terms and Conditions](https://www.opinionoutpost.com/en/policies/terms/OO-Terms-Conditions-2013).   In most cases SSI is not the sponsor of the survey and the survey instrument, and the survey results or survey data, are and will be owned by the sponsor of the survey.  
+Surveys administered by third parties and the data collected in connection therewith are not subject to this Privacy Policy. Registration with, use of, and access to Dynata’s Services is subject to [Dynata’s Terms and Conditions](https://www.opinionoutpost.com/en/policies/terms/OO-Terms-Conditions-2013).   In most cases Dynata is not the sponsor of the survey and the survey instrument, and the survey results or survey data, are and will be owned by the sponsor of the survey.  
 
-All references in this Privacy Policy to “SSI” include SSI and its parent, subsidiary and affiliated companies. All references to “us” or “we” refer to SSI.  All PII is stored on servers located in the United States, where SSI’s servers are located and accessible globally to SSI employees and/or agents.  For purposes of this policy, respondent shall mean any individual who participates in SSI Services, including passive data collection and/or participates in the Non-Research Activities described herein.  For purposes of this policy, online shall include mobile web browsing,
+All references in this Privacy Policy to “Dynata” include Dynata and its parent, subsidiary and affiliated companies. All references to “us” or “we” refer to Dynata.  All PII is stored on servers located in the United States, where Dynata’s servers are located and accessible globally to Dynata employees and/or agents.  For purposes of this policy, respondent shall mean any individual who participates in Dynata Services, including passive data collection and/or participates in the Non-Research Activities described herein.  For purposes of this policy, online shall include mobile web browsing,
 
 **What personal data and other information does the Application/Services collect and how is it used?**
 
-SSI collects personally identifiable information (“PII”) from research participants during and after registration with a panel, including, without limitation, during participation in a survey and in connection with the receipt and redemption of rewards and incentives and/or during the Application/Services registration and download process. You will be asked to provide certain PII and demographic information, including, without limitation, your name, address(es), telephone number(s) (including home, cell, and/or business telephone numbers), email address(es), date of birth, and occupation/education, the unique panelist/respondent identification number we assign to you when you sign up for an account (individually a " **UID** " and collectively " **UIDs** "), and racial and gender information. In addition to the collection of PII mentioned above, during and subsequent to the registration process, you may be asked to voluntarily provide or disclose Sensitive Data. **“ _Sensitive Data_ ”** means PII that discloses or reveals health and medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership. Sensitive Data is used to target survey opportunities to you and as otherwise set forth in this Privacy Policy. 
+Dynata collects personally identifiable information (“PII”) from research participants during and after registration with a panel, including, without limitation, during participation in a survey and in connection with the receipt and redemption of rewards and incentives and/or during the Application/Services registration and download process. You will be asked to provide certain PII and demographic information, including, without limitation, your name, address(es), telephone number(s) (including home, cell, and/or business telephone numbers), email address(es), date of birth, and occupation/education, the unique panelist/respondent identification number we assign to you when you sign up for an account (individually a " **UID** " and collectively " **UIDs** "), and racial and gender information. In addition to the collection of PII mentioned above, during and subsequent to the registration process, you may be asked to voluntarily provide or disclose Sensitive Data. **“ _Sensitive Data_ ”** means PII that discloses or reveals health and medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership. Sensitive Data is used to target survey opportunities to you and as otherwise set forth in this Privacy Policy. 
 
-SSI collects PII and demographic information from non-panel members prior to and during participation in a survey.
+Dynata collects PII and demographic information from non-panel members prior to and during participation in a survey.
 
-SSI provides its clients and/or its advertising partners with information about your device, including but not limited to, the device’s IDFA or Advertising ID and interactions with the Application/Services with your consent. SSI, the clients and/or ad partners may use this information to facilitate SSI surveys, for marketing of SSI products and services to you, for unrelated interest-based advertising, to link your device to additional data about you and/or your device available from third party data management platforms and/or to validate certain information you provide about yourself and/or your device. Click here to learn more about some of our ad partners, including how to subsequently opt-out.
+Dynata provides its clients and/or its advertising partners with information about your device, including but not limited to, the device’s IDFA or Advertising ID and interactions with the Application/Services with your consent. Dynata, the clients and/or ad partners may use this information to facilitate Dynata surveys, for marketing of Dynata products and services to you, for unrelated interest-based advertising, to link your device to additional data about you and/or your device available from third party data management platforms and/or to validate certain information you provide about yourself and/or your device. Click here to learn more about some of our ad partners, including how to subsequently opt-out.
 
 _Additional information you submit._
 
@@ -34,15 +34,15 @@ _Information collected through automated means_ :
 
 The Application/Services also collect certain information automatically, such as information about your device and device capabilities, including, without limitation, the device operating system, the other applications on your device, IP address, device network provider, device type, time zone, network status, browser type, browser identifier, unique device identification number (such as identifiers for analytics or advertising), network provider user ID (a number uniquely allocated to you by your network provider), Media Access Control (MAC) address, International Mobile Equipment Identity, location and other information that alone or in combination may be used to uniquely identify your device. Specific examples of this data and the technology that collects it are below:
 
-_Geo-location data_. The Application/Services will request your permission to obtain geo-location information from your mobile device, and such geo-location information may be provided by the Application/Services at any time, whether the Application/Services is open or not. If you consent to sharing your geo-location data, in addition to the uses set forth under “SSI’s use of information”  below, SSI will also use your location information to offer you the option to participate in location-based surveys and market research and/or to share such geolocation data with third party clients to demonstrate certain location and/or traffic patterns of Application/Services participants. In addition, SSI may share your geo-location data with third party vendors to identify commercial addresses near your location, such as stores or restaurants. To learn more about such vendors, please visit [www.placed.com](http://www.placed.com/) for a description of the services they provide and how the geo-location data is used, including the vendor's use of such data for location-based advertising.
+_Geo-location data_. The Application/Services will request your permission to obtain geo-location information from your mobile device, and such geo-location information may be provided by the Application/Services at any time, whether the Application/Services is open or not. If you consent to sharing your geo-location data, in addition to the uses set forth under “Dynata’s use of information”  below, Dynata will also use your location information to offer you the option to participate in location-based surveys and market research and/or to share such geolocation data with third party clients to demonstrate certain location and/or traffic patterns of Application/Services participants. In addition, Dynata may share your geo-location data with third party vendors to identify commercial addresses near your location, such as stores or restaurants. To learn more about such vendors, please visit [www.placed.com](http://www.placed.com/) for a description of the services they provide and how the geo-location data is used, including the vendor's use of such data for location-based advertising.
 
 Geo-location data also may be used by ad networks to provide you with location-based advertising. The ad networks' use of data, and how to opt out, are described in more detail below.
 
 If you no longer wish to share your geo-location data through your device, please change the privacy settings in your device for the Application/Services.
 
-_Application/Services and functionality_. SSI may request access to certain applications and/or functionality available on or through your device for use in connection with the Application/Services and the Services. Access shall be requested via push notification or other alerts and access will only be granted with your consent. If you consent, you may subsequently opt-out by changing your settings on the device.
+_Application/Services and functionality_. Dynata may request access to certain applications and/or functionality available on or through your device for use in connection with the Application/Services and the Services. Access shall be requested via push notification or other alerts and access will only be granted with your consent. If you consent, you may subsequently opt-out by changing your settings on the device.
 
-_Social media information_. You may also be offered the opportunity to access the Application/Services through third party social media platforms. If you select such option, SSI may collect certain profile information stored in your social media platform account.
+_Social media information_. You may also be offered the opportunity to access the Application/Services through third party social media platforms. If you select such option, Dynata may collect certain profile information stored in your social media platform account.
 
 _Cookies and Similar Technology_. Cookies are small files that store certain data on a device. Session cookies expire when you close your browser. Persistent cookies remain on your device until deleted or once they reach a defined expiration date. You may set your browser to notify you when you receive a cookie.
 
@@ -184,7 +184,7 @@ Online Ad Effectiveness Program
 
 | 
 
-<http://www.safecount.net/viewyourcookiesinformation_optinout.php>  
+<https://www.insightexpressai.com/adserver/optout.aspx>  
   
 Facebook for Developers
 
@@ -286,41 +286,191 @@ Online Ad Effectiveness Program
 
 [https://www.ssiprivacy.com](https://www.ssiprivacy.com/)  
   
+Adimension (Research Now)
+
+| 
+
+Ad effectiveness research
+
+| 
+
+<https://opt-out.researchnow.com/>  
+  
+Semasio
+
+| 
+
+Partner datashare
+
+| 
+
+<https://www.semasio.com/de/nc/en/opt-out/>  
+  
+Accordant
+
+| 
+
+Partner datashare
+
+| 
+
+<https://www.appnexus.com/en/company/platform-privacy-policy#choices>  
+  
+Dart
+
+| 
+
+Partner datashare
+
+| 
+
+<https://www.google.com/settings/ads>  
+  
+Doubleclick_floodlight
+
+| 
+
+Ad effectiveness research
+
+| 
+
+<https://www.google.com/ads/preferences/>  
+  
+Drawbridge
+
+| 
+
+Cross device measurement
+
+| 
+
+<https://drawbridge.com/optoutstart>  
+  
+iSpot
+
+| 
+
+Cross device measurement
+
+| 
+
+<https://www.ispot.tv/privacy/opt-out>  
+  
+Quantcast (customer specific)
+
+| 
+
+Developing Online Look-a-Like Cohorts and Audience Insights
+
+| 
+
+<https://www.quantcast.com/opt-out>  
+  
+Doubleclick_floodlight (customer specific)
+
+| 
+
+Ad effectiveness research
+
+| 
+
+<https://www.google.com/ads/preferences/>  
+  
+Nativo
+
+| 
+
+Partner datashare
+
+| 
+
+<https://www.nativo.net/about/adchoices>  
+  
+Neustar
+
+| 
+
+Partner datashare
+
+| 
+
+<https://www.neustar.biz/privacy/opt-out>  
+  
+Lotame
+
+| 
+
+Online Ad Effectiveness, Tracking Website Visits, Developing Online Look-a-Like Cohorts and Audience Insights
+
+| 
+
+<https://www.lotame.com/opt-out-preference-manager/>  
+  
+Media Math
+
+| 
+
+Online Ad Effectiveness, Tracking Website Visits, Developing Online Look-a-Like Cohorts and Audience Insights
+
+| 
+
+<http://www.mediamath.com/ad-choices-opt-out/>  
+  
+Eyeota
+
+| 
+
+Developing Online Look-a-Like Cohorts and Audience Insights
+
+| 
+
+<https://www.eyeota.com/privacy-policy>  
+  
+Oracle/BlueKai
+
+| 
+
+Developing Online Look-a-Like Cohorts and Audience Insights
+
+| 
+
+<https://datacloudoptout.oracle.com/optout/>  
+  
 _Log Files_ . The Application/Services may automatically gather and store certain information, including, without limitation, data available from your web browser, including, without limitation, IP Address, browser type, internet service provider, referring/exiting pages, operating system, date/time stamp, and click stream data in log files.
 
-_Digital Fingerprinting_. Generally, digital fingerprinting assigns a unique identifier to your device based upon the device's technical settings, characteristics, and IP Address. SSI uses digital fingerprinting technology for quality control and validation purposes and fraud detection and/or prevention, including, without limitation, identifying duplicate or fraudulent respondents. SSI may implement and use digital fingerprinting directly or through a third party vendor with your consent where required by applicable law.
+_Digital Fingerprinting_. Generally, digital fingerprinting assigns a unique identifier to your device based upon the device's technical settings, characteristics, and IP Address. Dynata uses digital fingerprinting technology for quality control and validation purposes and fraud detection and/or prevention, including, without limitation, identifying duplicate or fraudulent respondents. Dynata may implement and use digital fingerprinting directly or through a third party vendor with your consent where required by applicable law.
 
-_Watermarking_. Generally, watermarking involves placing a technology or file on your device to identify that it has previously been used to register with or access the Application/Services or the Services. Watermarking is used for quality control and validation purposes and fraud detection and/or prevention purposes. SSI may engage in watermarking activities directly or through a third party vendor with your consent where required by applicable law.
+_Watermarking_. Generally, watermarking involves placing a technology or file on your device to identify that it has previously been used to register with or access the Application/Services or the Services. Watermarking is used for quality control and validation purposes and fraud detection and/or prevention purposes. Dynata may engage in watermarking activities directly or through a third party vendor with your consent where required by applicable law.
 
 In some cases, we may use information collected through automated means, along with other information, to recognize users (or households) across platforms or across devices, such as smartphones, computers, tablets or related browsers, for the purposes described in this Privacy Policy.
 
 _Information collected from third parties_
 
-SSI may obtain PII, behavioral and/or demographic information from third parties, including, without limitation, data management platforms, ad networks, information service bureaus, other sample suppliers and/or social media platforms.  SSI may use the PII, behavioral and/or demographic data received from these third parties for various purposes, including, without limitation, data validation, data append, developing marketing insights, fraud detection purposes, and/or sending you a one-time email to invite you to participate in a survey and/or join a Panel.  In addition, geolocation data, including information regarding retail and other commercial enterprises you may visit while the geolocation feature is enabled, may be appended to your panel profile and/or shared with SSI’s clients if you elected to opt in to the geolocation services.     
+Dynata may obtain PII, behavioral and/or demographic information from third parties, including, without limitation, data management platforms, ad networks, information service bureaus, other sample suppliers and/or social media platforms.  Dynata may use the PII, behavioral and/or demographic data received from these third parties for various purposes, including, without limitation, data validation, data append, developing marketing insights, fraud detection purposes, and/or sending you a one-time email to invite you to participate in a survey and/or join a Panel.  In addition, geolocation data, including information regarding retail and other commercial enterprises you may visit while the geolocation feature is enabled, may be appended to your panel profile and/or shared with Dynata’s clients if you elected to opt in to the geolocation services.     
 
-**How does SSI use the information it collects?**
+**How does Dynata use the information it collects?**
 
-_SSI's use of information_ :
+_Dynata's use of information_ :
 
-In addition to the purposes described above, SSI uses personal data collected through the Application/Services as follows: (i) to communicate with you regarding your membership with a survey panel(s) owned by SSI; (ii) to communicate with you regarding your participation in a survey(s); (iii) to tailor survey opportunities to you and to arrange for advertisements to be displayed to you outside the Application/Services for the purposes of facilitating the completion of advertisement recall surveys; (iv) to send you notifications of survey opportunities; (v) to comply with any and all legal obligations, including, without limitation, tax obligations; (vi) to administer and manage SSI's reward and incentive programs and fulfill your requests for rewards and incentives; (vii) to facilitate your entry into SSI's sweepstakes and promotions and communicate with you regarding such entries; (viii) to update SSI's records; (ix) to comply with any data suppression obligations or requirements; (x) for fraud detection and/or prevention purposes; (xi) to link your device and/or profile to additional information available about you and/or your device available from data management platforms (“DMP”); (xii) to market SSI products/services to you; (xiii) to enable third parties to market their products/services to you; (xiv) to enable SSI or third parties to develop marketing insights and/or audience/look alike models; (xv) to validate the profile information you provided to us; and/or (xvi) as otherwise permitted pursuant to this Policy or as otherwise authorized by you.  SSI may use information collected in the context of the Application/Services in connection with other survey panels that SSI administers and/or in connection with Non-Research Activities.  With respect to the linking of Application/Services data to third party DMP data, SSI uses such data itself and/or permits SSI’s clients and/or the DMP itself to use such data to provide you with survey opportunities, to measure advertising effectiveness (as described in more detail below), to segment audiences; to design advertising campaigns using “look alike” cohort groups based on survey and third party data; and/or to market such third party’s products/services to you. 
+In addition to the purposes described above, Dynata uses personal data collected through the Application/Services as follows: (i) to communicate with you regarding your membership with a survey panel(s) owned by Dynata; (ii) to communicate with you regarding your participation in a survey(s); (iii) to tailor survey opportunities to you and to arrange for advertisements to be displayed to you outside the Application/Services for the purposes of facilitating the completion of advertisement recall surveys; (iv) to send you notifications of survey opportunities; (v) to comply with any and all legal obligations, including, without limitation, tax obligations; (vi) to administer and manage Dynata's reward and incentive programs and fulfill your requests for rewards and incentives; (vii) to facilitate your entry into Dynata's sweepstakes and promotions and communicate with you regarding such entries; (viii) to update Dynata's records; (ix) to comply with any data suppression obligations or requirements; (x) for fraud detection and/or prevention purposes; (xi) to link your device and/or profile to additional information available about you and/or your device available from data management platforms (“DMP”); (xii) to market Dynata products/services to you; (xiii) to enable third parties to market their products/services to you; (xiv) to enable Dynata or third parties to develop marketing insights and/or audience/look alike models; (xv) to validate the profile information you provided to us; and/or (xvi) as otherwise permitted pursuant to this Policy or as otherwise authorized by you.  Dynata may use information collected in the context of the Application/Services in connection with other survey panels that Dynata administers and/or in connection with Non-Research Activities.  With respect to the linking of Application/Services data to third party DMP data, Dynata uses such data itself and/or permits Dynata’s clients and/or the DMP itself to use such data to provide you with survey opportunities, to measure advertising effectiveness (as described in more detail below), to segment audiences; to design advertising campaigns using “look alike” cohort groups based on survey and third party data; and/or to market such third party’s products/services to you. 
 
-_Retargeting_.  SSI may from time-to-time engage a third party or third parties to either display advertising on an SSI website(s) or to manage SSI’s advertising on other websites (for example on social media sites). SSI’s third party partner(s) may use technologies such as cookies or identifying data elements. Including but not limited to your IDFA or Advertising ID to gather information about your activities on SSI’s website(s) and/or on other websites in order to: (i) provide you with advertising about SSI and its services and/or (ii) assist SSI in developing marketing and advertising campaigns designed to target individuals who have a social and demographic profile similar to your social and demographic profile. If SSI is conducting a re-targeting program and you wish to not participate in this re-targeting program, please opt-out via the applicable cookie opt-out process set forth in this Privacy Policy or in SSI’s separate cookie notice, by modifying your IDFA or Advertising ID and/or by unsubscribing within the advertisement itself.
+_Retargeting_.  Dynata may from time-to-time engage a third party or third parties to either display advertising on an Dynata website(s) or to manage Dynata’s advertising on other websites (for example on social media sites). Dynata’s third party partner(s) may use technologies such as cookies or identifying data elements. Including but not limited to your IDFA or Advertising ID to gather information about your activities on Dynata’s website(s) and/or on other websites in order to: (i) provide you with advertising about Dynata and its services and/or (ii) assist Dynata in developing marketing and advertising campaigns designed to target individuals who have a social and demographic profile similar to your social and demographic profile. If Dynata is conducting a re-targeting program and you wish to not participate in this re-targeting program, please opt-out via the applicable cookie opt-out process set forth in this Privacy Policy or in Dynata’s separate cookie notice, by modifying your IDFA or Advertising ID and/or by unsubscribing within the advertisement itself.
 
-_Audience Insights/Look-alikes_.  SSI and/or third parties may use PII collected from you and/or may link PII collected from you to a third party cookie to develop audience insights and/or look-alike models in connection with marketing campaigns. 
+_Audience Insights/Look-alikes_.  Dynata and/or third parties may use Personal Data and/or may link Personal Data to a third-party cookie to develop audience insights and/or look-alike models in connection with marketing campaigns. 
 
-_Online Advertising Effectiveness_.  In connection with SSI’s online ad effectiveness program, you can participate in surveys regarding ads, promotions, content, campaigns, and/or websites that SSI is testing for its clients. To facilitate the completion of these surveys, SSI’s clients may write, set, or read cookies, locally shared/stored objects, flash cookies and/or any other related technology (each a “ ** _Third Party Technology_** ” and collectively the “ ** _Third Party Technologies_** ”). The Third Party Technologies may be written, set or read in various locations, including, without limitation, SSI’s servers or systems. If you participate, your UID will be stored in or associated with the Third Party Technology to allow you to be re-contacted about the online ad or promotion and SSI’s client will use the Third Party Technology to determine whether you have seen, clicked on, or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, SSI’s client will send your UID and the specific survey to SSI and SSI will provide you with the opportunity to complete the survey.
+_Online Advertising Effectiveness_.  In connection with Dynata’s online ad effectiveness program, you can participate in surveys regarding ads, promotions, content, campaigns, and/or websites that Dynata is testing for its clients. To facilitate the completion of these surveys, Dynata’s clients may write, set, or read cookies, locally shared/stored objects, flash cookies and/or any other related technology (each a “ ** _Third Party Technology_** ” and collectively the “ ** _Third Party Technologies_** ”). The Third Party Technologies may be written, set or read in various locations, including, without limitation, Dynata’s servers or systems. If you participate, your UID will be stored in or associated with the Third Party Technology to allow you to be re-contacted about the online ad or promotion and Dynata’s client will use the Third Party Technology to determine whether you have seen, clicked on, or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, Dynata’s client will send your UID and the specific survey to Dynata and Dynata will provide you with the opportunity to complete the survey.
 
-_Audience Measurement Data_. In addition to the use and sharing of Audience Measurement Data (as defined below) in connection with online advertising effectiveness research, as such research is described above, SSI may share your UID and data previously collected by SSI, including, without limitation, age, gender, income, number of people in your household, education/education level, and employment status, (“ ** _Audience Measurement Data_** ”), to third parties, including, without limitation, SSI’s subcontractors, partners, and/or clients for the purpose of audience measurement reporting on the content, advertisements, campaigns, and websites that you visit, view, and/or click on. The Audience Measurement Data will be used in connection with online advertising effectiveness research, and to assist in the creation, development, and implementation of websites, online advertisements, and other Internet and digital media features, functionality, and campaigns. Audience Measurement Data may be shared in a single summary form (i.e. individual respondent level) or aggregate summary form (i.e. group of respondents).
+_Audience Measurement Data_. In addition to the use and sharing of Audience Measurement Data (as defined below) in connection with online advertising effectiveness research, as such research is described above, Dynata may share your UID and data previously collected by Dynata, including, without limitation, age, gender, income, number of people in your household, education/education level, and employment status, (“ ** _Audience Measurement Data_** ”), to third parties, including, without limitation, Dynata’s subcontractors, partners, and/or clients for the purpose of audience measurement reporting on the content, advertisements, campaigns, and websites that you visit, view, and/or click on. The Audience Measurement Data will be used in connection with online advertising effectiveness research, and to assist in the creation, development, and implementation of websites, online advertisements, and other Internet and digital media features, functionality, and campaigns. Audience Measurement Data may be shared in a single summary form (i.e. individual respondent level) or aggregate summary form (i.e. group of respondents).
 
 **How do advertisers/ad networks use my information?**
 
 Ad partners' use of information.
 
-You can use the Application/Services to participate in surveys, including, without limitation, surveys regarding specific ads and promotions that SSI is testing for its business clients. You may see these ads or promotions in several places, including, without limitation, in non-SSI mobile apps (for example, in a gaming app), after which SSI shall provide you with access to, or contact you to complete, a survey about the ad or promotion that you were exposed to. To facilitate the completion of surveys on ads or promotions, SSI has partnered with ad companies that provide, measure or facilitate advertisements, including, without limitation, in many other mobile apps. The Application/Services provides these ad networks with the UID, your unique device identifier, and many or all of the other types of information described in the " _Information collected through automated means_ " section above (including your ongoing geolocation, if your device permits the collection of geolocation). Then, when you use a mobile app that has partnered with one of the ad companies, the ad company can use your unique device identifier or other automatically collected information to recognize your device. The ad company may then show you an ad or promotion that SSI is testing for one of our business clients. The ad company may then inform SSI that the device associated with your UID has just received an ad or promotion, which allows SSI to provide you with access to, or to contact you to complete, a survey regarding the ad or promotion. With your consent, the ad companies also use the information they collect about your device and your interactions with the Application/Services and other mobile apps to provide you with other in-app advertising that has been tailored to your interests and for other purposes. To learn more about some of these ad companies, including how to opt out, please visit the following:
+You can use the Application/Services to participate in surveys, including, without limitation, surveys regarding specific ads and promotions that Dynata is testing for its business clients. You may see these ads or promotions in several places, including, without limitation, in non-Dynata mobile apps (for example, in a gaming app), after which Dynata shall provide you with access to, or contact you to complete, a survey about the ad or promotion that you were exposed to. To facilitate the completion of surveys on ads or promotions, Dynata has partnered with ad companies that provide, measure or facilitate advertisements, including, without limitation, in many other mobile apps. The Application/Services provides these ad networks with the UID, your unique device identifier, and many or all of the other types of information described in the " _Information collected through automated means_ " section above (including your ongoing geolocation, if your device permits the collection of geolocation). Then, when you use a mobile app that has partnered with one of the ad companies, the ad company can use your unique device identifier or other automatically collected information to recognize your device. The ad company may then show you an ad or promotion that Dynata is testing for one of our business clients. The ad company may then inform Dynata that the device associated with your UID has just received an ad or promotion, which allows Dynata to provide you with access to, or to contact you to complete, a survey regarding the ad or promotion. With your consent, the ad companies also use the information they collect about your device and your interactions with the Application/Services and other mobile apps to provide you with other in-app advertising that has been tailored to your interests and for other purposes. To learn more about some of these ad companies, including how to opt out, please visit the following:
 
 <http://www.voicefive.com/preferences.aspx>
 
-<http://www.safecount.net/viewyourcookiesinformation_optinout.php>
+<https://www.insightexpressai.com/adserver/optout.aspx>
 
 <http://n01d01.cumulus-cloud.com/ssi/optout.php>
 
@@ -328,57 +478,57 @@ You can use the Application/Services to participate in surveys, including, witho
 
 **What communications will I receive through the Application/Services or relating to the Services?**
 
-SSI may contact you to participate in surveys via "push" notifications or SMS/text messages if you expressly agree to receive such communications.
+Dynata may contact you to participate in surveys via "push" notifications or SMS/text messages if you expressly agree to receive such communications.
 
-In addition, SSI and/or its agents or vendors on behalf of SSI will send email communications to you regarding survey invitations, survey participation, reward or incentive information, inquiries and redemption, newsletters, notices required to be provided hereunder or by law, sweepstakes or promotion entries, notice of winning a sweepstakes or promotion, and in response to inquiries from you.
+In addition, Dynata and/or its agents or vendors on behalf of Dynata will send email communications to you regarding survey invitations, survey participation, reward or incentive information, inquiries and redemption, newsletters, notices required to be provided hereunder or by law, sweepstakes or promotion entries, notice of winning a sweepstakes or promotion, and in response to inquiries from you.
 
-Where you provide SSI with your telephone number(s), SSI, its clients and/or its Subcontractors may also contact you by telephone in relation to your account, including, without limitation: (i) surveys you have or are participating in; (ii) reward or incentive information, inquiries and redemption; (iii) sweepstakes or promotion entries and prize fulfillment; (iv) responding to your queries; (v) notices under this Privacy Policy; (v) additional survey invitations and/or opportunities; and/or (vi) to validate profile information you have provided to us.   
+Where you provide Dynata with your telephone number(s), Dynata, its clients and/or its Subcontractors may also contact you by telephone in relation to your account, including, without limitation: (i) surveys you have or are participating in; (ii) reward or incentive information, inquiries and redemption; (iii) sweepstakes or promotion entries and prize fulfillment; (iv) responding to your queries; (v) notices under this Privacy Policy; (v) additional survey invitations and/or opportunities; and/or (vi) to validate profile information you have provided to us.   
 
-**Does SSI share personal data and other information collected through the Application/Services with third parties?**
+**Does Dynata share personal data and other information collected through the Application/Services with third parties?**
 
-Pursuant to applicable law, SSI may disclose or transfer personal data and other information collected through the Application/Services to third parties as follows:
+Pursuant to applicable law, Dynata may disclose or transfer personal data and other information collected through the Application/Services to third parties as follows:
 
 (i) With your consent;
 
 (ii) In response to a subpoena or an order of a court or government agency;
 
-(iii) To establish, exercise, or defend legal claims of an individual or SSI, including in order to protect the safety of an individual or to protect SSI's rights and/or property;
+(iii) To establish, exercise, or defend legal claims of an individual or Dynata, including in order to protect the safety of an individual or to protect Dynata's rights and/or property;
 
-(iv) Between various SSI panels, if you sign up for more than one SSI panel;
+(iv) Between various Dynata panels, if you sign up for more than one Dynata panel;
 
-(v) To a parent, subsidiary, or affiliate of SSI: (1) in the event of a reorganization or restructuring; or (2) for use and processing in accordance with this Policy or as authorized by you;
+(v) To a parent, subsidiary, or affiliate of Dynata: (1) in the event of a reorganization or restructuring; or (2) for use and processing in accordance with this Policy or as authorized by you;
 
-(vi) To authorized agents and/or subcontractors of SSI and/or of SSI's clients, who are providing services, including, without limitation, data append services, data validation services, fraud detection and/or prevention services, database matching services, coding services, and reward, incentive, and sweepstakes related services;
+(vi) To authorized agents and/or subcontractors of Dynata and/or of Dynata's clients, who are providing services, including, without limitation, data append services, data validation services, fraud detection and/or prevention services, database matching services, coding services, and reward, incentive, and sweepstakes related services;
 
 (vii) To a client for limited market research related uses including, without limitation, modeling, validation, data append, database segmentation, and reward, incentive, or sweepstakes redemption, fulfillment, and/or entry;
 
-(viii) In connection with a change of ownership or control, including, without limitation, a merger or an acquisition of any or all of SSI's business assets, provided that the party receiving or acquiring the personal data agrees to use, protect, and maintain the security, integrity, and confidentiality of personal data in accordance with this Policy;
+(viii) In connection with a change of ownership or control, including, without limitation, a merger or an acquisition of any or all of Dynata's business assets, provided that the party receiving or acquiring the personal data agrees to use, protect, and maintain the security, integrity, and confidentiality of personal data in accordance with this Policy;
 
-(ix) to a client or to such client’s customer in the event SSI or a third party believes that you have or may violate the intellectual property rights of a third party;
+(ix) to a client or to such client’s customer in the event Dynata or a third party believes that you have or may violate the intellectual property rights of a third party;
 
-(x) to a client or to such client’s customer in the event SSI or a third party believes that you have violated the Terms of Service;
+(x) to a client or to such client’s customer in the event Dynata or a third party believes that you have violated the Terms of Service;
 
-(xi) to a third party, which shall include both SSI research clients and third parties that engage in Non-Research Activities to enable such third party to develop marketing campaigns, audience insights, look-alike models and/or to market such third party’s products/services to you; and
+(xi) to a third party, which shall include both Dynata research clients and third parties that engage in Non-Research Activities to enable such third party to develop marketing campaigns, audience insights, look-alike models and/or to market such third party’s products/services to you; and
 
 (xi) As otherwise permitted pursuant to this Policy.
 
-Please note, SSI may allow a client to collect PII directly from respondents. The disclosure is voluntary and, prior to collection, the client is required to enter into a written agreement with SSI, which, among other things, limits use of the PII. 
+Please note, Dynata may allow a client to collect PII directly from respondents. The disclosure is voluntary and, prior to collection, the client is required to enter into a written agreement with Dynata, which, among other things, limits use of the PII. 
 
-SSI may license certain PII to third parties (e.g., data brokers, data aggregators, etc.) for their own Non-Research Purposes, including, without limitation, the licensing of individual-level and/or aggregated-level data (e.g., product and/or service purchasing or usage activity, social media activity, website visitation data, internet search history, etc.) for the development of audience insights and/or look-alike models, for the purpose of sale of such data to the third party’s clients/customers for the purpose of performing analytics and providing marketing intelligence and/or to enable such third party to market its products/services to you.
+Dynata may license certain PII to third parties (e.g., data brokers, data aggregators, etc.) for their own Non-Research Purposes, including, without limitation, the licensing of individual-level and/or aggregated-level data (e.g., product and/or service purchasing or usage activity, social media activity, website visitation data, internet search history, etc.) for the development of audience insights and/or look-alike models, for the purpose of sale of such data to the third party’s clients/customers for the purpose of performing analytics and providing marketing intelligence and/or to enable such third party to market its products/services to you.
 
 Additionally, UIDs and information collected by automated means are provided to third parties, including, without limitation, clients, partners, agents and/or vendor for the purposes of identifying respondents for re-contact surveys or communications, fraud detection and/or prevention, database matching, data validation, data append, coding, data segmentation, and reward, incentive, and/or sweepstakes or promotion related services.
 
-In connection with your survey data, SSI or the client may associate certain demographic attributes to you.  SSI may share with third parties, including but not limited to clients, the geographic and/or demographic data SSI collects from you during enrolment or through certain profile questions SSI may ask you. Such data may be shared with third parties on an individual respondent level or aggregate summary form (i.e. a group of respondents). If you voluntarily disclose personal data in connection with your survey data and responses, and SSI collects the survey data and responses, SSI will transfer the survey data and responses, UID and the voluntarily disclosed personal data to the relevant SSI client.
+In connection with your survey data, Dynata or the client may associate certain demographic attributes to you.  Dynata may share with third parties, including but not limited to clients, the geographic and/or demographic data Dynata collects from you during enrolment or through certain profile questions Dynata may ask you. Such data may be shared with third parties on an individual respondent level or aggregate summary form (i.e. a group of respondents). If you voluntarily disclose personal data in connection with your survey data and responses, and Dynata collects the survey data and responses, Dynata will transfer the survey data and responses, UID and the voluntarily disclosed personal data to the relevant Dynata client.
 
 **How can I opt-out of certain data collection and/or use?**
 
 There are multiple opt-out options for users of this Application/Services.
 
-You can stop all collection of personal data and other information by the Application/Services by uninstalling the Application/Services and/or terminating your participation in the panel(s). You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network and/or you may cancel your panelist account on the panel Site.  Please note that if you delete the Application/Services, but maintain a profile with one of SSI's websites, we may still collect personal data and other data from you through our site(s). Uninstalling the Application/Services will not delete all information collected by SSI prior to uninstalling the Application/Services. To delete all information collected by SSI please contact SSI as set forth below.
+You can stop all collection of personal data and other information by the Application/Services by uninstalling the Application/Services and/or terminating your participation in the panel(s). You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network and/or you may cancel your panelist account on the panel Site.  Please note that if you delete the Application/Services, but maintain a profile with one of Dynata's websites, we may still collect personal data and other data from you through our site(s). Uninstalling the Application/Services will not delete all information collected by Dynata prior to uninstalling the Application/Services. To delete all information collected by Dynata please contact Dynata as set forth below.
 
-Six months following termination of your account, inactivity of your account and/or the date upon which you uninstall the Application/Services, SSI may transfer your PII to a third party data broker and/or data management platform for purposes of resale/reuse by such third party. 
+Six months following termination of your account, inactivity of your account and/or the date upon which you uninstall the Application/Services, Dynata may transfer your PII to a third party data broker and/or data management platform for purposes of resale/reuse by such third party. 
 
-If you do not wish for your PII to be used for Non-Research Activities and/or if you do not consent to SSI sharing your PII with third parties after termination of your account and/or removal of the Application/Services from your device, please contact us at privacy@surveysampling.com
+If you do not wish for your PII to be used for Non-Research Activities and/or if you do not consent to Dynata sharing your PII with third parties after termination of your account and/or removal of the Application/Services from your device, please contact us at privacy@surveysampling.com
 
 **For iOS Opt-out of location data**
 
@@ -438,15 +588,15 @@ You may change the advertising identifier assigned to your device at any time. 
 
 The ad networks that collect information through the Application/Services for use in facilitating surveys and providing interest-based advertising offer certain opt-out mechanisms. To opt-out, follow the instructions for each ad network at the links provided below. If you opt-out, you will not be able to participate in our surveys about ads and promotions.
 
-**Can I stop SSI from tracking my online activities?**
+**Can I stop Dynata from tracking my online activities?**
 
-Do Not Track (“ ** _DNT_** ”) is a preference in your browser that you can set to notify websites that you visit that you do not want the websites to collect certain information about you. SSI does not respond to DNT signals. If you object to SSI’s practice with regards to DNT signals, you may opt-out from participation or use of SSI’s services as described below.
+Do Not Track (“ ** _DNT_** ”) is a preference in your browser that you can set to notify websites that you visit that you do not want the websites to collect certain information about you. Dynata does not respond to DNT signals. If you object to Dynata’s practice with regards to DNT signals, you may opt-out from participation or use of Dynata’s services as described below.
 
-In connection with SSI’s online ad effectiveness program, SSI permits SSI’s subcontractors, partners and/or clients to drop, set, and/or write Third Party Technologies for the purpose of facilitating audience measurement and ad recall survey activities. SSI is not responsible for any third party’s compliance with or response to DNT signals. To learn more about SSI’s online ad effectiveness program, please review the Cookies section of this Privacy Policy.  
+In connection with Dynata’s online ad effectiveness program, Dynata permits Dynata’s subcontractors, partners and/or clients to drop, set, and/or write Third Party Technologies for the purpose of facilitating audience measurement and ad recall survey activities. Dynata is not responsible for any third party’s compliance with or response to DNT signals. To learn more about Dynata’s online ad effectiveness program, please review the Cookies section of this Privacy Policy.  
 
 **How long do you keep my personal data and other information?**
 
-SSI will retain personal data and other information relating to your use of the Application/Services and/or the Services for as long as you have the Application installed and/or use the Application/Services and for up to one (1) year thereafter or such other period as may be required or permissible by law.  Six months following your inactivity with the panel Sites and/or uninstalling the Application/Services, SSI may transfer your PII to a third party data broker and/or data management platform for purposes of resale/reuse by such third party. 
+Dynata will retain personal data and other information relating to your use of the Application/Services and/or the Services for as long as you have the Application installed and/or use the Application/Services and for up to one (1) year thereafter or such other period as may be required or permissible by law.  Six months following your inactivity with the panel Sites and/or uninstalling the Application/Services, Dynata may transfer your PII to a third party data broker and/or data management platform for purposes of resale/reuse by such third party. 
 
 **How can I access the personal data and other information the Application/Services has collected**
 
@@ -460,7 +610,7 @@ The Application/Services is not designed for, or intended for use by, any indivi
 
 **What security is available for the personal data and other information collected through the Application/Services?**
 
-SSI maintains an appropriate level of technical, administrative, and physical safeguards to protect personal data and other information disclosed or collected by SSI. SSI reviews, monitors, and evaluates its privacy practices and protection systems on a regular basis. Despite the safeguards we implement, transmissions over the Internet and/or a mobile network are not totally secure and SSI does not guarantee the security of online transmissions. SSI is not responsible for any errors by individuals in submitting personal data to SSI.
+Dynata maintains an appropriate level of technical, administrative, and physical safeguards to protect personal data and other information disclosed or collected by Dynata. Dynata reviews, monitors, and evaluates its privacy practices and protection systems on a regular basis. Despite the safeguards we implement, transmissions over the Internet and/or a mobile network are not totally secure and Dynata does not guarantee the security of online transmissions. Dynata is not responsible for any errors by individuals in submitting personal data to Dynata.
 
 **Who can I contact with questions about this Policy?**
 
@@ -468,7 +618,7 @@ If you wish to:
 
 \- receive a copy of the information we hold about you;
 
-\- communicate an opt-out request to SSI;
+\- communicate an opt-out request to Dynata;
 
 \- request access to, or the correction, blocking or deletion of, your personal data;
 
@@ -476,11 +626,11 @@ If you wish to:
 
 -opt out of certain uses of your PII;
 
-or have any questions regarding SSI's privacy practices and/or this Policy, please contact us via email at [privacy@surveysampling.com](mailto:privacy@surveysampling.com).
+or have any questions regarding Dynata's privacy practices and/or this Policy, please contact us via email at [privacy@surveysampling.com](mailto:privacy@surveysampling.com).
 
-SSI's Legal Department is responsible for SSI's compliance with this Policy.
+Dynata's Legal Department is responsible for Dynata's compliance with this Policy.
 
-**_Are there any companies within the SSI Group that may collect, store and process PII?_**
+**_Are there any companies within the Dynata Group that may collect, store and process PII?_**
 
 Yes, please see the list of companies below:
 
