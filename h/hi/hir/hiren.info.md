@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiren.info privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312225410id_/http%3A//www.hiren.info/about-us/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiren.info privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430104252id_/https%3A//www.hiren.info/about-us/%23privacy) for the most accurate reproduction.*
 
 # About Us » www.hiren.info
 
