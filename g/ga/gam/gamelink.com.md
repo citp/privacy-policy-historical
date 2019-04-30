@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130085348id_/http%3A//www.gamelink.com/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501011120id_/https%3A//www.gamelink.com/s/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WOW TGP Store
+# Privacy Policy | GameLink
 
 * * *
 
-## WEBSITE: WOW TGP Store
+## WEBSITE: GameLink
 
 Last modified: May 31, 2018
 
-Previous Versions: [May 25, 2004](https://web.archive.org/web/20181130085348id_/http%3A//www.gamelink.com/s/content/c/privacy_policy_2004May25)
+Previous Versions: [May 25, 2004](https://web.archive.org/web/20190501011120id_/https%3A//www.gamelink.com/s/content/c/privacy_policy_2004May25)
 
 **_Your Data is Important_ **: It is important to note that, as an eCommerce site, we do collect, use and store data in order to deliver the goods and services you request from us. While we are required to share some data with vendors in order to process credit cards, deliver packages and stream video, we DO NOT resell any data to third parties FOR ANY REASON. Specifically, we DO NOT resell or make available your personal data so that others can sell you stuff you don't want. We are in the business of delivering the best possible customer experience we can and we use information to help us accomplish this goal. The European Union, to grant people greater visibility into and control over how their data is used, passed legislation that requires companies to gain the active consent from users to collect, use and store data. To comply with this legislation (known as GDPR), we are making a variety of updates to our policies and processes, but there is no change in our fundamental approach to how we use your personal data: **we only use your data to help you find relevant products and to deliver your products.**
 
