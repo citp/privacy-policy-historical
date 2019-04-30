@@ -1,39 +1,80 @@
-<!--The following is the downloaded HTML source of the sketchmob.com privacy policy that was archived on 2016-02-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160228043345id_/http%3A//sketchmob.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sketchmob.com privacy policy that was archived on 2019-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190430094636id_/https%3A//sketchmob.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=9, chrome=1">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta charset="utf-8">
     <title>
         Privacy Policy | Sketchmob    </title>
     
 <!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Turn your photos into art. Commission a custom portrait from real artists. Hundreds of art styles at great prices: anime, cartoon, caricature and more.">
-<link rel="canonical" href="http://sketchmob.com/privacy/">
-<link rel="publisher" href="http://google.com/+Sketchmobart">
+<meta name="description" content="Custom Art Commissions from real artists. Hire an illustrator for: custom portraits, anime, cartoon, caricature, comic books and more. Secure and affordable.">
+<link rel="canonical" href="https://sketchmob.com/privacy/">
+<link rel="publisher" href="https://google.com/+Sketchmobart">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy | Sketchmob">
-<meta property="og:description" content="Turn your photos into art. Commission a custom portrait from real artists. Hundreds of art styles at great prices: anime, cartoon, caricature and more.">
-<meta property="og:url" content="http://sketchmob.com/privacy/">
+<meta property="og:description" content="Custom Art Commissions from real artists. Hire an illustrator for: custom portraits, anime, cartoon, caricature, comic books and more. Secure and affordable.">
+<meta property="og:url" content="https://sketchmob.com/privacy/">
 <meta property="og:site_name" content="Sketchmob">
 <meta property="article:publisher" content="https://www.facebook.com/sketchmob">
 <meta property="fb:app_id" content="175498329322976">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Turn your photos into art. Commission a custom portrait from real artists. Hundreds of art styles at great prices: anime, cartoon, caricature and more.">
+<meta name="twitter:description" content="Custom Art Commissions from real artists. Hire an illustrator for: custom portraits, anime, cartoon, caricature, comic books and more. Secure and affordable.">
 <meta name="twitter:title" content="Privacy Policy | Sketchmob">
 <meta name="twitter:site" content="@thesketchmob">
 <meta name="twitter:domain" content="Sketchmob">
 <meta name="twitter:creator" content="@thesketchmob">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/sketchmob.com\/","name":"Sketchmob"}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/sketchmob.com\/","name":"Sketchmob"}</script>
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="Sketchmob » Privacy Policy Comments Feed" href="http://sketchmob.com/privacy/feed/">
+<link rel="alternate" type="application/rss+xml" title="Sketchmob » Privacy Policy Comments Feed" href="https://sketchmob.com/privacy/feed/">
+      <meta name="onesignal" content="wordpress-plugin">
+          <link rel="manifest" href="https://sketchmob.com/wp-content/themes/Snapart/manifest.json">
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://sketchmob.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '9e04e5ac-f0d2-4c12-a05d-a03051be6c7d';
+oneSignal_options['autoRegister'] = false;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['disable'] = true;
+oneSignal_options['path'] = "https://sketchmob.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.445d0d2a-d94a-41a6-9db5-6271b7cfba3f";
+      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/sketchmob.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/sketchmob.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.10"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://sketchmob.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		</script><script src="https://sketchmob.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.10" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -48,36 +89,35 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="validate-engine-css-css" href="http://sketchmob.com/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7" type="text/css" media="all">
-<link rel="stylesheet" id="style.css-css" href="http://sketchmob.com/wp-content/plugins/google-language-translator/css/style.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="usernoise-button-css" href="http://sketchmob.com/wp-content/plugins/usernoise/css/button.css?ver=3.7.20" type="text/css" media="all">
-<link rel="stylesheet" id="usernoise-form-css" href="http://sketchmob.com/wp-content/plugins/usernoise/css/form.css?ver=3.7.20" type="text/css" media="all">
-<link rel="stylesheet" id="wsl-widget-css" href="http://sketchmob.com/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="spu-public-css-css" href="http://sketchmob.com/wp-content/plugins/popups/public/assets/css/public.css?ver=1.3.1.2" type="text/css" media="all">
-<link rel="stylesheet" id="tz-style-css" href="http://sketchmob.com/wp-content/themes/Snapart/tz/style.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="new-royalslider-core-css-css" href="http://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/royalslider.css?ver=3.1.3" type="text/css" media="all">
-<link rel="stylesheet" id="rsDefaultInv-css-css" href="http://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/default-inverted/rs-default-inverted.css?ver=3.1.3" type="text/css" media="all">
-<link rel="stylesheet" id="content_slider-css-css" href="http://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/templates-css/rs-content-slider-template.css?ver=3.1.3" type="text/css" media="all">
-<link rel="stylesheet" id="rsUni-css-css" href="http://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/universal/rs-universal.css?ver=3.1.3" type="text/css" media="all">
-<link rel="stylesheet" id="sedlex_styles-css" href="http://sketchmob.com/wp-content/sedlex/inline_styles/0a8dd671bf298fb1870d0fc3bfb9eea0a6fcaf3c.css?ver=20160228" type="text/css" media="all">
-<script type="text/javascript" src="http://sketchmob.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://sketchmob.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://sketchmob.com/wp-content/plugins/google-language-translator/js/flags.js?ver=4.2.2"></script>
+<link rel="stylesheet" id="style.css-css" href="https://sketchmob.com/wp-content/plugins/google-language-translator/css/style.css?ver=4.2.10" type="text/css" media="all">
+<link rel="stylesheet" id="usernoise-button-css" href="https://sketchmob.com/wp-content/plugins/usernoise/css/button.css?ver=3.7.20" type="text/css" media="all">
+<link rel="stylesheet" id="usernoise-form-css" href="https://sketchmob.com/wp-content/plugins/usernoise/css/form.css?ver=3.7.20" type="text/css" media="all">
+<link rel="stylesheet" id="wsl-widget-css" href="https://sketchmob.com/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=4.2.10" type="text/css" media="all">
+<link rel="stylesheet" id="spu-public-css-css" href="https://sketchmob.com/wp-content/plugins/popups/public/assets/css/public.css?ver=1.3.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="tz-style-css" href="https://sketchmob.com/wp-content/themes/Snapart/tz/style.css?ver=4.2.10" type="text/css" media="all">
+<link rel="stylesheet" id="new-royalslider-core-css-css" href="https://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/royalslider.css?ver=3.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="rsDefaultInv-css-css" href="https://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/default-inverted/rs-default-inverted.css?ver=3.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="content_slider-css-css" href="https://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/templates-css/rs-content-slider-template.css?ver=3.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="rsUni-css-css" href="https://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/universal/rs-universal.css?ver=3.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="sedlex_styles-css" href="https://sketchmob.com/wp-content/sedlex/inline_styles/0a8dd671bf298fb1870d0fc3bfb9eea0a6fcaf3c.css?ver=20190430" type="text/css" media="all">
+<script type="text/javascript" src="https://sketchmob.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/plugins/google-language-translator/js/flags.js?ver=4.2.10"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var usernoiseButton = {"text":"SUBMIT ART REQUEST","style":"background-color: #FF8A56; color: #FFFFFF","class":"un-left","windowUrl":"\/wp-admin\/admin-ajax.php?action=un_load_window","showButton":"1","disableOnMobiles":"1","custom_button_id":null};
+var usernoiseButton = {"text":"REQUEST AN ARTWORK","style":"background-color: #FF8A56; color: #FFFFFF","class":"un-left","windowUrl":"\/wp-admin\/admin-ajax.php?action=un_load_window","showButton":"1","disableOnMobiles":"1","custom_button_id":null};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sketchmob.com/wp-content/plugins/usernoise/js/usernoise.js?ver=3.7.20"></script>
-<script type="text/javascript" src="http://sketchmob.com/wp-content/plugins/usernoise/js/button.js?ver=3.7.20"></script>
-<script type="text/javascript" src="http://sketchmob.com/wp-content/plugins/wordpress-social-login/assets/js/widget.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://sketchmob.com/wp-content/themes/Snapart/js/jquery.hoverIntent.minified.js?ver=4.2.2"></script>
-<script type="text/javascript" src="http://sketchmob.com/wp-content/themes/Snapart/js/jquery.dcverticalmegamenu.1.3.js?ver=4.2.2"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sketchmob.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sketchmob.com/wp-includes/wlwmanifest.xml"> 
-
-<link rel="shortlink" href="http://sketchmob.com/nel5N">
-<style type="text/css">#flags {display:none !important; }p.hello { font-size:12px; color:darkgray; }#google_language_translator, #flags { text-align:left; }#google_language_translator { clear:both; }#flags { width:165px; }#flags a { display:inline-block; margin-right:2px; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator {color: transparent;}body { top:0px !important; }</style><link media="screen" rel="stylesheet" href="http://sketchmob.com/wp-content/themes/Snapart/css/colorbox.css"><script src="http://sketchmob.com/wp-content/themes/Snapart/js/jquery.colorbox.js"></script>    <script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/plugins/usernoise/js/usernoise.js?ver=3.7.20"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/plugins/usernoise/js/button.js?ver=3.7.20"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/plugins/wordpress-social-login/assets/js/widget.js?ver=4.2.10"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/themes/Snapart/js/jquery.hoverIntent.minified.js?ver=4.2.10"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/themes/Snapart/js/jquery.dcverticalmegamenu.1.3.js?ver=4.2.10"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sketchmob.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sketchmob.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.10">
+<link rel="shortlink" href="https://sketchmob.com/nel5N">
+<style type="text/css">#flags {display:none !important; }p.hello { font-size:12px; color:darkgray; }#google_language_translator, #flags { text-align:left; }#google_language_translator { clear:both; }#flags { width:165px; }#flags a { display:inline-block; margin-right:2px; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#google_language_translator {color: transparent;}body { top:0px !important; }</style><link media="screen" rel="stylesheet" href="https://sketchmob.com/wp-content/themes/Snapart/css/colorbox.css"><script src="https://sketchmob.com/wp-content/themes/Snapart/js/jquery.colorbox.js"></script>    <script>
         var $ = jQuery;
         $(document).ready(function () {
 
@@ -112,7 +152,7 @@ var usernoiseButton = {"text":"SUBMIT ART REQUEST","style":"background-color: #F
                 var current = $(this);
                 $.ajax({
                     type: "POST",
-                    url: "http://sketchmob.com/",
+                    url: "https://sketchmob.com/",
                     data: "like_this_job=" + pid,
                     beforeSend: function () {
                         current.css('opacity', '0.7');
@@ -121,9 +161,10 @@ var usernoiseButton = {"text":"SUBMIT ART REQUEST","style":"background-color: #F
                         current.css('opacity', '1');
                         $('.like_count').text(msg);
                         current.addClass('unlike_this_job').removeClass('like_this_job').html('<span aria-hidden="true" class="icon-heart-2"></span> Unlike');
-                        ;
+
                         /*$("#lk-stuff" + pid).html('<a href="#" class="unlike_this_job" rel="' + pid + '">
-                        Unlike this Job</a>');*/
+                         Unlike this Job</a>');
+                        */
 
                     }
                 });
@@ -138,7 +179,7 @@ var usernoiseButton = {"text":"SUBMIT ART REQUEST","style":"background-color: #F
                 var current = $(this);
                 $.ajax({
                     type: "POST",
-                    url: "http://sketchmob.com/",
+                    url: "https://sketchmob.com/",
                     data: "unlike_this_job=" + pid,
                     beforeSend: function () {
                         current.css('opacity', '0.7');
@@ -158,8 +199,8 @@ var usernoiseButton = {"text":"SUBMIT ART REQUEST","style":"background-color: #F
         });
     </script>
 <script type="text/javascript">
-var fileuploadsecurity = "b599e5ee1d",
-	fileuploadurl = "http://sketchmob.com/?fileupload=b599e5ee1d";
+var fileuploadsecurity = "3812ebf4a7",
+	fileuploadurl = "https://sketchmob.com/?fileupload=3812ebf4a7";
 </script>
 
 <style type="text/css">
@@ -176,32 +217,34 @@ padding: 14px 15px 12px 12px;
 </style>
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
     <meta name="p:domain_verify" content="b4cee8f5fd089eadceeecf8609530275">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Archivo+Narrow|Raleway:400,800,900,500,300">
-    <link rel="stylesheet" href="http://sketchmob.com/wp-content/themes/Snapart/assets/bootstrap/css/bootstrap.css">
-    <link rel="stylesheet" href="http://sketchmob.com/wp-content/themes/Snapart/assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Sedgwick+Ave|Raleway:400,800,900,500,300">
+    <link rel="stylesheet" href="https://sketchmob.com/wp-content/themes/Snapart/assets/bootstrap/css/bootstrap.css?v=1.2">
+    <link rel="stylesheet" href="https://sketchmob.com/wp-content/themes/Snapart/assets/css/main.css?v=1.11c">
+        <link rel="stylesheet" href="https://sketchmob.com/wp-content/themes/Snapart/assets/css/ajax-login.css?10">
+        <link rel="stylesheet" href="https://sketchmob.com/wp-content/themes/Snapart/assets/css/font-awesome.min.css">
     <!--[if lt IE 9]>
     <script src=”http://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js”></script>
 	<script src=”http://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js”></script>
     <![endif]-->
     
     <!--[if lte IE 7]>
-    <script src='http://sketchmob.com/wp-content/themes/Snapart/assets/js/vendor/icomoon-lte-ie7.js'></script>
+    <script src='https://sketchmob.com/wp-content/themes/Snapart/assets/js/vendor/icomoon-lte-ie7.js'></script>
     <![endif]-->
     
     <!-- Favicons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-144x144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-120x120-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-114x114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-72x72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="http://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-precomposed.png">
-    <link rel="shortcut icon" href="http://sketchmob.com/wp-content/themes/Snapart/assets/favicon.png">
-    <link rel="shortcut icon" href="http://sketchmob.com/wp-content/themes/Snapart/assets/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-120x120-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="https://sketchmob.com/wp-content/themes/Snapart/assets/img/touch/apple-touch-icon-precomposed.png">
+    <link rel="shortcut icon" href="https://sketchmob.com/wp-content/themes/Snapart/assets/favicon.png">
+    <link rel="shortcut icon" href="https://sketchmob.com/wp-content/themes/Snapart/assets/favicon.ico">
     <!-- Windows 8 / RT -->
     <meta name="msapplication-TileImage" content="img/touch/apple-touch-icon-144x144-precomposed.png">
     <meta name="msapplication-TileColor" content="#282828">
 
-    <script src="http://sketchmob.com/wp-content/themes/Snapart/assets/js/vendor/modernizr.custom.min.js"></script>
-    <link rel="pingback" href="http://sketchmob.com/xmlrpc.php">
+    <script src="https://sketchmob.com/wp-content/themes/Snapart/assets/js/vendor/modernizr.custom.min.js"></script>
+    <link rel="pingback" href="https://sketchmob.com/xmlrpc.php">
         <!--<link rel='stylesheet/less' type="text/css" href='/assets/style.less'>-->    
     
 	
@@ -246,79 +289,80 @@ padding: 14px 15px 12px 12px;
 
 </head>
 <body class="page page-id-153 page-template-default">
-<img src="http://sketchmob.com/wp-content/themes/Snapart/assets/img/preloader.svg" class="hide" id="loading-animate">
+<img src="https://sketchmob.com/wp-content/themes/Snapart/assets/img/preloader.gif" class="hide" id="loading-animate">
 <nav id="sidebarMenu" class="st-menu st-effect-4">
 
     <hr class="spacer">
 
     <div class="list-group">
-        <a href="http://sketchmob.com" class="list-group-item">Home</a>
+        <a href="https://sketchmob.com" class="list-group-item">Home</a>
                 <div class="panel-group" id="accordion">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <b class="caret"></b> <a class="accordion-toggle" style="font-weight: normal" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                        <b class="caret"></b> <a class="accordion-toggle" style="font-weight: 200 !important;" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
                             Art Style
                         </a>
                     </h4>
                 </div>
                 <div id="collapseThree" class="panel-collapse collapse">
                     <div class="panel-body no-padding">
-                                                                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item active" href="http://sketchmob.com?style=all">All</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=3d-art">3D Art</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=abstract">Abstract</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=anime-manga">Anime &amp; Manga</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=caricature">Caricature</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=cartoon">Cartoon</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=childrens_book">Children's Book</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=comic">Comic</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=graffiti">Graffiti</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=mix-media">Mix Media</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=other">Other</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=pencil-sketch">Pencil Sketch</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=photoshop">Photoshop</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=pixel-art">Pixel Art</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=pop-art">Pop Art</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=photorealistic">Realistic</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=stencil">Stencil Art</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=surreal">Surreal</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=text-art">Text Art</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=vector-art">Vector Art</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?style=watercolor">Watercolor</a>
+                                                                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item active" href="https://sketchmob.com?style=all">All</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=3d-art">3D Art</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=abstract">Abstract</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=anime-manga">Anime &amp; Manga</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=caricature">Caricature</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=cartoon">Cartoon</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=childrens_book">Children's Book</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=comic">Comic</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=graffiti">Graffiti</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=mix-media">Mix Media</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=other">Other</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=pencil-sketch">Pencil Sketch</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=photoshop">Photoshop</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=pixel-art">Pixel Art</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=pop-art">Pop Art</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=photorealistic">Realistic</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=stencil">Stencil Art</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=surreal">Surreal</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=text-art">Text Art</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=vector-art">Vector Art</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?style=watercolor">Watercolor</a>
                                             </div>
                 </div>
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <b class="caret"></b> <a class="accordion-toggle" style="font-weight: normal" data-toggle="collapse" data-parent="#accordion" href="#art_subject">
+                        <b class="caret"></b> <a class="accordion-toggle" style="font-weight: 200 !important;" data-toggle="collapse" data-parent="#accordion" href="#art_subject">
                             Subject
                         </a>
                     </h4>
                 </div>
                 <div id="art_subject" class="panel-collapse collapse">
                     <div class="panel-body no-padding">
-                                                <a style="margin-left: 10px;font-weight: normal" class="list-group-item active" href="http://sketchmob.com?subject=all">All</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=action-sport">Action &amp; Sports</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=babies-kids">Babies &amp; Kids</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=couples">Couples</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=family-or-group">Family or Group</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=fan-art">Fan Art</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=fantasy_scifi">Fantasy &amp; Sci-fi</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=funny">Funny</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=landscape">Landscape</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=original-character">Original Character</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=other">Other</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=pets-animals">Pets &amp; Animals</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=portraits">Portraits</a>
-                                                    <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?subject=quotes-lettering">Quotes &amp; Lettering</a>
+                                                <a style="margin-left: 10px;font-weight: 200" class="list-group-item active" href="https://sketchmob.com?subject=all">All</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=action-sport">Action &amp; Sports</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=babies-kids">Babies &amp; Kids</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=couples">Couples</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=family-or-group">Family or Group</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=fan-art">Fan Art</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=fantasy_scifi">Fantasy &amp; Sci-fi</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=funny">Funny</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=landscape">Landscape</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=nsfw">NSFW</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=original-character">Original Character</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=other">Other</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=pets-animals">Pets &amp; Animals</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=portraits">Portraits</a>
+                                                    <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?subject=quotes-lettering">Quotes &amp; Lettering</a>
                                             </div>
                 </div>
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <b class="caret"></b> <a class="accordion-toggle" style="font-weight: normal" data-toggle="collapse" data-parent="#accordion" href="#art_price">
+                        <b class="caret"></b> <a class="accordion-toggle" style="font-weight: 200 !important;" data-toggle="collapse" data-parent="#accordion" href="#art_price">
                             Price
                         </a>
 
@@ -326,51 +370,56 @@ padding: 14px 15px 12px 12px;
                 </div>
                 <div id="art_price" class="panel-collapse collapse">
                                         <div class="panel-body no-padding">
-                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item active" href="http://sketchmob.com?cost-range=all">All</a>
-                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?cost-range=0-9">$0-$9</a>
-                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?cost-range=10-19">$10-$19</a>
-                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?cost-range=20-29">$20-$29</a>
-                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?cost-range=30-39">$30-$39</a>
-                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?cost-range=40-49">$40-$49</a>
-                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="http://sketchmob.com?cost-range=50">$50+</a>
+                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item active" href="https://sketchmob.com?cost-range=all">All</a>
+                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?cost-range=0-9">$0-$9</a>
+                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?cost-range=10-19">$10-$19</a>
+                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?cost-range=20-29">$20-$29</a>
+                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?cost-range=30-39">$30-$39</a>
+                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?cost-range=40-49">$40-$49</a>
+                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="https://sketchmob.com?cost-range=50">$50+</a>
                     </div>
                 </div>
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <b class="caret"></b> <a class="accordion-toggle" style="font-weight: normal" data-toggle="collapse" data-parent="#accordion" href="#art_relevance">
+                        <b class="caret"></b> <a class="accordion-toggle" style="font-weight: 200 !important;" data-toggle="collapse" data-parent="#accordion" href="#art_relevance">
                             Relevance
                         </a>
                     </h4>
                 </div>
                 <div id="art_relevance" class="panel-collapse collapse">
                     <div class="panel-body no-padding">
-                                                <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="/privacy/?sort=recommend">Recommended</a>
+                                                <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="/privacy/?sort=recommend">Recommended</a>
 
-                        <a style="margin-left: 10px;font-weight: normal" href="/privacy/?sort=high-rating" class="list-group-item ">Highest Rating</a>
-                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="/privacy/?sort=most-sale">Sales</a>
-                        <a style="margin-left: 10px;font-weight: normal" class="list-group-item " href="/privacy/?sort=newest">Newest</a>
+                        <a style="margin-left: 10px;font-weight: 200" href="/privacy/?sort=high-rating" class="list-group-item ">Highest Rating</a>
+                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="/privacy/?sort=most-sale">Sales</a>
+                        <a style="margin-left: 10px;font-weight: 200" class="list-group-item " href="/privacy/?sort=newest">Newest</a>
 
                     </div>
                 </div>
             </div>
         </div>
-	  <a href="http://sketchmob.com/join/" class="list-group-item" style="color:#5ce3cb;">+ Join as an Artist</a>
-        <a href="/about" class="list-group-item">About us</a>
+	  <a href="https://sketchmob.com/join/" class="list-group-item" style="color:#5ce3cb;">+ Join as an Artist</a>
+        <a href="https://sketchmob.com/about" class="list-group-item">About us</a>
         <a href="http://blog.sketchmob.com/" class="list-group-item">Blog</a>
-        <a href="http://sketchmob.com/community" class="list-group-item">Community</a>
-        <a href="http://sketchmob.com/contact" class="list-group-item">Contact</a>
-        <a href="http://sketchmob.com/faq" class="list-group-item">FAQ</a>
-        <a href="http://sketchmob.com/terms" class="list-group-item">Term</a>
-        <a href="http://sketchmob.com/privacy" class="list-group-item">Privacy</a>
-    </div>
+        <a href="https://sketchmob.com/contact" class="list-group-item">Contact</a>
+        <a href="https://sketchmob.com/faq" class="list-group-item">FAQ</a>
+        <a href="https://sketchmob.com/terms" class="list-group-item">Terms</a>
+        <a href="https://sketchmob.com/privacy" class="list-group-item">Privacy</a>
+    </div>    
 </nav>
 
 <!-- Top Nav Bar
 ================================================== -->
 
-<header id="fixedMenu" class="navbar navbar-default navbar-fixed-top" role="banner">
+
+<header class="">
+<div id="fixedMenu" class="navbar navbar-default navbar-fixed-top" role="banner">
+  <div class="notbar">
+    Never miss a commission. <a href="#" class="btn btn-xs btn-info enable-notifications">Click here</a> to enable notifications.
+    <a href="#" id="close-notbar"><i class="close-icon" aria-hidden="true"></i></a>
+  </div>  		
     <div class="container">
         <div id="st-trigger-effects" class="navbar-header">
             <button data-effect="st-effect-4" class="navbar-toggle">
@@ -379,8 +428,8 @@ padding: 14px 15px 12px 12px;
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a id="brand-logo" style="" href="http://sketchmob.com" class="navbar-brand logo">
-                <span class="text-warning">SketchMob</span>
+            <a id="brand-logo" style="" href="https://sketchmob.com" class="navbar-brand logo">
+                <img style="display: none;" src="https://sketchmob.com/wp-content/themes/Snapart/assets/img/sketchmob_logo.png" alt="Sketchmob"><span class="text-warning">Sketchmob</span>
             </a>
             <ul class="list-unstyled list-inline pull-right mobile-dropdown-icons">
                 <li>
@@ -388,49 +437,59 @@ padding: 14px 15px 12px 12px;
                         <span aria-hidden="true" class="icon-search"></span>
                     </a>
                     <ul id="dropdown-search" class="dropdown-menu" role="menu" aria-labelledby="mobile-dropdown-search-xs">
-                        <form class="form-inline" method="GET" action="http://sketchmob.com">
-                            <input class="form-control" value="" name="search_term" placeholder="Search" type="text">
+                        <form class="form-inline" method="GET" action="https://sketchmob.com">
+                            <input class="form-control" value="" name="search_term" placeholder="Search artists &amp; art styles" type="text">
                         </form>
                     </ul>
                 </li>
                 <li>
                     <a id="mobile-dropdown-user-xs" role="button" class="navbar-link mobile-dropdown visible-xs dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="#">
                         <!--<span aria-hidden="true" class="icon-user"></span>-->
-                                                    <span aria-hidden="true" class="icon-user"></span>
-                        
+                        <!--dynamic-cached-content-->                            <span aria-hidden="true" class="icon-user"></span>
+                        <!--/dynamic-cached-content-->
+
                     </a>
                     <ul id="dropdown-user" class="dropdown-menu pull-right" role="menu" aria-labelledby="mobile-dropdown-user-xs">
-                                                    <li><a href="http://sketchmob.com/opensesame"><span aria-hidden="true" class="icon-enter"></span> Log in</a></li>
-                            <li><a href="http://sketchmob.com/opensesame"><span aria-hidden="true" class="icon-lock2"></span> Sign up</a></li>
-                            <li><a href="http://sketchmob.com/join/"><span aria-hidden="true" class="icon-quill"></span> Join
+                        <!--dynamic-cached-content-->                            <li><a href="https://sketchmob.com/opensesame"><span aria-hidden="true" class="icon-enter"></span> Log in</a></li>
+                            <li><a href="https://sketchmob.com/opensesame"><span aria-hidden="true" class="icon-lock2"></span> Sign up</a></li>
+                            <li><a href="https://sketchmob.com/join/"><span aria-hidden="true" class="icon-quill"></span> Join
                                     as an
                                     Artist</a></li>
-                                            </ul>
+                        <!--/dynamic-cached-content-->
+                    </ul>
                 </li>
             </ul> 
         </div>
 
-        <form class="navbar-form navbar-left hidden-sm hidden-xs" action="http://sketchmob.com" role="search">
+        <form class="navbar-form navbar-left hidden-sm hidden-xs" action="https://sketchmob.com" role="search">
             <div class="form-group">
                 <span aria-hidden="true" class="icon-search"></span>
-                <input value="" type="search" name="search_term" class="form-control" placeholder="Search">
+                <input value="" type="search" name="search_term" class="form-control" placeholder="Search artists &amp; art styles">
             </div>
         </form>
 
         <ul class="list-unstyled list-inline navbar-right hidden-xs ">
-                            <li>
-                    <a href="http://sketchmob.com/join/" class="btn btn-primary navbar-btn">Join as an
+            <!--dynamic-cached-content-->                <li>
+                    <a href="https://sketchmob.com/join/" class="btn btn-primary navbar-btn">Join as an
                         Artist</a>
                 </li>
                 <li>
-                    <a href="http://sketchmob.com/opensesame" class="navbar-link">Log in</a>
+                    <a href="https://sketchmob.com/opensesame" class="navbar-link">Log in</a>
                 </li>
                 <li>
-                    <a href="http://sketchmob.com/opensesame?action=register" class="navbar-link">Sign up</a>
+                    <a href="https://sketchmob.com/opensesame?action=register" class="navbar-link">Sign up</a>
                 </li>
 
-                    </ul>
+            <!--/dynamic-cached-content-->
+        </ul>
     </div>
+    </div>  
+
+    
+
+
+
+
 </header>
 
 
@@ -502,23 +561,23 @@ Third Party Sites</b></span></h5>
             <div class="col-md-3 col-md-push-9 col-sm-12">
                 <ul class="list-unstyled list-inline social">
                     <li>Follow us:</li>
-                    <li><a href="http://www.pinterest.com/sketchmob/" target="_blank"><span aria-hidden="true" class="icon-pinterest2"></span></a></li>
-                    <li><a href="http://www.facebook.com/sketchmob" target="_blank"><span aria-hidden="true" class="icon-facebook2"></span></a></li>
-                    <li><a href="http://www.instagram.com/thesketchmob" target="_blank"><span aria-hidden="true" class="icon-instagram"></span></a></li>
-                    <li><a href="http://www.twitter.com/thesketchmob" target="_blank"><span aria-hidden="true" class="icon-twitter2"></span></a></li>
+                    <li><a href="https://www.pinterest.com/sketchmob/" target="_blank"><span aria-hidden="true" class="icon-pinterest2"></span></a></li>
+                    <li><a href="https://www.facebook.com/sketchmob" target="_blank"><span aria-hidden="true" class="icon-facebook2"></span></a></li>
+                    <li><a href="https://www.instagram.com/thesketchmob" target="_blank"><span aria-hidden="true" class="icon-instagram"></span></a></li>
+                    <li><a href="https://www.twitter.com/thesketchmob" target="_blank"><span aria-hidden="true" class="icon-twitter2"></span></a></li>
                     <li><a href="http://blog.sketchmob.com" target="_blank"><span aria-hidden="true" class="icon-tumblr2"></span></a></li>
                 </ul>
                     
 		</div>
 
             <div class="col-md-9 col-md-pull-3 col-sm-12">
-                <a class="pull-left make-money visible-md visible-lg" href="http://sketchmob.com/join">Join the Sketchmob</a>
+                <a class="pull-left make-money visible-md visible-lg" href="https://sketchmob.com/join">Join the Sketchmob</a>
 
                 <ul class="list-unstyled list-inline" role="navigation">
-                    <li><a href="http://sketchmob.com/about">About Us</a></li>
+                    <li><a href="https://sketchmob.com/about">About Us</a></li>
                     <li><a href="http://blog.sketchmob.com">Blog</a></li>
-                    <li><a href="http://sketchmob.com/contact">Contact</a></li>
-                    <li><a href="http://sketchmob.com/faq">FAQ</a></li>                   
+                    <li><a href="https://sketchmob.com/contact">Contact</a></li>
+                    <li><a href="https://sketchmob.com/faq">FAQ</a></li>                   
                 </ul>
 	
 		
@@ -527,7 +586,7 @@ Third Party Sites</b></span></h5>
         </div>
     </div>
 
-		<div style="margin-right: 11%; padding-left: 25px; margin-top: 40px; text-align: center; font-size: 11px; color: rgb(153, 153, 153);"> © Copyright 2016 Sketchmob. All rights reserved. <a href="http://sketchmob.com/terms">Terms of Use</a> and <a href="http://sketchmob.com/privacy">Privacy Policy</a><p></p>
+		<div style="margin-right: 11%; padding-left: 25px; margin-top: 40px; text-align: center; font-size: 11px; color: rgb(153, 153, 153);"> © Copyright 2019 Sketchmob. All rights reserved. <a href="https://sketchmob.com/terms">Terms of Use</a> and <a href="https://sketchmob.com/privacy">Privacy Policy</a><p></p>
       	</div>		  
 </footer>
 
@@ -543,16 +602,24 @@ Third Party Sites</b></span></h5>
 <!-- /st-container -->
 <!--<script src='/assets/bootstrap/js/bootstrap.min.js'></script>-->
 <!--<script src='/assets/js/less-1.4.1.min.js'></script>-->
+<!--<script src="https://sketchmob.com/wp-content/themes/Snapart/assets/js/vendor/socket.io.js"></script>-->
 
-<script src="http://sketchmob.com/wp-content/themes/Snapart/assets/js/vendor/bootstrap.min.js"></script>
-<script src="http://sketchmob.com/wp-content/themes/Snapart/assets/js/main.min.js"></script>
-<script src="http://sketchmob.com/wp-content/themes/Snapart/assets/js/jquery.bootstrap-dropdown-hover.min.js"></script>
+<script src="https://sketchmob.com/wp-content/themes/Snapart/assets/js/vendor/bootstrap.min.js?2"></script>
+
+<script src="https://sketchmob.com/wp-content/themes/Snapart/assets/js/scroll.js?4"></script>
+<script src="https://sketchmob.com/wp-content/themes/Snapart/assets/js/vendor/toastr.min.js"></script>
+<script src="https://sketchmob.com/wp-content/themes/Snapart/assets/js/main.min.js?9"></script>
+
+    <script src="https://sketchmob.com/wp-content/themes/Snapart/assets/js/ajax-login.js"></script>
+<script src="https://sketchmob.com/wp-content/themes/Snapart/assets/js/jquery.bootstrap-dropdown-hover.min.js"></script>
 
 <script>
 $.fn.bootstrapDropdownHover({
   // see next for specifications
 });
 </script>
+
+<script src="https://sketchmob.com/wp-content/themes/Snapart/assets/js/jquery.cookie.js"></script>
 
 
 
@@ -563,26 +630,237 @@ $.fn.bootstrapDropdownHover({
     <div id="flags" style="display:none"><ul id="sortable" class="ui-sortable"><li id="Vietnamese"><a title="Vietnamese" class="notranslate flag vi Vietnamese"></a></li><li id="Turkish"><a title="Turkish" class="notranslate flag tr Turkish"></a></li><li id="Lithuanian"><a title="Lithuanian" class="notranslate flag lt Lithuanian"></a></li><li id="Arabic"><a title="Arabic" class="notranslate flag ar Arabic"></a></li><li id="Filipino"><a title="Filipino" class="notranslate flag tl Filipino"></a></li><li id="Korean"><a title="Korean" class="notranslate flag ko Korean"></a></li><li id="Chinese"><a title="Chinese" class="notranslate flag zh-CN Chinese"></a></li><li id="Japanese"><a title="Japanese" class="notranslate flag ja Japanese"></a></li><li id="Portuguese"><a title="Portuguese" class="notranslate flag pt brazil"></a></li><li id="Italian"><a title="Italian" class="notranslate flag it Italian"></a></li><li id="Russian"><a title="Russian" class="notranslate flag ru Russian"></a></li><li id="Spanish"><a title="Spanish" class="notranslate flag es Spanish"></a></li><li id="German"><a title="German" class="notranslate flag de German"></a></li><li id="French"><a title="French" class="notranslate flag fr French"></a></li><li id="Indonesian"><a title="Indonesian" class="notranslate flag id Indonesian"></a></li><li id="English"><a title="English" class="notranslate flag en united-states"></a></li></ul></div><div id="glt-footer"></div><script type="text/javascript">function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'ar,zh-CN,nl,en,tl,fr,de,hi,id,it,ja,ko,lt,pt,ru,sr,es,sv,th,tr,uk,vi', autoDisplay: false, multilanguagePage:true, gaTrack: true, gaId: 'UA-47474239-1'}, 'google_language_translator');}</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit"></script>
 <!--
 TPC! Memory Usage (http://webjawns.com)
-Memory Usage: 58444112
-Memory Peak Usage: 74216816
+Memory Usage: 11624304
+Memory Peak Usage: 11851048
 WP Memory Limit: 256M
-PHP Memory Limit: 256M
-Checkpoints: 12
+PHP Memory Limit: 192M
+Checkpoints: 10
 -->
 
+		<div class="popup fade pt-user-popup" id="pt-user-popup" tabindex="-1" role="dialog" aria-hidden="true">
+			<div class="popup-dialog" data-active-tab="">
+				<div class="popup-content">
+					<div class="popup-body">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+							<!-- Register form -->
+							
+							<div class="pt-register">
+								<div class="page-header" style="margin-top: 0;padding-top:0">
+                                    <h3><span class="glyphicon glyphicon-lock"></span> Register</h3>
+                                </div>
+								
+								 <form class="login-form" id="pt_registration_form" role="form" action="" method="post">
+								 	<div class="pt-errors alert alert-danger hide"></div>
+		                                <input type="hidden" name="action" value="register">
+
+		                                <div class="form-group">
+		                                    <div class="input-group">
+		                                                                <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span> </span>
+		                                        <input type="email" name="user_email" class="form-control" placeholder="Enter Your Email" value="">
+		                                    </div>
+		                                   
+		                                </div>
+		                                <div class="form-group">
+		                                    <div class="input-group">
+		                                                                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span> </span>
+		                                        <input type="text" name="user_login" class="form-control" value="" placeholder="Create a Username">
+		                                    </div>
+		                                </div>
+		                                <div class="form-group">
+		                                            <div class="input-group">
+		                                                                <span class="input-group-addon"><span class="glyphicon glyphicon-lock"></span> </span>
+		                                                <input type="password" name="pwd" class="form-control" placeholder="Create a Password">
+		                                            </div>
+		                                            <div style="font-size:11px; color:#999999;">*Minimum 8 Characters</div>
+		                                        </div>
+
+										<input type="hidden" name="this_is_for_you" value="">
+		                                <input type="hidden" name="redirect_to" value="">
+
+		                                <br>
+		                                <input type="submit" class="btn btn-default btn-lg" value="Register" id="submits" name="submits"> &nbsp;
+		                                <a href="#pt-login">Sign In</a> &nbsp; | &nbsp;
+		                                <a href="https://sketchmob.com/opensesame?action=lostpassword">Lost
+		                                    Your Password?</a>
+		                                
+<!--
+	wsl_render_auth_widget
+	WordPress Social Login 2.3.3.
+	http://wordpress.org/plugins/wordpress-social-login/
+-->
+
+<style type="text/css">
+#wp-social-login-connect-with{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-size: 14pt;font-weight: 500}#wp-social-login-connect-options{padding:10px}#wp-social-login-connect-options a{text-decoration: none}#wp-social-login-connect-options img{border:0 none}.wsl_connect_with_provider{}</style>
+
+<div class="wp-social-login-widget">
+
+	<div class="wp-social-login-connect-with">Save time, connect via:</div>
+
+	<div class="wp-social-login-provider-list">
+
+		<a rel="nofollow" href="javascript:void(0);" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook">
+			<img alt="Facebook" title="Connect with Facebook" src="https://sketchmob.com/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png">
+		</a>
+
+		<a rel="nofollow" href="javascript:void(0);" title="Connect with Twitter" class="wp-social-login-provider wp-social-login-provider-twitter" data-provider="Twitter">
+			<img alt="Twitter" title="Connect with Twitter" src="https://sketchmob.com/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/twitter.png">
+		</a>
+
+	</div>
+
+	<div class="wp-social-login-widget-clearing"></div>
+
+</div>
+
+<input type="hidden" id="wsl_popup_base_url" value="https://sketchmob.com/opensesame/?action=wordpress_social_authenticate&amp;mode=login&amp;">
+<input type="hidden" id="wsl_login_form_uri" value="https://sketchmob.com/opensesame/">
+
+<!-- wsl_render_auth_widget -->
+
+		                            </form>
+								
+							</div>
+
+							<!-- Login form -->
+							<div class="pt-login">
+								 <div class="row">
+
+			                            <div class="">
+			                                <div class="page-header" style="margin-top: 0;padding-top:0">
+			                                    <h3><span class="glyphicon glyphicon-lock"></span> Sign In</h3>
+			                                </div>
+			                                <div class="form-content clearfix login-form">
+			                                	<div class="pt-errors alert alert-danger hide"></div>
+
+			                                    <form role="form" action="" method="post" id="pt_login_form">
+			                                        <div class="form-group">
+			                                            <div class="input-group">
+                                                            <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span> </span>
+			                                                <input type="text" name="log" class="form-control" placeholder="Username">
+			                                            </div>
+			                                        </div>
+			                                        <div class="form-group">
+			                                            <div class="input-group">
+															<span class="input-group-addon"><span class="glyphicon glyphicon-lock"></span> </span>
+			                                                <input type="password" name="pwd" class="form-control" placeholder="Password">
+			                                            </div>
+			                                        </div>
+			                                        <div class="checkbox">
+			                                            <label>
+			                                                <input type="checkbox" name="rememberme" checked="">
+			                                                Keep me signed in
+			                                            </label>
+			                                        </div>
+			                                        <br>
+			                                        <button type="submit" class="btn btn-warning btn-lg">Sign In</button> &nbsp;
+			                                        <a href="#pt-register">Register</a> &nbsp; | &nbsp;
+			                                        <a href="https://sketchmob.com/opensesame?action=lostpassword">Lost Your Password?</a><br>
+			                                        
+<!--
+	wsl_render_auth_widget
+	WordPress Social Login 2.3.3.
+	http://wordpress.org/plugins/wordpress-social-login/
+-->
+
+<style type="text/css">
+#wp-social-login-connect-with{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-size: 14pt;font-weight: 500}#wp-social-login-connect-options{padding:10px}#wp-social-login-connect-options a{text-decoration: none}#wp-social-login-connect-options img{border:0 none}.wsl_connect_with_provider{}</style>
+
+<div class="wp-social-login-widget">
+
+	<div class="wp-social-login-connect-with">Save time, connect via:</div>
+
+	<div class="wp-social-login-provider-list">
+
+		<a rel="nofollow" href="javascript:void(0);" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook">
+			<img alt="Facebook" title="Connect with Facebook" src="https://sketchmob.com/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png">
+		</a>
+
+		<a rel="nofollow" href="javascript:void(0);" title="Connect with Twitter" class="wp-social-login-provider wp-social-login-provider-twitter" data-provider="Twitter">
+			<img alt="Twitter" title="Connect with Twitter" src="https://sketchmob.com/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/twitter.png">
+		</a>
+
+	</div>
+
+	<div class="wp-social-login-widget-clearing"></div>
+
+</div>
+
+<input type="hidden" id="wsl_popup_base_url" value="https://sketchmob.com/opensesame/?action=wordpress_social_authenticate&amp;mode=login&amp;">
+<input type="hidden" id="wsl_login_form_uri" value="https://sketchmob.com/opensesame/">
+
+<!-- wsl_render_auth_widget -->
+
+			                                    </form>
+			                                </div>
+			                            </div>
+			                    </div>
+								<div class="pt-errors"></div>
+							</div>
+
+							<div class="pt-loading">
+								<p><i class="fa fa-refresh fa-spin"></i><br>Loading...</p>
+							</div>
+							
+					</div>				
+				</div>
+			</div>
+		</div>
 <div id="un-thankyou" style="display: none;">
 	<h2>Sounds awesome!</h2>
 	<p>
 		Your request has been received.  We will follow up with you shortly. Have a wonderful day!	</p>
-	<a href="#" id="un-feedback-close"><img src="http://sketchmob.com/wp-content/plugins/usernoise/images/ok.png" id="thankyou-image" alt="Close" width="32" height="32"></a>
+	<a href="#" id="un-feedback-close"><img src="https://sketchmob.com/wp-content/plugins/usernoise/images/ok.png" id="thankyou-image" alt="Close" width="32" height="32"></a>
 </div>
 <script type="text/javascript">
 /* <![CDATA[ */
-var spuvar = {"is_admin":"","disable_style":"","safe_mode":"","ajax_mode":"","ajax_url":"http:\/\/sketchmob.com\/wp-admin\/admin-ajax.php","ajax_mode_url":"http:\/\/sketchmob.com\/?spu_action=spu_load&lang=","pid":"153","is_front_page":"","is_category":"","site_url":"http:\/\/sketchmob.com","is_archive":"","seconds_confirmation_close":"5"};
+var spuvar = {"is_admin":"","disable_style":"","safe_mode":"","ajax_mode":"","ajax_url":"https:\/\/sketchmob.com\/wp-admin\/admin-ajax.php","ajax_mode_url":"https:\/\/sketchmob.com\/?spu_action=spu_load&lang=","pid":"153","is_front_page":"","is_category":"","site_url":"https:\/\/sketchmob.com","is_archive":"","seconds_confirmation_close":"5"};
 var spuvar_social = [""];
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sketchmob.com/wp-content/plugins/popups/public/assets/js/min/public-min.js?ver=1.3.1.2"></script>
-<script type="text/javascript" src="http://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/jquery.royalslider.min.js?ver=3.1.3"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/plugins/popups/public/assets/js/min/public-min.js?ver=1.3.1.2"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/themes/Snapart/js/jquery-ui.min.js?ver=4.2.10"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/themes/Snapart/js/typed.js?ver=4.2.10"></script>
+<script type="text/javascript" src="https://sketchmob.com/wp-content/plugins/new-royalslider/lib/royalslider/jquery.royalslider.min.js?ver=3.1.3"></script>
+<script>
+  window.addEventListener('load', function(){
 
+    var getParams = new URLSearchParams(window.location.search);
+    if(getParams.get('action') == 'register'){
+      if(jQuery('.page-header:contains("Registration Complete")').is(":visible")){
+        ga('send','event','form','submit','registration');
+      }
+    }
+
+    if(jQuery('.box-heading:contains("Order Summary:")').is(":visible")){
+      var price_val = parseFloat(jQuery('.price').text().replace(/[^0-9.]/g,''));
+      gtag('event', 'conversion', {
+        'send_to': 'AW-975286190/mEsBCLrEhVgQrt-G0QM',
+        'value': price_val,
+        'currency': 'USD'
+      });
+    }
+
+    jQuery('a:contains("Sign In")').click(function(){
+      ga('send','event','button','click','sign in');
+    });
+
+    jQuery('#submits').click(function(){
+      ga('send','event','button','click','register');
+    });
+
+    jQuery('button:contains("Pay Now")').click(function(){
+      ga('send','event','button','click','pay now');
+    });
+
+    jQuery('button:contains("Commission Art in This Style")').click(function(){
+      ga('send','event','button','click','commission');
+    });
+
+    jQuery('button:contains("Checkout")').click(function(){
+      ga('send','event','button','click','checkout');
+    });
+
+  });
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"42dada0b04","applicationID":"175971913","transactionName":"Z1VRZhBZWRBSUkBcW14fclEWUVgNHEFVUlE=","queueTime":0,"applicationTime":466,"atts":"SxJSEFhDSh4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
