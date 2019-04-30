@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the accountingcoach.com privacy policy that was archived on 2018-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180908141758id_/https%3A//www.accountingcoach.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accountingcoach.com privacy policy that was archived on 2019-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190430040826id_/https%3A//www.accountingcoach.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="https://www.accountingcoach.com/wp-content/themes/accounting-coach/style.css?v=38.0.10">
+<link rel="stylesheet" href="https://www.accountingcoach.com/wp-content/themes/accounting-coach/style.css?v=39.1.8">
+<link rel="stylesheet" href="https://www.accountingcoach.com/wp-content/themes/accounting-coach/css/visual-tutorials.css">
 <!--[if IE 9]>
 	<link rel="stylesheet" type="text/css" href="https://www.accountingcoach.com/wp-content/themes/accounting-coach/css/ie9.css?v=2.2">
 	<![endif]-->
@@ -19,7 +20,7 @@
 <!--[if IE 6]>
 	<link rel="stylesheet" type="text/css" href="https://www.accountingcoach.com/wp-content/themes/accounting-coach/css/ie6.css?v=1.2">
 	<![endif]-->
-<link rel="stylesheet" href="https://www.accountingcoach.com/wp-content/themes/accounting-coach/css/ouibounce.css"> <title>Privacy Policy | AccountingCoach</title>
+<title>Privacy Policy | AccountingCoach</title>
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WFCH87"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="https://www.accountingcoach.com/wp-content/themes/accounting-coach/js/jquery.session.js"></script>
 <script>
@@ -105,91 +106,6 @@
 	})(window,document,'script','dataLayer','GTM-WFCH87');</script>
 
 
-<div id="ouibounce-modal" class="fc-exit free-guide" data-swiftype-index="false">
-<div id="fc-exit-inner">
-<h2>Free Guide to<br>Bookkeeping Concepts</h2>
-<form method="post" id="bookkeeping-signup-form" class="clearfix">
-<img src="/wp-content/themes/accounting-coach/images/bookkeeping-popup.png" alt="Accounting Bookkeeping Concepts PDF Cover" width="327" height="251">
-<p>Receive our free 18-page <strong>Guide to Bookkeeping Concepts</strong> (PDF) when you subscribe to our free newsletter.</p>
-<div id="fc-exit-error">You are already subscribed. This offer is not available to existing subscribers.</div>
-<div id="fc-exit-success">Step 2: Please check your email and click the confirmation link.</div>
-<input type="email" name="bg-email" id="bg-email" placeholder="Enter your email">
-<input type="submit" id="bg-submit" value="Get your Free Guide" class="button pro"><br>
-<span>266,609<br> Subscribers</span>
-</form>
-<a href="#" class="close" title="Close" id="fc-exit-close-button"></a>
-</div>
-</div>
-<script type="text/javascript" src="https://www.accountingcoach.com/wp-content/themes/accounting-coach/js/ouibounce.js"></script>
-<script>
-var enteredYes = false;
-var _ouibounce = ouibounce(document.getElementById('ouibounce-modal'), {
-        aggressive :true,
-        timer:0,
-        callback: function() { 
-            $.ajax({
-                url: ajaxurl,
-                type: "GET",
-                data: { action: 'log_bookkeeping_exit_popup' },
-                dataType: "html"
-            });
-        }
-  });
-
-$('body').on('click', function() {
-  $('#ouibounce-modal').hide();
-});
-
-$('#ouibounce-modal #fc-exit-inner').on('click', function(e) {
-    e.preventDefault();
-    if($(e.target).attr('id') == 'fc-exit-close-button') {
-        e.stopPropagation();
-        $('#ouibounce-modal').hide();
-    }
-    else if($(e.target).attr('id') == 'bg-submit') {
-        e.stopPropagation();
-        $('#bookkeeping-signup-form').submit();
-    }
-    else {
-        e.stopPropagation();
-    }
-});
-
-$('#bookkeeping-signup-form').submit(function(e) {
-    e.stopPropagation();
-    e.preventDefault();
-    if(!IsEmail($('#bg-email').val())) {
-      $('#bg-email').val('');
-      $('#bg-email').attr('placeholder', 'Invalid email address');  
-    } else {
-        $.ajax({
-            url: ajaxurl,
-            type: "GET",
-            data: { action: 'bookkeeping_email_signup', email : $('#bg-email').val()},
-            dataType: "json",
-            success: function(response) {
-                if (response.existing) {
-                    $('#fc-exit-error').show();                  
-                    $('#fc-exit-success').hide();
-                }
-                else if(response.success) {
-                    $('#fc-exit-error').hide();
-                    $('#fc-exit-success').show();
-                }
-            },
-            error: function() {
-                alert('There was an error processing your request. Please try again.')
-            }
-        });
-    }
-});
-
-function IsEmail(email) {
-  var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-  return regex.test(email);
-}
-
-</script>
 <header id="masthead" role="banner" data-swiftype-index="false">
 <div class="container">
 <div class="grid-12">
@@ -311,31 +227,181 @@ $('.scroll-links a').click(function(e){
   $('html, body').animate({scrollTop: $('#'+scroll_id).offset().top - 80 }, 400); // - 70}, 400);
 });
 </script>
-
 <div id="footer" data-swiftype-index="false">
-<div class="full-width blue" id="footer-top">
+<div class="full-width blue split-test pro-plus">
 <div class="container padded">
-<div class="grid-6">
-<div class="padding-right">
-<h4 class="serif">Have you tried<br> AccountingCoach PRO?</h4>
-<a href="/pro?footer=a" class="button pro">View PRO Features</a><br>
-<img src="https://www.accountingcoach.com/wp-content/themes/accounting-coach/images/footer-wreath.png" alt="30,000 Satified Customers" id="footer-wreath" class="no-retina">
+<section class="mentioned-in-publications">
+<div class="ta-center">
+<div class="publication"></div>
+<div class="publication"></div>
+<div class="publication"></div>
+<div class="publication"></div>
+<div class="publication"></div>
+<div class="publication"></div>
+<div class="publication"></div>
+<div class="publication"></div>
 </div>
-</div>
-<div class="grid-6" id="footer-about">
-<div class="padding-left">
-<h4 class="serif">About the Author</h4>
-<div class="clearfix">
-<a href="https://www.accountingcoach.com/about">
-<img src="https://www.accountingcoach.com/wp-content/themes/accounting-coach/images/harold_averkamp_headshot_new@2x.jpg" alt="Harold Averkamp" class="float-left no-retina" style="width:98px;height:auto;">
-</a>
-<p class="fs-14">Harold Averkamp (CPA, MBA) has worked as a university accounting instructor, accountant, and consultant for more than 25 years,<br>
-<a href="https://www.accountingcoach.com/about" title="About">Read More...</a>
-</p>
-</div>
+</section>
+<h3 class="serif">Join <b>PRO</b> or <b>PRO Plus</b> and Get<br class="destop-break"> Lifetime Access to Our Premium Materials</h3>
 <a href="https://www.accountingcoach.com/testimonials" title="Read All Testimonials" id="testimonial-promo">
-<span class="stars"></span><span>Read all 2,031 Testimonials</span>
+<span class="stars"></span><br>
+<span>Read all 2,112 Testimonials</span>
 </a>
+<div class="purchase-table clearfix" data-link="/pro?footer=b">
+<div class="purchase-table-header">
+<div class="column"></div>
+<div class="column">
+<h4 class="serif">PRO</h4>
+<span>Lifetime Access</span>
+</div>
+<div class="column">
+<h4 class="serif">PRO Plus</h4>
+<span>Lifetime Access</span>
+</div>
+</div>
+<div class="purchase-table-body clearfix">
+<div class="pro-table-row">
+<div class="column">
+Seminar Videos </div>
+<div class="column">
+<span class="icon"></span>
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Flashcards </div>
+<div class="column">
+<span class="icon"></span>
+</div>
+<div class="column">
+ <span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Visual Tutorials </div>
+<div class="column">
+<span class="icon"></span>
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Quick Tests </div>
+<div class="column">
+<span class="icon"></span>
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Quick Tests with Coaching </div>
+<div class="column">
+<span class="icon"></span>
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Cheat Sheets </div>
+<div class="column">
+<span class="icon"></span>
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Business Forms </div>
+<div class="column">
+<span class="icon"></span>
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+All PDF files </div>
+<div class="column">
+<span class="icon"></span>
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Progress Tracking </div>
+<div class="column">
+<span class="icon"></span>
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Certificate - Debits and Credits </div>
+<div class="column">
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Certificate - Adjusting Entries </div>
+<div class="column">
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Certificate - Financial Statements </div>
+<div class="column">
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+<div class="pro-table-row">
+<div class="column">
+Certificate - Working Capital </div>
+<div class="column">
+</div>
+<div class="column">
+<span class="icon"></span>
+</div>
+</div>
+</div>
+<div class="pro-table-buttons">
+<div class="column"></div>
+<div class="column">
+<a href="/pro?footer=b" class="faux-pro-button">Learn More</a>
+</div>
+<div class="column">
+<a href="/pro?footer=b" class="faux-pro-button">Learn More</a>
+</div>
+</div>
+</div>
+<div class="about-the-author">
+<div class="clearfix">
+<img src="https://www.accountingcoach.com/wp-content/themes/accounting-coach/images/harold_averkamp_headshot_footer@2x.jpg" alt="Harold Averkamp" class="float-left no-retina">
+<h4 class="serif">About the Author</h4>
+<p>Harold Averkamp (CPA, MBA) has worked as a university accounting instructor, accountant, and consultant for more than 25 years. He is the sole author of all the materials on AccountingCoach.com</p>
 </div>
 </div>
 </div>
@@ -352,7 +418,7 @@ $('.scroll-links a').click(function(e){
 <li><a href="https://www.accountingcoach.com/testimonials" title="Testimonials">Testimonials</a></li>
 <li><a href="https://www.accountingcoach.com/contact" title="Contact">Contact</a></li>
 <li><a href="https://www.accountingcoach.com/newsletter" title="Newsletter">Newsletter</a></li>
-<li><a href="https://www.accountingcoach.com/advertise" title="Advertise">Advertise</a></li>
+<li><a href="https://www.accountingcoach.com/advertise" "="" title="Advertise">Advertise</a></li>
 <li class="alt"><a href="https://www.accountingcoach.com/links" title="Helpful Links">Helpful Links</a></li>
 <li class="alt"><a href="https://www.accountingcoach.com/sitemap" title="Sitemap">Sitemap</a></li>
 </ul>
@@ -360,7 +426,7 @@ $('.scroll-links a').click(function(e){
 <div id="footer-menu-materials">
 <h6>Materials</h6>
 <ul id=" class=" clearfix"="">
-<li><a href="https://www.accountingcoach.com/quizzes" title="Quizzes">Quizzes</a></li>
+<li><a href="https://www.accountingcoach.com/quizzes" title="Quizzes">Practice Quizzes</a></li>
 <li><a href="https://www.accountingcoach.com/tests" title="Quick Tests">Quick Tests</a></li>
 <li><a href="https://www.accountingcoach.com/flashcards" title="Flashcards">Flashcards</a></li>
 <li><a href="https://www.accountingcoach.com/crossword-puzzles" title="Crossword Puzzles">Crossword Puzzles</a></li>
@@ -389,7 +455,7 @@ $('.scroll-links a').click(function(e){
 <div class="mobile mobile-select-nav" id="footer-mobile-menu-about">
 <div class="styled-select">
 <div>
-<select>
+<select class="needsclick">
 <option disabled="" selected="">About us</option>
 <option value="https://www.accountingcoach.com">Home</option>
 <option value="https://www.accountingcoach.com/about">About</option>
@@ -408,7 +474,7 @@ $('.scroll-links a').click(function(e){
 <div class="mobile mobile-select-nav" id="footer-mobile-menu-materials">
 <div class="styled-select">
 <div>
-<select>
+<select class="needsclick">
 <option disabled="" selected="">Materials</option>
 <option value="https://www.accountingcoach.com/quizzes">Quizzes</option>
 <option value="https://www.accountingcoach.com/tests">Quick Tests</option>
@@ -417,13 +483,13 @@ $('.scroll-links a').click(function(e){
 <option value="https://www.accountingcoach.com/word-scrambles">Word Scrambles</option>
 <option value="https://www.accountingcoach.com/bookkeeping-training">Bookkeeping</option>
 <option value="https://www.accountingcoach.com/blog">Q&amp;A</option>
- <option value="https://www.accountingcoach.com/terms">Dictionary</option>
+<option value="https://www.accountingcoach.com/terms">Dictionary</option>
 <option value="https://www.accountingcoach.com/visual-tutorials">Visual Tutorials</option>
 <option value="https://www.accountingcoach.com/cheat-sheets">Cheat Sheets</option>
 <option value="https://www.accountingcoach.com/seminars">Seminar Videos</option>
 <option value="https://www.accountingcoach.com/business-forms">Business Forms</option>
 <option value="https://www.accountingcoach.com/certificates">Certificates</option>
- </select>
+</select>
 </div>
 <span></span>
 </div>
@@ -431,7 +497,7 @@ $('.scroll-links a').click(function(e){
 <div class="mobile mobile-select-nav" id="footer-mobile-menu-legal">
 <div class="styled-select">
 <div>
-<select>
+<select class="needsclick">
 <option disabled="" selected="">Legal</option>
 <option value="https://www.accountingcoach.com/copyright">Copyright</option>
 <option value="https://www.accountingcoach.com/trademark">Trademark</option>
@@ -453,7 +519,7 @@ Terms
 <a href="https://www.facebook.com/accountingcoach/" class="facebook icon" target="_blank"></a>
 <a href="https://www.linkedin.com/company/accountingcoach-com/" class="linked-in icon" target="_blank"></a>
 </div>
-<p class="smallprint">Copyright © 2004 - 2018<br class="mobile"> AccountingCoach, LLC. All rights reserved.<br>AccountingCoach® is a registered trademark.</p>
+<p class="smallprint">Copyright © 2004 - 2019<br class="mobile"> AccountingCoach, LLC. All rights reserved.<br>AccountingCoach® is a registered trademark.</p>
 </div>
 </footer>
 </div>
@@ -482,169 +548,174 @@ Terms
 <div id="sidebar-body">
 <div id="tsb-topics">
 <ol>
-<li data-display="true" class="" data-name="Accounting Basics" "="" data-category="Financial,Bookkeeping" data-category-position="1" data-bookkeeping-position="1" data-financial-position="1" data-managerial-position="" data-overall-position="1" data-topic-slug="accounting-basics">
+<li data-display="true" class="" data-name="Accounting Basics" "="" data-category="Financial,Bookkeeping" data-category-position="1" data-bookkeeping-position="2" data-financial-position="1" data-managerial-position="" data-overall-position="1" data-topic-slug="accounting-basics">
 <a href="https://www.accountingcoach.com/accounting-basics/outline" class="" title="Accounting Basics">
 <span class="order-number">01.</span> Accounting Basics <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Debits and Credits" "="" data-category="Bookkeeping,Financial" data-category-position="2" data-bookkeeping-position="2" data-financial-position="2" data-managerial-position="" data-overall-position="2" data-topic-slug="debits-and-credits">
+<li data-display="true" class="" data-name="Debits and Credits" "="" data-category="Bookkeeping,Financial" data-category-position="2" data-bookkeeping-position="3" data-financial-position="2" data-managerial-position="" data-overall-position="2" data-topic-slug="debits-and-credits">
 <a href="https://www.accountingcoach.com/debits-and-credits/outline" class="" title="Debits and Credits">
 <span class="order-number">02.</span> Debits and Credits <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Chart of Accounts" "="" data-category="Bookkeeping,Financial" data-category-position="4" data-bookkeeping-position="3" data-financial-position="3" data-managerial-position="" data-overall-position="3" data-topic-slug="chart-of-accounts">
+<li data-display="true" class="" data-name="Chart of Accounts" "="" data-category="Bookkeeping,Financial" data-category-position="4" data-bookkeeping-position="4" data-financial-position="3" data-managerial-position="" data-overall-position="3" data-topic-slug="chart-of-accounts">
 <a href="https://www.accountingcoach.com/chart-of-accounts/outline" class="" title="Chart of Accounts">
 <span class="order-number">03.</span> Chart of Accounts <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Bookkeeping" "="" data-category="Bookkeeping,Financial" data-category-position="1" data-bookkeeping-position="4" data-financial-position="4" data-managerial-position="" data-overall-position="4" data-topic-slug="bookkeeping">
+<li data-display="true" class="" data-name="Bookkeeping" "="" data-category="Bookkeeping,Financial" data-category-position="1" data-bookkeeping-position="5" data-financial-position="4" data-managerial-position="" data-overall-position="4" data-topic-slug="bookkeeping">
 <a href="https://www.accountingcoach.com/bookkeeping/outline" class="" title="Bookkeeping">
 <span class="order-number">04.</span> Bookkeeping <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Accounting Equation" "="" data-category="Bookkeeping,Financial" data-category-position="2" data-bookkeeping-position="5" data-financial-position="5" data-managerial-position="" data-overall-position="5" data-topic-slug="accounting-equation">
+<li data-display="true" class="" data-name="Accounting Equation" "="" data-category="Bookkeeping,Financial" data-category-position="2" data-bookkeeping-position="6" data-financial-position="5" data-managerial-position="" data-overall-position="5" data-topic-slug="accounting-equation">
 <a href="https://www.accountingcoach.com/accounting-equation/outline" class="" title="Accounting Equation">
 <span class="order-number">05.</span> Accounting Equation <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Accounting Principles" "="" data-category="Financial,Bookkeeping" data-category-position="3" data-bookkeeping-position="6" data-financial-position="6" data-managerial-position="" data-overall-position="6" data-topic-slug="accounting-principles">
+<li data-display="true" class="" data-name="Accounting Principles" "="" data-category="Financial,Bookkeeping" data-category-position="3" data-bookkeeping-position="7" data-financial-position="6" data-managerial-position="" data-overall-position="6" data-topic-slug="accounting-principles">
 <a href="https://www.accountingcoach.com/accounting-principles/outline" class="" title="Accounting Principles">
 <span class="order-number">06.</span> Accounting Principles <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Financial Accounting" "="" data-category="Financial,Bookkeeping" data-category-position="4" data-bookkeeping-position="7" data-financial-position="7" data-managerial-position="" data-overall-position="7" data-topic-slug="financial-accounting">
+<li data-display="true" class="" data-name="Financial Accounting" "="" data-category="Financial,Bookkeeping" data-category-position="4" data-bookkeeping-position="8" data-financial-position="7" data-managerial-position="" data-overall-position="7" data-topic-slug="financial-accounting">
 <a href="https://www.accountingcoach.com/financial-accounting/outline" class="" title="Financial Accounting">
 <span class="order-number">07.</span> Financial Accounting <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Adjusting Entries" "="" data-category="Financial,Bookkeeping" data-category-position="5" data-bookkeeping-position="8" data-financial-position="8" data-managerial-position="" data-overall-position="8" data-topic-slug="adjusting-entries">
+<li data-display="true" class="" data-name="Adjusting Entries" "="" data-category="Financial,Bookkeeping" data-category-position="5" data-bookkeeping-position="9" data-financial-position="8" data-managerial-position="" data-overall-position="8" data-topic-slug="adjusting-entries">
 <a href="https://www.accountingcoach.com/adjusting-entries/outline" class="" title="Adjusting Entries">
 <span class="order-number">08.</span> Adjusting Entries <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Financial Statements" "="" data-category="Bookkeeping,Financial" data-category-position="10" data-bookkeeping-position="9" data-financial-position="9" data-managerial-position="" data-overall-position="9" data-topic-slug="financial-statements">
+<li data-display="true" class="" data-name="Financial Statements" "="" data-category="Bookkeeping,Financial" data-category-position="10" data-bookkeeping-position="10" data-financial-position="9" data-managerial-position="" data-overall-position="9" data-topic-slug="financial-statements">
 <a href="https://www.accountingcoach.com/financial-statements/outline" class="" title="Financial Statements">
 <span class="order-number">09.</span> Financial Statements <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Balance Sheet" "="" data-category="Bookkeeping,Financial" data-category-position="1" data-bookkeeping-position="10" data-financial-position="10" data-managerial-position="" data-overall-position="10" data-topic-slug="balance-sheet">
+<li data-display="true" class="" data-name="Balance Sheet" "="" data-category="Bookkeeping,Financial" data-category-position="1" data-bookkeeping-position="11" data-financial-position="10" data-managerial-position="" data-overall-position="10" data-topic-slug="balance-sheet">
 <a href="https://www.accountingcoach.com/balance-sheet/outline" class="" title="Balance Sheet">
 <span class="order-number">10.</span> Balance Sheet <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Income Statement" "="" data-category="Bookkeeping,Financial" data-category-position="6" data-bookkeeping-position="11" data-financial-position="11" data-managerial-position="" data-overall-position="11" data-topic-slug="income-statement">
+<li data-display="true" class="" data-name="Working Capital and Liquidity" "="" data-category="Bookkeeping,Financial" data-category-position="" data-bookkeeping-position="12" data-financial-position="11" data-managerial-position="" data-overall-position="11" data-topic-slug="working-capital">
+<a href="https://www.accountingcoach.com/working-capital/outline" class="" title="Working Capital and Liquidity">
+<span class="order-number">11.</span> Working Capital and Liquidity <em class="empty"></em>
+</a>
+</li>
+<li data-display="true" class="" data-name="Income Statement" "="" data-category="Bookkeeping,Financial" data-category-position="6" data-bookkeeping-position="13" data-financial-position="12" data-managerial-position="" data-overall-position="12" data-topic-slug="income-statement">
 <a href="https://www.accountingcoach.com/income-statement/outline" class="" title="Income Statement">
-<span class="order-number">11.</span> Income Statement <em class="empty"></em>
+<span class="order-number">12.</span> Income Statement <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Cash Flow Statement" "="" data-category="Financial" data-category-position="3" data-bookkeeping-position="" data-financial-position="12" data-managerial-position="" data-overall-position="12" data-topic-slug="cash-flow-statement">
+<li data-display="true" class="" data-name="Cash Flow Statement" "="" data-category="Financial" data-category-position="3" data-bookkeeping-position="1" data-financial-position="13" data-managerial-position="" data-overall-position="13" data-topic-slug="cash-flow-statement">
 <a href="https://www.accountingcoach.com/cash-flow-statement/outline" class="" title="Cash Flow Statement">
-<span class="order-number">12.</span> Cash Flow Statement <em class="empty"></em>
+<span class="order-number">13.</span> Cash Flow Statement <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Financial Ratios" "="" data-category="Financial,Managerial" data-category-position="6" data-bookkeeping-position="" data-financial-position="13" data-managerial-position="1" data-overall-position="13" data-topic-slug="financial-ratios">
+<li data-display="true" class="" data-name="Financial Ratios" "="" data-category="Managerial" data-category-position="6" data-bookkeeping-position="" data-financial-position="13" data-managerial-position="1" data-overall-position="14" data-topic-slug="financial-ratios">
 <a href="https://www.accountingcoach.com/financial-ratios/outline" class="" title="Financial Ratios">
-<span class="order-number">13.</span> Financial Ratios <em class="empty"></em>
+<span class="order-number">14.</span> Financial Ratios <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Bank Reconciliation" "="" data-category="Financial,Bookkeeping" data-category-position="7" data-bookkeeping-position="12" data-financial-position="14" data-managerial-position="" data-overall-position="14" data-topic-slug="bank-reconciliation">
+<li data-display="true" class="" data-name="Bank Reconciliation" "="" data-category="Bookkeeping,Financial" data-category-position="7" data-bookkeeping-position="14" data-financial-position="14" data-managerial-position="" data-overall-position="15" data-topic-slug="bank-reconciliation">
 <a href="https://www.accountingcoach.com/bank-reconciliation/outline" class="" title="Bank Reconciliation">
-<span class="order-number">14.</span> Bank Reconciliation <em class="empty"></em>
+<span class="order-number">15.</span> Bank Reconciliation <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Accounts Receivable and Bad Debts Expense" "="" data-category="Financial,Bookkeeping" data-category-position="8" data-bookkeeping-position="13" data-financial-position="15" data-managerial-position="" data-overall-position="15" data-topic-slug="accounts-receivable-and-bad-debts-expense">
+<li data-display="true" class="" data-name="Accounts Receivable and Bad Debts Expense" "="" data-category="Bookkeeping,Financial" data-category-position="8" data-bookkeeping-position="15" data-financial-position="15" data-managerial-position="" data-overall-position="16" data-topic-slug="accounts-receivable-and-bad-debts-expense">
 <a href="https://www.accountingcoach.com/accounts-receivable-and-bad-debts-expense/outline" class="" title="Accounts Receivable and Bad Debts Expense">
-<span class="order-number">15.</span> Accounts Receivable and Bad<br>Debts Expense <em class="empty"></em>
+<span class="order-number">16.</span> Accounts Receivable and Bad<br>Debts Expense <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Accounts Payable" "="" data-category="Financial,Bookkeeping" data-category-position="9" data-bookkeeping-position="14" data-financial-position="16" data-managerial-position="1" data-overall-position="16" data-topic-slug="accounts-payable">
+<li data-display="true" class="" data-name="Accounts Payable" "="" data-category="Financial,Bookkeeping" data-category-position="9" data-bookkeeping-position="16" data-financial-position="16" data-managerial-position="1" data-overall-position="17" data-topic-slug="accounts-payable">
 <a href="https://www.accountingcoach.com/accounts-payable/outline" class="" title="Accounts Payable">
-<span class="order-number">16.</span> Accounts Payable <em class="empty"></em>
+<span class="order-number">17.</span> Accounts Payable <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Inventory and Cost of Goods Sold" "="" data-category="Financial,Bookkeeping" data-category-position="10" data-bookkeeping-position="15" data-financial-position="17" data-managerial-position="" data-overall-position="17" data-topic-slug="inventory-and-cost-of-goods-sold">
+<li data-display="true" class="" data-name="Inventory and Cost of Goods Sold" "="" data-category="Financial,Bookkeeping" data-category-position="10" data-bookkeeping-position="17" data-financial-position="17" data-managerial-position="" data-overall-position="18" data-topic-slug="inventory-and-cost-of-goods-sold">
 <a href="https://www.accountingcoach.com/inventory-and-cost-of-goods-sold/outline" class="" title="Inventory and Cost of Goods Sold">
-<span class="order-number">17.</span> Inventory and Cost of Goods Sold <em class="empty"></em>
+<span class="order-number">18.</span> Inventory and Cost of Goods Sold <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Depreciation" "="" data-category="Financial,Bookkeeping" data-category-position="12" data-bookkeeping-position="16" data-financial-position="18" data-managerial-position="" data-overall-position="19" data-topic-slug="depreciation">
+<li data-display="true" class="" data-name="Depreciation" "="" data-category="Bookkeeping,Financial" data-category-position="12" data-bookkeeping-position="18" data-financial-position="18" data-managerial-position="" data-overall-position="19" data-topic-slug="depreciation">
 <a href="https://www.accountingcoach.com/depreciation/outline" class="" title="Depreciation">
-<span class="order-number">18.</span> Depreciation <em class="empty"></em>
+<span class="order-number">19.</span> Depreciation <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Payroll Accounting" "="" data-category="Financial,Bookkeeping" data-category-position="13" data-bookkeeping-position="17" data-financial-position="19" data-managerial-position="" data-overall-position="20" data-topic-slug="payroll-accounting">
+<li data-display="true" class="" data-name="Payroll Accounting" "="" data-category="Financial,Bookkeeping" data-category-position="13" data-bookkeeping-position="19" data-financial-position="19" data-managerial-position="" data-overall-position="20" data-topic-slug="payroll-accounting">
 <a href="https://www.accountingcoach.com/payroll-accounting/outline" class="" title="Payroll Accounting">
-<span class="order-number">19.</span> Payroll Accounting <em class="empty"></em>
+<span class="order-number">20.</span> Payroll Accounting <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Bonds Payable" "="" data-category="Financial" data-category-position="14" data-bookkeeping-position="" data-financial-position="20" data-managerial-position="" data-overall-position="21" data-topic-slug="bonds-payable">
 <a href="https://www.accountingcoach.com/bonds-payable/outline" class="" title="Bonds Payable">
-<span class="order-number">20.</span> Bonds Payable <em class="empty"></em>
+<span class="order-number">21.</span> Bonds Payable <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Stockholders" equity'"="" data-category="Financial,Bookkeeping" data-category-position="15" data-bookkeeping-position="18" data-financial-position="21" data-managerial-position="" data-overall-position="22" data-topic-slug="stockholders-equity">
+<li data-display="true" class="" data-name="Stockholders" equity'"="" data-category="Financial,Bookkeeping" data-category-position="15" data-bookkeeping-position="20" data-financial-position="21" data-managerial-position="" data-overall-position="22" data-topic-slug="stockholders-equity">
 <a href="https://www.accountingcoach.com/stockholders-equity/outline" class="" title="Stockholders' Equity">
-<span class="order-number">21.</span> Stockholders' Equity <em class="empty"></em>
+<span class="order-number">22.</span> Stockholders' Equity <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Present Value of a Single Amount" "="" data-category="Financial,Managerial" data-category-position="16" data-bookkeeping-position="" data-financial-position="23" data-managerial-position="2" data-overall-position="23" data-topic-slug="present-value-of-a-single-amount">
 <a href="https://www.accountingcoach.com/present-value-of-a-single-amount/outline" class="" title="Present Value of a Single Amount">
-<span class="order-number">22.</span> Present Value of a Single Amount <em class="empty"></em>
+<span class="order-number">23.</span> Present Value of a Single Amount <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Present Value of an Ordinary Annuity" "="" data-category="Financial,Managerial" data-category-position="17" data-bookkeeping-position="" data-financial-position="22" data-managerial-position="3" data-overall-position="24" data-topic-slug="present-value-of-an-ordinary-annuity">
 <a href="https://www.accountingcoach.com/present-value-of-an-ordinary-annuity/outline" class="" title="Present Value of an Ordinary Annuity">
-<span class="order-number">23.</span> Present Value of an Ordinary Annuity <em class="empty"></em>
+<span class="order-number">24.</span> Present Value of an Ordinary Annuity <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Future Value of a Single Amount" "="" data-category="Managerial" data-category-position="18" data-bookkeeping-position="" data-financial-position="" data-managerial-position="4" data-overall-position="25" data-topic-slug="future-value-of-a-single-amount">
 <a href="https://www.accountingcoach.com/future-value-of-a-single-amount/outline" class="" title="Future Value of a Single Amount">
-<span class="order-number">24.</span> Future Value of a Single Amount <em class="empty"></em>
+<span class="order-number">25.</span> Future Value of a Single Amount <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Nonprofit Accounting" "="" data-category="Financial,Bookkeeping" data-category-position="19" data-bookkeeping-position="19" data-financial-position="24" data-managerial-position="" data-overall-position="26" data-topic-slug="nonprofit-accounting">
+<li data-display="true" class="" data-name="Nonprofit Accounting" "="" data-category="Financial,Bookkeeping" data-category-position="19" data-bookkeeping-position="21" data-financial-position="24" data-managerial-position="" data-overall-position="26" data-topic-slug="nonprofit-accounting">
 <a href="https://www.accountingcoach.com/nonprofit-accounting/outline" class="" title="Nonprofit Accounting">
-<span class="order-number">25.</span> Nonprofit Accounting <em class="empty"></em>
+<span class="order-number">26.</span> Nonprofit Accounting <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Break-even Point" "="" data-category="Managerial" data-category-position="1" data-bookkeeping-position="" data-financial-position="" data-managerial-position="5" data-overall-position="27" data-topic-slug="break-even-point">
 <a href="https://www.accountingcoach.com/break-even-point/outline" class="" title="Break-even Point">
-<span class="order-number">26.</span> Break-even Point <em class="empty"></em>
+<span class="order-number">27.</span> Break-even Point <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Improving Profits" "="" data-category="Managerial" data-category-position="2" data-bookkeeping-position="" data-financial-position="" data-managerial-position="6" data-overall-position="28" data-topic-slug="improving-profits">
 <a href="https://www.accountingcoach.com/improving-profits/outline" class="" title="Improving Profits">
-<span class="order-number">27.</span> Improving Profits <em class="empty"></em>
+<span class="order-number">28.</span> Improving Profits <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Evaluating Business Investments" "="" data-category="Managerial" data-category-position="3" data-bookkeeping-position="" data-financial-position="" data-managerial-position="7" data-overall-position="29" data-topic-slug="evaluating-business-investments">
 <a href="https://www.accountingcoach.com/evaluating-business-investments/outline" class="" title="Evaluating Business Investments">
-<span class="order-number">28.</span> Evaluating Business Investments <em class="empty"></em>
+<span class="order-number">29.</span> Evaluating Business Investments <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Manufacturing Overhead" "="" data-category="Managerial" data-category-position="4" data-bookkeeping-position="" data-financial-position="" data-managerial-position="8" data-overall-position="30" data-topic-slug="manufacturing-overhead">
 <a href="https://www.accountingcoach.com/manufacturing-overhead/outline" class="" title="Manufacturing Overhead">
-<span class="order-number">29.</span> Manufacturing Overhead <em class="empty"></em>
+<span class="order-number">30.</span> Manufacturing Overhead <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Nonmanufacturing Overhead" "="" data-category="Managerial" data-category-position="5" data-bookkeeping-position="" data-financial-position="" data-managerial-position="9" data-overall-position="31" data-topic-slug="nonmanufacturing-overhead">
 <a href="https://www.accountingcoach.com/nonmanufacturing-overhead/outline" class="" title="Nonmanufacturing Overhead">
-<span class="order-number">30.</span> Nonmanufacturing Overhead <em class="empty"></em>
+<span class="order-number">31.</span> Nonmanufacturing Overhead <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Activity Based Costing" "="" data-category="Managerial" data-category-position="6" data-bookkeeping-position="" data-financial-position="" data-managerial-position="10" data-overall-position="32" data-topic-slug="activity-based-costing">
 <a href="https://www.accountingcoach.com/activity-based-costing/outline" class="" title="Activity Based Costing">
-<span class="order-number">31.</span> Activity Based Costing <em class="empty"></em>
+<span class="order-number">32.</span> Activity Based Costing <em class="empty"></em>
 </a>
 </li>
 <li data-display="true" class="" data-name="Standard Costing" "="" data-category="Managerial" data-category-position="7" data-bookkeeping-position="" data-financial-position="" data-managerial-position="11" data-overall-position="33" data-topic-slug="standard-costing">
 <a href="https://www.accountingcoach.com/standard-costing/outline" class="" title="Standard Costing">
-<span class="order-number">32.</span> Standard Costing <em class="empty"></em>
+<span class="order-number">33.</span> Standard Costing <em class="empty"></em>
 </a>
 </li>
-<li data-display="true" class="" data-name="Accounting Careers" "="" data-category="Financial,Bookkeeping" data-category-position="20" data-bookkeeping-position="20" data-financial-position="25" data-managerial-position="" data-overall-position="34" data-topic-slug="accounting-careers">
+<li data-display="true" class="" data-name="Accounting Careers" "="" data-category="Financial,Bookkeeping" data-category-position="20" data-bookkeeping-position="22" data-financial-position="25" data-managerial-position="" data-overall-position="34" data-topic-slug="accounting-careers">
 <a href="https://www.accountingcoach.com/careers" class="" title="Accounting Careers">
-<span class="order-number">33.</span> Accounting Careers <em class="empty"></em>
+<span class="order-number">34.</span> Accounting Careers <em class="empty"></em>
 </a>
 </li>
 </ol>
@@ -656,20 +727,6 @@ Take the Tour
 </div>
 </div>
 <div class="clear"></div>
-<div class="fc-exit" id="free-guide" style="display:none;">
-<div id="fc-exit-inner">
-<h2>Free Guide to<br>Bookkeeping Concepts</h2>
-<form method="post" id="newsletter-signup-form" class="clearfix">
-<img src="/wp-content/themes/accounting-coach/images/bookkeeping-popup.png" alt="Accounting Bookkeeping Concepts PDF Cover" width="327" height="251">
-<p>Receive our free 18-page <strong>Guide to Bookkeeping Concepts</strong> (PDF) when you subscribe to our free newsletter.</p>
-<input type="email" name="nl-email" id="nl-email" placeholder="Enter your email">
-<input type="submit" id="nl-submit" value="Get your Free Guide" class="button pro"><br>
-<span><br> Subscribers</span>
-
-</form>
-<a href="#" class="close" title="Close"></a>
-</div>
-</div>
 <div id="wistia-lightbox-1" class="wistia-lightbox" style="display:none;" data-video-id="8ustmy2ro9">
 <script>var IE6 = false;</script>
 <!--[if IE 6]>
@@ -678,7 +735,7 @@ Take the Tour
 			</script>
 		<![endif]-->
 <script src="https://www.accountingcoach.com/wp-content/themes/accounting-coach/js/retina.js?v=1.0"></script>
-<script src="https://www.accountingcoach.com/wp-content/themes/accounting-coach/js/all.js?v1.37"></script>
+<script src="https://www.accountingcoach.com/wp-content/themes/accounting-coach/js/all.js?v=1.4.0"></script>
 <!--[if IE 7]>
 			<script src="https://www.accountingcoach.com/wp-content/themes/accounting-coach/js/ie7.js"></script>
 		<![endif]-->
