@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the oppo.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022050943id_/https%3A//www.oppo.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oppo.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430130152id_/https%3A//www.oppo.com/en/privacy) for the most accurate reproduction.*
 
 # User Privacy Policy of OPPO | OPPO Global
+
+This website uses Cookies to improve user experience. By continuing to browse or use this site, you are agreeing to our use of cookies. [Privacy Policy](https://www.oppo.com/en/privacy/).
 
 **Privacy Policy**
 
