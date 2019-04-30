@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketchum.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115013750id_/https%3A//www.ketchum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketchum.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430153355id_/https%3A//www.ketchum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ketchum
 
