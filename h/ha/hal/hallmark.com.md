@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallmark.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105170419id_/https%3A//explore.hallmark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmark.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430182237id_/https%3A//explore.hallmark.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | Hallmark
 
