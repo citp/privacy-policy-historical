@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sketchmob.com privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228043345id_/http%3A//sketchmob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchmob.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430094636id_/https%3A//sketchmob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sketchmob
 
