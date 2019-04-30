@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831195019id_/https%3A//www.endsleigh.co.uk/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430110117id_/https%3A//www.endsleigh.co.uk/site-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Endsleigh
+# Privacy Policy | Endsleigh
 
 This privacy policy explains how Endsleigh collects, processes and shares your personal information. It also explains your data protection rights.
 
@@ -22,35 +22,35 @@ This policy does not cover how organisations outside of the Endsleigh group of c
 
 We collect and process personal information that you provide via our website, via price comparison websites or when you contact us, including some information we collect automatically. We also collect information about you from other sources, including information you have voluntarily made public.
 
-### Information you give to us
+## Information you give to us 
 
 We collect and process personal information that you give us when requesting a quotation, when you buy from us, when you advise us of a change or when making a claim.
 
 The personal information we collect includes:
 
-  * your personal details  
+  * your personal details   
 e.g. your name, date of birth, occupation, email and telephone numbers
-  * details of what you want to insure  
+  * details of what you want to insure   
 e.g. vehicle, property, your planned travel
-  * who you want to insure  
+  * who you want to insure   
 e.g. the identity and personal details of other people such as additional drivers, joint policyholders or others travelling with you
   * your insurance claims and credit history
   * bank account or credit/debit card details and payment preferences
-  * higher education details  (personal insurance only)  
+  * higher education details (personal insurance only)   
 e.g. student or graduate status, course and place of study
   * membership of professional associations we have a relationship with (personal insurance only)
   * tenant types, guarantor details and rental income (landlords insurance only)
   * sensitive personal information such as criminal convictions, health, union membership and time resident in the UK
-  * online account details  
+  * online account details   
 e.g. username, password, IP address and usage history
 
 
 
-### Recording and monitoring communications
+## Recording and monitoring communications
 
 We routinely record and monitor calls, emails and other communications to improve our service and for security and regulatory purposes.
 
-### Cookies, web tracking and similar technologies
+## Cookies, web tracking and similar technologies
 
 When you use our website Endsleigh Insurance Services Limited automatically collects information such as your IP address (the unique address identifying your device from all the others on the internet), what type of device you are using (e.g. a tablet, phone or PC) and cookies from your device.
 
@@ -58,7 +58,7 @@ Our website contains web technologies that collect information from your movemen
 
 Cookies are used to compile anonymous website usage statistics, for fraud prevention and to measure the effectiveness of our online advertising campaigns.
 
-For more information about cookies and web tracking please read our [Cookie policy](https://web.archive.org/site-info/cookie-policy/ "Cookie policy").
+For more information about cookies and web tracking please read our [Cookie policy](https://web.archive.org/site-info/cookie-policy/).
 
 ## Your obligations
 
@@ -106,7 +106,7 @@ Please note: We do not share your information for marketing purposes with anyone
 
 ### Credit checks for insurance quotations
 
-When you ask us for an insurance quotation, we will ask a credit reference agency to provide your credit score, which you too can obtain from any credit reference agency. The information we receive as a result is based on public data including the edited electoral roll, county court judgements, Scottish decrees and bankruptcy registers. This quotation search is recorded by the credit reference agency but does not affect your credit score.
+When you ask us for an insurance quotation, we will ask a credit reference agency to provide your credit score, which you too can obtain from any credit reference agency. The information we receive as a result is based on public data including the edited electoral roll, county court judgements, Scottish decrees and bankruptcy registers. This quotation search is recorded by the credit reference agency but does not affect your credit score. You can find out further information about how the Credit Agencies collect and use personal data at [www.callcredit.co.uk/crain](http://www.callcredit.co.uk/crain).
 
 When you ask us for an insurance quotation we will carry out anti-fraud checks to validate your application. We will search third party fraud prevention and detection databases, and if we suspect fraud, Endsleigh or insurers can decline to offer you insurance.
 
@@ -118,7 +118,7 @@ Endsleigh maintains relationships with education related organisations and insti
 
 ### Fraudulent claim detection and prevention
 
-Insurers pass information to the Claims and Underwriting Exchange Register, run by Insurance Database Services Ltd (IDS Ltd), and the Motor Insurance Anti-Fraud and Theft Register, run by the Association of British Insurers (ABI). The aim is to help us check information provided and also to prevent fraudulent claims. When we deal with your request for insurance, we may search these registers.
+Insurers pass information to the Claims and Underwriting Exchange Register, run by Motor Insurers' Bureau (MIB) and the Motor Insurance Anti-Fraud and Theft Register, run by the Association of British Insurers (ABI). The aim is to help us check information provided and also to prevent fraudulent claims. When we deal with your request for insurance, we may search these registers.
 
 Under the conditions of your insurance policy, you must tell us about any incident (such as an accident or theft) which may or may not give rise to a claim. When you tell us about an incident, we will pass information relating to it to the registers.
 
@@ -145,20 +145,21 @@ Endsleigh and the insurer or other organisations may access and use this informa
 
 The information recorded by fraud prevention agencies may be stored in other countries and used by the Insurer and other organisations from these countries.
 
-Please contact us by email to [policy.validation@endsleigh.co.uk](mailto:policy.validation@endsleigh.co.uk) if you want to receive details of the relevant fraud prevention agencies. 
+Please contact us by email to [policy.validation@endsleigh.co.uk](mailto:policy.validation@endsleigh.co.uk) if you want to receive details of the relevant fraud prevention agencies.
 
 ### Motor Insurance Database
 
 Information relating to your motor insurance policy will be added to the Motor Insurance Database (MID) managed by the Motor Insurer’s Bureau (MIB). MID and the data stored on it may be used by certain statutory or authorised bodies including the police, the DVLA, the DVANI, the Insurance Fraud Bureau and other bodies permitted by law for purposes not limited to but including:
 
-  * A) Electronic licensing
-  * B) Continuous insurance enforcement
-  * C) Law enforcement (prevention, detection, apprehension and or prosecution of offenders)
-  * D) The provision of government services and or other services aimed at reducing the level and incidence of uninsured driving.
+A) Electronic licensing
 
+B) Continuous insurance enforcement
 
+C) Law enforcement (prevention, detection, apprehension and or prosecution of offenders)
 
-If you are involved in a road traffic accident (either in the UK, EEA or certain other territories), insurers and or the MIB may search the MID to obtain relevant information. Persons (including his or her appointed representatives) pursuing a claim in respect of a road traffic accident (including citizens of other countries) may also obtain relevant information which is held on the MID. 
+D) The provision of government services and or other services aimed at reducing the level and incidence of uninsured driving.
+
+If you are involved in a road traffic accident (either in the UK, EEA or certain other territories), insurers and or the MIB may search the MID to obtain relevant information. Persons (including his or her appointed representatives) pursuing a claim in respect of a road traffic accident (including citizens of other countries) may also obtain relevant information which is held on the MID.
 
 It is vital that the MID holds your correct registration number. If it is incorrectly shown on the MID you are at risk of having your vehicle seized by the police. You can check that your correct registration number details are shown on the MID at [www.askmid.com](http://www.askmid.com/). You can find out more about this from your insurer, or at [www.mib.org.uk](http://www.mib.org.uk/).
 
@@ -200,7 +201,7 @@ Under data protection legislation you have the right to:
 
 
 
-If you have any concerns regarding our processing of your personal information or your data protection rights, please [contact us](https://www.endsleigh.co.uk/contact-us/). If you have raised a concern with us and it has not been resolved to your satisfaction, you have the right to report your concern to the [Information Commissioner's Office](http://www.ico.org.uk/), Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF. The Information Commissioner’s Office cannot award compensation.
+If you have any concerns regarding our processing of your personal information or your data protection rights, please [contact us](https://web.archive.org/contact-us/). If you have raised a concern with us and it has not been resolved to your satisfaction, you have the right to report your concern to the [Information Commissioner's Office](http://www.ico.org.uk/), Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF. The Information Commissioner’s Office cannot award compensation.
 
 ### Automated decisions and your customer profile
 
@@ -210,14 +211,14 @@ We keep your customer profile which includes information about you that you did 
 
 To exercise your data protection rights or to find out more about how we use your information please contact us:
 
-by email to: [privacy@endsleigh.co.uk](mailto:privacy@endsleigh.co.uk)
+By email to: [privacy@endsleigh.co.uk](mailto:privacy@endsleigh.co.uk)
 
 or in writing to:
 
-Data Protection Officer  
-Endsleigh Insurance Services Limited  
-Shurdington Road  
-Cheltenham  
+Data Protection Officer   
+Endsleigh Insurance Services Limited   
+Shurdington Road   
+Cheltenham   
 GL51 4UE
 
 Requests must be made by the data subject (the person the data relates to), or by someone who we have previously agreed may act on their behalf. We have the right to refuse requests which are excessive, unfounded or repetitive, or where we are unable to verify your identity. We may also ask you to provide additional information or documentation if we are unable to verify your identity.
