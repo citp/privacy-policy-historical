@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overwatchtracker.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228135501id_/https%3A//thetrackernetwork.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overwatchtracker.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430190335id_/https%3A//thetrackernetwork.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Tracker Network Tracker Network Privacy Policy
 
@@ -91,7 +91,7 @@ The Company Service are not directed to people under the age of thirteen (13). I
     3. Notwithstanding the other provisions of this Section 11, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. 
   12. **Who can I ask if I have additional questions?**
 
-For additional inquiries about the privacy of your information, you can contact us by emailing us at [[email protected]acker.network](https://web.archive.org/cdn-cgi/l/email-protection#b3c0c6c3c3dcc1c7f3c7c1d2d0d8d6c19dddd6c7c4dcc1d8)
+For additional inquiries about the privacy of your information, you can contact us by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a494f4a4a55484e7a4e485b59515f4814545f4e4d554851)
 
 
 
