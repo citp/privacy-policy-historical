@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kayak.sg privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221141319id_/https%3A//www.kayak.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.sg privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430132123id_/https%3A//www.kayak.sg/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KAYAK
 
-This policy describes KAYAK’s practices regarding personally identifiable information and data ('personal information'). This policy applies to our websites, applications, email and text messages, and social media accounts (the 'Platforms'). When you use the Platforms, you agree to the terms in this policy.
+This policy describes KAYAK's practices regarding personally identifiable information and data ('personal information'). This policy applies to our websites, applications, email and text messages, and social media accounts (the 'Platforms'). When you use the Platforms, you agree to the terms in this policy.
 
 ###  The categories of personal information we collect 
 
@@ -28,7 +28,7 @@ If you sign up for the synchronisation of your emails to our Trips service, you 
 
 Personal information we collect passively:  We also collect your personal information passively. For example, we collect information about you over time and across different websites when you visit this Platform. We also use tracking tools like cookies and beacons. To learn more about these tools and how to control them, click here. 
 
-Platform features may make use of your device attributes and settings that will allow us to determine your physical location. Such technologies may include IP address mapping, Wi-Fi, GPS signals, cell tower positioning or other technologies. We use this information to enhance and personalise your experience and provide you with offers and services that may be of interest to you. For example, we may help you find your closest hotel or send you messages that may be of interest to you based on your current location. KAYAK does not have control over your device settings, but we do recommend enabling location services on your device so you can take advantage of the location-based features and functionality offered. 
+Platform features may make use of your device attributes and settings that will allow us to determine your physical location. Such technologies may include IP address mapping, WiFi, GPS signals, cell tower positioning or other technologies. We use this information to enhance and personalize your experience and provide you with offers and services that may be of interest to you. For example, we may help you find your closest hotel or send you messages that may be of interest to you based on your current location. KAYAK does not have control over your device settings, but we do recommend enabling location services on your device so you can take advantage of the location-based features and functionality offered. 
 
 Personal information we receive from third parties:  We collect your personal information from third parties. This can include when you sign in using a third-party platform, such as Facebook. In addition, we also integrate third-party software (e.g., Google’s Invisible CAPTCHA) that collects information about users for security reasons. 
 
@@ -94,7 +94,7 @@ We may also share anonymous aggregated usage information with others.
 
 Our servers and data centres are located in the U.S and in Switzerland, and our service providers may be located there and in other countries. By providing us with personal information, you agree that your personal information may be transferred to and stored in these countries. These countries may have different and/or less stringent privacy/data protection and data security rules than those of your own country. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement in those countries, according to laws in those countries. Subject to the applicable laws in such other countries, we will provide the necessary safeguards to maintain protection of your personal information (e.g., by obtaining from the data recipients contractual commitments based on the EU model clauses).
 
-KAYAK has a security program intended to keep the personal information stored in our systems protected from unauthorised access and misuse. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the internet. Personal information may only be accessed by persons within our organisations or our third parties to carry out the uses indicated in this Privacy Policy. In addition, information collected by Google’s Invisible CAPTCHA is held in accordance with the Google Privacy Policy.
+{0} has a security program intended to keep the personal information stored in our systems protected from unauthorised access and misuse. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the internet. Personal information may only be accessed by persons within our organisations or our third parties to carry out the uses indicated in this Privacy Policy. In addition, information collected by Google’s Invisible CAPTCHA is held in accordance with the Google Privacy Policy.
 
 ###  Retention periods 
 
@@ -104,7 +104,7 @@ We will also retain your personal information as necessary to comply with our le
 
 ###  Cookies and tracking tools 
 
-KAYAK uses cookies and tracking tools. To learn more, including how we respond to 'do not track' signals, click here. 
+KAYAK uses cookies and tracking tools. To learn more, including how we respond to “do not track” signals, click here. 
 
 ###  Other websites 
 
@@ -120,7 +120,7 @@ We may modify this Privacy Policy at any time and without prior notice. We will 
 
 ###  Your rights with respect to personal information 
 
-Before contacting KAYAK for any request you may have, note that you can manage your account settings in the 'My Account' page on KAYAK. You can also delete your account by clicking [here](https://web.archive.org/zap) at any time. Your rights: 
+Before contacting KAYAK for any request you may have, note that you can manage your account settings in the 'My Account' page on KAYAK. You can also delete your account by clicking [here](https://web.archive.org/zap) at any time. Your rights: 
 
   * »  Access:  You are entitled—at any time—to obtain information about your personal information that we store, in accordance with applicable law and without any fee. However, in exceptional cases we ask you to pay a reasonable fee before we provide the information if permitted by applicable law. 
   * »  Rectification:  You may request that we rectify any of your personal information that is incomplete or incorrect. 
@@ -132,7 +132,7 @@ Before contacting KAYAK for any request you may have, note that you can manage y
 
 
 
-We may request proof of your identity before acting upon any request. We may not be able to allow you to access certain personal information in some cases (e.g., if your personal information is connected with personal information of other persons or for legal reasons). In such cases, we will provide you with an explanation why you cannot obtain this information. We may also deny your request for deletion or rectification of your personal information due to statutory provisions, especially those affecting KAYAK’s accounting, processing of claims, and mandatory data retention, which may prohibit deletion or anonymisation.
+We may request proof of your identity before acting upon any request. We may not be able to allow you to access certain personal information in some cases (e.g., if your personal information is connected with personal information of other persons or for legal reasons). In such cases, we will provide you with an explanation of why you cannot obtain this information. We may also deny your request for deletion or rectification of your personal information due to statutory provisions, especially those affecting KAYAK's accounting, processing of claims, and mandatory data retention, which may prohibit deletion or anonymisation.
 
 ###  How to contact us or how to lodge a complaint 
 
