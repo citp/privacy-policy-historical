@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the photonicsonline.com privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628045736id_/https%3A//www.photonicsonline.com/static/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photonicsonline.com privacy policy that was archived on 2019-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190430091714id_/https%3A//www.photonicsonline.com/static/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
@@ -38,17 +38,17 @@
     ga('linker:autoLink', ['cart.lifesciencetraininginstitute.com', 'www.lifesciencetraininginstitute.com']);
 
     
-    ga('send', 'pageview', '/static/Privacy?documenttype=&hascompany=N&hasauthor=N&vm_ts=636657442567875533');
+    ga('send', 'pageview', '/static/Privacy?documenttype=&hascompany=N&hasauthor=N');
 </script>
 <!-- End Google Analytics -->
 
-    <link href="/wwwroot/css/lib.min.css?v=21586" rel="stylesheet">
+    <link href="/wwwroot/css/lib.min.css?v=21644" rel="stylesheet">
 
-    <link href="/wwwroot/css/accents/default.min.css?v=21586" rel="stylesheet">
+    <link href="/wwwroot/css/accents/default.min.css?v=21644" rel="stylesheet">
 
 
     <!--[if lt IE 9]>
-        <script src ="/wwwroot/js/ie/ie.min.js?v=21586"></script>
+        <script src ="/wwwroot/js/ie/ie.min.js?v=21644"></script>
 
     <![endif]-->
 
@@ -64,25 +64,17 @@
         var googletag = googletag || {};
         googletag.cmd = googletag.cmd || [];
     </script>
-
-    <!--[if IE 8]><script src="https://www.google.com/recaptcha/api.js?fallback=true&onload=myCallBack&render=explicit"></script><![endif]-->
-
-    <script type="text/javascript">
+    
+    <script>
+        // there is multiple captchas on sites pages 
+        // this will interate from all of them and create a call back function
         var myCallBack = function () {
-            // if there is no captcha on the page we will skip sending the request to validate it.
-            // or we will get console error can not find captcha by id
-            if ($("#reCaptcha1").length == 0) return;
-            // Renders the HTML element with id 'example1' as a reCAPTCHA widget.
-            // The id of the reCAPTCHA widget is assigned to 'widgetId1'.
-            grecaptcha.render('reCaptcha1',
-                {
-                    'sitekey': __reCaptchaKey__,
-                    'theme': 'light'
-                });
+            var captchas = document.getElementsByClassName("g-recaptcha");
+            for (var i = 0; i < captchas.length; i++) {
+                grecaptcha.render(captchas[i], { 'sitekey': __reCaptchaKey__ });
+            }
         };
     </script>
-
-
         <script>
             dataLayer = [];
         </script>
@@ -105,20 +97,13 @@
 
     <script type="text/template" id="login-template">
     <% if(!userLoggedIn) { %>
-    <a href="<%= signInUrl %>">Sign in</a> or
-    <a href="<%= signUpUrl %>">Sign-up</a>
+    <a href="<%= signInUrl %>"><%= signInLinkText %></a> or
+    <a href="<%= signUpUrl %>"><%= signUpLinkText %></a>
     <% } else { %>
     Welcome,
     <strong><%= userName %></strong> 
     (<a href="<%= profileUrl %>">Profile</a> |
     <a id="sign-out-link" href="<%= signOutUrl %>">Sign Out</a>)
-    <%   if(cartHasItems) { %>
-    <span class="fancy-btn-inline-block">
-        <a class="go-to-store" href="/store">
-            <span class="fa fa-shopping-cart icon-black"></span>
-        </a>
-    </span>
-    <%   } %>
     <% } %>
 </script>
 
@@ -140,7 +125,7 @@
 <div class="site-header">
     <div class="container">
         <div class="site-header-inner ir">
-            <a href="/"><img alt="www.photonicsonline.com" src="https://vertassets.blob.core.windows.net/sites/logos/photo.png" border="0"></a>
+            <a href="/"><img alt="www.photonicsonline.com" title="www.photonicsonline.com" src="https://vertassets.blob.core.windows.net/sites/logos/photo.png" border="0"></a>
             <div class="right-hand-information">
                 
                 <div class="user-login-indicator noprint" data-action="/user/LoginInfo"></div>
@@ -159,7 +144,7 @@
             </button>
         </div>
         <form action="/search" method="GET" class="navbar-right" role="search">
-            <input type="text" name="keyword" id="keyword" maxlength="1000"><a class="search-button" href="#"><span class="fa fa-search icon-white" title=""> </span></a>
+            <input type="text" name="keyword" id="keyword" maxlength="1000" placeholder="Search"><a class="search-button" href="#"><span class="fa fa-search icon-white" title=""> </span></a>
         </form>
         <div class="collapse navbar-collapse" id="navLinks">
 
@@ -257,6 +242,27 @@
 </li>
         </ul>
 </li>
+                    <li class="dropdown">        <a href="https://www.qgdigitalpublishing.com/view/vertmarkets/electronic-military-defense/annual-resource" class="dropdown-toggle" data-toggle="dropdown">
+            EM&amp;D Annual Resource
+                <b class="caret "></b>
+        </a>
+        <ul class="dropdown-menu ">
+                <li class="">        <a href="https://www.qgdigitalpublishing.com/view/vertmarkets/electronic-military-defense/annual-resource">2018</a>
+</li>
+                <li class="">        <a href="https://electronicsmilitarydefense.epubxp.com/i/853189-7th-edition">2017</a>
+</li>
+                <li class="">        <a href="https://electronicsmilitarydefense.epubxp.com/i/707574-6th-edition">2016</a>
+</li>
+                <li class="">        <a href="https://electronicsmilitarydefense.epubxp.com/i/546858-5th-edition">2015</a>
+</li>
+                <li class="">        <a href="https://electronicsmilitarydefense.epubxp.com/i/350588-4th-edition">2014</a>
+</li>
+                <li class="">        <a href="https://electronicsmilitarydefense.epubxp.com/i/146848-3rd-edition">2013</a>
+</li>
+                <li class="">        <a href="https://electronicsmilitarydefense.epubxp.com/i/78772-2nd-edition">2012</a>
+</li>
+        </ul>
+</li>
             </ul>
         </div>
 
@@ -273,31 +279,31 @@
         <div class="ad-white-canvas">
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/photonicsonline/photo-leaderboard', [728,90], 'b688c8b8-968f-4ad0-89f7-13fa60248a5a').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/photonicsonline/photo-leaderboard', [728,90], '79a93e1f-0ca5-43b0-bb3b-8daafaea05cf').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="b688c8b8-968f-4ad0-89f7-13fa60248a5a" class="ad ">
+<div id="79a93e1f-0ca5-43b0-bb3b-8daafaea05cf" class="ad ">
     <script>
-        googletag.cmd.push(function () { googletag.display("b688c8b8-968f-4ad0-89f7-13fa60248a5a"); });
+        googletag.cmd.push(function () { googletag.display("79a93e1f-0ca5-43b0-bb3b-8daafaea05cf"); });
     </script>
 </div></div>
         <div class="ad-white-canvas earpiece">
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/photonicsonline/photo-earpiece', [230,90], '58a58baa-358e-4e64-805b-7a860adf0007').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/photonicsonline/photo-earpiece', [230,90], 'ab458b9a-eab6-4898-a284-1c37656c31f8').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="58a58baa-358e-4e64-805b-7a860adf0007" class="ad ">
+<div id="ab458b9a-eab6-4898-a284-1c37656c31f8" class="ad ">
     <script>
-        googletag.cmd.push(function () { googletag.display("58a58baa-358e-4e64-805b-7a860adf0007"); });
+        googletag.cmd.push(function () { googletag.display("ab458b9a-eab6-4898-a284-1c37656c31f8"); });
     </script>
 </div></div>
     </div>
@@ -305,16 +311,16 @@
         
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/photonicsonline/photo-leaderboard', [320,50], 'a954188c-11f1-45ed-afc1-d8cc4a801619').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/photonicsonline/photo-leaderboard', [320,50], '39338469-32ed-4f84-9781-914c003aaab3').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="a954188c-11f1-45ed-afc1-d8cc4a801619" class="ad desktop-hide">
+<div id="39338469-32ed-4f84-9781-914c003aaab3" class="ad desktop-hide">
     <script>
-        googletag.cmd.push(function () { googletag.display("a954188c-11f1-45ed-afc1-d8cc4a801619"); });
+        googletag.cmd.push(function () { googletag.display("39338469-32ed-4f84-9781-914c003aaab3"); });
     </script>
 </div>
     </div>
@@ -443,7 +449,7 @@ If we decide to change our privacy policy, we will post those changes here so ou
                                 <span>Advertise Online</span>
                     <ul class="no-bullets">
                             <li> <a href="/lead/new?itemid=46dd9b2f-1ed7-446f-92bd-84c0c8b81cee&amp;type=download">Media Kit</a> </li>
-                            <li> <a href="https://vertassets.blob.core.windows.net/download/50d6e665/50d6e665-f3b2-40c8-abf7-c5dc228d9d73/photo_2018_edcal_final.pdf ">Editorial Calendar</a> </li>
+                            <li> <a href="https://vertassets.blob.core.windows.net/download/f08697bd/f08697bd-a956-4100-81db-de91f618a155/2019_photo_edcal_final.pdf">Editorial Calendar</a> </li>
                     </ul>
             </li>
     </ul>
@@ -474,31 +480,31 @@ If we decide to change our privacy policy, we will post those changes here so ou
             <div class="bottom-ad">
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/photonicsonline/photo-leaderboard', [728,90], 'c41485d5-a240-4c9b-99b9-a73fdc27bd33').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/photonicsonline/photo-leaderboard', [728,90], '6601f920-1341-4254-b8c5-5df2e4c1f20e').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="c41485d5-a240-4c9b-99b9-a73fdc27bd33" class="ad ">
+<div id="6601f920-1341-4254-b8c5-5df2e4c1f20e" class="ad ">
     <script>
-        googletag.cmd.push(function () { googletag.display("c41485d5-a240-4c9b-99b9-a73fdc27bd33"); });
+        googletag.cmd.push(function () { googletag.display("6601f920-1341-4254-b8c5-5df2e4c1f20e"); });
     </script>
 </div></div>
             <div class="bottom-ad earpiece">
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/photonicsonline/photo-earpiece', [230,90], '89149d9e-7040-4781-bb46-c3bdc4c3a842').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/photonicsonline/photo-earpiece', [230,90], 'fad708dd-fed0-42fd-87f0-e89b3b4dbe08').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="89149d9e-7040-4781-bb46-c3bdc4c3a842" class="ad ">
+<div id="fad708dd-fed0-42fd-87f0-e89b3b4dbe08" class="ad ">
     <script>
-        googletag.cmd.push(function () { googletag.display("89149d9e-7040-4781-bb46-c3bdc4c3a842"); });
+        googletag.cmd.push(function () { googletag.display("fad708dd-fed0-42fd-87f0-e89b3b4dbe08"); });
     </script>
 </div></div>
 
@@ -506,33 +512,34 @@ If we decide to change our privacy policy, we will post those changes here so ou
                 
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/photonicsonline/photo-leaderboard', [320,50], '894b7299-7588-40e7-b522-694f3e1307c2').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/photonicsonline/photo-leaderboard', [320,50], '31eb435b-e026-4f21-b824-bcdfea2df8f7').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="894b7299-7588-40e7-b522-694f3e1307c2" class="ad desktop-hide">
+<div id="31eb435b-e026-4f21-b824-bcdfea2df8f7" class="ad desktop-hide">
     <script>
-        googletag.cmd.push(function () { googletag.display("894b7299-7588-40e7-b522-694f3e1307c2"); });
+        googletag.cmd.push(function () { googletag.display("31eb435b-e026-4f21-b824-bcdfea2df8f7"); });
     </script>
 </div>
             </div>
         </div>
         <div class="vert-copyright">
-            <a href="/static/Copyright">Copyright</a> © 1996-2018 <a href="http://www.vertmarkets.com">VertMarkets, Inc.</a> All Rights Reserved.  <a href="/static/Legal">Terms of Use</a>.  <a href="/static/Privacy">Privacy Statement</a>. <a href="/user-request">Subscriber Request Form</a>. 
+            <a href="/static/Copyright">Copyright</a> © 1996-2019 <a href="http://www.vertmarkets.com">VertMarkets, Inc.</a> All Rights Reserved.  <a href="/static/Legal">Terms of Use</a>.  <a href="/static/Privacy">Privacy Statement</a>. <a href="/user-request">Subscriber Request Form</a>. 
         </div>
 </div>
 
 
 
-    <div id="acceptCookiesNav" data-action="/Cookie/GetCookiePartial?cookieName=vm_accept_coockies"></div>
+
+<div id="acceptCookiesNav" data-action="/Cookie/GetCookiePartial?cookieName=vm_accept_coockies"></div>
 
 
-    <script src="/wwwroot/js/core/core.min.js?v=21586"></script>
+    <script src="/wwwroot/js/core/core.min.js?v=21644"></script>
 
-    <script src="/wwwroot/js/cookies/cookies.min.js?v=21586"></script>
+    <script src="/wwwroot/js/cookies/cookies.min.js?v=21644"></script>
 
     
 
