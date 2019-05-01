@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylondon.ac.uk privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727193909id_/https%3A//www.studylondon.ac.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylondon.ac.uk privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501172430id_/https%3A//www.studylondon.ac.uk/information/privacy) for the most accurate reproduction.*
 
 # Study London privacy policy - Study London
 
@@ -249,8 +249,6 @@ domains.london
 
 trackcyclingworlds2016.london
 
-euroaquatics2016.london
-
 southeastengland.visitlondon.com
 
 heritagecities.com
@@ -268,3 +266,5 @@ tickets.london
 ride.london
 
 indiaemerging20.com
+
+londonandparis.com
