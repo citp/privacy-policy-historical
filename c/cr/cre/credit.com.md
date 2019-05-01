@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208140851id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501153205id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Credit.com
 
@@ -7,7 +7,7 @@
 
 
 
-**This privacy policy was most recently updated on May 30, 2013.**   
+**This privacy policy was most recently updated on December 2018.**   
 It governs Credit.com’s collection, use and disclosure of non-public personal information (“NPPI”), defined below, received from our current and former customers or collected by us concerning our current and former customers. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
 
 We take the privacy and security of your NPPI seriously and believe it is important that you understand: 
