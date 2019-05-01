@@ -1,0 +1,271 @@
+<!--The following is the downloaded HTML source of the ejh.it privacy policy that was archived on 2019-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190501200342id_/http%3A//www.pagepress.org/privacy.html) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript">// <![CDATA[
+(function(window) {
+  if (!!window.cookieChoices) {
+    return window.cookieChoices;
+  }
+  var document = window.document;  
+  var supportsTextContent = 'textContent' in document.body;
+  var cookieChoices = (function() {
+    var cookieName = 'displayCookieConsent';
+    var cookieConsentId = 'cookieChoiceInfo';
+    var dismissLinkId = 'cookieChoiceDismiss';
+    function _createHeaderElement(cookieText, dismissText, linkText, linkHref) {
+      var butterBarStyles = 'position:fixed;width:100%;background-color:#000;' +
+          'margin:0; left:0; top:0;padding:17px;z-index:10000;text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#FFF;';
+      var cookieConsentElement = document.createElement('div');
+      cookieConsentElement.id = cookieConsentId;
+      cookieConsentElement.style.cssText = butterBarStyles;
+      cookieConsentElement.appendChild(_createConsentText(cookieText));
+      if (!!linkText && !!linkHref) {
+        cookieConsentElement.appendChild(_createInformationLink(linkText, linkHref));
+      }
+      cookieConsentElement.appendChild(_createDismissLink(dismissText));
+      return cookieConsentElement;
+    }
+    function _createDialogElement(cookieText, dismissText, linkText, linkHref) {
+      var glassStyle = 'position:fixed;width:100%;height:100%;z-index:999;' +
+          'top:0;left:0;opacity:0.5;filter:alpha(opacity=50);' +
+          'background-color:#ccc;';
+      var dialogStyle = 'z-index:1000;position:fixed;left:50%;top:50%';
+      var contentStyle = 'position:relative;left:-50%;margin-top:-25%;' +
+          'background-color:#fff;padding:20px;box-shadow:4px 4px 25px #888;';
+      var cookieConsentElement = document.createElement('div');
+      cookieConsentElement.id = cookieConsentId;
+      var glassPanel = document.createElement('div');
+      glassPanel.style.cssText = glassStyle;
+      var content = document.createElement('div');
+      content.style.cssText = contentStyle;
+      var dialog = document.createElement('div');
+      dialog.style.cssText = dialogStyle;
+      var dismissLink = _createDismissLink(dismissText);
+      dismissLink.style.display = 'block';
+      dismissLink.style.textAlign = 'right';
+      dismissLink.style.marginTop = '8px';
+      content.appendChild(_createConsentText(cookieText));
+      if (!!linkText && !!linkHref) {
+        content.appendChild(_createInformationLink(linkText, linkHref));
+      }
+      content.appendChild(dismissLink);
+      dialog.appendChild(content);
+      cookieConsentElement.appendChild(glassPanel);
+      cookieConsentElement.appendChild(dialog);
+      return cookieConsentElement;
+    }
+    function _setElementText(element, text) {
+      if (supportsTextContent) {
+        element.textContent = text;
+      } else {
+        element.innerText = text;
+      }
+    }
+    function _createConsentText(cookieText) {
+      var consentText = document.createElement('span');
+      _setElementText(consentText, cookieText);
+      return consentText;
+    }
+    function _createDismissLink(dismissText) {
+      var dismissLink = document.createElement('a');
+      _setElementText(dismissLink, dismissText);
+      dismissLink.id = dismissLinkId;
+      dismissLink.href = '#';
+      dismissLink.style.marginLeft = '24px';
+      dismissLink.style.color = '#fbbb11';
+      return dismissLink;
+    }
+    function _createInformationLink(linkText, linkHref) {
+      var infoLink = document.createElement('a');
+      _setElementText(infoLink, linkText);
+      infoLink.href = linkHref;
+      infoLink.target = '_blank';
+      infoLink.style.marginLeft = '24px';
+      infoLink.style.color = '#fbbb11';
+      return infoLink;
+    }
+    function _dismissLinkClick() {
+      _saveUserPreference();
+      _removeCookieConsent();
+      return false;
+    }
+    function _showCookieConsent(cookieText, dismissText, linkText, linkHref, isDialog) {
+      if (_shouldDisplayConsent()) {
+        _removeCookieConsent();
+        var consentElement = (isDialog) ?
+            _createDialogElement(cookieText, dismissText, linkText, linkHref) :
+            _createHeaderElement(cookieText, dismissText, linkText, linkHref);
+        var fragment = document.createDocumentFragment();
+        fragment.appendChild(consentElement);
+        document.body.appendChild(fragment.cloneNode(true));
+        document.getElementById(dismissLinkId).onclick = _dismissLinkClick;
+      }
+    }
+    function showCookieConsentBar(cookieText, dismissText, linkText, linkHref) {
+      _showCookieConsent(cookieText, dismissText, linkText, linkHref, false);
+    }
+    function showCookieConsentDialog(cookieText, dismissText, linkText, linkHref) {
+      _showCookieConsent(cookieText, dismissText, linkText, linkHref, true);
+    }
+    function _removeCookieConsent() {
+      var cookieChoiceElement = document.getElementById(cookieConsentId);
+      if (cookieChoiceElement != null) {
+        cookieChoiceElement.parentNode.removeChild(cookieChoiceElement);
+      }
+    }
+    function _saveUserPreference() {
+// Durata del cookie di un anno
+      var expiryDate = new Date();
+      expiryDate.setFullYear(expiryDate.getFullYear() + 1);
+      document.cookie = cookieName + '=y; expires=' + expiryDate.toGMTString();
+    }
+    function _shouldDisplayConsent() {
+      // Per mostrare il banner solo in mancanza del cookie
+      return !document.cookie.match(new RegExp(cookieName + '=([^;]+)'));
+    }
+    var exports = {};
+    exports.showCookieConsentBar = showCookieConsentBar;
+    exports.showCookieConsentDialog = showCookieConsentDialog;
+    return exports;
+  })();
+  window.cookieChoices = cookieChoices;
+  return cookieChoices;
+})(this);
+document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('This site uses cookies to ensure you have the best browsing experience and to help us improve the site. By continuing to browse the site you are agreeing to our use of cookies.',
+        'Okay', 'Cookie Policy', 'http://www.pagepress.org/cookies.html');
+  });
+// ]]></script><!-- Codice per accettazione cookie - Fine -->
+
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+				<title>Privacy | PAGEPress Publications| Open Access Scholarly Journals | | PGP</title>
+		<meta name="author" content="PGP">
+		<meta name="keywords" content="open access, journals, medicine, nephrology, rheumatology, orthopedics, Open access; PAGEPress; journals; scientific journals; impact factor;, science information, magazines, health, cardiogenetics, cardiovascular diseases, genetic defects, agronomy, agriculture, university, universities">
+		<meta name="robots" content="all">
+		<meta name="generator" content="Sandvox 2.10.12">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<link rel="canonical" href="https://www.pagepress.org/privacy.html">
+		
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Amatic+SC|Lato|Lobster|PT+Serif|Roboto+Condensed|Roboto|Roboto+Slab|Rubik|Montserrat|Neucha|Glegoo|Source+Serif+Pro|Crimson+Text|Great+Vibes|Playball">
+		<link rel="stylesheet" type="text/css" href="com_blueballdesign_slider_gray/main.css" title="Blueball Slider Gray">
+		<!--
+		Photo credits for this website's design: <https://www.pagepress.org/com_blueballdesign_slider_gray/Credits.rtf>
+		Licensing for this website's design:     <https://www.pagepress.org/com_blueballdesign_slider_gray/License.rtf>
+		-->
+		
+		<script type="text/javascript">
+		var gaJsHost = ((" https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		try{
+		var pageTracker = _gat._getTracker("UA-7448651-1");
+		pageTracker._trackPageview();
+		} catch(err) {}
+		</script>
+	</head>
+	<body class="sandvox has-page-title no-sidebar no-custom-banner no-navigation IR" id="www_pagepress_org">
+				<div id="sitemenu-container">
+						<div id="sitemenu">
+							<h2 class="hidden">Navigazione nel sito<a href="#page-content" rel="nofollow">[Salta]</a></h2>
+							<div id="nav">
+								<ul>
+									<li class="i1 o"><a href="./" title="Welcome"><span class="in">Home</span></a></li>
+									<li class="i2 e"><a href="open-access.html" title="Why Open Access"><span class="in">Open Access</span></a></li>
+									<li class="i3 o hasSubmenu"><a href="who-we-are/" title="Company"><span class="in">Company</span></a>
+										<ul>
+											<li class="i1 o"><a href="who-we-are/the-company.html" title="Present and Future"><span class="in">Present and Future</span></a></li>
+											<li class="i2 e"><a href="who-we-are/history.html" title="Our History"><span class="in">Our History</span></a></li>
+											<li class="i3 o last-item last"><a href="who-we-are/the-team.html" title="Our Team"><span class="in">Our Team</span></a></li>
+										</ul>
+									</li>
+									<li class="i4 e hasSubmenu"><a href="publications/" title="Journals"><span class="in">Journals</span></a>
+										<ul>
+											<li class="i1 o"><a href="publications/journals-a-z.html" title="Journals A-Z"><span class="in">Journals</span></a></li>
+											<li class="i2 e"><a href="publications/authors_fee.html" title="Article Processing Charges"><span class="in">Article Processing Charges</span></a></li>
+											<li class="i3 o"><a href="publications/indexing.html" title="Indexing"><span class="in">Indexing</span></a></li>
+											<li class="i4 e"><a href="publications/article-level-metrics.html" title="Article-Level Metrics"><span class="in">Article-Level Metrics</span></a></li>
+											<li class="i5 o last-item last"><a href="publications/our-editors.html" title="Scientific Editors"><span class="in">Scientific Editors</span></a></li>
+										</ul>
+									</li>
+									<li class="i5 o hasSubmenu"><a href="ethics-and-quality/" title="Policies"><span class="in">Policies</span></a>
+										<ul>
+											<li class="i1 o"><a href="ethics-and-quality/commitment.html" title="Commitment"><span class="in">Commitment</span></a></li>
+											<li class="i2 e"><a href="ethics-and-quality/editorial-policies.html" title="Editorial Policies"><span class="in">Editorial Policies</span></a></li>
+											<li class="i3 o"><a href="ethics-and-quality/research-ethics.html" title="Research Ethics"><span class="in">Research Ethics</span></a></li>
+											<li class="i4 e"><a href="ethics-and-quality/advertising-policies.html" title="Advertising Policies"><span class="in">Advertising Policies</span></a></li>
+											<li class="i5 o"><a href="ethics-and-quality/article-wthdrawal.html" title="Article withdrawal"><span class="in">Article withdrawal</span></a></li>
+											<li class="i6 e last-item last"><a href="ethics-and-quality/cookies.html" title="Cookies"><span class="in">Cookies</span></a></li>
+										</ul>
+									</li>
+									<li class="i6 e hasSubmenu"><a href="publishing-services/" title="Services"><span class="in">Services</span></a>
+										<ul>
+											<li class="i1 o"><a href="publishing-services/how-to-launch-an-oa-journal.html" title="How to Launch an OA Journal"><span class="in">How to Launch an OA Journal</span></a></li>
+											<li class="i2 e"><a href="publishing-services/developing-quality.html" title="Developing Quality"><span class="in">Developing Quality</span></a></li>
+											<li class="i3 o"><a href="publishing-services/digital-preservation.html" title="Digital Preservation"><span class="in">Digital Preservation</span></a></li>
+											<li class="i4 e"><a href="publishing-services/sponsorship.html" title="Sponsorship"><span class="in">Sponsorship</span></a></li>
+											<li class="i5 o"><a href="publishing-services/funding.html" title="Membership"><span class="in">Membership</span></a></li>
+											<li class="i6 e last-item last"><a href="publishing-services/partnerships.html" title="Partners"><span class="in">Partners</span></a></li>
+										</ul>
+									</li>
+									<li class="i7 o"><a href="advertising.html" title="Advertising"><span class="in">Advertising</span></a></li>
+									<li class="i8 e last-item last"><a href="contacts.html" title="Contacts and Facts"><span class="in">Contacts and Facts</span></a></li>
+								</ul>
+							</div> <!-- /sitemenu-content -->
+						</div> <!-- /sitemenu -->
+					</div><div id="title">
+						<a href="./" class="imageLink"><span id="logo-container"><img id="logo" src="_Media/negativespace-8_bn_med.gif" alt="negativespace-8 bn med" width="170" height="44"></span></a>
+						<h1 style="text-align:left;" class="title in"><a href="./"><span class="in"><span style="font-size: 64px; font-family: Optima;">PAGEPress Publications<br></span><span style="font-size: 23px; font-family: Optima;">| &nbsp;Open Access Scholarly Journals &nbsp;|&nbsp;</span></span></a></h1>
+					</div><div id="slideBanner"></div><div id="page-container">
+			<div id="page">
+				<div id="page-top" class="has-logo has-title no-tagline">
+					<!-- title -->
+					 <!-- sitemenu-container -->
+				</div> <!-- page-top -->
+				<div class="clear below-page-top"></div>
+				<div id="page-content" class="no-navigation">
+					<div id="main">
+						<div id="main-top"></div>
+						<div id="main-content">
+							<h2 class="title"><span class="in"><span style="background-color: transparent;">Privacy</span></span></h2>
+							<div class="article">
+								<div class="article-content">
+									<div class="RichTextElement">
+										<div><p><strong>Introduction</strong></p><p>In accordance with European Union guidelines (<a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation" target="_blank"><strong>General Data Protection
+																																																																					Regulation</strong>&nbsp;(<strong>GDPR</strong></a>),&nbsp;users may decline to provide the information requested. They should be advised, however, that PAGEPress may be unable to deliver its services unless at least the information necessary for security and identification purposes is provided.</p>
+											<p>In order to offer the best possible service to users,&nbsp;we &nbsp;tracks the patterns of usage of pages on our sites. This enables us to identify the most popular articles and services. Where users have provided details of their research areas of interest, this information can be correlated, helping&nbsp;PAGEPress to provide a useful service for scientists, offering them the most relevant information based on their areas of interest. User information will only be shared with third parties with the explicit consent of the user.&nbsp;</p>
+											<p>Publishing a scientific manuscript is inherently a public (as opposed to anonymous) process. The name and e-mail address of all authors of a manuscript published and/or submitted will be available to users of PAGEPress.&nbsp;These details are made available in this way purely to facilitate scientific communication. Collecting these e-mail addresses for commercial use is not allowed, nor will&nbsp;PAGEPress&nbsp;itself send unsolicited e-mail to authors, unless it directly concerns the paper they have published on any PAGEPress journals.</p><p>We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have.</p><p><strong>Protecting users' personal information</strong></p><p>Our journals’ sites use&nbsp;<a href="ethics-and-quality/cookies.html">cookies</a>&nbsp;to help provide you with the best viewing experience: some aspects of our services published on&nbsp;our website&nbsp;do require the use of cookies, and the supply of information such as name, e-mail address etc. This is necessary for security reasons and also for us&nbsp;to be able to assure standards of scientific integrity. Users may submit further personal information (e.g. details of research areas of interest) in order to take advantage of present and future personalization facilities on&nbsp;our website.</p><p>PAGEPress Publications process personal data from our members, participants, grantees and other contact persons, in order to provide our services in the best way possible. This statement explains how and why we are processing personal data. This privacy statement relates to all our processes involving personal data.&nbsp;</p><p><strong>Our processing activities</strong></p><p>We publish scholarly journals, proceedings, news and data. This material is freely available. The following summary offers a quick overview of the data processing activities that are undertaken on our website. You will find more detailed information under the indicated sections below.</p><ul><li>When you visit our website for informational reasons without setting up an account, only limited personal data will be processed to provide you with the website itself.</li><li>If you are identified as belonging to a customer organisation then we collect information in order to be able to provide usage reporting to that customer.</li><li>In case you register for one our services or subscribe to our article alerts or newsletters, further personal data will be processed in the scope of such services.</li><li>Furthermore, your personal data will be used to provide you with relevant advertising for our services and products and for statistical analysis that helps us to improve our website. Additionally, we improve your website experience with third party content.</li><li>Your personal data may be disclosed to third parties that might be located outside your country of residence; potentially, different data protection standards may apply.</li><li>We have implemented appropriate safeguards to secure your personal data and retain your personal data only as long as necessary.</li><li>Under the legislation applicable to you, you may be entitled to exercise certain rights with regard to the processing of your personal data.</li></ul><p><strong>Definitions</strong></p><p>Personal data:&nbsp;means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.</p><p>Processing:&nbsp;means any operation which is performed on personal data, such as collection, recording, organisation, structuring,storage, adaptation or any kind of disclosure or other use.</p><p><strong>Informational use of the website</strong></p><p>When you visit our website for informational reasons, i.e. without registering for any of our provided services and without providing us with personal data in any other form, we may automatically collect additional information about you which will contain personal data only in limited cases and which is automatically recognised by our server, such as:</p><ul><li>your IP address</li><li>your device type, name and IDs</li><li>the date and time of your requests</li><li>the content of your requests</li><li>information on your browser version</li><li>your screen resolution</li><li>information on your operating system, including language settings.</li></ul><p>We use such information only to assist us in providing an effective service (e.g. to adapt our website to the needs of your device or to allow you to log in to our website), and to collect broad demographic information for anonymized, aggregated use.</p><p>If you are identified by IP or equivalent method as belonging to a customer organisation such as university or a company then we will also collect the identity of that organisation and use it to create usage reports which show the organisation how much of the content we publish is being read by their students, members or employees. This information does not contain anything related to a personal login unless (a) you are a nominated administrator for that organisation or (b) your organisation specifically requires it as a part of a usage-based access contract.</p><p>The personal data automatically collected is necessary for us to provide the website, and for our legitimate interest to guarantee the website's stability and security.</p><p><strong>Registration for our services</strong></p><p>If you need to create a personal login with us then we will store and process the following:</p><ul><li>Information (such as your name, user name and email address) that is provided by registration</li><li>Information in connection with an account sign-in facility (e.g. log-in and password details)</li><li>Communications sent by you (e.g. via e-mail or website communication forms)</li><li>The information that is necessary for the performance of the service is labelled accordingly. All further information is provided voluntarily.</li></ul><p>We will process the personal data you provide to:</p><ul><li>Identify you at sign-in</li><li>Provide you with the services and information offered through the website or which you request</li><li>Administer your account</li><li>Communicate with you</li><li>Behavioural Advertising and profiling</li></ul><p><br></p><p>You can object to the use of your personal data for direct marketing at any time. We will then refrain from any processing to the extent it is related to such purposes. You may opt-out of direct marketing via opt-out links in any marketing communication or via user profile pages on the website (where available). You can also inform us about your objection by contacting our Data Protection Office at <strong><a href="mailto:privacy@pagepress.org?subject=Privacy%20information">privacy@pagepress.org</a></strong></p><p>We offer notification services such as table-of-contents or new article alerts. This service is provided by means of a double-opt-in. Thus, you will receive an email containing a link by which you can confirm that you are the owner of the email address and wish to be notified via our email service. You can end this service by opting out via the link provided in each notification email. This notification service is based on your consent.</p><p>Registration data is kept until such time as an account deletion request is made. If such a request is received we will erase your data within 60 days. Statutory storage obligations or the need for legal actions that may arise from misconduct within the services or payment problems can lead to a longer retention of your personal data. In this case, we will inform you accordingly.</p><p><strong>Alerts and Newsletters</strong></p><p>With your email address you can subscribe to article alerts and newsletters that provides you with the latest news about our products and services if you consent to receiving such alerts and newsletters. Your email address will be retained as long as you subscribe to our alerts and newsletters.</p><p>This service is provided by means of a double-opt-in. Thus, you will receive an email containing a link by which you can confirm that you are the owner of the email address and wish to be notified via our email service. When your subscription is not confirmed, the personal data you provided will not be processed for any purpose.</p><p>You can unsubscribe from this service by opting out via the link provided in each newsletter.</p><p><strong>Analytics</strong></p><p>For statistical analyses we use web analytics services such as Google Analytics to collect information about the use of this site.</p><h3>General tracking information</h3><p>The tools collect information such as</p><ul><li>Device and browser information (operating system information, Mobile device identifier, mobile operating system, etc.)</li><li>IP address</li><li>Page accessed, URL click stream (the chronological order of our internet sites you visited)</li><li>Geographic location</li><li>Time of visit</li><li>Referring site, application, or service</li></ul><p>We use the information we get from the providers only to determine the most useful information you are looking for, and to improve and optimise this website. We do not combine the information collected through the use of the tools with personal data.</p><p>Depending on the provider the information generated about your use of the website may be transferred to and processed in third countries, e.g. the United States. For further information about the potential risks of a cross border data transfer please refer to section XII. The tools collect only the IP address assigned to you on the date you visit this site, rather than your name or any other identifying information. The provider will use this information in order to evaluate your use of the website, to compile reports on website activities and to provide other services relating to website and internet use to us.</p><p>The legal basis for this processing is Art. 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to analyse our website's traffic to improve the user's experience and to optimise the website in general.</p><h3>Google Analytics / Google Tag Manager</h3><p>We use Google Analytics, a web analytics service provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google"). On our behalf Google will use the information generated by a cookie for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet activity in connection with the use of the website.</p><p>We have activated the IP-anonymisation within the Google Analytics service, and your IP address will be truncated within the area of member states of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. The IP-address your browser conveys within the scope of Google Analytics will not be associated with any other data held by Google.</p><p>You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this website. In addition to that you may prevent the collection of the information generated by the cookie about your use of the website (including you IP address) and the processing of this data by Google if you download and install the browser plug-in available at the following link:&nbsp;<a href="http://tools.google.com/dlpage/gaoptout" target="_blank">http://tools.google.com/dlpage/gaoptout</a></p><p><br></p><p><strong>Third party content and social media plug-ins</strong></p><p>Links to third party websites<br>This website may contain links to third party websites. We are not responsible for the content and the data collection on respective third party websites; please check the privacy policy of respective websites for information of respective websites' data processing activities.</p><p><strong><br></strong></p><p><strong>Information sharing</strong></p><p>Where personal data is disclosed to the following third parties for the purposes mentioned above the legal basis for the transfer of your personal data is Article 6 sec. 1 sent. 1 lit. b and f GDPR. Some of the recipients may reside outside the EEA. For further information about cross border transfer in general and transfers outside of the EEA see XII.</p><p>We may disclose anonymous aggregate statistics about users of the website in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personal data.</p><p>We may disclose your personal data to contractors who assist us in providing the services we offer through the website. Such a transfer will be based on data processing agreements. Therefore, our contractors will only use your personal data to the extent necessary to perform their functions and will be contractually bound to process your personal data only on our behalf and in compliance with our requests.</p><p>In the event that we undergo re-organisation or are sold to a third party, any personal data we hold about you may be transferred to that re-organised entity or third party in compliance with applicable law.</p><p>We may disclose your personal data if legally entitled or required to do so (for example if required by law or by a court order).</p><p><br></p><p><strong>Cross border data transfers</strong></p><p>Within the scope of our information sharing activities set out above, your personal data may be transferred to other countries (including countries outside the EU) which may have different data protection standards from your country of residence. Please note that data processed in a foreign country may be subject to foreign laws and accessible to foreign governments, courts, law enforcement, and regulatory agencies. However, we will endeavour to take reasonable measures to maintain an adequate level of data protection when sharing your personal data with such countries.</p><p>In the case of a transfer outside of the EU, this transfer is safeguarded by privacy the Privacy Shield and EU Model Clauses. You can find further information about the aforementioned safeguards by following this link&nbsp;<a href="https://ec.europa.eu/info/law/law-topic/data-protection_en" target="_blank">https://ec.europa.eu/info/law/law-topic/data-protection_en</a></p><p><br></p><p><strong>Security</strong></p><p>We have reasonable state of the art security measures in place to protect against the loss, misuse and alteration of personal data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to personal data. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it.</p><p>You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via our website whilst it is in transit over the internet and any such submission is at your own risk.</p><p><br></p><p><strong>Data retention</strong></p><p>We strive to keep our processing activities with respect to your personal data as limited as possible. In the absence of specific retention periods set out in this policy, your personal data will be retained only for as long as we need it to fulfil the purpose for which we have collected it and, if applicable, as long as required by statutory retention requirements.</p><p><br></p><p><strong>Your rights</strong></p><p>Under the legislation applicable to you, you may be entitled to exercise some or all of the following rights:</p><ol><li>require (i) information as to whether your personal data is retained and (ii) access to and/or duplicates of your personal data retained, including the purposes of the processing, the categories of personal data concerned, and the data recipients as well as potential retention period;</li><li>request rectification, removal or restriction of your personal data, e.g. because (i) it is incomplete or inaccurate, (ii) it is no longer needed for the purposes for which it was collected, or (iii) the consent on which the processing was based has been withdrawn;</li><li>refuse to provide and -- without impact to data processing activities that have taken place before such withdrawal -- withdraw your consent to processing of your personal data at any time;</li><li>object, on grounds relating to your particular situation, that your personal data shall be subject to a processing. In this case, please provide us with information about your particular situation. After the assessment of the facts presented by you we will either stop processing your personal data or present you our compelling legitimate grounds for an ongoing processing;</li><li>take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators;</li><li>require (i) to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side; where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller; and/or</li><li>not to be subject to any automated decision making, including profiling (automatic decisions based on data processing by automatic means, for the purpose of assessing several personal aspects) which produce legal effects on you or affects you with similar significance.</li></ol><p>You may (i) exercise the rights referred to above or (ii) pose any questions or (iii) make any complaints regarding our data processing by contacting us using the contact details set out below.</p><p><br></p><p><strong>Amendments to this policy</strong></p><p>We reserve the right to change this policy from time to time by updating our website respectively. Please visit the website regularly and check our respective current privacy policy. This policy was last updated on 16/05/2018.</p><p><br></p><p>For any questions on how we protect your personal data, you can always contact us by e-mail&nbsp;<a href="mailto:privacy@pagepress.org">privacy@pagepress.org</a></p><p><br></p><p><strong>The Italian version of <a href="http://www.pagepress.org/privacy-versione-italiana.html">this document is available here</a>.</strong></p><p><br></p>
+											</div>
+									</div>
+								</div> <!-- /article-content -->
+								<div class="article-info">
+								</div> <!-- /article-info -->
+							</div> <!-- /article -->
+						</div> <!-- main-content -->
+						<div id="main-bottom"></div>
+					</div> <!-- main -->
+				</div> <!-- content -->
+				<div class="clear below-content"></div>
+				 <!-- page-bottom -->
+			</div> <!-- container -->
+			<div id="extraDiv1"><span></span></div><div id="extraDiv2"><span></span></div><div id="extraDiv3"><span></span></div><div id="extraDiv4"><span></span></div><div id="extraDiv5"><span></span></div><div id="extraDiv6"><span></span></div>
+		</div><div id="page-bottom">
+					<div id="page-bottom-contents">
+						<div><span style="font-weight: 700; font-size: 13px;">©2008-2019. PAGEPress name and logo are property of PAGEPress srl, Italy. VAT: IT02125780185 –&nbsp;<a href="http://www.pagepress.org/legal_notice.html">Terms of Use</a>&nbsp;–&nbsp;<a href="http://www.pagepress.org/privacy.html">Privacy</a>&nbsp;<br></span><br></div>
+						<div class="hidden"> <a rel="nofollow" href="#title">[Back To Top]</a></div>
+					</div>
+				</div> <!-- specific body type -->
+		<script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js"></script>
+		<script>
+		if (typeof jQuery === 'undefined') document.write('<scr'+'ipt src="_Resources/jquery-1.9.1.min.js"></scr'+'ipt>');
+		</script><script src="_Resources/jquery-1.9.1.min.js"></script>
+		<script charset="utf-8" src="com_blueballdesign_slider_gray/blueballslider.js"></script><script charset="utf-8" src="com_blueballdesign_slider_gray/jquery.nerveSlider.js"></script><script charset="utf-8" src="com_blueballdesign_slider_gray/jquery-ui-1.10.2.min.js"></script>
+		<script type="text/javascript" src="https://www.privacylab.it/metisCookiePrivacy.php?code=12788366779&amp;lang=it"></script>
+		<script type="text/javascript" src="https://www.privacylab.it/metisCookiePrivacy.php?code=12788366780&amp;lang=it"></script>
+
+	
+</body></html>
