@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piedmontng.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230092550id_/http%3A//www.piedmontng.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piedmontng.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501073508id_/http%3A//www.piedmontng.com/privacy.aspx) for the most accurate reproduction.*
 
 # Piedmont Natural Gas | Privacy Policy
 
