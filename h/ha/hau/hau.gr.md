@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013153342id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501123117id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
 
 # Privacy Policy | Hellenic American Union
 
-You are at:  [Home](https://web.archive.org/web/20181013153342id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
+You are at:  [Home](https://web.archive.org/web/20190501123117id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
 
   * [Google +](https://plus.google.com/share?url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms)
   * [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&title=Privacy%20Policy%20%7C%20Hellenic%20American%20Union)
@@ -200,7 +200,7 @@ We will update this Policy as required. If there are important changes to the Po
 
 ##### 19\. Cookies Policy
 
-You can find information about Hellenic American Union’s Cookies Policy [here](https://web.archive.org/web/20181013153342id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.accessibility).
+You can find information about Hellenic American Union’s Cookies Policy [here](https://web.archive.org/web/20190501123117id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.accessibility).
 
 * * *
 
