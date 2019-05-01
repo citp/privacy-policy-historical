@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ionos.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130160954id_/https%3A//www.ionos.com/terms-gtc/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ionos.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501215638id_/https%3A//www.ionos.com/terms-gtc/terms-privacy) for the most accurate reproduction.*
 
 # Privacy policy - IONOS T&C
 
