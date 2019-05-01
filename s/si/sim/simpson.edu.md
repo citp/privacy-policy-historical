@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpson.edu privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927045507id_/http%3A//simpson.edu/about-simpson-college/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpson.edu privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501214445id_/https%3A//simpson.edu/about-simpson-college/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Simpson College
 
