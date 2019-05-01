@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phumikhmer.media privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223182048id_/http%3A//phumikhmer.media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phumikhmer.media privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501045844id_/https%3A//phumikhmer.media/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — ភូមិខ្មែរ Phumi Khmer
 
