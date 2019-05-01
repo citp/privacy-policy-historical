@@ -1,148 +1,159 @@
-> *The following text is extracted and transformed from the loyaltyinnovations.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235640id_/http%3A//www.travelandtransport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyaltyinnovations.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501155045id_/https%3A//www.travelandtransport.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Travel and Transport
+# Privacy Policy - Travel and Transport
 
-**INTERNET PRIVACY POLICY – COMMITMENT TO YOUR PRIVACY**
+**Privacy Policy**
 
-This site is owned and operated by Travel and Transport, Inc. Your privacy on the Internet is of the utmost importance to us. At Travel and Transport, Inc., we want to make your experience online satisfying and safe.
+Travel and Transport, Inc. and its wholly-owned subsidiaries, Ultramar Travel Management, Inc. d/b/a Travel and Transport Ultramar, Statesman Travel Limited d/b/a Travel and Transport Statesman, Travel and Transport France SAS and Data Visualization Intelligence, Inc. (collectively, “Travel and Transport”, “we”, “our”, or “us”) know that you care how information about you is used and shared, and we are committed to protecting your privacy through our compliance with this policy. This policy describes our practices in connection with personal information we collect through our domestic and international websites (collectively, our “Sites”) and through our web-based and mobile software applications and services (collectively, our “Applications”).
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+Please review this policy carefully and in its entirety to understand our policies and practices regarding the collection of personal information about you, whether via our Sites, our Applications or from other sources, and how we will treat such personal information.
 
-**INFORMATION TRAVEL AND TRANSPORT, INC. GATHERS AND TRACKS**
+**INFORMATION WE COLLECT**
 
-Travel and Transport, Inc. gathers three types of information about users:
+In order to provide our services, Travel and Transport may collect, use and disclose your information, including your personal data. Personal data is any information that can be used to identify you or that we can link to you. You may be asked to provide certain information when you use our services; however, you do have choices about the data we collect. When you are asked to provide personal data, you may decline, but if you choose not to provide data that is necessary to provide the services or a particular product or feature, you may not be able to receive the services or use that product or feature. The data we collect can include the following:
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters and/or specials, to participate in our online services, to request information from Travel and Transport, Inc., and from participation in polls and surveys.
-  * Information Travel and Transport, Inc. gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers’ needs and to help our clients better understand the demographics and usage statistics of our audience. Under no circumstances does Travel and Transport, Inc. divulge any information about an individual user to a third party.
-  * Travel and Transport, Inc. tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Travel and Transport, Inc. does break down overall usage statistics according to a user’s domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user’s browser).
+* Names and contact information (e.g., telephone number, fax number, e-mail address);
 
+* Travel information (e.g., passport number, visa, driver’s license number, TSA number, citizenship, date of birth, gender);
 
+* Travel preferences and trip/meeting preferences and other information (e.g., seat preferences, meal preferences, frequent flyer miles, other personal data provided by you via your profile or other requests);
 
-**Children**
+* Payment and bank information (e.g., credit card data); and
 
-Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
+* Credentials, such as logins, employee IDs, passwords and user IDs.
 
-**Cookies**
+Unless you provide consent, Travel and Transport will not collect or share your information for direct marketing purposes.
 
-Travel and Transport, Inc. does not utilize cookies.
+**HOW WE COLLECT YOUR INFORMATION**
 
-Travel and Transport, Inc. Gathers User Information In The Following Processes:
+Travel and Transport may collect your information, including personal data:
 
-**Optional Voluntary Information**
+* Directly from you when you access certain of our services, including when you communicate with us via e-mail or other channels;
 
-We offer the following free services, which require some type of voluntary submission of personal information by users:
+* From other third party sources, including the company you are employed by or are otherwise traveling or attending a meeting on behalf of; and
 
-1\. Electronic newsletters policy (Dispatches)
+* From the Sites and Applications used by Travel and Transport or accessible through our services.
 
-We offer a free electronic newsletter to users. Travel and Transport, Inc. gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
+Each Travel and Transport Site or Application will contain a notice that describes the data collection practices applicable to the use of that particular Site or Application.
 
-2\. Surveys
+**HOW WE USE YOUR INFORMATION**
 
-Travel and Transport, Inc. may occasionally conduct user surveys to better target our content and services to our clients. We sometimes share the aggregated demographic information in these surveys with our clients and partners. We never share any of this information about specific individuals with any third party.
+Travel and Transport may use the information concerning you that we collect or that is provided to us, including personal data, for any of the following purposes:
 
-**INFORMATION USE**
+* To provide our services and fulfill our obligations to you and/or your employer or the company you are otherwise traveling or attending a meeting on behalf of;
 
-Travel and Transport, Inc. uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+* To fulfill a request made by you, your employer or the company you are otherwise traveling or attending a meeting on behalf of;
 
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters, utilize our travel-related services and to enable users to participate in surveys. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing.
+* To communicate with you via e-mail, postal mail, telephone/mobile devices or our Sites or Applications;
 
-When we use tracking information to determine which areas of our sites users like and don’t like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you
+* To provide customer care and support services;
 
-Travel and Transport, Inc. creates aggregate reports on user demographics and traffic patterns for internal users and for our clients and partners. This allows our Travel and Transport, Inc. and our clients and partners to tailor our services and offerings to our user needs and requests. Travel and Transport, Inc. will not disclose any information about any individual user or newsletter mailing lists except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+* To process payments for purchases made by you, your employer or the company you are otherwise traveling or attending a meeting on behalf of;
 
-**SHARING OF THE INFORMATION**
+* To send you information or materials about products or services that may be of interest to you. Where required, we will obtain your consent before sending such marketing messages.
 
-Travel and Transport, Inc. uses the above-described information to tailor our content to suit your needs and help our clients better understand our audience’s demographics. This is essential to providing the best possible service to our clients. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+* To generate pseudonymized or aggregated profiles and use such data for reporting and analytic purposes;
 
-**SECURITY**
+* As we believe to be reasonably necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities; (d) to carry out our obligations and enforce our terms and conditions applicable to our products and services, including for billing and collection purposes; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; (g) to allow us to pursue available remedies or limit the damages that we may sustain; and (h) to protect against or identify fraudulent transactions;
 
-Travel and Transport, Inc. operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+* To fulfill any other purpose for which you provide it or with your consent.
 
-**OPT-OUT POLICY**
+**HOW WE SHARE YOUR INFORMATION**
 
-We give users options wherever necessary and practical. Such choices include:
+Your information, including personal data, collected by Travel and Transport may be shared with or disclosed to:
 
-  * **Opting not to register to receive our electronic newsletters.**
-  * **Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our user**
+* Travel and Transport affiliates, joint ventures, partners, subcontractors and agents as necessary to provide our products and services;
 
+* Travel and Transport contractors, service providers and other third parties providing ancillary services to support our business (e.g., payment processors, data analytics providers, technology development);
 
+* Third party service providers to fulfill travel arrangements and reservations (e.g., Global Distribution Systems (GDSs), airlines, trains, rental car and other ground transportation companies, hotels, cruise lines and other related travel vendors for booking/ticketing purposes, industry reporting authorities, technology vendors, including, without limitation, online booking tool providers, meeting registration software providers and audio visual companies, and visa and passport providers and/or verification services);
 
-**YOUR CONSENT**
+* Your employer or the company you are otherwise traveling or attending a meeting on behalf of for reporting, auditing, tracking and other purposes as necessary;
 
-By using this site, you consent to the collection and use of this information by Travel and Transport, Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+* Third party service providers you, your employer, or the company you are otherwise traveling or attending a meeting on behalf of request we send personal data to (e.g., safety and tracking information providers, companies providing weather information or travel alerts, successor organizations and other travel management companies);
 
-**SAFE HARBOR PRIVACY POLICY – COMMITMENT TO YOUR PRIVACY**
+* A third party in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Travel and Transport’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal data held by Travel and Transport is among the assets transferred;
 
-Travel and Transport, Inc. (“T&T”) respects individual privacy and values the confidence of its customers, employees, business partners and others. Not only does T&T strive to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business, but it also has a tradition of upholding the highest ethical standards in its business practices. This Safe Harbor Privacy Policy (the “Policy”) sets forth the privacy principles T&T follows with respect to transfers of personal information from the European Economic Area (EEA) (which includes the twenty-seven member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States.
+* As we believe to be reasonably necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities; (d) to carry out our obligations and enforce our terms and conditions applicable to our products and services, including for billing and collection purposes; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; (g) to allow us to pursue available remedies or limit the damages that we may sustain (e.g., exchanging information with other companies and organizations for the purposes of fraud protection and risk reduction); and
 
-**SAFE HARBOR**
+* For any other purpose with your consent.
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EEA to the United States (the “U.S.-EU Safe Harbor”). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). Consistent with its commitment to protect personal privacy T&T adheres to the principles set forth in the U.S.-EU Safe Harbor.
+**LINKS TO THIRD PARTY WEBSITES**
 
-**SCOPE**
+For the convenience of, or the ease of use by, users, our Sites and Applications may contain links to third party websites, some of which may ask you to provide information such as your name, address, e-mail address phone number, and credit/debit card information. If you decide to use these third party websites and/or provide your information to these websites, the privacy policy and terms of service on those websites will apply. Travel and Transport is not responsible for and expressly disclaims any and all liability related to the actions of such third party websites, their privacy policies, or the terms and content of such websites.
 
-This Safe Harbor Privacy Policy (the “Policy”) applies to all personal information received by T&T in the United States from the EEA, in any format, including electronic, paper or verbal.
+**CROSS-BORDER TRANSFERS OF YOUR INFORMATION**
 
-**DEFINITIONS**
+When sharing with or disclosing your personal data to other parties, including Travel and Transport’s related companies, affiliates, subsidiaries, joint ventures, partners, subcontractors and agents who provide products or services, your personal data may be transferred to countries with data protection laws providing a lower standard of protection for your personal data than your country of residence.
 
-For purposes of this Policy, the following definitions shall apply:
+Travel and Transport will transfer your personal data in compliance with applicable data protection laws, including having adequate mechanisms in place to protect your personal data when it is transferred internationally (e.g., complying
 
-“Agent” means any third party that collects or uses personal information under the instructions of, and solely for, T&T or to which T&T discloses personal information for use on T&T’s behalf.
+with the EU-U.S. Privacy Shield Framework, Standard Contractual Clauses). Additional information about Travel and Transport’s compliance with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data transferred from the European Union to the United States can be found here.
 
-“T&T” means Travel and Transport, Inc., its predecessors, successors, subsidiaries, divisions and groups in the United States.
+**HOW WE PROTECT YOUR INFORMATION**
 
-“Personal information” means any information or set of information that identifies or could be used by or on behalf of T&T to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information.
+Travel and Transport uses appropriate technical and organizational security measures to protect the personal data Travel and Transport holds on its network and systems from unauthorized access, disclosure, destruction, and alteration. We conduct periodic reviews of our data collection, storage, processing, and security measures to verify we are only collecting, storing and processing personal data that is required for our products and services and to fulfill our contractual obligations. While we make every effort to protect the integrity and security of our network and systems, we cannot guarantee, ensure, or warrant that our security measures will prevent illegal or unauthorized activity related to your personal data. When using our services, you should be aware that no data transmission over the Internet or storage system can be guaranteed as totally secure. Although we strive to protect your personal data, we do not warrant the security of any data and information that you transmit to us over the Internet and you do so at your own risk. Please notify us immediately if you believe your password or any of your personal data has been misused.
 
-“Sensitive personal information” means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, views or activities, that concerns health or sex life, information about social security benefits, or information on criminal or administrative proceedings and sanctions other than in the context of pending proceedings. In addition, T&T will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+**HOW LONG WE KEEP YOUR INFORMATION**
 
-**PRIVACY PRINCIPLES**
+Travel and Transport retains personal data for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by applicable law. When determining how long to retain personal data, we take into account our need to collect personal information for the provision of our products and services, applicable laws and regulations (including data protection laws) and our contractual and legal obligations. We may retain records to investigate or defend against potential legal claims.
 
-The privacy principles in this Policy have been developed based on the Safe Harbor Principles.
+**COOKIES**
 
-**NOTICE:**  Where T&T collects personal information directly from individuals in the EEA, it will inform them about the purposes for which it collects and uses personal information about them, the types of non–agent third parties to which T&T discloses that information, the choices and means, if any, T&T offers individuals for limiting the use and disclosure of personal information about them, and how to contact T&T. Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to T&T, or as soon as practicable thereafter, and in any event before T&T uses or discloses the information for a purpose other than that for which it was originally collected.
+**WHAT ARE COOKIES?**
 
-Where T&T receives personal information from its subsidiaries, affiliates or other entities in the EEA, it will use and disclose such information in accordance with the notices provided by such entities and the choices made by the individuals to whom such personal information relates.
+Cookies are small pieces of information created by a website that is stored in your computer either temporarily for that session only (session cookie) or permanently
 
-**CHOICE:**  T&T will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+on the hard drive (persistent cookie). Cookies provide a way for the website to recognize you and keep track of your preferences. The use of cookies is an industry standard and, as such, you will find that most major websites use them.
 
-For sensitive personal information, T&T will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+Session cookies, also called a transient cookie, is stored in temporary memory and does not collect information from your computer. This type of cookie is tied to your web browser and is typically utilized for website administration, such as keeping your website login (or session) active for a period of time. They will expire if you reach a default time-out limit, if you clear your browser cache, or when you completely close down your web browser.
 
-T&T will provide individuals with reasonable mechanisms to exercise their choices.
+Persistent cookies are not deleted when you close your browser but are stored on your computer’s hard drive. These types of cookies can be used to track your browsing across different sites in order to show you targeted advertisements when you visit. Other uses of persistent cookies may be stored when that site requires information, such as your preferences, for the next time you visit that site.
 
-**DATA INTEGRITY:**  T&T will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. T&T will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current.
+Most web browsers are initially set up to accept cookies. You can reset your web browser to refuse cookies or to indicate when a cookie is being sent. However, please note that some parts of a website, including this Site, may not function properly if you refuse cookies. For example, without cookies, the website will not be able to keep you logged in.
 
-**TRANSFERS TO AGENTS:**  T&T will obtain assurances from its agents that they will safeguard personal information consistently with this Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding (e.g., companies located in Canada). Where T&T has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, T&T will take reasonable steps to prevent or stop the use or disclosure.
+**OUR USE OF COOKIES**
 
-**ACCESS AND CORRECTION:**  Upon request, T&T will grant individuals reasonable access to personal information that it holds about them. In addition, T&T will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
+Travel and Transport utilizes session cookies in order to keep your website login active for a period of time and to track your preferences selected for that session. Additionally, we utilize a persistent cookie in order to track that you have accepted our use of cookies so that we do not prompt you again the next time you visit our Site. Travel and Transport does NOT utilize any cookies to track information about your computer or browsing activity from other websites.
 
-**SECURITY:**  T&T will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+**COLLECTION OF INFORMATION FROM CHILDREN UNDER THE AGE OF 13**
 
-**ENFORCEMENT:**  T&T will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that T&T determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment.
+Travel and Transport will never knowingly request personal data from anyone under the age of 13 without first requesting consent from a parent or legal guardian. Once parental consent is granted, the child’s personal data is treated much like anyone else’s personal data. Parents or legal guardians can change or revoke the consent choices previously made, and review, edit or request the
 
-**DISPUTE RESOLUTION:**  T&T participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in safe harbor, we have agreed to the [TRUSTe Dispute Resolution Requirements](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have complaints regarding our compliance with the Safe Harbor you should first contact the Travel and Transport Legal Counsel at the address given below. If contacting us does not resolve your complaint, you may raise your complaint by contacting [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) , by fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaints shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, please visit [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+deletion of their minor children’s personal data by contacting us as set forth below.
 
-**LIMITATION ON APPLICATION OF PRINCIPLES**
+**YOUR RIGHTS WITH RESPECT TO YOUR PERSONAL DATA**
 
-Adherence by T&T to these Safe Harbor Principles may be limited (a) to the extent required to respond to a legal or ethical obligation; (b) to the extent necessary to meet national security, public interest or law enforcement obligations; and (c) to the extent expressly permitted by an applicable law, rule or regulation.
+You may choose what personal data (if any) you wish to provide to us. However, if you choose not to provide certain details, your experience with some or all of our services or products may be affected.
 
-**INTERNET PRIVACY**
+Some data privacy or protection laws may require us to obtain a separate express consent for the processing of your personal data. Your consent may also be implied in some circumstances, as permitted by applicable law, such as when communications are required to fulfill your requests.
 
-T&T sees the Internet and the use of other technology as valuable tools to communicate and interact with consumers, employees, business partners, and others. T&T recognizes the importance of maintaining the privacy of information collected online and has created a specific Internet Privacy Policy governing the treatment of personal information collected through web sites that it operates. With respect to personal information that is transferred from the European Economic Area to the U.S., the Internet Privacy Policy is subordinate to this Policy. However, the Internet Privacy Policy also reflects additional legal requirements and evolving standards with respect to Internet privacy. T&T’s Internet Privacy Policy can be found at <http://tandt.com/privacypolicy.aspx>
+To the extent required by applicable law, you have the right to access your personal data and confirm the processing of your personal data. Also, where applicable, you have the right to rectify inaccuracies or errors, erase, restrict the processing, object to processing, withdraw consent to the processing of your personal data (or opt-out where applicable), and where applicable, the right to data portability of your personal data. Travel and Transport will handle those requests in the time specified by applicable law.
 
-**CONTACT INFORMATION**
+Please note that oftentimes Travel and Transport collects personal data under the direction of its customers, including the company you are employed by or are otherwise traveling or attending a meeting on behalf of. Your use of our products and services may be subject to such company’s policies, if any. If such company is administering your use of our products or services, please direct your privacy inquiries to the administrator of such company.
 
-Questions or comments regarding this Policy should be submitted to the Travel and Transport Corporate Counsel by mail to:
+**HOW TO CONTACT US**
 
-Corporate Counsel  
-Travel and Transport, Inc.  
-2120 S. 72nd St  
-Suite 700  
-Omaha, NE 68124
+If you have any questions about this privacy policy or wish to exercise any of your rights as described in this privacy policy, please contact us as follows:
 
-Or by e-mail to the [Travel and Transport Privacy Office](mailto:privacyoffice@tandt.com)
+Travel and Transport, Inc.
 
-**CHANGES TO THIS SAFE HARBOR PRIVACY POLICY**
+Attn: Office of the Data Protection Officer
 
-This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Principles. A notice will be posted on the Travel and Transport web page ([www.tandt.com](http://www.tandt.com/)) for 60 days whenever this Safe Harbor Privacy Policy is changed in a material way.
+Address: 2120 South 72nd Street
 
-**EFFECTIVE DATE: December 28, 2010**
+City/State/Zip: Omaha, Nebraska 68124 Email: PrivacyOffice@tandt.com
+
+Except as is otherwise stated or determined by Travel and Transport, Travel and Transport is a data controller for personal data we collect through the services and products subject to this policy. Our address is Office of the Data Protection Officer, Travel and Transport, Inc., 2120 South 72nd Street, Omaha, Nebraska 68124.
+
+Statesman Travel Limited d/b/a Travel and Transport Statesman is our data protection representative for the European Economic Area. Their address is Senator House, 85 Queen Victoria Street, London EC4V 4AB.
+
+Travel and Transport will respond to your requests to the email address or phone number that you have registered with us or we otherwise have on file for you or any other suitable method. Depending on your request, we may review the request with you or the company you are employed by or are otherwise traveling or attending a meeting on behalf of to assist in resolving and responding to the request.
+
+If you feel we have not been able to assist you with your complaint or concern, you may have the right to make a complaint to the data protection authority in your country (if one exists).
+
+**CHANGES TO THIS PRIVACY POLICY**
+
+Travel and Transport reserves the right to revise, amend or modify this privacy policy at any time and in any manner. When we post changes to this privacy policy, we will revise the “last updated” date at the top of this privacy policy. We encourage you to periodically review this privacy policy to learn how Travel and Transport is protecting your information.
+
+**EFFECTIVE DATE: May 25, 2018**
