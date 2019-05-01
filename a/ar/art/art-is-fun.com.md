@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the art-is-fun.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722090743id_/https%3A//www.art-is-fun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the art-is-fun.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501224946id_/https%3A//www.art-is-fun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Art is Fun
 
