@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jitbit.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117015107id_/https%3A//www.jitbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jitbit.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501161221id_/https%3A//www.jitbit.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Jitbit (home of Jitbit Helpdesk Software)
 
