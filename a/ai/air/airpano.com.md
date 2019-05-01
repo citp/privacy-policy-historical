@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airpano.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624003024id_/http%3A//www.airpano.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airpano.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501232832id_/http%3A//www.airpano.com/privacy_policy.php) for the most accurate reproduction.*
 
-# | 360° Aerial Panoramas, 3D Virtual Tours Around the World, Photos of the Most Interesting Places on the Earth
+# Privacy Policy
 
 ### Your Personal Information
 
