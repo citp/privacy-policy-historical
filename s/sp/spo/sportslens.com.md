@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportslens.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224063714id_/https%3A//sportslens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportslens.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501193957id_/https%3A//sportslens.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Sportslens
 
