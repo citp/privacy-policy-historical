@@ -1,175 +1,114 @@
-> *The following text is extracted and transformed from the medal.tv privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027015534id_/http%3A//medal.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medal.tv privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501151728id_/https%3A//medal.tv/privacy) for the most accurate reproduction.*
 
 # Medal - Privacy Policy
 
 Your privacy is important to us
 
-Updated on: May 1, 2017
+Updated on: May 24, 2018
 
-Welcome to Get Wrecked B.V.  Your privacy is important to us.
+Medal B.V. and its affiliates (‘’Medal’’, "us", "our" or "we") are dedicated to protecting the privacy rights of our users ("users" or "you"). This Privacy Policy (the "Policy") describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect in connection with our websites, including medal.tv, gomedal.com, and api.gomedal.com (the "Sites") or any Medal App provided on a mobile platform (for example, iOS and Android) (collectively, the "Service"). Please note that the scope of this Policy is limited to information collected or received by Medal through your use of the Service. Medal is not responsible for the actions of third party people or companies, the content of their sites, the use of information you provide to them, or any products or services they may offer. Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies. By using the Service, you are expressing your agreement to this Policy and the processing of your data, including your personal information, in the manner provided in this Policy. If you do not agree to these terms, please do not use the Service. 
 
-Get Wrecked B.V. and its affiliates ("Get Wrecked", ‘’Medal’’, "us", "our" or "we") are dedicated to protecting the privacy rights of our users ("users" or "you").  This Privacy Policy (the "Policy") describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect in connection with our websites, including medal.tv, gomedal.com, and api.gomedal.com (the "Sites") or any Medal App provided on a mobile platform (for example, iOS and Android) (collectively, the "Service").  Please note that the scope of this Policy is limited to information collected or received by Medal through your use of the Service.  Medal is not responsible for the actions of third party people or companies, the content of their sites, the use of information you provide to them, or any products or services they may offer.  Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies.
+By using the Service, you are expressing your agreement to this Policy and the processing of your data, including your personal information, in the manner provided in this Policy. If you do not agree to these terms, please do not use the Service.
 
-By using the Service, you are expressing your agreement to this Policy and the processing of your data, including your personal information, in the manner provided in this Policy.  If you do not agree to these terms, please do not use the Service.
+#### Information Collection
 
-Information Collection and Use
+When you interact with us through the Services, we may collect information from you, as further described below: Information Provided by You: We collect information from you when you voluntarily provide such information, such as when you register for access to the Services or use certain Services. Information we collect may include but not be limited to username, email address, and any messages, images, videos or other content you send via the chat feature.
 
-Medal collects information as described below. Medal's primary goals in collecting and using information is to create your account, provide Services to you, improve our Service, contact you, conduct research and create reports for internal use.  We store information on servers located in the United States via google cloud and may store information on servers and equipment in other countries.
+Data We Collect Automatically: When you interact with us through the Services, we receive and store certain information such as an IP address, device ID, and your activities within the Services. We may store such information or such information may be included in databases owned and maintained by affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of messages users have sent, as well as the sites which refer visitors to us.
 
-In order to use your community forum, you must register and provide a username, password and email address.
+We may also conduct research on our customer demographics, interests and behaviour based on the information collected. This research may be compiled and analysed on an aggregate basis, and we may share this aggregate data with our affiliates, agents and business partners. We may also disclose anonymous aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-Medal's Sites
+You may give us permission to collect your information in other services. For example, you may connect a social networking service ("SNS") such as Facebook or Twitter to your Medal account. When you do this, it allows us to obtain information from those accounts (for example, your friends or contacts).
 
-While you are browsing Medal's Sites, your computer's operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically. We may use this information to monitor, develop and analyze your use of the Service. In addition, we may ask you to submit and we may process data that is personal to you, including but not limited to your name, profile photo, gender, age or birthday, links to your profiles on social networking websites and other third party sites, user names and e-mail and mail addresses.  We may use this information to create a user profile and provide you services.  We may use your email address to contact you about your experience with Medal Sites and notify you about company news and promotions.  Your gender and birthday may be used to analyze user trends and target certain promotions. Your mail address may be used if we have merchandise or other physical promotional materials that we want to send to you.  If you no longer wish to receive these types of promotional materials, you may opt-out from receiving them at any time by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We employ cookies and similar technologies to keep track of your local computer’s settings such as which account you have logged into and notification settings. Cookies are pieces of data that sites and services can set on your browser or device that can be read on future visits. We may expand our use of cookies to save additional data as new features are added to the Service. In addition, we use technologies such as web beacons and single-pixel gifs to record log data such as open rates for emails sent by the system.
 
-Forums/Private Messages
+We may use third party website analytic tools such as Google Analytics on our website that employ cookies to collect certain information concerning your use of our Services. However, you can disable cookies by changing your browser settings. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen.
 
-Our Web sites may offer publicly accessible blogs, private messages, or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+You may see our Service advertised in other applications or websites. After clicking on one of these advertisements and installing our Service, you will become a user of the Service. Advertising platforms, which include Twitter and Facebook (and whose SDKs are integrated within our Service), may collect information for optimizing advertising campaigns outside of the Service.
 
-If you choose to use Facebook connect to use our blog or community forums, the information you provide is tied to your Facebook account. You will need to contact Facebook directly in order to request removal of personal information from our blog or community forum.
+If you do not wish to receive personalized advertising that is delivered by third parties outside of the Service, you may be able to exercise that choice through opt-out programs that are administered by third parties.
 
-Social Media (Features) and Widgets
+#### Location of Your Data
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+The Company is based in the Netherlands and in the United States. No matter where you are located, you consent to the processing and transferring of your information in and to the U.S., Europe and other countries. 
 
-iOS and Android Platforms
+#### Use of Information
 
-When you use any of the Medal services or applications on a mobile platform, we may collect and record certain information such as your unique device ID (persistent / non-persistent), hardware type, media access control ("MAC") address, international mobile equipment identity ("IMEI"), the version of your operating system ("OS"), your device name, your email address (if you have connected to Facebook or Google+), and your location (based on your Internet Protocol ("IP") address). This information is useful to us for troubleshooting and helps us understand usage trends.
+We use the information you provide in a manner that is consistent with this Privacy Policy. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the information you provide to answer your question or resolve your problem. Also, if you provide information in order to obtain access to the Services, we will use your information to provide you with access to such services and to monitor your use of such services. The Company and its affiliates may also use your information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. The Company and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. 
 
-We may collect your location based information for the purpose of providing you with the correct version of the application.  We will not share this information with any third party.  If you no longer wish to allow us to track or use this information, you may turn it off at the device level.  Please note, the application may not work properly if we are unable to tell where you are coming from (Country specific).
+#### Legal
 
-In addition, we create a unique user ID to track your use of our Service.  This unique user ID is stored in connection with your profile information to track the Medal services you are using.
+Our main reason for the processing of personal data is to meet our contractual obligations to our users, or to take steps at users’ request in anticipation of entering into a contract with them. For example, we handle personal data on this basis to create your account and provide our Services.
 
-Facebook Connect, Game Center and Google+
+We handle personal data on the ground that it furthers our legitimate interests in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals. This includes:
 
-You can log in to our site using sign-in services ("SN Service") such as Facebook Connect, LinkedIn, Apple's Game Center, or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name, email address, and resume to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+• Providing a safe and enjoyable user experience;  
+• Customer service;  
+• Marketing, e.g. sending emails or other communications to let you know about new features;  
+• Protecting our users, personnel, and property;  
+• Analysing and improving our business, e.g. collecting information about how you use our Services to optimize the design and placement of certain features;  
+• Processing job applications;  
+• Managing legal issues.
 
-We may collect and record information through the SN Service in accordance with the policies and terms of that SN Service.  The information we collect when you connect your user account to an SN Service may include: (1) your name, (2) your SN Service user identification number and/or user name, (3) locale, city, state and country, (4) sex, (5) birth date, (6) email address, (7) profile picture or its URL, and (8) the SN Service user identification numbers for your friends that are also connected to Medal's game(s).
+#### Disclosure of Information
 
-If you want us to delete the data we receive from Facebook, Game Center or Google+ about you, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+The Company is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your information with certain third parties, as set forth below: 
 
-Invite a Friend
+• Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, bankruptcy, dissolution or similar event, your information may be part of the transferred assets.
 
-Medal may offer you the opportunity to invite your contacts from a SN Service (such as your Facebook friends) so that those contacts can be located in Medal games and/or you can invite them to join you in Medal games.  Such contact information will be used only for the purpose of sending communications to the addressee.  You or the third party may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to request the removal of this information from our database to the extent Medal stores any of this information.
+• Consent: We may transfer your information with your consent.
 
-Customer Service
+• Related Companies: We may also share your information with our Related Companies for purposes consistent with this Privacy Policy.
 
-We may collect your email address when you contact our customer service group and we may use that email address to contact you about your gaming experience with Medal games and notify you about company news and promotions. If you no longer wish to receive certain email notifications you may opt-out at any time by following the unsubscribe link located at the bottom of each communication or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).
+• Agents, Consultants and Related Third Parties: Like many businesses, we sometimes hire other companies or individuals to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments.
 
-Push Notifications
+• Legal Requirements: We may disclose your information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of the Company or Related Companies, (iii) protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
 
-We may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you.  You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
+• Aggregated or Non-identifiable Data: We may also share aggregated or non-personally identifiable information with our partners or others for business purposes.
 
-Game Data Collection
+You may provide us with ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and we shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
-Whenever use our services, we collect data about all of your interactions with the app and with the other players inside the app via server log files.  This information may be associated with your player ID, IP address or device ID for the purpose of providing you our Services and improving them.  This data is stored within google cloud and firebase.
+#### Third Parties
 
-Other Collection
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by us (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-We may also acquire information from you through (1) your access and participation in message boards on the Service, (2) your participation in surveys regarding the Service or (3) your participation in a sweepstakes or contest through the Service.
+#### Data Retention
 
-We may provide you the opportunity to participate in a sweepstakes or contest through our Service. If you participate, we will request certain personal information from you.  Participation in these sweepstakes and contests are voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
+We generally retain personal data for so long as it may be relevant to the purposes identified herein. To dispose of personal data, we may anonymize it, delete it or take other appropriate steps. Data may persist in copies made for backup and business continuity purposes for additional time. 
 
-We use this information to notify winners and award prizes, to monitor traffic or personalize the Service.  We may use a third party service provider to conduct these sweepstakes or contests; that company is prohibited from using your users' personal information for any other purpose.
+#### Security
 
-Tracking Technologies 
+We take all reasonable steps to protect the information provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. 
 
-We and our marketing and outsourcing partners, affiliates, or analytics service providers use technologies such as cookies, beacons, scripts, and tags to identify a user's computer/device and to "remember" things about your visit, such as your preferences or a user name and password.  Information contained in a cookie may be linked to your personal information, such as your user ID, for purposes such as improving the quality of our Services, tailoring recommendations to your interests, and making the Service easier to use.  You can disable cookies at any time, although you may not be able to access or use features of the Service.
+#### Your Rights
 
-We may feature advertisements served by third parties that deliver cookies to your computer/device so the content you access and advertisements you see can be tracked. Since the third party advertising companies associate your computer/device with a number, they will be able to recognize your computer/device each time they send you an advertisement. These advertisers may use information about your visits to our Service and third party sites and applications in order to measure advertisement performance and to provide advertisements about goods and services of interest to you. This Policy does not apply to, and we are not responsible for the data collection practices of these third party advertisers, and we encourage you to check their privacy policies to learn more about their use of cookies and other technology.
+We believe that users should be treated equally no matter where they are, and so we are making the following options to control your data available to all users, regardless of their location. You can update certain information by accessing your profile via “Settings.” You can also unsubscribe from certain emails by clicking the “unsubscribe” link they contain. You can also opt out from certain cookie-related processing. Individuals in the European Economic Area, Canada, Costa Rica and some other jurisdictions outside the United States have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them (including, in some cases, in portable form), and to obtain its correction, update, amendment or deletion in appropriate circumstances. They may also object to our uses or disclosures of personal data, to request a restriction on its processing, or withdraw any consent, though such actions typically will not have retroactive effect. They also will not affect our ability to continue processing data in lawful ways.
 
-You may click on the following link: http://www.Get-wrecked.com/partner-opt-out for information on how to opt-out of the use of cookies for the delivery of more relevant advertising.
+• How can I access the personal data you have about me? If you would like to submit a data access request, you can do so by sending us an email to privacy@medal.tv. We will then start the process and provide you a link to access the personal data that we have on you within 30 days.
 
-Mobile Analytics
+• How do I correct, update, amend, or delete the personal data you have about me? In addition to an email request, in which you can correct, update, amend, or delete certain personal data, you can also request other modifications from us directly. Please write us at privacy@medal.tv with an explanation of what data subject right you are seeking to exercise. For your protection, we may take steps to verify identity before responding to your request.
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application.
+• How do I object or restrict the manner in which Medal processes my personal data?
 
-Third Party Services
+You have a right to ask us to stop using or limit our use of your personal data in certain circumstances—for example, if we have no lawful basis to keep using your data, or if you think your personal data is inaccurate. Medal offers you the ability to restrict the processing of your data for specific uses, which you can find in the “Settings” page of the services. Individuals in the European Economic Area have the right to opt out of all of our processing of their personal data for direct marketing purposes. To exercise this right, please see the “Settings” page for your Account (where applicable) or send us an email. You may also click the “unsubscribe” link in any of our marketing emails. The rights and options described above are subject to limitations and exceptions under applicable law. In addition to those rights, you have the right to lodge a complaint with the relevant supervisory authority. However, we encourage you to contact us first, and we will do our very best to resolve your concern.
 
-Our services may contain third party tracking tools from our service providers, examples of which include Google Analytics ,GetSocial, Facebook, Firebase Analytics and Unity Analytics. Such third parties may use cookies, APIs, and SDKs in our services to enable them to collect and analyze user information on our behalf. The third parties may have access to information such as your device identifier, MAC address, IMEI, locale (specific location where a given language is spoken), geo-location information, and IP address for the purpose of providing their services under their respective privacy policies. Our privacy policy does not cover the use of tracking tools from third parties. We do not have access or control over these third parties.
-
-Ad Networks
-
-We may feature advertising within our Service.  The advertisers may collect and use information about you, such as your Service session activity, device identifier, MAC address, IMEI, geo-location information and IP address.  They may use this information to provide advertisements of interest to you.  
-
-In addition, you may see our app advertised in other services.  After clicking on one of these advertisements and installing our app, you will become a user of our Service.  In order to verify the installs, a device identifier may be shared with the advertiser.
-
-How We Use Information
-
-We use information collected through our Service for purposes described in this Policy or disclosed to you in connection with our Service. For example, we may use your information to:
-
-create accounts and allow users to use our app;
-
-identify and suggest connections with other Medal users;
-
-operate and improve our Service;
-
-understand you and your preferences to enhance your experience and enjoyment using our Service;
-
-respond to your comments and questions and provide customer service;
-
-provide and deliver products and services you request;
-
-send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
-
-communicate with you about promotions, rewards, upcoming events, and other news about products and services offered by Medal and our selected partners;
-
-enable you to communicate with other users; and
-
-link or combine it with other information we get from third parties, to help understand your preferences and provide you with better services.
-
-Disclosure of Your information
-
-Medal does not share your personal information except as approved by you or as described below:
-
-With your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies.  If you no longer wish to allow us to share your information with third parties, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  If you no longer wish to receive such communications from third parties, please contact that third party directly.
-
-Medal may engage other companies and individuals to perform services on our behalf.  Example of these services include analyzing data and providing customer support.  These agents and service providers may have access to your personal information in connection with the performance of services for Medal.
-
-We may release your information as permitted by law, such as to comply with a subpoena, or when we believe that release is appropriate to comply with the law; investigate fraud, respond to a government request, enforce or apply our rights; or protect the rights, property, or safety of us or our users, or others.  This includes exchanging information with other companies and organizations for fraud protection.
-
-Medal may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company.  You will be notified via email and/or notice on our site of any change in ownership or users of your personal information.
-
-We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
-
-Changes to the Policy
+#### Changes to the Policy
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Security
+#### Security
 
-Medal takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties.
+Medal takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties. Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems. Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining access to this information. We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
 
-Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems. Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining access to this information.  We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+#### Our Policy Regarding Children
 
-Access to Personal Information
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to use our Service. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at privacy@medal.tv.
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, or delete inaccuracies by making the change within your account settings or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  We will respond to your access request within 30 days.
+#### General Contact Information
 
-Data Retention
+Medal B.V.  
+info@medal.tv  
++31857733181  
 
-We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Our Policy Regarding Children
-
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to use our Service. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address.  No one under the age of 13 may provide any personal information. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).
-
-Opting Out of Marketing
-
-You may opt-out of receiving promotional emails from us by following the instructions in those emails by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  If you opt-out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
-
-You may also opt-out of receiving SMS notifications from us, either via SMS or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-International Transfer
-
-We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that these countries and jurisdictions may not have the same data protection laws as your own jurisdiction, and you consent to the transfer of information and the use and disclosure of information about you, including personal information, as described in this Policy.
-
-Contact Information
-
-Get Wrecked B.V.
-
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-https://getwrecked.zendesk.com/
-
-If you have any questions about this Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).  
+If you have any questions about this Policy, please contact us at privacy@medal.tv 
