@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenah.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230064844id_/http%3A//www.teenah.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenah.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501023556id_/http%3A//www.teenah.com/privacy_policy) for the most accurate reproduction.*
 
 # teenah.com - Privacy Policy
 
