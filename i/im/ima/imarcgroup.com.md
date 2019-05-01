@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imarcgroup.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729094648id_/https%3A//www.imarcgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imarcgroup.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501102939id_/https%3A//www.imarcgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IMARC Group
 
 We value your privacy rights and take utmost care to keep your personal information secure. The following Privacy Policy explains how IMARC (“we”, “us” or “our”) use, protect and disclose the information provided by you. All our employees and business partners are strictly required to follow our Privacy Policy. 
 
-Please note that by visiting and using [ www.imarcgroup.com ](http://www.imarcgroup.com/)(“the Site”), you agree to follow this Policy and other Terms of Use.
+Please note that by visiting and using [ www.imarcgroup.com ](https://www.imarcgroup.com/)(“the Site”), you agree to follow this Policy and other Terms of Use.
 
   
 
@@ -47,3 +47,14 @@ We reserve the right to change this Privacy Policy without any prior notice to y
 
   
 
+
+#### Cookie Policy
+
+A cookie, which is a small text file that gets saved on your deice after you give your consent. We employ cookies to record your preferences and monitor session data in order to enhance site responsiveness. We use this data to better understand your likings and preferences enabling us to offer better services by providing you information that suits your needs. The cookies give us no access to any other information that you choose not to share including any of your personal information or files. You may, at any time, disable cookies whenever you visit the site, however, doing so may limit your access to site. 
+
+  
+
+
+#### GDPR Policy
+
+General Data Protection Regulation (GDPR) policy forms part of the new structure to protect personal information of European Union citizens. It lays down new standards for data gathering, storage and use by all firms functioning in the area. We comply with the GDPR policy and remain dedicated to complete transparency in our operations and protection of your personal information. Our data privacy and security team work constantly to meet the guidelines of the new data protection policy. 
