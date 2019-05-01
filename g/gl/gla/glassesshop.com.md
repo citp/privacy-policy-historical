@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glassesshop.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817082254id_/http%3A//www.glassesshop.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesshop.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501030624id_/https%3A//www.glassesshop.com/doc/privacy) for the most accurate reproduction.*
 
-# Pricacy | Glassesshop.com
+# Privacy | Glassesshop.com
 
 ###### Privacy & Security Policies
 
@@ -12,7 +12,7 @@ We collect only essential customer information such as your mailing address, pho
 
 ###### Security Policy
 
-GlassesShop.com has put in place security measures to protect the loss, misuse, or theft of the information under our control. All transactions are protected by Thawte, a world-renowned online security system. It ensures as completely as possible that every transaction is 100% safe. With the rise in fraudulent use of credit card information over the Internet, GlassesShop.com takes credit card security very seriously. Our accounting department may at times request additional information regarding the credit card account that is being used during a purchase to ensure that no improper use takes place. We are dedicated to protecting your best interests, and we believe that you will appreciate our conviction to keep your information secure.
+Security for all Personal Information is of utmost concern to us. We exercise great care in providing secure transmission of your information from your computer to our servers. Personal Information collected by our Website is stored in secure operating environments unavailable to the public. All transactions are protected by Trustwave, a world-renowned online security system. It ensures as completely as possible that every transaction is 100% safe. With the rise in fraudulent use of credit card information over the Internet, GlassesShop.com takes credit card security very seriously. Our accounting department may at times request additional information regarding the credit card account that is being used during a purchase to ensure that no improper use takes place. We are dedicated to protecting your best interests, and we believe that you will appreciate our conviction to keep your information secure.
 
 ###### About Virtual Try-on
 
