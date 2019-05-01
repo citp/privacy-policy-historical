@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fjordnet.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005015614id_/https%3A//www.fjordnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fjordnet.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501205424id_/https%3A//www.fjordnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fjord
 
