@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909125220id_/https%3A//www.7-eleven.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501205011id_/https%3A//www.7-eleven.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 7-Eleven
 
-Privacy Policy for 7-Eleven, Inc.
+Privacy Policy for 7-Eleven, Inc
 
-7-Eleven, Inc., (“7-Eleven,” “we,” “us,” or “our”) the operator of the 7-Eleven.com and Slurpee.com web sites (the “Site” or “Sites”) and certain mobile application(s) (“Apps”) is committed to preserving the privacy of those who visit the Sites or who use the Apps. This document will outline how we gather and utilize various sources of information obtained during: (i)  your visit to the Sites and use of the Apps, (ii) your participation in the 7Rewards loyalty program described at www.7eleven.com/7rewards (the “Program”), and (iii) in-store visits via beacons or Wi-Fi. This Privacy Statement applies solely to information collected at the Sites and via the Apps and via in-store beacons or in-store Wi-Fi. This Privacy Statement does not apply to any other data gathered or used by 7-Eleven including data otherwise collected in stores or through web sites not listed above.
+7-Eleven, Inc., (“7-Eleven,” “we,” “us,” or “our”) the operator of the 7-Eleven.com and Slurpee.com web sites (the “Site” or “Sites”) and certain mobile application(s) (“Apps”) is committed to preserving the privacy of those who visit the Sites or who use the Apps. This document will outline how we gather and utilize various sources of information obtained during: (i) your visit to the Sites and use of the Apps, (ii) your participation in the 7Rewards loyalty program described at www.7eleven.com/7rewards (the “Program”), and (iii) in-store visits via beacons or Wi-Fi. This Privacy Statement applies solely to information collected at the Sites and via the Apps and via in-store beacons or in-store Wi-Fi. This Privacy Statement does not apply to any other data gathered or used by 7-Eleven including data otherwise collected in stores or through web sites not listed above.
 
 Information Collection:
 
@@ -32,7 +32,7 @@ You can stop all collection of information by our Apps easily by uninstalling th
 
 Even after you opt out, service providers may collect device-specific information (such as a unique device identifier) when you use our Site. However, the Apps will not collect such information.
 
-Beacons. 7-Eleven may collect information about the location of your device when you visit a store.  For example, we may collect in-store location information using Bluetooth signals to connect to our Beacons and help you while inside our store to find nearby products or receive real-time offers.  We may use the data we collect to improve and make the 7-Eleven in-store experience more interactive, for internal operations, for marketing and promotions and advertising, and for fraud prevention and security.  Beacons transmit a Bluetooth signal that can be received by Bluetooth-enabled devices, such as a mobile phone, when those devices are within proximity of a beacon.  By acting similar to radar systems, Beacons only push out radio signal pulses to map nearby Bluetooth-enabled devices.  Beacons do not collect or pull in personal data.  Within the Apps, in-app permissions (such as permission to access location and accept Push Notifications) must be enabled for a Beacon to interact with your specific Bluetooth-enabled device.  Interactions with and notifications delivered to your device may include customer service information, in-store directions, offers and advertisements from 7-Eleven as well as other non-7-Eleven applications and advertisers.  With or without the Apps, Beacon preferences are managed through your device settings.  You may stop the collection of this information at any time by disabling Bluetooth communication on your mobile device, but note that the Apps may no longer function properly if you do so.
+Beacons. 7-Eleven may collect information about the location of your device when you visit a store. For example, we may collect in-store location information using Bluetooth signals to connect to our Beacons and help you while inside our store to utilize the Mobile Scan and Pay Feature of the 7-Eleven App, to find nearby products or receive real-time offers. We may use the data we collect to improve and make the 7-Eleven in-store experience more interactive, for internal operations, for marketing and promotions and advertising, and for fraud prevention and security. Beacons transmit a Bluetooth signal that can be received by Bluetooth-enabled devices, such as a mobile phone, when those devices are within proximity of a beacon. By acting similar to radar systems, Beacons only push out radio signal pulses to map nearby Bluetooth-enabled devices. Beacons do not collect or pull in personal data. Within the Apps, in-app permissions (such as permission to access location and accept Push Notifications) must be enabled for a Beacon to interact with your specific Bluetooth-enabled device. Interactions with and notifications delivered to your device may include customer service information, in-store directions, offers and advertisements from 7-Eleven as well as other non-7-Eleven applications and advertisers. With or without the Apps, Beacon preferences are managed through your device settings. You may stop the collection of this information at any time by disabling Bluetooth communication on your mobile device, but note that the Apps may no longer function properly if you do so.
 
 In-Store Wi-Fi. Some 7-Eleven locations offer Wi-Fi services to visitors. Wi-Fi routers capture certain data from devices that interact with the router. Some examples of data automatically collected through our Wi-Fi service may include: (a) information about your device, including a MAC Address, and telemetry data (such as signal strength and quality) related to your use of our Wi-Fi service; or (b) vendors that analyze Wi-Fi data automatically collected to provide operational insights such as foot traffic volumes, dwell times, and how costumers move through our stores. Unless we receive consent to use Wi-Fi data in a manner that identifies you or your device(s), Wi-Fi data is anonymously collected or de-identified.
 
@@ -63,6 +63,15 @@ We may also work with analytic companies to help us understand how our Sites, Ap
 Interest Based Advertising:
 
 We may participate in Interest-based and behavioral advertising. This means that you may see advertising on our website tailored to how you engage, browse or shop, or you may see advertising for 7-Eleven on other websites, applications and social media based on your behavior across websites, applications and social media. We may target ads based on data we have collected, or data provided by third parties alone or in combination with the data we collect ourselves. By using the Sites or the Apps you agree to usage tracking and targeted, behavioral advertising. If you do not wish to have cookies track your usage for these purposes please see the section in this Privacy Policy on disabling cookies or do not use the Sites and the Apps.
+
+We may permit third parties (such as Amazon) to place and use pixels on our Sites. Pixels enable such parties to show you interest-based ads on sites across the Internet (such as special offers to you for 7-Eleven products and services via the Amazon Ad Platform and via social networks).
+
+You may opt-out of the collection and use of information for such interest-based ads by following the instructions at the sites specified below:
+
+  * Opt out of multiple ad remarketing platforms at once: http://www.aboutads.info/choices
+  * Opt out of Amazon remarketing: https://www.amazon.com/adprefs
+
+
 
 Social Networking and Public Forums:
 
@@ -102,7 +111,7 @@ Opt Out:
 
 To the extent that you are receiving marketing communications from the Sites and/or Apps you have the option to unsubscribe or opt-out of future communications. You may unsubscribe or opt-out of future messages as follows.
 
-If you no longer wish to receive texts you may text the word “STOP” to the telephone number 711247 from the mobile device you wish to no longer receive texts.
+If you no longer wish to receive texts you may text the word “STOP” to the telephone number 711711 from the mobile device you wish to no longer receive texts.
 
 If you no longer wish to receive emails you may click on the hyperlink titled “Unsubscribe” at the bottom of any marketing related email sent to you by 7-Eleven, and then follow the directions to unsubscribe from email, or you can modify your preferences in your account settings located in the Apps.
 
@@ -117,11 +126,11 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 Attn: Webmaster  
 3200 Hackberry Road  
 Irving, TX 75063  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#235446414e425057465163140e12120d404c4e)
 
 Your California Privacy Rights:
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident, you may request this information once per calendar year by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident, you may request this information once per calendar year by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d3d3f243b2c2e340d7a607c7c632e2220).
 
 United States of America:
 
@@ -133,4 +142,4 @@ If you are a resident of Canada and you use the Sites and/or the Apps, your Pers
 
 Effective Date:
 
-This privacy policy is effective and was last updated on 07-06-18.
+This privacy policy is effective and was last updated on 09-21-18.
