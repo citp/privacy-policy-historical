@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europcar.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825044301id_/https%3A//www.europcar.com/security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europcar.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502002123id_/https%3A//www.europcar.com/security-and-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ### 1\. Who processes your personal data collected through this website?
 
-Europcar International S.A.S.U whose registered office is located at Bat OP - 2, rue René Caudron, 78960 Voisins-le-Bretonneux, France (hereinafter referred to as "ECI") is responsible for the processing of your personal data (i.e. any information that would allow to identify you, either directly or indirectly) collected through this website.
+Europcar International S.A.S.U whose registered office is located at 13 Ter Boulevard Berthier 75017 Paris, France (hereinafter referred to as "ECI") is responsible for the processing of your personal data (i.e. any information that would allow to identify you, either directly or indirectly) collected through this website.
 
 ### 2\. For what purposes does ECI collect your personal data?
 
