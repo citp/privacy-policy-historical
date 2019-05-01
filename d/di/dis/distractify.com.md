@@ -1,151 +1,313 @@
-> *The following text is extracted and transformed from the distractify.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508173738id_/http%3A//www.distractify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distractify.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501020140id_/https%3A//www.distractify.com/s/privacy-policy) for the most accurate reproduction.*
 
-# Distractify - Privacy
+# Privacy Policy
 
-### PRIVACY POLICY
+## **PARTNERS**
+
+We use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access or use the Site. For more information on our Parnters, please visit <http://www.kargo.com/click-info/> 
+
+You may receive advertisements based on information relating to your access to and use of the Site and other websites or online services on any of your devices, as well as on information received from third parties. These companies place or recognize a unique cookie on your browser (including through the use of pixel tags). They also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. 
+
+## **OPT OUT  **
+
+If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <https://www.kargo.com/privacy/#opt-out>, [_https://tools.google.com/dlpage/gaoptout_](https://tools.google.com/dlpage/gaoptout) and [_http://optout.networkadvertising.org/?c=1#!/_](http://optout.networkadvertising.org/?c=1#!/)
+
+**Updated: 19 September, 2018**
 
 This Privacy Policy describes the policies and procedures of Matters Media, Inc. ("we", "our" or "us") on the collection, use and disclosure of your information on www.distractify.com (the "Site") and the services, features, content or applications we offer (collectively with the Site, the "Services"). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your "Account"); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-**What Does This Privacy Policy Cover?**
+  **What Does This Privacy Policy Cover?**  
 
-This Privacy Policy covers the treatment of personally identifiable information ("Personal Information"), and other information described in this policy, gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners. 
-
-This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications, such as Facebook ("Third Party Services") that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content, privacy policies, or practices of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
+This Privacy Policy covers the treatment of personally identifiable information ("Personal Information"), and other information described in this policy, gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications, such as Facebook ("Third Party Services") that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content, privacy policies, or practices of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
 #### **What Information Do We Collect?**
 
 The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect, use, share, and/or display some of your Personal Information. We collect the following types of information from our users.
 
-Account Information:
+**PERSONAL INFORMATION**
 
-When you create an Account, you will provide information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an Account on the Services and providing Personal Information to us, you allow others, including us, to identify you. If you access the Services through Facebook credentials, we may automatically collect certain information, such as your name, picture, and email address. We will use all information available through Facebook in accordance with Facebook's policies and your preferences selected through Facebook. We may use your contact information to send you information about our Services, when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we reserve the right to contact you even if you unsubscribe when we believe it is necessary, such as for Account recovery purposes.
+“Personal Information” is information that identifies you as an individual or relates to an identifiable individual:
 
-User Content:
+Name
 
-Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties, as described in this Privacy Policy.
+Postal address (including billing and shipping addresses)
 
-Information Collected Automatically:
+Telephone number
 
-We automatically receive and record information from your device or web browser when you interact with the Services. This information may include, your IP address, an ID that we may create and associate with our content, cookie information, and other details. This information is used for fighting spam/malware, to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on and shared with others, including via email and social media), and to otherwise personalize, improve and continue to operate the Services.
+Email address
 
-To opt-out of data collection concerning the links you have shared with others, please click here We will continue to collect information concerning your other interactions with the Services.
+Credit and debit card number
 
-Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site or mobile application. We may use this data in aggregate form, that is, as a statistical measure. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
+Profile picture
 
-When you visit the Site, we may also collect information about your online activities over time and across third-party websites or online services. Because there is not yet a consensus on how companies should respond to web browser-based or other do-not-track ("DNT") mechanisms, we do not respond to web browser-based DNT signals at this time.
+Social media account ID
 
-Location Data:
+Financial information required to invoice or pay you
 
-Some of our Services, such as mobile applications, may collect geo-location data to provide location-related functionality. We may link location data to other information we have collected about you. You may stop sharing your location data by adjusting your mobile device’s location services settings. For instruction on changing the relevant settings, please contact your service provider or device manufacturer.
+**Collection of Personal Information**
 
-Email Communications:
+We and our service providers collect Personal Information in a variety of ways, including:
 
-We may receive a confirmation when you open an email from us. We use this confirmation to improve our Services, including customer service.
+Through the Site
 
-Information Collected Using Cookies:
+We collect Personal Information through the Site, for example, when you sign up for a newsletter or make a purchase.
 
-Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site, share our content, and otherwise use the Services through the Internet.
+From Other Sources
 
-We may use cookies and other automated data collection means to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one, the device you use to connect to the Services, or email or social media accounts that you use to share our content.
+We receive your Personal Information from other sources, such as publicly available databases;
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services.
+Joint marketing partners, when they share the information with us
 
-This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
+If you connect your social media account to your Site account, you will share certain Personal Information from your social media account with us, for example, your name, email address, photo, list of social media contacts, and any other information that may be or you make accessible to us when you connect your social media account to your Site account.
 
-Information Related to Advertising and the Use of Web Beacons:
+We need to collect Personal Information in order to provide the Site to you. If you do not provide the information requested, we may not be able to provide the Site. If you disclose any Personal Information relating to other people to us or to our service providers in connection with the Site, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-To support and enhance the Services, we may serve advertisements, and also allow third parties advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called "ad networks." Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. We may engage with ad networks that are members or organizations or programs that manage the advertising privacy choices these ad networks offer consumers. To learn more about and adjust your preferences, please click _here_.
+**Use of Personal Information**
 
-When you visit our Site or use our mobile applications or other Services, ad networks and other parties may collect information about your online activities over time and across different websites. We are not responsible for the privacy practices of these ad networks and other parties.
+We and our service providers use Personal Information for legitimate business purposes, including: 
 
-Advertisements served through the Services may be targeted to users who fit a certain general profile category may be inferred from information provided to us by a user, may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use other than in connection with the Services.
+Providing the functionality of the Site and fulfilling your requests.
 
-To increase the effectiveness of ad delivery, we may deliver a file (known as a "web beacon") from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
+To provide the Site’s functionality to you.
 
-Aggregate Information:
+To respond to your inquiries and fulfill your requests.
 
-We collect statistical information about how both unregistered and registered users, collectively, use the Services ("Aggregate Information"). Some of this information is derived from Personal Information.
+To send administrative information to you, such as changes to our terms, conditions, and policies.
 
-#### **How, and With Whom, Is My Information Shared?**
+To allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
 
-The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties.
+We engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation. 
 
-Public Information about Your Activity on the Services:
+Providing you with our newsletter and/or other marketing materials and facilitating social sharing.
 
-Some of your activity on and through the Services is public by default. This may include, but is not limited to, content you have posted or shared publicly on the Site or otherwise through the Services, such as written posts, comments, or other submissions by you to the Site.
+To send you marketing communications that we believe may be of interest to you.
 
-Registered users may have some of this information associated with their Accounts. In addition, Information concerning the use of the Services (such as what pages they have visited) by unregistered users may be tracked through the use of cookies and other automated data collection means, and stored by us.
+To facilitate social sharing functionality that you choose to use.
 
-Please also remember that by choosing to provide Personal Information using certain public features of the Services, you make your information publicly available. User reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.
+We engage in these activities with your consent, to the extent consent is required by applicable law.
 
-IP Address Information:
+Analysis of Personal Information for business reporting and providing personalized services. 
 
-While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other entities with whom we conduct business, and as otherwise specified in this Privacy Policy.
+To personalize your experience on the Site by presenting content, products, and offers tailored to you.
 
-Information You Elect to Share:
+We provide personalized services either with your consent or because we have a legitimate interest. 
 
-You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. Some of those Third Party Services may report information back to us (for example, retailers participating in our advertising programs may share information about users' purchases with us). We are not responsible for the privacy policies and practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services' privacy policies. This Privacy Policy only governs information we collect in connection with the Services.
+Allowing you to participate in sweepstakes, contests or other promotions.
 
-Aggregate Information:
+We may offer you the opportunity to participate in a sweepstakes, contest or other promotion.
 
-We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us information about you that they have independently developed or acquired.
+Some of these promotions have additional rules, which could contain information about how we will use and disclose your Personal Information.
 
-Email Communications with Us:
+We use this information to manage our contractual relationship with you. 
 
-As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will be sent for purposes important to the Services, such as password recovery. We may use your email address to contact you for editorial purposes, to advise you of any changes to our Site, and to send you messages about our marketing partners' products. You may choose not to receive our marketing emails by clicking on the unsubscribe link in the emails you receive from us. Please note that even if you opt out, we may continue sending you service-related information.
+Aggregating and/or anonymizing Personal Information.
 
-User Profile Information:
+We may aggregate and/or anonymize Personal Information so that it will no longer be considered Personal Information. We do so to generate other data for our use, which we may use and disclose for any purpose.
 
-User profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the Services. We will not reveal user email addresses to other users of the Site.
+Accomplishing our business purposes.
 
-Information Shared with Our Service Providers:
+For data analysis, for example, to improve the efficiency of our Site.
 
-We employ and contract with service providers - individuals and entities that perform certain tasks on our behalf. We may need to share Personal Information with our service providers in order to provide products or services to you. We do not authorize our service providers to use Personal Information or other information we share with them beyond what is necessary to assist us.
+For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory or contractual requirements.
 
-Information Disclosed Pursuant to Business Transfers:
+For fraud and security monitoring purposes, for example, to detect and prevent cyber attacks or attempts to commit identity theft.
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, user information, including Personal Information, is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur. Following the transfer of user information in the circumstances described in this paragraph, all inquiries concerning the processing of user information should be directed to the entity to which the information is transferred.
+For developing new products and services.
 
-Information Disclosed for Our Protection and the Protection of Others:
+For enhancing, improving, or modifying the Site and our services.
 
-We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+For identifying usage trends, for example, understanding which parts of our Site are of most interest to users.
 
-Information We Share With Your Consent:
+For determining the effectiveness of our promotional campaigns, so that we can adapt our campaigns to the needs and interests of our users.
 
-In addition to the types of sharing Personal Information described above, we may share your information with third parties with your consent, by notifying you of the sharing and giving you the opportunity to prevent the sharing of your information.
+For operating and expanding our business activities, for example, understanding which parts of our Site are of most interest to our users so we can focus our energies on meeting our users’ interests.
 
-#### **Is Information About Me Secure?**
+We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
 
-Your Account information will be protected by a password for your privacy and security. You need to help prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account.
+**Disclosure of Personal Information**
 
-We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+We disclose Personal Information:
 
-We otherwise store all of our information, including your IP address information, using techniques reasonably designed to secure the information. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.
+To our third party service providers, to facilitate services they provide to us.
 
-#### **What Information of Mine Can I Access?**
+These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
 
-If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
+To third parties like SendPulse, to permit them to send you marketing communications, consistent with your choices. 
 
-California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 111 E. 18th Street, 13th Floor, New York, NY 10003
+To third-party sponsors of sweepstakes, contests, and similar promotions.
 
-#### **How Can I Delete My Account?**
+By using the Site, you may elect to disclose Personal Information:
 
-Should you ever decide to delete your Account, you may do so by emailing copyright@distractify.com. If you terminate your Account, any information you provided will no longer be accessible via your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
+On message boards, chat, profile pages, blogs and other services to which you are able to post information and content. Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.
 
-#### **What Choices Do I Have Regarding My Information?**
+To identify you to anyone to whom you send a message via the Site.
 
-The Privacy Policy also explains the privacy choices you have when using the Services, including with respect to cookies, marketing emails, targeted advertising, location data and the sharing of your information by Distractify.
+Through your social sharing activity. When you connect your Site account with your social media account, you will share information with your friends associated with your social media account, with other users, and with your social media account provider. By doing so, you authorize us to facilitate this sharing of information, and you understand that the use of shared information will be governed by the social media provider’s privacy policy.
 
-You can use many of the features of the Services without registering, thereby limiting the types of Personal Information that we collect.
+**Other Uses and Disclosures**
 
-You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.
+We also use and disclose your Personal Information as necessary or appropriate, especially when we have a legal obligation or legitimate interest to do so:
 
-#### **What Happens When There Are Changes to this Privacy Policy?**
+To comply with applicable law.
 
-We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+This can include laws outside your country of residence.
 
-#### **What If I Have Questions or Concerns?**
+To respond to requests from public and government authorities.
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to copyright@distractify.com.
+These can include authorities outside your country of residence.
 
-**Effective Date** : 01-01-2017
+To cooperate with law enforcement.
+
+For example, when we respond to law enforcement requests and orders.
+
+For other legal reasons. 
+
+To enforce our terms and conditions; and
+
+To protect our rights, privacy, safety or property, and/or that of our affiliates, you or others.
+
+In connection with a sale or business transaction.
+
+We have a legitimate interest in disclosing or transferring your Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). Such third parties may include, for example, an acquiring entity and its advisors.
+
+**OTHER INFORMATION**
+
+“Other Information” is any information that does not reveal your specific identity or does not directly relate to an individual:
+
+Browser information
+
+Server log files
+
+Information collected through cookies, pixel tags, and other technologies
+
+Demographic information and other information provided by you that does not reveal your specific identity
+
+Information that has been aggregated in a manner such that it no longer reveals your specific identity
+
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information as detailed in this Privacy Policy.
+
+**Collection of Other Information**
+
+We and our service providers collect Other Information in a variety of ways:
+
+Through your browser or device:
+
+Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Mac), screen resolution, operating system name and version, device manufacturer and model, language and Internet browser type you are using. We use this information to ensure that the Site functions properly.
+
+IP Address:
+
+Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address can be identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site.
+
+Using cookies:
+
+Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Site, as well as for online tracking purposes. We also gather statistical information about the usage of the Site in order to continually improve the design and functionality, understand how the Site is used and to assist us with resolving questions regarding the Site. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Site. We also use cookies in online advertising to track responses to our advertisements and we use cookies or other files to track your use of other websites.
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to [_http://www.allaboutcookies.org/manage-cookies/index.html_](http://www.allaboutcookies.org/manage-cookies/index.html) __ and [_https://tools.google.com/dlpage/gaoptout_](https://tools.google.com/dlpage/gaoptout). However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site. For example, we may not be able to recognize your computer and you may need to log in every time you visit the Site. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+
+“Do Not Track” signals:
+
+The Site will continue to operate as described in this Privacy Policy, whether or not a “Do Not Track” signal or similar mechanism is received from your browser.
+
+Using pixel tags and other similar technologies:
+
+Pixel tags (also known as web beacons and clear GIFs) are used in connection with some Site pages and HTML-formatted email messages to, among other things, track the actions of Site users and email recipients, measure the success of our marketing campaigns and compile statistics about Site usage and response rates.
+
+Physical Location:
+
+We collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We use your device’s physical location to provide you with personalized location-based services and content. We also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our service providers and/or marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we, our service providers and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
+
+From you:
+
+Information such as your preferred means of communication is collected when you voluntarily provide this information.
+
+**Uses and Disclosures of Other Information**
+
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
+
+**PARTNERS**
+
+We use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access or use the Site. For more information on our Parnters, please visit [**http://www.kargo.com/click-info/**](http://www.kargo.com/click-info/) 
+
+You may receive advertisements based on information relating to your access to and use of the Site and other websites or online services on any of your devices, as well as on information received from third parties. These companies place or recognize a unique cookie on your browser (including through the use of pixel tags). They also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. 
+
+**OPT OUT  **
+
+If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit [**https://www.kargo.com/privacy/#opt-out**](https://www.kargo.com/privacy/#opt-out), [_**https://tools.google.com/dlpage/gaoptout**_](https://tools.google.com/dlpage/gaoptout) and [_**http://optout.networkadvertising.org/?c=1#!/**_](http://optout.networkadvertising.org/?c=1#!/)
+
+**THIRD PARTY SITES OR SERVICES**
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site or service by us or by our affiliates.
+
+**SECURITY**
+
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. Please also be aware that we use third-party cloud service providers that provide hosting, data storage and other services pursuant to standard terms and conditions that may be non-negotiable; these service providers have informed us or the general public that they apply security measures they consider adequate for the protection of information within their system, or they have a general reputation for applying such measures. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us in accordance with the “Contacting Us” section below.
+
+**CHOICES AND ACCESS**
+
+Your choices regarding our use and disclosure of your Personal Information
+
+We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
+
+Receiving marketing-related emails from us: If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking on the unsubscribe links provided in emails.
+
+Our sharing of your Personal Information with affiliates for their direct marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by turning off this feature in any services we provide you.
+
+Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by turning off this feature in any services we provide you.
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that, if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+**How you can access or change or delete your Personal Information**
+
+If you would like to request to review correct, update, suppress, restrict or delete Personal Information that you have previously provided to us, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by writing to us at contact@distractify.com or to Personal Information Request, Distractify, 6 W 18th St, Floor 9, New York, NY 10011
+
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion).
+
+**RETENTION PERIOD**
+
+We retain Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law.
+
+The criteria used to determine our retention periods include: 
+
+The length of time we have an ongoing relationship with you and provide the Site to you (for example, for as long as you have an account with us or keep using the Site);
+
+Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+
+Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
+
+**USE OF SITE BY MINORS**
+
+The Site is not directed to individuals under the age of thirteen (13), and we do not knowingly collect Personal Information from individuals under 13.
+
+**JURISDICTION AND CROSS-BORDER TRANSFER**
+
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Site you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.
+
+If you are located in the European Economic Area (comprised of the EU Member States, Iceland, Liechtenstein, and Norway, together “EEA”): Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available here [_https://ec.europa.eu/info/law/law-topic/data-protection_en_](https://ec.europa.eu/info/law/law-topic/data-protection_en). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission to protect your Personal Information. You may obtain a copy of these measures by contacting us in accordance with the “Contacting Us” section below.
+
+**SENSITIVE INFORMATION**
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (for example, social security numbers, credit card information, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Site or otherwise to us.
+
+**THIRD PARTY PAYMENT SERVICE**
+
+We will use a third-party payment service to process payments made through the Site. If you wish to make a payment through the Site, your Personal Information will be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.
+
+**CONTACTING US**
+
+Distractify is located at Distractify, 6 W 18th St, Floor 9, New York, NY 1001, is the company responsible for the collection, use, and disclosure of your Personal Information under this Privacy Policy.
+
+If you have any questions about this Privacy Policy, please contact us by email at contact@Distractify.com, or please write to the following address:
+
+Distractify, 6 W 18th St, Floor 9, New York, NY 10011
+
+Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us.
+
+**ADDITIONAL INFORMATION FOR INDIVIDUALS IN THE EEA**
+
+If you are located in the EEA, you also may:
+
+Contact us at contact@distractify.com with any questions about this Privacy Policy.
+
+Lodge a complaint with a data protection authority for your country or region, or where an alleged infringement of applicable data protection law occurs.
