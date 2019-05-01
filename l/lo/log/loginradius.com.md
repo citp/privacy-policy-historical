@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030215634id_/https%3A//www.loginradius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501221733id_/https%3A//www.loginradius.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | LoginRadius
 
 #### Introduction
 
@@ -24,7 +24,7 @@ We aim to collect and use such information as is required to enable us to manage
 
 Two types of information may be collected through the Website and our Services: Personal Information and Non-Personal Information. This Privacy Policy does not extend to the collection, use, or disclosure of the following information which is currently not limited by applicable privacy laws: (a) information that is publicly available, such as names, addresses, telephone numbers, and electronic addresses when listed in a directory or made available through directory assistance; or (b) Non-Personal Information (as defined further below).
 
-" _Personal Information_ " is personally identifiable information, such as your name, address, email address, credit card information, birth date, and gender. At the time of collection, we will clearly identify the information being collected and the purposes for which it will be used. It is always the Customer’s choice whether or not to provide Personal Information, but if the Customer chooses not to provide certain requested Personal Information, in some instances the Customer may not be able to register to use the Website, or be able to access and use the Website at all.
+" _Personal Information_ " is personally identifiable information, such as your name, address, email address, credit card information, birth date, and gender. At the time of collection, we will clearly identify the information being collected and the purposes for which it will be used. It is always the Customer’s choice whether or not to provide Personal Information, but if the Customer chooses not to provide certain requested Personal Information, in some instances the Customer may not be able to register to use the Website, or be able to access and use the Website at all. 
 
 In other instances, the Customers’ choice not to provide certain Personal Information may mean that the Customer will not be able to use certain features of the Website or the Service. We may collect Personal Information through registration processes, communications with the Customer, information downloads, service use, user support, and surveys.
 
@@ -55,7 +55,7 @@ Any personal data you provide us is securely stored in a database which only a f
 
 LoginRadius complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. LoginRadius has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. This also applies to the personal information gathered from our prospect and current employees who are citizens of European Union and Switzerland. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-In compliance with the Privacy Shield Principles, LoginRadius commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should direct any inquiries or complaints concerning our Privacy Shield compliance to legal@loginradius.com. LoginRadius will respond within 45 days. If we fail to respond within that time, or if our response does not address your concern, you may contact the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA), which provides an independent third-party dispute resolution body based in the United States, [here](http://go.adr.org/privacyshield.html). ICDR/AAA has committed to respond to complaints and to provide appropriate recourse at no cost to you.
+In compliance with the Privacy Shield Principles, LoginRadius commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should direct any inquiries or complaints concerning our Privacy Shield compliance to legal@loginradius.com. LoginRadius will respond within 45 days. If we fail to respond within that time, or if our response does not address your concern, you may contact the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA), which provides an independent third-party dispute resolution body based in the United States, [here](https://go.adr.org/privacyshield.html). ICDR/AAA has committed to respond to complaints and to provide appropriate recourse at no cost to you.
 
 LoginRadius responsibility includes processing of received personal data, under each Privacy Shield Framework, and transfer it to designated third party agent acting on our behalf. LoginRadius is compliant with the Privacy Shield Principles for transfer of personal data from the EU and Switzerland, including liability provision for the same. Personal data received or transferred pursuant to privacy shield frameworks, LoginRadius will abide by the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
@@ -69,6 +69,24 @@ We offer you choices regarding the data collection, use, and sharing of your per
 
 You can ask us to correct and, where relevant, erase your information. Please note that certain Personal Information may need to be retained by LoginRadius for a period of time following cancellation of your account. This is necessary for legitimate business purposes and required or authorized by applicable law. As mentioned above you have a right to change your Personal Information at any time by logging into your LoginRadius dashboard or by sending us an email.
 
+#### Cookie/Tracking Technology
+
+The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the site. Cookies can also help customize the site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information.
+
+#### Online Advertising
+
+We have active advertising campaigns from third parties collecting cookies from our web users. This information is used for conversion and remarketing purposes.
+
+You should be informed of the Following:
+
+  * LoginRadius has implemented and uses Display Advertising.
+  * Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager.
+  * LoginRadius uses Remarketing with a number of third-party advertising solutions.
+  * Third-party vendors, including Google, show our ads on sites across the Internet.
+  * LoginRadius and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to your website.
+
+
+
 #### Business Relationships with Social ID Providers
 
 LoginRadius may have business relations (or partnerships) with some social ID providers such as Google, Facebook, Amazon, etc. However, we are not responsible for the terms of use and privacy policies for any of these social ID providers. Please visit their websites for more information about their privacy policies and terms of use.
@@ -80,14 +98,14 @@ We may update this Privacy Policy by posting a new version on our website. If we
 #### Contact and Questions
 
 If you have any questions about this Privacy Policy,  
-please contact our email at: [privacy@loginradius.com](mailto:%20privacy@loginradius.com)
+please contact our email at: [privacy@loginradius.com](mailto:privacy@loginradius.com)
 
 #### Additional Terms of Service
 
-If you are a customer of LoginRadius, your use of the LoginRadius Service is subject to LoginRadius Terms of Service, available at [www.loginradius.com/terms](https://www.loginradius.com/terms)
+If you are a customer of LoginRadius, your use of the LoginRadius Service is subject to LoginRadius Terms of Service, available at [www.loginradius.com/terms](https://www.loginradius.com/terms/)
 
 Address: General Counsel,  
 c/o LoginRadius Inc.  
 500 - 1281 W Georgia Street  
 Vancouver BC  
-Canada V6E 3J7
+Canada V6E 3J7 
