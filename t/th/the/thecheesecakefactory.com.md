@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecheesecakefactory.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223191404id_/https%3A//www.thecheesecakefactory.com/corporate-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecheesecakefactory.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501192155id_/https%3A//www.thecheesecakefactory.com/corporate-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
