@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freecycle.org privacy policy that was archived on 2017-10-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171001061333id_/https%3A//www.freecycle.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freecycle.org privacy policy that was archived on 2019-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190501104153id_/https%3A//www.freecycle.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="i_default"><head>
     <meta charset="utf-8">
@@ -14,55 +14,199 @@
     <link rel="apple-touch-icon" sizes="114x114" href="//static.freecycle.org/images/apple-touch-icon-retina.png">
     <link rel="apple-touch-icon" sizes="144x144" href="//static.freecycle.org/images/apple-ipad-icon-retina.png">
     <link rel="stylesheet" type="text/css" href="//static.freecycle.org/css/freecycle.css">
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/i_default/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//static.freecycle.org/js/freecycle.js"></script> <script>
+    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/i_default/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//static.freecycle.org/js/freecycle.js"></script> <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-12614335-1', 'auto');
-  ga('send', 'pageview');
+  ga('set', 'allowAdFeatures', false);
+ ga('send', 'pageview');
 
 </script>
 
- 
-<!-- Start GPT Async Tag -->
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script>
-  var gptadslots = [];
-  var googletag = googletag || {cmd:[]};
-</script>
-<script>
+      <!-- Prebid Custom Config Section START -->
+  <!-- Make sure this is inserted before your GPT tag -->
+  <script> 
+    var PREBID_TIMEOUT = 1200;
 
+    // Add more bidders like Oath, etc later...
+    var adUnits =  [{
+		"code": "div-gpt-ad-8054601-1",
+		"bids": [
+		   {
+			"bidder": "openx",
+			"params": {
+                		"unit": "539508013",
+                		"delDomain":  "freecycle-d.openx.net"
+          		}
+		   },
+		   {
+			"bidder": "onedisplay",
+			"params": {
+                		"placement": "4741552",
+                		"network":  "11209.1"
+          		}
+		   },
+		   {
+			"bidder": "sovrn",
+			"params": {
+				"tagid": 533972
+			}
+		   }
+		],
+		"sizes": [
+			[300, 250]
+		]
+	}, {
+		"code": "div-gpt-ad-8054602-1",
+		"bids": [
+		   {
+			"bidder": "openx",
+			"params": {
+                		"unit": "539508016",
+                		"delDomain":  "freecycle-d.openx.net"
+          		}
+		   },
+		   {
+			"bidder": "onedisplay",
+			"params": {
+                		"placement": "4741554",
+                		"network":  "11209.1"
+          		}
+		   },
+		   {
+			"bidder": "sovrn",
+			"params": {
+				"tagid": 533973
+			}
+		   }
+		],
+		"sizes": [
+			[300, 250]
+		]
+	}, {
+		"code": "div-gpt-ad-8054603-1",
+		"bids": [
+		   {
+			"bidder": "openx",
+			"params": {
+                		"unit": "539508017",
+                		"delDomain":  "freecycle-d.openx.net"
+          		}
+		   },
+		   {
+			"bidder": "onedisplay",
+			"params": {
+                		"placement": "4741553",
+                		"network":  "11209.1"
+          		}
+		   },
+		   {
+			"bidder": "sovrn",
+			"params": {
+				"tagid": 533974
+			}
+		   }
+		],
+		"sizes": [
+			[160, 600]
+		]
+	}
+    ];
+
+    console.log("prebid configured.");
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+
+  </script>
+  <!-- Prebid Config Section END -->
+  
+  <!-- Prebid Boilerplate Section START. No Need to Edit. -->
+  <script type="text/javascript" src="//static.freecycle.org/js/prebid_tfn.js" async=""></script>
+  <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+    });
+
+    pbjs.que.push(function() {
+        pbjs.addAdUnits(adUnits);
+	pbjs.enableSendAllBids();
+	pbjs.enableAnalytics([
+	   {
+        	provider: 'ga',
+        	options: {
+            		enableDistribution: false
+        	}
+    	   }, 
+	   {
+        	provider: 'pubwise',
+        	options: {
+            		site: 'd86b34cf-c25f-4163-a19a-4184064fc1fe',
+            		endpoint:'https://api.pubwise.io/api/v4/event/add/'
+            	}
+           } 
+	]);
+        pbjs.requestBids({
+            bidsBackHandler: sendAdserverRequest
+        });
+    });
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function() {
+            pbjs.que.push(function() {
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+
+    setTimeout(function() {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+
+  </script>
+  <!-- Prebid Boilerplate Section END -->
+
+  <script>
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+  </script>
+
+  <script>
+//***************  define our actual TFN ad slots.
 googletag.cmd.push(function() {
-   // Adslot 1 declaration
-   gptadslots.push(googletag.defineSlot('/1053204/newBottomLeft', [[300,250]], 'div-gpt-ad-8054601-1')
-                             .setForceSafeFrame(true)
-                             .addService(googletag.pubads()));
+	googletag.defineSlot('/1053204/newBottomLeft', [
+		[300, 250]
+	], 'div-gpt-ad-8054601-1').addService(googletag.pubads());
+	googletag.defineSlot('/1053204/newBottomRight', [
+		[300, 250]
+	], 'div-gpt-ad-8054602-1').addService(googletag.pubads());
+	googletag.defineSlot('/1053204/newRightTower', [
+		[160, 600]
+	], 'div-gpt-ad-8054603-1').addService(googletag.pubads());
 
-   // Adslot 2 declaration
-   gptadslots.push(googletag.defineSlot('/1053204/newBottomRight', [[300,250]], 'div-gpt-ad-8054602-1')
-                             .setForceSafeFrame(true)
-                             .addService(googletag.pubads()));
-
-   // right sidebar Adslot
-   gptadslots.push(googletag.defineSlot('/1053204/newRightTower', [[160,600]], 'div-gpt-ad-8054603-1')
-                             .setForceSafeFrame(true)
-                             .addService(googletag.pubads()));
-
-   // onScroll Sovrn VET code.
-   googletag.defineSlot('/1053204/OnScrollforVET', [1, 1], 'div-gpt-ad-1493915166052-0').addService(googletag.pubads());
-
-   // this is our little internal 'volunteer' or 'donate' ad  TODO: this should only be loaded on certain pages.
-   googletag.defineSlot('/1053204/groups_box_right_top', [[160, 80]], 'div-gpt-ad-1430927965333-1').addService(googletag.pubads());
-
-   // googletag.pubads().enableSingleRequest();
-   googletag.pubads().collapseEmptyDivs();
-   googletag.enableServices();
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices()
 });
-</script>
-<!-- End GPT Async Tag -->
-     </head><body><div id="fb-root"></div>
+  </script>
+
+<!-- Sovrn OneTag code. outside of DFP and header bidding... -->
+<script src="//get.s-onetag.com/31b96d5d-a076-42df-a1ab-156f616f8bfe/tag.min.js" async="" defer=""></script>
+      </head><body class="c24"><div id="fb-root"></div>
 <script>(function(d, s, id) {
           var js, fjs = d.getElementsByTagName(s)[0];
           if (d.getElementById(id)) return;
@@ -76,7 +220,7 @@ googletag.cmd.push(function() {
 
   <nav id="skip_nav_menu"><a href="#content">Skip navigation menu</a><hr></nav>
 
-<nav id="main_menu"> <a href="https://www.freecycle.org" class="menu_header " title="Home">Home</a> <a href="https://www.freecycle.org/browse/" class="menu_header " title="Browse Groups">Browse Groups</a> <a href="http://faq.freecycle.org/" id="mmenu_faq" class="menu_header " title="FAQ">FAQ</a> <a href="https://www.freecycle.org/about/" id="mmenu_about" class="menu_header " title="About Freecycle™">About Freecycle™</a> <a href="https://www.freecycle.org/donate" class="menu_header menu_header_2" title="Donate">Donate</a> <a href="http://store.freecycle.org/" class="menu_header menu_header_2" title="Store">Store</a> <a href="https://www.freecycle.org/about/sponsors" class="menu_header menu_header_2" title="Sponsors">Sponsors</a>  <a href="https://my.freecycle.org/" class="menu_header " title="Log in/Sign up">Log in/Sign up</a>  </nav>
+<nav id="main_menu"> <a href="https://www.freecycle.org" class="menu_header " title="Home">Home</a> <a href="https://www.freecycle.org/browse/" class="menu_header " title="Browse Groups">Browse Groups</a> <a href="http://faq.freecycle.org/" id="mmenu_faq" class="menu_header " title="FAQ">FAQ</a> <a href="https://www.freecycle.org/about/" id="mmenu_about" class="menu_header " title="About Freecycle™">About Freecycle™</a> <a href="https://www.freecycle.org/donate" class="menu_header menu_header_2" title="Donate">Donate</a> <a href="https://www.freecycle.org/about/sponsors" class="menu_header menu_header_2" title="Sponsors">Sponsors</a>  <a href="https://my.freecycle.org/" class="menu_header " title="Log in/Sign up">Log in/Sign up</a>  </nav>
 <nav id="dyn_myf">
   <a href="http://my.freecycle.org/home/info" class="menu_item" title="My Info">My Info</a>
   <a href="http://my.freecycle.org/home/groups" class="menu_item" title="My Groups">My Groups</a>
@@ -102,39 +246,461 @@ googletag.cmd.push(function() {
 <nav id="dyn_faq">
  <a href="http://wiki.freecycle.org/MemberFAQ" class="menu_item" title="Member FAQ">Member FAQ</a>
  <a href="http://wiki.freecycle.org/Moderator_Manual:Main_Page" class="menu_item" title="Moderator Manual">Moderator Manual</a>
-</nav>    <header id="main_logo" class="boxCenter">
+</nav>   <!-- only show this stuff if you're logged in -->  <style>
+#blocker_message {
+       
+        border: 2px solid black;
+        border-radius: 10px;
+        display: none;
+        align-self: center;
+        text-align: center;
+	font-size: .8em;
+        margin-top: 5px;
+        padding: 5px 80px 5px 80px;
+        background-color: #eee;
+}
+</style>
+<div id="blocker_message">Please consider turning off your ad-blocking software for this site, and/or making a <a href="//www.freecycle.org/donate">donation</a>. As a charitable nonprofit we rely on this income to keep this site running. <br>Big thank-you hug!</div>  <!-- fundraiser box goes here if we're doing it -->         <header id="main_logo" class="boxCenter">
     <img src="//static.freecycle.org/images/freecycle_logo.jpg" alt="logo of The Freecycle Network" title="The Freecycle Network" height="100" width="213">
     <p id="tagline">changing the world<br>one gift at a time™</p>
-</header>  <section id="content"> <article class="mostWidth textJustify boxCenter">
-<header><h1>Privacy Policy</h1></header>
+</header>  <section id="content"> 
 
-<header><h2>Our Commitment to Privacy</h2></header>
-	<p>The Freecycle Network respects everyone's right to privacy. This section summarizes what personally identifiable information we may collect, if any, and how we might use this information. This policy also describes other important topics relating to your privacy. The Freecycle Network reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages.</p>
+<style>
+    ul.lst-kix_25g15knxlhrp-2 {
+        list-style-type: none
+    }
 
-<header><h2>Use of Cookies</h2></header>
-	<p>The Freecycle Network websites may use cookies to verify its visitors' identity to provide services related to the use of Groups. However, it should be noted that some Freecycle groups currently operate in the Yahoo!Groups environment, which means that cookies may be used in accordance with Yahoo's aims. It should be noted that cookies can also be used to further the aims of individual groups, for example, to ensure that each visitor may vote in any online poll only once. Cookies set by and for Yahoo!Groups are outside the control of The Freecycle network and are subject to Yahoo!Group's privacy policy.</p>
+    ul.lst-kix_25g15knxlhrp-3 {
+        list-style-type: none
+    }
 
-<header><h2>Children</h2></header>
-	<p>Children may participate only with the permission and supervision of their parents and/or guardians. Freecycle.org does not intend to collect any information from individuals under the age of 13.</p>
- 
-<header><h2>Information Collection</h2></header>
-	<p>In general, when you visit the Freecycle Web site and access information, you remain anonymous. We do not require you to register or provide personal information to us in order to view our site. There are occasions when we will ask for additional information, such as when you apply to become a member of a Freecycle group or make a donation to Freecycle. In these cases, we will only collect personally identifiable information (such as name, address, telephone number, or e-mail address) that you voluntarily provide through our Web site or via e-mail correspondence.</p>
-	<p>We will not sell or exchange your personal information at any time. We will collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to improve our Web site and better meet your needs.</p>
+    ul.lst-kix_25g15knxlhrp-4 {
+        list-style-type: none
+    }
 
-<header><h2>Use of Information</h2></header>
-	<p>Before we collect any personally identifiable information, we will provide an explanation for the possible use of your data. For example, the information you supply might be used by The Freecycle Network to respond to your inquiries or supply you with requested information. It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information. If you have submitted personal information to us electronically and would like it removed or modified, please contact us. We will use every possible reasonable effort to comply with your request.</p>
+    ul.lst-kix_25g15knxlhrp-5 {
+        list-style-type: none
+    }
 
-<header><h2>Links</h2></header>
-	<p>While Freecycle is highly selective about which sites we provide links to, we do not control these Web sites, nor do we endorse or otherwise accept responsibility for the content or privacy policies of those sites. We encourage you to review the privacy policies posted on third party sites.</p>
+    ul.lst-kix_25g15knxlhrp-6 {
+        list-style-type: none
+    }
 
-<header><h2>Contact Us</h2></header>
-	<p>Please contact us by email or in writing at:</p>
-	<address>
-		<a href="mailto:info@freecycle.org">info@freecycle.org</a><br>
-		The Freecycle Network, P.O. Box 294, Tucson, Arizona 85702
-	</address>
+    ul.lst-kix_25g15knxlhrp-7 {
+        list-style-type: none
+    }
 
-</article>  <section id="social_media_buttons">
+    ul.lst-kix_25g15knxlhrp-8 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_25g15knxlhrp-0 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_25g15knxlhrp-1 {
+        list-style-type: none
+    }
+
+    ol {
+        margin: 0;
+        padding: 0
+    }
+
+    table td, table th {
+        padding: 0
+    }
+
+    .c8 {
+        padding-top: 0pt;
+        padding-bottom: 0pt;
+        line-height: 1.15;
+        orphans: 2;
+        widows: 2;
+        text-align: left;
+        height: 11pt
+    }
+
+    .c1 {
+        color: #000000;
+        font-weight: 400;
+        text-decoration: none;
+        vertical-align: baseline;
+        font-size: 11pt;
+        font-family: "Arial";
+        font-style: normal
+    }
+
+    .c0 {
+        padding-top: 0pt;
+        padding-bottom: 0pt;
+        line-height: 1.15;
+        orphans: 2;
+        widows: 2;
+        text-align: center;
+        height: 11pt
+    }
+
+    .c2 {
+        padding-top: 0pt;
+        padding-bottom: 0pt;
+        line-height: 1.15;
+        orphans: 2;
+        widows: 2;
+        text-align: center
+    }
+
+    .c6 {
+        color: #38761d;
+        text-decoration: none;
+        vertical-align: baseline;
+        font-size: 11pt;
+        font-family: "Arial";
+        font-style: normal
+    }
+
+    .c10 {
+        color: #000000;
+        vertical-align: baseline;
+        font-size: 11pt;
+        font-family: "Arial";
+        font-style: normal
+    }
+
+    .c12 {
+        text-decoration: none;
+        vertical-align: baseline;
+        font-family: "Arial";
+        font-style: normal
+    }
+
+    .c19 {
+        padding-top: 14pt;
+        padding-bottom: 4pt;
+        line-height: 1.15;
+        text-align: center
+    }
+
+    .c11 {
+        padding-top: 18pt;
+        padding-bottom: 4pt;
+        line-height: 1.15;
+        text-align: center
+    }
+
+    .c7 {
+        padding-top: 0pt;
+        padding-bottom: 0pt;
+        line-height: 1.0;
+        text-align: left
+    }
+
+    .c24 {
+        background-color: #ffffff;
+        max-width: 468pt;
+        padding: 72pt 72pt 72pt 72pt
+    }
+
+    .c3 {
+        text-decoration-skip-ink: none;
+        -webkit-text-decoration-skip: none;
+        text-decoration: underline
+    }
+
+    .c9 {
+        border: 1px solid black;
+        margin: 5px
+    }
+
+    .c5 {
+        font-size: 17pt;
+        color: #38761d
+    }
+
+    .c13 {
+        color: #0000ff;
+        font-size: 11pt
+    }
+
+    .c18 {
+        margin-left: 36pt;
+        padding-left: 0pt
+    }
+
+    .c16 {
+        color: inherit;
+        text-decoration: inherit
+    }
+
+    .c14 {
+        padding: 0;
+        margin: 0
+    }
+
+    .c23 {
+        height: 16pt
+    }
+
+    .c22 {
+        color: #1155cc
+    }
+
+    .c17 {
+        font-size: 23pt
+    }
+
+    .c21 {
+        font-size: 13pt
+    }
+
+    .c15 {
+        color: #38761d
+    }
+
+    .c20 {
+        text-decoration: none
+    }
+
+    .c4 {
+        font-weight: 700
+    }
+
+    .title {
+        padding-top: 0pt;
+        color: #000000;
+        font-size: 26pt;
+        padding-bottom: 3pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    .subtitle {
+        padding-top: 0pt;
+        color: #666666;
+        font-size: 15pt;
+        padding-bottom: 16pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    li {
+        color: #000000;
+        font-size: 11pt;
+        font-family: "Arial"
+    }
+
+    p {
+        margin: 0;
+        color: #000000;
+        font-size: 11pt;
+        font-family: "Arial"
+    }
+
+    h1 {
+        padding-top: 20pt;
+        color: #000000;
+        font-size: 20pt;
+        padding-bottom: 6pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h2 {
+        padding-top: 18pt;
+        color: #000000;
+        font-size: 16pt;
+        padding-bottom: 6pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h3 {
+        padding-top: 16pt;
+        color: #434343;
+        font-size: 14pt;
+        padding-bottom: 4pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h4 {
+        padding-top: 14pt;
+        color: #666666;
+        font-size: 12pt;
+        padding-bottom: 4pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h5 {
+        padding-top: 12pt;
+        color: #666666;
+        font-size: 11pt;
+        padding-bottom: 4pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h6 {
+        padding-top: 12pt;
+        color: #666666;
+        font-size: 11pt;
+        padding-bottom: 4pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        font-style: italic;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }</style>
+
+<article class="halfWidth textJustify boxCenter">
+
+
+<div><p class="c8"><span class="c1"></span></p></div>
+<p class="c2"><span class="c12 c15 c4 c17">Freecycle Privacy Policy</span></p>
+<p class="c2"><span class="c6 c4">(5/17/18)</span></p>
+<h3 class="c19" id="h.abmmgq8jfhm1"><span class="c3 c4 c13"><a href="https://www.freecycle.org/about/old_privacy">Previous version</a></span></h3>
+<h3 class="c19" id="h.p6uuhvp9dros"><span class="c3 c4 c10">[<a href="#policy">Take me directly to actual policy below this FAQ]</a></span>
+</h3>
+<p class="c8"><span class="c1"></span></p>
+<h3 class="c19" id="h.2843fg58bty4"><span class="c12 c15 c4 c21">Privacy Policy FAQ</span></h3>
+<p class="c2"><span class="c1">The following are basic questions you may have about our privacy statement. Where applicable, links are provided to the actual policy statements below this FAQ for further detail.</span>
+</p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">Why is Freecycle updating its privacy statement?</span></p>
+<p class="c2"><span class="c1">We now meet the high standard required by the European Union's General Data Protection Regulation (GDPR) and have updated our privacy statement to reflect that. We also continue to simplify language and remove jargon, to make our privacy statement easier to understand and read.</span>
+</p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">What is the GDPR?</span></p>
+<p class="c2"><span>The GDPR is a regulation intended to strengthen and unify data protection for everyone within the European Union (EU). And because we believe that all our members can benefit from its mandates, we're implementing it globally. The GDPR requires greater openness and transparency from organisations on how they collect, store and use personal data, while also imposing tighter limits on the use of personal data. Learn more</span> 
+<a href="https://www.eugdpr.org/">here</a>
+<span class="c1">.</span></p>
+<p class="c0"><span class="c10 c20 c4"></span></p>
+<p class="c2"><span class="c15 c4">How often do you anticipate updating your privacy </span><span class="c4 c15">statement</span><sup>
+</sup><span class="c6 c4">?</span>
+</p>
+<p class="c2"><span class="c1">We will update our privacy statement as necessary to ensure that our policies are in line with international regulations, our services and charitable activities.</span>
+</p>
+<p class="c0"><span class="c10 c4 c20"></span></p>
+<p class="c2"><span class="c6 c4">What information does Freecycle collect about me?</span></p>
+<p class="c2"><span>When you visit the Freecycle website and access information, you remain anonymous but to become a member or make a donation we collect personally identifiable information that you voluntarily provide through our website or via e-mail correspondence. </span><span>Learn more </span>
+    <a href="#collection">here</a>
+    <span class="c1">.</span></p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">Why does Freecycle need my information?</span></p>
+<p class="c2"><span>An email address and an ID is required of members, primarily so that you may then make and receive posts sharing items via email on Freecycle.org. Further information may be gathered should you make a donation to The Freecycle Network in order to process the gift. Learn more </span>
+    <a href="#use">here</a></p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">How is my information used?</span></p>
+<p class="c2"><span>Freecycle uses the data we collect for the following </span><span>purposes</span><span class="c1">:</span></p>
+<ul "="">
+    <li class="c2 c18"><span class="c1">Member / User Support</span></li>
+    <li class="c2 c18"><span class="c1">Service Improvement</span></li>
+    <li class="c2 c18"><span class="c1">Future Services Development</span></li>
+    <li class="c2 c18"><span class="c1">Security, Safety, and Dispute Resolution</span></li>
+    <li class="c2 c18"><span class="c1">Service Performance Analysis</span></li>
+    <li class="c2 c18"><span class="c1">Communications, Fundraising and Marketing</span></li>
+</ul>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">How does collecting my information help Freecycle improve its services?</span></p>
+<p class="c2"><span class="c1">We use the information to assure that the Freecycle.org web community is functioning smoothly and to make sure that we are offering you the best opportunities to share based on your geographic location. We also collect error reports, so we can make improvements to eliminate potential bugs and combat fraud. And finally, understanding how and when our members collectively make use of Freecycle.org helps us design new ways to make sharing that much better.</span>
+</p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">Does Freecycle sell information to third parties?</span></p>
+<p class="c2"><span class="c1">No, we don’t. </span></p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">Can I opt out of sharing my information with Freecycle?</span></p>
+<p class="c2"><span>You may view Freecycle.org and postings without sharing any personal information. However, since we don’t request sensitive data such as </span><span>one’s</span><span class="c1">&nbsp;address, credit card info, etc., we do require a basic level of data (user name, email address) for membership with our charitable nonprofit and for making and replying to posts on Freecycle.org. </span>
+</p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">How do I delete my personal data from Freecycle and what are the consequences?</span>
+</p>
+<p class="c2">
+    <span>You can always alter your personal data or remove you account by editing your account settings </span>
+    <a href="https://my.freecycle.org/home/info">here</a><span>. If you have further account issues, you may contact our volunteer support team </span><a href="mailto:privacy@freecycle.org?subject=Privacy%20Policy%20Support">here</a><span>. Please note, however, that by </span><span>deleting</span><span class="c1">&nbsp;your personal data your membership will no longer be functional.</span></p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">How long does Freecycle keep my information?</span></p>
+<p class="c2"><span>Freecycle retains personal data for as long as necessary to provide the services and fulfill the interactions you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes and enforcing our agreements. Because these needs can vary for different data types in the context of different services, actual retention periods can vary significantly. For instance, we’ll keep all functional data on </span><span>file</span><span class="c1">&nbsp;as long as you have an active Freecycle account. </span></p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">How is information stored and secured on Freecycle’ servers?</span></p>
+<p class="c2"><span>Freecycle is committed to protecting the security of your personal data. Freecycle.org uses the HTTPS protocol. The 'S' at the end of HTTPS stands for 'Secure'. It means all communications between your browser and the website are encrypted. HTTPS is often used to protect highly confidential online transactions like online banking and online shopping order forms. We also use a variety of security technologies and procedures to help protect your personal data from </span><span>unauthorised</span><span class="c1">&nbsp;access, use or disclosure. For example, we store the personal data you provide on computer systems that have limited access and are in controlled facilities. </span>
+</p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c4 c6">Is Freecycle using cookies to gather information?</span></p>
+<p class="c2"><span>Yes. We may use cookies to verify its visitors' identity to provide services related to the use of Groups. By visiting our website, you agree to the use of cookies and similar technologies for such purposes. You can always adjust your browser or device settings to </span><span>not accept cookies </span><span>and similar technologies if this concerns you, but this may limit the functionality of our website for you. More info </span>
+    <span class="c4"><a href="#cookies">here</a></span><span class="c1">.</span></p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">Does Freecycle use interest-based advertising?</span></p>
+<p class="c2"><span>Yes. We work with third-party advertisers that utilize cookies and similar technologies to provide more relevant advertising about Freecycle on our website and across the internet. To provide interest-based advertising, the advertisers combine non-personal data learned about your online activities over time to customize the advertising delivered to you. </span><span>We do not share your personal information to do this</span><span class="c1">.</span></p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">What safeguards are in place for children who have access to Freecycle services?</span></p>
+<p class="c2"><span>Children thirteen or older may participate only with the permission and supervision of their parents and/or guardians. If a child has improperly registered on this site by using false information or without consent, we will cancel the child's account and delete the child's personal information from our records. More info </span><span class="c3"><a href="#children">here</a></span><span class="c1">. </span></p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span class="c6 c4">How can I contact Freecycle if I have questions regarding Freecycle privacy statement?</span></p>
+<p class="c2">
+    <span>If you have any questions about the use of your personal information, please contact us </span><span>online</span><span>&nbsp;</span><span class="c3"><a href="mailto:privacy@freecycle.org?subject=privacy">here</a></span><span>&nbsp;</span><span>or at the </span><span class="c4">&nbsp;<a href="#contact">below address</a></span><span class="c1">.</span></p>
+<hr style="page-break-before:always;display:none;">
+<h2 class="c11 c23" id="h.nw2ztrh2acpw"><span class="c12 c5 c4"></span></h2>
+<h2 class="c11" id="h.en7qqp4ysb26"><span class="c12 c5 c4"><a name="policy">FREECYCLE PRIVACY POLICY</a></span></h2>
+<h2 class="c11" id="h.2lji3w24l4tv"><span class="c5 c4 c12">Our Commitment to Privacy</span></h2>
+<p class="c2"><span>The Freecycle Network respects everyone's right to privacy. This section summarizes what personally identifiable information we may collect, if any, and how we might use this information. This policy also describes other important topics relating to your privacy. The Freecycle Network reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web </span><span>pages</span><span class="c1">.</span></p>
+<h2 class="c11" id="h.b2fi9laxlnex"><span class="c12 c5 c4"><a name="collection">Information Collection</a></span></h2>
+<p class="c2"><span>In general, when you visit the Freecycle website and access information, you remain anonymous aside from capturing your IP address which protects the integrity of the service. We do not require you to register or provide personal information to us in order to view our site. There are occasions when we will ask for additional information, such as when you apply to become a member of a Freecycle group or make a donation to Freecycle. In these cases, we will only collect personally identifiable information (such as name, telephone number and e-mail address) that you voluntarily provide through our website or via e-mail </span><span>correspondence</span><span class="c1">.</span></p>
+<p class="c2"><span class="c1">We will not sell or exchange your personal information at any time. We will collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to improve our Web site and better meet your needs.</span>
+</p>
+<p class="c0"><span class="c1"></span></p>
+<p class="c2"><span>Your personal information is retained until you choose to delete your account. At this point your email address and password are removed from our records. For further data removal of any remaining personal info, you may </span><a href="mailto:privacy@freecycle.org?subject=privacy">contact us</a><span class="c1">. </span></p>
+<h2 class="c11" id="h.ngidncpqpjpu"><span class="c12 c5 c4"><a name="use">Use of Information</a></span></h2>
+<p class="c2"><span>An email address </span><span>and a user name</span><span>&nbsp;is required of members, primarily so that you may then make and receive posts sharing items via </span><span>email</span><span>&nbsp;or directly on Freecycle.org. You may optionally also provide your phone number. Your user name is publically viewable. No other personal information is shared and posting is double-blind until you personally choose to share your email address or street address, phone number, etc. with another member. We do not store any data beyond your email address, user name and, optionally, your phone number. Further personal information would only be gathered should you make a donation to The Freecycle Network in order to process the donation. As a charitable nonprofit, we also send out one fundraising appeal annually via email. It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information. If you have submitted personal information to us electronically and would like it removed or modified, please </span>
+    <a href="contact">contact us</a>
+    <span class="c1">. We will use every possible reasonable effort to comply with your request.</span></p>
+<h2 class="c11" id="h.ajxynntav0ji"><span class="c12 c5 c4"><a name="cookies">Use of Cookies</a></span></h2>
+<p class="c2"><span class="c1">The Freecycle Network websites may use cookies and similar technologies like pixels, tags and web beacons to verify its visitors' identity to provide services related to the use of member tools and options. By visiting our website, you agree to the use of cookies and similar technologies for such purposes. This helps us provide you with the best experience and allows certain parts of our website to function properly. You always can adjust your browser or device settings to not accept cookies and similar technologies if this concerns you, but this may limit the functionality of our website for you. </span>
+</p>
+<h2 class="c11" id="h.n6lw5hy3po5"><span class="c12 c5 c4"><a name="children">Children</a></span></h2>
+<p class="c2"><span>Children may participate only with the permission and supervision of their parents and/or guardians. Freecycle does not target and is not intended to attract children under the age of thirteen. Freecycle does not knowingly solicit personal information from children under thirteen or send them requests for personal information. Although visitors of all ages may navigate through our website, we do not intentionally collect personal information from persons under the age of thirteen. If following a </span>
+    <a href="mailto:privacy@freecycle.org?subject=privacy">notification</a><span>&nbsp;by a parent </span><span class="c1">or guardian, or discovery by other means, that a child has improperly registered on this site by using false information, we will cancel the child's account and delete the child's personal information from our records. </span>
+</p>
+<h2 class="c11" id="h.2yyekt988eyf"><span class="c12 c5 c4">Links</span></h2>
+<p class="c2"><span class="c1">While Freecycle is highly selective about which sites we provide links to, we do not control these websites, nor do we endorse or otherwise accept responsibility for the content or privacy policies of those sites. We encourage you to review the privacy policies posted on third party sites.</span>
+</p>
+<h2 class="c11" id="h.cq3qjry1tl1h"><span class="c12 c5 c4"><a name="contact">Contact Us</a> </span></h2>
+<p class="c2">Please contact us online <a href="mailto:privacy@freecycle.org?subject=privacy">here</a>, or in writing at:</p>
+<p class="c2"><span class="c1">The Freecycle Network, P.O. Box 294, Tucson, Arizona 85702 USA</span></p>
+
+</article>
+
+  <section id="social_media_buttons">
     <div style="margin:0px important!;padding:0px;&quot;>
 
  <script src=&quot;https://apis.google.com/js/platform.js&quot; async defer>
@@ -169,19 +735,9 @@ googletag.cmd.push(function() {
  </div>
 </div>  <!-- end of whole bottom of page ad splacement -->
 
+    </section>
 
-<!-- onScroll Sovrn (VET) ad tags -->
-<!-- /1053204/OnScrollforVET -->
-<div id="div-gpt-ad-1493915166052-0" style="height:1px; width:1px;">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493915166052-0'); });
-</script>
-</div>
-
-
-   </section>
-
-<footer id="main_footer"> Copyright ©2017 The Freecycle Network (<a href="http://www.freecycle.org">http://www.freecycle.org</a>). All rights reserved. Freecycle and the Freecycle logo are trademarks of The Freecycle Network in various countries.  </footer>
+<footer id="main_footer"> Copyright ©2019 The Freecycle Network (<a href="http://www.freecycle.org">http://www.freecycle.org</a>). All rights reserved. Freecycle and the Freecycle logo are trademarks of The Freecycle Network in various countries.  </footer>
 
 
 
