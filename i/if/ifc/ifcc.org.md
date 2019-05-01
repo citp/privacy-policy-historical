@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifcc.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231064840id_/http%3A//ifcc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifcc.org privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502010542id_/http%3A//www.ifcc.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - IFCC
 
