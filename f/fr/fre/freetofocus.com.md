@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetofocus.com privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720013312id_/https%3A//michaelhyatt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetofocus.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501104912id_/https%3A//michaelhyatt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Michael Hyatt
 
@@ -14,7 +14,7 @@ Please read the Privacy Policy carefully before you start to use the Website. By
 
 Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0f7c7a7f7f607d7b4f697a636369606c7a7c7c7b607d6a216c6062).
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [support@michaelhyatt.com](mailto:support@fullfocusstore.com).
 
 ### Information We Collect About You
 
@@ -72,9 +72,9 @@ Users who no longer wish to receive our newsletter or promotional materials may 
 
 The Company collects your information in order to record and support your participation in the activities you select. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or purchase products that you are required to provide information.
 
-If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll ​you to receive our promotional email communications, including our weekly magazine. If you do not wish to receive this communication, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0b787e7b7b64797f4b6d7e67676d64687e787b79646f7e687f25686466) requesting to unsubscribe from future emails.
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll ​you to receive our promotional email communications, including our weekly magazine. If you do not wish to receive this communication, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to [support@michaelhyatt.com](mailto:support@fullfocusproduct.com) requesting to unsubscribe from future emails.
 
-If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll you to receive our free email communication if you affirmatively consent to it. If you do not wish to receive this communication, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#15666065657a67615573607979737a76606666617a67703b767a78) requesting to unsubscribe from future emails.
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll you to receive our free email communication if you affirmatively consent to it. If you do not wish to receive this communication, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to [support@michaelhyatt.com](mailto:support@fullfocusstore.com) requesting to unsubscribe from future emails.
 
 ### How Do We Use the Information That You Provide to Us?
 
@@ -122,7 +122,7 @@ You have the right to seek restrictions on the processing of your data.
 
 You have the right to object to the processing of your data and the right to the portability of your data.
 
-To exercise these rights please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8efdfbfefee1fcfacee8fbe2e2e8e1edfbfdfdfae1fceba0ede1e3).
+To exercise these rights please email us at [support@michaelhyatt.com](mailto:support@fullfocusstore.com).
 
 To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
 
@@ -136,6 +136,6 @@ The Company welcomes your questions or comments regarding the Privacy Policy:
 
 Michael Hyatt & Company, LLC P.O. Box 1221 Franklin, TN 37065
 
-Email Address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#691a1c1919061b1d290f1c05050f060a1c1a1a1d061b0c470a0604)
+Email Address: [support@michaelhyatt.com](mailto:support@fullfocusstore.com)
 
 Effective as of May 22, 2018
