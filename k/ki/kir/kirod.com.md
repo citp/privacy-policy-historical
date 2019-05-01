@@ -1,122 +1,69 @@
-> *The following text is extracted and transformed from the kirod.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531063908id_/http%3A//benwinn.co.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirod.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501235524id_/https%3A//keepcare.com/privacy-policy) for the most accurate reproduction.*
 
-# BENWINN. » Privacy Policy
+# Privacy Policy – Brand That Care – KeepCare
 
-## …Key Details
+Your privacy is very important to us. Our Privacy Policy spells out Keepcare India’s commitment to respecting the privacy of the members and visitors to our  site https://keepcare.com By using our site, you consent to our website’s privacy policy.
 
-This website privacy policy describes how BENWINN (The Website) protects and makes use of the information you give the company when you use this website.
+## Information we collect
 
-If you are asked to provide information when using this website, it will only be used in the ways described in this privacy policy.
+We collect information from you when you register on our site, place an order, subscribe to our Keepcare India’s Email Club, respond to a survey, give a review or fill out a form. However, should you not wish to purchase a product you may visit our site anonymously.
 
-This policy is updated from time to time. The latest version is published on this page.
+we collect data that is required for communication and to deliver purchased products by visitors on https://keepcare.com . We only collect phone number and address of our client which is solely provide by the Visitors Itself.  Keepcare.com’s visitors agree with terms and condition that permit to use data provided by visitors.
 
-This website privacy policy was updated on: **12/12/2014**
+## Other information we might collect
 
-If you have any questions about this policy, please email getintouch@benwinn.co.uk.
+Keepcare India and our third party partners, for example advertisers and content providers, may also collect statistical information while you use our site. Statistical information that we gather may include where a user is and on the Internet (e.g. the URL that they last came from, the computer’s IP address and the domain types like .com etc. that the user uses), browser type, which language content is being viewed in, the country and telephone area code where the computer is located, the pages of our website that were viewed during the visit, the advertisements that were clicked on and any search terms that were entered on our website. We do not use this information to identify you personally and we may collect it even if you are not a registered user.
 
-## …Introduction
+## How information is used
 
-I gather and use certain information about individuals in order to provide products and services and to enable certain functions on this website.
+Any of the information we collect from you may be used in one of the following ways:
 
-I also collect information to better understand how visitors use this website and to present timely, relevant information to them.
-
-## …What data I gather
-
-I may collect the following information:
-
-  1. Name and job title
-  2. Contact information including email address
-  3. Demographic information, such as postcode, preferences and interests
-  4. Website usage data
-  5. Other information relevant to client enquiries
-  6. Other information pertaining to special offers and surveys
+  * -To personalize your experience (your information helps us to better respond to your individual needs)
+  * -To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * -To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * -To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * -To communicate with you (About our brand, products, events or other promotional purposes, if you have opted to receive such communications.The email address you provide for order processing, will be used to send you information and updates pertaining to your order.)
+  * -To administer a contest, promotion, survey or other site feature
+  * -To support our marketing and research purposes
 
 
 
-## …How I use this data
+## Disclosure of Information
 
-Collecting this data helps me understand what you are looking from the company, enabling me to deliver improved products and services.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. Keepcare India uses other reputed and trusted companies to perform functions on our behalf in relation to the purposes included in this Privacy Policy. Such functions include credit/debit card validation and authorization, web hosting, data analysis, order fulfillment and mailings. These companies are authorized to use your personal information only as necessary to provide these services to us. However, if required by the law, we may need provide all information to enforce our site policies or to protect the rights, property or safety of others as well as our own.
 
-Specifically, I may use data:
+## Security
 
-  * For my own internal records
-  * To improve the products and services I provide
-  * To contact you in response to a specific enquiry
-  * To customise the website for you
-  * To send you promotional emails about products, services, offers and other things we think might be relevant to you.
-  * To send you promotional mailings or to call you about products, services, offers and other things we think might be relevant to you.
-  * To contact you via email, telephone or mail for market research reasons.
+Keepcare India takes the privacy of its customers very seriously and we are committed to protecting the security of your data, both on and off line.
 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
+All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and is collected, processed and encrypted directly into 2Checkout’s Payment gateway database server only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-## …Cookies and how I use them
+For your protection, Keepcare India does not store or provide access to credit card information, which is why you will be required to re-enter your credit card and expiration date with every online credit card transaction. For security reasons, we strongly recommend that you do not send credit card numbers by standard email and only use the secure facility provided on our website.
 
-No, not the high sugar content cookie you can buy at your local supermarket I’m on about COOKIES our delightful browsers use…
+You represent and warrant that you have the legal right to use any credit card(s) utilized in connection with any transaction
 
-**What is a cookie?**
+## Cookies
 
-A cookie is a small file placed on your computer’s hard drive. It enables our website to identify your computer as you view different pages on our website.
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow it to) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-Cookies allow websites and applications to store your preferences in order to present content, options or functions that are specific to you. They also enable us to see information like how many people use the website and what pages they tend to visit.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**How I use cookies**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
 
-I may use cookies to:
+## Third Party Links
 
-  * **Analyse our web traffic using an analytics package.** Aggregated usage data helps us improve the website structure, design, content and functions.
-  * **Identify whether you are signed in to our website.** A cookie allows us to check whether you are signed in to the site.
-  * **Test content on our website.** For example, 50% of our users might see one piece of content, the other 50% a different piece of content.
-  * **Store information about your preferences.** The website can then present you with information you will find more relevant and interesting.
-  * **To recognise when you return to our website.** We may show your relevant content, or provide functionality you used previously.
+Please be aware that, when you are on the site, you could be directed to other sites that are beyond our control. These other sites may transmit their own “cookies” to visitors, collect data or solicit personal information. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any information that may be collected there.
 
+## Your reviews / product testimonials
 
+You can choose to add product reviews and share your experience with our products. This is optional rather than obligatory part of being a registered user on keepcare.com our product reviews may be used in our marketing and promotional material and/or any of our partner companies who we work with to serve customers. You have the right to have your review removed at any time, in this event you should send our customer service team your request by email on support@keepcare.com
 
-Cookies do not provide us with access to your computer or any information about you, other than that which you choose to share with us.
+## Changes to our Privacy Policy
 
-**Controlling cookies**
+We may update this privacy statement. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-You can use your web browser’s cookie settings to determine how our website uses cookies. If you do not want our website to store cookies on your computer or device, you should set your web browser to refuse cookies.
+## Phone Number And Address Details
 
-However, please note that doing this may affect how our website functions. Some pages and services may become unavailable to you.
-
-Unless you have changed your browser to refuse cookies, our website will issue cookies when you visit it.
-
-To learn more about cookies and how they are used, visit [All About Cookies](http://www.allaboutcookies.org/).
-
-## …Controlling information about you
-
-When you fill in a form or provide your details on our website, you will see one or more tick boxes allowing you to:
-
-  * Opt-in to receive marketing communications from us by email, telephone, text message or post.
-
-
-  * Opt-in to receive marketing communications from our third-party partners by email, telephone, text message or post.
-
-
-
-If you have agreed that we can use your information for marketing purposes, you can change your mind easily, via one of these methods:
-
-  * Sign in to our website and change your opt-in settings.
-  * Send an email to optout@benwinn.co.uk.
-
-
-
-We will never lease, distribute or sell your personal information to third parties unless we have your permission or the law requires us to.
-
-Any personal information we hold about you is stored and processed under our data protection policy, in line with the Data Protection Act 1998.
-
-## …Security
-
-I will always hold your information securely.
-
-To prevent unauthorised disclosure or access to your information, we have implemented strong physical and electronic security safeguards.
-
-We also follow stringent procedures to ensure we work with all personal data in line with the Data Protection Act 1998.
-
-## …Links from this site
-
-This website may contain links to other websites.
-
-Please note that I have no control of websites outside the benwinn.co.uk domain. If you provide information to a website to which we link, we are not responsible for its protection and privacy.
-
-Always be wary when submitting data to websites. Read the site’s data protection and privacy policies fully.
+Our Visitors phone number is only used for Promotional and Transnational alerts only. Address details are required for Shipping purpose only. We Don’t Distribute or Sell personal data of our clients, site’s visitor.
