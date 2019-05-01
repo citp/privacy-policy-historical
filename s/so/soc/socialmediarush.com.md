@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediarush.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230111917id_/http%3A//socialmediarush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediarush.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501145234id_/http%3A//www.socialmediarush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Media Rush
 
