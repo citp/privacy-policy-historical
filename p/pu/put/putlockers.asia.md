@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the putlockers.asia privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505000606id_/http%3A//zmovies.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the putlockers.asia privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501213242id_/http%3A//putlockers.asia/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Watch Movies and Tv Show Online Free - Zmovies.to
+# Privacy Policy - Watch Movies and Tv Show Online Free Putlockers - zmovies
 
 Privacy Policy
 
