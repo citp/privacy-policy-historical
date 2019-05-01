@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eagletribune.com privacy policy that was archived on 2018-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180713114645id_/https%3A//www.eagletribune.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagletribune.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501021414id_/https%3A//www.eagletribune.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | eagletribune.com
 
@@ -33,6 +33,10 @@ In the event you do not wish to receive promotional or editorial content e-mail(
  **Cookies**
 
 When you visit the Site, we or a third party advertiser may store or recognize some information on your computer in the form of a "cookie" or similar file that provides an opportunity for a better user experience for you and better programming from us. A "cookie" is a small computer file that is transferred to a computer's hard drive and which permits us to know about site visits. We may use cookies to improve your experience on the Site by making it easier for you to navigate through the Site or to make a site feature work better. Information collected from a "cookie" might include information regarding your browser, type of computer, operating system, Internet service provider and other similar information. Cookie technology may also gather information about the areas you visit on our Site and about the links you may select from within our Site to other areas of the Internet. We use such information in the aggregate to understand which services and resources our visitors prefer and how those services and resources are used. Cookies also allow us to remember you between visits, for example, they may be used for any auto-login feature on the Site or to save any customized preference settings for future visits. We do not extract Personal Information during this process. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions to learn more about these functions. If you reject cookies, functionality of the Site may be limited, and you may not be able to take advantage of many of the Site's features.
+
+In order to provide a more relevant online experience, some of the ads that you see across our Services as well as third party websites and applications are customized based on your previous online activity. For more general information about interest-based ads and your choices, visit these sites: the [Digital Advertising Alliance](http://optout.aboutads.info/?c=2&lang=EN) or the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/).
+
+For our mobile applications, you can opt-out of the use of this information to tailor the ads you are shown, by using the "Limit Ad Tracking" settings on your mobile device. You will continue to see ads, but they will not be selected based on your activity across unrelated web sites or apps.
 
  **Links**
 
@@ -73,3 +77,9 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
  **Contacting Us**
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
+
+[](https://www.eagletribune.com/we_buy_it_local/)
+
+Support more than 600 local businesses in Andover, Lawrence, and North Andover, Massachusetts, impacted by the gas disaster. 
+
+Southbury,CT - Rena Laura Murphy Driscoll, 89, of North Andover, Mass., passed away on April 26, 2019, surrounded by family and her loving husband of 68 years. Rena was born July 3, 1929 in Adams, Mass., the daughter of Thomas Mitchell Murphy and Laura Racicot Murphy. She was educated in Ada…
