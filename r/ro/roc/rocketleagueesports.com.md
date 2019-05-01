@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketleagueesports.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723040248id_/https%3A//www.rocketleagueesports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketleagueesports.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502003513id_/https%3A//www.rocketleagueesports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rocket League Esports
 
@@ -121,3 +121,27 @@ Psyonix reserves the right to make changes to this Privacy Policy at any time. I
 **By using the Psyonix Services, you signify your consent to the Psyonix Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Services. Your continued use of our Services will signify your acceptance of these changes.**
 
 This Psyonix Privacy Policy was updated May 25, 2018.
+
+Our site uses cookies to offer you a better browsing experience, enable embedded videos, analyze site traffic, personalize content, and allow advertisements. Read about how we use cookies and how you can control them by clicking "Settings." By clicking "Accept," you agree to the use of the cookies as they are currently set and are okay to continue.
+
+Cookie Settings Strictly Necessary Cookies Performance & Targeting Cookies Functional Cookies
+
+### Cookie Settings
+
+Psyonix uses cookies on this site. Cookies are pieces of information shared between your web browser and a website. The information does not usually directly identify you, but the use of cookies enables a faster and more personalized experience for you.
+
+For more information about the different types of cookies we use or to change your default settings, please click on the category headings below. However, by modifying the default settings, your experience of the site and the services we are able to offer may be impacted by blocking some types of cookies. [See list of cookies](https://web.archive.org/cookies-list/)
+
+### Strictly Necessary Cookies
+
+These cookies are essential for the website to function. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. [See list of cookies](https://web.archive.org/cookies-list/)
+
+### Performance & Targeting Cookies
+
+Performance cookies allow us to count visits and traffic sources so that we can measure and improve the performance of our site. The information these cookies collect is aggregated and, therefore, anonymous. If you do not permit these cookies, then we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Targeting cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant ads on other sites. Targeting cookies do not store directly personal information but are based on uniquely identifying your browser and device. If do you not allow these cookies, you will experience less targeted advertising. [See list of cookies](https://web.archive.org/cookies-list/)
+
+### Functional Cookies
+
+These cookies enable the website to remember choices you make to give you enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our website. If you do not allow these cookies, then some or all of these services may not function properly. [See list of cookies](https://web.archive.org/cookies-list/)
