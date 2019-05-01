@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeder.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903110554id_/http%3A//weeder.org/legalpack/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeder.org privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501200210id_/http%3A//weeder.org/legalpack/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Improvement & Appliance Repairs
 
