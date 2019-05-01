@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedfixtool.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231151712id_/http%3A//speedfixtool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedfixtool.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502001928id_/http%3A//speedfixtool.com/privacy-policy) for the most accurate reproduction.*
 
 # SpeedFixTool privacy policy
 
