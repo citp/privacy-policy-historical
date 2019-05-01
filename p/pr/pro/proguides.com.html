@@ -1,0 +1,1174 @@
+<!--The following is the downloaded HTML source of the proguides.com privacy policy that was archived on 2019-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190501213024id_/https%3A//www.proguides.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>Privacy Policy | ProGuides</title>
+
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script type="text/javascript" async="" src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="https://sc-static.net/scevent.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-color/2.1.2/jquery.color.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.3.1/dist/semantic.min.css">
+<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.3.1/dist/semantic.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+
+<link rel="stylesheet" media="all" type="text/css" href="https://www.proguides.com/public/css/style_v2.css?v=2.1.15">
+<link rel="stylesheet" media="all" type="text/css" href="https://www.proguides.com/public/css/carousel.css">
+<link rel="stylesheet" media="all" type="text/css" href="https://www.proguides.com/public/css/select.css">
+<link rel="stylesheet" media="all" type="text/css" href="https://www.proguides.com/public/css/chosen.css">
+<link rel="stylesheet" media="all" type="text/css" href="https://www.proguides.com/public/css/font-awesome.min.css">
+<link rel="icon" type="image/x-icon" href="https://www.proguides.com/favicon.png">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://www.proguides.com/public/js/modernizr.js"></script>
+<script type="text/javascript" src="https://www.proguides.com/public/js/detectizr.js"></script>
+<script type="text/javascript" src="https://www.proguides.com/public/js/carousel.js"></script>
+<script type="text/javascript" src="https://www.proguides.com/public/js/announcements.js"></script>
+<script type="text/javascript" src="https://www.proguides.com/public/js/RetentionScience.js"></script>
+<script type="text/javascript" src="https://www.proguides.com/public/js/common.js"></script>
+<script type="text/javascript" src="https://www.proguides.com/public/js/fancypauper.js"></script>
+<script type="text/javascript" src="https://www.proguides.com/public/js/pgpoints/spend-points.js"></script>
+<script type="text/javascript" src="https://www.proguides.com/public/js/module/user_notifications.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/4.13.0/bodymovin.min.js" integrity="sha256-q0n+9D8QsUkzE5U/IH/sSEE3dpXs6tz44QyFkQjkd+w=" crossorigin="anonymous"></script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63817350-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-838421344"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-838421344');
+</script>
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-2118398706367621",
+enable_page_level_ads: false
+});
+</script>
+
+
+
+<script>
+    var SITE_URL = 'https://www.proguides.com/';
+</script>
+
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+</script>
+<script>
+    var FBPixels = {};
+            FBPixels['leagueoflegends'] = '1785431391763861';
+        fbq('init', '1785431391763861');
+            FBPixels['fortnite'] = '287110702120305';
+        fbq('init', '287110702120305');
+            FBPixels['hearthstone'] = '130859994260736';
+        fbq('init', '130859994260736');
+    </script>
+
+
+<script>
+    (function(win, doc, sdk_url){
+        if(win.snaptr) return;
+        var tr=win.snaptr=function(){
+            tr.handleRequest? tr.handleRequest.apply(tr, arguments):tr.queue.push(arguments);
+        };
+        tr.queue = [];
+        var s='script';
+        var new_script_section=doc.createElement(s);
+        new_script_section.async=!0;
+        new_script_section.src=sdk_url;
+        var insert_pos=doc.getElementsByTagName(s)[0];
+        insert_pos.parentNode.insertBefore(new_script_section, insert_pos);
+    })(window, document, 'https://sc-static.net/scevent.min.js');
+
+    snaptr('init','72f51ef0-b8a0-4ab0-b143-f9b4e29dffd4',{
+        });
+</script>
+
+
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','o0dhz');
+twq('track','PageView');
+</script>
+
+
+<script>
+    var retSciArr = [];
+    var userId = '';
+    var userEmail = '';
+    fireRetSciPixel(userId, userEmail, retSciArr);
+</script>
+
+
+<script type="text/javascript">
+  (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+  ;r.type="text/javascript";r.async=true
+  ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"
+  ;r.onload=function(){if(e.amplitude.runQueuedFunctions){
+  e.amplitude.runQueuedFunctions()}else{
+  console.log("[Amplitude] Error: could not load SDK")}}
+  ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+  ;function s(e,t){e.prototype[t]=function(){
+  this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+  var o=function(){this._q=[];return this}
+  ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+  ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+  ;return this}
+  ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+  ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+  ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+  ;function v(e){function t(t){e[t]=function(){
+  e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+  for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+  e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+  ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+  ;e.amplitude=n})(window,document);
+
+  amplitude.getInstance().init("06e70798662c2ec89bf20bd68881103a")
+  var identify = new amplitude.Identify().setOnce('First Seen Date', moment().format('YYYY-MM-DDTHH:mm:ss'))
+    amplitude.getInstance().identify(identify)
+</script>
+<script>
+    window.localStorage.setItem('client_credentials', '')
+    window.localStorage.setItem('refresh_token', '')
+</script>
+<link rel="stylesheet" type="text/css" media="print" href="/public/css/print.css">
+</head>
+<body class="banner-page legal">
+<div class="page-container">
+<div id="top-navbar" class="top-navbar">
+<div class="top-navbar--left">
+<div id="hamburger-menu" class="hamburger-menu">
+<img src="https://www.proguides.com/public/media/side-nav/menu.svg">
+</div>
+<a class="item" href="https://www.proguides.com/dashboard">
+<img src="https://www.proguides.com/public/media/apellation-pg-logo.png">
+</a>
+</div>
+<div class="item login-button" id="signin--mobile" href="#" data-type="signin">
+LOG IN
+</div>
+</div>
+<div id="side-navbar" class="side-navbar">
+<nav class="ui menu vertical borderless menu--sidenav">
+<div class="menu-container">
+<div id="side-nav__scrollable-menu" class="menu--sidenav menu--sidenav--mobile menu--scrollable">
+<div class="menu-top-container">
+<div class="title-container">
+<a class="item" href="https://www.proguides.com/dashboard">
+<img class="ui small image" src="https://www.proguides.com/public/media/logos/text_logo.png">
+</a>
+<div id="mobile-close-button" class="mobile-close-button">
+<img class="ui small image" src="https://www.proguides.com/public/media/side-nav/cancel.svg">
+</div>
+</div>
+</div>
+<div class="ui secondary vertical menu wide">
+<a class="ui item go-pro-button go-pro-button--not-mobile" href="https://www.proguides.com/store/subscriptions">GO PRO NOW!</a>
+<div class="horizontal-divider horizontal-divider--not-mobile"></div>
+<a class="item item--icon" id="signin" href="#" data-type="signin">
+<i><img class="image--icon svg" src="https://www.proguides.com/public/media/side-nav/user-login-button.svg"></i>
+<span>LOG IN</span>
+</a>
+<div class="ui modals">
+<div id="login-modal" class="ui navbar-modal modal">
+<i class="close icon"></i>
+<div class="content signin-form">
+<div class="signin-form__title">
+Login </div>
+
+<form id="login-form" class="ui form">
+<div class="field">
+<input type="email" name="email" placeholder="Email address">
+</div>
+<div class="field">
+<input type="password" name="password" placeholder="Password">
+</div>
+<input type="hidden" name="recaptcha_response" class="recaptchaResponse">
+<div class="additional-field field">
+<div class="ui checkbox">
+<input type="checkbox" name="remember_me" checked="">
+<label>Remember Me</label>
+</div>
+<a id="forgot-password" href="#">Forgot your password?</a>
+</div>
+<div class="ui error message"></div>
+<button type="submit" class="ui inverted blue fluid button">Start Your Journey</button>
+</form>
+</div>
+<div class="signin-form__footer">
+Don't have an Account? <a id="login-modal-signup" href="#">Sign Up</a>
+</div>
+</div>
+<div id="register-modal" class="ui navbar-modal modal">
+<i class="close icon"></i>
+<div class="content signin-form">
+<div class="signin-form__title">
+Register </div>
+
+<form id="registration-form" class="ui form">
+<div class="field">
+<input type="text" name="username" placeholder="Username">
+</div>
+<div class="field">
+<input type="email" name="email" placeholder="Email address">
+</div>
+<div class="field">
+<input type="password" name="password" placeholder="Password">
+</div>
+<div class="additional-field field">
+<div class="ui checkbox">
+<input type="checkbox" name="tos_pp_consent" placeholder="Terms Check">
+<label>I agree to the <a href="/terms_and_conditions" target="_blank">Terms and Conditions</a> and <a href="/privacy_policy" target="_blank">Privacy Policy</a></label>
+</div>
+</div>
+<input type="hidden" name="recaptcha_response" class="recaptchaResponse">
+<div class="ui error message"></div>
+<button type="submit" class="ui inverted blue fluid button" disabled="">Sign Up</button>
+</form>
+<div class="signin-form__footer-text">
+</div>
+</div>
+<div class="signin-form__footer">
+Already Registered? <a id="register-modal-login" href="#">Log In</a>
+</div>
+</div>
+<div id="forgot-password-modal" class="ui navbar-modal modal">
+<i class="close icon"></i>
+<div class="content signin-form">
+<div class="signin-form__title">
+Forgot Password </div>
+<form id="forgot-password-form" class="ui form">
+<div class="field">
+<input type="email" name="email" placeholder="Email address">
+</div>
+<div class="ui error message"></div>
+<input type="hidden" name="recaptcha_response" class="recaptchaResponse">
+<button type="submit" class="ui inverted blue fluid button">Submit</button>
+</form>
+</div>
+</div>
+<script>
+    $(function() {
+        $('#login-modal-signup').on('click', function() {
+            $('#register-modal').modal('show');
+        });
+
+        $('#register-modal-login').on('click', function() {
+            $('#login-modal').modal('show');
+        });
+
+        $('#forgot-password').on('click', function(e) {
+            e.preventDefault();
+
+            // Reset form
+            let $form = $('#forgot-password-modal').find('form');
+            $form[0].reset();
+            $form.find('input').each(function() {
+                $(this).prop('disabled', false).show();
+            });
+            $form.find('button[type="submit"]').prop('disabled', false).show();
+            $form.find('.message').addClass('error');
+
+            $('#forgot-password-modal').modal('show');
+        });
+
+        $('#login-form').form({
+            fields: {
+                email : ['email', 'empty'],
+                password : 'empty'
+            }
+        });
+
+        $('#login-form').on('submit', function(e) {
+            e.preventDefault();
+
+            if ($(this).form('is valid')) {
+                let $submitButton = $(this).find('button[type="submit"]');
+                $submitButton.prop('disabled', true);
+
+                $.ajax({
+                    'method': 'POST',
+                    'url': '/functions/registration/login.php',
+                    'context': this,
+                    'data': {
+                        'email': $(this).form('get value', 'email'),
+                        'password': $(this).form('get value', 'password'),
+                        'remember_me': $(this).form('get value', 'remember_me')
+                    },
+                    'dataType': 'json'
+                }).done(response => {
+                    if (response.status === 'success') {
+                        location.reload();
+                    } else {
+                        $(this).form('add errors', [response.error]);
+                    }
+                }).always(() => {
+                    $submitButton.prop('disabled', false);
+                });
+            }
+        });
+
+        $('#registration-form').form({
+            fields: {
+                username : ['empty', 'maxLength[30]'],
+                email : ['email', 'empty'],
+                password : ['minLength[7]', 'empty'],
+                tos_pp_consent: 'checked'
+            }
+        });
+
+        $('#registration-form input[name="tos_pp_consent"]').on('change', function() {
+            $(this).closest('form').find('button[type="submit"]').prop('disabled', !$(this).is(':checked'));
+        });
+
+        $('#registration-form').on('submit', function(e) {
+            e.preventDefault();
+
+            if ($(this).form('is valid')) {
+                let $submitButton = $(this).find('button[type="submit"]');
+                $submitButton.prop('disabled', true);
+
+                $.ajax({
+                    'method': 'POST',
+                    'url': '/functions/registration/register.php',
+                    'context': this,
+                    'data': {
+                        'username': $(this).form('get value', 'username'),
+                        'email': $(this).form('get value', 'email'),
+                        'password': $(this).form('get value', 'password')
+                    },
+                    'dataType': 'json'
+                }).done(response => {
+                    if (response.status === 'success') {
+                        if (fbq) {
+                            // FB Pixel: Track 'Complete Registration'
+                            fbq('track', 'CompleteRegistration');
+                        }
+
+                        if (snaptr) {
+                            snaptr('track', 'SIGN_UP', {
+                                'success': 1
+                            });
+                        }
+
+                        window.location.href = '/start';
+                    } else {
+                        $(this).form('add errors', [response.error]);
+                    }
+                }).always(() => {
+                    $submitButton.prop('disabled', false);
+                });
+            }
+        });
+
+        $('#forgot-password-form').form({
+            fields: {
+                email : ['email', 'empty']
+            }
+        });
+
+        $('#forgot-password-form').on('submit', function(e) {
+            e.preventDefault();
+
+            if ($(this).form('is valid')) {
+                let $formFields = $(this).find('input');
+                $formFields.each(function() {
+                    $(this).prop('disabled', true);
+                });
+                let $submitButton = $(this).find('button[type="submit"]');
+                $submitButton.prop('disabled', true);
+
+                $.ajax({
+                    'method': 'POST',
+                    'url': '/functions/registration/forgot-password.php',
+                    'context': this,
+                    'data': {
+                        'email': $(this).form('get value', 'email')
+                    },
+                    'dataType': 'json'
+                }).done(response => {
+                    if (response.status === 'success') {
+                        let successMessage = $('<p>').text(response.message);
+                        $(this).find('.message').removeClass('error').addClass('success').append(successMessage).show();
+                    } else {
+                        $(this).form('add errors', [response.error]);
+                        $formFields.each(function() {
+                            $(this).prop('disabled', false);
+                        });
+                        $submitButton.prop('disabled', false);
+                    }
+                }).fail(() => {
+                    $formFields.each(function() {
+                        $(this).prop('disabled', false);
+                    });
+                    $submitButton.prop('disabled', false);
+                });
+            }
+        });
+
+        
+        let facebookLogin = (cb) => {
+            let response = {
+                status: 'connected'
+            };
+            cb(response);
+        };
+
+        let checkConflictingEmail = (accessToken) => {
+            return Promise.resolve({
+                status: 'failure',
+                reason: 'conflicting_email',
+                email: 'conflicting_email@proguides.com'
+            });
+        }
+
+        let sendVerificationCode = (email) => {
+            return Promise.resolve({
+                status: 'success',
+                message: 'A 6-digit verification code has been sent to your email. Please enter it above to link your accounts.'
+            });
+        }
+
+        $('.navbar-modal .signin-form__social-button[data-type="facebook"]').on('click', function() {
+            let $signinForm = $(this).closest('.signin-form');
+            let $accountLinkForm = $signinForm.find('.account-link-form');
+            let $accountLinkSubmitButton = $accountLinkForm.find('button[type="submit"]');
+            let $verificationForm = $signinForm.find('.verification-form');
+            let $verificationSubmitButton = $verificationForm.find('button[type="submit"]');
+
+            facebookLogin((response) => {
+                switch (response.status) {
+                    case 'connected':
+                        let accessToken = response.accessToken;
+                        checkConflictingEmail(accessToken).then((response) => {
+                            if (response.status === 'success') {
+                                console.log('User connected and no email conflict was found.');
+                            } else {
+                                $(this).hide();
+                                switch (response.reason) {
+                                    case 'conflicting_email':
+                                        console.log('Email already in use.');
+                                        let email = response.email;
+                                        $signinForm.find('.signin-form__divider').hide();
+                                        $signinForm.find('form').hide();
+
+                                        $accountLinkSubmitButton.on('click', function(e) {
+                                            e.preventDefault();
+                                            $(this).addClass('loading').prop('disabled', true);
+                                            $accountLinkForm.submit();
+                                        });
+
+                                        $accountLinkForm.on('submit', function(e) {
+                                            e.preventDefault();
+                                            sendVerificationCode(email).then((response) => {
+                                                console.log('Verification code sent to email.');
+                                                $accountLinkForm.hide();
+
+                                                $verificationForm.form({
+                                                    fields: {
+                                                        'verification-code[]' : ['empty']
+                                                    }
+                                                });
+                                                $verificationForm.find('.message').text(response.message).removeClass('hidden').addClass('visible');
+                                                $verificationForm.show();
+                                                $verificationForm.find('input[type="number"]').first().focus();
+
+                                                $verificationSubmitButton.on('click', function(e) {
+                                                    e.preventDefault();
+                                                    $(this).addClass('loading').prop('disabled', true);
+                                                    $verificationForm.submit();
+                                                });
+
+                                                $verificationForm.on('submit', function(e) {
+                                                    e.preventDefault();
+                                                    if ($verificationForm.form('is valid')) {
+                                                        // Finish account link here
+                                                    }
+                                                    $verificationSubmitButton.prop('disabled', false).removeClass('loading');
+                                                });
+                                            }).catch(() => {
+                                                $(this).find('.message').addClass('error').text('An unknown error occurred.').removeClass('hidden').addClass('visible');
+                                            }).finally(() => {
+                                                $accountLinkSubmitButton.prop('disabled', false).removeClass('loading');
+                                            });
+                                        });
+                                        $accountLinkForm.show();
+                                        break;
+                                }
+                            }
+                        }).catch(() => {
+                            $accountLinkForm.find('.message').addClass('error').text('An unknown error occurred.').removeClass('hidden').addClass('visible');
+                            $accountLinkForm.find('button[type="submit"]').hide();
+                            $accountLinkForm.show();
+                        });
+                        break;
+                    case 'not_authorized':
+                        break;
+                    default:
+                }
+            });
+        });
+
+        $('.navbar-modal .signin-form .verification-code-fields input[type="text"]').on('input', function() {
+            let $nextInput = $(this).parent().next('.field').find('input[type="text"]');
+            if ($nextInput.length > 0) {
+                $nextInput.focus();
+            } else {
+                $(this).blur();
+            }
+        });
+    });
+    </script>
+</div>
+
+<div class="game-sub-menu--desktop">
+ <div class="row">
+
+<div class="" style="padding-left: 1.5rem; margin-top: 1.0rem;">
+<div id="game-sub-menu" class="ui secondary vertical menu wide capitalize-menu">
+<a class=" item" href="https://www.proguides.com/games">
+Select Game</a>
+</div>
+</div>
+</div>
+</div>
+<div class="game-sub-menu--mobile ui menu secondary vertical wide capitalize-menu">
+<a class=" item" href="https://www.proguides.com/games">
+Select Game</a>
+<a class="ui item go-pro-button" href="https://www.proguides.com/store/subscriptions">GO PRO NOW!</a>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<div id="side-navbar__drawer--notifications" class="side-navbar__drawer">
+<div class="side-navbar__drawer__header">
+<div class="side-navbar__drawer__header__title">Notifications</div>
+<div id="mobile-close-button--notifications" class="mobile-close-button">
+<img class="ui small image" src="https://www.proguides.com/public/media/side-nav/cancel.svg">
+</div>
+</div>
+<div class="ui menu wide vertical secondary notifications">
+<div class="empty-notification-message">No notifications at this time.</div>
+</div>
+</div>
+<div id="side-navbar__drawer--games" class="side-navbar__drawer side-navbar__drawer--games">
+<div class="side-navbar__drawer__header">
+<div class="side-navbar__drawer__header__title">Select a Game</div>
+<a class="more-button item" href="https://www.proguides.com/games">View All</a>
+<div id="mobile-close-button--games-list" class="mobile-close-button">
+<img class="ui small image" src="https://www.proguides.com/public/media/side-nav/cancel.svg">
+</div>
+</div>
+<nav class="ui secondary vertical menu wide">
+<div class="ui secondary vertical menu wide">
+<a href="https://www.proguides.com/courses/leagueoflegends" class="item item--icon">
+<i>
+<img class="image--icon" src="/public/media/icons/lol-icon.png">
+<span id="notification_number" class="pro-badge ">
+<img src="https://www.proguides.com/public/media/side-nav/PRO_label.svg">
+</span>
+</i>
+<span>League of Legends</span>
+</a>
+<div class="horizontal-divider horizontal-divider--mobile"></div>
+<a href="https://www.proguides.com/courses/fortnite" class="item item--icon">
+<i>
+<img class="image--icon" src="/public/media/icons/fn-icon.png">
+<span id="notification_number" class="pro-badge ">
+<img src="https://www.proguides.com/public/media/side-nav/PRO_label.svg">
+</span>
+</i>
+<span>Fortnite</span>
+</a>
+<div class="horizontal-divider horizontal-divider--mobile"></div>
+<a href="https://www.proguides.com/courses/hearthstone" class="item item--icon">
+<i>
+<img class="image--icon" src="/public/media/icons/hs-icon.png">
+<span id="notification_number" class="pro-badge ">
+<img src="https://www.proguides.com/public/media/side-nav/PRO_label.svg">
+</span>
+</i>
+<span>Hearthstone</span>
+</a>
+<div class="horizontal-divider horizontal-divider--mobile"></div>
+<a href="https://www.proguides.com/courses/csgo" class="item item--icon">
+<i>
+<img class="image--icon" src="/public/media/icons/csgo-icon.png">
+<span id="notification_number" class="pro-badge ">
+<img src="https://www.proguides.com/public/media/side-nav/PRO_label.svg">
+</span>
+</i>
+<span>Counter-Strike: Global Offensive</span>
+</a>
+<div class="horizontal-divider horizontal-divider--mobile"></div>
+<a href="https://www.proguides.com/courses/magic-the-gathering" class="item item--icon">
+<i>
+<img class="image--icon" src="/public/media/icons/mtga-icon.png">
+<span id="notification_number" class="pro-badge ">
+<img src="https://www.proguides.com/public/media/side-nav/PRO_label.svg">
+</span>
+</i>
+<span>Magic: The Gathering Arena</span>
+</a>
+<div class="horizontal-divider horizontal-divider--mobile"></div>
+</div>
+</nav>
+</div>
+<div id="side-navbar__drawer--settings" class="side-navbar__drawer side-navbar__drawer--settings">
+<div class="side-navbar__drawer__header">
+<div class="side-navbar__drawer__header__title">Settings</div>
+<div id="mobile-close-button--settings" class="mobile-close-button">
+<img class="ui small image" src="https://www.proguides.com/public/media/side-nav/cancel.svg">
+</div>
+</div>
+<nav class="ui secondary vertical menu wide">
+<div class="ui secondary vertical menu wide">
+<a href="https://www.proguides.com/settings/account" class="item">Account Settings</a>
+<a href="https://www.proguides.com/settings/connected_games" class="item">Connected Games</a>
+<a href="https://www.proguides.com/settings/subscriptions" class="item">Plans Settings</a>
+<div class="horizontal-divider"></div>
+<a href="https://www.proguides.com/registration/logout" class="item" id="logout-button">Logout</a>
+</div>
+</nav>
+</div>
+<div id="side-navbar__dark-background" class="side-navbar__dark-background"></div>
+<div id="side-navbar__mobile-coverup" class="side-navbar__mobile-coverup"></div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    // clear tokens when user logs out
+    const clearTokens = () => {
+        window.localStorage.setItem('client_credentials', '')
+        window.localStorage.setItem('refresh_token', '')
+    }
+    let logoutButton = document.getElementById('logout-button')
+    logoutButton.addEventListener('keyup', (event) => {
+        if (event.keyCode === 13) {
+            clearTokens()
+        }
+    })
+    logoutButton.addEventListener('click', () => {
+        clearTokens()
+    })
+
+    let state = {
+        notificationDrawerOpen: false,
+        gamesDrawerOpen: false,
+        settingsDrawerOpen: false
+    }
+    const closeAllDrawers = () => {
+        state.notificationDrawerOpen = false
+        state.gamesDrawerOpen = false
+        state.settingsDrawerOpen = false
+    }
+
+    
+    let gameListButton = document.getElementById('game-list-button')
+    if (gameListButton) {
+        gameListButton.addEventListener('click', () => {
+            let open = !state.gamesDrawerOpen
+            closeAllDrawers()
+            state.gamesDrawerOpen = open
+            checkState()
+        })
+    }
+    try {
+        document.getElementById('settings-button').addEventListener('click', () => {
+            let open = !state.settingsDrawerOpen
+            closeAllDrawers()
+            state.settingsDrawerOpen = open
+            checkState()
+        })
+        document.getElementById('mobile-close-button--settings').addEventListener('click', () => {
+            closeAllDrawers()
+            checkState()
+        })
+    } catch {
+    }
+    document.getElementById('side-navbar__dark-background').addEventListener('click', () => {
+        closeAllDrawers()
+        checkState()
+    })
+    document.getElementById('mobile-close-button--games-list').addEventListener('click', () => {
+        closeAllDrawers()
+        checkState()
+    })
+    const checkState = () => {
+        try {
+            if (state.notificationDrawerOpen) {
+                document.getElementById('user-notifications').classList.add('active')
+                document.getElementById('side-navbar__drawer--notifications').classList.add('side-navbar__drawer--open')
+            } else {
+                document.getElementById('user-notifications').classList.remove('active')
+                document.getElementById('side-navbar__drawer--notifications').classList.remove('side-navbar__drawer--open')
+            }
+        } catch {
+        }
+
+        try {
+            if (state.gamesDrawerOpen) {
+                document.getElementById('game-list-button').classList.add('active')
+                document.getElementById('side-navbar__drawer--games').classList.add('side-navbar__drawer--open')
+            } else {
+                document.getElementById('game-list-button').classList.remove('active')
+                document.getElementById('side-navbar__drawer--games').classList.remove('side-navbar__drawer--open')
+            }
+        } catch {
+        }
+
+        try {
+            if (state.settingsDrawerOpen) {
+                document.getElementById('settings-button').classList.add('active')
+                document.getElementById('side-navbar__drawer--settings').classList.add('side-navbar__drawer--open')
+            } else {
+                document.getElementById('settings-button').classList.remove('active')
+                document.getElementById('side-navbar__drawer--settings').classList.remove('side-navbar__drawer--open')
+            }
+        } catch {
+        }
+
+        let drawerOpen = state.notificationDrawerOpen || state.gamesDrawerOpen || state.settingsDrawerOpen
+
+        if (drawerOpen) {
+            document.getElementById('side-navbar__dark-background').classList.add('side-navbar__dark-background--active')
+        } else {
+            document.getElementById('side-navbar__dark-background').classList.remove('side-navbar__dark-background--active')
+        }
+    }
+
+    // If a button in the game's sub-menu is active, the game button will be 'semi-active'
+    let gameSubMenu = document.getElementById('game-sub-menu')
+    let gameButton = document.getElementById('game-list-button')
+    if (gameSubMenu && gameButton) {
+        for (var i = 0; i < gameSubMenu.children.length; i++) {
+            if (gameSubMenu.children[i].classList.contains('active')) {
+                gameButton.classList.add('semi-active')
+            }
+        }
+    }
+
+    // mobile view hamburger menu
+    let hamburgerMenuButton = document.getElementById('hamburger-menu')
+    // var scrollPos = 0 // save scroll position when nav drawer is opened is it can be returned to when its closed
+    hamburgerMenuButton.addEventListener('click', () => {
+        document.getElementById('side-navbar').classList.add('side-navbar--open')
+        $('body').addClass('side-navbar__modal-open')
+
+        document.getElementById('side-navbar__mobile-coverup').classList.add('side-navbar__mobile-coverup--active')
+        // // record scroll position when drawer is opened
+        // scrollPos = window.scrollY
+
+        // // disable overflow after nav-drawer slides down (.5s transition time)
+        // // disabling overflow automatically scrolls page to the top, so we need to save scroll Pos
+        // // to return to spot the user was at
+        // setTimeout(() => {
+        //     $('.page-container').addClass('side-navbar__modal-open')
+        // }, 501)
+    })
+    document.getElementById('mobile-close-button').addEventListener('click', () => {
+        document.getElementById('side-navbar').classList.remove('side-navbar--open')
+        $('body').removeClass('side-navbar__modal-open')
+
+        document.getElementById('side-navbar__mobile-coverup').classList.remove('side-navbar__mobile-coverup--active')
+        // $('.page-container').removeClass('side-navbar__modal-open')
+
+        // Scroll back to position screen was at when drawer was opened
+        // window.scrollTo(0, scrollPos)
+    })
+
+    // check on page load if box shadow should exist
+    let menu = $('#side-nav__scrollable-menu')
+    if (menu.get(0).scrollHeight > menu.outerHeight()) {
+        let bottomMenu = $('#side-nav__bottom-menu')
+        bottomMenu.addClass('bottom-menu--shadow')
+    }
+
+    // register resize listener to check if box shadow should exist
+    $(window).resize(() => {
+        let isScrollable = $('#side-nav__scrollable-menu').get(0).scrollHeight > menu.outerHeight()
+        $('#side-nav__bottom-menu').toggleClass('bottom-menu--shadow', isScrollable)
+    })
+})
+</script>
+<script>
+$(function() {
+    $('.side-navbar .ui.dropdown').dropdown();
+
+    // On language change from the navbar
+    $('.languages .language-options a').on('click', function() {
+        $.ajax({
+            method: "POST",
+            url: "https://www.proguides.com/functions/set_language.php",
+            data: {
+                language : $(this).attr('data-value')
+            },
+            success: function(response) {
+                location.reload();
+            }
+        });
+    });
+
+    $('#signin').on('click', function(e) {
+        e.preventDefault();
+        // $('#login-modal').modal('show');
+        window.location = '/login'
+    });
+    $('#signin--mobile').on('click', function(e) {
+        e.preventDefault();
+        // $('#login-modal').modal('show');
+        window.location = '/login'
+    });
+});
+</script>
+<div class="main">
+<div class="content">
+<div class="banner with-text" data-game="leagueoflegends">
+<div class="ui container">
+</div>
+</div>
+<div class="ui container">
+<div class="ui stackable grid">
+<div class="sixteen wide column">
+<div class="legal-text pg-container">
+<div class="pg-container__header">
+<div>
+<h1 class="header">Privacy Policy</h1>
+<div class="description">Last Updated: April 10, 2019</div>
+</div>
+</div>
+<div class="pg-container__body">
+<p>This Privacy Policy explains our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service.</p>
+<ul>
+<li>
+<h2>Revisions to this Privacy Policy</h2>
+<p>Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective.</p>
+</li>
+<li>
+<h2>Information Collected or Received from You</h2>
+<p>Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services.</p>
+<ul>
+<li>
+<p class="underline">Account Information</p>
+<p>If you create an Account, we’ll collect certain information that can be used to identify you, such as your email address (“<b>PII</b>”).</p>
+</li>
+<li>
+<p class="underline">Information Collected Using Cookies and other Web Technologies</p>
+<p>Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information.</p>
+</li>
+</ul>
+<br>
+<p>“<b>Cookies</b>” are small text files that are placed on your device by a web server when you access our Services. We may use both session Cookies and persistent Cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage (including third-party advertisers) may also place their own Cookies on your device. Note that this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties.</p>
+<p>“<b>Web Beacons</b>” (also known as web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising. Unlike Cookies, which are stored on the device, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).</p>
+<p>“Log Data” means certain information about how a person uses our Services, including both Account holders and non-Account holders (either, a “User”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to generate aggregate, non-identifying information about how our Services are used.</p>
+<ul>
+<li>
+<p class="underline">Information Sent by Your Mobile Device</p>
+<p>When you use our App, we may collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile device’s GPS coordinates or coarse location if you enable location services on your device. We may use location information to improve and personalize our Services for you. If you do not want us to collect location information, you may disable that feature on your mobile device.</p>
+</li>
+<li>
+<p class="underline">Location Information</p>
+<p>Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information.</p>
+</li>
+</ul>
+</li>
+<li>
+<h2>Information that We Share with Third Parties</h2>
+<p>We will not share any PII that we have collected from or regarding you except as described below:</p>
+<ul>
+<li>
+<p class="underline">Information Shared with Our Services Providers</p>
+<p>We may engage third-party services providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf [and are expressly obligated not to disclose or use your PII for any other purpose.] We may share your PII and any necessary payment information, such as credit card number, expiration date and billing address, with our payment processing services providers in order to complete transactions that are initiated through the Services. We may also share your PII with our marketing service providers to help us better market our products and services to you. These marketing service providers may use your PII only for the purpose of helping us to provide relevant products and services information to you and are expressly obligated not to disclose your PII to others. If you don’t want us to use your PII for these marketing purposes, you can opt out by contacting us at <a href="mailto:support@proguides.com">support@proguides.com</a>.</p>
+</li>
+<li>
+<p class="underline">Information Shared with other Third Parties</p>
+<p>We may share anonymized or aggregated data we collect from the use of the Services, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access the Services, market trends and other analysis that we create based on the information we receive from you and other users.</p>
+</li>
+<li>
+<p class="underline">Information Shared with Web Analytics Services Providers</p>
+<p><b>Google.</b>We use Google Analytics, a service provided by Google, Inc. (“<b>Google</b>”), to gather information about how users engage with our Site and Services. For more information about Google Analytics, please visit <a href="https://www.google.com/policies/privacy/partners/" target="_blank">www.google.com/policies/privacy/partners/</a>. You can opt out of Google’s collection and processing of data generated by your use of the Services by going to <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">http://tools.google.com/dlpage/gaoptout</a>.</p>
+<p><b>Facebook.</b>We may use certain tools offered by Facebook, Inc. (“<b>Facebook</b>”) that enable it to collect or receive information about actions users take on: (a) our Site and elsewhere on the internet through use of Cookies, Web Beacons and other storage technologies; or (b) our App and other mobile applications, in order to provide measurement services, targeted ads and other services. For more information regarding the collection and use of such information by Facebook, please see the Facebook Data Policy, available at: <a href="https://www.facebook.com/policy.php" target="_href">https://www.facebook.com/policy.php</a>.</p>
+</li>
+<li>
+<p class="underline">Information Disclosed in Connection with Business Transactions</p>
+<p>Information that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.</p>
+</li>
+<li>
+<p class="underline">Information Disclosed for Our Protection and the Protection of Others</p>
+<p>We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.</p>
+</li>
+</ul>
+</li>
+<li>
+<h2>Your Choices</h2>
+<p>We offer you choices regarding the collection, use and sharing of your PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services.</p>
+<ul>
+<li>
+<p class="underline">Opt-Out of our Mailings</p>
+<p>We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your Account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Service or this Privacy Policy or information about billing.</p>
+</li>
+<li>
+<p class="underline">Opt-out of Ad Tracking</p>
+<p>You can opt out of the collection and use of your information for ad targeting by going to <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a> or <a href="http://www.youronlinechoices.eu/" target="_blank">http://www.youronlinechoices.eu/</a> to limit collection through the Site or by configuring the settings on your mobile device to limit ad tracking through the App.</p>
+</li>
+<li>
+<p class="underline">Modifying Your Information</p>
+<p>You can access and modify the PII associated with your Account by visiting your <a href="/settings/account">Account Settings</a>. If you want us to delete your PII and your Account, please contact us at <a href="mailto:support@proguides.com">support@proguides.com</a> with your request. We’ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.</p>
+</li>
+</ul>
+</li>
+<li>
+<h2>Responding to Do Not Track Signals</h2>
+<p>Our Site does not have the capability to respond to “Do Not Track” signals received from various web browsers.</p>
+</li>
+<li>
+<h2>The Security of Your Information</h2>
+<p>We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. When you enter sensitive information on our forms, we encrypt this data using SSL or other technologies. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.</p>
+</li>
+<li>
+<h2>Links to Other Sites </h2>
+<p class="uppercase">Our Services may contain links to websites and services that are owned or operated by third parties (each, a “<b>Third-party Service</b>”). Any information that you provide on or to a Third-party Service or that is collected by a Third-party Service is provided directly to the owner or operator of the Third-party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy or security practices and policies of any Third-party Service. To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access.</p>
+</li>
+<li>
+<h2>International Transfer</h2>
+<p>Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there.</p>
+</li>
+<li>
+<h2>Our Policy Toward Children</h2>
+<p>We do not direct our Services to children (usually considered to be under the age of 13, depending on the country where you reside). We also do not intentionally collect PII from children through our Services. If you are the parent or guardian of a child and you believe that we have inadvertently received PII about that child, please contact us as described below and we will delete the information from our records.</p>
+</li>
+<li>
+<h2>Your California Privacy Rights</h2>
+<p>California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their PII for direct marketing purposes during the preceding calendar year and the categories of PII shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at <a href="mailto:support@proguides.com">support@proguides.com</a> with “California Privacy Rights” in the subject line or by writing to us at 11862 La Grange Ave., Los Angeles, California 90025.</p>
+</li>
+<li>
+<h2>Questions? </h2>
+<p>Please contact us at <a href="mailto:support@proguides.com">support@proguides.com</a> if you have any questions about our Privacy Policy.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer">
+<div class="footer__sections">
+<div class="footer__section">
+<p class="footer__section-header">COMPANY</p>
+<span id="footer-contact-us" class="footer__section-link footer__section-link--active">Contact Us</span>
+<span id="footer-partners-contact" class="footer__section-link footer__section-link--active">Become a Partner</span>
+<a href="https://www.proguides.com/careers" class="footer__section-link">Careers</a>
+<a href="https://www.proguides.com/terms_and_conditions" class="footer__section-link">Terms and Conditions</a>
+<a href="https://www.proguides.com/privacy_policy" class="footer__section-link">Privacy Policy</a>
+</div>
+
+<div class="footer__section">
+<p class="footer__section-header">SOCIAL MEDIA</p>
+<div class="footer__socials">
+<a href="https://twitter.com/proguidescom" target="_blank" class="footer__social footer__social--twitter"></a>
+<a href="https://www.facebook.com/proguidescom" target="_blank" class="footer__social footer__social--facebook"></a>
+<a href="https://www.youtube.com/channel/UCq8up0Ew9K0IiRxbz75BZsg" target="_blank" class="footer__social footer__social--youtube"></a>
+<a href="https://www.instagram.com/proguidescom" target="_blank" class="footer__social footer__social--instagram"></a>
+</div>
+</div>
+<div class="footer__section">
+
+</div>
+<p class="footer__copyright">ProGuides | Copyright © 2019 ProGuides. All rights reserved.</p>
+</div>
+<div class="ui modals">
+<div class="ui modal footer-form-modal" id="contact-us-modal">
+<i class="close icon"></i>
+<form id="contact-us-form" class="ui form">
+<div class="header">Contact Us</div>
+<p>
+Have a question? <br>
+
+Send us a message and we'll respond back as soon as possible. </p>
+<hr>
+<div class="field">
+<input type="text" name="name" placeholder="Name">
+</div>
+<div class="field">
+<input type="email" name="email" placeholder="Email address">
+</div>
+<div class="field">
+<input type="text" name="subject" placeholder="Subject">
+</div>
+<div class="field">
+<textarea name="message" rows="4" placeholder="Message"></textarea>
+</div>
+<div class="ui error message"></div>
+<button type="submit" class="ui button fluid blue inverted">Submit</button>
+</form>
+<div id="contact-us-confirm" class="form-confirmation">
+<div class="header">Thanks for contacting us!</div>
+<p>We've received your message and a support agent will be contacting you within 24 hours. Thanks for choosing ProGuides!</p>
+</div>
+</div>
+<script>
+$(function() {
+    $('#contact-us-form').form({
+        fields: {
+            subject : 'empty',
+            name : 'empty',
+            email : ['email', 'empty'],
+            message: 'empty'
+        }
+    });
+
+    $('#contact-us-form').on('submit', function(e) {
+        e.preventDefault();
+        if ($(this).form('is valid')) {
+            let $submitButton = $(this).find('button[type="submit"]');
+            $submitButton.prop('disabled', true).addClass('loading');
+
+            $.ajax({
+                method: 'POST',
+                url: '/functions/contact-us.php',
+                data: {
+                    name: $(this).form('get value', 'name'),
+                    email: $(this).form('get value', 'email'),
+                    subject: $(this).form('get value', 'subject'),
+                    message: $(this).form('get value', 'message')
+                },
+                dataType: 'json',
+                context: this
+            }).done(response => {
+                if (response.status === 'success') {
+                    $('#contact-us-form').hide();
+                    $('#contact-us-confirm').show();
+                } else {
+                    $(this).form('add errors', [response.error]);
+                }
+            }).always(() => {
+                $submitButton.prop('disabled', false).removeClass('loading');
+            });
+        }
+        return false;
+    });
+});
+</script>
+<div class="ui modal footer-form-modal" id="partner-modal">
+<i class="close icon"></i>
+<form id="partner-form" class="ui form">
+<div class="header">Partners</div>
+<p>
+Want to become a ProGuides partner? <br>
+Have a substantial audience? Send us a message and we'll respond as soon as possible. </p>
+<hr>
+<input type="hidden" name="subject" value="ProGuides Partners">
+<div class="field">
+<input type="text" name="name" placeholder="Name">
+</div>
+<div class="field">
+<input type="email" name="email" placeholder="Email address">
+</div>
+<div class="field">
+<textarea name="message" rows="4" placeholder="Message"></textarea>
+</div>
+<div class="ui error message"></div>
+<button type="submit" class="ui button fluid blue inverted">Submit</button>
+</form>
+<div id="partner-confirm" class="form-confirmation">
+<div class="header">Thanks for contacting us!</div>
+<p>We've received your message and a partnership manager will be contacting you shortly. Thanks for your interest in ProGuides!</p>
+</div>
+</div>
+<script>
+$(function() {
+    $('#partner-form').form({
+        fields: {
+            subject : 'empty',
+            name : 'empty',
+            email : ['email', 'empty'],
+            message: 'empty'
+        }
+    });
+
+    $('#partner-form').on('submit', function(e) {
+        e.preventDefault();
+        if ($(this).form('is valid')) {
+            let $submitButton = $(this).find('button[type="submit"]');
+            $submitButton.prop('disabled', true).addClass('loading');
+
+            $.ajax({
+                method: 'POST',
+                url: '/functions/contact-us.php',
+                data: {
+                    name: $(this).form('get value', 'name'),
+                    email: $(this).form('get value', 'email'),
+                    subject: $(this).form('get value', 'subject'),
+                    message: $(this).form('get value', 'message')
+                },
+                dataType: 'json',
+                context: this
+            }).done(response => {
+                if (response.status === 'success') {
+                    $('#partner-form').hide();
+                    $('#partner-confirm').show();
+                } else {
+                    $(this).form('add errors', [response.error]);
+                }
+            }).always(() => {
+                $submitButton.prop('disabled', false).removeClass('loading');
+            });
+        }
+        return false;
+    });
+});
+</script>
+</div>
+<script>
+    $(function() {
+        $('#footer-contact-us').on('click', function(e) {
+            e.preventDefault();
+            $("#contact-us-modal").modal("show");
+        });
+
+        $('#footer-partners-contact').on('click', function(e) {
+            e.preventDefault();
+            $("#partner-modal").modal("show");
+        });
+    });
+    </script>
+</div>
+</footer>
+</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"89e9936178","applicationID":"272879472","transactionName":"YwdRYkUDCERYARYPDlpNZkReTRZFUBQDBRhrElxaXgEfGUkKEg==","queueTime":0,"applicationTime":5,"atts":"T0BSFA0ZG0o=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
