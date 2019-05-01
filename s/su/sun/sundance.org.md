@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundance.org privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210041951id_/http%3A//www.sundance.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundance.org privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501201454id_/http%3A//www.sundance.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Terms, Conditions, and Privacy Policy | Sundance Institute
 
