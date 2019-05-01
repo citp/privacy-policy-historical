@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maritime-executive.com privacy policy that was archived on 2018-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180919013632id_/https%3A//www.maritime-executive.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maritime-executive.com privacy policy that was archived on 2019-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190501125558id_/https%3A//www.maritime-executive.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
     <meta name="google-site-verification" content="NOL7f9CLFIk51dhDYz5lI8Tpnh_Y_GKQ5MPPdG7u1A4">
@@ -10,7 +10,7 @@
 <script src="/js/ie_support/respond.min.js"></script>
 <![endif]-->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="csrf-token" content="beo1ZnAdsiMbXz0rhfrupBU9VsSM04cyvu6DeToL">
+<meta name="csrf-token" content="6Mlb25eKX8SkTbGwPpJ58vpRSlZwHB1XMRosZfye">
 <meta name="viewport" content="width=device-width, initial-scale=1">        <title>Privacy Policy - The Maritime Executive</title>
     <meta name="description" content="Please view our privacy policy page for a complete overview of information collected and practices used to protect your privacy. ">
     <meta name="keywords" content="">
@@ -19,8 +19,9 @@
     <meta property="og:description" content="Please view our privacy policy page for a complete overview of information collected and practices used to protect your privacy. ">
     <link rel="icon" type="image/png" href="/media/images/site/logo/favicon.ico">
     <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="/media/images/site/logo/favicon.ico" /><![endif]-->
-    <link href="/build/css/site-4eef7958b1.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://www.maritime-executive.com/css/custom.css">
+    <!-- <link href="/build/css/site-4eef7958b1.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://maritime-executive.com/css/site.css">
+    <link rel="stylesheet" href="https://maritime-executive.com/css/custom.css">
     <style media="screen">
         object, figure, iframe {
             max-width: 100%;
@@ -203,7 +204,7 @@
                                 <a href="/jobs">Jobs</a>
                             </li>
                             <li>
-                                <a href="http://mediakit.maritime-executive.com">advertise</a>
+                                <a href="http://mediakit.maritime-executive.com/2019/">advertise</a>
                             </li>
                             <li>
                                 <a href="/subscribe">subscribe</a>
@@ -447,12 +448,13 @@
                         <a href="/site-map">Site Map</a>
                     </li>
                 </ul>
-                <p>© Copyright 2018 The Maritime Executive, LLC. All rights reserved.</p>
+                <p>© Copyright 2019 The Maritime Executive, LLC. All rights reserved.</p>
             </div>
         </div>
     </div>
 </footer>
-<script type="application/javascript" src="/build/js/site-adf8603422.js"></script>
+<!-- <script type="application/javascript" src="/build/js/site-adf8603422.js"></script> -->
+<script type="application/javascript" src="https://maritime-executive.com/js/site.js"></script>
 
 <script>
     $(function () {
@@ -481,12 +483,15 @@
 </div>
 
 <script type="text/javascript">
-    $(window).on('load',function(){
-        setTimeout(function(){
-            $('#subscribe-modal').modal({backdrop: 'static', keyboard: false});
-            $('#subscribe-modal').modal('show');
-        }, 15000)
-    });
+    if (!(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))) {
+        $(window).on('load',function(){
+            setTimeout(function(){
+                $('#subscribe-modal').modal({backdrop: 'static', keyboard: false});
+                $('#subscribe-modal').modal('show');
+            }, 15000)
+        });
+    }
+
     $('.setcookie').click(function(){
         $.post('/subscribe/create_cookie', {}, function(data){
             console.log(data);
