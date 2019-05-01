@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the rms.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228001412id_/http%3A//www.rms.com/legal%23Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rms.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501165418id_/https%3A//www.rms.com/legal%23Privacy-Policy) for the most accurate reproduction.*
 
 # Legal – Risk Management Solutions - RMS
 
 #### Privacy Policy for [rms.com](http://www.rms.com/) Website
 
-Last Updated: August 13, 2018 
+Last Updated: February 27, 2019 
 
-Risk Management Solutions, Inc. ( **"RMS", "we", "our", "us"** ) is committed to protecting and respecting your privacy. We are a California corporation, with our principal office located at 7575 Gateway Boulevard, Newark, California 94560. This policy applies to [www.rms.com](http://www.rms.com/) ("Website") and to the online services ("Services") available to our customers through certain restricted portions of our Website. 
+Risk Management Solutions, Inc. ( **"RMS", "we", "our", "us"** ) is committed to protecting and respecting your privacy. We are a California corporation, with our principal office located at 7575 Gateway Boulevard, Suite 300, Newark, California 94560. This policy applies to [www.rms.com](http://www.rms.com/) and other websites ("Websites") owned and operated by RMS, and to the online services ("Services") available to our customers through certain restricted portions of our Websites. 
 
-If you are an RMS customer, you may have access to software or functions in restricted areas of our Website that permit you to input information regarding your clients or insureds. The treatment of such information is governed by your (or your employer's) agreement with RMS permitting you to use the applicable software or functions. In addition to the terms of any agreement, it is your responsibility to ensure that you have the authority to input such information and that you are doing so in accordance with your (or your employer's) agreement with RMS and any applicable laws and regulations, including privacy and data protection laws and regulations. 
+If you are an RMS customer, you may have access to software or functions in restricted areas of our Websites that permit you to input information regarding your clients or insureds. The treatment of such information is governed by your (or your employer's) agreement with RMS permitting you to use the applicable software or functions. In addition to the terms of any agreement, it is your responsibility to ensure that you have the authority to input such information and that you are doing so in accordance with your (or your employer's) agreement with RMS and any applicable laws and regulations, including privacy and data protection laws and regulations. 
 
-Your use of this Website and the Services is also subject to the _Terms of Use_. 
+Your use of our Websites and the Services is also subject to the _Terms of Use_. 
 
 **Personal Data:**
 
 Under the General Data Protection Regulation (“GDPR”), we act as a "Processor" for the Services we provide. We function as a “Controller” when we send marketing materials or communications to potential or existing clients ("Marketing Activities") in accordance with applicable law. 
 
-When you visit the RMS Website or use our Services, we may collect Personal Data as described below. "Personal Data" means any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. 
+When you visit an RMS Website or use our Services, we may collect Personal Data as described below. "Personal Data" means any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. 
 
 In some cases, we will ask for your consent so that we may process your Personal Data. For example, we will request your consent before we collect your Personal Data for direct marketing purposes. 
 
@@ -34,30 +34,30 @@ However, in other circumstances, data protection laws allow us to process your P
 
 ###  1\. WHAT TYPES OF INFORMATION DOES RMS RECEIVE?
 
-RMS receives Personal Data from you when you visit our Website and Services. This might include information such as your name, e-mail address, or telephone number that you submit to us via our “Contact Us” function, and other information that we automatically collect when you visit our Website and use our Services, as described below. The information you provide to RMS may include the following: 
+RMS receives Personal Data from you when you visit our Websites and Services. This might include information such as your name, e-mail address, or telephone number that you submit to us via our “Contact Us” function, and other information that we automatically collect when you visit our Websites and use our Services, as described below. The information you provide to RMS may include the following: 
 
-  * Your login ID when you access and use the client area of the Website limited to registered users (the “Services”);
+  * Your login ID when you access and use the client area of a Website limited to registered users (the “Services”);
   * First and last name, email address, job title, phone number, company name, country and your specific questions or comments when you: 
     * register for a RMS event, such as our client conference
     * contact us to learn more about our products and services 
-    * ask us a question or send feedback using RMS contact information available on the Website
+    * ask us a question or send feedback using RMS contact information available on a Website
     * provide feedback or reply to a blog post
     * when our Website directs you to a third party's website to complete a transaction, such as a website that processes your registration and credit card information for an RMS event.
   * First and last name, email address, resume or cv, phone number, location, referral source and any information provided in your cover letter and LinkedIn profile when you apply for a job via the "Careers" section of the Website; or
 
 
 
-When you visit our Website or use our Services, we also automatically collect and store certain information, including your browser type your IP address or device ID, operating system, the pages you access on the Website or Services, the time spent on those pages, access dates and times, location data, and the page you visited before coming to our site. We use this information to monitor, analyze and administer the Website and Services, and to better tailor them to your needs. 
+When you visit our Websites or use our Services, we also automatically collect and store certain information, including your browser type your IP address or device ID, operating system, the pages you access on the Websites or Services, the time spent on those pages, access dates and times, location data, and the page you visited before coming to our site. We use this information to monitor, analyze and administer the Websites and Services, and to better tailor them to your needs. 
 
 **Cookies**  
-To collect information this information, we use cookies. A cookie is a small data text file which a website stores on your computer's hard drive, if permitted by your web browser. A cookie can later be retrieved to identify you to us. We use cookies for the limited purposes of enhancing your visit to our Website and to enable us to track usage so that we can improve the website and our offerings to you. 
+To collect information this information, we use cookies. A cookie is a small data text file which a website stores on your computer's hard drive, if permitted by your web browser. A cookie can later be retrieved to identify you to us. We use cookies for the limited purposes of enhancing your visit to our Website and to enable us to track usage so that we can improve the Website and our offerings to you. 
 
 **Pixel Tags**  
 A pixel tag (also known as a "clear GIF" or "web beacon") is a tiny image – typically just one-pixel – that can be placed on a web page or in an email to you, to tell us when you have displayed that page or opened that email. 
 
 We use third parties to collect, track and analyze this information and statistical information from users, such as the user's browser type, operating system, browsing behavior and demographic information. 
 
-A list of companies that use cookies on our Website is included in our Cookie Policy. The list includes a description of what services third parties perform on our Website, the types of data they collect, and a link to applicable privacy documents from those parties. You should note, however, that the parties listed in our Cookie Policy may also dynamically redirect to other third parties, not listed in our Cookie Policy, for purposes such as interest-based advertising. 
+A list of companies that use cookies on our Websites is included in our Cookie Policy. The list includes a description of what services third parties perform on our Websites, the types of data they collect, and a link to applicable privacy documents from those parties. You should note, however, that the parties listed in our Cookie Policy may also dynamically redirect to other third parties, not listed in our Cookie Policy, for purposes such as interest-based advertising. 
 
 In addition, when you use the Internet, third parties such as web analytics companies and social networking platforms may collect information about your online activities over time and across ours and other websites. This information may be used to provide advertisements for products and services that may interest you, and those companies may use cookies, clear GIFs and other tracking technologies. 
 
@@ -67,15 +67,15 @@ For more information about third-party advertisers and how to prevent them from 
 
 ###  2\. DO NOT TRACK
 
-Some web browsers give the ability to prevent tracking of your online activity by setting a preference in your browser alerting websites you visit that you do not want them to track your online activities. This is referred to as a Do Not Track ("DNT") signal. This is different than blocking or deleting cookies, as browsers with an enabled DNT Signal may still accept cookies.
+Some web browsers give the ability to prevent tracking of your online activity by setting a preference in your browser alerting websites you visit that you do not want them to track your online activities. This is referred to as a Do Not Track ("DNT") signal. This is different than blocking or deleting cookies, as browsers with an enabled DNT Signal may still accept cookies. 
 
-Please note that our Website and Services may not recognize or take action in response to DNT signals from your browser.
+Please note that our Websites and Services may not recognize or take action in response to DNT signals from your browser. 
 
 ###  3\. HOW DO WE USE THE INFORMATION WE COLLECT?
 
-In general, we use your Personal Data to complete the transaction that you have requested from us. For example, we will use your Personal Information to:
+In general, we use your Personal Data to complete the transaction that you have requested from us. For example, we will use your Personal Information to: 
 
-  * Deliver, maintain, monitor, protect and assess our Website and Services and to enhance your experience 
+  * Deliver, maintain, monitor, protect and assess our Websites and Services and to enhance your experience 
   * Communicate with you in response to your requests;
   * Establish or verify your identity when you register for the Services;
   * Respond to you about your job application;
@@ -87,27 +87,27 @@ In general, we use your Personal Data to complete the transaction that you have 
 
 ###  4\. WITH WHOM DO WE SHARE THE PERSONAL DATA WE RECEIVE ABOUT YOU?
 
-RMS does not sell your Personal Data to anyone. Nor do we provide your Personal Data to non-RMS parties to market non-RMS products to you. RMS will share your Personal Data with the following categories of recipients:
+RMS does not sell your Personal Data to anyone. Nor do we provide your Personal Data to non-RMS parties to market non-RMS products to you. RMS will share your Personal Data with the following categories of recipients: 
 
   * RMS employees, contractors and consultants (including employees, contractors and consultants of RMS subsidiaries and affiliated companies), in the United States, the European Economic Area (EEA) and India, who have a need to know your Personal Data to provide RMS services and information to you;
-  * Our third-party vendors, consultants and other service providers who assist RMS with the operation of the Website and Services when they require access to such information to provide the services for us. This may include cloud computing companies, cloud communication platform as a service (PaaS), web analytics services, employment-related service providers, social networking services and mailing and emailing services. For example, we may use a third party to process submissions of resumes and CVs through the RMS Careers section of the Website; 
+  * Our third-party vendors, consultants and other service providers who assist RMS with the operation of the Websites and Services when they require access to such information to provide the services for us. This may include cloud computing companies, cloud communication platform as a service (PaaS), web analytics services, employment-related service providers, social networking services and mailing and emailing services. For example, we may use a third party to process submissions of resumes and CVs through the RMS Careers section of the Website; 
   * Trusted non-RMS parties who assist RMS with providing RMS Services and information to you, such as CVent and Marketo, who help us with RMS event registration and processing of your payments;
   * Trusted non-RMS parties that provide customer relationship management applications such as [Salesforce.com](https://www.salesforce.com/); and
   * Trusted non-RMS parties such as hosting, analytics and search engine providers such as Google Analytics that assist us in the improvement and optimization of the Website and who may have access to your Personal Data.
 
 
 
-When you submit a comment on one of our blog posts, your comments and any personal information that you include in that comment will be shared with other visitors to this Website.
+When you submit a comment on one of our blog posts, your comments and any personal information that you include in that comment will be shared with other visitors to that Website. 
 
-RMS will also disclose your Personal Data if we are required to do so by law, to enforce our Terms of Use, or in urgent circumstances to protect personal safety, the public, or our Website, as permitted by law or as otherwise required by law.
+RMS will also disclose your Personal Data if we are required to do so by law, to enforce our Terms of Use, or in urgent circumstances to protect personal safety, the public, or our Website, as permitted by law or as otherwise required by law. 
 
-We will also disclose your Personal Data to third parties in the event that we sell any business or assets, in which case we will disclose your data to the prospective buyer of such business or assets or if we sell all or substantially all of our assets or are acquired by a third party, in which case information held by us about our users will be one of the transferred assets, however it will remain protected in accordance with this privacy policy.
+We will also disclose your Personal Data to third parties in the event that we sell any business or assets, in which case we will disclose your data to the prospective buyer of such business or assets or if we sell all or substantially all of our assets or are acquired by a third party, in which case information held by us about our users will be one of the transferred assets, however it will remain protected in accordance with this privacy policy. 
 
 ###  5\. WHERE DO WE STORE YOUR PERSONAL DATA?
 
-If you are located outside of the United States, you should be aware that the Website and Services are hosted in the United States, and your information will be transferred to, processed and stored in the United States, the EEA and Australia. It may also be processed by staff operating outside of your country, who work for us or one of our third party service providers.
+If you are located outside of the United States, you should be aware that the Websites and Services are hosted in the United States, and your information will be transferred to, processed and stored in the United States, the EEA and Australia. It may also be processed by staff operating outside of your country, who work for us or one of our third party service providers. 
 
-Wherever the data is, it will be treated securely and in accordance with this Privacy Policy and applicable privacy laws in North America and the EU. These laws may be different from the privacy laws in your country, and may not always provide the same level of protection for your information. However, that does not change our commitment to safeguard your privacy, and we will comply with all applicable laws related to the cross-border data disclosure of your personal information. Where required to transfer your Personal Data within the RMS group and to our partners we will implement binding corporate rules and Standard Contractual Clauses. A copy of the Standard Contractual Clauses may be obtained on your request by emailing us at [privacy@rms.com](mailto:mailto:privacy@rms.com).
+Wherever the data is, it will be treated securely and in accordance with this Privacy Policy and applicable privacy laws in North America and the EU. These laws may be different from the privacy laws in your country, and may not always provide the same level of protection for your information. However, that does not change our commitment to safeguard your privacy, and we will comply with all applicable laws related to the cross-border data disclosure of your personal information. Where required to transfer your Personal Data within the RMS group and to our partners we will implement binding corporate rules and Standard Contractual Clauses. A copy of the Standard Contractual Clauses may be obtained on your request by emailing us at [privacy@rms.com](mailto:mailto:privacy@rms.com). 
 
 ###  6\. HOW DOES RMS PROTECT YOUR PERSONAL DATA?
 
@@ -133,7 +133,7 @@ In certain circumstances, when we are acting as a controller, you have rights re
 
 ###  9\. SOCIAL MEDIA FEATURES AND WIDGETS
 
-Our Website includes social media features and widgets which allow you to share articles from our website. These features are usually recognizable by their third party brand or logo and may collect your IP address, and set a cookie to enable the feature to work properly. These social media features and widgets may provide information to their associated social networks or third parties about your interactions with our web pages that you visit, even if you did not click on or otherwise interact with the social media feature or widget. Information is transmitted from your browser and may include an identifier assigned by the social network or third party, information about your browser type, operating system, device type, IP address and the URL of the web page where the feature appears. These social media features and widgets are hosted by social media companies that have their own privacy policies and we encourage you to read them. Your interactions with these features are governed by the privacy policy of the company providing it.
+Our Websites includes social media features and widgets which allow you to share articles from our websites. These features are usually recognizable by their third party brand or logo and may collect your IP address, and set a cookie to enable the feature to work properly. These social media features and widgets may provide information to their associated social networks or third parties about your interactions with our web pages that you visit, even if you did not click on or otherwise interact with the social media feature or widget. Information is transmitted from your browser and may include an identifier assigned by the social network or third party, information about your browser type, operating system, device type, IP address and the URL of the web page where the feature appears. These social media features and widgets are hosted by social media companies that have their own privacy policies and we encourage you to read them. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
 ###  10\. HOW CAN YOU CONTACT RMS ABOUT YOUR PERSONAL DATA?
 
@@ -147,7 +147,7 @@ Opting Out of Communications: From time to time you will receive an e-mail or ot
 
 ###  11\. WILL THIS PRIVACY POLICY CHANGE?
 
-RMS reserves the right to modify, amend, add to, replace or remove this Privacy Policy at any time. When we do, we will post a notice in the Website or Services, or otherwise as required by law. Should we make material changes impacting the Services, we will notify our client contact of record and obtain any consents required under applicable law. Unless otherwise noted, changes to this privacy policy will be effective when posted. You are advised to check the Privacy, Terms of Use and Legal links on the Website for updates whenever you visit the Website.
+RMS reserves the right to modify, amend, add to, replace or remove this Privacy Policy at any time. When we do, we will post a notice in the Websites or Services, or otherwise as required by law. Should we make material changes impacting the Services, we will notify our client contact of record and obtain any consents required under applicable law. Unless otherwise noted, changes to this privacy policy will be effective when posted. You are advised to check the Privacy, Terms of Use and Legal links on the Website for updates whenever you visit the Website. 
 
 Risk Management Solutions, Inc. ("RMS") provides this website to you subject to these Terms of Use. By using this website, you accept and agree to comply with these Terms of Use. If you do not agree to these Terms of Use, do not use this website. 
 
@@ -271,7 +271,7 @@ There are different types of cookies:
 
 Our websites may place first party cookies and allow third parties to place cookies on your device. The difference between a first party cookie and a third party cookie relates to the control of the party who serves the cookie. First party cookies are cookies that are specific to the website that created them. Their use enables us to operate an efficient service and to track the patterns of behavior of visitors to the website. Third party cookies, on the other hand, are placed on your device by a third party (i.e., not by us). While we may allow third parties to access the website to place these cookies on users’ devices, we do not retain control over the information supplied by the cookies, nor do we retain access to that data. This information is controlled wholly by that third party and subject to their privacy notice. The legal basis for the collection of information through third party cookies depends on the type of cookie, please see below.
 
-###  Cookies used on our website
+###  Cookies used on RMS.com
 
 The following table lists the cookies that we use on our website. 
 
@@ -576,6 +576,54 @@ GPS  | Registers a unique ID on mobile devices to enable tracking based on geogr
 
 
 
+  
+
+
+###  Cookies used on ProjectQuantum.info
+
+The following table lists the cookies that we use on our website. 
+
+Name | Source | File | Purpose | Life Span | Cookie Type | Opt Out  
+---|---|---|---|---|---|---  
+Webflow | project-quantum.js | wf_auth | This cookie is set by Webflow to track authentication and access to view the website. | Session | Third party | For information on opting out of Webflow's cookie policy [go here](https://webflow.com/legal/cookie-policy)  
+Cookie Consent | cookieconsent.js | cookieconsent_status | This cookies is set to track which users have dismissed the cookie policy banner | Session | Third party | For information on opting out of Cookie Consent's cookie policy [go here](https://cookieconsent.insites.com/download/)  
+Vimeo | .vimeo.com | vuid | These cookies are set to track an embeddable video player. Vimeo considers these cookies essential to the video player experience. | Session | Third party | For information on opting out of Vimeo's cookie policy [go here](https://vimeo.com/cookie_policy).  
+player  
+_gid  
+_gcl  
+_au  
+_ga  
+_fbp  
+  
+  * Name
+  * Webflow
+  * Source
+  * project-quantum.js
+  * File
+  * wf_auth
+  * Purpose
+  * This cookie is set by Webflow to track authentication and access to view the website.
+  * Life Span
+  * Session
+  * Cookie Type
+  * Third party
+
+
+  * Name
+  * Cookie Consent
+  * Source
+  * cookieconsent.js
+  * File
+  * cookieconsent_status
+  * Purpose
+  * This cookies is set to track which users have dismissed the cookie policy banner.
+  * Life Span
+  * Session
+  * Cookie Type
+  * Third party
+
+
+
 ###  Disabling, Deleting, or Opting Out of Cookies
 
 If you do not/no longer want to have cookies placed on your device by us or third parties, many of them offer ways to opt out. Where possible, we have provided a link in the table above that explains how to opt out.
@@ -586,11 +634,12 @@ However, please note that if you disable cookies, you may not be able to use the
 
 ###  Contact us
 
-For further information on our use of cookies and similar technologies, please contact us:
+For further information on our use of cookies and similar technologies, please contact us: 
 
 Risk Management Services, Inc.  
 7575 Gateway Boulevard  
-Newark, California 94560
+Suite 300  
+Newark, California 94560 
 
 This notice addresses AB370, amending the California Online Privacy Protection Act, which requires website operators that collect personal identifiable information about California residents to disclose: 
 
