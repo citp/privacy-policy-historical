@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wethrift.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910010504id_/https%3A//www.wethrift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wethrift.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501031504id_/https%3A//www.wethrift.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Wethrift.com
 
 Last updated: December 14, 2017
 
-Bolt Radical Enterprises, LLC ("us", "we", or "our") operates the [www.wethrift.com](https://www.wethrift.com/) website (the "Service").
+Space Cadet Corp Pty Ltd ("us", "we", or "our") operates the [www.wethrift.com](https://www.wethrift.com/) website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
