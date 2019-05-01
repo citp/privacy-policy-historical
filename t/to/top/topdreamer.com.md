@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topdreamer.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423161901id_/http%3A//www.topdreamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdreamer.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501234507id_/https%3A//www.topdreamer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Policy](mailto:contact@topdreamer.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Policy](https://web.archive.org/cdn-cgi/l/email-protection#375458594356544377435847534552565a52451954585a).
 
 At www.topdreamer.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.topdreamer.com and how we use it.
 
@@ -18,9 +18,9 @@ www.topdreamer.com uses cookies to store information about visitors’ preferenc
 
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.topdreamer.com and other sites on the Internet.
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
-**Our Advertising Partners**
+ **Our Advertising Partners**
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
@@ -58,5 +58,6 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
  **Update**  
 This Privacy Policy was last updated on: Sunday, June 30th, 2013.  
-[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")
+
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
