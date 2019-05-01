@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africanfootball.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007224325id_/http%3A//africanfootball.com//content/396136/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanfootball.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501133908id_/https%3A//africanfootball.com//content/396136/Privacy-Policy) for the most accurate reproduction.*
 
 # African Football - Privacy Policy
 
