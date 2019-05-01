@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maverickbusinessinsider.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222040944id_/http%3A//www.maverickbusinessinsider.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maverickbusinessinsider.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501073553id_/http%3A//www.maverickbusinessinsider.com/privacy.html) for the most accurate reproduction.*
 
 # Maverick Business Ink, LLC Privacy Policy
 
