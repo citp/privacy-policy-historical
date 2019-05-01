@@ -1,94 +1,163 @@
-> *The following text is extracted and transformed from the rideways.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114171749id_/https%3A//rideways.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rideways.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501212925id_/https%3A//rideways.com/information/privacy) for the most accurate reproduction.*
 
 # 
 
-## Our Privacy Policy
+## **Privacy Notice**
 
-## Privacy Policy
+This Privacy Notice explains how we collect, use and protect any information about you. It also tells you how to get in touch if you have any questions about it, which we will be more than happy to answer. If you're interested in what we do with cookies and similar technologies, please check out our [Cookie Statement](https://web.archive.org/information/cookie-statement).
 
-Your privacy is important to us. We value the trust you have placed in us, and are committed to protecting and safeguarding any personal information you give us. This document, which we update from time to time, describes how we use and process your personal information. It also tells you how you can contact us if you have questions about your personal information.
+We may change this Notice from time to time; so please check back here for any updates.
 
-Rideways offers online car and driver services through its own websites and mobile apps and through other online platforms such as partners' websites. The information that follows applies to all of these platforms.
+We offer a range of services related to online ground transportation, including products and services through our own websites, mobile apps, emails and text messages ('platforms'). We also do this through our business partners' websites, social media and other platforms. This Notice applies to all the personal data we collect while we're doing this, or when you contact us by email, live chat, phone or post.
 
-### Privacy
+Our business partners should also visit our [Privacy and Cookie Statement for Business Partners](https://rentalcarsconnect.com/privacy) to understand how personal data is processed as part of our business relationship.
 
-**What kind of personal information does Rideways use?**
+### **Personal data you give us**
 
-When you make a booking, you will be asked for the relevant pieces of information required to fulfil the transportation service requested; this may include the passenger's name, contact details (email, address and telephone number) and payment information.
+We can't help you make a booking or request a quote without certain information. When you do either of those things, we ask you for the information we need so we can give you what you want. This is pretty standard stuff and may include your name, age, date and place of birth and contact details (email, address and phone number). It can also include information about your loyalty programme number and payment information.
 
-To make it easier to manage your bookings, you can open a user account. This allows you to save your personal settings, review previous bookings and manage future bookings.
+In addition, we collect information from your computer when you use one of our platforms, even if you don't make a booking. This may include your IP address, which browser you use, and your language settings. There are also situations where we receive information about you from third parties, or automatically collect other information. This is a basic overview of the information we collect. Would you like to know more?
 
-When you visit our website, even if you do not make a booking, we may collect certain information, such as your IP address, which browser you're using, and information about your computer's operating system, application version, language settings and pages that have been shown to you. If you are using a mobile device, we might also collect data that identifies your mobile device, device-specific settings and characteristics and latitude/longitude details. We might also calculate and process data related to the type of apps installed on a mobile device, such as the name of the app, an app description and the category it belongs to. None of this information by itself will be able to tell us who you are, but it can still be considered to be 'personal' information.
+### **Personal data you give us**
 
-We may also receive information about you when you use certain social media services.
+We store and use the information that you give us. When you make a booking, we need at least your name, email address, phone number, pick up and drop off address and payment information. We might also ask for your home address, flight number and date of birth, and the names of any additional passengers.
 
-**Why does Rideways collect, use and share your personal details?**
+If you get in touch with us (by phone, by email or through social media, for example) we will collect information from you there too.
 
-  * Bookings: First and foremost, we use your personal information to complete and administer your booking and forward required details to the transportation service provider.
+After your booking, we may ask you to provide a review to help us improve our services, and to help ensure future customers get exactly what they're looking for.
 
-  * Customer service: Sharing your details with our customer service staff allows us to assist when you need us, such as responding to queries related to your booking.
+There are also other ways you might give us information. For example, if you're browsing with your mobile device, you can share your current location with us, so we can provide you with the best possible service. To make things easier, you can also open a user account, which lets you review and manage your bookings, as well as saving your personal settings. It also makes it easier to make future bookings.
 
-  * Customer reviews: We may use your contact information to invite you to answer a short questionnaire regarding your journey. The survey results will be used to help us better understand and improve the service our transportation partners provide to all our customers.
+### **Personal data you give us about others**
 
-  * Marketing activities: We also use your information for marketing activities, as permitted by law. For example:
+You might add someone as an additional passenger, or you might make a booking on behalf of someone else, for example, a friend, family member or colleague. If you do, please make sure that the person knows you're giving us their details, and has accepted the way we handle their personal data (as described in this Notice). This is your responsibility.
 
-  * You may choose to subscribe to our Special Offers service in order to receive emails notifying you of any promotions or new services we are offering. You can opt out of this service at any time by clicking on the 'unsubscribe' link in any emails we send to you.
+### **Personal data we collect automatically**
 
-  * Based on the information you share with us, individualised offers may be shown to you on the Rideways website, in mobile apps or on third-party websites, including social media sites.
+When you make a booking, we record what platform you made it on, and how you got to our platform (if you came through from another site, for example).
 
-  * When we believe that a particular offer may be of interest to you, we may decide to make contact with you by phone.
+Even if you don't end up making a booking, we may automatically collect some information when you visit our platforms. This may include your IP address, which pages you've visited, which browser you're using, and information about clicks. It might also include information about your computer's operating system, its application version, language settings, device-specific setting and characteristics, and data that identifies your device.
 
-  * Other communications: There may be other times when we get in touch by email, by phone or by texting you, depending on the contact information you share with us. There could be a number of reasons for this:
+If you're using a mobile device, we might also collect location details. And we might analyse and process basic data related to the apps installed on it (e.g. name, description and category).
 
-  * We may need to respond to and handle requests you have made.
+### **Personal data we get from other companies**
 
-  * If you have not finalised a booking online, we may email you a reminder to continue with your booking. We believe that this additional service is useful to you because it allows you to carry on with a booking without having to search for the journey again or fill in all the booking details from scratch.
+We may also get information about you from social media platforms, our business partners, subsidiaries of the Rideways corporate family, affiliates of the Booking Holdings Inc corporate group (see [here](https://www.bookingholdings.com/) for more information) and other third parties. For example:
 
-  * When you use our services, we may send you a questionnaire or invite you to provide a review about your experience with Rideways.
-
-  * We may also send you other material related to your booking, such as how to contact Rideways and your transportation service provider if you need assistance, or a summary of previous bookings you made through Rideways.
-
-  * Market research: We sometimes ask our customers to take part in market research. Any additional personal details that you give us as part of the market research will be used only with your consent.
-
-  * Fraud detection and prevention: We may use personal information for the detection and prevention of fraud and other illegal or unwanted activities.
-
-  * Improving our services: Finally, we use personal information for analytical purposes, to improve our services, to enhance the user experience, and to improve the functionality and quality of our online travel services.
+  * We work with affiliate business partners to offer our services on other platforms. When you make a booking on one of these platforms, we may share your personal data with them, and they may share your personal data with us.
+  * The companies that provide the services you have booked through our platforms may need to send us information about you – for example, if your booking leads to a customer service dispute.
+  * Our business partners may also send us information about you that may help us show you more relevant adverts.
 
 
 
+We may combine any of this information with the information you give us directly.
 
-**How does Rideways share your data with third parties?**
+Please see 'Why do we collect and use your personal data?' for details.
 
-In certain circumstances, we may share your personal data with third parties.
+### **Why do we collect and use your personal data?**
 
-  * The journey you booked: In order to complete your booking, we need to transfer relevant booking details to the transportation service provider you have booked with. This may include information such as your name, contact details (email, address and telephone number), payment information and any preferences you specified when making a booking.
-  * Other companies within the Rideways corporate family: In order to support you during the booking process and throughout your journey, your details may be shared with other members of the Rideways corporate family. To find out more about the Rideways corporate family, visit our About page. Your information may also be shared with our parent company, Priceline.com, and the other members of the Priceline corporate group (Agoda.com, Booking.com and Kayak.com) and analysed to provide you with travel-related offers that may be of interest to you and to offer you a customised service.
-  * Third-party service suppliers: We may use third-party service suppliers to process your personal information on our behalf for the purposes specified above. For example, we may use service suppliers to send the booking information on our behalf to the transportation service provider you booked with us, or we may instruct third parties to contact you. When a booking requires it, we may also work with third-party payment service suppliers to facilitate payment or payment guarantees. We also work with third-party advertisement networks to market services on other platforms, or involve third-party suppliers for analytical purposes. The third parties involved in any of these services will be bound by confidentiality agreements and will not be allowed to use your personal information for any purposes other than those specified above.
-  * Our business partners: We work with partner websites around the world to distribute the transportation services listed on our website and mobile apps. When you make a booking on one of these business partners' websites, certain personal information that you give them may be shared with us. Similarly, we may share information with this business partner, for example, in order to manage your booking, so that they can address queries related to your booking and for marketing purposes. In this context, your information is governed by the privacy policies of these business partners.
-  * Competent authorities: We may share your personal information with government or investigative authorities if we are required by law (or any regulation having the force of law) to do so. Such requirements include court orders, subpoenas and orders arising from legal processes and criminal investigations. We may also disclose your personal data if it is strictly necessary for the prevention, detection or prosecution of criminal acts.
+We ask for your personal data so we can book your ground transportation (and anything else you need for your booking), and make sure you get the best possible service. We also use it to contact you, and to tell you about our latest deals and special offers. These are the main reasons we collect your personal data, but there are other reasons too. Would you like to know more?
+
+### **Why do we collect and use your personal data?**
+
+We may use your personal data in the following ways:
+
+  1. _Bookings:_ First and foremost, we use your personal data to make and administer your booking, and to forward the necessary details to the company that provides your ground transportation (or other product or service), and the driver providing the Ride. This includes sending you communications in relation to your booking, such as confirmations, modifications and reminders.
+  2. _Customer service:_ We provide international customer service. Our international customer service teams need your details so they can help you make a booking, for example, or to reply to any queries you may have before, during or after your booking.
+  3. _Customer reviews:_ We may use your contact details to send you a short questionnaire about your booking. This helps us understand and improve our service and the service our business partners provide.
+  4. _Account facilities:_ To make things easier, you can create a user account on our platforms. This involves giving us your personal data, and it lets you do a number of useful things. You can manage your bookings or other purchases, take advantage of special offers, and manage your personal settings and preferences. It also makes it easier to make future bookings.
+  5. _Marketing activities:_ We also use your personal data for marketing activities, which may include:
+    * Contacting you by phone, email or SMS (depending on the contact details you give us) with our latest news, special offers, discounts and updates, including details of our products and services (and/or those of our group companies or affiliate business partners). You can unsubscribe from these marketing communications quickly, easily and at any time – just click the "unsubscribe" link in any email or other communication, or visit our [Data Subject Request Portal](https://web.archive.org/dsr-portal).
+    * Contacting you by phone, email or SMS with information about products that you didn't include in your booking.
+    * Showing you relevant offers on our platforms or on third-party websites, including social media sites.
+    * Inviting you to participate in promotional activities (such as referral programs or competitions).
+  6. _Communicating with you:_ There may be other times when we contact you by phone, email or SMS. There could be a number of reasons for this, including:
+    * Responding to, and handling any requests you have made.
+    * Emailing you a reminder about a booking you didn't finalise, to see if you need any help to do so. We see this as a useful additional service because it lets you carry on with a booking without having to find the ground transportation again or fill in all the booking details from scratch.
+    * Sending you a questionnaire or inviting you to review your experience.
+    * Sending you other material related to your booking, such as how to contact us (or another company) if you need help during your booking.
+    * Sending you a summary of your previous bookings.
+    * Sending you other administrative messages, which may include security alerts, even if you don't have upcoming bookings.
+  7. _Market research:_ We may ask you to take part in market research. Any additional personal data that you give us as part of this research will be used only with your consent.
+  8. _Fraud detection and prevention:_ To provide a safe, trustworthy service, we use your personal data to detect and prevent fraud and other illegal or unwanted activities. Similarly, we may use personal data for risk assessment and security purposes, which can include verifying users and bookings. This can sometimes mean we may have to put certain bookings on hold.
+  9. _Improving our services:_ We analyse personal data to help us improve the functionality and quality of our online services, and enhance the whole user experience. We're always working to make our platforms easier and more enjoyable for you to use.
+  10. _Customer reviews:_ After your booking, we may invite you to review the services that we or our business partner provided. Your review will help future customers make the right choice, and help our business partners improve the services they offer. By submitting a review, you are agreeing that it can be displayed, as explained in our [Terms and Conditions](https://web.archive.org/information/terms). You can make a review anonymously or simply put your first name and country location.
+  11. _Call monitoring:_ We may record phone calls and/or allow other staff to listen in to them, to help us train our colleagues and make sure we're consistently providing a top-quality service. We automatically delete recordings after a specified time, unless we have a legitimate reason not to (if we think there's evidence of fraud, for example).
+  12. _Legal purposes:_ Finally, in certain cases, we may need to use your personal data to handle and resolve legal disputes, for regulatory investigations, for compliance reasons, or to make sure we apply our terms and conditions accurately.
 
 
 
-### Security
+### **To process your personal data like this, we rely on the following legal grounds:**
 
-**What security procedures does Rideways put in place to safeguard your personal information?**
+  * _Performance of a contract:_ We need to use your personal data to fulfil any contract you've made with us. For example, when you book ground transportation, we need to transfer your booking details to the ground transportation company and the driver providing the Ride, to make sure your ground transportation is waiting for you.
+  * _Legitimate interests:_ We may use your information for our 'legitimate interests' (a term which applies to anything we believe is an essential part of carrying out our business effectively – at the same time as respecting your rights and upholding the law). For example, to provide you with the most suitable content on our platforms, including our emails and newsletters; to improve and promote our products and services; and for administrative purposes.
+  * _Consent_ : We may rely on your consent to use your personal data in certain circumstances, for example direct marketing purposes. You may withdraw your consent at any time via our [Data Subject Request Portal](https://web.archive.org/dsr-portal) or by emailing [datarights@rentalcars.com](mailto:datarights@rentalcars.com), stating "Privacy" in the subject line.
 
-In accordance with UK and European data protection laws, we observe reasonable procedures to prevent unauthorised access and the misuse of personal information.
 
-We use appropriate business systems and procedures to protect and safeguard the personal information you give us. We also use security procedures and technical and physical restrictions for accessing and using the personal information on our servers. Only authorised personnel are permitted to access personal information in the course of their work.
 
-### Marketing Emails
+### **What third parties do we share your personal data with – and why?**
 
-**How can you control marketing emails?**
+There are a number of different business partners integrated in the services we provide, and in certain situations we may share your personal data with them. In most cases, we’re simply passing on your booking details to the business partners that are helping us deliver the service you’re requesting. We will also share your data with other third parties, which may include payment service providers, advertising partners, subsidiaries of the Rideways corporate family and affiliates of the Booking Holdings Inc corporate group, and – in some cases – the authorities. These are the main reasons we would share your personal data. Would you like to know more?
 
-Upon completion of a booking we provide options to opt out of marketing and sales emails, if you have remained opted in, we hope you enjoy receiving our emails, but if you would prefer not to be kept up-to-date with our special offers, you can opt out, or unsubscribe, from marketing communications at any time using the 'Unsubscribe' link in each newsletter.
+### **What third parties do we share your personal data with – and why?**
 
-### Contact
+  * _The company/companies supplying your ground transportation and/or related products and services:_ To make your booking, we need to send the relevant details to the company/companies supplying the ground transportation and/or other related products that you have requested. These details may include your name, age range, contact details (email, address and phone number), date and place of birth, flight number, pick up and drop off address and any preferences you told us about while booking. If there is a dispute about your booking, or any other kind of customer service issue, we may need to provide the ground transportation company with some information about the booking process as well as the dispute itself. This may include a copy of your booking confirmation, to prove that a booking was actually made, as well as any information related to your complaint. Please be aware that any information you provide directly to the company/companies supplying your ground transportation and/or related products will be stored and used in accordance with their own privacy notice(s) and terms and conditions.
+  * _Our business partners:_ We work with business partners around the world. Some of our partners offer or advertise our services, as well as helping our other business partners offer and advertise their own travel-related services. These business partners may also include the Booking Holdings Inc. corporate group, which includes [Rideways](https://rideways.com/en-gb) and [Rentalcars.com](https://rentalcars.com/) and our sister companies ([Agoda.com, ](https://agoda.com/en-gb)[Booking.com](https://booking.com/index.en.html), [priceline.com](https://priceline.com/), KAYAK, and OpenTable). This may mean that their services are integrated into our platforms. When you make a booking on one of our business partners' platforms, they'll send us some of the personal data you have provided to them. Similarly, we may send our business partners some of the personal data related to your booking. This could be to help them analyse their business, for example, or to help them run their loyalty programmes. It could also be so that they can send you things like special offers, but only if you've given your consent for this.If the business partner provides customer service support, we will send them the details of your booking that they need to give you the support you need. In any of these cases, the handling of your personal data is governed by the privacy notices of these business partners. When you make a booking on a business partner's website, please take the time to read their privacy notice to see how they handle your personal data. When you buy a product or service provided by one of our business partners, we will send them the personal data they need to provide it. Finally, we may also exchange information about our users with business partners for fraud detection/prevention purposes, but only as strictly necessary.
+  * _The Booking Holdings, Inc. corporate group:_ Please read [here](https://www.bookingholdings.com/) how we may share your personal data with the Booking Holdings Inc. corporate group.
+  * _Competent authorities:_ We may share your personal data with government or investigative authorities if we're required to do so by law (or any regulation having the force of law). This includes court orders, subpoenas and orders arising from legal processes and criminal investigations. We may also disclose your personal data if strictly necessary for the prevention, detection or prosecution of fraud and other criminal acts. And we may need to disclose personal data to competent authorities to protect and defend our rights or properties, or the rights or properties of our business partners.
+  * _Third-party service providers:_ We may use third-party service providers to process your personal data on our behalf and support us in providing our services. For example, we may use them to contact you, or to send booking information on our behalf to the company providing the service, or to manage aspects of our site, call centres or marketing activities. We may also use third-party service providers for market research and fraud detection and prevention services, including anti-fraud screening services. These third parties are bound by confidentiality clauses and are not allowed to use your personal data for other purposes.
+  * _Advertising partners:_ We may share your email address and other personal data with third-party advertising partners, so we can make sure you see relevant advertisements when we market our services via third-party business partners. We also work with third-party advertisement networks to market services on other platforms, and with third-party suppliers who help us analyse our own data. All these third parties will be bound by confidentiality agreements and will not be allowed to use your personal data for any other purposes. For more information on personalised advertisements and your choices, please read "How and why do we use these technologies?" and "It's your choice: Opting in and opting out" in our [Cookie Statement](https://web.archive.org/information/cookie-statement).
+  * _Payment service providers and other financial institutions:_ We also work with third-party payment service providers to arrange payment or payment guarantees. If you (or the holder of the bank card used to make your booking) request a chargeback, we may need to share certain booking details with the payment service provider and the relevant financial institution. This may include a copy of your booking confirmation or the IP address used to make your booking. We may also share information with relevant financial institutions, if we consider it necessary for fraud detection and prevention purposes.
 
-**How can you control the personal information you have given to Rideways?**
 
-Rideways tries to be as open as it can be in terms of giving people access to their personal information. Individuals can request a copy of their information by contacting us in writing at the following email support@rideways.com or at the address below stating 'Subject Access Request' in the subject, we may ask for further information to validate the identity of the requester to ensure the security of the data we hold.
 
-If we do hold information about you, you can ask us to correct any mistakes by contacting us on the email address above or address below.
+### **How is your personal data shared within the Booking Holdings Inc. corporate group?**
 
-Should you have any questions, concerns or comments about our practices or this Privacy Policy, please email us at support@rideways.com. Please state 'Privacy' in the subject line of your email. Rideways has its offices at 35 Fountain Street, Manchester, M2 2AN, United Kingdom.
+Rideways is part of the Booking Holdings Inc. corporate group. See <https://www.bookingholdings.com/> for more information.
+
+We may receive personal data about you from other companies of the Booking.com Holdings Inc. corporate group or share your personal data with them for the following purposes:
+
+  1. To provide services (including to make, administer and manage reservations or handle payments);
+  2. To provide customer support services;
+  3. To detect, prevent and investigate fraud, other illegal activities and data breaches;
+  4. For analytical and product improvement purposes;
+  5. To provide personalised offers or send you marketing with your consent, or as otherwise permitted by applicable law;
+  6. To ensure compliance with applicable laws.
+
+
+
+For purposes 1 to 5, we rely on our legitimate interest to share and receive personal data. For example, we work closely with Booking.com to offer accommodation and attractions services to our customers, and all companies within the Booking Holdings Inc. group of companies may need to exchange customer personal data to ensure it protects all users from fraudulent activities on its platforms.
+
+For purpose 6, we rely where applicable on compliance with legal obligations (such as lawful law enforcement requests).
+
+### **How do we make use of mobile devices?**
+
+We offer free apps for a range of mobile devices, as well as versions of our regular website that have been optimised for mobile and tablet browsing. They collect and process your personal data in much the same way as our other platforms do, and they also allow you to find local ground transportation based on your current location. Would you like to know more?
+
+### **How do we make use of mobile devices?**
+
+If you agree to it, we can send 'push' notifications straight to your mobile device, so you don't miss important information about your booking. And, if you let us access your device's location or contact details, we can provide extra services if you request them. Your mobile device will have instructions on allowing push notifications and giving us access to this kind of data.
+
+To give you a better service and more relevant marketing, we may use something known as 'cross-device tracking'. This just means we look at the way you use our platforms on more than one device: we could, for example, combine data from your mobile phone and your home computer. This is something we may or may not use cookies for (for more on cookies and similar technologies, please see our [Cookie Statement](https://web.archive.org/information/cookie-statement)).
+
+To make sure you find deals that are more likely to interest you in our newsletter, we look at the searches you make and the services you book on multiple devices once you've signed in to your user account. If you don't want us to do this, just sign out before you browse, or unsubscribe from our newsletter.
+
+Cross-device tracking can also mean that when you're using one device, you may see personalised advertisements from lots of different companies, based on your activities on linked devices. The NAI (Network Advertising Initiative) should stop this happening if you opt out of the NAI behavioural advertising program (our [Cookie Statement](https://web.archive.org/information/cookie-statement) gives you the link you need, under "It's your choice: Opting in and opting out"). Please note: simply signing out of your user account won't stop this happening.
+
+### **What security procedures do we put in place to safeguard your personal data?**
+
+Our business systems and procedures ensure we take all reasonable steps to protect your personal data and safeguard it against any misuse or unauthorised access, in accordance with UK and European data protection laws. We also have specific security procedures and restrictions (both technical and physical) that limit access to, and use of, any personal data that we hold. Only authorised personnel can access personal data – and they're only allowed to do it for specific, authorised reasons.
+
+### **How do we treat the personal data of children?**
+
+We don't direct our services to children under the age of 16. For children younger than 16 years old, the use of any of our services is only allowed if accompanied by a parent or a guardian. We may receive information about children in certain situations, for example as part of a booking or in relation to a customer service dispute. If that happens, we will only collect and use that information with the consent of the child's parent or guardian. We reserve the right to delete any information we may receive from a child under this age or without the valid consent of a parent or guardian.
+
+### **How can you control the personal data you have given us?**
+
+You have the right, subject to some legal exceptions, to access, correct or delete any personal data we keep about you, and to object to your personal data being processed. You can use our [Data Subject Access Portal](https://web.archive.org/dsr-portal) to enforce any of these rights. If you do, we will ask for further information to confirm your identity, to keep your information safe and we will handle your request in accordance with applicable UK data protection law. You can update or delete your user account at any time by signing in on our site.
+
+When you make a booking or request a quote, we ask whether you'd like to opt in to receive marketing emails. You can opt out at any time by clicking "unsubscribe" in any of these marketing emails, or by updating your email preferences in your user account.
+
+### **Who is responsible for the processing of personal data on our platforms?**
+
+TravelJigsaw Limited (trading as [Rideways.com](https://rideways.com/en-gb)) controls the processing of personal data on its platforms. TravelJigsaw Limited is a private limited liability company, incorporated under the laws of the United Kingdom, and has its offices at 35 Fountain Street, Manchester, M2 2AN. If you have any questions, concerns or comments about our practices, or this Privacy Notice, please email [dataprotectionofficer@rentalcars.com](mailto:dataprotectionofficer@rentalcars.com), stating "Privacy" in the subject line, and we'll get right back to you. When it comes to privacy, we're always happy to talk.
