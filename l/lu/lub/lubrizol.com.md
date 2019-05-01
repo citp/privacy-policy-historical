@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919164004id_/https%3A//www.lubrizol.com/Contact-Us/Lubrizol-Privacy-and-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501182127id_/https%3A//www.lubrizol.com/Contact-Us/Lubrizol-Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
 # Lubrizol Privacy and Cookie Policy - Lubrizol
 
@@ -39,7 +39,7 @@ We use reasonable precautions to protect personally identifiable information, in
 
 In the event of a data breach, a notification will appear on the website within 72 hours of the breach.
 
-When we contract with other companies to provide us with web services, we only share personally identifiable information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties and your use of the site is subject to [Lubrizol’s Terms of Use](https://web.archive.org/Contact-Us/Terms-of-Use). 
+When we contract with other companies to provide us with web services, we only share personally identifiable information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties and your use of the site is subject to [Lubrizol’s Terms of Use](https://web.archive.org/Legal/Terms-of-Use). 
 
 Lubrizol is not responsible for the information you volunteer about yourself in posting comments, discussion forums or other publicly accessible interactions. 
 
@@ -90,7 +90,7 @@ _  **First-Party Cookies**_ |   |  
   
 ## How to Reach Us 
 
-Upon written request sent to The Lubrizol Corporation, ATTN: Data Privacy Officer, 29400 Lakeland Boulevard, Wickliffe, Ohio 44092, Lubrizol will allow you to review, update, and/or remove from our databases personally identifiable information that you provided to us. In the request, please include your name and e-mail address. 
+Upon request, Lubrizol will allow you to review, update, and/or remove from our databases personally identifiable information that you provided to us. Please complete the [Data Privacy Request Form](https://web.archive.org/Legal/Data-Privacy-Form), including your name, email address, country, and the nature of the request.
 
 Removal of personally identifiable information will prevent you from accessing restricted content and sites (example: ([www.mylubrizol.com](https://www.mylubrizol.com/)) unless you re-enter your personally identifiable information at a later date. 
 
