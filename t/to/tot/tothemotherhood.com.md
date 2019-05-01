@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the tothemotherhood.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231041406id_/http%3A//tothemotherhood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tothemotherhood.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501222746id_/http%3A//tothemotherhood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | To the Motherhood - Lifestyle Blogazine by HilLesha O'Nan
+# Privacy Policy | To the Motherhood - Capture the Beauty in Everything...Vividly
 
+  
 __
 
 To the Motherhood, is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with To the Motherhood of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
@@ -43,3 +44,6 @@ To the Motherhood takes appropriate precautions to protect our users’ informat
 To the Motherhood does not knowingly collect or solicit personal information from anyone under the age of 13 years or knowingly allow such persons to register. If you are under 13, please do not attempt to register for To the Motherhood or send any information about yourself to us, including your name, address, telephone number, or email address. No person under age 13 may provide any personal information to or on To the Motherhood. In the event that we learn that we have collected personal information from a person under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at **Lesha@tothemotherhood.com**.
 
 We reserve the right to change our Privacy Policy and our Terms of Use at any time. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy. Please check this page for information about revisions to our Privacy Policy.
+
+  
+
