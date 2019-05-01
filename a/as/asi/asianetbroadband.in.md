@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianetbroadband.in privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202063248id_/http%3A//asianetbroadband.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianetbroadband.in privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501144915id_/http%3A//asianetbroadband.in/privacypolicy) for the most accurate reproduction.*
 
 # Best Internet Connection in Kerala | Privacy Policy | Asianet Broadband
 
