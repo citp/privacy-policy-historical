@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkusreviews.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928153856id_/https%3A//www.kirkusreviews.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkusreviews.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501131424id_/https%3A//www.kirkusreviews.com/legal/privacy) for the most accurate reproduction.*
 
 # Kirkus Privacy Policy
 
