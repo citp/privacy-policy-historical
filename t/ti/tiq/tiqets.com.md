@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiqets.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211104329id_/https%3A//www.tiqets.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiqets.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501084834id_/https%3A//www.tiqets.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,7 +81,11 @@ We work with a number of third parties and may share your personal data for cert
   * _Suppliers_ – we may share your personal data with selected ticket suppliers. This information is used to complete, confirm or personalize your booking and can include your name, email address and telephone number.
   * _Other Tiqets entities_ – we may share your information with our legal subsidiaries and other Tiqets entities that are part of the Tiqets corporate family.
   * _Business partners_ – if you book an admission ticket with us through one of our business partners, it's possible that such business partner receives your personal data, which they can then use for their own purposes. In this context, your information is governed by the privacy policies of these business partners. We may also share personal data with our partners to prevent or identify fraudulent transactions or other illegal activities on our platform (for which we rely on the legal basis of performance of a task of public interest).
-  * _Other third parties_ – we use the services of third parties that collect, monitor and analyse personal data on our behalf, including Google. Such third parties are also used to personalize and distribute marketing materials, including advertisements. We also use third parties to process your payments, sharing your personal data with them in order to complete financial transactions. All these parties are under the obligation to keep your personal data confidential, and can only use it for the initial purposes set out by Tiqets.
+  * _Other third parties_ – we use the services of third parties that collect, monitor and analyse personal data on our behalf, including Google. Such third parties are also used to personalize and distribute marketing materials, including advertisements. We also use third parties to process your payments, sharing your personal data with them in order to complete financial transactions. All these parties are under the obligation to keep your personal data confidential, and can only use it for the initial purposes set out by Tiqets. 
+
+For example:  
+In order for you to select an interesting voucher offer, we may transmit your IP address and data related to your order to Sovendus GmbH. The IP address is processed by Sovendus in encrypted form, will be exclusively used for data security purposes, and will be anonymised seven days after receipt. The order data will be used by Sovendus for billing purposes. For more information on the processing of your data, visit [www.sovendus.co.uk/privacy_policy](https://www.sovendus.co.uk/privacy_policy).
+
   * _Legal obligations_ – we may have to disclose your personal data to the extent that we are required to do so by applicable laws and regulations.
 
 
