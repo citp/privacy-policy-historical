@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thislooksgreat.net privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923181434id_/https%3A//thislooksgreat.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thislooksgreat.net privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501034532id_/http%3A//thislooksgreat.net/privacy-policy) for the most accurate reproduction.*
 
 # thislooksgreat.net - Privacy Policy – thislooksgreat.net
 
