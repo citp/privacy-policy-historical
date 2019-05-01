@@ -1,37 +1,41 @@
-> *The following text is extracted and transformed from the asdfhost.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813010938id_/http%3A//asdfhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdfhost.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502002831id_/https%3A//goodink.com/privacy-policy) for the most accurate reproduction.*
 
-# ASDF Host | Privacy Policy
+# Privacy Policy | Good Ink
 
-**Privacy Policy  **  
-This policy describes how and why we collect non-personally identifiable data from users and website visitors, and how that data will be used. We are committed to respecting the privacy of non-personal identifiable data gathered.
+**Our Commitment to Privacy**
 
-**Use of Data**  
-We use non-personally identifiable data collected from users and website visitors in order to:
+Your privacy is very important to us. Part of our operation of this website involves the collection and use of information about you. This privacy policy explains what type of information we collect and what we do with that information to allow you to make choices about the way your information is collected and used. This privacy policy may change from time to time, so please check it often.
 
-To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.  
-To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
+**What Information Do We Collect?**
 
-  * To provide you with support and handle inquires.
-  * To enforce our terms of use and/or EULA.
-  * To comply with any applicable law and assist law enforcement agencies as required.
-  * To conduct surveys and market researches.
-  * We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
+In general, you can visit this website without identifying who you are or revealing any information about yourself. Information collected online can generally be categorized as anonymous or personally identifiable. Anonymous information is information that cannot be connected to the identity of a specific individual. Personally identifiable information is information that specifically identifies a particular user, such as name, address, or phone number. An example of anonymous information is the fact that, while this website may record the number of visits to a particular page that occur in a given period of time, it does not necessarily tell us the names or other identifying information of every visitor. Many users of this website will choose not to provide any personally identifiable information; therefore, those individuals are anonymous to us, and any data collected about their use of this website is anonymous information.
 
+**Automatic Anonymous Information**
 
+When you visit our site, we collect certain technical and routing information about your computer. For example, we log environmental variables such as browser type, operating system and CPU speed, and the Internet Protocol (IP) address of your originating Internet Service Provider, to try to bring you the best possible service. We also record search requests and results to try to ensure the accuracy and efficiency of our search engine. We use your IP address to track your use of the site, including pages visited and the time spent on each page. We collect this information and use it to measure the use of this website and to improve its content and performance. All of the information that is automatically submitted to us by your browser is considered anonymous information. To the extent we share such information with third parties, it is not traceable to any particular user and will not be used to contact you.
 
-**Cookies and Log Files**  
-Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors.  
-If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.  
-In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.
+**Cookies**
 
-**Age Limit**  
-To use this website you must be at least 18 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 18. If you are not 18 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.
+This site uses cookies. Cookies are small data files, typically made up of a string of text and numbers, that assign you a unique identifier. This information enables your computer to have a “dialogue” with our site and permits us to administer our site more efficiently and to provide a more tailored and user-friendly service to you. You may set your browser to notify you when you receive a cookie or to prevent cookies from being sent; if you do so, this may limit the functionality we can provide you when you visit our site.
 
-**Changes to Policy**  
-From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
+Third parties that link on this site may use cookies or collect other information when you go to their site. We do not control the collection or use of your information by these companies. You should contact these companies directly if you have any questions about their collection or use of information about you.
 
-**Governing Law**  
-This Privacy Policy is governed by and construed in accordance with the laws of the United States. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of United States.
+**How Do We Use Information We Collect?**
 
-**Contact us**  
-Please direct all questions in connection with this Policy via the Contact Us tab.
+We collect personally identifiable information only for providing the services you request, generating statistical studies, conducting marketing research, improving products and services, sending you surveys, and notifying you of new products and any other changes to our site or services that may affect you. When you submit personally identifiable information to us, you understand that you are agreeing to allow us to access, store, and use that information for those purposes.
+
+**We will not sell or give any personally identifiable information to any third parties.**
+
+We may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information on receipt of the appropriate documentation. We may also release information to law enforcement agencies or other third parties if we feel it is necessary to protect the safety and welfare of our personnel or to enforce our terms of use.
+
+**Opt-Out Policy**
+
+If at any time you do not wish to receive offers and e-mails from us you may unsubscribe. You may remove your name from our mailing list by clicking the "UNSUBSCRIBE" button on the bottom of latest email you have received from Good Ink.
+
+**Security**
+
+We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the personally identifiable information provided by our users. We do not, however, guarantee that unauthorized, inadvertent disclosure will never occur.
+
+**Transfer of Customer Information**
+
+Customer lists and information are properly considered assets of a business. Accordingly, if we merge with another entity or if we sell our assets to another entity, our customer lists and information, including personally identifiable information you have provided us, would be included among the assets that would be transferred.
