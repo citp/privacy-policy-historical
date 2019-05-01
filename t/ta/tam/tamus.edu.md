@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004140351id_/http%3A//www.tamus.edu/marcomm/reports/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501141845id_/http%3A//www.tamus.edu/marcomm/reports/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Office of Marketing and Communications
 
 The Texas A&M University System (A&M System) respects your privacy. It is the policy of the A&M System to protect the information you provide to us through the A&M System website. The A&M System will not share, sell, rent, or otherwise distribute that information to any entity outside of the A&M System for any commercial purposes.
 
