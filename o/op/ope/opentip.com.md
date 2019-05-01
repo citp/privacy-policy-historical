@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914042036id_/https%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501233605id_/https%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
 
 # opentip.com privacy
 
@@ -70,4 +70,4 @@ Examples of information we receive from other sources include updated delivery a
 
 Was this information helpful?
 
-[NO](http://www.opentip.com/contact_us.php)
+[NO](https://www.opentip.com/contact_us.php)
