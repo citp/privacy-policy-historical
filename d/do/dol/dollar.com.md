@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102114047id_/https%3A//www.dollar.com/AboutUs/Global_Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502211452id_/https%3A//www.dollar.com/AboutUs/Global_Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Global Privacy Policy - Dollar
 
@@ -6,7 +6,7 @@
 
 The Hertz Corporation
 
-The Hertz Corporation, its rental and other rental-related businesses, business affiliates, and subsidiaries, including Dollar, Thrifty, and Firefly (together “We”, “Us”, and “Our”) respects the privacy rights of Our customers and We are committed to protecting your privacy. This Privacy Policy (the “Policy”) explains Our data handling practices as a “Controller” with regard to your Personal Data, as well as your rights associated with your Personal Data. This Policy was last materially updated on May 17, 2018.
+The Hertz Corporation, its rental and other rental-related businesses, business affiliates, and subsidiaries, including Dollar, Thrifty, and Firefly (together “We”, “Us”, and “Our”) respects the privacy rights of Our customers and We are committed to protecting your privacy. This Privacy Policy (the “Policy”) explains Our data handling practices as a “Controller” with regard to your Personal Data, as well as your rights associated with your Personal Data. This Policy was last materially updated on February 5, 2019.
 
 **Quick Reference Guide**
 
@@ -350,11 +350,11 @@ In addition to the options provided by your mobile operating systems, you may op
 
 As you may be aware, there is no completely secure method of transmitting or storing data. Although their physical characteristics are different, postal mail, telephone calls, text messages, faxes and transmissions over the Internet or wireless networks all present possibilities of loss, misrouting, interception and misuse of the data that is transmitted. If you have reason to believe that any account with Us is no longer secure, you must immediately contact Us. 
 
-We try to strike a balance between the security of your data and your convenience. As a result, We may sometimes use a method of communication that is less secure than a less convenient alternative. For example, but not limitation, We may send you an e-mail or a text message in unencrypted form (i.e. instantly readable) because many of Our customers are unable to access encrypted (i.e. coded) e-mail or messages. This means that Our message, if misrouted or intercepted, could be read more easily than encrypted messages. Such messages may contain Personal Data. Please do not include confidential information, such as your credit card number or account passwords, in any e-mail or text you send to Us or on any posting you make to a public area of a third-party social network page, especially since any such posting immediately becomes public. For a more secure way to communicate with Us over the Internet, please click on the “Contact Us” link on any of Our websites. 
+We try to strike a balance between the security of your data and your convenience. As a result, We may sometimes use a method of communication that is less secure than a less convenient alternative. For example, but not limitation, We may send you an e-mail or a text message in unencrypted form (i.e. instantly readable) because many of Our customers are unable to access encrypted (i.e. coded) e-mail or messages. This means that Our message, if misrouted or intercepted, could be read more easily than encrypted messages. Such messages may contain Personal Data. Please do not include confidential information, such as your credit/debit card number or account passwords, in any e-mail or text you send to Us or on any posting you make to a public area of a third-party social network page, especially since any such posting immediately becomes public. For a more secure way to communicate with Us over the Internet, please click on the “Contact Us” link on any of Our websites.
 
-  8. **DATA RETENTION& INTEGRITY**
+**DATA RETENTION& INTEGRITY**
 
-**b.** We retain personal data about Our customers for as long as necessary for the purposes for which it was collected, or unless otherwise allowed by law. Information is stored and accessed in various locations, and cloud services and storage may be utilized. Servers which store information are primarily located in the United States and Europe, although storage may occur in other locations as well. 
+  8. **b.** We retain personal data about Our customers for as long as necessary for the purposes for which it was collected, or unless otherwise allowed by law. Information is stored and accessed in various locations, and cloud services and storage may be utilized. Servers which store information are primarily located in the United States and Europe, although storage may occur in other locations as well. 
 
   9. **ACCESS, CORRECTION& PORTABILITY**
 
@@ -384,7 +384,7 @@ In addition, under certain conditions, more fully described on the Privacy Shiel
 
   11. **CONTACT US**
 
-Please contact Us by emailing [privacy@hertz.com](mailto:privacy@hertz.com), or for EU residents - [euprivacy@hertz.com](https://web.archive.org/web/20181102114047id_/https%3A//www.dollar.com/AboutUs/euprivacy@hertz.com) or writing to the address below if you have any questions, wish to exercise your rights of access, or seek other assistance as described above. 
+Please contact Us by emailing [privacy@hertz.com](mailto:privacy@hertz.com), or for EU residents - [euprivacy@hertz.com](https://web.archive.org/web/20190502211452id_/https%3A//www.dollar.com/AboutUs/euprivacy@hertz.com) or writing to the address below if you have any questions, wish to exercise your rights of access, or seek other assistance as described above. 
 
 The Hertz Corporation
 
