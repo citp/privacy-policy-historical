@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poeticous.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123153223id_/https%3A//www.poeticous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poeticous.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502060504id_/https%3A//www.poeticous.com/privacy) for the most accurate reproduction.*
 
 # Poeticous. Beautiful poetry blogs.
 
