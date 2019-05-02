@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the veggietales.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930102724id_/http%3A//www.veggietales.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veggietales.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503000049id_/http%3A//www.veggietales.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At the website of Big Idea Entertainment, LLC (“Big Idea”) located at www.veggietales.com and other connected or related sites owned and operated by Big Idea, including www.veggietales.com and store.veggietales.com (collectively, the “Sites”), protecting our users’ privacy and security is a top priority.  For this reason, we have adopted the following privacy policy (the “Privacy Policy”) to advise you of your choices regarding the use of your personal information online.  This Privacy Policy describes what types of information we gather about you, how we use it and your rights to update or correct it.  The Sites are made available by Big Idea Entertainment, LLC, located at 386 Park Avenue South 16th Floor New York, NY 10016  The target audience for the Play Site is parents of children, their families and other adults.   Within the Sites you will only be able to make a purchase or take advantage of certain of our offerings, such as any newsletters, certain special features, online forums, sweepstakes, contests or promotions that may be offered by providing the requested information.  Your use of the Sites signifies your understanding and acceptance of the terms of this Privacy Policy.  This Privacy Policy is incorporated into, and made a part of, the Terms of Use, which govern your use of the Sites in general. 
+At the website of Big Idea Entertainment, LLC (“Big Idea”) located at www.veggietales.com and other connected or related sites owned and operated by Big Idea, including www.veggietales.com and store.veggietales.com (collectively, the “Sites”), protecting our users’ privacy and security is a top priority.  For this reason, we have adopted the following privacy policy (the “Privacy Policy”) to advise you of your choices regarding the use of your personal information online.  This Privacy Policy describes what types of information we gather about you, how we use it and your rights to update or correct it.  The Sites are made available by Big Idea Entertainment, LLC, located at 100 Universal City Plaza Bldg 1440/6 Universal City, California 91608 United States  The target audience for the Play Site is parents of children, their families and other adults.   Within the Sites you will only be able to make a purchase or take advantage of certain of our offerings, such as any newsletters, certain special features, online forums, sweepstakes, contests or promotions that may be offered by providing the requested information.  Your use of the Sites signifies your understanding and acceptance of the terms of this Privacy Policy.  This Privacy Policy is incorporated into, and made a part of, the Terms of Use, which govern your use of the Sites in general. 
 
 Scope of Policy 
 
@@ -126,21 +126,20 @@ You represent and warrant that you are domiciled in the United States.
 
 WHO CAN YOU CONTACT IF YOU HAVE QUESTIONS OR CONCERNS? 
 
-Big Idea pledges to work with users to resolve any complaints about our Privacy Policy and with parents who wish to review their child’s personal information that they authorized us to collect and use.  Please contact us by e-mail at customerservice@veggietales.shop to report any known or suspected privacy or security breaches or to submit privacy-related questions or complaints.  If you have a complaint about our Privacy Policy, you can write to as at 386 Park Avenue South 16th Floor New York, NY 10016 or e-mail us at customerservice@veggietales.shop.  You may also call us at (888) 244-4332.  We will try to resolve any problems that arise in a fair and prompt manner. 
+Big Idea pledges to work with users to resolve any complaints about our Privacy Policy and with parents who wish to review their child’s personal information that they authorized us to collect and use.  Please contact us by e-mail at customerservice@veggietales.shop to report any known or suspected privacy or security breaches or to submit privacy-related questions or complaints.  If you have a complaint about our Privacy Policy, you can write to as at 100 Universal City Plaza Bldg 1440/6 Universal City, California 91608 United States or e-mail us at customerservice@veggietales.shop.  You may also call us at (888) 244-4332.  We will try to resolve any problems that arise in a fair and prompt manner. 
 
 MIGHT THIS PRIVACY POLICY CHANGE? 
 
 We will occasionally update this Privacy Policy in response to changing business circumstances and legal developments.  If there are changes or additions to this Privacy Policy, we will notify you by posting those changes here so that you will always know what information we collect, how we use it and what choices you have.  If there are material changes to this policy or how we use your personally identifiable information, we will prominently post such changes prior to implementing the change.  We encourage you to periodically review this Policy for our current information protection practices.  We reserve the right to change this Privacy Policy at anytime for any reason. The effective date of the Privacy Policy will always appear on the first page of the Privacy Policy, underneath the title. Legal 
 
-The Sites are operated and maintained by Big Idea Entertainment, LLC located at 386 Park Avenue South 16th Floor New York, NY 10016, customerservice@veggietales.shop (888) 244-4332. TM & © Big Idea Entertainment, LLC.  All rights reserved. 
+The Sites are operated and maintained by Big Idea Entertainment, LLC located at 100 Universal City Plaza Bldg 1440/6 Universal City, California 91608 United States, customerservice@veggietales.shop (888) 244-4332. TM & © Big Idea Entertainment, LLC.  All rights reserved. 
 
 YOUR CALIFORNIA PRIVACY RIGHTS 
 
 As of January 1, 2005, California Civil Code Section 1798.83 allows California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes.  To request such information, please send an e-mail to customerservice@veggietales.shop or write to us at:  
 Big Idea Entertainment, LLC  
-386 Park Avenue South  
-16th Floor  
-New York, NY 10016 
+100 Universal City Plaza  
+Universal City, California 91608 
 
 USE COMMON SENSE IN ALL YOUR ONLINE ACTIVITIES 
 
