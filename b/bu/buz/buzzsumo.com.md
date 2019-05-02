@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzsumo.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213091842id_/https%3A//buzzsumo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsumo.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502170544id_/https%3A//buzzsumo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
