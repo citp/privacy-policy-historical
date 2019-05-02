@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the win7gadgets.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231132840id_/http%3A//win7gadgets.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the win7gadgets.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502225106id_/http%3A//win7gadgets.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Windows 7 Desktop Gadget
 
