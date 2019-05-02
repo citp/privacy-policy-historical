@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trippeo.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709164404id_/https%3A//trippeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trippeo.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503002012id_/https%3A//trippeo.com/privacy) for the most accurate reproduction.*
 
 # Trippeo - Privacy Policy
 
