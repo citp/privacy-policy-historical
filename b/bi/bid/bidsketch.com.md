@@ -1,122 +1,173 @@
-> *The following text is extracted and transformed from the bidsketch.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531181819id_/https%3A//www.bidsketch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsketch.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502235026id_/https%3A//www.bidsketch.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE OR OUR SERVICES. Bidsketch ("Company") and www.Bidsketch.com ("the Website") (collectively "we") are committed to protecting the privacy and security of our visitors, registered users, and subscribers who access our Website or Services. This Privacy Policy sets forth how the Website and our Services collect and use personal information. By using the Website and Services, you acknowledge that you have read and accepted our privacy practices set forth below.
+_Last revised: May 22, 2018_
 
-If you do not accept our privacy practices, then you should not continue to use either the Website or the Services. This Privacy Policy is incorporated by reference into and forms part of our Terms of Service.
+**CONTENT**
 
-## 1\. Confidentiality and Security of Personal Information
+  1. **Introduction** : who we are and why you need to read this Privacy Policy 
 
-We have implemented commercially reasonable security measures and follow generally accepted industry standards to protect personally identifiable information sent to our Website or provided to our Services, both during transmission and afterwards. It is your responsibility to ensure that you do not disclose your password to anyone. 
+  2. **Definitions** : what is defined as personal information and what is not 
 
-However, despite our efforts to maintain the confidentiality and security of your account, no method of transmission over the Internet and no method of electronic storage is completely secure. Although we make every effort to protect your personal information, we cannot guarantee its absolute security.
+  3. **What information is collected, how it is used and when it is shared** : type of information we collect about you, how and why we use it, and under what circumstances your information may be shared with others 
 
-## 2\. Personal Information We Will Collect
+  4. **Security** : where we store your information and how we protect it 
 
-When you register an account with us, we may collect personal information from you. You must provide your first and last name, name of business, address, and credit card information (including your three digit security number). You will also be asked to create a login and site name, as well as a password for your account. 
+  5. **Location of servers** : we store your information on US servers 
 
-When you access and use our Services, we may also collect information about the business contacts that you upload into your account and any proposals that you create.
+  6. **For users from EU - Your rights with regard to information we collect about you** : You certain rights with regard to management of your Personal Information including the right to modify or delete information from our servers or to move your information from our servers to another company’s server 
 
-We may collect the IP address of your computer in order to enable us to detect unauthorized transactions, better manage website traffic, and to gather other analytics on the Website. 
+  7. **Data Retention** : how long we may store your information for 
 
-We may also use "cookies," which are small data files placed and stored on your computer, to help you manage your use of our Website. Cookies are used as follows:
+  8. **Do not track disclosure**
 
-  1. To recognize you as a regular user; 
-  2. To remind us of who you are;
-  3. To estimate our audience size by determining repeat usage of the Website to help target advertisements based on user interests and behavior;
-  4. To track your progress;
-  5. To measure traffic patterns for use as a research tool to understand how our users habits are similar or different from one another; and 
-  6. To conduct other research.
+  9. **Links to third-party web sites** : our disclaimer with regard to third-party web links found via the Service and such third-party websites’ privacy policy practices 
 
+  10. **Children’s privacy** : we do not collect information from persons under the age of 18 
 
+  11. **Compliance with laws** : Our Privacy Policy complies with the strictest privacy protection laws in the world so you have peace of mind 
 
-You can set your browser to notify you when you receive a cookie, in order to give you the chance to determine whether or not to accept it. If you do not accept cookies, some pages may not display properly or you may not be permitted to access certain information.
+  12. **Changes to privacy policy** : we may make changes to this Privacy Policy; we will notify you if any such changes occur; your continued use of the Service will constitute your consent to 
 
-## 3\. Purposes for Which We Will Use Personal Information
-
-We make every effort to identify the purposes for which we will collect personal information at or before the time the information is collected. We will use your personal information only for the purposes disclosed at the time of collection or as otherwise set out in this Privacy Policy, unless we have your consent for another use, or unless such other use is authorized or required by law.
-
-Our policy is to collect personal information from you for the following purposes:
-
-  1. to provide Services to you and enable you to create proposals; 
-  2. to generate analytics for the improvement of the Website and Services, and for marketing purposes;
-  3. to promote and market our Services to you;
-  4. to maintain a commercial relationship with you and to communicate with you (which may include: advertising, promotions, and account verification);
-  5. to identify your needs and/or preferences;
-  6. to meet legal and regulatory requirements;
-  7. to administer, maintain, manage, and improve our business operations; and 
-  8. as otherwise required by law.
+  13. **Contact us** : our contact information 
 
 
 
-## 4\. Sharing of Personal Information
 
-We do not rent, trade, or share personal information with third parties, except to provide products or Services, which you requested, when we have your permission, or under the following circumstances:
+### 1\. INTRODUCTION
 
-  1. We use third parties for credit card processing, which parties are prohibited from using your personally identifiable information for promotional purposes.
-  2. We may export data at your request to our third party integration partners.
-  3. We may share your aggregate anonymous information with third parties in order to improve the Website and Services or for marketing purposes.
-  4. We may share your information with third party contractors such as developers, support administrators, designers, data analysts, and network technicians to maintain and improve the Services. 
-  5. We may share your information with third party vendors, who help to manage and store data uploaded to Bidsketch, or to support and improve the Services. 
-  6. We may share your personal information if required by law and if we believe that the disclosure is required or necessary to protect our rights and/or comply with a judicial processing or legal process served on our Website of Services. 
-  7. We may share personal information if we believe that it is required in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, a potential threat to the physical safety of a third party, or as otherwise required by law.
-  8. We may transfer personal information to a third party entity in the event of an assignment of this Website for any reason. You will be notified via email of any such change in ownership or control of personal information.
-  9. We may share personal information with our legal, financial, and other professional advisors.
-  10. We may share personal information with third parties upon receiving your consent as required by law.
+Your privacy and the security of your personal information are very important to us. This Privacy Policy is incorporated into and made part of our Terms of Service located at [www.bidsketch.com/terms](https://www.bidsketch.com/terms/). This Privacy Policy describes how Earthlingsoft, LLC DBA Bidsketch, a limited liability company governed by the laws of the State of Oregon (“Bidsketch,“ "us," "we," or "our"), collects, stores, uses your information, under what circumstances it might share or disclose it and how your information is being stored and protected. It is vital that you read this Privacy Policy carefully before using [www.bidsketch.com](https://www.bidsketch.com/) website ("Service") operated by Bidsketch. The Service is a platform where users of the Service may execute legal instruments using their electronic signatures. 
 
+By using the Service, you consent to Bidsketch’s practices of collecting, storing, using, sharing, disclosing, and protecting your personal information. If you agree to consent to this Privacy Policy on behalf of an entity, "you," "your," or “yours” will refer and apply to that entity. If you do not agree with and consent to all the practices described in this Privacy Policy, please do not register for an account and discontinue using the Service. 
 
+### 2\. INTRODUCTION
 
-Except as provided above, we will not share any of your information to any third party without permission.
+  * **“Personal Information”** means any information that identifies or can be used to identify or contact a person if used combined together with other pieces of information. Such Personal Information may include, but is not limited to, a name, identification number, an online identifier, mailing or billing address, email address, telephone number, photo, signature, Internet Protocol (“IP”) address location data, cookie identifier, date of birth, billing or credit/debit card information, or one or more factors specific to physical, physiological, genetic, mental, economic, cultural or social identity of a person. 
 
-## 5\. Access to Your Personal Information
+  * **“Non-Personal Information”** means information that cannot be used to identify or contact a person. Such Non-Personal Information may include, but is not limited to, user’s browser type, browser version, operating system, files viewed, webpages visited, time and date of user’s visit, time spent on each webpage and other anonymous statistical data. 
 
-You can review, update, delete, or correct your personal information on file with us online or in person at any time. To access your personal information, we require a written request; unless you login and update your personal information yourself directly. Upon receipt of any written request, we will take commercially reasonable steps to provide you with the opportunity to access any such information. We may charge a reasonable fee in order to cover our costs in providing such access.
+  * **“Content”** means any information, text, documents, graphics, videos, or other materials uploaded, posted, displayed, shared and otherwise made available on or through the Service. 
 
-## 6\. Email Requests for Personal Information
-
-We will never initiate a request for personal information by email or pop-up window. If you receive a request by email or pop-up window, please do not respond and notify us as set forth below.
-
-If you ever believe that you have been a victim of fraud, please report it to the police and take all available actions to protect yourself. Also, please notify us, so that we can take all possible actions to protect you and the other visitors, registered users, and subscribers.
-
-## 7\. Children
-
-We are committed to protecting the privacy of children. In furtherance of this commitment, we restrict the use of our Website and Services to persons eighteen (18) years of age or older. We do not knowingly or intentionally collect personal information from children under the age of thirteen (13).
-
-## 8\. Contact with You
-
-We may use your email address to contact you from time to time, in order to send notices required by law, to provide information regarding this Website or our Services, or to resolve any complaint. 
-
-## 9\. Changes and Updates to this Privacy Policy
-
-We may amend this Privacy Policy at any time at our sole discretion and without prior notice. You should check back with us from time to time in order to confirm that there have been no significant changes.
-
-Please note that the use of information that we gather is subject to the Privacy Policy then in effect at the time of use.
-
-## 10\. Other Legal Notices
-
-If you ever have a dispute over privacy or security, it will be subject to this Privacy Policy and our Terms of Service. We will always make every effort to resolve any concerns that you have regarding privacy that arises in connection with this Privacy Policy.
-
-## 11\. CALIFORNIA USERS
-
-If you are a California resident, you have the right to request information from us regarding the manner in which we share certain categories of your personal information with third parties for their own direct marketing uses. California law provides that you have the right to submit a request to us at our email address in order to receive information on the categories of customer information that we shared and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year. To obtain this information, please send an email message to support@bidsketch.com with "Request for California Privacy Information" in the subject line and in the body of your message. We will provide the requested information to you in your email address in response.
-
-Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
-
-## 12\. International users
-
-If you are accessing this Website or the Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the Website and Services, which are governed by U.S. law and this Privacy Policy as incorporated into our Terms of Service, you will be transferring your personal information into the United States and you consent to that transfer.
-
-## 13\. Contact Us
-
-If you have any questions or concerns over this Privacy Policy or if you need further information regarding the access to your personal information, or how your personal information is used, you may contact us as listed below:
-
-Attn.: Earthlingsoft LLC (DBA Bidsketch)  
-9116 E. Sprague Ave. #442   
-Spokane, WA 99206-3601   
-phone: (561) 306-9742   
+  * All terms not defined in this Privacy Policy are defined in our Terms of Service found at [www.Bidsketch.com/terms](https://www.bidsketch.com/terms/). 
 
 
-## 14\. Effective Date
 
-This Privacy Policy was last modified on the 28th of February, 2012.
+
+### 3\. WHAT INFORMATION IS COLLECTED, HOW IT IS USED AND WHEN IT IS SHARED 
+
+We collect both Personal Information and Non-Personal Information about you. Here is what information we collect about you, how and why we use it, and under what circumstances your information may be shared with others: 
+
+  * **Account Registration.** Upon registering for an account, we ask you to provide your full name, email address, and create a password. We collect this information for the purpose of providing you with the Service, servicing your Subscription, identifying you as a user, sending you updates about our Terms of Service, Privacy Policy or other legal notices and marketing offers, or responding to your requests/inquiries. 
+
+  * **Your Content.** Any information, text, documents, comment you leave for any third party inside any document, graphics, videos, audio files, or other materials uploaded, posted, displayed, shared and otherwise made available by you on or through the Service will be collected and stored by us for the purpose of providing you with the Service or servicing your Subscription. This includes any information you fill out inside any document (for example, when you are asked to fill out and sign an agreement). Your Content is not shared with anyone except those you voluntarily decide to share it with. You are solely responsible for your Content. You assume all risks associated with the use and sharing of your Content, including any reliance on its accuracy, completeness or usefulness by others, or any disclosure of your Content that makes you or any third party personally identifiable. 
+
+  * **Submission of Suggestions and Feedback.** If you provide us with any suggestions or feedback about the Service (“Suggestions”), you will automatically assign to us all rights to the Suggestions and agree that we shall have the right to use such Suggestions and related information in any manner we deem appropriate. We will treat any Suggestions you provide to us as non-confidential and non-proprietary. You agree that you will not submit to us any information or ideas that you consider to be confidential or proprietary. 
+
+  * **Your Financial Data.** We may employ third-party service providers to facilitate the provision of the Service. Such third-party service providers will have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your Personal Information for any other purpose. One of such third-party service providers that we work with is Authorize.Net (a third party payment processing company). It handles payment operations for us. When you want to pay for your Subscription, you will be asked to provide billing information including full name, address, state, zip or postal code, telephone number, a valid credit or debit card number, and its expiration date and CVV number. We collect such pieces of information and forward it to Authorize.Net. Authorize.Net is responsible for processing and storing your financial data. If you wish to know how your financial data is processed and stored, please read Authorize.Net’s privacy policy located at [https://www.authorize.net/company/privacy](https://www.authorize.net/company/privacy/). On our end, we are only able to see and store your billing address and telephone number that will be used to contact you in case there is a billing issue. 
+
+  * **Cookie Identifiers.** “Cookies” are small files created by websites a user visits. They are designed to hold a modest amount of data specific to a particular user and website, and can be accessed either by a web server or such user’s computer. Cookies are a convenient way to carry information from one session on a website to another, or between sessions on related websites, without having to burden a server machine with massive amounts of data storage. Storing the data on the server without using Cookies would also be problematic because it would be difficult to retrieve a particular user's information without requiring a login on each visit to the website. If there is a large amount of information to store, then a Cookie can simply be used as a means to identify a given user so that further related information can be looked up on a server-side database. For example, the first time a user visits a site he/she may choose a username, which is stored in the Cookie, and then provide data such as password, name, address, preferred font size, and so on. This information would all be stored in a database using the username as a key. Subsequently when the site is revisited the server will read the cookie to find the username, and then retrieve all the user's information from the database without making the user to re-enter it. 
+
+By using the Service, you agree that we may use session Cookies to enable the Service to keep track of your movement from webpage to webpage so you are not asked to re-sign in or enter the same information you have already provided (during an active browser session). Session Cookies are destroyed when the current browser window is closed. If you refuse the use the Cookies some features of the Service may not work or will be disabled. In order to ensure smooth operation of the Service, you must accept the use of Cookies. You may instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. 
+
+  * **Google Analytics and Similar Analytics Tools.** Third party services such as Google Analytics and Kissmetrics help businesses and site owners analyze the traffic to their websites and mobile applications by collecting, monitoring and analyzing Non-Personal Information. 
+
+Google Analytics works via a “page tag” or so-called “Google Analytics Tracking Code”, which is a snippet of JavaScript code. A website owner adds this code to every page of a website that he/she would like to track. When a website user visits the website (and Javascript is enabled), the tracking code runs in such user’s browser, collects user’s data, and sends it to a Google data collection server. Google Analytics may collect the following types of Non-Personal Information about how users use a website: date and time of visit, webpages visited, time spent on each webpage, referring web site details (such as the URI a user came through to arrive at this site), type of web browser, type of operating system, Flash version, screen resolution, and screen color processing ability, network location and IP address (IP address may be Personal and Non-Personal Information depending on whether it is anonymized or not). Google Analytics may also be used to such Non-Personal Information as: document downloads, clicks on links leading to external web sites, errors when users fill out forms, clicks on videos, scroll depth, interactions with site-specific widgets. Google’s latest version of Google Analytics (Universal Analytics) can be used to track mobile app activity, telephone conversations, point of sale transactions, and RFID or NFC sensor activity. Google Analytics does not collect any Personal Information from users of a website. 
+
+We also share your email address, name and IP address with Kissmetrics to help us better analyze the traffic of the Service. 
+
+By using the Service, you agree that we may use third party services such as Google Analytics and Kissmetrics to help us analyze the traffic to the Service. To learn more about how Google Analytics collects and processes your Non-Personal Information, please refer to Google’s privacy policy located at <https://policies.google.com/privacy>. 
+
+  * **Facebook’s Remarketing Service.** Bidsketch uses Facebook’s remarketing services to show advertisements (also called interest-based advertising) to you on third party web sites after you have visited the Service. You can learn more about interest-based advertising from Facebook by visiting [www.facebook.com/help/164968693837950](https://www.facebook.com/help/164968693837950). To manage your ad setting or preferences, follow the instructions found here [www.facebook.com/about/ads/#568137493302217](https://www.facebook.com/about/ads/#568137493302217). Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance (“DAA”). You can also opt-out from Facebook and other participating companies through the DAA in the USA [www.aboutads.info/choices/](http://www.aboutads.info/choices/), the DAA of Canada in Canada [www.youradchoices.ca](https://youradchoices.ca/) or the European Interactive Digital Advertising Alliance in Europe [www.youronlinechoices.eu](http://www.youronlinechoices.eu/), or opt-out using your mobile device settings. For more information on the privacy practices of Facebook, please visit Facebook's Data Policy [www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation). 
+
+  * **Email Marketing.** We and third-party email campaign service providers (Postmark, Drip, and Intercom) may use your email address to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us or our partner by following the unsubscribe links or instructions provided in any emails we or our partners send. To find out how Drip uses your email address, please follow this link: <https://www.drip.com/privacy>. For Postmark’s privacy policy, please refer to <https://postmarkapp.com/eu-privacy>. To find out more about Intercom’s privacy policy, please follow this link and click on privacy policy <https://www.intercom.com/terms-and-policies>. 
+
+  * **Business Transfers or Bankruptcy.** We may sell, transfer or otherwise share some or all of our assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+
+  * **Disclosures for Legal Purposes.** We may disclose your Personally Identifiable Information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend our rights or property, (iii) act in urgent circumstances to protect the personal safety of Service users or the public, or (iv) protect us from legal liability. 
+
+  * **Use and Disclosure of Non-Personal Information.** We reserve the right to use and disclose Non-Personal Information for any purpose and to share it with any third party at our sole discretion. 
+
+
+
+
+### 4\. SECURITY 
+
+Your connection to Service is secure and encrypted using SSL (Secure Sockets Layer). This is the same level of encryption used by leading banks and government agencies. 
+
+We host information about you in a secure server and cloud-based environment provided by Amazon.com, Inc. (“AWS”). AWS takes top security measures in order to ensure safe retention and storage of Personal Information. In order to read more about AWS’ security measures, please refer to <https://aws.amazon.com/compliance/data-center/controls/>. 
+
+Despite these measures, however, you should know that we cannot fully eliminate security risks associated with your information. You are also responsible for helping us protect the security of your Personal Information. For instance, never give out your password, and remember to log out of your account after each session. 
+
+### 5\. LOCATION OF SERVERS 
+
+If you are located outside the United States and choose to use the Service, please note that we will store information about you including your Content on servers located in the United States. 
+
+### 6\. FOR USERS FROM EU: YOUR RIGHTS WITH REGARD TO INFORMATION WE COLLECT ABOUT YOU 
+
+If you are accessing the Service from one of EU Member States, you have the following rights with regard to information about you: 
+
+  * the right to be informed about what kind of Personal Information about you is collected, stored, processed and disclosed by us; therefore, we have compiled this Privacy Policy for you; 
+
+  * the right of access (you can request us to provide you verbally or in writing with the Personal Information and Non-Personal Information that we store about you and we have a month to respond to your request); 
+
+  * the right to rectify any Personal Information that is inaccurate; 
+
+  * the right to erasure (some conditions apply, see Section 7 below); 
+
+  * the right to restrict processing your Personal Information, however, if you restrict us from processing a part of Personal Information that is essential to our provision of the Service, you may be asked to terminate your account and stop using the Service; 
+
+  * the right to data portability; the right to data portability allows users of the Service to obtain and reuse their Personal Information for their own purposes across different services; you may request us to transmit your Personal Information directly from our servers to another company’s servers and we will do so where it is technically feasible; 
+
+  * the right to object (you have an absolute right to stop Personal Information being used for direct marketing, read our opt-out instructions below); you may express your objection verbally or in writing and we have a month to respond to any such objection; we might still continue processing your Personal Information if we are able to show that we have a compelling reason for doing so; 
+
+  * the rights in relation to automated decision making and profiling. 
+
+
+
+
+If you would like to exercise any of the above rights, please an email to: [support@bidsketch.com](mailto:support@bidsketch.com). 
+
+### 7\. LOCATION OF SERVERS 
+
+**_For users accessing the Service from EU_** : According to EU’s General Data Protection Regulation Personal Information must be erased immediately as long as such information is no longer needed for its original processing purpose, or the impacted person has withdrawn his/her consent and there is no other reason for justification, the impacted person has objected and there is no preferential justified reason for the processing, or erasure is required to fulfil a statutory obligation under the EU law or the right of the Member States. Therefore, if use the Service from one of the EU Member States, your Personal Information will be erased under all of the above circumstances. You may request us to erase your Personal Information verbally or in writing and we have a month to respond to any such request. 
+
+**_For users accessing the Service from outside of EU_** : We will retain your information for as long as your account is active or as needed to provide you with the Service. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### 8\. DO NOT TRACK DISCLOSURE 
+
+We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the preferences or settings page of your web browser. 
+
+### 9\. LINKS TO THIRD-PARTY WEB SITES 
+
+Our Service may contain links to third-party web sites (through ads that they post in the Service) about products or services that are not owned or controlled by Bidsketch. 
+
+Bidsketch has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third-party web sites. We do not warrant the offerings of any of these entities/individuals or their websites. 
+
+You acknowledge and agree that Bidsketch shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any content, goods or services available on or through any such third-party web site. 
+
+We strongly advise you to read the terms and conditions and privacy policies of any third-party web site that you access through link available in the Service. 
+
+### 10\. CHILDREN'S PRIVACY 
+
+Only persons age 18 or older have permission to access our Service. We do not knowingly collect Personal Information from anyone under the age of 18. If you are a parent or guardian and you learn that your child has provided us with Personal Information, please contact us immediate. If we become aware that we have collected Personal Information from anyone who is under 18 without verification of parental consent, we will take steps to remove that information from our servers. 
+
+### 11\. COMPLIANCE WITH LAWS 
+
+Our Privacy Policy complies with the strictest laws on handling of Personal Information. Such laws include: USA’s Children's Online Privacy Protection Act (COPPA) and European Union’s General Data Protection Regulation (GDPR). 
+
+### 12\. CHANGES TO PRIVACY POLICY 
+
+We reserve the right, at our sole discretion, to modify or replace this Privacy Policy at any time. If a revision is material, we will provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. 
+
+By continuing to access or use our Service after any modifications become effective, you consent to all the practices described in the updated Privacy Policy. If you do not agree to the updated Privacy Policy, please terminate your account and stop using the Service. 
+
+### 13\. CONTACT US 
+
+If you have any questions about this Privacy Policy, please contact us. 
+
+Earthlingsoft, LLC (DBA Bidsketch)   
+12042 SE Sunnyside RD   
+Portland, OR 97015   
+Telephone: (503) 420-8266   
+Email: [support@bidsketch.com](mailto:support@bidsketch.com)
