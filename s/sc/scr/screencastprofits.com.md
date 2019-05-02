@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the screencastprofits.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231120931id_/http%3A//screencastprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencastprofits.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503003124id_/http%3A//screencastprofits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Screencast Profits
+# Privacy Policy – Screencast Profits
 
 The following describes the Privacy Policy for our SCREENCASTPROFITS.COM website.
 
