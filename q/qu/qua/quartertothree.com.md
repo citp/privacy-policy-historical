@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quartertothree.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610191544id_/http%3A//www.quartertothree.com/fp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quartertothree.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502055821id_/https%3A//www.quartertothree.com/fp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Quarter to Three
 
@@ -20,7 +20,7 @@ www.quartertothree.com does use cookies to store information about visitors pref
 
   * Google, as a third party vendor, uses cookies to serve ads on www.quartertothree.com.
   * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.quartertothree.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Visit Google's ad network opt-out page")
 
 
 
