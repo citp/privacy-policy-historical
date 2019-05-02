@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the theshaderoom.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028004608id_/http%3A//theshaderoom.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshaderoom.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502182146id_/https%3A//theshaderoom.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - The Shade Room
 
 This Privacy Policy describes the privacy practices of The Shade Room, LLC including our affiliate companies (“The Shade Room”, “we”, “our” or “us”).
 
 This Privacy Policy explains how we collect, use, disclose, and transfer information about users who interact with us including (but not limited to) via our websites, social media accounts, and downloadable applications, such as mobile apps. This policy also tells you how we use tracking technologies, cookies and browsing data we collect from your use of our online services, the measures we take to protect the security of the information you provide to us through our online services, and how you can contact us if you have any questions regarding our online services (including if you want to unsubscribe from our services or update your contact details). Information about how The Shade Room processes your information outside our online services (e.g. working for The Shade Room or visiting The Shade Room premises) is available by contacting [info@theshaderoom.com](mailto:info@theshaderoom.com).
+
+  
+
 
 **LAST UPDATED: December 8, 2016**
 
