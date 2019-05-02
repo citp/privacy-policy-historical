@@ -1,8 +1,13 @@
-<!--The following is the downloaded HTML source of the wanderwisdom.com privacy policy that was archived on 2018-07-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180721080954id_/https%3A//wanderwisdom.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wanderwisdom.com privacy policy that was archived on 2019-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190502052129id_/https%3A//wanderwisdom.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script src="https://assets.hubstatic.com/s/ss164164708.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!DOCTYPE html><html lang="en"><head><script async="" src="//cdn.petametrics.com/999gba4qphtjrmpe.js?ts=439018"></script><script src="https://assets.hubstatic.com/s/ss220377459.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <title>HubPages Network Privacy Policy | WanderWisdom</title>
+<link href="https://sb.scorecardresearch.com/beacon.js" rel="preconnect">
+<link href="https://uid.mavencoalition.io/" rel="preconnect">
+<link rel="preload" href="https://www.google-analytics.com/analytics.js" as="script">
+<link rel="preload" href="https://assets.hubstatic.com/s/site-bases255563761.css" as="style">
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 <meta name="format-detection" content="telephone=no">
@@ -10,55 +15,87 @@
 
 
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js?"></script><script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js?"></script><script>
 window.gdprConsents = {"version":1,"user_version":1,"categories":{"features":true,"marketing":true,"stats":true},"vendors":{"features":{"googlesearch":true,"googlemaps":true,"googlecharts":true,"adsensehost":true,"youtube":true,"vimeo":true,"paypal":true,"facebooklogin":true,"maven":true},"marketing":{"adsense":true,"doubleclick":true,"indexexchange":true,"sovrn":true,"facebookads":true,"amazonads":true,"appnexus":true,"openx":true,"rubicon":true,"triplelift":true,"saymedia":true,"remarketing":true,"conversion":true},"stats":{"authoranalytics":true,"comscore":true,"amazonaffpixel":true}},"eu":false};
+/**
+ * @format
+ */
+
+window.mavenUID = new Promise(function(resolve) {
+	fetch('https://uid.mavencoalition.io/', {
+		credentials: 'include' // include the cookie in the request
+	})
+		.then(function(response) {
+			if (response.status === 200) {
+				response.json().then(function(resp) {
+					resolve(resp.uid);
+				});
+			} else {
+				throw new Error('invalid UID service response');
+			}
+		})
+		.catch(function(e) {
+			console.warn(e);
+			resolve(false);
+		});
+});
+//Unfetch 4.0.1, Copyright (c) 2017 Jason Miller, The MIT License (MIT)
+self.fetch||(self.fetch=function(e,n){return n=n||{},new Promise(function(t,r){var s=new XMLHttpRequest;for(var o in s.open(n.method||"get",e,!0),n.headers)s.setRequestHeader(o,n.headers[o]);function u(){var e,n=[],t=[],r={};return s.getAllResponseHeaders().replace(/^(.*?):[^\S\n]*([\s\S]*?)$/gm,function(s,o,u){n.push(o=o.toLowerCase()),t.push([o,u]),r[o]=(e=r[o])?e+","+u:u}),{ok:2==(s.status/100|0),status:s.status,statusText:s.statusText,url:s.responseURL,clone:u,text:function(){return Promise.resolve(s.responseText)},json:function(){return Promise.resolve(s.responseText).then(JSON.parse)},blob:function(){return Promise.resolve(new Blob([s.response]))},headers:{keys:function(){return n},entries:function(){return t},get:function(e){return r[e.toLowerCase()]},has:function(e){return e.toLowerCase()in r}}}}s.withCredentials="include"==n.credentials,s.onload=function(){t(u())},s.onerror=r,s.send(n.body||null)})});
+/**
+ * @format
+ */
+
 function fetchScript(a, b) {
-    var c = document.createElement('script'), d = "https:" == document.location.protocol, e = false;
-    c.async = true;
-    c.src = (a.indexOf('//') == 0) ? ((d ? "https:" : "http:") + a) : a;
-    c.onload = c.onreadystatechange = function() {
-        if (!e && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
-            e = true;
-            if (typeof b === 'function')
-                b.call(this);
-            c.onload = c.onreadystatechange = null;
-        }
-        ;
-    }
-    ;
-    var f = document.getElementsByTagName("script")[0];
-    f.parentNode.insertBefore(c, f);
+	var c = document.createElement('script'),
+		d = 'https:' == document.location.protocol,
+		e = false;
+	c.async = true;
+	c.src = a.indexOf('//') == 0 ? (d ? 'https:' : 'http:') + a : a;
+	c.onload = c.onreadystatechange = function() {
+		if (!e && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+			e = true;
+			if (typeof b === 'function') b.call(this);
+			c.onload = c.onreadystatechange = null;
+		}
+	};
+	var f = document.getElementsByTagName('script')[0];
+	f.parentNode.insertBefore(c, f);
 }
 
 var hubpagesConsent = {
-	funcs: [],	
+	funcs: [],
 	consents: null,
 	isServiceConsented: function(category, service) {
-		if (!this.consents) { return false; }
+		if (!this.consents) {
+			return false;
+		}
 		if (!this.isEU()) {
 			return true;
 		}
-		
+
 		if (!this.consents['categories'].hasOwnProperty(category)) {
 			return false;
 		}
-		
+
 		return this.consents['categories'][category];
 	},
-	
-	isEU: function()
-	{
+
+	isEU: function() {
 		return this.consents && this.consents.eu === true;
 	},
-	
-	needUserInput: function()
-	{
-		if (window.location.pathname == '/help/privacy-policy') { return false; }
-		if (!this.consents) { return true; }
-		if (this.consents['user_version'] != this.consents['version']) { return true; }
 
-		for (k in this.consents['categories'])
-		{
+	needUserInput: function() {
+		if (window.location.pathname == '/help/privacy-policy') {
+			return false;
+		}
+		if (!this.consents) {
+			return true;
+		}
+		if (this.consents['user_version'] != this.consents['version']) {
+			return true;
+		}
+
+		for (k in this.consents['categories']) {
 			if (this.consents['categories'][k] === null) {
 				return true;
 			}
@@ -66,49 +103,59 @@ var hubpagesConsent = {
 
 		return false;
 	},
-	
-	getConsents: function()
-	{
+
+	getConsents: function() {
 		return this.consents;
 	},
-	
-	setConsents: function(obj)
-	{
-		this.consents = obj;		
-		this.log("Consents are:");
+
+	setConsents: function(obj) {
+		this.consents = obj;
+		this.log('Consents are:');
 		this.log(obj);
-		
+
 		this._setCookie();
-		
+
 		for (var i = 0; i < this.funcs.length; i++) {
 			var o = this.funcs[i];
-			if (!o.rerunable && o.timesRun > 0) { //some can't be run more than once
-				continue;
+
+			if (o.timesRun > 0) {
+				//some can't be run more than once
+				var isRerunable;
+				if ('function' == typeof o.rerunable) {
+					isRerunable = o.rerunable();
+				} else {
+					isRerunable = o.rerunable;
+				}
+				if (!isRerunable) {
+					continue;
+				}
 			}
-			
+
 			o.timesRun++;
-			if (this.isServiceConsented(o.category, o.service))
-			{
-				this.log("User DID consent to " + o.category + "/" + o.service);				
-				if (o.yesFunc) { o.yesFunc(); }
+			if (this.isServiceConsented(o.category, o.service)) {
+				this.log('User DID consent to ' + o.category + '/' + o.service);
+				if (o.yesFunc) {
+					o.yesFunc();
+				}
 			} else {
-				this.log("User did NOT consent to " + o.category + "/" + o.service);
-				if (o.noFunc) { o.noFunc(); }
+				this.log('User did NOT consent to ' + o.category + '/' + o.service);
+				if (o.noFunc) {
+					o.noFunc();
+				}
 			}
 		}
 	},
-	
-	_setCookie: function()
-	{
-		if ((typeof(jq) == 'undefined') || (typeof(jq.cookie) == 'undefined')) { return; }
-		
+
+	_setCookie: function() {
+		if (typeof jq == 'undefined' || typeof jq.cookie == 'undefined') {
+			return;
+		}
+
 		jq.cookie('hpconsents', JSON.stringify(this.consents), { path: '/', domain: '.' + document.domain, expires: 365 });
 	},
-	
-	runIfConsented: function(category, service, yesFunc, noFunc, rerunable)
-	{
-		if (this.needUserInput() || rerunable)
-		{
+
+	runIfConsented: function(category, service, yesFunc, noFunc, rerunable) {
+		if (this.needUserInput() || rerunable) {
 			this.funcs.push({
 				category: category,
 				service: service,
@@ -118,29 +165,35 @@ var hubpagesConsent = {
 				timesRun: 0
 			});
 		}
-		
+
 		if (this.needUserInput()) {
-			//nothing			
+			//nothing
 		} else if (this.isServiceConsented(category, service)) {
-			this.log("User DID consent to " + category + "/" + service);
+			this.log('User DID consent to ' + category + '/' + service);
 			yesFunc();
 		} else {
-			this.log("User did NOT consent to " + category + "/" + service);
-			if (noFunc) { noFunc(); }
+			this.log('User did NOT consent to ' + category + '/' + service);
+			if (noFunc) {
+				noFunc();
+			}
 		}
 	},
-	
-	loadIfConsented: function(category, service, url, func)
-	{
-		this.runIfConsented(category, service, function() {
-			fetchScript(url, func);
-		});
+
+	loadIfConsented: function(category, service, url, func, rerunable) {
+		this.runIfConsented(
+			category,
+			service,
+			function() {
+				fetchScript(url, func);
+			},
+			null,
+			rerunable
+		);
 	},
-	
-	log: function(str)
-	{
+
+	log: function(str) {
 		var dc = document.cookie;
-		if (dc.indexOf("hp-gdpr-debug=true") > -1) {
+		if (dc.indexOf('hp-gdpr-debug=true') > -1) {
 			console.log(str);
 		}
 	}
@@ -148,50 +201,44 @@ var hubpagesConsent = {
 hubpagesConsent.setConsents(window.gdprConsents);
 
 var hubpagesSiteTracking = {
-	gotAHit: function (whattype, id, referer) {
+	gotAHit: function(whattype, id, referer) {
 		var xmlhttp;
 		var options;
 
-	 	if (window.XMLHttpRequest)
-	  	{
-	  		// code for IE7+, Firefox, Chrome, Opera, Safari
-	  		xmlhttp=new XMLHttpRequest();
-	  	}
-		else if (window.ActiveXObject)
-	  	{
-	  		// code for IE6, IE5
-	  		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-	  	}
-		else
-	  	{
-	  		//alert("Your browser does not support XMLHTTP!");
-	  		return;
-	 	}
-	 	xmlhttp.onreadystatechange=function() {
-	     	if(xmlhttp.readyState==4) {
+		if (window.XMLHttpRequest) {
+			// code for IE7+, Firefox, Chrome, Opera, Safari
+			xmlhttp = new XMLHttpRequest();
+		} else if (window.ActiveXObject) {
+			// code for IE6, IE5
+			xmlhttp = new ActiveXObject('Microsoft.XMLHTTP');
+		} else {
+			//alert("Your browser does not support XMLHTTP!");
+			return;
+		}
+		xmlhttp.onreadystatechange = function() {
+			if (xmlhttp.readyState == 4) {
 				//alert( xmlhttp.status );
-		  		if( xmlhttp.status == 200 ) {
+				if (xmlhttp.status == 200) {
 					// call user supplied function, if there is one
 					if (options != undefined && options.cb != undefined) {
 						options.cb(xmlhttp.responseXML);
 					}
 					//alert("gotAHit: " + whattype + "|" + referer);
-	    		}
+				}
 			}
-		}
-	  	var theURL = '/c/' + whattype + id + '.gif' + referer;
-		var sep = (referer.length > 0 && referer.charAt(0) == '?')? "&":"?";
-	   	xmlhttp.open("GET",theURL,true);
-	   	xmlhttp.send(null);
+		};
+		var theURL = '/c/' + whattype + id + '.gif' + referer;
+		var sep = referer.length > 0 && referer.charAt(0) == '?' ? '&' : '?';
+		xmlhttp.open('GET', theURL, true);
+		xmlhttp.send(null);
 	}
 };
 
-if (typeof(hpstdata) != "undefined") {
-	var h = hpstdata, s = hubpagesSiteTracking;
+if (typeof hpstdata != 'undefined') {
+	var h = hpstdata,
+		s = hubpagesSiteTracking;
 
-	s.gotAHit(h.hp_tracking_type,
-		h.hp_tracking_id,
-		h.tracking);
+	s.gotAHit(h.hp_tracking_type, h.hp_tracking_id, h.tracking);
 }
 </script><script>
   var _comscore = _comscore || [];
@@ -209,7 +256,7 @@ if (typeof(hpstdata) != "undefined") {
 	}, function() {
 		_comscore.push({ c1: "2", c2: "27019031",  cs_ucfr: "0"});
 	  var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      s.src = "https://sb.scorecardresearch.com/beacon.js";
       el.parentNode.insertBefore(s, el);
 	});
   })();
@@ -222,19 +269,40 @@ if (typeof(hpstdata) != "undefined") {
 */
 (function(global){var _$LAB=global.$LAB,_UseLocalXHR="UseLocalXHR",_AlwaysPreserveOrder="AlwaysPreserveOrder",_AllowDuplicates="AllowDuplicates",_CacheBust="CacheBust",_Debug="Debug",_BasePath="BasePath",_ErrorHandler="ErrorHandler",root_page=/^[^?#]*\//.exec(location.href)[0],root_domain=/^\w+\:\/\/\/?[^\/]+/.exec(root_page)[0],append_to=document.head||document.getElementsByTagName("head"),opera_or_gecko=(global.opera&&Object.prototype.toString.call(global.opera)=="[object Opera]")||("MozAppearance"in document.documentElement.style),log_msg=function(){},log_error=log_msg,test_script_elem=document.createElement("script"),explicit_preloading=typeof test_script_elem.preload=="boolean",real_preloading=explicit_preloading||(test_script_elem.readyState&&test_script_elem.readyState=="uninitialized"),script_ordered_async=!real_preloading&&test_script_elem.async===true,xhr_or_cache_preloading=!real_preloading&&!script_ordered_async&&!opera_or_gecko;if(global.console&&global.console.log){if(!global.console.error)global.console.error=global.console.log;log_msg=function(msg){global.console.log(msg)};log_error=function(msg,err){global.console.error(msg,err)}}function is_func(func){return Object.prototype.toString.call(func)=="[object Function]"}function is_array(arr){return Object.prototype.toString.call(arr)=="[object Array]"}function canonical_uri(src,base_path){var absolute_regex=/^\w+\:\/\//;if(/^\/\/\/?/.test(src)){src=location.protocol+src}else if(!absolute_regex.test(src)&&src.charAt(0)!="/"){src=(base_path||"")+src}return absolute_regex.test(src)?src:((src.charAt(0)=="/"?root_domain:root_page)+src)}function merge_objs(source,target){for(var k in source){if(source.hasOwnProperty(k)){target[k]=source[k]}}return target}function check_chain_group_scripts_ready(chain_group){var any_scripts_ready=false;for(var i=0;i<chain_group.scripts.length;i++){if(chain_group.scripts[i].ready&&chain_group.scripts[i].exec_trigger){any_scripts_ready=true;chain_group.scripts[i].exec_trigger();chain_group.scripts[i].exec_trigger=null}}return any_scripts_ready}function create_script_load_listener(elem,registry_item,flag,onload){elem.onload=elem.onreadystatechange=function(){if((elem.readyState&&elem.readyState!="complete"&&elem.readyState!="loaded")||registry_item[flag])return;elem.onload=elem.onreadystatechange=null;onload()}}function script_executed(registry_item){registry_item.ready=registry_item.finished=true;for(var i=0;i<registry_item.finished_listeners.length;i++){registry_item.finished_listeners[i]()}registry_item.ready_listeners=[];registry_item.finished_listeners=[]}function request_script(chain_opts,script_obj,registry_item,onload,preload_this_script){setTimeout(function(){var script,src=script_obj.real_src,xhr;if("item"in append_to){if(!append_to[0]){setTimeout(arguments.callee,25);return}append_to=append_to[0]}script=document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;if(preload_this_script){if(real_preloading){if(chain_opts[_Debug])log_msg("start script preload: "+src);registry_item.elem=script;if(explicit_preloading){script.preload=true;script.onpreload=onload}else{script.onreadystatechange=function(){if(script.readyState=="loaded")onload()}}script.src=src}else if(preload_this_script&&src.indexOf(root_domain)==0&&chain_opts[_UseLocalXHR]){xhr=new XMLHttpRequest();if(chain_opts[_Debug])log_msg("start script preload (xhr): "+src);xhr.onreadystatechange=function(){if(xhr.readyState==4){xhr.onreadystatechange=function(){};registry_item.text=xhr.responseText+"\n//@ sourceURL="+src;onload()}};xhr.open("GET",src);xhr.send()}else{if(chain_opts[_Debug])log_msg("start script preload (cache): "+src);script.type="text/cache-script";create_script_load_listener(script,registry_item,"ready",function(){append_to.removeChild(script);onload()});script.src=src;append_to.insertBefore(script,append_to.firstChild)}}else if(script_ordered_async){if(chain_opts[_Debug])log_msg("start script load (ordered async): "+src);script.async=false;create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}else{if(chain_opts[_Debug])log_msg("start script load: "+src);create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}},0)}function create_sandbox(){var global_defaults={},can_use_preloading=real_preloading||xhr_or_cache_preloading,queue=[],registry={},instanceAPI;global_defaults[_UseLocalXHR]=true;global_defaults[_AlwaysPreserveOrder]=false;global_defaults[_AllowDuplicates]=false;global_defaults[_CacheBust]=false;global_defaults[_Debug]=false;global_defaults[_BasePath]="";global_defaults[_ErrorHandler]=function(err){};function execute_preloaded_script(chain_opts,script_obj,registry_item){var script;function preload_execute_finished(){if(script!=null){script=null;script_executed(registry_item)}}if(registry[script_obj.src].finished)return;if(!chain_opts[_AllowDuplicates])registry[script_obj.src].finished=true;script=registry_item.elem||document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;create_script_load_listener(script,registry_item,"finished",preload_execute_finished);if(registry_item.elem){registry_item.elem=null}else if(registry_item.text){script.onload=script.onreadystatechange=null;script.text=registry_item.text}else{script.src=script_obj.real_src}append_to.insertBefore(script,append_to.firstChild);if(registry_item.text){preload_execute_finished()}}function do_script(chain_opts,script_obj,chain_group,preload_this_script){var registry_item,registry_items,ready_cb=function(){script_obj.ready_cb(script_obj,function(){execute_preloaded_script(chain_opts,script_obj,registry_item)})},finished_cb=function(){script_obj.finished_cb(script_obj,chain_group)};script_obj.src=canonical_uri(script_obj.src,chain_opts[_BasePath]);script_obj.real_src=script_obj.src+(chain_opts[_CacheBust]?((/\?.*$/.test(script_obj.src)?"&_":"?_")+~~(Math.random()*1E9)+"="):"");if(!registry[script_obj.src])registry[script_obj.src]={items:[],finished:false};registry_items=registry[script_obj.src].items;if(chain_opts[_AllowDuplicates]||registry_items.length==0){registry_item=registry_items[registry_items.length]={ready:false,finished:false,ready_listeners:[ready_cb],finished_listeners:[finished_cb]};request_script(chain_opts,script_obj,registry_item,((preload_this_script)?function(){registry_item.ready=true;for(var i=0;i<registry_item.ready_listeners.length;i++){registry_item.ready_listeners[i]()}registry_item.ready_listeners=[]}:function(){script_executed(registry_item)}),preload_this_script)}else{registry_item=registry_items[0];if(registry_item.finished){finished_cb()}else{registry_item.finished_listeners.push(finished_cb)}}}function create_chain(){var chainedAPI,chain_opts=merge_objs(global_defaults,{}),chain=[],exec_cursor=0,scripts_currently_loading=false,group;function chain_script_ready(script_obj,exec_trigger){if(chain_opts[_Debug])log_msg("script preload finished: "+script_obj.real_src);script_obj.ready=true;script_obj.exec_trigger=exec_trigger;advance_exec_cursor()}function chain_script_executed(script_obj,chain_group){if(chain_opts[_Debug])log_msg("script execution finished: "+script_obj.real_src);script_obj.ready=script_obj.finished=true;script_obj.exec_trigger=null;for(var i=0;i<chain_group.scripts.length;i++){if(!chain_group.scripts[i].finished)return}chain_group.finished=true;advance_exec_cursor()}function advance_exec_cursor(){while(exec_cursor<chain.length){if(is_func(chain[exec_cursor])){if(chain_opts[_Debug])log_msg("$LAB.wait() executing: "+chain[exec_cursor]);try{chain[exec_cursor++]()}catch(err){chain_opts[_ErrorHandler](err);if(chain_opts[_Debug])log_error("$LAB.wait() error caught: ",err)}continue}else if(!chain[exec_cursor].finished){if(check_chain_group_scripts_ready(chain[exec_cursor]))continue;break}exec_cursor++}if(exec_cursor==chain.length){scripts_currently_loading=false;group=false}}function init_script_chain_group(){if(!group||!group.scripts){chain.push(group={scripts:[],finished:true})}}chainedAPI={script:function(){for(var i=0;i<arguments.length;i++){(function(script_obj,script_list){var splice_args;if(!is_array(script_obj)){script_list=[script_obj]}for(var j=0;j<script_list.length;j++){init_script_chain_group();script_obj=script_list[j];if(is_func(script_obj))script_obj=script_obj();if(!script_obj)continue;if(is_array(script_obj)){splice_args=[].slice.call(script_obj);splice_args.unshift(j,1);[].splice.apply(script_list,splice_args);j--;continue}if(typeof script_obj=="string")script_obj={src:script_obj};script_obj=merge_objs(script_obj,{ready:false,ready_cb:chain_script_ready,finished:false,finished_cb:chain_script_executed});group.finished=false;group.scripts.push(script_obj);do_script(chain_opts,script_obj,group,(can_use_preloading&&scripts_currently_loading));scripts_currently_loading=true;if(chain_opts[_AlwaysPreserveOrder])chainedAPI.wait()}})(arguments[i],arguments[i])}return chainedAPI},wait:function(){if(arguments.length>0){for(var i=0;i<arguments.length;i++){chain.push(arguments[i])}group=chain[chain.length-1]}else group=false;advance_exec_cursor();return chainedAPI}};return{script:chainedAPI.script,wait:chainedAPI.wait,setOptions:function(opts){merge_objs(opts,chain_opts);return chainedAPI}}}instanceAPI={setGlobalDefaults:function(opts){merge_objs(opts,global_defaults);return instanceAPI},setOptions:function(){return create_chain().setOptions.apply(null,arguments)},script:function(){return create_chain().script.apply(null,arguments)},wait:function(){return create_chain().wait.apply(null,arguments)},queueScript:function(){queue[queue.length]={type:"script",args:[].slice.call(arguments)};return instanceAPI},queueWait:function(){queue[queue.length]={type:"wait",args:[].slice.call(arguments)};return instanceAPI},runQueue:function(){var $L=instanceAPI,len=queue.length,i=len,val;for(;--i>=0;){val=queue.shift();$L=$L[val.type].apply(null,val.args)}return $L},noConflict:function(){global.$LAB=_$LAB;return instanceAPI},sandbox:function(){return create_sandbox()}};return instanceAPI}global.$LAB=create_sandbox();(function(addEvent,domLoaded,handler){if(document.readyState==null&&document[addEvent]){document.readyState="loading";document[addEvent](domLoaded,handler=function(){document.removeEventListener(domLoaded,handler,false);document.readyState="complete"},false)}})("addEventListener","DOMContentLoaded")})(this);
 </script><script>$LAB.setGlobalDefaults({'ErrorHandler': function(err) { console.log(err); throw err; }});  var LABqueue = $LAB.script('https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js').wait(function() { jq = $.noConflict(); })
-.script('https://assets.hubstatic.com/s/ss164164708.js')
+.script('https://assets.hubstatic.com/s/ss220377459.js')
 ;
 </script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
- })(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-286186-36', 'auto', {'name': 'siteTracker'});
-ga('siteTracker.set', 'anonymizeIp', true);
-if (hubpagesConsent.isEU()) { ga('siteTracker.set', 'displayFeaturesTask', null); }
-ga('siteTracker.send', 'pageview');
-gaSiteTracker = 'siteTracker.';
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');function fireMavenUA(mavenUID) {
+	var customDimensions = {"dimension21":"wanderwisdom.com","dimension22":"wanderwisdom.com","dimension23":"lifestyle","dimension24":"[travel]","dimension29":"0"};
+	ga('create', 'UA-126130613-1', 'auto', {'name': 'mavenTracker'});
+	ga('mavenTracker.set', 'anonymizeIp', true);
+	if (hubpagesConsent.isEU()) { ga('mavenTracker.set', 'displayFeaturesTask', null); }
+	if (mavenUID) { 
+		ga('mavenTracker.set', 'userId', mavenUID); 
+		customDimensions['dimension29'] = '1';
+	}	
+	ga('mavenTracker.send', 'pageview', customDimensions);
+}
+
+if (window.mavenUID) {
+	window.mavenUID.then(function(uid) {
+		// UID may be false-y, which is acceptable.
+		fireMavenUA(uid);
+		if (typeof(setupLiftigniter) === "function") {
+			setupLiftigniter(uid ? uid : null);
+		}
+	});
+}
+	ga('create', 'UA-286186-36', 'auto', {'name': 'siteTracker'});
+	ga('siteTracker.set', 'anonymizeIp', true);
+	if (hubpagesConsent.isEU()) { ga('siteTracker.set', 'displayFeaturesTask', null); }
+	ga('siteTracker.send', 'pageview');
+	window.gaSiteTracker = 'siteTracker.';
 </script>
 
-<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases137348089.css">
+<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases255563761.css">
 
 <style>
 .svglogo.wanderwisdom-logo32 { width: 200px; height: 32px;}
@@ -242,7 +310,7 @@ gaSiteTracker = 'siteTracker.';
 </style>
     
   </head>
-<body class="wanderwisdom static fully-responsive nomast">
+<body class="wanderwisdom static fully-responsive nomast privacy-policy">
 
 <!-- symbols (11875 bytes) -->
 <svg id="svg-definitions">
@@ -258,7 +326,7 @@ gaSiteTracker = 'siteTracker.';
 <symbol id="wanderwisdom-logo" viewBox="0 0 400 64"><path d="M24.088 62.547c-4.553-3.22-2.103-14.39 7.217-32.91 3.026-6.013 5.367-11.068 5.202-11.233-.554-.554-14.71 6.597-19.27 9.734C8.652 34.046 4.77 42.335 7.874 48.135c1.63 3.044 3.69 2.414 3.192-.977-.325-2.215.084-3.185 1.71-4.055 2.835-1.518 6.063-.4 6.063 2.1 0 5.706-6.605 9.81-12.603 7.832-6.23-2.057-8.026-8.97-4.318-16.63C5.202 29.62 11.79 25.21 29.337 18.05c4.4-1.796 8.43-3.65 8.95-4.122 1.215-1.095 3.662-1.073 5.434.05 1.11.7.173 3.474-4.725 13.998-6.463 13.886-10.754 26.32-9.682 28.053 1.223 1.98 4.396 1.032 6.517-1.946 2.842-3.99 8.443-16.23 13.045-28.504l3.752-10.007 4.067-.307 4.067-.305-4.417 10.545c-5.662 13.513-8.505 22.764-8.505 27.67 0 3.216.346 3.896 1.98 3.896 2.538 0 4.98-4.763 10.186-19.86 7.35-21.322 11.048-26.823 18.713-27.852 4.693-.63 7.12.796 7.12 4.178 0 2.536-2.866 5.533-5.292 5.533-1.86 0-4.11-3.54-3.194-5.022.334-.538.18-.98-.338-.98-1.822 0-4.034 4.775-7.68 16.583-6.42 20.784-13.344 32.142-20.693 33.947-3.89.955-7.802-3.124-7.802-8.133V51.77l-2.853 3.9c-5.52 7.543-9.894 9.708-13.897 6.877zm193.97-.037c-4.837-3.388-2.443-14.08 7.653-34.19 2.83-5.64 4.956-10.25 4.723-10.25-.233 0-4.044 1.38-8.468 3.07-9.052 3.457-13.54 6.21-16.385 10.05-3.207 4.333-2.12 12.88 1.64 12.88.626 0 1.133-1.408 1.128-3.127-.01-3.805 2.593-5.926 5.24-4.267 2.735 1.715 2.677 5.057-.138 7.872-3.595 3.595-10.654 3.57-14.275-.05-2.284-2.286-2.522-3.185-2.12-8.024.758-9.144 4.936-12.347 25.234-19.346 11.296-3.896 17.433-4.535 16.167-1.686-.275.62-3.433 7.652-7.018 15.627-7.65 17.016-9.616 23.385-7.78 25.22 1.66 1.66 3.92.182 7.375-4.818 2.586-3.742 14.803-32.824 14.803-35.237 0-.694 1.62-1.166 4-1.166 2.2 0 4 .27 4 .602 0 .332-2.2 6.097-4.888 12.81-8.087 20.198-9.763 30.202-4.737 28.273 2.59-.994 4.644-5.147 9.83-19.877 7.61-21.61 12.55-27.81 22.16-27.81 4.296 0 6.152 2.513 4.693 6.35-1.765 4.64-8.058 4.245-8.058-.507 0-1.57-.34-1.73-1.902-.893-2.485 1.33-5.48 7.63-8.607 18.105-6.218 20.826-15.353 33.275-23.01 31.353-3.234-.812-4.482-3.187-4.482-8.536v-4.263L231.9 55.31c-4.463 7.04-9.978 9.907-13.842 7.2zm161.117.082c-4.332-3.034-3.864-8.816 1.754-21.69 3.217-7.377 3.6-9.833 1.527-9.833-2.955 0-12.66 16.954-14.246 24.888-.477 2.386-1.233 3.05-4.08 3.584-1.923.36-3.66.49-3.862.29-.202-.202 1.476-5.06 3.728-10.798 4.33-11.03 5.88-17.965 4.014-17.965-3.075 0-11.344 13.754-14.226 23.663-1.053 3.62-1.662 4.248-4.68 4.814-1.91.358-3.633.488-3.833.288-.2-.2.7-3.04 1.998-6.315 1.298-3.273 2.695-7.065 3.104-8.427.722-2.402.628-2.378-3.145.78-2.14 1.79-4.256 3.662-4.706 4.16-7.758 8.575-9.585 10.036-12.55 10.036-3.846 0-7.132-3.06-7.132-6.64 0-2.536-.17-2.456-4.39 2.077-3.572 3.834-4.927 4.655-7.25 4.39-2.564-.294-2.86-.706-2.86-3.976v-3.646l-3.596 3.897c-5.172 5.607-10.904 5.087-10.904-.988v-2.487l-2.75 2.565c-3.86 3.6-6.558 4.81-10.73 4.81-2.91 0-3.926-.547-5.223-2.808l-1.61-2.806-2.516 2.33c-3.054 2.83-6.92 3.928-9.077 2.58-2.908-1.82-2.335-6.398 2.49-19.882 4.92-13.742 5.398-14.365 11.07-14.4 2.112-.015 2.1.085-.727 5.302-5.845 10.792-9.653 23.683-6.995 23.683 1.802 0 7.966-8.616 13.245-18.51 5.11-9.58 5.477-10.003 8.913-10.292l3.582-.3-.773 6.3c-1.198 9.76-1.567 19.714-.712 19.185.426-.262 3.05-4.91 5.833-10.328 2.783-5.417 6.145-11.02 7.472-12.453 3.052-3.293 7.666-3.503 9.7-.443 1.367 2.06 1.598 1.773 5.01-6.25 1.965-4.626 3.88-9.424 4.254-10.66.497-1.65 1.44-2.25 3.53-2.25 1.568 0 3.6-.288 4.515-.64 1.245-.478.772 1.132-1.887 6.412-6.935 13.77-15.722 35.493-15.418 38.115l.303 2.612 2.5-2.638c1.375-1.45 4.946-7.216 7.936-12.814 5.91-11.066 8.97-14.05 14.412-14.05 6.253 0 8.176 5.62 5.25 15.342-.77 2.562-1.03 4.66-.573 4.66 1.738 0 6.93-7.53 8.99-13.04 1.842-4.925 2.58-5.83 5.192-6.352 4.353-.87 5.073-.768 4.49.64-.283.688-1.24 2.947-2.127 5.02l-1.612 3.768 4.91-5.095c4.012-4.16 5.438-5.035 7.773-4.768 2.52.288 2.895.778 3.172 4.132l.314 3.805 3.935-4.056c2.815-2.9 4.76-4.055 6.83-4.055 5.344 0 5.453 4.726.44 19.056-2.053 5.867-3.405 11.31-3.044 12.25 1.03 2.684 5.5 2.058 8.79-1.23 3.575-3.576 3.705-5.077.44-5.077-1.85 0-2.65-.675-3.146-2.656-.9-3.59.69-5.78 4.472-6.158 8.46-.842 5.71 14.153-3.765 20.54-3.874 2.61-8.687 2.936-11.742.796zM284.898 46.93c1.615-13.946 1.366-14.283-3.586-4.86-2.457 4.674-4.468 8.56-4.47 8.632-.003.074.896.37 1.996.657 1.4.365 2 1.363 2 3.33 0 2.576.132 2.675 1.604 1.204.968-.968 1.94-4.52 2.456-8.964zm48.88 4.974c1.307-1.403 1.82-2.946 1.458-4.387-.385-1.535.07-2.663 1.475-3.646 2.508-1.755 4.128-5.825 4.128-10.366 0-7.755-5.927-1.522-10.104 10.624-3.042 8.845-1.536 12.69 3.043 7.776zm-26.834-3.085c5.677-7.738 8.513-16.633 5.83-18.29-.583-.36-1.874.078-2.867.977-2.156 1.95-7.773 13.835-8.678 18.357-.945 4.72 1.86 4.21 5.714-1.045zM180.192 59.513c-3.167-3.167-2.775-6.216 2.206-17.145 3.278-7.195 4.18-11.227 2.82-12.59-.343-.34-2.823 3.784-5.512 9.167-7.556 15.125-13.588 21.122-21.246 21.122-4.007 0-7.622-3.658-7.622-7.714 0-2.21-.313-2.032-3.294 1.877-5.832 7.646-12.437 7.615-11.127-.053l.617-3.61-2.348 3.212c-2.77 3.792-7.63 6.666-10.387 6.143-1.382-.262-2.054-1.33-2.275-3.618l-.314-3.245-3.303 3.503c-5.407 5.733-11.54 4.116-10.18-2.682.348-1.75 2.43-7.078 4.623-11.84 4.347-9.437 4.708-10.974 2.577-10.974-3.124 0-9.33 10.113-13.5 22-1.61 4.594-2.438 5.647-5.026 6.4-4.07 1.18-4.488.556-2.62-3.915.857-2.052 1.558-3.908 1.558-4.126 0-.218-1.948 1.637-4.328 4.12-2.38 2.486-5.25 4.52-6.378 4.52-3.082 0-4.58-2.42-3.774-6.09l.696-3.172-4.436 4.63c-7.48 7.807-13.25 5.55-10.798-4.225 1.67-6.657 8.412-20.63 11.39-23.608 3.057-3.056 7.133-3.302 8.86-.536 1.467 2.347 2.768 2.604 2.768.544 0-1.42 6.52-3.36 7.614-2.265.286.286-.69 2.91-2.172 5.834-5.862 11.568-9.073 22.885-6.493 22.885 2.245 0 9.457-12.367 13.5-23.145 1.428-3.808 2.287-4.753 4.772-5.25 4.81-.962 4.928-.82 2.8 3.354-2.856 5.594-2.583 5.66 2.307.557 4.572-4.772 8.33-5.84 10.662-3.03 1.705 2.056.647 6.86-3.53 16.024-1.903 4.18-3.462 8.475-3.462 9.544 0 5.2 4.74-.427 10.996-13.055 2.316-4.676 5.374-9.74 6.795-11.25 3.145-3.35 7.46-3.657 9.546-.68 1.393 1.99 1.546 1.862 3.882-3.25 1.338-2.926 3.263-7.503 4.28-10.17 1.93-5.062 2.017-5.136 7.224-6.034l3.224-.557-2.61 5.72c-15.032 32.937-18.15 41.22-15.52 41.22 1.614 0 5.404-5.5 10.156-14.74 5.025-9.77 9.59-14.26 14.49-14.26 6.216 0 8.192 4.708 4.893 11.66-1.983 4.18-7.78 8.34-11.62 8.34-3.043 0-4.844 2.872-3.95 6.296.714 2.724 2.946 3.2 6.672 1.424 4.374-2.086 9.543-8.57 14.397-18.062 3.586-7.012 3.93-8.326 3.438-13.102l-.548-5.31 3.877-.48c2.134-.266 3.97-.418 4.08-.34.113.08-.552 2.248-1.476 4.817l-1.68 4.672 2.727 2.847c3.31 3.452 3.473 7.03.607 13.237-3.994 8.653-4.92 12.055-3.83 14.09.562 1.05 1.906 1.91 2.986 1.91 2.08 0 2.645-1.463.965-2.5-1.493-.924-1.206-5.085.445-6.455.795-.66 2.482-1.053 3.75-.873 1.797.255 2.375 1.06 2.624 3.648.407 4.238-2.01 7.942-6.364 9.762-4.857 2.03-7.197 1.766-10.1-1.138zm-100.97-9.702c3.244-4.255 7.594-13.652 7.606-16.434.013-2.854-1.66-3.827-3.69-2.145-2.22 1.842-9.3 16.708-9.3 19.533 0 3.306 2.467 2.87 5.383-.954zm55.183.007c5.29-6.267 9.202-17.54 6.636-19.126-1.122-.694-2.454.382-5.02 4.056-2.11 3.025-7.182 15.268-7.182 17.342 0 2.045 2.932.848 5.567-2.273zm32.432-11.402c3.058-3.483 3.85-6.706 1.938-7.888-.584-.36-1.982.175-3.106 1.19-2.064 1.867-5.832 8.467-5.832 10.215 0 1.872 4.057-.167 7-3.517z"></path></symbol>
 </svg>
 
-<div id="header_placeholder"><div id="header_wrap"><header id="header"><div class="desktop_hamburger"><div class="menu_bar"><hr><hr><hr></div><div class="menu_bar more">MORE</div></div><div id="hamburger_close" class="close_icon header_icon" style="display: none"><hr class="bar1"><hr class="bar2"><hr class="bar3"></div><div id="site_title"><a tabindex="-1" href="https://wanderwisdom.com/" title="WanderWisdom"><svg class="svglogo wanderwisdom-logo wanderwisdom-logo32"><title>WanderWisdom</title><use xlink:href="#wanderwisdom-logo"></use></svg></a></div><div id="mobile_menu_bar" class="menu_bar"><hr><hr><hr></div><div id="header_search"><span id="search_icon" class="maven_search_icon header_icon"><svg class="moon smallish icon search-magnify"><use xlink:href="#search-magnify"></use></svg></span></div><div id="header_right"><a id="signin_span" tabindex="-1" href="https://hubpages.com/signin/checkcookie.php?site=wanderwisdom.com&amp;redirectUrl=https%3A%2F%2Fwanderwisdom.com%2Fprivacy-policy">Sign In</a><a tabindex="-1" href="https://wanderwisdom.com/signup/" class="call_to_action">Join</a><span class="span_link maven_search_icon"><svg class="moon small icon search-magnify"><use xlink:href="#search-magnify"></use></svg></span></div></header></div></div><div id="container">
+<div id="header_placeholder"><div id="header_wrap"><header id="header"><div class="desktop_hamburger"><div class="menu_bar"><hr><hr><hr></div><div class="menu_bar more">MORE</div></div><div id="hamburger_close" class="close_icon header_icon" style="display: none"><hr class="bar1"><hr class="bar2"><hr class="bar3"></div><div id="site_title"><a tabindex="-1" href="https://wanderwisdom.com/" title="WanderWisdom"><svg class="svglogo wanderwisdom-logo wanderwisdom-logo32"><title>WanderWisdom</title><use xlink:href="#wanderwisdom-logo"></use></svg></a></div><div id="mobile_menu_bar" class="menu_bar"><hr><hr><hr></div><div id="header_search"><span id="search_icon" class="maven_search_icon header_icon"><svg class="moon smallish icon search-magnify"><use xlink:href="#search-magnify"></use></svg></span></div><div id="header_right"><a id="signin_span" tabindex="-1" href="https://wanderwisdom.com/signin/">Sign In</a><a tabindex="-1" href="https://wanderwisdom.com/signup/" class="call_to_action">Join</a><span class="span_link maven_search_icon"><svg class="moon small icon search-magnify"><use xlink:href="#search-magnify"></use></svg></span></div></header></div></div><div id="container">
 
 <h1>HubPages Network Privacy Policy</h1>
 
@@ -347,7 +415,7 @@ gaSiteTracker = 'siteTracker.';
 
 <h2>10. Contact Information</h2>
 
-<p>Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to WeWork c/o HubPages (Floor 3 - Room #169) 1111 Broadway Oakland, CA 94607, USA.</p>
+<p>Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to HubPages c/o WeWork (Floor 8 - Room #802) 995 Market San Francisco, CA 94103, USA.</p>
 
 <h2 id="gdpr">11. GDPR Addendum for Impacted Users</h2>
 
@@ -396,7 +464,7 @@ gaSiteTracker = 'siteTracker.';
 
 <p>You may access the consent dialogue tool and update/remove your consents by <a href="#" onclick="showGdprPopup();return false;">clicking here</a></p>
 
-<p>Beyond consent management, please submit GDPR-related data rights or other requests via email to: <a href="mailto:gdpr@hubpages.com">GDPR@hubpages.com</a></p>
+<p>Beyond consent management, please submit GDPR-related data rights or other requests via email to: <a href="mailto:dpo@hubpages.com">DPO@hubpages.com</a></p>
 
 <p>The Data Controller is HubPages, Inc.  You may contact HubPages at: <a href="mailto:team@hubpages.com">Team@hubpages.com</a></p>
 
@@ -440,7 +508,7 @@ gaSiteTracker = 'siteTracker.';
 <p>November 19, 2009: We made changes throughout the Privacy Policy. Please review the amended Privacy Policy carefully. Among other things, we added a provision to Section 3 explaining how we may share your Personally Identifiable Information with our service providers; explained how third-party advertisers use your information in Section 4; clarified our security policy in Section 6; and deleted a provision about international users that is covered in our Terms of Use.</p>
 
 
-</div><div id="before_footer"></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://wanderwisdom.com/" title="To the WanderWisdom home page"><svg class="svglogo wanderwisdom-logo wanderwisdom-logo30"><title></title><use xlink:href="#wanderwisdom-logo"></use></svg></a><ul id="footerlist"><li><a tabindex="-1" href="https://wanderwisdom.com/about-us">About Us</a></li><li><a href="https://wanderwisdom.com/editorial-policy">Editorial Policy</a></li><li><a tabindex="-1" href="https://wanderwisdom.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://wanderwisdom.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://wanderwisdom.com/privacy-policy">Privacy Policy</a></li></ul><div class="legalese"><p>Copyright © 2018 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://hubpages.com/signin/checkcookie.php?site=wanderwisdom.com&amp;redirectUrl=https%3A%2F%2Fwanderwisdom.com%2Fprivacy-policy">Sign In</a><a href="https://wanderwisdom.com/signup/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://wanderwisdom.com/lodging/">Lodging</a></h3></div><div class="category_group"><h3><a href="https://wanderwisdom.com/transportation/">Transportation</a></h3><ul><li><a href="https://wanderwisdom.com/transportation/rail-travel/" class="Rail Travel">Rail Travel</a></li><li><a href="https://wanderwisdom.com/transportation/flights/" class="Flights">Flights</a></li><li><a href="https://wanderwisdom.com/transportation/cruises/" class="Cruises">Cruises</a></li></ul></div><div class="category_group"><h3><a href="https://wanderwisdom.com/travel-destinations/">Travel Destinations</a></h3><ul><li><a href="https://wanderwisdom.com/travel-destinations/north-america/" class="North America">North America</a></li><li><a href="https://wanderwisdom.com/travel-destinations/asia/" class="Asia">Asia</a></li><li><a href="https://wanderwisdom.com/travel-destinations/europe/" class="Europe">Europe</a></li><li><a href="https://wanderwisdom.com/travel-destinations/theme-parks/" class="Theme Parks">Theme Parks</a></li><li><a href="https://wanderwisdom.com/travel-destinations/australia/" class="Australia">Australia</a></li><li><a href="https://wanderwisdom.com/travel-destinations/africa/" class="Africa">Africa</a></li><li><a href="https://wanderwisdom.com/travel-destinations/south-america/" class="South America">South America</a></li></ul></div><div class="category_group"><h3><a href="https://wanderwisdom.com/road-trips/">Road Trips</a></h3></div><div class="category_group"><h3><a href="https://wanderwisdom.com/packing-prep/">Packing &amp; Preparation</a></h3></div><div class="category_group"><h3><a href="https://wanderwisdom.com/packages-tours/">Travel Packages &amp; Tours</a></h3></div><div class="category_group"><h3><a href="https://wanderwisdom.com/travelogue/">Travelogues</a></h3></div></div><div class="social section"><h3>Connect with us</h3><a class="facebook" href="https://www.facebook.com/WanderWisdom-1108396205869102/" rel="nofollow" title="Visit us on Facebook"><svg class="moon medium facebook"><use xlink:href="#facebook"></use></svg></a><a class="pinterest" href="https://www.pinterest.com/wanderwisdom/" rel="nofollow" title="Visit us on Pinterest"><svg class="moon medium pinterest"><use xlink:href="#pinterest"></use></svg></a><a class="envelop" href="#" onclick="return hpLoadLink('help',0,'','')" oncontextmenu="return true" title="Contact Us"><svg class="moon medium envelop"><use xlink:href="#envelop"></use></svg></a></div><div class="footer section"><h3><a href="https://wanderwisdom.com/about-us">About Us</a></h3><ul><li><a href="https://wanderwisdom.com/editorial-policy">Editorial Policy</a></li><li><a href="https://wanderwisdom.com/copyright">Copyright</a></li><li><a href="https://wanderwisdom.com/user-agreement">Terms of Use</a></li><li><a href="https://wanderwisdom.com/privacy-policy">Privacy Policy</a></li></ul><p class="legalese">Copyright © 2018 HubPages Inc. and respective owners. </p></div></div></div>
+</div><div id="before_footer"></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://wanderwisdom.com/" title="To the WanderWisdom home page"><svg class="svglogo wanderwisdom-logo wanderwisdom-logo30"><title></title><use xlink:href="#wanderwisdom-logo"></use></svg></a><ul id="footerlist"><li><a tabindex="-1" href="https://wanderwisdom.com/about-us">About Us</a></li><li><a href="https://wanderwisdom.com/editorial-policy">Editorial Policy</a></li><li><a tabindex="-1" href="https://wanderwisdom.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://wanderwisdom.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://wanderwisdom.com/privacy-policy">Privacy Policy</a></li><li><a href="https://wanderwisdom.com/advertising">Advertising</a></li></ul><div class="legalese"><p>Copyright © 2019 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://wanderwisdom.com/signin/">Sign In</a><a href="https://wanderwisdom.com/signup/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://wanderwisdom.com/travel-destinations/">Travel Destinations</a></h3><ul><li><a href="https://wanderwisdom.com/travel-destinations/north-america/" class="North America">North America</a></li><li><a href="https://wanderwisdom.com/travel-destinations/europe/" class="Europe">Europe</a></li><li><a href="https://wanderwisdom.com/travel-destinations/asia/" class="Asia">Asia</a></li><li><a href="https://wanderwisdom.com/travel-destinations/theme-parks/" class="Theme Parks">Theme Parks</a></li><li><a href="https://wanderwisdom.com/travel-destinations/australia/" class="Australia">Australia</a></li><li><a href="https://wanderwisdom.com/travel-destinations/africa/" class="Africa">Africa</a></li><li><a href="https://wanderwisdom.com/travel-destinations/south-america/" class="South America">South America</a></li><li><a href="https://wanderwisdom.com/travel-destinations/museums/" class="Museums">Museums</a></li></ul></div><div class="category_group"><h3><a href="https://wanderwisdom.com/transportation/">Transportation</a></h3><ul><li><a href="https://wanderwisdom.com/transportation/rail-travel/" class="Rail Travel">Rail Travel</a></li><li><a href="https://wanderwisdom.com/transportation/flights/" class="Flights">Flights</a></li><li><a href="https://wanderwisdom.com/transportation/cruises/" class="Cruises">Cruises</a></li></ul></div><div class="category_group"><h3><a href="https://wanderwisdom.com/packing-prep/">Packing &amp; Preparation</a></h3></div><div class="category_group"><h3><a href="https://wanderwisdom.com/road-trips/">Road Trips</a></h3></div><div class="category_group"><h3><a href="https://wanderwisdom.com/lodging/">Lodging</a></h3></div><div class="category_group"><h3><a href="https://wanderwisdom.com/packages-tours/">Travel Packages &amp; Tours</a></h3></div><div class="category_group"><h3><a href="https://wanderwisdom.com/travelogue/">Travelogues</a></h3></div></div><div class="social section"><h3>Connect with us</h3><a class="facebook" href="https://www.facebook.com/WanderWisdom-1108396205869102/" rel="nofollow" title="Visit us on Facebook"><svg class="moon medium facebook"><use xlink:href="#facebook"></use></svg></a><a class="pinterest" href="https://www.pinterest.com/wanderwisdom/" rel="nofollow" title="Visit us on Pinterest"><svg class="moon medium pinterest"><use xlink:href="#pinterest"></use></svg></a><a class="envelop" href="#" onclick="return hpLoadLink('help',0,'','')" oncontextmenu="return true" title="Contact Us"><svg class="moon medium envelop"><use xlink:href="#envelop"></use></svg></a></div><div class="footer section"><h3><a href="https://wanderwisdom.com/about-us">About Us</a></h3><ul><li><a href="https://wanderwisdom.com/editorial-policy">Editorial Policy</a></li><li><a href="https://wanderwisdom.com/copyright">Copyright</a></li><li><a href="https://wanderwisdom.com/user-agreement">Terms of Use</a></li><li><a href="https://wanderwisdom.com/privacy-policy">Privacy Policy</a></li><li><a href="https://wanderwisdom.com/advertising">Advertising</a></li></ul><p class="legalese">Copyright © 2019 HubPages Inc. and respective owners. </p></div></div></div>
 <div id="ajaxing"><div id="ajaxing_box"><div class="spinny"></div><div id="working">working</div></div></div><script>LABqueue.wait(function() {crossDomainSetup('https://equalstyle.com/login-hub/', true);
 jq(document).ready(function() { hpSiteInit(); });
 jq(document).ready( function() { loadLazyImages(); } );
@@ -458,15 +526,190 @@ jq('#mobile_menu .search_button').click(function() {
 	</div>
 
 	<p style="clear:both">
-		<small>For more information on managing or withdrawing consents and how we handle data, visit our Privacy Policy at: <a href="https://wanderwisdom.com/privacy-policy#gdpr" target="_blank">https://wanderwisdom.com/privacy-policy#gdpr</a></small>
+		<small>For more information on managing or withdrawing consents and how we handle data, visit our Privacy Policy at: <a href="https://wanderwisdom.com/privacy-policy#gdpr" target="_blank" rel="noopener">https://wanderwisdom.com/privacy-policy#gdpr</a></small>
 	</p>
 
-	<span style="float:right" class="span_link details_link"><small>Show Details</small></span>
-	<table class="details_table"><thead><tr><th colspan="2">Necessary</th></tr></thead><tbody><tr><td class="suboption_name">HubPages Device ID</td><td class="suboption_desc">This is used to identify particular browsers or devices when the access the service, and is used for security reasons. </td></tr><tr><td class="suboption_name">Login</td><td class="suboption_desc">This is necessary to sign in to the HubPages Service. </td></tr><tr><td class="suboption_name">Google Recaptcha</td><td class="suboption_desc">This is used to prevent bots and spam. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Akismet</td><td class="suboption_desc">This is used to detect comment spam. <small>(<a class="privacy_policy" href="https://automattic.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Google Analytics</td><td class="suboption_desc">This is used to provide data on traffic to our website, all personally identifyable data is anonymized. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Traffic Pixel</td><td class="suboption_desc">This is used to collect data on traffic to articles and other pages on our site.  Unless you are signed in to a HubPages account, all personally identifiable information is anonymized. </td></tr><tr><td class="suboption_name">Amazon Web Services</td><td class="suboption_desc">This is a cloud services platform that we used to host our service. <small>(<a class="privacy_policy" href="https://aws.amazon.com/compliance/data-privacy-faq/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Cloudflare</td><td class="suboption_desc">This is a cloud CDN service that we use to efficiently deliver files required for our service to operate such as javascript, cascading style sheets, images, and videos. <small>(<a class="privacy_policy" href="https://www.cloudflare.com/privacypolicy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Hosted Libraries</td><td class="suboption_desc">Javascript software libraries such as jQuery are loaded at endpoints on the googleapis.com or gstatic.com domains, for performance and efficiency reasons. <small>(<a class="privacy_policy" href="https://developers.google.com/speed/libraries/terms" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Features</th></tr></thead><tbody><tr><td class="suboption_name">Google Custom Search</td><td class="suboption_desc">This is feature allows you to search the site. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Maps</td><td class="suboption_desc">Some articles have Google Maps embedded in them. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Charts</td><td class="suboption_desc">This is used to display charts and graphs on articles and the author center. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google AdSense Host API</td><td class="suboption_desc">This service allows you to sign up for or associate a Google AdSense account with HubPages, so that you can earn money from ads on your articles.  No data is shared unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google YouTube</td><td class="suboption_desc">Some articles have YouTube videos embedded in them. <small>(<a class="privacy_policy" href="https://www.youtube.com/static?template=privacy_guidelines" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Vimeo</td><td class="suboption_desc">Some articles have Vimeo videos embedded in them. <small>(<a class="privacy_policy" href="https://vimeo.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Paypal</td><td class="suboption_desc">This is used for a registered author who enrolls in the HubPages Earnings program and requests to be paid via PayPal.  No data is shared with Paypal unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Login</td><td class="suboption_desc">You can use this to streamline signing up for, or signing in to your Hubpages account.  No data is shared with Facebook unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.facebook.com/policy.php" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Maven</td><td class="suboption_desc">This supports the Maven widget and search functionality. <small>(<a class="privacy_policy" href="https://www.themaven.net/the-maven/pages/S5I9LAYSaEqEDc9mpEdWeA" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Marketing</th></tr></thead><tbody><tr><td class="suboption_name">Google AdSense</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google DoubleClick</td><td class="suboption_desc">Google provides ad serving technology and runs an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Index Exchange</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="http://www.indexexchange.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Sovrn</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.sovrn.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Ads</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.facebook.com/privacy/explanation" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Unified Ad Marketplace</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&amp;nodeId=468496" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">AppNexus</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.appnexus.com/en/company/platform-privacy-policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Openx</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.openx.com/legal/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Rubicon Project</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://rubiconproject.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">TripleLift</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://triplelift.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Say Media</td><td class="suboption_desc">We partner with Say Media to deliver ad campaigns on our sites. <small>(<a class="privacy_policy" href="https://www.saymedia.com/privacy-policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Remarketing Pixels</td><td class="suboption_desc">We may use remarketing pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to advertise the HubPages Service to people that have visited our sites. </td></tr><tr><td class="suboption_name">Conversion Tracking Pixels</td><td class="suboption_desc">We may use conversion tracking pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to identify when an advertisement has successfully resulted in the desired action, such as signing up for the HubPages Service or publishing an article on the HubPages Service. </td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Statistics</th></tr></thead><tbody><tr><td class="suboption_name">Author Google Analytics</td><td class="suboption_desc">This is used to provide traffic data and reports to the authors of articles on the HubPages Service. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy?hl=en&amp;gl=us" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Comscore</td><td class="suboption_desc">ComScore is a media measurement and analytics company providing marketing data and analytics to enterprises, media and advertising agencies, and publishers.  Non-consent will result in ComScore only processing obfuscated personal data. <small>(<a class="privacy_policy" href="https://www.comscore.com/About-comScore/Privacy-Policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Tracking Pixel</td><td class="suboption_desc">Some articles display amazon products as part of the Amazon Affiliate program, this pixel provides traffic statistics for those products <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table>
-</div></div><div id="maven_sidebar"><a title="Member of the Maven Coalition" href="#" onclick="return hpLoadLink('maven', 0, '', '')" oncontextmenu="return hpLoadLink('maven', 0, '', '')"><svg class="moon largish maven-key"><use xlink:href="#maven-key"></use></svg></a></div><noscript>
+	<span style="float:right" class="span_link details_link"><span class="arrow arrow-right"></span> <small>Show Details</small></span>
+	<table class="details_table"><thead><tr><th colspan="2">Necessary</th></tr></thead><tbody><tr><td class="suboption_name">HubPages Device ID</td><td class="suboption_desc">This is used to identify particular browsers or devices when the access the service, and is used for security reasons. </td></tr><tr><td class="suboption_name">Login</td><td class="suboption_desc">This is necessary to sign in to the HubPages Service. </td></tr><tr><td class="suboption_name">Google Recaptcha</td><td class="suboption_desc">This is used to prevent bots and spam. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Akismet</td><td class="suboption_desc">This is used to detect comment spam. <small>(<a class="privacy_policy" href="https://automattic.com/privacy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Google Analytics</td><td class="suboption_desc">This is used to provide data on traffic to our website, all personally identifyable data is anonymized. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Traffic Pixel</td><td class="suboption_desc">This is used to collect data on traffic to articles and other pages on our site.  Unless you are signed in to a HubPages account, all personally identifiable information is anonymized. </td></tr><tr><td class="suboption_name">Amazon Web Services</td><td class="suboption_desc">This is a cloud services platform that we used to host our service. <small>(<a class="privacy_policy" href="https://aws.amazon.com/compliance/data-privacy-faq/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Cloudflare</td><td class="suboption_desc">This is a cloud CDN service that we use to efficiently deliver files required for our service to operate such as javascript, cascading style sheets, images, and videos. <small>(<a class="privacy_policy" href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Hosted Libraries</td><td class="suboption_desc">Javascript software libraries such as jQuery are loaded at endpoints on the googleapis.com or gstatic.com domains, for performance and efficiency reasons. <small>(<a class="privacy_policy" href="https://developers.google.com/speed/libraries/terms" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Features</th></tr></thead><tbody><tr><td class="suboption_name">Google Custom Search</td><td class="suboption_desc">This is feature allows you to search the site. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Maps</td><td class="suboption_desc">Some articles have Google Maps embedded in them. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Charts</td><td class="suboption_desc">This is used to display charts and graphs on articles and the author center. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google AdSense Host API</td><td class="suboption_desc">This service allows you to sign up for or associate a Google AdSense account with HubPages, so that you can earn money from ads on your articles.  No data is shared unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google YouTube</td><td class="suboption_desc">Some articles have YouTube videos embedded in them. <small>(<a class="privacy_policy" href="https://www.youtube.com/static?template=privacy_guidelines" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Vimeo</td><td class="suboption_desc">Some articles have Vimeo videos embedded in them. <small>(<a class="privacy_policy" href="https://vimeo.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Paypal</td><td class="suboption_desc">This is used for a registered author who enrolls in the HubPages Earnings program and requests to be paid via PayPal.  No data is shared with Paypal unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Login</td><td class="suboption_desc">You can use this to streamline signing up for, or signing in to your Hubpages account.  No data is shared with Facebook unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.facebook.com/policy.php" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Maven</td><td class="suboption_desc">This supports the Maven widget and search functionality. <small>(<a class="privacy_policy" href="https://www.themaven.net/the-maven/pages/S5I9LAYSaEqEDc9mpEdWeA" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Marketing</th></tr></thead><tbody><tr><td class="suboption_name">Google AdSense</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google DoubleClick</td><td class="suboption_desc">Google provides ad serving technology and runs an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Index Exchange</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="http://www.indexexchange.com/privacy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Sovrn</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.sovrn.com/privacy-policy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Ads</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.facebook.com/privacy/explanation" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Unified Ad Marketplace</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&amp;nodeId=468496" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">AppNexus</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.appnexus.com/en/company/platform-privacy-policy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Openx</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.openx.com/legal/privacy-policy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Rubicon Project</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://rubiconproject.com/privacy-policy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">TripleLift</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://triplelift.com/privacy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Say Media</td><td class="suboption_desc">We partner with Say Media to deliver ad campaigns on our sites. <small>(<a class="privacy_policy" href="https://www.saymedia.com/privacy-policy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Remarketing Pixels</td><td class="suboption_desc">We may use remarketing pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to advertise the HubPages Service to people that have visited our sites. </td></tr><tr><td class="suboption_name">Conversion Tracking Pixels</td><td class="suboption_desc">We may use conversion tracking pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to identify when an advertisement has successfully resulted in the desired action, such as signing up for the HubPages Service or publishing an article on the HubPages Service. </td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Statistics</th></tr></thead><tbody><tr><td class="suboption_name">Author Google Analytics</td><td class="suboption_desc">This is used to provide traffic data and reports to the authors of articles on the HubPages Service. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy?hl=en&amp;gl=us" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Comscore</td><td class="suboption_desc">ComScore is a media measurement and analytics company providing marketing data and analytics to enterprises, media and advertising agencies, and publishers.  Non-consent will result in ComScore only processing obfuscated personal data. <small>(<a class="privacy_policy" href="https://www.comscore.com/About-comScore/Privacy-Policy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Tracking Pixel</td><td class="suboption_desc">Some articles display amazon products as part of the Amazon Affiliate program, this pixel provides traffic statistics for those products <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table>
+</div></div><div id="maven_sidebar"><a title="Member of the Maven Coalition" href="#" onclick="return hpLoadLink('maven', 0, '', '')" oncontextmenu="return hpLoadLink('maven', 0, '', '')"><svg class="moon largish maven-key"><use xlink:href="#maven-key"></use></svg></a></div><script id="liftigniter-metadata" type="application/json">
+{"noShow":"true"}
+</script>
+<script type="application/mustache" id="related-item-template">
+	<div class="card">
+	  <a class="obj_image" href="{{url}}">
+		<div style="width:75px;height:75px" class="thumbphoto">
+			<img style="height:75px;" alt="{{description}}" src="{{thumbnail}}">
+		</div>
+	  </a>
+    </div>
+    <div class="catlink"><a href="{{section_url}}">{{section}}</a></div>
+	<h3><a class="title navigation" href="{{url}}">{{title}}</a></h3>
+	<p class="meta">
+	  <span class="author">by <span class="author_primary_name">{{author}}</span></span>
+	  <span class="comment_count"><svg class="moon tiny icon solidbubble"><use xlink:href="#solidbubble"></use></svg>{{comment_count}}</span>
+	</p>
+</script><script>if (typeof $igniter_var === 'undefined') {
+	(function(w,d,s,p,v,e,r) {w.$ps = (w.performance && w.performance.now && typeof(w.performance.now) == "function") ? w.performance.now() : undefined;
+	w['$igniter_var']=v;w[v]=w[v]||function(){(w[v].q=w[v].q||[]).push(arguments)};w[v].l=1*new Date();e=d.createElement(s),r=d.getElementsByTagName(s)[0];e.async=1;
+	e.src=p+'?ts='+(+new Date()/3600000|0);
+	r.parentNode.insertBefore(e,r)})(window,document,'script','//cdn.petametrics.com/999gba4qphtjrmpe.js','$p');	
+
+	var liAddURLParams = function(url, itemData) 
+	{
+		var params = {
+			"utm_source": "maven-coalition",
+			"utm_medium": "hubpages",
+			"utm_campaign": "liftigniter",
+			"utm_content": "hp-related"
+		};
+		
+		for (key in params) {
+			if (url.indexOf('?') > -1) {
+				url += "&";
+			} else {
+				url += "?";
+			}
+			url += key + "=" + params[key];			
+		}
+		
+		return url;
+	}
+	
+	var liUpdateUrl = function(url, itemData)
+	{
+		var parser = document.createElement('a');
+		parser.href = url;
+		var urlDomain = parser.hostname;
+		
+		if (itemData['cm'] != 'HubPages')
+		{
+			return "javascript:hpLoadLink('ext','" + urlDomain + "','" + parser.pathname + parser.search + "', '')";			
+		}
+		else if (window.location.hostname.split('.')[0] != urlDomain.split('.')[0])
+		{
+			if (url == itemData.section_url) {
+				var pathParts = parser.pathname.split('/');
+				var categoryPath = pathParts[pathParts.length-2];
+				var paramStr = parser.search;
+				
+				return "javascript:hpLoadLink('category','" + categoryPath + "','" + paramStr + "', '')";			
+			} else {			
+			
+				var pathParts = parser.pathname.split('/');
+				var articlePath = pathParts[pathParts.length-1];
+				var paramStr = parser.search;
+
+				return "javascript:hpLoadLink('article','" + articlePath + "','" + paramStr + "', '')";			
+			}
+		} else {		
+			//don't need to change anything
+			return url;
+		}		
+		
+	}
+	
+	var liUpdateUrlsFromSelector = function(selector, resp)
+	{
+		var els = document.querySelectorAll(selector);
+		for (var i = 0; i < els.length; ++i) {
+			var url = els[i].href;			
+			els[i].href = liUpdateUrl(url, resp.items[i]);
+		}
+	}
+	
+	var liUpdateUrls = function(resp)
+	{
+		liUpdateUrlsFromSelector('.moduleRelated li.li-widget-item h3 a', resp);
+		liUpdateUrlsFromSelector('.moduleRelated li.li-widget-item a.obj_image', resp);
+		liUpdateUrlsFromSelector('.moduleRelated li.li-widget-item .catlink a', resp);				
+	}		
+
+	var liRenderRelated = function(resp) {
+		var title = document.querySelectorAll('.moduleRelated h2.boxtitle');
+		if (title.length > 0) {
+			title[0].innerHTML = "Recommended";
+		}
+
+		var els = document.querySelectorAll('.moduleRelated li.li-widget-item');
+		var template = document.querySelector('#related-item-template').innerHTML;
+
+		for (var i = 0; i < els.length && i < resp.items.length; ++i) {
+			var itemData = resp.items[i];
+			if (!itemData['comment_count']) { itemData['comment_count'] = 0; }
+			if (!itemData['section_url']) { itemData['section_url'] = itemData['url'].replace(/\/[A-Za-z0-9-]+$/, ''); }
+			itemData['url'] = liAddURLParams(itemData['url'], itemData);
+
+			els[i].innerHTML = $p('render', template, itemData);
+		}
+	}
+
+	var liTrackAlgo = function(algorithm) {
+		$p('track', {
+		  elements: document.querySelectorAll('.moduleRelated li.li-widget-item'),
+		  name: 'hp-related',
+		  source: algorithm,
+		  _debug: false
+		});
+	}
+	
+	var liABTestHandler = function(slice) {
+		
+		var opts = {"_rule": "crossSite"};
+		
+		if ((window.location.hostname.indexOf("soapboxie") > -1))
+        {
+			opts = {"_rule": "siteMatch","_override": "politicsBoost"};
+		}
+		
+		if ((window.location.hostname.indexOf("wehavekids") > -1) || (window.location.hostname.indexOf("delishably") > -1))
+		{
+			if (new Date() < Date.parse("12/22/2018"))
+			{
+				opts = {"_rule": "crossSite", "_override": "urlLock"};
+			}
+		}
+		
+		if (slice < 100) {
+			$p("setRequestFields", ["url", "section", "section_url", "thumbnail", "description", "title", "author", "author_realname", "comment_count", "site_name", "cm"]);
+			$p('register', {
+				opts: opts,
+				max: document.querySelectorAll('.moduleRelated li.li-widget-item').length,
+				widget: 'hp-related',
+				callback: function(resp) {
+					liRenderRelated(resp);
+					// track overwritten areas as 'LI' slice.
+					liTrackAlgo('LI');
+					liUpdateUrls(resp);
+				}
+			});
+		} else {
+			liTrackAlgo('base');
+		}
+		// Executes all registered calls.
+		$p('fetch');
+	}
+	
+	//this must be called AFTER we have the mavne UID
+	window.setupLiftigniter = function(uid)
+	{
+		return; //disable liftigniter for now
+
+		$p('init', "999gba4qphtjrmpe");
+		$p('send', "pageview");
+		if (uid) { $p("setUserId", uid); }
+
+		if (document.querySelectorAll('.moduleRelated li.li-widget-item').length > 0)
+		{
+		  $p('abTestSlice', {
+			callback: liABTestHandler
+		  });
+		}
+	}
+}
+</script><noscript>
   <img src="https://sb.scorecardresearch.com/p?c1=2&c2=27019031&cv=2.0&cj=1" alt="comscore pixel"/>
 </noscript>
-<!-- rendered by hubwbc12 at Sat, 21 Jul 18 00:51:22 -0700 -->
+<!-- rendered by hubwbc19 at Wed, 01 May 19 21:40:30 -0700 -->
 <!-- uncategorized hpads-ourshare -->
-<!-- served from cache Sat, 21 Jul 18 01:09:54 -0700 -->
+<!-- served from cache Wed, 01 May 19 22:21:29 -0700 -->
 </body></html>
