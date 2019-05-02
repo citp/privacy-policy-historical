@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815035920id_/https%3A//www.forex.com/en-us/terms-and-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502145537id_/https%3A//www.forex.com/en-us/terms-and-policies/privacy-policy) for the most accurate reproduction.*
 
 # GAIN Capital Group's Privacy Statement | FOREX.com
 
@@ -71,4 +71,4 @@ Bedminster One
 Suite 11  
 Bedminster, NJ 07921
 
-Last Updated: June 4th, 2015
+Last Updated: June 7th, 2016
