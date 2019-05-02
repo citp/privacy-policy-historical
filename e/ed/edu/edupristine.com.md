@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edupristine.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214214958id_/https%3A//www.edupristine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edupristine.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502103805id_/https%3A//www.edupristine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EduPristine
+# Privacy Policy — EduPristine
 
 We respect the privacy of those who visit our web site. In accordance with this, we have created this policy in order to demonstrate our privacy commitment to our users: What this Privacy Policy Covers This Privacy Policy covers our treatment of personally identifiable information that we collect when you are on our site, and when you use our services.
 
