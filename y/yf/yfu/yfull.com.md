@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yfull.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618082817id_/http%3A//www.yfull.com/static/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yfull.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502225208id_/https%3A//www.yfull.com/terms) for the most accurate reproduction.*
 
-# 
+# YFull | Privacy Policy & Terms and Conditions
 
 Please read this document ("Privacy Policy & Terms and Conditions") carefully!
 
@@ -8,13 +8,13 @@ Through access to the website, located on the Internet at http://www.yfull.com, 
 
 YFull.com respects your privacy and will not disclose your personal information without your consent.
 
-By registering on the Website, or order the service, you confirm that you have read, understood and realized the level of confidentiality and agree to abide this Agreement. YFull.com administration reserves the right in its sole discretion to change and (or) supplement these Terms at any time without prior and (or) further notice. The actual text of the User Agreement located at: http://www.yfull.com/static/terms.html
+By registering on the Website, or order the service, you confirm that you have read, understood and realized the level of confidentiality and agree to abide this Agreement. YFull.com administration reserves the right in its sole discretion to change and (or) supplement these Terms at any time without prior and (or) further notice. The actual text of the User Agreement located at: http://www.yfull.com/terms/
 
 **1\. Terms and Definitions**
 
-1.1 The site - a set of web pages located on the Internet who share the theme, design, a single address space domain www.yfull.com, i.e.Â navigation and physically located on the same Web server.
+1.1 The site - a set of web pages located on the Internet who share the theme, design, a single address space domain www.yfull.com, i.e. navigation and physically located on the same Web server.
 
-1.2 The domain address space yfull.com - a virtual space on the Internet, available at the second level domain name http://www.yfull.comÂ and third level domain names third_level_name.yfull.com.
+1.2 The domain address space yfull.com - a virtual space on the Internet, available at the second level domain name http://www.yfull.com and third level domain names third_level_name.yfull.com.
 
 1.3 "Service" or "Services" - services provided on a commercial basis, include any product or service sold (or provided at no cost) to You by us (special products, personal services, website, mobile application and software).
 
@@ -26,9 +26,9 @@ By registering on the Website, or order the service, you confirm that you have r
 
 1.7 The Owner of the site (YFull.com) - "YFull Team"
 
-1.8 User pages (personal page) - section of the site, accessible only to the user, whereby the user to control their account.Â 
+1.8 User pages (personal page) - section of the site, accessible only to the user, whereby the user to control their account. 
 
-1.9 Content - open and (or) closed significant information content site - text, graphics, multimedia, etc.Â 
+1.9 Content - open and (or) closed significant information content site - text, graphics, multimedia, etc. 
 
 1.10 "Personal information" - is information which can be used to verify Client (User) identity, either alone or in combination with other information.
 
@@ -40,15 +40,17 @@ By registering on the Website, or order the service, you confirm that you have r
 
 **2\. Registration with the Site, use of the Site and service offerings**
 
-2.1 The User shall fully responsible for the safety of their user name and password and not transfer or provide to third parties.Â All actions performed on the site owned by the user with the login and password information, and any consequences that could cause or caused them for such use, it is considered quite a User.
+2.1 The User shall fully responsible for the safety of their user name and password and not transfer or provide to third parties. All actions performed on the site owned by the user with the login and password information, and any consequences that could cause or caused them for such use, it is considered quite a User.
 
 3.1 YFull.com collects, maintain, and use Personal Information solely as permitted by law.
 
-3.2 YFull.com use information from you for the purposes that are necessary in our work and to ensure the smooth operation of your account and/or access to our services. The objectives (purposes) are: to provide you with our services; improve our services, including the new tools and/or services; to inform and invite you (using e-mail) to participate in a specific research projects (aka Groups); other informations goals; or conducting other antropology studies after obtaining your consent.
+3.2 YFull.com use information from you for the purposes that are necessary in our work and to ensure the smooth operation of your account and/or access to our services. The objectives (purposes) are: to provide you with our services; improve our services, including the new tools and/or services; to inform and invite you (using e-mail) to participate in a specific research projects (aka Groups); other informations goals; or conducting other anthropology studies after obtaining your consent.
 
 3.3 YFull.com use Registration Information (your name or nickname or e-mail) to enable Clients purchase, inform Client when his raw data Information is available to him, provide him with customer service, manage YFull.com services, and authenticate Client/User website visits and usage.
 
 3.4 YFull.com use Web Behavior Information to track and monitor aggregate usage of our website. If Client/User give us consent to participate in YFull.com Research or Groups, Client/User Web Behavior Information may be used and disclosed to third parties in aggregate form for YFull.com Research intended to be published in peer-reviewed scientific journals (impersonally and anonymously only). If Client/User do not give consent to participate in YFull.com Research, YFull.com may still use Client/User Web Behavior Information for research purposes, which may include disclosure of aggregated Web Behavior Information to third-party non-profit and/or commercial research partners who will not publish that information in a peer-reviewed scientific journal (impersonally and anonymously only).
+
+3.5 On the "Settings" page in any time you can request removal of your account and all associated samples without the possibility of recovery.
 
 **4\. Information Disclosure**
 
@@ -59,3 +61,9 @@ By registering on the Website, or order the service, you confirm that you have r
 **5\. How to Contact Us**
 
 5.1 Questions about this Summary, our Privacy Statement, or about YFull.com's handling of your Personal Information may be emailed to 
+
+[See "Personal Information"](https://web.archive.org/personal-information/) (Annex to the "Privacy Policy & Terms and Conditions").
+
+Our Terms are written in English. Any translated version is provided solely for your convenience. To the extent any translated version of our Terms conflicts with the English version, the English version controls.
+
+05.06.2018
