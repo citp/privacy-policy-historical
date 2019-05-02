@@ -1,12 +1,65 @@
-> *The following text is extracted and transformed from the tvforum.uk privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203071258id_/https%3A//tvforum.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvforum.uk privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502132431id_/https%3A//tvforum.uk/help/privacy) for the most accurate reproduction.*
 
 # Cookies and privacy policy - TV Forum
 
-This policy explains how TV Forum (hereinafter "TV Forum", "us", "we", "our") use any information collected during any visit by you (hereinafter "your", "visitor", "user"). 
+This privacy policy sets out how TV Forum uses and protects any information that you give TV Forum when you use this website.
 
-## Cookies
+TV Forum is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Cookies are small text files on your computer set by our web server. These cookies are used to identify repeat and unique visitors. Cookies are also used to keep visitors logged into their accounts.
+TV Forum may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy was last updated on 24th May 2018.
+
+## What we collect
+
+We may collect the following information:
+
+  * Username (either pseudonym or real name)
+  * Email address
+  * Personal photo
+  * Social media account names
+  * Personal website address
+  * IP address
+  * Browser and operating system
+  * Location data such as your BBC/ITV region
+
+
+
+## What we do with the information we gather
+
+We require this information for you to register with the site, providing you with the ability to post and receive updates by email to topics you have subscribed to. Email and IP addresses may be used to prevent multiple registrations or to restrict previously banned users.
+
+## Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place procedures to safeguard and secure the information we collect online.
+
+In addition, your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Under no circumstance will anyone legitimately ask you for your password. Should you forget it, you can use the [Forgot your password?](https://web.archive.org/forums/login?action=forgotten) facility.
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+## Advertisers
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may set cookies and use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, see Google's [advertising privacy FAQ](https://policies.google.com/technologies/ads). TV Forum accepts no responsibility for any third party advertisements that may appear on our website.
+
+## Controlling your personal information
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee may be payable. If you would like a copy of the information held on you please [contact us](https://web.archive.org/help/contact).
+
+If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](https://web.archive.org/help/contact). We will promptly correct any information found to be incorrect.
+
+## Right to be forgotten
+
+You have the right to have your personal information removed. A request can be made via the [Contact Us form](https://web.archive.org/help/contact). Your account will be anonymised; posts will be displayed under a “Former member” username and email address and other personal information deleted. In certain circumstances email and IP address may be kept but disassociated from your posts. This is to prevent multiple registrations or to restrict previously banned users.
+
+## How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+Overall, cookies help us provide you with a better website by enabling us to highlight unread topics or notify you of kudoed posts. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This will prevent you from taking full advantage of the website.
 
 A list of cookies that are set on this website, and what each cookie is used for:
 
@@ -20,34 +73,4 @@ Google Analytics
 (The cookies collect information in an anonymous form, including the number of visitors to the site) | _utma | Keeps track of the number of times a visitor has been to the site pertaining to the cookie, when their first visit was, and when their last visit occurred. | 2 years  
 _utmb | This cookie takes a timestamp of the exact moment in time when a visitor enters a site. | 30 minutes  
 _utmc | This cookie takes a timestamp of the exact moment in time when a visitor leaves a site. The B and C cookies work together to calculate how long a visit takes. | End of session  
-_utmz | __utmz keeps track of where the visitor came from, what search engine was used, what link was clicked on, what keyword was used, and where they were in the world when the website was accessed | 6 months  
-  
-There's also further information on how to remove cookies at [About cookies: how to control cookies](http://www.aboutcookies.org/Default.aspx?page=1).
-
-## Advertisers
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may set cookies and use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, see Google's [advertising privacy FAQ](http://www.google.com/policies/privacy/ads/). TV Forum accepts no responsibility for any third party advertisements that may appear on our website.
-
-## Automatically collected information
-
-Our web server automatically logs information when you visit the TV Forum website. This information includes, but is not limited to: Your IP, Hostname, Browser and Operating system information, Plug-in information, referrer and the pages you visit. None of the information we automatically collect identifies you personally.
-
-## Personal information
-
-All personal information we collect is kept securely and is not shared, sold or otherwise passed on to any person or company.
-
-## Forum software
-
-The passage hereunder describes how information is collected and stored with the forum software.
-
-Your information is collected via two ways. Firstly, browsing a forum will cause the forum software to create a number of cookies (see above).
-
-The second way in which we collect your information is by what you submit to us. This can be, and is not limited to: registering on the website (hereinafter "your account") and posts submitted by you after registration and whilst logged in (hereinafter "your posts"). 
-
-Your account will at a bare minimum contain a uniquely identifiable name (hereinafter "your username"), a personal password used for logging into your account (hereinafter "your password") and a personal, valid e-mail address (hereinafter "your email"). Your information for your account on forums is protected by data-protection laws applicable in the country that hosts us. Any information beyond your user name, your password and your e-mail required by the forums during the registration process are at our digression what is mandatory and what is optional. In all cases, you have the option of what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated e-mails from the forum software.
-
-Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account on forums, so please guard it carefully and under no circumstance will anyone affiliated with TV Forum or another third party legitimately ask you for your password. Should you forget your password for your account, you can use the "Forgot your password?" feature provided by the forum software. This process will ask you to submit your username and your email, then the forum software will generate a new password to reclaim your account.
-
-## Policy changes
-
-TV Forum reserves the right to revise and make changes to this policy at any time. The up to date version will be available from https://tvforum.uk. This policy was last updated on 10th June 2012.
+_utmz | __utmz keeps track of where the visitor came from, what search engine was used, what link was clicked on, what keyword was used, and where they were in the world when the website was accessed | 6 months
