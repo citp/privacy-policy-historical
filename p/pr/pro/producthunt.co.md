@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the producthunt.co privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805041544id_/https%3A//www.producthunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producthunt.co privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502142957id_/https%3A//www.producthunt.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy
+# Privacy & Cookies Policy | Product Hunt
 
 Effective date: May 25, 2018
 
@@ -32,7 +32,7 @@ We will post any modifications or changes to this Privacy & Cookies Policy on th
 
  **Who we are.** Product Hunt, Inc. is the Controller (for the purposes of the GDPR) of your Personal Data (referred to as either “Product Hunt”, “we”, “us” or “our” in this Privacy & Cookies Policy). Our address is 90 Gold Street, San Francisco, CA 94133.
 
- **How to contact us.** If you have any questions about our practices or this Privacy & Cookies Policy, please contact us at hello@producthunt.com.
+ **How to contact us.** If you have any questions about our practices or this Privacy & Cookies Policy, please contact us at[hello@producthunt.com](mailto:hello@producthunt.com).
 
  **Our EU Representative.** As we do not have an establishment in the European Union (“EU”), we have appointed a representative based in the United Kingdom, who you may address if you are located in the EU to raise any issues or queries you may have relating to our processing of your Personal Data and/or this Privacy & Cookies Policy more generally. Our EU representative is: AngelList Ltd located at 2nd Floor, White Bear Yard, Clerkenwell Road, London, UK, EC1R 5DF. Our EU representative can be contacted directly by emailing them at the following address: euprivacy@angel.co.
 
@@ -60,7 +60,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 ## Complaints
 
-If you would like to submit a complaint regarding this Privacy Policy or our practices in relation to your Personal Data, please contact us at: hello@producthunt.com.
+If you would like to submit a complaint regarding this Privacy Policy or our practices in relation to your Personal Data, please contact us at: [hello@producthunt.com](mailto:hello@producthunt.com).
 
 We will reply to your complaint as soon as we can.
 
@@ -147,7 +147,7 @@ Data brokers|
 
 ## How We Use Your Personal Data and Why?
 
-We generally use Personal Data for the following: to deliver and improve our Services; to manage your account and provide you with customer support; to perform research and analysis about your use of the Services; to develop, display, and track Content and advertising tailored to your interests on the Services and other sites, including, potentially, providing our advertisements to you when you visit other sites; website or mobile application analytics; to diagnose or fix technology problems; to automatically update the Services on your device; to verify your identify and prevent fraud or other unauthorized or illegal activity; to enforce or exercise any rights in our [Terms of Use](https://angel.co/terms); and to perform functions or services as otherwise described to you at the time of collection. A more detailed list of the purposes for which we collect Personal Data is provided below. We will only use your Personal Data for these purposes unless we reasonably consider that we need to use it for another reason which is compatible with the original purpose. If we need to use your Personal Data for an unrelated purpose, we will update this Privacy Policy and we will explain the “legal basis” which allows us to do so.
+We generally use Personal Data for the following: to deliver and improve our Services; to manage your account and provide you with customer support; to deliver messages to other users at your request, to perform research and analysis about your use of the Services; to develop, display, and track Content and advertising tailored to your interests on the Services and other sites, including, potentially, providing our advertisements to you when you visit other sites; website or mobile application analytics; to diagnose or fix technology problems; to automatically update the Services on your device; to verify your identify and prevent fraud or other unauthorized or illegal activity; to enforce or exercise any rights in our [Terms of Use](https://angel.co/terms) (including to enforce rules related to the content of any private messages); and to perform functions or services as otherwise described to you at the time of collection. A more detailed list of the purposes for which we collect Personal Data is provided below. We will only use your Personal Data for these purposes unless we reasonably consider that we need to use it for another reason which is compatible with the original purpose. If we need to use your Personal Data for an unrelated purpose, we will update this Privacy Policy and we will explain the “legal basis” which allows us to do so.
 
 In respect of each of the purposes for which we use your Personal Data, the GDPR requires us to ensure that we have a legal basis for that use if you are within the EU. The legal bases depend on the Services you use and how you use them. This means we collect and use your Personal Data only where:
 
@@ -194,13 +194,13 @@ Social Media Cookies| These cookies are used when you share information using a 
 
 If you do not accept our cookies, you may experience some inconvenience in your use of our Services and some features of the Service may not function properly. For example, we may not be able to recognize your computer or mobile device and you may need to log in every time you visit our Services.
 
-Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and[www.youronlinechoices.com](http://www.youronlinechoices.com.uk/).
+Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/) and[www.youronlinechoices.com](https://www.youronlinechoices.com/).
 
  **Log Files:** Log file information is automatically reported by your browser each time you access a web page. When you use the Services, our servers automatically record certain information your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
  **Clear GIFs Information (Web Beacons):** When you use the Services, we may employ clear GIFs (also known as web beacons or tracking pixels) from an ad network to anonymously track online usage patterns. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site. You may be able to opt-out of web beacon tracking by adjusting the settings on your browser. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. The information collected is used to enable more accurate reporting and make Product Hunt better for our users.
 
- **Third Party Services:** We may use Google Analytics, Sentry, Segment, Intercom, and more tools to help understand use of the Services. These tools collect the information sent by your browser as part of a web page request, including cookies and your IP address. These tools also receive this information and their use of it is governed by their respective privacy policies. You can also prevent the use of these tools relating to your use of our Services by downloading and installing the browser plugin available via this link: <http://tools.google.com/dlpage/gaoptout?hl=en-GB>.
+ **Third Party Services:** We may use Google Analytics, Sentry, Segment, Intercom, and more tools to help understand use of the Services. These tools collect the information sent by your browser as part of a web page request, including cookies and your IP address. These tools also receive this information and their use of it is governed by their respective privacy policies. You can also prevent the use of these tools relating to your use of our Services by downloading and installing the browser plugin available via this link: <https://tools.google.com/dlpage/gaoptout?hl=en-GB>.
 
  **Use of Twitter User Data:** If you choose to connect a Twitter profile to your account, we will access certain information obtained from Twitter regarding your account. In particular we may store your name and email address as well as information on the particular profile you connect, including your followers and profile picture. This data will only be used by us to provide you with the service you expect and will not be shared with any third parties.
 
