@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wisebread.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021050604id_/https%3A//www.wisebread.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisebread.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502052508id_/https%3A//www.wisebread.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+You are not authorized to post comments.
 
 **Our Commitment to Privacy**
 
