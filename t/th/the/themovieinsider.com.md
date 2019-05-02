@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themovieinsider.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231062346id_/https%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovieinsider.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502101212id_/https%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
 
 # Feedback - About Us - Privacy Policy - Movie Insider
 
