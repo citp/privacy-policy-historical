@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbabyonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102822id_/http%3A//www.superbabyonline.com/%3Fpage_id%3D4049) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbabyonline.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502114101id_/https%3A//www.superbabyonline.com/%3Fpage_id%3D4049) for the most accurate reproduction.*
 
 # Privacy Policy - SuperBaby
 
