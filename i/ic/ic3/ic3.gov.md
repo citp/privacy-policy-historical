@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ic3.gov privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823195013id_/https%3A//www.ic3.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ic3.gov privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502165105id_/https%3A//www.ic3.gov/privacy.aspx) for the most accurate reproduction.*
 
 # Internet Crime Complaint Center (IC3) | Privacy Policy
 
