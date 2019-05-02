@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826061523id_/https%3A//www.starnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502051735id_/https%3A//www.starnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StarNow
 
@@ -19,15 +19,11 @@ If StarNow is unable to collect personal information from you, your use of StarN
 You agree that StarNow may process your personal information:
 
   * as necessary to provide the services to you and otherwise comply with its obligations to you under the Terms of Use. For example: 
-    * all personal information that you provide to StarNow for inclusion in your personal profile will be collected and stored on the StarNow Website to enable visitors to the Website and advertisers to view your profile; and
+    * all personal information that you provide to StarNow for inclusion in your personal profile will be collected and stored on the StarNow Website to enable visitors to the Website and advertisers to view your profile, and your profile will also be accessible from search engines such as Google (unless you have set your profile to Private); and
     * where you choose to apply for any role advertised through StarNow your contact details and any information entered into your personal profile will be provided to the advertiser (including any photo you have uploaded);
     * where you have placed a listing or advertisement, any information entered into the listing details will be provided to applicants
-  * where it is necessary for the purposes of a legitimate interest pursued by StarNow, being for ensuring Trust and Safety of users of the service, or StarNow’s internal business purposes (including in connection with any audits, professional advice, research, testing, analytics, fraud prevention, or process and service improvements), to verify your identity, and for promoting and marketing other StarNow products and services to you;
-  * where necessary for compliance with a legal obligation to which StarNow is subject. For example, StarNow may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) where the law requires or allows us to do so; and
-  * for any purpose where you have given your express consent, either as part of the registration process on the Website or otherwise. For example: 
-    * You consent to StarNow publishing your personal information (including photos and showreels) on the Website, and allowing other members to contact you. Your profile will also be accessible from search engines such as Google.
-    * You consent to StarNow using your images, profile text and/or media files for marketing and promotional purposes.
-    * You consent to StarNow contacting you from time to time about your registration, account updates, and information about the StarNow Service and features.
+  * where it is necessary for the purposes of a legitimate interest pursued by StarNow, being for ensuring Trust and Safety of users of the service, or StarNow’s internal business purposes (including in connection with any audits, professional advice, research, testing, analytics, fraud prevention, or process and service improvements), to verify your identity, and for contacting you from time to time about your registration, account updates, and promotional information about the StarNow Service and features;
+  * where necessary for compliance with a legal obligation to which StarNow is subject. For example, StarNow may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) where the law requires or allows us to do so.
 
 
 
@@ -40,7 +36,7 @@ If you are a resident of the EU (including the United Kingdom), you also have th
   * request the erasure of any or all of your personal information;
   * restrict or object to the processing of any or all of your personal information;
   * request the porting of any or all your information to another organisation;
-  * withdraw any consent to processing that you have previously given in respect of any or all of your personal information;
+  * withdraw any consent to processing that you have previously given in respect of any or all of your personal information (where it does not prevent StarNow from complying with its obligations to you under the Terms of Use);
   * lodge a complaint regarding our data processing activities as they relate to your personal information with the supervisory authority in your member state.
 
 
@@ -95,7 +91,7 @@ A list of the categories of third party service providers StarNow uses to provid
   * marketing and remarketing services (such as Google Adwords and Facebook)
   * analytics and reporting services (such as Google Analytics)
   * site security and monitoring services (such as Raygun)
-  * payment services and billing agents (such as PayPal, DataCash, Spreedly, Apple, Internet Payment Services Limited)
+  * payment services and billing agents (such as Worldpay, PayPal, DataCash, Spreedly, Apple, Internet Payment Services Limited)
   * mobile app services (such as Apple)
   * social Media services (such as Instagram, Facebook, Twitter)
   * collaboration and documentation services (such as Slack, Evernote, Google Docs)
@@ -104,6 +100,8 @@ A list of the categories of third party service providers StarNow uses to provid
 
 
 StarNow will only use trusted third party service providers for the sole purpose of the provision of services to you or in connection with your membership.
+
+In some cases, for the purposes of the GDPR, some third party services may be considered to be Data Controllers – in particular Worldpay who is a third party service that processes transactional personal data relating to credit card payments. Please view their Privacy Policy [here](https://www.worldpay.com/uk/worldpay-privacy-notice).
 
 ### Remarketing
 
