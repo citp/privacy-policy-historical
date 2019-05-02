@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205104251id_/http%3A//www.gardensalive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502114158id_/https%3A//www.gardensalive.com/privacy_policy) for the most accurate reproduction.*
 
-# Gardens Alive! Privacy Policy
+# Our Privacy Policy | Gardens Alive
 
 This is the Website of Gardens Alive! 
 
 Our postal address is:
 
-  * PO Box 4028
-  * Lawrenceburg, IN 47025
-
-
+      PO Box 4028  
+      Lawrenceburg, IN 47025
 
 Email Address: [service@gardensalive.com](mailto:service@gardensalive.com)
 
