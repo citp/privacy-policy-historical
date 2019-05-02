@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231233549id_/https%3A//www.thinkbroadband.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502121739id_/https%3A//www.thinkbroadband.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thinkbroadband
 
@@ -106,7 +106,7 @@ Our site allows (but does not require) you to register with us if you wish to us
 
 ### Cookies & IP Addresses
 
-Virtually all websites use cookies which are small files stored on your computer when you visit a site. The data stored in them is used to enable features on a site, such as keeping you logged in, or remembering your preferences. Please visit our cookies page find out more information our [cookie policy](https://web.archive.org/web/20181231233549id_/cookies).We may use cookies that are necessary for the operation of our site, analytics/performance cookies tghat help us understand how many of our visitors are new and what they are doing on the site, and functional cookies that allow us to manage login systems, etc.
+Virtually all websites use cookies which are small files stored on your computer when you visit a site. The data stored in them is used to enable features on a site, such as keeping you logged in, or remembering your preferences. Please visit our cookies page find out more information our [cookie policy](https://web.archive.org/web/20190502121739id_/cookies).We may use cookies that are necessary for the operation of our site, analytics/performance cookies tghat help us understand how many of our visitors are new and what they are doing on the site, and functional cookies that allow us to manage login systems, etc.
 
 ### Surveys
 
