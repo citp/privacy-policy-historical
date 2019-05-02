@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepscholar.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108020940id_/http%3A//www.prepscholar.com/sat/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepscholar.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502151129id_/https%3A//www.prepscholar.com/sat/s/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · PrepScholar
 
