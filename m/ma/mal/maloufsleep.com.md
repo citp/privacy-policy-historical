@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maloufsleep.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019131100id_/https%3A//maloufsleep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maloufsleep.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502143331id_/https%3A//www.maloufsleep.com/privacy) for the most accurate reproduction.*
 
 # Malouf
 
