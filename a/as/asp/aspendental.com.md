@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspendental.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925204148id_/https%3A//www.aspendental.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspendental.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502195708id_/https%3A//www.aspendental.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aspen Dental
 
