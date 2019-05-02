@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bracu.ac.bd privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905215014id_/https%3A//www.bracu.ac.bd/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bracu.ac.bd privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502124326id_/https%3A//www.bracu.ac.bd/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BRAC University
+# Privacy Policy | Brac University
 
 Thank you for visiting BRAC University (BRACU) website. This website is the official website of BRACU owned and operated by BRACU. BRACU is comprised of Institutes, Schools, Departments, Offices, Units and Activities, all of which may have individual representation on the web. BRACU does not collect your personal information when you visit one of our websites unless you choose to provide that information to us. BRACU does not sell, exchange, or release your personal information to outside parties without your consent. Once we obtain your consent, we consider it valid until revoked by you. This policy may be changed or updated from time to time.
 
