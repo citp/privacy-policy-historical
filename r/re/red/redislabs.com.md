@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redislabs.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126155559id_/https%3A//redislabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redislabs.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502221621id_/https%3A//redislabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Redis Labs
 
@@ -370,7 +370,7 @@ This policy is an integral part of our [Terms of Use](https://cloudinary.com/to
 
 Please contact our Privacy Compliance Team at: [legal@redislabs.com](mailto:legal@redislabs.com) for further information.
 
-**ADDENDUM A: The Cookies Policy**
+#### **ADDENDUM A: The Cookies Policy**
 
 Redis Labs (“us”, “we”, or “our”) uses cookies on the https://redislabs.com website (the “website”). By using the website, you consent to the use of cookies.
 
