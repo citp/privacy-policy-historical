@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802050400id_/https%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502041903id_/https%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
 
-# TheToyShop | Privacy Policy - The Entertainer
+# Privacy | TheToyShop.com | The Toyshop Site
 
 We’re committed to protecting our customers’ personal data – old and new. We’ll always keep your data safe, up to date and only ever use it for what you have requested.
 
@@ -183,7 +183,7 @@ HP6 6GL
 Or email:  
 [MyData@TheEntertainer.com](mailto:mydata@theentertainer.com)
 
-## Legitimate interest
+## Legitimate interests
 
 As the new data protection law (GDPR) comes into force on 25th May 2018 there are a number of lawful reasons for us to use (or 'process') your personal information. One of the lawful reasons is called 'legitimate interests'. Broadly speaking Legitimate Interests means that we can process your personal information if: 
 
