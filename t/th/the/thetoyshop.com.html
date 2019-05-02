@@ -1,1231 +1,618 @@
-<!--The following is the downloaded HTML source of the thetoyshop.com privacy policy that was archived on 2018-08-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180802050400id_/https%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thetoyshop.com privacy policy that was archived on 2019-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190502041903id_/https%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="" lang="en"><!--<![endif]--><head>
-<title>TheToyShop | Privacy Policy - The Entertainer</title>
+<!DOCTYPE html><html lang="en"><head>
+<title>
+		Privacy | TheToyShop.com | The Toyshop Site</title>
+<link rel="canonical" href="https://www.thetoyshop.com/privacy">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta charset="utf-8">
-<meta name="title" content="TheToyShop | Privacy Policy">
-<meta name="description" content="Toys galore! A massive range of toys for children and big kids alike. Over 130 UK stores! Order by 7pm for next working day delivery.">
-<meta name="keywords" content="">
-<meta name="robots" content="index, follow">
-<meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=no">
-<link rel="shortcut icon" href="/_ui/thetoyshop/images/favicon.ico" type="image/x-icon">
-<link rel="canonical" href="http://www.thetoyshop.com//privacy">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T2VZ2B"></script><script src="/combined.js?id=12272608164f803"></script>
-<script type="text/javascript" src="https://fast.fonts.com/jsapi/926f8b43-d4d4-488b-958c-fc49628982e1.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="keywords">
+<meta name="description">
+<meta name="title" content="Privacy | TheToyShop.com | The Toyshop Site">
+<meta name="robots" content="index,follow">
+<script async="" src="//THEEN11124.pcapredict.com/js/sensor.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N47BH5M"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/_ui/shared/js/analyticsmediator.js"></script>
 <script type="text/javascript">
-	/*<![CDATA[*/
+/* Google Analytics */
 
-		function initSetFavouriteStoreAction() {
-			$('.set_favourite_store_form').click(function(e){
-				e.preventDefault();
-				$(this).submit();
-			});
-		}
+var googleAnalyticsTrackingId = 'UA-32908253-1';
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', googleAnalyticsTrackingId]);
 
-		function initDeliveryModeAction() {
-			$('.delivery_mode_form li input').click(function(e){
-				$(this).closest('li').addClass('active').siblings().removeClass('active');
-				$('.delivery_mode_form').submit();
-			});
-		}
-			
-		function initClickCollectAction() {
-			$('.click_collect_form').click(function(e){
-				$(this).submit();
-			});
-		}
-		
-		$(document).ready(function(){
-			initSetFavouriteStoreAction();
-			initDeliveryModeAction();
-			initClickCollectAction();
 
-		});
-		
-		function refreshStockCheckOptionsArea(queryString, limit, log) {
-			var defaults = $("#stock_check_stores_area");
-			var opts = {
-				"q" : queryString || defaults.data("query"),
-				"limit" : limit || defaults.data("listsize")
-			};
-			$.ajax({
-				type: "GET",
-				url: "/stock-check",
-				data: opts,
-				cache: false,
-				success: function(result) {
-					$.colorbox({
-						height: 590,
-						html:result
-					});
-				}
-			});
-		}
-
-		$(function() {
-			$("#page .stock_check_form").submit(function(e){
-				e.preventDefault();
-				refreshStockCheckOptionsArea($(this).find('input[name=q]').first().val());
-			});
-			$(document).bind('cbox_complete', function(){
-				$(".modal").colorbox();
-				$(".setFavouriteStoreLink").click(function(e){
-					var store = $(this);
-					$.post(Toyshop.Common.contextPath + "/my-account/set-favourite-store",
-						{ "storeName" : store.data("storeid") },
-						function(result) {
-							// Refresh view with no changes to current criteria
-							refreshStockCheckOptionsArea(null, null);
-						}
-					);
-					return false;
-				});
-				$(".showMoreStoresLink").click(function(e){
-					e.preventDefault();
-					var link = $(this);
-					// Get the new values from the link and refresh
-					refreshStockCheckOptionsArea(link.data("query"), link.data("listsize"));
-				});
-				$("#modal .stock_check_form").submit(function(e){
-					e.preventDefault();
-					// Form submitted, go back to defaults of form input value and default page size
-					refreshStockCheckOptionsArea($(this).find('input[name=q]').first().val());
-				})
-			});
-		});	 
+		_gaq.push(['_trackPageview']);
 	
-		  $(document).ready(function() {		
-				$(".iosSlider").iosSlider({
-					navNextSelector: $(".next"),
-					navPrevSelector: $(".prev"),
-					navSlideSelector: $(".selectors .item"),
-					onSlideChange: slideChange
-				});		
-			}); 
-			
-		  function slideChange(args) {		
-				$(".selectors .item").removeClass("selected");
-				$(".selectors .item:eq(" + (args.currentSlideNumber - 1) + ")").addClass("selected");		
-			}
-		  		  
-		  // JS for reponsive videos and iframes
-		  $(function() {		    
-			    var $allVideos = $("iframe[src^='http://player.vimeo.com'], iframe[src^='http://www.youtube.com'], iframe[src^='http://flv.isitetv.com'], object, embed"),
-			    $fluidEl = $("figure");				    	
-				$allVideos.each(function() {				
-				  $(this)
-				    // jQuery .data does not work on object/embed elements
-				    .attr('data-aspectRatio', this.height / this.width)
-				    .removeAttr('height')
-				    .removeAttr('width');				
-				});				
-				$(window).resize(function() {				
-				  var newWidth = $fluidEl.width();
-				  $allVideos.each(function() {				  
-				    var $el = $(this);
-				    $el
-				        .width(newWidth)
-				        .height(newWidth * $el.attr('data-aspectRatio'));				  
-				  });				
-				}).resize();			
-			});
-		  		  
-	/*]]>*/	
-	
-	if(window.location.href.indexOf('/checkout/payment') >= 0){
-		window.onorientationchange = function()
-		{		
-			window.location.reload();
-		}
-	};
-	
-	</script>
-<script type="text/javascript" src="/_ui/thetoyshop/js/jsonselect.min.js"></script>
-<script type="text/javascript" src="/_ui/thetoyshop/js/toyshop.js"></script>
-<script type="text/javascript" src="/_ui/thetoyshop/js/spin.min.js"></script><style type="text/css"></style>
-<script type="text/javascript">
-		Toyshop.Common.contextPath = "";
-		Toyshop.Common.init();
-		window.onload = function(){Toyshop.Common.modals();};
-	</script>
-</head><body><span id="contextPath" style="display: none;"></span>
-<script type="text/javascript" src="/_ui/common/js/toyshopcommon.js"></script><link rel="stylesheet" media="all and (min-width: 982px)" href="/_ui/thetoyshop/css/thetoyshop.less?v=300816.1.0">
-<link rel="stylesheet" media="all and (min-width: 0px) and (max-width: 981px)" href="/_ui/thetoyshop/css/mobile.css?v=300816.1.0">
-<link rel="stylesheet" media="print" href="/_ui/thetoyshop/css/thetoyshop_print.less">
-<link rel="stylesheet" media="screen" href="/combined.css?id=44c6a0fb164f803">
-<link rel="stylesheet" type="text/css" href="/combined.css?id=cf99373d164f803">
-<link rel="stylesheet" href="/_ui/thetoyshop/css/font-awesome/css/font-awesome.min.css">
-<!--[if gte IE 9]>
-	<link rel="stylesheet" media="all" href="/_ui/thetoyshop/css/ie9.css" />
-<![endif]-->
-<!--[if IE 8]>
-	<link rel="stylesheet" media="all" href="/_ui/thetoyshop/css/thetoyshop_ie8.css" />
-<![endif]-->
-<!--[if IE 7]>
-	<link rel="stylesheet" media="all" href="/_ui/thetoyshop/css/thetoyshop_ie7.less" />
-<![endif]--><style>
-			</style>
-<!--[if lt IE 9]>
-		<script type="text/javascript" src="/_ui/thetoyshop/js/html5.js"></script>
-		<script type="text/javascript" src="/_ui/thetoyshop/js/PIE.js"></script>
-		<![endif]-->
 
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-202110-1']);
-	_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+
+function trackAddToCart_google(productCode, quantityAdded) {
+	_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, quantityAdded]);
+}
+
+function trackUpdateCart(productCode, initialQuantity, newQuantity) {
+	if (initialQuantity != newQuantity) {
+		if (initialQuantity > newQuantity) {
+			_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity - newQuantity]);
+		} else {
+			_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, newQuantity - initialQuantity]);
+		}
+	}
+}
+
+function trackRemoveFromCart(productCode, initialQuantity) {
+	_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity]);
+}
+
+window.mediator.subscribe('trackAddToCart', function(data) {
+	if (data.productCode && data.quantity)
+	{
+		trackAddToCart_google(data.productCode, data.quantity);
+	}
+});
+
+window.mediator.subscribe('trackUpdateCart', function(data) {
+	if (data.productCode && data.initialCartQuantity && data.newCartQuantity)
+	{
+		trackUpdateCart(data.productCode, data.initialCartQuantity, data.newCartQuantity);
+	}
+});
+
+window.mediator.subscribe('trackRemoveFromCart', function(data) {
+	if (data.productCode && data.initialCartQuantity)
+	{
+		trackRemoveFromCart(data.productCode, data.initialCartQuantity);
+	}
+});
 </script>
 
-<script>
-			window.dataLayer = window.dataLayer || [];
-				dataLayer.push({'event':'dataLayerinitialized',
-				pagetype':''});
-		</script>
-
-
-
-
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2VZ2B"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-T2VZ2B');</script>
+		    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		    })(window,document,'script','dataLayer','GTM-N47BH5M');
+	    </script>
 
+<link rel="shortcut icon" type="image/x-icon" media="all" href="/_ui/responsive/theme-toyshop/images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic">
+<link rel="stylesheet" type="text/css" media="all" href="/wro/all_responsive.css">
+<link rel="stylesheet" type="text/css" media="all" href="/wro/toyshop_responsive.css">
+<link rel="stylesheet" type="text/css" media="all" href="/wro/addons_responsive.css">
 <script>
-
-
-
-        //DataLayer: No specific Page type page
-    
-    function trackAddToCart_GTM(productCode, quantityAdded, name, price) {
-        
-
-        window.dataLayer = window.dataLayer || [];
-        dataLayer.push({
-          'event': 'add-to-cart',
-          'productId': productCode,
-          'productName': name,
-          'quantity':quantityAdded,
-          'ecommerce': {
-            'currencyCode': 'GBP',
-
-
-            'add': { 
-              
-              'products': [{                       
-                'name':  name,
-                'id': productCode,
-                'price': Number(price),
-                'quantity': quantityAdded
-               }]
-            }
-          }
-        });
-    }
-
-    function trackRemoveFromCart_GTM(productCode, initialQuantity, name, price) {
-        window.dataLayer = window.dataLayer || [];
-        dataLayer.push({
-          'event': 'remove-from-cart',
-          'productId': productCode,
-          'productName': name,
-          'price':price,
-          'quantity':initialQuantity,
-          'ecommerce': {
-            'currencyCode': 'GBP',
-            'remove': {
-               
-              'products': [{                        
-                'name':  name,
-                'id': productCode,
-                'price': Number(price),
-                'quantity': initialQuantity
-               }]
-            }
-          }
-        });
-    }
-
-
-    function trackUpdateCart_GTM(productCode, initialQuantity, newQuantity, name, price) {
-            
-            if (initialQuantity < newQuantity) {
-                trackAddToCart_GTM(productCode, newQuantity-initialQuantity, name, price);
-            } 
-            else if (initialQuantity > newQuantity){
-                trackRemoveFromCart_GTM(productCode, initialQuantity-newQuantity, name, price);
-            }
-
-    }
-
-
-    window.mediator.subscribe('trackAddToCart', function(data) {
-
-
-        if (data.productCode && data.quantity)
-        {
-            trackAddToCart_GTM(data.productCode, data.quantity, data.cartData.productName, data.cartData.productPrice);
-        }
-
-    });
-
-    window.mediator.subscribe('trackUpdateCart', function(data) {
-        if (data.productCode && data.initialCartQuantity && data.newCartQuantity)
-        {
-            trackUpdateCart_GTM(data.productCode, data.initialCartQuantity, data.newCartQuantity, data.cartData.productName, data.cartData.productPrice);
-        }
-    });
-
-    window.mediator.subscribe('trackRemoveFromCart', function(data) {
-        if (data.productCode && data.initialCartQuantity)
-        {
-            trackRemoveFromCart_GTM(data.productCode, data.initialCartQuantity,  data.cartData.productName, data.cartData.productPrice);
-        }
-    });
-</script>
+		window.dataLayer = window.dataLayer || [];
+			dataLayer.push({'event':'dataLayerinitialized',
+			'pagetype':''});
+	</script>
+<script class="js-googleMapsApi" type="text/javascript" src="//web.archive.org/web/20190403064441/https://maps.googleapis.com/maps/api/js?key=AIzaSyBngEwxm4VfQxDe2nWiG_z7LYzZ367BLM0&amp;sensor=false&amp;callback=ACC.checkout.loadGoogleMap"></script></head>
+<body ng-app="" class="page-privacy pageType-ContentPage template-pages-layout-contentLayout1Page pageLabel--privacy smartedit-page-uid-privacy smartedit-page-uuid-eyJpdGVtSWQiOiJwcml2YWN5IiwiY2F0YWxvZ0lkIjoidGhldG95c2hvcENvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ== smartedit-catalog-version-uuid-thetoyshopContentCatalog/Online  language-en"><div id="cookie-bar"><p>We use cookies to help give you the best possible browsing experience. By using our site, you are accepting our use of cookies.<a href="" class="cb-enable">X</a></p></div>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N47BH5M"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<main data-currency-iso-code="GBP">
+<a href="#skip-to-content" class="skiptocontent" data-role="none">text.skipToContent</a>
+<a href="#skiptonavigation" class="skiptonavigation" data-role="none">text.skipToNavigation</a>
+<div class="yCmsContentSlot container">
+</div><span id="is-paypal-user" class="display-none"></span>
+<span id="is-amazon-user" class="display-none"></span>
+<span id="logout-url" class="display-none">/logout</span>
+<span id="do-amazon-Logout" class="display-none"></span>
+<header class="js-mainHeader">
+<nav class="navigation navigation--top js-navigation--middle">
+<div class="container-fluid">
+<div class="row desktop__nav">
+<div class="col-xs-2 visible-xs col-sm-3 visible-sm mobile-menu">
+<button class="btn js-toggle-sm-navigation" type="button">
+<span class="glyphicon glyphicon-menu-hamburger"></span>
+</button>
+</div>
+<div class="desktop__subnav col-xs-2 col-xs-push-6 col-sm-1 col-sm-push-7 col-md-12 col-md-push-0">
+<ul class="nav__links nav__links--shop_info">
+<li class="nav-location">
+<a href="/store-finder">
+<span class="icon icon-finder"></span>
+<span class="map-marker-text hidden-xs hidden-sm">Store Finder</span>
+</a>
+</li>
+<li class="nav-help hidden-xs hidden-sm">
+<a href="/help">
+<span class="icon icon-question" aria-hidden="true"></span>
+<span class="map-marker-text hidden-xs hidden-sm">Help</span>
+</a>
+</li>
+<li class="nav__right hidden-xs hidden-sm">
+<ul class="nav__links nav__links--account">
+<li class="yCmsComponent">
+<div class="accNavComponent js-accNavComponent display-none NAVcompONENT" data-title="My Account">
+<nav class="accNavComponent__child-wrap display-none">
 <div>
-<script type="text/javascript">
-					</script>
-<header role="banner">
-<div id="lead" class="inner">
-<a href="#page" class="skiptocontent skip">Skip to content</a>
-<a href="#primary" class="skiptonavigation skip">Skip to navigation menu</a>
-<h2 id="logo">
-<a href="/">
-<span class="cmsimage">
-<img title="Home Page" src="/medias/SiteLogo.png?context=bWFzdGVyfGltYWdlc3wxNTYwMHxpbWFnZS9wbmd8aW1hZ2VzLzg4MTYzODU3MjAzNTAucG5nfC0" alt="Home Page">
-</span>
-</a>
-</h2>
-</div>
-<div id="head" class="inner">
-<nav id="top">
-<ul class="site_links">
-<li><a href="/">Home</a>
-</li>
-<li><a href="/help" target="_new">Help &amp; FAQ</a>
-</li>
-<li><a href="/store-finder">Find a Store</a>
-</li>
-<li><script>
-$(function() {
-
-function dynamicallyLoadScript(url) {
-    var script = document.createElement("script"); 
-    script.src = url; 
-    document.head.appendChild(script);
-}
-if (window.location.href != 'https://www.thetoyshop.com/login/checkout' && window.location.href != 'https://www.thetoyshop.com/login') {  
-	dynamicallyLoadScript("//try.abtasty.com/6b2e1277e1a186745f08120a2d4b6e0c.js");
-}
-});
-</script></li>
-<li><script>
-$(function() {
-$('.copyright').text('© The Entertainer 2018');
-});
-</script></li>
-</ul>
-<ul class="account_links">
-<li class="log_in not_logged"><a href="/login">Sign in</a></li>
-<li><a href="/login/register">Register</a></li>
-</ul>
-</nav>
-<form id="search_form" name="search_form" method="GET" action="/search">
-<a class="mobile nav-bars menu-trigger" href="#blue-mobile-menu" onclick="return false;"><i class="fa fa-bars"></i></a>
-<label for="search">Search</label>
-<input id="search" class="text" type="text" name="text" value="" maxlength="100" placeholder="Search">
-<input class="button" type="submit" value="GO">
-</form>
-<nav id="top_baskets">
-<ul class="panel_push intent active">
-<li class="my_basket link count" data-cartid="MiniCart" data-totals="SUBTOTAL">
-<h2>
-<a href="/cart">
-<i class="fa fa-shopping-cart"></i>
-<em>My Basket</em>
-<span class="count">
-0</span>
-<span class="total">
-£0.00
-</span>
-</a>
-</h2>
-</li>
-</ul>
-</nav>
-</div>
-<nav id="menu" class="highlight navMenu" style="display:none">
-<div class="inner">
-<ul class="top_level intent active">
-<li class="listing category parent   columns_5">
-<h2>
-<a>Type of Toy</a>
-</h2>
-<ul class="listing category panel">
-<li class="first_of_row">
-<h3><a href="/c/action-toys-figures">Action toys and figures</a></h3>
-<ul>
-<li>
-<a href="/c/action-toys-figures/action-figures">Action figures</a>
-</li>
-<li>
-<a href="/c/action-toys-figures/action-vehicles">Vehicles</a>
-</li>
-<li>
-<a href="/c/action-toys-figures/blaster-water-pistols">Blasters and water pistols</a>
-</li>
-<li>
-<a href="/c/action-toys-figures/battling-toys">Battling toys</a>
-</li>
-<li class="more">
-<a href="/c/action-toys-figures">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/dolls-soft-toys">Dolls and soft toys</a></h3>
-<ul>
-<li>
-<a href="/c/dolls-soft-toys/dolls">Dolls</a>
-</li>
-<li>
-<a href="/c/dolls-soft-toys/dolls-accessories">Baby dolls' accessories</a>
-</li>
-<li>
-<a href="/c/dolls-soft-toys/dolls-houses-playsets">Dolls' houses and playsets</a>
-</li>
-<li>
-<a href="/c/dolls-soft-toys/soft-toys">Soft toys</a>
-</li>
-<li class="more">
-<a href="/c/dolls-soft-toys">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/lego-construction">Lego and construction toys</a></h3>
-<ul>
-<li>
-<a href="/c/lego-construction/building-blocks">Building Blocks</a>
-</li>
-<li>
-<a href="/c/lego-construction/other-construction">Other Construction</a>
-</li>
-<li>
-<a href="/c/lego-construction/pre-school-bricks">Pre-school bricks</a>
-</li>
-<li>
-<a href="/c/lego-construction/mini-figures">Minifigures</a>
-</li>
-<li class="more">
-<a href="/c/lego-construction">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/collectibles">Collectibles</a></h3>
-<ul>
-<li>
-<a href="/c/collectibles/slime-and-putty">Slime and Putty</a>
-</li>
-<li>
-<a href="/c/squishies">Squishies</a>
-</li>
-<li>
-<a href="/c/collectibles/collectible-figures">Collectible figures</a>
-</li>
-<li>
-<a href="/c/collectibles/fidget-toys">Fidget Toys</a>
-</li>
-<li class="more">
-<a href="/c/collectibles">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/electronic-educational-toys">Electronic and educational toys</a></h3>
-<ul>
-<li>
-<a href="/c/electronic-educational-toys/electronic-learning-toys">Electronic learning toys</a>
-</li>
-<li>
-<a href="/c/electronic-educational-toys/Musical-Toys">Musical toys</a>
-</li>
-<li>
-<a href="/c/electronic-educational-toys/robot-toys">Robot toys</a>
-</li>
-<li>
-<a href="/c/electronic-educational-toys/pre-school-learning-toys">Pre-school learning toys</a>
-</li>
-<li class="more">
-<a href="/c/electronic-educational-toys">More...</a>
-</li>
-</ul>
-</li>
-<li class="first_of_row">
-<h3><a href="/c/arts-creative-play">Arts and creative play</a></h3>
-<ul>
-<li>
-<a href="/c/arts-creative-play/craft-sets">Craft sets</a>
-</li>
-<li>
-<a href="/c/arts-creative-play/drawing-painting">Drawing and painting</a>
-</li>
-<li>
-<a href="/c/arts-creative-play/fashion-jewellery">Fashion and jewellery</a>
-</li>
-<li>
-<a href="/c/arts-creative-play/loom-kits">Loom kits</a>
-</li>
-<li class="more">
-<a href="/c/arts-creative-play">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/games-jigsaws">Games and jigsaws</a></h3>
-<ul>
-<li>
-<a href="/c/games-jigsaws/board-games">Board games</a>
-</li>
-<li>
-<a href="/c/games-jigsaws/childrens-games">Children's games</a>
-</li>
-<li>
-<a href="/c/games-jigsaws/family-games">Family games</a>
-</li>
-<li>
-<a href="/c/games-jigsaws/jigsaws">Jigsaws</a>
-</li>
-<li class="more">
-<a href="/c/games-jigsaws">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/baby-pre-school">Baby and pre-school toys</a></h3>
-<ul>
-<li>
-<a href="/c/baby-pre-school/newborn-baby">Newborn baby</a>
-</li>
-<li>
-<a href="/c/baby-pre-school/bath-toys">Bath toys</a>
-</li>
-<li>
-<a href="/c/baby-pre-school/electronic-learning">Electronic learning</a>
-</li>
-<li>
-<a href="/c/baby-pre-school/walkers-ride-ons">Walkers and ride-ons</a>
-</li>
-<li class="more">
-<a href="/c/baby-pre-school">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/outdoor-toys">Outdoor toys</a></h3>
-<ul>
-<li>
-<a href="/c/outdoor-toys/ride-ons">Ride-ons</a>
-</li>
-<li>
-<a href="/c/outdoor-toys/sports-toys">Sports toys</a>
-</li>
-<li>
-<a href="/c/outdoor-toys/play-centres-swings-slides">Play centres and slides</a>
-</li>
-<li>
-<a href="/c/outdoor-toys/blasters">Blasters</a>
-</li>
-<li class="more">
-<a href="/c/outdoor-toys">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/cars-trains-planes">Cars, trains and planes</a></h3>
-<ul>
-<li>
-<a href="/c/cars-trains-planes/remote-control">Remote control</a>
-</li>
-<li>
-<a href="/c/cars-trains-planes/race-tracks">Race tracks</a>
-</li>
-<li>
-<a href="/c/cars-trains-planes/trains">Trains</a>
-</li>
-<li>
-<a href="/c/cars-trains-planes/cars-trucks-diggers">Cars, trucks and diggers</a>
-</li>
-<li class="more">
-<a href="/c/cars-trains-planes">More...</a>
-</li>
-</ul>
-</li>
-<li class="first_of_row">
-<h3><a href="/c/dress-up">Dressing up and role play</a></h3>
-<ul>
-<li>
-<a href="/c/dress-up/face-paint">Face paint and makeup</a>
-</li>
-<li>
-<a href="/c/dress-up/dressing-up-heroes">Hero Dressing Up &amp; Role Play</a>
-</li>
-<li>
-<a href="/c/dress-up/dressing-up-princess">Princess Dressing Up &amp; Role Play</a>
-</li>
-<li>
-<a href="/c/baby-pre-school/pretend-play-dress-up">Pretend play and dressing up</a>
-</li>
-<li class="more">
-<a href="/c/dress-up">More...</a>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="brand parent  auto">
-<h2>
-<a href="/Brands/c/allbrands">Brand</a>
-</h2>
-<ul class="brand panel">
-<li>
-<a href="/brands/marvel" name="Marvel">
-<img src="/medias/marvel.jpg?context=bWFzdGVyfHJvb3R8Mzg1M3xpbWFnZS9qcGVnfGg1ZC9oMjkvODgzNTA5NDcwODI1NC5qcGd8LQ" alt="Marvel" title="Marvel">
-<p>Marvel</p>
-</a>
-</li>
-<li>
-<a href="/brands/disney" name="Disney">
-<img src="/medias/Disney.jpg?context=bWFzdGVyfGltYWdlc3wzMjY5fGltYWdlL2pwZWd8aW1hZ2VzLzg4MTYzNzc4NTYwMzAuanBnfC0" alt="Disney" title="Disney">
-<p>Disney</p>
-</a>
-</li>
-<li>
-<a href="/brands/nickelodeon/paw-patrol" name="Paw Patrol">
-<img src="/medias/Paw-Patrol.png?context=bWFzdGVyfHJvb3R8NTYyM3xpbWFnZS9wbmd8aDA3L2g2My84OTEzNTAxNDIxNTk4LnBuZ3xlMDNjNTQ4MjY2YjUxMzBhNmViYjFmOTkzNjM1Yzg4NTA4ZmUwNDk1YzFjZWMzYTNkZDZkODhhZDk0MjFlN2Nm" alt="Paw Patrol" title="Paw Patrol">
-<p>Paw Patrol</p>
-</a>
-</li>
-<li>
-<a href="/brands/lego" name="LEGO">
-<img src="/medias/Lego.jpg?context=bWFzdGVyfGltYWdlc3wyNzM0fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDExOTExOTguanBnfC0" alt="LEGO" title="LEGO">
-<p>LEGO</p>
-</a>
-</li>
-<li>
-<a href="/brands/jojo-bows" name="JoJo Bows">
-<img src="/medias/JJS-logo-002-4cp.jpg?context=bWFzdGVyfHJvb3R8MzA0M3xpbWFnZS9qcGVnfGhiNS9oOWIvOTA3MjY3MDExMzgyMi5qcGd8ZGU0NzY2NjgzZjBhODkzM2NmY2VmZjIwNTNkNjgyOWRmMDljNWZiN2Y5NGMwNmRmOGVkMTQ2ZDA2MTRlODhkMA" alt="JoJo Bows" title="JoJo Bows">
-<p>JoJo Bows</p>
-</a>
-</li>
-<li>
-<a href="/brands/my-little-pony" name="My Little Pony">
-<img src="/medias/mlp.jpg?context=bWFzdGVyfGltYWdlc3wzMDE0fGltYWdlL2pwZWd8aW1hZ2VzLzg4MTQ4MDQ0MDIyMDYuanBnfC0" alt="My Little Pony" title="My Little Pony">
-<p>My Little Pony</p>
-</a>
-</li>
-<li>
-<a href="/brands/disney/disney-frozen" name="Disney Frozen">
-<img src="/medias/DisFrozenLogo2.png?context=bWFzdGVyfHJvb3R8OTM4N3xpbWFnZS9wbmd8aDMwL2g5MS84ODk2NDc0MzgyMzY2LnBuZ3w2OGU4YjVkMTAxMzMwN2ViNWFmMzRiM2Y5NzIwYWNjMWVkNDhlZGM4YjY4MDc4OTBhMDgzZDhjMGQ2NGZjODEz" alt="Disney Frozen" title="Disney Frozen">
-<p>Disney Frozen</p>
-</a>
-</li>
-<li>
-<a href="/brands/pj-masks" name="PJ Masks">
-<img src="/medias/PJ-Masks-logo.jpg?context=bWFzdGVyfHJvb3R8MTQwMDl8aW1hZ2UvanBlZ3xoMGEvaGUxLzkwNTk5NzY4MDY0MzAuanBnfGY1YzcwNWVlNzY5MjZlOGM0ODNhYzFmNTRlZjJkYmFmYTU5OGUwOTIwMjBmZTFjNWNkOTFlOTVlMTIzNTQ3Yjg" alt="PJ Masks" title="PJ Masks">
-<p>PJ Masks</p>
-</a>
-</li>
-<li>
-<a href="/brands/nickelodeon/nella-the-princess-knight" name="Nella The Princess Knight">
-<img src="/medias/Nella-the-Princess-Knight-logo.png?context=bWFzdGVyfHJvb3R8NDQxN3xpbWFnZS9wbmd8aDcyL2hiYi85MTEyNTY5NTc3NTAyLnBuZ3xkOTcyYzZiYjM2ODdjM2VhMmVmNWY0NDhlNGUxZTgzZGRjZDc3MWZjODdlNjM2ZGU2M2Y1YzQ4YjMxMmNjZDBl" alt="Nella The Princess Knight" title="Nella The Princess Knight">
-<p>Nella The Princess Knight</p>
-</a>
-</li>
-<li>
-<a href="/brands/little-tikes" name="Little Tikes">
-<img src="/medias/Little-Tikes.png?context=bWFzdGVyfHJvb3R8NTc3NHxpbWFnZS9wbmd8aDM3L2g0Ny84ODg2ODg0NzI4ODYyLnBuZ3wt" alt="Little Tikes" title="Little Tikes">
-<p>Little Tikes</p>
-</a>
-</li>
-<li id="show_all_brands">
-<a href="/Brands/c/allbrands">More Brands</a>
-</li>
-</ul>
-</li>
-<li class="present_finder parent right">
-<h2><span><span class="icon"></span>Present Finder</span></h2>
-<form id="command" class="panel present_finder present_finder_form" action="#" method="post"><div class="select_holder highlight">
-<label for="present_finder_age">Age:</label>
-<select id="present_finder_age" name="age">
-<option value="" disabled="disabled" selected="selected">Please select...</option>
-<option value="0000">0 - 18 months</option>
-<option value="0019">18 - 36 months</option>
-<option value="0037">3 - 5 years</option>
-<option value="0061">5 - 8 years</option>
-<option value="0097">8 - 11 years</option>
-<option value="0133">11 years +</option>
-</select>
-</div>
-<div class="radio_holder">
-<h3>Gender:</h3>
-<ul>
-<li>
-<input id="present_finder_gender1" type="radio" name="gender" value="">
-<label for="present_finder_gender1">Both</label>
-</li>
-<li>
-<input id="present_finder_gender2" type="radio" name="gender" value="Boys">
-<label for="present_finder_gender2">Boys</label>
-</li>
-<li>
-<input id="present_finder_gender3" type="radio" name="gender" value="Girls">
-<label for="present_finder_gender3">Girls</label>
-</li>
-</ul>
-</div>
-<div class="slider_holder price">
-<h3>Budget:</h3>
-<input type="hidden" class="min_price" id="present_finder_price_min" name="minBudget" value="0">
-<input type="hidden" class="max_price" id="present_finder_price_max" name="maxBudget" value="1000">
-<div id="present_finder_price" class="dual_slider_holder">
-<div class="dual_slider"></div>
-</div>
-<ul class="slider_labels">
-<li>£0</li>
-<li>£15</li>
-<li>£30</li>
-<li>£45</li>
-<li>£60</li>
-<li class="ie8fix">£75+</li>
-</ul>
-</div>
-<div class="multi_holder button_holder results">
-<p><em>0</em> <em>results found</em></p>
-<a class="button progress right large" href="/c/presentfinder">Find Presents</a>
-</div>
-</form></li>
-<li class=" auto columns_0">
-<h2>
-<a href="/c/special-offers?TN1">Sale</a>
-</h2>
-</li>
-<li class=" auto columns_0">
-<h2>
-<a href="http://www.thetoyshop.com/c/outdoor-toys">Outdoor Toys</a>
-</h2>
-</li>
-<li class="create-your-own right_edge columns_0">
-<h2>
-<a href="https://createyourown.thetoyshop.com/index.php?utm_source=TheToyShop&amp;utm_medium=Navigation_Bar" target="_new">Create Your Own</a>
-</h2>
-</li>
-</ul>
-</div>
-</nav>
-<ul id="blue-mobile-menu" style="display:none">
-<li class="listing category parent   columns_5">
-<h2>
-<a>Type of Toy</a>
-</h2>
-<ul class="listing category panel">
-<li class="first_of_row">
-<h3><a href="/c/action-toys-figures">Action toys and figures</a></h3>
-<ul>
-<li>
-<a href="/c/action-toys-figures/action-figures">Action figures</a>
-</li>
-<li>
-<a href="/c/action-toys-figures/action-vehicles">Vehicles</a>
-</li>
-<li>
-<a href="/c/action-toys-figures/blaster-water-pistols">Blasters and water pistols</a>
-</li>
-<li>
-<a href="/c/action-toys-figures/battling-toys">Battling toys</a>
-</li>
-<li class="more">
-<a href="/c/action-toys-figures">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/dolls-soft-toys">Dolls and soft toys</a></h3>
-<ul>
-<li>
-<a href="/c/dolls-soft-toys/dolls">Dolls</a>
-</li>
-<li>
-<a href="/c/dolls-soft-toys/dolls-accessories">Baby dolls' accessories</a>
-</li>
-<li>
-<a href="/c/dolls-soft-toys/dolls-houses-playsets">Dolls' houses and playsets</a>
-</li>
-<li>
-<a href="/c/dolls-soft-toys/soft-toys">Soft toys</a>
-</li>
-<li class="more">
-<a href="/c/dolls-soft-toys">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/lego-construction">Lego and construction toys</a></h3>
-<ul>
-<li>
-<a href="/c/lego-construction/building-blocks">Building Blocks</a>
-</li>
-<li>
-<a href="/c/lego-construction/other-construction">Other Construction</a>
-</li>
-<li>
-<a href="/c/lego-construction/pre-school-bricks">Pre-school bricks</a>
-</li>
-<li>
-<a href="/c/lego-construction/mini-figures">Minifigures</a>
-</li>
-<li class="more">
-<a href="/c/lego-construction">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/collectibles">Collectibles</a></h3>
-<ul>
-<li>
-<a href="/c/collectibles/slime-and-putty">Slime and Putty</a>
-</li>
-<li>
-<a href="/c/squishies">Squishies</a>
-</li>
-<li>
-<a href="/c/collectibles/collectible-figures">Collectible figures</a>
-</li>
-<li>
-<a href="/c/collectibles/fidget-toys">Fidget Toys</a>
-</li>
-<li class="more">
-<a href="/c/collectibles">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/electronic-educational-toys">Electronic and educational toys</a></h3>
-<ul>
-<li>
-<a href="/c/electronic-educational-toys/electronic-learning-toys">Electronic learning toys</a>
-</li>
-<li>
-<a href="/c/electronic-educational-toys/Musical-Toys">Musical toys</a>
-</li>
-<li>
-<a href="/c/electronic-educational-toys/robot-toys">Robot toys</a>
-</li>
-<li>
-<a href="/c/electronic-educational-toys/pre-school-learning-toys">Pre-school learning toys</a>
-</li>
-<li class="more">
-<a href="/c/electronic-educational-toys">More...</a>
-</li>
-</ul>
-</li>
-<li class="first_of_row">
-<h3><a href="/c/arts-creative-play">Arts and creative play</a></h3>
-<ul>
-<li>
-<a href="/c/arts-creative-play/craft-sets">Craft sets</a>
-</li>
-<li>
-<a href="/c/arts-creative-play/drawing-painting">Drawing and painting</a>
-</li>
-<li>
-<a href="/c/arts-creative-play/fashion-jewellery">Fashion and jewellery</a>
-</li>
-<li>
-<a href="/c/arts-creative-play/loom-kits">Loom kits</a>
-</li>
-<li class="more">
-<a href="/c/arts-creative-play">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/games-jigsaws">Games and jigsaws</a></h3>
-<ul>
-<li>
-<a href="/c/games-jigsaws/board-games">Board games</a>
-</li>
-<li>
-<a href="/c/games-jigsaws/childrens-games">Children's games</a>
-</li>
-<li>
-<a href="/c/games-jigsaws/family-games">Family games</a>
-</li>
-<li>
-<a href="/c/games-jigsaws/jigsaws">Jigsaws</a>
-</li>
-<li class="more">
-<a href="/c/games-jigsaws">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/baby-pre-school">Baby and pre-school toys</a></h3>
-<ul>
-<li>
-<a href="/c/baby-pre-school/newborn-baby">Newborn baby</a>
-</li>
-<li>
-<a href="/c/baby-pre-school/bath-toys">Bath toys</a>
-</li>
-<li>
-<a href="/c/baby-pre-school/electronic-learning">Electronic learning</a>
-</li>
-<li>
-<a href="/c/baby-pre-school/walkers-ride-ons">Walkers and ride-ons</a>
-</li>
-<li class="more">
-<a href="/c/baby-pre-school">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/outdoor-toys">Outdoor toys</a></h3>
-<ul>
-<li>
-<a href="/c/outdoor-toys/ride-ons">Ride-ons</a>
-</li>
-<li>
-<a href="/c/outdoor-toys/sports-toys">Sports toys</a>
-</li>
-<li>
-<a href="/c/outdoor-toys/play-centres-swings-slides">Play centres and slides</a>
-</li>
-<li>
-<a href="/c/outdoor-toys/blasters">Blasters</a>
-</li>
-<li class="more">
-<a href="/c/outdoor-toys">More...</a>
-</li>
-</ul>
-</li>
-<li class="">
-<h3><a href="/c/cars-trains-planes">Cars, trains and planes</a></h3>
-<ul>
-<li>
-<a href="/c/cars-trains-planes/remote-control">Remote control</a>
-</li>
-<li>
-<a href="/c/cars-trains-planes/race-tracks">Race tracks</a>
-</li>
-<li>
-<a href="/c/cars-trains-planes/trains">Trains</a>
-</li>
-<li>
-<a href="/c/cars-trains-planes/cars-trucks-diggers">Cars, trucks and diggers</a>
-</li>
-<li class="more">
-<a href="/c/cars-trains-planes">More...</a>
-</li>
-</ul>
-</li>
-<li class="first_of_row">
-<h3><a href="/c/dress-up">Dressing up and role play</a></h3>
-<ul>
-<li>
-<a href="/c/dress-up/face-paint">Face paint and makeup</a>
-</li>
-<li>
-<a href="/c/dress-up/dressing-up-heroes">Hero Dressing Up &amp; Role Play</a>
-</li>
-<li>
-<a href="/c/dress-up/dressing-up-princess">Princess Dressing Up &amp; Role Play</a>
-</li>
-<li>
-<a href="/c/baby-pre-school/pretend-play-dress-up">Pretend play and dressing up</a>
-</li>
-<li class="more">
-<a href="/c/dress-up">More...</a>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="brand parent  auto">
-<h2>
-<a href="/Brands/c/allbrands">Brand</a>
-</h2>
-<ul class="brand panel">
-<li>
-<a href="/brands/marvel" name="Marvel">
-<img src="/medias/marvel.jpg?context=bWFzdGVyfHJvb3R8Mzg1M3xpbWFnZS9qcGVnfGg1ZC9oMjkvODgzNTA5NDcwODI1NC5qcGd8LQ" alt="Marvel" title="Marvel">
-<p>Marvel</p>
-</a>
-</li>
-<li>
-<a href="/brands/disney" name="Disney">
-<img src="/medias/Disney.jpg?context=bWFzdGVyfGltYWdlc3wzMjY5fGltYWdlL2pwZWd8aW1hZ2VzLzg4MTYzNzc4NTYwMzAuanBnfC0" alt="Disney" title="Disney">
-<p>Disney</p>
-</a>
-</li>
-<li>
-<a href="/brands/nickelodeon/paw-patrol" name="Paw Patrol">
-<img src="/medias/Paw-Patrol.png?context=bWFzdGVyfHJvb3R8NTYyM3xpbWFnZS9wbmd8aDA3L2g2My84OTEzNTAxNDIxNTk4LnBuZ3xlMDNjNTQ4MjY2YjUxMzBhNmViYjFmOTkzNjM1Yzg4NTA4ZmUwNDk1YzFjZWMzYTNkZDZkODhhZDk0MjFlN2Nm" alt="Paw Patrol" title="Paw Patrol">
-<p>Paw Patrol</p>
-</a>
-</li>
-<li>
-<a href="/brands/lego" name="LEGO">
-<img src="/medias/Lego.jpg?context=bWFzdGVyfGltYWdlc3wyNzM0fGltYWdlL2pwZWd8aW1hZ2VzLzg3OTYxNDExOTExOTguanBnfC0" alt="LEGO" title="LEGO">
-<p>LEGO</p>
-</a>
-</li>
-<li>
-<a href="/brands/jojo-bows" name="JoJo Bows">
-<img src="/medias/JJS-logo-002-4cp.jpg?context=bWFzdGVyfHJvb3R8MzA0M3xpbWFnZS9qcGVnfGhiNS9oOWIvOTA3MjY3MDExMzgyMi5qcGd8ZGU0NzY2NjgzZjBhODkzM2NmY2VmZjIwNTNkNjgyOWRmMDljNWZiN2Y5NGMwNmRmOGVkMTQ2ZDA2MTRlODhkMA" alt="JoJo Bows" title="JoJo Bows">
-<p>JoJo Bows</p>
-</a>
-</li>
-<li>
-<a href="/brands/my-little-pony" name="My Little Pony">
-<img src="/medias/mlp.jpg?context=bWFzdGVyfGltYWdlc3wzMDE0fGltYWdlL2pwZWd8aW1hZ2VzLzg4MTQ4MDQ0MDIyMDYuanBnfC0" alt="My Little Pony" title="My Little Pony">
-<p>My Little Pony</p>
-</a>
-</li>
-<li>
-<a href="/brands/disney/disney-frozen" name="Disney Frozen">
-<img src="/medias/DisFrozenLogo2.png?context=bWFzdGVyfHJvb3R8OTM4N3xpbWFnZS9wbmd8aDMwL2g5MS84ODk2NDc0MzgyMzY2LnBuZ3w2OGU4YjVkMTAxMzMwN2ViNWFmMzRiM2Y5NzIwYWNjMWVkNDhlZGM4YjY4MDc4OTBhMDgzZDhjMGQ2NGZjODEz" alt="Disney Frozen" title="Disney Frozen">
-<p>Disney Frozen</p>
-</a>
-</li>
-<li>
-<a href="/brands/pj-masks" name="PJ Masks">
-<img src="/medias/PJ-Masks-logo.jpg?context=bWFzdGVyfHJvb3R8MTQwMDl8aW1hZ2UvanBlZ3xoMGEvaGUxLzkwNTk5NzY4MDY0MzAuanBnfGY1YzcwNWVlNzY5MjZlOGM0ODNhYzFmNTRlZjJkYmFmYTU5OGUwOTIwMjBmZTFjNWNkOTFlOTVlMTIzNTQ3Yjg" alt="PJ Masks" title="PJ Masks">
-<p>PJ Masks</p>
-</a>
-</li>
-<li>
-<a href="/brands/nickelodeon/nella-the-princess-knight" name="Nella The Princess Knight">
-<img src="/medias/Nella-the-Princess-Knight-logo.png?context=bWFzdGVyfHJvb3R8NDQxN3xpbWFnZS9wbmd8aDcyL2hiYi85MTEyNTY5NTc3NTAyLnBuZ3xkOTcyYzZiYjM2ODdjM2VhMmVmNWY0NDhlNGUxZTgzZGRjZDc3MWZjODdlNjM2ZGU2M2Y1YzQ4YjMxMmNjZDBl" alt="Nella The Princess Knight" title="Nella The Princess Knight">
-<p>Nella The Princess Knight</p>
-</a>
-</li>
-<li>
-<a href="/brands/little-tikes" name="Little Tikes">
-<img src="/medias/Little-Tikes.png?context=bWFzdGVyfHJvb3R8NTc3NHxpbWFnZS9wbmd8aDM3L2g0Ny84ODg2ODg0NzI4ODYyLnBuZ3wt" alt="Little Tikes" title="Little Tikes">
-<p>Little Tikes</p>
-</a>
-</li>
-<li id="show_all_brands">
-<a href="/Brands/c/allbrands">More Brands</a>
-</li>
-</ul>
-</li>
-<li class="present_finder parent right">
-<h2><span><span class="icon"></span>Present Finder</span></h2>
-<form id="command" class="panel present_finder present_finder_form" action="#" method="post"><div class="select_holder highlight">
-<label for="present_finder_age">Age:</label>
-<select id="present_finder_age" name="age">
-<option value="" disabled="disabled" selected="selected">Please select...</option>
-<option value="0000">0 - 18 months</option>
-<option value="0019">18 - 36 months</option>
-<option value="0037">3 - 5 years</option>
-<option value="0061">5 - 8 years</option>
-<option value="0097">8 - 11 years</option>
-<option value="0133">11 years +</option>
-</select>
-</div>
-<div class="radio_holder">
-<h3>Gender:</h3>
-<ul>
-<li>
-<input id="present_finder_gender1" type="radio" name="gender" value="">
-<label for="present_finder_gender1">Both</label>
-</li>
-<li>
-<input id="present_finder_gender2" type="radio" name="gender" value="Boys">
-<label for="present_finder_gender2">Boys</label>
-</li>
-<li>
-<input id="present_finder_gender3" type="radio" name="gender" value="Girls">
-<label for="present_finder_gender3">Girls</label>
-</li>
-</ul>
-</div>
-<div class="slider_holder price">
-<h3>Budget:</h3>
-<input type="hidden" class="min_price" id="present_finder_price_min" name="minBudget" value="0">
-<input type="hidden" class="max_price" id="present_finder_price_max" name="maxBudget" value="1000">
-<div id="present_finder_price" class="dual_slider_holder">
-<div class="dual_slider"></div>
-</div>
-<ul class="slider_labels">
-<li>£0</li>
-<li>£15</li>
-<li>£30</li>
-<li>£45</li>
-<li>£60</li>
-<li class="ie8fix">£75+</li>
-</ul>
-</div>
-<div class="multi_holder button_holder results">
-<p><em>0</em> <em>results found</em></p>
-<a class="button progress right large" href="/c/presentfinder">Find Presents</a>
-</div>
-</form></li>
-<li class=" auto columns_0">
-<h2>
-<a href="/c/special-offers?TN1">Sale</a>
-</h2>
-</li>
-<li class=" auto columns_0">
-<h2>
-<a href="http://www.thetoyshop.com/c/outdoor-toys">Outdoor Toys</a>
-</h2>
-</li>
-<li class="create-your-own right_edge columns_0">
-<h2>
-<a href="https://createyourown.thetoyshop.com/index.php?utm_source=TheToyShop&amp;utm_medium=Navigation_Bar" target="_new">Create Your Own</a>
-</h2>
-</li>
-</ul>
-<div id="announcements">
-<div class="inner">
-<div id="storeFinder" class="mobile">
-<a href="/store-finder" title="The Entertainer Store Finder"><i class="fa fa-thumb-tack"></i><span>Store Finder</span></a>
-</div>
-<div class="present-finder-container mobile">
-<section class="ac-container">
+My Account</div>
 <div>
-<input id="ac-present-finder" name="accordion-present-finder" type="checkbox">
-<label class="present-finder-heading" for="ac-present-finder"><span class="icon"></span>Present Finder</label>
-<article class="ac-large">
-<div id="Present-Finder-Mobile"><div class="item special present_finder">
-<h3 class="item_header"><span class="icon"></span></h3>
-<div class="presentFinder item_content">
-<form class="present_finder_form" action="#">
-<div class="select_holder highlight">
-<label for="present_finder2_age">Age:</label>
-<select id="present_finder2_age" name="age">
-<option value="" disabled="disabled" selected="selected">Please select...</option>
-<option value="0000">0 - 18 months</option>
-<option value="0019">18 - 36 months</option>
-<option value="0037">3 - 5 years</option>
-<option value="0061">5 - 8 years</option>
-<option value="0097">8 - 11 years</option>
-<option value="0133">11 years +</option>
-</select>
+<a href="/my-account/saved-carts" title="Saved Baskets">Saved Baskets</a></div>
+<div>
+<a href="/my-account/payment-details" title="Payment Details">Payment Details</a></div>
+<div>
+<a href="/my-account/my-interests" title="My Interests">My Interests</a></div>
+<div>
+<a href="/my-account/update-password" class="update-password-Link" title="Password">Password</a></div>
+<div>
+<a href="/my-account/birthday-club-children" title="Jack's Birthday Club">Jack's Birthday Club</a></div>
+<div>
+<a href="/my-account/orders" title="Order History">Order History</a></div>
+<div>
+<a href="/my-account/update-profile" title="Personal Details">Personal Details</a></div>
+<div>
+<a href="/my-account/wishlist" title="Wishlist">Wishlist</a></div>
+<div>
+<a href="/my-account/update-email" class="update-email-Link" title="Email Address">Email Address</a></div>
+<div>
+<a href="/my-account/address-book" class="address-book-Link" title="Address Book">Address Book</a></div>
+</nav>
 </div>
-<div class="radio_holder">
-<h3>Gender:</h3>
+</li><li class="liOffcanvas">
+<a href="/login"><i class="fa fa-user-circle-o"></i>
+Sign in / Register</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-xs-6 col-xs-pull-2 col-sm-6 col-sm-pull-1 col-md-3 col-md-pull-0">
+<div class="js-site-logo site-logo">
+<div class="yCmsComponent yComponentWrapper">
+<div class="banner__component banner">
+<a href="/"><img title="The Toyshop.com" alt="The Toyshop.com" src="/medias/site-logo.png?context=bWFzdGVyfGltYWdlc3wxOTAzNXxpbWFnZS9wbmd8aW1hZ2VzL2gxYS9oN2QvOTEyOTQ0MjgzNjUxMC5wbmd8M2VkOWYwZmMwZTQ0MmM3NTk2ZDEyMjZhMDBhYjYzODk2MmU5NDE5NmUzZWQ0OTg5M2ZiZTg5NWZhZjZjNjAwNA"></a>
+</div></div></div>
+</div>
+<div class="nav-cart-container col-xs-1 col-xs-push-1 col-sm-1 col-sm-push-1 col-md-3 col-md-push-6">
 <ul>
 <li>
-<input id="present_finder2_gender1" type="radio" name="gender" value="">
-<label for="present_finder2_gender1">Both</label>
-</li>
-<li>
-<input id="present_finder2_gender2" type="radio" name="gender" value="Boys">
-<label for="present_finder2_gender2">Boys</label>
-</li>
-<li>
-<input id="present_finder2_gender3" type="radio" name="gender" value="Girls">
-<label for="present_finder2_gender3">Girls</label>
-</li>
+<div class="yCmsContentSlot componentContainer">
+<div class="yCmsComponent">
+<div class="nav-cart">
+<a href="/cart" class="mini-cart-link js-mini-cart-link" data-mini-cart-url="/cart/rollover/MiniCart" data-mini-cart-refresh-url="/cart/miniCart/SUBTOTAL" data-mini-cart-name="Basket" data-mini-cart-empty-name="There are no items in your Basket" data-mini-cart-items-text="My Basket">
+<div class="mini-cart-icon">
+<span class="icon icon-basket"></span>
+</div>
+<div class="mini-cart-count js-mini-cart-count"><span class="nav-items-total">0</span></div>
+<span class="items-desktop hidden-xs hidden-sm">My Basket</span>
+<div class="mini-cart-price js-mini-cart-price hidden-xs hidden-sm">
+£0.00</div>
+</a>
+</div>
+<div class="mini-cart-container js-mini-cart-container"></div></div></div></li>
 </ul>
 </div>
-<div class="slider_holder price">
-<h3>Budget:</h3>
-<input type="hidden" class="min_price" id="present_finder2_price_min" name="minBudget" value="0">
-<input type="hidden" class="max_price" id="present_finder2_price_max" name="maxBudget" value="1000">
-<div id="present_finder2_price" class="dual_slider_holder">
-<div class="dual_slider"></div>
-</div>
-<ul class="slider_labels">
-<li>£0</li>
-<li>£15</li>
-<li>£30</li>
-<li>£45</li>
-<li>£60</li>
-<li class="ie8fix">£75+</li>
-</ul>
-</div>
-<div class="multi_holder button_holder results">
-<p><em>0</em> <em>results found</em></p>
-<a class="button progress right large" href="/c/presentfinder">Find Presents</a>
+<div class="searchElement col-xs-12 col-sm-12 col-md-6 col-md-pull-3">
+<div class="site-search">
+<div class="yCmsComponent">
+<div class="ui-front">
+<form name="search_form_SearchBox" method="get" action="/search/">
+<div class="input-group">
+<i class="fa fa-search" aria-hidden="true"></i>
+<input type="search" id="js-site-search-input" class="form-control js-site-search-input ui-autocomplete-input" name="text" value="" maxlength="100" placeholder="Search..." data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;3&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;500&quot;,&quot;displayProductImages&quot; : true}" autocomplete="off">
+<span class="input-group-btn"> <button class="btn btn-link js_search_button" type="submit" disabled="true">
+Go</button>
+</span>
 </div>
 </form>
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul></div>
+</div></div>
 </div>
 </div>
 </div>
-</article>
+</nav>
+<a id="skiptonavigation"></a>
+<nav class="navigation navigation--bottom js_navigation--bottom js-enquire-offcanvas-navigation" role="navigation">
+<ul class="sticky-nav-top hidden-lg hidden-md js-sticky-user-group hidden-md hidden-lg"><li class="auto liUserSign"><a class="userSign" href="https://web.archive.org/login"><i class="fa fa-user-circle-o"></i>
+Sign in / Register</a><div class="close-nav"><button type="button" class="js-toggle-sm-navigation btn"><span></span><span></span></button></div></li></ul>
+<div class="navigation__overflow">
+<ul data-trigger="#signedInUserOptionsToggle" class="nav__links nav__links--products nav__links--mobile js-userAccount-Links js-nav-collapse-body offcanvasGroup1 collapse in hidden-md hidden-lg">
+</ul>
+<ul class="nav__links nav__links--products js-offcanvas-links">
+<li class="auto nav__links--primary nav__links--primary-has__sub js-enquire-has-sub">
+<span class="yCmsComponent nav__link js_nav__link">
+<a href="#" title="Type of Toy">Type of Toy</a></span><span class="hidden-md hidden-lg nav__link--drill__down js_nav__link--drill__down"></span>
+<div class="sub__navigation js_sub__navigation">
+<a class="sm-back js-enquire-sub-close hidden-md hidden-lg" href="#">Back</a>
+<div class=" col-md-12">
+<div class="row">
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/action-toys-figures" title="Action toys and figures" class="hidden-xs hidden-sm">Action toys and figures</a>
+<a href="#subListNum0" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/action-toys-figures" title="Action toys and figures" class="hidden-md hidden-lg">
+Action toys and figures</a>
 </div>
-</section>
+<ul class="sub-navigation-list has-title collapse" id="subListNum0">
+<li class="nav__link--secondary">
+<a href="/c/action-toys-figures/action-figures" title="Action figures">Action figures</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/action-toys-figures/action-vehicles" title="Vehicles">Vehicles</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/action-toys-figures/playsets" title="Playsets">Playsets</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/action-toys-figures/blaster-water-pistols" title="Blasters and water pistols">Blasters and water pistols</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+<a href="/c/action-toys-figures" title="Battling toys">See all</a>
+</li>
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/dolls-soft-toys" title="Dolls and soft toys" class="hidden-xs hidden-sm">Dolls and soft toys</a>
+<a href="#subListNum1" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/dolls-soft-toys" title="Dolls and soft toys" class="hidden-md hidden-lg">
+Dolls and soft toys</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum1">
+<li class="nav__link--secondary">
+<a href="/c/dolls-soft-toys/dolls" title="Dolls">Dolls</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/dolls-soft-toys/dolls-accessories" title="Baby dolls' accessories">Baby dolls' accessories</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/dolls-soft-toys/dolls-houses-playsets" title="Dolls' houses and playsets">Dolls' houses and playsets</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/dolls-soft-toys/soft-toys" title="Soft toys">Soft toys</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+<a href="/c/dolls-soft-toys" title="Dolls' prams and pushchairs">See all</a>
+</li>
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/lego-construction" title="Lego and construction toys" class="hidden-xs hidden-sm">Lego and construction toys</a>
+<a href="#subListNum2" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/lego-construction" title="Lego and construction toys" class="hidden-md hidden-lg">
+Lego and construction toys</a>
+</div>
+ <ul class="sub-navigation-list has-title collapse" id="subListNum2">
+<li class="nav__link--secondary">
+<a href="/c/lego-construction/building-blocks" title="Building Blocks">Building Blocks</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/lego-construction/other-construction" title="Other Construction">Other Construction</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/lego-construction/pre-school-bricks" title="Pre-school bricks">Pre-school bricks</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/lego-construction/mini-figures" title="Minifigures">Minifigures</a>
+</li>
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/collectibles" title="Collectibles" class="hidden-xs hidden-sm">Collectibles</a>
+<a href="#subListNum3" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/collectibles" title="Collectibles" class="hidden-md hidden-lg">
+Collectibles</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum3">
+<li class="nav__link--secondary">
+<a href="/c/collectibles/slime-and-putty" title="Slime and Putty">Slime and Putty</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/squishies" title="Squishies">Squishies</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/collectibles/collectible-figures" title="Collectible figures">Collectible figures</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/collectibles/collectible-soft-toys" title="Collectible soft toys">Collectible soft toys</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+<a href="/c/collectibles" title="Fidget Toys">See all</a>
+</li>
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/electronic-educational-toys" title="Electronic and educational toys" class="hidden-xs hidden-sm">Electronic and educational toys</a>
+<a href="#subListNum4" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/electronic-educational-toys" title="Electronic and educational toys" class="hidden-md hidden-lg">
+Electronic and educational toys</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum4">
+<li class="nav__link--secondary">
+<a href="/c/baby-pre-school/electronic-learning" title="Electronic learning">Electronic learning</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/electronic-educational-toys/Musical-Toys" title="Musical toys">Musical toys</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/electronic-educational-toys/robot-toys" title="Robot toys">Robot toys</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/electronic-educational-toys/pre-school-learning-toys" title="Pre-school learning toys">Pre-school learning toys</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+<a href="/c/electronic-educational-toys" title="Watches and clocks">See all</a>
+</li>
+</ul>
+</div>
+</div><div class="row">
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/arts-creative-play" title="Arts and creative play" class="hidden-xs hidden-sm">Arts and creative play</a>
+<a href="#subListNum5" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/arts-creative-play" title="Arts and creative play" class="hidden-md hidden-lg">
+Arts and creative play</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum5">
+<li class="nav__link--secondary">
+<a href="/c/arts-creative-play/craft-sets" title="Craft sets">Craft sets</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/arts-creative-play/drawing-painting" title="Drawing and painting">Drawing and painting</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/arts-creative-play/fashion-jewellery" title="Fashion and jewellery">Fashion and jewellery</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/arts-creative-play/dough-and-sand-modelling" title="Dough and Sand modelling">Dough and Sand modelling</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+<a href="/c/arts-creative-play" title="Loom kits">See all</a>
+</li>
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/games-jigsaws" title="Games and jigsaws" class="hidden-xs hidden-sm">Games and jigsaws</a>
+<a href="#subListNum6" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/games-jigsaws" title="Games and jigsaws" class="hidden-md hidden-lg">
+Games and jigsaws</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum6">
+<li class="nav__link--secondary">
+<a href="/c/games-jigsaws/board-games" title="Board games">Board games</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/games-jigsaws/childrens-games" title="Children's games">Children's games</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/games-jigsaws/family-games" title="Family games">Family games</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/games-jigsaws/jigsaws" title="Jigsaws">Jigsaws</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+<a href="/c/games-jigsaws" title="Magic and jokes">See all</a>
+</li>
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/baby-pre-school" title="Baby and pre-school toys" class="hidden-xs hidden-sm">Baby and pre-school toys</a>
+<a href="#subListNum7" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/baby-pre-school" title="Baby and pre-school toys" class="hidden-md hidden-lg">
+Baby and pre-school toys</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum7">
+<li class="nav__link--secondary">
+<a href="/c/baby-pre-school/newborn-baby" title="Newborn baby">Newborn baby</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/baby-pre-school/bath-toys" title="Bath toys">Bath toys</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/baby-pre-school/electronic-learning" title="Electronic learning">Electronic learning</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/baby-pre-school/walkers-ride-ons" title="Walkers and ride-ons">Walkers and ride-ons</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+ <a href="/c/baby-pre-school" title="Pretend play and dressing up">See all</a>
+</li>
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/outdoor-toys" title="Outdoor toys" class="hidden-xs hidden-sm">Outdoor toys</a>
+<a href="#subListNum8" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/outdoor-toys" title="Outdoor toys" class="hidden-md hidden-lg">
+Outdoor toys</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum8">
+<li class="nav__link--secondary">
+<a href="/c/outdoor-toys/ride-ons" title="Ride-ons">Ride-ons</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/outdoor-toys/sports-toys" title="Sports toys">Sports toys</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/outdoor-toys/play-centres-swings-slides" title="Play centres and slides">Play centres and slides</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/outdoor-toys/blasters" title="Blasters">Blasters</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+<a href="/c/outdoor-toys" title="Garden toys">See all</a>
+</li>
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/cars-trains-planes" title="Cars, trains and planes" class="hidden-xs hidden-sm">Cars, trains and planes</a>
+<a href="#subListNum9" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/cars-trains-planes" title="Cars, trains and planes" class="hidden-md hidden-lg">
+Cars, trains and planes</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum9">
+<li class="nav__link--secondary">
+<a href="/c/cars-trains-planes/remote-control" title="Remote control">Remote control</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/cars-trains-planes/race-tracks" title="Race tracks">Race tracks</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/cars-trains-planes/trains" title="Trains">Trains</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/cars-trains-planes/cars-trucks-diggers" title="Cars, trucks and diggers">Cars, trucks and diggers</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+<a href="/c/cars-trains-planes" title="Planes and helicopters">See all</a>
+</li>
+</ul>
+</div>
+</div><div class="row">
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/dress-up" title="Dressing up and role play" class="hidden-xs hidden-sm">Dressing up and role play</a>
+<a href="#subListNum10" data-toggle="collapse" class="hidden-md hidden-lg subListToggle collapsed">&nbsp;</a>
+<a href="/c/dress-up" title="Dressing up and role play" class="hidden-md hidden-lg">
+Dressing up and role play</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum10">
+<li class="nav__link--secondary">
+<a href="/c/dress-up/face-paint" title="Face paint and makeup">Face paint and makeup</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/dress-up/dressing-up-heroes" title="Hero Dressing Up &amp; Role Play">Hero Dressing Up &amp; Role Play</a>
+</li>
+ <li class="nav__link--secondary">
+<a href="/c/dress-up/dressing-up-princess" title="Princess Dressing Up &amp; Role Play">Princess Dressing Up &amp; Role Play</a>
+</li>
+<li class="nav__link--secondary">
+<a href="/c/baby-pre-school/pretend-play-dress-up" title="Pretend play and dressing up">Pretend play and dressing up</a>
+</li>
+<li class="nav__link--secondary see-all-link">
+<a href="/c/dress-up" title="Kitchen &amp; Home">See all</a>
+</li>
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/gift-cards" title="Gift Cards" class="hidden-xs hidden-sm">Gift Cards</a>
+<a href="/c/gift-cards" title="Gift Cards" class="hidden-md hidden-lg">
+Gift Cards</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum11">
+</ul>
+</div>
+<div class="sub-navigation-section col-xs-12 column-20-percent">
+<div class="title">
+<a href="/c/last-chance" title="Clearance" class="hidden-xs hidden-sm">Clearance</a>
+<a href="/c/last-chance" title="Clearance" class="hidden-md hidden-lg">
+Clearance</a>
+</div>
+<ul class="sub-navigation-list has-title collapse" id="subListNum12">
+</ul>
 </div>
 </div>
 </div>
-<script type="text/javascript">
-	/* $("#blue-mobile-menu h2 a").removeAttr("href"); */
-	$("#blue-mobile-menu h3 a").removeAttr("href");
-</script></header>
-<nav id="breadcrumb">
-<h4>You are here</h4>
-<ol class="link_list">
+</div>
+</li>
+<li class="auto nav__links--primary nav__links--primary-has__sub js-enquire-has-sub">
+<span class="yCmsComponent nav__link js_nav__link">
+<a href="#" title="Brands">Brands</a></span><span class="hidden-md hidden-lg nav__link--drill__down js_nav__link--drill__down"></span>
+<div class="sub__navigation js_sub__navigation">
+<a class="sm-back js-enquire-sub-close hidden-md hidden-lg" href="#">Back</a>
+<div class="col-md-5 col-md-offset-4">
+<div class="row">
+<div class="sub-navigation-section col-xs-12 col-md-6">
+<ul class="sub-navigation-list ">
+<li class="yCmsComponent nav__link--secondary">
+<a href="/brands/lol-dolls" title="LOL Dolls">LOL Dolls</a></li><li class="yCmsComponent nav__link--secondary">
+<a href="/brands/funko" title="Funko">Funko</a></li><li class="yCmsComponent nav__link--secondary">
+<a href="/brands/nickelodeon/paw-patrol" title="Paw Patrol">Paw Patrol</a></li><li class="yCmsComponent nav__link--secondary">
+<a href="/brands/lego" title="LEGO">LEGO</a></li></ul>
+</div>
+<div class="sub-navigation-section col-xs-12 col-md-6">
+<ul class="sub-navigation-list ">
+<li class="yCmsComponent nav__link--secondary">
+<a href="/brands/disney" title="Disney">Disney</a></li><li class="yCmsComponent nav__link--secondary">
+<a href="/brands/marvel" title="Marvel">Marvel</a></li><li class="yCmsComponent nav__link--secondary">
+<a href="/brands/dreamworks-dragons" title="Dreamworks Dragons">Dreamworks Dragons</a></li><li class="yCmsComponent nav__link--secondary">
+<a href="/brands" title="More Brands">More Brands</a></li></ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="auto nav__links--primary ">
+<span class="yCmsComponent nav__link js_nav__link">
+<a href="/c/special-offers" title="Sale">Sale</a></span></li>
+<li class="auto nav__links--primary ">
+<span class="yCmsComponent nav__link js_nav__link">
+<a href="/presentfinder" class="presentfinder__nav__link" title="Present Finder">Present Finder</a></span></li>
+</ul>
+</div>
+</nav>
+<div class="content"><style>     @media only screen and (min-width: 1352px) {         .content .notransition {             -webkit-transition: none !important;             -moz-transition: none !important;             -o-transition: none !important;             transition: none !important;             -webkit-transform: none !important;             transform: none !important;             width: 100% !important;         }         .content .owl-item {             width: 25% !important         }         .content .iconImage {             margin-right: 8px !important;         }         .content .owl-controls {             display: none !important;         }     }  </style> <div class="js-owl-carousel owl-carousel js-owl-sitewide-message owl-theme owl-loaded owl-drag" style="opacity: 1; display: block;"> <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 3640px; left: 0px; display: block;"><div class="owl-item" style="width: 455px; margin-right: 0px;"><div class="item"> <div class="bannr_tab"> <div class="iconImage"><img alt="Free Click &amp; Collect" border="0" class="delIcon" src="/medias/Mouse.svg?context=bWFzdGVyfHJvb3R8Njc3MnxpbWFnZS9zdmcreG1sfGgwNi9oZTYvOTEyOTYwNjA1MzkxOC5zdmd8NmJjODQ1MjUwZTJmZmRmZGM0OGQ0MTI3MjRkYWIzMmE5OTkxMjkxMGNjYTBmMGFlODVhNjZjMmJjMzE0NGZmOQ"></div> <div class="textHoldStrap"><span class="strapHead">FREE CLICK &amp; COLLECT</span> <span class="strapBod">In as little as 30 minutes</span></div> </div> </div></div><div class="owl-item" style="width: 455px; margin-right: 0px;"><div class="item"> <div class="bannr_tab"> <div class="iconImage"><img alt="Free UK Delivery" border="0" class="delIcon" src="/medias/Truck.svg?context=bWFzdGVyfHJvb3R8NzYwNXxpbWFnZS9zdmcreG1sfGhhZi9oYTQvOTEyOTYwNTc5MTc3NC5zdmd8NDA5Mjc5Yzc5MGIzYTM2NGRhNmUzN2I1M2MyZDBlZTEwODRhNmM5NDZkY2I1ZjNiYjdhMzQyMjUzYzM0MWQ3Mw"></div> <div class="textHoldStrap"><span class="strapHead">FREE STANDARD UK DELIVERY</span> <span class="strapBod">When you spend £40</span></div> </div> </div></div><div class="owl-item" style="width: 455px; margin-right: 0px;"><div class="item"> <div class="bannr_tab"> <div class="iconImage"><img alt="Pick Up Drop Off" border="0" class="delIcon" src="/medias/Doddle-Image.png?context=bWFzdGVyfHJvb3R8MTQyNHxpbWFnZS9wbmd8aDkwL2g3Yy85MTU2Mjg4MzQ4MTkwLnBuZ3xlNzc1OWZkYWZjMDk3ODhlNDBiZWE1YjYyODYyYTZjNjMwMjhmMjRiZmE5OTY4MTRjZjAyNzkzMTZlMmFiZjlm"></div> <div class="textHoldStrap"><span class="strapHead">DODDLE &amp; MYHERMES PARCELSHOPS</span> <span class="strapBod">Collect your order at 1000s of locations</span></div> </div> </div></div><div class="owl-item" style="width: 455px; margin-right: 0px;"><div class="item"> <div class="bannr_tab"> <div class="iconImage"><img alt="Express Delivery" border="0" class="delIcon" src="/medias/Truck-order.svg?context=bWFzdGVyfHJvb3R8Nzk3N3xpbWFnZS9zdmcreG1sfGg0Mi9oNDAvOTEyOTYwNTkyMjg0Ni5zdmd8NDdiOGNhMTUzNzY4MGU3NjJhZWZiYTYzMGRmMTdlODE5ZTk1MzBmYTVkNDMyYjIxNGY5NjdkMmI5MjdjNGIyZA"></div> <div class="textHoldStrap"><span class="strapHead">NEXT WORKING DAY DELIVERY</span> <span class="strapBod">Order by 7pm using express delivery</span></div> </div> </div></div></div></div>    <div class="owl-controls clickable" style="display: block;"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"><span class="fa fa-chevron-left"></span></div><div class="owl-next"><span class="fa fa-chevron-right"></span></div></div></div></div></div><div class="breadcrumb-section">
+<ol class="breadcrumb">
 <li>
 <a href="/">Home</a>
 </li>
-<li class="active">
-<a href="#" onclick="return false;">TheToyShop | Privacy Policy</a>
-</li>
+<li class="active">Privacy | TheToyShop.com</li>
 </ol>
-</nav><div id="page">
-<div id="page_inner">
-<div id="main" role="main">
-<div class="span-24 section2">
-<div class="span-4 zone_a featured">
+
 </div>
-<div class="span-20 zone_b last">
-<style>
-    #main>div.span-24.section2>div.span-20.zone_b.last {
-        width: 100%;
+<div class="hidden-xs hidden-sm js-secondaryNavAccount collapse" id="accNavComponentDesktopOne">
+<ul class="nav__links">
+<li class="auto col-md-4"><a title="Saved Baskets" href="https://web.archive.org/my-account/saved-carts">Saved Baskets</a></li><li class="auto col-md-4"><a title="Payment Details" href="https://web.archive.org/my-account/payment-details">Payment Details</a></li><li class="auto col-md-4"><a title="My Interests" href="https://web.archive.org/my-account/my-interests">My Interests</a></li><li class="auto col-md-4"><a title="Password" href="https://web.archive.org/my-account/update-password">Password</a></li><li class="auto col-md-4"><a title="Jack's Birthday Club" href="https://web.archive.org/my-account/birthday-club-children">Jack's Birthday Club</a></li><li class="auto col-md-4"><a title="Order History" href="https://web.archive.org/my-account/orders">Order History</a></li><li class="auto col-md-4"><a title="Personal Details" href="https://web.archive.org/my-account/update-profile">Personal Details</a></li><li class="auto col-md-4"><a title="Wishlist" href="https://web.archive.org/my-account/wishlist">Wishlist</a></li><li class="auto col-md-4"><a title="Email Address" href="https://web.archive.org/my-account/update-email">Email Address</a></li><li class="auto col-md-4"><a title="Address Book" href="https://web.archive.org/my-account/address-book">Address Book</a></li></ul>
+</div>
+<div class="hidden-xs hidden-sm js-secondaryNavCompany collapse" id="accNavComponentDesktopTwo">
+<ul class="nav__links js-nav__links">
+</ul>
+</div>
+</header>
+<div class="yCmsContentSlot container-fluid">
+</div><a id="skip-to-content"></a>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12">
+<div class="global-alerts">
+<div class="alert alert-danger basketTotal-below-threshold" style="display:none">
+To get FREE Click &amp; Collect spend £</div>
+</div>
+</div>
+</div>
+</div><div class="">
+<div class="content"><style>
+    .piCustom {
+        width: 950px;
+        margin: auto;
     }
 
-    #privacy>h2 {
-        margin-bottom: 1%;
-    }
-
-    #privacy>h3 {
-        padding-bottom: 0;
-        margin-bottom: 2%;
-    }
-
-    #privacy>ul {
-        margin-bottom: 2%;
-    }
-
-    #privacy p {
+    .piCustom h2 {
+        margin-top: 0%;
         line-height: 1.5;
-        margin-bottom: 1%;
     }
 
+    @media screen and (max-width: 950px) {
+        .piCustom {
+            width: 95%;
+        }
+    }
 
     .piSect {
         background: blue;
         margin-bottom: 2%;
         border-radius: 10px;
-        width: 96%;
+        width: 100%;
         padding: 2%;
         background: #E9F7FF;
         cursor: pointer;
-        box-shadow: 0 5px 0 0 #407ec9;
     }
 
     .piSect h2 {
         margin-bottom: 0%;
+        margin-top: 0%;
         font-size: 14pt;
     }
 
@@ -1237,7 +624,6 @@ $('.copyright').text('© The Entertainer 2018');
 
     .piSect li {
         font-size: 11pt;
-        line-height: 1;
     }
 
     .rev {
@@ -1245,18 +631,13 @@ $('.copyright').text('© The Entertainer 2018');
     }
 
     @media screen and (max-width: 980px) {
-        .piSect {
-            width: 100%;
-            margin-bottom: 5%;
-        }
-        #privacy li {
-            list-style: disc;
-            margin-left: 5%;
-            padding-bottom: 2%;
+        .piCustom h2 {
+            font-size: 15pt;
         }
     }
 
 </style>
+<div class="piCustom">
 <div id="privacy">
 <h1 class="seoTag">Our Privacy Promise</h1>
 <p>We’re committed to protecting our customers’ personal data – old and new. We’ll always keep your data safe, up to date and only ever use it for what you have requested.</p>
@@ -1407,7 +788,7 @@ $('.copyright').text('© The Entertainer 2018');
 <br> HP6 6GL
 </p>
 <p>Or email:<br><a href="mailto:mydata@theentertainer.com">MyData@TheEntertainer.com</a></p>
-<h2>Legitimate interest</h2>
+<h2>Legitimate interests</h2>
 <p>As the new data protection law (GDPR) comes into force on 25th May 2018 there are a number of lawful reasons for us to use (or 'process') your personal information. One of the lawful reasons is called 'legitimate interests'. Broadly speaking Legitimate Interests means that we can process your personal information if:
 </p>
 <ul>
@@ -1424,384 +805,424 @@ $('.copyright').text('© The Entertainer 2018');
 <p>Cookies also enable us to check which pages are the most popular on the site and how visitors use our site. A cookie does not give us access to your computer.</p>
 <p>The 'help' menu in most web browsers will tell you how you can be informed when you receive a new cookie or how to disable cookies altogether. However, we recommend that you leave cookies turned on as they allow you to access some of the most useful features of TheToyShop.com.</p>
 </div>
+</div>
 <script>
     $('.piSect').click(function() {
         $(this).find('.rev').toggle('fast');
     });
 
-</script>
+</script></div></div><div class="container__full">
+<div class="row">
+<div class="yCmsContentSlot col-md-3">
+</div><div class="yCmsContentSlot col-md-9">
+</div></div>
+</div>
+<div class="yCmsContentSlot">
+</div><footer>
+
+<div class="container-fluid">
+<div class="footer__top row">
+<div class="footer__newsletter col-xs-12 col-sm-12 col-md-4">
+<div class="content"><style>     #nlsu, lolForm {         width: 100%;         display: block;     }      #nlsu h4, , lolForm h4 {         margin-bottom: 2%;         margin-top: 0%;         line-height: 1.2;     }      .nlsuInput {         width: 100%;     }      #EMAIL_FIELD {         border-radius: 25px;         font-family: "VAG Rounded Std Bold", "Tahoma Bold", sans-serif;         font-size: 10pt;         width: 100%;         padding-right: 27%;     }      #footerSignUp>div>span>button, #lolSignUp>div>span>button {         width: 110px;         height: 50px;         padding: 0;         margin-left: -80px;         border-radius: 25px !important;         box-shadow: none;         z-index: 201;     }  </style> <div id="nlsu"> <div id="formSUHold"> <h4>Sign up for our latest news and offers:</h4> <form id="footerSignUp" name="footerSignUp" action="https://p9tre.emv3.com/D2UTF8" method="POST" target="_top" onsubmit="validForm();return false"> <div class="input-group nlsuInput"> <div class="form-group"> <input type="hidden" name="emv_tag" value="A54C0400010B6D72"> <input type="hidden" name="emv_ref" value="oQHdAS9-ck-lm-75P3DdOQ18OoG4cT1WnsQetoOLNeltpFkVo6Sh_bqFcY4WmJ98/ptivjZfDCANKa5nc9NOVOg"> <input type="hidden" id="CUSTOM_FLAG_16_FIELD" name="CUSTOM_FLAG_16_FIELD" value=""> <input type="hidden" id="OPTED_IN_FIELD" name="OPTED_IN_FIELD" value="TRUE"> <input id="EMAIL_FIELD" name="EMAIL_FIELD" class="form-control form-control" placeholder="Enter your email address" type="text" value="" maxlength="64"></div> <span class="input-group-btn"> <button id="formbut" onclick="validForm();" class="btn btn-primary" type="submit" data-search-empty="Please enter a valid email address" disabled="">Sign up</button> </span> </div> </form> </div> <div id="thank-you" style="display:none"> <h4>Thank you. We'll be in touch soon!</h4> </div> </div></div></div>
+<div class="footer__left col-xs-12 col-sm-12 col-md-8">
+<div class="row">
+<div class="footer__nav--container col-xs-12 col-sm-12 col-md-3">
+<div class="title">Help<a class="footerNavToggle visible-xs visible-sm collapsed" data-toggle="collapse" href="#footerNavList0" role="button" aria-expanded="false" aria-controls="footerNavList0"><i class="glyphicon glyphicon-triangle-top"></i></a></div>
+<ul class="footer__nav--links collapse" id="footerNavList0">
+<li class="yCmsComponent footer__link">
+<a href="/faq-UK-delivery" title="Delivery options">Delivery options</a></li><li class="yCmsComponent footer__link">
+<a href="/returns" title="Returns">Returns</a></li><li class="yCmsComponent footer__link">
+<a href="/help-international" title="Worldwide shipping">Worldwide shipping</a></li><li class="yCmsComponent footer__link">
+<a href="/contactus" title="Contact us">Contact us</a></li><li class="yCmsComponent footer__link">
+<a href="/help" title="More help">More help</a></li></ul>
+</div>
+<div class="footer__nav--container col-xs-12 col-sm-12 col-md-3">
+<div class="title">About The Entertainer<a class="footerNavToggle visible-xs visible-sm collapsed" data-toggle="collapse" href="#footerNavList1" role="button" aria-expanded="false" aria-controls="footerNavList1"><i class="glyphicon glyphicon-triangle-top"></i></a></div>
+<ul class="footer__nav--links collapse" id="footerNavList1">
+<li class="yCmsComponent footer__link">
+<a href="/aboutus" title="About us">About us</a></li><li class="yCmsComponent footer__link">
+<a href="/store-finder" title="Store finder">Store finder</a></li><li class="yCmsComponent footer__link">
+<a href="/the-entertainer-squad" title="The Entertainer Squad">The Entertainer Squad</a></li><li class="yCmsComponent footer__link">
+<a href="/charity" title="Charity">Charity</a></li><li class="yCmsComponent footer__link">
+<a href="/medias/Modern-Slavery-Statement-2019-A4.pdf?context=bWFzdGVyfHJvb3R8MjA5MDQ5fGFwcGxpY2F0aW9uL3BkZnxoNTEvaDk2LzkxNzA0MzQzOTIwOTQucGRmfGJmNjRmN2UxNjg3NzViODcxYzIwMWNiMjc4YTE2MDdmOGU1ZDY1NmI5YTk2ZDJlNzhlNWQxY2I3NWFkNWUzMjE" title="Modern Slavery Statement">Modern Slavery Statement</a></li></ul>
+</div>
+<div class="footer__nav--container col-xs-12 col-sm-12 col-md-3">
+<div class="title">Useful links<a class="footerNavToggle visible-xs visible-sm collapsed" data-toggle="collapse" href="#footerNavList2" role="button" aria-expanded="false" aria-controls="footerNavList2"><i class="glyphicon glyphicon-triangle-top"></i></a></div>
+<ul class="footer__nav--links collapse" id="footerNavList2">
+<li class="yCmsComponent footer__link">
+<a href="/affiliates" title="Affiliates">Affiliates</a></li><li class="yCmsComponent footer__link">
+<a href="/gift-cards/The-Entertainer-Gift-Card-%C2%A310/p/99870000001_10" title="Gift cards">Gift cards</a></li><li class="yCmsComponent footer__link">
+<a href="/careers" title="Careers">Careers</a></li><li class="yCmsComponent footer__link">
+<a href="/press" title="Press">Press</a></li><li class="yCmsComponent footer__link">
+<a href="/franchising" title="Franchising">Franchising</a></li></ul>
 </div>
 </div>
-<div class="span-24 section3 featured">
+</div>
+<div class="footer__social col-xs-12 col-sm-12 col-md-4">
+<div class="content"><style>     #social_buttons.socemnav img {         width: 14%;     }      @media only screen and (max-width: 1024px) {         #social_buttons.socemnav,         h1#follow {             text-align: center         }     }      @media only screen and (max-width: 480px) {         #social_buttons.socemnav img {             width: 18%;         }     }  </style> <h4 id="follow">Follow us on</h4> <div class="socemnav" id="social_buttons"> <a target="_blank" href="https://www.facebook.com/TheEntertainerToyShop" onclick="ga(‘send’, ‘event’, ‘External Link’, ‘Homepage’, ‘Facebook’);"><img src="/medias/Facebook-Logo.png?context=bWFzdGVyfHJvb3R8Njc2NnxpbWFnZS9wbmd8aDI2L2hjNy85MTI5NDQyOTY3NTgyLnBuZ3xmZTAwM2QxZGNiZmQ5ZDI2ODlmZmY0ZWY1OTU1ZmE0MTJiMTNmZjkwYjI1NjM0YjNmMzg0OGEwMmM5ZTEyMzVl" id="facebook"></a> <a target="_blank" href="https://twitter.com/ENTertainertoys" onclick="ga(‘send’, ‘event’, ‘External Link’, ‘Homepage’, ‘Twitter’);"><img src="/medias/Twitter-Logo.png?context=bWFzdGVyfHJvb3R8NjIyMXxpbWFnZS9wbmd8aGI1L2g0Yy85MTI5NDQzMDMzMTE4LnBuZ3xiNWI5YWZjNzkxYWFlZmEwOWJlYTAyMGIwNDkwM2UzYjJkMmQ2ZDRkOWMyNmFjMWIxOTBhNmNkMjEwOTJhMDM2" id="twitter"></a> <a target="_blank" href="https://uk.pinterest.com/EntertainerToys/" onclick="ga(‘send’, ‘event’, ‘External Link’, ‘Homepage’, ‘Pinterest’);"><img src="/medias/Pinterest-Logo.png?context=bWFzdGVyfHJvb3R8NzM1NnxpbWFnZS9wbmd8aDE0L2g5My85MTI5NDQzMDk4NjU0LnBuZ3w0NGJiMWFiYzYzZTQwMjJkNDE4NGQ5NTM4ZjcyM2NiNzc1M2YzZmNlY2ZkM2I1ZGJlYmE2Y2IyMDNkNTYxYmFi" id="pinterest"></a> <a target="_blank" href="https://www.instagram.com/entertainer_toys/" onclick="ga(‘send’, ‘event’, ‘External Link’, ‘Homepage’, ‘Instagram’);"><img src="/medias/Instagram-Logo.png?context=bWFzdGVyfHJvb3R8MTA2NTJ8aW1hZ2UvcG5nfGhjZC9oYmIvOTEyOTQ0MzAwMDM1MC5wbmd8YzRlZDhmYjE2NGUxOGRjOTNmMmRiZjUzZWU4ODQxYTljZTcxNGE4NDBkZjI1YmQ1NWEwMWVhZGFkYTUxNjgzMQ" id="instagram"></a> <a target="_blank" href="https://www.youtube.com/user/EntertainerToyShop" onclick="ga(‘send’, ‘event’, ‘External Link’, ‘Homepage’, ‘YouTube’);"><img src="/medias/YouTube-Logo.png?context=bWFzdGVyfHJvb3R8NzA5M3xpbWFnZS9wbmd8aDExL2g5OS85MTI5NDQzMTY0MTkwLnBuZ3xhOTg0NjUxOGM1NjU1OTA3MzFjOWQxYjhmZmIxZWY5ODc5NmIwOGQ1ZTYzODM1NjZkNzQxZDdhNTVlOTU2ZjMw" id="youtube"></a> </div></div></div>
 </div>
 </div>
-<footer role="contentinfo">
-<nav id="tertiary">
-<section class="footer-ac-container">
-<div class="footer-0">
-<input id="footer-0" name="accordion-0" type="checkbox">
-<label for="footer-0"><h3>Help</h3></label>
-<article class="ac-medium">
-<ul class="link_list left_col">
-<li class="left_col">
-<a href="/contactus">Contact us</a>
-</li>
-<li class="left_col">
-<a href="http://www.thetoyshop.com/faq-uk-delivery" target="_new">Deliveries</a>
-</li>
-<li class="left_col">
-<a href="/returns">Returns</a>
-</li>
-<li class="left_col">
-<a href="/help" target="_new">Further help</a>
-</li>
-</ul>
-</article>
-</div>
-<div class="footer-1">
-<input id="footer-1" name="accordion-1" type="checkbox">
-<label for="footer-1"><h3>About</h3></label>
-<article class="ac-medium">
-<ul class="link_list left_col">
-<li class="left_col">
-<a href="/aboutus">About us</a>
-</li>
-<li class="left_col">
-<a href="/careers">Careers</a>
-</li>
-<li class="left_col">
-<a href="/affiliates">Affiliates</a>
-</li>
-<li class="left_col">
-<a href="/franchising">Franchising</a>
-</li>
-<li class="left_col">
-<a href="/press">Press</a>
-</li>
-</ul>
-</article>
-</div>
-<div class="footer-2">
-<input id="footer-2" name="accordion-2" type="checkbox">
-<label for="footer-2"><h3>Stay connected</h3></label>
-<article class="ac-medium">
-<ul class="link_list left_col">
-<li class="left_col">
-<a href="https://www.facebook.com/TheEntertainerToyShop" target="_new">Facebook</a>
-</li>
-<li class="left_col">
-<a href="https://twitter.com/ENTertainertoys" target="_new">Twitter</a>
-</li>
-<li class="left_col">
-<a href="https://www.instagram.com/entertainer_toys/" target="_new">Instagram</a>
-</li>
-<li class="left_col">
-<a href="/signup">Sign up for emails</a>
-</li>
-<li class="left_col">
-<a href="/events">In-store Events</a>
-</li>
-</ul>
-</article>
-</div>
-<div class="footer-3">
-<input id="footer-3" name="accordion-3" type="checkbox">
-<label for="footer-3"><h3>Useful links</h3></label>
-<article class="ac-medium">
-<ul class="link_list left_col">
-<li class="left_col">
-<a href="https://ask.thetoyshop.com/help/payment/entertainerforbusiness" target="_new">B2B Gift cards</a>
-</li>
-<li class="left_col">
-<a href="/store-finder">Store finder</a>
-</li>
-<li class="left_col">
-<a href="/Gift-Cards/The-Entertainer-Gift-Card/p/99870000001_X">Gift cards</a>
-</li>
-<li class="left_col">
-<a href="https://createyourown.thetoyshop.com/" target="_new">Create Your Own</a>
-</li>
-</ul>
-</article>
-</div>
-</section>
-</nav>
-<style>
-/* Create Your own */
-
-header[role='banner'] #announcements {
-  background: None;
-}
-
-/* homepage pod align */
-@media screen and (max-width: 480px) {
-  #section5 > ul > li:nth-child(5) {
-    float: none!important;
-    margin: auto!important;
-  }
-}
-
-
-.create-your-own {
-  background: #8cc63f;
-  /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#8cc63f, #77a934);
-  /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#8cc63f, #77a934);
-  /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#8cc63f, #77a934);
-  /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#8cc63f, #77a934);
-  /* Standard syntax */
-  top: -2px;
-  padding-bottom: 4px;
-  border-right: none;
-}
-
-#blue-mobile-menu > li:nth-child(7) {
-  background: #8cc63f;
-  /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#8cc63f, #77a934);
-  /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#8cc63f, #77a934);
-  /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#8cc63f, #77a934);
-  /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#8cc63f, #77a934);
-  /* Standard syntax */
-}
-
-#blue-mobile-menu > li:nth-child(7) > h2 > a {
-  text-shadow: 1px 1px 0px black;
-}
-
-.create-your-own > h2 {
-  border-right: none!important;
-}
-
-.create-your-own:hover {
-  background: #628a2c;
-}
-
-.seoTag {
-  margin-bottom: 1%!important;
-}
-
-
-/* Go button */
-
-@media screen and (max-width: 980px) {
-  /* Search go button */
-  #search_form > input.button {
-    width: 10%!important;
-    padding: 1.8%!important;
-    border-radius: 10px!important;
-  }
-  #search {
-    width: 75%!important;
-  }
-  /* Present finder */
-  #Present-Finder-Mobile > div > div > form > div.select_holder.highlight.styled > .select_wrap {
-    margin-top: 2%;
-  }
-  #Present-Finder-Mobile > div {
-    padding-bottom: 0%;
-  }
-  #show_all_brands > a {
-    font-weight: bold!important;
-  }
-  /* sort form */
-  #sort_form1 {
-    width: 82%;
-  }
-}
-
-@media screen and (max-width: 560px) {
-  /* Present finder */
-  #Present-Finder-Mobile > div > div > form > div.select_holder.highlight.styled > .select_wrap {
-    margin-top: 4%;
-  }
-  .seoTag {
-    margin-bottom: 2%!important;
-  }
-}
-/* Specification Box */
-@media (max-width: 35.5em) {
-  .item.specifications ul.item_content li dl dt {
-    width: 100%;
-    margin-top: 2%;
-    margin-bottom: 1%;
-  }
-}
-
-/* PLP View all */
-@media screen and (max-width: 340px) {
-  #sort_form1 {
-    width: 100%;
-  }
-}
-/* PDP Gallery image Tidy */
-.jcarousel-container-vertical .jcarousel-next-vertical, .jcarousel-container-vertical .jcarousel-next-vertical:hover {
-    background-position: 50% -70px;
-   }
-
-@media screen and (max-width: 980px) {
-#scroller > div.jcarousel-clip.jcarousel-clip-vertical, #scroller > div.jcarousel-clip.jcarousel-clip-vertical:hover {
-  height: 88%!important;
-  margin-top: 1em!important;
-  margin-bottom: 1em!important;
-}
-
-}
-@media screen and (max-width: 480px) {
-#scroller > div.jcarousel-clip.jcarousel-clip-vertical {
-  height: 83%!important;
-    margin-top: 1em!important;
-  margin-bottom: 1em!important;
-}
-}
-/* Squished product images */
-#media_primary {
-  overflow: hidden;
-}
-@media (max-width: 37.75em) {
-.prod_panel .product_image_viewer #primary_image #media_primary img {
-    width: 100%;
-    height: auto; 
-    max-height: 110%;
-    margin-top: -5%;
-}
-}
-/* PDP click and collect check */
-  #modal_content .stock_check_results_extended h3.shutl_title.unavailable {
-    display: none;
-  }
-
-@media screen and (max-width: 500px) {
-    #modal_content .product_stock_check .text_holder.button_holder.multi_holder input#PostCode {
-    width: 100%!important;
-  }
-    #modal_content .product_stock_check .text_holder.button_holder.multi_holder .button {
-    width: 85%;
-    margin: auto;
-    position: relative;
-    display: block;
-    padding: 2%;
-  }
-  .stock_check_popup > #modal_footer > div > ul > li > a {
-    font-size: 1.4em!important;
-    padding: 3%!important;
-    width: 100%!important;
-    height: auto!important;
-    margin-top: 0%!important;
-      margin-bottom: 3%!important;
-  }
-   .stock_check_popup > #modal_footer > div > ul > li  {
-  width: 100%!important;
-  float: none!important;
-}
-}
-/* Color Box improvement */
-
-@media screen and (max-width: 500px) {
-#modal_content_holder > div.top.links > ul > li, #modal_content > div.links > ul > li {
-    width: 100%!important;
-    float: none!important;
-}
-#modal_content_holder > div.top.links > ul > li > a, #modal_content > div.links > ul > li > a {
-    width: 100%!important;
-    margin-bottom: 3%!important;
-    margin-top: 0%!important;
-}
-}
-
-
-
-</style>
-<div id="bottom">
-<p class="copyright">© The Entertainer 2016</p>
-<ul class="site_links">
-<li><a href="/">Home</a>
-</li>
-<li><a href="/terms">Terms &amp; Conditions</a>
-</li>
-<li><a href="/privacy">Privacy</a>
-</li>
-<li><a href="/sitemap">Site Map</a>
-</li>
-</ul>
-<ul class="card_types">
-<li class="card_type logo visa">Visa</li>
-<li class="card_type logo paypal">Paypal</li>
-<li class="card_type logo mastercard">Mastercard</li>
-<li class="card_type logo amazon">Amazon</li>
-</ul>
-</div>
-</footer>
+<div class="container-fluid">
+<div class="footer__bottom row">
+<div class="footer__copyright col-xs-12 col-sm-7 col-md-6">
+<div class="container">
+<span>© The Entertainer 2018</span>
+<span><a href="/" title="Home">Home</a></span>
+<span><a href="/terms" title="Terms &amp; Conditions">Terms &amp; Conditions</a></span>
+<span><a href="/privacy" title="Privacy">Privacy</a></span>
+<span><a href="/sitemap" title="Site Map">Site Map</a></span>
 </div>
 </div>
-<script id="addedTemplate" type="text/x-jquery-tmpl">
-	<span class="wishlist_added">Added to wishlist</span>
-</script>
-<script id="removedTemplate" type="text/x-jquery-tmpl">
-	<span class="wishlist_removed delete">Removed from wishlist</span>
-</script>
-<footer>
-<nav id="secondary" class="highlight">
-<div class="inner">
-<ul class="top_level intent active">
-<li class="recently_viewed empty count">
-<h2>
-<span class="title">Recently Viewed <span class="count">0</span></span>
-</h2>
-</li>
-<li class=" auto columns_0">
-<h2>
-<a href="/my-account/wishlist" target="_new">Wishlist</a>
-</h2>
-</li>
-<li class="my_basket link count" data-cartid="MiniCart" data-totals="SUBTOTAL">
-<h2>
-<a href="/cart">
-<i class="fa fa-shopping-cart"></i>
-<em>My Basket</em>
-<span class="count">
-0</span>
-<span class="total">
-£0.00
+<div class="footer__payments col-xs-12 col-sm-5 col-md-6">
+<span>
+<i class="fa fa-cc-paypal" aria-hidden="true"></i>
 </span>
-</a>
-</h2>
-</li>
-<li class="help auto columns_0">
-<h2>
-<a href="/help" target="_new">Help</a>
-</h2>
-</li>
-<div id="entCNDiv">
-<div id="entCNContent">
-<a class="closeButton" href="javascript:Toyshop.Common.cookieAccept()"><img src="/_ui/thetoyshop/images/icon-clear-white.png"></a>
-<p><span style="color: #ffffff; font-family: arial, helvetica, sans-serif; font-size: small; line-height: 18px;">We use cookies to help give you the best possible browsing experience.<br>By using our site, you are accepting our use of cookies For more detail click <a href="https://ask.thetoyshop.com/help/general/cookies">here</a>.</span></p>
+<span>
+<i class="fa fa-cc-mastercard" aria-hidden="true"></i>
+</span>
+<span>
+<i class="fa fa-cc-visa" aria-hidden="true"></i>
+</span>
+<span>
+<i class="amazon-pay" aria-hidden="true"></i>
+</span>
 </div>
 </div>
-</ul>
 </div>
-</nav>
-<a id="footer_toggle" href="#"><div id="image_temp"></div></a>
 </footer>
-</div>
-<script type="text/javascript" src="/_ui/common/js/blue-mobile.js"></script>
-<script>
-			$("#blue-mobile-menu").blueMobileMenu();
-		</script>
-
-
+</main>
+<form name="accessiblityForm">
+<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value="">
+</form>
+<div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
 <script type="text/javascript">
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+		/*<![CDATA[*/
+		
+		var ACC = { config: {} };
+			ACC.config.contextPath = "/";
+			ACC.config.encodedContextPath = "";
+			ACC.config.commonResourcePath = "/_ui/responsive/common";
+			ACC.config.themeResourcePath = "/_ui/responsive/theme-toyshop";
+			ACC.config.siteResourcePath = "/_ui/responsive/site-thetoyshop";
+			ACC.config.rootPath = "/_ui/responsive";	
+ 			ACC.config.CSRFToken = "";
+			ACC.pwdStrengthVeryWeak = 'Very weak';
+			ACC.pwdStrengthWeak = 'Weak';
+			ACC.pwdStrengthMedium = 'Medium';
+			ACC.pwdStrengthStrong = 'Strong';
+			ACC.pwdStrengthVeryStrong = 'Very strong';
+			ACC.pwdStrengthUnsafePwd = 'password.strength.unsafepwd';
+			ACC.pwdStrengthTooShortPwd = 'Too short';
+			ACC.pwdStrengthMinCharText = '';
+			ACC.accessibilityLoading = 'Loading... Please wait...';
+			ACC.accessibilityStoresLoaded = 'Stores loaded';
+			ACC.config.googleApiKey="AIzaSyBngEwxm4VfQxDe2nWiG_z7LYzZ367BLM0";
+			ACC.config.googleApiVersion="3.7";
+
+			
+			ACC.autocompleteUrl = '/search/autocompleteSecure';
+
+			
+			ACC.config.loginUrl = '/login';
+
+			
+			ACC.config.authenticationStatusUrl = '/authentication/status';
+
+			
+			ACC.config.authenticationTemporaryNoticeUserUrl = '/authentication/temporaryNoticeUser';
+
+			
+			ACC.config.checkProductVariantLevelUrl = '/p/{productCode}/variantCheck';
+
+			
+			
+			var PAYMENT = {
+				     form: {
+				         validation: {
+				        	 title : {
+				        		 required : 'Please select a title'
+				        	 },
+				             firstname: {
+				                 required: 'Please enter a first name',
+				                 invalid: 'Invalid first name '
+				             },
+				             surname: {
+				                 required: 'Please enter a last name',
+				                 invalid: 'Invalid last name'
+				             },
+				             line1: {
+				                 required: 'Please enter address Line 1',
+				                 invalid: 'Invalid Address'
+				             },
+				             line2: {
+				                 invalid: 'Invalid Address'
+				             },
+				             townCity: {
+				                 required: 'Please enter a Town/City',
+				                 invalid: 'Invalid Town'
+				             },
+				             postcode: {
+				                 required: 'Please enter post code',
+				                 invalid: 'Invalid postcode'
+				             },
+				             country: {
+				                 required: 'Please select a country'
+				             },
+							 phone: {
+				        	   	required: 'Please enter a Phone Number',
+                                 invalid: 'Please enter a valid phone number. Note: Spaces or other characters are not accepted'
+							 },
+				             cardType: {
+				                 required: 'Please select a cart type',
+				             },
+				             cardNumber: {
+				                 required: 'Please enter a card number',
+				                 invalid: 'The card number is not valid'
+				             },
+				             cardName: {
+				                 required: 'Please enter a card name',
+				                 invalid: 'The card name is not valid'
+				             },
+				             expiryMonth: {
+				                 required: 'Please enter an expiry month',
+				             },
+				             expiryYear: {
+				                 required: 'Please enter an expiry year',
+				             },
+				             cardCV: {
+				                 required: 'Please enter your CVV number (it\'s the last three digits of the number on the back of your card).',
+				                 invalid: 'The security code is not valid'
+				             },
+				             tandc: {
+				                 required: 'Please accept our terms & conditions before submitting your order.',
+				             },
+				             paypaltanc:{
+				            	 required: 'Please accept our terms &amp; conditions.',
+				             }
+				         }
+				     }
+				 };
+			
+		/*]]>*/
+	</script>
+<script type="text/javascript">
+	/*<![CDATA[*/
+	ACC.addons = {};	//JS holder for addons properties
+			
+	
+		ACC.addons.notificationaddon = [];
+		
+		ACC.addons.smarteditaddon = [];
+		
+		ACC.addons.customerinterestsaddon = [];
+		
+		ACC.addons.givex = [];
+		
+		ACC.addons.thetoyshopstocknotification = [];
+		
+	/*]]>*/
+</script>
+<script type="text/javascript" src="/_ui/shared/js/generatedVariables.js"></script><script>(function(n,t,i,r){var u,f;n[i]=n[i]||{},n[i].initial={accountCode:"THEEN11124",host:"THEEN11124.pcapredict.com"},n[i].on=n[i].on||function(){(n[i].onq=n[i].onq||[]).push(arguments)},u=t.createElement("script"),u.async=!0,u.src=r,f=t.getElementsByTagName("script")[0],f.parentNode.insertBefore(u,f)})(window,document,"pca","//THEEN11124.pcapredict.com/js/sensor.js")</script><script type="text/javascript" src="/wro/all_responsive.js"></script>
+<script type="text/javascript">
+			$(document).ready(function () {
+				// Set the _csrf hidden input fields value to the CSRF cookie value
+			    $('[name="_csrf"]').val("");
+			});
+        </script>
+<script type="text/javascript">
+            ACC.presentFinder.contextPath = "";
+        </script>
+<script type="text/javascript" src="/wro/addons_responsive.js"></script>
+<script type="text/javascript" src="/wro/hybris_addons.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$.cookieBar({
+			message:"We use cookies to help give you the best possible browsing experience. By using our site, you are accepting our use of cookies.",
+			acceptText:"X",
+			acceptFunction:function(cookieValue){
+
+				var acceptUrl = ""; // Use HTTPS Endpoint by default
+
+				if(location.protocol != 'https:')	// if the current page does not use https protocol, use the normal HTTP endpoint:
+				{
+					acceptUrl = "";
+				}
+
+				if(acceptUrl!='') {
+					$.get(acceptUrl);
+				}
+			},
+			declineButton:false,
+			declineText:""
+		});
+	});
+
+	var i,cookieValue='',aCookie,aCookies=document.cookie.split('; ');
+	for (i=0;i<aCookies.length;i++){
+		aCookie = aCookies[i].split('=');
+		if(aCookie[0]=='cb-enabled'){
+			cookieValue = aCookie[1];
+		}
+	}
+
 </script>
 
-</body></html>
+<script>
+
+
+        //DataLayer: No specific Page type page
+    
+    function trackAddToCart_GTM(productCode, quantityAdded, name, price, wasPrice, preOrderAvailable, productCategories, brand, averageRating) {
+        
+
+       	var dimension1 = 0.0;
+		if(wasPrice != null && wasPrice != undefined && wasPrice != "") {
+			dimension1 = Number(wasPrice) - Number(price);
+		}
+		var dimension3 = "no";
+		if (preOrderAvailable == 'true') {
+			dimension3 = "yes";
+		}
+        
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
+			'event': 'AddtoBasket',
+			'eventCategory':'Ecommerce',
+			'eventAction':'Add',
+			'eventLabel':name,
+			'eventValue':price,
+			'ecommerce': {
+	            'add': {
+	              'products': [{
+            	  	'id':productCode,
+			        'category':(productCategories != null && productCategories != '' && productCategories != undefined ? productCategories : undefined),
+			        'name':name,
+		        	'brand':(brand != '' && brand != null && brand != undefined ? brand : undefined),
+			        'price': price,
+			        'quantity':quantityAdded,
+			        'dimension4':(averageRating != '' && averageRating != null && averageRating != undefined ? averageRating : undefined),
+			        'dimension1':dimension1,
+			        'dimension3':dimension3
+	               }]
+	            }
+			}
+		});
+	}
+    
+    function trackProductClickEvent_GTM(event) {
+    	window.dataLayer = window.dataLayer || [];
+		var targetElement = event.target;
+    	
+    	var dimension1 = 0.0;
+		if(targetElement.getAttribute('data-wasPrice') != null && targetElement.getAttribute('data-wasPrice') != undefined && targetElement.getAttribute('data-wasPrice') != "") {
+			dimension1 = Number(targetElement.getAttribute('data-wasPrice')) - Number(targetElement.getAttribute('data-productPrice'));
+		}
+		var dimension2 = "in stock";
+		if(targetElement.getAttribute('data-inStock') == 'false') {
+			dimension2 = "out of stock";
+		}
+		var dimension3 = "no";
+		if (targetElement.getAttribute('data-preOrderAvailable') == 'true') {
+			dimension3 = "yes";
+		}
+		
+		dataLayer.push({
+			'event': 'productClick',
+			'eventCategory':'Ecommerce',
+			'eventAction':'Product Click',
+			'eventLabel':targetElement.getAttribute('data-productName'),
+			'eventValue':targetElement.getAttribute('data-productPrice'),
+			'ecommerce': {
+				'click': {
+					'actionfield': {
+						'list': 'Search Result'
+					},
+					'products': [{
+						'id':targetElement.getAttribute('data-productCode'),
+				        'category':(targetElement.getAttribute('data-categories') == null || targetElement.getAttribute('data-categories') == "" || targetElement.getAttribute('data-categories') == undefined ? undefined : targetElement.getAttribute('data-categories')),
+				        'name':targetElement.getAttribute('data-productName'),
+				        'brand':(targetElement.getAttribute('data-brand') == null || targetElement.getAttribute('data-brand') == "" || targetElement.getAttribute('data-brand') == undefined ? undefined : targetElement.getAttribute('data-brand')),
+				        'price': targetElement.getAttribute('data-productPrice'),
+				        'quantity':'1',
+				        'dimension4':(targetElement.getAttribute('data-averageRating') == null || targetElement.getAttribute('data-averageRating') == "" || targetElement.getAttribute('data-averageRating') == undefined ? undefined : targetElement.getAttribute('data-averageRating')),
+				        'dimension2':dimension2,
+				        'dimension1':dimension1,
+				        'dimension3':dimension3
+					}]
+				}
+			}
+		});
+    }
+
+    function trackRemoveFromCart_GTM(productCode, initialQuantity, name, price, wasPrice, preOrderAvailable, productCategories, brand, averageRating) {
+        window.dataLayer = window.dataLayer || [];
+
+        var dimension1 = 0.0;
+		if(wasPrice != null && wasPrice != undefined && wasPrice != "") {
+			dimension1 = Number(wasPrice) - Number(price);
+		}
+		var dimension3 = "no";
+		if (preOrderAvailable == 'true') {
+			dimension3 = "yes";
+		}
+		
+		dataLayer.push({
+			'event': 'RemovefromBasket',
+			'eventCategory':'Ecommerce',
+			'eventAction':'Remove',
+			'eventLabel':name,
+			'eventValue':price,
+			'ecommerce': {
+				'remove': {
+					'products': [{
+						'id':productCode,
+				        'category':productCategories,
+				        'name':name,
+				        'brand':(brand != '' && brand != null && brand != undefined ? brand : undefined),
+				        'price': price,
+				        'quantity':initialQuantity,
+				        'dimension4':(averageRating != '' && averageRating != null && averageRating != undefined ? averageRating : undefined),
+				        'dimension1':dimension1,
+				        'dimension3':dimension3
+					}]
+				}
+			}
+		});
+    }
+
+
+    function trackUpdateCart_GTM(productCode, initialQuantity, newQuantity, name, price, wasPrice, preOrderAvailable, productCategories, brand, averageRating) {
+            if (initialQuantity < newQuantity) {
+                trackAddToCart_GTM(productCode, newQuantity-initialQuantity, name, price, wasPrice, preOrderAvailable, productCategories, brand, averageRating);
+            } 
+            else if (initialQuantity > newQuantity){
+                trackRemoveFromCart_GTM(productCode, initialQuantity-newQuantity, name, price, wasPrice, preOrderAvailable, productCategories, brand, averageRating);
+            }
+
+    }
+
+
+    window.mediator.subscribe('trackAddToCart', function(data) {
+        if (data.productCode && data.quantity)
+        {
+            trackAddToCart_GTM(data.productCode, data.quantity, data.productName, data.productPrice, data.wasPrice, data.preOrderAvailable, data.categories, data.brand, data.averageRating);
+        }
+
+    });
+
+    window.mediator.subscribe('trackUpdateCart', function(data) {
+        if (data.productCode && data.initialCartQuantity)
+        {
+            trackUpdateCart_GTM(data.productCode, data.initialCartQuantity, data.newCartQuantity, data.productName, data.productPrice, data.wasPrice, data.preOrderAvailable, data.categories, data.brand, data.averageRating);
+        }
+    });
+
+    window.mediator.subscribe('trackRemoveFromCart', function(data) {
+        if (data.productCode && data.initialCartQuantity)
+        {
+            trackRemoveFromCart_GTM(data.productCode, data.initialCartQuantity,  data.productName, data.productPrice, data.wasPrice, data.preOrderAvailable, data.categories, data.brand);
+        }
+    });
+</script>
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
