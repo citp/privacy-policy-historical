@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the football365.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905002736id_/https%3A//www.football365.com/privacy-and-cookies-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football365.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502170216id_/https%3A//www.football365.com/privacy-and-cookies-notice) for the most accurate reproduction.*
 
-# Privacy and Cookies Notice - Football365
+# Privacy and Cookies Notice
 
 This Website is owned by **Planet Sport Publishing Ltd (hereafter “Business”)** , a Company registered in England and Wales.
 
