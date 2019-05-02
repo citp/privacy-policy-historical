@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqua-calc.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008142619id_/https%3A//www.aqua-calc.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqua-calc.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502102508id_/https%3A//www.aqua-calc.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Aqua-Calc, an AVCalc LLC website
 
@@ -33,7 +33,7 @@ This Site uses Google Analytics software to collect information from your web br
 
 The Google Analytics features this Site implements is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Using the [Ads Settings](https://www.google.com/settings/ads) you may opt out of Google Analytics for Display Advertising and customize Google Display Network ads. For more information on Google Analytics and the kind of information that Google Analytics collects and processes, please visit Google Analytics web site and Google privacy policy associated with the Google Analytics usage.
 
-Third party vendors, including Google, use cookies to serve ads based on your prior visits to this Site. Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to this Site and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
+We use third-party advertising companies to serve ads when you visit this Site. Third party vendors, including Google and its partners, use cookies to serve ads based on your prior visits to this Site and/or other sites on the Internet. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the [Opt Out](http://www.networkadvertising.org/managing/opt_out.asp) page of the Network Advertising Initiative. In addition, you may opt out of personalized advertising provided by Google and its partners by visiting [Ads Settings](https://www.google.com/settings/ads). 
 
 We collect and use, and may from time to time supply third parties with, this information only as anonymous, aggregated user data for the purposes of usage analysis, quality control and administering and improving the Site.
 
@@ -62,4 +62,4 @@ Hoboken, NJ 07030
 
 If you are an EU resident, you may contact our Data Protection Officer at dpo[at]avcalc.com
 
-Last updated: 12 July 2018.
+Last updated: 22 March 2019.
