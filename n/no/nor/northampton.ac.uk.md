@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northampton.ac.uk privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020061900id_/https%3A//www.northampton.ac.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northampton.ac.uk privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502110800id_/https%3A//www.northampton.ac.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | University of Northampton
 
@@ -18,7 +18,7 @@ We may also collect information about your computer, including where available y
 
 ### How the information collected is used
 
-Personal information provided to the University by you will only be used for the purposes stated when the information is requested. Personal information will not be sold to third parties, or provided to direct marketing companies or other such organisations without your permission. Personal information collected and/or processed by the University is held in accordance with the provisions of the Data Protection Act 1998.
+Personal information provided to the University by you will only be used for the purposes stated when the information is requested. Personal information will not be sold to third parties, or provided to direct marketing companies or other such organisations without your permission. Personal information collected and/or processed by the University is held in accordance with the the provisions of the General Data Protection Regulation (EU) 2016/679 (GDPR) and the Data Protection Act 2018.
 
 Demographical and statistical information about user behaviour may be collected and used to analyse the popularity and effectiveness of the University’s website. Any disclosure of this information will be in aggregate form and will not identify individual users.
 
@@ -36,7 +36,7 @@ For more detailed information on the cookies we use on the University’s main w
 
 ## Access to information
 
-The Data Protection Act 1998 gives you the right to access information held about you. For further information about this right and how to exercise it, please see the University’s Policy on Data Protection.
+The provisions of the General Data Protection Regulation (EU) 2016/679 (GDPR) and the Data Protection Act 2018 gives you the right to access information held about you. For further information about this right and how to exercise it, please see the University’s Policy on Data Protection.
 
 ## Changes to our Privacy Policy
 
