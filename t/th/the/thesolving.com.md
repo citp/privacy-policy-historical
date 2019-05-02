@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thesolving.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830160107id_/http%3A//thesolving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesolving.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502070826id_/https%3A//thesolving.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Solving
 
 **Nanosystems S.r.l.** – head / registered office: Via del Commercio 76/A, 63100 Ascoli Piceno (AP) Italy – is committed in protecting your privacy and developing technologies to give you the most secure navigation. Nanosystems S.r.l. is the data owner and controller.
 
-This privacy statement explains data collection and use practices of Nanosystems S.r.l. through the website [**http://thesolving.com**](http://thesolving.com/) (the “Site”) (in this privacy policy, Nanosystems S.r.l. and the Site shall collectively be referred to as “We” or “Nanosystems S.r.l.”).
+This privacy statement explains data collection and use practices of Nanosystems S.r.l. through the website [**https://thesolving.com**](https://thesolving.com/) (the “Site”) (in this privacy policy, Nanosystems S.r.l. and the Site shall collectively be referred to as “We” or “Nanosystems S.r.l.”).
 
 Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
 
@@ -61,7 +61,7 @@ Google Analytics collects usage data and cookies.
 The data are collected in the USA – [**Privacy Policy**](http://www.google.com/intl/en/policies/privacy/) – [**Opt Out**](https://tools.google.com/dlpage/gaoptout?hl=en)
 
 **Communications via email**  
-On the [**http://thesolving.com**](http://thesolving.com/) are present several contact forms to allow the users to ask for information or support.  
+On the [**https://thesolving.com**](https://thesolving.com/) are present several contact forms to allow the users to ask for information or support.  
 The user, completing the contact forms, is consenting Nanosystems to send email messages for the specified purposes.  
 The data collected are name, last name or company name and email address.  
 The data are collected in Italy.
