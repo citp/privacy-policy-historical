@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigantic.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906213117id_/https%3A//www.gigantic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigantic.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502130446id_/https%3A//www.gigantic.com/privacy-policy) for the most accurate reproduction.*
 
 # Gigantic Privacy Policy
 
