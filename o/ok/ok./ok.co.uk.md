@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226192036id_/https%3A//www.ok.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502195435id_/https%3A//www.ok.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # About
 
@@ -121,10 +121,10 @@ If you would like to exercise your data subject rights or have any questions abo
 **GENERAL ENQUIRIES**  
 For all general enquiries regarding the Daily Express, Daily Star, Daily Star Sunday, Sunday Express, OK!. Star and new! websites please contact us using the details below.  
 **Email:** [web.help@express.co.uk](mailto:web.help@express.co.uk)  
-**Phone General Enquiries:** 020 8612 7000  
+**Phone General Enquiries:** 020 7293 3000  
 **Address:** Electronic Customer Relationship Management Department  
-Express Newspapers and Reach Magazines Publishing Plc  
-The Northern & Shell Building,  
-10 Lower Thames Street,  
+OK! Online Reach PLC  
+One Canada Square,  
+Canary Wharf,  
 London,  
-EC3R 6EN
+E14 5AP
