@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the professorshouse.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802225237id_/http%3A//www.professorshouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the professorshouse.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502174318id_/https%3A//www.professorshouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Professor's House
 
@@ -129,4 +129,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 **Professor’s House**  
 406 Point McKay Gardens NWCalgary, AB. T3Z 1C3Canada  
-**Email:** [david@professorshouse.com](mailto:david@professorshouse.com "david@professorshouse.com")
+**Email:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#771316011e1337070518111204041805041f180204125914181a "david@professorshouse.com")
