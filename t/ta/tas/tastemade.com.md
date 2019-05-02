@@ -1,255 +1,217 @@
-> *The following text is extracted and transformed from the tastemade.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223191352id_/https%3A//www.tastemade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastemade.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502043843id_/https%3A//www.tastemade.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Tastemade
 
-_Effective May 25, 2018_
+_Last Updated: April 26, 2019_
 
-**Introduction**
+  
 
-Protecting your privacy is really important to us.  This Privacy Policy covers all of the services of Tastemade, Inc. and its subsidiaries and affiliates (collectively, “ ** _Tastemade_** ”, “ ** _we_** ”, “ ** _us_** ”, or “ ** _our_** ”), and our mobile applications, desktop application services, software and other materials and services made available on, from or through the foregoing (collectively, the “ ** _Services_** ”). For the purposes of European Economic Area data protection law, (the " ** _Data Protection Law_** "), we are the data controller.
 
-We are committed to protecting your privacy. We appreciate that you do not want your personal information distributed indiscriminately and we provide this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services. This Privacy Policy applies only to information collected through your use of the Services. This Privacy Policy doesn’t apply to any third-party websites, services or applications, such as applications and websites using Facebook and other social media sites, even if they are accessible through our Services. 
+**SCOPE**
 
-Please read this Privacy Policy, and if you have any questions or suggestions, please contact us at [info@tastemade.com](mailto:info@tastemade.com).  Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Use found at https://www.tastemade.com/terms. 
+This Privacy Policy applies to personal information processed in the course of in the course of our business, including on our website (the “ ** _Site_** ”), our mobile application (the “ ** _App_** ”), and our related services (collectively, the “ ** _Services_** ”). The terms “ ** _Tastemade_** ,” “ ** _we_** ,” “ ** _us_** ,” and “ ** _our_** ” includes Tastemade, Inc. and our affiliates. All capitalized terms not defined in this Privacy Policy will have the meanings set forth in the Tastemade, Inc. Terms of Service.
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+  
 
-By using our Services, you acknowledge you have read and understood this Privacy Policy.
 
-**How do we collect your information?**
+**PERSONAL INFORMATION WE COLLECT**
 
-Our primary goals in collecting information are to provide and improve our Services, to provide more relevant content to you, to administer your use of the Services (including your account, if you are an account holder) and to enable you to enjoy and easily navigate our Services.
+This Privacy Policy covers our use of “personal information.” When we say “personal information,” we mean information that relates to you and can – either on its own or in combination with other information – identify you as an individual. Personal information does not include data that has been de-identified or aggregated such that you can no longer be identified.
 
-We may collect and process the following information about you: 
+When you use our Services, we may collect the following kinds of information:
 
-**_Information you give us_**
+  * **Information You Provide to Us.**
+  * **Account Information.**  When you create a Tastemade account, we will ask you to provide personal information such as your name and email address. In addition, we will collect details about your account such as the date you signed up, what sort of subscription you have, and whether or not you arrived at our Services as the result of a marketing campaign. If you sign up for a paid subscription, we will also collect your payment and billing information.
+  * **Tastemade Shop.**  If you place an order with the Tastemade shop, we will ask you to provide personal information such as your name, billing and shipping address, and payment information. We will also collect details about your order (e.g., items purchased, etc.).
+  * **Interactive Features.**  Tastemade may offer interactive features such as commenting functionalities, forums, chat services, and social media pages. Tastemade and other individuals who use our Services may collect the information you submit or make available through these interactive features. Any information shared on the public sections of these channels will be considered “public” and may not be subject to the privacy protections referenced herein.
+  * **Communications with Us.**  We may collect personal information from you such as email address, phone number, or mailing address when you request information about our Services, request customer or technical support, or otherwise communicate with us.
+  * **Surveys.**  We may contact you to participate in surveys. If you decide to participate, you may be asked to provide certain information which may include personal information.
+  * **Information We Collect Through Your Use of the Services.**
+  * We may collect certain information automatically when you use the Services. This information may include your Internet protocol (IP) address, user settings, IMEI, MAC address, Technologies including cookie identifiers, mobile advertising and other unique identifiers, mobile carrier, details about your browser, operating system or device, location information (including inferred location based off of your IP address), Internet service provider, pages that you visit while using the Services, and other information about how you use the Services. Information we collect may be associated with Accounts and other devices.
+  * **Cookies, Web Beacons, and Personalized Advertising.**  We, as well as third parties that provide content, advertising, or other functionality on the Services, may use cookies, pixel tags, local storage, and other technologies (“ ** _Technologies_** ”) to automatically collect information through the Services. Technologies are essentially small data files placed on your computer, tablet, mobile phone, or other devices that allow us and our partners to record certain pieces of information whenever you visit or interact with the Services
+    * **Cookies**  Cookies are small text files placed in visitors’ device browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Services may not work properly.
+    * **Pixel Tags/Web Beacons.**  A pixel tag (also known as a web beacon) is a piece of code embedded on the Services that collects information about users’ engagement. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement. We may also include web beacons in e-mails to understand whether messages have been opened, acted on, or forwarded.
+  * **Analytics.**  We may use Google Analytics and other service providers to collect information regarding user behavior and user demographics on the Services. This analytics data is not tied to any identifiable information. For more information about Google Analytics, please visit <https://policies.google.com/technologies/partner-sites>. You can opt out of Google’s processing of data generated by your use of the Services by visiting <https://tools.google.com/dlpage/gaoptout>.
+  * **Vimeo OTT Player.**  When you watch a video on our Site or our App, this content is powered by Vimeo’s OTT player. Vimeo is our service provider and only processes the personal information collected from our Services at our instruction. Vimeo will provide us with aggregate level information about how our users interact with the Services. However, Vimeo does not share any personal information about our users’ viewing habits with us.
+  * **Information from Other Sources.**
+  * We may obtain information about you from other sources, including through third-party services and organizations to supplement information provided by you. For example, if you access our Services through a third-party application, such as an App Store, a social networking service, or a third-party login service, we may collect information about you from that third-party application that you have made available via your privacy settings. This supplemental information allows us to verify information that you have provided to us and to enhance our ability to provide you with the Services.
 
-This is information about you that you give us directly when you interact with us. 
 
-Find Out More
 
-**_Information we collect about you from your use of our Services_**
+  
 
-We will automatically collect information from you each time you use our Services.  This includes:
 
-  * Technical information
-  * Information about your visit
-  * Location data
+**HOW WE USE YOUR INFORMATION**
 
+We process personal information for a variety of business purposes, including:
 
+  * **To Provide the Services, Products, or Information Requested.**
 
-Find Out More
+    * Manage individual information and accounts;
+    * Respond to questions, comments, and other requests;
+    * Provide access to certain areas, functionalities, and features of our Services; and
+    * Answer requests for customer or technical support.
+  * **Administrative Purposes.**
 
-**_Information we receive from other sources_**
+    * Measure interest and engagement in the Services;
+    * Improve our products and Services;
+    * Develop new products and services;
+    * Ensure internal quality control;
+    * Verify individual identity;
+    * Communicate with you about your account, activities on the Services and policy changes;
+    * Process transactions;
+    * Prevent potentially prohibited or illegal activities; and
+    * Enforce our Terms of Service.
+  * **Marketing Our Products and Services.**  We may use personal information to tailor and provide you with content and advertisements. We may provide you with these materials as permitted by applicable law.
 
-This is information we receive about you:
+Some of the ways we market to you include email campaigns, custom audiences advertising, and “interest-based” or “personalized advertising” including through cross-device tracking.
 
-  * If you use any of the other websites or apps we operate or the other services we provide; 
-  * From third parties we work closely with; and 
-  * From social networking services, if you choose to create or sign-in to an account through one of your social networking service accounts. 
+If you have any questions about our marketing practices or if you would like to opt out of the use of your personal information for marketing purposes, you may contact us at any time as set forth below.
 
+  * **De-identified and Aggregated Information Use.**  We may use personal information and other information about you to create de-identified and/or aggregated information, such as de-identified demographic information, de-identified location information, de-identified or aggregated trends, reports, or statistics, de-identified or aggregated information about the computer or device from which you access our Services, or other analyses we create.
 
+  * **Sharing Content with Friends or Colleagues.**  We may offer various tools and functionalities. For example, we may allow you to provide information about your friends through our referral services. Our referral services may allow you to forward or share certain content with a friend or colleague, such as an email inviting your friend to use our Services. Contact information that you may provide for a friend or colleague will be used to send your friend or colleague the content or link you request, but will not be collected or otherwise used by Tastemade or any other third parties for any other purpose.
 
-Find Out More
+  * **Technologies.**  Our uses of such Technologies fall into the following general categories:
 
-You are under no obligation to provide any such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
+    * **Operationally Necessary.**  This includes Technologies that allow you access to our Services that are required to identify irregular behavior, prevent fraudulent activity and improve security or that allow you to make use of our functions;
 
-**Cookies and other technologies**
+    * **Performance Related.**  We may use Technologies to assess the performance of our Services, including as part of our analytic practices to help us understand how our visitors use the Services;
 
-Our servers automatically record certain information about how a person uses our Services (we call this information “ ** _Log Data_** ”), including both account holders and non-account holders (either, a “ ** _User_** ”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links or buttons on our Services that a User clicked on (including advertisements clicked on) and other statistics. 
+    * **Functionality Related.**  We may use Technologies that allow us to offer you enhanced functionality when accessing or using our Services. This may include identifying you when you sign into our Services and keeping track of your specified preferences or past pages viewed;
 
-Our Services use cookies, pixels and similar technologies to distinguish you from other users of our Services. This helps us to provide you with a good experience when you browse our site, use our App, or otherwise engage with our Services and also allows us to improve our Services. 
+    * **Advertising or Targeting Related.**  We may use first-party or third-party Technologies to develop and deliver content, including ads relevant to your interests, on our Services or on third-party sites.
 
-When you use the Services, a web server sends a cookie or other similar technology such as device IDs or pixel tags to your computer or mobile device (as the case may be). These typically involves small pieces of information or code which are issued to or accessed from your computer or mobile device (as the case may be) when you visit a website or app and which store and sometimes track information about you. Cookies and similar technologies enable you to be remembered when using that computer or device to interact with websites, apps and online services and can be used to manage a range of features and content as well as storing searches and presenting personalized content.
+  * **Other Uses.**  Tastemade may use personal information to pursue legitimate interests, such as direct marketing, research (including marketing research), network and information security, and fraud prevention. In addition, Tastemade may use personal information for other purposes that are clearly disclosed to you at the time you provide personal information or with your consent.
 
-We use these cookies and other technologies on the basis that they are necessary for the performance of a contract with you (i.e. the provision of Services), or because using them is in our legitimate interests (where we have considered that these are not overridden by your rights), and, in some cases, where required by law, where you have consented to their use.
 
-Most web browsers automatically accept cookies and similar technologies, but if you prefer, you can change your browser to prevent that and your help screen or manual will tell you how to do this.  We also give you information about how to disable cookies here.  However, you may not be able to take full advantage of our Services if you do so.  A number of cookies and similar technologies we use last only for the duration of your use of our Services and expire when you close your browser. Other cookies and similar technologies are used to remember you when you return to use the Services and will last for longer. 
 
-Find out more
 
-**Disabling cookies**
+  
 
-Unlike persistent cookies, session cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. You can also learn more about cookies by visiting [www.allaboutcookies.org](https://www.tastemade.co.uk/www.allaboutcookies.org) which includes additional useful information on cookies and how to block cookies using different types of browser or mobile device. 
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of the Services. 
+**HOW WE DICLOSE YOUR INFORMATION.**
 
-Find Out More
+  * **We Use Service Providers.**  We may share any personal information we collect about you with our third-party service providers. The types of service providers to whom we entrust personal information include service providers for: (i) the provision of the Services; (ii) the provision of information, products, and other services you have requested; (iii) marketing and advertising; (iv) payment processing; (v) customer service activities; and (vi) the provision IT and related services.
 
-**Cookie Table**
+  * **APIs and Software Development Kits.**  We may use third party APIs and software development kits (“ **** _SDKs_ ”) as part of the functionality of our Services. APIs and SDKs may allow third parties including advertising partners to collect your personal information to provide content that is more relevant to you. For more information about our use of APIs and SDKs, please contact us as set forth below.
 
-We and our partners may use cookies, pixels and/or other similar technologies, either alone or in combination with each other as set out in the following table:
+  * **Information Shared with Other Users.**  We may offer various tools and functionalities that may permit you to share certain personal information, including User Content, with other users, when using the Services. For example, this personal information may include your name and whether you’ve saved a video. Please be aware that Tastemade has little or no control over how individuals may use the information you share.
 
-View Cookie Table
+  * **Business Partners.**  We may provide personal information to business partners to provide you with a product or service you have requested. We may also provide relevant personal information to business partners with whom we jointly offer products or services.
 
-**Responding to do not track signals**
+  * **Interest-Based or Personalized Advertising.**  Through our Services, Tastemade may allow third-party advertising partners to set Technologies and other tracking tools to collect information regarding your activities and your device (e.g., your IP address, mobile identifiers, page(s) visited, location, time of day). These advertising partners may use this information (and similar information collected from other services) for purposes of delivering personalized advertisements to you when you visit third party services within their networks. This practice is commonly referred to as “interest-based advertising” or “personalized advertising.” If you prefer not to share your personal information with third party advertising partners, you may follow the instructions below.
 
-Our Services do not have the capability to respond to “Do Not Track” signals received from various web browsers. Other parties may collect personal information about users’ online activities over time and across different websites when users use other operators’ websites or online services. 
+  * **Disclosures to Protect Us or Others.**  We may access, preserve, and disclose your personal information if we believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) protect your, our or others’ rights, property, or safety; (iii) to collect amounts owed to us; (iv) when we believe disclosure is necessary or appropriate to prevent financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or (v) if we, in good faith, believe that disclosure is otherwise necessary or advisable.
 
-**How we use your information**
+  * **Merger, Sale, or Other Asset Transfers.**  If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract.
 
-We use your personal information which we collect in the following ways:
 
-**_Information you give to us:_**
 
-We will use this information to:
 
-  * Take steps in order to enter into any contract or carry out our obligations arising from any contract entered into between you and us including:
-    * enabling us to process your orders and to provide you with the Services and information offered through the Services and which you request; 
-    * administering the Services and your account with us;
-    * verify and carry out financial transactions in relation to payments you make online;
-    * notifying you about changes to our Service;
-    * contact you with emails, newsletters, marketing or promotional materials and other information that may be of interest to you including information about our products and services or those of carefully selected third parties, provided you have indicated that you do not object to being contacted for these purposes; and
-    * allow, with your consent, carefully selected third parties to send you information directly which you may find useful regarding their products and services.
-  * Provide you with information about our and our partners, goods or services we feel may interest you, if you have given your consent to receiving marketing material from us at the point we collected your information, where required by law or otherwise in our legitimate interests provided these interests do not override your right to object to such communications. See 'Our promotional updates and communications'.
-  * Ensure in our legitimate interests that:
-    * content provided through our Services is presented in the most effective manner for you and for the device you are using; and 
-    * we provide you with the information, products and services that you request from us.
+  
 
 
+**INTERNATIONAL DATA TRANSFERS.**
 
-**_Information we collect about you from your use of our Services_**
+You agree that all information processed by us may be transferred, processed, and stored anywhere in the world, including but not limited to, the United States and other countries.
 
-We will use this information in our legitimate interests, where we have considered these are not overridden by your rights:
+  
 
-  * to administer our Services and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-  * to keep our Services safe and secure, and fight spam, malware and identity theft;
-  * for measuring or understanding the effectiveness of advertising we serve to you and others, including following the use of our Services and related purchases, and to deliver relevant advertising to you;
-  * to allow you to participate in interactive features of our Services, when you choose to do so;
-  * to analyze (and engage third parties to analyze) information to improve and enhance the Services by expanding their features and functionality and tailoring them to your needs and preferences, and to ensure that content is presented in the most effective manner for you and for your computer;
-  * to improve the layout and/or content of the pages of the Services and customize them for users;
-  * to identify visitors using the Services and carry out research on our users' demographics and tracking of sales data; and
-  * to generate aggregate, non-identifying information about how our Services are used.
 
+**YOUR CHOICES.**
 
+  * **General.**  You may have the right to object to or opt out of certain uses of your personal information. Where you have consented to the processing of your personal information, you may withdraw that consent at any time by contacting us as described below.
 
-**_Information we receive from other sources_**
+  * **Email Communications.**  If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails. Note that you will continue to receive transaction-related emails regarding products or Services you have requested. We may also send you certain non-promotional communications regarding us and our Services, and you will not be able to opt out of those communications (e.g., communications regarding the Services or updates to this Privacy Policy).
 
-We may combine this information with information you give to us and information we collect about you in our legitimate interests (where we have considered that these are not overridden by your rights). We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+  * **The App.**  We may send you push notifications through the App. You may opt-out from receiving these communications by changing the settings on your mobile device.
 
-Tastemade will only process personal data in ways that are compatible with the purpose that Tastemade collected it for, or for purposes you later authorize. Before we use your personal data for a purpose that is materially different than the purpose we collected it for or that you later authorize, we will provide you with the opportunity to opt out. Tastemade maintains reasonable procedures to help ensure that personal data is reliable for its intended use, accurate, complete and current. 
+  * **Technologies and Personalized Advertising.**  If you would like to opt-out of the Technologies we employ on the Services, you may do so by blocking, disabling, or deleting them as your browser or device permits. Please note that cookie-based opt-outs are not effective on mobile applications. However, you may opt-out of personalized advertisements on some mobile applications by following the instructions for [Android](https://support.google.com/googleplay/android-developer/answer/6048248?hl=en) and [iOS](https://support.apple.com/en-us/HT202074).
 
-What information do we share with third parties?
+The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from advertisers that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [http://optout.networkadvertising.org](http://optout.networkadvertising.org/), [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and [http://optout.aboutads.info](http://optout.aboutads.info/). 
 
-We may disclose your personal information to: 
+Please note you must separately opt out in each browser and on each device. 
 
-  * Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, who support our processing of personal data under this policy (if any of these parties are using your information for direct marketing purposes, we will only transfer the information to them for that purpose with your prior consent); and
-  * Selected third parties.
+  * **“Do Not Track”.**  Do Not Track (“ **DNT** ”) is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
 
 
 
-Find Out More
 
-**Security of your information**
+  
 
-We place great importance on the security of all personal information associated with our users. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control. For example, when you enter sensitive and/or personal information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). Where you have chosen (or we have given you) a password which enables you to access certain parts of our Services, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-However, no method of transmission over the internet, or method of electronic storage, is 100% secure and any such submission is at your own risk. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access. 
+**INDIVIDUAL RIGHTS IN PERSONAL INFORMATION.**
 
-It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal information if you use a shared computer or a computer in a public place.
+In accordance with applicable law, you may have the right to: (i) request confirmation of whether we are processing your personal information; (ii) obtain access to or a copy of your personal information; (iii) receive an electronic copy of personal information that you have provided to us, or ask us to send that information to another company (the “right of data portability”); (iv) restrict our uses of your personal information; (v) seek correction or amendment of inaccurate, untrue, incomplete, or improperly processed personal information; and (vi) request erasure of personal information held about you by Tastemade, subject to certain exceptions prescribed by law. If you would like to exercise any of these rights, please contact us as set forth below.
 
-**Payment processing**
+We will process such requests in accordance with applicable laws. To protect your privacy, Tastemade will take steps to verify your identity before fulfilling your request.
 
-If you subscribe to a paid Service, we use Stripe to process and accept payments, or if you subscribe to a paid Service via Apple iTunes or Google Play.  If you purchase products from our Service (e.g. via an online Tastemade shop) we use Shopify to process and accept payments. In each of these cases, your payment will be processed via those respective services who operate a secure server to process payment details, encrypt your credit/debit card information and authorize payment. We do not store any credit card information, but Stripe, Apple, Google or Shopify, as applicable) will collect credit card information and any other payment-related information. Each such third-party service uses the payment-related information that it receives as necessary and appropriate to fulfil requests to process payment transactions, to facilitate billing and to otherwise deliver payment services. Personal information about our users is used by each such service to process payment transactions and for no other purpose, and this information is subject to 
+  
 
-  * Stripe’s privacy policy and terms of use found at [https://stripe.com/us/terms](https://stripe.com/us/terms); 
-  * Apple’s iTunes privacy policy and terms of use found at [http://www.apple.com/legal/privacy/](http://www.apple.com/legal/privacy/) and [http://www.apple.com/legal/internet-services/itunes/us/terms.html](http://www.apple.com/legal/internet-services/itunes/us/terms.html); 
-  * Google Play’s privacy policy and terms of use found at [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/) and [https://play.google.com/about/play-terms.html](https://play.google.com/about/play-terms.html); and 
-  * Shopify’s privacy policy and terms of service found at [https://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy) and [https://www.shopify.com/legal/terms](https://www.shopify.com/legal/terms). 
 
+**DATA RETENTION.**
 
+We retain the personal information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
 
-Information you provide to these third-party service providers are not within our control.
+  
 
-**How long we keep your information**
 
-We retain personal data for as long as you have an account with us in order to meet our contractual obligations to you and for six years after that to identify any issues and resolve any legal proceedings. We may also retain aggregate information beyond this time for research purposes and to help us develop and improve our Services. You cannot be identified from aggregate information retained or used for these purposes. 
+**SECURITY OF YOUR INFORMATION.**
 
-**Links to other sites**
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. To the fullest extent permitted by applicable law, we do not accept liability for unintentional disclosure.
 
-Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service (including social media sites) is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy doesn’t apply to those websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information, we recommend that you carefully review the privacy policies of other websites and services that you access too.
+By using the Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services. If we learn of a security system’s breach, we may attempt to notify you electronically by sending a notice through the Services or by sending an e-mail to you.
 
-**Emailing, messaging and sharing via a Tastemade Account**
+  
 
-As part of some of our Services, account holders may be able to communicate with other account holders, through use of direct messaging and email functionality associated with their accounts. Your email address will not be visible to other account holders in such communications. However, you should exercise caution when using these facilities and never disclose your personal information.
 
-By using the Services, you understand and agree that Tastemade is providing a platform for you to view and upload content, including comments and other materials to the Services and to share content publicly. This means that other users may search for, see, use or share any of the content that you create and make publicly available through the Services, consistent with the terms and conditions of this Privacy Policy and Tastemade’s Terms of Use.  
+**THIRD PARTY WEBSITES/APPLICATIONS.**
 
-**Our promotional updates and communications**
+The Services may contain links to other websites/applications and other websites/applications may reference or link to our Services. These third party services are not controlled by us. We encourage our users to read the privacy policies of each website and application with which they interact. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.
 
-Where permitted in our legitimate interest or with your prior consent where required by law, we will use your personal information for marketing analysis and to provide you with promotional update communications by email about our Services. We may also allow, with your consent, carefully selected third parties to send you information directly which you may find useful regarding their products and services.
+  
 
-**_Opting Out_**
 
-You can tell us not to contact you with promotional emails, newsletter notifications or other communications regarding our Services, or those of third parties or to share your details with third parties so that they can send you information regarding their products and services, 
+**CHILDREN’S INFORMATION.**
 
-  * at the point such information is collected related to the Services, or
-  * following the unsubscribe link at the end of all our marketing and promotional update communications to you. 
+The Services are not directed to children under 13 (or other age as required by local law), and we do not knowingly collect personal information from children. If you learn that your child has provided us with personal information without your consent, you may contact us as set forth below. If we learn that we have collected any personal information in violation of applicable law, we will promptly take steps to delete such information.
 
+  
 
 
-You can also opt out of further marketing at any time by sending us an email at [info@tastemade.com](mailto:info@tastemade.com). 
+**CALIFORNIA PRIVACY RIGHTS.**
 
-We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications, like communications regarding updates to our Terms of Use or this Privacy Policy or information about billing. 
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. Except as otherwise provided in this Privacy Policy, Tastemade does not share personal information with third parties for their own marketing purposes.
 
-Please note that if you opt-out of promotional updates and communications, we may still collect some data about your online activity for operational purposes, but it won’t be used by us for the purpose of targeting ads to you, and if you use multiple browsers or devices, you may need to perform this opt-out on each browser or device.
+  
 
-_Further information on opting out_
 
-Some of the advertisers, advertising technology companies and service providers that perform advertising-related services for us and our business partners may be members of the Network Advertising Initiative (" ** _NAI_** "), a cooperative of online marketing companies that offers a centralized tool for opting out of interest-based or online behavioral advertising delivered by each of its member companies. If you would like to obtain more information about the NAI and make choices about their members' use of information from or about you, please visit [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). 
+**SUPERVISORY AUTHORITY.**
 
-In addition, some of the third parties that collect information from or about you from use of the Services in order to provide more relevant advertising to you participate in the Self-Regulatory Program for Online Behavioral Advertising. This program offers a single location where users can make choices about the use of their information for ad targeting. To learn more, including how to opt-out, please visit [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/). We may also use Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen digital content ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at [http://www.nielsen.com/digitalprivacy](http://www.nielsen.com/digitalprivacy).
+If you are located in the European Economic Area, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law.
 
-**Your rights**
+  
 
-You have the right under certain circumstances:
 
-  * to be provided with a copy of your personal data held by us;
-  * to request the rectification or erasure of your personal data held by us;
-  * to request that we restrict the processing of your personal data (while we verify or investigate your concerns with this information, for example);
-  * to object to the further processing of your personal data, including the right to object to marketing (as mentioned in 'Our promotional updates and communications'); and
-  * to request that your provided personal data be moved to a third party.
+**CHANGES TO OUR PRIVACY POLICY.**
 
+We may revise this Privacy Policy from time to time in our sole discretion. If there are any material changes to this Privacy Policy, we will notify you as required by applicable law. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you continue to use the Services after the new Privacy Policy takes effect.
 
+  
 
-You may opt out at any time from allowing further access by us to your location data by adjusting your browser settings if accessing the website from the web or adjusting your location settings if accessing our app from your device. You can also stop all information collection by our App by un-installing our App. You may use the standard un-install processes as may be available for your mobile device. This will not affect information collected about from other ways you use our Services.
 
-**_Your right to withdraw consent_**
+**CONTACT US.**
 
-Where the processing of your personal information by us is based on consent, you have the right to withdraw that consent without detriment at any time by contacting us. You can also change your marketing preferences at any time as described in 'Our promotional updates and communications' section.
+If you have any questions about our privacy practices or this Privacy Policy, please contact us at:
 
-You can also exercise the rights listed above at any time by contacting us at Tastemade Legal ([legal@tastemade.com](mailto:legal@tastemade.com)). 
+Tastemade, Inc.  
+3019 Olympic Blvd, Stage C  
+Santa Monica, CA 90404  
 
-If your request or concern is not satisfactorily resolved by us, you may approach your local data protection authority, (see [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html)).
 
-**_Modifying Your information or deleting information held by us_**
+[info@tastemade.com](mailto:info@tastemade.com)
 
-You can access and modify certain personal information associated with your account by editing the profile page in your account. If you want us to delete your personal information and your account, please contact us at [info@tastemade.com](mailto:info@tastemade.com) with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
-
-**International transfer of data**
-
-Your personal information which we collect is sent to and stored on secure servers located in the United States and Ireland. Such storage is necessary in order to process the information. 
-
-The data that we collect about you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above, which may be situated outside the European Economic Area ( **EEA** ) and may be processed by staff operating outside the EEA. Data transferred to other countries concerned may not be subject to equivalent data protection laws to the EEA. 
-
-Where we transfer your personal information outside the EEA, we will take all steps reasonably necessary to ensure that your data is subject to appropriate safeguards, such as relying on a recognized legal adequacy mechanism, and that it is treated securely and in accordance with this privacy policy.
-
-Find Out More
-
-**Our policy towards Children**
-
-Protecting the safety of children when they use the Internet is important to us. The Services are intended for use only by persons who are at least 13 years of age. By using our Services, you confirm to us that you meet this requirement and that, if you are under the age of 18, you have received permission from your parent or guardian before using the Services or sending any personal information to us or anyone else online.
-
-**Changes to Privacy Policy**
-
-Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, change this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” to indicate when such changes will become effective. Prior versions of this Privacy Policy are available at the bottom of this page.
-
-This Privacy Policy was last updated on May 25, 2018.
-
-**Contact us**
-
-Please contact us at [info@tastemade.com](mailto:info@tastemade.com) if you have any questions, concerns or comments about our Privacy Policy or requests concerning your personal information.  
-
-Thank you!
+[424-268-4629](tel:+14242684629) (call collect)
 
 ##  [Privacy Archive](https://web.archive.org/privacy-archive)
