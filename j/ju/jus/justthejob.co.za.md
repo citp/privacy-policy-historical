@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justthejob.co.za privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118205632id_/https%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justthejob.co.za privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502222014id_/https%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -20,7 +20,7 @@ _Collection of your Personal Information_
 
 **justthejob.co.za** may also collect certain information about your computer hardware and software. This information includes your IP address, browser type, domain names, access times and referring website addresses. We use this information for operating our services, maintaining the quality of the service, security, management and providing reports for relevant business purposes.
 
-**justthe job.co.za** uses Just the Job to provide registration and sign-in services. If you create a MyJusttheJob account, you are simultaneously registering with **justthejob.co.za** and opening a MyJusttheJob account. All the registration information you provide is stored by us in your MyJusttheJob profile. For more information about a MyJusttheJob account, please visit [www.justthejob.co.za](http://www.justthejob.co.za/)
+**justthe job.co.za** uses Just the Job to provide registration and sign-in services. If you create a MyJusttheJob account, you are simultaneously registering with **justthejob.co.za** and opening a MyJusttheJob account. All the registration information you provide is stored by us in your MyJusttheJob profile. For more information about a MyJusttheJob account, please visit [www.justthejob.co.za](https://www.justthejob.co.za/)
 
 Please keep in mind that when you apply for vacancies advertised on **justthejob.co.za** , your resume data in MyJusttheJob account and any other information you disclosed during your job application will be made available to the companies you are applying to. We encourage you to review the privacy statements of websites you choose to browse that are linked from **justthejob.co.za** so that you can understand how those webistes collect, use and share your information. We are not responsible for the privacy statements or other content on such websites outside the **justthejob.co.za** domain name.
 
@@ -51,6 +51,8 @@ You may also stop the delivery of future promotional emails from **justthejob.co
 However, there are some **justthejob.co.za** services which are sent out periodically by email to inform you of technical service issues, product surveys, new feature announcements and news about our services. You will be unable to unsubscribe from these emails as they are considered an integral part of the service you have chosen.
 
 In the event **justthejob.co.za** goes through a business transition as a merger, acquisition by another company or sale of all or a portion of it's assets, your personally identifiable information will likely be among the assets transferred. You will be notified by email of any such change in ownership or control of your personal information and can choose to delete all your personal information.
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com).
 
 _Security of your Personal Information_
 
