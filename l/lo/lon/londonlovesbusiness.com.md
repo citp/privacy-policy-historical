@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the londonlovesbusiness.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230085130id_/https%3A//londonlovesbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonlovesbusiness.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502123743id_/https%3A//londonlovesbusiness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | London Business News | Londonlovesbusiness.com
+# Privacy Policy
 
 At London Loves Business, we’re committed to protecting and respecting your privacy.
 
