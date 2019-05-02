@@ -1,100 +1,207 @@
-> *The following text is extracted and transformed from the websitebuilderexpert.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitebuilderexpert.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502172226id_/https%3A//www.websitebuilderexpert.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**You have certain rights in relation to your data, including the right to object to processing based on legitimate interests, profiling (including the use of custom and lookalike/similar audiences), and direct marketing. At any time, you can exercise your rights by emailing us at dataprotection@mvfglobal.com. For further details about our processing and your rights, please see below.**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+## Contents
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  * About our site
+  * About us
+  * What data we collect, and how we use it
+  * Cookies
+  * Transferring your data
+  * Storing your data
+  * Legal grounds
+  * Your rights
+  * Contacting us
+  * Changes to this notice
+  * Cookies table
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## About our site
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+WebsiteBuilderExpert.com (“ **our site** ”) is an online resource for technology and related news and information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## About us
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Website Builder Expert is a brand of Marketing VF Limited (“ **MVF** ”, “ **we** ”, “ **us** ”, “ **our** ”).
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+MVF is a company registered in England and Wales (company number: 06951544), whose registered office address is at Imperial Works, Perren Street, London NW5 3ED, United Kingdom.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+For the purposes of the General Data Protection Regulation (the “ **GDPR** ”), Marketing VF Limited is the controller in relation to your data. We are registered as a controller with the UK Information Commissioner’s Office (“ **ICO** ”) under registration number Z1995728. You can confirm our registration here: [www.ico.org.uk](https://ico.org.uk/)
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## What data we collect and how we use it
 
-**Security**
+### Subscribing to our newsletters, guides and deals:
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+You can subscribe to our newsletters, guides and deals (“ **Emails** ”) by completing and submitting the webform on our site. The webform will ask you for your email address.
 
-**Updating Your Information**
+If you subscribe, we will send you an email with a link, asking you to confirm your email address and subscription. If you click on the link, we will send our Emails to you periodically. At any time, you can unsubscribe from our Emails.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### Posting comments:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+If you wish to post any comments on our site, you will need to provide your name and email address. If we approve your comment, it will be posted on our site with the name you provide. Your email address will not be published, and is requested only to help us prevent spam.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Contacting us:
 
-      iii.      You may call us at: (480) 505-8800
+We will receive information about you (e.g. your name and email address) if you contact us through our site, or by email or post.
 
-       iv.      You may fax us at: (480) 505-8844
+If you contact us, we will use your information to handle your enquiry and correspond with you.
 
-**Sending Emails**
+### Creating custom and lookalike/similar audiences:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We may work with Facebook and other platforms (“ **Platforms** ”) to reach out to you with adverts. We also like to use Platforms to reach out to other people who might like to use our sites and service.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We do this in two ways. In both cases, your data, along with other data, is used to create a custom audience and/or a lookalike/similar audience. Whenever an audience is shared with a Platform, the data is first hashed and pseudonymised, meaning that any data within the audience that could identify a person is replaced with an artificial identifier. So, the process is secure. Also, we don’t share more data than we need to for the purpose of creating the audience.
 
-**Compliance with Laws and Law Enforcement**
+  * **Custom audience** – A custom audience is a list of existing users of our sites and service (“ **Existing Users** ”). From time to time, we share this with Platforms. As explained above, the data is first hashed and pseudonymised. The Platform uses this audience to show our Existing Users our adverts.
+  * **Lookalike/similar audience** – A lookalike/similar audience is an audience created by the Platform. From time to time, we share with Platforms a list of Existing Users. The Platform uses this list to find and create lookalikes – i.e. other Platform users who have similar characteristics to the Existing Users – to which it shows our adverts. Again, as explained above, the data is first hashed and pseudonymised.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+As we explain below, at any time, you may object to such activity by emailing us at dataprotection@mvfglobal.com.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+### Understanding and improving website conversions
 
-**Supplementation of Information**
+We work with a click tracker to capture and store Internet Protocol (IP) addresses. Every computer or device has an IP address - a unique number - which enables it to communicate with other computers and devices over the Internet. We store IP addresses in order to understand which countries our website conversions come from. We then use this data to optimise our campaigns, in order to improve our conversion rates.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+### Receiving data from our partners:
 
-**Contests/Surveys**
+From time to time, our partners (i.e. website builders) may share data with us. In most cases, they do this anonymously (i.e. they don’t provide us with any personal data). If you visit Shopify’s site from our site, and subsequently open a Shopify account, they will tell us the name of your online store. We don’t use this information for any purpose, except to record the number of visitors from our site who have opened a Shopify account.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+### Working with suppliers:
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We work with a number of suppliers, who process data on our behalf. These include cloud storage providers, email service providers, and cloud telephony providers. We have appropriate contracts in place with such suppliers to ensure the protection and confidentiality of data.
 
-**Tell-A-Friend**
+## Cookies
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. At the bottom of this policy, we have included a table, setting out what cookies we use, and the purposes for which we use them.
 
-**What Happens to my Personal Information if I Opt Out?**
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](https://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>
 
-**Transfer of Data Abroad**
+## Transferring your data
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We may transfer your data to countries outside the European Economic Area (the “ **EEA** ”).
 
-**Changes in Our Practices**
+Some of those countries have a European Commission adequacy decision, which means they are considered to offer an adequate level of data protection.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Other countries do not have the same level of legal protection as countries in the EEA, or with an adequacy decision. If we do transfer your data in this way, we will take steps to ensure that it is protected to the same levels that apply in the EEA. This may include, for example, ensuring that the organisation receiving the data is registered with the EU-US Privacy Shield (in the case of transfers to the USA), or that we use the EU’s model contract clauses.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+## Storing your data
 
-**Contacting Our Site**
+We have a data retention policy, which clearly sets out how long we keep data for, and for what reasons.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We will keep your data only for as long as is necessary to fulfil the purpose/s for which it was collected in the first place, i.e. as set out in this notice.
 
-* * *
+## Legal grounds
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This notice sets out (above) how we use your data. Under the GDPR, controllers must have a valid lawful basis for each processing activity that they undertake. This section sets out our lawful basis for each activity.
+
+Activity | Lawful basis under the GDPR  
+---|---  
+Sending our Emails to you | Consent  
+Posting comments on our site | Legitimate interests  
+Handling enquiries received from you | Legitimate interests  
+Creating custom and lookalike/similar audiences | Legitimate interests  
+Receiving data from our partners | Legitimate interests  
+  
+## Your rights
+
+Under the GDPR, you have a number of rights, which are explained below.
+
+**Right of access** – You have the right at any time to ask us for a copy of the personal information that we hold about you, and to check that we are lawfully processing it.
+
+**Right of rectification** – If personal information that we hold about you is not accurate or is out of date and requires amendment or correction you have a right to have the data rectified or completed.
+
+**Right of erasure** – In certain circumstances, you have the right to request that personal information we hold about you is erased (e.g. if the information is no longer necessary for the purposes for which it was collected or processed).
+
+**Right to object to or restrict processing** – In certain circumstances, you have the right to object to our processing of your personal information. For example, if we are processing your information on the basis of our legitimate interests, and there are no compelling legitimate grounds for our processing which override your rights and interests.
+
+**Right of data portability** – In certain instances, you have a right to receive any personal information that we hold about you in a structured, commonly used and machine-readable format.
+
+**Right to withdraw consent** – In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time.
+
+### Exercising your rights
+
+If you wish to exercise any of your rights under the GDPR, please email us at dataprotection@mvfglobal.com. Alternatively, you can write to us at the address set out above, or inform us if you speak with us on the phone.
+
+Our lead supervisory authority for the processing set out in this notice is the UK ICO. If you are unhappy with how we have processed your data, you have the right to make a complaint to the ICO.
+
+If you are based outside of the UK, or you have a complaint concerning our activities outside of the UK, you may prefer to lodge a complaint with a different Supervisory Authority. A list of relevant authorities can be accessed here: <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>.
+
+## Contacting us
+
+If you have any questions regarding this notice, or any questions relating to data protection or privacy, you can contact us at dataprotection@mvfglobal.com.
+
+Alternatively, you can write to us at the address set out above.
+
+## Changes to this notice
+
+From time to time, we may update this notice.
+
+## Cookies table
+
+When you visit any of our partners’ sites from our site (e.g. by clicking on a link), the partner will place a cookie on your computer/device. They do this so that both they and we know the number of visitors from our site who upgrade to a premium account (if they choose to do so), as explained [here](https://www.websitebuilderexpert.com/disclosure/).
+
+**Cookie** | **Name** | **Purpose**  
+---|---|---  
+**Universal Analytics (Google)** | _ga  
+_gali  
+_gat_UA-1036645-1  
+_gid | 
+
+These cookies collect information about how visitors use our website. We use the information to compile reports and to make improvements. The cookies collect information in an anonymous form, including where visitors have come to the website from and the pages they visited.
+
+To opt-out: <https://tools.google.com/dlpage/gaoptout>  
+  
+**Taboola Retargeting** |  | 
+
+These cookies are used to tailor Taboola adverts to a user’s previous viewing habits. For instance, if you have previously visited our page, you may then see other adverts related to that product or service. Taboola is an ad network that shows sponsored content, usually as links below the article on major news sites.  
+  
+Adwords Retargeting (Google) |  | 
+
+These cookies are used to adjust the targeting of our paid search and display advertising to show ads to users who have previously been to our sites and/or engaged with our page such as completing a form. They contain no personal information.  
+  
+DoubleClick Retargeting |  | 
+
+These cookies are used to adjust the targeting of our display advertising to show ads to users who have previously been to our sites and/or engaged with our page such as completing a form. They contain no personal information.  
+  
+Taboola Conversion Tracking |  | 
+
+These cookies measure ad conversions and optimise spend for advertising campaigns served on Taboola.  
+  
+Adwords Conversion Tracking |  | 
+
+These cookies measure when a user has completed an action on site such as completing a form. They contain no personal information.  
+  
+DoubleClick Conversion Tracking |  | 
+
+These cookies measure when a user has completed an action on site such as completing a form. They contain no personal information.  
+  
+Facebook Pixel |  | 
+
+These cookies measure ad conversions, optimise and build audiences for advertising campaigns served on Facebook.
+
+To opt-out: <https://www.facebook.com/policies/cookies/>  
+  
+VWO | _vwo | 
+
+These cookies are used to help us optimise our sites by running tests and measuring user conversions. It is also used to track user information when visiting the site (e.g. browser and device information).  
+  
+HotJar |  | 
+
+Hotjar uses cookies and other technologies to collect data on our users’ behaviour (e.g. how much time they spend on which pages, which links they choose to click etc) and their devices (in particular device’s IP address, captured and stored only in anonymised form, preferred language settings etc). This enables us to better understand our users’ needs and to optimise this service and experience.
+
+Hotjar stores this information in a pseudonymised user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user.
+
+To opt out: <https://www.hotjar.com/legal/compliance/opt-out>  
+  
+OptinMonster |  | 
+
+This cookie uses proprietary customer acquisition & lead generation software to help us optimise our sites by running tests and measuring user conversions.  
+  
+**Last reviewed: 24 May 2018**
