@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223183621id_/https%3A//www.ofx.com/en-gb/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502082525id_/https%3A//www.ofx.com/en-gb/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OFX
 
-Updated and effective from  22 August 2018
+Updated and effective from  21 January 2019
 
 **Introduction**
 
@@ -22,7 +22,7 @@ If you choose to pay someone else, for example, add a payment recipient on our w
 **We get this information from** **:**
 
 • You, for example, when you complete application forms, the way you use our products or services including information from your digital devices (such as checks of the IP address your device connectsfrom) and your dealings with us, including telephone conversations and social media, and  
-• Third parties, such as people appointed to act on your behalf or credit reference agencies, who may check information against other databases to which they have access. [Find out more information on the use of your personal data by the credit reference agencies](https://www.callcredit.co.uk/legal-information/bureau-privacy-notice/).
+• Third parties, such as people appointed to act on your behalf or credit reference agencies, who may check information against other databases to which they have access. [Find out more information on the use of your personal data by the credit reference agencies](https://www.transunion.co.uk/crain).
 
 We will make reasonable efforts to tell you if we have collected personal information about you from someone else.
 
@@ -126,4 +126,4 @@ This Policy is available on the OFX website. We may change this Policy from time
 If you have any queries about this Privacy Policy, need this in an alternative format, or have any complaints about our privacy practices, please contact us at privacy@ofx.com or call us on +44 207 614 4194.  
 
 
-©UKForex Limited (trading as “OFX”) is: registered in England and Wales (Company No. 04631395). Our registered office is at 1st Floor 85 Gracechurch Street, London EC3V 0AA. We are authorised by the Financial Conduct Authority as an Electronic Money Institution (Firm Ref. No. 902028). 
+©UKForex Limited (trading as “OFX”) is: registered in England and Wales (Company No. 04631395). Our registered office is at 4th Floor, The White Chapel Building, 10 Whitechapel High Street, London, E1 8QS. (Company No. 04631395). We are authorised by the Financial Conduct Authority as an Electronic Money Institution (Firm Ref. No. 902028). 
