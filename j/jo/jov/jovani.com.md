@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jovani.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214123836id_/https%3A//www.jovani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jovani.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502073245id_/https%3A//www.jovani.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Jovani Fashions Ltd
 
@@ -65,4 +65,4 @@ All links to this Web site must be approved in writing by Jovani, except that Jo
 
 As a further condition to being permitted to link to this site, you agree that Jovani may at any time, in its sole discretion, terminate permission to link to this Web site. In such event, you agree to immediately remove all links to this Web site and to cease using any Jovani trademark.
 
- **Updated:** October 17th, 2016.
+**Updated:** October 17th, 2016.
