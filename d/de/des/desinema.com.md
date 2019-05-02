@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the desinema.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235832id_/http%3A//desinema.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desinema.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502191343id_/http%3A//desinema.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - desinema
-
-Privacy Policy
 
 Privacy Policy of  **[www.desinema.com](http://www.desinema.com/)**
 
