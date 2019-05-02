@@ -1,80 +1,231 @@
-> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313010433id_/http%3A//www.ministryofsound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502154709id_/https%3A//www.ministryofsound.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ministry of Sound
+# Privacy Policy | Ministry of Sound
 
-Ministry of Sound Group Limited (MOS) PRIVACY POLICY
+**Who are we?**  
+  
+---  
+  
+We are Ministry of Sound Group Limited of 103 Gaunt Street, London SE1 6DP ** _,  [info@ministryofsound.com](mailto:info@ministryofsound.com), _**+44 (0)20 7740 8600 ** _._**
 
-[http://ministryofsound.com](http://ministryofsound.com/) is operated by Ministry of Sound Group Limited and adheres to the MOS privacy policy.
+We provide editorial content focused on dance music club culture and information about our company.  
+  
+**What does this Policy cover?**  
+  
+---  
+  
+We at Ministry of Sound Group Limited take your personal data seriously. This policy:
 
-MOS Privacy Policy  
-Ministry of Sound Group Limited ("MOS") a company registered in England and Wales with registration number 032996686 and registered office at 103 Gaunt Street, London, SE1 6DP, United Kingdom.
+  * sets out the types of personal data that we collect about you;
+  * explains how and why we collect and use your personal data;
 
-The terms "we", "our", "us" when used in this Privacy Policy means MOS. The terms "you", "your" and "yours" means you as a user of our websites or our other services.  
-Please read the following Privacy Policy ("Privacy Policy") carefully before submitting any personal information to us. Any information you provide about yourself to MOS or our associated companies will only be used in accordance with this Privacy Policy.
 
-1\. Changes to this Privacy Policy  
-1.1 From time to time, we may need to make changes to this Privacy Policy. This may happen as a result of government regulation, new technologies, or other developments in our online or other services. Any updates to our Privacy Policy will be clearly posted in this section of our website. We advise you to regularly review this policy when you visit our websites to keep informed about how we are safeguarding your privacy. If the changes are significant, we may also email you to notify you about these.  
-1.2 Please note that this Privacy Policy does not apply to websites or text services operated by third parties and you are advised to check such third party privacy policies before submitting data to them.
+  * explains how long we keep your personal data for;
+  * explains when, why and with who we will share your personal data;
 
-2\. Our Aims  
-2.1 We are fully committed to protecting your privacy and will respect your privacy in connection with any email, mobile or other personal details you submit to us via any media.  
-2.2 We will not collect personally identifying information (such as your name, address, email address etc.) except with your specific knowledge and consent or as detailed within this Privacy Policy.  
-2.3 We work closely with our technology partners and other suppliers to ensure that your personal information is protected with high quality, reliable and secure technology. Our technology partners invest in high-quality security and work hard to protect your privacy.  
-2.4 We follow strict security procedures in compliance with UK Data Protection legislation governing the storage and disclosure of information given by you to us via our websites, your mobile or other media.
 
-3\. Collection and use of information  
-3.1 It will normally be clear when your personal information is being collected. The personal information we will collect depends on how you are interacting with our websites or otherwise but may include, amongst other things, your name, postal address (including post code), telephone number, email address, age, gender, password and, for transactions, financial details.  
-3.2 We may ask different questions or request additional information depending on the service being offered to or requested by you. Unless stated, all questions are compulsory. We may also ask some further, voluntary questions so we can gain a clearer understanding of our users.  
-3.3 We collect personal information only for specific limited purposes and we only ask for information that is appropriate. We will only collect personal information from you which you have provided by completing any registration, enquiry, order or application form on our websites, or which you have sent to us via email, fax or post or which you have provided by telephone or any other means. We also collect information on our users through cookies on websites (see our  **[Cookies Policy](https://web.archive.org/cookie-information/ "Cookie Information")**),interactions with our websites and our text services and via other media.  
-3.4 By disclosing your personal information to us, you agree that we may obtain, hold and use the personal information you provide for the purposes of providing you with our services and/or products and with ancillary services (the "Purposes"). The Purposes for which personal information is collected and processed include, without limitation:  
-(a) responding to any enquiries you have made;  
-(b) sending you materials and/or information you have requested or products which you have purchased;  
-(c) performing our obligations in relation to any agreement you have with us;  
-(d) conducting contests, competitions or promotions;  
-(e) enabling you to submit contributions to us (for example, for use on our websites);  
-(f) to customise and improve the content on our websites or any other websites which are part of the MOS Group and/or to improve our products and services to respond to your current and future needs and interests;  
-(g) contacting you if we change our products or services or terms or if we need to give you notice of them;  
-(h) for the purpose of marketing our other products and services to you (for example, by email, text or post) unless you indicate otherwise during the submission process (for example, by ticking the relevant boxes that are provided) or by subsequently notifying us as set out in Sections 3.11 and 9.1 that you do not wish to receive such material;  
-(i) for accounting purposes and internal administration and analysis;  
-(j) for the prevention of fraud; and  
-(k) for any purpose required by law or regulation.  
-3.5 The information we need depends on how you are interacting with our website, text service or otherwise, but could include by way of example an email address, password, age, gender and postcode and a mobile telephone number.  
-3.6 You may be invited to register with us when you interact with us (for example, via our websites). Any registration is voluntary and entirely your choice. However, you may be unable to visit certain parts of our website or enter some of our competitions if you do not register.  
-3.7 If you have registered with us (for example, if you have become a member of parts of our websites), we may e-mail, mail, text or otherwise contact you, as appropriate, with information about your registration and/or offers or competitions open to you as a registered member.  
-3.8 From time to time we may run competitions or request material for publication or broadcast. To participate, you must usually supply us with your identity which you agree to have publicly associated with your submission. The exact rules vary from case to case, and will be noted clearly on the relevant pages (e.g. our website terms and conditions relating to submission of material or in the relevant competition terms and conditions).  
-3.9 You should be aware that any information or material you post in public areas on our websites (such as message boards) may be seen, collected and used by others, and may result in unsolicited messages from other users or parties. Alas, we can't control this; you post at your own risk. Please see our website terms and conditions at [insert link] for further information.  
-3.10 Any research carried out via our websites is for the exclusive use of MOS unless specifically stated at the time of completion. Your response to research request is voluntary. However, please note that "pooled" responses to questions may be shared with our partner organisations.  
-3.11 If you wish to unsubscribe from emails and/or other communications sent by MOS, you may do so at any time by clicking on the "unsubscribe" link that appears in our email messages or by  **[contacting us](https://web.archive.org/contact/ "Contact")**
+  * sets out the legal basis we have for using your personal data;
 
-4\. Disclosure of personal information  
-4.1 Subject to the terms set out in this Privacy Policy, we do not share, sell, rent or distribute personal data to or with third parties (for example, sponsors and advertisers) unless the transfer of such information to third parties is strictly necessary for the performance of the Purposes (e.g. for fulfilling a request you may have made of us) and we will not disclose personal information to third parties for their own marketing purposes unless you have consented to this.  
-4.2 We may share personal information with other companies within the MOS Group of companies which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985 in connection with the Purposes and the operation of the Website. We may disclose personal information to service providers who manage aspects of our operations for example third parties who provide technical services to the site.  
-4.3 We may share your personal information with other third party companies where you have expressly consented to this.  
-4.4 We may disclose your personal information if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to enforce our website or other terms and conditions, or to protect the rights, property, security or safety of MOS, other websites, our users or others. This includes exchanging information with our companies and organisations for the purposes of fraud protection and credit risk reduction.  
-4.5 Information about you and your use of our websites may help us to sell appropriate advertising space to third parties and we may share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers. Whilst your individual information is protected as outlined in this Privacy Policy, we reserve the right to use aggregated, anonymous data about our users as a group whether this is in connection with either web or text users. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests. In addition, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.  
-4.6 In the future, we may sell our business or assets. Personal information is usually considered an asset in such transactions. We may disclose, transfer, sell, assign or licence information described in this Privacy Policy, including personally identifiable information, to third parties as a result of or in preparation for the sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation of MOS and you consent to such disclosure, transfer, sale, assignment or licence.
 
-5\. Registration  
-5.1 Where you have registered to access certain parts of our websites you will have chosen a password which enables you to access a restricted part of a website. You are responsible for keeping your password confidential and you should not share this with anyone. You are responsible for all use and communications with our websites which take place using your registration or password.
+  * explains the effect of refusing to provide the personal data requested;
+  * explains the different rights and choices you have when it comes to your personal data; and
 
-6\. Transfer of personal information outside of the European Economic Area ("EEA")  
-For the reasons set out in this Privacy Policy and for technical and operational reasons, your personal information may from time to time, on our behalf, be transferred, processed or stored on servers based outside of the EEA. You should be aware that such countries outside of the EEA may not offer the same level of protection for your data. For example, your data may be processed to allow personalised radio streaming, to process your entry into a competition, to fullfil any order you make for goods or services, to process any payment details or to provide support services. By submitting data to us you consent to such transfer, storing and processing outside the EEA. We will take all steps reasonably necessary to ensure your data is treated securely and in accordance with this Privacy Policy, including steps to help ensure that contractors operating on our behalf are subject to our standard technical and security obligations to provide an adequate level of protection for your information.
 
-7\. Security  
-7.1 We use up to date industry procedures and technology to keep personal data as safe and secure as possible and to protect against loss, unauthorised disclosure or access. MOS and our associated companies follow the relevant legal requirements and use all reasonable precautions to ensure only responsible third parties see the information. However, we are not responsible for any breach of security or any actions of any third parties who receive the information.  
-7.2 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we use strict procedures and security features to try to prevent unauthorised access.
+  * explains how we may contact you and how you can contact us.
 
-8\. The Data Protection Act and the Information Commissioner  
-8.1 In the UK, the Data Protection Act provides a framework for the safety and security of personal data and the uses to which such personal data is put. The Information Commissioner is the UK's independent public body set up to protect personal information and provide information to individuals and organisations. Please see  **[www.ico.gov.uk](http://ico.org.uk/)**  for more information.  
-8.2 We are registered with the Information Commissioner as a 'data controller' under registration number  **Z6699303**. We will ensure that all personal information supplied by you to us is held and dealt with in accordance with the Data Protection Act 1998 and its relevant subordinate legislation and we will comply with the principles set out in that Act. When you supply any personal information to us we will meet our legal obligations towards you in the way that we deal with that information. In accordance with the data protection principles we must collect personal information fairly and let you know how we will use it and whether we will pass the information on to anyone else. For the avoidance of doubt, we will not supply your personal information to third parties without your express prior consent other than as set out in this Privacy Policy. We will ensure that any information will be held only as long as is necessary to ensure that our service runs smoothly.  
-8.3 The Data Protection Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+  
+  
+**Are you providing personal data about someone else?**  
+  
+---  
+  
+If so, you must be authorised by that other person to share their personal data with us for the purposes and ways in which we will use and process their data as set out below.
 
-9\. Updating your information  
-9.1 If you are registered with us, you may update your personal information at any time via the "My Details" page for web users. You can get to the "My Details Page" from most pages on our websites if you are logged-on. In addition if you believe the information we hold about you to be out of date or inaccurate please email us at **[info@ministryofsound.com](mailto:info@ministryofsound.com)**  or contact us at  **+44 (0) 20 7740 8600**.
+Please do not share personal data about another person with us if you are not sure whether you are authorised to do so.  
+  
+**What personal data do we collect about you?**  
+  
+---  
+  
+We collect the information necessary to allow us to market and promote club events via email for users that opt-in to our mailing list. This information includes your name, email address and may also include your favourite nightclub event genres if you selected them during sign-up.
 
-10\. Parents  
-10.1 MOS is committed to the safety and privacy of children who visit and participate in our services. For those activities that require us to collect personal information (e.g. competitions), we will only collect personal information which is necessary to enable us to administer the relevant activity. We encourage parents and guardians to watch over their children's online use. Please educate your children to always ask for your permission before they provide personal information.
+We collect the information necessary to allow us to manage enquiries via the enquiry form on the contact page. This information includes your name, email address, telephone and message.  
+  
+**Where do we collect personal data about you from?**  
+  
+---  
+  
+The following are the different sources we may collect personal data about you from:
 
-11\. Children  
-11.1 Remember to be smart and safe online. Always ask your parent or guardian for permission before you give out any personal information. This could include your name, email address, home address, telephone number, your school or any other information about yourself that would enable someone to contact you either online or offline.  
-11.2 From time to time we run online competitions that you may be able to enter. Always remember to ask your parent or guardian for permission before entering any competition.
+·        **Directly from you**. This is information you provide to us while you are signing up to the newsletter on the website or entering information on the contact form
+
+·        **From an agent/third party acting on your behalf.**
+
+·        **Through publicly available sources**. We use the following public sources:
+
+o   Facebook
+
+o   Twitter
+
+o   Instagram
+
+o   The Ministry of Sound Website
+
+·        **Using CCTV cameras**. We have cameras on our premises and your image and movements will be recorded while you are on our site.  
+  
+**How and why we use your personal data?**  
+  
+---  
+  
+We use your personal data to ensure the safety and security of anyone who attends our premises. We will initially collect basic information on you such as contact details and then we may ask for additional information upon arrival, such as identity documents, to verify your identity.  CCTV cameras will record your image and movements while you are on our premises.
+
+We use your personal data to allow us to market and promote club events via email for users that opt-in to our mailing list. This information includes your name, email address and may also include your favourite nightclub event genres if you selected them during sign-up.
+
+We use your personal data to be able to allow us to sell tickets and operate the club efficiently. This information includes your name, email address, telephone number, address and the time of attendance on the date of the event. For VIP bookings this may also include your drinks options as part of the booking and the contact details of your guests.  
+  
+**How long do we keep your personal data for?**  
+  
+---  
+  
+We keep your information until you ask us to delete it. 
+
+We keep CCTV and body camera footage for no longer than 30 days from the date that the footage is recorded unless we are required by law to retain the footage for security purposes.   
+  
+**Who do we share your personal data with?**  
+  
+---  
+  
+Your personal data may be shared with the Ministry of Sound team including employees, consultants and services providers that help us to operate the business to ensure enquires are responded to. We may also share email marketing data with our email provider MailChimp.  
+  
+**What legal basis do we have for using your information?**  
+  
+---  
+  
+For anyone using our services or premises, our processing is necessary for our legitimate interests in that we need the information in order to be able to ensure their safety and security and to contact such persons for that purpose or to provide our services to them (e.g. checking your requirements for using our services or premises).
+
+If you notify us of any health or disability requirements, then this may involve the processing of more detailed personal data including sensitive data such as health information that you or others provide about you. In that case we always ask for your consent before undertaking such processing.
+
+For clients and members, we may also rely on our processing being necessary to perform a contract for you, for example in contacting you.  
+  
+**What happens if you do not provide us with the information we request or ask that we stop processing your information?**  
+  
+---  
+  
+If you do not provide the personal data necessary, or withdraw your consent for the processing of your personal data, we may not be able to permit entry onto our premises or provide you with our services.  
+  
+**Do we make automated decisions concerning you?**  
+  
+---  
+  
+No, we do not carry out automated decision making or automated profiling.  
+  
+**Do we use Cookies to collect personal data on you?**  
+  
+---  
+  
+To provide better service to you on our websites, we use cookies to collect your personal data when you browse. See our cookie policy here for more details.  
+  
+**Do we transfer your data outside the EEA?**  
+  
+---  
+  
+No, we do not transfer personal data out of the EEA.  
+  
+**What rights do you have in relation to the data we hold on you?**
+
+By law, you have a number of rights when it comes to your personal data. Further information and advice about your rights can be obtained from the data protection regulator in your country.
+
+**Rights**
+
+| 
+
+**What does this mean?**  
+  
+---|---  
+  
+1.     The right to be informed 
+
+| 
+
+You have the right to be provided with clear, transparent and easily understandable information about how we use your information and your rights. This is why we’re providing you with the information in this Policy.  
+  
+2.     The right of access
+
+| 
+
+You have the right to obtain access to your information (if we’re processing it), and certain other information (similar to that provided in this Privacy Policy).
+
+This is so you’re aware and can check that we’re using your information in accordance with data protection law.  
+  
+3.     The right to rectification
+
+| 
+
+You are entitled to have your information corrected if it’s inaccurate or incomplete.  
+  
+4.     The right to erasure
+
+| 
+
+This is also known as ‘the right to be forgotten’ and, in simple terms, enables you to request the deletion or removal of your information where there’s no compelling reason for us to keep using it. This is not a general right to erasure; there are exceptions.  
+  
+5.     The right to restrict processing
+
+| 
+
+You have rights to ‘block’ or suppress further use of your information. When processing is restricted, we can still store your information, but may not use it further. We keep lists of people who have asked for further use of their information to be ‘blocked’ to make sure the restriction is respected in future.  
+  
+6.     The right to data portability
+
+| 
+
+You have rights to obtain and reuse your personal data for your own purposes across different services. For example, if you decide to switch to a new provider, this enables you to move, copy or transfer your information easily between our IT systems and theirs safely and securely, without affecting its usability.  
+  
+7.     The right to object to processing
+
+| 
+
+You have the right to object to certain types of processing, including processing for direct marketing (i.e. if you no longer want to be contacted with potential opportunities).  
+  
+8.     The right to lodge a complaint
+
+| 
+
+You have the right to lodge a complaint about the way we handle or process your personal data with your national data protection regulator.  The contact details for the UK Information Commissioner’s Office is provided below.   
+  
+9.     The right to withdraw consent
+
+| 
+
+If you have given your consent to anything we do with your personal data, you have the right to withdraw your consent at any time (although if you do so, it does not mean that anything we have done with your personal data with your consent up to that point is unlawful). This includes your right to withdraw consent to us using your personal data for marketing purposes.  
+  
+We usually act on requests and provide information free of charge, but may charge a reasonable fee to cover our administrative costs of providing the information for:
+
+  * baseless or excessive/repeated requests, or
+  * further copies of the same information.
+
+
+
+Alternatively, we may be entitled to refuse to act on the request.
+
+Please consider your request responsibly before submitting it. We’ll respond as soon as we can. Generally, this will be within one month from when we receive your request but, if the request is going to take longer to deal with, we’ll come back to you and let you know.
+
+**How will we contact you?**  
+  
+---  
+  
+We may contact you by phone, email or social media. If you prefer a particular contact means over another please just let us know.  
+  
+**How can you contact us?**  
+  
+---  
+  
+If you are unhappy with how we’ve handled your information, or have further questions on the processing of your personal data, contact us here: Ministry of Sound Group Limited, 103 Gaunt Street, London, SE1 6DP or [GDPR@ministryofsound.com](mailto:GDPR@ministryofsound.com)
+
+If you’re not satisfied with our response to any complaint or believe our processing of your information does not comply with data protection law, you can make a complaint to the Information Commissioner’s Office (ICO) using the following details:
+
+Address: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF
+
+Telephone number: 0303 123 1113
+
+Website: www.ico.org.uk
