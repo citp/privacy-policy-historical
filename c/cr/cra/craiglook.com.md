@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018182838id_/https%3A//claz.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502213218id_/https%3A//claz.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,5 +16,5 @@ claz.org web site collects detail information such as IP address, domain name, b
 
 claz.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. claz.org has no controls over 3rd-party sites which the user may be visiting by clicking on links on claz.org. These sites may track your IP address and/or save cookies on your computer. claz.org has no control over or access to this data.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google, TribalFusion, ValueClick, Amazon, and possibly others. Some of these third-party ad servers or ad networks use technology to send the advertisements and links that appear on claz.org directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.   
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google, Media.net, Amazon, and possibly others. Some of these third-party ad servers or ad networks use technology to send the advertisements and links that appear on claz.org directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.   
 claz.org has no access to or control over these cookies that are used by third-party advertisers. 
