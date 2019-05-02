@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lampsplus.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821231456id_/https%3A//www.lampsplus.com/help-and-policies/your-privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lampsplus.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502082557id_/https%3A//www.lampsplus.com/help-and-policies/your-privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Your Privacy and Security | Lamps Plus
 
@@ -22,9 +22,9 @@
 
 ## Our Privacy Policy
 
-Lamps Plus, Inc. (“Lamps Plus” or “Lamps Plus Canada” or “we” or “us”) has created this privacy policy (this "Privacy Policy") in order to demonstrate its commitment to user, visitor, subscriber and customer privacy with regard to the Lamps Plus web site located at [LampsPlus.com](https://www.lampsplus.com/) (the “Website”) and the Lamps Plus Canada web site located at [LampsPlus.ca](https://www.lampsplus.ca/) (the “Website”). LampsPlus.com and LampsPlus.ca are collectively known as the “Websites.” Privacy on the Websites is of great importance to us. Because we gather important information from our users, visitors and customers (collectively “Subscribers” or “you” or “your”), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing the Websites, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Websites located [here](https://web.archive.org/help-and-policies/terms-of-use.aspx).
+Lamps Plus, Inc. (“Lamps Plus” or “we” or “us”) has created this privacy policy (this "Privacy Policy") in order to demonstrate its commitment to user, visitor, subscriber and customer privacy with regard to the Lamps Plus web site located at [LampsPlus.com](https://web.archive.org/) (the “Website”); LampsPlus.com is known as the “Website.” Privacy on the Website is of great importance to us. Because we gather important information from our users, visitors and customers (collectively “Subscribers” or “you” or “your”), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing the Websites, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located [here](https://web.archive.org/help-and-policies/terms-of-use.aspx).
 
-You can visit most of the pages on LampsPlus.com or LampsPlus.ca without ever telling us who you are, as we do not ask users to register or establish an account with us in order to browse our sites. We may track the Internet domain address from which people visit us and look at this data for user trends and statistics, but individual site visitors remain anonymous, unless, at some point, you tell us who you are.
+You can visit most of the pages on LampsPlus.com without ever telling us who you are, as we do not ask users to register or establish an account with us in order to browse our sites. We may track the Internet domain address from which people visit us and look at this data for user trends and statistics, but individual site visitors remain anonymous, unless, at some point, you tell us who you are.
 
 However, when you use our online services like joining Lamps Plus Rewards or our email list, saving viewed products in an online Wish List, leaving a product review, entering a sweepstakes, or purchasing a product from us online, you agree to tell us something about yourself.
 
@@ -46,7 +46,7 @@ We maintain relationships with select business partners whom we have deemed to b
 
 In addition, when we join with another company to offer or provide services, products, sweepstakes, contests, or promotions, we and the other company may cross-reference our customer databases to identify common customers. We and the other company may use that existing information to identify future promotional opportunities and to fulfill promotional or contractual obligations.
 
-If you prefer that we do not share your name and address with other marketers, please email us at CustomerService@LampsPlus.com (US and abroad, except Canada) or CustomerService@LampsPlus.ca (Canada).
+If you prefer that we do not share your name and address with other marketers, please email us at CustomerService@LampsPlus.com.
 
 back to top | [main help](https://web.archive.org/help-and-policies/)
 
@@ -80,9 +80,9 @@ back to top | [main help](https://web.archive.org/help-and-policies/)
 
 At this time, we are only able to display and accommodate product and store reviews written by customers on LampsPlus.com. When you leave a product review on LampsPlus.com, the information you provide about yourself, including your email address, is collected for us by a third party vendor. Customer comments are reviewed both by our third party vendor and by Lamps Plus. Any personal information collected in the product review process, including email addresses, is covered by our Lamps Plus privacy policy as outlined here and by our Terms of Use policy. Reviews are posted on LampsPlus.com at our discretion. When a product review is submitted on this web site, you grant Lamps Plus and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media.
 
-When you leave a store review on our site, the review may be posted on LampsPlus.com and/or LampsPlus.ca or shared on social media sites at our discretion. You grant Lamps Plus and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media.
+When you leave a store review on our site, the review may be posted on LampsPlus.com or shared on social media sites at our discretion. You grant Lamps Plus and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media.
 
-This policy covers information collected on visitors to the LampsPlus.com and/or LampsPlus.ca sites through the process of ordering products, joining our email lists, submitting product reviews and using our online services, as well as information collected through Lamps Plus retail stores.
+This policy covers information collected on visitors to the LampsPlus.com site through the process of ordering products, joining our email lists, submitting product reviews and using our online services, as well as information collected through Lamps Plus retail stores.
 
 back to top | [main help](https://web.archive.org/help-and-policies/)
 
@@ -116,6 +116,8 @@ Like many other online retailers, Lamps Plus uses a technology called "cookies".
 
 Lamps Plus may occasionally use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and is not relatable to you. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our advertising service providers. However, Lamps Plus respects your privacy and your right to choose whether to be included in such services. If you would like more information or would like to learn about your ability to unsubscribe of this type of practice, please visit the Network Advertising Initiative by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp). If you choose to unsubscribe, an "unsubscribe cookie" will be placed on your computer. If the cookie is removed or deleted, if you upgrade your browser or if you visit us from a different computer, you will need to return to the link above to re-select your preferences.
 
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. To learn more about interest-based advertising in general and to opt out, please visit <http://www.aboutads.info/choices>. 
+
 back to top | [main help](https://web.archive.org/help-and-policies/)
 
 ## Unsubscribing From Our Email List
@@ -142,19 +144,19 @@ back to top | [main help](https://web.archive.org/help-and-policies/)
 
 ## Protecting Children
 
-We take special care to protect the safety and privacy of children. Our site is for general audiences and we do not permit children under the age of 18 to purchase products. If you are under 18 you may purchase from LampsPlus.com or LampsPlus.ca only with the involvement of a parent or guardian. However, Lamps Plus does not wish to collect any personal information (or any information at all) from any persons under 13 years old. If you are under 13 years old, you may not use the Websites.
+We take special care to protect the safety and privacy of children. Our site is for general audiences and we do not permit children under the age of 18 to purchase products. If you are under 18 you may purchase from LampsPlus.com only with the involvement of a parent or guardian. However, Lamps Plus does not wish to collect any personal information (or any information at all) from any persons under 13 years old. If you are under 13 years old, you may not use the Websites.
 
 back to top | [main help](https://web.archive.org/help-and-policies/)
 
 ## Links to Third Party Sites
 
-The LampsPlus.com and LampsPlus.ca sites may contain links or frames to other websites owned and operated by different companies over which we have no control. Privacy policies on these sites may be different from our own. We advise you to read the posted privacy policy of these sites before divulging any personal information.
+The LampsPlus.com site may contain links or frames to other websites owned and operated by different companies over which we have no control. Privacy policies on these sites may be different from our own. We advise you to read the posted privacy policy of these sites before divulging any personal information.
 
 back to top | [main help](https://web.archive.org/help-and-policies/)
 
 ## Policy Changes
 
-If we decide to change our policy in whole or in part, we will inform you by posting a notice on our websites. The new policy will apply to all current and past users of our websites and will replace any prior policies. This policy was posted in May of 2007 and last updated in March of 2016.
+If we decide to change our policy in whole or in part, we will inform you by posting a notice on our websites. The new policy will apply to all current and past users of our websites and will replace any prior policies. This policy was posted in May of 2007 and last updated in April of 2019.
 
 back to top | [main help](https://web.archive.org/help-and-policies/)
 
