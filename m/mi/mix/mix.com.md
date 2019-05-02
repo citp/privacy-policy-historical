@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mix.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116095332id_/https%3A//mix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mix.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502184904id_/https%3A//mix.com/privacy) for the most accurate reproduction.*
 
 # Mix · Privacy Agreement
 
