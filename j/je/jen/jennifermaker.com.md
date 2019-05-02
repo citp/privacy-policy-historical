@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jennifermaker.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121051450id_/https%3A//jennifermaker.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennifermaker.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502223949id_/https%3A//jennifermaker.com/disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure - Jennifer Maker
 
