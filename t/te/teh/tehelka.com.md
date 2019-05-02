@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201215617id_/http%3A//tehelka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502212337id_/http%3A//tehelka.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tehelka
 
