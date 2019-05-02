@@ -1,19 +1,46 @@
-> *The following text is extracted and transformed from the textbooknova.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602000202id_/http%3A//www.textbooknova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbooknova.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502204352id_/https%3A//textbooknova.com/privacy) for the most accurate reproduction.*
 
 # Book Nova Text Book Search Engine Privacy Policy
 
-Last Updated: January 5, 2017
+Last Updated: May 25, 2018
 
 Nova Net LLC (“Textbook Nova”) operates TextbookNova.com and related websites (the “Website”). Textbook Nova respects your privacy regarding information Textbook Nova may collect through your use of the Website in accordance with this Privacy Policy. By accessing and using the Website, you agree to the terms and conditions contained herein.
 
 **Collection of Information**  
 Textbook Nova collects several types of information from and about users of the Website, including information: (i) by which you may be personally identified, such as name, postal address, email address, telephone number or any other identifier by which you may be contacted online or offline (“personal information” or “personally identifiable information”); (ii) that is about you but does not individually identify you; and (iv) about your internet connection, the equipment you use to access the Website and usage details. Textbook Nova collects this information directly from you when you provide it to Textbook Nova and automatically as you navigate through the Website.
 
-_Information You Provide to Textbook Nova_. The information Textbook Nova collects on or through the Website may include information that you provide by filling in forms on the Website. This includes information provided at the time of registering to use the Website, subscribing to the service, posting material or requesting further services. Textbook Nova may also ask you for: (i) information when you report a problem with the Website; (ii) records and copies of your correspondence (including email addresses), if you contact Textbook Nova; (iii) your financial information before placing an order through the Website; and (iii) details of transactions you carry out through the Website and of the fulfillment of your orders.
+_Information You Provide to Textbook Nova_. The information Textbook Nova collects on or through the Website may include information that you provide by filling in forms on the Website. This includes information provided at the time of registering to use the Website, subscribing to the service, posting material or requesting further services. Textbook Nova may also ask you for: (i) information when you report a problem with the Website; (ii) records and copies of your correspondence (including email addresses), if you contact Textbook Nova; (iii) your financial information before placing an order through the Website; and (iv) details of transactions you carry out through the Website and of the fulfillment of your orders.
+
+Textook Nova collects and processes Personal Data for the following reasons:  
+
+
+  1. where it is necessary for the performance of our agreement with you to provide our service and deliver content
+  2. where it is necessary for the compliance with legal obligations that we are subject to
+  3. where it is necessary for the purposes of legitimate and legal interests of Textbook Nova, Nova Net LLC, or a third party (e.g. other customers), except where such interests are overridden by your prevailing legitimate interests and rights; or
+  4. where you have given consent to it
+
+
 
 _Information Textbook Nova Collects Through Automatic Data Collection Technologies_. As you navigate through and interact with the Website, Textbook Nova may use automatic data collection technologies (such as cookies, web beacons and other tracking technologies) or third parties (such as Textbook Nova’s business partners) to collect certain information about your equipment, browsing actions and patterns, including: (i) details of your visits to the Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website; and (ii) information about your computer and internet connection, including your IP address, operating system and browser type. This information helps Textbook Nova better understand how you use the Website.
 
-Users who do not wish to have cookies placed on their computers may set their browsers to refuse cookies before using the Website, with the drawback that certain features of the Website may not function properly without the aid of cookies.
+The cookies used by this website may contain a user ID number, a username, email address, or other information. Users who do not wish to have cookies placed on their computers may set their browsers to refuse cookies before using the Website, with the drawback that certain features of the Website may not function properly without the aid of cookies.
+
+Visitor IP addresses are collected for the use of tracking how they use the service and how it could be improved. IP addresses are also used to monitor and audit the behavior of the user on the website in order to prevent abuse and inhibit bad actors from attacking the service.
+
+**Third-party data processors**  
+
+
+This website uses MailChimp to collect and process email addresses from users who have opted in to receive our newsletter in email. If you wish to no longer receive these emails and have your data removed from the service you can use the 'Unsubscribe' button at the bottom of the email, or send an email to 'admin@textbooknova.com' with your request.
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on visitors' computers, to help the website operators analyze how visitors use the site. The information generated by the cookie about the visitors' use of the website will generally be transmitted to and stored by Google on servers in the United States.
+
+Google will retain user data for 26 months after it is collected, and no personally identifying information is stored in the data layer.
+
+Google will not associate the IP address transferred in the context of Google Analytics with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that in this case you may not be able to use the full functionality of this website.
+
+Furthermore, users can prevent the collection of data about their use of the website (including their IP address) generated by the cookie, and the processing of data by Google, by downloading and installing the browser plug-in through the following link: http://tools.google.com/dlpage/gaoptout?hl=en.
+
+This website uses Disqus so that visitors can comment on books and communicate to each other. Users can opt out of having their data collecteed and processed by Disqus by following this link: https://disqus.com/data-sharing-settings/
 
 **Use of Information**  
 If you have supplied your email address through the Website, Textbook Nova may occasionally send you emails to tell you about new features, solicit your feedback or just keep you up-to-date with what’s going on with Textbook Nova and its services. If you send Textbook Nova a request (for example, via a support email or one of Textbook Nova’s feedback mechanisms), Textbook Nova reserves the right to publish it in order to help Textbook Nova clarify or respond to your request or to help Textbook Nova support other users.
@@ -23,7 +50,7 @@ Textbook Nova may collect statistics about the behavior of users of the Website 
 Textbook Nova reserves the right to use collected information to place a user onto a temporary black list if Textbook Nova determines that such user is abusing the Website. A user on Textbook Nova’s black list will be denied access to the Website and the services provided, as determined in Textbook Nova’s sole discretion.
 
 **Protection of Certain Personally Identifying Information**  
-Textbook Nova takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally identifying and personally identifying information. Textbook Nova will not rent or sell potentially personally identifying or personally identifying information to anyone.
+Textbook Nova takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally identifying and personally identifying information. Textbook Nova will not rent or sell potentially personally identifying or personally identifying information to anyone. Where possible any personally identifying information will be hashed or encrypted before being saved.
 
 Textbook Nova discloses potentially personally identifying and personally identifying information only (i) to those of its employees, contractors and affiliated organizations that (a) need to know such information in order to process it on Textbook Nova’s behalf or to provide services available on the Website and (b) have agreed not to disclose it to others. Such employees, contractors and affiliated organizations may be located outside of your home country, and by using the Website, you consent to the transfer of information to them; (ii) in response to a subpoena, court order or other governmental request; (iii) when Textbook Nova believes in good faith that disclosure is reasonably necessary to protect the property or rights of Textbook Nova, third parties or the public at large; or (iv) for legal purposes in court or in the stages leading to possible legal action arising from a user’s use of the Website or related services.
 
@@ -49,4 +76,4 @@ The Website is not intended for children under 13 years of age. No one under age
 Textbook Nova may change this Privacy Policy from time to time, and in Textbook Nova’s sole discretion. Textbook Nova encourages users to frequently check this page for any changes to this Privacy Policy. Your continued use of this Website after any such changes constitutes your acceptance of such changes.
 
 **Contact**  
-If you have any questions or suggestions regarding this Privacy Policy, please contact Textbook Nova at admin@textbooknova.com.
+If you have any questions or suggestions regarding this Privacy Policy, or would like to have your data removed, please contact Textbook Nova at admin@textbooknova.com.
