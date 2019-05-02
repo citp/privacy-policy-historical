@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cm.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815165215id_/https%3A//legal.cmtelecom.com/en/cm-online-bv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cm.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502081435id_/https%3A//legal.cmtelecom.com/en/gb/privacy-policy) for the most accurate reproduction.*
 
 # Legal
 
@@ -50,11 +50,11 @@ For checking and analyzing the use of our website, registering visitors who want
 
 The service providers engaged by CM are: 
 
-[Hotjar](https://web.archive.org/web/20180815165215id_/https%3A//legal.cmtelecom.com/en/cm-online-bv/www.hotjar.com): Tool with which CM Internally analyses how visitors use our website. Results are used to enhance the CM websty and user experience.
+[Hotjar](https://web.archive.org/web/20190502081453id_/https://legal.cmtelecom.com/en/cm-telecom-uk-ltd/www.hotjar.com): Tool with which CM Internally analyses how visitors use our website. Results are used to enhance the CM websty and user experience.
 
-[Unbounce](https://web.archive.org/web/20180815165215id_/https%3A//legal.cmtelecom.com/en/cm-online-bv/www.unbounce.com): Tool for creating landing pages for events. Visitors can register for such events via a landing page created with Unbounce.
+[Unbounce](https://web.archive.org/web/20190502081453id_/https://legal.cmtelecom.com/en/cm-telecom-uk-ltd/www.unbounce.com): Tool for creating landing pages for events. Visitors can register for such events via a landing page created with Unbounce.
 
-[Linkedin Insights](https://web.archive.org/web/20180815165215id_/https%3A//legal.cmtelecom.com/en/cm-online-bv/www.linkedin.com): Website analytics tool that helps us to improve reporting on website usage and the campaigns we create. 
+[Linkedin Insights](https://web.archive.org/web/20190502081453id_/https://legal.cmtelecom.com/en/cm-telecom-uk-ltd/www.linkedin.com): Website analytics tool that helps us to improve reporting on website usage and the campaigns we create. 
 
 [Google Analytics](https://www.google.nl/intl/en/analytics/): Website analytics tool that helps us to improve reporting on the use of the website and the campaigns we create.
 
@@ -64,7 +64,7 @@ In addition, we may disclose your personal information to the government or the 
 
 **Access to personal data**
 
-You can view your personal data that we have collected. If the data contains incorrect information, you may request CM to correct, supplement or delete such data. You may also contact CM at any time to object to the processing of your personal data for marketing purposes. If you receive a newsletter from us by e-mail, you will be given an opportunity to unsubscribe at the bottom of each e-mail. 
+You can request CM to view your personal data that we have collected. If the data contains incorrect information, you may request CM to correct, supplement or delete such data. You may also contact CM at any time to object to the processing of your personal data for marketing purposes. If you receive a newsletter from us by e-mail, you will be given an opportunity to unsubscribe at the bottom of each e-mail. 
 
 **Security measures** CM attaches great importance to the security and integrity of its platform. Our IT department is active 24/7 to monitor security and amply meets the requirements for appropriate technical and organizational measures to ensure a risk-appropriate level of security. All data is processed and stored in our own data centre, fully managed and controlled by CM. The data centre is located in the Netherlands. More information about security can be found on our website <https://www.cm.com/about-cm/security-compliance/>
 
