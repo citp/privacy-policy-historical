@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12manage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134836id_/http%3A//www.12manage.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12manage.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502144511id_/https%3A//www.12manage.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # 12manage - Privacy and Cookie Policy
 
@@ -28,7 +28,7 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 Please read this policy and send us questions, concerns and suggestions at [info@12manage.com](mailto:info@12manage.com).
 
-### What 12manage’s Privacy and Cookie Policy Covers:
+### What 12manage's Privacy and Cookie Policy Covers:
 
   1. Information we receive.
   2. How we use your information.
@@ -51,7 +51,7 @@ In order to become a User, you must provide us the following information to crea
 
     2. Profile Information
 
-Once you become a User, you may provide additional information on your [Personal Page](http://www.12manage.com/profile.asp) describing your profile, including your interests, professional experiences, educational background, messages from other users, group memberships, and objectives. Providing additional information about yourself beyond what is minimally required at registration is entirely up to you, but providing additional information enables you to derive more benefit from 12manage and your professional network by helping you build and leverage your professional network and facilitating your search for professional resources, information, and new opportunities. Any information you provide at registration or in the Profile section may be used by 12manage as described in the Terms of Service and this Privacy Policy, including for the purpose of serving advertisements through the service. If you decide not to share certain information, you may not receive the full benefit of being a 12manage User.
+Once you become a User, you may provide additional information on your [Personal Page](https://www.12manage.com/profile.asp) describing your profile, including your interests, professional experiences, educational background, messages from other users, group memberships, and objectives. Providing additional information about yourself beyond what is minimally required at registration is entirely up to you, but providing additional information enables you to derive more benefit from 12manage and your professional network by helping you build and leverage your professional network and facilitating your search for professional resources, information, and new opportunities. Any information you provide at registration or in the Profile section may be used by 12manage as described in the Terms of Service and this Privacy Policy, including for the purpose of serving advertisements through the service. If you decide not to share certain information, you may not receive the full benefit of being a 12manage User.
 
     3. Contacts Information
 
@@ -69,7 +69,7 @@ We may collect information about the fact that you use certain features and func
 
     6. Cookies
 
-Like most websites, we use cookies and web log files to track site usage and trends, to improve the quality of our service, to customize your experience on 12manage, as well as to deliver third-party advertising to Users both on and off the 12manage site. A cookie is a tiny data file that resides on your computer, mobile phone, or other device, and allows us to recognize you as a User when you return to the 12manage website using the same computer and web browser. You can remove or block cookies using the settings in your browser, but this will impact your ability to use 12manage. One type of cookie, known as a "persistent" cookie, may be set once you’ve logged in to your 12manage account. The next time you visit the 12manage website, the persistent cookie will allow us to remember you as an existing User so you will not need to log in before using the Services. In order to change certain information (like your password), however, you must log in securely again with your password even if your computer contains your persistent cookie. Another type of cookie, called a "session" cookie, is used to identify a particular visit to the 12manage website. Session cookies expire after a certain amount of time or when you close your web browser.
+Like most websites, we use cookies and web log files to track site usage and trends, to improve the quality of our service, to customize your experience on 12manage, as well as to deliver third-party advertising to Users both on and off the 12manage site. A cookie is a tiny data file that resides on your computer, mobile phone, or other device, and allows us to recognize you as a User when you return to the 12manage website using the same computer and web browser. You can remove or block cookies using the settings in your browser, but this will impact your ability to use 12manage. One type of cookie, known as a "persistent" cookie, may be set once you've logged in to your 12manage account. The next time you visit the 12manage website, the persistent cookie will allow us to remember you as an existing User so you will not need to log in before using the Services. In order to change certain information (like your password), however, you must log in securely again with your password even if your computer contains your persistent cookie. Another type of cookie, called a "session" cookie, is used to identify a particular visit to the 12manage website. Session cookies expire after a certain amount of time or when you close your web browser.
 
 In the course of serving advertisements or optimizing the Services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through cookies will not be personally identifiable but may provide general segment information (e.g., your industry or geography, career field, or information about your professional or educational background) for greater customization of your user experience. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. 12manage does not store unencrypted personally identifiable information in the cookies.
 
@@ -77,7 +77,7 @@ In the course of serving advertisements or optimizing the Services to our Users,
 
 To support the Services we provide at no cost to our Users, as well as provide a more relevant and useful experience for our Users, we serve our own ads and also allow third party advertisements on the site. These advertisements are targeted and served to Users, by both 12manage and other companies, called ad networks. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
 
-Advertisements on 12manage may be targeted to Users who fit a certain general profile category (e.g., marketing managers in Amsterdam") or may be based on anonymized information inferred from a User’s profile (e.g., industry, gender, age, nationality, or other aspects of your life) in addition to a User’s use of the 12manage site. 12manage does not provide personally identifiable information to any third party ad network.
+Advertisements on 12manage may be targeted to Users who fit a certain general profile category (e.g., marketing managers in Amsterdam") or may be based on anonymized information inferred from a User's profile (e.g., industry, gender, age, nationality, or other aspects of your life) in addition to a User's use of the 12manage site. 12manage does not provide personally identifiable information to any third party ad network.
 
     8. Log files, IP addresses and information about your computer and mobile device
 
@@ -95,13 +95,13 @@ You have a right to access, modify, correct and eliminate the data you supplied 
 
     1. Consent to 12manage Processing Information About You
 
-The information you provide to 12manage may reveal, or allow others to identify, your nationality, ethnic origin, religion, gender, age, geography, or other aspects of your private life. By providing information to us for the purposes of creating your User account or adding any additional details to your 12manage profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and 12manage’s Terms of Service that allow 12manage to process information about you. Supplying information to 12manage, including any information deemed "sensitive" by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to 12manage’s collection and processing of your information at any time, in accordance with the terms of this Privacy Policy and the Terms of Service, by changing your [preferences](http://www.12manage.com/login.asp), or by terminating your account, but please note that your withdrawal of consent will not be retroactive.
+The information you provide to 12manage may reveal, or allow others to identify, your nationality, ethnic origin, religion, gender, age, geography, or other aspects of your private life. By providing information to us for the purposes of creating your User account or adding any additional details to your 12manage profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and 12manage's Terms of Service that allow 12manage to process information about you. Supplying information to 12manage, including any information deemed "sensitive" by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to 12manage's collection and processing of your information at any time, in accordance with the terms of this Privacy Policy and the Terms of Service, by changing your [preferences](https://www.12manage.com/login.asp), or by terminating your account, but please note that your withdrawal of consent will not be retroactive.
 
     2. 12manage Communications
 
 As described in the Terms of Service, we will communicate with you through email and notices posted on the 12manage website, email messages, messages on your personal page, or through other means available through the service, including mobile text messages. We may send you a series of emails that help inform new Users about the features of the Services, and we will also send you service messages relating to the functioning of the Services. We may also send you messages with promotional information directly or on behalf of our partners, unless you have opted out of receiving such information.
 
-You can change your e-mail and contact preferences at any time by logging into your account and changing your [preferences](http://www.12manage.com/login.asp) related to your email notification (newsletter) choices.
+You can change your e-mail and contact preferences at any time by logging into your account and changing your [preferences](https://www.12manage.com/login.asp) related to your email notification (newsletter) choices.
 
 Please be aware that you cannot opt-out of receiving service messages from 12manage.
 
@@ -117,7 +117,7 @@ We use information provided to us (or to third parties with whom it offers combi
 
 12manage takes the privacy of our Users very seriously, and we do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. Further, we will only share your personally identifiable information with third parties to carry out your instructions or to provide the Services or information unless compelled by law, or as necessary to enforce our Terms of Service or protect the rights, property, or personal safety of 12manage, its Users, and the public. For example, we use a payment processing company to bill Users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services, and they are bound by confidentiality agreements limiting the use of your information.
 
-We also offer a "public profile" feature that allows Users to publish portions of their 12manage profile to the public internet. This public profile is what search engines will display when someone searches for your name. Users may opt-out of this feature by editing their [profile](http://www.12manage.com/profile.asp); however, 12manage does not warrant how often third-party search engines will update their caches, which may contain old public profile information.
+We also offer a "public profile" feature that allows Users to publish portions of their 12manage profile to the public internet. This public profile is what search engines will display when someone searches for your name. Users may opt-out of this feature by editing their [profile](https://www.12manage.com/profile.asp); however, 12manage does not warrant how often third-party search engines will update their caches, which may contain old public profile information.
 
 We may provide aggregated anonymous data about the usage of the Services to third parties for purposes that we deem, in our sole discretion, to be appropriate, including to prospective advertisers on 12manage.
 
@@ -129,11 +129,11 @@ If you choose to use Combined Services or a Platform Application, you may be ask
 
 Also, despite our agreements and technical steps taken to restrict access to and avoid possible misuse of information we may not screen or audit all Combined Services or Platform Applications. We also cannot guarantee that any 12manage Partner or Platform Developer will abide by our agreement. You agree that your use of Combined Services or Platform Applications is on an "as is" basis and without any warranty.
 
-If you, members of your network, or other Users of 12manage use or interact with any Combined Service or Platform Application, the 12manage Partner or Platform Developer may access and share certain information about you with others, such as your profile information and information visible only to 12manage members. This includes information about your connections by virtue of you being connected to others. However, because a Combined Service or Platform Application can make calls on behalf of the User interacting with it to access non-public information, the level of detail accessible by the Combined Service or Platform Application through 12manage is constrained by the same settings that govern visibility of your data to that User on 12manage. For example, assuming you have not already given a Platform Developer’s application permission to access your information, your non-public profile information should not be visible to someone using the same Platform Application if it is not otherwise accessible to that person on 12manage.
+If you, members of your network, or other Users of 12manage use or interact with any Combined Service or Platform Application, the 12manage Partner or Platform Developer may access and share certain information about you with others, such as your profile information and information visible only to 12manage members. This includes information about your connections by virtue of you being connected to others. However, because a Combined Service or Platform Application can make calls on behalf of the User interacting with it to access non-public information, the level of detail accessible by the Combined Service or Platform Application through 12manage is constrained by the same settings that govern visibility of your data to that User on 12manage. For example, assuming you have not already given a Platform Developer's application permission to access your information, your non-public profile information should not be visible to someone using the same Platform Application if it is not otherwise accessible to that person on 12manage.
 
 Please also note that because of our relationship with certain 12manage Partners and Platform Developers, permission to access certain account information may be automatically granted to provide the combined services or functionality. You can request a list of current 12manage Partners [here](mailto:info@12manage.com).
 
-To revoke permission granted to a Combined Service or Platform Application at any time, please visit the [preferences page](http://www.12manage.com/login.asp). If the relevant Platform Developer or Application, or 12manage Partner is not listed under Authorized Applications, go directly to the Application Details page for the Platform Application you wish to uninstall. To report any suspected misuse of information, contact 12manage’s customer service. 12manage is not responsible for your use of or inability to use any Combined Service or Platform Application, including the content, accuracy, or reliability of applications and the privacy practices or other policies of 12manage Partners or Platform Developers.
+To revoke permission granted to a Combined Service or Platform Application at any time, please visit the [preferences page](https://www.12manage.com/login.asp). If the relevant Platform Developer or Application, or 12manage Partner is not listed under Authorized Applications, go directly to the Application Details page for the Platform Application you wish to uninstall. To report any suspected misuse of information, contact 12manage's customer service. 12manage is not responsible for your use of or inability to use any Combined Service or Platform Application, including the content, accuracy, or reliability of applications and the privacy practices or other policies of 12manage Partners or Platform Developers.
 
     7. Polls and Surveys
 
@@ -159,13 +159,13 @@ It is possible that we may need to disclose personal information, profile inform
 
     11. Disclosures to others
 
-We may also disclose your personal information and other information you provide to another third party as part of a reorganization or a sale of the assets of 12manage BV, a subsidiary or division. Any third party to which 12manage transfers or sells 12manage’s assets will have the right to continue to use the personal and other information that you provide to us.
+We may also disclose your personal information and other information you provide to another third party as part of a reorganization or a sale of the assets of 12manage BV, a subsidiary or division. Any third party to which 12manage transfers or sells 12manage's assets will have the right to continue to use the personal and other information that you provide to us.
 
   3. **Your information choices**
 
     1. Accessing and Changing Your Account Information
 
-You can review the personal information you provided to us and make any desired changes to the information you publish, or to the settings for your 12manage account including your email and contact preferences, at any time in your [preferences](http://www.12manage.com/login.asp) on the 12manage website. Please be aware that even after your request for a change is processed, 12manage may, for a time, retain residual information about you in its backup and/or archival copies of its database.
+You can review the personal information you provided to us and make any desired changes to the information you publish, or to the settings for your 12manage account including your email and contact preferences, at any time in your [preferences](https://www.12manage.com/login.asp) on the 12manage website. Please be aware that even after your request for a change is processed, 12manage may, for a time, retain residual information about you in its backup and/or archival copies of its database.
 
     2. Default Settings
 
@@ -175,11 +175,11 @@ Because the mission of 12manage is is to make organizational and management know
 
     3. Terminating Your Account
 
-You can end your account through the 12manage site. If you terminate your 12manage account, we will remove your profile and other personally identifiable information from our publicly viewable database. If you terminate your account, we have no obligation to retain your information, and may delete any or all of your account information without liability. However, we may retain certain data contributed by you if 12manage believes it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. 12manage may also retain and use your information if necessary to provide the Services to other Users. For example, just as an email you may send to another person through an email service provider resides in that person’s inbox even after you delete it from your sent files or close your account, emails or messages you send on 12manage to other Users, as well as your contributions you made to 12manage forums, expert tips and resources will remain visible to others after you have ended your account. Similarly, other information you have shared with others, or that other Users have copied, may also remain visible. 12manage disclaims any liability in relation to the deletion or retention (subject to the terms herein) of information or any obligation not to delete the information. 12manage does not control when search engines update their cache, which may contain certain public profile information that has since been removed from 12manage’s publicly viewable database.
+You can end your account through the 12manage site. If you terminate your 12manage account, we will remove your profile and other personally identifiable information from our publicly viewable database. If you terminate your account, we have no obligation to retain your information, and may delete any or all of your account information without liability. However, we may retain certain data contributed by you if 12manage believes it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. 12manage may also retain and use your information if necessary to provide the Services to other Users. For example, just as an email you may send to another person through an email service provider resides in that person's inbox even after you delete it from your sent files or close your account, emails or messages you send on 12manage to other Users, as well as your contributions you made to 12manage forums, expert tips and resources will remain visible to others after you have ended your account. Similarly, other information you have shared with others, or that other Users have copied, may also remain visible. 12manage disclaims any liability in relation to the deletion or retention (subject to the terms herein) of information or any obligation not to delete the information. 12manage does not control when search engines update their cache, which may contain certain public profile information that has since been removed from 12manage's publicly viewable database.
 
     4. Memorializing Accounts
 
-If we learn that a User is deceased, we may memorialize the User’s account. In these cases we may restrict profile access, remove messaging functionality, and terminate an account if we receive a formal request from the User’s next of kin or other proper legal request to do so.
+If we learn that a User is deceased, we may memorialize the User's account. In these cases we may restrict profile access, remove messaging functionality, and terminate an account if we receive a formal request from the User's next of kin or other proper legal request to do so.
 
   4. **Your obligations as a User**
 
@@ -222,9 +222,9 @@ If you have any questions or comments please email us at [info@12manage.com](mai
 
 Attention of: Privacy and Cookie Policy Issues
 
-Obrechtlaan 14
+Hollandse Hout 273
 
-3723KC Bilthoven
+8244 GM Lelystad
 
 The Netherlands
 
