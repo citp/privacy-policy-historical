@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honolulu.gov privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025091503id_/https%3A//www.honolulu.gov/footer-links/56-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honolulu.gov privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502180259id_/https%3A//www.honolulu.gov/footer-links/56-privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
