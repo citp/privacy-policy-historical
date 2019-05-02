@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220215308id_/https%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502093403id_/https%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Farmers Insurance
 
 This notice describes our privacy policies and procedures in safeguarding information about customers and former customers that obtain financial products or services for personal, family or household purposes. **Please note that if state law is more protective of an individual's privacy than federal privacy law, we will protect information in accordance with state law while also meeting federal requirements.  
- **
+**
 
 #### Information We Collect
 
@@ -21,8 +21,7 @@ We collect certain information ("nonpublic personal information") about you and 
 
 #### How We Protect Your Information
 
-We restrict access to personal information about you to individuals, such as our employees and agents, who provide you with our products and services. We require individuals with access to your customer information to protect it and keep it confidential. We maintain physical, electronic, and procedural safeguards that comply with applicable regulatory standards to guard your nonpublic personal information. We do not disclose any nonpublic personal information about you except as described in this notice.  
- 
+We restrict access to personal information about you to individuals, such as our employees and agents, who provide you with our products and services. We require individuals with access to your customer information to protect it and keep it confidential. We maintain physical, electronic, and procedural safeguards that comply with applicable regulatory standards to guard your nonpublic personal information. We do not disclose any nonpublic personal information about you except as described in this notice.
 
 #### Information We Disclose
 
@@ -33,8 +32,7 @@ We are permitted to disclose personal health information:
 (2) with your written authorization, and  
 (3) otherwise as permitted by law.
 
-####   
-Sharing Information with Affiliates
+#### Sharing Information with Affiliates
 
 The Farmers Insurance Group ® of Companies includes affiliates that offer a variety of financial products and services in addition to insurance. Sharing information enables our affiliates to offer you a more complete range of products and services.  
 
@@ -46,8 +44,7 @@ We may disclose nonpublic personal information, as described above in **Informat
 
 
 
-We are permitted by law to share information with our affiliates about our transactions with you. In addition, we may share consumer report information, such as information from credit reports and certain application information, received from you and from third parties, such as consumer reporting agencies and insurance support organizations.  
- 
+We are permitted by law to share information with our affiliates about our transactions with you. In addition, we may share consumer report information, such as information from credit reports and certain application information, received from you and from third parties, such as consumer reporting agencies and insurance support organizations.
 
 #### Your Choice
 
@@ -55,27 +52,21 @@ If you prefer that we not share consumer report information with our affiliates,
 
 **If you decide not to opt-out or if you have previously submitted a request to opt-out on each of your policies, no further action is required.**
 
-####   
-Modifications to our Privacy Policy
+#### Modifications to our Privacy Policy
 
 We reserve the right to change our privacy practices in the future, which may include sharing nonpublic personal information about you with nonaffiliated third parties. Before we make any changes, we will provide you with a revised privacy notice and give you the opportunity to opt-out of that type of information sharing.
 
-####   
-Website
+#### Website
 
-Our website privacy notices contain additional information about website use. Please review those notices if you transmit personal information to Farmers over the Internet.  
+Our website privacy notices contain additional information about website use. Please review those notices if you transmit personal information to Farmers over the Internet.
 
+#### Recipients of this Notice
 
-####   
-Recipients of this Notice
-
-While any policyholder may request a copy of this notice, we are providing this notice to the named policyholder residing at the mailing address to which we send your policy information. If there is more than one policyholder on a policy, only the named policyholder will receive this notice. You may receive more than one copy of this notice if you have more than one policy with Farmers. You also may receive notices from affiliates, other than those listed below.  
- 
+While any policyholder may request a copy of this notice, we are providing this notice to the named policyholder residing at the mailing address to which we send your policy information. If there is more than one policyholder on a policy, only the named policyholder will receive this notice. You may receive more than one copy of this notice if you have more than one policy with Farmers. You also may receive notices from affiliates, other than those listed below.
 
 #### More Information about the Federal Laws?
 
-This notice is required by federal law. For more information, please visit [farmers.com](https://www.farmers.com/).  
- 
+This notice is required by federal law. For more information, please visit [farmers.com](https://www.farmers.com/).
 
 #### Signed
 
@@ -83,37 +74,31 @@ Farmers Insurance Exchange, Fire Insurance Exchange, Truck Insurance Exchange, M
 
 The above is a list of the affiliates on whose behalf this privacy notice is being provided. It is not a comprehensive list of all affiliates of the companies comprising the Farmers Insurance Group of Companies.
 
-*You may obtain more information about the Securities Investor Protection Program (SIPC) including the SIPC brochure by contacting SIPC at (202) 371-8300 or via the internet at [www.sipc.org](http://www.sipc.org/). For information about FINRA and Broker Check you may call the FINRA Broker Check hotline at (800) 289-9999 or access the FINRA website at [www.finra.org](http://www.finra.org/).  
- 
+*You may obtain more information about the Securities Investor Protection Program (SIPC) including the SIPC brochure by contacting SIPC at (202) 371-8300 or via the internet at [www.sipc.org](http://www.sipc.org/). For information about FINRA and Broker Check you may call the FINRA Broker Check hotline at (800) 289-9999 or access the FINRA website at [www.finra.org](http://www.finra.org/).
 
 #### Questions?
 
 1-866-813-7551
 
-### WEB SITE PRIVACY POLICY STATEMENT USE OF INFORMATION YOU GIVE US  
- 
+### WEB SITE PRIVACY POLICY STATEMENT USE OF INFORMATION YOU GIVE US
 
 #### General Statement
 
-Farmers’ policy is to protect the confidentiality of the individually identifiable information that you provide, and to limit access to that information only to those with a need to know. Farmers may collect your name, address, phone number and e-mail address at this site. We will use this information to provide you information you request, to refer you to a Farmers agent, to refer you to a third party service provider or to comply with a legal requirement. When you encounter a screen in this site that asks for information you do not want us to have or use, you should not proceed further with that screen.  
- 
+Farmers’ policy is to protect the confidentiality of the individually identifiable information that you provide, and to limit access to that information only to those with a need to know. Farmers may collect your name, address, phone number and e-mail address at this site. We will use this information to provide you information you request, to refer you to a Farmers agent, to refer you to a third party service provider or to comply with a legal requirement. When you encounter a screen in this site that asks for information you do not want us to have or use, you should not proceed further with that screen.
 
 #### Hyperlinks
 
 We have agreements with third parties that allow you to go to their web site from our Web Site. If you go to these sites from our site, you may be asked to give non-public personal information for access to their services or products. You may become a part of that business' customer base and be subject to their policies regarding the handling of customer data.
 
-Please be aware that Farmers is not responsible for the privacy practices of those sites, even though Farmers' name or logo may appear on those sites. We encourage you to be aware of this when you leave our site and to read the Privacy Statements of each and every web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy statement applies solely to our Web Site.  
- 
+Please be aware that Farmers is not responsible for the privacy practices of those sites, even though Farmers' name or logo may appear on those sites. We encourage you to be aware of this when you leave our site and to read the Privacy Statements of each and every web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy statement applies solely to our Web Site.
 
 #### Security
 
-Our policy is to restrict access to nonpublic personal information about you only to those employees who need to know that information to provide products or services to you or to provide necessary technical support. We require the employees with access to your nonpublic personal information, including your social security numbers, to use safeguards against unauthorized access, use and unlawful disclosure. We require our employees to adhere to high standards of ethics and integrity in performing their jobs and conducting business. We also require the same standards of confidentiality from the service vendors that assist us. Farmers uses no encryption (data scrambling) on public portions of the Site and up to 2048-bit encryption on other portions—typically, where you can enter personally identifiable information. When you are on any web site that asks you for confidential information, you should check to see if the information being transmitted is encrypted in order to increase the security of your information.  
- 
+Our policy is to restrict access to nonpublic personal information about you only to those employees who need to know that information to provide products or services to you or to provide necessary technical support. We require the employees with access to your nonpublic personal information, including your social security numbers, to use safeguards against unauthorized access, use and unlawful disclosure. We require our employees to adhere to high standards of ethics and integrity in performing their jobs and conducting business. We also require the same standards of confidentiality from the service vendors that assist us. Farmers uses no encryption (data scrambling) on public portions of the Site and up to 2048-bit encryption on other portions—typically, where you can enter personally identifiable information. When you are on any web site that asks you for confidential information, you should check to see if the information being transmitted is encrypted in order to increase the security of your information.
 
 #### Logging
 
-In addition to the information you provide us, we collect information about your activities while you are at our site. While you are logged in our site, we log IP addresses (a number assigned to your computer when you use the Internet), browser and platform types, domain names, access times, referral data (the last site or URL you visited before logging into our site and the first site or URL you visit after leaving our site), and your activity while using or reviewing our site. We obtain the information by using cookies.  
- 
+In addition to the information you provide us, we collect information about your activities while you are at our site. While you are logged in our site, we log IP addresses (a number assigned to your computer when you use the Internet), browser and platform types, domain names, access times, referral data (the last site or URL you visited before logging into our site and the first site or URL you visit after leaving our site), and your activity while using or reviewing our site. We obtain the information by using cookies.
 
 #### Cookies
 
@@ -121,23 +106,19 @@ A cookie is a message sent to your browser from a Web server that is stored on y
 
 We do not currently support Do Not Track signals but may in the future.
 
-When you visit our website, other parties may collect personally identifiable information about your online activities over time and across different websites.  Notwithstanding any other provision, we may work with a third party partner who may collect information from you, such as your IP address and information about your browser or operating system, and may place or recognize a unique cookie on your browser for the purpose of enabling interest-based content or advertising to you. The cookies placed by our third party partners contain no personally identifiable information; they may contain demographic or other interest-based data in a de-identified form.  The information in these cookies may be linked to data you voluntarily have submitted to us, such as your name, postal address or email, which we may share in hashed or encrypted form. To opt-out of these data provider cookies, please go to [http://www.aboutads.info/choices](http://www.aboutads.info/choices/).  
- 
+When you visit our website, other parties may collect personally identifiable information about your online activities over time and across different websites.  Notwithstanding any other provision, we may work with a third party partner who may collect information from you, such as your IP address and information about your browser or operating system, and may place or recognize a unique cookie on your browser for the purpose of enabling interest-based content or advertising to you. The cookies placed by our third party partners contain no personally identifiable information; they may contain demographic or other interest-based data in a de-identified form.  The information in these cookies may be linked to data you voluntarily have submitted to us, such as your name, postal address or email, which we may share in hashed or encrypted form. To opt-out of these data provider cookies, please go to [http://www.aboutads.info/choices](http://www.aboutads.info/choices/).
 
 #### Right to Preserve and Disclose
 
-Farmers may preserve for any period of time it deems appropriate all information you provide. Farmers may also disclose information you provide if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) complete your transaction; (b) comply with legal process; (c) enforce this Agreement; (d) respond to claims that any materials on this Site violate your rights or the rights of third parties; (e) protect the rights, property, or personal safety of Farmers, its users and/or the public; or (f) in the event that all or substantially all of Farmers assets are acquired by a third party.  
- 
+Farmers may preserve for any period of time it deems appropriate all information you provide. Farmers may also disclose information you provide if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) complete your transaction; (b) comply with legal process; (c) enforce this Agreement; (d) respond to claims that any materials on this Site violate your rights or the rights of third parties; (e) protect the rights, property, or personal safety of Farmers, its users and/or the public; or (f) in the event that all or substantially all of Farmers assets are acquired by a third party.
 
 #### Modifications
 
-We reserve the right, at any time, to change or modify our policies on the use of information you provide us, and will post the revised policy on our Web Site. We, therefore, recommend you review this policy statement each time you may be asked to give us personal information after accessing this site.  
- 
+We reserve the right, at any time, to change or modify our policies on the use of information you provide us, and will post the revised policy on our Web Site. We, therefore, recommend you review this policy statement each time you may be asked to give us personal information after accessing this site.
 
 #### Legal Terms
 
-We also recommend you read the section called Legal Disclaimer. The Legal Disclaimer section describes the terms and conditions for use of our Web Site, discusses the content in this site, and information about your responsibilities when using this site.  
- 
+We also recommend you read the section called Legal Disclaimer. The Legal Disclaimer section describes the terms and conditions for use of our Web Site, discusses the content in this site, and information about your responsibilities when using this site.
 
 #### Children and Minors
 
@@ -145,8 +126,7 @@ Farmers makes no active effort to collect personal information from children and
 
 Effective Date: December 20, 2013
 
-####   
-Confidentiality of Information for Domestic Violence Victims and Endangered Individuals
+#### Confidentiality of Information for Domestic Violence Victims and Endangered Individuals
 
 New York Insurance Law provides that if any person covered by an insurance policy delivers to the insurer a valid order of protection against another policyholder or other person covered by the policy requesting that their information be kept confidential then the insurer is prohibited for the duration of that order from disclosing to that policyholder or other person the address and telephone number of the victim, or of any person or entity providing covered services to the victim. If a child is a covered person, then the right may be asserted by the child’s parent or guardian.
 
