@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the cree.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814021942id_/https%3A//www.cree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cree.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502152738id_/https%3A//www.cree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _This Policy is effective as of May 25, 2018._
+
+[](https://web.archive.org/privacy-policy-it)[Informativa sulla privacy](https://web.archive.org/privacy-policy-it) [](https://web.archive.org/privacy-policy-de)[Datenschutzerklärung](https://web.archive.org/privacy-policy-de) [](https://web.archive.org/privacy-policy-sv)[Sekretesspolicy](https://web.archive.org/privacy-policy-sv)
 
 ### PRIVACY POLICY
 
@@ -20,7 +22,7 @@ Cree may use cookies and other technologies on the website to enhance or improve
 
 Cree does not seek information from persons less than 13 years of age and no information should be submitted to Cree by anyone under 13 years of age.
 
-### How We Use It
+### HOW WE USE IT
 
 Cree believes and supports Personal Data minimization and limiting use to those processing activities for which permission was given. Cree uses the personal information you provide as necessary to deliver our products or services, or as required for legal compliance or other lawful purposes. Cree uses your personal information to process and ship purchases, communicate with you via email, phone, or text messages and may send marketing materials if you chose to opt-in to marketing campaigns that you may also opt-out at any time. Cree takes reasonable steps to ensure that Personal Data is reliable for its intended use, accurate, complete, and current.
 
@@ -32,9 +34,7 @@ Cree may share information it collects from Site users with service providers wh
 
 You may visit and browse our Site without providing any personal information, and you can always choose not to provide us with the personal information we request. However, choosing not to provide us with certain information that we request may prevent you from accessing or using certain portions of our Site.
 
-If you would like to change any information you submitted to us, or if you want to opt-out of receiving future communications from us, please contact us. Upon request, when Cree acts as a Controller, as defined by global privacy regulations, Cree will provide individuals with reasonable access to their Personal Data to allow individuals the opportunity to correct, amend or delete Personal Data where it is inaccurate, or has been processed without your consent. A request may be denied under certain circumstances, such as where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question, or where the rights of persons other than the individual would be violated.
-
-When Cree is a processor, as defined by global privacy regulations, and not a Controller, it will take reasonable steps to help the appropriate Controller respond and will act on the reasonable direction of the Controller’s customers with respect to access.
+If you would like to change any information you submitted to us, or if you want to opt-out of receiving future communications from us, please contact us. Upon request, when Cree acts as a Controller, as defined by global privacy regulations, Cree will provide individuals with reasonable access to their Personal Data to allow individuals the opportunity to correct, amend or delete Personal Data where it is inaccurate, or has been processed without your consent. A request may be denied under certain circumstances, such as where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question, or where the rights of persons other than the individual would be violated. When Cree is a processor, as defined by global privacy regulations, and not a Controller, it will take reasonable steps to help the appropriate Controller respond and will act on the reasonable direction of the Controller’s customers with respect to access.
 
 If you would like to manage cookies used by this site, the "help" section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. However, if you configure your browser to decline cookies, certain features of our Site may not function correctly, and you may be required to reenter user IDs and passwords more frequently. Some browsers incorporate a "Do Not Track" feature that, when turned on, signals to websites and online services that you do not want to be tracked. Our site does not currently respond to Do Not Track signals.
 
@@ -42,31 +42,11 @@ If you would like to manage cookies used by this site, the "help" section of the
 
 Cree takes reasonable and appropriate measures to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, considering the risks involved and the nature of the personal information.
 
-### PRIVACY SHIELD
-
-Cree complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the European Union and Switzerland to the United States, respectively. Cree has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Individuals can learn more about the Privacy Shield program, individual rights, and our participation in the program by visiting:
-
-<https://www.privacyshield.gov/Individuals-in-Europe>
-
-Cree acknowledges that it is subject to the jurisdiction of the Federal Trade Commission for compliance and enforcement of the Privacy Shield and Swiss Privacy Shield.
-
 ### RECOURSE, ENFORCEMENT AND LIABILITY
 
-In compliance with the Privacy Shield Principles, Cree commits to resolve complaints about our collection or use of your Personal Data. European Union or Swiss individuals with inquiries or complaints regarding Cree’s Privacy Policy should first contact Cree directly. Cree will respond to issues and complaints within 45 days of receipt. Cree encourages interested persons to raise any concerns about the collection, use, or processing of Personal Data using the contact information provided. In the event of a privacy related issue or complaint, Cree will investigate and attempt to promptly resolve any complaints and disputes regarding use and disclosure of Personal Data in accordance with the Principles.
+In line with the Privacy Shield Principles, Cree commits to resolve complaints about our collection or use of your Personal Data. European Union or Swiss individuals with inquiries or complaints regarding Cree’s Privacy Policy should first contact Cree directly. Cree will respond to issues and complaints within 45 days of receipt. Cree encourages interested persons to raise any concerns about the collection, use, or processing of Personal Data using the contact information provided. In the event of a privacy related issue or complaint, Cree will investigate and attempt to promptly resolve any complaints and disputes regarding use and disclosure of Personal Data in accordance with the Principles.
 
-To contact Cree for Privacy Shield-related issues, please use one of the contact methods below:
+To contact Cree for Privacy related issues, please use one of the contact methods below:
 
-Email Cree at [privacy@cree.com](mailto:privacy@cree.com)  
+Email Cree at [privacy@cree.com](mailto:privacy@cree.com)   
 Call Cree at [+1 919-313-5300](tel:+1-919-313-5300)
-
-For complaints that cannot be resolved, Cree commits to cooperate with the panel established by the EU data protection authorities (DPAs) or the Swiss Federal Data Protection and Information Commissioner (FDPIC), as applicable, and comply with the advice given by the panel or Commissioner about Personal Data transferred from the EU or Switzerland. In order to facilitate the handling of complaints, individuals in the EU can choose to contact their national DPA or use the form located at this link:
-
-<http://ec.europa.eu/newsroom/document.cfm?doc_id=42962>.
-
-Individuals in Switzerland can contact the Swiss Information Commissioner by visiting:
-
-<https://www.edoeb.admin.ch/edoeb/de/home.html>
-
-This independent dispute resolution process is provided at no cost to the individual. Under certain conditions an individual may choose to invoke binding arbitration to resolve any residual complaints not resolved by Cree or the DPAs or FDPIC, as appropriate. If an individual formally invokes binding arbitration, Cree will follow the terms set forth in Annex 1 of the Privacy Shield Framework. For more information on binding arbitration visit:
-
-<https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
