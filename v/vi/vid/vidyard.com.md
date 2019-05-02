@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710024545id_/https%3A//www.vidyard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502123324id_/https%3A//www.vidyard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vidyard
 
-Welcome! This **Privacy Policy** (this “Policy”) explains how we at Buildscale, Inc. (“ **Buildscale** ”), operating as Vidyard (“ **Vidyard** ”), collect, use, disclose and otherwise process personal information. We understand that you are aware of and care about your own personal privacy interests, and we take that seriously. This Policy describes the personal information we may collect from you, the purposes for which we collect it, how we use it and how we keep it secure. This Policy also describes the choices you can make about your personal information, including how you can manage, delete or have access to your personal information. Vidyard will not collect, use or disclose your personal information other than in compliance with this Policy.
+Skip Navigation
 
-Click on any of the links below to read a summary for that topic. If you want learn further detailed information, click “Read More” in that section.
+[ ](https://web.archive.org/)
+
+Welcome! This Privacy Policy (this **“Policy”** ) explains how we at Buildscale, Inc. ( **“Buildscale”** ), operating as Vidyard (“Vidyard”), collect, use, disclose and otherwise process personal information. We understand that you are aware of and care about your own personal privacy interests, and we take that seriously. This Policy describes the personal information we may collect from you, the purposes for which we collect it, how we use it and how we keep it secure. This Policy also describes the choices you can make about your personal information, including how you can manage, delete or have access to your personal information. Vidyard will not collect, use or disclose your personal information other than in compliance with this Policy.
+
+Click on any of the links below to read a summary for that topic. If you want learn further detailed information, click “more” in that section.
 
 Vidyard is headquartered in Kitchener, Ontario, Canada. Vidyard has appointed an internal data protection officer for you to contact if you have any questions or concerns about Vidyard’s personal data policies or practices. Vidyard’s data protection officer’s name and contact information are as follows:
 
-Jonathan Dunlop
-
+Jonathan Dunlop  
 Buildscale Inc.  
 8 Queen St. N, Unit #1  
 Kitchener, ON, Canada  
@@ -33,7 +36,7 @@ This Privacy Policy applies to the personal information we collect and use when 
 
 
 
-This Privacy Policy does not apply to the practices of third parties that use the Vidyard Services to distribute or show you videos or other content using our services. You should review the privacy policies of those third parties for information on how they use your personal information. Please contact our Data Protection Officer if you have any questions in this regard or require assistance in contacting a third party.
+This Privacy Policy does not apply to the practices of third parties that use the Vidyard Services to distribute or show you videos or other content using our Services. You should review the privacy policies of those third parties for information on how they use your personal information. Please contact our [Data Protection Officer](mailto:DPO@vidyard.com) if you have any questions in this regard or require assistance in contacting a third party.
 
 Also, the Vidyard Websites and Vidyard Services may contain links to third party websites or services. These links are intended for your convenience only. These websites and services are wholly independent from Buildscale and may have separate privacy policies and data collection practices, independent of Buildscale. We have no responsibility or liability for these websites, their policies or their privacy practices. We encourage you to read the privacy policy of any websites you visit.
 
@@ -181,7 +184,7 @@ Tell me about uploaded content and third-party information
 
 When you post audio-visual materials to your website or to a third party website, we collect information about your account and the use of the content that you post. If you use our invitation features, such as chats and sending invitations to friends, Vidyard may collect some information from them.
 
-Integrating Vidyard Services with third party websites (such as Salesforce, HubSpot and Marketo) is optional and you can unlink your account at any time. More information about how you can manage each of these integrations can be found [here](https://knowledge.vidyard.com/33026-integrationsr).
+Integrating Vidyard Services with third party websites (such as Salesforce, HubSpot and Marketo) is optional and you can unlink your account at any time. More information about how you can manage each of these integrations can be found [here](https://knowledge.vidyard.com/hc/en-us/categories/360000783533-Integrations).
 
 If you use the Vidyard Services and you post audio visual materials including, without limitation, videos, links, logos, artwork, graphics, pictures, advertisements, sound and other related intellectual property contained in such materials to your website or to a third party website, Vidyard tracks and captures information associated with your account and the use of the content by those, such as viewers, that access your content.
 
@@ -205,7 +208,7 @@ If you are from the European Union, Vidyard will only transfer your personal inf
 
 Information collected by our customers using Vidyard services
 
-We may provide customers with certain identifiable usage information directly related to the videos and other content that they make available through the Vidyard Services. This includes information about who specifically viewed the content and how many times a particular content was watched by a particular viewer. Viewers should be aware that customers may share such usage information with other third parties. We are not responsible for the use of any information by such customers and their third party services. With that said, Vidyard requires all customer to use the Vidyard Services in line with applicable laws. Please contact our Data Protection Officer if you have any questions in this regard or require assistance in contacting a one of our customers.
+We may provide customers with certain identifiable usage information directly related to the videos and other content that they make available through the Vidyard Services. This includes information about who specifically viewed the content and how many times a particular content was watched by a particular viewer. Viewers should be aware that customers may share such usage information with other third parties (see the next section). We are not responsible for the use of any information by such customers and their third party services. With that said, Vidyard requires all customer to use the Vidyard Services in line with applicable laws. Please contact our [Data Protection Officer](mailto:DPO@vidyard.com) if you have any questions in this regard or require assistance in contacting a one of our customers.
 
 Here are examples of the personal information tour customer may attempt to collect with the Vidyard Services:
 
@@ -215,6 +218,10 @@ Here are examples of the personal information tour customer may attempt to colle
 
 
 The Vidyard Services are not intended to be used to collect special categories of personal information such as racial or ethnic origin, religious or philosophical beliefs, genetic data, or sexual orientation etc. In the rare case that our customer may attempt to collect special categories of personal information using the Vidyard Services, it will be be provided by you knowingly (for example: by you choosing to disclose it.)
+
+Use of Third Party Integrations by our Customers
+
+Our customers may integrate the Vidyard Services with other third party applications and platforms. In doing so, our customers may transfer your personal information from our platform to the third party. Vidyard is not responsible for the transfer of such information by our customers. Please contact our [Data Protection Officer](mailto:DPO@vidyard.com) if you have any questions in this regard or require assistance in contacting a one of our customers.
 
 How does Vidyard keep personal information safe?
 
@@ -266,7 +273,7 @@ If you do opt-out of receiving promotional and marketing messages, Vidyard may s
 
  **Close your Vidyard account**. If you wish to delete your account and stop doing business with Vidyard, please contact our customer service representative at [success@vidyard.com](mailto:success@vidyard.com).
 
- **Information processed by Vidyard on behalf of one of our Customers**. Please contact our Data Protection Officer if you require assistance in contacting a one of our customers in order to access, verify, correct, update or delete personal information that may have been collected by Vidyard Services on their behalf.
+ **Information processed by Vidyard on behalf of one of our Customers**. Please contact our [Data Protection Officer](mailto:DPO@vidyard.com) if you require assistance in contacting a one of our customers in order to access, verify, correct, update or delete personal information that may have been collected by Vidyard Services on their behalf.
 
  **Opt-out of cookies, tracking technologies and / or targeted advertising**. Please visit our dedicated [Cookies and Advertising Policy](https://web.archive.org/cookies/) to learn what choices you have.
 
