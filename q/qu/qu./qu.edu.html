@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the qu.edu privacy policy that was archived on 2018-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180903172642id_/https%3A//www.qu.edu/site-security-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qu.edu privacy policy that was archived on 2019-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190502035224id_/https%3A//www.qu.edu/site-security-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-require="log"><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="keywords">
 
     
     
-<link rel="stylesheet" href="/etc/clientlibs/foundation/main.1d58bea0487d9ba81f934cc20696346c.css" type="text/css">
-<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.fb50358df4c2bd6aa6e1dd5b0d9b9d29.js"></script>
-<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.b865d2b414814302a14b06054b028a9c.js"></script>
+<link rel="stylesheet" href="/etc/clientlibs/foundation/main.78b998ae96775bdf296e2d12096d9ac0.css" type="text/css">
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.5e8d3382f82b03b0bf3fea3024eecd61.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.e8faccc9e37c6a5cb56e4ec514c8c104.js"></script>
 <script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.a49068f9d07a3e0a2246180ace35badb.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.d7602973233c4c7f80959aa5a7f2f4af.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/main.5f853d33eb49b296277f1a5e8d2a25c5.js"></script>
@@ -37,6 +37,7 @@
 
 
     <script src="/etc/designs/qu/bundle/lib/campaignTransformer.js"></script>
+    <script src="/etc/designs/qu/bundle/lib/tile-component.js"></script>
 
 
 
@@ -69,7 +70,7 @@
 
 
     
-<link rel="stylesheet" href="/etc/designs/qu/bundle.113a8153c3b5b9008acb347ac0062731.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/qu/bundle.9ba47314c15d5d6f071100fc7f990e41.css" type="text/css">
 
 
 
@@ -77,13 +78,16 @@
 <script type="text/javascript">
     var onSubmit = function(token) {
         //ajax
-        var data = $('#qu-edu-form').serialize();
+        //var data = $('#qu-edu-form').serialize();
+        var data = new FormData($("#qu-edu-form")[0]);
         var url = $('.res-path').val();
         var redirectPage = $('.redirect-path').val();
 
        $.ajax({
             url:url,
             type:"POST",
+            processData: false,
+            contentType: false,
             data:data
         }).done(function(res){
         	//console.log("res = " + res);
@@ -121,15 +125,70 @@
         });
     };
 </script>
-
-
 <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/qu/favicon.ico">
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/qu/favicon.ico">
 </head>
     <body>
-<header class="header " data-require="header">
+    
+<nav class="audience-nav component">
+	
+		<span class="social"> <span class="inner-social-span"> <a href="https://www.facebook.com/QuinnipiacUniversity/" target="_blank" alt="Facebook">
+	<span class="icon icon-facebook"></span>
+	<div>https://www.facebook.com/QuinnipiacUniversity/</div>
+</a>
+		</span>
+		 <span class="inner-social-span"> <a href="http://twitter.com/quinnipiacu" target="_blank" alt="Twitter">
+	<span class="icon icon-twitter"></span>
+	<div>http://twitter.com/quinnipiacu</div>
+</a>
+		</span>
+		 <span class="inner-social-span"> <a href="https://instagram.com/quinnipiacu" target="_blank" alt="Instagram">
+	<span class="icon icon-instagram"></span>
+	<div>https://instagram.com/quinnipiacu</div>
+</a>
+		</span>
+		 <span class="inner-social-span"> <a href="http://www.youtube.com/quinnipiacuniversity" target="_blank" alt="YouTube">
+	<span class="icon icon-youtube"></span>
+	<div>http://www.youtube.com/quinnipiacuniversity</div>
+</a>
+		</span>
+		 <span class="inner-social-span"> <a href="https://www.linkedin.com/school/quinnipiac-university/" target="_blank" alt="LinkedIn">
+	<span class="icon icon-linked-in"></span>
+	<div>https://www.linkedin.com/school/quinnipiac-university/</div>
+</a>
+		</span>
+		</span>
+	
+	<div class="links-buttons-wrapper">
+		<ul class="links">
+			<li><a href="https://www.qu.edu/admissions.html">Admissions</a>
+			</li>
+			<li><a href="https://alumni.qu.edu" target="_blank">Alumni</a>
+			</li>
+			<li><a href="https://parents.qu.edu/" target="_blank">Parents</a>
+			</li>
+			<li><a href="https://quinnipiacbobcats.com/" target="_blank">Athletics</a>
+			</li>
+			
+			<li><a href="/info-for/media.html">Media</a>
+			</li>
+			
+			
+		</ul>
+		<ul class="buttons">
+			<li><a href="/admissions/apply.html" data-attribute-here="">Apply</a>
+			</li>
+			<li><a href="/meet-us/visit-us.html">Visit</a>
+			</li>
+			<li><a href="https://securelb.imodules.com/s/1656/gid2/17/interior.aspx?sid=1656&amp;gid=2&amp;pgid=509&amp;cid=1244" target="_blank">Give</a>
+			</li>
+		</ul>
+	</div>
+</nav>
+    
+<header class="header  header-padding" data-require="header">
 	<button class="left burger-link" aria-expanded="false" aria-label="Navigation Menu Icon" title="Quinnipiac University Menu">
-		<span class="icon-burger" aria-label="Menu"></span>
+		<span class="icon-burger" aria-label="Menu"><div class="menutitle">Menu</div></span>
 	</button>
 	<a class="middle " href="/">
 		<img class="logo" src="/etc/designs/qu/bundle/logo.png" alt="Quinnipiac">
@@ -141,7 +200,7 @@
 </header>
 
 
-<div id="site-alert" class="aem-Grid aem-Grid--12 default-alert-theme" data-require="alerts">
+<div id="site-alert" class="aem-Grid aem-Grid--12 default-alert-theme header-padding" data-require="alerts">
 	<div class="aem-Grid aem-Grid--12 aem-GridColumn aem-GridColumn--default--10 column-center">
 		<div class="aem-GridColumn aem-GridColumn--default--10 aem-GridColumn--tablet--9 aem-GridColumn--phone--12 alert-title-column">
 			<h2 class="alert-title b4"><span class="visuallyhidden">Site Alert Title</span></h2>
@@ -166,7 +225,7 @@
 <nav class="navigation" data-require="navigation">
 	<div id="drawer-left" class="navigation-menu" aria-hidden="true" tabindex="0">
 		<div class="navigation-overlay overlay" aria-hidden="true"></div>
-		<div class="search-content">
+		<div class="search-content header-padding">
 
 
 
@@ -177,7 +236,12 @@
 
 <link rel="stylesheet" type="text/css" href="//content.atomz.com/sp10050f69/stage/autocomplete_styles.css?sp_css_param=6">
     <div id="qu-search-promote" class="cq-searchpromote-search yui-skin-sam " data-require="search">
-        <div class="qu-search-form">
+        
+            
+            
+                <div class="qu-search-form header-padding">
+            
+        
             <form method="get" class="aem-Grid aem-Grid--12" id="searchform" name="searchform" action="/search.html">
                 <div class="aem-GridColumn aem-GridColumn--default--1 aem-GridColumn--phone--2 text-center-default icon-wrapper">
                     <span class="icon-search"><label for="q" class="visuallyhidden">Search Quinnipiac University</label></span>
@@ -239,7 +303,7 @@
     
 
 	
-	<span>A Quinnipiac Education</span>
+	<span>Why Quinnipiac</span>
 </a>
 
 
@@ -247,11 +311,11 @@
 				<i class="icon-schools-arrow"></i>
 			</li>
 			<li class="main-links">
-				<h4>Academics</h4>
+				<h4>Admissions</h4>
 
 				<ul>
 					<li>
-						<a href="/academics/undergraduate.html" class="qu-cta cta " aria-label="CTA Button">
+						<a href="/admissions/undergraduate.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -269,7 +333,7 @@
 					</li>
 				
 					<li>
-						<a href="/academics/graduate.html" class="qu-cta cta " aria-label="CTA Button">
+						<a href="/admissions/graduate.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -287,7 +351,7 @@
 					</li>
 				
 					<li>
-						<a href="/schools/medicine.html" class="qu-cta cta " aria-label="CTA Button">
+						<a href="/schools/medicine/admissions.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -305,7 +369,7 @@
 					</li>
 				
 					<li>
-						<a href="/schools/law.html" class="qu-cta cta " aria-label="CTA Button">
+						<a href="/schools/law/admissions.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -321,9 +385,27 @@
 
 						<i class="icon-schools-arrow"></i>
 					</li>
+				
+					<li>
+						<a href="/info-for/quinnipiac-online.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Online</span>
+</a>
+
+
+
+						<i class="icon-schools-arrow"></i>
+					</li>
 				</ul>
 			</li>
-			<li class="quick-links">
+			<li class="quick-links header-padding">
 				<ul>
 					<li><a href="/admissions/apply.html" class="qu-cta cta " aria-label="CTA Button">
 	
@@ -340,7 +422,7 @@
 
 </li>
 				
-					<li><a href="/meet-us/visit-us.html" class="qu-cta cta " aria-label="CTA Button">
+					<li><a href="/admissions/undergraduate/visit/admitted.html#matriculationdeposit" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -349,7 +431,22 @@
     
 
 	
-	<span><b>Visit</b></span>
+	<span><b>Deposit</b></span>
+</a>
+
+
+</li>
+				
+					<li><a href="https://go.qu.edu/donate" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span><b>Make a Gift</b></span>
 </a>
 
 
@@ -372,15 +469,32 @@
 				</ul>
 			</li>
 			<li class="group-links">
-				<h4>Life at Quinnipiac</h4>
+				<h4>The Quinnipiac Experience</h4>
 
 				<ul class="aem-Grid aem-Grid--12">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/academics.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		<picture>
+    			<img src="/content/dam/qu/thumbnails/burger-academics-800x442-20180406-engineering-009.jpg" alt="Student Life">
+    		</picture>
+    	
+    
+
+	
+	<span>Academics</span>
+</a>
+
+
+</li>
+				
 					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/life/student.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
     		<picture>
-    			<img src="/content/dam/qu/thumbnails/burger-student-life-800x442-acapella_JH2_3425.jpg" alt="Student Life">
+    			<img src="/content/dam/qu/thumbnails/burger-student-800x442-qthon20170325-012.jpg" alt="Student Experience">
     		</picture>
     	
     
@@ -392,29 +506,12 @@
 
 </li>
 				
-					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/life/now.html" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		<picture>
-    			<img src="/content/dam/qu/thumbnails/burger-qu-now.jpg" alt="Quinnipiac Now">
-    		</picture>
-    	
-    
-
-	
-	<span>Quinnipiac Now</span>
-</a>
-
-
-</li>
-				
 					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/life/student/athletics-recreation.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
     		<picture>
-    			<img src="/content/dam/qu/thumbnails/burger-athletics-800x442-QuinnipiacHockey011A.jpg" alt="Athletics">
+    			<img src="/content/dam/qu/thumbnails/burger-athletics-800x442-fallstrom-celly_0001__8rr6659.jpg" alt="Athletics">
     		</picture>
     	
     
@@ -428,55 +525,55 @@
 				</ul>
 			</li>
 			<li class="group-links">
-				<h4>Admissions</h4>
+				<h4>Explore Quinnipiac</h4>
 
 				<ul class="aem-Grid aem-Grid--12">
-					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/admissions.html" class="qu-cta cta " aria-label="CTA Button">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/meet-us/virtual-tour.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
     		<picture>
-    			<img src="/content/dam/qu/thumbnails/burger-admissions-800x442-Campus-Life-006.jpg" alt="Admissions Info">
+    			<img src="/content/dam/qu/thumbnails/burger-qu-now-800x442-studentemployees-026.jpg" alt="Admissions Info">
     		</picture>
     	
     
 
 	
-	<span>Admissions</span>
+	<span>Virtual Tours</span>
 </a>
 
 
 </li>
 				
-					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/admissions/apply.html" class="qu-cta cta " aria-label="CTA Button">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/life/now/videos-live-streams.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
     		<picture>
-    			<img src="/content/dam/qu/thumbnails/burger-apply-now-800x442-Campus-Life-010.jpg" alt="Apply Now">
+    			<img src="/content/dam/qu/thumbnails/burger-videos-800x442-20171118-qulive-007.jpg" alt="Apply Now">
     		</picture>
     	
     
 
 	
-	<span>Apply Now</span>
+	<span>Videos &amp; Live Streams</span>
 </a>
 
 
 </li>
 				
-					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/admissions/undergraduate/tuition-financial-aid.html" class="qu-cta cta " aria-label="CTA Button">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/about-quinnipiac.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
     		<picture>
-    			<img src="/content/dam/qu/thumbnails/burger-fin-aid-800x442_MG_9137__C_RICH_GILLIGAN.jpg" alt="Tuition &amp; Aid">
+    			<img src="/content/dam/qu/thumbnails/burger-about-800x442-20190121-ice-first-day-007.jpg" alt="cta">
     		</picture>
     	
     
 
 	
-	<span>Tuition &amp; Financial Aid</span>
+	<span>About Quinnipiac</span>
 </a>
 
 
@@ -484,68 +581,255 @@
 				</ul>
 			</li>
 			<li class="group-links">
-				<h4>Meet Us</h4>
+				<h4>Alumni &amp; Parents</h4>
 
 				<ul class="aem-Grid aem-Grid--12">
-					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/meet-us/visit-us.html" class="qu-cta cta " aria-label="CTA Button">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/info-for/alumni.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
     		<picture>
-    			<img src="/content/dam/qu/thumbnails/burger-visit-us-800x442-Health-Sci--016.jpg" alt="Visit Us">
+    			<img src="/content/dam/qu/thumbnails/burger-alumni-800x442-20181006-alumni-wknd-049.jpg" alt="Visit Us">
     		</picture>
     	
     
 
 	
-	<span>Visit Us</span>
+	<span>Alumni</span>
 </a>
 
 
 </li>
 				
-					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/meet-us/virtual-tour.html" class="qu-cta cta " aria-label="CTA Button">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/info-for/parents.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
     		<picture>
-    			<img src="/content/dam/qu/thumbnails/burger-virtual-tour-800x442-IMG_4030_(C)RICH_GILLIGAN.jpg" alt="Virtual Tour">
+    			<img src="/content/dam/qu/thumbnails/burger-800x442-20181013-parents-family-013.jpg" alt="Virtual Tour">
     		</picture>
     	
     
 
 	
-	<span>Virtual Tour</span>
+	<span>Parents</span>
 </a>
 
 
 </li>
 				
-					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/contact-us.html" class="qu-cta cta " aria-label="CTA Button">
+					<li class="aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 aem-GridColumn--tablet--12"><a href="/info-for/make-gift.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
     		<picture>
-    			<img src="/content/dam/qu/thumbnails/burger-contact-us-800x442_MG_5653__C_RICH_GILLIGAN.jpg" alt="Contact Us">
+    			<img src="/content/dam/qu/thumbnails/burger-donate-800x442-elena-bertozzi-002.jpg" alt="Contact Us">
     		</picture>
     	
     
 
 	
-	<span>Contact Us</span>
+	<span>Make a Gift</span>
 </a>
 
 
 </li>
 				</ul>
 			</li>
-			<li class="dropdowns">
+			<li class="dropdowns header-padding">
 				<label>
 					<input type="checkbox" checked="">
 					<i class="icon-arrow-up"></i>
-					<h4>On Campus</h4>
+					<h4>Schools &amp; Programs</h4>
 
 					<ul>
+						<li><a href="/schools/arts-sciences.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>College of Arts &amp; Sciences</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/schools/business.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>School of Business</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/schools/communications.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>School of Communications</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/schools/education.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>School of Education</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/schools/engineering.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>School of Engineering</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/schools/health-sciences.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>School of Health Sciences</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/schools/law.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>School of Law</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/schools/medicine.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>School of Medicine</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/schools/nursing.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>School of Nursing</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/academics/program-listing.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Program Finder</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/academics/a-quinnipiac-education/unique-learning-opportunities/dual-degree-programs.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Dual-Degree Programs</span>
+</a>
+
+
+</li>
+					</ul>
+				</label>
+				<label>
+					<input type="checkbox" checked="">
+					<i class="icon-arrow-up"></i>
+					<h4>Visit Us</h4>
+
+					<ul>
+						<li><a href="/admissions/undergraduate/visit/open-house.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Open Houses</span>
+</a>
+
+
+</li>
+					
 						<li><a href="/on-campus/maps-directions.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
@@ -561,7 +845,7 @@
 
 </li>
 					
-						<li><a href="/on-campus/our-campus.html" class="qu-cta cta " aria-label="CTA Button">
+						<li><a href="/meet-us/visit-us.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -570,67 +854,7 @@
     
 
 	
-	<span>Our Campuses</span>
-</a>
-
-
-</li>
-					
-						<li><a href="https://calendar.quinnipiac.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>University Calendar</span>
-</a>
-
-
-</li>
-					
-						<li><a href="/student-resources/directory.html" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>University Directory</span>
-</a>
-
-
-</li>
-					
-						<li><a href="/about-quinnipiac.html" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>About Quinnipiac</span>
-</a>
-
-
-</li>
-					
-						<li><a href="/life/now/videos-live-streams.html" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>Explore Videos</span>
+	<span>Tours &amp; Info Sessions</span>
 </a>
 
 
@@ -640,7 +864,7 @@
 				<label>
 					<input type="checkbox" checked="">
 					<i class="icon-arrow-up"></i>
-					<h4>Student Resources</h4>
+					<h4>Information &amp; Resources</h4>
 
 					<ul>
 						<li><a href="/student-resources/academic-calendar.html" class="qu-cta cta " aria-label="CTA Button">
@@ -658,7 +882,7 @@
 
 </li>
 					
-						<li><a href="/student-resources/academic-catalog.html" class="qu-cta cta " aria-label="CTA Button">
+						<li><a href="https://catalog.qu.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -673,7 +897,7 @@
 
 </li>
 					
-						<li><a href="/student-resources/university-policies.html" class="qu-cta cta " aria-label="CTA Button">
+						<li><a href="https://www.bkstr.com/quinnipiacstore/home/en" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -682,22 +906,7 @@
     
 
 	
-	<span>University Policies</span>
-</a>
-
-
-</li>
-					
-						<li><a href="/student-resources/health-campus-safety.html" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>Health &amp; Campus Safety</span>
+	<span>Bookstore</span>
 </a>
 
 
@@ -718,7 +927,7 @@
 
 </li>
 					
-						<li><a href="https://myq.quinnipiac.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+						<li><a href="https://calendar.quinnipiac.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -727,20 +936,13 @@
     
 
 	
-	<span>MyQ</span>
+	<span>Events Calendar</span>
 </a>
 
 
 </li>
-					</ul>
-				</label>
-				<label>
-					<input type="checkbox" checked="">
-					<i class="icon-arrow-up"></i>
-					<h4>Other Resources</h4>
-
-					<ul>
-						<li><a href="http://alumni.qu.edu" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+					
+						<li><a href="/student-resources/directory.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -749,7 +951,82 @@
     
 
 	
-	<span>Alumni</span>
+	<span>Faculty &amp; Staff Directory</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/student-resources/health-campus-safety.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Health &amp; Campus Safety</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/about-quinnipiac/student-consumer-information.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Student Consumer Information</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/tuition-financial-aid.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Tuition &amp; Financial Aid</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/student-resources/university-policies.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>University Policies</span>
+</a>
+
+
+</li>
+					
+						<li><a href="/admissions/undergraduate/connect-admissions-counselor/college-transfer-counselor-info.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>For College Counselors</span>
 </a>
 
 
@@ -764,12 +1041,34 @@
     
 
 	
-	<span>Career Development Office</span>
+	<span>For Employers</span>
 </a>
 
 
 </li>
 					
+						<li><a href="/info-for/media.html" class="qu-cta cta " aria-label="CTA Button">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>For News Media</span>
+</a>
+
+
+</li>
+					</ul>
+				</label>
+				<label>
+					<input type="checkbox" checked="">
+					<i class="icon-arrow-up"></i>
+					<h4>Research &amp; Organizations</h4>
+
+					<ul>
 						<li><a href="/on-campus/institutes-centers.html" class="qu-cta cta " aria-label="CTA Button">
 	
 	
@@ -785,7 +1084,7 @@
 
 </li>
 					
-						<li><a href="http://ighm.org/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+						<li><a href="https://www.ighm.org/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -800,67 +1099,7 @@
 
 </li>
 					
-						<li><a href="/tuition-financial-aid/manage-finances.html#billingandpayments" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>Make a Tuition Payment</span>
-</a>
-
-
-</li>
-					
-						<li><a href="/info-for/media.html" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>News Media</span>
-</a>
-
-
-</li>
-					
-						<li><a href="/info-for/parents.html" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>Parents</span>
-</a>
-
-
-</li>
-					
-						<li><a href="/tuition-financial-aid/manage-finances.html#qcardinformation" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>QCard </span>
-</a>
-
-
-</li>
-					
-						<li><a href="/info-for/quinnipiac-online.html" class="qu-cta cta " aria-label="CTA Button">
+						<li><a href="https://quonline.quinnipiac.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -875,7 +1114,7 @@
 
 </li>
 					
-						<li><a href="/info-for/media/quinnipiac-university-poll-detail.html" class="qu-cta cta " aria-label="CTA Button">
+						<li><a href="https://poll.qu.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -905,7 +1144,74 @@
 
 </li>
 					
-						<li><a href="/info-for/registrar.html#transcriptrequests" class="qu-cta cta " aria-label="CTA Button">
+						<li><a href="https://www.wqun.com/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>WQUN AM 1220 Radio</span>
+</a>
+
+
+</li>
+					</ul>
+				</label>
+				<label>
+					<input type="checkbox" checked="">
+					<i class="icon-arrow-up"></i>
+					<h4>Helpful Links</h4>
+
+					<ul>
+						<li><a href="https://myq.quinnipiac.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Log in to MyQ</span>
+</a>
+
+
+</li>
+					
+						<li><a href="https://www.qu.edu/tuition-financial-aid/manage-finances.html#billingandpayments" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Make a Tuition Payment</span>
+</a>
+
+
+</li>
+					
+						<li><a href="https://www.qu.edu/tuition-financial-aid/manage-finances.html#qcardinformation" class="qu-cta cta " aria-label="CTA Button" target="_blank">
+	
+	
+    	
+    		
+    	
+    
+
+	
+	<span>Manage a QCard</span>
+</a>
+
+
+</li>
+					
+						<li><a href="https://www.qu.edu/info-for/registrar.html#transcriptrequests" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -920,7 +1226,7 @@
 
 </li>
 					
-						<li><a href="/about-quinnipiac/student-consumer-information.html" class="qu-cta cta " aria-label="CTA Button">
+						<li><a href="https://careers.qu.edu/" class="qu-cta cta " aria-label="CTA Button" target="_blank">
 	
 	
     	
@@ -929,51 +1235,19 @@
     
 
 	
-	<span>Student Consumer Information</span>
-</a>
-
-
-</li>
-					
-						<li><a href="/info-for/wqun.html" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>WQUN</span>
-</a>
-
-
-</li>
-					
-						<li><a href="/working-quinnipiac.html" class="qu-cta cta " aria-label="CTA Button">
-	
-	
-    	
-    		
-    	
-    
-
-	
-	<span>Working at Quinnipiac</span>
+	<span>Work at Quinnipiac</span>
 </a>
 
 
 </li>
 					</ul>
 				</label>
-				
-				
 			</li>
 		</ul>
 	</div>
 	<div id="drawer-right" class="navigation-menu" aria-hidden="true" tabindex="0">
 		<ul role="navigation">
-			<li class="group-links">
+			<li class="group-links header-padding">
 				<h4>Schools</h4>
 				<ul>
 					<li>
@@ -1177,8 +1451,8 @@
 		</ul>
 
 	</div>
-	<button class="close-burger icon-close" aria-label="Close main menu"></button>
-	<button class="close-schools icon-close" aria-label="Close schools menu"></button>
+	<button class="close-burger icon-close header-padding" aria-label="Close main menu"></button>
+	<button class="close-schools icon-close header-padding" aria-label="Close schools menu"></button>
 </nav>
 <main class="main" role="main" aria-hidden="false">
 	<div class="content">
@@ -1217,7 +1491,6 @@
 	</div>
 	<div class="hero-content aem-GridColumn aem-GridColumn--default--10 column-center-phone  ">
 		
-
 		<h1 class="h1 hero-title text-center-default">Website Security and Privacy</h1>
 
 		<a class="section-jump icon-carret"><span class="visuallyhidden">Carret icon</span></a>
@@ -1298,6 +1571,7 @@
 <div class="resp-media-image aem-Grid aem-Grid--12 grid-gutterless author-resp-image " data-emptytext=" ">
 
 	<div class="resp-image aem-GridColumn aem-GridColumn--phone--12 column-center-phone aem-GridColumn--default--12">
+				
 		<picture>
 			<source srcset="/content/dam/qu/photography/s2_school-of-business/SOB-centers-institutes-2400x1350-IMG_9494_(C)RICH_GILLIGAN_(C)RICH_GILLIGAN.jpg.transform/mobile/image.jpg" media="(max-width: 767px)">
 			<source srcset="/content/dam/qu/photography/s2_school-of-business/SOB-centers-institutes-2400x1350-IMG_9494_(C)RICH_GILLIGAN_(C)RICH_GILLIGAN.jpg.transform/tablet/image.jpg" media="(min-width: 768px) and (max-width: 1023px)">
@@ -1573,7 +1847,7 @@
 
 </li>
         
-          <li class="navLinks"><a href="https://www.qu.edu/working-quinnipiac.html" class="qu-cta cta " aria-label="CTA Button">
+          <li class="navLinks"><a href="https://careers.qu.edu" class="qu-cta cta " aria-label="CTA Button">
 	
 	
     	
@@ -1675,7 +1949,7 @@
         </span>
       
         <span class="copyright">	© 
-<p>2018&nbsp;</p>
+<p>2019&nbsp;</p>
 <p>Quinnipiac University. All Rights Reserved.<br>
 </p>
 
@@ -1757,7 +2031,7 @@
 
 
     
-<script type="text/javascript" src="/etc/designs/qu/bundle.304653e1a4e23efa504f9a89f8b7f142.js"></script>
+<script type="text/javascript" src="/etc/designs/qu/bundle.649511e545c4c3de6766ba9c643b15c9.js"></script>
 
 
 
@@ -1820,4 +2094,5 @@
 
 <script type="text/javascript">_satellite.pageBottom();</script>
 
+    
 </body></html>
