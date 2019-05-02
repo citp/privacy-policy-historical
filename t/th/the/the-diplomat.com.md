@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-diplomat.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208230047id_/https%3A//thediplomat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-diplomat.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502183153id_/https%3A//thediplomat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Diplomat
 
@@ -50,7 +50,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 **Contact Information**
 
-_The Diplomat_ welcomes your comments regarding this privacy statement. If you believe that _The Diplomat_ has not adhered to this privacy statement, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cfa6a1a9a08fbba7aae2aba6bfa3a0a2aebbe1aca0a2) or via mail at the address provided below, and we will use reasonable efforts to promptly determine and remedy any problem.
+_The Diplomat_ welcomes your comments regarding this privacy statement. If you believe that _The Diplomat_ has not adhered to this privacy statement, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fe97909891be8a969bd39a978e9291939f8ad09d9193) or via mail at the address provided below, and we will use reasonable efforts to promptly determine and remedy any problem.
 
 The Diplomat  
 701 Ebisu MF Bldg.  
