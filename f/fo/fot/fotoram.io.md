@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotoram.io privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328163056id_/http%3A//fotoram.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotoram.io privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502153847id_/https%3A//fotoram.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fotoramio Photo Editor
 
