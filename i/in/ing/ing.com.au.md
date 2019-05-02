@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ing.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903194700id_/https%3A//www.ing.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ing.com.au privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502025412id_/https%3A//www.ing.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ING
 
@@ -41,6 +41,8 @@ The personal data we collect includes:
 #### Sensitive data
 
 We do not record sensitive data relating to your health, ethnicity, religious or political beliefs unless it is strictly necessary. When we do, it is limited to specific circumstances, for example if you instruct us to pay a membership fee to a political party. We are legally obliged to keep a copy of your passport.
+
+With your explicit consent or if required or allowed by law, we may collect your genetic or biometric data (your fingerprint, voice or facial features) which may be used to verify your identity or use it as an extra means of security in apps when you choose for such authentication to authorise transactions.
 
 #### Children's data
 
@@ -134,7 +136,7 @@ our opinion that you have committed a serious credit infringement.
 
 When we use other service providers we only share personal data that is required for a particular assignment. Service providers support us with activities like: 
 
-performing certain services and operations;
+performing certain services and operations (including to conduct identification verification, name screening and other checks, which help us to comply with our regulatory obligations and manage our regulatory risks);
 
 designing and maintenance of internet-based tools and applications;
 
