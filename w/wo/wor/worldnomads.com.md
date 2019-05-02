@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldnomads.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825153228id_/https%3A//www.worldnomads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnomads.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502185218id_/https%3A//www.worldnomads.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -142,15 +142,17 @@ Email: privacy@worldnomads.com
 
 Phone: 1300 625 229
 
-If we are unable to resolve the matters raised by you, you may refer the matter to the Financial Ombudsman Service. You can contact them at:
+If we are unable to resolve the matters raised by you, you may refer the matter to the Australian Financial Complaints Authority. You can contact them at:
 
-The Financial Ombudsman Service Limited
+Australian Financial Complaints Authority Limited
 
-GPO Box 3, Melbourne VIC 3001
+GPO Box 3
 
-Phone: 1300 780 808
+Melbourne VIC 3001
 
-Web: [www.fos.org.au](https://www.fos.org.au/)
+Phone: 1800 931 678
+
+[www.afca.org.au](http://www.afca.org.au/) 
 
 Where you remain dissatisfied with their response, you may direct your complaint to the Privacy Commissioner in writing:
 
