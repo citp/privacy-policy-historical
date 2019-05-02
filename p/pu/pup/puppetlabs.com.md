@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puppetlabs.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231172920id_/https%3A//puppet.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puppetlabs.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502163945id_/https%3A//puppet.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Puppet
 
@@ -93,7 +93,7 @@ You have the right under certain circumstances:
 
 
 
-You can also exercise the rights listed above at any time by contacting us at [privacy@puppet.com](mailto:privacy@puppet.com).
+You can also exercise the rights listed above at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1d6d6f746b7c7e645d6d686d6d7869337e7270).
 
 If your request or concern is not satisfactorily resolved by us, you may approach your local data protection authority (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html>). The Information Commissioner is the supervisory authority in the UK and can provide further information about your rights and our obligations in relation to your personal data, as well as deal with any complaints that you have about our processing of your personal data.
 
@@ -107,7 +107,7 @@ Puppet, Inc.
 Fifth Floor  
 Portland, OR 97204
 
-Or at [privacy@puppet.com](mailto:privacy@puppet.com).
+Or at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5020223926313329102025202035247e333f3d).
 
 ### Changes to This Privacy Policy
 
