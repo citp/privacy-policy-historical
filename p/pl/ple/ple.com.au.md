@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812204725id_/https%3A//www.ple.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502061943id_/https%3A//www.ple.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # PLE Computers Pty Ltd
 
