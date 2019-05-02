@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-website-design.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230225118id_/https%3A//www.red-website-design.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-website-design.co.uk privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502192050id_/https%3A//www.red-website-design.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Red Website Design
 
@@ -226,7 +226,7 @@
 
 15.1  This website is owned and operated by Red Website Design Ltd.
 
-15.2  We are registered in England and Wales under registration number 08666203, and our registered office is at Rodney Chambers, 40 Rodney Street, Liverpool, L1 9AA.
+15.2  We are registered in England and Wales under registration number 08666203, and our registered office is at Victoria House, Croft Street, Widnes, WA8 0NQ.
 
 15.4  You can contact us:
 
