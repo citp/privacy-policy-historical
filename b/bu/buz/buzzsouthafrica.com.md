@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzsouthafrica.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224216id_/https%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsouthafrica.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502094705id_/https%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzSouthAfrica - Famous People, Celebrity Bios, Updates, Trendy News
 
