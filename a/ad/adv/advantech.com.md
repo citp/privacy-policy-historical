@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628225858id_/http%3A//www.advantech.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502073733id_/https%3A//www.advantech.com/legal/privacy) for the most accurate reproduction.*
 
 # Advantech Privacy Statement - Advantech
 
