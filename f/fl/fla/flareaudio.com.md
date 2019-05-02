@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flareaudio.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908191603id_/https%3A//www.flareaudio.com/pages/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flareaudio.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502160600id_/https%3A//www.flareaudio.com/pages/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Flare Audio Ltd
 
 At Flare Audio®, we respect your concerns about privacy and value the relationship we have with you.
 
-For the purposes of this policy, Flare means Flare Audio Limited, with registered offices at Unit 8, Chartwell Business Centre, Chartwell Road, Lancing, West Sussex, United Kingdom BN15 8FB.
+For the purposes of this policy, Flare means Flare Audio Limited, with registered offices at Unit 11, Chartwell Business Centre, Chartwell Road, Lancing, West Sussex, United Kingdom BN15 8FB.
 
 Like many companies, we use technology on our website to collect information that helps us enhance your online experience.
 
@@ -72,7 +72,7 @@ These cookies are set by Flare®. For the most part, they are strictly necessary
 In addition to our use of these applications, certain third parties and affiliates may set and access cookies on your computer, and in conjunction with web beacons.
 
   * Strictly necessary cookies – These cookies enable useful services and functionalities, for example the online chat support.
-  * Online behavioral advertising cookies – These cookies collect information about your browsing habits, product and services preferences. This information will allow Flare® and advertising networks we work with to display relevant ads in the most appropriate places on partner websites and on Flare®'s websites. For example, third parties or affiliates may administer Flare® banner advertising programs on a non-Flare® website.
+  * Online behavioural advertising cookies – These cookies collect information about your browsing habits, product and services preferences. This information will allow Flare® and advertising networks we work with to display relevant ads in the most appropriate places on partner websites and on Flare®'s websites. For example, third parties or affiliates may administer Flare® banner advertising programs on a non-Flare® website.
 
 
 
@@ -86,7 +86,7 @@ We use temporary session cookies on all of our secure pages to assign and store 
 
 ### Persistent cookies
 
-Our first party analytics cookies and third party cookies are persistent cookies because they are used to help us understand visitor patterns over a longer term or to provide additional functions you have requested in relation to site customization and saved or stored content. They can be stored on your computer for 24 hours, a week, or several years, depending on the function they're helping to perform.
+Our first party analytics cookies and third party cookies are persistent cookies because they are used to help us understand visitor patterns over a longer term or to provide additional functions you have requested in relation to site customisation and saved or stored content. They can be stored on your computer for 24 hours, a week, or several years, depending on the function they're helping to perform.
 
 ## HOW TO MANAGE COOKIES
 
@@ -192,7 +192,7 @@ If you have any questions or concerns regarding our use of cookies, or if you wa
 
 ## GLOSSARY
 
-Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie.
+Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie.
 
 Log files are web server files (such as domain name or IP address, URL, the http response code, the website from where you visit us and/or the date and duration of your visit) that are automatically created when an internet user visits a site.
 
@@ -232,7 +232,7 @@ In case of a change of control at Flare®, we reserve the right to transfer your
 
 **How to communicate your preferences or to exercise your rights to have your Personal Information rectified, blocked or deleted:** At the time you provide your Personal Information to Flare® (for example, at the time of purchase), you can express your marketing preferences in respect of the Personal Information (mailing address, e-mail address, phone number) you share with us. Check boxes on the website or on the offline document whereby your Personal Information is collected allow you to opt-in or opt-out of receiving updates on our products and services or on the product and services of our commercial partners. If Flare® has used your data after receiving this information from another company to which you provided your data, you will be able to express your preference at the time Flare® contacts you. You can then always contact Flare® and ask that your information will not be used for direct marketing purposes.
 
-Contact us either by phone on 00 44 (1)903 761 00, by e-mail (info@flareaudio.com) or by post to Flare Audio Limited, Unit 8 Chartwell Business Centre, Chartwell Road, Lancing, West Sussex, BN15 8FB, United Kingdom, to update your Customer Communications preferences or if you want to exercise your rights to access your data and/or have any information we hold about you rectified, blocked or deleted if no longer necessary.
+Contact us either by phone on 00 44 (1)903 761 00, by e-mail (info@flareaudio.com) or by post to Flare Audio Limited, Unit 11 Chartwell Business Centre, Chartwell Road, Lancing, West Sussex, BN15 8FB, United Kingdom, to update your Customer Communications preferences or if you want to exercise your rights to access your data and/or have any information we hold about you rectified, blocked or deleted if no longer necessary.
 
 **Changes to the Policy.** This policy may be revised from time to time. We will post changes on this website and inform you via e-mail or mail. If you do not object to such a change within 14 days upon receipt of our information, the new policy will apply. We highlight the effects of no-replies in our communication. In case of objection to the new policy, the old terms shall stay in place.
 
