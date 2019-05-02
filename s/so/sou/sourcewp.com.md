@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sourcewp.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617045154id_/https%3A//www.sourcewp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcewp.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502155404id_/https%3A//www.sourcewp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - sourcewp
+# Privacy Policy
 
 In the process of registering & availing various services of SourceWP, you may need to provide personal information like you may be required to give your name, residence address, workplace address, email address, contact no, date of birth, educational qualifications and similar Personal Information.  The Personal Information is used for the purposes such as customization of the content you see, to fulfill your requests for certain services, and to contact you about our services.
 
