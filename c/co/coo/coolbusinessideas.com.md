@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbusinessideas.com privacy policy that was archived on 2018-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180716203724id_/https%3A//www.coolbusinessideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbusinessideas.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502170518id_/https%3A//www.coolbusinessideas.com/privacy-policy) for the most accurate reproduction.*
 
 # CoolBusinessIdeas.com | Privacy Policy
 
@@ -62,8 +62,8 @@ We bear no responsibility in such cases.
 **Spam filtering**
 
 If you are using spam filtering software, you can enter the following email address into your filtering software’s “white list” to ensure you continue to receive  
-CoolBusinessIdeas.com email messages: [bizness@CoolBusinessIdeas.com](https://web.archive.org/web/20180716203724id_/http://www.coolbusinessideas.com/privacy-policy/bizness@CoolBusinessIdeas.com).  
-For best results, add our domain, [www.coolbusinessideas.com](http://www.coolbusinessideas.com/), to your email client’s whitelist.
+CoolBusinessIdeas.com email messages: [bizness@CoolBusinessIdeas.com](https://web.archive.org/web/20190502170518id_/https://www.coolbusinessideas.com/privacy-policy/bizness@CoolBusinessIdeas.com).  
+For best results, add our domain, [www.coolbusinessideas.com](https://www.coolbusinessideas.com/), to your email client’s whitelist.
 
 **IP address**
 
@@ -95,9 +95,9 @@ Any specific reference by name, trade name, trademark, or otherwise to any party
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact us. Our contact details are stated below.
 
-Email: [contact@CoolBusinessIdeas.com](mailto:contact@CoolBusinessIdeas.com)
+Email: [contact@CoolBusinessIdeas.com](mailto:contact@CoolBusinessIdeas.com)
 
-Web Address: [http://www.CoolBusinessIdeas.com](http://www.coolbusinessideas.com/)
+Web Address: [https://www.CoolBusinessIdeas.com](https://www.coolbusinessideas.com/)
 
 The CoolBusinessIdeas.com website and newsletter are copyright CoolBusinessIdeas.com. All rights reserved.
 
