@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221013657id_/https%3A//defenders.org/defenders-wildlife-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502051727id_/https%3A//defenders.org/defenders-wildlife-privacy-policy) for the most accurate reproduction.*
 
 # Defenders of Wildlife Privacy Policy | Defenders of Wildlife
 
 **Updated: May 25, 2018**
 
-The following websites (each a “Website” or “Site”, or together the “Websites” or “Sites”) are operated by Defenders of Wildlife (“Defenders”): [www.Defenders.org](http://www.defenders.org/), [www.WildlifeAdoption.org](http://www.wildlifeadoption.org/), and [www.DefendersBlog.org](http://www.defendersblog.org/). Your privacy will be protected on these Websites in accordance with this privacy notice (“Privacy Notice”).  
+The following websites (each a “Website” or “Site”, or together the “Websites” or “Sites”) are operated by Defenders of Wildlife (“Defenders”): [www.Defenders.org](http://www.defenders.org/), [gifts.defenders.org](https://gifts.defenders.org/), and [www.DefendersBlog.org](http://www.defendersblog.org/). Your privacy will be protected on these Websites in accordance with this privacy notice (“Privacy Notice”).  
 
 This Privacy Notice explains how Defenders collects and processes your Personal Data. Each time you use our Site, the current version of the Privacy Notice will apply. Accordingly,
 
