@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belive.tv privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231092923id_/https%3A//belive.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belive.tv privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502100327id_/https%3A//belive.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
