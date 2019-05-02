@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakeupproject.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231203747id_/http%3A//wakeupproject.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeupproject.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502062537id_/http%3A//wakeupproject.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wake Up Project
 
