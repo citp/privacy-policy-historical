@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpl.ca privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226134611id_/http%3A//www.vpl.ca/policy/protection-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpl.ca privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502224200id_/http%3A//www.vpl.ca/policy/protection-privacy-policy) for the most accurate reproduction.*
 
 # Protection of Privacy Policy | Vancouver Public Library
 
@@ -82,4 +82,4 @@ To be transparent and accountable, the library must publish a Personal Informati
 
 Each listing explains why we collect that information, how we use it, and who we share it with.
 
-[Download the PIB directory](https://web.archive.org/sites/vpl/public/PersonalInformationBankDirectory2018.pdf)
+[Download the PIB directory](https://web.archive.org/sites/vpl/public/PIBDirectoryMarch2019.pdf)
