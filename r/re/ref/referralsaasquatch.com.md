@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the referralsaasquatch.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806231813id_/https%3A//www.referralsaasquatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralsaasquatch.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502074800id_/https%3A//www.referralsaasquatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Referral SaaSquatch
-
-[Click here to view and download our legal documents.](https://drive.google.com/folderview?id=0B5vfRSKkpokVWnNISTZ3d2o4UkE&usp=sharing)
 
 At ReferralSaaSquatch.com. we are committed to protecting your privacy, and maintain a general policy of openness about how we collect, use and disclose your personal information.
 
 The purpose of this Privacy Policy is to inform you about ReferralSaaSquatch.com’s practices relating to the collection, use, disclosure and protection of personal information that may be provided through access to or use of our services and our website or that may otherwise be collected by us.  BY USING OUR SERVICES OR OUR WEBSITE (the “Site”), YOU CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW) IN ACCORDANCE WITH THE FOLLOWING TERMS AND CONDITIONS.
 
 This Privacy Policy also explains how you can contact us if you have a question about, want to make a change to or want to delete any personal information that ReferralSaaSquatch.com’s may be maintaining about you.  We strongly recommend that you take the time to read this Privacy Policy and retain it for future reference.
+
+**EU PERSONAL DATA**
+
+If you are located in the EU, United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) related to your Personal Data, as further described below.
+
+**TRANSFERS OF PERSONAL DATA**
+
+The Service is hosted and operated in the United States (“U.S.”), with development, support and maintenance operations in other countries, through Referral SaaSquatch and its service providers. If you do not reside in the U.S., laws in the U.S. (and other countries) may differ from the laws where you reside. By using the Service, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Referral SaaSquatch and will be hosted on U.S. servers, and you authorize Referral SaaSquatch to transfer, store, host and process your information to and in the U.S., and possibly other countries. You hereby consent to transfer of your data to the U.S. pursuant to either, at Referral SaaSquatch’s discretion, the EU-U.S. Privacy Shield Framework, the details of which are further set forth below, or the standard data protection clauses promulgated by the EC, a copy of which can be obtained at <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087>.
 
 **What Personal Information We Collect**
 
@@ -18,7 +24,8 @@ The personal information collected by ReferralSaaSquatch.com upon using our serv
 
   * Contact information, including name, company, address, __ postal code, phone number and e-mail address;
   * Billing information and credit card number,
-  * Your service usage; and
+  * Your service usage,
+  * Your browser behaviour on our website; and
   * Internet Protocol address.
 
 
@@ -118,4 +125,4 @@ If you have any questions or requests about ReferralSaaSquatch.com’s   Priva
 
 This Privacy Policy is intended to comply with the provisions of the _[Personal Information Protection and Electronic Documents Act](http://www.priv.gc.ca/)_ (Canada).
 
-Last Updated: June 13, 2013.
+Last Updated: May 21, 2018.
