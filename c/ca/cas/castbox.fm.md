@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the castbox.fm privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216221450id_/https%3A//castbox.fm/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castbox.fm privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502152257id_/https%3A//castbox.fm/policy.html) for the most accurate reproduction.*
 
-# Policy
+# Castbox Privacy Policy
 
 Modified Date: June 29th 2018
 
