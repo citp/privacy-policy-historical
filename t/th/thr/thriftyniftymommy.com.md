@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thriftyniftymommy.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222154303id_/https%3A//thriftyniftymommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftyniftymommy.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502103553id_/https%3A//thriftyniftymommy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thrifty Nifty Mommy
 
 ## Thrifty Nifty Mommy Privacy Policy
 
-_Updated 5/22/2018_
+ _Updated 5/22/2018_
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Thrifty Nifty Mommy. This Privacy Policy applies to information we collect when you use “Services”, or when you otherwise interact with us.
 
@@ -88,7 +88,7 @@ The Services may offer social sharing features and other integrated tools (such 
 
 ### Advertising and Analytics Services Provided by Others
 
-We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Company and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Company and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices).
 
 ### Security
 
@@ -113,3 +113,5 @@ thriftyniftymommy@yahoo.com.
 
 If you have any questions about this Privacy Policy, please contact us at  
 thriftyniftymommy@yahoo.com.
+
+[](https://www.pinterest.com/pin/create/button/)
