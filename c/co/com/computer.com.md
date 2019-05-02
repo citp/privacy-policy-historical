@@ -1,36 +1,19 @@
-> *The following text is extracted and transformed from the computer.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501102224id_/http%3A//computer.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computer.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502025957id_/https%3A//computer.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Computer.com - The best search on the internet
 
-* **Overview**
+##  Privacy Policy 
 
-Thank you for visiting www.computer.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-* **What Type of Information We Collect**
-
-The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
-
-We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
-
-* **Uses May Include**
-
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  
-
-  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
-  
-
-  * We may share aggregated non-personal information with third parties outside of The Web Site. 
-  
-
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  
-
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  
-
-  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
-  
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
 
-* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
