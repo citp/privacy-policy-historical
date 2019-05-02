@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111233137id_/http%3A//www.readingeagle.com/section/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502051222id_/https%3A//www.readingeagle.com/section/privacypolicy) for the most accurate reproduction.*
 
 # Reading Eagle Reading, PA | privacypolicy | readingeagle.com
 
