@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825143321id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502115901id_/https%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ You can decline to submit personal information to any of our services, in which 
 
 ## Third-Party advertisements on the free version
 
-Our free service shows advertisements to you and your end users. On some pages of the free service, Google AdSense uses cookies to serve these ads. Google’s use of the cookie enables it and its partners to serve ads to you based on your visit to our site sites and/or other sites on the Internet. You may opt out of the use of these cookies for interest-based advertising by visiting [Ads Settings](http://www.google.com/settings/ads/anonymous?hl=en). For more information see “[How Google uses your data](http://www.google.com/intl/en/policies/privacy/partners)”. 
+Our free service shows advertisements to you and your end users. On some pages of the free service, Google AdSense uses cookies to serve these ads. Google’s use of the cookie enables it and its partners to serve ads to you based on your visit to our site sites and/or other sites on the Internet. You may opt out of the use of these cookies for interest-based advertising by visiting [Ads Settings](https://www.google.com/settings/ads/anonymous?hl=en). For more information see “[How Google uses your data](https://www.google.com/intl/en/policies/privacy/partners)”. 
 
 ## Integration into another site
 
