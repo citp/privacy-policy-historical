@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugsnag.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112065749id_/https%3A//docs.bugsnag.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsnag.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502232037id_/https%3A//docs.bugsnag.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Bugsnag docs › Legal & terms › Privacy Policy
 
