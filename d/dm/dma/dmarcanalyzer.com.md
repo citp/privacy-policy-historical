@@ -1,64 +1,97 @@
-> *The following text is extracted and transformed from the dmarcanalyzer.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803155542id_/https%3A//www.dmarcanalyzer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmarcanalyzer.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502104720id_/https%3A//www.dmarcanalyzer.com/privacy-statement) for the most accurate reproduction.*
 
-# DMARC analyzer - Free Dmarc reporting tool
+# Privacy policy - DMARC Analyzer
 
-**Privacy Policy - DMARCAnalyzer.com – 01 - 02 - 2014**  
-_Versions:_  
-01-07-2012 - Original  
-01-02-2014 - Added contact information
+Privacy Policy
 
-DMARC analyzer is committed to protecting your privacy. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+Version 2.1.0
 
-This Privacy Policy describes the policies and procedures of DMARC analyzer on the collection, use and disclosure of your information on http://www.dmarcanalyzer.com/ (the "Site") and the services, features, content or applications offered by DMARC analyzer(collectively with the Site, the "Services"). DMARC analyzer receives information about you from your use of the Services generally. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
+DMARC Analyzer (“us”, “we”, or “our”) operates the https://dmarcanalyzer.com website (the “Service”).
 
-**What information is collected?**  
-User-submitted Content  
-DMARC analyzer collects information submitted by users such as DMARC XML aggregate files and information pertaining to the submission such as source IP address of submissions and time of submission. All content submitted by you to the Services may be retained by DMARC analyzer indefinitely, even after you stop using the Services.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-IP Address Information and Other Information Collected Automatically  
-DMARC analyzer automatically receives and records information from your web browser when you interact with the Services, including your IP address and cookie information. This information may be used to help DMARC analyzer understand how users transit the Site, to fight spam/malware, to facilitate collection of data concerning your interaction with the Services and for other similar purposes.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. DMARC analyzer may use this data in aggregate form, that is, as a statistical measure, but not in a way that would identify you personally. This type of aggregate data enables DMARC analyzer to figure out how often individuals use parts of the Services so that DMARC analyzer can analyze and improve them.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://dmarcanalyzer.com
 
-Email Communications  
-DMARC analyzer collects email addresses and email communications from users to support the Services. DMARC analyzer does not disclose email addresses to third parties, and does not send email to users on matters outside of the scope of the Services.
+## Information Collection And Use
 
-**How is collected information used?**  
-User-friendly Reports  
-Information collected by DMARC analyzer is used to generate human- friendly DMARC XML reports. Reports are not made publicaly available, but are only accessable after logging in to the service of DMARC analyzer.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”).
 
-Metrics and Analysis  
-DMARC analyzer may use site statistics (such as clicks, navigation, and webserver logs) to improve the DMARC analyzer website.
+## Log Data
 
-Email Correspondence  
-Email communications made to DMARC analyzer are never shared by DMARC analyzer with parties outside of DMARC analyzer. Email addresses are not harvested, sold, or otherwise made available to third parties. DMARC analyzer only uses email addresses for direct correspondence with users and for purposes important to the Services, such as password recovery.
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Information Disclosed for the Protection of DMARC analyzer and Others  
-DMARC analyzer also reserves the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) detect, prevent, or otherwise address fraud, security or technical issues, (iii) respond to user support requests, or (iv) protect the rights, property or safety of DMARC analyzer, its users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-**How can collected information be shared?**  
-User-friendly Reports  
-Information collected by DMARC analyzer is used to generate human- friendly DMARC XML reports. Reports are not made publicaly available, but are only accessable after logging in to the service of DMARC analyzer.
+## Cookies
 
-ECPA NOTICE  
-DMARC analyzer treats email messages and other communications through this site (except for email messages posted to areas of this site that are viewable by others) as private. Exceptions are those permitted by law, included under the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA"). The ECPA permits our limited ability to intercept and/or disclose electronic messages, including, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime. This site is not considered a "secure communications medium" under the ECPA.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-**Disclosures**  
-External Links  
-The Site may contain links to other websites. DMARC analyzer is not responsible for the content or the privacy practices employed by other sites.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-Compliance with Email Communication Laws  
-DMARC analyzer supports and complies with all laws governing its email communications and will update this policy as needed to ensure ongoing compliance.
+## Behavioral Remarketing
 
-Cookie compliance  
-DMARC analyzer understands and respects the importance of your privacy. This Privacy Policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us. Please read the following information carefully.
+DMARC Analyzer uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-This Site uses cookies to distinguish you from other users. Some of these cookies are essential to make this Site work properly. Other types of cookie help us to provide you with a good experience when you browse our Site, allow us to improve our Site or the way we provide our service to customers. You can accept or decline cookies at any time by accessing the preference panels from your browser’s main menu (usually found under ‘Edit’, ‘Tools’ or ‘Options’). However, if you choose to remove cookies parts of the Site may not work properly or your use of the Site may be impaired.
+Google
 
-**Data removal/modification requests**  
-Please send any data removal/modification requests to [info@dmarcanalyzer.com](mailto:info@dmarcanalyzer.com) with your contact details and account data.
+Google AdWords remarketing service is provided by Google Inc.
 
-Change in Privacy Policy  
-Dmarcanalyzer.com reserves the right to modify the terms of this Privacy Policy. DMARC analyzer will provide notice of such changes by posting at: http://www.dmarcanalyzer.com/privacy.html. Users not agreeing to the modified Privacy Policy may stop the use of the Service. Continued use after such modifications have been posted shall be deemed acceptance of by user.
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
 
-For questions about this Privacy Policy, please contact us.
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## Communications
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+## Compliance With Laws
+
+We are based in The Netherlands and comply with all Dutch and European laws including the General Data Protection Regulation (GDPR). We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+## Business Transaction
+
+If DMARC Analyzer is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
+
+## Security
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+## International Transfer
+
+Your information, including Personal Information, is stored and kept in the EU region. Within the EU your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Netherlands and choose to provide information to us, please note that we transfer the information, including Personal Information, to Netherlands and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from children under age 18 without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us.
