@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepstakesalerts.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816001544id_/https%3A//play.sweepstakesalerts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepstakesalerts.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502220602id_/https%3A//play.sweepstakesalerts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,8 @@ We collect general types of information about you when you visit and use our web
 (ii.) _Website Functionality._ We share your information with companies and individuals we employ to perform technical functions on our behalf. Examples include third parties who host our website, analyze our data, provide marketing assistance, process credit card payments, and provide customer service. 
 
 (iii) _Third Party Products and Services._ We share your information with third parties who will provide you with their opportunities, products or services. This includes your personal and non-personal information, and includes your interests and preferences, so they may determine whether you might be interested in their products or services. 
+
+Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. To learn more about interest-based advertising in general and to opt out, please visit [https://aboutads.info/choices](https://aboutads.info/choices/). 
 
 (iv.) _Anonymous information._ We share aggregated anonymous information about you, combined with other persons using our website with third parties, so that they can understand the kinds of visitors that come to our website, and how those visitors use our website. This includes demographic information and behavioral information. 
 
