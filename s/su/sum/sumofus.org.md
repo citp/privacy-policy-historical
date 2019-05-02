@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumofus.org privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213093036id_/https%3A//www.sumofus.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumofus.org privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502174047id_/https%3A//www.sumofus.org/privacy) for the most accurate reproduction.*
 
 # SumOfUs - Fighting for people over profits
 
