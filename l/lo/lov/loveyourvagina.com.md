@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveyourvagina.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116105305id_/http%3A//www.mooncup.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveyourvagina.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502162615id_/https%3A//www.mooncup.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Mooncup
 
@@ -7,9 +7,9 @@ PRIVACY AND COOKIES POLICY**
 
  **About this Privacy and Cookies Policy**
 
-We are committed to protecting your privacy. We are required by law to provide you with certain information about what we do with any personal data we collect from you, or that you provide to us, so that is the purpose of this Policy. If you have any questions or comments about anything in this Policy you can write to us at Vantage Point, New England Road, Brighton BN1 4GW (for the attention of Simon Boyd-Jones) or email us at quality@mooncup.co.uk.
+We are committed to protecting your privacy. We are required by law to provide you with certain information about what we do with any personal data we collect from you, or that you provide to us, so that is the purpose of this Policy. If you have any questions or comments about anything in this Policy you can write to us at Vantage Point, New England Road, Brighton BN1 4GW (for the attention of Simon Boyd-Jones) or email us at [quality@mooncup.co.uk](mailto:quality@mooncup.co.uk).
 
-By visiting [www.mooncup.co.uk](https://www.mooncup.co.uk/)  or any international version of our site, or by otherwise contacting us, you consent to our collection and use of your personal data in accordance with this Policy.
+By visiting [www.mooncup.co.uk](https://www.mooncup.co.uk/) or any international version of our site, or by otherwise contacting us, you consent to our collection and use of your personal data in accordance with this Policy.
 
 In this Privacy and Cookies Policy, references to “ **Mooncup** ”; “ **we** ”; “ **us** ”; and “ **our** ” are references to Mooncup Limited, registered in England with registered office at The Old Casino, 28 Fourth Avenue, Hove, East Sussex BN3 2PJ.
 
@@ -42,7 +42,8 @@ We also work closely with third parties including business partners, payment and
 
 Our Website contains links to and from third party websites, which include Facebook, Twitter, SagePay and PayPal as well as any other sites that we may link to in the future. Our blog posts and communications may also contain links to and from similar third party websites. If you click on any of these links, we recommend that you check the privacy policies on these websites before you submit any personal data to them. We cannot accept any responsibility or liability for these websites or for their use of any data collected by them.
 
- **Cookies**
+  
+**Cookies**
 
 Our Website uses cookies to distinguish you from other users. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer’s hard drive. Using cookies helps us to improve our Website and ensure, as far as possible, that the information on the Website is presented and accessible in the best way. By using our Website you agree to our use of cookies as set out below.
 
@@ -57,13 +58,13 @@ We use the following cookies:
 
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
- **Cookie**|  **   Name**|  **   Purpose**|  **   Expiry**  
+ **Cookie**|  **  Name**|  **  Purpose**|  **  Expiry**  
 ---|---|---|---  
 Browser session  
-id|    PHPSESSID| This cookie is **necessary** to track the user’s connection  
+id|  PHPSESSID| This cookie is **necessary** to track the user’s connection  
 and ensure speed in communication| session  
 Site Content Language  
-(Default English)|    _icl_current_  
+(Default English)|  _icl_current_  
 language| This **functional** cookie records the language that  
 the page content should  
 be displayed in to ensure         maximum accessibility| 
@@ -72,7 +73,7 @@ be displayed in to ensure         maximum accessibility|
   
 Shopping  
 Cart and  
-Checkout|    Wp_woocommerce  
+Checkout|  Wp_woocommerce  
 _session_XXXXXXX| This cookie is **necessary** to   ensure that the shopping cart and   buying experience  
 is quick and accurate and         functions correctly| 
 
