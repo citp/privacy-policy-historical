@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202010712id_/https%3A//www.imgix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502150945id_/https%3A//www.imgix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • imgix • Real-time image processing and image CDN
 
