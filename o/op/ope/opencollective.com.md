@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opencollective.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010132834id_/https%3A//opencollective.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencollective.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502065908id_/https%3A//opencollective.com/privacypolicy) for the most accurate reproduction.*
 
 # Open Collective Privacy Policy
 
-This Privacy Policy explains how information about you is collected, used and disclosed by Open Collective, Inc. ("Open Collective" or “we”). This Privacy Policy applies to information we collect when you use our websites and online services (collectively, the “Services”) or when you otherwise interact with us. 
+This Privacy Policy explains how information about you is collected, used, and disclosed by Open Collective, Inc. ("Open Collective" or “we”). This Privacy Policy applies to information we collect when you use our websites and online services (collectively, the “Services”) or when you otherwise interact with us.
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
@@ -67,4 +67,9 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 #### Promotional Communications
 
 You may opt out of receiving promotional or notification emails from Open Collective by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.  
+GDPR | 
+
+#### Compliance
+
+Open Collective is GDPR compliant. We are not in the business of selling data to any 3rd party. Our business model is to take a commission on the money raised by Collectives (like most other crowdfunding platforms). Companies that sponsors Collectives don't get access to private information. Only the admins of the Collective (core contributors) and of the organization that is legally hosting the Collectives (fiscal sponsor) get access to your email address. We don't store credit card information on our servers (we only store a token if you have decided to save it to your profile). We don’t store any passwords. Since our entire code base is open source, anyone can easily audit it.   
 Contact Us | If you have any questions about this Privacy Policy, please contact us at: [support@opencollective.com](mailto:support@opencollective.com).
