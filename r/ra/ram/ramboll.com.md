@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the ramboll.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922180316id_/https%3A//ramboll.com/legal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramboll.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502113304id_/https%3A//ramboll.com/legal-information) for the most accurate reproduction.*
 
 # Privacy Policy - Ramboll Group
 
-Any data and information made accessible by this website is made available on an "As is" and "As available" basis without any warranty or representations, either expressed or implied. Access to this website and the downloading of data and information from such website are at the user’s own risk.
+## Websites
+
+Ramboll's websites are accessible for the purpose only of providing general information regarding Ramboll Group A/S (in Danish also referred to as Rambøll Gruppen A/S) and its subsidiaries, and is made in accordance with Danish law.
+
+Any data and information made accessible by these websites is made available on an "As is" and "As available" basis without any warranty or representations, either expressed or implied. Access to this website and the downloading of data and information from such website are at the user’s own risk.
 
 All data, information or other proprietary notices are protected by copyright and together displayed with trademarks, logo etc, will remain the property of Ramboll.
 
@@ -55,6 +59,10 @@ We sometimes embed photos and video content from websites such as YouTube. As a 
 All our websites use embedded "share" buttons to enable users to easily share information with friends through a number of popular social networks. These sites may set a cookie when you are also logged in to their service. Ramboll does not control the dissemination of these cookies and you should check the relevant third-party website for more information about their use of cookies.
 
 Act-On Marketing is a marketing automation tool. This will only process data after you have actively submitted a form and explicitly opted-in.
+
+We use [Hotjar](http://www.hotjar.com/) in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).
+
+  You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following [this opt-out link](https://www.hotjar.com/legal/compliance/opt-out). 
 
 ## The use of Google Maps on our websites
 
