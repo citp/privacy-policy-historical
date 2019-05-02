@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229175028id_/https%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502154345id_/https%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelzoo
 
