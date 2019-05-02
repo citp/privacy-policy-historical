@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thevid.tv privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231173944id_/http%3A//thevid.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevid.tv privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502210830id_/http%3A//thevid.tv/privacy) for the most accurate reproduction.*
 
-# TheVid.net
+# TheVid
 
 Your privacy is important to TheVid. This privacy statement provides information about the personal information that TheVid collects, and the ways in which TheVid uses that personal information. 
 
