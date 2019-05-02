@@ -1,19 +1,291 @@
-> *The following text is extracted and transformed from the roleplayer.me privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614002139id_/https%3A//www.roleplayer.me/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roleplayer.me privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502141351id_/https%3A//www.roleplayer.me/privacy_policy.php) for the most accurate reproduction.*
 
-# RolePlayer.me | Online Roleplaying Social Network | Roleplay Online For Free
+# None
 
-|  **  Privacy Policy**  
----  
-**RolePlayer.me Privacy Policy** Updated: March 20, 2012 ClearVista, LLC (hereinafter “ClearVista”) has adopted this Privacy Policy (hereinafter “Privacy Policy”) to provide you with notice of its collection, use, and disclosure of personal and personally identifiable information through your use of the RolePlayer.me website and its associated content (hereinafter “Website”). You understand and agree that ClearVista may modify, amend, replace, or suspend this Privacy Policy at any time and in its sole discretion. In the event ClearVista modifies, amends, or replaces its Privacy Policy, the Effective Date, located above, will change. Your use of the Website after a modification, amendment, or replacement of this Privacy Policy constitutes your manifestation of assent to said modification, amendment, or replacement. **Information Collected**  
-ClearVista may collect personal or personally identifiable information from you through your use of the Website, which may include but is not limited to your first name, last name, address, email address, date of birth, country, website URL, IP address, geographical location, comments, links, posts, threads, feedback, reviews, photographs, interests, preferences, and any other information that you voluntarily submit to the Website (collectively Personal Information). ClearVista may collect Personal Information from you through various channels, including but not limited to through your voluntary submission of information to the Website, through the collection and analysis of information concerning your computer and browsing activities, through the use of cookies, web beacons, and pixel tags, and through other sources permitted by law. **Compliance with Child Online Privacy Protection Act**  
-ClearVista will not knowingly collect, use, or transfer personal or personally identifiable information from children under the age of 13\. To ensure its compliance with the Child Online Privacy Protection Act, ClearVista has restricted access to its website to children under the age of 13. **Use of Personal Information**  
-You understand and agree that your Personal Information may be used to communicate with you, to provide you with services and support, to respond to requests initiated at your volition, to make changes to or perform maintenance on the Website, or to tailor the Website to your preferences. By providing any Personal Information to ClearVista, you understand and agree that ClearVista will collect and process your Personal Information in the United States; you provide your unequivocal consent to the collection and processing of your Personal Information in the United States. ClearVista may share your Personal Information: (1) with third parties where it has obtained your consent; (2) with third party service providers to provide you with services initiated at your request; (3) with ClearVista’s parents, subsidiaries, successors, and assigns; and (4) with ClearVista’s business partners who offer services through or in association with the Website. Except where otherwise stated, ClearVista will not sell, rent, transfer, or lease your Personal Information to any third party, except to comply with a duly authorized subpoena, to comply with an applicable law or regulation, to help prevent against fraud, or to protect ClearVista, its employees, its property, or third parties on ClearVista’s property. ClearVista may, from time to time, purchase or sell a business unit or subsidiary. In the event that ClearVista purchases or sells a business unit or subsidiary, your Personal Information will continue to be used consistent with this Privacy Policy. ClearVista may use your email address, however obtained, to provide you with user notifications, site promotions, site changes, and to update you on the goods or services of ClearVista. ClearVista may provide you with the ability to create a Member Account. In the event ClearVista provides you with a Member Account, you will have the ability to edit and update your Personal Information through your Member Account control panel. In the event you wish to cancel or delete your Member Account, you may do so within your Member Account control panel. ClearVista will not share your Member Account information with a third party unless otherwise provided for under this Privacy Policy or its associated Terms of Use Agreement. You understand and agree that ClearVista is not responsible for communications from entities that ClearVista does not own or control. **Protection of Personal Information**  
-ClearVista protects all Member Account pages with commercially standard and commercially reasonable encryption to ensure, to the extent possible, that your Personal Information is protected from disclosure. All Member Accounts issued through ClearVista must be accessed with a username and password. You are advised not to share your username or password, or any other Personal Information, with any third party. Though ClearVista undertakes commercially reasonable efforts to ensure the privacy and security of your Personal Information, ClearVista cannot guarantee that its Website will be completely secure. You understand and agree that you provide your Personal Information to ClearVista at your own risk. ClearVista works to ensure that your Personal Information is accurate, current, and complete. You understand and agree that you have an ongoing duty to ensure that your Personal Information is accurate, current, and complete. You agree to update your Personal information as changes arise and to update your Member Account to reflect any such changes. **Use of Cookies and Other Tracking Techniques**  
-ClearVista may collect Personal Information from you through the storage of data files on your computer called “cookies.” These cookies allow the Website to recognize your computer when you revisit the Website. Additionally, ClearVista may collect Personal Information from you through the use of “session cookies,” which help ClearVista track the pages that you visit during a single use of the Website to ensure that users are not required to re-enter their usernames and passwords upon accessing each page of the Website. These session cookies will expire once you leave the Website. Your web browser may provide you with the ability to block or limit cookies. If you object to ClearVista’s use of cookies, you are advised to adjust your web browser’s settings accordingly. ClearVista or its advertisers may also collect Personal Information from you through the use of pixel tags, web beacons, or other tracking techniques. This Personal Information may be used for advertising purposes, whether contextual or otherwise, and may be shared with ClearVista’s advertisers to provide its advertisers with information on the demographics or preferences of the Website’s users. ClearVista uses third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/). **DoubleClick DART Cookie**  
-\- Google, as a third party vendor, uses cookies to serve ads on RolePlayer.me.  
-\- Google's use of the DART cookie enables it to serve ads to users based on their visit to RolePlayer.me and other sites on the Internet.   
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html **Opt-Out**  
-In the event ClearVista allows you to create a Member Account, you will have the opportunity to update components of your Personal Information. You may opt-out of ClearVista’s collection of your Personal Information by deleting your Member Account and by ceasing your use of the Website. **Protection and Storage of Personal Information**  
-ClearVista undertakes commercially reasonable procedures to help protect your Personal Information from disclosure. Though ClearVista takes the security of your Personal Information very seriously, ClearVista cannot guarantee that its servers and Website are completely secure. ClearVista uses commercially reasonable efforts to protect your Personal Information, but you provide any and all Personal Information at your own risk. **California Privacy Rights**  
-California residents have the right to receive information that identifies any third party companies or individuals that ClearVista has shared your Personal Information with in the previous calendar year, as well as a description of the categories of Personal Information disclosed to that third party. You may obtain this information once a year and free of charge by contacting ClearVista at privacy@ClearVista.com. **Contact and Notices**  
-All questions and concerns regarding this Privacy Policy may be directed to ClearVista, LLC by emailing privacy@ClearVista.com 
+* * *
+
+### RolePlayer.me Privacy Policy
+
+This Privacy Policy was last updated on May 26, 2018
+
+ClearVista, LLC ("us", "we", or "our") operates the http://www.RolePlayer.me website (the "Website").
+
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Website and the choices you have associated with that data.
+
+We use your data to provide and improve the Website. By using the Website, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.RolePlayer.me
+
+### Definitions
+
+  * **Website**
+
+Website is the http://www.RolePlayer.me website operated by ClearVista, LLC
+
+  * **Personal Data**
+
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+
+  * **Usage Data**
+
+Usage Data is data collected automatically either generated by the use of the Website or from the Website infrastructure itself (for example, the duration of a page visit).
+
+  * **Cookies**
+
+Cookies are small pieces of data stored on your device (computer or mobile device).
+
+  * **Data Controller**
+
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+
+  * **Data Processors (or Service Providers)**
+
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
+
+We may use the services of various Service Providers in order to process your data more effectively.
+
+  * **Data Subject (or User)**
+
+Data Subject is any living individual who is using our Website and is the subject of Personal Data.
+
+
+
+
+### Information Collection and Use
+
+We collect several different types of information for various purposes to provide and improve our Website to you.
+
+### Types of Data Collected
+
+#### Personal Data
+
+While using our Website, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+  * Email address
+  * First name and last name
+  * Address, State, Province, ZIP/Postal code, City, Country
+  * Gender
+  * Marital status
+  * Ethnicity
+  * Cookies and Usage Data
+
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may [opt out](https://web.archive.org/web/20190502141351id_/https%3A//www.roleplayer.me/acc_settings.php) of receiving any, or all, of these communications from us by following the unsubscribe instructions provided in the emails we send.
+
+#### Usage Data
+
+We may also collect information how the Website is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Website that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Website and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Website.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Website.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Website.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+  * **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+ **Use of Data**
+
+ClearVista, LLC uses the collected data for various purposes:
+
+  * To provide and maintain our Website
+  * To notify you about changes to our Website
+  * To allow you to participate in interactive features of our Website when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Website
+  * To monitor the usage of our Website
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+ **Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)**
+
+If you are from the European Economic Area (EEA), ClearVista, LLC legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+ClearVista, LLC may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it's not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+**Retention of Data**
+
+ClearVista, LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+ClearVista, LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Website, or we are legally obligated to retain this data for longer time periods.
+
+ **Transfer of Data**
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+ClearVista, LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+### Disclosure of Data
+
+### Business Transaction
+
+If ClearVista, LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, ClearVista, LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+ClearVista, LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of ClearVista, LLC
+  * To prevent or investigate possible wrongdoing in connection with the Website
+  * To protect the personal safety of users of the Website or the public
+  * To protect against legal liability
+
+**Security of Data**
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+ **"Do Not Track" Signals**
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+ **Your Data Protection Rights Under General Data Protection Regulation (GDPR)**
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. ClearVista, LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where ClearVista, LLC relied on your consent to process your personal information.
+
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+ **Service Providers**
+
+We may employ third party companies and individuals to facilitate our Website ("Service Providers"), to provide the Website on our behalf, to perform Service-related services or to assist us in analyzing how our Website is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Website.
+
+  * **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Website. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+  * **Histats**
+
+Histats is a web analytics service. Read the Privacy Policy for Histats here: <http://histats.com/?act=5>
+
+
+
+
+### Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Website.
+
+  * **Google AdSense & DoubleClick Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our Website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Website or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+
+
+
+### Behavioral Remarketing
+
+ClearVista, LLC uses remarketing services to advertise on third party websites to you after you visited our Website. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Website.
+
+  * **Facebook**
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+
+
+
+### Payments
+
+We may provide paid products and/or service within the Website. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **PayPal or Braintree**
+
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+
+**Links to Other Sites**
+
+Our Website may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+ **Children's Privacy**
+
+Our Website does not address anyone under the age of 16 (applicable to users located in the EEA excluding the U.K.) or 13 (applicable to users located in the rest of the world including the U.K.) ("Children")
+
+We do not knowingly collect personally identifiable information from anyone under the age of 16 (applicable to users located in the EEA excluding the U.K.) or 13 (applicable to users located in the rest of the world including the U.K.). If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+ **California Privacy Rights**
+
+California residents have the right to receive information that identifies any third party companies or individuals that ClearVista has shared your Personal Information with in the previous calendar year, as well as a description of the categories of Personal Information disclosed to that third party. You may obtain this information once a year and free of charge by contacting ClearVista at privacy@ClearVista.com. 
+
+**Changes to our Privacy Policy and/or Cookies Policy**
+
+We may change the content of our websites and how we use cookies and consequently our Privacy Policy and our Cookie Policy may change from time to time in the future. If we change this Privacy Policy or our Cookies Policy, we will update the date it was last changed below. If these changes are material, we will indicate this clearly on our Website.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+ **Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: privacy@clearvista.com
+
+
