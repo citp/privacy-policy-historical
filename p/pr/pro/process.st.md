@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the process.st privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115091042id_/https%3A//www.process.st/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the process.st privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503182627id_/https%3A//www.process.st/privacy) for the most accurate reproduction.*
 
-# Privacy | Process Street
+# Privacy | Process Street | Checklist, Workflow and SOP Software
 
 Last updated: June 8, 2018. Effective date: May 25th, 2018.   
 You can see our previous Privacy Policy [here](https://www.process.st/privacy-archived/).
