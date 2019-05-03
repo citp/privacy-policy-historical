@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subagames.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110201329id_/https%3A//subagames.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subagames.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503033304id_/https%3A//subagames.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # SUBA GAMES- DOWNLOAD FREE ONLINE GAMES , CROSSFIRE, MMORPG, MMO, RTS,FPS
 
