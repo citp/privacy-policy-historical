@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shirtpunch.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228161801id_/https%3A//www.shirtpunch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shirtpunch.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503041831id_/https%3A//www.shirtpunch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The World's Favorite Shirt Shop | ShirtPunch
 
