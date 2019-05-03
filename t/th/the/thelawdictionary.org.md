@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelawdictionary.org privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920164606id_/https%3A//thelawdictionary.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelawdictionary.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503165136id_/https%3A//thelawdictionary.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
   
 This privacy policy applies between you, the User of this Website and SURESWIFT CAPITAL INC., the owner and provider of this Website https://thelawdictionary.org. TheLawDictionary.org takes the privacy of your information very seriously. This privacy policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website. Please read this privacy policy carefully.
 
-##  **Definitions and interpretation**
+## **Definitions and interpretation**
 
   1. In this privacy policy, the following definitions are used:  
   
@@ -40,14 +40,14 @@ This privacy policy applies between you, the User of this Website and SURESWIFT 
 
 
 
-##  **  
+## **  
 ****Scope of this privacy policy**
 
   1. This privacy policy applies only to the actions of TheLawDictionary.org and Users with respect to this Website. It does not extend to any websites that can be accessed from this Website including, but not limited to, any links we may provide to social media websites or externally-facing URLs provided throughout throughout the course of using TheLawDictionary.org.
 
 
 
-##  **Data collected**
+## **Data collected**
 
   1. We may collect the following Data, which includes personal Data, from you:
     1. Name
@@ -67,7 +67,7 @@ This privacy policy applies between you, the User of this Website and SURESWIFT 
 
 
 
-##  **Our use of Data**
+## **Our use of Data**
 
   1. For purposes of the Data Protection Act 1998 and GDPR, TheLawDictionary.org acts as the “data controller”.
   2. We will retain any Data you submit for as long as TheLawDictionary.org deems it necessary to provide adequate service to the User, unless explicitly asked by a User for their Data to be deleted.
@@ -84,7 +84,7 @@ This privacy policy applies between you, the User of this Website and SURESWIFT 
 
 in each case, in accordance with this privacy policy.
 
-##  **Third party websites and services**
+## **Third party websites and services**
 
   1. TheLawDictionary.org may, from time to time, employ the services of other parties for dealing with certain processes necessary for the operation of the Website. The providers of such services have access to certain personal Data provided by Users of this Website and may be located in various locations throughout the world.
   2. Any Data used by such parties is used only to the extent required by them to perform the services that we request. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties will be processed within the terms of this privacy policy and in accordance with the Data Protection Act 1998 and GDPR.
@@ -92,14 +92,14 @@ in each case, in accordance with this privacy policy.
 
 
 
-##  **  
+## **  
 ****Links to other websites**
 
   1. This Website may provide links to other websites. We have no control over such websites and are not responsible for the content of these websites. This privacy policy does not extend to your use of such websites. You are advised to read the privacy policy or statement of other websites prior to using them.
 
 
 
-##  **  
+## **  
 ****Changes of business ownership and control**
 
   1. SURESWIFT CAPITAL INC. may expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of TheLawDictionary.org. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this privacy policy, be permitted to use the Data for the purposes for which it was originally supplied to us.
@@ -108,7 +108,7 @@ in each case, in accordance with this privacy policy.
 
 
 
-##  **  
+## **  
 ****Controlling use of your Data**
 
   1. Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:
@@ -119,7 +119,7 @@ in each case, in accordance with this privacy policy.
 
 
 
-##  **  
+## **  
 ****Functionality of the Website**
 
   1. To use all features and functions available on the Website, you may be required to submit certain Data.
@@ -129,7 +129,7 @@ in each case, in accordance with this privacy policy.
 
 
 
-##  **Security**
+## **Security**
 
   1. Data security is of great importance to TheLawDictionary.org, and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected via this Website.
   2. If password access is required for certain parts of the Website, you are responsible for keeping this password confidential.
@@ -137,7 +137,7 @@ in each case, in accordance with this privacy policy.
 
 
 
-##  **  
+## **  
 ****Cookies**
 
   1. This Website may place and access certain Cookies on your computer. https://thelawdictionary.org uses Cookies to improve your experience of using the Website and to improve our range of products and services. https://thelawdictionary.org has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.
@@ -145,9 +145,9 @@ in each case, in accordance with this privacy policy.
   3. Before the Website places Cookies on your computer, you will be presented with a message bar requesting your consent to set those Cookies. By giving your consent to the placing of Cookies, you are enabling TheLawDictionary.org to provide a better experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.
   4. This Website may place the following Cookies:
 
- **Type of Cookie**|  **Purpose**  
+**Type of Cookie** | **Purpose**  
 ---|---  
-Strictly necessary cookies| These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.  
+Strictly necessary cookies | These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.  
   
   1. You can choose to enable or disable Cookies in your internet browser. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in your internet browser.
   2. You can choose to delete Cookies at any time; however you may lose any information that enables you to access the Website more quickly and efficiently including, but not limited to, personalisation settings.
@@ -155,7 +155,7 @@ Strictly necessary cookies| These are cookies that are required for the operatio
 
 
 
-##  **  
+## **  
 ****General**
 
   1. You may not transfer any of your rights under this privacy policy to any other person. We may transfer our rights under this privacy policy where we reasonably believe your rights will not be affected.
@@ -167,7 +167,7 @@ Strictly necessary cookies| These are cookies that are required for the operatio
 
 
 
-##  **  
+## **  
 ****Changes to this privacy policy**
 
 TheLawDictionary.org reserves the right to change this privacy policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the privacy policy on your first use of the Website following the alterations.You may contact TheLawDictionary.org by submitting a message at [https://thelawdictionary.org/contact](https://thelawdictionary.org/contact).
