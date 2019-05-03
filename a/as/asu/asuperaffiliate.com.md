@@ -1,17 +1,45 @@
-> *The following text is extracted and transformed from the asuperaffiliate.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asuperaffiliate.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503200904id_/https%3A//asuperaffiliate.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy – The Super Affiliate University
 
-* * *
+### Who We Are
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+At asuperaffiliate.com, we are committed to maintaining the trust and confidence of all visitors to our website. In particular, we want you to know that asuperaffiliate.com is not in the business of selling, renting or trading email lists with other companies and businesses for marketing purposes.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+In this Privacy Policy, we’ve provided detailed information on when and why we collect personal information, how we use it, the limited conditions under which we may disclose it to others, and how we keep it secure.
 
+We take your privacy seriously and take measures to provide all visitors and users of asuperaffiliate.com with a safe and secure environment.
 
+### **Cookies**
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+asuperaffiliate.com may set and access asuperaffiliate.com cookies on your computer.  Cookies are used to provide our system with the basic information to provide the services you are requesting.  Cookies can be cleared at any time from your internet browser settings.
+
+### **Google Analytics**
+
+When someone visits asuperaffiliate.com we use a third-party service, Google Analytics, to collect standard internet log information and details of visitor behavior patterns. We do this to track things such as the number of visitors to the various parts of the site and interactions with the site. This information is processed in a way which does not identify anyone. We do not make and do not allow Google to make, any attempt to find out the identities of visitors to our website.
+
+### **Website Comments**
+
+When someone visits asuperaffiliate.com, there may be an ability to submit comments on particular articles or pages.  When comments are submitted, you are entitled to use aliases or information that completely hides your identity. When a comment is submitted, the relevant details (name, email, website) that you provide are stored.  These details are stored so that we can display your comment back to you, and to anyone viewing the comment sections on the site. We do not verify the information entered nor do we require verification.
+
+### **Mailing Lists**
+
+As part of the registration process for our e-newsletter, we collect personal information. We use that information for a couple of reasons: to tell you about stuff you’ve asked us to tell you about; to contact you if we need to obtain or provide additional information; to check our records are right and to check every now and then that you’re happy and satisfied. We do not rent or trade email lists with other organizations, businesses or individuals.
+
+We use a third-party provider, MailerLite to deliver our newsletter. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see MailerLite privacy notice. You can unsubscribe to general mailings at any time of the day or night by clicking the unsubscribe link at the bottom of any of our emails.
+
+### **Third Parties**
+
+There may be some circumstances where your IP address, geographic location, and other browser-related details may be shared with third-party companies.  We may share your above-mentioned data with following third-party companies from time to time.
+
+### **Access to Your Personal Information**
+
+You are entitled to view, amend, or delete the personal information that we hold. Email your request to our data protection officer Stefan Vogt at asuperaffiliate2018@gmail.com and we will work with you to remove any of your personal data we may have.
+
+### **Changes to Our Privacy Policy**
+
+We may make changes to our Privacy Policy in the future, however, the most current version of the policy will govern our processing of your personal data and will always be available at the following URL:
+
+> [Privacy Policy](https://asuperaffiliate.com/privacy-policy)
+
+If we make a change to this policy that, in our sole discretion, is material, we will notify you by an update or email, where possible. By continuing to access or use our services, you agree to be bound to the terms of our Privacy Policy.
