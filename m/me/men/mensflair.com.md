@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensflair.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101003605id_/http%3A//mensflair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensflair.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503195523id_/http%3A//mensflair.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Men's Flair
 
