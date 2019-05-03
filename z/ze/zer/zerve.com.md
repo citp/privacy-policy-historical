@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerve.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031004804id_/https%3A//www.zerve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerve.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503184118id_/https%3A//zerve.com/privacy) for the most accurate reproduction.*
 
 # Zerve Privacy Policy
 
