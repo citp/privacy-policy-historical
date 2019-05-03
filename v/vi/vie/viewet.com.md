@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viewet.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107190317id_/http%3A//www.viewet.com/content/27-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewet.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503230324id_/https%3A//www.qqtube.com/en/content/2-privacy-policy-how-we-use-info) for the most accurate reproduction.*
 
-# Privacy Policy - Viewet
+# Privacy Policy - How we use info - QQTube
 
-This Privacy Policy governs the manner in which Viewet collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.Viewet.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Viewet. 
+This Privacy Policy governs the manner in which QQTube collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.QQTube.com website ("Site"). This privacy policy applies to the Site and all products and services offered by QQTube. 
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Viewet may collect and use Users personal information for the following purposes: 
+QQTube may collect and use Users personal information for the following purposes: 
 
 \- To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
@@ -41,7 +41,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Changes to this privacy policy**
 
-Viewet has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+QQTube has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
 **Your acceptance of these terms**
 
@@ -50,10 +50,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Viewet  
-http://www.Viewet.com  
-1734 Clarkson Road Suite 251  
-Chesterfield MO, 63017  
-Support@Viewet.com
+Support@QQTube.com
 
-This document was last updated on August 23, 2013
+This document was last updated on January 16, 2014
