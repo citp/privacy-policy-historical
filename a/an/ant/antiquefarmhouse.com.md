@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119191207id_/http%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503142344id_/https%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Antique Farmhouse
 
-This privacy policy sets out how Antique Farm House uses and protects any information that you give Antique Farm House when you use this website. Antique Farm House is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Antique Farm House may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+This privacy policy sets out how Antique Farm House uses and protects any information that you give Antique Farm House when you use this website. Antique Farm House is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Antique Farm House may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 ## **Collection of Your Information**
 
@@ -24,7 +24,7 @@ We collect information as part of operating our website and providing services.
 
 We collect and use your personal information to operate and improve our site and services. These uses include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our services and technologies; and displaying content and advertising that are customized to your interests and preferences.
 
-We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements.  Additionally, with your permission, we may also occasionally send you surveys or promotional mailings to inform you of other products or services available from us or our affiliates, and/or share your personal information with our business partners so they may send you information about their products and services. You can opt-out from receiving newsletters or promotional e-mail anytime by using this web form or by following the steps as described in the respective newsletter or promotional e-mail.
+We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements.  You can opt-out from receiving newsletters or promotional e-mail anytime by using this web form or by following the steps as described in the respective newsletter or promotional e-mail.
 
 Personal information collected on our sites and services may be stored and processed in the United States or any other country in which we maintain facilities.
 
