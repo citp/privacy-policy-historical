@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordtool.io privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022125712id_/https%3A//keywordtool.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordtool.io privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503212844id_/https%3A//keywordtool.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,4 +51,4 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Although most changes are likely to be minor, Key Tools may change its Privacy Policy from time to time, and in Key Tools' sole discretion. Key Tools encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-This Privacy Policy is an adapted version of <http://automattic.com/privacy> which is generously availabe under a Creative Commons Sharealike license.
+This Privacy Policy is an adapted version of <https://automattic.com/privacy/> which is generously availabe under a Creative Commons Sharealike license.
