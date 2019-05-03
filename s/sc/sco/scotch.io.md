@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotch.io privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229105754id_/https%3A//scotch.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotch.io privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503033231id_/https%3A//scotch.io/privacy) for the most accurate reproduction.*
 
 # Privacy ― Scotch.io
 
