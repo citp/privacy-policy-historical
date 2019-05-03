@@ -1,546 +1,807 @@
-<!--The following is the downloaded HTML source of the launchdarkly.com privacy policy that was archived on 2017-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170523103533id_/https%3A//launchdarkly.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the launchdarkly.com privacy policy that was archived on 2019-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190503080736id_/https%3A//launchdarkly.com/policies/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js no-touch no-ie8compat"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="appurl" content="https://app.launchdarkly.com">
-
-  <title>Privacy | LaunchDarkly</title>
-  <meta name="description" content="LaunchDarkly's privacy policy for all of our uses.">
-  <meta name="msvalidate.01" content="BD673768F8CEBA33E9BBD4ACF9338692">
-
-  <!-- Open Graph data -->
-  <meta property="og:image" content="http://blog.launchdarkly.com/wp-content/uploads/2016/02/ld_logo_blue.png">
-  <meta property="og:image:width" content="600">
-  <meta property="og:image:height" content="124">
-  <meta property="og:locale" content="en_US">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Privacy | LaunchDarkly">
-  <meta property="og:description" content="LaunchDarkly's privacy policy for all of our uses.">
-  <meta property="og:url" content="https://launchdarkly.com/privacy.html">
-  <meta property="og:site_name" content="LaunchDarkly">
-
-  <!-- Twitter Card data -->
-  <meta name="twitter:card" content="product">
-  <meta name="twitter:site" content="@launchdarkly">
-  <meta name="twitter:title" content="LaunchDarkly">
-  <meta name="twitter:description" content="LaunchDarkly serves billions of feature flags daily to help software teams eliminate risk in their software development and release planning cycles.
-">
-  <meta name="twitter:creator" content="@launchdarkly">
-  <meta name="twitter:image" content="https://i.imgur.com/p6gOkew.png">
-
-  <link href="https://fonts.googleapis.com/css?family=Poppins:400,300,500,600,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="/s/bundle-ee4993ace7285caff3b5f438e2c49aba04595cd43d0d097819ffb55a0faedbe7.css">
-
-  <link rel="icon" type="image/ico" href="/images/favicon.ico">
-  <script type="text/javascript" async="" src="https://widget.intercom.io/widget/lm0ulu3m"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/b4QYsX0XOnsWr849i2RrC7AOPfNW2XSx/analytics.min.js"></script><script type="text/javascript" async="" src="https://static.elev.io/js/v3.js"></script><script type="text/javascript" src="/s/bundle-a782719672fed5f89bef3b4e155b8a9245fc6b48f745d4fc39026cb8f75da2ba.js"></script>
-  <!--Segment Script-->
-  <script>
-   function generateUUID(){
-    var d = new Date().getTime();
-    var uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
-        var r = (d + Math.random()*16)%16 | 0;
-        d = Math.floor(d/16);
-        return (c=='x' ? r : (r&0x3|0x8)).toString(16);
-    });
-    return uuid;
-    };
-    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
-    window.jQuery(function () {
-    if (Cookies.get('ldt') == undefined) {
-      var uuid = generateUUID();
-      Cookies.set('ldt', uuid, { domain: '.launchdarkly.com', expires: 30 });
-    }
-    var cookie = Cookies.get('ldt');
-    //UTM retrieval
-    function getUTMValue(inputParameter) {
-      var utmQuery = decodeURIComponent(window.location.search.substring(1)),
-      utmVariables = utmQuery.split("&"),
-      ParameterName,
-      i;
-      for (i = 0; i < utmVariables.length; i++) {
-        ParameterName = utmVariables[i].split("=");
-        if (ParameterName[0] === inputParameter) {
-          return ParameterName[1] === null ? null : ParameterName[1];
-        }
-      }
-    };
-    //setting variables for utm fields
-    var source = getUTMValue("utm_source");
-    var medium = getUTMValue("utm_medium");
-    var term = getUTMValue("utm_term");
-    var content = getUTMValue("utm_content");
-    var campaignName = getUTMValue("utm_campaign");
-    //sending to Segment
-    analytics.load("b4QYsX0XOnsWr849i2RrC7AOPfNW2XSx");
-    analytics.page();
-    if (source != null && medium != null && campaignName != null) {
-      analytics.identify(cookie, {"source": source, "medium": medium, "term": term, "content": content, "campaignName": campaignName});
-    } else {
-      analytics.identify(cookie);
-    }
+<!DOCTYPE html><html class="has-navbar-fixed-top" lang="en"><head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Privacy Policy - LaunchDarkly</title>
+    <meta name="description" content="We take privacy seriously and we value transparency. Read our privacy policy here.">
+    <link rel="icon" type="image/ico" href="https://launchdarkly.com/img/favicon.ico">
     
-    analytics.ready(function() {
-      ga('create', 'UA-44750782-8', 'auto', { 'name': 'uberfunnel' });
-      ga('uberfunnel.send', 'pageview', { page: location.pathname + location.search });
-      ga('uberfunnel.require', 'Clearbit', {
-        mapping: {
-          companyName:           'dimension1',
-          companyEmployeesRange: 'dimension2',
-          companyTags:           'dimension3',
-          companyTech:           'dimension4',
-          companySubIndustry:    'dimension5',
-          companyIndustry:       'dimension6',
-          companyIndustryGroup:  'dimension7',
-          companySector:         'dimension8',
-          companyType:           'dimension9',
-          companyDomain:         'dimension10'
-        }
-      });
-      analytics.on('page', function(event, properties, options) {
-        ga('uberfunnel.send', 'pageview', { page: location.pathname + location.search });
-      });
-    });
-    analytics.on('track', function(event) {
-      ga('uberfunnel.send', 'event', 'All', event);
-    });
+    <meta name="ld:site:baseUrl" content="https://launchdarkly.com">
+<meta name="ld:site:appUrl" content="https://app.launchdarkly.com">
+<meta name="ld:site:minPasswordLength" content="6">
+<meta name="ld:site:cookieDomain" content=".launchdarkly.com">
+<meta name="ld:site:captchaSiteKey" content="6LeYsGwUAAAAAMmARXM1TNAZkaDzDPjdyVYRf4ma">
+<meta name="ld:site:ldClientSideId" content="">
+<meta name="ld:analytics:segmentWriteKey" content="b4QYsX0XOnsWr849i2RrC7AOPfNW2XSx">
+<meta name="ld:analytics:uberfunnelTrackingId" content="UA-44750782-8">
+
+
+<meta property="og:image" content="https://launchdarkly.com/img/social_logo.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="We take privacy seriously and we value transparency. Read our privacy policy here.">
+<meta property="og:url" content="https://launchdarkly.com/policies/privacy">
+<meta property="og:site_name" content="LaunchDarkly">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@launchdarkly">
+<meta name="twitter:title" content="LaunchDarkly">
+<meta name="twitter:description" content="">
+<meta name="twitter:creator" content="@launchdarkly">
+<meta name="twitter:image" content="https://launchdarkly.com/img/social_logo.png">
     
-  });
-}
-}();
-  </script>
-  <script async="" src="https://ga.clearbit.com/v1/ga.js?authorization=pk_e51cbbdacdff0813c4f5f9dd59156fa1"></script>
-  <link rel="canonical" href="https://launchdarkly.com/privacy.html">
-  <link rel="alternate" type="application/rss+xml" title="LaunchDarkly" href="https://launchdarkly.com/feed.xml">
-<style type="text/css">.fancybox-margin{margin-right:0px !important;}</style></head>
+    
+    <link rel="stylesheet" href="https://launchdarkly.com/site.20a9f6.css">
+    
+    
+    <script type="text/javascript" async="" src="https://web-analytics.engagio.com/js/ei.js"></script><script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>
+<script type="text/javascript" charset="utf-8"> var _eiq = _eiq || []; var _engagio_settings = { accountId: "956d541ac6126f9d2e9a3fbb5d63cc40510f155f" }; (function() { var ei = document.createElement('script'); ei.type = 'text/javascript'; ei.async = true; ei.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'web-analytics.engagio.com/js/ei.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ei, s); })(); </script> 
+
+<script type="text/javascript">window._trackJs = { token: 'e71a4ea6968941258c8afd1f0a8da8af', application: 'marketing' };</script>
+<script type="text/javascript" src="https://cdn.trackjs.com/releases/current/tracker.js"></script>
 
 
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
+    
+  </head>
   <body>
+    
 
-    <header>
-  <nav id="cssmenu">
-    <div class="logo">
-      <a href="/index.html">
-         <img alt="LaunchDarkly Logo" title="LaunchDarkly Logo" src="/images/ld_white.png" id="logo-image">
+<header>
+  <nav class="navbar is-transparent is-fixed-top  image-background ">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="https://launchdarkly.com/" aria-label="Homepage">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 196 40">
+          <defs>
+            <path id="a" d="M23.24 40c10.667 0 19.344-8.972 19.344-20 0-1.043-.104-2.083-.261-3.114.02.34.058.689.058 1.016 0 9.66-7.601 17.518-16.944 17.518-4.206 0-8.055-1.596-11.021-4.228-1.328 1.285-3.125 2.171-5.002 2.779C12.93 37.687 17.828 40 23.24 40zM8.494 17.902c0-9.66 7.601-17.518 16.944-17.518.785 0 1.572.077 2.357.191C26.301.2 24.774 0 23.24 0 12.574 0 3.896 8.972 3.896 20c0 2.844.581 5.548 1.62 8 1.689-1.563 3.145-2.554 4.363-3.169-.89-2.126-1.385-4.469-1.385-6.929zm8.427 1.869c.99-1.467 2.22-3.138 3.625-4.851-3.643-1.594-7.274-.553-8.912.099 2.822 1.469 4.407 3.289 5.287 4.752zM44.36 2.711c-.631 2.326-2.004 4.433-4.141 6.254l-.136.116c-.464.411-1.202.323-1.881-.225-.45-.363-.818-.905-.818-1.436 0-.159.033-.317.106-.469.026-.055.062-.103.106-.144 1.79-1.658 2.792-3.043 3.36-4.066-2.752.247-5.465 1.045-8.07 2.438-3.909 2.091-7.743 5.773-10.842 9.414-.106.124-.212.248-.316.372-.108.128-.212.256-.318.384-1.579 1.913-2.941 3.782-3.987 5.368-.106.161-.209.319-.308.473-.108.169-.213.333-.313.494-.418.669-.764 1.268-1.031 1.773.071.044.149.099.228.158.131.096.272.214.417.351.13.122.26.264.39.422.278.338.541.758.745 1.276.064.162.124.328.174.509.048.174.085.359.118.551.006.035.016.065.022.101.275-.041.72-.126 1.305-.265.153-.037.316-.077.489-.121.156-.039.318-.083.488-.13.136-.037.277-.077.422-.118-.08-.199-.149-.362-.204-.488-.077-.175-.125-.276-.128-.282-.027-.055-.039-.114-.044-.174-.007-.074-.001-.148.026-.219.048-.128.146-.229.27-.277.277-.109.548-.223.814-.34 3.187-1.392 5.592-3.248 5.618-3.269.127-.099.294-.124.443-.068.149.057.26.188.295.348.14.644.229 1.257.283 1.848.664-.335 1.344-.697 2.037-1.092 5.579-3.175 12.977-9.052 16.839-19.047-.49-.131-1.341-.316-2.458-.42zM27.994 19.125c-.947 0-1.715-.793-1.715-1.772s.768-1.773 1.715-1.773c.947 0 1.715.794 1.715 1.773 0 .979-.768 1.772-1.715 1.772zm3.842-2.997c-.947 0-1.715-.794-1.715-1.773 0-.979.767-1.773 1.715-1.773.947 0 1.715.794 1.715 1.773 0 .979-.768 1.773-1.715 1.773zm3.679-2.965c-.947 0-1.715-.794-1.715-1.773 0-.979.767-1.773 1.715-1.773.947 0 1.715.794 1.715 1.773 0 .979-.768 1.773-1.715 1.773zm-20.806 12.38c-.109-.134-.219-.253-.327-.349-.154-.137-.302-.232-.436-.27-.151.118-.286.227-.397.318.111-.091.245-.2.397-.318-.007-.002-.016-.007-.023-.009-.385-.092-1.581-.227-3.56.756-.015.008-.031.016-.047.024-.013.006-.025.013-.037.019-1.178.597-2.627 1.589-4.344 3.21-.013.013-.027.025-.041.039-.01.01-.02.019-.031.029-1.393 1.323-2.958 3.055-4.697 5.33 1.503-.056 4.53-.277 7.428-1.129.013-.004.027-.007.04-.011.02-.006.039-.012.059-.018 1.887-.565 3.709-1.402 5.014-2.637.009-.009.019-.018.029-.027.013-.012.028-.024.041-.037.724-.704 1.275-1.537 1.583-2.518.052-.167.098-.338.135-.513.027-.127.056-.254.075-.385-.015-.037-.032-.073-.048-.11-.216-.53-.51-1.023-.813-1.394zm-1.413-.088l-.001.001s0-.001.001-.001zm.003-.002l-.002.002h-.001c.001-.001.002-.002.003-.002zm.481 1.415c-.119.104-.259.22-.413.345-.121.098-.251.202-.388.309-.323.255-.682.528-1.039.797-.015.011-.029.022-.043.032-.011.008-.021.016-.032.024-1.073.805-2.108 1.547-2.108 1.547s1.029-2.579.873-2.546c-1.424.413-3.344 2.106-4.053 2.764-.014.013-.029.026-.041.038-.012.01-.019.018-.03.028-.131.123-.209.2-.209.2s.063-.094.178-.255c.007-.01.018-.024.026-.036.011-.015.024-.032.036-.048.548-.757 1.983-2.619 3.595-3.755.113-.08.226-.149.34-.213.012-.007.023-.015.035-.022.015-.009.031-.015.047-.024.918-.496 1.816-.517 2.494-.364.192.043.366.099.517.164.183.077.333.164.443.249.148.116.227.228.208.308-.019.072-.182.237-.436.458zm6.221.479c-.12.793-.286 1.728-.495 2.53.515-.28 1.184-.717 1.839-1.335-.14-.533-.294-1.023-.441-1.449-.337.099-.639.183-.903.254zm-4.514-2.353c.395.501.717 1.097.924 1.598.147-.081.283-.168.407-.258-.22-.72-.589-1.233-.943-1.583-.124.074-.254.155-.388.243zm11.545-1.281c-.035-.435-.091-.885-.168-1.348-.716.506-2.016 1.359-3.653 2.195-.204.104-.412.207-.626.31-.349.167-.711.332-1.084.492-.073.031-.146.063-.22.094.056.129.121.284.192.461.055.136.113.289.174.451.052.141.106.289.161.448.097.28.195.584.292.91.053.18.105.369.155.561.048.181.093.367.137.557.236 1.022.409 2.167.409 3.339 0 .26-.046.519-.064.779 1.393-.964 4.239-3.508 4.325-8.205.002-.073.008-.141.008-.214 0-.102-.005-.207-.009-.312-.005-.171-.015-.343-.029-.518zm0 0"></path>
+          </defs>
+          <use xlink:href="#a" overflow="visible" fill-rule="evenodd" clip-rule="evenodd"></use>
+          <g>
+            <defs>
+              <path id="b" d="M53.778 11.06h1.29v16.703h10.195v1.23H53.778V11.06zm16.918 17.061c.645 0 1.257-.098 1.836-.295.579-.196 1.087-.47 1.525-.82.438-.35.785-.773 1.042-1.268.256-.495.384-1.042.384-1.64v-1.486c-.529-.137-1.149-.269-1.86-.397-.711-.128-1.521-.192-2.431-.192-1.339 0-2.369.278-3.088.833-.719.555-1.079 1.294-1.079 2.216v.051c0 .478.099.901.298 1.268.198.367.467.679.806.935s.732.453 1.178.589c.447.138.91.206 1.389.206zm-.074 1.179c-.595 0-1.182-.085-1.761-.256-.579-.171-1.1-.427-1.563-.769-.463-.342-.839-.769-1.129-1.281-.289-.512-.434-1.11-.434-1.793v-.051c0-.683.136-1.289.409-1.819.273-.529.649-.973 1.129-1.332.48-.359 1.058-.632 1.736-.82.678-.188 1.43-.282 2.257-.282.893 0 1.662.051 2.307.154.645.102 1.273.239 1.885.41v-.564c0-1.332-.368-2.331-1.104-2.997-.736-.666-1.757-.999-3.063-.999-.777 0-1.488.098-2.133.295-.645.196-1.257.448-1.836.756l-.446-1.102c.695-.342 1.397-.615 2.108-.82.711-.205 1.505-.307 2.381-.307 1.736 0 3.067.478 3.993 1.435.86.888 1.29 2.118 1.29 3.689v8.146h-1.191v-2.178c-.215.307-.475.611-.781.909-.306.299-.657.564-1.054.794-.397.231-.847.418-1.352.564-.503.145-1.053.218-1.648.218zm13.123 0c-.794 0-1.505-.132-2.133-.397-.628-.265-1.162-.636-1.6-1.114-.438-.478-.769-1.046-.992-1.704-.223-.658-.335-1.379-.335-2.165v-7.993H79.9v7.762c0 1.349.347 2.429 1.042 3.241.695.811 1.687 1.217 2.976 1.217.612 0 1.186-.115 1.724-.346.537-.231 1.005-.551 1.401-.961.397-.41.707-.901.93-1.473.223-.572.335-1.2.335-1.883v-7.557h1.215v13.065h-1.215v-2.434c-.43.769-1.009 1.418-1.736 1.947-.727.53-1.669.795-2.827.795zm8.311-13.373h1.215v2.434c.43-.769 1.009-1.418 1.736-1.947.728-.529 1.67-.794 2.828-.794.794 0 1.505.132 2.133.397.628.265 1.162.636 1.6 1.114.438.478.769 1.046.992 1.704.223.658.335 1.379.335 2.165v7.993h-1.215V21.23c0-1.349-.347-2.429-1.042-3.241-.695-.811-1.687-1.217-2.977-1.217-.628 0-1.207.115-1.736.346-.529.231-.992.551-1.389.961-.397.41-.707.901-.93 1.473-.223.572-.335 1.2-.335 1.883v7.557h-1.215V15.927zM110.76 29.3c-.909 0-1.757-.184-2.542-.551-.785-.367-1.468-.858-2.046-1.473-.579-.615-1.034-1.332-1.364-2.152-.331-.82-.496-1.691-.496-2.613v-.051c0-.922.165-1.793.496-2.613.331-.82.785-1.546 1.364-2.178.579-.632 1.261-1.131 2.046-1.499.785-.367 1.633-.551 2.542-.551.595 0 1.137.064 1.625.192s.938.303 1.352.525c.413.222.79.478 1.129.769.339.29.657.598.955.922l-.868.922c-.546-.581-1.149-1.084-1.811-1.511-.661-.427-1.463-.64-2.406-.64-.728 0-1.401.145-2.022.436-.62.29-1.158.687-1.612 1.191-.455.504-.814 1.097-1.079 1.78s-.397 1.418-.397 2.203v.051c0 .786.136 1.524.409 2.216.273.692.645 1.294 1.116 1.806.471.512 1.021.914 1.649 1.204.628.29 1.306.435 2.034.435.893 0 1.691-.209 2.394-.628.703-.418 1.319-.935 1.848-1.55l.843.769c-.645.751-1.377 1.371-2.195 1.857-.818.488-1.806.732-2.964.732zm6.501-19.009h1.215v8.07c.43-.769 1.009-1.418 1.736-1.947.728-.529 1.67-.794 2.828-.794.794 0 1.505.132 2.133.397.628.265 1.162.636 1.6 1.114.438.478.769 1.046.992 1.704.223.658.335 1.379.335 2.165v7.993h-1.215V21.23c0-1.349-.347-2.429-1.042-3.241s-1.687-1.217-2.977-1.217c-.628 0-1.207.115-1.736.346-.529.231-.992.551-1.389.961-.397.41-.707.901-.93 1.473-.223.572-.335 1.2-.335 1.883v7.557h-1.215V10.291zm19.175 17.472c1.207 0 2.299-.201 3.274-.602.976-.401 1.802-.948 2.48-1.64.678-.692 1.203-1.503 1.575-2.434.372-.931.558-1.934.558-3.01v-.051c0-1.059-.186-2.058-.558-2.997-.372-.939-.897-1.759-1.575-2.459-.678-.7-1.505-1.255-2.48-1.665-.976-.41-2.067-.615-3.274-.615h-4.49v15.473h4.49zm-5.779-16.703h5.779c1.356 0 2.6.226 3.733.679 1.133.453 2.108 1.08 2.927 1.883.819.803 1.451 1.746 1.898 2.831.446 1.084.67 2.259.67 3.522v.051c0 1.264-.223 2.442-.67 3.535-.446 1.093-1.079 2.041-1.898 2.844-.819.803-1.794 1.435-2.927 1.896-1.133.461-2.377.692-3.733.692h-5.779V11.06zm20.961 17.061c.645 0 1.257-.098 1.836-.295.579-.196 1.087-.47 1.525-.82.438-.35.785-.773 1.042-1.268.256-.495.384-1.042.384-1.64v-1.486c-.529-.137-1.149-.269-1.86-.397-.711-.128-1.521-.192-2.431-.192-1.339 0-2.369.278-3.088.833-.719.555-1.079 1.294-1.079 2.216v.051c0 .478.099.901.298 1.268.198.367.467.679.806.935s.732.453 1.178.589c.446.138.909.206 1.389.206zm-.075 1.179c-.595 0-1.182-.085-1.761-.256-.579-.171-1.1-.427-1.563-.769-.463-.342-.839-.769-1.129-1.281-.289-.512-.434-1.11-.434-1.793v-.051c0-.683.136-1.289.409-1.819.273-.529.649-.973 1.129-1.332.48-.359 1.058-.632 1.736-.82.678-.188 1.43-.282 2.257-.282.893 0 1.662.051 2.307.154.645.102 1.273.239 1.885.41v-.564c0-1.332-.368-2.331-1.104-2.997s-1.757-.999-3.063-.999c-.777 0-1.488.098-2.133.295-.645.196-1.257.448-1.836.756l-.446-1.102c.695-.342 1.397-.615 2.108-.82.711-.205 1.505-.307 2.381-.307 1.736 0 3.067.478 3.993 1.435.86.888 1.29 2.118 1.29 3.689v8.146h-1.191v-2.178c-.215.307-.475.611-.781.909-.306.299-.657.564-1.054.794-.397.231-.847.418-1.352.564-.502.145-1.052.218-1.648.218zm8.311-13.373h1.215v3.715c.248-.581.562-1.119.943-1.614.38-.495.81-.918 1.29-1.268s1.005-.615 1.575-.794c.571-.179 1.17-.26 1.798-.243v1.383h-.124c-.728 0-1.422.141-2.084.423-.661.282-1.244.7-1.749 1.255-.504.555-.905 1.238-1.203 2.049-.298.811-.446 1.746-.446 2.805v5.354h-1.215V15.927zm7.84-5.636h1.215v14.013l7.838-8.377h1.612l-5.531 5.79 5.705 7.275h-1.538l-5.01-6.379-3.076 3.202v3.177h-1.215V10.291zm11.982 0h1.215v18.701h-1.215V10.291zm5.459 22.877c-.48 0-.91-.047-1.29-.141-.38-.094-.785-.235-1.215-.423l.422-1.102c.331.171.653.295.967.371.314.077.711.115 1.191.115.331 0 .637-.051.918-.154.281-.102.546-.278.794-.525.248-.248.488-.568.719-.961.232-.393.463-.871.695-1.435l-6.077-12.988h1.414l5.258 11.682 4.564-11.682h1.339l-5.482 13.526c-.562 1.366-1.178 2.327-1.848 2.882-.67.557-1.459.835-2.369.835zm0 0"></path>
+            </defs>
+            <use xlink:href="#b" overflow="visible" fill-rule="evenodd" clip-rule="evenodd"></use>
+          </g>
+        </svg>
       </a>
-    </div>
-    <div id="head-mobile"></div>
-    <div class="buttonSmall"></div>
-          <ul class="right">
-              
-                
-
-                
-                  <li class="has-dropdown  has-sub"><span class="submenu-button"></span>
-                    <a href="/index.html">Product</a>
-                    <ul class="dropdown">
-                      
-                        <li>
-                          
-                          <a href="/features/index.html">Features</a>
-                          
-                        
-                        </li>
-                      
-                        <li>
-                          
-                          <a href="/enterprise.html">Enterprise</a>
-                          
-                        
-                        </li>
-                      
-                        <li class="has-sub"><span class="submenu-button"></span>
-                          
-                          <a href="/usecases/index.html">Use Cases</a>
-                          
-                        
-                          <ul class="dropdown">
-                            
-                            <li>
-                              <a href="/usecases/riskmitigation.html">Risk Mitigation</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/usecases/feedbackloop.html">Feedback Loop</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/usecases/scale.html">Feature Flagging at Scale</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/usecases/longtermcontrol.html">Long-Term Control</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/usecases/productdev.html">Empowered Product Dev</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/usecases/webmobilesync.html">Sync Web &amp; Mobile Apps</a>
-                            </li>
-                            
-                          </ul>
-                         
-                        </li>
-                      
-                        <li class="has-sub"><span class="submenu-button"></span>
-                          
-                          <a href="/casestudies/behalf.html">Case Studies</a>
-                          
-                        
-                          <ul class="dropdown">
-                            
-                            <li>
-                              <a href="/casestudies/apiary.html">Apiary</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/casestudies/appdirect.html">AppDirect</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/casestudies/behalf.html">Behalf</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/casestudies/circleci.html">CircleCI</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/casestudies/lanetix.html">Lanetix</a>
-                            </li>
-                            
-                            <li>
-                              <a href="/casestudies/upserve.html">Upserve</a>
-                            </li>
-                            
-                          </ul>
-                         
-                        </li>
-                      
-                        <li>
-                          
-                          <a href="/buildbuy.html">Build or Buy?</a>
-                          
-                        
-                        </li>
-                      
-                        <li>
-                          
-                          <a href="/guide/index.html">Feature Flagging Guide</a>
-                          
-                        
-                        </li>
-                      
-                        <li>
-                          
-                          <a href="/contact.html">Demo &amp; Contact</a>
-                          
-                        
-                        </li>
-                      
-                    </ul>
-                  </li>
-                
-              
-                
-
-                
-                  <li class="">
-                    <a href="/pricing.html">Pricing</a>
-                  </li>
-                
-              
-                
-
-                
-                  <li class="has-dropdown  has-sub"><span class="submenu-button"></span>
-                    <a href="/developers.html">Developers</a>
-                    <ul class="dropdown">
-                      
-                        <li>
-                          
-                          <a href="/performance.html">Performance</a>
-                          
-                        
-                        </li>
-                      
-                        <li>
-                          
-                          <a href="/developers.html">Setup &amp; SDKs</a>
-                          
-                        
-                        </li>
-                      
-                        <li>
-                          
-                          <a href="http://docs.launchdarkly.com" target="_blank">Documentation</a>
-                          
-                        
-                        </li>
-                      
-                        <li>
-                          
-                          <a href="http://apidocs.launchdarkly.com" target="_blank">API</a>
-                          
-                        
-                        </li>
-                      
-                        <li>
-                          
-                          <a href="/start/index.html">Getting Started</a>
-                          
-                        
-                        </li>
-                      
-                    </ul>
-                  </li>
-                
-              
-                
-
-                
-                  <li class="">
-                    <a href="/faq.html">FAQ</a>
-                  </li>
-                
-              
-              <li><a target="_blank" href="http://blog.launchdarkly.com">Blog</a></li>
-              <li class="marginSignup"><a class="signNav" href="#signup">Sign Up</a></li>
-              <li><a class="signNav" href="https://app.launchdarkly.com">Login</a></li>
-
-          </ul>
-  </nav>
-</header>
-<!-- Modal -->
-<div id="signup" class="modalDialog">
-    <div>
-      <a href="#close" title="Close" class="close">X</a>
-      <img class="squareLogo" alt="LaunchDarkly Square Logo" src="/images/ld_logo_gradient.png">
-      <div class="trialHeader">Free 30 Day Trial</div>
-      <form class="signupForm">
-        <div class="errorMessage"></div>
-        <div class="emailCTA">
-          <input id="emailInput" type="text" name="email" placeholder="Email" autocomplete="">
-        </div>
-        <div class="emailCTA adjusted">
-          <input id="passwordInput" type="password" name="password" placeholder="Password">
-          <button type="submit" class="emailEnter" disabled="disabled">Sign Up Free</button>
-        </div>
-      </form>
-
-      <p>Enter an email and password to begin your free trial!<br>By doing so, you agree to LaunchDarkly's <a href="/terms.html" target="_blank">Terms</a> and <a href="/privacy.html" target="_blank">Privacy</a> policies.</p><br>
-      <p><b>Trying to join your team?</b><br>Ask your team admin to invite you to your team's account.</p>
-    </div>
-</div>
-<!-- /Modal -->
-<!-- Modal Feature Flags -->
-<div id="featureflags" class="modalDialog">
-    <div>	<a href="#close" title="Close" class="close">X</a>
-      <div class="definitionHeader">LaunchDarkly's Feature Flags</div>
-      <div class="definition">Feature flags/toggles/controls are a software development best practice of gating functionality, used by companies like Google and Facebook. <br><br>  Functionality can be deployed “off”, then turned on via the feature flag, separate from deployment. <br><br>  LaunchDarkly allows you to set up flags in minutes to manage the <a href="http://blog.launchdarkly.com/feature-flag-driven-development/" target="_blank">entire lifecycle of a feature.</a></div>
-  </div>
-</div>
-<!-- /Modal -->
-<!-- CONTENT FILL WHEN SCROLL = 0 -->
-<div class="header-fill"></div>
-
-    <div id="main" role="main">
-      <div class="row topSpace">
- <div class="contentContainer">
-  <div class="large-12 columns section-3">
-    <div class="headerText">Privacy Policy</div>
-    <div class="largeLegal">By using the launchdarkly.com web site (“Service”), or any services of Catamorphic, Co (“Catamorphic”), you are agreeing to be bound by the following privacy policy (“Privacy Policy”).</div>
-    <div class="smallLegal">IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY, ITS AFFILIATES AND ALL USERS WHO ACCESS OUR SERVICES THROUGH YOUR ACCOUNT TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS “YOU” OR “YOUR” SHALL REFER TO SUCH ENTITY, ITS AFFILIATES AND USERS ASSOCIATED WITH IT. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.</div>
-    <div class="bodyLegal">
-      <p class="pLegal">1. General Information</p>
-      <ul>
-        <li>We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:</li>
-        <li>It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.</li>
-        <li>We transfer information about you if Catamorphic is acquired by or merged with another company. In this event, Catamorphic will notify you before information about you is transferred and becomes subject to a different privacy policy.</li>
-      </ul>
-      <p class="pLegal">2.  Information Gathering and Usage</p>
-      <ul>
-        <li>When you register for Catamorphic we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.</li>
-        <li>Catamorphic uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.</li>
-      </ul>
-      <p class="pLegal">3. Cookies</p>
-      <ul>
-        <li>A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.</li>
-        <li>Cookies are required to use the Catamorphic service.</li>
-     </ul>
-      <p class="pLegal">4. Cookies</p>
-      <ul>
-        <li>Catamorphic uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Catamorphic. Although Catamorphic owns the code, databases, and all rights to the Catamorphic application, you retain all rights to your data.</li>
-     </ul>
-      <p class="pLegal">5. Disclosure</p>
-      <ul>
-        <li>Catamorphic may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.</li>
-     </ul>
-      <p class="pLegal">6. Changes</p>
-      <ul>
-        <li>Catamorphic may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Catamorphic primary account holder account or by placing a prominent notice on our site.</li>
-     </ul>
-      <p class="pLegal">Questions</p>
-      <ul>
-        <li>Any questions about this Privacy Policy should be sent to <a href="mailto:support@launchdarkly.com">support@launchdarkly.com</a></li>
-     </ul>
-    </div>
-  </div>
- </div>  
-</div>
-    </div>
-
-    
-<div id="footer">
-  <div class="three spacing"></div>
-  <div class="row rowFooter">
-    <div class="contentContainer">
-    <div class="large-3 medium-3 columns">
-      <h1>
-        <a href="index.html">
-          <img alt="LaunchDarkly Smaller Logo" class="footerLogo" src="/images/logo.png">
-        </a>
-      </h1>
-      <ul>
-        <li class="address"><a href="https://www.google.com/maps/place/405+14th+St+%231400,+Oakland,+CA+94612/@37.8036761,-122.271133,18.32z/data=!4m5!3m4!1s0x808f80b3f7622d9b:0x1841000008539c46!8m2!3d37.80372!4d-122.270341" target="_blank">405 14th St.<br>Oakland, CA 94612</a></li>
-        <li><a href="mailto:sales@launchdarkly.com?Subject=LaunchDarkly%20Sales&amp;20Request" target="_top">sales@launchdarkly.com</a></li>
-        <div class="spacing"></div>
-        <li><a href="/contact.html">Request a Demo</a></li>
-      </ul>
-      <div class="spacing"></div>
-      <ul class="socials">
-        <li>
-          <a href="https://www.linkedin.com/company/launchdarkly" target="_blank">
-            <i class="fa fa-linkedin"></i>
-          </a>
-        </li>
-        <li>
-          <a href="http://twitter.com/launchdarkly" target="_blank">
-            <i class="fa fa-twitter"></i>
-          </a>
-        </li>
-        <li>
-          <a href="http://facebook.com/launchdarkly" target="_blank">
-            <i class="fa fa-facebook"></i>
-          </a>
-        </li>
-        <li>
-          <a href="https://plus.google.com/+Launchdarkly1/posts" target="_blank">
-            <i class="fa fa-google-plus"></i>
-          </a>
-        </li>
-      </ul>
-      <p>©2017 Catamorphic Co.<br>All Rights Reserved.</p>
-    </div>
-    <div class="large-3 medium-3 columns">
-      <div class="spacing"></div>
-      <div class="links">
-        <h4>The Company</h4>
-        <ul>
-          <li><a href="/careers.html">Careers (We're hiring!)</a></li>
-          <li><a href="http://blog.launchdarkly.com/">Blog</a></li>
-          <li><a href="/team.html">Team</a></li>
-          <li><a href="/community.html">Community</a></li>
-          <li><a href="/press.html">Press</a></li>
-          <li><a href="/privacy.html">Privacy</a></li>
-          <li><a href="/terms.html">Terms of Service</a></li>
-        </ul>
-      <div class="spacing"></div>
-        <h4>Benefits</h4>
-        <ul>
-          <li><a href="/usecases">Use Cases</a></li>
-          <li><a href="http://blog.launchdarkly.com/feature-flag-driven-releases/" target="_blank">Release Management</a></li>
-          <li><a href="http://blog.launchdarkly.com/enterprise-requirements-for-managing-feature-flags/" target="_blank">Enterprise Benefits</a></li>
-          <li><a href="http://blog.launchdarkly.com/feature-branching-using-feature-flags/" target="_blank">Feature Branching</a></li>
-        </ul>
+      <div class="navbar-burger" data-target="headerNav">
+        <span></span>
+        <span></span>
+        <span></span>
       </div>
     </div>
-    <div class="large-3 medium-3 columns">
-      <div class="spacing"></div>
-      <div class="links">
-        <h4>Functionality</h4>
-        <ul>
-          <li><a href="/features/index.html">Features</a></li>
-          <li><a href="/enterprise.html">Enterprise Options</a></li>
-          <li><a href="/performance.html">Real-Time Performance</a></li>
-          <li><a href="http://blog.launchdarkly.com/launched-multivariate-feature-flags/" target="_blank">Multivariate</a></li>
-          <li><a href="http://blog.launchdarkly.com/launched-custom-targeting-rules/" target="_blank">Custom Rules</a></li>
-          <li><a href="http://blog.launchdarkly.com/launched-custom-roles/" target="_blank">Roles &amp; Permissions</a></li>
-          <li><a href="http://docs.launchdarkly.com/docs/the-audit-log" target="_blank">Audit Log</a></li>
-          <li><a href="http://blog.launchdarkly.com/launched-prerequisites-for-flag-dependencies/" target="_blank">Prerequisites</a></li>
-        </ul>
-        <div class="spacing"></div>
-        <h4>Integrations</h4>
-        <ul>
-          <li><a href="/microsoft">Microsoft + LaunchDarkly</a></li>
-          <li><a href="http://blog.launchdarkly.com/launched-atlassian-bitbucket-pipelines-and-hipchat-integrations/" target="_blank">Atlassian + LaunchDarkly</a></li>
-          <li><a href="http://docs.launchdarkly.com/docs/webhooks" target="_blank">Webhooks</a></li>
-          <li><a href="http://docs.launchdarkly.com/docs/hipchat" target="_blank">HipChat</a> / <a href="http://docs.launchdarkly.com/docs/slack" target="_blank">Slack</a></li>
-          <li><a href="http://blog.launchdarkly.com/launched-event-stream-api/" target="_blank">Firehose</a></li>
-        </ul>
+    <div class="navbar-menu" id="headerNav">
+      <div class="dropdown-background">
+        <span class="arrow"></span>
       </div>
-      <div class="spacing"></div>
-    </div>
-    <div class="large-3 medium-3 columns">
-      <div class="spacing"></div>
-      <h4>Docs &amp; Support</h4>
-      <ul>
-        <li><a href="http://apidocs.launchdarkly.com" target="_blank">API Docs</a></li>
-        <li><a href="http://docs.launchdarkly.com/" target="_blank">Documentation</a></li>
-        <li><a href="https://support.launchdarkly.com">Support &amp; FAQs</a></li>
-        <li><a href="http://status.launchdarkly.com/" target="_blank">Server Status</a></li>
-      </ul>
-      <div class="spacing"></div>
-      <h4>Resources</h4>
-      <ul>
-          <li><a href="/guide/index.html">Feature Flagging Guide</a></li>
-          <li><a href="http://blog.launchdarkly.com/buying-vs-building-a-feature-flagging-system/" target="_blank">Build vs. Buying Feature Flags</a></li>
-          <li><a href="/start/index.html">Getting Started</a></li>
-          <li><a href="/tobecontinuous/index.html">To Be Continuous Podcast</a></li>
-          <li><a href="/featureflags.html">Overview &amp; Benefits</a></li>
-          <li><a href="/featureflags/resources.html">General Resources</a></li>
-      </ul>
-    </div>
-  </div>
-  <div class="two spacing"></div>
- </div>
-</div>
-
-<!-- Elev.io Script -->
-
-<script>
-var _elev = window._elev || {};(function() {var i,e;i=document.createElement("script"),i.type='text/javascript';i.async=1,i.src="https://static.elev.io/js/v3.js",e=document.getElementsByTagName("script")[0],e.parentNode.insertBefore(i,e);})();
-_elev.account_id = '57029d03b54fd';
-_elev.disabledModules = ['articles']; 
-</script>
-
-<!-- GA Tag Enhancement Suite-->
-<script type="text/javascript">
-var dataLayer = dataLayer || [];
-dataLayer.push({"getSetReff" : "v1.0", "setDomain" : ".launchdarkly.com"});
-</script>
-
-<script type="text/javascript" src="/javascripts/getSetReff.min.js"></script>
-
-<script type="text/javascript">
-getSetReff();
-</script>
-
-<!-- Intercom Script -->
-
-<script>
-  window.intercomSettings = {
-    app_id: "lm0ulu3m"
-  };
-</script>
-<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/lm0ulu3m';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
-
+      <div class="navbar-start" id="navbar">
+        
+        
+  <div class="navbar-item has-dropdown is-hoverable">
+    <span class="navbar-link">
+      Product
+    </span>
+    <div class="navbar-dropdown">
     
+      
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/product/">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/illustrations/small/Overview.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          Product Overview
+        </span>
+        
+          <span class="navbar-item-post">
+            Learn about the LaunchDarkly Feature Management Platform.
+          </span>
+        
+      </span>
+    </a>
   
 
 
+    
+      
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/features/feature-flags/">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/illustrations/small/FeatureFlags.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          Feature Flags
+        </span>
+        
+          <span class="navbar-item-post">
+            See how LaunchDarkly helps you create, organize and maintain feature flags at any scale.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+      
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/features/sdk">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/illustrations/small/SDKs.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          SDKs
+        </span>
+        
+          <span class="navbar-item-post">
+            Explore our supported languages and SDKs.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+      
+  
+    
+    <a class="navbar-item" href="https://apidocs.launchdarkly.com/" target="_blank" rel="noopener noreferrer">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/illustrations/small/APIs.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          APIs
+        </span>
+        
+          <span class="navbar-item-post">
+            Learn about our API-first approach to building product features.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+      
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/integrations/">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/illustrations/small/Integrations.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          Integrations
+        </span>
+        
+          <span class="navbar-item-post">
+            Connect LaunchDarkly with the tools you use every day.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+      
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/features/analytics/">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/illustrations/small/Analytics.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          Analytics
+        </span>
+        
+          <span class="navbar-item-post">
+            Learn how to gain visibility across all your features.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+      
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/features/enterprise-grade-architecture/">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/illustrations/small/Architecture.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          Enterprise-Grade Architecture
+        </span>
+        
+          <span class="navbar-item-post">
+            Explore the architecture behind the LaunchDarkly platform.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+    </div>
+  </div>
+
+
+        
+        
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/use-cases/">
+      
+      <span>
+        <span class="navbar-item-name">
+          Use Cases
+        </span>
+        
+      </span>
+    </a>
+  
+
+
+        
+        
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/pricing/">
+      
+      <span>
+        <span class="navbar-item-name">
+          Pricing
+        </span>
+        
+      </span>
+    </a>
+  
+
+
+        
+        
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/case-studies/">
+      
+      <span>
+        <span class="navbar-item-name">
+          Customers
+        </span>
+        
+      </span>
+    </a>
+  
+
+
+        
+        
+  <div class="navbar-item has-dropdown is-hoverable">
+    <span class="navbar-link">
+      Resources
+    </span>
+    <div class="navbar-dropdown">
+    
+      
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/request-a-demo/">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/menu/support/Toggle_v2.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          Request a Demo
+        </span>
+        
+          <span class="navbar-item-post">
+            See how feature management can become a part of your dev cycles.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+      
+  
+    
+    <a class="navbar-item" href="https://docs.launchdarkly.com/docs/getting-started" target="_blank" rel="noopener noreferrer">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/menu/resources/Documentation.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          Documentation
+        </span>
+        
+          <span class="navbar-item-post">
+            Learn about using LaunchDarkly, APIs &amp; SDKs, or getting started with your first feature flag.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+      
+  
+    
+    <a class="navbar-item" href="https://launchdarkly.com/blog" target="_blank" rel="noopener noreferrer">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/menu/resources/Pencil.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          LaunchDarkly Blog
+        </span>
+        
+          <span class="navbar-item-post">
+            Read the latest use-cases, customer stories, and more from our team.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+      
+  
+    
+    <a class="navbar-item" href="#get-help">
+      
+        <span class="navbar-item-pre">
+          <img data-deferred-src="/img/menu/support/Help.svg">
+        </span>
+      
+      <span>
+        <span class="navbar-item-name">
+          Get Help
+        </span>
+        
+          <span class="navbar-item-post">
+            Need help finding something? We’re here to help.
+          </span>
+        
+      </span>
+    </a>
+  
+
+
+    
+    </div>
+  </div>
+
+
+        
+      </div>
+      <div class="navbar-end">
+        <a id="free-trial-label" class="navbar-item modal-trigger" href="#free-trial" data-target="signup" data-track-event="Start Trial Button Clicked">
+          <span class="navbar-item-name">
+            START TRIAL
+          </span>
+        </a>
+        <a class="navbar-item" href="https://app.launchdarkly.com">
+          <span class="navbar-item-name">
+            Sign In
+          </span>
+          <span class="cta-arrow"><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+              <path d="M85 277.375h259.704L225.002 397.077 256 427l171-171L256 85l-29.922 29.924 118.626 119.701H85v42.75z"></path>
+            </svg></span>
+        </a>
+      </div>
+    </div>
+  </nav>
+</header>
+
+    
+<div class=" section is-clipped bg-gradient-reverse" style="position:absolute;top:0;height:50rem;width:100%;"></div>
+<div class="section is-large" style="padding-bottom: 4.5rem;">
+  <div class="container content hero">
+    <div class="section-title">
+      <h1 class="title">Terms &amp; Policies</h1>
+      <p class="text-large">
+        We take privacy policies seriously and we value transparency.
+      </p>
+    </div>
+  </div>
+</div>
+<section class="section is-large" style="padding-top: 0;">
+  <div class="container">
+    <div class="columns is-variable is-4">
+      <div class="column is-narrow">
+        <aside class="menu">
+  <ul class="menu-list">
+    
+    
+      <li>
+        <a href="https://launchdarkly.com/policies/terms-of-service">Terms of Service</a>
+      </li>
+    
+      <li>
+        <a href="https://launchdarkly.com/policies/privacy" class="is-active">Privacy Policy</a>
+      </li>
+    
+      <li>
+        <a href="https://launchdarkly.com/policies/privacy-shield-notice">Privacy Shield Notice</a>
+      </li>
+    
+      <li>
+        <a href="https://launchdarkly.com/policies/subprocessors">List of Subprocessors</a>
+      </li>
+    
+      <li>
+        <a href="https://launchdarkly.com/policies/end-of-life-policy">End of Life Policy</a>
+      </li>
+    
+      <li>
+        <a href="https://launchdarkly.com/policies/code-of-conduct">Code of Conduct</a>
+      </li>
+    
+      <li>
+        <a href="https://launchdarkly.com/policies/archives">Archives</a>
+      </li>
+    
+  </ul>
+</aside>
+      </div>
+      <div class="column policies">
+        <section class="section is-large" style="padding-top: 0;">
+  <div class="content text-small">
+    <h2>Privacy Policy</h2>
+    <p>Effective as of March 31, 2018.</p>
+    <p>By using the LaunchDarkly.com website ("service"), or any services of Catamorphic, Co ("Catamorphic"), you are agreeing to be bound by the following privacy policy ("privacy policy"). If you are entering into this agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity, its affiliates and all users who access our services through your account to these terms and conditions, in which case the terms "you" or "your" shall refer to such entity, its affiliates and users associated with it. If you do not have such authority, or if you do not agree with these terms and conditions, you must not accept this agreement and may not use the services.</p>
+    <p>This privacy policy is effective March 31st, 2018. All previous privacy policies are <a href="https://launchdarkly.com/policies/archives">here</a>. When we update our privacy policy, we will provide a changelog that describes the differences between the two.</p>
+    <h3>Who Are We?</h3>
+    <p>LaunchDarkly is a Software-as-a-Service (SaaS) platform provider that serves companies looking to implement feature flags in their overall software development lifecycle. Feature flags allow software developers to change application behavior from outside of the application without redeploying their code. This has a number of benefits including a separation of risks, ability to deliver different experiences in a targeted manner, and the lower administrative burden of software release. LaunchDarkly provides a turnkey robust feature management solution that offers high availability, scalability, and audit control.</p>
+    <p>Because LaunchDarkly customers themselves have customers, language can get very confusing. In this document, we refer to our customers (Companies who utilize our platform in their software) as members (team members). We refer to the customers of those members to be "users" or "end-users". When the generic pronoun "you" is used, it is meant to refer to anyone reading this policy and can generically mean anyone who interacts with our website, a member of our services, or a user of one of our members.</p>
+    <p>This policy largely deals with members, how we keep their data safe, and how we are allowed to use their data. If you are an end-user of one of our member's services, then you should consult their privacy policy instead, as the member policy applies to the information collected instead of this policy. LaunchDarkly collects data from our members about their user under their direction, but we do not have a direct relationship with users themselves.  This policy applies to the data as long as we retain the data.</p>
+    <p>This policy does not cover third party websites, products, or services even if they link to our services—you should consider their own privacy policies carefully. If you disagree with the practices described in this policy, then you should (a) take necessary steps to remove cookies from your computer after leaving our website, and (b) discontinue your use of our services.</p>
+    <h3>How Do We Use Data?</h3>
+    <p>The data we collect depends on how our services are used. We receive some data directly, like when you visit one of our web properties, sign up for a trial, or send us email. Other times, we get data indirectly, like when we record that you visited one of our websites using technologies like cookies. We also get data from third parties, like from our members when they pass data to us to process.</p>
+    <p>The collection and use of data is essential to the value that we provide as a service, as well as improve on the services we provide; but we aim to do our best to keep data safe and secure.</p>
+    <h3>Data We Collect</h3>
+    <ol>
+      <li><strong>Personal Data.</strong> We call data that identifies, or could be used to reasonably identify you as "Personal Data". We collect Personal Data in various ways, like when you register for trial accounts or interact with our sales team. Personal Data does not include data that has been anonymized, psuedonymised, or minimized such that it cannot be reasonably associated with a person.</li>
+      <li><strong>Service Data.</strong> We call data that our members send to us about their users "Service data".  LaunchDarkly's core service allows our members to submit details about their end-users to enrich their experiences through our platform. Our members have a responsibility to understand the data they send to us and to take the appropriate disclosures, precautions, and responsibilities regarding the content of the service data they provide to us.</li>
+      <li>
+        <strong>Other Data.</strong> We call any other data that is not Personal Data or Service Data "Other Data". We collect Other Data through a variety of sources. One of those sources are cookies and other technologies that record data about the use of our website. Other data that we may collect include:
+          <ul>
+            <li><strong>Browser and device data</strong>, such as IP address, device type, operating system and internet browser type, screen resolution, operating system name and version, device manufacturer and model, language, plug-ins, add-ons and the version of the Services you are using;</li>
+            <li><strong>Transaction data</strong>, such as purchases, purchase amount, date of purchase, and payment method that you have submitted to us as a course of ordering our services;</li>
+            <li><strong>Cookie and tracking technology data</strong>, such as time spent on the Services, pages visited, language preferences, and other anonymous traffic data; and</li>
+            <li><strong>Company data</strong>, such as a company's legal structure, product and service offerings, jurisdiction, company records, and information submitted to us by you in interacting with our sales team.</li>
+          </ul>
+      </li>
+    </ol>
+    <h3>How We Use Data</h3>
+    <p>We collect information about our customers for the following reasons and not for other reasons:</p>
+    <ol>
+      <li>
+        <strong>Personal Data.</strong> We and our service providers use Personal Data to provide our Service. Examples of how we use personal data include:
+        <ul>
+          <li>Enumerating you and your team for the purposes of access to our platform</li>
+          <li>To deliver information to your subscribed applications in order to provide service</li>
+          <li>To respond to inquiries, send service notices, and provide customer support</li>
+          <li>For audits, regulatory purposes, and compliance with industry standards</li>
+          <li>To develop new products</li>
+          <li>To send marketing communications</li>
+          <li>To improve or modify our services</li>
+          <li>To conduct analysis and develop insights that enable us to operate, protect, make informed decisions and report on our business.</li>
+        </ul>
+      </li>
+      <li><strong>Service Data.</strong> We utilize service data for no purpose except to deliver the functionality that our platform provides to our members.</li>
+      <li><strong>Other data.</strong> We utilize other data in a number of ways, but we comply with applicable law and contractual agreements. In some areas, like the European Economic Area Countries, we may be required to treat Other Data like Personal data. In areas where this is the case, we will process this data as if it were Personal data under our privacy policy.</li>
+    </ol>
+    <h3>How We Disclose Data</h3>
+    <p>LaunchDarkly does not sell Personal Data or Service Data to marketers or unaffiliated third parties. Data collected by LaunchDarkly will only used for the purposes of furthering, improving, and expanding the LaunchDarkly business. We share Personal and Service Data with the following third parties:</p>
+    <ol>
+      <li><strong>To LaunchDarkly Service Providers.</strong> In order to deliver the services that make up the LaunchDarkly Product, we rely on service providers (e.g. infrastructure providers, and affiliated) to provide key functionality both in the operation of our product as well as the operation of the LaunchDarkly company.</li>
+      <li><strong>To our members.</strong> We process and collate service data that is provided to us by our members in order to deliver the services to our members.</li>
+      <li><strong>To third parties.</strong> In the event of a reorganization, merger, sale, joint venture, assignment, transfer of any part of our business to third parties.</li>
+      <li><strong>Safety, Legal and Law Enforcement.</strong> We use and disclose data as we believe necessary under the applicable law, to enforce our own terms and conditions, to protect our rights, privacy, safety, or property, as well as to respond to requests from courts, law enforcement, regulatory agencies, and government authorities, which may include countries outside of your country of residence.</li>
+    </ol>
+    <h3>Security and Notification of Breaches</h3>
+    <p>LaunchDarkly takes security very seriously, and if you have reason to believe that your data or someone elses data is no longer secure, please contact <a href="mailto:security@launchdarkly.com">security@launchdarkly.com</a>.</p>
+    <p>In the event of a security breach, we will take take necessary measures to ensure the continued safety of data and contact affected parties within a reasonable amount of time about the scope and scale of the unauthorized disclosure.</p>
+    <h3>Retention Period</h3>
+    <p>We retain data as necessary to provide the services as described in this policy unless a longer retention is required by law. For personal data, we retain information about you until are no longer a customer, though some data is retained for the purposes of audit. Service data is retained for a period of no more than 30 days, save for data that is required as a part of audit control.</p>
+    <p>The above principals of how we will manage the data, use the data, protect the data, and remove the data will apply for as long as we control the Personal data.</p>
+    <h3>User of Service by Minors</h3>
+    <p>LaunchDarkly's core services are not directed to minors and we request that minors do not provide to us any Personal Data. We rely on our members, when acting in the role of a Data controller, to take responsibility for making sure their users' privacy rights are respected and ensuring that the appropriate disclosures are made about third party collection and use.</p>
+    <h3>Right to Access, View, or Remove Your Information</h3>
+    <p>You have a right to access the personal information we hold about you. Whenever you use our site or LaunchDarkly Services, we strive to make sure that your Personal Information is correct. If that information is wrong, we give you tools and methods to update it quickly or delete it, unless that information is necessary for legal or business purposes. When updating your Personal Information, we may ask you to verify your identity before making changes. We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing new systems or fundamentally changing our existing practice), risk the privacy of others, or would be extremely impractical (e.g. requests concerning information on our backup systems). Because we protect information from accidental or malicious destruction, after data is removed from our servers, it can take some time for that data to be purged.  </p>
+    <p>To request removal of your Personal Information from our site or services, contact us at <a href="mailto:privacy@launchdarkly.com">privacy@launchdarkly.com</a>. LaunchDarkly cares deeply about the sanctity of your data and our privacy team will manage each request on a case by case basis.</p>
+    <p>We totally understand your right to have us stop contacting you. We endeavor to give you the ability to control the way we contact you.  You may use the the links at the bottom of each communication to opt-out of further communications.</p>
+    <p>If you are a user of one of our member's services and need to correct, amend, or delete inaccurate data about you, please contact the member—in this case, they are the data controllers. We will comply with the wishes of our members should they direct us to take action about the modification/removal of collected data. </p>
+    <h3>Jurisdiction</h3>
+    <p>Our services are global and Data (of all classifications) may be stored and processed anywhere where we or one of our service providers has services. We may transfer data to countries outside of your country of residence, which may have different rules applicable to your data. LaunchDarkly will take measures to ensure that any transfers comply with applicable laws and your data remains protected as per this policy. </p>
+    <h3>How Do I contact the LaunchDarkly Data Privacy Officer?</h3>
+    <p>LaunchDarkly's Data Privacy Officer is Tim Wong, and you can contact him at <a href="mailto:privacy@launchdarkly.com">privacy@launchdarkly.com</a>.</p>
+    <h3>Does LaunchDarkly adhere to Privacy Shield?</h3>
+    <p>We're committed to the Privacy Shield principles of notice, choice, accountability, security, data integrity and purpose limitation, access and recourse, and are certified by the U.S. Department of Commerce. LaunchDarkly's Privacy Shield notice can be found <a href="https://launchdarkly.com/policies/privacy-shield-notice">here</a>, which means that we are deemed to provide "adequate" privacy protection which is a requirement for the transfer of personal data under the General Data Protection Regulation (GDPR).  </p>
+    <h3>Is LaunchDarkly compliant with the General Data Protection Regulation (GDPR)?</h3>
+    <p>LaunchDarkly has taken steps to elect a Data Privacy Officer, to ensure that we have adequate data protection policies, procedures, and practices, and has completed Privacy Shield certification.  As of April 2nd, 2018, we believe that we are fully in compliance with the provisions and principles of GDPR. </p>
+    <p>Of course, GDPR isn't just a line in the sand, but a continual journey—LaunchDarkly is committed to adapting to the changing landscape of privacy and renewing its practices as the landscape evolves.</p>
+  </div>
+</section>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+    
+<footer class="section bg-dark bg-static-stars">
+  <div class="container">
+
+    <div class="footerSection">
+        <div class="columns is-multiline is-mobile footer-menu">
+          
+          <div class="column is-3-tablet">
+            <h5 class="title is-5 is-uppercase">Support</h5>
+            <ul>
+              
+              
+              <li class="footerNav-item">
+                <a href="#get-help">Get Help</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/contact-us/">Contact Us</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://docs.launchdarkly.com/docs" target="_blank" rel="noopener noreferrer">Documentation</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://support.launchdarkly.com/hc/en-us" target="_blank" rel="noopener noreferrer">FAQs</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://status.launchdarkly.com/" target="_blank" rel="noopener noreferrer">Status</a>
+              </li>
+              
+            </ul>
+          </div>
+          
+          <div class="column is-3-tablet">
+            <h5 class="title is-5 is-uppercase">Why Us</h5>
+            <ul>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/feature-management/">Feature management</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/benefits/">Benefits</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/how-it-works/">How it Works</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/implementation/">Implementation</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/build-vs-buy/">Build vs Buy</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/security/">Trust &amp; Security </a>
+              </li>
+              
+            </ul>
+          </div>
+          
+          <div class="column is-3-tablet">
+            <h5 class="title is-5 is-uppercase">Learn</h5>
+            <ul>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/case-studies/">Case Studies</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/webinars">Webinars</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/blog" target="_blank" rel="noopener noreferrer">Blog</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://www.heavybit.com/library/podcasts/to-be-continuous/" target="_blank" rel="noopener noreferrer">Podcast</a>
+              </li>
+              
+            </ul>
+          </div>
+          
+          <div class="column is-3-tablet">
+            <h5 class="title is-5 is-uppercase">Company</h5>
+            <ul>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/about-us/">About Us</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/careers/">Careers</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/press-and-media/">Press &amp; Media</a>
+              </li>
+              
+              
+              <li class="footerNav-item">
+                <a href="https://launchdarkly.com/policies/terms-of-service/">Terms &amp; Policies</a>
+              </li>
+              
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+
+    <div class="footerMisc u-margintop-large columns columns--reverse is-variable is-0">
+      <div class="column has-text-right-tablet has-text-centered-mobile">
+        <ul class="social">
+          
+          <li class="social-item">
+            <a href="http://twitter.com/launchdarkly" target="_blank" rel="noopener noreferrer">
+              <img src="" data-deferred-src="/img/footer/twitter.png" alt="Twitter" title="Twitter">
+            </a>
+          </li>
+          
+          <li class="social-item">
+            <a href="https://www.linkedin.com/company/launchdarkly" target="_blank" rel="noopener noreferrer">
+              <img src="" data-deferred-src="/img/footer/linkedin.png" alt="LinkedIn" title="LinkedIn">
+            </a>
+          </li>
+          
+          <li class="social-item">
+            <a href="https://medium.com/@launchdarkly" target="_blank" rel="noopener noreferrer">
+              <img src="" data-deferred-src="/img/footer/medium.png" alt="Medium" title="Medium">
+            </a>
+          </li>
+          
+          <li class="social-item">
+            <a href="http://facebook.com/launchdarkly" target="_blank" rel="noopener noreferrer">
+              <img src="" data-deferred-src="/img/footer/facebook.png" alt="Facebook" title="Facebook">
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+      <div class="column has-text-left">
+        <ul>
+          <li><img class="footer-logo-copyright" data-deferred-src="/img/footer/launchdarkly.png" alt="LaunchDarkly logo">Copyright © 2019 Catamorphic Co.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<div class="modal animated slideInDown" id="modal-signup">
+  <div class="modal-background"></div>
+  <div class="modal-content">
+    <div class="section is-medium">
+      <div class="container">
+        <h2 class="title is-2">Start Your 30-Day Trial</h2>
+        <p>
+          Your 30-day trial begins as soon as you sign up. We'll get you started with a quick start guide within the
+          app.
+        </p>
+        <p class="u-margintop-medium">
+          You'll see how easy it is to manage the whole feature lifecycle from concept to launch to control.
+        </p>
+        <form class="u-margintop-medium" id="signup-form-modal">
+          <div class="form-error"></div>
+          <div class="field field-group-email">
+            <div class="sign-up-label">Email address</div>
+            <input class="input is-large is-subtle" placeholder="Work Email Address" type="email" name="username">
+            <span class="error"></span>
+          </div>
+          <div class="field field-group-password u-margintop-medium">
+            <div class="sign-up-label password">Password</div>
+            <input class="input is-large is-subtle" type="password" name="password" placeholder="Password">
+            <input id="utm_source" type="hidden" name="utm_source" value="">
+            <input id="utm_medium" type="hidden" name="utm_medium" value="">
+            <input id="utm_campaign" type="hidden" name="utm_campaign" value="">
+            <input id="utm_content" type="hidden" name="utm_content" value="">
+            <input id="utm_term" type="hidden" name="utm_term" value="">
+            <span class="error"></span>
+          </div>
+          
+          <div class="captcha" data-sitekey="6LeYsGwUAAAAAMmARXM1TNAZkaDzDPjdyVYRf4ma" data-size="invisible" data-badge="bottomleft"></div>
+          
+          <div class="control u-margintop-medium">
+            <button class="button is-primary is-large" id="start-trial-button">
+              Start my trial now
+              <span class="cta-arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+                  <path d="M85 277.375h259.704L225.002 397.077 256 427l171-171L256 85l-29.922 29.924 118.626 119.701H85v42.75z"></path>
+                  </svg>
+              </span>
+            </button>
+          </div>
+          <p class="help u-margintop-medium">
+            By clicking "Start My Trial Now", you agree to LaunchDarkly's <a href="https://launchdarkly.com/policies/terms-of-service/" target="_blank" rel="noopener noreferrer">Terms</a> and <a href="https://launchdarkly.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policies</a>.
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+  <button class="modal-close is-large" aria-label="close"></button>
+</div>
+
+    
+    <script src="https://launchdarkly.com/site.20a9f6.js"></script>
+    
+  
 </body></html>
