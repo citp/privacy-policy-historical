@@ -1,83 +1,57 @@
-> *The following text is extracted and transformed from the holyspiritspeaks.org privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130181443id_/https%3A//www.holyspiritspeaks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holyspiritspeaks.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503100508id_/https%3A//www.holyspiritspeaks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GOSPEL OF THE DESCENT OF THE KINGDOM
 
-Welcome to the website of The Church of Almighty God. The Church of Almighty God is very concerned with your privacy, so we have covered in this Privacy Policy how we collect, use, and store your information. Prior to visit and use this website, we ask that you familiarize yourself with the Privacy Policy. If you visit and use this website, it indicates that you have already read, understood, accepted, and agreed with the Privacy Policy.
+Welcome to the Website of The Church of Almighty God. The Church of Almighty God is very concerned with your privacy, so we have regulated in this Privacy Policy how we collect, treat and transfer your information and how you can exercise your rights, in compliance with the regulations in this area.
 
-**1\. The information we collect:**
+The User guarantees that the data sent or provided are true, accurate, complete and up to date, being responsible for any direct or indirect damage or harm that may be caused as a consequence of the breach of this obligation. In the event that the data provided belonged to a third party, the User guarantees that he or she has informed said third party of the aspects contained in this Privacy Policy and has obtained prior written authorization to provide his or her data to The Church of Almighty God for the purposes indicated.
 
-We collect the following information when you visit this website:
+**1\. Who is the data controller for the collection and processing of the User’s personal data?**
 
-1) The email address and name you fill in when contacting us through the email contact feature of our websites or using the comment function and the forum.
+The personal data collected through the present Website are controlled by The Church of Almighty God (147-54 Ash Avenue, Flushing, New York 11355, US, EIN: 37-1820870), as owner of the Website,
 
-2) Access logs of the web server when you are visiting this website.
+**2\. What is the purpose of processing the User’s personal data?**
 
-3) Google Analytics will place cookies on the browser of your device and collect related information for traffic statistics.
+The Church of Almighty God will collect your name, surname and e-mail address through the “Feedback” section, and all the User’s personal data shared through the online forum.
 
-The web server and Google Analytics (<http://www.google.com/analytics/>) collect the following information:
+The Church of Almighty God will process the data provided in these sections for the following purposes:
 
-(i) Device information. Non-personal information of the computers, mobile devices and other devices you use to visit our websites, such as IP address, GPS, unique device identifiers, browser type, browser language.
+– Management of queries, questions and/or requests for proposals.
 
-(ii) Browsing information. The way you arrive at this website (google search, shared link from Facebook or typing in the URL directly) and the log of browsing this website, including the content you view, the time you stay on each page, and the last webpage you browse.
+– Exchange comments using the online forum.
 
-(iii) The related information that Google Analytics collects by cookies. Please refer to “Cookies and similar technologies” (<http://www.google.com/intl/zh-CN/policies/privacy/>).
+**3\. What is the legitimacy of the processing of the User’s personal data?**
 
-**2\. How we use the information we collect:**
+The legal basis for the processing of User’s personal data would be the “consent” given by the User by explicitly accepting this Privacy Policy, accepting the “check box”, made available on each of the data collection forms referred to above.
 
-The information we collect is to provide excellent quality service to all of our users and is not used for any other purpose.
+**4\. How long will we keep the User’s personal data?**
 
-1) Email Communication. We record your email information only in order to contact you via email.
+The Church of Almighty God will keep the personal data provided for the time necessary to respond to the request made by the User.
 
-2) Statistical Analysis. We learn how users use our websites by creating statistics from Nginx Httpd access logs and combining them with Google Analytics.
+**5\. Which third parties will User’s personal data be communicated to?**
 
-We will analyze the information including the daily number of visitors of the websites (IP address numbers) or the number in a period of time, the number of page views, time on each page, the website bounce rate, the user geography distribution, the percentage of access devices, the browser preferences, how the users get to our websites (by typing the address directly, by searching, or by clicking links on third parties like Facebook and Twitter) and the percentage. This allows us to analyze site traffic, improve the user experience accordingly, and promote our sites (SEO and promotion on the third platforms like Facebook and Twitter).
+The data will not be communicated to third parties except, where appropriate, to competent authorities in the exercise of their functions. Thus, the personal data provided by the User on the Website may be communicated to public organizations, courts and other administrative authorities, when we deem it necessary to comply with a legal obligation or for the exercise of legal action against claims.
 
-**3.Information you share**
+**6\. What rights do Users have when they provide us with their personal data?**
 
-When using the forum on this website, your posts and user name will be open to other users of the forum, while your profile picture will be open to registered users.
+User has and may exercise the following rights in relation to the personal data provided to the Church of Almighty God:
 
-**4\. Accessing and updating your personal information**
+– Right of access to his/her personal data to know which data are being processed and the processing operations that are being performed with that data;
 
-1) You may access and update your personal information through your personal account, such as: user password, personal signature, and profile picture. Accessing and updating your personal information is free of charge unless it requires disproportionate effort on our part. We may refuse to handle repeated requests, requests that require excessive use of technical personnel, requests that jeopardize another person’s privacy, or extremely impractical access requests (such as requesting information stored on backup systems).
+– Right to rectification of any inaccurate data;
 
-2) As we maintain our services, we will also protect your information from accidental or malicious damage. For this reason, we will not delete your personal information from our servers or backup systems. At the same time, we reserve the right to terminate our services.
+– Right to erasure of his/her personal data, where possible;
 
-**5\. The information we share**
+– Right to request the restriction of the processing of his/her personal data where the accuracy, legality or need to process the data is doubtful, in which case we may store the User’s data for the exercise or defence of claims;
 
-Without your express permission, we will not share your personal information with any other organization, group, or individual outside of The Church of Almighty God. Only in the following circumstances will the access, use, storage, or disclosure of your personal information be considered a reasonable and necessary action wherein it would be shared with another organization, group, or individual outside of The Church of Almighty God:
+– Right to data portability, in the case of processing carried out by automated means, to obtain personal data that he/she has provided to us (in a structured format, for common use and mechanical reading) as well as to request that they be transmitted to another entity responsible for the processing, when this is technically possible.
 
-To comply with applicable laws, regulations, legal processes, or enforcement actions as required by the government;
+– Right to withdraw his/her consent at any time.
 
-Appropriate enforcement of the Terms of Use, including investigating potential violations;
+– Right to lodge a complaint before Federal Trade Commission (600 Pennsylvania Avenue, NW, Washington, DC 20580, <https://www.ftc.gov/>), if the User considers that data protection legislation has been breached in the processing of his/her personal data by The Church of Almighty God.
 
-The detection and prevention or other actions related to dealing with fraud, security, or technical issues;
+Therefore, User may exercise his/her legal rights before the data controllers, through the local congregation in the United States, at any time, requesting it by means of a letter addressed to 147-54 Ash Avenue, Flushing, New York 11355, US, which must contain: his/her name and surnames, photocopy of his/her national identity document (passport or other valid document identifying him/her), the statement of his/her request, address for the purpose of notifications, date, signature and, if applicable, documents accrediting the petition you are making.
 
-In accordance with the law or within the extent of the law, preventing imminent harmful behavior to protect the rights, property, and security of The Church of Almighty God, users of the website, and the public.
+**7\. Other**
 
-**6\. Security**
-
-In order to protect the security of your information, we have conveyed to all website members the Privacy Policy and security standards for this website as well as instituted rigorous internal measures to protect privacy. We will make every effort to protect the personal information collected from users, as well as prevent unauthorized access, alteration, disclosure, or damage to the information.
-
-**7\. Third party websites, products, and services**
-
-Some of the content provided by this website may link to third party websites, products, or services. These websites, products, and services are not under the control of The Church of Almighty God. If you visit third party websites, products, and services, please familiarize yourself with the relevant privacy policies of the third party websites, products, or services.
-
-**8\. Changes to Privacy Policy**
-
-We may occasionally make changes to the Privacy Policy for this website without notification, so please check this page regularly. If you continue to visit this website following an update, this indicates your acceptance of the updated Privacy Policy.
-
-**9\. Governing Law and Jurisdiction**
-
-You agree that all matters related to this website and its Privacy Policy are governed by and construed in accordance with the laws of the Republic of Korea. You agree that any legal action pursuant to the Privacy Policy will be brought in the relevant court of the Republic of Korea and submit to the exclusive jurisdiction of the court of the Republic of Korea.
-
-**10\. Contact Information**
-
-If you have any questions or suggestions regarding this website or the Privacy Policy, please contact us via one of the methods below:
-
-Phone: +1-347-422-1980 / +1-416-371-8825
-
-Email: [info@almightygod.church](mailto:info@almightygod.church)
-
-**11\. Other**
-
-The English version of the Privacy Policy is translated from Chinese. If any inconsistencies exist between the translation and the Chinese version, the Chinese version shall prevail.
+The English version of the Privacy Policy is translated from Spanish. If any inconsistencies exist between the translation and the Spanish version, the Spanish version shall prevail.
