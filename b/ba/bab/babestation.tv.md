@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babestation.tv privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901063020id_/https%3A//www.babestation.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babestation.tv privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503180202id_/https%3A//www.babestation.tv/privacy-policy) for the most accurate reproduction.*
 
 # Babestation TV - Privacy Policy
 
