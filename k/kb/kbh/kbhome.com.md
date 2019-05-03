@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119110506id_/https%3A//www.kbhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503142431id_/https%3A//www.kbhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KB Home
 
 Your privacy is very important to KB Home. This policy describes the types of information we may collect from you or that you may provide when you visit our Website and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. Your continued use of this Website after we make changes is deemed to be your acceptance of those changes, so please check the policy periodically for updates.
+Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. Your continued use of this Website after we make changes is deemed to be your acceptance of those changes, so please check the policy periodically for updates.
+
+KB Home is not subject to the General Data Protection Regulation (GDPR). KB Home does not offer goods or services to residents of the European Union or process personal data of EU residents.   
+Any personal data collected by KB Home may be stored on servers located in the USA.
 
 The information we collect through our Website may include information that you provide by filling in forms on our Website. We may also ask you for information when you enter a contest or promotion sponsored by us, when you report a problem with our Website, records and copies of your correspondence when you contact us, and responses to surveys we might ask you to complete. 
 
@@ -28,4 +31,4 @@ Our privacy policy only addresses the use and disclosure of information we may c
 
 These privacy policies are subject to change at any time. If there are material changes to any of these privacy policies, we will post those changes and update the effective date of this policy. The policies and procedures described herein replace all previous policies and procedures regarding this subject.
 
-This Privacy policy, effective October 12, 2017 is incorporated into and subject to the [Terms and Conditions](https://www.kbhome.com/terms) For Use of This Website.
+This Privacy policy, effective May 25, 2018 is incorporated into and subject to the [Terms and Conditions](https://www.kbhome.com/terms) For Use of This Website.
