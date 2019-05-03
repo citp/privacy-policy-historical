@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socialtables.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229041909id_/https%3A//www.socialtables.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtables.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503034446id_/https%3A//www.socialtables.com/privacy-policy) for the most accurate reproduction.*
 
 # Social Tables | Privacy Policy
 
-This Privacy Policy governs the manner in which Social Tables collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.socialtables.com/](https://web.archive.org/web/20181229041909id_/https://www.socialtables.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Social Tables.
+This Privacy Policy governs the manner in which Social Tables collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.socialtables.com/](https://web.archive.org/web/20190503034446id_/https://www.socialtables.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Social Tables.
 
 ## Personal identification information
 
@@ -48,7 +48,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-Social Tables works with [AdRoll retargeting](http://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us. No personally identifiable information about you is collected or shared by AdRoll with Social Tables. You can opt-out of AdRoll and their partners by visiting [this link.](http://www.adroll.com/about/privacy)
+Social Tables works with [AdRoll retargeting](https://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us. No personally identifiable information about you is collected or shared by AdRoll with Social Tables. You can opt-out of AdRoll and their partners by visiting [this link.](https://www.adrollgroup.com/privacy)
 
 ## Changes to this privacy policy
 
