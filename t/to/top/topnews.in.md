@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the topnews.in privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702155943id_/http%3A//www.topnews.in/privacy-policy-213209) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnews.in privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503192805id_/http%3A//www.topnews.in/privacy-policy-213209) for the most accurate reproduction.*
 
 # Privacy Policy | TopNews
+
+Privacy Policy 
+
+Submitted by [Hina Deshpande](https://web.archive.org/user/hina-deshpande "View user profile.") on Sat, 02/10/2007 - 19:10
 
 **Privacy Policy**
 
