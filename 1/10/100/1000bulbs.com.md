@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000bulbs.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220175828id_/https%3A//www.1000bulbs.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000bulbs.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503155614id_/https%3A//www.1000bulbs.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 1000Bulbs.com
 
