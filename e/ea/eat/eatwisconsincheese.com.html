@@ -1,183 +1,116 @@
-<!--The following is the downloaded HTML source of the eatwisconsincheese.com privacy policy that was archived on 2018-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180513004756id_/http%3A//www.eatwisconsincheese.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eatwisconsincheese.com privacy policy that was archived on 2019-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190503202648id_/https%3A//www.wisconsincheese.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><title>
-	Privacy Policy | Eat Wisconsin Cheese
-</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
-<meta http-equiv="pragma" content="no-cache"> 
-<meta http-equiv="content-style-type" content="text/css"> 
-<meta http-equiv="content-script-type" content="text/javascript"> 
- <meta http-equiv="X-UA-Compatible" content="IE=edge">
- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1">
+<!DOCTYPE html><html><head id="head"><title>
+	Privacy Policy | Wisconsin Cheese
+</title><meta charset="UTF-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1">
 <meta name="format-detection" content="telephone=no">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 
+<meta property="fb:app_id" content="2010359948998487">
+<meta property="og:site_name" content="Wisconsin Cheese">
+<meta property="og:url" content="https://www.wisconsincheese.com/privacy-policy">
+<meta property="article:published_time" content="6/20/2018 9:11:37 PM">
+<meta property="article:author" content="Wisconsin Cheese Staff">
+<!-- 
+https://www.wisconsincheese.com/privacy-policy
+/privacy-policy
+//-->
+
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://dfwblobstorage.blob.core.windows.net/images/social/DreamOfCheese_Superless_1.jpg">
 
 
-<link id="bootstrapstyles" href="/CMSPages/GetResource.ashx?stylesheetname=Bootstrap" type="text/css" rel="stylesheet">
-<link href="/CMSPages/GetResource.ashx?stylesheetname=WMMBstyles" type="text/css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,700,700i" rel="stylesheet">
+<link href="/EatWisconsinCheese/stylesheets/main.css?cb=11192018" type="text/css" rel="stylesheet">
 <link href="/CMSPages/GetResource.ashx?stylesheetname=AdditionalStyles" type="text/css" rel="stylesheet">
 <link href="/CMSPages/GetResource.ashx?stylesheetname=Printer_styles" type="text/css" rel="stylesheet" media="print">
+<link href="/CMSPages/GetResource.ashx?stylesheetname=May2018-Overrides&amp;v=1030a" type="text/css" rel="stylesheet">
 
-<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>-->
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="/CMSScripts/Custom/jquery-2.1.1.min.js"></script>
-<script src="/CMSScripts/Custom/jquery.als-1.7.js"></script>
-<script src="/CMSScripts/Custom/jquery.stellar.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://s.pinimg.com/ct/core.js"></script><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
-<!-- SHARE THIS -->
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script src="/EatWisconsinCheese/scripts/app.min.js?cb=11192018"></script>
+<script src="//static.curations.bazaarvoice.com/gallery/eatwisconsincheese/prod/loader.js"></script>
 
-<script type="text/javascript" src="/CMSScripts/Custom/bootstrap.min.js"></script>
-<script src="/CMSScripts/Custom/bootstrap-tabcollapse.js"></script>
-
-<!-- For Adding Recipes and Cheeses to Boxes -->
-<script type="text/javascript">
-function cheeseFavorite (icon, userID, cheeseID) {
-    $.ajax({
-        type: "POST",
-        url: "/CMSPages/WebService.asmx/CheeseFavorite",
-        contentType: "application/json; charset=utf-8",
-        data: "{'UserID':'" + userID + "','CheeseVarietyID':'" + cheeseID + "'}",
-        dataType: "json",
-        success: function(data) {
-           if (data.d == 1)
-           {
-              $(icon).addClass('active');
-           }
-           else if (data.d == 0)
-           {
-              $(icon).removeClass('active');
-           }
-        }      
-     }); 
- }
-
-$(document).ready(function() {
-    
-    var heartedCheese = location.search.split('HeartedCheese=')[1];
-    var auth = "False";
-   
-    if(heartedCheese !== undefined && auth == 'True')
-    {
-      $.ajax({
-        type: "POST",
-        url: "/CMSPages/WebService.asmx/AddCheeseFavorite",
-        contentType: "application/json; charset=utf-8",
-        data: "{'UserID':'" + 65 + "','CheeseVarietyID':'" + heartedCheese + "'}",
-        dataType: "json",
-        success: function(data) {
-          if (data.d == 1)
-          {
-             location.reload();
-          }
-        }      
-     });      
-    }  
-});
-  
-function recipeFavorite (icon, userID, recipeID) {
-    $.ajax({
-        type: "POST",
-        url: "/CMSPages/WebService.asmx/RecipeFavorite",
-        contentType: "application/json; charset=utf-8",
-        data: "{'UserID':'" + userID + "','RecipeID':'" + recipeID + "'}",
-        dataType: "json",
-        success: function(data) {
-           if (data.d == 1)
-           {
-              $(icon).addClass('active');
-           }
-           else if (data.d == 0)
-           {
-              $(icon).removeClass('active');
-           }
-        }      
-     }); 
- }
-
-$(document).ready(function() {
-    
-    var heartedRecipe = location.search.split('HeartedRecipe=')[1];
-    var auth = "False";
-   
-    if(heartedRecipe !== undefined && auth == 'True')
-    {
-      $.ajax({
-        type: "POST",
-        url: "/CMSPages/WebService.asmx/AddRecipeFavorite",
-        contentType: "application/json; charset=utf-8",
-        data: "{'UserID':'" + 65 + "','RecipeID':'" + heartedRecipe + "'}",
-        dataType: "json",
-        success: function(data) {
-          if (data.d == 1)
-          {
-             location.reload();
-          }
-        }      
-     });      
-    }  
-});
-</script>
-
-<!-- For Updating Pin Date -->
-<script type="text/javascript">
-function pinRecipe (recipeID) {
-    $.ajax({
-        type: "POST",
-        url: "/CMSPages/WebService.asmx/UpdateRecipePinDate",
-        contentType: "application/json; charset=utf-8",
-        data: "{'RecipeID':'" + recipeID + "'}",
-        dataType: "json",         
-     }); 
- }
-</script>
-
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// 
-	NOTE: THIS TAG MUST BE BEFORE THE BODY TAG
--->
-<!--[if lt IE 9]>
-  <script src="/CMSScripts/Custom/html5shiv.min.js"></script>
-  <script src="/CMSScripts/Custom/respond.min.js"></script>
-<![endif]-->
-
-<!-- SUMMER OF CURDS STEPHAN BRADY TRACKING PIXEL -->
+<!-- Pinterest Tag -->
 <script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '1823983564586775'); // Insert your pixel ID here.
-fbq('track', 'PageView');
+!function(e){if(!window.pintrk){window.pintrk = function () {
+window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0]; r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+pintrk('load', '2613204064205', {em: '<user_email_address>'});
+pintrk('page');
 </script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1823983564586775&ev=PageView&noscript=1"
-/></noscript>
-
-<!-- GOOGLE ANALYTICS -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-6316889-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
-  
-<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
-<link href="/favicon.ico" type="image/x-icon" rel="icon"> 
-<link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet"> 
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2613204064205&pd[em]=<hashed_email_address>&noscript=1" />
+</noscript>
+<!-- end Pinterest Tag --><meta property="og:title" content="Privacy Policy | Wisconsin Cheese">
+<meta property="og:image" content="https://dfwblobstorage.blob.core.windows.net/images/social/DreamOfCheese_Superless_1.jpg">
+<meta property="og:description" content=""> 
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon">
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon">
 </head>
-<body class="LTR ENUS ContentBody">
+<body class="LTR Mozilla ENUS ContentBody">
+         <script type="text/javascript">
+        $(function () {
+            function handleRecipeList(obj) {
+
+                var r = $(obj).attr("data-recipes");
+                var t = parseInt($(obj).attr("data-template"));
+                var l = parseInt($(obj).attr("data-large-every"));
+
+                if (!r) {
+                    console.log("data-recipes required.")
+                    return;
+                }
+                if (!t) t = 1;
+                if (!l) l = 5;
+                var gpsUrl = "/feeds/recipeListControl.aspx?recipeIds=" + r + "&templateId=" + t + "&largeEvery=" + l;
+
+                if (window.location.href.indexOf("cms") == -1) {
+                    $.get(gpsUrl, function (data) {
+                        $(obj).html(data);
+                    })
+                        .fail(function () {
+                            console.log("gpsRecipes error");
+                        });
+                } else {
+                    $(obj).html("Dynamically load these recipes: " + recipes).css({ "text-align": "center", "border": "solid 1px red", "padding": "10px" });
+                    console.log("Skipping Recipe Load")
+                }
+            }
+
+            $(".gpsRecipeList").each(function () {
+                handleRecipeList(this);
+            });
+        });
+    </script>
     <form method="post" action="/privacy-policy" id="form">
-<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
-<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="4DiZ6yrBZyIWWjkJf9LhQ1UCdM2QPTdnGFgV78xZ5h21oe9A1amBrmJwJQggo7d39RvTwmkPOZHU/ezKp6KA4yb+l0Qnw9DrbwKCNETCFv4=">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMTY0MTExOTEPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCAgEPFgIeBmFjdGlvbgUPL3ByaXZhY3ktcG9saWN5FgICBQ9kFgJmDw8WBB4IQ3NzQ2xhc3MFD1BhZ2VQbGFjZWhvbGRlch4EXyFTQgICZBYCZg9kFgYCAw9kFgYCAQ8PFgIeB1Zpc2libGVoZGQCAg8PFgIfBGhkZAIDDw8WAh8EaGRkAgcPZBYCZg9kFgICAg8PFjAeG1NlcGFyYXRvclRyYW5zZm9ybWF0aW9uTmFtZWUeI1NlbGVjdGVkRm9vdGVydGVtVHJhbnNmb3JtYXRpb25OYW1lZR4SVHJhbnNmb3JtYXRpb25OYW1lZR4OU2hvd0VkaXRCdXR0b25oHhZIaWRlQ29udHJvbEZvclplcm9Sb3dzZx4JSXRlbUNvdW50AiseGEZvb3RlclRyYW5zZm9ybWF0aW9uTmFtZWUeEE5lc3RlZENvbnRyb2xzSURlHhhIZWFkZXJUcmFuc2Zvcm1hdGlvbk5hbWVlHh1BbHRlcm5hdGluZ1RyYW5zZm9ybWF0aW9uTmFtZWUeEFNob3dEZWxldGVCdXR0b25oHgtfIUl0ZW1Db3VudAIrHh5IaWVyYXJjaGljYWxUcmFuc2Zvcm1hdGlvbk5hbWUFJ1dNTUIuRWF0V0lDaGVlc2UuSGllcmFyY2hpY2FsTmF2aWdhdGlvbh4NUGFnZXJQb3NpdGlvbgspcUNNUy5Db250cm9scy5QYWdpbmdQbGFjZVR5cGVFbnVtLCBDTVMuQ29udHJvbHMsIFZlcnNpb249OS4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04MzRiMTJhMjU4ZjIxM2Y5AB4WTGFzdFRyYW5zZm9ybWF0aW9uTmFtZWUeDkRlbGF5ZWRMb2FkaW5naB4LXyFEYXRhQm91bmRnHhRMb2FkSGllcmFyY2hpY2FsRGF0YWceF0ZpcnN0VHJhbnNmb3JtYXRpb25OYW1lZR4MWmVyb1Jvd3NUZXh0BQ1ObyBkYXRhIGZvdW5kHiRTZWxlY3RlZEhlYWRlckl0ZW1UcmFuc2Zvcm1hdGlvbk5hbWVlHhhTaW5nbGVUcmFuc2Zvcm1hdGlvbk5hbWVlHhdVc2VIaWVyYXJjaGljYWxPcmRlcmluZ2ceDkRhdGFTb3VyY2VOYW1lZWRkAgsPZBYCZg9kFgICAg9kFgJmDw8WBB8CBQ9QYWdlUGxhY2Vob2xkZXIfAwICZGRk8qb7IIr2ZR6BK7zdKQekEKecsDLLDtniJ2YmLEBaKBI=">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form'];
+if (!theForm) {
+    theForm = document.form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZD_ULCpK8J1Qt2oVbiYNGi6cIszGeE79zFpnIofaWg9frLEH2tKU-sOxkcwDdxh7aQ2&amp;t=636876162735773777" type="text/javascript"></script>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
 <script type="text/javascript">
@@ -187,657 +120,471 @@ function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { win
 function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
 //]]>
 </script>
-<script src="/ScriptResource.axd?d=XDgn_6Q0ZrBoXszW0yvFDYsoQJAe_MURaKNzEDuee1uDVkMfQOCmCmIQIjnT_37SQ5aToDQQUzicJ2VhE_7ZQtPIo_Mcwsl1gX0AN-Uutf5PEzHLs1F2NJNyW1W5BYop0&amp;t=7c776dc1" type="text/javascript"></script>
-<script src="/CMSPages/PortalTemplate.aspx?_TSM_HiddenField_=manScript_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3ade1feab2%3af9cec9bc%3a35576c48" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yEoSJHfcD2VOYXVPeDChgfqPPG-x9LoNkkM3sQvPAclTb9pHDYavmJI85gGT9tgTbC1DKSnNOxzCGHuzLQlDFqYOFqiPZ6cTJFzpApvqYOEHgEJVnkMnQ_g5lbBwKIw600aCwPbSLpxykbei_nHHOSQ1&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadMYkEawStojvskFTH_rURQbKlEOkZDkFWiI8ExnGVvy5UFiL_ifuYGpXlVOElXYk8ZgVj3i0g6zHXtUNm-SVZLnKlb68oNMu3v158pmPUvFU0SU248RyE85kjwOiL6hFfoQIUUN0umT7E53S3jPeeN41&amp;t=ffffffff999c3159" type="text/javascript"></script>
 <script type="text/javascript">
 	//<![CDATA[
 
 var CMS = CMS || {};
 CMS.Application = {
-  "isDialog": false,
-  "isDebuggingEnabled": false,
-  "applicationUrl": "/",
+  "language": "en",
   "isRTL": "false",
-  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f"
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDebuggingEnabled": true,
+  "isDialog": false,
+  "applicationUrl": "/"
 };
 
 //]]>
 </script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185">
-    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185">
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM',''], [], [], 90, '');
+//]]>
+</script>
+
     <div id="ctxM">
 
 </div>
     
-<!-- Toggle Button in Mobile View Only -->
-<div class="navbar-header off-canvas">
-  <div class="brand text-center visible-mobile-nav">
-    <a href="/">      
-      <div class="svg-logo"><img alt="Wisconsin Cheese" src="/EatWisconsinCheese/media/DesignAssets/wisconsin_cheese_logo.svg"></div>
-      <img src="/EatWisconsinCheese/media/DesignAssets/wisco_cheese.png" class="hide"></a>
-  </div>
-  
-  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#wmmb-navbar-collapse-1" aria-expanded="false">
-    <span class="sr-only">Toggle navigation</span>
-  </button>
-  
-  <div class="header-bar bg-primary visible-mobile-nav"></div>
-</div>
 
-<div class="logo logo-top-of-page no-print">
-  <a class="navbar-brand" href="/"><img src="/EatWisconsinCheese/media/DesignAssets/wmmb_logo.png"></a>
-  <div class="collapsed-header-logo"><a href="/"><img alt="Wisconsin Cheese" src="/EatWisconsinCheese/media/DesignAssets/wisconsin_cheese_logo_white.svg"></a></div>
-</div>
-
-<header class="navbar-fixed-top off-canvas off-canvas-left">
-  <button type="button" class="navbar-toggle close visible-xs" data-toggle="collapse" data-target="#wmmb-navbar-collapse-1" aria-expanded="false">
-    <span class="sr-only">Toggle navigation</span>
-  </button>  
-  <nav class="navbar navbar-default">
-    <div class="container-fluid no-pad">      
-      <!-- Actual Navigation Content - Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse no-transition" id="wmmb-navbar-collapse-1">
-        <div class="utility-wrapper">
-          <div class="img-wrapper">
-            <a href="/" class="svg-logo-link"><img class="svg-logo" alt="Wisconsin Cheese" src="/EatWisconsinCheese/media/DesignAssets/wisconsin_cheese_logo.svg"></a>
-          </div>
-          <div class="search-wrapper visible-mobile-nav mobile-search">
-            <div class="search-icon-wrapper"><img src="/EatWisconsinCheese/media/DesignAssets/search_icon.png"></div>
-            <div class="search-control-wrapper">
-              <div id="p_lt_ctl00_SmartSearchBox_pnlSearch" class="searchBox">
-	
-    <label for="p_lt_ctl00_SmartSearchBox_txtWord" id="p_lt_ctl00_SmartSearchBox_lblSearch">Search for:</label>
-    <input type="hidden" name="p$lt$ctl00$SmartSearchBox$txtWord_exWatermark_ClientState" id="p_lt_ctl00_SmartSearchBox_txtWord_exWatermark_ClientState"><input name="p$lt$ctl00$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl00_SmartSearchBox_txtWord" class="form-control">
-    <input type="submit" name="p$lt$ctl00$SmartSearchBox$btnSearch" value="Search" id="p_lt_ctl00_SmartSearchBox_btnSearch" class="btn btn-default">
-    
-    <div id="p_lt_ctl00_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
-
-	</div>
-
-</div>
-
-            </div>        
-          </div>
-          <div class="social-wrapper">
-            <div class="user-login"><a id="p_lt_ctl01_SignUpLink_btnElem_hyperLink" href="/Account/Sign-In"><span id="p_lt_ctl01_SignUpLink_btnElem_lblText">Sign Up</span></a>
-
-
-<a id="p_lt_ctl01_LogIn_btnSignOutLink" class="signoutLink" href="javascript:__doPostBack('p$lt$ctl01$LogIn$btnSignOutLink','')">Log In</a></div>
-            <div class="social-icons-wrapper"><a href="http://www.Facebook.com/WisconsinCheese" target="_blank"><img alt="" src="/EatWisconsinCheese/media/DesignAssets/social/facebook_32.png"> </a> <a href="http://www.Twitter.com/WisconsinCheese" target="_blank"> <img alt="" src="/EatWisconsinCheese/media/DesignAssets/social/twitter_32.png"> </a> <a href="https://www.instagram.com/wisconsincheese" target="_blank"> <img alt="" src="/EatWisconsinCheese/media/DesignAssets/social/instagram_32.png"> </a> <a href="http://www.YouTube.com/WisconsinCheeseTalk" target="_blank"> <img alt="" src="/EatWisconsinCheese/media/DesignAssets/social/youtube_32.png"> </a> <a href="http://www.Pinterest.com/WisconsinCheese" target="_blank"> <img alt="" src="/EatWisconsinCheese/media/DesignAssets/social/pinterest_32.png"> </a>
-
-
-
-</div>            
-          </div>
-          
-        </div>
-        <div class="nav-wrapper">
-          
-<ul class="nav navbar-nav"> <li class="megamenu dropdown">
-  <a href="/recipes" onclick="">
-    Recipes  
-  </a>
-  <span class="dropdown-toggle fa fa-angle-right" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></span>
-  
-<ul class="dropdown-menu eqh-row"><li class="eqh-column text-center visible-mobile-nav" style="height: 0px;">
-  <a href="/recipes/category/2/appetizer/">
-    <div class="image-nav-wrapper">
-      <div class="image-cropper">  
-        <img class="rounded" alt="Appetizer" src="/images//recipe/PF641APPETIZERX156-c.jpg">
-      </div>
-      <div>Appetizer</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-mobile-nav" style="height: 0px;">
-  <a href="/recipes/category/5/breakfast/">
-    <div class="image-nav-wrapper">
-      <div class="image-cropper">  
-        <img class="rounded" alt="Breakfast" src="/images//recipe/PF641BREAKFASTX124-c.jpg">
-      </div>
-      <div>Breakfast</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-mobile-nav" style="height: 0px;">
-  <a href="/recipes/category/10/entree/">
-    <div class="image-nav-wrapper">
-      <div class="image-cropper">  
-        <img class="rounded" alt="Entrée" src="/images//recipe/PF641ENTREEX1172-c.jpg">
-      </div>
-      <div>Entrée</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-mobile-nav" style="height: 0px;">
-  <a href="/recipes/category/7/dessert/">
-    <div class="image-nav-wrapper">
-      <div class="image-cropper">  
-        <img class="rounded" alt="Dessert" src="/images//recipe/PF641DESSERTX1268-c.jpg">
-      </div>
-      <div>Dessert</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-mobile-nav" style="height: 0px;">
-  <a href="/recipes/collection/30/as-seen-on-tv-recipes/">
-    <div class="image-nav-wrapper">
-      <div class="image-cropper">  
-        <img class="rounded" alt="As Seen on TV" src="/images//recipe/PF641DESSERTX10455-w.jpg">
-      </div>
-      <div>As Seen on TV</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 183px;">
-  <a href="/recipes/category/2/appetizer/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="Appetizer" src="/images//recipe/PF641APPETIZERX156-c.jpg">
-	</div> 
-    <div>Appetizer</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 183px;">
-  <a href="/recipes/category/21/cheese-accompaniments/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="Cheese Accompaniments" src="/images//recipe/PF641APPETIZERX160-c.jpg">
-	</div> 
-    <div>Cheese Accompaniments</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 183px;">
-  <a href="/recipes/category/7/dessert/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="Dessert" src="/images//recipe/PF641DESSERTX1268-c.jpg">
-	</div> 
-    <div>Dessert</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 183px;">
-  <a href="/recipes/category/8/dip-and-spread/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="Dips &amp; Spreads" src="/images//recipe/PF641APPETIZERX165-c.jpg">
-	</div> 
-    <div>Dips &amp; Spreads</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 183px;">
-  <a href="/recipes/collection/30/as-seen-on-tv-recipes/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="As Seen on TV" src="/images//recipe/PF641DESSERTX10455-w.jpg">
-	</div> 
-    <div>As Seen on TV</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 183px;">
-  <a href="/recipes/category/10/entree/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="Entrée" src="/images//recipe/PF641ENTREEX1172-c.jpg">
-	</div> 
-    <div>Entrée</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 201px;">
-  <a href="/recipes/collection/6/kid-friendly-recipes/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="Kid-Friendly Recipes" src="/images//recipe/PF641SIDEDISHX1212-c.jpg">
-	</div> 
-    <div>Kid-Friendly Recipes</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 201px;">
-  <a href="/recipes/collection/4/grilling-recipes/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="Grilling Recipes" src="/images//recipe/PF641SALADX1100-c.jpg">
-	</div> 
-    <div>Grilling Recipes</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 201px;">
-  <a href="/recipes/collection/28/30-minute-weekend-brunch-recipes/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="30-Minute Weekend Brunch Recipes" src="/images//recipe/PF641PIZZAX196-c.jpg">
-	</div> 
-    <div>30-Minute Weekend Brunch Recipes</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 201px;">
-  <a href="/recipes/category/22/picks-and-bites/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="Picks &amp; Bites" src="/images//recipe/PF641APPETIZERX1396-c.jpg">
-	</div> 
-    <div>Picks &amp; Bites</div>
-    </div>
-  </a>
-</li><li class="eqh-column text-center visible-desktop-nav" style="height: 201px;">
-  <a href="/recipes/category/5/breakfast/">
-    <div class="image-nav-wrapper">
-    <div class="image-cropper">        
-      <img class="rounded" alt="Breakfast" src="/images//recipe/PF641BREAKFASTX124-c.jpg">
-	</div> 
-    <div>Breakfast</div>
-    </div>
-  </a>
-</li><li class="eqh-column visible-desktop-nav text-center" style="height: 201px;">
-  <a href="/recipes/collection/38/one-pot-meals/">
-    <div class="image-nav-wrapper">
-      <div class="image-cropper">
-        <img class="rounded" alt="One-Pot Meals" src="/images//recipe/PF641ENTREEX1184-c.jpg">
-      </div>
-      <div>One-Pot Meals</div>
-    </div>
-  </a>
-</li>
-<li class="image-nav-all-wrapper visible-desktop-nav">
-  <hr>
-  <a href="/recipes/#allrecipes" style="float: right;" class="visible-desktop-nav">view all recipe collections</a>
-</li>
-<li class="eqh-column visible-mobile-nav text-center" style="">
-  <a href="/recipes/#allrecipes">
-    <div class="image-nav-wrapper text-center">
-      <div class="image-cropper">
-        <img class="rounded" alt="One-Pot Meals" src="/images//recipe/PF641ENTREEX1184-c.jpg">
-      </div>
-      <div>view all</div>
-    </div>
-  </a>
-</li></ul>  
-</li><li class="dropdown">
-   <a href="/cheeses" onclick="">
-    Cheese  
-    </a>
-  <span class="dropdown-toggle fa fa-angle-right" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></span>
-  
-<ul class="dropdown-menu eqh-row"><li>
-   <a href="/cheeses/wisconsin-cheese-varieties" onclick="">
-    WI Cheese Varieties  
-    </a>
-  
-</li>
-<li>
-   <a href="/cheeses/wisconsin-cheese-companies" onclick="">
-    WI Cheese Companies  
-    </a>
-  
-</li>
-<li>
-   <a href="/cheeses/master-cheesemakers" onclick="">
-    Master Cheesemakers  
-    </a>
-  
-</li>
-<li>
-   <a href="/cheeses/wi-cheese-retail-stores" onclick="">
-    WI Cheese Retail Stores  
-    </a>
-  
-</li>
-<li>
-   <a href="/cheeses/awards" onclick="">
-    Awards  
-    </a>
-  
-</li>
-<li>
-   <a href="/cheeses/how-cheese-is-made" onclick="">
-    How Cheese Is Made  
-    </a>
-  
-</li>
-<li>
-   <a href="/cheeses/history-of-wisconsin-cheese" onclick="">
-    History of Wisconsin Cheese  
-    </a>
-  
-</li>
-<li>
-   <a href="/cheeses/cheese-variety-guide" onclick="">
-    Cheese Variety Guide  
-    </a>
-  
-</li>
-<li>
-   <a href="/cheeses/travelers-guide-to-americas-dairyland-map" onclick="">
-    Traveler's Guide Map  
-    </a>
-  
-</li>
-</ul>
-</li>
-<li class="dropdown">
-   <a href="/pairing-sharing" onclick="">
-    Pairing &amp; Sharing  
-    </a>
-  <span class="dropdown-toggle fa fa-angle-right" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></span>
-  
-<ul class="dropdown-menu eqh-row"><li>
-   <a href="/pairing-sharing/cheese-cupid" onclick="">
-    Cheese Cupid  
-    </a>
-  
-</li>
-<li>
-   <a href="/pairing-sharing/grate-pair-share-magazine" onclick="">
-    Grate. Pair. Share. Magazine  
-    </a>
-  
-</li>
-<li>
-   <a href="/pairing-sharing/picks-bites" onclick="">
-    Picks &amp; Bites  
-    </a>
-  
-</li>
-<li>
-   <a href="/pairing-sharing/dairy-dip-recipes" onclick="">
-    Dairy Dip Recipes  
-    </a>
-  
-</li>
-</ul>
-</li>
-<li>
-  <a href="http://www.wisconsincheesetalk.com" onclick="">    
-    Cheese Talk    
-  </a> 
-</li> <li>
-   <a href="/videos" onclick="">
-    Videos  
-    </a>
-  
-</li>
-</ul>
-
-          <div class="search-wrapper visible-desktop-nav inline-block">
-            <div class="dropdown">
-              <button class="btn btn-primary dropdown-toggle" type="button" id="searchDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                <img src="/EatWisconsinCheese/media/DesignAssets/search_icon.png">                
-              </button>
-              <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="searchDropdown">
-                <li><div id="p_lt_ctl04_SmartSearchBox_pnlSearch" class="searchBox">
-	
-    <label for="p_lt_ctl04_SmartSearchBox_txtWord" id="p_lt_ctl04_SmartSearchBox_lblSearch">Search for:</label>
-    <input type="hidden" name="p$lt$ctl04$SmartSearchBox$txtWord_exWatermark_ClientState" id="p_lt_ctl04_SmartSearchBox_txtWord_exWatermark_ClientState"><input name="p$lt$ctl04$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl04_SmartSearchBox_txtWord" class="form-control">
-    <input type="submit" name="p$lt$ctl04$SmartSearchBox$btnSearch" value="Search" id="p_lt_ctl04_SmartSearchBox_btnSearch" class="btn btn-default">
-    
-    <div id="p_lt_ctl04_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
-
-	</div>
-
-</div>
-</li>
-              </ul>
-            </div>
-            
-          </div><!--end search wrapper-->
-        </div>
-        <div class="oursites-wrapper">
-            <input type="checkbox" class="oursites-btn" id="chkOurSites" aria-hidden="true" hidden="">
-            <label for="chkOurSites" class="oursites-label">
-              our sites
-              <span class="dropdown-toggle fa fa-angle-left"></span>
-            </label>
-            <ul class="oursites-menu">
-                
-                <li><a href="//www.cheeseandburger.com" target="_blank">Cheese &amp; Burger Society</a></li>
-                <li><a href="//www.grilledcheeseacademy.com" target="_blank">Grilled Cheese Academy</a></li>
-               
-            </ul>
-        </div>
-      </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
-  </nav>  
-</header>
-
-<main>
-  
-
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-xs-12">
+<div class="page-wrapper">
+	<header class="header-module" data-module="Header">
+      <a href="/" class="logo">
+        <img src="/EatWisconsinCheese/assets/images/logo.png" alt="">
+      </a>
       
+      <nav>
+          
+	<ul id="CMSListMenu1" class="CMSListMenuUL">
+		<li class="CMSListMenuLI">
+			<a class="CMSListMenuLink" href="/our-cheese">Our Cheese</a>
+			<ul class="CMSListMenuUL">
+				<li class="CMSListMenuLI">
+					<a class="CMSListMenuLink" href="/our-cheese/find-cheese">Find Cheese</a>
+				</li>
+				<li class="CMSListMenuLI">
+					<a class="CMSListMenuLink" href="/our-cheese/pairing">Pairing</a>
+				</li>
+				<li class="CMSListMenuLI">
+					<a class="CMSListMenuLink" href="/our-cheese/our-makers">Our Makers</a>
+				</li>
+				<li class="CMSListMenuLI">
+					<a class="CMSListMenuLink" href="/our-cheese/videos">Videos</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="CMSListMenuLI">
+			<a class="CMSListMenuLink" href="/recipes">Recipes</a>
+		</li>
+		<li class="CMSListMenuLI">
+			<a class="CMSListMenuLink" href="/whywisconsin">Inspiration</a>
+			<ul class="CMSListMenuUL">
+				<li class="CMSListMenuLI">
+					<a class="CMSListMenuLink" href="/whywisconsin">Why Wisconsin?</a>
+				</li>
+				<li class="CMSListMenuLI">
+					<a class="CMSListMenuLink" href="/grate-pair-share">Grate. Pair. Share.</a>
+				</li>
+
+			</ul>
+		</li>
+
+	</ul>
 
 
+          <ul class="CMSListMenuUL">
+	<li><a href="/account/~-eatwisconsincheese-media-content-account-hea-(1)">Join Us</a> <a href="/account/sign-in-en">Account Login</a></li>
+	<li><a class="navSearchBtn" href="#search-overlay-module">Search</a></li>
+</ul>
 
-
+      </nav>
+      <div class="topLink">
+          <img src="/EatWisconsinCheese/assets/images/top-link.svg">
+      </div>
+    </header>
+<div class="search-overlay-module mfp-hide" id="search-overlay-module" data-module="SearchOverlay">
+  <div class="search">
+    <div class="search__close btn--close-btn"></div>
+    <div class="search__desc">Search</div>
+    <div class="input-wrapper">
+      <input class="search__input" placeholder="What are you looking for?">
+      <div class="arrow-button search__submit"></div>
     </div>
+    <div class="search_loading">
+        <div class="loading-animation">
+  Loading
+  <div class="bounce1"></div>
+  <div class="bounce2"></div>
+  <div class="bounce3"></div>
+</div>
+    </div>
+    <div class="results"></div>
+  </div> 
+</div>
+  
+  <main>
+    
+
+<div class="basic-page">
+
+    <div class="account-header">
+  
+  <div class="bg" style="background-image:url('https://dfwblobstorage.blob.core.windows.net/ewcmediacontainer/eatwisconsincheese/media/content/account-header.jpg?ext=.jpg')"></div>
+  
+  
+  
+    <div class="bg" style="background-color: #133041"></div>
+  
+  <div class="content">
+  <h1 style="text-align: center;">Privacy Policy</h1>
+
+
+
+
+
   </div>
 </div>
-<div class="container-fluid top-marg">
-  <div class="row">
-    <div class="margined-col">
-      
 
+    <div class="basic-page-content">
+      <p><b>INTRODUCTION</b></p>
 
+<p>The&nbsp;policies&nbsp;below are intended to clearly inform our users about our&nbsp;privacy&nbsp;practices and procedures and are applicable to WisconsinCheese.com (previously named EatWisconsinCheese.com), WisconsinDairy.org (previously named DairyDoingMore.or WMMB.com), Cheeselandia.com, WisconsinDairyCouncil.com, WisconsinCheeseTools.com, (previously named WisconsinCheeseRetail.com and WisconsinCheeseFoodservice.<wbr>com), GrilledCheeseAcademy.com and CheeseAndBurger.com.</p>
 
+<p>&nbsp;</p>
 
-    </div>
-  </div>
-</div>
-<div class="container-fluid top-marg">
-    <div class="row">
-        <div class="margined-col">
-            <div class="row">
-                
-            </div>
-        </div>
-    </div>
-</div>
-<div class="container-fluid">
-  <div class="row">
-    <div class="margined-col">
-      <div id="p_lt_ctl05_pageplaceholder_p_lt_ctl02_sys_pnlUpdate">
-	<h1 class="article-title text-center">Privacy Policy</h1>
+<p>As part of the registration, operation and customization features of WisconsinCheese.com, we gather certain types of information from users. We would like to explain the types of information we gather, what we do with them, and how to correct or change the information. Please review this privacy policy when you enter the website to keep aware of any policy changes.</p>
 
-<h2 class="bold-text">INTRODUCTION</h2>
+<p>&nbsp;</p>
 
-<p>The policies below are intended to clearly inform our users about our privacy practices and procedures and are applicable to EatWisconsinCheese.com&nbsp;(previously named WisDairy.com), WisconsinCheese.com, WisconsinDairy.org (combined from WMMB.com, AmericasDairyland.com and DairyDoingMore.org), HoorayWisconsinDairy.com (previously DairyDaysofSummer.com),&nbsp;WisconsinDairyCouncil.com, WisconsinCheeseRetail.com and WisconsinCheeseFoodservice.com.<br>
-<br>
-As part of the registration, operation and customization features of EatWisconsinCheese.com, we gather certain types of information from users. We would like to explain the types of information we gather, what we do with them, and how to correct or change the information. Please review this privacy policy when you enter the website to keep aware of any policy changes.</p>
+<p><b>WisconsinCheese.com does not share any personal information collected through the website with third parties.</b></p>
 
-<p><strong>EatWisconsinCheese.com does not share any personal information collected through the website with third parties.</strong><br>
-&nbsp;</p>
+<p>&nbsp;</p>
 
-<h2 class="bold-text">INFORMATION COLLECTED BY EATWISCONSINCHEESE.COM</h2>
+<p><b>INFORMATION COLLECTED BY WISCONSINCHEESE.COM</b></p>
 
-<p>EatWisconsinCheese.com collects two types of information from users: personal data such as name, phone, and e-mail addresses; and non-personal data such as information about traffic patterns on EatWisconsinCheese.com (for example, how many users log on to EatWisconsinCheese.com on a daily basis).</p>
+<p>WisconsinCheese.com collects two types of information from users: personal data such as name, phone, and e-mail addresses; and non-personal data such as information about traffic patterns on WisconsinCheese.com (for example, how many users log on to WisconsinCheese.com on a daily basis).</p>
 
-<h2 class="bold-text">PERSONAL DATA</h2>
+<p>&nbsp;</p>
+
+<p><b>PERSONAL DATA</b></p>
 
 <p>Some personal data such as name, phone, postal address, e-mail address and business type are collected during registration or through other form submissions on our site.</p>
 
-<h2 class="bold-text">NON-PERSONAL DATA</h2>
+<p>&nbsp;</p>
 
-<p>Some data we collect contains non-personal information. Examples of this type of information include the type of Internet browser you are using, the type of computer operating system you are using and the domain name of the website from which you linked to our site or advertisement. We may use this information for various purposes, including system administration and enhancement and to collect information about the volume of use of different features available on EatWisconsinCheese.com.</p>
+<p><b>NON-PERSONAL DATA</b></p>
 
-<h2 class="bold-text">CHILDREN AND PRIVACY</h2>
+<p>Some data we collect contains non-personal information. Examples of this type of information include the type of Internet browser you are using, the type of computer operating system you are using and the domain name of the website from which you linked to our site or advertisement. We may use this information for various purposes, including system administration and enhancement and to collect information about the volume of use of different features available on WisconsinCheese.com.</p>
 
-<p>EatWisconsinCheese.com has no intention of collecting personal information from children (i.e., individuals under the age of 13). If a child has provided us with personal information, EatWisconsinCheese.com asks that a parent or guardian of the child contact us at&nbsp;<a href="mailto:hello@EatWisconsinCheese.com">hello@EatWisconsinCheese.com</a>&nbsp;if they would like the information submitted by a child deleted from our database. EatWisconsinCheese.com will use reasonable efforts to delete such information from its database.</p>
+<p>&nbsp;</p>
 
-<h2 class="bold-text">COOKIES</h2>
+<p><b>CHILDREN AND PRIVACY</b></p>
 
-<p>"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. EatWisconsinCheese.com uses cookies to collect information. Cookies allow EatWisconsinCheese.com to measure activity on the site and to make improvements and updates based on which areas are popular and which are not. Cookies are used to improve your user experience. For example, the cookie allows you to have the option of saving your user name and password which eliminates the need for you to enter the information every time you visit EatWisconsinCheese.com. (We do not recommend saving your user name and password if you use your computer in a shared environment.) In addition, our site may request the cookie from your browser so that we can retrieve the stored personal information to fill out forms so you do not have to manually enter the information each time. We may also store data on your cookie based on options you make on certain forms to enable us to customize information based on your criteria.</p>
+<p>WisconsinCheese.com has no intention of collecting personal information from children (i.e., individuals under the age of 13). If a child has provided us with personal information, WisconsinCheese.com asks that a parent or guardian of the child contact us at info@EatWisconsinCheese.com if they would like the information submitted by a child deleted from our database. EatWisconsinCheese.com will use reasonable efforts to delete such information from its database.</p>
 
-<p>Please note that with most browsers, a user can set the preferences to show a warning each time a cookie request is received. You can also usually set the browser not to accept cookies at all. By not accepting cookies, you may not be able to take advantage of all features of EatWisconsinCheese.com.</p>
+<p>&nbsp;</p>
 
-<h2 class="bold-text">USE OF INFORMATION</h2>
+<p><b>COOKIES</b></p>
 
-<p>EatWisconsinCheese.com uses both the personal and non-personal information we collect for a variety of purposes. For example, we use your information to better understand your needs and provide you with better products and service. Specifically, we use your information to communicate back to you, to update you on programs, services and benefits, and to personalize our website for you. We also use the non-personal information to provide aggregate data reports to our Board of Directors and other interested parties.&nbsp;<strong>EatWisconsinCheese.com does not share any personal information collected through the website with third parties</strong>.</p>
+<p>"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. EatWisconsinCheese.com uses cookies to collect information. Cookies allow EatWisconsinCheese.com to measure activity on the site and to make improvements and updates based on which areas are popular and which are not. Cookies are used to improve your user experience. For example, the cookie allows you to have the option of saving your user name and password which eliminates the need for you to enter the information every time you visit hello@wisconsincheese.com. (We do not recommend saving your user name and password if you use your computer in a shared environment.) In addition, our site may request the cookie from your browser so that we can retrieve the stored personal information to fill out forms so you do not have to manually enter the information each time. We may also store data on your cookie based on options you make on certain forms to enable us to customize information based on your criteria.</p>
 
-<h2 class="bold-text">CHANGING USER INFORMATION</h2>
+<p>&nbsp;</p>
 
-<p>To correct or change your registration information click on the "My Account" link on the top of each EatWisconsinCheese.com page. To have us correct other personal information that you believe may be incorrect contact us at&nbsp;<a href="mailto:hello@EatWisconsinCheese.com">hello@EatWisconsinCheese.com</a>.</p>
+<p>Please note that with most browsers, a user can set the preferences to show a warning each time a cookie request is received. You can also usually set the browser not to accept cookies at all. By not accepting cookies, you may not be able to take advantage of all features of WisconsinCheese.com.</p>
 
-<h2 class="bold-text">SECURITY</h2>
+<p>&nbsp;</p>
 
-<p>EatWisconsinCheese.com is committed to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate procedures to safeguard and secure the information we collect online.</p>
+<p><b>USE OF INFORMATION</b></p>
 
-<h2 class="bold-text">YOUR CONSENT</h2>
+<p>WisconsinCheese.com uses both the personal and non-personal information we collect for a variety of purposes. For example, we use your information to better understand your needs and provide you with better products and service. Specifically, we use your information to communicate back to you, to update you on programs, services and benefits, and to personalize our website for you. We also use the non-personal information to provide aggregate data reports to our Board of Directors and other interested parties. WisconsinCheese.com does not share any personal information collected through the website with third parties.</p>
+
+<p>&nbsp;</p>
+
+<p><b>CHANGING USER INFORMATION</b></p>
+
+<p>To correct or change your registration information click on the "My Account" link on the top of each WisconsinCheese.com page. To have us correct other personal information that you believe may be incorrect contact us at (608) 836-8820</p>
+
+<p>hello@wisconsincheese.com.</p>
+
+<p>&nbsp;</p>
+
+<p><b>SECURITY</b></p>
+
+<p>WisconsinCheese.com is committed to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate procedures to safeguard and secure the information we collect online.</p>
+
+<p>&nbsp;</p>
+
+<p><b>YOUR CONSENT</b></p>
 
 <p>By using this website, you consent to our use of your personal and non-personal data as specified above. If we decide to change our Privacy Policy, we will post those changes on this page, so you are always aware of what information we collect, how we use it and under what circumstances we disclose it.</p>
 
-<h2 class="bold-text">CONCERNS AND COMMENTS</h2>
+<p>&nbsp;</p>
+
+<p><b>CONCERNS AND COMMENTS</b></p>
 
 <p>Your privacy concerns are important to us. Please email or write to us with any further questions or concerns regarding this Privacy Policy.</p>
 
-<p>Dairy Farmers of Wisconsin<br>
-C/O EatWisconsinCheese.com<br>
-8418 Excelsior Drive<br>
-Madison, Wisconsin 53719<br>
-Phone: 608-836-8820<br>
-<a href="mailto:hello@EatWisconsinCheese.com">hello@EatWisconsinCheese.com</a></p>
+<p>&nbsp;</p>
+
+<p><b>Dairy Farmers of Wisconsin</b></p>
+
+<p>8418 Excelsior Drive<br>
+Madison, Wisconsin 53717<br>
+(608) 836-8820<br>
+hello@wisconsincheese.com</p>
 
 
 
 
 
-</div>
-    </div>
-  </div>
-</div>
-
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-xs-12">
-      
 
 
 
 
     </div>
-  </div>
 </div>
+  </main>
   
-  <div class="container-fluid">
-    <div class="row">
-      <div class="margined-col">
-        
-
-
-
-
-      </div>
-    </div>
-  </div>
   
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-xs-12">
-        
+  
+<!-- Facebook Pixel Code --><script type="text/javascript">
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '604224466628809');
+fbq('track', 'PageView');
+</script><noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=604224466628809&amp;ev=PageView&amp;noscript=1" alt="facebook pixel" /></noscript><!-- End Facebook Pixel Code --><div class="mobile-nav" data-module="MobileNav">
+      <nav><div class="nav-item" data-target="">
+<div class="nav-item__icon"><svg height="19" width="19" xmlns="http://www.w3.org/2000/svg"> <path d="M15.223 15.033A8.005 8.005 0 0 0 3.707 3.912c-2 2.07-2.65 4.939-1.99 7.538 2.665-.584 5.241-1.256 7.326-1.72-.431 2.529-.876 4.71-1.274 7.556a7.994 7.994 0 0 0 7.454-2.253z" fill="none" fill-rule="evenodd" stroke="#F2F1EC" stroke-width="1.2"></path> </svg></div>
 
+<p class="nav-item__title">Cheese</p>
 
+<div class="nav-item__content">
+<div class="nav-item__close btn--close-btn">&nbsp;</div>
 
-
-      </div>
-    </div>
-  </div>  
-  <div class="modal fade heart-modal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
-    <div class="modal-dialog modal-sm">
-      <div class="modal-content">
-        <div class="modal-header bg-primary">
-          <div class="content-heading">You must be signed in...</div>
-        </div>
-        <div class="modal-body">
-          <p>to add recipes, collections, or cheeses to your favorites.</p>
-        </div>
-        <div class="modal-footer">
-          <p class="text-center"><a href="/Account/Sign-In" class="btn btn-primary login">Log In</a><span> or </span><a href="/Account/Sign-In" class="btn btn-secondary register">Register</a></p>
-        </div>
-      </div>
-    </div>
-  </div>
-</main>
-
-<footer>  
-  <img alt="Wisconsin Cheese" style="position: absolute; left: -25px; top: 125px; z-index: 1;" class="no-print" src="/EatWisconsinCheese/media/DesignAssets/wisc-cheese-footer-logo.png">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm-10 col-sm-offset-1">      
-        <div class="print-only">&nbsp;
-<p>Wisconsin Milk Marketing Board</p>
-
-<p>8418 Excelsior Dr., Madison, WI 53717</p>
-
-<p>(608) 836-8820 | www.EatWisconsinCheese.com</p>
-<img alt="" src="/EatWisconsinCheese/media/DesignAssets/wmmb_logo.png"></div>
-
-      </div>
-    </div>
-  </div>
-      
-  <div class="container-fluid no-print">
-    <div class="row text-center" style="position: relative; z-index: 2;">
-      <div class="col-sm-12 xs-center"><img alt="Wisconsin Milk Marketing Board" style="margin-top: -50px;" src="/EatWisconsinCheese/media/DesignAssets/wmmb_logo.png"></div>
-      <p>Copyright 2018. Wisconsin Milk Marketing Board. All rights reserved.<br>
-8418 Excelsior Dr. Madison, WI 53717 | 608-836-8820 | <a href="mailto:hello@EatWisconsinCheese.com">hello@EatWisconsinCheese.com</a></p>
-
-
-
-
-
-      <hr>
-            <ul>
-	<li><a href="/Media">Media</a></li>
-	<li><a href="/Privacy-Policy">Privacy Policy</a></li>
-	<li><a href="/About-Us">About Us</a></li>
-	<li><a href="/Contact">Contact</a></li>
-	<li><a href="/Sitemap">Sitemap</a></li>
-	<li><a href="/Newsletters">Newsletter</a></li>
+<ul>
+	<li class="nav-item__link"><a href="/our-cheese">Our Cheese</a></li>
+	<li class="nav-item__link"><a href="/our-cheese/find-cheese">Find Cheese</a></li>
+	<li class="nav-item__link"><a href="/our-cheese/pairing">Pairing Guide</a></li>
+	<li class="nav-item__link"><a href="/our-cheese/our-makers">Our Makers</a></li>
 </ul>
+</div>
+</div>
+
+<div class="nav-item" data-target="/recipes">
+<div class="nav-item__icon fal fa-utensils">&nbsp;</div>
+
+<p class="nav-item__title">Recipes</p>
+</div>
+<!--<div class="nav-item" data-target="#">
+<div class="nav-item__icon fal fa-comments">&nbsp;</div>
+
+<p class="nav-item__title">Blog</p>
+</div>
+-->
+
+<div class="nav-item mobileNavSearchBtn" data-target="">
+<div class="nav-item__icon fal fa-search">&nbsp;</div>
+
+<p class="nav-item__title">Search</p>
+</div>
+
+<div class="nav-item" data-target="">
+<div class="nav-item__icon fal fa-ellipsis-h">&nbsp;</div>
+
+<p class="nav-item__title">More</p>
+
+<div class="nav-item__content">
+<div class="nav-item__close btn--close-btn">&nbsp;</div>
+
+<ul>
+	<li class="nav-item__link"><a href="/whywisconsin">Why Wisconsin?</a></li>
+	<li class="nav-item__link"><a href="/grate-pair-share">Grate. Pair. Share.</a></li>
+	<li class="nav-item__link"><a href="/about-us">About</a></li>
+	<li class="nav-item__link"><a href="/https-dfwblobstorage-blob-core-windows-net-ewcmedi">Contact</a></li>
+	<li class="nav-item__link"><a href="/account/~-eatwisconsincheese-media-content-account-hea-(1)">Join Us</a></li>
+	<li class="nav-item__link"><a href="/media">Media</a></li>
+	<li class="nav-item__link"><a href="/account">My Account</a></li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+  
+  
+  <div class="footer-module" data-module="Footer">
+     <div class="wrapper">
+       <div class="footer-top">
+       
+         <div class="center">
+           <span>You'll know it's one of ours when you see the badge.</span>
+           <img src="/EatWisconsinCheese/assets/images/logo-starburst.png">
+         </div>
+         
+          <div class="left">
+           <div class="say-hello">
+             <p>Need help? Say Hello</p>
+             <a href="tel:608-836-8820">(608) 836-8820</a>
+             <a href="mailto:Hello@wisconsincheese.com">Hello@WisconsinCheese.com</a>
+           </div>
+         </div>
+         
+         <div class="right">
+           <div data-module="Newsletter">
+             <h5>Wisconsin Cheese Newsletter</h5>
 
 
 
 
+<div class="content-before">
 
-      <div class="hidden-md hidden-lg">
-          <a id="p_lt_ctl09_ToggleNonresponsiveModeButton1_btnElem_hyperLink" class="btn btn-default btn-responsive-toggle" onclick="__doPostBack('p$lt$ctl09$ToggleNonresponsiveModeButton1$btnElem',''); return false;"><span id="p_lt_ctl09_ToggleNonresponsiveModeButton1_btnElem_lblText">View full-site</span></a>
+<div id="p_lt_ctl04_FooterEWCNewsletterSubscription_pnlSubscription" class="newsletter-subscribe" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_ctl04_FooterEWCNewsletterSubscription_btnSubmit')">
+	
+    <!--<div class="form-group">
+        <span class="label label-text"><label>*Full Name:</label></span>
+        <input name="p$lt$ctl04$FooterEWCNewsletterSubscription$txtFullName" type="text" id="p_lt_ctl04_FooterEWCNewsletterSubscription_txtFullName" class="form-control" />
+    </div>-->
+    <div class="form-group">
+        <label class="label label-text control-label">Enter Your Email</label>
+        <input name="p$lt$ctl04$FooterEWCNewsletterSubscription$txtEmail" type="text" id="p_lt_ctl04_FooterEWCNewsletterSubscription_txtEmail" class="newsletter-input form-control dot-bg--two">
+
+       <!-- <button type="submit" name="p$lt$ctl02$FooterEWCNewsletterSubscription$btnSubmit" id="p_lt_ctl02_FooterEWCNewsletterSubscription_btnSubmit" class="submit-button" />Submit</button>-->
+    
+    
+            <!--<div class="form-group alert alert-info">-->
+                <div class="checkbox-wrapper" style="height:0;opacity:0">
+                    <span newsletterid="2080153703"><input id="p_lt_ctl04_FooterEWCNewsletterSubscription_rptNewsletters_ctl00_chkNewsletter" type="checkbox" name="p$lt$ctl04$FooterEWCNewsletterSubscription$rptNewsletters$ctl00$chkNewsletter" checked="checked"><label for="p_lt_ctl04_FooterEWCNewsletterSubscription_rptNewsletters_ctl00_chkNewsletter">All Things Cheese Newsletter</label></span>
+                    <input type="hidden" name="p$lt$ctl04$FooterEWCNewsletterSubscription$rptNewsletters$ctl00$hidNewsletterListID" id="p_lt_ctl04_FooterEWCNewsletterSubscription_rptNewsletters_ctl00_hidNewsletterListID">
+                </div>
+                <!--<div class="newsletter-description">
+                    <span id="p_lt_ctl04_FooterEWCNewsletterSubscription_rptNewsletters_ctl00_lblDescription">Cheese makes everything taste better. For special recipes and news of Wisconsin Cheese programs, sign up for All Things Cheese, WMMB's monthly newsletter for those of us who can never get enough cheese!</span>
+                </div>
+            </div>-->
+        
+    <!--<div class="form-group newsletter_radiobuttons">
+        <span class="label label-text"><label>Subscription:</label></span>
+        <div class="subscription-type">
+            <table id="p_lt_ctl04_FooterEWCNewsletterSubscription_rblSubType">
+		<tr>
+			<td><input id="p_lt_ctl04_FooterEWCNewsletterSubscription_rblSubType_0" type="radio" name="p$lt$ctl04$FooterEWCNewsletterSubscription$rblSubType" value="sub_add_update" checked="checked" /><label for="p_lt_ctl04_FooterEWCNewsletterSubscription_rblSubType_0">Subscribe</label></td>
+		</tr><tr>
+			<td><input id="p_lt_ctl04_FooterEWCNewsletterSubscription_rblSubType_1" type="radio" name="p$lt$ctl04$FooterEWCNewsletterSubscription$rblSubType" value="unsub" /><label for="p_lt_ctl04_FooterEWCNewsletterSubscription_rblSubType_1">Unsubscribe</label></td>
+		</tr>
+	</table>
+        </div>
+    </div>-->
+        
+        <input type="submit" name="p$lt$ctl04$FooterEWCNewsletterSubscription$btnSubmit" value="testSubmit" id="p_lt_ctl04_FooterEWCNewsletterSubscription_btnSubmit" class="submit-button btn btn-primary">
+        
+    </div>
+
+</div>
+</div>
+<style>
+div[data-module="Newsletter"] .checkbox-wrapper{
+overflow:hidden;
+}
+.EditingFormErrorLabel, .EditingFormInfoLabel {color: #ebe2c2;margin-bottom:10px;}
+.EditingFormErrorLabel p, .EditingFormInfoLabel p {display:none;}
+</style><ul class="social-icons">
+    <li><a href="https://www.facebook.com/wisconsincheese/"><i class="fab fa-facebook-f"></i></a></li>
+    <li><a href="https://www.twitter.com/wisconsincheese/"><i class="fab fa-twitter"></i></a></li>
+    <li><a href="https://www.instagram.com/wisconsincheese/"><i class="fab fa-instagram"></i></a></li>
+    <li><a href="https://www.youtube.com/wisconsincheesetalk/"><i class="fab fa-youtube"></i></a></li>
+    <li><a href="https://www.pinterest.com/wisconsincheese/"><i class="fab fa-pinterest"></i></a></li>
+</ul>
+<script language="javascript" type="text/javascript">
+$(function() {
+if ($(".EditingFormErrorLabel").text()!="") {
+$(".control-label").addClass("active").addClass("focused");
+ $('html, body').animate({
+                    scrollTop: $(".EditingFormErrorLabel").offset().top
+                }, 200);
+}
+});
+</script>
+           </div>
+         </div>
+       </div>
+       
+       <div class="footer-bottom">
+         <ul class="footer-links">
+	<li><a href="/about-us">About</a></li>
+	<li><a href="/contact">Contact</a></li>
+	<li><a href="/media">Media</a></li>
+</ul>
+<p class="copyright">© 2018 Dairy Farmers of Wisconsin <a href="/terms-conditions">Terms &amp; Conditions</a> <a href="/privacy-policy">Privacy Policy</a> <a href="/sitemap">Sitemap</a></p>
+
+       </div>
+     </div>
+    
+    <div class="background-image"></div>
+    <div class="background-color"></div>
+       
+  </div>
+</div>
+
+    
+    
 
 <script type="text/javascript">
 	//<![CDATA[
-  if ("False"== "True") {
-    $('body').addClass('non-responsive');
-    $('.btn-responsive-toggle span').text("VIEW MOBILE"); 
-  }
-  else {
-    $('body').removeClass('non-responsive');
-  } 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 //]]>
 </script>
-        </div>
-      
-    </div>
-  </div>  
-</footer>
-<script type="text/javascript" src="/CMSScripts/Custom/jquery.matchheights.js"></script>
-<script type="text/javascript" src="/CMSScripts/Custom/eatwisconsincheese.js"></script>
-<script type="text/javascript">  
-  Sys.WebForms.PageRequestManager.getInstance().add_endRequest(function(e){
-    window.setTimeout(function() {
-      CalculateEqualHeightRows(); 
-    }, 1000);
-  });
+<script type="text/javascript">
+	//<![CDATA[
+if ( (parent == null) || (!parent.IsCMSDesk) ) {
+try { 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-120383016-1']);
+_gaq.push(['_setDomainName', 'wisconsincheese.com']);
+_gaq.push(['_trackPageview']);
+} catch(err) {}
+}
+//]]>
 </script>
-
-
-    
-    
-
 <script type="text/javascript">
 //<![CDATA[
-(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
-    $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"p_lt_ctl00_SmartSearchBox_txtWord_exWatermark_ClientState","WatermarkText":"search...","id":"p_lt_ctl00_SmartSearchBox_txtWord_exWatermark"}, null, null, $get("p_lt_ctl00_SmartSearchBox_txtWord"));
-});
-Sys.Application.add_init(function() {
-    $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"p_lt_ctl04_SmartSearchBox_txtWord_exWatermark_ClientState","WatermarkText":"search...","id":"p_lt_ctl04_SmartSearchBox_txtWord_exWatermark"}, null, null, $get("p_lt_ctl04_SmartSearchBox_txtWord"));
-});
+
+var callBackFrameUrl='/WebResource.axd?d=beToSAE3vdsL1QUQUxjWdZq6TpXbUAvv2B8Lu3PCUUEtUGkO8fdxayOyaGgDIZRtHeEQWqpuI9sJ3FYiS0YRqw2&t=636876162735773777';
+WebForm_InitCallback();
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
 //]]>
 </script>
-</form>
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="sJRQ+TBwqhgrD2r9JGUzYFJwESR79hfn3cFuhTXqaB/Lezwp6qNE7ieXAuKecO/mSyWY/piudxfRX43NzKjHmg2AXHuTB9SiVb/OW3U6j3yot4Guj+bI87vBMNeDtsVZwX5G92Ayb2xe23opulzNiUXQSC5l0DxKXrG9EFWBS3BhB3Cv6hEPKZ9mDCCQfyFcEkx4414RB0HJjapYfmp/0SHTDn4qoAPZiFqFlnPi1Okswc8UnA55TZhDijaOoBQb4dwV76478Xj4+JepAfsd7Dd/AVhVCbt3pl57leFoPjuiorm7+MM5DCA9Vad8WTBOcVSPcnI78d5llGtfSvQ853CXvjzG2e/Zz+yY9BD7j1AANZDXm6Ipf1THr/Oc4n3AZG8XStHfG/DRduTZ4DOuMaHiTKj9XReLQMJoiVd1g1eG2EmvsVcEhb7CTsH4rmPo+ovJag/ULKrQT3kK7DP5r5GSVXtwRnoHtxAeIIY0gVS7a2edBiJBeRt2XxuxxXbTeBlJD5usWFW58pFB6ZmH7ZzcAyUAzzf4mZnUQJV2zzs3pW2+MHHwayPkK9PcNLsEletvB3Xivjz3DkkJkCvXldtdYpP6a5m94ocRwOzuRrGoX9mMBegw5dnvBT4+MFuqwvv+EWKJvRnMgn6xUGbmMhh5kA94UGSblKGjrwNiGvY01lbmJfQBKVrfDNQ3+f41o9nZSAz+7m/sbdQR6wo11cimRLtwM/S011+lqVmULaLmR73EXmJPD99TFirobNVN49HmAnhNjpD5ZT5RUCnZ8Kq+ddCDp9XoHIDdSVgHHGTlZ9npYynwUvWgdxbRwBe9jnb3O7Px55Z6+oRar6M/a9B8CrLsdsQJaObzreM8omUJbhjSVhbouwzpR0Uj7c72HM7zfFPZbFMzrSIRQVOtOKMVup59NSg2MGMZaOxkOc6bMiXSvNjX5M2oUDOw+FaklZyhCQQlbl+kNMphc0xEWw==">
+  <script type="text/javascript"> 
+      //<![CDATA[
+      if (window.WebForm_InitCallback) { 
+        __theFormPostData = '';
+        __theFormPostCollection = new Array();
+        window.WebForm_InitCallback(); 
+      }
+      //]]>
+    </script>
+  </form>
 
 
 </body></html>
