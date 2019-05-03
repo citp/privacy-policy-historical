@@ -1,39 +1,73 @@
-> *The following text is extracted and transformed from the company.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203213913id_/http%3A//www.company.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the company.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503221123id_/https%3A//www.company.com/privacy-policy) for the most accurate reproduction.*
 
-# Company.com
+# Privacy Policy | Company.com
 
-* INFORMATION WE COLLECT AND HOW WE USE IT
+_Last Updated: January 15, 2018_
 
-1\. Your name and email address.
+Your privacy is important to you and at Company.com we are committed to protecting it.
 
-We collect your name and your email address so that we can forward messages to you from providers that are competing for your business and so that providers can contact you with offers in response to your inquiries. We also use this information to keep track of offers and services that may be or are actually provided to you by Company.com or other providers.
+Company.com, LLC (“Company.com”) is a trusted provider of enterprise quality operational resources to help start, run and grow your business. Our suite of business services, productivity tools and resources are designed to scale with your success. We're passionate about streamlining operations for small and mid-sized business owners, getting you out of the back office and in front of the competition.
 
-2\. Zip code.
+ **Protecting your privacy is a priority to us.** Company.com does not share nonpublic information about you with third-party marketers outside Company.com without your consent, except as explained in our Privacy Policy.
 
-We collect your zip code so that we can match you with local providers in your area.
+**The security of your information is a priority to us.** We maintain physical, electronic, and procedural safeguards that comply fully with current federal law and standards to protect customer information.
 
-3\. Other data.
+Our Privacy Policy informs our customers and all visitors to this website how we collect information, what we do with the information, how we share it and other important aspects of the online experience that will help answer any questions and concerns you may have. These policies may change from time to time.
 
-While your email address and zip code are the only pieces of information required to use the Company.com service, we will often present you with other optional form fields such as age, income range, specific needs, etc. in order for you to narrow your search for providers. When you choose to provide this information to us, we will use it to match you with specific providers who are looking for interested consumers with that profile. In such cases, we will send the optional data to the provider, along with your Company.com email address and your zip code, so that they can deliver customized messages to you regarding your inquiry and in order for them to evaluate the performance of their campaigns with Company.com.
+## How We Gather Information
 
-4\. Non-Personally Identifiable Information (Non-PII).
+As part of providing you with Company.com products or services, we may obtain information about you from the following sources:
 
-Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.
+* Applications and other information that you provide us, whether in writing, in person, by telephone, electronically, via the Internet or by any other means, including via third parties who may refer you to Company.com. This information may include your name, address, employment information, credit references and other information needed or useful in providing services to you or otherwise transacting business with you;
+* your transactions with us, our affiliates, our alliance partners, or others; 
+* other third parties, including public sources, including real-estate records, street and e-mail addresses and telephone numbers.
 
-When you respond to or view a Company.com form or visit the Company.com site, we place a cookie that assigns an anonymous, unique identifier to the end userÂ’s Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to websites. These cookies are not used to collect any personally identifiable information such as name, address, social security number, etc.
+## The Information We Collect
 
-These Cookies help us to personalize your experience and to pay providers that refer users to Company.com. We may retain ad delivery and reporting data that is necessary for accounting and audit purposes.
+The types of personal information collected include: name, company name or information, address, email address, phone number, fax number, credit or debit card information and domain name.
 
-* ADDITIONAL INFORMATION SHARING
+## Use of Cookies
 
-In addition to the sharing of personal information as set forth above, Company.com only shares personal information with other companies or individuals outside of Company.com in the following limited circumstances:
+Our site makes use of "cookies". A cookie is a piece of data stored on your computer hard drive containing information about you. The use of cookies is commonplace on the Internet. Cookies can save information such as home server, domain, e-mail address, name, mailing address, and telephone number. When a user revisits the site, Company.com may recognize a user by virtue of a cookie and customize the user’s web experience. A user may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. Some of our business partners may use cookies on their sites, however we have no access to or control over those cookies.
 
-We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+## Log Files
 
-We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service or Terms of Use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, (d) protect against harm to the rights, property or safety of Company.com, its users or the public as required or permitted by law, (e) provide our services, including the display of customized content and advertising, (f) audit, research and analyze in order to maintain, protect and improve our services, or (g) develop new services.
+We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-* CHANGES TO THIS PRIVACY POLICY
+## Sharing Information Outside the Company.com
 
-Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page, and such changes will become effective when posted.
+Unless you authorize us to do so, Company.com does not provide non-public information about you to anyone to market their products and services except as provided for in this policy under the section titled “Sharing Information with Company.com Alliance Partners”
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this website.
+In some situation, however, we may provide the information we gather about you to third parties outside of the Company.com without your consent, subject to strict confidentiality requirements, as required by law or in the good faith belief that such action is necessary or appropriate in order to:
+
+* comply with any federal, state or industry standard or comply with legal process served on Company.com;
+* communicate with credit reporting agencies;
+* protect and defend the rights or property of Company.com;
+* to protect against fraud, money laundering and other risks; or
+* act in urgent circumstances to protect the personal safety of users of Company.com, its Websites, or the public.
+
+In addition, we may provide all the information we gather about you to our service providers and third parties referring you to us. These may include statement, billing, and telephone service companies, companies that help us perform marketing services as well as third parties referring you to us.
+
+## Sharing Information with our Alliance Partners
+
+Company.com has certain alliances with third party organizations and businesses to assist Company.com in serving the needs of our small business clients. When you are referred to us by one of these alliances or when you are referred by us to one of these alliance partners, either directly or through an electronic connection that you have used in filing an application for a business service, we share information about you with that specific alliance partner so that they may seek to provide business services to you.
+
+## How You Can Access or Correct Your Information
+
+If you would like to verify and/or edit or update the personal information we have on file for you, please contact us. To protect your privacy and security, we will also take reasonable steps to verify your identity before providing such information or making requested corrections.
+
+## Security Practices
+
+We have implemented and maintain reasonable physical, electronic and procedural safeguards to protect your non-public personal information. Your personal information is never shared outside the company without your permission, except under conditions explained above.
+
+## Links and Linked Internet Websites; Websites of Our Alliance Partners:
+
+Company.com may provide links and/or referrals to sites that are separate from ours, including sites of our alliance partners. These external sites, including sites of our alliance partners, may have their own privacy policies that are different from ours. Company.com is not responsible for the collection, use or disclosure of information collected on these external sites and we expressly disclaim any and all liability related thereto.
+
+## Consent
+
+By registering your personal details, you consent to the use of your information as set out in this Privacy Policy and agree to be bound by the terms of this Privacy Policy.
+
+## Changes to our Privacy Policy
+
+We may make a change to our Privacy Policy at any time.
