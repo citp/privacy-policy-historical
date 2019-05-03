@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the diagnosticquestions.com privacy policy that was archived on 2016-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212164703id_/https%3A//diagnosticquestions.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diagnosticquestions.com privacy policy that was archived on 2019-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190504000217id_/https%3A//diagnosticquestions.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -11,13 +11,13 @@
       
         <link href="/vendor?v=s5_DUwElGiZOLS40-FZfB5FFDSrmax2O_LiKzE1_rYg1" rel="stylesheet">
 
-        <link href="/styles?v=z6ypNq-MbjiZI1BUWsHG78BlGzBbbrEieT8NtQqNPxc1" rel="stylesheet">
+        <link href="/styles?v=VL_kLMAHfGoKbRFuzQFhLWYge8MmyXFfSkGXZ_9NGMo1" rel="stylesheet">
 
 
-        <script src="/scripts/head?v=bBPu9MIiVWis97hADtgCc1lSMtiV3wMZ4Qp7H8HqOcU1"></script>
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20150822121733/https://hello.myfonts.net/count/2d6691"></script><script src="/scripts/head?v=bBPu9MIiVWis97hADtgCc1lSMtiV3wMZ4Qp7H8HqOcU1"></script>
 
 
-        <link href="/assets/css/sidebaronly.css?v20161118" rel="stylesheet">
+        <link href="/assets/css/sidebaronly.css?v20180509" rel="stylesheet">
 
         <!--[if lt IE 9]>
             <script src="/App/bower_components/respond-minmax/dest/respond.min.js"></script>
@@ -40,14 +40,19 @@
         <script type="text/javascript">
             var customPath = "/App/styles/ui/fonts/MyFonts";
         </script>
-        <script type="text/javascript" src="/App/styles/ui/fonts/MyFonts/MyFonts.js"></script>
+        <script type="text/javascript" src="/App/styles/ui/fonts/MyFonts/MyFonts.js"></script><style type="text/css">@font-face{font-family: HelveticaNeueLTStd-UltLt;src:url(/App/styles/ui/fonts/MyFonts/webfonts/2D6691_0_0.woff2)format("woff2");}@font-face{font-family: RockwellStd;src:url(/App/styles/ui/fonts/MyFonts/webfonts/2D6691_1_0.woff2)format("woff2");}@font-face{font-family: RockwellStd-Light;src:url(/App/styles/ui/fonts/MyFonts/webfonts/2D6691_2_0.woff2)format("woff2");}</style>
         <script src="/App/bower_components/requirejs/require.js"></script>
         <script src="/App/build/common.js"></script>
+        
         
 
 <script type="text/javascript">
 
+    ////////////////////////////////////////////////////////////////////////////////
     // Application Insights Telemetry
+    // See https://docs.microsoft.com/en-us/azure/application-insights/ and
+    // https://docs.microsoft.com/en-us/azure/application-insights/app-insights-javascript
+    ////////////////////////////////////////////////////////////////////////////////
         
     var appInsights = window.appInsights || function (config) {
         function i(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = "AuthenticatedUserContext", h = "start", c = "stop", l = "Track", a = l + "Event", v = l + "Page", y = u.createElement(o), r, f; y.src = config.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js";
@@ -60,11 +65,12 @@
 
     window.appInsights = appInsights;
 
-    // Add telemetry initializer
+    // Add telemetry initializer to collect contextual information
+    // See https://docs.microsoft.com/en-us/azure/application-insights/app-insights-asp-net-more
     appInsights.queue.push(function () {
         appInsights.context.addTelemetryInitializer(function (envelope) {
             var telemetryItem = envelope.data.baseData;
-            var nameSafe = telemetryItem.name || "";
+            var nameSafe = telemetryItem.data || "";
 
             // Prevent segment and mixpanel request from being logged via Application Insights
             if (envelope.name === Microsoft.ApplicationInsights.Telemetry.RemoteDependencyData.envelopeType
@@ -87,50 +93,56 @@
             p.schoolName = null;
         });
     });
-    // end of insertion
+
         appInsights.clearAuthenticatedUserContext();
 
     appInsights.trackPageView();
 
     
 
-    var analyticOptions = {
+    ////////////////////////////////////////////////////////////////////////////////
+    // Intercom
+    ////////////////////////////////////////////////////////////////////////////////
+
+    ////////////////////////////////////////////////////////////////////////////////
+    // Hotjar
+    ////////////////////////////////////////////////////////////////////////////////
         
-        integrations: {
-            'All': false,
-            'Intercom':  false,
-            'Mixpanel':  false,
-            'Google Analytics':  true,
-            'MailChimp':  false,
-            'Appcues':  false
-        },
-        Intercom: { hideDefaultLauncher: true }
-    };
-
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:"842288",hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
         
-    // Load segment analytics for the system
-
-    require(["analytics"], function(analytics) {
-
-        analytics.load("L2KQWuzq5v3cHAanaUbC5niAlD0RzIV5");
-
-        
-        analytics.ready(function() {
-            
-            if (window.analytics.user().id() !== null) {
-                window.analytics.reset();
-                mixpanel.cookie.clear();
-            }
-        });
-        
-
-    });
-
     
-</script><script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+    ////////////////////////////////////////////////////////////////////////////////
+    // Google Analytics
+    ////////////////////////////////////////////////////////////////////////////////
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', "UA-90280045-2", "diagnosticquestions-dev.azurewebsites.net");
+    if(-1 != -1)
+    {
+        ga('set', '&uid', '-1'); // Set the user ID using signed-in user_id.
+        ga('set', 'dimension2', '-1'); // Setting to user_id to blank out usernames which should not be sent to GA
+    }
+
+    ga('set', 'dimension1', 'Anonymous');
+    ga('send', 'pageview');
+</script><script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script><script async="" src="https://static.hotjar.com/c/hotjar-842288.js?sv=6"></script>
 
 
-    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="analytics" src="./analytics.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="pages/landing/navi" src="./pages/landing/navi.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/App/build/common.js" src="/App/build/common.js"></script></head>
+
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="pages/landing/navi" src="/app/build/pages/landing/navi.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/App/build/common.js" src="/App/build/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="pages/home/cookies" src="/app/build/pages/home/cookies.js"></script></head>
+
     <body class="body-diagnostic">
 
         <noscript>
@@ -139,7 +151,7 @@
                 This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.
             </div>
         </noscript>
-
+        
 
         <div class="wrap wrap--marketing">
 
@@ -166,9 +178,7 @@
             <a href="/Home/Insights" class=" navi__link navi__link--text navi__link--thick">
                 Insights
             </a>
-            <a href="/MobileApp" class=" navi__link navi__link--text navi__link--thick">
-                Student app
-            </a>
+            
         </div>
         <div class="navi__box navi__footer">
             <a href="/Account/Login" class=" navi__link navi__link--thick-centered navi__link--text">
@@ -197,9 +207,7 @@
             <a href="/Home/Insights" class=" navi__box navi__link navi__link--marketing navi__link--text">
                 Insights
             </a>
-            <a href="/MobileApp" class=" navi__box navi__link navi__link--marketing navi__link--text">
-                Student app
-            </a>
+            
         </div>
         <div class="navi__box navi__box--flexes-0-to-1 navi__box--end navi__boxes navi__boxes--horizontal navi__marketing__right">
             <a href="/Account/Login" class=" navi__box navi__link navi__link--marketing navi__link--text">
@@ -231,269 +239,417 @@
     </div>
 </div>
 
-
-
-
 <div class="container cookies__page">
 
     <div class="row">
 
-        <div class="col-md-3 learn__side-menu">
-
-            <div class="js-help-nav nudge-margin-bottom-lg">
-                <ul class="nav nav-stacked nav-lines">
-                    <li class="active"><a href="#pp-intro">Introduction</a></li>
-                    <li><a href="#information-we-collect">What Information Do We Collect About You and Why?</a></li>
-                    <li><a href="#use-your-information">How We Use Your Information</a></li>
-                    <li><a href="#share-your-information">How We Share Your Information</a></li>
-                    <li><a href="#cookies-and-tracking">Our Use of Cookies and Other Tracking Mechanisms</a></li>
-                    <li><a href="#third-party-links">Third-Party Links</a></li>
-                    <li><a href="#security-personal-information">Security of Your Personal Information</a></li>
-                    <li><a href="#access-personal-information">Access to Your Personal Information</a></li>
-                    <li><a href="#marketing-communications">Marketing Communications</a></li>
-                    <li><a href="#contact-us">Contact Us</a></li>
-                </ul>
-            </div>
-
-        </div>
-
-        <div class="col-md-9">
+        <div class="col-md-8 col-md-offset-2">
 
             <div class="well well-lg">
 
-                <table border="0" cellpadding="5" cellspacing="5">
-                    <tbody>
-                        <tr>
-                            <td style="width: 60%;">
-                                <h1 id="pp-intro">Introduction</h1>
-                                <p>In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our website diagnosticquestions.com (the "Site") and users of the services available through our Site (the "Services").</p>
-                                <p>By visiting the Site or using any of our Services, you agree that your personal information will be handled as described in this Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Policy and our <a href="/Home/TermsOfService">Terms of Service</a>, including its applicable limitations on damages and the resolution of disputes. The Terms of Service are incorporated by reference into this Policy.</p>
-                            </td>
-                            <td style="width: 10%;">&nbsp;</td>
-                            <td style="width: 30%;">
-                                <p style="line-height: 1.3"><span style="font-size:20px;"><strong>More simply put:</strong><br>We care about your privacy. This policy outlines how we seek to protect it.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">
-                                <h1 id="information-we-collect">What Information Do We Collect About You and Why?</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>&nbsp;</div>
-                                <div>We may collect information about you directly from you and from third parties, as well as automatically through your use of our Site or Services.</div>
-                                <div>&nbsp;</div>
-                                <div><strong>Information We Collect Directly From You</strong><br><br>
-                                    <i>Teachers. </i>Certain areas and features of our Site, App, and Services may require registration. To register, teachers must provide an email and password. We also may collect additional optional information from you, including first name, last name, primary role, what you teach, and where do you teach, though you are not required to provide us with this information. If you make a purchase on our Site or App, you must provide your e-mail address and password, credit card information, and name on card.<br><br>
-                                    <i>Students. </i>We require students to submit a name to use the Site, App or Service. To log on, students simply enter their unique classroom ID, provided by a teacher and a name. If a student creates a full Diagnostic Questions student account the student will be required to have a password. We may collect a child's name and other information where directed by the child's teacher. In such cases, we do not use the child's personal information for our own commercial purposes.<br><br>
-                                </div>
-                                <div><strong>Information We Collect Automatically.</strong><br><br>
-                                       We may automatically collect the following information about a child’s use of our Site, App, or Services through cookies and other technologies: domain name; browser type and operating system; web pages viewed; links clicked; the length of time spent on our Site or App; the length of time our Services are used; Google Analytics statistics; the referring URL, or the webpage that led a user to our Site; language information; device name and model; operating system type, name, and version; and activities within our Site and App. We may also collect IP address, device identifier or a similar unique identifier from users of our App and Site, including children; we only use such identifiers to support the internal operations of our Site and App and do not use such identifiers to collect information about users outside of our Site or App. We may also collect location information from teacher users of our app and may combine the information we automatically collect from teachers with the information we collect directly.
-                                </div>
-                                <div>&nbsp;</div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">In the course of your use of the site, we will collect various pieces of information from you and about you.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">                                
-                                <h1 id="use-your-information">How We Use Your Information</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>&nbsp;
-                                    <div>We use the information that we gather about you for the purposes such as the following:</div>
-                                    <div>&nbsp;</div>
-                                    <ul>
-                                        <li>To provide our Services, to communicate with teacher users about your use of our Services, to respond to inquiries, and for other customer service purposes.</li>
-                                        <div>&nbsp;</div>
-                                        <li>To provide students and teachers with information and reports about student performance and use of the Site and Services.</li>
-                                        <div>&nbsp;</div>
-                                        <li>To tailor the content and information that we may send or display to users, to offer personalized help and instructions, and to otherwise personalize your experiences while using the Site or Services.</li>
-                                        <div>&nbsp;</div>
-                                        <li>For marketing and promotional purposes. We may use information collected from teacher users, to send such users you news and newsletters, special offers, and promotions, or to otherwise contact such users about products or information we think may be of interest. We will not send marketing or promotional materials to student users.</li>
-                                        <div>&nbsp;</div>
-                                        <li>To better understand how users access and use our Site, App, and Services, on an aggregated or de-identified basis, in order to improve our Site, App, and Services and respond to user desires and preferences, and for other research and analytical purposes.</li>
-                                    </ul>
-                                </div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We will use the information we collect to provide services to you, to promote services to you and to provide information and services to other users.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">
-                                <h1 id="share-your-information">How We Share Your Information</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>
-                                    <div>We do not sell your personal information. Generally, we may disclose the personal information that we collect to provide our Services, to comply with the law, and to protect Diagnostic Questions and other users of our Services. For example, we may share the personal information we collect as follows:</div>
-                                    <div>&nbsp;</div>
-                                    <ul>
-                                        <li>Service Providers. We may disclose the information we collect from you to third-party vendors, service providers, contractors or agents who perform functions on our behalf.</li>
-                                        <div>&nbsp;</div>
-                                        <li>Business Transfers. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company.</li>
-                                        <div>&nbsp;</div>
-                                        <li>In Response to Legal Process. We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process.</li>
-                                        <div>&nbsp;</div>
-                                        <li>To Protect Us and Others. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which Diagnostic Questions is involved.</li>
-                                        <div>&nbsp;</div>
-                                        <li>Teachers and Other Users. Teachers are able to provide students with quizzes and receive data insights for those assignments, through the Site, App, or Services. As part of this, teachers can see information about a student’s use of the Services, including their performance on certain quizzes, assignments, and other activities.</li>
-                                        <div>&nbsp;</div>
-                                        <li>Aggregate and De-Identified Information. We may share aggregate or de-identified information about users with third parties for marketing, advertising, research, or similar purposes.</li>
-                                    </ul>
-                                </div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We will not sell your personal information. We will share your information only to the extent permitted by or required by law.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">
-                                <h1 id="cookies-and-tracking">Our Use of Cookies and Other Tracking Mechanisms</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>We use cookies and other tracking mechanisms to track information about your use of our Site, App, or Services. We may combine this information with other personal information we collect from you. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and Service.</div>
-                                <div>&nbsp;</div>
-                                <div>
-                                    <i>Third-Party Cookies. </i>We may also engage third parties, such as Google Analytics, to track and analyze data from our Site or Services. We use the data collected by such third parties to help us administer and improve the quality of our Site and Services and to analyze Site and usage. We may also engage third parties, such as Google, Facebook and Twitter to deliver online advertisements to users who have visited our site for the purpose of encouraging these users to return to the site. These third parties are not permitted to use the information collected on our behalf, except to help us conduct and improve our business.<br><br>
-                                    <i>Disabling Cookies. </i>Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function.<br><br>
-                                </div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We use cookies to track information about your use of our site and services, in order to enhance both. We may also use cookies provided by third parties. You can disable cookies on your device, however, this may mean that certain areas of our site will not function.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">
-                                <h1 id="third-party-links">Third-Party Links</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>&nbsp;</div>
-                                <div>Our Site and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third-party websites. We are not responsible for the information practices of such third-party websites.</div>
-                                <div>&nbsp;</div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">Any sites linked to from our site are not governed by this policy and we are not responsible for their use of your information.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">
-                                <h1 id="security-personal-information">Security of Your Personal Information</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>&nbsp;</div>
-                                <div>We have implemented a variety of security measures to protect the personal information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.</div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We do our best to protect your personal information but cannot guarantee 100% security. You must also take care to secure your password and any devices you use.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">
-                                <h1 id="access-personal-information">Access to Your Personal Information</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>&nbsp;</div>
-                                <div>You may modify personal information that you have submitted by logging into your account and updating your profile information. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or App for a period of time.</div>
-                                <div>&nbsp;</div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">You may access and edit personal information that you have submitted.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">
-                                <h1 id="marketing-communication">Marketing Communications</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>&nbsp;</div>
-                                <div>We may send periodic promotional or informational emails to teacher and parent users. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us.</div>
-                                <div>&nbsp;</div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We may send you promotional emails but you can opt-out of them.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">
-                                <h1 id="contact-us">Contact Us</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>&nbsp;</div>
-                                <div>If you have questions about the privacy aspects of our Services or would like to make a complaint, please <script type="text/javascript">eval(unescape("%70%77%69%70%61%33%32%3d%5b%27%25%37%33%25%36%39%25%36%64%25%36%66%25%36%65%27%2c%5b%27%25%36%33%25%36%66%25%36%64%27%2c%27%25%36%34%25%36%39%25%36%31%25%36%37%25%36%65%25%36%66%25%37%33%25%37%34%25%36%39%25%36%33%25%37%31%25%37%35%25%36%35%25%37%33%25%37%34%25%36%39%25%36%66%25%36%65%25%37%33%27%5d%2e%72%65%76%65%72%73%65%28%29%2e%6a%6f%69%6e%28%27%2e%27%29%5d%2e%6a%6f%69%6e%28%27%40%27%29%3b%62%6e%75%65%6e%36%37%3d%27%43%6f%6e%74%61%63%74%27%3b%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%62%6e%75%65%6e%36%37%2e%6c%69%6e%6b%28%27%6d%61%69%27%2b%27%6c%74%6f%3a%27%2b%70%77%69%70%61%33%32%29%29%3b"));</script><a href="mailto:%73%69%6d%6f%6e@%64%69%61%67%6e%6f%73%74%69%63%71%75%65%73%74%69%6f%6e%73.%63%6f%6d">Contact</a> us.</div>
-                                <div>&nbsp;</div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">If you have questions about these terms, feel free to contact us.</span></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="width: 30%;">
-                                <h1 id="changes">Changes</h1>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div>&nbsp;</div>
-                                <div>This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at <a href="/Home/PrivacyPolicy">diagnosticquestions.com/Home/PrivacyPolicy</a>. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.</div>
-                                <div>&nbsp;</div>
-                                <div>Effective Date: Tuesday 14th June 2016</div>
-                                <div>&nbsp;</div>
-                            </td>
-                            <td>&nbsp;</td>
-                            <td>
-                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">Our Services and this policy may change at any time.</span></p>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
+                <p>Diagnostic Questions (Diagnosticquestions.com) is owned by Eedi Ltd.</p>
+
+                <h2>1</h2>
+                <p>
+                    EEDI LTD. (<b>We</b>) are committed to protecting and
+                    respecting your privacy.
+                </p>
+                <h2>2</h2>
+                <p>
+                    This policy (together with our terms and conditions and any
+                    other documents referred to in them) sets out the basis on
+                    which any personal data we collect from you, or that you
+                    provide to us, will be processed by us in accordance with
+                    applicable legislation. Please read the following carefully to
+                    understand our views and practices regarding your personal
+                    data and how we will treat it. This policy applies whether you
+                    use our products and services through www.eedi.co.uk, www.diagnosticquestions.com or our
+                    mobile applications (collectively, the Site). By using the
+                    Site, you acknowledge that you are accepting and consenting to
+                    the practices described in this policy.
+                </p>
+                <h2>3</h2>
+                <p>
+                    EEDI LTD. of Unit 4.2.2 The Leather Market, Weston Street,
+                    London, England, SE1 3ER, is the data controller.
+                </p>
+                <h2>4</h2>
+                <h3>
+                    What information are we going to collect from you?
+                </h3>
+                <p>
+                    1. The types and amounts of information collected will vary
+                    depending on whether the user is a student, parent/guardian or
+                    teacher and how users use the Site.
+                </p>
+                <p>
+                    2. Where we collect information directly from a student under
+                    the age of 16, we will also ask for a parent/guardian email
+                    address from the student so we can seek verifiable
+                    parental/guardian consent to the collection and processing of
+                    the student’s personal data. In cases, however, where we
+                    collect personal data in respect of students from their
+                    teachers or schools, we will rely on the authority of the
+                    teachers or schools to provide such data to us and will not
+                    seek to obtain separate parental/guardian consent to the
+                    collection and processing of such students’ personal data.
+                </p>
+                <p>
+                    3. <b>Information you give us</b> by filling in forms on our
+                    Site, using our service or by corresponding with us by phone,
+                    e-mail or otherwise. This includes information you provide
+                    when you register to use our Site, subscribe to and use our
+                    service, and you report a problem with our Site. The
+                    information you give us may include information such as:
+                </p>
+                <p>
+                    (A)&nbsp;- <b>in the case of students:</b> first name, last name,
+                    e-mail address (optional), gender, date of birth, name and
+                    address of school, unique access code provided by their
+                    teachers, headshot (optional);
+                </p>
+                <p>
+                    (B)&nbsp;- <b>in the case of teachers:</b> first name, last name,
+                    title, e-mail address, website, name and address of school,
+                    class year, whether they are a school administrator, headshot
+                    (optional); and
+                </p>
+                <p>
+                    (C)&nbsp;- <b>in the case of parents/guardians:</b> first name,
+                    last name, title, e-mail address, unique access code provided
+                    by their child’s teacher, debit/credit card information.
+                </p>
+                <p>
+                    4.
+                    <b>
+                        Information we collect automatically when you visit our Site
+                    </b>, such as:
+                </p>
+                <p>
+                    (A)&nbsp;- technical information, including the Internet protocol
+                    (IP) address used to connect to the Internet from your
+                    computer or other electronic device which you use to access
+                    our Site, your login information, browser type and version,
+                    time zone setting, browser plug-in types and versions and/or
+                    operating system and platform;
+                </p>
+                <p>
+                    (B) - information about your visit, including [the full
+                    Uniform Resource Locators (URL), clickstream to, through and
+                    from our Site (including date and time), download errors,
+                    length of visits to certain pages, page interaction
+                    information (such as scrolling, clicks, and mouse-overs),
+                    methods used to browse away from the page and any phone number
+                    used to call our customer service number.
+                </p>
+
+
+                <p>
+                    5. <b>Information we receive from other sources</b>, such as
+                    information we receive about you if you use any of the other
+                    websites we operate or the other services we provide. In this
+                    case we will have informed you when we collected that data if
+                    we intend to share those data internally and combine it with
+                    data collected on our Site. We will also have told you for
+                    what purpose we will share and combine your data. We are
+                    working closely with third parties (including, for example,
+                    Wonde (which integrates with school management information
+                    systems to provide teacher, student and parent/guardian
+                    information), business partners, analytics providers and
+                    search information providers).
+                </p>
+                <h2>5</h2>
+                <h3>How do we use Cookies?</h3>
+                <p>
+                    Our Site uses cookies to distinguish you from other users of
+                    our Site. This helps us to provide you with a good experience
+                    when you browse our Site and also allows us to improve our
+                    Site. Please also be aware that we make every effort to
+                    respect your choices, however, there is the possibility that
+                    not all cookies will be captured. If this is a concern, then
+                    we would recommend that you change your cookie settings via
+                    your browser. Your browser help function will tell you how to
+                    do this.
+                </p>
+                <h2>6</h2>
+                <h3>
+                    How will we use the information we collect from you?
+                </h3>
+                <p>
+                    We will only process information collected from you in a fair
+                    and lawful manner. We will not use students’ personal
+                    information for our own commercial purposes and we will not
+                    send marketing or advertising materials to students. We will
+                    use all other information we collect from you in the following
+                    ways:
+                </p>
+                <p>
+                    1. <b>Information you give to us</b>
+                </p>
+                <p>We will use this information:</p>
+                <p>
+                    (A) - to carry out our obligations arising from any contracts
+                    entered into between you and us and to provide you with the
+                    information, products and services that you request from us
+                    (including, but not limited to, processing any payments that
+                    you make to us, linking students teachers and
+                    parents/guardians, linking answers to students, allowing
+                    teachers to see the results of their students, etc.);
+                </p>
+                <p>
+                    (B) - to provide you with information about other services we
+                    offer that are similar to those that you have already used or
+                    enquired about;
+                </p>
+                <p>
+                    (C) - to provide you, or permit selected third parties to
+                    provide you, with information about services we feel may
+                    interest you. We will only contact you by electronic means
+                    (e-mail or SMS) with information about services similar to
+                    those which you have previously used or have enquired about if
+                    you have consented to this. We will permit selected third
+                    parties to use your data only if you have consented to this
+                    and such third parties will only contact you by electronic
+                    means if you have consented to this. We may, however, share
+                    with third parties anonymysed data for research purposes;
+                </p>
+                <p>(D) -&nbsp;to notify you about changes to our service;</p>
+                <p>
+                    (E) -&nbsp;to ensure that content from our Site is presented in the
+                    most effective manner for you and for your computer or other
+                    electronic device which you use to access our Site.
+                </p>
+                <p>
+                    2. <b>Information we collect about you</b>
+                </p>
+                <p>We will use this information:</p>
+                <p>
+                    (A) -&nbsp;to administer our Site and for internal operations,
+                    including troubleshooting, data analysis, testing, research,
+                    statistical and survey purposes;
+                </p>
+                <p>
+                    (B) -&nbsp;to improve our Site to ensure that content is presented
+                    in the most effective manner for you and for your computer or
+                    other electronic device which you use to access our Site;
+                </p>
+                <p>
+                    (C) -&nbsp;to allow you to participate in interactive features of
+                    our service, when you choose to do so;
+                </p>
+                <p>
+                    (D) -&nbsp;as part of our efforts to keep our Site safe and secure;
+                </p>
+                <p>
+                    (E) -&nbsp;to measure or understand the effectiveness of
+                    advertising we serve to you and others, and to deliver
+                    relevant advertising to you;
+                </p>
+                <p>
+                    (F) -&nbsp;to make suggestions and recommendations to you and other
+                    users of our Site about goods or services that may interest
+                    you or them.
+                </p>
+                <p>
+                    3. <b>Information we receive from other sources.</b> We will
+                    combine this information with information you give to us and
+                    information we collect about you. We will use this information
+                    and the combined information for the purposes set out above
+                    (depending on the types of information we receive).
+                </p>
+                <h2>7</h2>
+                <h3>
+                    Who will we share your personal information with?
+                </h3>
+                <p>
+                    1. We do not sell or rent any of your personal information to
+                    any third party for any purpose (including for marketing and
+                    advertising purposes).
+                </p>
+                <p>
+                    2. We do not disclose any personal information about students
+                    to third parties, except to service providers necessary to
+                    provide our services, as required by law, or to protect the
+                    security of our services or other users.
+                </p>
+                <p>
+                    3. We will, with your prior written consent, share your
+                    personal information (other than personal data relating to
+                    students) with selected third parties including:
+                </p>
+                <p>
+                    (A) -&nbsp;business partners, suppliers and sub-contractors for the
+                    performance of any contract we enter into with them or you;
+                </p>
+                <p>
+                    (B) -&nbsp;advertisers and advertising networks that require the
+                    data to select and serve relevant adverts to you and others;
+                </p>
+                <p>
+                    (C) -&nbsp;customer relationship management providers for the
+                    purpose of storing and categorising data; and
+                </p>
+                <p>
+                    (D) -&nbsp;analytics and search engine providers that assist us in
+                    the improvement and optimisation of our Site.
+                </p>
+                <p>
+                    4. No teacher, student or parent/guardian profile is made
+                    available or visible to the general public through the Site.
+                    Student profiles can be seen by their teachers and parents.
+                    Teachers may share their profiles and other class and student
+                    information with other teachers in the same school. Teachers
+                    are also able to provide students with quizzes and receive
+                    data insights for those assignments through the Site. As part
+                    of this, teachers can see information about a student’s use of
+                    the services available through the Site, including their
+                    performance on certain quizzes, assignments, and other
+                    activities. All student performance data is shared with their
+                    teachers and school. Parents/guardians can access information
+                    relevant to their child, including quiz responses, performance
+                    progress, the names of their child’s class and the name of
+                    their child’s teacher.
+                </p>
+                <p>
+                    5. We will disclose your personal information to third
+                    parties:
+                </p>
+                <p>
+                    (A) -&nbsp;if we are acquired by or merged with another company or
+                    if substantially all of our business or assets are acquired by
+                    another company, we may transfer personal data held by us
+                    about our customers to such other company; or
+                </p>
+                <p>
+                    (B) -&nbsp;if we are under a duty to disclose or share your
+                    personal data in order to comply with any legal obligation, or
+                    in order to enforce or apply our terms and conditions and
+                    other agreements or to protect the rights, property or safety
+                    of our customers or others. This includes exchanging
+                    information with other companies and organisations for the
+                    purposes of fraud protection and credit risk reduction.
+                </p>
+                <h2>8</h2>
+                <h3>
+                    Where will we store your personal data?
+                </h3>
+                <p>
+                    1. All information you provide to us is stored on a secured
+                    Azure Cloud SQL database in West Europe.
+                </p>
+                <p>
+                    2. Where we have given you (or where you have chosen) a
+                    password which enables you to access certain parts of our
+                    Site, you are responsible for keeping this password
+                    confidential. We ask you not to share a password with anyone.
+                    We are not responsible for any lost, stolen, or compromised
+                    passwords or for any activity on your account via unauthorised
+                    password activity.
+                </p>
+                <p>
+                    3. Unfortunately, the transmission of information via the
+                    internet is not completely secure. Although we will do our
+                    best to protect your personal data, we cannot guarantee the
+                    security of your data transmitted to our Site; any
+                    transmission is at your own risk. Once we have received your
+                    information, we will use strict procedures and security
+                    features to try to prevent unauthorised access.
+                </p>
+                <h2>9</h2>
+                <h3>What are your rights?</h3>
+                <p>
+                    1. From 25 May 2018, under the terms of the General Data
+                    Protection Regulations (<b>GDPR</b>), you will have the
+                    following rights:
+                </p>
+                <p>
+                    (A) - the right to be informed (as set out in this privacy
+                    policy);
+                </p>
+                <p>(B) - the right of access (see paragraph 10 below);</p>
+                <p>
+                    (C) - the right to rectification (i.e. if any data we hold is
+                    incorrect) and erasure of your data (i.e. the right to be
+                    forgotten);&nbsp;the right to restrict processing of your data;
+                </p>
+                <p>(D) - the right to data portability;</p>
+                <p>
+                    (E) - the right to object to the processing of your data; and
+                </p>
+                <p>
+                    (F) - the right not to be subject to automated decision making
+                    including profiling.
+                </p>
+                <p>
+                    Until the GDPR come into effect on 25 May 2018, you will
+                    continue to have rights under the Data Protection Act 1998.
+                </p>
+                <p>
+                    2. You can exercise the right to withdraw consent to the
+                    processing of your data or ask us to delete your account on
+                    our Site at any time by contacting us using the contact
+                    details set out in paragraph 12 below. We will keep personal
+                    information associated with your account until your account is
+                    deleted; we may, however, have to retain some information
+                    after your account is closed, to comply with legal obligations
+                    or to protect our Site and services.
+                </p>
+                <p>
+                    3. You also have the right to ask us not to process your
+                    personal data, or to pass your details on to third parties,
+                    for marketing purposes. In fact, you will see when signing up
+                    to our Site that the default option for users is not to
+                    receive marketing or promotional material from us – you can of
+                    course choose to change that. You can exercise your right to
+                    prevent such processing by checking the relevant box situated
+                    on the form we use to collect your personal data. We will
+                    usually inform you (before collecting your data) if we intend
+                    to use your data for such purposes or if we intend to disclose
+                    your information to any third party for such purposes.
+                </p>
+                <p>
+                    4. Our Site may, from time to time, contain links to and from
+                    the websites of our partner networks, advertisers and
+                    affiliates. If you follow a link to any of these websites,
+                    please note that these websites have their own privacy
+                    policies and that we do not accept any responsibility or
+                    liability for these policies. We encourage you to check these
+                    policies before you submit any personal data to these
+                    websites.
+                </p>
+                <h2>10</h2>
+                <h3>
+                    How can you access the information we hold about you?
+                </h3>
+                <p>
+                    The GDPR gives you the right to access information held about
+                    you for free. You may request further details of the
+                    information we hold about you by contacting us using the
+                    contact details set out in paragraph 12 below. Unless we deem
+                    your request to be manifestly unfounded or excessive we will
+                    comply with your request within one month of the date of your
+                    application. If we do refuse your request we will let you know
+                    why and to whom you can complain if you wish to challenge our
+                    decision.
+                </p>
+                <h2>11</h2>
+                <h3>
+                    How will you know if we change this privacy policy?
+                </h3>
+                <p>
+                    Any changes we make to our privacy policy in the future will
+                    be posted on this page and, where appropriate, notified to you
+                    by e-mail. Please check back frequently to see any updates or
+                    changes to our privacy policy.
+                </p>
+                <h2>12</h2>
+                <h3>How can you get in touch with us?</h3>
+                <p>
+                    Questions, comments and requests regarding this privacy policy
+                    are welcomed and should be addressed to <a href="mailto:hello@eedi.co.uk" target="_blank">hello@eedi.co.uk</a>. You can also contact us using our online chat
+                    functionality.
+                </p>
+
             </div>
         </div>
     </div>
