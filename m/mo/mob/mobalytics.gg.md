@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the mobalytics.gg privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109061853id_/https%3A//mobalytics.gg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobalytics.gg privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503155619id_/https%3A//mobalytics.gg/privacy) for the most accurate reproduction.*
 
 # Mobalytics (Gamers Net) Privacy Policy - Mobalytics
 
-Last Updated: **25th of May, 2018**
+Last Updated: **17th of December, 2018**
 
 At Mobalytics, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information.
 
 Specifically, we’ll cover:
+
+All capitalized terms not defined in this Privacy Policy will have the meaning set forth in the Terms.
 
 ### INFORMATION WE COLLECT
 
@@ -16,11 +18,11 @@ When you use our Services, we collect the following types of information.
 
 ##### ACCOUNT INFORMATION
 
-Some information is required to create an account on our Services, such as your name, email, password and in-game name (summoner name, battle.net id, etc). This is the only information you have to provide to create an account with us. If you log into Mobalytics with a social networking credential, such as with your Facebook, Google+, Twitch or Steam account, we will ask permission to access basic information from that account, such as your name and email address. You can stop sharing that information with us at any time by removing Mobalytics’ access to that account.
+Some information is required to create an account on our Services, such as your name, email, password and in-game name (e.g., summoner name, battle.net id, etc). If you log into Mobalytics with a social networking credential, such as with your Facebook, Google+, Twitch or Steam account, we will ask permission to access basic information from that account, such as your name and email address. You can stop sharing that information with us at any time by removing Mobalytics’ access to that account.
 
 ##### ADDITIONAL INFORMATION
 
-To help improve your experience or enable certain features of the Services, you may choose to provide us with additional information, like you product and game prefernces to personalize you account.
+To help improve your experience or enable certain features of the Services, you may choose to provide us with additional information, like you product and game preferences to personalize your account.
 
 You may also connect with friends on the Services or invite friends who have not yet joined by providing their email addresses, accessing social networking accounts, or using the contact list on your mobile device. We do not store your contact list and delete it after it is used for adding contacts as friends.
 
@@ -28,9 +30,9 @@ If you contact us or participate in a survey, contest, or promotion, we collect 
 
 ##### INFORMATION FROM THIRD-PARTY SERVICES
 
-We collect the data about your perfromance, such as latest match details, season stats, etc. from the game publishers APIs. To do that we are using your in-game name that you have provided to us during the registration process.
+When you use the Services, we need to collect the data about your game performance, such as latest match details, season stats, etc. from the game publishers APIs. To do this, we use your in-game name that you have provided to us during the registration process.
 
-If you choose to connect your account on our Services to your account on another service, we may receive information from the other service. For example, if you connect to Facebook or Google, we may receive information like your name, profile picture, age range, language, email address, and friend list. You may also choose to grant us access to your exercise or activity data from another service. You can stop sharing the information from the other service with us by removing our access to that other service.
+If you choose to connect your account on our Services to your account on another service, we may receive information from the other service about you including details you have made available via your privacy settings. For example, if you connect to Facebook, Google, Twitch, Steam, and/or Discord, we may receive information like your name, profile picture, age range, language, email address, and friends list. You may also choose to grant us access to your gameplay, exercise or activity data from another service. You can stop sharing the information from the other service with us by removing our access to that other service.
 
 #### INFORMATION WE RECEIVE FROM YOUR USE OF OUR SERVICES
 
@@ -50,7 +52,7 @@ We use the information we collect for the following purposes.
 
 #### PROVIDE AND MAINTAIN THE SERVICES
 
-Using the information we collect, we are able to deliver the Services to you and honor our Terms of Service contract with you. For example, we need to use your information to calculate your performance and provide you with your Gamer Performance Index (GPI), personalized advice, display your recent activity, and other trends; to enable the community features of the Services; and to give you customer support.
+We use the information we collect to deliver the Services (for the performance of the Terms). For example, we need to use your information to calculate your performance and provide you with your Gamer Performance Index (GPI), personalized advice, display your recent activity, and other trends; to enable the community features of the Services; and to give you customer support.
 
 For the Services’ community features, we may use your information to help you find and connect with other users and to allow other users to find and connect with you. For example, your account contact information allows other users to add you as a friend. When another user has your email in their contact list or in their friend network on a connected service, we show that user that you are a user of the Services.
 
@@ -73,9 +75,9 @@ We use your information when needed to send you Service notifications and respon
 
 We use the information we collect to promote the safety and security of the Services, our users, and other parties. For example, we may use the information to authenticate users, facilitate secure payments, protect against fraud and abuse, respond to a legal request or claim, conduct audits, and enforce our terms and policies.
 
-We use cookies and similar technologies for the purposes described above. For more information, please read our Cookie Privacy statement.
+We use cookies and similar technologies for the purposes described above. For more information, please read our [Cookie Privacy Policy](https://mobalytics.gg/cookie/).
 
-For personal data subject to the GDPR, we rely on several legal bases to process the data. These include when you have given your consent, which you may withdraw at any time using your account settings and other tools; when the processing is necessary to perform a contract with you, like the Terms of Service; and our legitimate business interests, such as in improving, personalizing, and developing the Services, marketing new features or products that may be of interest, and promoting safety and security as described above.
+For personal data subject to the GDPR, we rely on several legal bases to process the data. These include when you have given your consent, which you may withdraw at any time using your account settings and other tools; when the processing is necessary to perform a contract with you, e.g., the Terms; and our legitimate interests, such as in improving, personalizing, and developing the Services, marketing new features or products that may be of interest, and promoting safety and security as described above.
 
 ### HOW INFORMATION IS SHARED
 
@@ -99,15 +101,15 @@ Please note: Our policy is to notify you of legal process seeking access to your
 
 We may share non-personal information that is aggregated or de-identified so that it cannot reasonably be used to identify an individual. We may disclose such information publicly and to third parties, for example, in public reports about player performance, to partners under agreement with us, or as part of the community benchmarking information we provide to users of our subscription services.
 
-If we are involved in a merger, acquisition, or sale of assets, we will continue to take measures to protect the confidentiality of personal information and give affected users notice before transferring any personal information to a new entity.
+If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract.
 
 ### YOUR RIGHTS TO ACCESS AND CONTROL YOUR PERSONAL DATA
 
-We give you account settings and tools to access and control your personal data, as described below, regardless of where you live. If you live in the European Economic Area, United Kingdom, and Switzerland (the “Designated Countries”), you have a number of legal rights with respect to your information, which your account settings and tools allow you to exercise, as outlined below.
+We give you account settings and tools to access and control your personal data, as described below, regardless of where you live. If you live in the European Economic Area, United Kingdom, and Switzerland (the “Designated Countries”), you have a number of legal rights with respect to your information, which your account settings and tools allow you to exercise, as outlined below subject to applicable law.
 
 #### Accessing and Exporting Data
 
-By logging into your account, you can access much of your personal information. You can request access to a copy of the personal data that we have collected by sending your request to privacy@mobalyitcs.gg
+By logging into your account, you can access much of your personal information. You can request access to a copy (including a “portable” copy) of the personal data that we have collected by sending your request to privacy@mobalyitcs.gg
 
 #### Editing and Deleting Data
 
@@ -119,41 +121,51 @@ If you choose to delete your account, please note that while most of your inform
 
 We give you account settings and tools to control our data use. For example, through your privacy settings, you can limit how your information is visible to other users of the Services; using your notification settings, you can limit the notifications you receive from us; and under your application settings, you can revoke the access of third-party applications that you previously connected to your Mobalytics account at any time.
 
-If you live in a Designated Country, in certain circumstances, you can object to our processing of your information based on our legitimate interests, including as described in the How We Use Information section. You have a general right to object to the use of your information for direct marketing purposes. Please see your notification settings to control our marketing communications to you about Mobalytics products. Please also review our Cookie Privacy statement for your options to control how we and our partners use cookies and similar technologies for advertising.
+If you live in a Designated Country, in certain circumstances, you can object to our processing of your information based on our legitimate interests, including as described in the How We Use Information section. You have a general right to object to the use of your information for direct marketing purposes. Please see your notification settings to control our marketing communications to you about Mobalytics products. Please also review our [Cookie Privacy Policy](https://mobalytics.gg/cookie/) for your options to control how we and our partners use cookies and similar technologies.
 
 #### Restricting or Limiting Data Use
 
 In addition to the various controls that we offer, if you reside in a Designated Country, you can seek to restrict our processing of your data in certain circumstances. Please note that you can always delete your account at any time.
 
+#### Lodging a Complaint
+
+If you are located in one of the Designated Countries, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law.
+
 ### DATA RETENTION
 
-We keep your account information, like your name, email address, and password, for as long as your account is in existence because we need it to operate your account. In some cases, when you give us information for a feature of the Services, we delete the data after it is no longer needed for the feature. For instance, when you provide your contact list for finding friends on the Services, we delete the list after it is used for adding contacts as friends. 
+We keep your account information, like your name, email address, and password, for as long as your account is in existence because we need it to operate your account. In some cases, when you give us information for a feature of the Services, we delete the data after it is no longer needed for the feature. For instance, when you provide your contact list for finding friends on the Services, we delete the list after it is used for adding contacts as friends.
 
-We keep other information, like your performance data that was obtained from game publishers API or calculated with our algorithms as long as necessary for our legitimate business interests. 
+We keep other information, like your performance data that was obtained from game publishers API or calculated with our algorithms as long as necessary for our legitimate business interests.
 
 We also keep information about you and your use of the Services for as long as necessary for our legitimate business interests, for legal reasons, and to prevent harm, including as described in the How We Use Information and How Information Is Shared sections.
 
 ### ANALYTICS AND ADVERTISING SERVICES PROVIDED BY OTHERS
 
-We work with partners who provide us with analytics and advertising services. This includes helping us understand how users interact with the Services, serving ads on our behalf across the internet, and measuring the performance of those ads. These companies may use cookies and similar technologies to collect information about your interactions with the Services and other websites and applications. To learn more and about your privacy choices, please read our Cookie Privacy statement.
+We work with partners who provide us with analytics and advertising services. This includes helping us understand how users interact with the Services, serving ads on our behalf across the internet, and measuring the performance of those ads. These companies may use cookies and similar technologies to collect information about your interactions with the Services and other websites and applications. To learn more and about your privacy choices, please read our [Cookie Privacy Policy](https://mobalytics.gg/cookie/).
+
+### THIRD PARTY WEBSITES AND APPLICATIONS
+
+The Services may contain links to other websites and applications. In addition, other websites and applications may reference or link to our Services. These websites and applications are not controlled by us. We encourage our users to read the privacy policies of each website and application with which they interact. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.
 
 ### OUR POLICIES FOR CHILDREN
 
-Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected the personal information of a child under the relevant minimum age without parental consent, we will take steps to delete the information as soon as possible. Parents who believe that their child has submitted personal information to us and would like to have it deleted may contact us at privacy@mobalytics.gg.
+Our Services are not directed to children under 13 (or other age as required by local law), and we do not knowingly collect personal information from children. If we learn that we have collected the personal information of a child under the minimum legal age without parental consent, we will take steps to delete the information as soon as possible. Parents who believe that their child has submitted personal information to us and would like to have it deleted may contact us at privacy@mobalytics.gg.
 
 ### INFORMATION SECURITY
 
-We work hard to keep your data safe. We use a combination of technical, administrative, and physical controls to maintain the security of your data. This includes using Transport Layer Security (“TLS”) to encrypt many of our Services. No method of transmitting or storing data is completely secure, however. If you have a security-related concern, please contact Customer Support.
+We use a combination of technical, administrative, and physical controls to maintain the security of your information. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. To the fullest extent permitted by applicable law, we do not accept liability for unintentional disclosure.
+
+If you have a security-related concern, please contact Customer Support.
 
 ### OUR INTERNATIONAL OPERATIONS AND DATA TRANSFERS
 
-We operate internationally and transfer information to the United States and other countries for the purposes described in this policy.
+We operate internationally and transfer information to the United States and other countries for the purposes described in this policy. By providing Mobalytics with information, you agree that the transfer, processing and storage of your information globally is necessary for the performance of the Terms. If you do not agree to this, you may delete your Mobalytics account as described in the Your Rights To Access and Control Your Personal Data. 
 
-Please note that the countries where we operate may have privacy and data protection laws that differ from, and are potentially less protective than, the laws of your country. You agree to this risk when you create a Mobalytics account and click “I agree” to data transfers, irrespective of which country you live in. For a list of the locations where we have offices, please see our company information here. If you later wish to withdraw your consent, you can delete your Mobalytics account as described in the Your Rights To Access and Control Your Personal Data section.
+Please note that the countries where we operate may have privacy and data protection laws that differ from, and are potentially less protective than, the laws of your country.
 
 ### CHANGES TO THIS POLICY
 
-We will notify you before we make material changes to this policy and give you an opportunity to review the revised policy before deciding if you would like to continue to use the Services. You can review previous versions of the policy in our archive.
+We may revise this Privacy Policy from time to time in our sole discretion. If there are any material changes to this Privacy Policy, we will notify you as required by applicable law. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you continue to use the Services after the new Privacy Policy takes effect.
 
 ### QUESTIONS
 
