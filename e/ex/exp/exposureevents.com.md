@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exposureevents.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222223347id_/http%3A//basketball.exposureevents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposureevents.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503195241id_/https%3A//basketball.exposureevents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Exposure Basketball Events.
 
