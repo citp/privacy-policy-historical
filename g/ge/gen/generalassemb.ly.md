@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228122406id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalassemb.ly privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503192054id_/https%3A//generalassemb.ly/privacy_policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | General Assembly
 
@@ -136,7 +136,7 @@ In addition to cookies, we use the following similar technologies:
 
 **Disabling Cookies**
 
-Most computer and some mobile web browsers automatically accept cookies but, if you prefer, you can use your browser to notify you each time a cookie is set or to block and delete cookies from your browser. The effect of disabling cookies depends on which cookies you disable but, please note that if you do that, the Site and Services may not work properly and you may not be able to take full advantage of the Site or our Services.  You can learn more about cookies by visiting [www.allaboutcookies.org](https://web.archive.org/web/20181228122406id_/https%3A//generalassemb.ly/www.allaboutcookies.org) which includes additional useful information on cookies and how to block cookies using different types of browsers.
+Most computer and some mobile web browsers automatically accept cookies but, if you prefer, you can use your browser to notify you each time a cookie is set or to block and delete cookies from your browser. The effect of disabling cookies depends on which cookies you disable but, please note that if you do that, the Site and Services may not work properly and you may not be able to take full advantage of the Site or our Services.  You can learn more about cookies by visiting [www.allaboutcookies.org](https://web.archive.org/web/20190503192054id_/https%3A//generalassemb.ly/www.allaboutcookies.org) which includes additional useful information on cookies and how to block cookies using different types of browsers.
 
 Details on how to review your cookie settings and disable cookies on the most popular browsers are set forth below:
 
