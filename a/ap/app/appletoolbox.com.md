@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appletoolbox.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825024551id_/https%3A//appletoolbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appletoolbox.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503155131id_/https%3A//appletoolbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy - AppleToolBox
 
