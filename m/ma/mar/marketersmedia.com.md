@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketersmedia.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229143128id_/http%3A//services.marketersmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketersmedia.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503163004id_/http%3A//services.marketersmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « MarketersMedia
+# Privacy Policy « MarketersMEDIA – Press Release Distribution Services – News Release Distribution Services
 
 MarketersMedia.com is a newswire service which distributes press releases on behalf of our customers. Your privacy is very important to us. We are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers and visitors from our website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
