@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012065747id_/https%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503220407id_/https%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beautylish
 
