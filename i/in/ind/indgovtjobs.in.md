@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indgovtjobs.in privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628105946id_/https%3A//www.indgovtjobs.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indgovtjobs.in privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504010921id_/https%3A//www.indgovtjobs.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
