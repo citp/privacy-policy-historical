@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homemoviestube.com privacy policy that was archived on 2018-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181215210442id_/http%3A//www.homemoviestube.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homemoviestube.com privacy policy that was archived on 2019-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190504011417id_/http%3A//www.homemoviestube.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js no-filter"><!--<![endif]--><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,31 +10,15 @@
         <meta name="description" content="Home Movies Tube is the ultimate home made sex community and homemade sex tube. watch free xxx porn videos">
 
         <meta name="exoclick-site-verification" content="e76e3406f8fe21e3c5aa65e09d1fe6cd">
-        <link href="http://thumbs.cdn.homemoviestube.com/css/add_on.css" rel="stylesheet" type="text/css">
-        <link href="http://thumbs.cdn.homemoviestube.com/css/hmt_reset.css" rel="stylesheet" type="text/css">
-        <link href="http://thumbs.cdn.homemoviestube.com/css/hmt_style.css" rel="stylesheet" type="text/css">
-        <link href="http://thumbs.cdn.homemoviestube.com/css/fancybox.css" rel="stylesheet" type="text/css">
 
-        <link rel="stylesheet" type="text/css" media="screen" href="http://www.homemoviestube.com/css/bootstrap.css">
-        <link rel="stylesheet" type="text/css" media="screen" href="http://www.homemoviestube.com/css/style.css">
-        <link rel="stylesheet" type="text/css" media="screen" href="http://www.homemoviestube.com/css/rwd.css">
-        <link rel="stylesheet" type="text/css" media="print" href="http://www.homemoviestube.com/css/print.css">
-        <link href="http://www.homemoviestube.com/rating/css/rating.css" rel="stylesheet" type="text/css">
+		<link href="http://galleries.cdn.homemoviestube.com/css/all_min.css" rel="stylesheet" type="text/css">
 
-        <script src="http://www.homemoviestube.com/js/lib/jquery-1.11.1.min.js"></script>
-        <script src="http://www.homemoviestube.com/js/lib/jquery-migrate-1.2.1.min.js"></script>
 
-        <script type="text/javascript" src="http://thumbs.cdn.homemoviestube.com/js/thumbchange.js"></script>
-        <script type="text/javascript" src="http://thumbs.cdn.homemoviestube.com/js/swfupload.js"></script>
-        <script type="text/javascript" src="http://thumbs.cdn.homemoviestube.com/js/swfupload.swfobject.js"></script>
-        <script type="text/javascript" src="http://thumbs.cdn.homemoviestube.com/js/fileprogress.js"></script>
-        <script type="text/javascript" src="http://thumbs.cdn.homemoviestube.com/js/handlers.js"></script>
-        <script type="text/javascript" src="http://www.homemoviestube.com/js/bootstrap-select.js"></script>
+		<script type="text/javascript" src="http://thumbs.cdn.homemoviestube.com/js_new/all.js"></script>
+
         <!--[if lt IE 9]>
             <link href="http://thumbs.cdn.homemoviestube.com/css/ie-fix.css" rel="stylesheet" type="text/css">
         <![endif]-->
-
-        <script src="http://www.homemoviestube.com/js/functions.js" type="text/javascript"></script>
 
         <link rel="manifest" href="/manifest.json">
         <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
@@ -50,8 +34,6 @@
 
 
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
-        <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css">
-
         <script type="text/javascript" src="http://thumbs.cdn.homemoviestube.com/js/fancybox/jquery.fancybox.js"></script>
 
         <!--[if lt IE 9]>
@@ -63,111 +45,11 @@
             <script src="http://www.homemoviestube.com/js/respond.js"></script>
         <![endif]-->
         
-        <script type="text/javascript">
-            (function ($) {
-                $.fn.searchTabs = function () {
-                    var $search = $(this);
-                    $search.find('.form').children().each(function (index) {
-                        if (index != 0) {
-                            $(this).hide();
-                        }
-                    });
-
-                    $search.find('a.navi').click(function () {
-                        if ($(this).hasClass('active')) {
-                        } else {
-                            $(this).parent().children().removeClass('active');
-                            $(this).addClass('active');
-                            $search.find('.form').children().each(function () {
-                                $(this).hide();
-                            });
-                            $($(this).attr('href')).show();
-                        }
-
-                        return false;
-                    });
-                }
-            })(jQuery);
-            $(document).ready(function () {
-                var termTemplate = "<span class='ui-autocomplete-term'>%s</span>";
-                $(function () {
-
-                    $("#searchform-field-white").autocomplete({
-                        source: "http://www.homemoviestube.com/autocomplete.php",
-                        dataType: "jsonp",
-                        minLength: 2,
-                        open: function (e, ui) {
-                            var acData = $(this).data('ui-autocomplete');
-                            acData
-                                    .menu
-                                    .element
-                                    .find('li')
-                                    .each(function () {
-                                        var me = $(this);
-                                        var keywords = acData.term.split(' ').join('|');
-                                        me.html(me.text().replace(new RegExp("(" + keywords + ")", "gi"), '<span class="keyword-highlight">$1</span>'));
-                                    });
-                        },
-                        select: function (event, ui) {
-                            $("input#searchform-field-white").val(ui.item.value);
-                            $("#search-2 form").submit();
-                        }
-
-
-
-                    });
-                });
-
-
-
-
-                var sString = '';
-                $('ul.panel li.input input[type=text],#search .cnt .form input.query').focus(function () {
-                    sString = $(this).val();
-                    $(this).val("");
-                }).blur(function () {
-                    if ($(this).val().length == 0)
-                        $(this).val(sString);
-                });
-
-                $('#search').searchTabs();
-
-                //show subsort
-                $('#pick').find('a').bind('mouseover', function (e) {
-                    if (e.type == 'mouseover') {
-                        if ($(this).attr('id') == 'pickTopRated') {
-                            $('#orderTopRated').show();
-                            $('#orderMostViewed').hide();
-                        } else if ($(this).attr('id') == 'pickMostViewed') {
-                            $('#orderTopRated').hide();
-                            $('#orderMostViewed').show();
-                        } else {
-                            $('#orderTopRated').hide();
-                            $('#orderMostViewed').hide();
-                        }
-                    }
-                });
-                $('#orderTopRated').bind('mouseleave', function (e) {
-                    if (e.type == 'mouseleave') {
-                        $(this).hide();
-                    }
-                });
-                $('#orderMostViewed').bind('mouseleave', function (e) {
-                    if (e.type == 'mouseleave') {
-                        $(this).hide();
-                    }
-                });
-            });
-        </script>
-
-
     <script type="text/javascript" async="" src="http://s10.histats.com/js15_as.js"></script></head>
     <body class="newthumbs">
 
-        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-<!--  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
+        <!--  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
 
-<script type="text/javascript" src="/nb/hmt_front.js"></script>
 <header>
     <div class="wrapper">
         <div class="row">
@@ -259,9 +141,12 @@
 
             <div class="col-md-8 hidden-sm hidden-xs stats-info">
                 <span class="info"><a href="https://www.mrporngeek.com/" rel="nofollow" target="_blank" class="info">Best Porn Sites</a></span>
+                <span class="info"><a href="https://ucam.xxx/" target="_blank" class="info">Real Sex Cams</a></span>
             </div>
+        
+        
         </div>
-    </div>
+            </div>
 </nav>
         <!-- Begin Advertising Code Top -->
                 <!-- Desktop Code Begin-->
@@ -286,7 +171,7 @@
     <section id="page-content">
         <div class="wrapper">
             <div class="row">
-                <aside>
+									<aside>
     <div class="aside-inner">
         <h3>Video Rankings</h3>
         <ul class="side-menu-list">
@@ -297,15 +182,15 @@
             <li class="expanded">
                 <h4>Channels</h4>
                 <ul class="count-list">
-                    <li><a href="http://www.homemoviestube.com/channels/64/anal/">Anal<span class="view-counter">6,870</span></a></li><li><a href="http://www.homemoviestube.com/channels/65/asian/">Asian<span class="view-counter">3,789</span></a></li><li><a href="http://www.homemoviestube.com/channels/106/ass/">Ass<span class="view-counter">7,067</span></a></li><li><a href="http://www.homemoviestube.com/channels/112/bbw/">BBW<span class="view-counter">6,815</span></a></li><li><a href="http://www.homemoviestube.com/channels/105/big-dick/">Big Dick<span class="view-counter">13,416</span></a></li><li><a href="http://www.homemoviestube.com/channels/66/big-tits/">Big Tits<span class="view-counter">8,243</span></a></li><li><a href="http://www.homemoviestube.com/channels/122/blonde/">Blonde<span class="view-counter">9,667</span></a></li><li><a href="http://www.homemoviestube.com/channels/119/blowjob/">Blowjob<span class="view-counter">20,202</span></a></li><li><a href="http://www.homemoviestube.com/channels/117/brunette/">Brunette<span class="view-counter">15,306</span></a></li><li><a href="http://www.homemoviestube.com/channels/162/compilations/">Compilations<span class="view-counter">2,026</span></a></li><li><a href="http://www.homemoviestube.com/channels/144/couple/">Couple<span class="view-counter">18,269</span></a></li><li><a href="http://www.homemoviestube.com/channels/83/creampie/">Creampie<span class="view-counter">4,743</span></a></li><li><a href="http://www.homemoviestube.com/channels/161/cuckold/">Cuckold<span class="view-counter">11,474</span></a></li><li><a href="http://www.homemoviestube.com/channels/84/cumshot/">Cumshot<span class="view-counter">22,806</span></a></li><li><a href="http://www.homemoviestube.com/channels/71/ebony/">Ebony<span class="view-counter">2,575</span></a></li><li><a href="http://www.homemoviestube.com/channels/160/fetish/">Fetish<span class="view-counter">2,642</span></a></li><li><a href="http://www.homemoviestube.com/channels/141/girlfriend/">Girlfriend<span class="view-counter">25,104</span></a></li><li><a href="http://www.homemoviestube.com/channels/77/group-sex/">Group Sex<span class="view-counter">5,259</span></a></li><li><a href="http://www.homemoviestube.com/channels/102/handjob/">Handjob<span class="view-counter">880</span></a></li><li><a href="http://www.homemoviestube.com/channels/159/hardcore/">Hardcore<span class="view-counter">23,084</span></a></li><li><a href="http://www.homemoviestube.com/channels/163/hidden-cams/">Hidden Cams<span class="view-counter">1,202</span></a></li><li><a href="http://www.homemoviestube.com/channels/86/interracial/">Interracial<span class="view-counter">12,676</span></a></li><li><a href="http://www.homemoviestube.com/channels/89/latina/">Latina<span class="view-counter">3,335</span></a></li><li><a href="http://www.homemoviestube.com/channels/67/lesbian/">Lesbian<span class="view-counter">1,529</span></a></li><li><a href="http://www.homemoviestube.com/channels/131/masturbation/">Masturbation<span class="view-counter">9,863</span></a></li><li><a href="http://www.homemoviestube.com/channels/87/milf/">Milf<span class="view-counter">22,077</span></a></li><li><a href="http://www.homemoviestube.com/channels/125/orgasm/">Orgasm<span class="view-counter">11,092</span></a></li><li><a href="http://www.homemoviestube.com/channels/108/pov/">POV<span class="view-counter">6,263</span></a></li><li><a href="http://www.homemoviestube.com/channels/94/redhead/">Redhead<span class="view-counter">1,381</span></a></li><li><a href="http://www.homemoviestube.com/channels/101/solo/">Solo<span class="view-counter">6,906</span></a></li><li><a href="http://www.homemoviestube.com/channels/75/teen/">Teen<span class="view-counter">9,684</span></a></li><li><a href="http://www.homemoviestube.com/channels/135/voyeur/">Voyeur<span class="view-counter">404</span></a></li><li><a href="http://www.homemoviestube.com/channels/130/webcam/">Webcam<span class="view-counter">2,267</span></a></li><li><a href="http://www.homemoviestube.com/channels/142/wife/">Wife<span class="view-counter">19,685</span></a></li><li><a href="http://www.homemoviestube.com/channels/138/wild/">Wild<span class="view-counter">2,199</span></a></li>                </ul>
+                    <li><a href="http://www.homemoviestube.com/channels/64/anal/">Anal<span class="view-counter">7,090</span></a></li><li><a href="http://www.homemoviestube.com/channels/65/asian/">Asian<span class="view-counter">3,924</span></a></li><li><a href="http://www.homemoviestube.com/channels/106/ass/">Ass<span class="view-counter">7,625</span></a></li><li><a href="http://www.homemoviestube.com/channels/112/bbw/">BBW<span class="view-counter">7,060</span></a></li><li><a href="http://www.homemoviestube.com/channels/105/big-dick/">Big Dick<span class="view-counter">14,264</span></a></li><li><a href="http://www.homemoviestube.com/channels/66/big-tits/">Big Tits<span class="view-counter">8,681</span></a></li><li><a href="http://www.homemoviestube.com/channels/122/blonde/">Blonde<span class="view-counter">10,008</span></a></li><li><a href="http://www.homemoviestube.com/channels/119/blowjob/">Blowjob<span class="view-counter">20,987</span></a></li><li><a href="http://www.homemoviestube.com/channels/117/brunette/">Brunette<span class="view-counter">15,742</span></a></li><li><a href="http://www.homemoviestube.com/channels/162/compilations/">Compilations<span class="view-counter">2,117</span></a></li><li><a href="http://www.homemoviestube.com/channels/144/couple/">Couple<span class="view-counter">18,816</span></a></li><li><a href="http://www.homemoviestube.com/channels/83/creampie/">Creampie<span class="view-counter">4,943</span></a></li><li><a href="http://www.homemoviestube.com/channels/161/cuckold/">Cuckold<span class="view-counter">12,054</span></a></li><li><a href="http://www.homemoviestube.com/channels/84/cumshot/">Cumshot<span class="view-counter">23,763</span></a></li><li><a href="http://www.homemoviestube.com/channels/71/ebony/">Ebony<span class="view-counter">2,641</span></a></li><li><a href="http://www.homemoviestube.com/channels/160/fetish/">Fetish<span class="view-counter">2,696</span></a></li><li><a href="http://www.homemoviestube.com/channels/141/girlfriend/">Girlfriend<span class="view-counter">26,055</span></a></li><li><a href="http://www.homemoviestube.com/channels/77/group-sex/">Group Sex<span class="view-counter">5,440</span></a></li><li><a href="http://www.homemoviestube.com/channels/102/handjob/">Handjob<span class="view-counter">911</span></a></li><li><a href="http://www.homemoviestube.com/channels/159/hardcore/">Hardcore<span class="view-counter">24,101</span></a></li><li><a href="http://www.homemoviestube.com/channels/163/hidden-cams/">Hidden Cams<span class="view-counter">1,246</span></a></li><li><a href="http://www.homemoviestube.com/channels/86/interracial/">Interracial<span class="view-counter">13,393</span></a></li><li><a href="http://www.homemoviestube.com/channels/89/latina/">Latina<span class="view-counter">3,413</span></a></li><li><a href="http://www.homemoviestube.com/channels/67/lesbian/">Lesbian<span class="view-counter">1,574</span></a></li><li><a href="http://www.homemoviestube.com/channels/131/masturbation/">Masturbation<span class="view-counter">10,195</span></a></li><li><a href="http://www.homemoviestube.com/channels/87/milf/">Milf<span class="view-counter">23,162</span></a></li><li><a href="http://www.homemoviestube.com/channels/125/orgasm/">Orgasm<span class="view-counter">11,513</span></a></li><li><a href="http://www.homemoviestube.com/channels/108/pov/">POV<span class="view-counter">6,476</span></a></li><li><a href="http://www.homemoviestube.com/channels/94/redhead/">Redhead<span class="view-counter">1,459</span></a></li><li><a href="http://www.homemoviestube.com/channels/101/solo/">Solo<span class="view-counter">7,099</span></a></li><li><a href="http://www.homemoviestube.com/channels/75/teen/">Teen<span class="view-counter">10,082</span></a></li><li><a href="http://www.homemoviestube.com/channels/135/voyeur/">Voyeur<span class="view-counter">427</span></a></li><li><a href="http://www.homemoviestube.com/channels/130/webcam/">Webcam<span class="view-counter">2,296</span></a></li><li><a href="http://www.homemoviestube.com/channels/142/wife/">Wife<span class="view-counter">20,622</span></a></li><li><a href="http://www.homemoviestube.com/channels/138/wild/">Wild<span class="view-counter">2,297</span></a></li>                </ul>
             </li> 
             <li class="expanded"><h4>Top Categories</h4>
                 <ul class="count-list">
-                    <li><a href="http://www.homemoviestube.com/channels/142/wife/">Wife<span class="view-counter">19,685</span></a></li><li><a href="http://www.homemoviestube.com/channels/159/hardcore/">Hardcore<span class="view-counter">23,084</span></a></li><li><a href="http://www.homemoviestube.com/channels/86/interracial/">Interracial<span class="view-counter">12,676</span></a></li><li><a href="http://www.homemoviestube.com/channels/84/cumshot/">Cumshot<span class="view-counter">22,806</span></a></li><li><a href="http://www.homemoviestube.com/channels/87/milf/">Milf<span class="view-counter">22,077</span></a></li>                    <li><a href="http://www.homemoviestube.com/channels/161/cuckold/page1.html">Cuckold<span class="view-counter">11,474</span></a></li>
-                    <li><a href="http://www.homemoviestube.com/channels/141/girlfriend/page1.html">Girlfriend<span class="view-counter">25,104</span></a></li>
-                    <li><a href="http://www.homemoviestube.com/channels/64/anal/page1.html">Anal<span class="view-counter">6,870</span></a></li>
-                    <li><a href="http://www.homemoviestube.com/channels/119/blowjob/page1.html">Blowjob<span class="view-counter">20,202</span></a></li>
-                    <li><a href="http://www.homemoviestube.com/channels/105/big-dick/page1.html">Big Dick<span class="view-counter">13,416</span></a></li>
+                    <li><a href="http://www.homemoviestube.com/channels/142/wife/">Wife<span class="view-counter">20,622</span></a></li><li><a href="http://www.homemoviestube.com/channels/159/hardcore/">Hardcore<span class="view-counter">24,101</span></a></li><li><a href="http://www.homemoviestube.com/channels/86/interracial/">Interracial<span class="view-counter">13,393</span></a></li><li><a href="http://www.homemoviestube.com/channels/84/cumshot/">Cumshot<span class="view-counter">23,763</span></a></li><li><a href="http://www.homemoviestube.com/channels/87/milf/">Milf<span class="view-counter">23,162</span></a></li>                    <li><a href="http://www.homemoviestube.com/channels/161/cuckold/page1.html">Cuckold<span class="view-counter">12,054</span></a></li>
+                    <li><a href="http://www.homemoviestube.com/channels/141/girlfriend/page1.html">Girlfriend<span class="view-counter">26,055</span></a></li>
+                    <li><a href="http://www.homemoviestube.com/channels/64/anal/page1.html">Anal<span class="view-counter">7,090</span></a></li>
+                    <li><a href="http://www.homemoviestube.com/channels/119/blowjob/page1.html">Blowjob<span class="view-counter">20,987</span></a></li>
+                    <li><a href="http://www.homemoviestube.com/channels/105/big-dick/page1.html">Big Dick<span class="view-counter">14,264</span></a></li>
                 </ul>
             </li>
             <li class="expanded"><h4>Top tags</h4>
@@ -340,14 +225,16 @@
             </li>
                                                 </ul>
     </div>
-</aside>                <!-- films-main -->
+</aside>				                <!-- films-main -->
                 <article class="main-content aside-offset">
-                                                                                                                        <!-- begin mobile banner middle -->
+                                                            					
+										
+                                                                                    <!-- begin mobile banner middle -->
                     <div class="mobile-banner mobile-middle m-300x100">
                         <div class="inner-mobile-banner">
                             <div class="banner-container">
                                 <center>
-                                    <!-- START //adnium.com ZONE 1787736 (Mobile - 300x100) Mobile Middle -->
+                             <!-- START //adnium.com ZONE 1787736 (Mobile - 300x100) Mobile Middle -->
 <div style="width:300px;height:100px">
     <script id="adn-1787736" type="text/javascript" data-sub="{YOUR_SUB_ID}">
     (function (node) {
@@ -355,14 +242,14 @@
         adn.type = "text/javascript", adn.async = true, adn.src = "//a.adnium.com/warp/1787736?r=" + Math.floor(Math.random() * 99999);
         node.appendChild(adn);
     })(document.getElementsByTagName("script")[document.getElementsByTagName("script").length - 1].parentNode);
-    </script><script type="text/javascript" async="" src="//a.adnium.com/warp/1787736?r=79174"></script>
+    </script><script type="text/javascript" async="" src="//a.adnium.com/warp/1787736?r=19158"></script>
 </div>
 <!-- END //adnium.com ZONE 1787736 (Mobile - 300x100) Mobile Middle -->
                                 </center>
                             </div>
                         </div>
                     </div>
-                    <!-- end mobile banner middle -->
+                                            <!-- end mobile banner middle -->
                     <div id="latest-videos">
                         <div class="title-row filter-extra row">
                             <div class="col-lg-13 col-md-11 col-sm-20">
