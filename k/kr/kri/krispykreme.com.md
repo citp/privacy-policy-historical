@@ -1,89 +1,174 @@
-> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211195948id_/http%3A//www.krispykreme.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503035902id_/https%3A//www.krispykreme.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Krispy Kreme - Privacy Policy
+# Krispy Kreme - Legal | Privacy Policy
 
-###  KRISPY KREME'S PRIVACY POLICY
+## Krispy Kreme Privacy Policy
 
-Krispy Kreme Doughnut Corporation ("Krispy Kreme") is committed to protecting the privacy of those who visit and use our websites, including www.krispykreme.com, and our Hot Light mobile app (either individually or collectively, the “Sites”). This Privacy Policy describes how Krispy Kreme collects, uses, stores, and shares information provided by visitors to and users of our Sites (“you”). It also explains how you can contact us with any questions or concerns you may have. By using the Sites, you consent to Krispy Kreme’s collection, use, storage, and sharing of your information in the manner described in this Privacy Policy and elsewhere on the Sites.
+This Privacy Policy describes the information privacy practices of Krispy Kreme Doughnut Corporation (referred to herein as “Krispy Kreme”, “we”, “us”, or “our”). It explains what information we collect about you, how we use and share your information, and your choices regarding our collection and use.
 
-Except as otherwise required by law, this Privacy Policy does not apply to the practices of companies Krispy Kreme does not own or control and to people Krispy Kreme does not employ or manage.
+If you have any questions or concerns regarding our Privacy Policy or practices, please contact us as provided at the end of this Privacy Policy.
 
-###  Information We Collect and How We Use, Store, and Share It
+  * Scope of Privacy Policy
+  * Changes To Our Privacy Policy
+  * Information Collected
+  * How We Use Your Information
+  * How We Share Your Information
+  * Cookies and Other Technologies
+  * Your Choices
+  * Information Security
+  * User Generated Content
+  * Links, Third Party Websites, and Social Media Platforms
+  * California Residents’ Privacy Rights
+  * Do Not Track Notice
+  * Users Outside the United States
+  * Children’s Privacy
+  * Email Security
+  * Contact Us
 
-Personally Identifiable Information:
 
-Krispy Kreme collects personally identifiable information, such as your name, physical address, email address, telephone number, and credit card number, when you submit such information to us.
 
-Personally identifiable information is collected for purposes such as sending you information about upcoming product introductions, store openings, and the like, and making it possible for you to shop online, participate in our "Friends of Krispy Kreme" program, participate in our "Friends of Fundraising" program, send customizable e-cards by Krispy Kreme, provide feedback on store visits, share your stories in our Community Café, request career information, request franchise information, and make donations to Victory Junction.
+## Scope of Privacy Policy
 
-Personally identifiable information is shared with our customer call center, licensed franchisees, store operators, and external service providers (such as mailing houses and IT providers) who have agreed to follow our Privacy Policy with respect to the information. Personally identifiable information can be combined with non-personally identifiable information that we collect, such as your age, birthday, gender, and interests, to take advantage of the interactivity of the Internet and provide you with services and offers. You may always choose whether or not you wish to accept such services and offers.
+This Privacy Policy applies to information collected about you by or on behalf of Krispy Kreme when you use our website located at https://www.krispykreme.com or any other website or mobile application owned, operated or controlled by us that posts a link to this Privacy Policy (our “Sites”), as well as any programs, features, services, or transactions provided through our Sites (collectively, with our Sites, our “Online Services”). This Privacy Policy also applies when you communicate with us via email or otherwise through the Internet.
 
-We receive personally identifiable information when you apply for a job in the "Career" section of the Sites. Any information gathered through the Career section is used solely to evaluate whether your background and experience make you a candidate for a career with Krispy Kreme.
+This Privacy Policy does not apply to the information privacy practices of franchised Krispy Kreme shops, which Krispy Kreme does not own or operate, or to other independent third parties.
 
-We receive personally identifiable information when you request information about franchise opportunities and submit franchise applications online at the “Franchise Information” section of the Sites. Any information gathered through the Franchise Information section is used solely to evaluate whether you meet certain of the requirements to be considered for a Krispy Kreme franchise.
+## Changes To Our Privacy Policy
 
-We do not currently sell your personally identifiable information to third parties and do not currently intend to do so in the future. Krispy Kreme may retain your personal information and other information you provide to us. We collect and retain this information in order to be able to provide you with information about Krispy Kreme. We also use information that you provide to better design our website and to improve our marketing strategy and products.
+Krispy Kreme may change this Privacy Policy from time to time to reflect changes in our practices or in applicable law. Such changes will be effective upon posting the revised Privacy Policy, along with the date on which it was most recently updated, on our Sites. You will be able to tell when this Privacy Policy was last updated by the Last Updated date included at the top of this Privacy Policy. If a change materially affects the use or disclosure of your personally identifiable information, we will provide you with additional notice (such as adding a statement to the homepage on our Sites or sending you an email notification). By continuing to use our Online Services or communicating electronically with us thereafter, you agree to accept such changes to this Privacy Policy. Please contact us as provided at the end of this Privacy Policy if you would like information regarding any changes.
 
-We reserve the right, in our sole discretion, to disclose personally identifiable information as necessary to satisfy any law, regulation, or other legal or public health and safety requirement, to protect the interests of Krispy Kreme, and to preserve the integrity of the Sites.  
-Also, we may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use any personal information provided in a manner that is consistent with this Privacy Policy.
+## Information Collected
 
-Non-Personally Identifiable Information:
+Krispy Kreme collects information about you from a variety of sources, including information you provide directly to us when you sign-up for Krispy Kreme rewards or request information from us, and information we collect about you when you access and use our Online Services. The information we collect includes both personally identifiable information and other information that cannot be used to personally identifiable you.
 
-When you request pages from the Sites, our servers log your IP address, a number automatically assigned to your computer whenever you’re surfing the Web. We also collect information such as the type of computer or mobile device operating system and browser you use, the address of any web page that may refer you to our Sites, and the pages you visit on our Sites.
+Information You Provide Us. If you sign-up for Krispy Kreme rewards, submit a fundraising order form, place an advanced order, purchase gift cards or other collectibles, request information or apply for a job through our Online Services, or communicate with us electronically, we collect the requested information that you provide including your name, e-mail, phone number, address, birthdate, and demographic information. You may choose whether or not to provide such information; however, the information may be required to utilize certain features of our Online Services. If you apply for a job online with Krispy Kreme, we also collect background check information in processing your application.
 
-Krispy Kreme also collects non-personally identifiable information through our Hot Light App, including the type of mobile device you use and its identifier, as well as geolocation information when you authorize the App to access your location or you provide us with your city, state, or zip code. We may collect non-personally identifiable information about your interactions with App pages and advertisements. For example, we may automatically collect your device and operating system type, IP address, and information about your App usage, such as the date and time you use the App, the areas or pages of the App that you visit, the amount of time you spend viewing or using the App, the number of times you return to the App, the advertisements you open, and links you click through to our Sites.
+Information Collected Automatically. We collect information automatically from you when you visit our Sites, use our Online Services, and in connection with our emails, online advertisements, and social media pages. Such information includes the following:
 
-We may use information we collect from and about you through the App to provide you with the services you request through the App, including notifying you when the Hot Light is on at a Krispy Kreme location or when you are close to Krispy Kreme location; develop new products or services; provide you with customized App content, targeted offers, and advertising on the App; review the usage and operations of the App and improve our content, products, and services; address problems with the App; and in other ways as described to you at the point of collection.  
-We may share non-personally identifiable information with third parties.
+Usage information. We collect information about how you interact with our Online Services. This includes information such as the dates and times that you visit our Sites, the page you view, referring / exit URLs, your browser type, and the number of clicks on our Sites. In some cases, we collect this information through cookies, web beacons, and similar technologies. To learn more about these technologies, please see the Cookies and Other Technologies section below.
 
-Cookies and Pixel Tags:
+Device Information. We collect information about the devices you use to access our Online Services, including your device model, IP address, operating system, unique device identifiers, and mobile network operator information.
 
-Cookies are pieces of information that a website transfers to your hard drive for record keeping purposes. Cookies make Web surfing easier for you by saving your passwords, purchases, and preferences while you are at our Sites. Krispy Kreme uses cookies to see how and when guests use the Sites and which areas are most popular. Many improvements and updates to the Sites are based on such data. Krispy Kreme does not use cookies to retrieve information from your computer that was not originally sent in a cookie. Krispy Kreme may use cookies to identify specific individuals, for purposes such as online shopping and contest registration (where a cookie allows you to enter a contest every day without registering again each time). You may occasionally get cookies from our advertisers and partners. Krispy Kreme does not control these cookies, and a different cookie policy may apply to them. You may set your browser to refuse cookies or alert you when cookies are being sent. But some parts of the Sites may not function properly if you do so.
+Transaction Information. We collect transaction details related to your use of certain Online Services such as the rewards program, advanced ordering, delivery, and purchase of gift cards and collectables.
 
-Effective January 1, 2014, California Business & Professions Code § 22575(b) provides that California residents are entitled to know how Krispy Kreme responds to “Do Not Track” browser settings. We do not currently respond to these signals because to date there is no uniform technological standard for this. We may adopt a standard once one is created.
+Location Information. We may collect location information including the real-time geographic location of your device through data such as your GPS coordinates, IP address, and WiFi.
 
-Pixel tags (sometimes called “clear GIFs”) are small graphic files, invisible to the human eye, that allow websites or other online services to track users. Certain visitors to our Sites may have previously received targeted promotions relative to the Sites. Krispy Kreme and a third-party advertising company that we have retained use pixel tags in HTML-enabled e-mail to track whether (and when) recipients open such messages. This information is used to target future advertising campaigns and to upgrade visitor information used in reporting statistics. Pixel tags are not used to identify specific individuals.
+Information We Receive From Third Parties. We may receive information about you from third parties such as our business partners and service providers, including payment processors, marketing service providers, and franchisees.
 
-###  Communications from the Sites
+## How We Use Your Information
 
-You may occasionally receive information about products, services, special deals, and a newsletter. If you have submitted information to the Careers portion of the Sites, we may also contact you with regard to potential jobs. If you have submitted information to the Franchise Information portion of the Sites, we may respond to you with information on franchise opportunities. Out of respect for your privacy, we present the option for you to decline to receive these communications. To opt out of receiving further communications from our Sites, please contact [friends@krispykreme.com](mailto:friends@krispykreme.com). 
+Krispy Kreme uses your information, including personally identifiable information, for a variety of business purposes, including:
 
-###  Children’s Privacy
+  * providing our Online Services;
+  * processing your transactions;
+  * creating and managing your account;
+  * communicating with you;
+  * processing your applications for fundraising and employment;
+  * responding to your inquiries and communications;
+  * customer service and technical support, which may include responding to your requests, resolving issues, and/or troubleshooting problems;
+  * improving and customizing our Online Services, communications, and advertisements;
+  * for internal operations such as enhancing our offerings and to conduct research and analysis;
+  * for marketing purposes;
+  * to assist in loss prevention and anti-fraud measures;
+  * to enforce our Terms of Use, and any other applicable terms and conditions and agreements;
+  * to comply with applicable laws, regulations, and legal processes; and/or
+  * to protect the security and integrity of our business, Online Services, products, services, brands, users, customers, and third party business partners and service providers.
 
-Protecting children’s privacy is of special importance to us. Accordingly, Krispy Kreme has developed privacy practices in compliance with the Children’s Online Privacy Protection Act ("COPPA").
 
-Krispy Kreme collects the following information on our Sites from individuals younger than 13 (“children”): first name, last name, address, e-mail address, phone number, birthday, and parent’s name, e-mail, and physical address. Krispy Kreme does not condition children’s participation in any online activity on their disclosure of any more personally identifiable information than is reasonably necessary to participate in the activity.
 
-Krispy Kreme will not use information we receive from a child until we receive verifiable consent from the child’s parent or legal guardian (collectively, the “parent”) to our use of the information. After we receive a parent ’s consent, we will use the information we collect from a child to enable us to offer information about our Sites, our products, our activities, and special events. We may also use such information for our internal marketing plans and purposes.
+## How We Share Your Information
 
-Unless parents specifically register on our Sites to receive information from us, we will not use their e-mail addresses for any reason except to notify them about their child’s desire to register on our Sites and to effect and validate the registration of their child. After we receive the parents’ response to our request for information, we may, at our option, maintain the parents’ information in our internal records, but only to allow us to demonstrate that we have complied with our privacy policy and with applicable laws.
+Krispy Kreme shares and discloses your information, including personally identifiable information, under the following circumstances:
 
-Krispy Kreme will not sell any child’s personal information to anyone outside our company. We may share information from children with licensed franchisees, store operators, and external service providers (such as mailing houses and IT providers) that have agreed to follow our Privacy Policy.
+  * with third parties that provide a variety of services on our behalf, including the development, hosting, maintenance, and support of our Online Services; processing your transactions and payments; data management, storage, and analysis; communications; and marketing;
+  * with franchisees in order to provide our products, services, and promotions to you, and for marketing purposes;
+  * to comply with law, a court order, or other legal process, or in connection with a legal investigation;
+  * as may be necessary to protect the rights and interests of Krispy Kreme, its third party business partners and service providers, and our and their respective employees, customers, visitors, users, or any other person or entity;
+  * to enforce our Terms of Use, and any other applicable terms and conditions and other agreements;
+  * in the event of a corporate transaction, including a merger, acquisition, financing, dissolution, transaction or proceeding involving the sale, transfer, divestiture, or disclosure of all or a portion of Krispy Kreme’s business or assets. In the event of an insolvency, bankruptcy, or receivership, your personally identifiable information may also be transferred as a business asset of Krispy Kreme. If another third party acquires Krispy Kreme or any of it business operations, whether through stock or asset purchase, such third party will possess the information, including personally identifiable information, collected by us and will assume the rights and obligations with respect thereto as described in this Privacy Policy;
+  * in aggregated or other non-personally identifiable form; and/or
+  * in accordance with your consent.
 
-Parents and children will find information below regarding how they can give Krispy Kreme permission to register a child on our Sites and permit them to receive the information we provide to our Site registrants.
 
-Children who are younger than 13 will be asked to provide their parent’s name, e-mail address, and physical address. After we receive the information, we will send an e-mail to the parent stating that the child is attempting to register on our Sites and providing the parent with the URL, user name, and a password to access the information the child has provided to us. When a parent submits the child’s registration information, the child is notified via e-mail that the submission has been made and that the child is now officially registered on the Sites.
 
-Parents may review personal information collected from or about their child that has not already been deleted. Parents may also request that Krispy Kreme review, modify, or delete any personal information about their child by contacting us and providing specific instructions on what we are to do with the information. To contact us by e-mail, send an e-mail to [friends@krispykreme.com](mailto:friends@krispykreme.com). Include your user name and e-mail. To contact us by U.S. mail, write to "Join Friends of Krispy Kreme,” c/o Customer Experience, P.O. Box 83, Winston-Salem, NC 27102. 
+## Cookies and Other Technologies
 
-###  Security of Your Personal Information
+We and our business partners and third party providers use cookies and other technologies such as log files, web beacons, and analytic tools and services on our Sites and other Online Services and in our email communications and online advertisements to collect information automatically from you. Such information includes your IP address, device type, any unique device identification numbers, type of browser (e.g., Google Chrome or Internet Explorer), operating system (e.g., Windows, Vista, Mac, OS, Android, etc.), your browsing activities (e.g., pages viewed and referring / exit URLs), location information, and other usage information. We collect this information for a number of reasons, including optimization of our Sites, improving our Online Services, to enhance your user experience, remembering user preferences and settings, marketing and advertising purposes, security purposes, and analyzing Site traffic and trends.
 
-Krispy Kreme has implemented security policies and practices to protect the personal information it collects from misuse and loss. These policies and practices are also designed to protect personal information from unauthorized access, modification, or disclosure. Although we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures. We will update these measures as new technologies become available, as appropriate. 
+Please see below for more information regarding the technologies that we may use.
 
-###  Other Websites, Links
+Cookies. A cookie is a small piece of data stored by your web browser on your computer or mobile device. We use cookies to collect information from you regarding your usage of our Online Services in order to remember user preferences and settings, personalize your experience with our Online Services, and for security purposes.
 
-This Privacy Policy applies only to the Sites. The policies of other websites operated by Krispy Kreme or its affiliates may vary because of local customs, practices, laws, or circumstances unique to the particular website. Please review the privacy policy of each website before using that site.
+Log File Information. Log file information is automatically reported by your browser or mobile device each time you access our Online Services. The information collected from log files may include your web request, Internet Protocol (IP) address, browser type, referring / exit pages and URLs, number of clicks, landing pages, and pages viewed.
 
-Our Sites may have links to our or third-party websites or applications, which may have privacy policies that differ from Krispy Kreme’s. Please review the privacy policies of those websites or applications. We are not responsible for the policies and practices of other parties, and any information you provide to those parties is subject to their privacy policies. 
+Web Beacons. We may also use web beacons (also known as a “pixel tag” or “clear gif”) which are small blocks of code installed on or utilized with our Online Services, emails, and online advertisements which can retrieve certain information about your device and browser, and other usage information.
 
-###  Reviewing, Updating, and Deleting Personal Information
+Social Media Features. Our Sites contain social media features such as the Facebook and Twitter buttons. These features may collect information such as your IP address and the pages you are visiting on our Sites, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy statement of the company providing the applicable feature.
 
-If the personal information we hold about you is inaccurate, incomplete, or out-of-date, please contact us and we will take reasonable steps to correct the information. To review or update your personal information, or if you wish your personal information to be deleted, please contact us by e-mail at [friends@krispykreme.com](mailto:friends@krispykreme.com) or by U.S. mail, at "Join Friends of Krispy Kreme,” c/o Customer Experience, P.O. Box 83, Winston-Salem, NC 27102. 
+Online Analytics. We may use third party analytics tools, such as Google Analytics, to help us measure traffic and usage trends for our Online Services. These tools collect information sent by your browser or mobile device, including the pages you visit and other usage information. For more information regarding how Google collects, uses, and shares your information please visit <http://www.google.com/policies/privacy/partners/>.
 
-###  Changes
+## Your Choices
 
-This privacy policy is effective as of January 28, 2014. We reserve the right to make changes to this Privacy Policy from time to time. If this Privacy Policy changes, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it, how we store it, and under what circumstances, if any, we share it with other parties. 
+Krispy Kreme provides you with the opportunity to update and/or delete certain personally identifiable information and to opt-out of having information collected for certain purposes. For example, you may
 
-###  Contacting Krispy Kreme
+  * update your account information;
+  * delete your account;
+  * choose whether to receive promotions and offers from us;
+  * change your preferences for certain communications; and
+  * request access to your personally identifiable information.
 
-If you have questions or need further information, please send us an e-mail to the following address: krispykreme@casupport.com. You may also contact us by mail at the following address: Krispy Kreme Doughnut Corporation, Attn: Customer Experience, P.O. Box 83, Winston-Salem, NC 27102. 
+
+
+You may exercise your choices by contacting us via the Contact Us information provided below or following the instructions provided in the electronic communications sent to you.
+
+Because we plan our communications in advance, it may take several weeks for your request to become effective. If you continue to receive our communications after expressing an opt-out preference, please let us know so that we can investigate the situation. We will, however, continue to send transaction-based emails if you engage in a transaction, request customer support, or make similar requests.
+
+In some cases, if you choose not to provide us with the requested information, you may not be able to utilize certain features of our Online Services.
+
+Location Information. You may opt-out from allowing us to have access to your location data by adjusting the permissions in your web browser and mobile device. However, some features of our Online Services may not function properly if use or availability of location data is impaired or disabled.
+
+Cookies and Other Technologies. You may opt-out of the automatic collection of some information by referring to your web browser’s or mobile device’s options or settings menu. However, doing so may disable many of the portions, features, or functionality of our Online Services. For example, most web browsers automatically accept cookies, but you have the choice to set your browser to accept or reject cookies. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences or visit http://www.allaboutcookies.org for more information.
+
+Google Analytics. Google provides users choice on how their data is collected by Google Analytics by developing an Opt-out Browser Add-on which can be located at:[ ](http://tools.google.com/dlpage/gaoptout?hl=en)<http://tools.google.com/dlpage/gaoptout?hl=en>. By installing this Add-on, no information is being sent to Google.
+
+## Information Security
+
+Krispy Kreme implements reasonable physical, electronic, and administrative safeguards to help us protect your personally identifiable information from unauthorized access, use, and disclosure. However, no method of electronically transmitting or storing data is ever completely secure, and therefore, we cannot guarantee that your personally identifiable information will never be accessed, used, or disclosed in a manner that is inconsistent with this Privacy Policy.
+
+## User Generated Content
+
+Krispy Kreme’s Online Services and social media pages may allow you to post messages and submit content (e.g., comments, blogs, photos, postings, etc.), which may include your personally identifiable information. You are responsible for all actions resulting from any information, including personally identifiable information, which you post on our Online Services or social media pages. Please remember that any information you post becomes public information, is not subject to this Privacy Policy, and Krispy Kreme is not responsible for the results of such postings.
+
+## Links, Third Party Websites, and Social Media Platforms
+
+Krispy Kreme’s Online Services and electronic communications may contain links to third party websites and social media platforms such as Facebook or Twitter (including, without limitation, franchisee websites or social media pages), and our products and services may be advertised and/or offered on third party websites (“Linked Sites”). We are not responsible for the privacy practices, policies, or content of any Linked Sites, even if you link to them from our Online Services or communications. This Privacy Policy does not apply to any Linked Sites. We have no control over the collection or use of your information on any Linked Site. We encourage you to read and understand the privacy practices of any Linked Sites that you visit.
+
+## California Residents’ Privacy Rights
+
+Residents of the State of California may request a list of all third parties to which we have disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us via the Contact Us information provided below. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information. Please allow 30 days for a response.
+
+## Do Not Track Notice
+
+At this time, there is no worldwide uniform or consistent industry standard or definition for responding to, processing, or communicating Do Not Track signals. Thus, like many other websites and online services, our Online Services are currently unable to respond to Do Not Track Signals. To find out more about “Do Not Track”, you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+## Users Outside the United States
+
+Our Online Services and electronic communications are provided from within the United States and are subject to the applicable state and federal laws of the United States. If you use our Online Services from outside the United States, please be aware that your information may be transferred to, stored, or processed in the United States where our servers are located and our database is operated. The data protections and other laws of the United States may not be as comprehensive as those in your country. We will rely on legally-provided mechanisms to lawfully transfer personally identifiable information across borders.
+
+## Children’s Privacy
+
+We do not knowingly solicit or collect personally identifiable information online from children under the age of 13 without verified parental or guardian consent. Please contact us as provided below in the Contact Us section if you believe we may have collected such information without parental or guardian consent.
+
+## Email Security
+
+“Phishing” is a scam designed to steal your personally identifiable information. If you receive an e-mail that looks like it is from Krispy Kreme asking you for your personally identifiable information, including account information, please notify us as provided below.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or Krispy Kreme’s information privacy practices, please contact us at:
+
+E-mail: [krispykreme@casupport.com](mailto:krispykreme@casupport.com)  
+Mail: Krispy Kreme Doughnut Corporation  
+370 Knollwood Street  
+Winston-Salem, North Carolina 27103  
+Attn: Legal Department
