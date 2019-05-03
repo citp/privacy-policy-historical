@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interexchange.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903061949id_/https%3A//www.interexchange.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interexchange.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503221124id_/https%3A//www.interexchange.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · InterExchange
 
@@ -130,8 +130,7 @@ _**Location Tracking:**_ Most mobile devices allow you to control or disable the
 
 ### COOKIES, TRACKING TECHNOLOGY, AND INTEREST-BASED ADVERTISING
 
-Like many websites, we use tracking technologies such as cookies, web beacons and similar technologies to record your preferences, and track the use of our Websites and exposure to our online advertisements.  
-We may also use these technologies to monitor traffic, improve the Websites, and make it easier to use and more relevant. You can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your browser to decline cookies, some features of the Websites may not work or may not work as designed.
+Like many websites, we use tracking technologies such as cookies, web beacons and similar technologies to record your preferences, and track the use of our Websites and exposure to our online advertisements. We may also use these technologies to monitor traffic, improve the Websites, and make it easier to use and more relevant. You can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your browser to decline cookies, some features of the Websites may not work or may not work as designed.
 
 We partner with third-party advertising companies who also use these tracking tools to provide advertisements on our Websites or other websites. These third parties may use these technologies to collect information about you when you use the Websites. They may collect information about your online activities over time and across different websites and other online services. They may also use persistent identifiers to track your Internet usage across other websites in their networks beyond the Websites. They may use this information to provide you with interest-based advertising or other targeted content. While we do not knowingly provide these entities with information that personally identifies you such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us.
 
@@ -201,7 +200,4 @@ _**Your California Privacy Rights:**_ If you are a California resident, Californ
 
 For questions about our Privacy Policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact us by email, telephone or postal mail:
 
-InterExchange   
-100 Wall Street, Suite 301   
-New York, NY 10005 (212) 924-0446   
-[privacy@interexchange.org](mailto:privacy@interexchange.org)
+InterExchange 100 Wall Street, Suite 301 New York, NY 10005 (212) 924-0446 [privacy@interexchange.org](mailto:privacy@interexchange.org)
