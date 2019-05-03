@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productplan.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831122512id_/https%3A//www.productplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productplan.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503113627id_/https%3A//www.productplan.com/privacy-policy) for the most accurate reproduction.*
 
 # ProductPlan Privacy Policy
 
