@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pointclickhome.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221141402id_/http%3A//subscribe.hearstmags.com/circulation/shared/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointclickhome.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503124833id_/http%3A//subscribe.hearstmags.com/circulation/shared/privacy.html) for the most accurate reproduction.*
 
 # Hearst Magazines
 
-Last Updated: December 13, 2018
+Last Updated: March 25, 2019 
 
 When you use or interact with a U.S. website, mobile app or other digital service (each a “ **Digital Service** ”) operated or owned by Hearst Magazine Media, Inc., we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full Privacy Notice below for a detailed explanation of our practices.
 
@@ -60,7 +60,7 @@ Read more here.
   * The Digital Services are operated from the United States. Information may be processed and stored in the United States or other countries.
   * The Digital Services are not intended for use by children under the age of 13.
   * This Privacy Notice is part of the [Terms of Use](http://www.hearst.com/newsroom/us-magazines-terms-of-use), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.
-  * If you are accessing the Digital Services from the European Economic Area, additional provisions may be relevant for you. These are included at the end of this Privacy Notice.
+  * If you are accessing the Digital Services from the European Economic Area or the United Kingdom, additional provisions may be relevant for you. These are included at the end of this Privacy Notice.
 
 
 
@@ -70,7 +70,7 @@ Read more here.
 
 If you have questions about our Privacy Notice you can contact us by email at [magsprivacy@hearst.com](mailto:magsprivacy@hearst.com).
 
-**Last Updated:** December 13, 2018
+**Last Updated:** March 25, 2019 
 
 ### A. Introduction
 
@@ -361,7 +361,7 @@ We will delete your personal information when it is no longer required for these
 
 ### International Data Transfers
 
-Information collected through the Digital Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area and Switzerland we put in place safeguards. In particular, such safeguards include [Privacy Shield Principles](http://www.hearst.com/newsroom/privacy-shield-statement) or European Commission-approved standard contractual clauses. For more information on these safeguards, please read our [Privacy Shield Statement](http://www.hearst.com/newsroom/privacy-shield-statement) or contact us at the details provided in the “Contact Us” section above.
+Information collected through the Digital Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area, United Kingdom and Switzerland we put in place safeguards. In particular, such safeguards include [Privacy Shield Principles](http://www.hearst.com/newsroom/privacy-shield-statement) or European Commission-approved standard contractual clauses. For more information on these safeguards, please read our [Privacy Shield Statement](http://www.hearst.com/newsroom/privacy-shield-statement) or contact us at the details provided in the “Contact Us” section above.
 
 ### Changes to the Privacy Notice
 
