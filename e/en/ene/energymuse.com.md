@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energymuse.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213092744id_/https%3A//www.energymuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energymuse.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503195308id_/https%3A//www.energymuse.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
