@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013055827id_/http%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503080241id_/https%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
 
-# AuctionStealer - Free online ebay auction sniper software free ebay sniper esnipe ebay snipe site e snipe auctions ebay auction sniper site bid sniper
+# AuctionStealer: Privacy Policy
 
 TABLE OF CONTENTS
 
@@ -64,11 +64,11 @@ You can access your Personal Information on the Your Profile page, update it, co
 
 If you request that we cancel your account, you will not be able to use any of the services available to members on our site unless you re-register. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](http://www.auctionstealer.com/contact.cfm). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](https://www.auctionstealer.com/contact.cfm). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 CONTACT INFORMATION
 
 If you have any questions or concerns about (a) access to personal information, (b) the collection, use, management, or disclosure of personal information, (c) this policy or our information handling practices, or if you need further assistance with respect to our Privacy Policy, you may contact our Privacy Officer as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them. 
 
-E-mail: [Contact our Privacy Officer](http://www.auctionstealer.com/contact.cfm?privacy=yes)   
+E-mail: [Contact our Privacy Officer](https://www.auctionstealer.com/contact.cfm?privacy=yes)   
 Mailing address: AuctionStealer Privacy Officer 8620 North New Braunfels, Suite 422 San Antonio, TX 78217 
