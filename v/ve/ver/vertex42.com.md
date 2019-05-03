@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911012301id_/https%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503092926id_/https%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
 
 # Vertex42 Privacy Policy
 
-Last Revised: **May 24, 2018**
+Last Revised: **Sep 24, 2018**
 
 Note to users in the EU (May 24, 2018): We are committed to GDPR compliance, but like most other websites in the world, we are still learning about what that means and requires. Our privacy policy will be updated as more information and guidance is made available about GDPR.
 
-**We take privacy very seriously** , and if you are reading this, you probably do as well. First of all, you should know that except for the trusted services that we use for hosting our site (WebSiteSource.com), managing our newsletter (MailChimp), processing payments (ClickBank, Gumroad, PayPal, Etsy), publishing ads (Google and Media.net), analyzing traffic (Google Analytics), and filtering comment spam (Automattic.com), no outside party will have access to your personal information unless you publish it yourself by adding it to a blog comment, review, etc. We do not share personal information or email lists with third parties beyond those specifically named and for the purposes described herein.
+**We take privacy very seriously** , and if you are reading this, you probably do as well. First of all, you should know that except for the trusted services that we use for hosting our site (WebSiteSource.com), managing our newsletter (MailChimp), processing payments (ClickBank, Gumroad, PayPal, Etsy), publishing ads (Google and Media.net and Ezoic), analyzing traffic (Google Analytics and Ezoic), and filtering comment spam (Automattic.com), no outside party will have access to your personal information unless you publish it yourself by adding it to a blog comment, review, etc. We do not share personal information or email lists with third parties beyond those specifically named and for the purposes described herein.
 
 **Vertex42 LLC** owns and runs the website Vertex42.com, so when we say "we", "us", or "our" we mean this site as well as the associates, employees, partners, and affiliates who help run this website and deliver the Content to you. If you have objections to this Privacy Policy, you should not access or use this site. On this page we will explain
 
@@ -36,7 +36,7 @@ You can remove or clear cookies from your computer via your browser (typically a
 
 ## Advertising
 
-We use third-party advertising companies (Google and Media.net) to serve ads when you visit our website. We use advertising to fund this website, and that is why you can download so many useful templates for free. These advertisers may use technology such as cookies when they advertise on our site, which will also send these advertisers information including your web request, IP address, browser type, browser language, the date and time of your request, and the browser you used to visit our site.
+We use third-party advertising companies (Google, Media.net and Ezoic.com) to serve ads when you visit our website. We use advertising to fund this website, and that is why you can download so many useful templates for free. These advertisers may use technology such as cookies when they advertise on our site, which will also send these advertisers information including your web request, IP address, browser type, browser language, the date and time of your request, and the browser you used to visit our site.
 
 This information is generally used for geotargeting purposes (showing San Diego real estate ads to someone in San Diego, for example) or showing certain ads based on specific sites visited (such as showing car ads to someone who frequents car sites) or changing the amount of ads displayed.
 
@@ -48,6 +48,8 @@ We use the [non-personalized ads](https://support.google.com/adsense/answer/7670
 
 You may opt out of the use of the DoubleClick cookie by visiting the [Google Advertising Privacy Policy](https://policies.google.com/technologies/ads).
 
+Ezoic Ads: See [Ezoic's privacy policy](https://g.ezoic.net/privacy/vertex42.com) to learn how they user information to serve ads.
+
 ## Web Analytics
 
 We measure visitors to our website using Google Analytics, a service that transmits website traffic data to Google servers in the Unites States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website usage trends and to make improvements to our site.
@@ -57,6 +59,8 @@ Website traffic data includes information such as the number of times a link was
 You can learn more about [Google Analytics](https://support.google.com/analytics/answer/6004245), or you may opt-out of using Google Analytics cookies by using the [Google Analytics Opt-Out Add-on](https://tools.google.com/dlpage/gaoptout) for your browser.
 
 We use the 'Anonymize IP' setting in Google Analytics ([click here for more info](https://support.google.com/analytics/answer/2763052)).
+
+Ezoic.com uses web analytics to help determine what ads to include on our website. Please read [Ezoic's privacy policy](https://g.ezoic.net/privacy/vertex42.com) to learn how they use information.
 
 ## Purchases and Donations
 
@@ -82,7 +86,7 @@ B) Compliance with laws. We may collect, use, retain, and share your information
 
 Our blog allows comments to be added by users. **Comments are not anonymous.** Information that you include in these comments becomes public information (including the name and comment you provide) and you should exercise caution when deciding to disclose any personal information. Submitting a comment requires providing your name and email address. WordPress also stores your IP address. The IP address is stored because our anti-spam plugin uses the IP address to help identify spam comments. The email address is not displayed, but the email address and IP address is stored with your comment in the WordPress database.
 
-We use the Akismet Anti-Spam plugin by Automattic.com to filter comment spam. This service uses the information you provide in your comment to detect and identify spam. See the [Automattic.com privacy policy](https://automattic.com/privacy/).
+We use the Akismet Anti-Spam plugin by Automattic.com to filter comment spam. This service uses the information you provide in your comment to detect and identify spam. See the [Automattic.com privacy policy](https://automattic.com/privacy-notice/).
 
 You may contact Vertex42 if you wish to have your comment(s) removed for any reason. Please provide us with enough information to identify your comment(s) for removal.
 
@@ -105,6 +109,8 @@ The surveys we use do not contain or request information that we could use or re
 Information from anonymous surveys might be shared or published, but only on an aggregate basis (meaning statistics like 65% of our users are female). This information cannot be used to identify you.
 
 _We do not collect sensitive personal information such as race, religion, or political affiliations. We do not collect sensitive information such as social security numbers and birth dates._
+
+The above pertains to our own data handling procedures. We also work with a company called Ezoic to improve reader experience on the site. See [Ezoic's privacy policy](https://g.ezoic.net/privacy/vertex42.com) to see how they handle data.
 
 ## Scholarship Applications
 
@@ -143,4 +149,4 @@ We may occasionally revise this policy by updating this page. _We encourage you 
 
 ## Contacting Us
 
-If you have any questions or comments about our privacy policy, we can be reached [via email](https://web.archive.org/contact.html).
+If you have any questions or comments about our privacy policy, we can be reached [via email](https://www.vertex42.com/contact.html).
