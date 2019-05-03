@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826215106id_/https%3A//www.stripersonline.com/surftalk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503091459id_/https%3A//www.stripersonline.com/surftalk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SurfTalk
 
