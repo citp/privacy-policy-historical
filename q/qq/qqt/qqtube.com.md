@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qqtube.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731135921id_/http%3A//www.qqtube.com/content/2-privacy-policy-how-we-use-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qqtube.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503230324id_/https%3A//www.qqtube.com/en/content/2-privacy-policy-how-we-use-info) for the most accurate reproduction.*
 
 # Privacy Policy - How we use info - QQTube
 
@@ -50,10 +50,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-QQTube  
-http://www.QQTube.com  
-1734 Clarkson Road Suite 251  
-Chesterfield MO, 63017  
 Support@QQTube.com
 
 This document was last updated on January 16, 2014
