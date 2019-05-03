@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mysynchrony.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905214202id_/https%3A//www.mysynchrony.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysynchrony.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503020941id_/https%3A//www.mysynchrony.com/mysyf/privacy.html%3Fintcmp%3Dna-pagena-footer-data_reason-internal) for the most accurate reproduction.*
 
-# Internet Privacy Policy | Synchrony Bank
+# Internet Privacy Policy | Synchrony
 
-## Effective June 2014
+Please read this policy carefully.También hay disponible una [versión en español](https://web.archive.org/mysyf/privacy-policy-spanish.html).
+
+##  Effective June 2017 
 
 Synchrony Bank (“SYNCB”) is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this site. Please read this Internet Privacy Policy carefully before using this site.
 
@@ -10,18 +12,7 @@ This Internet Privacy Policy currently is applicable only to SYNCB’s United St
 
 This Internet Privacy Policy describes the types of information SYNCB collects from visitors to this site, what we do with this information and how visitors can update and control the use of information they provide on the site. This statement applies solely to information that visitors provide through our site. This Internet Privacy Policy does not apply to other data we collect, including data collected on other sites, such as separate sites operated by our Affiliates or business partners or other information visitors may provide to us through other means.
 
-## Please read this policy carefully.
-
-  * Information Collected
-  * Use of Collected Information
-  * Links to Other Sites
-  * Security of Collected Information
-  * Access to Collected Information
-  * Changes to this Policy
-
-
-
-## Information Collected
+##  Information Collected 
 
 There are portions of this site where we may need to collect personally identifiable information about you (such as your address, phone number and other information) for identification purposes or to fulfill your online requests. We may obtain information about you directly from you, through your use of our products and services and from third parties (such as credit bureaus and demographic firms). Any use by us of your personal information will be pursuant to the privacy policy provided to you in connection with your account with us.
 
@@ -47,15 +38,15 @@ In connection with the California Online Privacy Protection Act we are advising 
 
 This Web site is not intended for persons under 18 years of age. We do not knowingly solicit or collect personal information from or about children under 18 and we do not knowingly market our products or services to children under 18.
 
-## Use of Collected Information
+##  Use of Collected Information 
 
 We may use information you provide us through this site to respond to your questions and requests; provide customer support or to provide specified services to you. Additionally, we may use the information you provide to contact you about updates to our service. We have account-specific privacy policies that we provide in connection with active accounts annually.
 
 Any personal information we collect on this Web site may be shared pursuant to the accountspecific privacy policy that governs your SYNCB account which may include service providers, financial institutions with whom we jointly offer financial products, our affiliates, third parties who are interested in offering special products or services to you or as permitted or required by law (such as credit bureau agencies, business we buy or sell assets from, and law enforcement or government agencies).
 
-If you have provided us personally identifiable information in connection with a consumer product or service offered by SYNCB on this site, please refer to the privacy policy covering such product or service provided with the disclosures for such product or service to review any opt-out options you may have relating to the sharing of your personal information. 
+If you have provided us personally identifiable information in connection with a consumer product or service offered by SYNCB on this site, please refer to the privacy policy covering such product or service provided with the disclosures for such product or service to review any opt-out options you may have relating to the sharing of your personal information.
 
-## Our Security Procedures
+##  Our Security Procedures 
 
 At SYNCB, our goal is to protect your personal information submitted to us through this site. We maintain reasonable physical, electronic, and procedural safeguards that comply with federal standards to guard nonpublic personal information about you against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you have provided to us on this site.
 
@@ -65,20 +56,20 @@ Please note that information you send to us electronically is not necessarily se
 
 SYNCB strives to protect the confidentiality and security of SSNs in our possession, custody or control by employing reasonable safeguards seeking to: (i) restrict employee access to and use of SSNs; (ii) prevent unauthorized third-party access to the SSNs; and (iii) prohibit unlawful disclosure of SSNs.
 
-## Your Access to Information
+##  Your Access to Information 
 
 If you do business with us, we provide you access to information about your SYNCB Account(s) by sending you monthly periodic statements outlining your transactions and other SYNCB Account information, and by providing customer service representatives to answer your questions. You may review and update your personal information that you provide to us through the e-servicing Web site of our specific products.
 
-## Links to Other Sites
+##  Links to Other Sites 
 
 This Internet Privacy Policy only applies to the use and disclosure of information we collect from visitors online through this site. Our Web site may contain links to other sites such as other SYNCB Web sites and sites belonging to our business partners (who are not affiliated with us).
 
 While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. Information you disclose to other parties or through such sites is subject to the privacy practices and policies of those parties or sites.
 
-## International Users
+##  International Users 
 
-This is a United States-based site that is subject to United States law. This site is controlled, operated and administered by SYNCB from its offices within the United States of America. This Internet Privacy Policy is provided in accordance with and subject to applicable U.S. law. If you decide to continue to access this site from your location outside the United States, you hereby agree that your use of this site is subject to this Internet Privacy Policy.
+This is a United States-based site that is subject to United States law. This site is controlled, operated and administered by SYNCB from its offices within the United States of America. This Internet Privacy Policy is provided in accordance with and subject to applicable U.S. law. If you decide to continue to access this site from your location outside the United States, you hereby agree that your use of this site is subject to this Internet Privacy Policy. 
 
-## Changes to this Policy
+##  Changes to this Policy 
 
-We reserve the right to modify or supplement this Internet Privacy Policy at any time. If we make any material change, we will update our site to include such changes. We recommend that you review this Internet Privacy Policy regularly for changes.
+We reserve the right to modify or supplement this Internet Privacy Policy at any time. If we make any material change, we will update our site to include such changes. We recommend that you review this Internet Privacy Policy regularly for changes. 
