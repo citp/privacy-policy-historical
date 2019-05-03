@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zavvi.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228020826id_/https%3A//www.zavvi.com/articles/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zavvi.co.uk privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503195250id_/https%3A//www.zavvi.com/articles/privacy-policy.list) for the most accurate reproduction.*
 
 # Zavvi Privacy Policy | Zavvi
 
@@ -82,7 +82,7 @@ We will comply with any requests to exercise your rights in accordance with appl
 
 If you have any queries on any aspect of our Privacy Policy, please contact us on the details below:
 
-Email: feedback@thehutgroup.com  
+Email: customer.experience@thehutgroup.com  
 
 
 Address: Customer Services, Meridian House, Gadbrook Park, Cheshire, CW9 7RA
