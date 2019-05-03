@@ -1,31 +1,61 @@
-> *The following text is extracted and transformed from the pizzabottle.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529061011id_/http%3A//pizzabottle.com/contact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzabottle.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503080309id_/https%3A//pizzabottle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Best Slice of the Internet
+# Privacy Policy - PizzaBottle
 
-**Privacy Policy for www.pizzabottle.com**
+In compliance with the European Union legislation, we inform you that our website will store some information about your preferences on your own computer inside a tiny file called a ‘cookie’.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pizzabottle@gmail.com.
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to “remember” your actions or preferences over time.
 
-At www.pizzabottle.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.pizzabottle.com and how it is used.
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
-**Log Files**  
-Like many other Web sites, www.pizzabottle.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Most browsers support cookies, but users can set their browsers to decline them and can delete them whenever they like. A third-party website called aboutcookies.org has been setup to help you with instructions how you can do that on various browsers.
 
-**Cookies and Web Beacons**  
-www.pizzabottle.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+  1. Identify you as a returning user and to count your visits in our traffic statistics analysis;
+  2. remember your custom display preferences;
+  3. Suggest any recent searches you’ve made on our site
+  4. Other usability features including tracking whether you’ve already given your consent to cookies
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.pizzabottle.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.pizzabottle.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pizzabottle.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Enabling cookies from our website is not strictly necessary for the website to work but it will provide you with a better browsing experience.
 
-www.pizzabottle.com has no access to or control over these cookies that are used by third-party advertisers.
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.pizzabottle.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+There may also be other types of cookies created after you’ve visited our website.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We use Google Analytics, a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyze how users use the site.
+
+The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage.
+
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
+
+We collect information at various points in the Website to facilitate its use by our customers. Non-Personal Information: Upon accessing the Website, certain non-personal information will be automatically collected without your knowledge or consent, such as your IP address, location data (which is anonymous) and the referring website (“Non-Personal Information�?). We use Non-Personal Information to examine our traffic and to view how our customers use the Website. This type of information will not allow you to be personally identified. For example, we use “cookies�?, which contains only certain statistical information. You can instruct your computer to inform you whenever a cookie is being sent, or you can disallow cookies through your web browser. If you do choose to disallow cookies, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited.
+
+We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
+
+  1. Affiliated Service Providers: We have agreements with various affiliated service providers to facilitate the functioning of the Website, with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase. All administrative service providers that we use are required to have the same level of privacy protection as we have, and therefore we expect that your information will be handled with the same level of care that we employ. Additionally, for example, we may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
+  2. Where required by law: We may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+  3. Statistical Analysis: We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+  4. Transactions: In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as one of our business assets.
+
+
+
+(a) Opting Out of Interest-Based Advertising Services
+
+This website is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self- Regulatory Principles. For a description of the DAA Program, please visit the DAA website. As described above, this website may use or transfer Device Data that it directly collects or that it receives from this website’s Customers, who may use cookies or non-cookie technologies, to enable advertising that is more tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising.
+
+(b) Opting Out of Interest-Based Advertising by Third Parties
+
+This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumers’ or Customers’ use of the Site in order to analyze, report on, or customize content or advertising on the this website or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the
+
+Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s ](http://optout.networkadvertising.org/)[opt-out](http://optout.networkadvertising.org/)[ page](http://optout.networkadvertising.org/) or visit the Network Advertising Initiative (US) and the Digital Advertising Alliance Ad Choices – [DAA](https://www.aboutads.info/consumers/) (US), [EDAA](https://www.youronlinechoices.com/) (EU), [DAAC](http://youradchoices.ca/understanding-online-advertising) (Canada), [ADAA](http://www.youronlinechoices.com.au/) (AU/NZ) to see your opt-out choices from other participating companies.
+
+(c) [Explore](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) other controls and tools to help set and maintain your privacy choices.
+
+We may have third-party advertising companies serving ads to you when you visit our website. These companies may store information about your visits to our website and to other websites in order to provide you with relevant advertisements about goods and services.
+
+These companies may employ cookies and other identifiers to measure advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message.
+
+If you would like to learn more about what options you have about limiting the gathering of information by third- party ad networks, you can consult the website of the Network Advertising Initiative.
+
+You can opt out of participating in interest-based advertising networks but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology.
