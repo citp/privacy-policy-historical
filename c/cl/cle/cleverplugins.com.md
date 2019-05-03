@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverplugins.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021521id_/http%3A//cleverplugins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverplugins.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503180225id_/https%3A//cleverplugins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ Your privacy is important to us. To better protect your privacy we provide this 
  **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+To opt out of the DART cookies, you may visit the Google ad and content network privacy policy at the following URL [https://www.google.com/privacy_ads.html](https://policies.google.com/technologies/ads) Tracking of users through the DART cookie mechanisms are subject to Google’s privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, CleverPlugins.com has no access or control over these cookies that may be used by third party advertisers.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their privacy policies, CleverPlugins.com has no access or control over these cookies that may be used by third party advertisers.
 
  **Collection of Personal Information**  
 When visiting CleverPlugins.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
@@ -21,4 +21,4 @@ We have included links on this site for your use and reference. We are not respo
  **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of CleverPlugins.com then you may contact us at admin@cleverplugins.com
+If you have any questions regarding the privacy policy of CleverPlugins.com, then you may contact us at admin@cleverplugins.com
