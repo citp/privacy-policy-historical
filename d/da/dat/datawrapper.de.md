@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datawrapper.de privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220172502id_/https%3A//www.datawrapper.de/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datawrapper.de privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503164711id_/https%3A//www.datawrapper.de/privacy) for the most accurate reproduction.*
 
 # Privacy | Create charts and maps with Datawrapper
 
@@ -62,7 +62,7 @@ The following data protection principles apply to the use of our website and oth
 
   1. We protect your personal data by taking all reasonable and necessary technical and organizational possibilities so that they are not accessible to unauthorized third parties. Our website and other services offered through it therefore use appropriate encryption mechanisms for the provision of content and during the input and transmission of data. When communicating by e-mail, we also recommend the use of encryption for confidential information
 
-  2. Person responsible in the meaning of. Art. 4 Para. 7 General Data Protection Regulation (GDPR) is Mirko Lorenz, Bahnhofstr. 18, 53604 Bad Honnef, Germany (see also via „Imprint“ at our Website). You can contact our us in regard to data protection at [support@datawrapper.de](https://web.archive.org/web/20181220172502id_/https://www.datawrapper.de/privacy/support@datawrapper.de) or via our postal address with the addition "Data Protection”.
+  2. Person responsible in the meaning of. Art. 4 Para. 7 General Data Protection Regulation (GDPR) is Mirko Lorenz, Bahnhofstr. 18, 53604 Bad Honnef, Germany (see also via „Imprint“ at our Website). You can contact our us in regard to data protection at [support@datawrapper.de](https://web.archive.org/web/20190503164711id_/https://www.datawrapper.de/privacy/support@datawrapper.de) or via our postal address with the addition "Data Protection”.
 
   3. If you send us e-mail messages or other messages, in particular comments, or enter them directly on the Website, we will retain such messages in order to process the request, respond to questions and improve the Website, products and services. We delete the data arising in this context after the storage is no longer necessary or limit the processing if statutory retention obligations exist.
 
@@ -80,7 +80,7 @@ In particular, you have the following rights towards us with regard to the perso
 
 You also have the right to complain to a data protection supervisory authority about our processing of your personal data.
 
-  6. Please contact the person responsible for data protection at [support@datawrapper.de](https://web.archive.org/web/20181220172502id_/https://www.datawrapper.de/privacy/support@datawrapper.de) to request information and for withdrawal as well as for notification of a request for deletion; the data protection officer will then provide the information immediately or confirm the execution of your request for deletion. A deletion requested by you will then be carried out subject to statutory retention obligations. If a deletion cannot take place completely due to legal storage obligations, we limit the processing of the data concerned and inform you accordingly.
+  6. Please contact the person responsible for data protection at [support@datawrapper.de](https://web.archive.org/web/20190503164711id_/https://www.datawrapper.de/privacy/support@datawrapper.de) to request information and for withdrawal as well as for notification of a request for deletion; the data protection officer will then provide the information immediately or confirm the execution of your request for deletion. A deletion requested by you will then be carried out subject to statutory retention obligations. If a deletion cannot take place completely due to legal storage obligations, we limit the processing of the data concerned and inform you accordingly.
 
   7. For all data we collect we have reasonable organizational, technical and administrative measures to protect your data. To some part we rely on the procedures and security measures of other services, as listed above. In all cases we have ensured that the services we use comply with security guidelines. For services outside of the EU we have checked whether these services comply with EU rules or international equivalents such as updated Safe Harbour policies and agreements. At the time of publication of this privacy policy this was the case for all those services.
 
