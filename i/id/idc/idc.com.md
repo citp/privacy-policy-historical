@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624115607id_/https%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503231702id_/https%3A//www.idc.com/about/privacy) for the most accurate reproduction.*
 
-# IDC.com - Privacy Policy
+# IDC - About - IDC Privacy Policy
 
 **You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of the IDC websites.**
 
@@ -52,7 +52,7 @@ We may use or disclose Personal Data if we have a good-faith belief that the dis
 
 ### Opting Out
 
-Once you are on the IDC.com subscriber list, you may ask to be removed at any time. You may simply click on the link that appears at the bottom of the IDC email you receive, or contact IDC Technical Support at: idc_support@idc.com. Unsubscribe requests may also be sent via mail to any of our offices. A list of our worldwide offices is here. In such case, IDC will only contact you in connection with service related issues.
+Once you are on the IDC.com subscriber list, you may ask to be removed at any time. You may simply click on the link that appears at the bottom of the IDC email you receive, or contact IDC Technical Support at: idc_support@idc.com. Unsubscribe requests may also be sent via mail to any of our offices. A list of our worldwide offices is [here](https://www.idc.com/about/worldwideoffices). In such case, IDC will only contact you in connection with service related issues.
 
 ### Questions and Updating or Correcting your Personal Data
 
