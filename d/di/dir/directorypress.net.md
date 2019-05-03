@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130172732id_/http%3A//directorypress.net/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503160126id_/http%3A//directorypress.net/support/privacy) for the most accurate reproduction.*
 
 # DirectoryPress Privacy Policy - Directory Theme for WordPress - New 2014
 
