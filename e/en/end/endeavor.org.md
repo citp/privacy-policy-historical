@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023012629id_/https%3A//endeavor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503085211id_/https%3A//endeavor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Endeavor
 
 Endeavor Global, Inc. (“Endeavor”) is committed to protecting the privacy of visitors to its web site (the “Site”). The purpose of this Privacy Policy is to inform you of what kinds of information we may gather about you when you visit the Site, how we may use that information, whether we disclose it, and the choices you have regarding our use of and your ability to manage and edit the information. This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link.
+
+#### Our Commitment to Our Donors (“Donor Privacy Policy”)
+
+We will not sell, share or trade our donors’ names or Personal Information with any other entity, nor send mailings to our donors on behalf of other organizations. This Donor Privacy Policy applies to all information received by Endeavor, both online and offline, on any Platform, as well as any electronic, written, or verbal communications.
 
 #### Information Collection
 
@@ -12,7 +16,7 @@ Through the Site, we may automatically gather certain information about the use 
 
 You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (such as Internet Explorer or Mozilla Firefox) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you may not have access to many features that make your site experience more efficient and some of our services may not function properly.
 
-[For more information about cookies, please see www.allaboutcookies.org.](https://web.archive.org/web/20181023012629id_/https://endeavor.org/privacy-policy/www.allaboutcookies.org "All About Cookies")
+[For more information about cookies, please see www.allaboutcookies.org.](https://web.archive.org/web/20190503085211id_/https://endeavor.org/privacy-policy/www.allaboutcookies.org "All About Cookies")
 
 #### Protecting Personal Information
 
@@ -39,4 +43,4 @@ If you have questions or concerns regarding this Privacy Policy, please contact 
 Endeavor Global, Inc.  
 900 Broadway, Suite 301  
 New York, NY 10003  
-[Larry.brooks@endeavor.org](mailto:Larry.brooks@endeavor.org)
+[Privacy@endeavor.org](mailto:Privacy@endeavor.org)
