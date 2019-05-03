@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ryanwaggoner.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322034121id_/http%3A//ryanwaggoner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanwaggoner.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503081005id_/https%3A//ryanwaggoner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ryan Waggoner
+# Privacy Policy - Ryan Waggoner
 
 ## This privacy policy was adapted from the Automattic (makers of WordPress.com) privacy policy, which they have generously licensed under Creative Commons.
 
-If you have questions about anything related to privacy [contact me](http://ryanwaggoner.com/contact).
+If you have questions about anything related to privacy [contact me](https://ryanwaggoner.com/contact/).
 
 I, Ryan Waggoner, operate this website, RyanWaggoner.com. It is my policy to respect your privacy regarding any information may collected while operating this website or any related sites.
 
