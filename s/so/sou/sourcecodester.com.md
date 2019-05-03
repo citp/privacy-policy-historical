@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sourcecodester.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706103527id_/https%3A//www.sourcecodester.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcecodester.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503141526id_/http%3A//www.sourcecodester.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Free source code, tutorials and articles
+# Privacy Statement | Free Source Code & Tutorials
 
 Sourcecodester.com has created this privacy statement in order to demonstrate my firm commitment to privacy. The following discloses my information gathering and dissemination practices for this website: Sourcecodester.com.
 
@@ -23,3 +23,5 @@ This site gives users the following options for removing their information from 
 Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact me by sending an email at the [contact](https://www.sourcecodester.com/contact) page.
+
+Additional privacy policy
