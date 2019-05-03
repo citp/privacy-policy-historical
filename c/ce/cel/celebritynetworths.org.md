@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritynetworths.org privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023071219id_/https%3A//networthpost.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritynetworths.org privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504013905id_/https%3A//networthpost.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Net Worth Post
 
