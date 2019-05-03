@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904003708id_/http%3A//www.bankwest.com.au/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504012803id_/https%3A//www.bankwest.com.au/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal stuff | Bankwest
 
@@ -10,7 +10,7 @@ For more information about the Group, including a complete list of Group members
 
 In addition to the Privacy Act, individuals located in the European Union (EU) may also have rights under EU based rules known as the General Data Protection Regulation (GDPR).  The GDPR has harmonised the data privacy laws of each individual EU country, giving more rights to individuals located in the EU and more obligations to organisations holding their personal information.
 
-Details of additional rights of individuals located in the EU and how we meet them are outlined in Appendix 1 of the [Bankwest Privacy Policy (PDF, 123KB)](https://web.archive.org/content/dam/bankwest/documents/legal-library/PDS_20081211-103233.pdf).
+Details of additional rights of individuals located in the EU and how we meet them are outlined in Appendix 1 of the [Bankwest Privacy Policy (PDF)](https://web.archive.org/content/dam/bankwest/documents/legal-library/PDS_20081211-103233.pdf).
 
 We take privacy seriously and are committed to ensuring the protection of your personal information, no matter where you are located.
 
@@ -44,7 +44,7 @@ The information we collect from you may include:
 
   * Health information — for example for insurance purposes
   * Financial and transaction information
-  * When you visit our websites or use our mobile apps — your location information, IP address and any third-party sites you access. Some of this website information we collect using Cookies. For more information please see the [Website Terms of Use](https://web.archive.org/legal-stuff/website-terms-of-use).
+  * When you visit our websites or use our mobile apps — your location information, IP address and any third-party sites you access. Some of this website information we collect using Cookies. For more information please see the [Website Terms of Use](https://web.archive.org/legal-stuff/website-terms-of-use)
   * Other personal information, such as details of your interactions with us.  
  
 
@@ -122,9 +122,9 @@ The Group members use this combined data to help other businesses better underst
 **We may share your information with other members of the CommBank Group. We may also share your information with others for the reasons mentioned in Section 4.**  
 
 
-We may share your information with other members of the Group. This helps us offer you a high-quality customer experience. You can read about how Group members may use your information in section 4.
+We may share your information with other members of the Group. This helps us offer you a high-quality customer experience. You can read about how Group members may use your information in Section 4.
 
-We may also share your information with third parties for the reasons in section 4 or where the law otherwise allows. These third parties can include: 
+We may also share your information with third parties for the reasons in Section 4 or where the law otherwise allows. These third parties can include: 
 
   * Service providers – for example, mortgage insurers, loyalty program partners and our product distributors
   * Businesses who do some of our work for us –  including direct marketing, statement production, debt recovery and IT support
@@ -240,7 +240,7 @@ For more detailed information, like what we’ve included in your loan file, ple
 
 Is there a fee?
 
-We may charge an access fee to cover the time we spend finding and putting together the information you want. If there is a fee, we’ll let you know how much it is likely to be, so you can choose if you want to go ahead. Generally, the fee is an hourly rate plus photocopying costs and other expenses. You’ll need to pay us before we start, or give us permission to take it out of your account.  
+No.  
 
 
 How long will it take?
@@ -299,20 +299,18 @@ If your complaint is about your credit information, we may need to check with cr
 
 If you’re not satisfied with how we manage your complaint after you’ve been through our internal complaints process, there are free and independent dispute resolution services available to you.
 
-The Financial Ombudsman Service can consider most complaints involving financial services providers.
+The Australian Financial Complaints Authority can consider most complaints involving financial services providers.
 
 If your complaint is about how we handle your personal information, you can also contact the Office of the Australian Information Commissioner.
 
-Financial Ombudsman Service
+Australian Financial Complaints Authority  
+GPO Box 3  
+Melbourne VIC 3001  
+Free call 1800 931 678  
+Email [info@afca.org.au](mailto:info@afca.org.au)  
+Visit [www.afca.org.au](https://www.afca.org.au/)
 
-GPO Box 3
-
-Melbourne VIC 3001
-
-Phone 1800 367 287
-
-Visit [fos.org.au](http://www.fos.org.au/)
-
+  
 Office of the Australian Information Commissioner
 
 GPO Box 5218
@@ -321,23 +319,22 @@ Sydney NSW 2001
 
 Phone 1300 363 992
 
-Visit [oaic.gov.au](http://www.oaic.gov.au/) 
+Visit [oaic.gov.au](http://www.oaic.gov.au/)
 
-**If   you want to update your personal information, or if you have a privacy concern, need more information, or want to update your preferences — help is just a phone call or a few clicks away.**Our website: [bankwest.com.au](https://web.archive.org/)
-
-If you are an EU resident and have an enquiry relating to your rights under the GDPR, complete our [online feedback form](https://www.bankwest.com.au/retail-forms/contact-customer-relations).
+**If   you want to update your personal information, or if you have a privacy concern, need more information, or want to update your preferences — help is just a phone call or a few clicks away.**If you are an EU resident and have an enquiry relating to your rights under the GDPR, complete our [online feedback form](https://web.archive.org/retail-forms/customer-care).
 
 To ask a question, access personal information, make a correction or complaint, or get a printed version of this policy:  
 **  
-Step 1: Talk to us** Visit a Store or Business Centre:  
-[bankwest.com.au/find-us](https://web.archive.org/find-us)
+Step 1: Talk to us**[Visit a branch or Business Banking Centre](https://web.archive.org/find-us)
 
 Call us:  
 13 17 19 Customer Help Centre  
 13 7000 Business Support Centre
 
 Online:  
-Log into your Internet Banking Service and send us an email via the secure “BankMail” facility located within the message centre.
+After logging into Bankwest Online Banking, go to 'message centre' then click 'Bankmail' to send us a message.
+
+In the Bankwest App, just tap 'Ask us' in the menu to start a secure conversation.
 
 National Relay Service:  
 TTY/Voice: 133 677  
@@ -353,7 +350,7 @@ Call us from overseas on +61 8 9449 2840 (international charges apply)
 
 Fax us on 1300 259 233
 
-[Complete our online form](https://web.archive.org/retail-forms/contact-customer-relations)
+[Complete our online form](https://web.archive.org/retail-forms/customer-care)
 
 Write to us: Manager Customer Care, GPO Box E237, Perth WA 6001
 
@@ -361,7 +358,7 @@ European Union (EU) based General Data Protection Rules (GDPR) legislation has r
 
 One of the rights is a right to be informed. GDPR requires us to provide more information about how we collect, use, share and store your personal information and your rights as a data subject.
 
-If you are an EU resident and have an enquiry relating to your rights under the GDPR, complete our [online feedback form](https://www.bankwest.com.au/retail-forms/contact-customer-relations).
+If you are an EU resident and have an enquiry relating to your rights under the GDPR, complete our [online feedback form](https://web.archive.org/retail-forms/customer-care).
 
 These rights are additional to the Group Privacy Policy.
 
@@ -382,9 +379,9 @@ We will keep your information for as long as you are a customer of the CBA Group
 **How we use your information**  
 We can only collect and use your personal information if we have a valid lawful reason to do so. For the Group, these reasons are:
 
-  * Contract: We need to process your information in order to fulfil a contract you have with us, or because you have asked us to take specific steps before entering into a contract.
-  * Legal obligations: We need to process your information for us to comply with the law (not including contractual obligations).
-  * Consent: You have given clear consent for us to process your personal information for a specific purpose.
+  * Contract: We need to process your information in order to fulfil a contract you have with us, or because you have asked us to take specific steps before entering into a contract
+  * Legal obligations: We need to process your information for us to comply with the law (not including contractual obligations)
+  * Consent: You have given clear consent for us to process your personal information for a specific purpose
   * Legitimate interests: We need to process your information for our legitimate interests or the legitimate interests of a third party. This legitimate interest is overridden where there is a good reason to protect your personal information.
 
 
@@ -404,7 +401,7 @@ We may use your information to:
 
 
 
-To find out more about how we use your information, our reasoning and legitimate interests, see Appendix 1 of our [Bankwest Privacy Policy (PDF, 123KB)](https://web.archive.org/content/dam/bankwest/documents/legal-library/PDS_20081211-103233.pdf).
+To find out more about how we use your information, our reasoning and legitimate interests, see Appendix 1 of our [Bankwest Privacy Policy (PDF)](https://web.archive.org/content/dam/bankwest/documents/legal-library/PDS_20081211-103233.pdf).
 
 **The right to be informed how personal information is processed  
 **You have the right to be informed how your personal information is being collected and used. If we require your consent to process your information you can withdraw consent at any time. If you withdraw consent, we may not be able to provide certain products or services to you. The right to withdraw only applies when the lawful basis of processing is consent.  
@@ -444,6 +441,6 @@ Wycliffe House
 Wilmslow  
 Cheshire SK9 5AF  
 UK  
-Visit: [ico.org.uk ](http://ico.org.uk/)
+Visit: [ico.org.uk](http://ico.org.uk/)
 
 For other European jurisdictions please refer to the [European Commission website](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) for details of the relevant data protection authorities.
