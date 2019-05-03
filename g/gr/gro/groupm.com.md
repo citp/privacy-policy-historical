@@ -1,160 +1,109 @@
-> *The following text is extracted and transformed from the groupm.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627230044id_/https%3A//www.groupm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupm.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503092721id_/https%3A//www.groupm.com/groupm-privacy-policy-for-talent-europe) for the most accurate reproduction.*
 
-# GroupM Global Privacy Notice | GroupM
+# GroupM Privacy Policy for Talent: Europe | GroupM
 
-**  GroupM.com Privacy Notice **
+**For the German version of this policy, please click[here](http://campus.groupm.de/datenschutz/). **
 
-How and why we collect data and covering your choices.
+**Privacy Policy – GroupM Talent**
 
-(last update, 24th May 2018)
+At GroupM EMEA and its agencies we are committed to ensuring that your personal information is protected and never misused.
 
-  ** _Who are we?_**
+Our privacy policy explains what personal information we collect, why we collect it, how we use it, the controls you have over your personal information and the procedures that we have in place to protect your privacy. It applies to personal information we collect through our GroupM Talent website and any associated applications for employment which come through the GroupM Talent website. 
 
-GroupM is a global media investment business and is the umbrella for a group of companies, including media planning and buying companies such as Mindshare, Mediacom, Wavemaker and Essence and technology providers including: [m]Platform, Xaxis, BannerConnect and LemonPi.  For more details about these technologies, please refer to the FAQ section of this notice which provides links to their own privacy notices
+By sharing your personal information with us, and by continuing to use our Talent website, you confirm that you have read and understood the terms of this privacy policy. We take responsibility for the personal information we collect about you, and we aim to be transparent about how we handle it, and give you control over it.
 
-In the European Economic Area (EEA) and Switzerland the GroupM legal entity responsible for the data that GroupM collects is GroupM UK Limited.  Outside of the EEA and Switzerland the responsible legal entity is GroupM Worldwide, LLC.
+GroupM forms part of the WPP Group and in this privacy policy, when we refer to "WPP", "us", "we" or "our", we mean the WPP group company or companies which provide you with the WPP careers websites. In this policy, we refer to all WPP group companies as the "WPP Group".
 
-This notice outlines how and why GroupM (“ **GroupM** ”) collects and uses personal data specifically from visits to the groupm.com and groupmpublications.com websites (“ **Website** ”). It also explains your rights as someone who may provide personal data to GroupM through the Websites and how to exercise these rights. If you are an individual residing in the EEA or Switzerland you should be aware that our DPO can contacted at [DPO@GroupM.com](mailto:DPO@GroupM.com).
+If you have any questions, comments or concerns about any aspect of this policy or how WPP handles your information please email our Privacy Team at [DPO@GroupM.com](mailto:DPO@GroupM.com).
 
-  ** _What information is collected and used by GroupM?_**
+****What personal information do we collect?****
 
-We collect information that enables us to identify your browser and device and tell us which pages within our Website you visit and on which pages you spend the most time. We do this by using the following:
+Our main reasons for collecting your personal information is to provide you with information or services that you have requested including supporting your applications to GroupM and to provide and improve the service, products and experiences that you and the users of the GroupM Talent website, applicants and employees expect from us.
 
-Cookie
+We collect personal information from you in several different ways; you may share that information with us, or we may collect it using other means. In this section, we explain the different ways we collect personal information from you and some ways in which that information will be used. For more detail on how we use your personal information, please see the section titled "How do we use your personal information?".
 
-| 
+****Information you share with us****
 
-is a small alphanumeric text file that we automatically assign to visitors to our website. It is stored in your browser and allows us to identify you.
+We collect personal information that you share with us when you register, contact us or interact with us through our website, email, phone or otherwise. You can decide not to provide certain information, or ask that any information you have previously shared is removed. If you do so, you may not be able to take full advantage of a career at GroupM and progress an application.
 
-Sometimes a cookie resides on your device for just the single time you’re visiting our Website; this is called a session cookie. Sometimes a cookie remains on your device until you delete it or it expires automatically; this is called a persistent cookie. Both types of cookies are used on our Website.   
-  
----|---  
-  
-IP address
+For example, you may provide information to us when you contact us about an opportunity to work at GroupM, upload a CV or Resume or other careers information.
 
-| 
+To apply for a role listed on our website we require users to register and to provide us with basic contact information. Through these interactions you may share with us: your name, address, e-mail address, postal address, contact number, career history (usually in the form of a CV) as well as any other personally identifiable information you include in your interactions with GroupM. We may also ask for additional information to assist us with our recruitment process and in the event you are offered a job.
 
-means Internet protocol address  
-  
-Pixel
+****Cookies****
 
-| 
+We may use cookies and similar technologies to collect non-personally identifiable information from you and to customize your use of the careers website. A cookie is a small data file that certain web sites write to your hard drive when you visit them. We may also use web bugs, clear gifs and similar technologies that collect data similar to that collected by a cookie.  A cookie file can contain various types of information, including a user ID that the site uses to track the pages you have visited. 
 
-is a line of code that sits within our webpages and which we use to record that you have visited a particular page within our website.  
-  
-We use some, or all, of this information to improve your website experience by delivering content that you are likely to prefer on future visits. Our lawful basis for this type of processing is that we have a legitimate interest in understanding and improving your experience of our Website.
+Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent or you can flush your browser of cookies from time to time. (Note: you may need to consult the help area of your browser application for instructions.) If you choose to disable cookies or refuse to accept a cookie, you may not be able to utilize all features of the careers website. 
 
-If you don’t agree to us using cookies and the above information, you may prevent their use through your browser settings or you may choose to opt out HERE. By choosing not to accept cookies, certain Website features may not work as we have intended.
+Should you visit any of our WPP Group company websites, cookies may be used as described in the relevant privacy policy, so it is a good idea to check the privacy policies which govern those websites.
 
-**_Specific Cookie Types used by GroupM_**
+****How do we use your personal information?****
 
-**Performance**
+Our main reasons for using your personal information is to provide you with information or services that you have requested including supporting your applications to WPP and to provide and improve the service, products and experiences that you and the users of the WPP careers website, applicants and employees expect from us.
 
-**Analytics**
+We may share your personal information with companies in the WPP Group, and given the global nature of our company, your personal information may be transferred from one jurisdiction to another. When we make such transfers, we do so in accordance with data protection legislation, for example by using Standard Contractual Clauses where information is transferred from WPP in the European Economic Area to WPP in the United States of America.
 
-**Tracking**
+By submitting your personal information to us, you agree to us transferring, storing and handling your personal information in this way.
 
-| 
+We share your personal information with certain third parties who provide services on our behalf. They only have access to the personal information they need to perform those services. They are required to keep your personal information confidential and may not use it other than as we ask them to and always in accordance with this privacy policy.
 
-This type of cookie provides aggregated information about where a user may go on the Website.  
-  
----|---  
-  
-**Google Analytics**
+****Information you share with us****
 
-**(persistent)**
+We use the personal information you share with us in the following ways:
 
-| 
+  * To respond to your queries and requests;
+  * To communicate with you;
+  * To provide you with updates about your WPP application;
+  * To provide services and support for any application you make;
+  * To facilitate any application you make to WPP;
+  * To provide updates to you about any changes to WPP’s policies, terms and conditions and any other matters which we may need to tell you; and
+  * If you have asked us to keep you informed of other opportunities at WPP, we may periodically contact you to tell you about these for up to 12 months.
 
-GroupM uses Google Analytics to help us analyze how visitors use the Website. Among other things, Google Analytics uses cookies to collect information about the number of visits to the Website, the webpage that referred visitors to the Website, language, device, browser and operating system, the pages visitors view within the Website and other similar details. We do not share this information with third parties. When used this way the Google Analytics cookie is a persistent cookie, and will remain on your device until the cookie expires or you delete it. These cookies may appear as _utma, _utmb, _utmc, _utmz, _utmv, _utmt.  
-   
-  
-**Google Analytics** ** **
 
-**(session)**
 
-| 
+****Contacting You in the Future****
 
-This cookie may appear as has_js. We do not retain this data as it is deleted upon closing of your browser, and therefore we cannot share it with any third parties.  
-   
-  
-**Social media/**
+If you have asked us to we will keep you informed of other opportunities at WPP for up to 12 months. We do this in various ways, including e-mail, post, SMS, via social media platforms and by phone, but only if you are happy for us to do so.
 
-**Social Sharing**
+If you would like more information on how we share your personal information, please email our Privacy Team at dpo@GroupM.com
 
-| 
+****Links to third party websites****
 
-These are cookies that help with the Website’s functionality. These are third party cookies, and they allow you to share comments, pages, bookmarks, and likes, and help to provide access to social networking tools easily  
-   
-  
-**Widgets**
+We may provide links to other websites which are not operated and controlled by WPP.
 
-| 
+We have no control over and are not responsible for the content of those sites or how the third parties responsible for them collect and use your personal information. We do not endorse or make any representations about third party websites.
 
-Social media widgets used on this Website include LinkedIn, Twitter, and YouTube. These social media widgets collect information about your visit to the Website and your use of the social platform services (for example, buttons or likes) on the Website. We do not share information with these social platforms, however please keep in mind the social networks collect the data of your site visit and interaction with the social widget directly  
-  
-**_Collection and Use of Contact Information_** **.**
+Third party websites may have their own privacy policies explaining how they use and share your personal information. You should carefully review those privacy policies before you use these websites to make sure that you are happy with how your personal information is being collected and shared.
 
-There are a few instances where we may collect your name and contact details (such as e-mail address, telephone number and postal address). But, we won’t collect this information without consent and never use it in online advertising placement. Examples where you might voluntarily provide your name and contact details include: 
+****How long do we keep your personal information?****
 
-  * _Responding to requests_ : we keep a record of information, including email address and other contact information, solely for responding to a user’s request. For example: 
-    * If you click on the “contact us” link and submit a question or comment, we will collect your name, e-mail address, and phone number to send you a reply.
-    * If you voluntarily ask to be added to our newsletter list, we will collect your e-mail address to send you our email newsletter.
+We only keep your personal information for as long as we need to, to be able to use it for the reasons given in this privacy policy, and for as long as we are required to keep it by law. Following an application we keep your information should any other opportunities become available; however we will only keep your information for a limited period and your details will be purged after 12 months of inactivity on your account.
 
+****Informing us of Changes****
 
+If any of the information that you have provided to GroupM changes, for example if you change your e-mail address, name or postal address, you can update, amend or remove information by logging into your account, or ask us by submitting a request to [TalentTeam.UK@GroupM.com](mailto:TalentTeam.UK@GroupM.com).
 
-By entering your contact information as noted above you are consenting to GroupM using that information to contact you regarding your request. This consent is our legal basis for using the information in this way.
+You have the right to access, update and amend personal information that we hold about you. You can also ask us to remove personal information about you or limit its use.
 
-If at any time you decide to withdraw your consent and like would us to remove you from our marketing e-mails or newsletters, or to unsubscribe from our database, you can contact us using the details provided at the bottom of this Privacy Notice. You must include your name, e-mail address, and clear instructions regarding changes you are requesting. You may also unsubscribe from e-mail newsletters by clicking on the “unsubscribe” link found at the bottom of the e-mail.
+If the law in your country allows us to impose a fee for giving you access, we will communicate this to you in response to your request.
 
-GroupM is a data controller responsible for your personal data (as this term or similar term is defined by applicable law) when you visit our Website or provide us with contact information.
+If you would like to access, update or amend your personal information or, if you would like us to remove personal information that we hold about you, or limit its use, please email [dpo@GroupM.com](mailto:DPO@GroupM.com).
 
-**_California_**
+****How do we protect your personal information?****
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. To request a list of companies, if any, to which GroupM has provided personal information for its own marketing purposes, please email us at [DPO@groupm.com](mailto:DPO@groupm.com) . Please allow 30 days for a response.
+We use appropriate technical and organisational measures, including encryption, to protect your personal information and privacy, and review those regularly. We protect your personal information using a combination of physical and IT security controls, including access controls that restrict and manage the way in which your personal information and data is processed, managed and handled. Whilst we cannot guarantee the security of your personal information, we commit to taking all reasonable steps to do so.
 
-**_Frequently Asked Questions_**
+****Changes to this privacy policy****
 
-**Does G** **roupM share any information with other vendors or partners?**  We may provide access to information we collect to our vendors and contractors (also known as third parties) who are performing services on our behalf to enable the uses of your information that we have described above. These vendors are not permitted to use this information for any other purpose. **As noted above the Website uses  **[ **social media widgets  **](https://www.groupm.com/eu-privacy-policy) **including, but not limited to, YouTube, Twitter, and LinkedIn so users can easily share information about their visits with “likes” or “shares.” Always review the privacy policy of social media sites as their data collection practices are separate from** **GroupM** **practices.**  Additionally, we must disclose information when we believe we’re legally obliged to, or in order to investigate, prevent, or take action regarding prohibited activities, such as incidents of hacking, misuse, or other prohibited activities.
+We will review and update this privacy policy from time to time and will note the date it was last updated below.
 
-**Does GroupM** **transfer your Personal Data outside the European Union?** If you provide us with personal data, we may transfer that personal data to our affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world to enable us to use that personal data as described above.  Our standard practice is to use European Union model clauses for the transfer of data from the EEA & Switzerland to other non-EEA countries.
+****Contact us****
 
-**Use of this site by Children & Children’s data:** We’re sensitive to children's privacy. Our Website is not developed for or directed at children under age 13. We specifically request that children not provide information about themselves through our Website.  If you believe your child has provided this kind of information and would like it deleted from our database, you can contact us at [DPO@groupm.com](mailto:DPO@groupm.com) . If we become aware we’ve collected information about a child under the age of 13, we’ll delete it.
+If you have any questions, comments or concerns, or would like to make a complaint about how we use the personal information we hold about you, please email our Privacy Team.
 
-**Data retention and storage:** We will keep your information that we collect on the Website for a reasonable period for the purposes set out above. We follow generally accepted online advertising industry standards to ensure that your personal data disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.  These standards include undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use.
+You can contact our Privacy Team at any time at [dpo@GroupM.com](mailto:DPO@GroupM.com). We will get back to you as soon as possible.
 
-**Information Security:**  Maintaining the privacy of our users’ information is very important to us which means we take care and pay special attention to our security measures to protect this information from data breaches. We follow industry standards to protect against the unauthorized access to, retention of, and disclosure of information. This includes physical, electronic, and management activities to protect information integrity, access, and use.
+****GroupM Agencies****
 
-**Linking to other websites/Third party sites:**  A link from our Website to another website does not imply our endorsement of affiliates or websites, and we do not control third party websites to which we link, nor assume responsibility for their content or privacy policies. Once you follow a link to another website, the GroupM Privacy Notice no longer applies. It’s important to always read the privacy policy of any website you are visiting.
-
-**Transfer of data upon change of control:**  In the event that another company acquires us, or all or substantially all of the assets of our business, through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all information (including any information you may have provided through the “contact us” page) that is in our possession or under our control to the acquiring party, and that information may be used by the acquiring party in its business.
-
-**Data Subject Rights of individuals in the EEA and Switzerland:** You have the right to access, update, change, delete, restrict the use of, or obtain a copy of your Personal Data in an easily readable format. In certain circumstances, you may also request that GroupM transfer your Personal Data to a third party, and the right to object to its use for marketing purposes. If you wish to exercise any of these rights please contact our DPO at [DPO@GroupM.com](mailto:DPO@GroupM.com).
-
-Where our processing of your personal data is based on your consent, you also have the right to withdraw this consent at any time by contacting our DPO at [DPO@GroupM.com](mailto:DPO@GroupM.com). Please note that your withdrawal of consent will not affect the lawfulness of our processing of your personal data prior to withdrawal of consent.
-
-**GroupM Technology Companies & Privacy Notice Links**
-
-**Changes to this Privacy Notice**
-
-Please note that because of the changing nature of privacy laws and regulations, digital technologies, and our business, we may modify this Privacy Notice from time to time. Please review this Privacy Notice periodically to become aware of any changes that may have occurred (we will update the effective date at the top of the page to help you know when changes have been made). 
-
-**If you have any Complaints or wish to contact us:** Please use the details set out below depending on where you are located and we will do our best to address any complaints or worries you may have about how we collect and handle your Personal Data.
-
-If for whatever reason you don’t feel like we have adequately addressed your concerns you can contact the Data Protection Authority in your jurisdiction and make a formal complaint **.**
-
-**Europe:**
-
-GroupM UK Limited
-
-[DPO@GroupM.com](mailto:DPO@GroupM.com)   
-
-GroupM, 40 The Strand, London WC2N 5RW – Attn: Data Protection Officer
-
-**Outside Europe:**
-
-GroupM Worldwide LLC
-
-[Privacy@groupm.com](mailto:Privacy@groupm.com)
-
-GroupM, 498, 7th Avenue, New York, NY, 10018, USA  \- Attn: Director of Privacy
+GroupM means (as applicable) Group M Worldwide LLC and any of GroupM, Mindshare, MEC, Mediacom, Maxus, Wavemaker, Essence, m/SIX, mPlatform, Xaxis, Light Reaction, Action X/Action Exchange, Motion Content Group, Bannerconnect, Plista, Greenhouse Group, Triad Digital Media, Gain Theory, ESP Properties, Finecast, Catalyst, Modi Media, Midas Exchange, Two Circles and any other WPP company trading under the GroupM umbrella of companies.
