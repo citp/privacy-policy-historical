@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisiana.edu privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119082457id_/http%3A//louisiana.edu/node/79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisiana.edu privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503224135id_/http%3A//louisiana.edu/node/79) for the most accurate reproduction.*
 
 # Privacy Policy | University of Louisiana at Lafayette
 
