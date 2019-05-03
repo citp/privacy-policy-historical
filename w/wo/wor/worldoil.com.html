@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldoil.com privacy policy that was archived on 2018-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181101194544id_/http%3A//www.gulfenergyinfo.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldoil.com privacy policy that was archived on 2019-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190503085244id_/http%3A//www.gulfenergyinfo.com/pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head runat="server">
     <title>Privacy Policy | Gulf Energy Information | Gulf Energy Information</title>
@@ -129,6 +129,12 @@
     <li class="">
 
                         <a href="/sectors/infrastructure">Infrastructure</a>
+
+
+    </li>
+    <li class="">
+
+                        <a href="/pages/corporate-data-plans">Corporate Subscriptions</a>
 
 
     </li>
@@ -441,7 +447,7 @@
 <!-- copyright -->
 <div id="footer-bottom">
     <div class="bottom-left">
-        Copyright © 2018 Gulf Publishing Holdings LLC. All Rights Reserved.
+        Copyright © 2019 Gulf Publishing Holdings LLC. All Rights Reserved.
     </div>
     <div class="bottom-right">
         All material subject to strictly enforced copyright laws.<br>
@@ -464,8 +470,22 @@ Please read our <a href="/pages/terms-and-conditions">Terms &amp; Conditions</a>
 
         function CookiebotCallback_OnAccept() {
             loadAdRoll();
+			loadPardot();
+
         }
 
+		function loadPardot() {
+                if (Cookiebot.consent.statistics) {
+                    piAId = '46692';
+                    piCId = '46982';
+
+                    var s = document.createElement('script'); s.type = 'text/javascript';
+                    s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+                    var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+                }
+            }
+
+			
         function loadAdRoll() {
             adroll_adv_id = "ZPLAT4IBM5A4DG57ASBFXE";
             adroll_pix_id = "GQBEZAFAJNFJDBTO5COLCL";
