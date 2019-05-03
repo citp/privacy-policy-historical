@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecig.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008111603id_/http%3A//www.ecig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecig.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503205013id_/https%3A//www.ecig.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ecig.com
+# Privacy Policy - Ecig.com
 
 __When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
@@ -8,7 +8,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 _How do I withdraw my consent?_
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by emailing us at [support@ecig.com](mailto:support@eCig.com). 
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aedddbdedec1dcdaeecbedc7c980cdc1c3). 
 
 **SECTION 3 - DISCLOSURE**
 
@@ -72,7 +72,7 @@ If our store is acquired or merged with another company, your information may be
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@ecig.com](mailto:support@eCig.com) or by mail at ecig.com
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#04777174746b76704461476d632a676b69) or by mail at ecig.com
 
 8001 Cameron Rd. B100  
 Austin TX
