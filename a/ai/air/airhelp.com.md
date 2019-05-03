@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airhelp.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916134608id_/https%3A//www.airhelp.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airhelp.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503092141id_/https%3A//www.airhelp.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AirHelp
 
@@ -58,7 +58,11 @@ Furthermore, we collect personal data for other purposes such as statistics, adm
 
 We purchase flight data from third parties, e.g. information on delayed or cancelled flights within a given time etc. This information is non-personal data, which we combine with personal data. This Eligibility Service is only used to inform about the likelihood of having an eligible Claim. We will provide our Justice as a Service for eligible Claims on request.
 
+### Use of personal data
+
 We will use personal data for the purpose it is collected, and keep the data for no longer than necessary for that purpose. We may retain your information for as long as your account is active or as needed to provide services, comply with our legal obligations or any of the purposes listed above. Access to personal data is strictly limited to personnel of AirHelp and it’s controlled subsidiaries and affiliates who have appropriate authorization and a clear business need for the data.
+
+### Use of Cookies
 
 Our website and our partners use cookies or similar technologies to ensure the best user experience and to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Cookies are small text files that are placed on your device to track usage patterns and record preferences. Our cookies do not contain information that can directly identify persons. We gather certain information automatically by the use of cookies and tracking technologies such as Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, the files viewed on our site (e.g. HTML pages, graphics), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer site. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit the use of certain features or functions on our website or service.
 
@@ -144,15 +148,17 @@ This Privacy Statement may be updated from time to time, e.g. due to modificatio
 148 Des Voeux Road Central  
 Central  
 Hong Kong  
-E-mail: [info@airhelp.com](mailto:info@airhelp.com)  
+E-mail: [privacy@airhelp.com](mailto:privacy@airhelp.com)  
 Phone number: +44 800 011 9805  
 AirHelp’s representative in the EU
 
- **AIRHELP POLAND SP Z O.O.**  
-Al. Grunwaldzka 472C  
-80-309 Gdańsk  
-Poland  
-E-mail: [info@airhelp.com](mailto:info@airhelp.com)  
+### AirHelp’s representative in the EU
+
+ **AIRHELP GERMANY GmbH**  
+Boxhagener Straße 18  
+10245 Berlin  
+Germany  
+E-mail: [privacy@airhelp.com](mailto:privacy@airhelp.com "Follow link")  
 Phone number: +48 22 307 10 42
 
- _Effective Date: August 30, 2018_
+ _Effective Date: April 12, 2019_
