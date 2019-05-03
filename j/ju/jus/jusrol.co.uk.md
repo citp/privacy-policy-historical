@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jusrol.co.uk privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128134436id_/http%3A//generalmills.com/company/privacy-policies/privacy-policy-UK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jusrol.co.uk privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503120431id_/http%3A//generalmills.com/company/privacy-policies/privacy-policy-UK) for the most accurate reproduction.*
 
 # 
 
