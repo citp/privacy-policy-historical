@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmosworld.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018114326id_/https%3A//mmosworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmosworld.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503204823id_/https%3A//mmosworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
