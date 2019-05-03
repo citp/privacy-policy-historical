@@ -1,139 +1,195 @@
-> *The following text is extracted and transformed from the landlordzone.co.uk privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130005927id_/https%3A//www.landlordzone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landlordzone.co.uk privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503120822id_/https%3A//www.landlordzone.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - LandlordZONE
 
-**Privacy Policy and Cookies** – Parkmatic Publications Limited trading as LandlordZONE® is committed to providing you with the highest quality service.
+**Privacy Policy**
 
-This includes maintaining your privacy and protecting your personal data. In addition to our **Website Terms of Use** the following policy explains what we and our associated publications do with the personal data we collect about you.
+LandlordZONE®
 
-To get the best from our services, please keep your personal data (including your email address) accurate and up to date. You can do this by up-dating any account information you currently have with us. Always keep any user names and passwords safe and secure.
+The following information constitutes our privacy policy notice. In this document, “we”, “our”, or “us” refer to Parkmatic Publications Limited trading as LandlordZONE®
 
-Generally we do not collect particularly sensitive information beyond name, e-mail, and usually optionally postal address and telephone number, unless you are using the TenatVERIFY or LandlordDEALS account services.
+Our registered office is at Lumiere, Elstree Way, Borehamwood, Herts WD6 1JH
 
-Please take the time to read this privacy policy carefully.
+You can contact us by e-mail about privacy at [editor@tenantverify.co.uk](mailto:editor@tenantverify.co.uk) or telephone London: London: 0208 144 2044, Manchester: 0161 298 4420
 
-By registering and opening an on-line account with us you consent to our use of your personal data in accordance with our terms of use policy. We hope that by implementing and operating this policy we will make your on-line experience a secure and enjoyable one.
+We are registered as a data controller with the Information Commissioner’s Office, ICO Registration Number: Z2161622
 
-We will never share you personal data with third parties; that is an absolute promise.
+We take very seriously the protection of your privacy and confidentiality. We understand that you are entitled to know that your personal data will not be used for any purpose unintended by you.
 
-### Contents:
+The law requires us to tell you about your rights and our obligations to you regarding the processing and control of personal data. We do this now, by requesting that you read the information provided here [www.knowyourprivacyrights.org](http://www.knowyourprivacyrights.org/)
 
-  * What personal data do we collect about you?
-  * How do we use your personal data?
-  * Safeguarding your personal data?
-  * What are cookies and how do we use them?
-  * Sale of the business
-  * Contacting us
+Except as set out below, we do not share, or sell, or disclose to any third party, any information collected through our forms, emails, letter post, website or otherwise.
 
+This policy explains when and why we collect personal information about our subscriber members, how we use it and how we keep it secure and spells out your rights in relation to it.
 
+We rely on legitimate interest as our legal basis for processing your personal data – data which is limited to email and IP addresses. We give free and open access to our information to help landlords and letting agents run successful businesses. To this end we send out a limited number (maximum one email per day) of email communications with specific investment and rental property management information. This information is either created by us or is sent out on behalf of carefully selected industry suppliers – publications and/or relevant promotions.
 
-### 1: Why do we have a privacy policy?
+By using and accessing the facilities that this website provides (whether as a guest or a subscribed user) you consent to the collection of a limited amount and use of your personal information in accordance with the terms of this Privacy Policy. Your use is at all times subject to this Privacy Policy. If you do not agree to this Privacy Policy you should not use this website.
 
-There are a number of UK, and international laws which set out important standards regarding information that identifies a living individual. This is known as “personal data.”
-
-All UK organisations processing personal data must do so fairly and lawfully. They must also be registered with the UK Information Commissioner whose role it is to ensure that organisations comply with their data processing obligations. If you want to, you can view a copy of our data protection notification by visiting the Information Commissioner’s website.
-
-Our UK Data Protection Registration Number is: Z2161622. Certain rules apply to sending direct marketing information by telephone and email. At Parkmatic Publications Limited we treat all of our obligations seriously and take all necessary steps to comply when we store and process your personal data.
-
-### 2: What personal data do we collect about you and how?
-
-It is essential that we collect, store and process some of your personal data so that we can give you the best service experience and perform our services efficiently. Some of the information we request is voluntary, and you do not have to provide it.
-
-### We collect your personal data in a number of different ways, including the following:
-
-  * if you provide it when communicating with us (for example when registering for our services);
-  * if you order any of our products or services;
-  * if you enter a competition or promotion;
-  * if you make payments or modify your account details; and
-  * when you visit our websites (for example by cookies and other browser-generated information).
+  1. **How we Collect, Use and Store your Information**
 
 
 
-### 3: How do we use your personal data?
+1.1 We may collect, use and store your personal data (email and IP addresses only) as described in this Data Privacy Policy and as described when we collect data from you at the point of sign-up, where you request, access and download information.
 
-We retain and use your personal data for the following main purposes:
+1.2 We reserve the right to amend this Privacy Policy Statement from time to time without prior notice. You are advised to check the privacy policy statement on our website [www.landlordzone.co.uk](http://www.landlordzone.co.uk/) regularly for any amendments (but amendments will not be applied retrospectively).
 
-  * we reserve the right to access and disclose your personal data if we are required to do so by law.
-  * providing our services, contacting you and servicing our relationship with you; administration and accounting, billing and auditing and other legal purposes;
-  * security, payment verification, preventing and detecting money laundering, fraud and other crime, insurance, credit assessment and administration, tracing debtors and recovering debt. For these purposes, we may also pass on your personal data to third parties;
-  * generating statistics on our users, such as the popularity of certain of our services, about the “traffic” visiting our websites. When we do this, your data becomes anonymous and you are not personally identified; and
-  * we never sell or share your contact details (e-mail addresses etc) with third parties but we may e-mail broadcast to you from our own servers on advertisers’ behalf where we feel they offer services which may be of use to landlords and property investors.
+1.3 We will always comply with the UK’s Data Protection laws and the General Data Protection Regulation (GDPR) when dealing with your personal data. Further details on the GDPR can be found at the website for the Information Commissioner [www.ico.gov.uk](http://www.ico.gov.uk/)
 
+1.4 For the purposes of data protection and the GDPR, we will be the “controller” of the personal data we hold about you – email and IP addresses.
 
-
-### 4: Safeguarding your personal data
-
-We take all reasonable care in the collection, storage, processing and disclosure of your personal data and have implemented internal security procedures so as to minimise the risk that unauthorised parties will be able to access the information.
-
-Nonetheless, the Internet is an open medium and we cannot guarantee that any information you send to us by email or via our website will not be intercepted or tampered with. To help protect any sensitive personal data and minimise the risk of it being intercepted by unauthorised third parties our secure servers employ industry standard Secure Socket Layer v3 (SSL) or Transport Layer  
-Security v1 (TLS) encryption when you submit information to us through our website, for example when using TenantVERIFY. This security is signified by the “https” and the padlock on the URL bar.
-
-Some older browsers do not allow the use of current SSL technology and we therefore recommend that you use an up-to-date browser for example we recommend Google Chrome. If you use Microsoft Internet Explorer use version 9.0 or later.
-
-You can also help to protect your personal data, by following these guidelines:
-
-  * choose a password that you will be able to remember but that would be hard for someone to guess. Ideally it should include special characters (such as “?” or “#” for example) and numbers. We recommend that you change it regularly and if you need to write it down, always keep it in a safe place; better still use a password manager on your computer which encrypts the information.
-  * make sure that no-one can see the details you are entering when you log-in;
-  * if other people have access to your computer, remember to close your browser each time you log-off and end your session and, if possible, clear any history of the websites you have visited and that your browser may have saved or “cached”; and never disclose your access details to anyone.
+  2. **Who are we?**
 
 
 
-### 5: Our data and information enquiry handling process will ensure that:
+2.1 We are the Parkmatic Publications Limited trading as LandlordZONE®.
 
-  * a systematic approach is taken to receiving and dealing with all enquiries which are fully documented and acknowledged.
-  * all required and appropriate steps will be taken to fully investigate any claims
-  * enquiries will be handled efficiently and promptly
-  * all information is retained in the event that a re-evaluation of the case is required
-  * legislative timescales are always met
-  * applicants can see the transparent process by which their enquiry is being/has been handled
-  * all staff can deal immediately with a request in the appropriate manner and will understand the circumstances in which guidance must be sought from senior management.
+  3. **What information do we collect and why.**
 
 
 
-### 6: What are cookies and how do we use them?
+3.1 Type of information collected: e-mail and IP address.
 
-Our website uses cookies to distinguish you from other users of our website. This helps us provide you with a good experience when you browse our website and allows us to improve our site. For more detailed information on the cookies and the purpose for which we use them see the information about cookies below.
+3.2 Purposes and legal basis of processing:  legitimate interest – See Article 6 of the GDPR
 
-### 7: Sale of the business
+  4. **Consent**
 
-In the event that the Parkmatic Publications Limited business is sold fully or in part, integrated with another business, or it disposes of its rights and obligations under any agreement with you, your records may be disclosed under appropriate confidentiality terms to our advisers and any prospective purchasers’ advisers, and will be passed onto the new owners with strict conditions attached, which include maintaining our privacy policy.
 
-### 7: Contacting Us
 
-You can contact us using the Contact link on our websites. You may also contact us by telephone list on our Contact page.
+4.1 We will seek subscriber members’ consent to this policy on sign-up to our services, accessing and downloading information relating to investment and the management of rental properties and when using our forums.
 
-Please bear in mind that this privacy policy only applies to websites and services operated by Parkmatic Publications Limited and not those operated by third parties, including those to which our websites may link. We suggest that you check out the privacy policies operated by third party websites before providing personal information about yourself.
+4.2 Subscriber members may withdraw their consent at any time by clicking on the Unsubscribe link in every email communication we send out. Alternatively, by contacting us in writing, by e-mail, by telephone or letter, to tell us that they no longer wish their details to be retained by the company. On receipt of these instructions we will immediately remove all the data subject’s personal data from our systems.
 
-### Information about Cookies
+  5. **How we protect your personal data.**
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your device if you agree to this. Cookies collect information that is transferred to your computer’s hard drive.
 
-At Parkmatic Publications Limited our priority is to provide a smooth experience for you while using our website, therefore rather than regularly asking for your consent as you move around our website, we have removed the majority of non-essential cookies from our website.
+5.1 We will not transfer your personal data outside the EU.
 
-### Types of Cookies in Use
+5.2 We have implemented generally accepted standards of technology and operational security in order to protect your personal data from loss, misuse, or unauthorised alteration or destruction.
 
-You can find information about types of cookies in the table below:
+5.3 Please note however that where you are transmitting information to us over the Internet this can never be guaranteed to be 100% secure.
 
-**Essential Cookies** – Essential cookies are used by website providers in order to make the website work and can also be used to remember essential information, such as information about which web pages you use, downloads etc. Parkmatic Publications Limited uses essential cookies where necessary.
+5.4 Any payments which we take from you online use a recognised third party online secure payment system.
 
-**Session Cookies** – Session cookies are temporary cookies that only exist for the period you access the website until you close the browser after accessing the website. Session cookies are automatically deleted from your device when you close your browser. Session cookies can help Parkmatic Publications Limited to remember your movements from page to page, therefore avoiding having to re-enter information. The Session Cookies used by Parkmatic Publications Limited do not record or store any personal information about you.
+5.5 Should there be a data breach we will notify you promptly of any breach of your personal data which might expose you to serious risk.
 
-**Persistent Cookies** – Persistent cookies remain on your device after you have visited the website and are not deleted when the browser is closed. Persistent cookies can retain your preferences and allow those preferences to be used in future visits to the site. Parkmatic may use a persistent cookie to remember if you requested that our website remembers your login details.
+  6. **Who else has access to the information you provide us?**
 
-**Tracking Cookies** – Tracking cookies can be used to analyse your usage of a website or e-mal broadcasts. These cookies may not identify you personally and are simply used to understand how clients use the website and to make improvements to the website. Some tracking cookies are placed by third party advertisers. These cookies are commonly used to evaluate the effectiveness of a company’s advertising.
 
-### Restricting Cookies
 
-If you wish to restrict or block the cookies set by us, or indeed any other website, you can do this with your browser settings.
+6.1 We will never sell your personal data and third parties never have direct access to your email or IP address. We will not share your personal data with any third parties without your prior consent (which you are free to withhold) except where we are required to do so by law or as set out above and below.
 
-The Help function within your browser should tell you how to do this. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our website or you may not be able to use the website as expected.
+  7. **How long do we keep your information?**
 
-To view any cookies that have been placed on your computer following visits to ours or other websites you can check your browser history.
 
-If you still have any queries or concerns you can [contact us here](https://web.archive.org/web/20180130005927id_/https%3A//www.landlordzone.co.uk/contact "Contact LandlordZONE")
 
-See our [Website Terms and Conditions of Use](https://web.archive.org/web/20180130005927id_/https%3A//www.landlordzone.co.uk/terms "Website Terms and Conditions of Use")
+7.1 We will hold your personal data on our systems for as long as you are a subscriber member of the association and for as long afterwards as it is in company’s legitimate interest to do so, or for as long as is necessary to comply with our legal obligations. We will review your personal data and this privacy policy every year to establish whether we are still entitled to process it.
 
-See our [Advertising Terms and Conditions of Use](https://web.archive.org/web/20180130005927id_/https%3A//www.landlordzone.co.uk/advertise/advertising-terms-conditions "LandlordZONE Advertising Terms and Conditions of Use")
+7.2 If we decide that we are not entitled to do so, we will stop processing your personal data except that we may in some circumstances be required to retain your personal data in an archived form in order to be able to comply with future legal obligations e.g. compliance with tax requirements and exemptions, and the establishment, exercise or defence of legal claims.
+
+7.3 We securely destroy all personal information once we have used it and no longer need it.
+
+  8. **Communicating with you**
+
+
+
+8.1 When you contact us, whether by telephone, through our website or by e-mail, we collect the data you have given to us in order to reply with the information you need.
+
+8.2 We record your request and our reply in order to increase the efficiency of our business.
+
+8.3 We keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you to provide a high quality service.
+
+  9. **Dealing with complaints**
+
+
+
+9.1 When we receive a complaint, we record all the information you have given to us.
+
+9.2 We use that information to resolve your complaint.
+
+9.3 If your complaint reasonably requires us to contact some other person, we may decide to give to that other person some of the information contained in your complaint. We do this as infrequently as possible, but it is a matter for our sole discretion as to whether we do give information, and if we do, what that information is.
+
+9.4 If the complaint relates to information in correspondence, publications or on our website and we feel it is justified or if we believe the law requires us to do so, we shall remove the content while we investigate.
+
+9.5 If we think your complaint is vexatious or without any basis, we shall not correspond with you about it.
+
+9.6 We may compile statistics from information relating to complaints to assess the level of service we provide, but not in a way that could identify you or any other person.
+
+  10. **Your rights**
+
+
+
+10.1 You have rights under GDPR:
+
+(a) to access your personal data
+
+(b) to be provided with information about how your personal data is processed
+
+(c) to have your personal data corrected
+
+(d) to have your personal data erased in certain circumstances
+
+(e) to object to or restrict how your personal data is processed
+
+(f) to have your personal data transferred to yourself or to another organisation in certain circumstances.
+
+  11. **Cookies**
+
+
+
+11.1 Cookies are small text files that are placed on your computer’s hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience, and the website owner with statistics about the actions you have taken.
+
+11.2 Some cookies may last for a defined period of time, such as one day or until you close your browser. Others last indefinitely.
+
+11.3 Your web browser should allow you to delete any you choose. It also should allow you to prevent or limit their use.
+
+11.4 Our website uses cookies. They are placed by software that operates on our servers, and by software operated by third parties whose services we use.
+
+11.5 When you first visit our website, we ask you to formally consent to our use of cookies.
+
+11.6 If you choose not to use cookies or you prevent their use through your browser settings, you will not be able to use all the functionality of our website.
+
+  12. **We use cookies in the following ways:**
+
+
+
+12.1.      to track how you use our website
+
+12.2.      to record whether you have seen specific messages we display on our website
+
+12.3.      to provide a consistent personalised experience across our site
+
+12.4.      to record your answers to surveys and questionnaires on our site while you complete them
+
+12.5.      to record the conversation thread during a live chat with our support team
+
+  13. **Personal identifiers from your browsing activity**
+
+
+
+13.1 Requests by your web browser to our servers for web pages and other content on our website are recorded.
+
+13.2 We record information that could identify your location, such as your IP address. We also record information reported by the software you are using to browse our website, such as the type of computer or device and the screen resolution.
+
+13.3 We use this information in aggregate to assess the popularity of the webpages on our website and how we perform in providing content to you.
+
+13.4 If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website. However, our policy is not to use such data for the purpose of personal identification.
+
+  14. **Our use of marketing information**
+
+
+
+14.1 An advertisement you may see for our services may have been shown because we have used a third party to provide us with marketing services. However, we advertise in many places and an advertisement shown for our services may just be coincidental to your visit to our website.
+
+14.2 We may from time to time contact you via email to inform you of important issues, relevant and related products and your use of our subscriber member services
+
+14.3 You have the right to take any complaints about how we process your personal data to the Information Commissioner: https://ico.org.uk/concerns/ 0303 123 1113. Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF
+
+Our Information Commissioner’s Office Registration Number is: Z2161622
+
+If you still have any queries or concerns you can [contact us here](https://www.landlordzone.co.uk/contact)
+
+See our [Website Terms and Conditions of Use](https://www.landlordzone.co.uk/terms)
+
+See our [Advertising Terms and Conditions of Use](https://www.landlordzone.co.uk/advertise/advertising-terms-conditions)
