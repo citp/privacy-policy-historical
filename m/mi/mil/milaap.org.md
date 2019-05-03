@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230110307id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503063725id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
 
 # Crowdfunding on Milaap | Privacy Policy | Milaap
 
@@ -36,7 +36,7 @@ Telephone number: 080 26587080
 
   3. changes to the privacy notice and your duty to inform us of changes
 
-This version of the Privacy Notice was last updated on 30th December 2018 and previous versions can be obtained by contacting us.
+This version of the Privacy Notice was last updated on 3rd May 2019 and previous versions can be obtained by contacting us.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
@@ -252,30 +252,57 @@ To use data analytics to improve our website, products/services, marketing, cust
 
   
   
-Marketing
+Use Of Third-Party Analytics
 
-We strive to provide you with choices regarding certain personal data usage, particularly around marketing and advertising. We have established the following personal data control mechanisms:
+We may use third-party web analytics services on our Services, such as those of Google Analytics. These service providers use the sort of technology previously described in the “Cookies and other electronic technologies” section to help us analyze how users use the Services, including by noting the third-party website from which you arrive, and provide certain features to you. The information (including your IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. This information may be used to place interest-based advertisements on the Platform. This may result in you seeing Milaap’s advertisement when you visit other websites. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking [here.](https://tools.google.com/dlpage/gaoptout)
 
-  1. Promotional Offer from Us
+Cookies and Other Electronic Technologies
 
-We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
+When you interact with the Services, we try to make that experience simple and meaningful. When you visit our Platform, our web server sends a cookie to your computer or mobile device. Cookies are small pieces of information that are issued to your computer or mobile device when you visit a website or access or use a mobile application, and that stores and sometimes tracks information about your use of the platform. A number of cookies we use last only for the duration of your web or application session and expire when you close your browser or exit the application. Other cookies are used to remember you when you return to the Platform and will last longer.
 
-You will receive marketing communications from us if you have requested information from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
+Some of the cookies used by the Platform are set by us, and some are set by third parties who are delivering services on our behalf.
 
-  2. Third-party Marketing
+We may use cookies, and similar technologies to cookies, to collect information about your access and use of the Platform. For example, we may use cookies or other technologies that: (1) allow you to navigate and use all the features provided by our Platform; (2) customize elements of the layout and/or content within the Platform and remember that you have visited us before; (3) identify the number of unique visitors we receive; (4) allow us to provide you with a customized experience; and (5) inform us how you use the Platform (including how long you spend on the Platform) and where you have come to the Platform from, so that we can improve the Platform and learn which functions of the Platform are most popular with users. As we adopt additional technologies, we may also gather additional information through other methods.
 
-We will get your express opt-in consent before we share your personal data with any company outside the Milaap group of companies for marketing purposes.
+Most web and mobile device browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting [www.allaboutcookies.org](https://web.archive.org/web/20190503063725id_/https%3A//milaap.org/www.allaboutcookies.org), which includes additional useful information on cookies and how to block cookies using different types of browsers or mobile devices.
 
-  3. Opting Out
+You may also consult the "Help" section of your browser for more information (e.g., [Internet Explorer](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies), [ Google Chrome](https://support.google.com/chrome/answer/95647),[ Mozilla Firefox](http://kb.mozillazine.org/Cookies#Firefox), or [Apple Safari](http://support.apple.com/kb/PH5042)). You can also manage the use of Flash technologies, including cookies and local storage objects with the Flash management tools available at [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html). Please note that by blocking any or all cookies, you may not have access to certain features or offerings of the Services.
 
-You can ask us or third parties to stop sending you marketing messages at any time by logging into the Platform and checking or unchecking relevant boxes to adjust your marketing preferences or by contacting us at any time.
+If you are accessing our Services through a mobile device, you can also update your privacy settings on your device by setting the “Limit Ad Tracking” and Diagnostics and Usage setting property located in the settings screen of your Apple iPhone or iPad, or by resetting your Android ID through apps that are available in the Play Store. You can also limit information collection by uninstalling the App on your device and you can use the standard uninstall process available as part of your device for this purpose.
+
+Advertising Policies
+
+We may use third-party advertising technologies that allow for the delivery of relevant content and advertising on our Platform, as well as on other websites you visit. The ads may be based on various factors such as the content of the page you are visiting, information you enter such as your age and gender, your searches, demographic data, user-generated content, and other information we collect from you. These ads may be based on your current activity or your activity over time and across other websites and online services and may be tailored to your interests.
+
+Also, third parties whose products or services are accessible or advertised on our Platform may place cookies or other tracking technologies on your computer, mobile phone, or other device to collect information about your use of the website as discussed above. We also allow other third parties (e.g., ad networks and ad servers such as Google Analytics, AdWords and others) to serve tailored ads to you on our website, other sites, and in other applications, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the website. We may provide our customer information (such as a hashed version of your email addresses) to service providers, who may “match” this information in de-identified form to cookies (or mobile ad identifiers) and other proprietary IDs, in order to target or “retarget” you with ads when you visit other websites and mobile applications. (You may opt out of these many of these service providers as described in the next paragraph.)
+
+We neither have access to, nor does this Privacy Policy govern the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access our website by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below.
+
+If you receive tailored advertising on your computer through a web browser, you can learn more about such tailored browser advertising and how you can generally control cookies from being put on your computer to deliver tailored advertising, by visiting the European Interactive Digital Advertising Alliance Consumer [Ad Choices link](http://www.youronlinechoices.com/uk/your-ad-choices) for EU based advertising or for US based advertising either: (i) the Network Advertising Initiative’s Consumer [Opt-Out link](http://www.networkadvertising.org/choices) or (ii) the Digital Advertising Alliance’s Consumer [Opt-Out link](http://www.aboutads.info/choices/) to opt-out of receiving tailored advertising from companies that participate in those programs. To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the [Google Ads Settings page](https://adssettings.google.com/authenticated).
+
+Please note that to the extent advertising technology is integrated into our website or other websites that you visit, you may still receive advertisements even if you opt-out. In that case, the advertising will not be tailored to your interests. Also, we do not control any of the above opt-out links or whether any particular company chooses to participate in these opt-out programs. We are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
+
+Users in Europe
+
+  * Access. You have the right to request a copy of the information we are processing about you.
+  * Rectification. You have the right to have incomplete or inaccurate information that we process about you rectified.
+  * Deletion. You have the right to request that we delete information that we process about you, except we are not obliged to do so if we need to retain such data in order to comply with a legal obligation or to establish, exercise or defend legal claims.
+  * Restriction. You have the right to restrict our processing of your information where you believe such data to be inaccurate; our processing is unlawful; or that we no longer need to process such data for a particular purpose unless we are not able to delete the data due to a legal or other obligation or because you do not wish for us to delete it.
+  * Portability. You have the right to obtain information we hold about you in a structured, electronic format, and to transmit such data to another data controller, where this is (a) information that you have provided to us, and (b) if we are processing that data solely on the basis of your consent or to perform a contract with you.
+  * Objection. Where the legal basis for processing your information is our legitimate interest, you have the right to object to such processing on grounds relating to your particular situation. We will abide by your request unless we have compelling legitimate grounds for the processing which override your interests, or if we need to continue to process the data for the establishment, exercise or defense of a legal claim.
+  * Withdrawing consent. If you have consented to our processing of your information, you have the right to withdraw your consent at any time, free of charge. This includes where you wish to opt out from marketing messages.
 
 
 
+You can make a request to exercise any of these rights in relation to your information by sending the request to us at [feedback@milaap.org](mailto:feedback@milaap.org) or mailing address set forth under "Contact Us” in the end of this page. For your own privacy and security, at our discretion, we may require you to provide your identity before providing the requested information. Please note that Milaap may take up to 30 days to fulfill such requests.
 
-Cookies
+You also have the right to lodge a complaint with the local data protection authority if you believe that we have not complied with applicable data protection laws. A list of local data protection authorities in European countries is available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this Platform may become inaccessible or not function properly. The session timeout duration on Milaap is 14 days.
+Changes to Milaap's Privacy Policy
+
+The Services and our business may change from time to time. As a result, at times it may be necessary for Milaap to make changes to this Privacy Policy. Milaap reserves the right to update or modify this Privacy Policy at any time and from time to time. If you disagree with our revisions to the Privacy Policy, you may de-activate your account or discontinue the use of our Services. Please review this policy periodically, and especially before you provide us with any information through the Services. This Privacy Policy was last updated on the date indicated on top of this page. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+If you are in Europe, you will not be required to agree to changes to this Privacy Policy, unless we specifically seek your consent.
 
 Change of Purpose
 
