@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the signingsavvy.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104210632id_/https%3A//www.signingsavvy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signingsavvy.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503022944id_/https%3A//www.signingsavvy.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | ASL Sign Language Video Dictionary
-
-## Privacy Policy
+# Privacy Policy
 
 > ###  Your privacy is important to us.
 > 
@@ -93,7 +91,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 **Email:** Use our [Contact Form](https://www.signingsavvy.com/contact) to send us an email.
 
 **Mailing Address:**  
-Signing Savvy  
+Signing Savvy, LLC  
 2025 Central Park Drive #1009  
 Okemos, MI 48805  
 United States 
