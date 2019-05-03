@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rca.ac.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226012239id_/https%3A//www.rca.ac.uk/contact-us/about-this-website/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rca.ac.uk privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503171747id_/https%3A//www.rca.ac.uk/contact-us/about-this-website/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy Notice | Royal College of Art
 
@@ -70,7 +70,7 @@ Kensington Gore
 London SW7 2EU  
 +44 (0)20 7590 4427
 
-###  **1\. Visitors to our websites**
+###  **1\. Visitors to Our Websites**
 
 The RCA website collects data from website visitors for specific purposes that relate to legitimate interests concerning the College’s core activity, as a world-leading university with academic schools and centres in research, knowledge exchange, executive education and innovation. 
 
@@ -99,7 +99,7 @@ _Links to other websites_
 
 The RCA website contains links to other websites. We are not responsible for the privacy practices of other sites. We encourage our visitors to be aware when they leave our website, and to read the privacy arrangements of other sites that collect or use personal data.
 
-###  **2\. Mailing-list subscribers**
+###  **2\. Mailing-list Subscribers**
 
 Subscribers to newsletters or email lists may be contacted when we promote programmes of study or events that may be of interest. Anyone may at any time request us to stop using their personal data for direct marketing purposes via the opt out included in all emails or by contacting: media@rca.ac.uk
 
