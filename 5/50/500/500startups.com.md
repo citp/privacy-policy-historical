@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 500startups.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101203756id_/http%3A//500startups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500startups.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503185224id_/https%3A//500.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 500 Startups
 
@@ -99,7 +99,7 @@ Our primary purpose in collecting user information is to provide you with a safe
 
   * to communicate with you;
 
-  * to send you marketing (where we have the right to do so – see [_marketing section_](https://web.archive.org/web/20181101203756id_/http%3A//500startups.com/marketing-prev) below]); 
+  * to send you marketing (where we have the right to do so – see [_marketing section_](https://web.archive.org/web/20190503185224id_/https://500.co/privacy/marketing-prev) below]); 
 
   * for our billing and account purposes;
 
