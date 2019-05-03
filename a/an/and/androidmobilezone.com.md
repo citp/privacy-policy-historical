@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidmobilezone.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230040703id_/http%3A//www.androidmobilezone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidmobilezone.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503160330id_/http%3A//www.androidmobilezone.com/privacy-policy) for the most accurate reproduction.*
 
 # Download Android Modded Game, Mod APK, Apps for Android User - AndroidMobileZone.com
 
