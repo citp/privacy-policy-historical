@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonerwolf.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124727id_/https%3A//lonerwolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonerwolf.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503111106id_/https%3A//lonerwolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ LonerWolf
 
@@ -70,7 +70,7 @@ We generally store information about you for as long as we need the information 
 
 We will also store comments or reviews, if you choose to leave them.
 
-##### eCommerce – Who on our team has access 
+##### eCommerce – Who on our team has access
 
 Members of our team have access to the information you provide us. For example, both Administrators and Shop Managers can access:
 
