@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytmonster.net privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224165601id_/https%3A//www.ytmonster.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytmonster.net privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503230319id_/https%3A//www.ytmonster.net/privacy) for the most accurate reproduction.*
 
 # YTMonster | Privacy Policy
 
