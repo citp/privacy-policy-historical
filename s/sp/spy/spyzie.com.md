@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyzie.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007201024id_/https%3A//www.spyzie.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyzie.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504014512id_/https%3A//www.spyzie.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Spyzie - Privacy Policy
 
@@ -31,7 +31,7 @@ Regarding this processing, Spyzie collects the following personal data through t
   * Company name and industry you work for;
   * Order information, such as the products you purchase, date and amount of the order;
   * Payment information such as Credit card information (type, number, expiration date, CVV security code)/debit card information or other payment/billing information.
-  * Information we get from your visit to our We collect information about how you visit our websites (including the webpage that led you to a Spyzie website, the search terms entered into a search engine which led you to a Spyzie website);
+  * Information we get from your visit to our Website, we collect information about how you visit our websites (including the webpage that led you to a Spyzie website, the search terms entered into a search engine which led you to a Spyzie website);
   * Information we get from your use of our products. We collect information about the products that you use and how you use them and your local device information, including but not limited to your device information, operating system, user name, your Spyzie ID, location, IP address, operating log information, crash reports and the information and format of the files you are working with(with your additional consent);
   * your product serial number;
   * Content of customer support communications.
@@ -222,7 +222,7 @@ The right to lodge a complaint
 
 | 
 
-The User has the right to lodge a complaint about the way Spyzie handles or processes its personal data with its national supervisory authority (in France, the CNIL).  
+The User has the right to lodge a complaint about the way Spyzie handles or processes its personal data with its national supervisory authority .  
   
 The right to withdraw consent
 
