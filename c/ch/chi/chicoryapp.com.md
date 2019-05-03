@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the chicoryapp.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022122203id_/http%3A//chicory.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicoryapp.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503212142id_/https%3A//chicory.co/privacy) for the most accurate reproduction.*
 
-# Privacy — Chicory
+# Privacy Policy — Chicory
+
+## CHICORY PRIVACY POLICY
+
+Last Revised: July 2016
 
 Chicory analyzes websites and apps in order to gain contextual insights regarding web content and consumer purchase intent. Additionally, Chicory connects Publisher content with ecommerce retailers through widgets and buttons installed directly on the Publisher’s site. At Chicory we’ve created this Privacy Policy in order to detail how information you provide us is used and shared. By visiting our Website, or accessing the Chicory Product (defined in our [Terms of Service](http://chicory.co/terms)) you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use.
 
@@ -8,7 +12,7 @@ Chicory analyzes websites and apps in order to gain contextual insights regardin
 
 As a general rule there are two categories of users of the Site and Chicory Product: "Publishers" who are operators or publishers of websites that make the Chicory Product available on their websites, and "End Users" who are individual visitors of a website and engage with the Publisher’s content and use the Chicory Product to add products to Ecommerce retailer’s digital storefronts.
 
-## The Information We Collect
+### The Information We Collect
 
 Privacy Practices for End Users who engage with Publisher Content and/or the Chicory Product on Publisher Websites. 
 
@@ -32,30 +36,30 @@ If an End User prefers that we and our third party partners do not collect infor
 
 Please note that if Cookies are blocked on an End User’s device, our opt-out process may not function properly. Please also note that if the End User uses a different computer, device or Internet browser, or deletes Cookies, the End User will need to exercise their opt-out choice for that user, device or browser.
 
-## How We Protect Your Information
+### How We Protect Your Information
 
 We take appropriate security steps to protect the information we collect for you from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no security system is immune to problems. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Platform may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.
 
-## Offline Collection, Use & Disclosure of Information
+### Offline Collection, Use & Disclosure of Information
 
 In addition to the information we collect online, there is information that we will collect offline in certain instances. Such information can be collected at Chicory events, Chicory sponsored events, or Chicory solicitations.
 
-## Children
+### Children
 
 We do not knowingly collect Personal Information from children under the age of 13 through the Services. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
 
-## External Websites
+### External Websites
 
 The Platform may contain links to third-party websites.  Chicory has no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links; we especially have no control over any recipe websites that Chicory platforms or technology work with. Therefore, we are not responsible for the content or the privacy policies of those third-party websites.  You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
 
-## Changes to Privacy Policy
+### Changes to Privacy Policy
 
 This Privacy Policy is effective as of October 2014. We may regularly change this Privacy Policy and will alert users to changes as necessary. Visits to our sites, use any Chicory platforms, or use of our services subsequent to Privacy Policy changes is deemed to be your acceptance of the new changes. Please refer back to this Privacy Policy on a regular basis.
 
-## How to Contact Us
+### How to Contact Us
 
 If you have questions about this Privacy Policy, please e-mail us at [hello@chicoryapp.com](mailto:hello@chicoryapp.com)
 
-## Terms and Conditions
+### Terms and Conditions
 
-Please also visit our [Terms of Use](https://web.archive.org/terms) section that explains other terms and conditions governing our Site.
+Please also visit our [Terms of Use](https://chicory.co/terms) section that explains other terms and conditions governing our Site.
