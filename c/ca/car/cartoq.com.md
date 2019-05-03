@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231231333id_/https%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503122840id_/https%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
 
 # Cartoq.com Privacy Policy | Cartoq
 
@@ -8,7 +8,7 @@ We take your privacy very seriously and are committed to being transparent with 
 
 **Our Privacy Policy explained**
 
-This privacy policy explains our policy regarding the collection, use, disclosure and transfer of your information by The Company and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the “Company”), which operates [www.cartoq.com](http://www.cartoq.com/) (the Site), related apps and other services including but not limited to delivery of information and content via any mobile or internet connected device or otherwise (collectively the “Services”). This privacy policy forms part and parcel of the Terms of Use for the Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
+This privacy policy explains our policy regarding the collection, use, disclosure and transfer of your information by The Company and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the “Company”), which operates [www.cartoq.com](https://www.cartoq.com/) (the Site), related apps and other services including but not limited to delivery of information and content via any mobile or internet connected device or otherwise (collectively the “Services”). This privacy policy forms part and parcel of the Terms of Use for the Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
 
 As we update, improve and expand the Services, this policy may change, so please refer back to it periodically. By accessing the Company’s Site / app or otherwise using the Services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
