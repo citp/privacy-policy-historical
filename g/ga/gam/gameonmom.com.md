@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameonmom.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918031201id_/http%3A//www.gameonmom.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameonmom.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504103226id_/https%3A//www.gameonmom.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Game On Mom
 
@@ -6,7 +6,7 @@
 
 We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, or mailing address. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
@@ -47,9 +47,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children’s Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products, and services are all directed to people who are at least 13 years old or older.
 
 **Online Privacy Policy Only**
 
