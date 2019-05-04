@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ranjish.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727190714id_/http%3A//www.ranjish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ranjish.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504122849id_/https%3A//www.ranjish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy for www.ranjish.com**
 
-Last updated : September 15, 2014
+Last updated : September 15, 2018
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@harwed.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at ranjishcom [at] yahoo.com.
 
 At www.ranjish.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ranjish.com and how it is used.
 
@@ -30,11 +30,11 @@ We use Soundcloud as our audio host. when you hear our audio poems, Soundcloud s
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**User Data (email, names, messages):�**
+**User Data (email, names, messages):  **
 
 We promise that you will never have to worry about the email you sent us including your details, such as your email adress, your name and your phone number. Your personal data is only used by us (Ranjish.com) to get in touch with you ( Only if you desire). We never share your data with anyone.
 
-**Content :�**
+**Content :  **
 
 Ranjish.com is a poetry website. We are always willing to put only the unique content on our website. However this is a sharing website and everyone submits there own poetrys, so please bear with us if you find duplicate content on our website. We request you to please inform us about content you have seen on some other website too, so we can remove it from our website or get it removed from that other website.
 
@@ -42,4 +42,8 @@ Some users have accused us that we have shared their email address with other pe
 
 **Sending Messages :**
 
-We collect personal information of a user who sends SMS from this website. We may share it with the security agencies who are investigating inappropriate messages sent from our website.
+We collect public information of a user who sends SMS from this website. We may share it with the security agencies who are investigating inappropriate messages sent from our website.
+  *[Log]: people
+  *[log]: people
+  *[see]: sew
+  *[do]: two
