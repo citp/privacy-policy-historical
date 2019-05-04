@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the faboverfifty.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124248id_/http%3A//www.faboverfifty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faboverfifty.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504115513id_/https%3A//www.faboverfifty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FabOverFifty.com
 
 ## **PRIVACY**
 
-This privacy policy (“ **Privacy** **Policy** ”) sets out how Brinsights LLC uses and protects any information that you give Brinsights LLC when you use the Site.  This Privacy Policy is part of the [Terms of Service](http://www.faboverfifty.com/content/terms-and-conditions) governing your use of the Site.  Capitalized terms used but not defined in this Privacy Policy shall have the meanings ascribed to them in the Terms of Service.
+This privacy policy (“ **Privacy** **Policy** ”) sets out how Brinsights LLC uses and protects any information that you give Brinsights LLC when you use the Site.  This Privacy Policy is part of the [Terms of Service ](http://www.faboverfifty.com/terms-of-service/)governing your use of the Site.  Capitalized terms used but not defined in this Privacy Policy shall have the meanings ascribed to them in the Terms of Service.
 
 Brinsights LLC may change this policy from time to time by updating this page.  When Brinsights  LLC updates this page, it will revise the “last updated” date at the top of this Privacy Policy.  If there are material changes to this Privacy Policy, we will notify you of any such changes by posting a message on the Site. Brinsights LLC encourages you to periodically review this Privacy Policy to be informed of how Brinsights LLC uses and protects your information. 
 
@@ -24,7 +24,7 @@ We may collect the following information: 
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-. To improve [the](https://web.archive.org/web/20170606124248id_/http://) Site, including content, public user profiles, usability, offers
+. To improve [the](https://web.archive.org/web/20190504115513id_/https://) Site, including content, public user profiles, usability, offers
 
 . To notify you about products, services and exclusive offers which we think will interest you. To contact you for surveys about subjects of great interest to you  
 
@@ -73,7 +73,7 @@ You may choose to restrict the collection or use of your personal information in
 
 ## **CHILDREN**
 
-## We do not knowingly collect personal information from children under the age of 13 through the Site.  If you are under the age of 13, please do not give us any personal information.  We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Privacy Policy by instructing their children to never provide personal information on the Site or any other website without their permission.  If you have reason to believe that a child under the age of 13 has provided personal information to us through the Site, please contact us and we will endeavor to delete that information from our databases.    
+## We do not knowingly collect personal information from children under the age of 13 through the Site.  If you are under the age of 13, please do not give us any personal information.  We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Privacy Policy by instructing their children to never provide personal information on the Site or any other website without their permission.  If you have reason to believe that a child under the age of 13 has provided personal information to us through the Site, please contact us and we will endeavor to delete that information from our databases.  
 
 
 ## **ACCESS TO YOUR INFORMATION**
