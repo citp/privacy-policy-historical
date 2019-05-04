@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapdigest.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608023058id_/http%3A//www.scrapdigest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapdigest.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504093153id_/https%3A//www.scrapdigest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScrapDigest.Com
 
