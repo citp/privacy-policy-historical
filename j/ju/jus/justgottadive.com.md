@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justgottadive.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102062143id_/http%3A//www.justgottadive.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justgottadive.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504162258id_/http%3A//www.justgottadive.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy | Just Gotta Dive (JGD)
 
@@ -69,4 +69,4 @@ We may make changes to this Policy and, as a result, we recommend that you perio
 
 CONTACT US
 
-If you have any questions regarding this Policy, please [contact us](https://web.archive.org/web/20181102062143id_/http%3A//www.justgottadive.com/company/contact "Contact SDTN").
+If you have any questions regarding this Policy, please [contact us](https://web.archive.org/web/20190504162258id_/http%3A//www.justgottadive.com/company/contact "Contact SDTN").
