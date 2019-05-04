@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aig.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224052904id_/http%3A//www.aig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aig.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504165307id_/https%3A//www.aig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insurance from AIG in the US
 
