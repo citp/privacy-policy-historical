@@ -1,0 +1,724 @@
+<!--The following is the downloaded HTML source of the launchparty.org privacy policy that was archived on 2019-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190504082948id_/https%3A//launchparty.org/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en-US"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta class="foundation-mq">
+<title>Privacy Policy | LaunchParty</title>
+<style>
+		.wpcf7-submit{
+			display:none;
+		}
+		.recaptcha-btn{
+			display:block;
+		}
+		.grecaptcha-badge {display: none;} 
+	</style>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NTM57R"></script><script type="text/javascript">
+		var contactform = [];
+		var checkIfCalled = true;
+		var renderGoogleInvisibleRecaptchaFront = function() {
+			// prevent form submit from enter key
+			jQuery("input[name=_wpcf7]").attr("class","formid");
+				jQuery('.wpcf7-form').on('keyup keypress', "input", function(e) {
+				  var keyCode = e.keyCode || e.which;
+				  if (keyCode === 13) {
+					e.preventDefault();
+					return false;
+				  }
+				});
+
+			jQuery('.wpcf7-submit').each(function(index){
+
+				var checkexclude = 0;
+				var form = jQuery(this).closest('.wpcf7-form');
+				var value = jQuery(form).find(".formid").val();
+				// check form exclude from invisible recaptcha
+											if(value == 3718){
+								checkexclude = 1;
+								form.find('.wpcf7-submit').show();
+							}
+											if(value ==  3717){
+								checkexclude = 1;
+								form.find('.wpcf7-submit').show();
+							}
+											if(value ==  18837){
+								checkexclude = 1;
+								form.find('.wpcf7-submit').show();
+							}
+								if(checkexclude == 0){
+					// Hide the form orig submit button
+					form.find('.wpcf7-submit').hide();
+
+					// Fetch class and value of orig submit button
+					btnClasses = form.find('.wpcf7-submit').attr('class');
+					btnValue = form.find('.wpcf7-submit').attr('value');
+
+					// Add custom button and recaptcha holder
+
+					form.find('.wpcf7-submit').after('<input type="button" id="wpcf-custom-btn-'+index+'" class="'+btnClasses+'  recaptcha-btn recaptcha-btn-type-css" value="'+btnValue+'" title="'+btnValue+'" >');
+					form.append('<div class="recaptcha-holder" id="recaptcha-holder-'+index+'"></div>');
+					// Recaptcha rendenr from here
+					var holderId = grecaptcha.render('recaptcha-holder-'+index,{
+								'sitekey':'6Ld4t2IUAAAAAB-2eaKaQaMlHsKkVUcl8KdaGzAK',
+								'size': 'invisible',
+								'badge' : 'bottomright', // possible values: bottomright, bottomleft, inline
+								'callback' : function (recaptchaToken) {
+									//console.log(recaptchaToken);
+									var response=jQuery('#recaptcha-holder-'+index).find('.g-recaptcha-response').val();
+									//console.log(response);
+									//Remove old response and store new respone
+									jQuery('#recaptcha-holder-'+index).parent().find(".respose_post").remove();
+									jQuery('#recaptcha-holder-'+index).after('<input type="hidden" name="g-recaptcha-response"  value="'+response+'" class="respose_post">')
+									grecaptcha.reset(holderId);
+
+									if(typeof customCF7Validator !== 'undefined'){
+										if(!customCF7Validator(form)){
+											return;
+										}
+									}
+									// Call default Validator function
+									else if(contactFormDefaultValidator(form)){
+										return;
+									}
+									else{
+										// hide the custom button and show orig submit button again and submit the form
+										jQuery('#wpcf-custom-btn-'+index).hide();
+										form.find('input[type=submit]').show();
+										form.find("input[type=submit]").click();
+										form.find('input[type=submit]').hide();
+										jQuery('#wpcf-custom-btn-'+index).attr('style','');
+									}
+								}
+						},false);
+
+					// action call when click on custom button
+					jQuery('#wpcf-custom-btn-'+index).click(function(event){
+						event.preventDefault();
+						// Call custom validator function
+						if(typeof customCF7Validator == 'function'){
+							if(!customCF7Validator(form)){
+								return false;
+							}
+						}
+						// Call default Validator function
+						else if(contactFormDefaultValidator(form)){
+							return false;
+						}
+						else if(grecaptcha.getResponse(holderId) != ''){
+							grecaptcha.reset(holderId);
+						}
+						else{
+							// execute the recaptcha challenge
+							grecaptcha.execute(holderId);
+						}
+					});
+				}
+			});
+		}
+	</script><script src="https://www.google.com/recaptcha/api.js?onload=renderGoogleInvisibleRecaptchaFront&amp;render=explicit" async="" defer=""></script><meta name="description" content="Make Your Own (Beautiful) WordPress Website">
+<meta property="og:title" content="Privacy Policy | LaunchParty">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://launchparty.org/privacy/">
+<meta property="og:image" content="https://launchparty.org/wp-content/uploads/og-website-weekend.png">
+<meta property="og:site_name" content="LaunchParty">
+<meta property="og:description" content="Make Your Own (Beautiful) WordPress Website">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="fvm-header-0-css" href="https://launchparty.org/wp-content/cache/fvm/1553683290/out/header-4fc8203c.min.css" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var fbl = {"ajaxurl":"https:\/\/launchparty.org\/wp-admin\/admin-ajax.php","site_url":"https:\/\/launchparty.org","scopes":"email,public_profile","appId":"502878180094188","l18n":{"chrome_ios_alert":"Please login into facebook and then click connect button again"}};
+var swiftypeParams = {"engineKey":"haSzwf4iUfb2RmTT8KxL"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://launchparty.org/wp-content/cache/fvm/1553683290/out/header-197e208e.min.js"></script><link rel="https://api.w.org/" href="https://launchparty.org/wp-json/">
+<link rel="canonical" href="https://launchparty.org/privacy/">
+<link rel="shortlink" href="https://launchparty.org/?p=894">
+<link rel="alternate" type="application/json+oembed" href="https://launchparty.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaunchparty.org%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://launchparty.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaunchparty.org%2Fprivacy%2F&amp;format=xml">
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<script type="text/javascript">
+var swiftypeConfig = {
+	disableAutocomplete: true
+};
+</script>
+<link rel="icon" href="https://launchparty.org/wp-content/uploads/2017/08/cropped-Favicon-150x150.png" sizes="32x32">
+<link rel="icon" href="https://launchparty.org/wp-content/uploads/2017/08/cropped-Favicon-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://launchparty.org/wp-content/uploads/2017/08/cropped-Favicon-300x300.png">
+<meta name="msapplication-TileImage" content="https://launchparty.org/wp-content/uploads/2017/08/cropped-Favicon-300x300.png">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-NTM57R');
+
+		window.dataLayer = window.dataLayer || [];
+				dataLayer.push({
+			'isLoggedIn': 'false',
+		});
+		
+		</script>
+
+
+<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '193396281562101');
+			fbq('track', 'PageView');
+		</script>
+<noscript><img height="1" width="1" style="display:none"
+			src="https://www.facebook.com/tr?id=193396281562101&ev=PageView&noscript=1"
+		/></noscript>
+
+</head>
+<body class="page-template-default single single-page postid-894">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTM57R"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="off-canvas-wrapper">
+<div class="off-canvas position-left" id="off-canvas" data-off-canvas="">
+<nav class="off-canvas-menu group">
+<ul>
+<li><a href="https://launchparty.org/course-outline">Free Challenge</a>
+<ul>
+<li><a href="https://launchparty.org/set-up-wordpress/">Day 1</a></li>
+<li><a href="https://launchparty.org/make-a-website-wordpress/">Day 2</a></li>
+<li><a href="https://launchparty.org/elementor-basics/">Day 3</a></li>
+</ul>
+</li>
+<li><a href="https://launchparty.org/free-elementor-template-blocks/">Templates</a></li>
+<li><a href="https://launchparty.org/toolkits">Toolkits</a></li>
+<li><a data-open="loginModal">Log In</a></li>
+<li><a data-open="registerModal" class="button">Sign Up</a></li>
+</ul>
+</nav>
+</div>
+<div class="off-canvas-content" data-off-canvas-content="">
+<div class="reveal auth" id="loginModal" data-reveal="">
+<button class="clear close-button" data-close="" aria-label="Close modal" type="button">
+<span aria-hidden="true"><i class="icon close"></i></span>
+</button>
+<div class="icon auth-logo"></div>
+<p class="tag-line">Completely Free Course</p>
+<div class="inside">
+<form id="login" action="login" method="post">
+<div class="fbl-button" data-redirect="https://launchparty.org/privacy/" data-fb_nonce="fdd6f80d39">
+<img data-no-lazy="1" src="https://launchparty.org/wp-content/mu-plugins/wp-facebook-login/public/img/loading.svg" alt="" class="fbl-spinner">
+<div class="fb-login-button" data-max-rows="1" onlogin="fbl_loginCheck" data-width="300" data-size="large" data-button-type="login_with" data-show-faces="false" data-auth-type="rerequest" data-auto-logout-link="false" data-use-continue-as="false" data-scope="email,public_profile"></div>
+</div> <script type="text/javascript">
+			window.fbl_started = false;
+			function fbl_init(){
+			    try{
+	                window.FB.init({
+	                    appId      : '502878180094188',
+	                    cookie     : true,
+	                    xfbml      : true,
+	                    status     : false,
+	                    autoLogAppEvents : true,
+	                    version    : 'v2.10'
+	                });
+	                window.FB.Event.subscribe('xfbml.render', function() {
+	                    FBL.renderFinish();
+	                } );
+	                window.fbl_started = true;
+			    } catch (e){}
+            }
+			window.fbAsyncInit = function() {
+			    if( ! window.fbl_started )
+                    fbl_init()
+			};
+
+            var fbl_interval = window.setInterval(function(){
+                if(window.fbl_started)
+                    clearInterval(fbl_interval);
+                if( !window.fbl_started)
+                    fbl_init();
+            },100);
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+
+		</script>
+<p class="or">or</p>
+<p class="status"></p>
+<label for="email">Email</label>
+<input id="login-email" type="text" name="email" placeholder="Email">
+<label for="password">Password</label>
+<input id="login-password" type="password" name="password" placeholder="Password">
+<input type="hidden" id="login-security" name="login-security" value="6610b786a0"><input type="hidden" name="_wp_http_referer" value="/privacy/">
+<button class="button primary" type="submit">Log In</button>
+<p><a href="#_" id="reset-password-link">Forgot my password</a></p>
+</form>
+<form id="reset-password" action="resetpassword" method="post">
+<h2>Reset Your Password</h2>
+<p>Enter your email address below. We'll look for your account and send you a password reset email.</p>
+<p class="status"></p>
+<input id="resetpassword-email" type="text" name="email" placeholder="Email">
+<input type="hidden" id="resetpassword-security" name="resetpassword-security" value="c5494d37e1"><input type="hidden" name="_wp_http_referer" value="/privacy/">
+<button class="button primary" type="submit">Send Password Request</button>
+</form>
+</div>
+<p class="auth-bottom">Don't Have An Account? <a data-open="registerModal" href="#">Sign Up Free</a></p>
+</div>
+<div class="reveal auth" id="registerModal" data-reveal="">
+<button class="clear close-button" data-close="" aria-label="Close modal" type="button">
+<span aria-hidden="true"><i class="icon close"></i></span>
+</button>
+<div class="icon auth-logo"></div>
+<p id="tag-line" class="tag-line">Completely Free</p>
+<p id="signup-message" class="signup-message"></p>
+<div class="inside">
+<form id="register" action="register" method="post">
+<div class="fbl-button" data-redirect="https://launchparty.org/privacy/" data-fb_nonce="fdd6f80d39">
+<img data-no-lazy="1" src="https://launchparty.org/wp-content/mu-plugins/wp-facebook-login/public/img/loading.svg" alt="" class="fbl-spinner">
+<div class="fb-login-button" data-max-rows="1" onlogin="fbl_loginCheck" data-width="300" data-size="large" data-button-type="login_with" data-show-faces="false" data-auth-type="rerequest" data-auto-logout-link="false" data-use-continue-as="false" data-scope="email,public_profile"></div>
+</div> <script type="text/javascript">
+			window.fbl_started = false;
+			function fbl_init(){
+			    try{
+	                window.FB.init({
+	                    appId      : '502878180094188',
+	                    cookie     : true,
+	                    xfbml      : true,
+	                    status     : false,
+	                    autoLogAppEvents : true,
+	                    version    : 'v2.10'
+	                });
+	                window.FB.Event.subscribe('xfbml.render', function() {
+	                    FBL.renderFinish();
+	                } );
+	                window.fbl_started = true;
+			    } catch (e){}
+            }
+			window.fbAsyncInit = function() {
+			    if( ! window.fbl_started )
+                    fbl_init()
+			};
+
+            var fbl_interval = window.setInterval(function(){
+                if(window.fbl_started)
+                    clearInterval(fbl_interval);
+                if( !window.fbl_started)
+                    fbl_init();
+            },100);
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+
+		</script>
+<p class="or">or</p>
+<p class="status"></p>
+<label for="email">Email</label>
+<input id="register-email" type="text" name="email" placeholder="Email">
+<label for="password">Password</label>
+<input id="register-password" type="password" name="password" placeholder="Password">
+<input type="hidden" id="register-security" name="register-security" value="5060b933ec"><input type="hidden" name="_wp_http_referer" value="/privacy/">
+<button class="button primary" type="submit">Sign Up</button>
+<p class="disclaimer">By signing up to create an account I accept LaunchParty’s <a href="https://launchparty.org/terms">Terms of Use</a> and <a href="https://launchparty.org/privacy">Privacy Policy</a>.</p>
+</form>
+</div>
+<p class="auth-bottom">Already Registered? <a data-open="loginModal" href="#">Log In Here</a></p>
+</div>
+<div class="sharing-tools">
+<button type="submit" class="fb-share">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="_1pbq" color="#ffffff" width="16" height="16">
+<path fill="#ffffff" fill-rule="evenodd" d="M8 14H3.667C2.733 13.9 2 13.167 2 12.233V3.667A1.65 1.65 0 0 1
+            3.667 2h8.666A1.65 1.65 0 0 1 14 3.667v8.566c0 .934-.733
+            1.667-1.667
+            1.767H10v-3.967h1.3l.7-2.066h-2V6.933c0-.466.167-.9.867-.9H12v-1.8c.033
+            0-.933-.266-1.533-.266-1.267 0-2.434.7-2.467
+            2.133v1.867H6v2.066h2V14z"></path>
+</svg>
+<span>Share</span>
+</button>
+</div>
+<header id="header" class="header" role="banner">
+<div class="bg"><div class="bg--inside"></div></div>
+<div class="row small-collapse large-uncollapse align-justify">
+<div class="off-canvas-button shrink column">
+<button class="menu-icon" type="button" data-toggle="off-canvas"><i class="icon menu"></i></button>
+</div>
+<div class="logo expand column">
+<a href="https://launchparty.org">
+<img src="https://launchparty.org/wp-content/themes/launchparty/assets/images/lp-logo-white.svg" alt="LaunchParty">
+</a>
+</div>
+<div class="shrink column">
+<nav id="main-menu" class="main-menu group">
+<ul>
+<li class="has-dropdown">
+<a href="https://launchparty.org/course-outline">Free Challenge</a>
+<div class="dropdown-wrap">
+<div class="dropdown-bg"></div>
+<ul class="dropdownMenu course-outline">
+<li class="">
+<a href="https://launchparty.org/set-up-wordpress/" class="set-up-wordpress  ">
+<span class="module-number">Day 1:</span>
+Set Up WordPress <span class="module-progress empty"></span>
+</a>
+</li>
+<li class="">
+<a href="https://launchparty.org/make-a-website-wordpress/" class="make-a-website-wordpress  ">
+<span class="module-number">Day 2:</span>
+Design Your Website <span class="module-progress empty"></span>
+</a>
+</li>
+<li class="">
+<a href="https://launchparty.org/elementor-basics/" class="elementor-basics  ">
+<span class="module-number">Day 3:</span>
+Improve Your Design <span class="module-progress empty"></span>
+</a>
+</li>
+<li class="">
+<a href="https://launchparty.org/email-marketing/" class="email-marketing  ">
+Bonus:
+Set Up Email Marketing <span class="module-progress empty"></span>
+</a>
+</li>
+<li class="">
+<a href="https://launchparty.org/elementor-widgets/" class="elementor-widgets  ">
+Bonus:
+Elementor Widgets <span class="module-progress empty"></span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="has-dropdown">
+<a href="https://launchparty.org/free-elementor-template-blocks/">Templates</a>
+<div class="dropdown-wrap">
+<div class="dropdown-bg"></div>
+<ul class="dropdownMenu">
+<li><a href="https://launchparty.org/free-elementor-template-blocks/">Overview</a></li>
+<li><a href="https://launchparty.org/download-and-import-our-elementor-template-blocks/">Download</a></li>
+<li><a href="https://launchparty.org/template-page-previews/">Page Previews</a></li>
+<li><a href="https://launchparty.org/template-section-previews/">Section Previews</a></li>
+<li><a href="https://launchparty.org/template-theme-builder-previews/">Theme Builder Previews</a></li>
+</ul>
+</div>
+</li>
+<li class="has-dropdown">
+<a href="https://launchparty.org/toolkits">Toolkits</a>
+<div class="dropdown-wrap">
+<div class="dropdown-bg"></div>
+<ul class="dropdownMenu toolkits">
+<li class="">
+<a href="https://launchparty.org/wordpress-toolkit/" class="wordpress-toolkit">
+WordPress Toolkit </a>
+</li>
+<li class="">
+<a href="https://launchparty.org/web-design-toolkit/" class="web-design-toolkit">
+Design Toolkit </a>
+</li>
+<li class="">
+<a href="https://launchparty.org/email-marketing-toolkit/" class="email-marketing-toolkit">
+Email Marketing Toolkit </a>
+</li>
+<li class="">
+<a href="https://launchparty.org/seo-content-marketing-toolkit/" class="seo-content-marketing-toolkit">
+Search Engine Optimization Toolkit </a>
+</li>
+<li class="">
+<a href="https://launchparty.org/social-media-marketing-toolkit/" class="social-media-marketing-toolkit">
+Social Media Marketing Toolkit </a>
+</li>
+<li class="">
+<a href="https://launchparty.org/customer-support-toolkit/" class="customer-support-toolkit">
+Customer Support Toolkit </a>
+</li>
+<li class="">
+<a href="https://launchparty.org/audio-video-toolkit/" class="audio-video-toolkit">
+Audio &amp; Video Toolkit </a>
+</li>
+<li class="">
+<a href="https://launchparty.org/digital-products-toolkit/" class="digital-products-toolkit">
+Digital Products Toolkit </a>
+</li>
+<li class="">
+<a href="https://launchparty.org/usability-conversions-toolkit/" class="usability-conversions-toolkit">
+Usability &amp; Conversions Toolkit </a>
+</li>
+<li class="">
+<a href="https://launchparty.org/productivity-toolkit/" class="productivity-toolkit">
+Productivity Toolkit </a>
+</li>
+</ul>
+</div>
+</li>
+<li><a data-open="loginModal">Log In</a></li>
+<li><a data-open="registerModal">Sign Up</a></li>
+<li id="searchBar" class="search">
+<form action="https://launchparty.org/" id="searchForm">
+<input type="text" id="searchInput" value="" name="s" placeholder="Site search...">
+<button type="submit" id="searchCtrl" class="clear"><i class="icon search"></i></button>
+</form>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+<div id="hero" class="fixed" data-gradient="gradientA"></div>
+<section class="main content">
+<div class="row align-center">
+<div class="large-9 columns first">
+<h1>Privacy Policy</h1>
+<p><strong>Updated: December 16, 2017</strong></p>
+<p><em>LaunchParty LLC</em> (“us”, “we”, or “our”) operates the <a href="https://launchparty.org">https://launchparty.org</a> website (the “Service”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy.</p>
+<p>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our <a href="/terms/">Terms And Conditions</a>.</p>
+<h2>Information Collection And Use</h2>
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, your name (“Personal Information”), etc.</p>
+<p>We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.</p>
+<h2>Log Data</h2>
+<p>We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and<br>
+other statistics.</p>
+<p>In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.</p>
+<h2>Cookies</h2>
+<p>Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.</p>
+<p>If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.</p>
+<h2>Do Not Track Disclosure</h2>
+<p>We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.</p>
+<h2>Behavioral Remarketing</h2>
+<p><em>LaunchParty LLC</em> may use remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.</p>
+<h2>Google</h2>
+<p>Google AdWords remarketing service is provided by Google Inc. You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the <a href="http://www.google.com/settings/ads" target="_blank">Google Ads Settings page</a>. Google also recommends installing the <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">Google Analytics Opt-out Browser Add-on</a> for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.</p>
+<p>For more information on the privacy practices of Google, please visit the <a href="http://www.google.com/intl/en/policies/privacy/" target="_blank">Google Privacy &amp; Terms web page</a>.</p>
+<h2>Facebook</h2>
+<p>Facebook remarketing service is provided by Facebook Inc. You can learn more about interest-based advertising from Facebook by <a href="https://www.facebook.com/help/164968693837950" target="_blank">visiting this page</a>.</p>
+<p>To opt-out from Facebook’s interest-based ads follow these <a href="https://www.facebook.com/help/1075880512458213/" target="_blank">instructions from Facebook</a>.</p>
+<p>Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other<br>
+participating companies through the <a href="http://www.aboutads.info/choices/" target="_blank">Digital Advertising Alliance</a> in the USA , the Digital<br>
+<a href="http://youradchoices.ca/" target="_blank">Advertising Alliance of Canada</a> in Canada or the <a href="http://www.youronlinechoices.eu/" target="_blank">European Interactive Digital Advertising Alliance</a> in Europe, or opt-out using your mobile device settings.</p>
+<p>For more information on the privacy practices of Facebook, please visit <a href="https://www.facebook.com/privacy/explanation" target="_blank">Facebook’s Data Policy</a>.</p>
+<h2>Service Providers</h2>
+<p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service related services and/or to assist us in analyzing how our Service is used.</p>
+<p>These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.</p>
+<h2>Communications</h2>
+<p>We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.</p>
+<h2>Customer Testimonials</h2>
+<p>We post user testimonials and customer testimonials on our website which may contain personally identifiable information.</p>
+<h2>Business Transaction</h2>
+<p>If <em>LaunchParty LLC</em> is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.</p>
+<h2>Security</h2>
+<p>The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information<br>
+we have collected from you.</p>
+<h2>International Transfer</h2>
+<p>Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<h2>Links To Other Sites</h2>
+<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+<h2>Children’s Privacy</h2>
+<p>Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).</p>
+<p>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a child under age 13 without verification of parental consent, we take steps to remove that information from our servers.</p>
+<h2>Changes To This Privacy Policy</h2>
+<p>This Privacy Policy is effective as of December 11, 2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p>
+<p>We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p>
+<p>If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.</p>
+<h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please <a href="/contact/">contact us</a>.</p>
+</div>
+</div>
+</section>
+<section class="achievements">
+<div class="section--arrow black">
+<div class="section--arrow-left"></div>
+<div class="section--arrow-middle"></div>
+<div class="section--arrow-left"></div>
+</div>
+<div class="row align-center collapse">
+<div class="column small-12">
+<h4>Your Achievements</h4>
+<p class="badges-earned">You have earned <span id="badgeCount">0</span> badge<span id="badgePlural">s</span></p>
+<div class="badges">
+<div class="badge">
+<div class="badge--inside badge--registered" data-badge-title="Registered for an account" data-badge-content="+50 points">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--watched-tour" data-badge-title="Watched our Getting Started video" data-badge-content="+200 points" data-badge-post-id="285" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--added-favorite" data-badge-title="Favorited an article, tool, or video" data-badge-content="+50 points">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--social-share" data-badge-title="Shared LaunchParty with friends" data-badge-content="+100 points">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--tutorial" data-badge-title="Completed a tutorial" data-badge-content="+20 points">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--module" data-badge-title="Completed a module" data-badge-content="+100 points">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--signed-up-hosting" data-badge-title="Signed up for hosting" data-badge-content="+200 points" data-badge-post-id="154" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--installed-elementor" data-badge-title="Installed the Elementor page builder plugin" data-badge-content="+200 points" data-badge-post-id="3235" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside  badge--elementor-pro" data-badge-title="Signed up for Elementor Pro" data-badge-step-id="5a58611227741" data-badge-content="+200 points" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--elementor-templates" data-badge-title="Installed the Elementor Template Blocks" data-badge-content="+200 points" data-badge-post-id="2139" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--fonts" data-badge-title="Chose your fonts" data-badge-content="+200 points" data-badge-post-id="3078" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--elementor-widgets" data-badge-title="Watched our introduction to Elementor" data-badge-content="+200 points" data-badge-post-id="8784" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--befunky" data-badge-title="Learned how to use BeFunky" data-badge-content="+200 points" data-badge-post-id="4099" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--shape-divider" data-badge-title="Learned the Shape Divider" data-badge-content="+200 points" data-badge-post-id="3155" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--mailchimp" data-badge-title="Signed up for MailChimp" data-badge-content="+200 points" data-badge-post-id="3182" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--email-optin" data-badge-title="Created an email opt-in form" data-badge-content="+200 points" data-badge-post-id="3188" data-badge-points="200">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside coming-soon badge--email-template" data-badge-title="Created an email template" data-badge-content="Coming Soon">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside coming-soon badge--wordpress-social" data-badge-title="Optimized WordPress for social sharing" data-badge-content="Coming Soon">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside coming-soon badge--social-buttons" data-badge-title="Added social media buttons" data-badge-content="Coming Soon">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside coming-soon badge--canva" data-badge-title="Learned how to use Canva" data-badge-content="Coming Soon">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside coming-soon badge--wordpress-seo" data-badge-title="Optimized WordPress for SEO" data-badge-content="Coming Soon">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside coming-soon badge--seo-keywords" data-badge-title="Research SEO keywords" data-badge-content="Coming Soon">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--1000-points" data-badge-title="1k points earned" data-badge-content="+100 points">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--2000-points" data-badge-title="2k points earned" data-badge-content="+100 points">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--3000-points" data-badge-title="3k points earned" data-badge-content="+100 points">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside badge--4000-points" data-badge-title="4k points earned" data-badge-content="+100 points">
+</div>
+</div>
+<div class="badge">
+<div class="badge--inside coming-soon badge--complete-all" data-badge-title="Completed all modules" data-badge-content="Coming Soon">
+</div>
+</div>
+</div>
+<a href="#_" class="button primary sign-up-free">Sign Up Free To Earn Badges</a>
+</div>
+</div>
+</section>
+<section class="free-course">
+<div class="row align-center">
+<div class="column small-12 medium-10 large-8">
+<h4>How Can This Challenge Be Free?</h4>
+<p>Our "Website In A Weekend" challenge is supported by the small affiliate commission we receive from <a id="sitegroundclick" href="https://launchparty.org/get/siteground" target="_blank">SiteGround Hosting</a> and <a href="https://launchparty.org/get/elementor-pro" target="_blank">Elementor Pro.</a></p>
+<div class="free-course--logos">
+<a id="sitegroundclick" href="https://launchparty.org/get/siteground" target="_blank" title="SiteGround Hosting" class="siteground-hosting-logo"></a> <a href="https://launchparty.org/get/elementor-pro" target="_blank" title="Elementor Pro" class="elementor-pro-logo"></a>
+</div>
+</div>
+</div>
+</section>
+<footer class="footer" role="contentinfo">
+<div class="row ">
+<div class="small-12 large-6 large-order-2 column">
+<div class="founder">
+<h4>About the Instructor</h4>
+<div class="founder--details">
+<img class="retina2x" src="https://launchparty.org/wp-content/themes/launchparty/assets/images/foot-matthew-averkamp.png" alt="Matthew Averkamp" width="105px" height="105px">
+<p>Prior to LaunchParty, Matthew Averkamp co-founded AccountingCoach, a website that teaches students and small business owners the basics of accounting. It has received more than 100 million visitors and is widely considered the #1 website for learning accounting. <a href="https://launchparty.org/about">More about LaunchParty</a></p>
+</div>
+</div>
+</div>
+<div class="small-12 large-6 large-order-1 columns">
+<div class="site-info">
+<img src="https://launchparty.org/wp-content/themes/launchparty/assets/images/lp-logo-grey.svg" alt="LaunchParty">
+<nav class="footer-nav">
+<div class="row">
+<div class="column">
+<a href="https://launchparty.org">Home</a>
+<a href="https://launchparty.org/about">About</a>
+<a href="https://launchparty.org/contact">Contact</a>
+</div>
+<div class="column">
+<a data-open="registerModal" href="#">Sign Up</a>
+<a data-open="loginModal" href="#">Log In</a>
+<a href="https://launchparty.org/privacy">Privacy</a>
+<a href="https://launchparty.org/terms">Terms</a>
+</div>
+<div class="column">
+<a href="https://launchparty.org/course-outline">Free Challenge</a>
+<a href="https://launchparty.org/toolkits">Toolkits</a>
+<a href="https://launchparty.org/collections">Collections</a>
+<a href="https://launchparty.org/submit-a-tool">Submit</a>
+</div>
+</div>
+</nav>
+<p class="source-org copyright">© 2019 LaunchParty LLC</p>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/launchparty.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://launchparty.org/wp-content/cache/fvm/1553683290/out/footer-e55f17ec.min.js"></script> 
+
+</body></html>
