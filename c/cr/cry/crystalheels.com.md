@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalheels.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101175612id_/http%3A//crystalheels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalheels.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504230213id_/http%3A//crystalheels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CrystalHeels.com
 
@@ -60,11 +60,11 @@ You may choose to restrict the collection or use of your personal information in
 
 ·  whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-·  if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://crystalheels.com/cdn-cgi/l/email-protection#0e676068614e6d7c777d7a6f62666b6b627d206d6163)
+·  if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://crystalheels.com/cdn-cgi/l/email-protection#2a43444c456a495853595e4b46424f4f465904494547)
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [[email protected]](http://crystalheels.com/cdn-cgi/l/email-protection#20494e464f604352595354414c4845454c530e434f4d0e)
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [[email protected]](http://crystalheels.com/cdn-cgi/l/email-protection#234a4d454c6340515a5057424f4b46464f500d404c4e0d)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
