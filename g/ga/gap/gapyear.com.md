@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225210006id_/https%3A//www.gapyear.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504144100id_/https%3A//www.gapyear.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Gap Year
 
