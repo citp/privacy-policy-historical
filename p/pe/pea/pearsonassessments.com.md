@@ -1,101 +1,87 @@
-> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108210351id_/http%3A//www.pearsonassessments.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504212052id_/https%3A//www.pearson.com/us/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement for Pearson Education
 
-#### **Effective: November 4, 2013**
+**PLEASE READ THE FOLLOWING CAREFULLY**
 
-##### 
+THIS STATEMENT PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY STATEMENT OF THIS WEBSITE AND ITS RELATED APPS (MOBILE OR OTHERWISE). IF YOU ARE UNDER 18 YEARS OF AGE, PLEASE BE SURE TO READ THIS PRIVACY STATEMENT WITH YOUR PARENTS OR GUARDIAN AND ASK THEM QUESTIONS ABOUT WHAT YOU DO NOT UNDERSTAND.
 
-  1. Applicability
-  2. Purpose
-  3. Collection and Use of Personal Information 
-  4. Protection of Personal Information
-  5. Information Sharing and Disclosure
-  6. Information Access and Correction
-  7. Information from Children
-  8. Non-Personally Identified Information
-  9. Web Analytics
-  10. Cookies
-  11. Changes to the Privacy Policy
-  12. Contact Information
+YOUR USE OF THIS SERVICE CONSTITUTES ACCEPTANCE BY YOU OF THIS PRIVACY STATEMENT.
 
+Pearson Education, Inc. and its subsidiaries and affiliates (“Pearson”) are providing you this site and its related applications and services (collectively, “Service”). The Service may be delivered to you through the Internet via your browser or app (mobile or otherwise).
 
+This privacy statement (“Privacy Statement”) discloses how we collect, protect, use and share information gathered on this Service. Your use of this Service is further subject to the terms of use (“Terms of Use“) posted on this website or app (this Privacy Statement is part of the Terms of Use).
 
-  
-**1\. Applicability**
+YOU SHOULD REVIEW THIS PRIVACY POLICY ON A REGULAR BASIS. PEARSON RESERVES THE RIGHT TO REVISE THIS PRIVACY STATEMENT AT ANY TIME, INCLUDING TO ADDRESS NEW ISSUES OR REFLECT CHANGES TO OUR SERVICE. SUCH REVISIONS BECOME EFFECTIVE IMMEDIATELY UPON NOTICE TO YOU. NOTICE MAY BE GIVEN BY ANY MEANS INCLUDING, BUT NOT LIMITED TO, POSTING THE REVISED PRIVACY STATEMENT ON THIS SERVICE. YOUR USE OF THIS SERVICE SUBSEQUENT TO OUR REVISION SHALL BE DEEMED TO CONSTITUTE ACCEPTANCE BY YOU OF THE REVISED TERMS.
 
-This Privacy Policy explains the way NCS Pearson, Inc. (“Pearson” or “we”) collects, uses, maintains and discloses information collected from each user (“User” or “you”) of the www.pearsonassessments.com website (“Site”). This Privacy Policy applies to the Site and any personally identifiable information collected by Pearson through this Site.
+If you have any questions or concerns about the Privacy Statement, please [Contact Us](https://web.archive.org/us/contact-us.html).
 
-This Privacy Policy applies only to this Site. Other websites, including other Pearson websites linked through or to this Site, may have their own privacy policies and practices. Your use of any other website is subject to the privacy policy of that website.
+**Information Collected and Purpose of Collection**
 
-Back to Top
+Pearson may request and store certain types of personally identifying information about you when you use this Service. We consider the following to be examples of personally identifying information: your first and last name, email address, home address, phone number, date of birth, social security number, credit card and banking information, and other similar information. Pearson does not collect personally identifying information about you unless it is voluntarily provided. It is your choice whether to share personally identifying information with us but please keep in mind that in some instances such information will be required in order to participate in activities within the Service. PLEASE NOTE THAT WE DO NOT CONSIDER ANY INFORMATION THAT IS NOT ASSOCIATED WITH YOUR PERSONALLY IDENTIFYING INFORMATION (ANONYMIZED OR AGGREGATED INFORMATION) TO BE PERSONALLY IDENTIFYING INFORMATION.
 
-**2\. Purpose**
+The information we learn from you, including personally identifiable information, helps us personalize and continually improve your experience and use of this Service so that we can further serve your needs and our business needs. BY USING THE SERVICE, YOU ARE CONSENTING TO THESE USES AND OTHERS AS SPECIFIED HEREIN AND IN THE TERMS OF USE.
 
-The purpose of this Site is to provide information about certain of our Assessment products and services and an avenue to contact us about these products and services and place online orders for our Talent Assessment and Learning Assessment products and services. Use of this Site is subject to the [Terms of Use](https://www.pearsonassessments.com/website-terms-of-use.html) for this Site.
+When you conduct a purchase transaction through this Service, you are providing transaction information to our third-party suppliers (such as transaction processors and financial institutions) who will use the information solely for processing your requested transaction. There may also be other third-party vendors who supply software applications, web hosting and other technologies and/or services for this Service that may have access to your personally identifying information but, unless they get express permission from you, they will not use such information for any other purpose other than to provide services in connection with this Service.
 
-Back to Top
+During your use of the Service you may generate or upload certain content (“User Content”) to the Service and we may store and link such User Content to your personally identifying information. In addition, either we or our third-party service providers may collect information about your usage of a respective service, time spent on a service, pages visited and detailed session data in connection with a specific service and other similar information (“Service Usage Information”). We may use this User Content and Service Usage Information in combination with your personally identifying information to customize your experience using the Service by, among other things, making recommendations or forecasts. We may also use your User Content and Service Usage Information to suggest other features on the Service that we believe may be interesting to you. Please refer to section below entitled “Cookies and Other Technology Used to Collect Information” for more information on the process and methodology of collecting and sharing certain Service Usage Information.
 
-**3\. Collection and Use of Personal Information**
+**Special Notice to Parents, Teachers and Children**
 
-Users are not required to provide personally identifiable information (“Personal Information”) to visit and browse this Site.
+**Parents and Teachers:  **When using this Service, we encourage parents, guardians and teachers to spend time with their children, especially if the child is 12 and under (“Child” or “Children”). We will never request personally identifiable information from a Child in any of our public postings areas. We will not require a Child to disclose more personally identifiable information than is reasonably necessary to participate in any online activity. WE ASK PARENTS TO HELP US PROTECT THEIR CHILDREN’S PRIVACY BY INSTRUCTING THEM NEVER TO PROVIDE PERSONALLY IDENTIFIABLE INFORMATION ON THIS SERVICE OR ANY OTHER SITE WITHOUT FIRST GETTING PARENTAL/GUARDIAN OR TEACHER PERMISSION.
 
-If a User sends us an email or completes one of the contact forms referenced this Site, we may collect Personal Information, including: first and last name associated with the User’s title, address, email address, phone number, fax number, organization name and any other additional information the user voluntarily chooses to provide. Such Personal Information may be used to respond to emails and inquiries, market our products and services, request feedback, fulfill requests and assure compliance with the Terms of Use of this Site.
+**Children:** Please do not give your full name, email address, home address, telephone number or any other personally identifiable information that would enable someone to contact you either online or offline, without first asking your parent/guardian or teacher for permission.
 
-If a User sets up a Pearson account or places an order for products and services through this Site, we may collect Personal Information, including, first and last name associated with the User’s title, address, email address, phone number, fax number, organization name, user name, password, shipping and order details, credit card or other financial account information and related transaction information necessary to fulfill an order. Such Personal Information may be used to fulfill the order; deliver the products and services ordered; authenticate and verify the User’s identity and authorization to access the Pearson account and place orders; maintain Pearson’s customer records; respond to emails and inquiries; obtain User feedback; market additional products and services to the User; and assure compliance by the User with applicable contracts and terms.
+We do not knowingly collect personally identifiable information from Children either directly or passively except when a Child voluntarily submits such information through a “Contact Us“ link or a public posting area within the Service, if such feature is available. If a Child emails us via a “Contact Us“ link on any child-directed area of this Site and we can identify the sender as a Child, any personally identifiable information submitted will only be used to respond on a one-time basis to such Child. In addition, if we have actual knowledge that a Child is sending or posting personally identifiable information on any area of the Service, we will use commercially reasonable efforts to delete such personally identifiable information as soon as practicable.
 
-Back to Top
+**Sharing of Personally Identifying Information with Third Parties**
 
-**4\. Protection of Personal Information**
+We will not share any personally identifying information about you with any third party (a party not affiliated with Pearson) except as otherwise stated herein and in the following circumstances: (i) in response to subpoenas, court orders or legal process, to the extent required and as restricted by law; (ii) when disclosure is required to maintain the security and integrity of this Service, or to protect any user’s security or the security of other persons, consistent with applicable laws; (iii) when disclosure is directed or consented to by the user who has inputted the personally-identifying information; (iv) in the event that Pearson itself or any of its subdivisions or units goes through a business transition, such as a merger, divestiture, acquisition, liquidation or sale of all or a portion of its assets, your personal information will, in most instances, be part of the assets transferred; (v) in limited circumstances, Pearson may disclose your email address in order to comply with laws and regulations, including the Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM of 2003); or (vi) to enforce the Terms of Use.
 
-We use appropriate commercially reasonable data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of Personal Information and related transaction and order information collected and processed through this Site. This Site provides a secured transmission method for the electronic transmission of credit or other financial account information. The Internet is a global environment. Through use of this Site and submission of information to us electronically, you consent to trans-border and international transmission of any data you choose to submit, including transmission within and to the United States.
+**Third-Party Analytic Services**
 
-Back to Top
+Pearson may use a third-party service, such as Google Analytics, to collect anonymous visitor data on our network of sites, applications, and online services. If Pearson uses a third-party service to collect such information from the Service, the third-party service will not collect any personally identifying information from users of the Service. Pearson may use the third-party service to collect anonymous visitor information like IP addresses, browser types (such as Internet Explorer, Chrome, Firefox, Mozilla, Safari and others), the accessing app, or referring pages and websites. Pearson may use the third-party service to collect this non-personally identifiable information for various purposes, including but not limited to: (i) providing anonymous statistical analysis of web page traffic patterns; (ii) administration of our services and servers; (iii) allowing for auditing of our services by third parties; (iv) improving our general services; and (v) ensuring users compliance with our Terms of Use.
 
-**5\. Information Sharing and Disclosure**
+## Cookies and Other Technology Used to Collect Information
 
-Except as specifically stated in this Privacy Policy, it is our policy not to share or disclose Personal Information collected through this Site with third parties other than affiliates of Pearson and other companies and organizations who perform work for us under contract or sell products or services that complement our products and services and who are committed to protect the privacy of Personal Information in a manner consistent with this Privacy Policy. We may disclose a User’s Personal Information: (a) in response to a subpoena, court order or legal process, to the extent permitted or required by law; (b) to protect the security of the User and other persons, our systems and the data we hold, consistent with applicable law; (c) in connection with a sale, joint venture or other transfer of some or all of our company or its assets; or (d) to address actual or suspected fraud or other illegal activities; or (e) in order to enforce the site’s Terms of Use or any contract between us and such User.
+With the use of cookies and other technologies, Pearson may receive and store certain types of information about you whenever you interact with this Service.
 
-Back to Top
+Cookies are small text files that we transfer to your hardware, through your web browser or app, to (a) speed your navigation on the Service, (b) recognize you and your access privileges, (c) track your usage and preferences of the Service, (d) detect the existence of any cookies previously set by our server, and (e) identify certain information on how and when you accessed the Service such as type of browser, operating system, domain names, IP addresses and the like. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer. However, cookies allow you to take full advantage of this Service (disabling cookies may prevent proper functioning of certain parts of the Service), and we recommend that you leave them turned on.
 
-**6\. Information Access and Correction**
+Pearson may also use single pixels images, web beacons and other similar technology (collectively “Beacons”) to (a) track your usage of the Service, (b) track response rates to certain activities and promotions within the Service and in marketing campaigns, and (c) identify certain information on how and when you accessed the Service such as type of browser, operating system, domain names, IP addresses and the like.
 
-Certain Personal Information relating to a User account may be accessed and updated by the User through this Site. Users may contact us at 800-328-5999 to access, correct or update other Personal Information submitted or collected through this Site or to opt out of receiving marketing materials about our Assessment products and services.
+**Sharing of Non-Personally Identifying Information with Third Parties**
 
-Back to Top
+Pearson may share with third parties (including advertising companies and networks) any anonymized information collected through the Service, including those collected through the use of cookies and Beacons technology. In such instance, we do NOT provide such third parties with any personally identifiable information about you or any other users of the Service.
 
-**7\. Information from Children**
+BY USING THE SERVICE, YOU AGREE THAT PEARSON MAY USE, LICENSE AND OTHERWISE DISTRIBUTE ANY SUCH NON-PERSONALLY IDENTIFIABLE INFORMATION (ANONYMIZED DATA) AVAILABLE ON THIS SERVICE, WHETHER COLLECTED BY PEARSON OR A THIRD PARTY, TO ASSIST IN MARKET EVALUATION, PRODUCT ASSESSMENT AND IMPROVEMENT, EDUCATIONAL RESEARCH, AND FOR OTHER MARKETING AND COMMERCIAL PURPOSES AS REASONABLY DETERMINED BY PEARSON.
 
-This Site is not directed to children, including anyone under the age of thirteen (13). Pearson will not knowingly collect or process any Personal Information from anyone under the age of thirteen (13) through this Site.
+**IP Addresses** An IP address is a number that is assigned automatically to your computer whenever you use the World Wide Web. Web servers – the big computers that “serve up” Web pages – automatically identify your computer by its IP address. Pearson collects IP addresses for system administration; to report aggregate information to our advertisers, sponsors, and partners; and to audit the use of our Service.When visitors request pages from Pearson sites, our servers log the guests’ IP addresses. We typically do not link IP addresses to anything personally identifiable. This means that a visitor’s session will be logged, but the visitor remains anonymous to us. We can and will use IP addresses to identify a visitor if any of the circumstances mentioned in the above section titled “Sharing Of Personally Identifying Information With Third Parties” occurs.
 
-Back to Top
+**Do Not Track**
 
-**8\. Non-Personally Identified Information**
+This Service does not respond to your browser’s (or app’s) “do-not-track” signals or comparable signals or mechanisms. Please check our Privacy Statement frequently as this may change in the future.
 
-We may collect non-personally identified information about Users whenever they interact with this Site. Such non-personally identified information may include the browser name, the type of computer and technical information about the Users’ means of connection to our site, such as the operating system, internet service provider and IP address (a number automatically assigned to the User’s computer by their internet service provider). This information is generally collected for system administration purposes, to monitor activity levels and for security purposes. Pearson does not link IP addresses to Personal Information, except that we reserve the right to link IP addresses and other non-personally identifiable information in order to protect the integrity of this Site, to monitor compliance with our Terms of Use and for security purposes.
+**Third-Party Promotional Activities**
 
-Back to Top
+Within the Service, Pearson may offer contests, sweepstakes or promotions that are sponsored by third-party advertisers or sponsors. These third parties may obtain personally identifiable information that users voluntarily submit while participating in the activity. Pearson does not control the third parties’ use of such information so you should read their privacy policy before participating in such activities.
 
-**9\. Web Analytics**
+**Links to Third-Party Sites**
 
-We use third party web analytical services, which may include Google Analytics and Adobe Analytics, to collect anonymous visitor information, including IP addresses, browser types, referring pages, pages visited and time spent on a particular site. While these analytical services collect and report information on any anonymous basis, they may use cookies and collect IP addresses to gather web trend information. We use this web trend information for system administration and marketing purposes and to identify problems and improve service. For further information about Google Analytics, and for links to Google’s Privacy Policy and an opt-out tool for Google Analytics, go to [http://www.google.com/intl/en/analytics/privacy overview.html](http://www.google.com/intl/en/analytics/privacyoverview.html). For further information about Adobe Analytics, for links to Adobe Analytics’ Privacy Policy and an opt-out tool for Adobe Analytics, go to <http://www.adobe.com/privacy/analytics.html>.
+Links from the Service can take you to other Pearson sites – School, Higher Education, Professional, Global, among others – as well as to third-party sites and resources (collectively, “Other Sites”). The information practices of such Other Sites are not covered by this Privacy Statement or any other policies or terms of this Service. Please make sure to review such Other Site’s terms of use and privacy policies prior to interacting with such sites.
 
-Back to Top
+**Public Forums**
 
-**10\. Cookies and Do-Not-Track Signals**
+Pearson may make chat rooms, forums, message boards, web pages, and/or public spaces available to its users. Please remember that any information that is disclosed in these areas may become public information but, regardless, may be available to other users of the Service and may be used by Pearson. Consequently, you should carefully consider whether to disclose your personal information in such public areas.
 
-The use of cookies is a common practice for websites. Cookies are small text files that a website transfers to a computer’s browser. Cookies will provide the website with non-personally identifiable information, but does identify your computer, browser and internet specifications. This Site uses cookies to measure traffic patterns, personalize content, control security and track use and access of information on this Site. Users may choose to set their web browser to refuse cookies or to alert them when cookies are being sent, but this may result in some part of this Site not functioning properly. This site does not respond to web browser “do not track” signals or comparable signals or mechanisms.
+**Security, Purchases and Credit Card Use**
 
-Back to Top
+Pearson has security measures in place to protect the loss, misuse, and alteration of the information under our control. Essentially, we encrypt all transmission of sensitive data and secure all of our repositories of data. When you use your credit card to shop at Pearson, your transaction is secure. For the purposes of handling credit card transactions, we have contracted with a PCI DSS compliant ecommerce partner. Our servers use Secure Sockets Layer (SSL), an advanced encryption technology that works with most major browsers. This technology safeguards your personal information and privacy. However, you should understand that “perfect security” is never guaranteed.
 
-**11\. Changes to the Privacy Policy**
+**Nature of Data on the Internet**.
 
-This Privacy Policy may be revised from time to time through an updated posting. Revisions are effective upon posting and continued use of this Site following posting will indicate the User’s acceptance of such changes.
+Due to the complexity and open nature of the Internet, there is always a risk that information collected by and/or displayed on the Service may be compromised or accessed notwithstanding the implementation of reasonable data security measures by Pearson. To mitigate such risks, you should (a) use secure usernames and passwords and carefully protect them from disclosure; and (b) implement updated internet security and virus protection software on your computer system. Should you suspect that your computer’s security has been compromised or that your username or password may have been have been accessed by a third party, please contact us immediately and request to have your password changed.
 
-Back to Top
+**Cross-Border Transfer of Data**.
 
-**12\. Contact Information**
-
-Please contact us at 800-328-5999 about any questions or concerns about this Privacy Policy or the protection of Personal Information provided through this Site.
-
-Back to Top
+Any personally identifiable information you provide to Pearson in connection with this Service will be stored on Pearson’s servers or those of its affiliates and/or authorized vendors and will be accessible by authorized employees, agents and contractors of Pearson and its affiliates and authorized vendors. Due to the global nature of the Service, personally identifiable information may be transmitted, stored or processed in a country other than the one in which you reside (“Resident Jurisdiction”), including primarily in the United States, the European Union and India. Reasonable contractual or other measures Pearson may take to protect your personally identifiable information while outside the Resident Jurisdiction are subject to applicable foreign legal requirements, for example, lawful requirements by governmental authorities or court order to disclose personally identifiable information to government authorities in the countries in which such data may be stored or processed. SUBJECT TO APPLICABLE LAW, IF YOU RESIDE IN THE EUROPEAN UNION, CANADA OR OTHER JURISDICTION WITH SIMILAR DATA TRANSFER REGULATIONS, BY ACCEPTING THE TERMS OF THIS AGREEMENT, YOU EXPLICITLY CONSENT THAT THE PERSONALLY IDENTIFIABLE INFORMATION YOU PROVIDE MAY BE TRANSFERRED AND STORED IN COUNTRIES OUTSIDE THE EU, CANADA OR YOUR RESIDENT JURISDICTION, INCLUDING THE UNITED STATES, IN CONNECTION WITH THE TERMS OF USE, THIS PRIVACY STATEMENT, AND IN ORDER TO PROVIDE SERVICES TO YOU. IF YOU DO NOT CONSENT, PLEASE DO NOT PROVIDE US WITH ANY PERSONAL INFORMATION. YOUR PERSONAL INFORMATION SHALL ONLY BE USED IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY STATEMENT.
