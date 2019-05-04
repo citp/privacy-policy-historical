@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrivethemes.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902235445id_/https%3A//thrivethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivethemes.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504105351id_/https%3A//thrivethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
