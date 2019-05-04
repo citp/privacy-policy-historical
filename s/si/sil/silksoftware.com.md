@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silksoftware.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101173755id_/https%3A//www.silksoftware.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silksoftware.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504044113id_/https%3A//www.silksoftware.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SILK Software
 
