@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the skymind.ai privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030085423id_/https%3A//skymind.ai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymind.ai privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504233802id_/http%3A//skymind.ai/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Skymind
 
 **  
 A. Scope**
 
-This Privacy Policy describes how we handle your personal information for our Service on Skymind and related websites, tools, and applications. It applies generally to information collected on the www.skymind.io website and content (the "Site") or though the use of our Service. Capitalized terms used in this Privacy Policy shall have the meaning set forth herein or in the Terms of Service posted on the Site. 
+This Privacy Policy describes how we handle your personal information for our Service on Skymind and related websites, tools, and applications. It applies generally to information collected on the www.skymind.ai website and content (the "Site") or though the use of our Service. Capitalized terms used in this Privacy Policy shall have the meaning set forth herein or in the Terms of Service posted on the Site. 
 
 By accepting the Privacy Policy and the Terms of Service, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new Users and is otherwise effective on June 1, 2016. 
 
