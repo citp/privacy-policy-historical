@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquariumadvice.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227235549id_/http%3A//www.aquariumadvice.com/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquariumadvice.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504220545id_/http%3A//www.aquariumadvice.com/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Aquarium Advice - Aquarium Forum Community
 
