@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecoustics.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602051937id_/http%3A//www.ecoustics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecoustics.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504083945id_/https%3A//www.ecoustics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ecoustics.com
 
