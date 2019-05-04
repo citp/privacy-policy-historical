@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlygoodmovies.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829070922id_/http%3A//www.onlygoodmovies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlygoodmovies.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504043832id_/http%3A//www.onlygoodmovies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for OnlyGoodMovies.com
 
