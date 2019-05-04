@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralthread.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202124051id_/http%3A//www.viralthread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralthread.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505010744id_/http%3A//www.viralthread.com/privacy-policy) for the most accurate reproduction.*
 
 # Viral Thread, The Web At Its Best
 
