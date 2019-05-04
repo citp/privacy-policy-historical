@@ -1,99 +1,176 @@
-> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027185918id_/http%3A//www.sunglasshut.com/AboutUs%3FcatalogId%3D10101%26langId%3D-1%26storeId%3D10152%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504060833id_/http%3A//www.sunglasshut.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Legal/Privacy | SunglassHut.com
 
-### Security and Privacy Notice
+### LUXOTTICA PRIVACY POLICY
 
-### Our Commitment
+For more information on Internet-based Advertising and your choices regarding it, click here.
 
-Sunglass Hut is committed to using our best efforts to ensure the security of your transactions on www.SunglassHut.com (the "Site") and protecting the privacy of the information you chose to share with us. By choosing to visit our Site, you are accepting the practices, terms and conditions described in this Security and Privacy Notice. Please feel free to contact us with any questions or concerns you may have regarding these policies.
+This Privacy Policy (“Policy”) is effective as of April 1, 2019.
 
-### Secure Ordering
+This Policy describes how Luxottica of America Inc., including all direct and indirect subsidiaries (collectively “Luxottica,” “we,” “our,” or “us”), collect, use, and disclose information through our websites located at [www.luxottica.com](http://www.luxottica.com/), [www.oakley.com](http://www.oakley.com/), [www.sunglasshut.com](http://www.sunglasshut.com/), [www.lenscrafters.com](http://www.lenscrafters.com/), [www.targetoptical.com](http://www.targetoptical.com/), [www.pearlevision.com](http://www.pearlevision.com/), [www.searsoptical.com](http://www.searsoptical.com/), [www.oliverpeoples.com](http://www.oliverpeoples.com/) and any other websites that link to this Policy (collectively “Sites”) and certain other services as described below. Other Luxottica websites, products, and services may have their own privacy policies. This Policy applies to our U.S. Sites and services that link to this Policy.
 
-We make every effort to protect your online order information by using Secure Sockets Layer (SSL) technology. SSL encrypts your order information to avoid the decoding of that information by anyone other than Sunglasshut.com. To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending upon your browser) then SSL is active. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https". It is important for you to protect against unauthorized access to your credit card information, to your password and to your computer.
+HOW WE COLLECT THE INFORMATION  
+THE INFORMATION WE COLLECT  
+HOW DO WE USE THIS INFORMATION  
+SHARING INFORMATION WITH THIRD PARTIES  
+DIGITAL ADVERTISING & ANALYTICS  
+THIRD-PARTY LINKS & PLUG-INS  
+YOUR CHOICES  
+CHILDREN’S PRIVACY  
+UPDATING YOUR INFORMATION  
+SECURITY  
+DO NOT TRACK SIGNAL  
+INTERNET-BASED ADVERTISING AND CHOICE  
+TRACKING ACROSS TIME AND TECHNOLOGIES DISCLOSURE  
+UPDATES TO POLICY  
+CONTACT
 
-Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you'll be unable to connect to the server so you won't have to worry about mistakenly placing an order through an unsecured connection.
+### HOW WE COLLECT THE INFORMATION
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+When using our Sites or our services, you may provide us with your personal information through a variety of methods, including the following: (1) via signups on our Sites, such as through the creation of an account; (2) from an online, email, retail, fax, or telephone purchase; (3) when you enter a sweepstakes, giveaway, contest, or other promotion, or complete a survey; (4) when you provide information at our stores; (5) upon contacting us, such as through customer service communications, including our online chat features; (6) upon signing up at an event; (7) upon registering a Luxottica product; (8) when you submit a business reply, product, or warranty card; (9) when you post material to the Sites, such as through product reviews; or (10) when you interact with us for any other purpose. Information that you provide through the Sites can be combined with the information that we collect from you in any other way.
 
-### Privacy Policies
+We may also collect certain information automatically when you use the Sites, as described below.
 
-We are committed to protecting your privacy. This Privacy Policy describes the types of information we collect from you when you use the SunglassHut.com site, and explains what we do with that information. Except as described in this policy, we do not sell, trade or rent your personal information to third parties. Keep in mind, you always have the option to "opt-out" of our email program at anytime.
+We may receive information about you from third parties and combine it with information you have provided to us.
 
-This Privacy Policy is effective as of May 1, 2009 and will remain in effect until we replace it.
+Top __
 
-### What kind of information do we collect?
+### THE INFORMATION WE COLLECT
 
-We may collect and store personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, product reviews and ratings, etc., when you create an account with us, place an order online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online. We may combine all of this information with information about you that we acquire from your activity in our stores or via the phone, our joint marketing partners, from unrelated third parties, and from our other brands. 
+When you interact with us, we may collect information that you choose to provide, such as your name, address, email address, phone number, payment information, demographic information (such as your income level and gender), date of birth, information regarding your membership with other organizations (e.g., to provide discounts), photos and recordings, and any other information you choose to provide. If you contact our customer service department, you may need to provide us with additional information so that we can respond to your questions or concerns as completely and thoroughly as possible. If you create an account with us, we collect your username and password. If you are providing delivery information or other information which is not your own, then you must have that person’s permission to give us their information and for us to use and share it for the purposes specified.
 
-We collect and store certain other information automatically whenever you interact with this Web site. For example, we may collect your IP address, browser information, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data and reference site domain name. We also collect information regarding customer traffic patterns and site usage.
+When you make a purchase, we will collect your payment card, gift card, or other payment information. Luxottica takes reasonable steps to protect the security of payment card information such as by using tokenization, a storage technique which replaces payment card data with randomized identifiers.
 
-### How do we use your information?
+If you apply for a job through one of our Sites, we will collect any information you provide in your application, including, but not limited to, educational background, employment history, and references.
 
-  * To process and fulfill your order, including to send you emails to confirm your order status and shipment, and other related emails
-  * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, surveys, contests, and promotions, unless you have directed us not to contact you with promotional communications via our opt-out procedure
-  * To administer and fulfill our contests and other promotions
-  * To help us learn more about your shopping preferences
-  * To help us address problems with and improve our site design, products and services
-  * To enhance your shopping experience
-  * To analyze trends and statistics
-  * To protect the security or integrity of our Web sites and our business
-  * To contact you if necessary
+Some of the affiliates and brands covered by this Policy are subject to the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”). These affiliates and brands may collect additional information that is considered “protected health information” (“PHI”) as defined by HIPAA. When the information that we collect is considered PHI, we will handle that information in accordance with our [Notice of Privacy Practices](https://web.archive.org/wcsstore/SGH/experiences/US/2019/PDF/NPP_Final_Version_2.28.2019.pdf). Please visit that notice for information on our privacy practices, our legal duties, and your rights concerning your PHI.
 
+We (or third parties operating on the Sites) also may automatically collect technical information when you use our Sites (for example, browser version, IP address, Internet service provider, referring/exit pages, operating system, date/time stamp, clickstream data and reference site domain name, and customer traffic patterns and website usage). We may use cookies or similar technology to collect this information. See the “Digital Advertising & Analytics” section of this Policy to learn more about the use of this information and the choices available to you.
 
+Top __
 
-We use a third-party tracking service to track non-personally identifiable information about visitors to this Web site in the aggregate. We also use pixels, or transparent GIF files to enable us to learn which advertisements bring users to our Web site. We may from time to time use other third parties for similar type tracking services. To opt out of third party cookies, please visit http://www.aboutads.info/choices. Any information we track in this manner is anonymous, limited to usage and volume statistics, and is used to provide insight into the effectiveness of our online marketing initiatives and strategies.
+### HOW DO WE USE THIS INFORMATION
 
-### Who do we share information with?
+We may use the information we collect for any lawful purpose, including the following:`
 
-We are part of a larger company and we may share information with our parent and affiliated companies.
+1) To process and fulfill your order, including sending you emails to confirm your order status and shipment, and to provide other related communications.  
+2) To administer a contest, promotion, survey, or other site feature, and to provide you with the relevant products or services (for instance to deliver a prize you may have won in a contest).  
+3) To send you information/materials via email or mail about products, offers, and news we think could interest you. This information may relate to products, services, offers, and news of Luxottica products or other products and services. Please see “Your Choices” below for more information.  
+4) To operate and improve the Sites, including to analyze visits to the Sites and learn about our visitors so we can operate the Sites and improve our products and services and deliver the best user experience.  
+5) To communicate with you, including responding to your inquiries.  
+6) To comply with the law and to maintain the security of our Sites.  
+7) As otherwise disclosed at the time of collection or use.
 
-We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, order fulfillment and shipping, marketing, public relations and promotional material distribution and other activities, survey, sweepstakes and contests administration, Web site evaluation and data analysis. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform. These parties may also collect information directly from your use of our site, but we prohibit them from using such information in anything other than an aggregated non-personal form.
+When you make a purchase, you can choose to save your information to obtain a faster checkout for purchases and/or you can choose to receive emails, which provide you with information regarding our other products and services.
 
-We may share aggregated demographic information with our partners and advertisers. Aggregate demographic information is not linked to any personal information that can identify any individual person.
+Top __
 
-We may release personal information if we believe in good faith that we are required to by law or such release is necessary to protect the rights, property or safety of SunglassHut.com, or any of our affiliates, business partners, customers or others.
+### SHARING INFORMATION WITH THIRD PARTIES
 
-As with any business, it is possible that we might go through a business transition, such as a merger, acquisition, sale of all or a portion of our assets, or sell or buy other assets. In such transactions, information about customers often is among the transferred assets. You will be notified via a prominent notice on our site for 30 days of any such change in ownership or control of your personal information. You consent to the transfer of your personally identifiable information to any such successor entity unless you notify us via email to the contrary.
+Luxottica does not sell your personal information but may share the personal information that we collect with third parties as lawfully permitted, including as discussed below.
 
-### Opt Out
+We engage service providers to perform services in connection with the operation of our business. We may share personal information with service providers so that they can perform these services. Examples of these services include payment processing and authorization, text messaging services, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, website evaluation, data analysis and, where applicable, data cleansing.
 
-You always have the option to "opt-out" of our email program or "Your Account" at anytime. If at any time you no longer wish to have Sunglass Hut contact you, or to receive information, emails or notices from SunglassHut.com or our partners, simply [opt out here](https://www.sunglasshut.com/webapp/wcs/stores/servlet/UnsubscribeView#view=close). Also, you will always have the right to access, modify or delete information in "Your Account."
+In proceeding with your online order, you agree that any information associated with the order, such as the delivery name and address (if different from yours), will be processed using service providers.
 
-### Children
+Personal information collected through our Sites may be shared between the brands and affiliates that are owned or operated by Luxottica of America Inc.
 
-Our Site is not intended for use by children under the age of 13, and we do not target or collect personal information from children under the age of 13. We encourage parents to be active in regulating their child's online activities and interests appropriately.
+We also share personal information with selected third parties for their own marketing purposes. See the “Your Choices” section of this Policy for more information.
 
-### Links
+We may release personal information if we believe in good faith that: (1) the law or legal process requires it; (2) we have received a valid administrative request from a law enforcement agency; or (3) such release is necessary or appropriate (in our sole discretion) to protect the rights, property, or safety of Luxottica, or any of our respective affiliates, service providers, customers, or others.
 
-Links to third party web sites on our Site are provided solely as a convenience to you. If you use these links, you will leave our Site. We have not reviewed all of these third party sites and do not control and are not responsible for any of these sites, their content or their privacy policy. If you decide to access any of the third party sites linked to our Site, you do so at your own risk.
+We may also share your information with your consent or as otherwise disclosed at the time of data collection or sharing.
 
-### Cookies
+As with any business, it is possible that as our business develops, we might go through a business transition, such as a merger, acquisition by another company, or the sale of all or a portion of our assets, or buying online stores or other assets, including at bankruptcy. In such transactions, information about customers will likely be transferred.
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to provide you with extra features on our Site. The cookies do not contain any information that would identify you personally. SunglassHut.com uses cookies to monitor the traffic on our Site and enhance your visit by among other things, storing items in your shopping cart. Thank you for visiting us at Sunglass Hut Online and if we can ever be of assistance please feel free to email us at [support@sunglasshutonline.com](mailto:support@sunglasshutonline.com).
+The Sites may allow you to provide comments in various sections of our Sites, such as in product reviews. Please be aware that the information you post in these areas may be available to visitors of the Sites and to the general public.
 
-### California Privacy Policy
+We share aggregated and de-identified information, or any other technical information, without limitation. For example, we may share aggregated demographic information about the Sites visitors with our affiliates, service providers or vendors, so that they can provide marketing analysis and consult on advertising strategies. We also may share technical information, such as the number of users who visited the Sites during a specific time period or who purchased a specific product through the Sites, with our marketing service providers, advertisers, and others from time to time. This information generally is shared in an aggregated form.
 
-If you are a California resident and a Sunglass Hut, Sunglass Hut at Macy's, Ilori, LensCrafters, Pearle Vision, Target Optical or Sears Optical, you have the right to request information from Sunglass Hut about the way in which Sunglass Hut shares certain categories of your personal information with affiliated Luxottica Retail companies for their direct marketing purposes. Sunglass Hut, Sunglass Hut at Macy's, Ilori, LensCrafters, Pearle Vision, Target Optical or Sears Optical does not currently actively respond to "Do Not Track" browser signals or mechanisms.
+Top __
 
-California law provides that you have the right to submit a request to Sunglass Hut at [CAPrivacyPolicy@luxotticaretail.com](mailto:CAPrivacyPolicy@luxotticaretail.com) and receive the following information: 
+### DIGITAL ADVERTISING& ANALYTICS
 
-  * The covered categories of personal information disclosed by Sunglass Hut to affiliated Luxottica Retail brands for their direct marketing purposes during the preceding calendar year. 
-  * The names of the affiliated companies sharing the Luxottica Retail name which received such information.
+We may partner with ad networks and other ad serving providers (“Advertising Providers”) that serve ads on behalf of us and others on non-affiliated platforms. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your use of the Sites and other sites or apps over time, including information about relationships among different browsers and devices.
 
+This type of advertising is known as interest-based advertising and works to use your information to make ads more useful to you. You may visit [www.aboutads.info](http://www.aboutads.info/) to learn more about this type of advertising and how to opt out of this advertising on websites by companies participating in the DAA self-regulatory program. If you delete your cookies or use a different browser or mobile device, you may need to renew your opt out choices exercised through the DAA tool. Note that electing to opt out will not stop advertisements from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, your browser may offer tools to limit the use of cookies or to delete cookies; however, if you use these tools, our Sites may not function as intended.
 
+We may also work with service providers that collect data about your use of the Sites and other sites or apps over time for non-advertising purposes subject to their privacy policies. We use analytics providers such as Google Analytics to gather and analyze aggregated anonymous user information. For more information about Google Analytics, please visit [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). You can opt out of Google’s collection and processing of data generated by your use of the Sites by going to <http://tools.google.com/dlpage/gaoptout>.
 
-  
-You are entitled to receive a copy of this information in a standardized format, and the information will not be specific to you individually.
+Top __
 
-### TRANSPARENCY IN SUPPLY CHAIN DISCLOSURE
+### THIRD-PARTY LINKS& PLUG-INS
 
-Luxottica has adopted both a Code of Conduct and a Code of Ethics, with which employees, business partners and suppliers are expected to comply. Luxottica produces the vast majority of its products at facilities that it owns and where it controls hiring and employment practices. The Codes require that all associated with Luxottica behave ethically and within the bounds of the law, to respect the rights of people’s dignity, health and safety, and that also denounces the use of child labor. Luxottica promotes the safeguarding of workers’ rights, trade union freedom and freedom of association in general.
+The Sites may provide links to third-party websites or apps, including our social media pages. We do not control the privacy practices of those websites or apps, and they are not covered by this Policy. You should review the privacy policies of other websites or apps that you use to learn about their data practices.
 
-Luxottica investigates the reputation and lawfulness of the suppliers it uses, and supervises the observance by its suppliers of its Code of Ethics through frequent company employee visits. The company is in the process to deploy a Global Audit program designed to cover Environmental, Health, Safety & Social aspect.
+The Sites may also include integrated social media tools or “plug-ins,” such as social networking tools offered by third parties. If you use these tools to share information or you otherwise interact with social media features on the Sites, those social media companies may collect information about you and may use and share such information in accordance with their own policies, including by sharing such information with us or the general public. Your interactions with third-party social media companies and the use of their features are governed by the privacy policies of the companies that provide those features. We encourage you to read the privacy policies for any social media accounts you create and use.
 
-Luxottica requires suppliers to comply with the laws of the jurisdiction in which the product is made and strives to ensure that the rights contemplated by the Universal Declaration of Human Rights are guaranteed in the different countries in which it operates.
+Top __
 
-Luxottica supervises the observance of the Code of Ethics, providing information, prevention tools and controls and assuring the transparency of its operations and behaviors, intervening with remedial actions as necessary. Compliance with the Code of Ethics is a requirement for continued employment or business relationship with Luxottica.
+### YOUR CHOICES
 
-Regular training is a part of employment with Luxottica, including that related to compliance with the law. Specific training relating to human trafficking and slavery and mitigation of the risk of such practices with the supply chain is in the process of development. 
+To opt out of our email marketing or to unsubscribe from our email newsletters, you can contact our customer service department using the information in the “Contact” section below, or you can use the link provided at the bottom of each marketing message or newsletter. If you choose to opt out, you will continue to receive all email communications related to our transaction(s) and relationship with you.
+
+If you would like to update your mailing information or want your name and address removed from our direct mailing list, you can contact our customer service department using the information in the “Contact” section below.
+
+As described in this Policy, we may also make your information available to third parties for their direct marketing purposes. Pursuant to California Civil Code § 1798.83, no more than once per calendar year, California residents may request that we send you via mail or email: (1) the categories of personal information disclosed to those third parties; and (2) the names and addresses of those third parties. To request this information, please contact us at [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com).
+
+Top __
+
+### CHILDREN’S PRIVACY
+
+We understand the importance of protecting children’s privacy, especially in an online environment. Our Sites are not intentionally designed for or directed at children less than 13 years of age. We do not knowingly collect personal information from children under the age of 13 without the consent of the child’s parent or guardian.
+
+Top __
+
+### UPDATING YOUR INFORMATION
+
+You may request to view, update, or correct your personal information by contacting our privacy office at the information provided in the “Contact” section below. In order to protect your privacy, we will take steps to verify your identity before granting you access to the information or enabling you to make corrections.
+
+Top __
+
+### SECURITY
+
+We maintain reasonable and appropriate safeguards to help protect your personal information from loss and from unauthorized acquisition. We monitor activity on our Sites to prevent any unauthorized disclosure of information. In addition, we utilize a licensed system for credit card authorization and fraud detection.
+
+Top __
+
+### DO NOT TRACK SIGNAL
+
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no consensus among industry participants as to what “Do Not Track” means in this context. Like many online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you can visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/), but we are not responsible for the completeness or accuracy of this third-party information.
+
+Top __
+
+### INTEREST-BASED ADVERTISING AND CHOICE
+
+We may engage and work with service providers and other third parties to serve advertisements on the service and/or on third-party services. Some of these ads may be tailored to your interests based on your browsing of the service and elsewhere on the Internet, sometimes referred to as “interest-based advertising” and “online behavioral advertising” (“Interest-based Advertising”), which may include sending you an ad on a third-party service after you have left the service (i.e., “retargeting”).
+
+You may choose whether to receive some Interest-based Advertising by submitting opt-outs. Some of the advertisers and service providers that perform advertising-related services for us and third parties may participate in the Digital Advertising Alliance’s (“DAA”) Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit <http://www.aboutads.info/choices>, and <http://www.aboutads.info/appchoices> for information on the DAA’s opt-out program for mobile apps.
+
+Some of these companies may also be members of the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt-out options for their members, see http://www.networkadvertising.org/choices. Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads.
+
+Opting out only means that those selected members should no longer deliver certain Interest-based Advertising to you but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). Also, if your browsers are configured to reject cookies when you visit these opt-out webpages, or you subsequently erase your cookies, use a different device or web browser or use a non-browser-based method of access (e.g., mobile app), your NAI / DAA browser-based opt-out may not, or may no longer, be effective. We support the ad industry’s 2009 Self-regulatory Principles for Online Behavioral Advertising (https://www.iab.com/wp-content/uploads/2015/05/ven-principles-07-01-09.pdf) and expect that ad networks we directly engages to serve you Interest-based Advertising will do so as well, though we cannot guarantee their compliance. We are not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs.
+
+Top __
+
+### TRACKING ACROSS TIME AND TECHNOLOGIES DISCLOSURE:
+
+Some information about your use of the service and certain third-party services may be collected using tracking technologies across time and services and used by us and third parties for purposes such as to associate different devices you use and deliver relevant ads and/or other content to you on the service and certain third-party services.
+
+Top __
+
+### UPDATES TO POLICY
+
+We may change this Policy at any time in our discretion. If we decide to change our Policy, we will post the changes on this page. Please review this page periodically to see any updates to the information provided here. This Policy was last updated on April 1, 2019.
+
+### CONTACT
+
+If you have questions or wish to contact us about this Policy, please direct inquiries to:
+
+Privacy Office  
+Luxottica of America Inc.  
+4000 Luxottica Place  
+Mason, Ohio 45040  
+Phone: 513-765-4321  
+Email: [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com)
