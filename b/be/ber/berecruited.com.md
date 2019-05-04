@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berecruited.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126055019id_/https%3A//berecruited.com/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berecruited.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504102159id_/https%3A//www.berecruited.com/resources/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -186,9 +186,9 @@ Top
 California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to:
 
 **Attn: BeRecruited Privacy  
-344 20th Street  
-Suite 220  
-Oakland, CA 94612  
+1333 N Kingsbury St.  
+4th Floor  
+Chicago, IL 60642  
 Email: privacy@berecruited.com **
 
 In addition, California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post as user content on the Services. You may request such removal by emailing us at privacy@berecruited.com. Please note that your request does not ensure the complete or comprehensive removal of the material.
@@ -218,9 +218,9 @@ Top
 We want to assure you that we are dedicated to protecting your privacy. If you have questions or comments about this Privacy Policy, please contact us at:
 
 **Attn: BeRecruited Privacy  
-344 20th Street  
-Suite 220  
-Oakland, CA 94612  
+1333 N Kingsbury St.  
+4th Floor  
+Chicago, IL 60642  
 Email: privacy@berecruited.com **
 
 Top
