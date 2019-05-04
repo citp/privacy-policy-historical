@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyomingnews.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028033011id_/https%3A//www.wyomingnews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyomingnews.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504202232id_/https%3A//www.wyomingnews.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | wyomingnews.com
 
