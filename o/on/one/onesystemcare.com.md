@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesystemcare.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202162556id_/http%3A//www.onesystemcare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesystemcare.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504192644id_/http%3A//www.onesystemcare.com/privacy) for the most accurate reproduction.*
 
 # One System Care - Privacy Policy
 
