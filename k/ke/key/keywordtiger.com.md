@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordtiger.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102071033id_/http%3A//www.dnhub.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordtiger.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504192832id_/http%3A//www.dnhub.com/page/privacy_policy) for the most accurate reproduction.*
 
 # DNhub.com - Domain Names For Entrepreneurs
 
