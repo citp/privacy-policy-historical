@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemicrojobs.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101190527id_/http%3A//onlinemicrojobs.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemicrojobs.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504023140id_/http%3A//www.onlinemicrojobs.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy | Online Micro Jobs
 
