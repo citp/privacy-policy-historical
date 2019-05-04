@@ -1,100 +1,153 @@
-> *The following text is extracted and transformed from the cryptoglobe.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004042id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptoglobe.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504180245id_/https%3A//www.cryptoglobe.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy and Cookie Policy | CryptoGlobe
 
-**GoDaddy Respects Your Privacy**
+We respect your privacy and take data security extremely seriously. We make sure we have appropriate security measures in place to prevent your personal data from being accidentally lost and from unauthorised use and access.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Please read this Privacy and Cookie Policy carefully as it explains our practices regarding your personal data and how we will treat it, and the basis on which any personal data will be processed by us.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+For the purpose of the applicable data protection legislation (meaning, prior to 25 May 2018 the Data Protection Act 1998 and from 25 May 2018 the General Data Protection Regulation and any legislation which implements it) (the “Data Protection Legislation”), the data controller is Crypto Coin Comparison Limited of 162 Main Road, Danbury, Chelmsford, England CM3 4DT.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+References in this Privacy and Cookies Policy and on our website to “we”, “our” or “us” are references to Crypto Coin Comparison Limited. References to “you” and “your” means each person who interacts with us, uses our website or the products and services we provide.
 
-**Information Collection and Use**
+## 1\. Information we collect and process about you
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+1.1 We may collect and process the following personal data about you:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+1.1.1 Information you give to us. You may give us information about you when you register on our website [www.cryptoglobe.com](https://www.cryptoglobe.com/) or by communicating with us by phone, email or otherwise. This also includes information you provide when you subscribe to any of our services, participate in surveys and user forums, and when you give us any feedback or report a problem with our website. The information you give us may include your name, address, email address, phone number, date of birth, identity documents, username, password, job title and company information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+1.1.2 Information we collect about you when you communicate with us by phone, email, post, or otherwise, and when you use our products and services. We collect information such as how and when you contacted us and responded to communications from us and about how and when you use our products and services.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+1.1.3 Information we collect about you if you use our website or interact with us over the internet, including via social media. Each time you visit our website or interact with us we may automatically collect the following information: (a) technical information, including the Internet protocol (IP) address used to connect your device to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; (b) information about your visit, including the full Uniform Resource Locators (URL); products you viewed or searched for; length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs).
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+1.1.4 Information we collect about you from publicly available sources. This may include information available from social media (depending on your settings and the applicable privacy policies) and information from resources such as Companies House.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+1.1.5 Information we receive from other sources.  We may receive further information about you if you use any of the services we provide.  We work closely with third parties (including, for example, suppliers, service providers, identity verification providers) and may receive information about you from them. We may combine information we receive from these other sources with information you give to us and information we collect about you.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+1.1.6 We may monitor or record telephone conversations or other communications between you and us and keep recordings or transcripts of them and we may keep a copy of any correspondence.
 
-**Security**
+1.2 We also collect, use and share aggregated data such as statistical or demographic data. Aggregated data may be derived from your personal data, but it is not considered personal data under the Data Protection Legislation as it does not directly or indirectly identify you. If at any time we do combine any aggregated data with your personal data so that it can identify you, we treat the combined data as personal data, which we will use and process in accordance with this Privacy and Cookies Policy.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+## 2\. Cookies
 
-**Updating Your Information**
+2.1 We and our service providers collect information about your use of our website from cookies. A cookie is a small file which asks permission to be placed on your computer's hard drive. Once it is it helps analyse website traffic or lets us know when you visit a particular site. Cookies allow website applications to respond to you as an individual. The website application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+2.2 We use traffic log cookies to identify which of our website pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from our system.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+2.3 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+2.4 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-      iii.      You may call us at: (480) 505-8800
+## 3\. Purposes and legal basis for using your personal data
 
-       iv.      You may fax us at: (480) 505-8844
+3.1 Where you have requested that we provide a specific product or service to you, or you otherwise make use of those products or services, we will process your personal data in order to perform our contract with you and provide that product or service.
 
-**Sending Emails**
+3.2 We also use the personal data we hold about you to pursue our legitimate interests in providing and marketing our products and services to you, improving our website, services, and interactions with you and other users of our products and services in the following ways:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+3.2.1 administer your account and relationship with us and to communicate with you by telephone, mail, email, text (SMS) message, instant messaging or other electronic means;
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+3.2.2 verify your identity and detect fraud and crime and comply with any legal or regulatory requirements;
 
-**Compliance with Laws and Law Enforcement**
+3.2.3 provide you with information about the products and services that you request from us;
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+3.2.4 provide you with information about other products and services we offer that are similar to those that you have already purchased or enquired about;
 
-**Third Party Service Providers**
+3.2.5 provide you with information about products or services we feel may interest you or be best for you;
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+3.2.6 your data may be shared with product or service providers to validate if you are an existing customer (which may affect whether you can be accepted for one of their products) or for fraud prevention purposes. The product or service provider does not have permission to use these data for any other purpose including marketing.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+3.2.7 notify you about changes to our services;
 
-**Supplementation of Information**
+3.2.8 ensure that content from our website is presented in the most effective manner for you and your device;
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+3.2.9 to administer our website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-**Contests/Surveys**
+3.2.10 to build up a picture of your interests so that you don’t miss information relevant to you when you visit our website;
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+3.2.11 to improve the service we offer you and to try and ensure that you get the best from our website;
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+3.2.12 to allow you to participate in interactive features of our website and services;
 
-**Tell-A-Friend**
+3.2.13 as part of our efforts to keep our website safe and secure;
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+3.2.14 to measure the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
 
-**What Happens to my Personal Information if I Opt Out?**
+3.2.15 to send direct marketing to you (see section 5, below);
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+3.2.16 to make suggestions and recommendations about products or services that we think may be of interest based on usage patterns both on our website and on other channels (such as email and social media);
 
-**Transfer of Data Abroad**
+3.2.17 for training and quality purposes;
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+3.2.18 to check any instructions you give to us and for the purposes of investigating any complaint you may make, or as evidence in any dispute or anticipated disputes between you and us.
 
-**Changes in Our Practices**
+3.3 In some cases we may also use the personal data we hold about you to comply with our legal obligations, or enter into or perform a contract with you.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## 4\. Who your data can be disclosed to
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+4.1 We may need to disclose your data to others to ensure the effective provision to you of the products, services, and information you request. Your data may also be disclosed to the other entities as described below.
 
-**Contacting Our Site**
+4.2 We may share your personal information with any member of our group. We currently only have subsidiaries, but from time to time this may also include any holding company we have and their subsidiaries.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+4.3 We may share your information with selected third parties including:
 
-* * *
+4.3.1 Suppliers, service providers, business partners, and sub-contractors;
 
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+4.3.2 Fraud prevention agencies, to prevent crime and trace those responsible;
+
+4.3.3 Identity verification providers, to comply with legal or regulatory requirements;
+
+4.3.4 Analytics and search engine providers that assist us in the improvement and optimisation of our website;
+
+4.3.5 IT and software providers who supply us with our IT infrastructure for the provision of our services and administering our business (including our internal and external communications) and who also help us manage our customer and contact databases, customer relationships and marketing.
+
+4.4 We may disclose your personal information to third parties if:
+
+4.4.1 we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+
+4.4.2 Crypto Coin Comparison Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; and
+
+4.4.3 we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply any contract with you and other agreements; or to protect the rights, property, or safety of our business, our customers, or others.
+
+4.5 We review all our relationships with third parties carefully so that we can be sure as possible that their practices match our own commitments to you relating to privacy and security. We also comply with the Data Protection Legislation in our dealings with these third parties to ensure that your information is appropriately protected.
+
+## 5\. Direct marketing and how you can change your preference
+
+5.1 We may send direct marketing communications to you, including by email, telephone or SMS or mail. If we are required by law to have your consent to do this then we will only do so if we have that consent.
+
+5.2 Whenever you receive direct marketing from us you will be told how you can unsubscribe so that you no longer receive it. When we communicate with you via email you will also be given the opportunity to set or amend any preferences that you have indicated to us.
+
+5.3 Sometimes we may need to contact you further to ask you for additional information so that we can comply with your request.
+
+## 6\. Where we store and transfer your data
+
+6.1 Where we store your information ourselves it is stored on our secure servers in the EU. However, where we share your information with third parties this may involve transferring it to a country outside the EU and the European Economic Area (EEA). This may include countries that do not have data protection laws which are as strong as those in the UK or EU.  Where we do this we will take the steps required under the Data Protection Legislation to ensure that your information is appropriately protected. If you would like any further information about this then please contact us using the details in the Contact section below.
+
+6.2 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use appropriate procedures and security features to try to prevent unauthorised access, loss or damage.
+
+## 7\. How long we keep your information for
+
+7.1 How long we keep your information will depend on the purpose for which we use it. We will only retain your information for as long as is necessary for the purposes set out in this Privacy and Cookies Policy and as is necessary to comply with our legal obligations. We do not keep more information than we need for the particular purpose.
+
+7.2 Where we have provided you with a product or service we will keep an archived record of your personal data for a period of up to 6 years after termination (unless a longer period is prescribed by law) for the purposes of responding to legal disputes and legal or regulatory enquiries or investigations only, but will not use this data for any other purpose.
+
+7.3 If you ask us to stop sending direct marketing communications to you, we will keep the minimum amount of information necessary (such as your name and email address) to ensure that we are able to adhere to your request.
+
+## 8\. Third party websites
+
+8.1 Our website may contain links to other websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these websites or their policies. Please check these policies before you submit any personal data to these websites.
+
+## 9\. Your rights
+
+9.1 Under the Data Protection Legislation, you have certain rights in respect of the personal data we hold about you. These may include rights to: request a copy of the personal data that we hold, request that we correct personal data if it is inaccurate, request that we erase or block your personal data, and to object to our processing of your personal data. These rights are limited in some situations. For example, if we have a legal requirement or a compelling legitimate ground we may continue to process your data even where you request its deletion.
+
+9.2 If you would like to exercise any of these rights, please contact us using the details in the Contact section below.
+
+9.3 You also have the right to make a complaint if you feel your personal data has been mishandled. We would encourage you to contact us in the first instance but you are also entitled to complain directly to the Information Commissioner’s Office (ICO) (if you are in the UK), or to your local data protection authority (if you are outside the UK).
+
+## 10\. Changes to our privacy and cookie policy
+
+10.1 Any changes we may make to our Privacy and Cookie Policy in the future will be posted on this page and, where we consider it appropriate, notified to you by email. Please check back frequently to see any updates or changes to our Privacy and Cookie Policy.
+
+## 11\. Contact
+
+11.1 Questions, comments and requests regarding this Privacy and Cookie Policy should be addressed to [info@cryptoglobe.com](mailto:info@cryptoglobe.com).
