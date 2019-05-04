@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agatetechnocom.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101165101id_/http%3A//www.agatetechnocom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agatetechnocom.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504130622id_/http%3A//www.agatetechnocom.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Professional Software development and Real Estate & Hydraulic service India |
 
