@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arialasvegas.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324203935id_/https%3A//www.mgmresorts.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arialasvegas.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504194833id_/https%3A//www.mgmresorts.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MGM Resorts
 
@@ -6,10 +6,9 @@ MGM Resorts International
 
 MGM Resorts International values your patronage and respects your privacy. This Privacy Policy ("Policy") describes the information collection, use, protection, and sharing practices of MGM Resorts International and MGM Resorts International web sites, mobile applications, electronic communications, and properties described below. If you have any questions or concerns about this Policy, please contact us at [privacy@mgmresorts.com](mailto:privacy@mgmresorts.com).
 
-This Policy applies only to MGM Resorts International (collectively, "us," "we," or “our”), MGM Resorts International websites (“websites”), mobile applications, social media pages, and other electronic communications that we control and that post this Policy (collectively, "MGM Online Services"), and the following resorts, casinos and properties (collectively, "MGM Resorts"):
+This Policy applies only to MGM Resorts International (collectively, "us," "we," or "our"), MGM Resorts International websites ("websites"), mobile applications, social media pages, and other electronic communications that we control and that post this Policy (collectively, "MGM Online Services"), and the following resorts, casinos and properties (collectively, "MGM Resorts"):
 
-ARIA Resort and Casino in Las Vegas, Nevada  
-ARIA Sky Suites in Las Vegas, Nevada  
+ARIA Resort and Casino (including Sky Suites) in Las Vegas, Nevada  
 Beau Rivage in Biloxi, Mississippi  
 Bellagio in Las Vegas, Nevada  
 Borgata Hotel Casino & Spa in Atlantic City, New Jersey  
@@ -17,22 +16,27 @@ Circus Circus in Las Vegas, Nevada
 Delano in Las Vegas, Nevada  
 Excalibur in Las Vegas, Nevada  
 Gold Strike Resort in Tunica, Mississippi  
-Hotel 32 Monte Carlo in Las Vegas, Nevada  
+Las Vegas Festival Grounds in Las Vegas, Nevada  
 Luxor in Las Vegas, Nevada  
 Mandalay Bay in Las Vegas, Nevada  
-MGM Grand in Las Vegas, Nevada  
+Mandalay Bay Events Center in Las Vegas, Nevada  
+Mandalay Place in Las Vegas, Nevada  
+MGM Grand (including Skylofts) in Las Vegas, Nevada  
 MGM Grand Detroit in Detroit, Michigan  
+MGM Grand Garden Arena in Las Vegas, Nevada  
 MGM National Harbor in Oxon Hill, Maryland  
+MGM Northfield Park in Northfield, Ohio  
 MGM Springfield in Springfield, Massachusetts  
-Monte Carlo in Las Vegas, Nevada  
 New York-New York in Las Vegas, Nevada  
+NoMad Las Vegas in Las Vegas, Nevada  
+Park MGM in Las Vegas, Nevada  
 Park Theater in Las Vegas, Nevada  
-Skylofts at MGM Grand in Las Vegas, Nevada  
 The Mirage in Las Vegas, Nevada  
-The Residences Mandarin Oriental in Las Vegas, Nevada  
+The Park District in Las Vegas, Nevada  
 The Signature at MGM Grand in Las Vegas, Nevada  
 T-Mobile Arena in Las Vegas, Nevada  
-Vdara Hotel & Spa in Las Vegas, Nevada
+Vdara Hotel & Spa in Las Vegas, Nevada  
+
 
 MGM Resorts International is a corporation subject to the laws of the United States. This Policy describes our information collection, use, protection, and sharing practices in the United States. The United States may not offer a level of privacy protection as great as that offered in other jurisdictions. In jurisdictions outside of the United States where we are subject to different or more restrictive local laws, we may adjust our practices in those jurisdictions to comply with local laws. Otherwise, we make no representation that the practices described in this Policy are compliant with laws outside of the United States that apply to the collection, security, use and disclosure of information. Information that is collected or stored in jurisdictions outside of the United States may, subject to applicable law, be disclosed or transferred to the United States or other locations. When information is transferred to the United States, it will be handled in accordance with the laws of the United States.
 
@@ -131,14 +135,12 @@ We are not responsible for the information collection or privacy practices of ot
 
 You should review and understand the privacy policies posted on any linked sites you visit before using those sites or providing any Personal Information through them.
 
-8\. PERSONS UNDER AGES 18 AND 21
+8\. PERSONS UNDER AGES 13 AND 21
 
-Certain of our areas and activities are intended for persons 21 or older. If you are under 21, you may not access or attempt to access any areas or participate in any activities that are restricted to persons 21 or older. We do not knowingly collect or allow the collection of Personal Information from persons under 18.
+Certain of our areas and activities are intended for persons 21 or older. If you are under 21, you may not access or attempt to access any areas or participate in any activities that are restricted to persons 21 or older. We do not knowingly collect or allow the collection of Personal Information from persons under 13.
 
-If you are the parent or guardian of a person under 18 and believe that the person has provided us with Personal Information, you may contact us at [privacy@mgmresorts.com](mailto:privacy@mgmresorts.com)and request that it be removed from our active marketing database.
+If you are the parent or guardian of a person under 13 and believe that the person has provided us with Personal Information, you may contact us at [privacy@mgmresorts.com](mailto:privacy@mgmresorts.com)and request that it be removed from our active marketing database.
 
 9\. CHANGES TO THIS POLICY
 
 We reserve the right to revise this Policy at any time without notice. When this Policy is revised in a material way, notice will be posted on MGM websites that we control along with the revised Policy.
-
-EFFECTIVE: August 7, 2017
