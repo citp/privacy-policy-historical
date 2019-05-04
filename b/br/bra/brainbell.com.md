@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbell.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030204228id_/http%3A//www.brainbell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbell.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504220436id_/https%3A//www.brainbell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - : BrainBell
 
