@@ -1,8 +1,13 @@
-<!--The following is the downloaded HTML source of the owlcation.com privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228132105id_/https%3A//owlcation.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the owlcation.com privacy policy that was archived on 2019-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190504195011id_/https%3A//owlcation.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script async="" src="//cdn.petametrics.com/999gba4qphtjrmpe.js?ts=439016"></script><script src="https://assets.hubstatic.com/s/ss141799037.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!DOCTYPE html><html lang="en"><head><script async="" src="//cdn.petametrics.com/999gba4qphtjrmpe.js?ts=439016"></script><script src="https://assets.hubstatic.com/s/ss220377459.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <title>HubPages Network Privacy Policy | Owlcation</title>
+<link href="https://sb.scorecardresearch.com/beacon.js" rel="preconnect">
+<link href="https://uid.mavencoalition.io/" rel="preconnect">
+<link rel="preload" href="https://www.google-analytics.com/analytics.js" as="script">
+<link rel="preload" href="https://assets.hubstatic.com/s/site-bases255563761.css" as="style">
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 <meta name="format-detection" content="telephone=no">
@@ -10,58 +15,89 @@
 
 
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js?"></script><script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js?"></script><script>
 window.gdprConsents = {"version":1,"user_version":1,"categories":{"features":true,"marketing":true,"stats":true},"vendors":{"features":{"googlesearch":true,"googlemaps":true,"googlecharts":true,"adsensehost":true,"youtube":true,"vimeo":true,"paypal":true,"facebooklogin":true,"maven":true},"marketing":{"adsense":true,"doubleclick":true,"indexexchange":true,"sovrn":true,"facebookads":true,"amazonads":true,"appnexus":true,"openx":true,"rubicon":true,"triplelift":true,"saymedia":true,"remarketing":true,"conversion":true},"stats":{"authoranalytics":true,"comscore":true,"amazonaffpixel":true}},"eu":false};
+// polyfill-promise 8.1.0
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?n():"function"==typeof define&&define.amd?define(n):n()}(0,function(){"use strict";function e(e){var n=this.constructor;return this.then(function(t){return n.resolve(e()).then(function(){return t})},function(t){return n.resolve(e()).then(function(){return n.reject(t)})})}function n(){}function t(e){if(!(this instanceof t))throw new TypeError("Promises must be constructed via new");if("function"!=typeof e)throw new TypeError("not a function");this._state=0,this._handled=!1,this._value=undefined,this._deferreds=[],u(e,this)}function o(e,n){for(;3===e._state;)e=e._value;0!==e._state?(e._handled=!0,t._immediateFn(function(){var t=1===e._state?n.onFulfilled:n.onRejected;if(null!==t){var o;try{o=t(e._value)}catch(f){return void i(n.promise,f)}r(n.promise,o)}else(1===e._state?r:i)(n.promise,e._value)})):e._deferreds.push(n)}function r(e,n){try{if(n===e)throw new TypeError("A promise cannot be resolved with itself.");if(n&&("object"==typeof n||"function"==typeof n)){var o=n.then;if(n instanceof t)return e._state=3,e._value=n,void f(e);if("function"==typeof o)return void u(function(e,n){return function(){e.apply(n,arguments)}}(o,n),e)}e._state=1,e._value=n,f(e)}catch(r){i(e,r)}}function i(e,n){e._state=2,e._value=n,f(e)}function f(e){2===e._state&&0===e._deferreds.length&&t._immediateFn(function(){e._handled||t._unhandledRejectionFn(e._value)});for(var n=0,r=e._deferreds.length;r>n;n++)o(e,e._deferreds[n]);e._deferreds=null}function u(e,n){var t=!1;try{e(function(e){t||(t=!0,r(n,e))},function(e){t||(t=!0,i(n,e))})}catch(o){if(t)return;t=!0,i(n,o)}}var c=setTimeout;t.prototype["catch"]=function(e){return this.then(null,e)},t.prototype.then=function(e,t){var r=new this.constructor(n);return o(this,new function(e,n,t){this.onFulfilled="function"==typeof e?e:null,this.onRejected="function"==typeof n?n:null,this.promise=t}(e,t,r)),r},t.prototype["finally"]=e,t.all=function(e){return new t(function(n,t){function o(e,f){try{if(f&&("object"==typeof f||"function"==typeof f)){var u=f.then;if("function"==typeof u)return void u.call(f,function(n){o(e,n)},t)}r[e]=f,0==--i&&n(r)}catch(c){t(c)}}if(!e||"undefined"==typeof e.length)throw new TypeError("Promise.all accepts an array");var r=Array.prototype.slice.call(e);if(0===r.length)return n([]);for(var i=r.length,f=0;r.length>f;f++)o(f,r[f])})},t.resolve=function(e){return e&&"object"==typeof e&&e.constructor===t?e:new t(function(n){n(e)})},t.reject=function(e){return new t(function(n,t){t(e)})},t.race=function(e){return new t(function(n,t){for(var o=0,r=e.length;r>o;o++)e[o].then(n,t)})},t._immediateFn="function"==typeof setImmediate&&function(e){setImmediate(e)}||function(e){c(e,0)},t._unhandledRejectionFn=function(e){void 0!==console&&console&&console.warn("Possible Unhandled Promise Rejection:",e)};var l=function(){if("undefined"!=typeof self)return self;if("undefined"!=typeof window)return window;if("undefined"!=typeof global)return global;throw Error("unable to locate global object")}();"Promise"in l?l.Promise.prototype["finally"]||(l.Promise.prototype["finally"]=e):l.Promise=t});
+/**
+ * @format
+ */
+
+window.mavenUID = new Promise(function(resolve) {
+	fetch('https://uid.mavencoalition.io/', {
+		credentials: 'include' // include the cookie in the request
+	})
+		.then(function(response) {
+			if (response.status === 200) {
+				response.json().then(function(resp) {
+					resolve(resp.uid);
+				});
+			} else {
+				throw new Error('invalid UID service response');
+			}
+		})
+		.catch(function(e) {
+			console.warn(e);
+			resolve(false);
+		});
+});
 //Unfetch 4.0.1, Copyright (c) 2017 Jason Miller, The MIT License (MIT)
 self.fetch||(self.fetch=function(e,n){return n=n||{},new Promise(function(t,r){var s=new XMLHttpRequest;for(var o in s.open(n.method||"get",e,!0),n.headers)s.setRequestHeader(o,n.headers[o]);function u(){var e,n=[],t=[],r={};return s.getAllResponseHeaders().replace(/^(.*?):[^\S\n]*([\s\S]*?)$/gm,function(s,o,u){n.push(o=o.toLowerCase()),t.push([o,u]),r[o]=(e=r[o])?e+","+u:u}),{ok:2==(s.status/100|0),status:s.status,statusText:s.statusText,url:s.responseURL,clone:u,text:function(){return Promise.resolve(s.responseText)},json:function(){return Promise.resolve(s.responseText).then(JSON.parse)},blob:function(){return Promise.resolve(new Blob([s.response]))},headers:{keys:function(){return n},entries:function(){return t},get:function(e){return r[e.toLowerCase()]},has:function(e){return e.toLowerCase()in r}}}}s.withCredentials="include"==n.credentials,s.onload=function(){t(u())},s.onerror=r,s.send(n.body||null)})});
+/**
+ * @format
+ */
 
 function fetchScript(a, b) {
-    var c = document.createElement('script'), d = "https:" == document.location.protocol, e = false;
-    c.async = true;
-    c.src = (a.indexOf('//') == 0) ? ((d ? "https:" : "http:") + a) : a;
-    c.onload = c.onreadystatechange = function() {
-        if (!e && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
-            e = true;
-            if (typeof b === 'function')
-                b.call(this);
-            c.onload = c.onreadystatechange = null;
-        }
-        ;
-    }
-    ;
-    var f = document.getElementsByTagName("script")[0];
-    f.parentNode.insertBefore(c, f);
+	var c = document.createElement('script'),
+		d = 'https:' == document.location.protocol,
+		e = false;
+	c.async = true;
+	c.src = a.indexOf('//') == 0 ? (d ? 'https:' : 'http:') + a : a;
+	c.onload = c.onreadystatechange = function() {
+		if (!e && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+			e = true;
+			if (typeof b === 'function') b.call(this);
+			c.onload = c.onreadystatechange = null;
+		}
+	};
+	var f = document.getElementsByTagName('script')[0];
+	f.parentNode.insertBefore(c, f);
 }
 
 var hubpagesConsent = {
-	funcs: [],	
+	funcs: [],
 	consents: null,
 	isServiceConsented: function(category, service) {
-		if (!this.consents) { return false; }
+		if (!this.consents) {
+			return false;
+		}
 		if (!this.isEU()) {
 			return true;
 		}
-		
+
 		if (!this.consents['categories'].hasOwnProperty(category)) {
 			return false;
 		}
-		
+
 		return this.consents['categories'][category];
 	},
-	
-	isEU: function()
-	{
+
+	isEU: function() {
 		return this.consents && this.consents.eu === true;
 	},
-	
-	needUserInput: function()
-	{
-		if (window.location.pathname == '/help/privacy-policy') { return false; }
-		if (!this.consents) { return true; }
-		if (this.consents['user_version'] != this.consents['version']) { return true; }
 
-		for (k in this.consents['categories'])
-		{
+	needUserInput: function() {
+		if (window.location.pathname == '/help/privacy-policy') {
+			return false;
+		}
+		if (!this.consents) {
+			return true;
+		}
+		if (this.consents['user_version'] != this.consents['version']) {
+			return true;
+		}
+
+		for (k in this.consents['categories']) {
 			if (this.consents['categories'][k] === null) {
 				return true;
 			}
@@ -69,26 +105,25 @@ var hubpagesConsent = {
 
 		return false;
 	},
-	
-	getConsents: function()
-	{
+
+	getConsents: function() {
 		return this.consents;
 	},
-	
-	setConsents: function(obj)
-	{
-		this.consents = obj;		
-		this.log("Consents are:");
+
+	setConsents: function(obj) {
+		this.consents = obj;
+		this.log('Consents are:');
 		this.log(obj);
-		
+
 		this._setCookie();
-		
+
 		for (var i = 0; i < this.funcs.length; i++) {
 			var o = this.funcs[i];
 
-			if (o.timesRun > 0) { //some can't be run more than once
+			if (o.timesRun > 0) {
+				//some can't be run more than once
 				var isRerunable;
-				if ('function' == typeof(o.rerunable)) {
+				if ('function' == typeof o.rerunable) {
 					isRerunable = o.rerunable();
 				} else {
 					isRerunable = o.rerunable;
@@ -97,30 +132,32 @@ var hubpagesConsent = {
 					continue;
 				}
 			}
-			
+
 			o.timesRun++;
-			if (this.isServiceConsented(o.category, o.service))
-			{
-				this.log("User DID consent to " + o.category + "/" + o.service);				
-				if (o.yesFunc) { o.yesFunc(); }
+			if (this.isServiceConsented(o.category, o.service)) {
+				this.log('User DID consent to ' + o.category + '/' + o.service);
+				if (o.yesFunc) {
+					o.yesFunc();
+				}
 			} else {
-				this.log("User did NOT consent to " + o.category + "/" + o.service);
-				if (o.noFunc) { o.noFunc(); }
+				this.log('User did NOT consent to ' + o.category + '/' + o.service);
+				if (o.noFunc) {
+					o.noFunc();
+				}
 			}
 		}
 	},
-	
-	_setCookie: function()
-	{
-		if ((typeof(jq) == 'undefined') || (typeof(jq.cookie) == 'undefined')) { return; }
-		
+
+	_setCookie: function() {
+		if (typeof jq == 'undefined' || typeof jq.cookie == 'undefined') {
+			return;
+		}
+
 		jq.cookie('hpconsents', JSON.stringify(this.consents), { path: '/', domain: '.' + document.domain, expires: 365 });
 	},
-	
-	runIfConsented: function(category, service, yesFunc, noFunc, rerunable)
-	{
-		if (this.needUserInput() || rerunable)
-		{
+
+	runIfConsented: function(category, service, yesFunc, noFunc, rerunable) {
+		if (this.needUserInput() || rerunable) {
 			this.funcs.push({
 				category: category,
 				service: service,
@@ -130,29 +167,35 @@ var hubpagesConsent = {
 				timesRun: 0
 			});
 		}
-		
+
 		if (this.needUserInput()) {
-			//nothing			
+			//nothing
 		} else if (this.isServiceConsented(category, service)) {
-			this.log("User DID consent to " + category + "/" + service);
+			this.log('User DID consent to ' + category + '/' + service);
 			yesFunc();
 		} else {
-			this.log("User did NOT consent to " + category + "/" + service);
-			if (noFunc) { noFunc(); }
+			this.log('User did NOT consent to ' + category + '/' + service);
+			if (noFunc) {
+				noFunc();
+			}
 		}
 	},
-	
-	loadIfConsented: function(category, service, url, func, rerunable)
-	{
-		this.runIfConsented(category, service, function() {
-			fetchScript(url, func);
-		}, null, rerunable);
+
+	loadIfConsented: function(category, service, url, func, rerunable) {
+		this.runIfConsented(
+			category,
+			service,
+			function() {
+				fetchScript(url, func);
+			},
+			null,
+			rerunable
+		);
 	},
-	
-	log: function(str)
-	{
+
+	log: function(str) {
 		var dc = document.cookie;
-		if (dc.indexOf("hp-gdpr-debug=true") > -1) {
+		if (dc.indexOf('hp-gdpr-debug=true') > -1) {
 			console.log(str);
 		}
 	}
@@ -160,50 +203,44 @@ var hubpagesConsent = {
 hubpagesConsent.setConsents(window.gdprConsents);
 
 var hubpagesSiteTracking = {
-	gotAHit: function (whattype, id, referer) {
+	gotAHit: function(whattype, id, referer) {
 		var xmlhttp;
 		var options;
 
-	 	if (window.XMLHttpRequest)
-	  	{
-	  		// code for IE7+, Firefox, Chrome, Opera, Safari
-	  		xmlhttp=new XMLHttpRequest();
-	  	}
-		else if (window.ActiveXObject)
-	  	{
-	  		// code for IE6, IE5
-	  		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-	  	}
-		else
-	  	{
-	  		//alert("Your browser does not support XMLHTTP!");
-	  		return;
-	 	}
-	 	xmlhttp.onreadystatechange=function() {
-	     	if(xmlhttp.readyState==4) {
+		if (window.XMLHttpRequest) {
+			// code for IE7+, Firefox, Chrome, Opera, Safari
+			xmlhttp = new XMLHttpRequest();
+		} else if (window.ActiveXObject) {
+			// code for IE6, IE5
+			xmlhttp = new ActiveXObject('Microsoft.XMLHTTP');
+		} else {
+			//alert("Your browser does not support XMLHTTP!");
+			return;
+		}
+		xmlhttp.onreadystatechange = function() {
+			if (xmlhttp.readyState == 4) {
 				//alert( xmlhttp.status );
-		  		if( xmlhttp.status == 200 ) {
+				if (xmlhttp.status == 200) {
 					// call user supplied function, if there is one
 					if (options != undefined && options.cb != undefined) {
 						options.cb(xmlhttp.responseXML);
 					}
 					//alert("gotAHit: " + whattype + "|" + referer);
-	    		}
+				}
 			}
-		}
-	  	var theURL = '/c/' + whattype + id + '.gif' + referer;
-		var sep = (referer.length > 0 && referer.charAt(0) == '?')? "&":"?";
-	   	xmlhttp.open("GET",theURL,true);
-	   	xmlhttp.send(null);
+		};
+		var theURL = '/c/' + whattype + id + '.gif' + referer;
+		var sep = referer.length > 0 && referer.charAt(0) == '?' ? '&' : '?';
+		xmlhttp.open('GET', theURL, true);
+		xmlhttp.send(null);
 	}
 };
 
-if (typeof(hpstdata) != "undefined") {
-	var h = hpstdata, s = hubpagesSiteTracking;
+if (typeof hpstdata != 'undefined') {
+	var h = hpstdata,
+		s = hubpagesSiteTracking;
 
-	s.gotAHit(h.hp_tracking_type,
-		h.hp_tracking_id,
-		h.tracking);
+	s.gotAHit(h.hp_tracking_type, h.hp_tracking_id, h.tracking);
 }
 </script><script>
   var _comscore = _comscore || [];
@@ -221,7 +258,7 @@ if (typeof(hpstdata) != "undefined") {
 	}, function() {
 		_comscore.push({ c1: "2", c2: "27019031",  cs_ucfr: "0"});
 	  var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      s.src = "https://sb.scorecardresearch.com/beacon.js";
       el.parentNode.insertBefore(s, el);
 	});
   })();
@@ -234,36 +271,32 @@ if (typeof(hpstdata) != "undefined") {
 */
 (function(global){var _$LAB=global.$LAB,_UseLocalXHR="UseLocalXHR",_AlwaysPreserveOrder="AlwaysPreserveOrder",_AllowDuplicates="AllowDuplicates",_CacheBust="CacheBust",_Debug="Debug",_BasePath="BasePath",_ErrorHandler="ErrorHandler",root_page=/^[^?#]*\//.exec(location.href)[0],root_domain=/^\w+\:\/\/\/?[^\/]+/.exec(root_page)[0],append_to=document.head||document.getElementsByTagName("head"),opera_or_gecko=(global.opera&&Object.prototype.toString.call(global.opera)=="[object Opera]")||("MozAppearance"in document.documentElement.style),log_msg=function(){},log_error=log_msg,test_script_elem=document.createElement("script"),explicit_preloading=typeof test_script_elem.preload=="boolean",real_preloading=explicit_preloading||(test_script_elem.readyState&&test_script_elem.readyState=="uninitialized"),script_ordered_async=!real_preloading&&test_script_elem.async===true,xhr_or_cache_preloading=!real_preloading&&!script_ordered_async&&!opera_or_gecko;if(global.console&&global.console.log){if(!global.console.error)global.console.error=global.console.log;log_msg=function(msg){global.console.log(msg)};log_error=function(msg,err){global.console.error(msg,err)}}function is_func(func){return Object.prototype.toString.call(func)=="[object Function]"}function is_array(arr){return Object.prototype.toString.call(arr)=="[object Array]"}function canonical_uri(src,base_path){var absolute_regex=/^\w+\:\/\//;if(/^\/\/\/?/.test(src)){src=location.protocol+src}else if(!absolute_regex.test(src)&&src.charAt(0)!="/"){src=(base_path||"")+src}return absolute_regex.test(src)?src:((src.charAt(0)=="/"?root_domain:root_page)+src)}function merge_objs(source,target){for(var k in source){if(source.hasOwnProperty(k)){target[k]=source[k]}}return target}function check_chain_group_scripts_ready(chain_group){var any_scripts_ready=false;for(var i=0;i<chain_group.scripts.length;i++){if(chain_group.scripts[i].ready&&chain_group.scripts[i].exec_trigger){any_scripts_ready=true;chain_group.scripts[i].exec_trigger();chain_group.scripts[i].exec_trigger=null}}return any_scripts_ready}function create_script_load_listener(elem,registry_item,flag,onload){elem.onload=elem.onreadystatechange=function(){if((elem.readyState&&elem.readyState!="complete"&&elem.readyState!="loaded")||registry_item[flag])return;elem.onload=elem.onreadystatechange=null;onload()}}function script_executed(registry_item){registry_item.ready=registry_item.finished=true;for(var i=0;i<registry_item.finished_listeners.length;i++){registry_item.finished_listeners[i]()}registry_item.ready_listeners=[];registry_item.finished_listeners=[]}function request_script(chain_opts,script_obj,registry_item,onload,preload_this_script){setTimeout(function(){var script,src=script_obj.real_src,xhr;if("item"in append_to){if(!append_to[0]){setTimeout(arguments.callee,25);return}append_to=append_to[0]}script=document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;if(preload_this_script){if(real_preloading){if(chain_opts[_Debug])log_msg("start script preload: "+src);registry_item.elem=script;if(explicit_preloading){script.preload=true;script.onpreload=onload}else{script.onreadystatechange=function(){if(script.readyState=="loaded")onload()}}script.src=src}else if(preload_this_script&&src.indexOf(root_domain)==0&&chain_opts[_UseLocalXHR]){xhr=new XMLHttpRequest();if(chain_opts[_Debug])log_msg("start script preload (xhr): "+src);xhr.onreadystatechange=function(){if(xhr.readyState==4){xhr.onreadystatechange=function(){};registry_item.text=xhr.responseText+"\n//@ sourceURL="+src;onload()}};xhr.open("GET",src);xhr.send()}else{if(chain_opts[_Debug])log_msg("start script preload (cache): "+src);script.type="text/cache-script";create_script_load_listener(script,registry_item,"ready",function(){append_to.removeChild(script);onload()});script.src=src;append_to.insertBefore(script,append_to.firstChild)}}else if(script_ordered_async){if(chain_opts[_Debug])log_msg("start script load (ordered async): "+src);script.async=false;create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}else{if(chain_opts[_Debug])log_msg("start script load: "+src);create_script_load_listener(script,registry_item,"finished",onload);script.src=src;append_to.insertBefore(script,append_to.firstChild)}},0)}function create_sandbox(){var global_defaults={},can_use_preloading=real_preloading||xhr_or_cache_preloading,queue=[],registry={},instanceAPI;global_defaults[_UseLocalXHR]=true;global_defaults[_AlwaysPreserveOrder]=false;global_defaults[_AllowDuplicates]=false;global_defaults[_CacheBust]=false;global_defaults[_Debug]=false;global_defaults[_BasePath]="";global_defaults[_ErrorHandler]=function(err){};function execute_preloaded_script(chain_opts,script_obj,registry_item){var script;function preload_execute_finished(){if(script!=null){script=null;script_executed(registry_item)}}if(registry[script_obj.src].finished)return;if(!chain_opts[_AllowDuplicates])registry[script_obj.src].finished=true;script=registry_item.elem||document.createElement("script");if(script_obj.type)script.type=script_obj.type;if(script_obj.charset)script.charset=script_obj.charset;create_script_load_listener(script,registry_item,"finished",preload_execute_finished);if(registry_item.elem){registry_item.elem=null}else if(registry_item.text){script.onload=script.onreadystatechange=null;script.text=registry_item.text}else{script.src=script_obj.real_src}append_to.insertBefore(script,append_to.firstChild);if(registry_item.text){preload_execute_finished()}}function do_script(chain_opts,script_obj,chain_group,preload_this_script){var registry_item,registry_items,ready_cb=function(){script_obj.ready_cb(script_obj,function(){execute_preloaded_script(chain_opts,script_obj,registry_item)})},finished_cb=function(){script_obj.finished_cb(script_obj,chain_group)};script_obj.src=canonical_uri(script_obj.src,chain_opts[_BasePath]);script_obj.real_src=script_obj.src+(chain_opts[_CacheBust]?((/\?.*$/.test(script_obj.src)?"&_":"?_")+~~(Math.random()*1E9)+"="):"");if(!registry[script_obj.src])registry[script_obj.src]={items:[],finished:false};registry_items=registry[script_obj.src].items;if(chain_opts[_AllowDuplicates]||registry_items.length==0){registry_item=registry_items[registry_items.length]={ready:false,finished:false,ready_listeners:[ready_cb],finished_listeners:[finished_cb]};request_script(chain_opts,script_obj,registry_item,((preload_this_script)?function(){registry_item.ready=true;for(var i=0;i<registry_item.ready_listeners.length;i++){registry_item.ready_listeners[i]()}registry_item.ready_listeners=[]}:function(){script_executed(registry_item)}),preload_this_script)}else{registry_item=registry_items[0];if(registry_item.finished){finished_cb()}else{registry_item.finished_listeners.push(finished_cb)}}}function create_chain(){var chainedAPI,chain_opts=merge_objs(global_defaults,{}),chain=[],exec_cursor=0,scripts_currently_loading=false,group;function chain_script_ready(script_obj,exec_trigger){if(chain_opts[_Debug])log_msg("script preload finished: "+script_obj.real_src);script_obj.ready=true;script_obj.exec_trigger=exec_trigger;advance_exec_cursor()}function chain_script_executed(script_obj,chain_group){if(chain_opts[_Debug])log_msg("script execution finished: "+script_obj.real_src);script_obj.ready=script_obj.finished=true;script_obj.exec_trigger=null;for(var i=0;i<chain_group.scripts.length;i++){if(!chain_group.scripts[i].finished)return}chain_group.finished=true;advance_exec_cursor()}function advance_exec_cursor(){while(exec_cursor<chain.length){if(is_func(chain[exec_cursor])){if(chain_opts[_Debug])log_msg("$LAB.wait() executing: "+chain[exec_cursor]);try{chain[exec_cursor++]()}catch(err){chain_opts[_ErrorHandler](err);if(chain_opts[_Debug])log_error("$LAB.wait() error caught: ",err)}continue}else if(!chain[exec_cursor].finished){if(check_chain_group_scripts_ready(chain[exec_cursor]))continue;break}exec_cursor++}if(exec_cursor==chain.length){scripts_currently_loading=false;group=false}}function init_script_chain_group(){if(!group||!group.scripts){chain.push(group={scripts:[],finished:true})}}chainedAPI={script:function(){for(var i=0;i<arguments.length;i++){(function(script_obj,script_list){var splice_args;if(!is_array(script_obj)){script_list=[script_obj]}for(var j=0;j<script_list.length;j++){init_script_chain_group();script_obj=script_list[j];if(is_func(script_obj))script_obj=script_obj();if(!script_obj)continue;if(is_array(script_obj)){splice_args=[].slice.call(script_obj);splice_args.unshift(j,1);[].splice.apply(script_list,splice_args);j--;continue}if(typeof script_obj=="string")script_obj={src:script_obj};script_obj=merge_objs(script_obj,{ready:false,ready_cb:chain_script_ready,finished:false,finished_cb:chain_script_executed});group.finished=false;group.scripts.push(script_obj);do_script(chain_opts,script_obj,group,(can_use_preloading&&scripts_currently_loading));scripts_currently_loading=true;if(chain_opts[_AlwaysPreserveOrder])chainedAPI.wait()}})(arguments[i],arguments[i])}return chainedAPI},wait:function(){if(arguments.length>0){for(var i=0;i<arguments.length;i++){chain.push(arguments[i])}group=chain[chain.length-1]}else group=false;advance_exec_cursor();return chainedAPI}};return{script:chainedAPI.script,wait:chainedAPI.wait,setOptions:function(opts){merge_objs(opts,chain_opts);return chainedAPI}}}instanceAPI={setGlobalDefaults:function(opts){merge_objs(opts,global_defaults);return instanceAPI},setOptions:function(){return create_chain().setOptions.apply(null,arguments)},script:function(){return create_chain().script.apply(null,arguments)},wait:function(){return create_chain().wait.apply(null,arguments)},queueScript:function(){queue[queue.length]={type:"script",args:[].slice.call(arguments)};return instanceAPI},queueWait:function(){queue[queue.length]={type:"wait",args:[].slice.call(arguments)};return instanceAPI},runQueue:function(){var $L=instanceAPI,len=queue.length,i=len,val;for(;--i>=0;){val=queue.shift();$L=$L[val.type].apply(null,val.args)}return $L},noConflict:function(){global.$LAB=_$LAB;return instanceAPI},sandbox:function(){return create_sandbox()}};return instanceAPI}global.$LAB=create_sandbox();(function(addEvent,domLoaded,handler){if(document.readyState==null&&document[addEvent]){document.readyState="loading";document[addEvent](domLoaded,handler=function(){document.removeEventListener(domLoaded,handler,false);document.readyState="complete"},false)}})("addEventListener","DOMContentLoaded")})(this);
 </script><script>$LAB.setGlobalDefaults({'ErrorHandler': function(err) { console.log(err); throw err; }});  var LABqueue = $LAB.script('https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js').wait(function() { jq = $.noConflict(); })
-.script('https://assets.hubstatic.com/s/ss141799037.js')
+.script('https://assets.hubstatic.com/s/ss220377459.js')
 ;
 </script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
- })(window,document,'script','//www.google-analytics.com/analytics.js','ga');function fireMavenUA(mavenUID) {
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');function fireMavenUA(mavenUID) {
+	var customDimensions = {"dimension21":"owlcation.com","dimension22":"owlcation.com","dimension29":"0"};
 	ga('create', 'UA-126130613-1', 'auto', {'name': 'mavenTracker'});
 	ga('mavenTracker.set', 'anonymizeIp', true);
 	if (hubpagesConsent.isEU()) { ga('mavenTracker.set', 'displayFeaturesTask', null); }
-	if (mavenUID) { ga('mavenTracker.set', 'userId', mavenUID); }
-	ga('mavenTracker.send', 'pageview');
+	if (mavenUID) { 
+		ga('mavenTracker.set', 'userId', mavenUID); 
+		customDimensions['dimension29'] = '1';
+	}	
+	ga('mavenTracker.send', 'pageview', customDimensions);
 }
 
-window.mavenUID = null;
-fetch('https://uid.mavencoalition.io/', {
-	credentials: 'include', // include the cookie in the request
-}).then(function(response) {
-	if (response.status === 200) {
-		response.json().then(function(resp) {
-			fireMavenUA(resp.uid);
-			window.mavenUID = resp.uid;
-			if (typeof(setupLiftigniter) === "function") { setupLiftigniter(resp.uid); }
-		});
-	} else {
-		throw new Error('invalid UID service response');
-	}
-}).catch(function(e) {
-	fireMavenUA(null);
-	if (typeof(setupLiftigniter) === "function") { setupLiftigniter(null); }
-});
+if (window.mavenUID) {
+	window.mavenUID.then(function(uid) {
+		// UID may be false-y, which is acceptable.
+		fireMavenUA(uid);
+		if (typeof(setupLiftigniter) === "function") {
+			setupLiftigniter(uid ? uid : null);
+		}
+	});
+}
 	ga('create', 'UA-286186-45', 'auto', {'name': 'siteTracker'});
 	ga('siteTracker.set', 'anonymizeIp', true);
 	if (hubpagesConsent.isEU()) { ga('siteTracker.set', 'displayFeaturesTask', null); }
@@ -271,7 +304,7 @@ fetch('https://uid.mavencoalition.io/', {
 	window.gaSiteTracker = 'siteTracker.';
 </script>
 
-<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases98450879.css">
+<link rel="stylesheet" type="text/css" href="https://assets.hubstatic.com/s/site-bases255563761.css">
 
 <style>
 .svglogo.owlcation-logo32 { width: 166px; height: 32px;}
@@ -279,7 +312,7 @@ fetch('https://uid.mavencoalition.io/', {
 </style>
     
   </head>
-<body class="owlcation static fully-responsive nomast">
+<body class="owlcation static fully-responsive nomast privacy-policy" orient="landscape">
 
 <!-- symbols (9033 bytes) -->
 <svg id="svg-definitions">
@@ -477,7 +510,7 @@ fetch('https://uid.mavencoalition.io/', {
 <p>November 19, 2009: We made changes throughout the Privacy Policy. Please review the amended Privacy Policy carefully. Among other things, we added a provision to Section 3 explaining how we may share your Personally Identifiable Information with our service providers; explained how third-party advertisers use your information in Section 4; clarified our security policy in Section 6; and deleted a provision about international users that is covered in our Terms of Use.</p>
 
 
-</div><div id="before_footer"></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://owlcation.com/" title="To the Owlcation home page"><svg class="svglogo owlcation-logo owlcation-logo30"><title></title><use xlink:href="#owlcation-logo"></use></svg></a><ul id="footerlist"><li><a tabindex="-1" href="https://owlcation.com/about-us">About Us</a></li><li><a href="https://owlcation.com/editorial-policy">Editorial Policy</a></li><li><a tabindex="-1" href="https://owlcation.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://owlcation.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://owlcation.com/privacy-policy">Privacy Policy</a></li></ul><div class="legalese"><p>Copyright © 2018 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://owlcation.com/signin/">Sign In</a><a href="https://owlcation.com/signup/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://owlcation.com/academia/">Academia</a></h3><ul><li><a href="https://owlcation.com/academia/essays/" class="Essays">Essays</a></li><li><a href="https://owlcation.com/academia/college/" class="College &amp; University">College &amp; University</a></li><li><a href="https://owlcation.com/academia/teaching/" class="Teaching">Teaching</a></li><li><a href="https://owlcation.com/academia/esl/" class="ESL">ESL</a></li><li><a href="https://owlcation.com/academia/standardized-tests/" class="Standardized Tests">Standardized Tests</a></li><li><a href="https://owlcation.com/academia/student-life/" class="Student Life">Student Life</a></li><li><a href="https://owlcation.com/academia/online-learning/" class="Online Learning">Online Learning</a></li><li><a href="https://owlcation.com/academia/vocational-training/" class="Vocational Training">Vocational Training</a></li></ul></div><div class="category_group"><h3><a href="https://owlcation.com/humanities/">Humanities</a></h3><ul><li><a href="https://owlcation.com/humanities/writing/" class="Writing Tutorials">Writing Tutorials</a></li><li><a href="https://owlcation.com/humanities/linguistics/" class="Linguistics">Linguistics</a></li><li><a href="https://owlcation.com/humanities/history/" class="History">History</a></li><li><a href="https://owlcation.com/humanities/literature/" class="Literature">Literature</a></li><li><a href="https://owlcation.com/humanities/performing-arts/" class="Performing Arts">Performing Arts</a></li><li><a href="https://owlcation.com/humanities/languages/" class="Languages">Languages</a></li><li><a href="https://owlcation.com/humanities/theology/" class="Theology">Theology</a></li><li><a href="https://owlcation.com/humanities/philosophy/" class="Philosophy">Philosophy</a></li><li><a href="https://owlcation.com/humanities/visual-arts/" class="Visual Arts">Visual Arts</a></li><li><a href="https://owlcation.com/humanities/mythology/" class="Mythology">Mythology</a></li><li><a href="https://owlcation.com/humanities/architecture/" class="Architecture">Architecture</a></li><li><a href="https://owlcation.com/humanities/archaeology/" class="Archaeology">Archaeology</a></li></ul></div><div class="category_group"><h3><a href="https://owlcation.com/stem/">STEM</a></h3><ul><li><a href="https://owlcation.com/stem/genetics-evolution/" class="Genetics &amp; Evolution">Genetics &amp; Evolution</a></li><li><a href="https://owlcation.com/stem/math/" class="Math">Math</a></li><li><a href="https://owlcation.com/stem/chemistry/" class="Chemistry">Chemistry</a></li><li><a href="https://owlcation.com/stem/electrical-engineering/" class="Electrical Engineering">Electrical Engineering</a></li><li><a href="https://owlcation.com/stem/zoology/" class="Zoology">Zoology</a></li><li><a href="https://owlcation.com/stem/geology/" class="Geology">Geology</a></li><li><a href="https://owlcation.com/stem/computer-science/" class="Computer Science">Computer Science</a></li><li><a href="https://owlcation.com/stem/entomology/" class="Entomology">Entomology</a></li><li><a href="https://owlcation.com/stem/medical-science/" class="Medical Science">Medical Science</a></li><li><a href="https://owlcation.com/stem/marine-biology/" class="Marine Biology">Marine Biology</a></li><li><a href="https://owlcation.com/stem/botany/" class="Botany">Botany</a></li><li><a href="https://owlcation.com/stem/climatology-meteorology/" class="Climatology &amp; Meteorology">Climatology &amp; Meteorology</a></li><li><a href="https://owlcation.com/stem/physics/" class="Physics">Physics</a></li><li><a href="https://owlcation.com/stem/astronomy/" class="Astronomy">Astronomy</a></li><li><a href="https://owlcation.com/stem/microbiology/" class="Microbiology">Microbiology</a></li><li><a href="https://owlcation.com/stem/ecology/" class="Ecology">Ecology</a></li><li><a href="https://owlcation.com/stem/mycology/" class="Mycology">Mycology</a></li><li><a href="https://owlcation.com/stem/paleontology/" class="Paleontology">Paleontology</a></li></ul></div><div class="category_group"><h3><a href="https://owlcation.com/social-sciences/">Social Sciences</a></h3><ul><li><a href="https://owlcation.com/social-sciences/psychology/" class="Psychology">Psychology</a></li><li><a href="https://owlcation.com/social-sciences/legal-studies/" class="Legal Studies">Legal Studies</a></li><li><a href="https://owlcation.com/social-sciences/anthropology/" class="Anthropology">Anthropology</a></li><li><a href="https://owlcation.com/social-sciences/economics/" class="Economics">Economics</a></li><li><a href="https://owlcation.com/social-sciences/political-science/" class="Political Science">Political Science</a></li><li><a href="https://owlcation.com/social-sciences/sociology/" class="Sociology">Sociology</a></li></ul></div><div class="category_group"><h3><a href="https://owlcation.com/agriculture/">Agriculture &amp; Farming</a></h3></div></div><div class="social section"><h3>Connect with us</h3><a class="facebook" href="https://www.facebook.com/Owlcation-841003602672558" rel="nofollow" title="Visit us on Facebook"><svg class="moon medium facebook"><use xlink:href="#facebook"></use></svg></a><a class="pinterest" href="https://www.pinterest.com/owlcation/" rel="nofollow" title="Visit us on Pinterest"><svg class="moon medium pinterest"><use xlink:href="#pinterest"></use></svg></a><a class="envelop" href="#" onclick="return hpLoadLink('help',0,'','')" oncontextmenu="return true" title="Contact Us"><svg class="moon medium envelop"><use xlink:href="#envelop"></use></svg></a></div><div class="footer section"><h3><a href="https://owlcation.com/about-us">About Us</a></h3><ul><li><a href="https://owlcation.com/editorial-policy">Editorial Policy</a></li><li><a href="https://owlcation.com/copyright">Copyright</a></li><li><a href="https://owlcation.com/user-agreement">Terms of Use</a></li><li><a href="https://owlcation.com/privacy-policy">Privacy Policy</a></li></ul><p class="legalese">Copyright © 2018 HubPages Inc. and respective owners. </p></div></div></div>
+</div><div id="before_footer"></div><div id="footer_wrap"><div id="footer"><a id="footer_logo" tabindex="-1" href="https://owlcation.com/" title="To the Owlcation home page"><svg class="svglogo owlcation-logo owlcation-logo30"><title></title><use xlink:href="#owlcation-logo"></use></svg></a><ul id="footerlist"><li><a tabindex="-1" href="https://owlcation.com/about-us">About Us</a></li><li><a href="https://owlcation.com/editorial-policy">Editorial Policy</a></li><li><a tabindex="-1" href="https://owlcation.com/copyright">Copyright</a></li><li><a tabindex="-1" href="https://owlcation.com/user-agreement">Terms of Use</a></li><li><a tabindex="-1" href="https://owlcation.com/privacy-policy">Privacy Policy</a></li><li><a href="https://owlcation.com/advertising">Advertising</a></li></ul><div class="legalese"><p>Copyright © 2019 HubPages Inc. and respective owners. Other product and company names shown may be trademarks of their respective owners. HubPages<sup>®</sup> is a registered Service Mark of HubPages, Inc. HubPages and Hubbers (authors) may earn revenue on this page based on affiliate relationships and advertisements with partners including Amazon, Google, and others.</p></div><div style="clear:both;"></div></div></div><div id="mobile_menu" hidden=""><div id="mobile_menu_content"><div class="button_section section"><a href="https://owlcation.com/signin/">Sign In</a><a href="https://owlcation.com/signup/" class="button primary_action">Join</a></div><div class="categories section"><div class="category_group"><h3><a href="https://owlcation.com/academia/">Academia</a></h3><ul><li><a href="https://owlcation.com/academia/essays/" class="Essays">Essays</a></li><li><a href="https://owlcation.com/academia/teaching/" class="Teaching">Teaching</a></li><li><a href="https://owlcation.com/academia/college/" class="College &amp; University">College &amp; University</a></li><li><a href="https://owlcation.com/academia/esl/" class="ESL">ESL</a></li><li><a href="https://owlcation.com/academia/student-life/" class="Student Life">Student Life</a></li><li><a href="https://owlcation.com/academia/standardized-tests/" class="Standardized Tests">Standardized Tests</a></li><li><a href="https://owlcation.com/academia/online-learning/" class="Online Learning">Online Learning</a></li><li><a href="https://owlcation.com/academia/vocational-training/" class="Vocational Training">Vocational Training</a></li></ul></div><div class="category_group"><h3><a href="https://owlcation.com/humanities/">Humanities</a></h3><ul><li><a href="https://owlcation.com/humanities/writing/" class="Writing Tutorials">Writing Tutorials</a></li><li><a href="https://owlcation.com/humanities/literature/" class="Literature">Literature</a></li><li><a href="https://owlcation.com/humanities/linguistics/" class="Linguistics">Linguistics</a></li><li><a href="https://owlcation.com/humanities/history/" class="History">History</a></li><li><a href="https://owlcation.com/humanities/performing-arts/" class="Performing Arts">Performing Arts</a></li><li><a href="https://owlcation.com/humanities/theology/" class="Theology">Theology</a></li><li><a href="https://owlcation.com/humanities/languages/" class="Languages">Languages</a></li><li><a href="https://owlcation.com/humanities/philosophy/" class="Philosophy">Philosophy</a></li><li><a href="https://owlcation.com/humanities/mythology/" class="Mythology">Mythology</a></li><li><a href="https://owlcation.com/humanities/visual-arts/" class="Visual Arts">Visual Arts</a></li><li><a href="https://owlcation.com/humanities/architecture/" class="Architecture">Architecture</a></li><li><a href="https://owlcation.com/humanities/archaeology/" class="Archaeology">Archaeology</a></li></ul></div><div class="category_group"><h3><a href="https://owlcation.com/stem/">STEM</a></h3><ul><li><a href="https://owlcation.com/stem/genetics-evolution/" class="Genetics &amp; Evolution">Genetics &amp; Evolution</a></li><li><a href="https://owlcation.com/stem/math/" class="Math">Math</a></li><li><a href="https://owlcation.com/stem/entomology/" class="Entomology">Entomology</a></li><li><a href="https://owlcation.com/stem/zoology/" class="Zoology">Zoology</a></li><li><a href="https://owlcation.com/stem/electrical-engineering/" class="Electrical Engineering">Electrical Engineering</a></li><li><a href="https://owlcation.com/stem/chemistry/" class="Chemistry">Chemistry</a></li><li><a href="https://owlcation.com/stem/medical-science/" class="Medical Science">Medical Science</a></li><li><a href="https://owlcation.com/stem/geology/" class="Geology">Geology</a></li><li><a href="https://owlcation.com/stem/marine-biology/" class="Marine Biology">Marine Biology</a></li><li><a href="https://owlcation.com/stem/botany/" class="Botany">Botany</a></li><li><a href="https://owlcation.com/stem/computer-science/" class="Computer Science">Computer Science</a></li><li><a href="https://owlcation.com/stem/mycology/" class="Mycology">Mycology</a></li><li><a href="https://owlcation.com/stem/climatology-meteorology/" class="Climatology &amp; Meteorology">Climatology &amp; Meteorology</a></li><li><a href="https://owlcation.com/stem/physics/" class="Physics">Physics</a></li><li><a href="https://owlcation.com/stem/astronomy/" class="Astronomy">Astronomy</a></li><li><a href="https://owlcation.com/stem/ecology/" class="Ecology">Ecology</a></li><li><a href="https://owlcation.com/stem/microbiology/" class="Microbiology">Microbiology</a></li><li><a href="https://owlcation.com/stem/paleontology/" class="Paleontology">Paleontology</a></li></ul></div><div class="category_group"><h3><a href="https://owlcation.com/social-sciences/">Social Sciences</a></h3><ul><li><a href="https://owlcation.com/social-sciences/psychology/" class="Psychology">Psychology</a></li><li><a href="https://owlcation.com/social-sciences/legal-studies/" class="Legal Studies">Legal Studies</a></li><li><a href="https://owlcation.com/social-sciences/anthropology/" class="Anthropology">Anthropology</a></li><li><a href="https://owlcation.com/social-sciences/economics/" class="Economics">Economics</a></li><li><a href="https://owlcation.com/social-sciences/political-science/" class="Political Science">Political Science</a></li><li><a href="https://owlcation.com/social-sciences/sociology/" class="Sociology">Sociology</a></li></ul></div><div class="category_group"><h3><a href="https://owlcation.com/agriculture/">Agriculture &amp; Farming</a></h3></div></div><div class="social section"><h3>Connect with us</h3><a class="facebook" href="https://www.facebook.com/Owlcation-841003602672558" rel="nofollow" title="Visit us on Facebook"><svg class="moon medium facebook"><use xlink:href="#facebook"></use></svg></a><a class="pinterest" href="https://www.pinterest.com/owlcation/" rel="nofollow" title="Visit us on Pinterest"><svg class="moon medium pinterest"><use xlink:href="#pinterest"></use></svg></a><a class="envelop" href="#" onclick="return hpLoadLink('help',0,'','')" oncontextmenu="return true" title="Contact Us"><svg class="moon medium envelop"><use xlink:href="#envelop"></use></svg></a></div><div class="footer section"><h3><a href="https://owlcation.com/about-us">About Us</a></h3><ul><li><a href="https://owlcation.com/editorial-policy">Editorial Policy</a></li><li><a href="https://owlcation.com/copyright">Copyright</a></li><li><a href="https://owlcation.com/user-agreement">Terms of Use</a></li><li><a href="https://owlcation.com/privacy-policy">Privacy Policy</a></li><li><a href="https://owlcation.com/advertising">Advertising</a></li></ul><p class="legalese">Copyright © 2019 HubPages Inc. and respective owners. </p></div></div></div>
 <div id="ajaxing"><div id="ajaxing_box"><div class="spinny"></div><div id="working">working</div></div></div><script>LABqueue.wait(function() {crossDomainSetup('https://equalstyle.com/login-hub/', true);
 jq(document).ready(function() { hpSiteInit(); });
 jq(document).ready( function() { loadLazyImages(); } );
@@ -495,11 +528,11 @@ jq('#mobile_menu .search_button').click(function() {
 	</div>
 
 	<p style="clear:both">
-		<small>For more information on managing or withdrawing consents and how we handle data, visit our Privacy Policy at: <a href="https://owlcation.com/privacy-policy#gdpr" target="_blank">https://owlcation.com/privacy-policy#gdpr</a></small>
+		<small>For more information on managing or withdrawing consents and how we handle data, visit our Privacy Policy at: <a href="https://owlcation.com/privacy-policy#gdpr" target="_blank" rel="noopener">https://owlcation.com/privacy-policy#gdpr</a></small>
 	</p>
 
 	<span style="float:right" class="span_link details_link"><span class="arrow arrow-right"></span> <small>Show Details</small></span>
-	<table class="details_table"><thead><tr><th colspan="2">Necessary</th></tr></thead><tbody><tr><td class="suboption_name">HubPages Device ID</td><td class="suboption_desc">This is used to identify particular browsers or devices when the access the service, and is used for security reasons. </td></tr><tr><td class="suboption_name">Login</td><td class="suboption_desc">This is necessary to sign in to the HubPages Service. </td></tr><tr><td class="suboption_name">Google Recaptcha</td><td class="suboption_desc">This is used to prevent bots and spam. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Akismet</td><td class="suboption_desc">This is used to detect comment spam. <small>(<a class="privacy_policy" href="https://automattic.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Google Analytics</td><td class="suboption_desc">This is used to provide data on traffic to our website, all personally identifyable data is anonymized. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Traffic Pixel</td><td class="suboption_desc">This is used to collect data on traffic to articles and other pages on our site.  Unless you are signed in to a HubPages account, all personally identifiable information is anonymized. </td></tr><tr><td class="suboption_name">Amazon Web Services</td><td class="suboption_desc">This is a cloud services platform that we used to host our service. <small>(<a class="privacy_policy" href="https://aws.amazon.com/compliance/data-privacy-faq/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Cloudflare</td><td class="suboption_desc">This is a cloud CDN service that we use to efficiently deliver files required for our service to operate such as javascript, cascading style sheets, images, and videos. <small>(<a class="privacy_policy" href="https://www.cloudflare.com/privacypolicy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Hosted Libraries</td><td class="suboption_desc">Javascript software libraries such as jQuery are loaded at endpoints on the googleapis.com or gstatic.com domains, for performance and efficiency reasons. <small>(<a class="privacy_policy" href="https://developers.google.com/speed/libraries/terms" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Features</th></tr></thead><tbody><tr><td class="suboption_name">Google Custom Search</td><td class="suboption_desc">This is feature allows you to search the site. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Maps</td><td class="suboption_desc">Some articles have Google Maps embedded in them. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Charts</td><td class="suboption_desc">This is used to display charts and graphs on articles and the author center. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google AdSense Host API</td><td class="suboption_desc">This service allows you to sign up for or associate a Google AdSense account with HubPages, so that you can earn money from ads on your articles.  No data is shared unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google YouTube</td><td class="suboption_desc">Some articles have YouTube videos embedded in them. <small>(<a class="privacy_policy" href="https://www.youtube.com/static?template=privacy_guidelines" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Vimeo</td><td class="suboption_desc">Some articles have Vimeo videos embedded in them. <small>(<a class="privacy_policy" href="https://vimeo.com/privacy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Paypal</td><td class="suboption_desc">This is used for a registered author who enrolls in the HubPages Earnings program and requests to be paid via PayPal.  No data is shared with Paypal unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Login</td><td class="suboption_desc">You can use this to streamline signing up for, or signing in to your Hubpages account.  No data is shared with Facebook unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.facebook.com/policy.php" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Maven</td><td class="suboption_desc">This supports the Maven widget and search functionality. <small>(<a class="privacy_policy" href="https://www.themaven.net/the-maven/pages/S5I9LAYSaEqEDc9mpEdWeA" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Marketing</th></tr></thead><tbody><tr><td class="suboption_name">Google AdSense</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google DoubleClick</td><td class="suboption_desc">Google provides ad serving technology and runs an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Index Exchange</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="http://www.indexexchange.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Sovrn</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.sovrn.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Ads</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.facebook.com/privacy/explanation" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Unified Ad Marketplace</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&amp;nodeId=468496" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">AppNexus</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.appnexus.com/en/company/platform-privacy-policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Openx</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.openx.com/legal/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Rubicon Project</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://rubiconproject.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">TripleLift</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://triplelift.com/privacy/" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Say Media</td><td class="suboption_desc">We partner with Say Media to deliver ad campaigns on our sites. <small>(<a class="privacy_policy" href="https://www.saymedia.com/privacy-policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Remarketing Pixels</td><td class="suboption_desc">We may use remarketing pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to advertise the HubPages Service to people that have visited our sites. </td></tr><tr><td class="suboption_name">Conversion Tracking Pixels</td><td class="suboption_desc">We may use conversion tracking pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to identify when an advertisement has successfully resulted in the desired action, such as signing up for the HubPages Service or publishing an article on the HubPages Service. </td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Statistics</th></tr></thead><tbody><tr><td class="suboption_name">Author Google Analytics</td><td class="suboption_desc">This is used to provide traffic data and reports to the authors of articles on the HubPages Service. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy?hl=en&amp;gl=us" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Comscore</td><td class="suboption_desc">ComScore is a media measurement and analytics company providing marketing data and analytics to enterprises, media and advertising agencies, and publishers.  Non-consent will result in ComScore only processing obfuscated personal data. <small>(<a class="privacy_policy" href="https://www.comscore.com/About-comScore/Privacy-Policy" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Tracking Pixel</td><td class="suboption_desc">Some articles display amazon products as part of the Amazon Affiliate program, this pixel provides traffic statistics for those products <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496" target="_blank">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table>
+	<table class="details_table"><thead><tr><th colspan="2">Necessary</th></tr></thead><tbody><tr><td class="suboption_name">HubPages Device ID</td><td class="suboption_desc">This is used to identify particular browsers or devices when the access the service, and is used for security reasons. </td></tr><tr><td class="suboption_name">Login</td><td class="suboption_desc">This is necessary to sign in to the HubPages Service. </td></tr><tr><td class="suboption_name">Google Recaptcha</td><td class="suboption_desc">This is used to prevent bots and spam. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Akismet</td><td class="suboption_desc">This is used to detect comment spam. <small>(<a class="privacy_policy" href="https://automattic.com/privacy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Google Analytics</td><td class="suboption_desc">This is used to provide data on traffic to our website, all personally identifyable data is anonymized. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">HubPages Traffic Pixel</td><td class="suboption_desc">This is used to collect data on traffic to articles and other pages on our site.  Unless you are signed in to a HubPages account, all personally identifiable information is anonymized. </td></tr><tr><td class="suboption_name">Amazon Web Services</td><td class="suboption_desc">This is a cloud services platform that we used to host our service. <small>(<a class="privacy_policy" href="https://aws.amazon.com/compliance/data-privacy-faq/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Cloudflare</td><td class="suboption_desc">This is a cloud CDN service that we use to efficiently deliver files required for our service to operate such as javascript, cascading style sheets, images, and videos. <small>(<a class="privacy_policy" href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Hosted Libraries</td><td class="suboption_desc">Javascript software libraries such as jQuery are loaded at endpoints on the googleapis.com or gstatic.com domains, for performance and efficiency reasons. <small>(<a class="privacy_policy" href="https://developers.google.com/speed/libraries/terms" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Features</th></tr></thead><tbody><tr><td class="suboption_name">Google Custom Search</td><td class="suboption_desc">This is feature allows you to search the site. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Maps</td><td class="suboption_desc">Some articles have Google Maps embedded in them. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google Charts</td><td class="suboption_desc">This is used to display charts and graphs on articles and the author center. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google AdSense Host API</td><td class="suboption_desc">This service allows you to sign up for or associate a Google AdSense account with HubPages, so that you can earn money from ads on your articles.  No data is shared unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google YouTube</td><td class="suboption_desc">Some articles have YouTube videos embedded in them. <small>(<a class="privacy_policy" href="https://www.youtube.com/static?template=privacy_guidelines" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Vimeo</td><td class="suboption_desc">Some articles have Vimeo videos embedded in them. <small>(<a class="privacy_policy" href="https://vimeo.com/privacy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Paypal</td><td class="suboption_desc">This is used for a registered author who enrolls in the HubPages Earnings program and requests to be paid via PayPal.  No data is shared with Paypal unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Login</td><td class="suboption_desc">You can use this to streamline signing up for, or signing in to your Hubpages account.  No data is shared with Facebook unless you engage with this feature. <small>(<a class="privacy_policy" href="https://www.facebook.com/policy.php" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Maven</td><td class="suboption_desc">This supports the Maven widget and search functionality. <small>(<a class="privacy_policy" href="https://www.themaven.net/the-maven/pages/S5I9LAYSaEqEDc9mpEdWeA" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Marketing</th></tr></thead><tbody><tr><td class="suboption_name">Google AdSense</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Google DoubleClick</td><td class="suboption_desc">Google provides ad serving technology and runs an ad network. <small>(<a class="privacy_policy" href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Index Exchange</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="http://www.indexexchange.com/privacy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Sovrn</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.sovrn.com/privacy-policy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Facebook Ads</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.facebook.com/privacy/explanation" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Unified Ad Marketplace</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&amp;nodeId=468496" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">AppNexus</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.appnexus.com/en/company/platform-privacy-policy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Openx</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://www.openx.com/legal/privacy-policy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Rubicon Project</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://rubiconproject.com/privacy-policy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">TripleLift</td><td class="suboption_desc">This is an ad network. <small>(<a class="privacy_policy" href="https://triplelift.com/privacy/" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Say Media</td><td class="suboption_desc">We partner with Say Media to deliver ad campaigns on our sites. <small>(<a class="privacy_policy" href="https://www.saymedia.com/privacy-policy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Remarketing Pixels</td><td class="suboption_desc">We may use remarketing pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to advertise the HubPages Service to people that have visited our sites. </td></tr><tr><td class="suboption_name">Conversion Tracking Pixels</td><td class="suboption_desc">We may use conversion tracking pixels from advertising networks such as Google AdWords, Bing Ads, and Facebook in order to identify when an advertisement has successfully resulted in the desired action, such as signing up for the HubPages Service or publishing an article on the HubPages Service. </td></tr></tbody></table><table class="details_table"><thead><tr><th colspan="2">Statistics</th></tr></thead><tbody><tr><td class="suboption_name">Author Google Analytics</td><td class="suboption_desc">This is used to provide traffic data and reports to the authors of articles on the HubPages Service. <small>(<a class="privacy_policy" href="https://policies.google.com/privacy?hl=en&amp;gl=us" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Comscore</td><td class="suboption_desc">ComScore is a media measurement and analytics company providing marketing data and analytics to enterprises, media and advertising agencies, and publishers.  Non-consent will result in ComScore only processing obfuscated personal data. <small>(<a class="privacy_policy" href="https://www.comscore.com/About-comScore/Privacy-Policy" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr><tr><td class="suboption_name">Amazon Tracking Pixel</td><td class="suboption_desc">Some articles display amazon products as part of the Amazon Affiliate program, this pixel provides traffic statistics for those products <small>(<a class="privacy_policy" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496" target="_blank" rel="noopener">Privacy&nbsp;Policy</a>)</small></td></tr></tbody></table>
 </div></div><div id="maven_sidebar"><a title="Member of the Maven Coalition" href="#" onclick="return hpLoadLink('maven', 0, '', '')" oncontextmenu="return hpLoadLink('maven', 0, '', '')"><svg class="moon largish maven-key"><use xlink:href="#maven-key"></use></svg></a></div><script id="liftigniter-metadata" type="application/json">
 {"noShow":"true"}
 </script>
@@ -556,12 +589,20 @@ jq('#mobile_menu .search_button').click(function() {
 		}
 		else if (window.location.hostname.split('.')[0] != urlDomain.split('.')[0])
 		{
+			if (url == itemData.section_url) {
+				var pathParts = parser.pathname.split('/');
+				var categoryPath = pathParts[pathParts.length-2];
+				var paramStr = parser.search;
+				
+				return "javascript:hpLoadLink('category','" + categoryPath + "','" + paramStr + "', '')";			
+			} else {			
 			
-			var pathParts = parser.pathname.split('/');
-			var articlePath = pathParts[pathParts.length-1];
-			var paramStr = parser.search;
-			
-			return "javascript:hpLoadLink('article','" + articlePath + "','" + paramStr + "', '')";			
+				var pathParts = parser.pathname.split('/');
+				var articlePath = pathParts[pathParts.length-1];
+				var paramStr = parser.search;
+
+				return "javascript:hpLoadLink('article','" + articlePath + "','" + paramStr + "', '')";			
+			}
 		} else {		
 			//don't need to change anything
 			return url;
@@ -652,7 +693,9 @@ jq('#mobile_menu .search_button').click(function() {
 	
 	//this must be called AFTER we have the mavne UID
 	window.setupLiftigniter = function(uid)
-	{		
+	{
+		return; //disable liftigniter for now
+
 		$p('init', "999gba4qphtjrmpe");
 		$p('send', "pageview");
 		if (uid) { $p("setUserId", uid); }
@@ -664,13 +707,11 @@ jq('#mobile_menu .search_button').click(function() {
 		  });
 		}
 	}
-	if (window.mavenUID) {
-		setupLiftigniter(window.mavenUID);
-	}
 }
 </script><noscript>
   <img src="https://sb.scorecardresearch.com/p?c1=2&c2=27019031&cv=2.0&cj=1" alt="comscore pixel"/>
 </noscript>
-<!-- rendered by hubwbc14 at Fri, 28 Dec 18 05:21:06 -0800 -->
+<!-- rendered by hubwbc03 at Sat, 04 May 19 12:18:18 -0700 -->
 <!-- uncategorized hpads-ourshare -->
+<!-- served from cache Sat, 04 May 19 12:50:11 -0700 -->
 </body></html>
