@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysearchpage.net privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103113914id_/http%3A//www.mysearchpage.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysearchpage.net privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504180347id_/http%3A//www.mysearchpage.net/privacy.php) for the most accurate reproduction.*
 
 # My Search Page
 
