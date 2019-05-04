@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stan.com.au privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126175124id_/https%3A//www.stan.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stan.com.au privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504170423id_/https%3A//www.stan.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Stan
 
@@ -89,7 +89,7 @@ Generally we only use personal information for the primary purpose for which we 
   * to conduct business processing functions for operation of our website, our service or our business;
   * for our administrative, marketing (including direct marketing), promotional, planning, product/service development, quality control and research purposes, or those of our contractors, partners or external service providers;
   * for displaying content and advertising that are customised to your interests, preferences and experiences;
-  * to provide information (including personal information) to our shareholders (ninemsn Pty Ltd and Fairfax Entertainment Pty Ltd) and their related bodies corporate for the purpose of, for example, providing data matching and targeted advertising services;
+  * to provide information (including personal information) to our shareholders (Nine Digital Pty Ltd) and their related bodies corporate for the purpose of, for example, providing data matching and targeted advertising services;
   * to verify your identity;
   * to provide as part of business data to third parties if you have authorised us to do so;
   * to provide your updated personal information to us, our contractors or external service providers;
@@ -101,7 +101,7 @@ Generally we only use personal information for the primary purpose for which we 
 
 We may state a more specific purpose at the point we collect your personal information.
 
-You acknowledge and agree that any personal information submitted by you to us may be provided by us to our shareholders (ninemsn Pty Ltd and Fairfax Entertainment Pty Ltd) and their related bodies corporate and used by those organisations for any of the purposes disclosed in this Privacy Policy.
+You acknowledge and agree that any personal information submitted by you to us may be provided by us to our shareholders (Nine Digital Pty Ltd) and their related bodies corporate and used by those organisations for any of the purposes disclosed in this Privacy Policy.
 
 Your personal information will not be shared, sold, rented or disclosed other than as described in this Privacy Policy.
 
@@ -119,7 +119,7 @@ If you do not provide us with the personal information described in this policy,
 We may disclose your personal information to:
 
   * our employees, related bodies corporate, contractors or external service providers for the operation of our websites or our business, fulfilling requests by you, and otherwise in connection with providing our products and services to you, including without limitation, web hosting providers, IT systems administrators, mailing houses, couriers, payment and other transaction processors, photographic analysers, promotions agencies, customer support providers, statistical analysis providers, data entry service providers, electronic network administrators, debt collectors, and professional advisers such as accountants, solicitors, business advisors and consultants;
-  * our shareholders (ninemsn Pty Ltd and Fairfax Entertainment Pty Ltd) and their related bodies corporate. We may disclose your personal information to these entities for the purposes disclosed in this Privacy Policy, for example, providing data matching and targeted advertising services and enabling us and these entities to better understand and meet your interests and needs;
+  * our shareholders (Nine Digital Pty Ltd) and their related bodies corporate. We may disclose your personal information to these entities for the purposes disclosed in this Privacy Policy, for example, providing data matching and targeted advertising services and enabling us and these entities to better understand and meet your interests and needs;
   * our existing or potential agents, business partners or joint venture entities or partners (including for clarity as part of a corporate transaction such as a merger or sale of shares or assets);
   * our sponsors, or promoters of any competition that we conduct or promote via our services;
   * specific third parties authorised by you to receive information held by us;
@@ -128,7 +128,7 @@ We may disclose your personal information to:
 
 
 
-You acknowledge and agree that any personal information submitted by you on our website and applications may be provided by us to our related bodies corporate and our shareholders (ninemsn Pty Ltd and Fairfax Entertainment Pty Ltd) and their related bodies corporate and used by those organisations for any of the purposes disclosed in this Privacy Policy.
+You acknowledge and agree that any personal information submitted by you on our website and applications may be provided by us to our related bodies corporate and our shareholders (Nine Digital Pty Ltd) and their related bodies corporate and used by those organisations for any of the purposes disclosed in this Privacy Policy.
 
 ## Direct marketing materials
 
