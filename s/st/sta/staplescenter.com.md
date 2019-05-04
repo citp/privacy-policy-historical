@@ -1,102 +1,296 @@
-> *The following text is extracted and transformed from the staplescenter.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826172833id_/https%3A//www.staplescenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplescenter.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504052952id_/https%3A//www.staplescenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STAPLES Center
 
-We may collect personal and other information about you when you use any of the Digital Services, as described below. " **Personal Information** " is information which can be used to distinguish or trace an individual's identity, such as their name, social security number, email address, etc. whether used alone, or when combined with other personal or identifying information which is linked or linkable to a specific individual.
+* * *
 
-We typically collect Personal Information and other data from you, and use that information in the following ways and as otherwise set forth in this Policy or otherwise communicated to you from time to time:
+Anschutz Entertainment Group, Inc. (“ **AEG** ”) is committed to respecting your privacy. The purpose of this Privacy Policy (“ **Privacy** **Policy** ”) is to explain how we will use any personal data we collect about you, the rights you have in any personal data we hold about you, and to tell you about the policies and procedures that we have in place to respect your privacy and keep your personal data secure.
 
-## If you sign up for our newsletters, emails and other offers.
+This Privacy Policy applies to you if you:
 
-We may offer newsletters and other communications that provide information about concerts and events, our Digital Services, our company, our partners and sponsors, or other information we think would be of interest to you. By providing your email address and any other Personal Information required by the online form, you consent to receive these communications from us. We use this information primarily to administer and manage our newsletter subscriptions and to provide you with additional communications, offers, or newsletters we believe will interest you, or that you have consented to receive.
+  * visit an AEG facility, purchase a ticket for an event or at a venue owned, operated, promoted, or serviced by AEG, its affiliates, subsidiaries and parent company;
+  * use or access our products, services, or technology in venues and events we own or operate; and
+  * interact with us online, use our mobile applications, visit our websites, or interact with or reference our products/services online, including via social media (e.g. when we correspond with you via social media, when we access information provided by social media platforms in relation to our pages on those platforms, or if you reference or interact with our Events and Venues (as defined below) on social media)
 
-## If you contact us through the Digital Services.
 
-You may contact us, using a form available on our Digital Services, with questions about our venue, suites, events, ticketing, or other matters. For some inquiries on our Digital Services, you may also be able to contact us via live chat. If you contact us through these methods, we will collect the Personal Information you voluntarily provide on the applicable form (typically your name, email address and phone number), in the chat window, or otherwise. Any information you provide through our Digital Services will be used in the context of resolving your request or answering your inquiry, or to provide additional information related to that inquiry. We may also place you on our marketing list for information related to your inquiry or which we otherwise believe would be of interest to you based on your inquiry and we may otherwise use your information as described in this Privacy Policy, subject to your consent when required by applicable laws.
 
-## Automatic collection when you access our Digital Services.
+(collectively, our “ **Services** ”).
 
-Our Digital Services automatically collect certain information from you when you use them. For example, some of our Digital Services use cookies and other similar tracking technologies to provide essential features and improve your experience when using our Digital Services (see below for more information). Additionally, through our Digital Services, our servers or networks may collect your device's IP address and other device or network information, such as your screen resolution, OS version, browser version, and certain identifiers. We use this information to help ensure that our content is displayed properly, so that we can understand how, where and which devices access our Digital Services, and to improve the quality and delivery of our Digital Services.
+AEG and its affiliates, subsidiaries, and parent company (collectively, “ **Our Group** ”) are the owner or operator of, or service provider for, various sports and live entertainment venues, events and properties (“ **Events and Venues** ”) and teams. References to Our Group include (without limitation):
 
-We may log click-stream or similar data for purposes of system administration, to improve our Digital Services, to report aggregate information to our advertisers, and other internal uses related to the Digital Services. Click-stream data is information collected when you request pages from our Digital Services, and may include information such as the page served, the time, the source and type of browser making the request, the most recent page view, and other non-Personal Information. This data helps us analyze how visitors arrive at our Digital Services, what type of content is most popular, what type of visitors are interested in particular kinds of events, content, advertising, and the like. We may associate click-stream, shopping cart, ticket purchase (whether complete or incomplete) and other similar data with other information we hold about you so that we can personalize or improve the relevance and quality of the services or information we or third parties provide to you.
+All AEG facilities, teams, venues, and service providers, such as STAPLES Center (Los Angeles, CA), Sprint Center (Kansas City, MO), KFC Yum! Center (Louisville, KY)  Oakland Alameda Coliseum  (Oakland, CA), Oracle Arena (Oakland, CA), PPG Paints Arena (Pittsburgh, PA), Valley View Casino Center (San Diego, CA), PlayStation Theater (Times Square, NY), Verizon Theatre (Grand Prairie, TX), Colosseum at Caesars Palace (Las Vegas, NV), Target Center (Minneapolis, MN), StubHub Center (Carson, CA), AEG Facilities, LLC; AEG Global Partnerships, LLC; the LA Galaxy (MLS); the LA Kings (NHL), Ontario Reign (AHL), the Amgen Tour of California; AEG Presents, LLC; and others.
 
-## When you make a purchase.
+If you have any comments or questions about this Privacy Policy or our data processing practices, please contact our Data Privacy Team at:
 
-Some purchases on our Digital Services or on our premises are handled directly by Staples Center, and others are managed and processed by third party service providers (which may or may not be related to Staples Center). We or third party service providers may collect Personal Information when you purchase a ticket, or make other purchases on our Digital Services, by telephone, or on premise. For example, we or our third party service providers may collect your name, email address, phone number, mailing address, payment account information, security codes, other Personal Information that may be required to process your transaction, and other information depending on the purpose for which the Personal Information was provided. If you are purchasing tickets through third parties on our Digital Services, some or all of your purchase may be processed by a third party, and tickets may also be issued and managed by that third party.
+800 West Olympic Blvd., Suite 305
 
-We or our third party service providers use purchase information in order to administer, manage and correspond with you about your purchase, and may also add your Personal Information to either of our databases, or share it with affiliates, event promoters or other parties in accordance with this Privacy Policy, in order to inform you of upcoming events, offers or other information that may be of interest to you. We or our third party service providers may also collect and store your purchase information and associate it with Personal Information held about you so that we or they can personalize services and offers for you.
+Los Angeles, CA 90015, U.S.A.
 
-## If you use our Mobile App.
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fe8e8c97889f9d878e9192979d87be9f9b9989918c929a89979a9bd09d9193)
 
-If you download and use our Mobile App, we or third party service providers may collect certain information through that Mobile App. Information collected may include the Personal Information and other registration, login, or payment information you choose to provide; information about your device, such as your IP address, OS, device model, your device's proprietary advertising identifier; and information relating to how you use the Mobile App, such as the content you view, ads you click, and purchases you make. When you consent to our use of location services, or otherwise depending on the settings on your mobile device, we or third party service providers may collect the precise location information provided by your device, including data provided by your GPS, WiFi, or otherwise obtained when the Mobile App or your device interacts with a beacon or other technology at our venue.
+Additional contact information is available below.
 
-We collect the information primarily to facilitate the functionality of our Mobile App and deliver valuable, entertaining content to you at or relating to our venue. For example, we collect your registration and payment information so we can show you content that interests you and to process transactions on your behalf. We may collect your device's location in order to show you offers or features available near you at our venue, to deliver more relevant information and ads, and to understand how users interact with our venue. We may combine data we collect through our Mobile App with other information we hold about you so that we can personalize or improve the relevance and quality of the services we provide you.
+The categories of personal data we collect and use include (examples may be subject to change):
 
-## If you enter a contest, sweepstakes or other promotion.
+__Identity Data__ – Information such as your name; address; email address; telephone number; gender; date of birth, age and/or age range; account login details, including your user name and password, avatar, or other account-related information; information you provide in connection with your application to be a vendor, volunteer, employee, or otherwise join or support our team; your identity, public profile, and similar information from social networks such as Facebook (this may include your employment or education information if you include it in your public profile).
 
-We may operate contests, sweepstakes or other promotions (each, a "Promotion") through our Digital Services, which may require registration on our Digital Services or through our social media channels in order to enter. Your Personal Information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry may also result in your being added to our marketing lists as well as those of third parties (sponsors or otherwise) associated with the Promotion. If you win a Promotion, your acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your Personal Information on our Digital Services or elsewhere, such as on a winner's page. In some instances, a third-party advertiser or sponsor may operate or host a Promotion on the Digital Services together with Staples Center, and collect your information. In cases where we are not the sponsor, operator or host of the Promotion, we may have no control over the information collected and accordingly encourage you to review the official rules of the Promotion as well as the advertiser's or sponsor's privacy policy applicable to the Promotion before participating.
+__Event Access Data__ – Information such as unique IDs and similar data collected or derived from the use of tickets or RFID enabled products such as wristbands, as well as location data, entrance location, entrance time, etc. relating to the use of a wristband at Events and Venues; information about your vehicle (when you use our car parks or access certain portions of Events and Venues in a vehicle).
 
-## When you complete a Survey.
+__Location Data__ – Information about your location (for example, if you use WiFi at our Events and Venues, use GPS location in certain mobile applications, or when you provide your location in social media tags/posts we will record the dates and times of your visit and which parts of our Events and Venues you visited).
 
-We may occasionally feature surveys on our Digital Services, which may collect certain Personal Information from you. For example, we may collect your name and email address, as well as other information related to your experience at one of our events or venues. By completing the survey, you consent to our collection of any Personal Information and other data you provide, and use of that Personal Information and data to administer, respond to, analyze or otherwise complete the survey process or as otherwise described in this Privacy Policy.
+__Online Services Data__ – Information about how you use our internet-connected Services, including the pages or sections you have visited on the websites or mobile applications provided by us (including pages we control on third party platforms and social media sites), the other companies in Our Group or by our ticketing providers, the website or mobile application you were referred from, and when you visited or used them; information about electronic communications you receive from us, including whether that communication has been opened and if you have clicked on any links within that communication.
 
-## Cookies, tracking, and interest-based advertising.
+__Device Data__ – Information about electronic devices you use to access our Services (including our Services on third party social media sites, or technologies on the Services that are controlled by third party data controllers) such as make and model, device identifier, advertising identifier, operating system, browser, MAC address or IP address.
 
-Our Digital Services may use cookies, web beacons and similar digital tracking technologies. Cookies are small data files that are transferred to your hard drive when your browser settings permit the acceptance of cookies. Similar technologies, such as web beacons or pixel tags function through the use of small files, such as a GIF or PNG, which are opened on a page, ad, or in an email. The request for these files from a server reveals certain information, such as your browser type, IP address, and other information. To learn more about cookies and similar tracking technologies, and how they can affect your privacy, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+__Transaction Data__ – Information about the Services we provide to you and about transactions you make with other companies for events and services at our Events and Venues (including for example, what has been provided to you, when and where and, if applicable, how much you paid).
 
-Our Digital Services may use cookies or other technologies provided by website analytics services such as Google Analytics to help us better understand how our Digital Services are used. By tracking how and when you use our Digital Services, these technologies help us determine which features and content on our Digital Services are most important to our visitors. If you do not want information collected through the use of cookies, you can turn off cookies using your browser's settings menu; however, this may eliminate our ability to provide a personalized or user-friendly experience. To learn more about, or to opt-out of Google's analytic and marketing services, visit [Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html), the [Google Privacy Policy](http://www.google.com/policies/privacy/), or [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
+__Preferences Data__ – Information we receive or create about you,  such as your demographics, product/service preferences, market segments, etc., information derived from social media, e.g. likes and favorites, market segments, or opinions, and data or analytics provided about you or your account by social media companies; information from market research companies who provide us with additional personal data about you and your household such as income, number of children, occupation, social grade, home ownership status, the products and services you use or intend to use or purchase, and your interests.
 
-Data about your activities online may be collected for use in providing advertising tailored to your individual interests, either by us, our affiliates, or third parties. We may use third parties such as network advertisers and ad exchanges to serve advertisements across the internet and may use third party analytics service providers to evaluate and provide us and/or third parties with information about the use of these ads on third party websites and viewing of ads and of our content. You may or may not be offered a choice as to whether or not to have your information collected for that purpose. The information collected may include information about your visits to our Digital Services, such as the pages you have viewed. These third-party tracking technologies may be set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the effectiveness of the advertisements that have been delivered to you. This collection and ad targeting takes place both on our Digital Services and on third-party websites or services that participate in the ad network, such as websites that feature advertisements delivered by the ad network. This process also helps us track the effectiveness of our marketing efforts. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Digital Services. To learn more about how to opt out of Google's use of cookies, visit the Google's Ads Settings, [here](https://www.google.com/settings/u/0/ads). To learn more about how to opt out of DoubleClick's use of cookies, visit the DoubleClick opt-out page, [here](https://www.google.com/settings/u/0/ads).
+__Financial Data__ – Information such as bank account details, payment card information, and information from credit reference agencies.
 
-If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance's opt-out page at <http://www.aboutads.info/choices> or the Network Advertising Initiative at [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). Please note, most modern browsers include a "do not track" feature that may help protect your privacy. However, because there is not yet a defined response to do-not-track requests, our Site does not respond to your browser's do-not-track request.
+__Contact Data__ – Information about how we can communicate with you, such as email and physical addresses, social media handles, and information you provide to us when you contact us by email or when you communicate with us via social media.
 
-## Proximity beacons.
+__Health Data__ – Information about your health (for example when you are buying tickets for wheelchair accessible spaces, when you request a sign language interpreter, or when we are investigating an accident which may have happened at one of our Events and Venues).
 
-We may collect data from physical proximity beacons located in or near our venues, at our events, and (through partnerships with local businesses or entities) in areas or places visited by guests who have consented to our collection of data from beacons. Proximity beacons emit radio signals and detect when a device enters a specific area. As such, we may collect data about your location and other contextual data when you are near a beacon. If your device preferences allow us or our Mobile App access to location services, we may collect information about the location of your device in our venues or at our events, including data from each of our or our partners' beacons with which you interact, and we may send you relevant, targeted offers based on this data (for example, a discount on food purchases near our event). We and any third parties enabling these features may store this data and combine it with other information about you. You may disable the communication of these beacons with your mobile device by disabling Bluetooth or modifying your preferences for location services through your OS. 
+__Biometric Data__ – Images from facial recognition systems operated at Events and Venues (if any).
 
-## Other sources of Personal Information or data.
+__CCTV__ – Recordings and images collected from our surveillance cameras when you visit Events and Venues and areas adjacent to them.
 
-If we receive Personal Information or data from you through our Digital Services other than as described in this Privacy Policy, it will still be used and managed in accordance with this Privacy Policy, unless otherwise stated at the time you provide the information.
+__User Content__ – Information you give us in free text fields such as comment boxes, answers you provide when you participate in sweepstakes, contests, votes and surveys, including any other personal data which you may provide through or in connection with our Services.
 
-As described above, our Digital Services include features, functionality, or offers (such as ticket purchases, promotions, surveys, etc.) provided by third parties, and may also contain links to third party advertisers and others. When you make purchases through third parties, we do not receive your payment account information, as the purchase and payment transaction is processed by the third party. However we may sometimes receive your email or other information provided during a purchase from the company through which your transaction was processed. We may also receive information from other third parties collecting information on our Digital Services, such as a third party promotion in which you choose to register. Any third party websites or services to which our Digital Services link may use cookies, independently collect data or solicit Personal Information, and you should carefully review the privacy policies of these third parties before providing them any Personal Information. This Policy does not apply to any information you submit to third-party websites or services, including, without limitation, any sites to which our Digital Services may redirect you for purchasing tickets, or other sites that may be connected to our Digital Services by hypertext link or otherwise.
+We will receive your personal data when you provide them to us, when you purchase products and services offered via our Services, or when you otherwise use our Services.
 
-Information we collect may be shared with a variety of parties, depending upon the purpose for and context in which that information was provided. We reserve the right to share your Personal Information with our current or future affiliated entities, subsidiaries, and parent companies. We may also share your Personal Information and other information with trusted third parties for marketing, advertising, or other commercial purposes, and we may occasionally allow third parties to access certain Digital Services for marketing purposes. In addition, if you purchase a ticket on our Digital Services or through links we provide, your Personal Information may be shared with event promoters or otherwise in accordance with this Policy.
+We may also collect information about any device you have used to access our Services, the websites or mobile applications of other companies in Our Group, the websites of any ticketing service provider used to purchase a ticket to our Events and Venues, or when you use WiFi at any of our Events and Venues.
 
-We may, without your consent, share Personal Information and other data with service providers who provide certain services on our behalf, or in the other circumstances noted below. For example, we may share certain Personal Information we collect with third parties such as providers of data hosting or processing services, payment processors, or other service providers. We also reserve the right to share any information we possess or data derived from it with service providers or others if such information has been reasonably de-identified.
+We also receive personal data about you from third parties, including:
 
-In the event that we go through a business transition, such as a merger, acquisition, liquidation or sale of all or a portion of our assets, customer data, including Personal Information, will, in most instances, be part of the assets transferred, or may be disclosed (subject to confidentiality restrictions) during the due diligence process for a potential transaction.
+  * ticket agents such as AXS, Ticketmaster and others, who transfer personal data to us when you purchase a ticket from them for our Events and Venues;
+  * Event promoters, producers, and other partners or similar parties that provide us information in connection with products and services you purchase from them, or when you express interests (e.g. team preference or mailing list sign up) that relate to Our Group;
+  * ad networks, behavioral advertising vendors, market research, and social media companies or similar companies who provide us with additional personal data about you and your household, demographics, preferences, etc.
+  * Facebook and other social media companies who may transfer personal data to us when you register for one of our Services, or interact with that social media company on or in connection with our Services, Events and Venues; and
+  * Service providers, such as companies providing WiFi service at our Events and Venues, or other third parties that provide services on our behalf.
 
-In limited circumstances, we may, without your consent, access and disclose your Personal Information, any communications sent or received by you, and any other information that we may have about you to the extent we believe such disclosure is required by law, regulation, rule or court order; pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Use, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose Personal Information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat.
 
-It is possible for you to use our Digital Services without providing any Personal Information, but you may not be able to access certain features or view certain content. You may, to the extent such information is shared, opt out of having your information provided to third parties for marketing or other commercial purposes, and opt out of additional communications from us. Please note, if you do not wish for us to provide certain information to one or more of our service providers, we may be unable to complete a transaction you request.
 
-You can unsubscribe from all email newsletters or similar communications by clicking on the unsubscribe link in every email. You may opt out of all information sharing with third parties for marketing purposes by contacting us at the address or email below. You may control or limit information we collect using proximity beacons or other location services and networks by changing your preferences in your device's location services preferences menu, or through your choices regarding Bluetooth, WiFi, and other network interfaces you may use to interact with our Digital Services.
+We will combine any personal data about you that we receive from you, from other companies in Our Group, and from third parties. Note that certain third parties may be able to identify you across sites and services using the information they process, however, any such processing not done at the direction of AEG is outside the scope of this Privacy Policy.
 
-Please note, if you do not wish for us to provide certain information to one or more of our commercial service providers, we may be unable to complete a transaction you request. You can unsubscribe from all email newsletters or similar communications by clicking on the unsubscribe link in every email. You may opt out of all information sharing with third parties for marketing purposes (if any) by contacting us at the address or email below.
+All personal data that we obtain about you will be used in accordance with current data protection law and this Privacy Policy. We, or third party data processors acting on our behalf, will process your personal data for the following purposes, subject to your rights and choices below:
 
-You may access or update any Personal Information we hold about you by sending a letter or email using the contact information listed below. We will respond to reasonable requests for access or revision and will provide access to the extent required or allowed by law. However we may decide not to grant access or make revisions where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in any given case, or when the rights of others would be violated by granting the access.
+__When you make a purchase or other transaction through our Service__
 
-To obtain a list of the Personal Information that Staples Center holds about you, or for residents of California (as required by California law) any Personal Information Staples Center has disclosed about you to third parties for direct marketing purposes during the preceding calendar year, please send a written, signed request to: Staples Center, Attn: Marketing and Communications, 1111 S. Figueroa St. Los Angeles, CA 90015.
+We generally process Identity Data, Financial Data, Transaction Data and Contact Data as necessary to perform or initiate a contract with you, process your order and payment, and carry out fulfillment and delivery.
 
-We have implemented reasonable security measures to safeguard the Personal Information you provide us. However, please keep in mind that we cannot be liable for the actions of third parties to whom we may transfer your Personal Information in accordance with this Policy, or third parties to whom you directly provide your Personal Information (such as when you purchase a ticket from a third party through links on our Digital Services). Furthermore, please remember that "perfect security" does not exist on the Internet, and accordingly we cannot provide any guarantee that your Personal Information or any other information you provide us will remain secure.
+In addition, we may also process this information along with Device Data, Online Services Data, and Preferences Data that we collect and/or create as necessary in connection with certain legitimate business interests, such as:
 
-Our Digital Services are neither directed at nor intended for use by minors. Further, we do not knowingly collect Personal Information from minors. If we learn that we have inadvertently done so, we will promptly delete it. Do not access or use the Digital Services unless you are 18 years old or older or under the supervision of your parent or guardian.
+  * ensuring the security of our Services and to prevent fraud; and
+  * providing you with information about our Services, to contact you about administrative matters, and to manage and respond to any queries or complaints you make or any correspondence you send us.
 
-By providing us with any Personal Information you expressly and unconditionally release and hold harmless Staples Center, its parents, subsidiaries, affiliates, related companies and their respective shareholders, owners, members, directors, officers, employees and agents (collectively, the "Releasees") from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected Personal Information. In addition, we cannot be held liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your Personal Information by any third parties who receive your Personal Information. We make no representations or warranty regarding any third-party's use, collection or disclosure of your Personal Information.
 
-By using any of our Digital Services, you consent to the terms of this Policy. We may change this Policy from time to time. We will post the effective date for this and any revised policy. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest Policy. Your continued use of our Digital Services constitutes your acceptance of any revised Policy.
 
-If you are accessing our Digital Services from outside of the United States, any information provided will be transferred to us or our service providers in the United States. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy. You consent to such transfer through your continued use of our Digital Services.
+__When you attend Events or visit our Venues__
 
-If you have any questions about this Policy, our privacy practices, or your dealings with our Digital Services, please contact:
+We generally process Identity Data and Event Access data as necessary to grant you access to the Events and Venues and provide the services or products you have purchased.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+In addition, we may process this data in combination with Online Services Data, Preferences Data and Location Data that we collect and/or create as necessary in connection with certain legitimate business interests, such as:
 
-or
+  * verifying your identity for authentication and security purposes;
+  * helping us to ensure our customers are genuine and to prevent fraud;
+  * to help us to return lost property to its rightful owner; and
+  * managing access to specific areas of  our Events and Venues (for example, we will use lists of people and/or vehicles to allow us to manage access to backstage or VIP areas).
 
-Staples Center  
-Attn: Marketing and Communications  
-1111 S. Figueroa St.  
-Los Angeles, CA 90015
 
-Under California Civil Code Section 1789.3, California the Site users are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
+
+Note, in certain cases, we may collect Health Data or Biometric Data. Health Data is generally used so that we can provide certain services to you such as to provide you with tailored services (for example, a wheelchair accessible space or a sign language interpreter) or to help us investigate an incident which may have taken place at our Events and Venues. Biometric Data may be used for access control, creating aggregate data, personalization, or other commercial purposes. In each case, where consent is required by law, we will process this information only with appropriate consent.
+
+__Closed Circuit Television (CCTV)__
+
+We may collect and/or create CCTV data as necessary in connection with certain legitimate business interests, such as
+
+  * preventing and detecting crime and to keep people who visit and work at our Events and Venues safe and secure;
+  * recording and investigating health and safety and other incidents which have happened or may have happened at our Events and Venues;
+  * counting the numbers of people who visit our Events and Venues and to analyze flows of people around the Events and Venues for safety and commercial purposes using software which analyzes CCTV camera images; and
+  * creating _aggregate data_.
+
+
+
+__When you access or use our online Services__
+
+We generally process Device Data as necessary to initiate or fulfill your requests for certain features or functions through our Services, such as keeping you logged in, delivering pages, etc.
+
+In addition to Device Data, we may also process Online Services Data, Contact Data, Identity Data, and Preferences Data that we collect, create, and/or receive (including through the use of _cookies and similar technologies_ ) as necessary in connection with certain legitimate business interests, such as
+
+  * ensuring the security of our websites, mobile applications and other technology systems; and
+  * analyzing the use of our Services, including navigation patterns, clicks, etc. to help understand and make improvements to the Services.
+
+
+
+__When you enter a contest or other promotion_ _
+
+We process Identity Data, Contact Data, and User Content as necessary to process your request to enter the contest, or take part in a promotion, notify you if you have won or to process delivery of a prize or for other related purposes.
+
+In addition, we may process this information in connection with our legitimate business interests, such as:
+
+  * verifying your identity for authentication and security purposes; and
+  * helping us to ensure our customers are genuine and to prevent fraud.
+
+
+
+Note, if you win a contest/sweepstakes, we may publicly post some of your data on our website or mobile application (for example acceptance of a prize may also require you to allow us to post publicly some of your personal data such as on a winners’ page). Where required by law, your information will not be posted without your consent.
+
+__Other processing purposes__
+
+We may process any personal data we control as necessary, for our legitimate interests in providing the Services and ensuring they operate safely, securely and in a commercially suitable way, and for the good governance of our business, such as keeping business records, and analyzing the use of our Services.
+
+We may also process any personal data as necessary to comply with our legal obligations, such as where you exercise your rights under data protection law and make requests, or where we must comply with our legal obligations, lawful requests from government or law enforcement officials, and as may be required to meet national security or law enforcement requirements or prevent illegal activity. We may also process data to protect the vital interests of individuals, or on certain public interest grounds, each to the extent allowed under applicable law.
+
+Entertainment is personal, and we are always working to help you find the best concerts, festivals, sports, and other events for you to enjoy. In order to understand our customers’ preferences, and better recommend products and services that are personalized to our prior customers, we may link together personal data processed for the following purposes:
+
+  * _when you make a purchase or other transaction through our Service;_
+  * _when you attend our Events and Venues;_
+  * _when you access and use our online Services; and_
+  * _when you enter a contest or other promotion._
+
+
+
+We use this information for our legitimate interests in:
+
+  * _market research and statistical analysis in connection with the improvement of our Services_ ;
+  * _personalizing_ the Services and future offers you see;
+  * creating _aggregate data_ ; and
+  * _marketing communications._
+
+
+
+We may also process this personal data for _targeted advertising_. However, where consent to processing is required by law, we will link and process this information for targeted advertising only with appropriate consent.
+
+__Aggregated data__
+
+We will collect and aggregate on an anonymous basis information about you, your spending and use of our Services with information about other users of the Services in order to identify trends (“ **Aggregated Data** ”). We may pass Aggregated Data to the third parties referred to in the section below to give them a better understanding of our business and to bring you a better service. Aggregated Data will not contain information from which you may be personally identified.
+
+__Marketing communications__
+
+Consistent with our legitimate business interests, we (or if appropriate, our _third party_ partners) may send you marketing and promotional communications if you sign up for such communications or purchase products or services from us. Where allowed, we may also send you these communications if you register for our Services or for a promotion, or in connection with your communications with, or submission of User Content to, us. These communications may be _personalized_ or customized based on your user profile. Similarly, we may also collect device data and contact data so that we can determine whether you have opened an email or otherwise interacted with our communications, and we may generate preferences data based on these interactions.
+
+__Personalization and profiling__
+
+We or other companies in Our Group will combine any personal data about you that we receive from you, from other companies in Our Group, and from third-parties in order to create marketing profiles.
+
+Marketing profiles include personal data such as information about Services you have used or purchased previously, information about when you have visited our Events and Venues in the past and which parts of the building you visited or events you attended, demographic data and data from your social media profiles.
+
+For example, we may analyze the personal data of people who have purchased tickets for a particular future event that we promote, operate, provide services for, or that is hosted at one of our Events and Venues, and then compare them with other people in our database. If we identify people in our database who have similar personal data to the original purchasers, we may then target marketing about that event to the new people we have identified in our database, for example by sending direct marketing emails. We may conduct the profiling and send the direct marketing emails automatically.
+
+__Targeted Advertising__
+
+Our Group, and certain third parties operating on or through our Services, may engage in targeted advertising. This form of advertising includes various parties and services providers, including third party data controllers, engaged in the processing of personal data in connection with advertising. These parties may be able to identify you across sites, devices, and over time.
+
+The parties that control the processing of personal data for behavioral advertising purposes may create or leverage information derived from _personalization and profiling_. In some cases, these parties may also develop and assess aspects of a profile about you to determine whether you are a type of person a company wants to advertise to, and determine whether and how ads you see are effective. These third parties may augment your profile with demographic and other preferences data derived from these observations, and may also track whether you view, interact with, or how often you have seen an ad, or whether you complete a purchase for a good or services you were shown in an advertisement.
+
+We generally use targeted advertising for the purpose of marketing our Services and third party goods and services, to send marketing communications, including by creating custom marketing audiences on third-party websites (such as Facebook).
+
+In order to streamline certain business operations, improve Service personalization and behavioral marketing _,_ develop products and services that better meet the interests and needs of our customers, and promote information we believe will be of interest to you, we will share your personal data with other companies in Our Group, as well as any other current or future affiliated entities, subsidiaries, and parent companies of AEG.
+
+In connection with our general business operations, product/service improvements, to enable certain features, and in connection with our other legitimate business interests, we may share your personal data with service providers who provide certain services or process data on our behalf.
+
+In order to improve personalization, deliver more relevant advertisements, and develop better products and services, we may share certain personal data with current or future affiliated entities and trusted third parties for marketing, advertising, or other commercial purposes, and we may allow third parties (such as Facebook and social media advertisers, ad exchanges, data management platforms, or ad servers) to operate on our Services and process data for behavioral advertising.
+
+Where allowed by law, or with your consent, we will share your personal data with other trusted third parties, for example the artists, promoters or sponsors we work with. In certain cases, these parties may use your personal data for marketing or promotional purposes by sending you information about related products or services that may be of interest to you.
+
+If you use any social media plugin, API, or other similar feature, use an event hashtag or similar link, or otherwise interact with us or our Services via social media, we may make your post available on our Services or to the general public. We may share, rebroadcast, or redisplay personal data or other information in the post to the extent permitted by the relevant social media service.
+
+We will also disclose your personal data to third parties in the following circumstances:
+
+  * if we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * if we or substantially all of our assets are acquired by a third party, in which case personal data held by us will be one of the transferred assets;
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, any lawful request from government or law enforcement officials and as may be required to meet national security or law enforcement requirements or prevent illegal activity;
+  * in order to enforce or apply our Terms of Use or any other agreement or to respond to any claims, to protect our rights or the rights of a third party, to protect the safety of any person or to prevent any illegal activity; or
+  * to protect the rights, property, or safety of Our Group, our customers or other persons. This may include exchanging personal data with other organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+If you are located outside the US, your personal data may be transferred to and/or processed in a location outside of the European Economic Area (EEA).
+
+In particular, your personal data may also be processed by staff operating in the United States or outside the EEA working for us, other members of Our Group or third-party data processors. Such staff may be engaged in, among other things, the provision of our Services to you, the processing of transactions and/or the provision of support services.
+
+Some countries outside Europe do not have laws that protect your privacy rights as extensively as those in Europe. However, if we do transfer your personal data to other territories, we will put in place appropriate safeguards to ensure that your personal data are properly protected and processed only in accordance with this Privacy Policy. Those safeguards include imposing contractual obligations of adequacy or requiring the recipient to subscribe to or be certified with an ‘international framework’ of protection. You can obtain more information about the safeguards we put in place by _contacting us_ using the information below.
+
+**We retain information for so long as it, in our discretion, remains relevant to its purpose, and in any event, for so long as is required by law.   We will review retention periods periodically, and may sometimes pseudonymize or anonymize data held for longer periods, if appropriate.  **
+
+**However, in some circumstances we will retain your personal data for a shorter period, such as CCTV footage, which will be retained as required by law**.  Similarly, we will retain your personal data for longer if we believe we may need them in order to respond to any claims, to protect our rights or the rights of a third party, and we will retain your personal data for longer if we are required to retain them in order to comply with applicable laws.
+
+We will always retain your personal data in accordance with data protection law and never retain your personal data for longer than is necessary.
+
+To the extent applicable law grants you the right to do so, you may _contact our Data Privacy Team_ (using the information below) at any time, to:
+
+  * request that we provide you with a copy of the personal data which we hold about you;
+  * request that we update any of your personal data which are inaccurate or incomplete;
+  * request that we delete any of your personal data which we are holding;
+  * request that we restrict the way that we process your personal data;
+  * request that we provide your personal data to you or a third-party provider of services in a structured, commonly-used and machine-readable format;
+  * object to us processing personal data based on our legitimate interests, including profiling; or
+  * object to us processing your personal data for direct marketing purposes.
+
+
+
+Your request must include your name, email address and postal address and we may request proof of your identity. Please allow at least seven working days for us to process your request.
+
+Residents of California (and others as required by applicable law) may request a list of personal data we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year. You may submit your request by _contacting us_ regarding “data rights requests”. Please note, we may request any additional information from you which may be required by or appropriate under applicable law to fulfill your request.
+
+Individuals under the age of 18 in California can delete or remove posts using the same deletion or removal procedures described above, or otherwise made available through the Services. If you have questions about how to remove your posts or if you would like additional assistance with deletion you can _contact us_. We will work to delete your information, but we cannot guarantee comprehensive removal of that content or information posted through the Services.
+
+You may control or limit location data that we collect through our Services by changing your preferences in your device’s location services preferences menu, or through your choices regarding the use of Bluetooth, WiFi, and other network interfaces you may use to interact with our Services. However, please note that use of RFID technologies may be necessary for the functioning of hardware required for certain processing of personal data.
+
+Our Services do not respond to your browser’s do-not-track request. If you do not want information collected through the use of cookies, you can manage/deny cookies (and certain technologies) using your browser’s settings menu. You must opt out of third party services directly via the third party. For example, to opt-out of Google’s analytic and marketing services, visit [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html), the [Google Privacy Policy](http://www.google.com/privacypolicy.html), or [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
+
+You may opt out or withdraw your consent to behavioral advertising. You must opt out of third party services directly via the third party. For example, to opt out of Google’s use of cookies, visit Google’s Ads Settings, [here](https://adssettings.google.com/). To opt out from Facebook Custom Audience Pixel, visit their customer support page [here](https://www.facebook.com/help/247395082112892). To learn more about how to opt out of Twitter’s use of audience pixels, visit the Twitter help page [here](https://support.twitter.com/articles/20170407). If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance’s opt-out page at <http://www.aboutads.info/choices> or the Network Advertising Initiative at [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). You can limit or opt out of our processing for behavioral advertising by _contacting us_ using the information below
+
+Where we are processing your personal data based on your consent, you may change your mind and withdraw your consent at any time.
+
+You can withdraw your consent to receive marketing communications by clicking on the unsubscribe link in an email or by adjusting the push message settings for the mobile application.
+
+You can also withdraw your consent to receive marketing communications or any other consent you have previously provided to us by _contacting us_ using the information below.
+
+The consequence of you withdrawing consent might be that we cannot perform certain services for you, such as location based services, the availability of personalized services or relevant advertising, or other services conditioned on your consent.
+
+You may also make a complaint to a supervisory authority for data protection matters. Complaints should be directed to the appropriate supervisory authority in your jurisdiction. Alternatively you may seek a remedy through local courts if you believe your rights have been breached.
+
+We use industry standard technical and organizational security measures to protect your personal data. We keep your personal data secure by implementing policies, procedures and access controls so that only authorized members of our staff or authorized third parties can access your personal data. We protect our information technology systems with firewalls and anti-virus and anti-malware software and other information security technology solutions. When we transfer your personal data to third parties we use encryption.
+
+We cannot guarantee the security of your personal data when you transmit it to us. For example, if you email us your personal data, you should be aware that email is not a secure transmission method. As such, you acknowledge and accept that we cannot guarantee the security of your personal data transmitted to us and that any such transmission is at your own risk. Once we have received your personal data, we will use strict procedures and security features to prevent unauthorized access.
+
+Where we have given you (or where you have chosen) a password which enables you to access one of our Services, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+We sometimes provide you with links to other websites or mobile applications, but these websites and mobile applications are not under our control. We are only responsible for the privacy practices and security of our Services. We are not responsible for the privacy policies, content or security of any linked websites or mobile applications. We recommend that you check the privacy and security policies of each and every website and mobile application that you visit.
+
+In some instances, a third party may operate or host a contest/sweepstakes on our websites or mobile applications, and collect your personal data. In those cases, where we are not the operator or host of the contest/sweepstakes, we have no control over the personal data collected and accordingly urge you to review the third party’s privacy policy before participating.
+
+We use cookies and web beacons on our websites. Third parties also view, edit, or set their own cookies or place web beacons on our websites. Cookies and web beacons allow us and third parties to distinguish you from other users of our websites. Some of these technologies can be used by us and/or our third party partners to identify you across platforms, devices, sites, and services. Third parties may engage in behavioral advertising using this data.
+
+Cookies and web beacons are used by us and third parties for the following purposes:
+
+  * to enable certain features of our websites (for example, to allow a customer to maintain a basket when they are shopping at an online store);
+  * to analyze the traffic to and on our websites (for example, we can count how many people have looked at a specific page, or see how visitors move around the website when they use it, what website the visited prior to visiting our website, and use this information to understand user behaviors and improve the design and functionality of the website);
+  * for social media integration e.g. via third-party social media cookies, or when you share information using a social media sharing button or “like” button on our Services or you link your account or engage with our content on or through a social networking website such as Facebook or Twitter; and
+  * to collect information about your preferences and demographics to help target advertisements which are more likely to be of interest to you using behavioral advertising;
+  * to allow us to carry out retargeting (this includes, for example, when advertisements are presented to you for products or services which you have previously looked at on a website, but have not purchased).
+
+
+
+The use of these technologies by such third parties is subject to their own privacy policies and is not covered by this Privacy Policy, except as required by law.
+
+Our Services are neither directed at nor intended for use by children under the age of 13 in the US, or under the age of 13 to 16 in the EU, depending on the local jurisdiction. We do not knowingly collect personal data from such individuals. If we learn that we have inadvertently done so, we will promptly delete it. Do not access or use the Services if you are not of the age of majority in your jurisdiction unless you have the consent of your parent or guardian.
+
+Feel free to contact us with questions or concerns using the appropriate address below.
+
+General inquiries:       [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#375042524443445245415e54524477444356475b52445452594352451954585a)
+
+Marketing choices:     [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#395a4f58575d5c4b51565652794a4d5849555c4a5a5c574d5c4b175a5654)
+
+Data rights requests:   [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9dedeff4ebfcfee4ddfcf8faeaf2eff1f9eaf4f9f8b3fef2f0)
+
+Data Privacy Team:    [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90e0e2f9e6f1f3e9d0f1f5f7e7ffe2fcf4e7f9f4f5bef3fffd)
+
+Physical address:        L.A. Arena Company, LLC, Attn: Privacy, 1111 S. Figueroa Street, Los Angeles, CA, 90015
+
+We reserve the right to change our Privacy Policy from time to time. Any such changes will be posted on this page so that we can keep you informed about how we process your personal data. We recommend that you consult this page frequently so that you are aware of our latest Privacy Policy and can update your preferences if necessary. Your continued use of our Services shall constitute your acceptance of any revised Privacy Policy.
+
+This Privacy Policy was last updated on September 19, 2018.
