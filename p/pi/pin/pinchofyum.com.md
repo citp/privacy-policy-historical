@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinchofyum.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030013222id_/https%3A//pinchofyum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinchofyum.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504232741id_/https%3A//pinchofyum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for pinchofyum.com - Pinch of Yum
 
@@ -9,15 +9,9 @@ As the owner of this website (pinchofyum.com, referred to as the “Site”), Pi
 ## WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
   * **Information You Voluntarily Submit to the Site:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Site by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records.
-
-
-  * **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
-
-
-  * **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
-
-
-  * **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
+  *  **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
+  *  **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+  *  **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
 
 
@@ -49,7 +43,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
-(e) <https://support.apple.com/kb/PH21411> (Safari); and
+(e) [](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)<https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac> (Safari); and
 
 (f) [https://privacy.microsoft.com/en-us/windows–10-microsoft-edge-and-privacy](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)(Edge).
 
@@ -59,7 +53,7 @@ Please note that blocking cookies may have a negative impact on the functions of
 
 We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website.
 
-Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
+Google’s privacy policy is available at: <https://policies.google.com/privacy?hl=en-US>
 
 ### comments
 
@@ -116,6 +110,10 @@ We may process information relating to transactions, including purchases of good
 We use [Hotjar](https://www.hotjar.com/) in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users’ experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).
 
 You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link](https://www.hotjar.com/legal/compliance/opt-out).
+
+## One Signal
+
+Pinch of Yum uses One Signal to send web notifications for new posts and other recipes. One signal only collects a user’s country of residence. Any information obtained by One Signal is not shared with any third parties.
 
 ## LeadPages
 
