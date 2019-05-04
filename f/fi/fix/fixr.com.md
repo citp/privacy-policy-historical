@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924233350id_/https%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504023709id_/https%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fixr
 
