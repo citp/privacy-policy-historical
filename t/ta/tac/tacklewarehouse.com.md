@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacklewarehouse.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213020645id_/https%3A//www.tacklewarehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacklewarehouse.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504081312id_/https%3A//www.tacklewarehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Tackle Warehouse
 
