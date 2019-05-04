@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231120327id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504153207id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Photo of the day:
 
-[ ](http://www.motorstown.com/298-suzuki-swift.html)
+[ ](http://www.motorstown.com/153-kia-picanto.html)
 
 | 
 
