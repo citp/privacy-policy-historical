@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glocals.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721105821id_/https%3A//www.glocals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glocals.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504143937id_/https%3A//www.glocals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
