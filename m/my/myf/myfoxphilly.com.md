@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the myfoxphilly.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626052700id_/http%3A//www.fox29.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxphilly.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504183714id_/http%3A//www.fox29.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WTXF
 
 **_Fox Television Stations Privacy Policy_**
 
-Effective  September 7, 2017
+ ** _What’s Changed  _**
+
+  As a result of a recent corporate transaction between 21st Century Fox and The Walt Disney Company, Fox Television Stations, LLC, and its affiliated entities operating one or more FTS Websites, have become part of the newly formed Fox Corporation. We have updated the information about our corporate affiliates in the privacy policy accordingly.
+
+Effective March 19, 2019
 
 Table of Contents:
 
@@ -20,7 +24,7 @@ Table of Contents:
 
 1\. **INTRODUCTION**
 
-Fox Television Stations, LLC, and certain of its affiliated entities (collectively, “FTS” or “we”) operate a group of news and entertainment websites (each an “FTS Website”) on behalf of their owned and operated television stations. FTS wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as FTS Websites, mobile sites, applications (“apps”), and widgets (collectively, the “FTS Services”). By using FTS Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at [http://www.21cf.com](http://www.21cf.com/).
+Fox Television Stations, LLC, and certain of its affiliated entities (collectively, “FTS” or “we”) operate a group of news and entertainment websites (each an “FTS Website”) on behalf of their owned and operated television stations. FTS wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as FTS Websites, mobile sites, applications (“apps”), and widgets (collectively, the “FTS Services”). By using FTS Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at <https://www.foxcorporation.com/>.
 
 As set forth in our [Terms of Service](http://www.my9nj.com/terms-of-service), the FTS Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
