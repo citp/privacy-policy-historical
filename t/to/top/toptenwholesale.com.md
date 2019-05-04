@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenwholesale.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928173035id_/https%3A//www.toptenwholesale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenwholesale.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504082655id_/https%3A//www.toptenwholesale.com/privacy.html) for the most accurate reproduction.*
 
 # JP Communications Privacy Policy
 
