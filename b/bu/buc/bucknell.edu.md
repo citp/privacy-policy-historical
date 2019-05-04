@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bucknell.edu privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204211825id_/https%3A//www.bucknell.edu/x362.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucknell.edu privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504210426id_/https%3A//www.bucknell.edu/x362.xml) for the most accurate reproduction.*
 
 # Bucknell University Internet Privacy Statement | Bucknell University
 
