@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipocentral.in privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129023613id_/http%3A//www.ipocentral.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipocentral.in privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504135546id_/https%3A//www.ipocentral.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IPO Central
+# Privacy Policy – IPO Central
 
 IPO Central (“IPO Central“) operates IPO Central.com and may operate other websites. It is IPO Central’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -43,3 +43,6 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 **Privacy Policy Changes**
 
 From time to time, and in IPO Central’s sole discretion.IPO Central encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have an IPO Central.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+  
+
