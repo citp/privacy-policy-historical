@@ -1,30 +1,36 @@
-> *The following text is extracted and transformed from the screamandcream.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425022416id_/http%3A//cash.pornocruto.es/paysites/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screamandcream.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504191952id_/http%3A//ww43.screamandcream.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-**Tritax Investments Limited** and associated companies and affiliated companies hereinafter to be collectively reffered to as Tritax Investments Limited through its websites hereinafter to be collectively called "the Site" is committed to providing a secure experience and safeguarding your personal information. This Privacy Statement was created to explain why we collect particular information and how we will protect your personal privacy within our Web site. We reserve the right to change this policy at any time, and will post any new privacy policy here. By using or navigating around the Site or utilizing any of the services we provide here, you acknowledge that you have read and understand and agree to be bound by this Privacy Statement. If you do not agree to be so bound, do not remain on the Site.
+* **Overview**
 
-Contact Information. Some areas of our Site request or require you to provide your contact information (such as your name and email address). Your contact information may be used to communicate with you when necessary with respect to transactions conducted through the Site and material changes in the Site's policies. We may also send you information about **Tritax Investments Limited** and/or promotional materials from the Site and some of our partners. We will not sell, share or rent any contact information collected from you except as disclosed in this Privacy Statement. All contact information provided to the Site is maintained on our secure servers. 
+Thank you for visiting ww43.screamandcream.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-Financial Information. We or the third party billing companies acting as our authorised resellers collect financial information (such as your credit card information) on an as-needed basis to bill you for products and services you purchase through the Site and to fulfill your orders. If we have trouble processing an order, the contact information discussed above will be used to get in touch with you. We will not sell, share or rent any financial information collected from you except as necessary to fulfill your order. All financial information provided to the Site is maintained on our secure servers and   
-similar rules are applied to our third party authorised resellers.
+* **What Type of Information We Collect**
 
-Demographic Information. We collect anonymous demographic information (such as your zip code, gender and age), and may use this data to tailor your experience at our Site, provide content that we think you might be interested in, and display the content according to your preferences. Such demographic information may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. No personally identifiable information will be linked to aggregated demographic information.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-Internet Protocol Address. We collect an IP address from all visitors to our Site. We use your IP address for purposes of traffic analysis.
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-Third Party Service Providers. We sometimes use third party vendors and service providers to manage certain aspects of the services we provide, such as maintaining our servers and processing or fulfilling orders for products and services you purchase through the Site. In those instances, your contact and financial information may either be collected by or shared by us with such third party service providers as necessary to fulfill your requests and, in some cases, your information may be retained by such third party service providers for their records. We generally require that such third party service providers agree to safeguard your information with at least the same level of protection as afforded by our Privacy Policy.
+* **Uses May Include**
 
-Other. We may disclose your personal information in special cases if required to do so by law, court order or other government or law enforcement authority; or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact or bring legal action against someone who may be causing injury to or interfering with the rights or property of **Tritax Investments Limited** , another user or anyone else that could be harmed by such activities.
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-Cookies. The Site uses "cookie" technology to enhance your online experience by making it easier for you to navigate through our Site or to make a feature work better. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. We do not extract information about individual users or their computers during this process. It is not necessary to accept a cookie to navigate the Site, but you must accept a cookie in order to purchase access to the Site.
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-Consumer Research. We may monitor your use of this service (such as your session time and clickstream data), and use or disclose any such information gathered as part of our evaluation and operation of the Site and the services we make available. We may develop and use, in our sole discretion, consumer research which may be based on your use of such services. 
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-All marketing information shall be subject, in all cases, to compliance with the applicable rules and regulations of the Federal Communications Commission, EU IT directive, Dutch IT law and other relevant laws and regulations, as the same may be amended from time to time. No personally identifiable information will be shared or is linked to consumer research.
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
 
-Security. We are committed to maintaining the security of your personally identifiable information and have measures in place to protect against the loss, misuse and alteration of the information under our control. All credit transactions occur in a secure area of the Site using Secure Sockets Layer ("SSL") software to process orders. SSL encrypts the information you input on the Site. In addition, all user information is stored in a secure location behind a firewall with limited administrative access.
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
 
-Public Forums. This Site makes available chat rooms, forums, message boards, and/or news groups to our users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
 
-Third Party Links. The Site contains links to other World Wide Web Internet sites, resources and sponsors of **Tritax Investments Limited**. Selection of an ad banner or link will redirect you off of the Site to a third party Web site. **Tritax Investments Limited** is not responsible for the privacy practices of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding any external link to the site administrator or Webmaster of that third party Web site.
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
