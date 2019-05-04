@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y2mate.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211233021id_/https%3A//y2mate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y2mate.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505004314id_/https%3A//y2mate.com/privacy-policy) for the most accurate reproduction.*
 
 # Y2mate.com policy - The best Youtube converter online
 
