@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodo.com.au privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820165009id_/https%3A//www.dodo.com/media/combinedImages/10763/dod_a0800_terms_booklet_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodo.com.au privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504092854id_/https%3A//www.dodo.com/media/combinedImages/10763/dod_a0800_terms_booklet_privacy_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
