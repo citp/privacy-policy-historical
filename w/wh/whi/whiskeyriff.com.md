@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiskeyriff.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218202614id_/http%3A//www.whiskeyriff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiskeyriff.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504143122id_/https%3A//www.whiskeyriff.com/privacy) for the most accurate reproduction.*
 
 # Terms And Conditions | Whiskey Riff
 
