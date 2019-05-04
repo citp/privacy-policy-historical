@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcu.ie privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212130109id_/https%3A//www.dcu.ie/info/regulations/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcu.ie privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504141213id_/https%3A//www.dcu.ie/info/regulations/privacy.shtml) for the most accurate reproduction.*
 
 # Information - Dublin City University Privacy Statement | DCU
 
@@ -18,7 +18,7 @@ Dublin City University does not collect any personal data about you on this webs
 
 ### Collection and use of technical information
 
- _[Cookies](https://web.archive.org/web/20181212130109id_/https%3A//www.dcu.ie/info/regulations/cookies.shtml)_
+ _[Cookies](https://web.archive.org/web/20190504141213id_/https%3A//www.dcu.ie/info/regulations/cookies.shtml)_
 
 may be used by the DCU website to collect non-personal information about how visitors use our website or to remember display preferences.  Temporary session cookies may also be used in some areas to enable specific functionality (e.g. portal pages).  Session cookies are deleted once you close your browser session. 
 
