@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kraken.io privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000316id_/https%3A//kraken.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraken.io privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504064048id_/https%3A//kraken.io/about/privacy) for the most accurate reproduction.*
 
-# About · Kraken.io
+# Privacy Policy · Kraken.io
 
 ### General Information
+
+Please read these Terms carefully, and contact us if you have any questions. By using Kraken, you agree to be bound by these Terms and our Privacy Policy.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
@@ -14,15 +16,19 @@ We collect information from you when you register on our site, place an order or
 
 We use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
+We keep your information only so long as we need it to provide Kraken to you and fulfil the purposes described in this policy.
+
+At any time you may decide to stop using our services and ask us to remove all the information we collected when you first registered on our site. To do that, please contact us here: [support@kraken.io](mailto:support@kraken.io)
+
 ### Data Protection
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, financials, etc.) will NOT be stored on our servers.
+After a transaction, your private information (credit cards, financials, etc.) will NOT be stored on our servers. Once you enter your credit card information it will be encrypted and send to our Payment gateway providers’ database.
 
-### Cookies
+### Cookies Policy
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
 
@@ -42,4 +48,4 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 If we decide to change our privacy policy, we will post those changes on this page, and update the Privacy Policy modification date below.
 
-This Privacy Policy was last modified on: **January 4, 2013**
+This Privacy Policy was last modified on: **May 18, 2018**
