@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubridge.org privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102101722id_/http%3A//www.ubridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubridge.org privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504083913id_/http%3A//www.ubridge.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - University Bridge
 
