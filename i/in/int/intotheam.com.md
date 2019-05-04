@@ -1,124 +1,210 @@
-> *The following text is extracted and transformed from the intotheam.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120053833id_/https%3A//www.intotheam.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intotheam.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504043323id_/https%3A//www.intotheam.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - INTO THE AM
+# INTO THE AM Privacy Policy
 
-**PRIVACY STATEMENT**
+At INTO THE AM, we are committed to protecting the personal information of all our customers and site visitors. When you visit our website, [www.intotheam.com](https://www.intotheam.com/) (the "Site") owned and operated by INTO THE AM Clothing LLC., ("INTO THE AM," "we," "us," or "our"), we ensure any information that we collect is completely safe and secure. We are the data controller for all our services, the one in charge of protecting your privacy.
 
-**SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**
+We published this notice to help you understand:
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. 
+  * When and why we collect information from you
+  * How we use the data that we collect
+  * Who we share your data with and why
+  * What your rights are concerning any personal data we collect
 
-When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. 
 
-**  
-SECTION 2 - CONSENT**
+### What Information We Collect
 
-How do you get my consent?
+We are dedicated to collecting data only when it is essential to improving your shopping experience and the ease with which you can interact with our site. The information we collect is either "Personal Information," information like your name or email that can be used to personally identify you, or "Non-Personal Information," information like your IP address or browser type that does not personally identify you.
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
+### Personal Information We Collect:
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
+  * When You Create an Account 
+    * First Name
+    * Last Name
+    * Email
+  * When You Place an Order 
+    * Full Name
+    * E-mail address
+    * Phone Number
+    * Credit card number (we do not store this information)
+    * Shipping Address
+    * Billing Address
+    * Purchase Order
+  * When You Contact Us 
+    * Full Name
+    * Email Address
+    * Record of Live Chat or Email Messages
+  * When You Submit a Product Review 
+    * Full Name
+    * User Submitted Images/Videos (when applicable)
 
-How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at support@intotheam.com or mailing us at:
 
-240 S Loara St
+### Non-Personal Information We Collect:
 
-Anaheim, Ca 92802
+  * the IP address of your computer and the country that it is located in
+  * The items in your current cart
+  * the type of browser software that you are using
+  * the dates and times that you access our website
+  * the website address that linked you to our site, if applicable
+  * search engine search terms used and clicks on our advertisements
+  * other data about how you navigate and use our site (i.e. what you click)
 
-United States
 
-**  
-SECTION 3 - DISCLOSURE**
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
+### Cookies
 
-**  
-SECTION 4 - SHOPIFY**
+We use cookies in order for our site to recognize you during individual and repeat visits to our website. To learn more about how our cookies work, check out [our cookie policy](https://www.intotheam.com/pages/cookie-policy).
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. 
+### How We Use Your Information
 
-Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+We want you to know how and why we use all the information that we collect. Everything we do with your data is done for one or more of the following reasons:
 
+**legitimate interests** , when your data is used to allow us to provide you the best possible browsing, shopping, and delivery experience;
+
+**consent** , when your data is used in a way that you specifically agreed for us to use it;
+
+**contractual** , when your data is used to fulfill a contractual agreement;
+
+**legal obligation** , when your data is used due to a legal or statutory requirement;
+
+Check out the tables below for a full explanation of the main ways that we could use your data and our reason(s) why:
+
+**Contact Information (Name, Email Address, Phone Number, Delivery Info)**
+
+How we use your contact information | Why We Do This  
+---|---  
+Set up your user account | A user account allows you to maintain your wishlist and your cart across devices, view your order history, save your past delivery information, and more. It makes your life easier! (legitimate interests)  
+Send you order updates via email, text message, or Facebook Messenger | If there is an issue that prevents us from shipping the items that you ordered, we will contact you to fix the problem (contractual). We will only contact you via email or the channel(s) that you agreed to.  
+Send info about new products, back in stocks, or special offers via email and/or text message | We only send marketing messages when you agree to receive them on specific platforms (consent).  
+Detect and prevent fraud | We want to catch potential fraud crimes before it can affect you or us (legal obligation / legitimate interests).  
   
-Payment:
+**Your Gender**
 
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
-
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. 
-
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
-
-For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
-
-**  
-SECTION 5 - THIRD-PARTY SERVICES**
-
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.  
-
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
-
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.  
-
-In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
-
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
-
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
-
+How we use your payment information | Why We Do This  
+---|---  
+Send you relevant marketing messages (if you gave us consent to message you) | We want to send you information about products that are most relevant to the gender with which you identify.  
   
-Links
+**Your Payment Information (we do not save any credit card info)**
 
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+How we use your payment information | Why We Do This  
+---|---  
+Process your order | We require your payment info so we can capture your payment for an order. It allows us to fulfill our contractual agreement to send you the products that you ordered (contractual).  
+Detect and prevent fraud | We want to catch potential fraud crimes before it can affect you or us (legal obligation / legitimate interests).  
+  
+**Your Message History with Us (via email, text message, or social media)**
 
-Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at. 
+How we use your message history | Why We Do This  
+---|---  
+Provide you Customer Support | Our customer support team ensures you receive what you paid for (contractual) and guides you through our website experience when you have issues (legitimate interests).  
+Identify Common Issues with our Website or our Products | We use your feedback to improve our website experience and the quality of our product offering. If customers experience a common issue, we do our best to understand and fix it (legitimate interests).  
+Train Our Customer Support Team | We may use past conversations as examples to train our staff to give the best possible customer service (legitimate interests).  
+  
+**Your Purchase History and Cart**
 
-**  
-SECTION 6 - SECURITY**
+How we use your purchase history and cart | Why We Do This  
+---|---  
+Allow you to make a purchase | We need to know what’s in your cart so we can sell it to you (contractual).  
+Notify you via email or text message when you left items in your cart | If you start checking out and get distracted before you finish your purchase, we’ll send you a message to remind you about the items you wanted (legitimate interests). You must clearly agree to notification via email and/or text (consent).  
+Handle returns, exchanges, and cancellations | Our customer service team needs to reference your purchase history in order to process any changes to your order after it is processed (contractual / legitimate interests).  
+Track sales trends | We look at what items our customers are ordering most to ensure we have the best selection of items in stock and are always releasing new items that you’ll love (legitimate interests).  
+  
+**Your Browser and Network Information (IP Address, Browser/Phone Type, etc.)**
 
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+How we use your browser and network info | Why We Do This  
+---|---  
+Display website information relevant to your current country (currency, free shipping threshold, etc.) | The IP Address of your computer tells us what country you are located in. We use this to create the best possible website experience for you (legitimate interests).  
+Improve our website experience | We strive to offer the best website experience on all devices and browsers (legitimate interests).  
+Protect our data and our website experience | We review site visitor information to detect malicious attacks that could affect the speed of our website and/or the security of our data (contractual / legitimate interests).  
+  
+**Your Site Use Information (what pages you visit on our site, the link you clicked to get to our site, the dates and times you visit our site, etc)**
 
-If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+All site use information is anonymous and viewed in aggregate (so it does not identify you and we don’t see your personal history). We also share this information with third parties.
 
-**  
-SECTION 7 - COOKIES**
+How we use your site use information | Why We Do This  
+---|---  
+Research and Analysis | We need to understand what our customers like and how they are using our website in order to provide them the best possible website experience and product selection (legitimate interests).  
+Identify Issues with our Website | Reviewing website use data allows us to see which pages are hard for people to use and how we can improve them (legitimate interests).  
+Enhance our Product Selection | We look at which products and collections are getting the most traffic in order to keep favorites in stock and produce new products that you’ll love (legitimate interests).  
+  
+**Your Submitted Photos/Videos (via product review requests)**
 
- Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
+How we use your photos/videos | Why We Do This  
+---|---  
+Enhance the Shopping Experience | We may display photos/videos that you submit to us via product reviews or Instagram mentions on this store or our Amazon account product pages. This lets other customers see how great our products look in person! (consent / legitimate interests)  
+  
+### Where We Share Your Information and Why
 
- _session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+We have not and will not sell your information to a third party, ever. That would be a direct violation of our promise to keep your data safe and secure. We do, however, share some information with trusted partners who help maintain our privacy mission. They fall into a few categories:
 
- _shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+**Shipping & Delivery**
 
- _shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+We need to share information with our shipping partners so they can get your order to the right doorstep. We only work with highly respected delivery services like USPS, FedEx, UPS and DHL and share as little personal information as possible.
 
-cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+**Payment Processing**
 
- _secure_session_id, unique token, sessional
+We use third-party payment processing providers in order to take payments securely. This keeps your sensitive credit card and other payment information safe. We do not store your credit card information on our site.
 
- storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+**Fraud Detection Agencies**
 
-PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
+We work with credit card reference and fraud detection companies to ensure the safety of our customers and our business from fraud crimes. This allows us to cancel fraudulent orders before the victim is affected.
 
-**  
-SECTION 8 - AGE OF CONSENT**
+**IT Companies**
 
-By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+We work with select third parties to improve our website technology and experience. We share limited information only when it is absolutely essential.
 
-**  
-SECTION 9 - CHANGES TO THIS PRIVACY POLICY**
+**Marketing Companies**
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+We work with third party companies for marketing features such as product reviews and email notifications. Any personal information that they use is limited and secure.
 
-If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+**The Emazing Group**
 
-**  
-QUESTIONS AND CONTACT INFORMATION**
+We are part of The Emazing Group of companies (INTO THE AM Clothing LLC, iHeartRaves LLC, EmazingLights LLC). When necessary, we share limited information in order to improve the shopping experience for all of our customers.
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@intotheam.com or by mail at 
+Outside of these groups, we only share personal data with companies approved by you. For example, if you choose to use a social media site to login or create an account on our store, then you must consent for that social media site to share clearly stated information with us.
 
-240 S Loara St
+We may also share anonymous, aggregated data with select third parties. This data does not contain any personal information and will not identify you amongst our other customers and website visitors.
 
-Anaheim, Ca 92802
+### How Long We Keep Your Information
+
+We retain your information as long as it is needed to provide services to you. This can include as long as you maintain a customer account with us or as long as needed to provide our customer support services - if you have a message history with us.
+
+There are a few reasons we may retain your information for more or less time than the above-stated scenarios:
+
+  * We are required by law (an existing regulation or one enacted in the future) to retain your information for a longer period or delete it in a shorter period.
+  * You exercise your right to request that we delete all your information and we do not have existing legal obligations to hold on to it.
+  * We enter into a legal claim or other proceedings that involve your information. This could include fraud, abuse, terms & conditions violations, or another type of legal dispute. We will then retain your personal information until the proceedings and any appeals have concluded.
+
+
+
+### Marketing messages
+
+If you gave us your clear consent, we may send you marketing messages via the following channels: email, text message, or Facebook Messenger. We will only send messages via the channel or channels that you agreed to receive messages through.
+
+Every marketing message that you receive from us will contain clear instructions on how you can unsubscribe from receiving any future marketing messages via that channel. If you are unable to find how to unsubscribe from a specific channel or wish to opt-out of all marketing messages at once, please contact us at [support@intotheam.com](mailto:support@intotheam.com). We will ensure you are opted-out and removed from our marketing message system.
+
+### Your RIghts
+
+You have a number of rights to ensure your privacy and the security of your data:
+
+  * The right to know the extent of information we collect and where it is used
+  * The right to have your information corrected or completed if inaccurate
+  * The right to have your information deleted
+  * The right to restrict how we use and process your information
+  * The right to request we copy or transfer your information to you or a third party
+  * The right to object to your information being processed by us
+  * The right to withdraw consent for any consent-based processing (like receiving marketing messages) at any time
+  * The right to complain to your country’s data protection regulator
+
+
+
+If you’d like to exercise any of your above rights, please contact us at [dataprotection@intotheam.com](mailto:dataprotection@intotheam.com).
+
+### Our Policy Towards Children
+
+We will not knowingly collect any information from any person below the age of 13. If you are a parent or guardian and know that your child has provided us with personal information without your consent, please contact us at [dataprotection@intotheam.com](mailto:dataprotection@intotheam.com). We will promptly delete the personal information of anyone under the age of 13.
+
+### How to Contact Us
+
+You can contact us at [dataprotection@intotheam.com](mailto:dataprotection@intotheam.com) with any questions or concerns regarding your personal information. We will act quickly to fulfill your request to the full extent of your rights.
