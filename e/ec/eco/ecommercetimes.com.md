@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommercetimes.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124704id_/https%3A//www.ectnews.com/about/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommercetimes.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504124752id_/https%3A//www.ectnews.com/about/privacy.xhtml) for the most accurate reproduction.*
 
 # ECT News Network Privacy Policy
 
