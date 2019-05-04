@@ -1,59 +1,69 @@
-> *The following text is extracted and transformed from the businesscontentplr.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185435id_/https%3A//contentsparks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesscontentplr.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504081019id_/https%3A//contentsparks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Content Sparks
+# Privacy Policy | Content Sparks
 
-ContentSparks.com values the trust our customers place on us. This privacy statement is intended to explain what ContentSparks.com does with your information, and what you can expect from us. In today's technological age, we know you care about how information about you is used and shared . Our policies explain that any information you provide is used only as necessary to conduct business.
+**Content Sparks.com & RJZ Marketing Privacy Policy – Last updated 23 May, 2018**
 
-**What information do we collect?**
+### Summary:
 
-We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. Like many websites, we use “cookies” to enhance your experience and gather information about visitors and visits to our websites. Please refer to the “Do we use ‘cookies'?” section below for information about cookies and how we use them.
+We collect your data (specifically outlined below, but generally basic information about you in a professional context, such as email, job title, company name, etc) strictly to provide you with access to our news, products, events and other programs. We will not share this data with anyone unless you explicitly consent to us doing so. We honor your right to privacy and will comply with your wishes to remove your data from our systems.
 
-**How do we use your information?**
+### Our commitment to privacy:
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. To allow us to better service you in responding to your customer service requests. To quickly process your transactions. To administer a contest, promotion, survey or other site feature. If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional email from us, please refer to the “How can you opt-out, remove or modify information you have provided to us?” section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and ‘members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+You deserve to know how we collect and use the data you provide to us, and that’s what we are providing to you on this page. This notice applies to all information collected or submitted on the ContentSparks.com website, or the website of our sister sites, specifically Offers.ContentSparks.com. 
 
-**How do we protect visitor information?**
+**This notice was updated on 23 May, 2018 to reflect GDPR compliance standards.**
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+### How we use your information:
 
-**Do we use cookies?**
+We use the data you provide to us for the following purposes:
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly.
+Provide you with access to the content, products and events we produce.  
+Analyze profile or behavioral data to help us improve the products we offer to you.  
+In specific cases we will be contractually obligated to share your data with one of our third party advertisers or partners (for example, webinars, downloads or special events). In these instances, we will make it clear that the data you share will be transferred to the third party. You will always have the option to not have your data shared by not taking part in that specific program.  
+We will store this information to keep you informed about other relevant products, events or content that may be useful to you.
 
-**Do we disclose the information we collect to outside parties?**
+We will never use or share the information provided to us online in ways unrelated to the ones described above.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include our business. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Some information, such as IP and your email address, may be shared with the following third parties who help us run our website, marketing and email programs. They will only use this information to serve our needs and are prohibited from using it in any other instance. 
 
-**How can you opt-out, remove or modify information you have provided to us?**
+3rd Party Services we currently work with are: LeadPages (behavioral marketing and email acquisition), Google (ad serving and website tracking), Active Campaign & SendGrid (email), Formidable Forms (email acquisition), Connectio.io (facebook ad tracking) and Zapier (automated systems and processes) Demio (webinar services).
 
-To modify your e-mail information, please let us know by modifying your preferences in the “My Account” section. Please note that due to email production schedules you may receive any emails already in production. To delete all of your online account information from our database, sign into the “My Account” section of our site and remove any shipping addresses, billing addresses & payment information. If you have any difficulty in removing information, please contact our support desk at support@contentsparks.com. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+### Consequences of failure to provide consent:
 
-Each e-mail newsletter you receive from us has instructions on how to unsubscribe at the bottom of each email.
+Consenting to allow us to process and store your data is optional. However, failure to provide that consent will prevent us from delivering the content, products, events and other experiences to you as mentioned above.
 
-**Third party links**
+### The information we collect:
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+Across our web platform, products and events, you will be presented with the opportunity to sign up for newsletters, purchase event passes, submit your information to access content such as white papers or webinars, apply for access to certain events and more.
 
-**Blog & Other Voluntary User Participation**
+**The type of information collected on those pages generally includes but is not limited to:**  
+Email address  
+Name  
+Job title or seniority  
+Location  
+Company name  
+Company type  
+Mailing/billing address
 
-Please note that information or any comments you post directly to the blog or other portions of this website can be viewed by the general public (excluding email addresses included in blog comments – these are not shown to the public).
+Credit/debit card information (*NOTE: we do not save or store this information, and it will only be shared with our payment processors in order to complete the transaction in which you are engaging.)
 
-By participating or commenting in any area of the website, you agree that we may reproduce any of your contributions elsewhere on the website, in advertising or in our newsletter. However, we will only publish the information that you make available to other members.
+Based on the information you provide to us, we may create or append other information to your profile in the interest of better serving you (for example, your interests). As is the case with all data we collect, this will be kept private and for our business purposes only.
 
-Please note: Any personal information you submit via our contact form is not published on our website and is only shared with contractors or employees as necessary to provide appropriate customer service. The exception is where you have voluntarily submitted a marketing question you would like to be answered. Questions and answers are published on the site so that everyone can benefit from the answers.
+### How to ask us to delete your data: (GDPR – Right to Erasure)
 
-**Copyright**
+If you would like to unsubscribe from our communications at any time, you may do so in the footer of any of our emails. If you would like us to delete your information entirely, or request a copy of the information we store about you, please complete and submit a request at https://contentsparks.com/contact. Otherwise, by continuing to interact with our emails, products and programs, you provide us with explicit permission to manage and use your data as described above.
 
-All documents, information and logos included on this website are copyright RJZ Marketing and Content Sparks, except where noted. Any reproduction of other documents or information is strictly prohibited without the written consent of RJZ Marketing and Content Sparks.
+**[CLICK HERE to Submit a Data Removal Request](https://contentsparks.com/contact/)** We ask that you submit your request using our Support Ticketing System so we can comply and document our response and the process for you. (https://contentsparks.com/contact)
 
-**Terms of Use**
+### Our commitment to the security of your data:
 
-All advice provided on this website and in our courses is for general informational purposes only. We are not responsible for any losses that may occur as a result of following this advice. Please review our [earnings disclaimer](https://contentsparks.com/disclaimerdisclosure/) for more information.
+To prevent unauthorized parties from accessing your data and maintain the accuracy and cleanliness of our own data while ensuring the correct use of it, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**Policy Changes**
+**[CLICK HERE to Submit Questions About Our Privacy Policy& How We Use Data](https://contentsparks.com/contact/)** We ask that you submit your questions via our Support Ticketing System so we can comply and document our response and the process for you. [Contact Page](https://contentsparks.com/contact) (https://contentsparks.com/contact).
 
-We reserve the right to make changes to these policies and encourage you to review the privacy policy frequently. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+***********************************************************
 
-**Your Consent To This Agreement**
+QUESTIONS/COMMENTS/CONCERNS: If you have any questions about the contents of this page, or simply wish to reach us for any other reason, [CLICK HERE to Contact us](https://contentsparks.com/contact/).
 
-By using the ContentSparks.com site, you consent to the collection and use of information by ContentSparks.com as specified above.
+[All Disclosures](https://contentsparks.com/all-legal-disclosures/) | [Anti-Spam Policy](https://contentsparks.com/anti-spam-policy/) | [Copyright Notice](https://contentsparks.com/copyright-notice/) | [Cookie Disclosure](https://contentsparks.com/cookie-disclosure/) | [Disclaimer](https://contentsparks.com/disclaimer/) | [DMCA Compliance](https://contentsparks.com/dmca-compliance/) | [FTC Compliance](https://contentsparks.com/ftc-compliance/) | Privacy Policy | [Refund Policy](https://contentsparks.com/refund-policy/) | [Social Media Disclosure](https://contentsparks.com/social-media-disclosure/) | [Terms & Conditions](https://contentsparks.com/terms-of-use/)
