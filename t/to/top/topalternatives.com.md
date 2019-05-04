@@ -1,61 +1,105 @@
-> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302133014id_/https%3A//topalternatives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504082948id_/https%3A//launchparty.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TopAlternatives
+# Privacy Policy | LaunchParty
 
-_This Agreement was last modified on January 1, 2016._
+**Updated: December 16, 2017**
 
-#### The information we collect
+_LaunchParty LLC_ (“us”, “we”, or “our”) operates the [https://launchparty.org](https://launchparty.org/) website (the “Service”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The following notice (items 1-2) applies to all information collected or submitted on the _topalternatives.com_ website.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms And Conditions](https://web.archive.org/terms/).
 
-**1\. Signing up for our email newsletter**  
-On some pages you can sign up to receive our free email newsletter. We collect your email address only. We use this information only when sending you our latest newsletter messages. We will never provide your personal information to any third party and promise to only send relevant information pertaining to our website _topalternatives.com_.
+## Information Collection And Use
 
-We follow all rules and regulations put forth in the CAN-SPAM Act. You can unsubscribe yourself from our email list at any time by clicking the unsubscribe link found at the end of each and every email we send.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, your name (“Personal Information”), etc.
 
-**2\. Tracking and statistics**  
-We use only non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-#### Legal disclaimer
+## Log Data
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and  
+other statistics.
 
-#### Security
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+## Cookies
 
-If you have any questions about security on our website, you can email us by using our [email contact form](https://topalternatives.com/contact/ "Contact Form").
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-#### Cookies
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-A cookie is a small text file that is stored on a user’s computer for record keeping purposes. We use cookies on this site. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.)
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+## Do Not Track Disclosure
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
+We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-#### Third-party cookies
+## Behavioral Remarketing
 
-The use of cookies by our partners, tracking utility company, or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, tracking utility company, or service providers use session ID cookies to make it easier for you to navigate our site.
+_LaunchParty LLC_ may use remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-#### Keystrokes (instant search)
+## Google
 
-In an effort to improve the functionality of the “instant search” feature on our website, we may record any keystrokes entered into the search form field. The data we receive will help improve the overall usability and ease-of-use of _topalternatives.com_.
+Google AdWords remarketing service is provided by Google Inc. You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings page](http://www.google.com/settings/ads). Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-#### Our commitment to privacy
+For more information on the privacy practices of Google, please visit the [Google Privacy & Terms web page](http://www.google.com/intl/en/policies/privacy/).
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+## Facebook
 
-#### How to contact us
+Facebook remarketing service is provided by Facebook Inc. You can learn more about interest-based advertising from Facebook by [visiting this page](https://www.facebook.com/help/164968693837950).
 
-Should you have other questions or concerns about these privacy policies, please contact us by using our email contact form or the following postal address.
+To opt-out from Facebook’s interest-based ads follow these [instructions from Facebook](https://www.facebook.com/help/1075880512458213/).
 
-TopAlternatives, LLC  
-500 S Congress Ave  
-#228  
-Austin, TX 78704  
-United States
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other  
+participating companies through the [Digital Advertising Alliance](http://www.aboutads.info/choices/) in the USA , the Digital  
+[Advertising Alliance of Canada](http://youradchoices.ca/) in Canada or the [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) in Europe, or opt-out using your mobile device settings.
 
-#### Changes in this privacy statement
+For more information on the privacy practices of Facebook, please visit [Facebook’s Data Policy](https://www.facebook.com/privacy/explanation).
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently.
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service related services and/or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+
+## Communications
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+
+## Customer Testimonials
+
+We post user testimonials and customer testimonials on our website which may contain personally identifiable information.
+
+## Business Transaction
+
+If _LaunchParty LLC_ is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
+
+## Security
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information  
+we have collected from you.
+
+## International Transfer
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a child under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+This Privacy Policy is effective as of December 11, 2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/contact/).
