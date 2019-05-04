@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720130147id_/http%3A//www.nyc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504135726id_/https%3A//www.nyc.com/privacy.htm) for the most accurate reproduction.*
 
 # NYC.com Privacy Policy
 
@@ -6,7 +6,7 @@ As New York City's portal, our goal is to offer the best of the city in one conv
 
 #### What This Privacy Policy Covers
 
-  * This privacy policy pertains to the use of the NYC.com web site found at both <http://www.nyc.com/> and <http://www.newyorkcity.com/>
+  * This privacy policy pertains to the use of the NYC.com web site found at both <https://www.nyc.com/> and <http://www.newyorkcity.com/>
   * This privacy policy covers how NYC.com treats personal information that NYC.com collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
   * Children under 13 are not permitted to use the NYC.com service, and so this privacy policy makes no provision for children's use of the site.
 
