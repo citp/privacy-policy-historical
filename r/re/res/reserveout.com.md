@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reserveout.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917071424id_/https%3A//www.reserveout.com/en/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reserveout.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504134716id_/https%3A//www.reserveout.com/en/content/privacy) for the most accurate reproduction.*
 
 # Privacy
 
