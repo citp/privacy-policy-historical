@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the www.duckdns.org privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214012705id_/http%3A//duckdns.org/pp.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.duckdns.org privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504100912id_/http%3A//duckdns.org/pp.jsp) for the most accurate reproduction.*
 
 # Duck DNS - privacy policy
 
 Duck DNS Privacy Statement  
-(last updated December 1st 2018) 
+(last updated December 14th 2018) 
 
 Dear DuckDNS User: we put this Privacy Statement in place so that you know how we handle your data. 
 
@@ -80,7 +80,7 @@ Access to the database via the AWS Console is secured through MFA. Data in the d
 Duck DNS’ data controller is Duckbill Holdings (Canada) Ltd.   
 If there is a breach of our database or the database of any third party that we use, we will make reasonable efforts to notify you if you are affected as well as the relevant authorities that we are required to contact under law. 
 
-Users of DuckDNS can request a copy of any of their personal information that we have in our system by sending an email to the person who handles our data protection at privacy@duckdns.org. Users can also delete their DuckDNS account at any time through the "Account" page. 
+Users of DuckDNS can request a copy of any of their personal information that we have in our system by sending an email to the person who handles our data protection at privacy@duckdns.org. Requests that are sent to another DuckDNS email account may take longer to process. Users can also delete their DuckDNS account at any time through the "Account" page. 
 
 Any privacy-related issues or concerns about DuckDNS, the website or the DDNS Service , including data correction (updates to your personal information) or other data subject access requests, can also be directed to privacy@duckdns.org or to the following address: PO Box 53046 City Centre, Victoria, British Columbia V8W 3Z2. 
 
