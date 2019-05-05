@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilait.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916010317id_/https%3A//ilait.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilait.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505081856id_/https%3A//www.ilait.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Data Processing Agreement - Ilait
 
