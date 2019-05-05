@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the image-maps.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023130145id_/http%3A//www.image-maps.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the image-maps.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505090906id_/http%3A//www.image-maps.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - pages - Image Maps
 
