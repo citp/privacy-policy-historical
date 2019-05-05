@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.co.za privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726034734id_/https%3A//tripadvisor.mediaroom.com/za-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.co.za privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505184900id_/https%3A//tripadvisor.mediaroom.com/za-privacy-policy) for the most accurate reproduction.*
 
 # ZA Media Center | Resources
 
