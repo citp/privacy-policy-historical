@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the outreach.com privacy policy that was archived on 2017-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171029170900id_/http%3A//outreach.com/privacy.aspx%3Fref%3DFooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outreach.com privacy policy that was archived on 2019-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190505142649id_/https%3A//www.outreach.com/privacy.aspx%3Fref%3DFooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head id="MasterHeader"><meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -28,20 +28,20 @@
 <!-- Final CSS load for w2p new header and footer -->
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,500,700,400italic">
 <link rel="stylesheet" href="/content/site/site.css?v=1">
-<link rel="stylesheet" href="/content/site/header-footer.css?v=1">
+<link rel="stylesheet" href="/content/site/header-footer.css?v=2">
 
 <!-- JavaScripts -->
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KM5BZ2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/images/global/js/lib/jquery-1.7.2.min.js?20120417092146"></script>  
+<script type="text/javascript" async="" src="//c.lytics.io/api/tag/c71db31893a13b8dbeacfde75fb20cf5/lio.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KM5BZ2"></script><script type="text/javascript" src="/images/global/js/lib/jquery-1.7.2.min.js?20120417092146"></script>  
 
 <script src="/images/global/js/lib/jquery-ui-1.8.20.custom.min.js?20120430145204"></script>
 
 <script src="/images/global/js/modernizr-1.7.min.js?20110331143604"></script>
 
 <script src="/images/global/js/outreach.global.js?20160108100239"></script>
-<script src="/images/global/js/outreach.global.gn.min.js?20171018172835"></script>
+<script src="/images/global/js/outreach.global.gn.min.js?20190222063315"></script>
 <script src="/images/global/js/outreach.global.fuctions.min.js?20110526115416"></script>
-<script src="/global/js/slidingMenu.js?20100323151036"></script>
-<script src="/scripts/site/umc-overrides.min.js?v=1"></script>
+<script src="/global/js/slidingMenu.js?20180427070946"></script>
+<script src="/scripts/site/umc-overrides.min.js?v=3"></script>
 
 <script src="/scripts/site/outreach-search.js?v=3"></script>
 <script src="/scripts/site/outreach-footer.js?v=1"></script>
@@ -70,71 +70,99 @@
     
 <script src="/images/global/js/lib/jquery.tools.min.js?20100628085433"></script>
 
+    <!-- Google Analytics -->
     <script type="text/javascript">
+        $(document).ready(function () {
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-293620-12']);
 
-        (function() {
+            if (Cookies.get('internalclient') != 1) {
+                if (Cookies.get('site-skin') == "UMC Skin") {
+                    _gaq.push(['_setAccount', 'UA-293620-70']);
+                }
+            }
+            _gaq.push(['_trackPageview']);
+        });
+
+        (function () {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
 
+        // Google Tag manager
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KM5BZ2');
+        // End google tag manager
     </script>
-    <script type="text/javascript" id="gaTrackPageView">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-293620-12']);
-        _gaq.push(['_setDomainName', 'outreach.com']);
-        _gaq.push(['_trackPageview']);
-        
+    <!-- Lytics -->
+    <script type="text/javascript">
+        window.addEventListener('load', function () {
+            window.jstag = function () { function t(t) { return function () { return t.apply(this, arguments), this } } function n() { var n = ["ready"].concat(c.call(arguments)); return t(function () { n.push(c.call(arguments)), this._q.push(n) }) } var i = { _q: [], _c: {}, ts: (new Date).getTime(), ver: "2.0.0" }, c = Array.prototype.slice; return i.init = function (t) { return i._c = t, t.synchronous || i.loadtagmgr(t), this }, i.loadtagmgr = function (t) { var n = document.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = t.url + "/api/tag/" + t.cid + "/lio.js"; var i = document.getElementsByTagName("script")[0]; i.parentNode.insertBefore(n, i) }, i.ready = n(), i.send = n("send"), i.mock = n("mock"), i.identify = n("identify"), i.pageView = n("pageView"), i.bind = t(function (t) { i._q.push([t, c.call(arguments, 1)]) }), i.block = t(function () { i._c.blockload = !0 }), i.unblock = t(function () { i._c.blockload = !1 }), i }(), window.jstag.init({ cid: "c71db31893a13b8dbeacfde75fb20cf5", url: "//c.lytics.io", min: true, loadid: false });
+        });
     </script>
+	<!-- End Lytics -->
 
     <script type="text/javascript">
         window.liosetup = window["liosetup"] || {};
         window.liosetup.loadid = true;
     </script>
     <script src="https://c.lytics.io/api/tag/c71db31893a13b8dbeacfde75fb20cf5/lio.js"></script>
-<link id="LandingCSS" rel="stylesheet" href="/print/store/css/landing.css?20150204154225" type="text/css" media="all">
+<link id="LandingCSS" rel="stylesheet" href="/print/store/css/landing.css" type="text/css" media="all">
 
-</head>
+<script src="https://client.crisp.chat/l.js" async=""></script></head>
 <body id="bodyid" class="one-column page">
     <form method="post" action="/privacy.aspx?ref=Footer" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 </div>
 
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
-<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yJgHxaC3x6feGcy52iDcXd8aUwoGqT7we6fDIBRIX7ndRXYiWQADD6ZaMAMi7xZEHiztWsEz-r38qe8NN0c6bExysw_z28zpqkDaIol3MHZWfxU3mbs38Qzcy659Bd41tSs3ewg1&amp;t=3d6efc1f" type="text/javascript"></script>
-        
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMkB5i8FpsZS7IqbUjvPGvRUPSp9Qfn2KK3Ed98OMh0zX9d8zw2&amp;t=636776473224055265" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yJgHxaC3x6feGcy52iDcXd8aUwoGqT7we6fDIBRIX7ndRXYiWQADD6ZaMAMi7xZEHiztWsEz-r38qe8NN0c6bExysw_z28zpqkDaIol3MHZWfxU3mbs38Qzcy659Bd41tSs3ewg1&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadGuRJ-LDLn6LLQ5apxT9nBaeFRZGNaa2sXsCRMxG6y58pE1Px8FIE9FejP-8or_vW1PLeb_xUGbetiw7hmXEZXoj-pLU1SyR6rl-JW8gD81QaqlPLJVlYkkgKGJdPG2QCpUXTXk1&amp;t=ffffffff999c3159" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BSPMScriptManager', 'form1', ['tctl00$ctl00$LoginUpdatePanel','LoginUpdatePanel'], [], [], 90, 'ctl00$ctl00');
+//]]>
+</script>
+
         <div id="pagewrapper">
             <!-- begin #globalhead -->
             <div id="globalheader" class="marketing">
                 <div id="globalheaderTop">
                     <ul id="util">
                         <li class="util-nomargin">
-                            <!--start http://www.livehelpnow.net  -->
-                            <script type="text/javascript">
-                                window.onload = function () {
-                                    if (bLHNOnline == 0) {
-                                        //location.href='YOUR OFFLINE FORM URL';
-                                        document.getElementById('liveChat').innerHTML = 'Help';
-                                        document.getElementById('liveChat').className += "offline";
-                                    }
-                                }
-                                var lhnJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-                                function CustomOpenLHNChat() {
-                                    var wleft = (screen.width - 580 - 32) / 2;
-                                    var wtop = (screen.height - 420 - 96) / 2;
-                                    if (bLHNOnline == 0) {
-                                        //location.href='YOUR OFFLINE FORM URL';
-                                        window.open('/print/ArticleBlank.aspx?article_name=h-HelpApp', 'user3', 'width=520,height=600,left=40,top=40, scrollbars=yes,resizable=yes');
-                                    } else {
-                                        window.open('https://www.livehelpnow.net/lhn/livechatvisitor.aspx?lhnid=4675', 'lhnchat', 'left=' + wleft + ',top=' + wtop + ',width=580,height=435,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,copyhistory=no,resizable=yes');
-                                    }
-                                }
-                            </script>
-                            <script type="text/javascript">				            document.write(unescape("%3Cscript src='" + lhnJsHost + "www.livehelpnow.net/lhn/scripts/lhnvisitor.aspx?div=&amp;zimg=0&amp;lhnid=4675&amp;iv=0&amp;iwidth=0&amp;iheight=0&amp;zzwindow=0&amp;d=0&amp;custom1=&amp;custom2=&amp;custom3=' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://www.livehelpnow.net/lhn/scripts/lhnvisitor.aspx?div=&amp;zimg=0&amp;lhnid=4675&amp;iv=0&amp;iwidth=0&amp;iheight=0&amp;zzwindow=0&amp;d=0&amp;custom1=&amp;custom2=&amp;custom3=" type="text/javascript"></script>
-                            <a onclick="javascript:OpenLHNChat();return false;" href="#" id="liveChat"><i class="fa fa-comments"></i>&nbsp; Live Chat</a>
+                            <!--start Crisp Chat -->
+                            <script type="text/javascript">window.$crisp = []; window.CRISP_WEBSITE_ID = "2c2d272e-6e86-4fc6-bc34-f15814ee9d00"; (function () { d = document; s = d.createElement("script"); s.src = "https://client.crisp.chat/l.js"; s.async = 1; d.getElementsByTagName("head")[0].appendChild(s); })();</script>
+                            <!--end Crisp Chat  -->
                         </li>
-                        <!--end http://www.livehelpnow.net  -->
                         <li>
                             <a href="/print/article_full.aspx?article_name=a-contactus&amp;ref=header"><i class="fa fa-phone"></i>&nbsp; 800.991.6011</a>
                         </li>
@@ -186,7 +214,7 @@
                                                 <a id="LoginStatus1" title="Sign in to your My Outreach Account" href="/SignIn">Sign In</a>
                                             </span>-->
                                             <span class="cartLink">
-                                                <a id="CartLinkHeader" title="Shopping Cart" href="http://www.outreach.com/cart?ref=header">Cart (0)</a>
+                                                <a id="CartLinkHeader" title="Shopping Cart" href="https://www.outreach.com/cart?ref=header">Cart (0)</a>
                                             </span>
                                         </li>
                                     </span>
@@ -199,44 +227,44 @@
                 <!--END globalheaderContainer-->
 
                 <div id="gn_main">
-    <ul>
-        <li id="gn_main_1">
-            <a id="HeaderBarPostcards" href="/Church-Postcards/" title="Church Postcard Mailings" class="gn-link gn-postcards">Postcards<span></span></a>
-        </li>
-        <li id="gn_main_2">
-            <a id="HeaderBarInvitations" href="/Church-Invite-Tools/" title="Outreach Invite Tools" class="gn-link gn-invitations">Invite Tools<span></span></a>
-        </li>
-        <li id="gn_main_3">
-            <a id="HeaderBarBulletins" href="/Church-Bulletins/" title="Bulletins" class="gn-link gn-bulletins">Bulletins<span></span></a>
-        </li>
-        <li id="gn_main_4">
-            <a id="HeaderBarBanners" href="/Church-Banners/" title="Church Banners &amp; Signs" class="gn-link gn-banners">Banners &amp; Signs<span></span></a>
-        </li>
-        <li id="gn_main_5">
-            <a id="HeaderBarWallArt" href="/Church-Wallart/" title="Wall Art" class="gn-link gn-canvas">Wall Art<span></span></a>
-        </li>
-        <li id="gn_main_6">
-            <a id="HeaderBarCampaigns" href="/Church-Campaigns/" title="Church Campaigns" class="gn-link gn-campaigns">Campaigns<span></span></a>
-        </li>
-        <li id="gn_main_7">
-            <a id="HeaderBarFilms" href="/films/" title="Outreach Films" class="gn-link gn-films">Films<span></span></a>
-        </li>
-        <li id="gn_main_8">
-            <a id="HeaderBarDesignSuites" href="/Church-Branding/" title="Branding" class="gn-link gn-designSuites">Branding<span></span></a>
-        </li>
-        <li id="gn_main_9">
-            <a id="HeaderBarWebsites" href="http://socialreach.outreach.com" title="Web &amp; Social" class="gn-link gn-websites" target="_blank">Web &amp; Social<span></span></a>
-        </li>
-        <li id="gn_main_10">
-            <a id="HeaderBarLearning" href="http://learningcenter.outreach.com" title="Learning Center" class="gn-link gn-learning">Learning Center<span></span></a>
-        </li>
-        <li id="gn_main_11">
-            <a id="HeaderBarSpeakers" href="/events/" title="Outreach Speakers" class="gn-link gn-speakers">Speakers<span></span></a>
-        </li>
-        <li id="gn_main_12" class="last-child">
-            <a id="HeaderBarMore" href="#" title="More Outreach Products" class="gn-link gn-more">More<span></span></a>
-        </li>
-    </ul>
+	<ul>
+		<li id="gn_main_1">
+			<a id="HeaderBarPostcards" href="/Church-Postcards/" title="Church Postcard Mailings" class="gn-link gn-postcards">Postcards<span></span></a>
+		</li>
+		<li id="gn_main_2">
+			<a id="HeaderBarInvitations" href="/Church-Invite-Tools/" title="Outreach Invite Tools" class="gn-link gn-invitations">Invite Tools<span></span></a>
+		</li>
+		<li id="gn_main_3">
+			<a id="HeaderBarBulletins" href="/Church-Bulletins/" title="Bulletins" class="gn-link gn-bulletins">Bulletins<span></span></a>
+		</li>
+		<li id="gn_main_4">
+			<a id="HeaderBarBanners" href="/Church-Banners/" title="Church Banners &amp; Signs" class="gn-link gn-banners">Banners &amp; Signs<span></span></a>
+		</li>
+		<li id="gn_main_5">
+			<a id="HeaderBarWallArt" href="/Church-Wallart/" title="Wall Art" class="gn-link gn-canvas">Wall Art<span></span></a>
+		</li>
+		<li id="gn_main_6">
+			<a id="HeaderBarCampaigns" href="/Church-Campaigns/" title="Church Campaigns" class="gn-link gn-campaigns">Campaigns<span></span></a>
+		</li>
+		<li id="gn_main_7">
+			<a id="HeaderBarChildren" href="/childrens-ministry/banners-and-wall-stickers" title="Children's Resources" class="gn-link gn-children">Children<span></span></a>
+		</li>
+		<li id="gn_main_8">
+			<a id="HeaderBarFilms" href="/films/" title="Outreach Films" class="gn-link gn-films">Films<span></span></a>
+		</li>
+		<li id="gn_main_9">
+			<a id="HeaderBarWebsites" href="http://socialreach.outreach.com" title="Web &amp; Social" class="gn-link gn-websites" target="_blank">Web &amp; Social<span></span></a>
+		</li>
+		<li id="gn_main_10">
+			<a id="HeaderBarLearning" href="http://learningcenter.outreach.com" title="BLOG" class="gn-link gn-learning">BLOG<span></span></a>
+		</li>
+		<li id="gn_main_11">
+			<a id="HeaderBarSpeakers" href="/events/" title="Outreach Speakers" class="gn-link gn-speakers">Speakers<span></span></a>
+		</li>
+		<li id="gn_main_12" class="last-child">
+			<a id="HeaderBarMore" href="#" title="More Outreach Products" class="gn-link gn-more">More<span></span></a>
+		</li>
+	</ul>
     <div id="gn_main_fix"></div>
 </div>
 
@@ -255,199 +283,664 @@
                     </div>
                     <div>
                         
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KM5BZ2"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <div id="main">
         
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400italic," rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
 
 <style>
-#promo_wrap {
-	margin:10px;
-}
-  
-  h2  {
-    font-family:Roboto, Helvetica, Arial, sans-serif;
-	font-size:20px;
-	text-align:left;
-	text-transform:uppercase;
-  }
-  
-.promo_content {
-	padding:10px 10px 0 15px;
-}
-
-p { margin:5px 0 10px 5px; }
-
-ol {
-    list-style-type: upper-roman;
-    margin-left:10px;
-    margin-bottom:0;
-    margin-top:25px;
-    }
-   
-ul {
-    margin-left:10px;
-    margin-bottom:15px;
-    }   
-    
-ol li {
-    color: #414141;
-    margin-left:15px;
-    margin-top:8px;
-    font-weight:bold;
-}
-
-ul li {
-    color: #414141;
-    margin-left:45px;
-    list-style-type: circle;
-    margin-top:8px;    
-    font-weight:normal;
-}
-
-blockquote {
-margin-left:20px;
-}
+	#promo_wrap {
+		margin: 10px;
+		font-family: 'Montserrat', sans-serif !important;
+	}
 
 
+	h2 {
+		
+		font-size: 20px;
+		text-align: left;
+		text-transform: uppercase;
+	}
+
+	.promo_content {
+		padding: 10px 10px 0 15px;
+	}
+
+	p {
+		margin: 5px 0 10px 5px;
+	}
+
+	ol {
+		margin-left: 10px;
+		margin-bottom: 0;
+		margin-top: 25px;
+	}
+
+	ul {
+		margin-left: 10px;
+		margin-bottom: 15px;
+	}
+
+	ol li {
+		color: #414141;
+		margin-left: 15px;
+		margin-top: 8px;
+		font-weight: bold;
+	}
+
+	ul li {
+		color: #414141;
+		margin-left: 45px;
+		list-style-type: circle;
+		margin-top: 8px;
+		font-weight: normal;
+	}
+
+	blockquote {
+		margin-left: 20px;
+	}
 </style>
 
 <div id="promo_wrap">
 	<!--promo_content start-->
-	<div class="promo_content"> 
+	<div class="promo_content">
 
-<h2 style="text-transform:uppercase; margin:10px 0;text-align:left;">Privacy Policy</h2>
-<p style="line-height:1.8em;">Outreach, Inc. and its Affiliates ("<strong>Outreach</strong>" or "<strong>We</strong>") know that you care about how the information we receive from you is used and shared, and we take your privacy seriously. This Privacy Policy describes Outreach's privacy practices in relation to information that we collect through websites operated by us from which you are accessing this Privacy Policy (collectively, the "<strong>Domains</strong>"), through our social media pages (collectively, the "<strong>Social Media Pages</strong>"), as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Domains, and the Social Media Pages, the "<strong>Sites</strong>"). "<strong>You</strong>" or a "<strong>user</strong>" refers to any individual who visits or otherwise uses the Sites. By using the Sites, you are accepting and agreeing to the practices outlined in this Privacy Policy.</p>
-<ol>
-  <li>What Types of Information Does Outreach Collect About its Users?</li>
-    <ul>
-      <li><strong>Personal Information.</strong> "Personal Information" is information that identifies you as an individual or relates to an identifiable individual, including: name, title, company name, job function, expertise, postal address, telephone number, or email address. If you submit any Personal Information relating to other people to us or to our service providers in connection with the Sites, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.</li>
-      <li> <strong>Other Information.</strong> "Other Information" is any information that does not reveal your specific identity or does not directly relate to an identifiable individual. This might include, for instance, browser and device information; information collected through cookies, pixel tags, and other technologies; demographic information and other information provided by you; or aggregated information. We use this information to facilitate our operation of the Sites and for other purposes described below.</li>
-      <li><strong>IP Address.</strong> Your "IP Address" is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever you access the Sites, along with the time of the visit and the page(s) that you visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. Outreach uses IP Addresses to calculate usage levels of the Sites, help diagnose problems with its servers, administer the Sites, and monitor the regions from which you navigate to Outreach's Sites.</li>
-  </ul>
-</ol>
-  <ol start="2">
-      <li> How Does Outreach Collect Information?</li>
-  </ol>
-<blockquote>
-  <p><strong>Personal Information.</strong> We may collect Personal Information in a variety of ways, including:</p>
-  <ul>
-    <li><strong>Through the Sites:</strong> We may collect Personal Information through the Sites, e.g., when you request a catalog, contact us, subscribe to our email newsletter, download content (e.g. free eBooks), or register to use our Sites.</li>
-    <li><strong>Offline:</strong> We may collect Personal Information from you offline, such as during phone calls with sales representatives, or when you contact customer service.</li>
-    <li><strong>Through You:</strong> Outreach may collect information such as your location or your preferred means of communication when you voluntarily provide it. Unless combined with Personal Information, this information does not personally identify you or any other user of the Sites. Note that there is no legal obligation for you to provide us with personal information and any information collected by us will be provided by you at your own will and with your consent.</li>
-    <li><strong>Information From Other Sources:</strong> In order to enhance our ability to provide relevant marketing, offers, and services to you, we may obtain information about you from other sources such as joint marketing partners, social media platforms, as well as from other third parties.</li>
-  </ul>
- <p><strong>Other Information.</strong> We may collect Other Information in a variety of ways, including:</p>
- <ul>
-   <li> <strong>Through Your Browser or Device:</strong> Certain information is collected by most browsers or automatically through your device, such as your computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the names(s) of the Outreach Sites you are using.</li>
-   <li><strong>Through Cookies and Other Similar Technologies:</strong> Cookies and other similar technologies may be used to collect Other Information, including  standard, non-personal internet log information: referring domain; pages visited; geographic location (country only);  date and time when Site pages were accessed; and details of your behavioural patterns upon visiting our Site pages). We may use third parties to serve advertisements on other websites that may be of interest to you, based on information collected about your use of our Sites and other websites.&nbsp; To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags and web beacons).&nbsp; Outreach does not recognize automated browser signals regarding tracking mechanisms, which may include 'do not track' instructions.</li>
-  </ul>
- <p>Outreach also uses a web analytics service, currently Google Analytics.</p>
- <p> Google Analytics is a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies and similar technologies to analyze how users use the Domains. The information generated about Domain usage (including your shortened IP address) is transmitted to Google in the U.S. This information is used to evaluate visitors' use of the Domain, compile statistical reports on Domain activity, and provide other services related to the Site and Internet use. Google may also collect information about Domain visitors' use of other websites. For more information about Google Analytics, or to opt out of Google Analytics, please go to: <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a>.</p>
- <ul>
-   <li> <strong>By Aggregating Information:</strong> Aggregated Personal Information does not personally identify you or any other user of the Sites (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code). </li>
- </ul>
-</blockquote>
-<ol start="3">
-  <li><strong> How Does Outreach Use  Information?</strong></li>
-</ol>
-<blockquote>
-  <p>We may use Personal Information:</p>
-  <ul>
-    <li>To respond to your inquiries and fulfill your requests, such as to send you newsletters.</li>
-    <li>To send administrative information to you, for example, to confirm orders or notice of a license or subscription expiration.</li>
-    <li>To communicate with you and provide you with related customer service.</li>
-    <li>To send you marketing communications, including via email in compliance with applicable laws, that we believe may be of interest to you.</li>
-    <li>To personalize your experience on the Sites by presenting products and offers tailored to you.</li>
-    <li>For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Sites and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.</li>
-    <li>As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.&nbsp; </li>
-  </ul>
-<p>We may use Non-Personal Information:</p>  
-<ul>
-	<li>To analyse what users do on the Sites.</li>
-	<li>To learn how visitors engage with the Sites, which we analyse to help us improve experiences on the Sites.</li>
-	<li>To customize visitors' experience on the Sites.</li>
-	<li>To provide more relevant marketing (advertisements, email messages, etc.) to visitors of The Sites.</li>
-	</ul>
-	
-</blockquote>
-<ol start="4">
-  <li> <strong>How Will Outreach Share Personal Information It Receives?</strong></li>
-</ol>
-<blockquote>
- <p>Information about our users is an integral part of our business. We only share your Personal Information as described in this Privacy Policy.</p>
- <p><strong>Affiliates:</strong><br>
- We may disclose Personal Information to our Affiliates (members of the Faith Web Network: <a href="http://www.outreachmediagroup.com">www.outreachmediagroup.com</a>)&nbsp; for the purposes described in this Privacy Policy. Outreach, Inc. is the party responsible for the management of the jointly-used Personal Information.</p>
- <p><strong> Outreach Social Media Pages:</strong><br>
- Personal Information may also be disclosed by you through the Sites, chat, and profile pages to which you are able to post information and materials. This information may appear in public ways, such as through search engines or other publicly available platforms, and may be "crawled" or searched by third parties. Please do not post any information that you do not want to reveal to the public at large.</p>
- <p><strong> Business Transfers:</strong><br>
- In some cases, we may buy or sell assets or businesses. In these types of transactions, user information is typically one of the business assets that is transferred. Outreach may disclose Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).</p>
- <p><strong>Protection of Outreach and Others:</strong><br>
- We may release Personal Information when we believe that release is necessary or appropriate (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce or apply our conditions of use and other agreements; (e) to protect our operations or those of any of our Affiliates; (f) to allow us to pursue available remedies or limit the damages that we may sustain; and (g) to protect the rights, privacy, property, or safety of Outreach, our employees, our Affiliates, our users, or any other person or entity. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
-</blockquote>
-<ol start="5">
- <li><strong>How Does Outreach Use and Disclose Other Information?</strong></li>
-</ol>
-<blockquote>
- <p>We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it for all the purposes for which we use and disclose Personal Information.</p>
- <p> In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we do, we will treat the combined information as Personal Information for as long as it is combined.</p>
-</blockquote>
-<ol start="6">
- <li><strong> How Does Outreach Secure Personal Information About Me?</strong></li>
-</ol>
-<blockquote>
- <p>We have implemented organizational, technical, and administrative measures to protect Personal Information within our organization, including security controls to prevent unauthorized access to our systems. While we take reasonable steps to secure your Personal Information from loss, misuse, interference and unauthorized access, modification and disclosure, you should be aware no security procedures or protocols are ever guaranteed to be 100 percent secure from intrusion or hacking, and there is therefore always some risk assumed by sharing Personal Information online. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of your account has been compromised), please immediately notify us in accordance with the "Questions, Concerns and Complaints" section below.</p>
-</blockquote>
-<ol start="7">
- <li><strong> How Can I Correct or Remove Information About Me?</strong></li>
-</ol>
-<blockquote>
-<p>If you feel that any Personal Information about you that has been collected and stored by Outreach is incorrect, or if you would Personal Information about you removed from our systems, please notify us at <a href="mailto:customerservice@outreach.com">customerservice@outreach.com</a> so that we may consider and respond to your request in accordance with applicable law. You may also request access to your Personal Information held by Outreach, by sending a written request to <a href="mailto:customerservice@outreach.com">customerservice@outreach.com</a>.</p>
- <p> For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable, subject to applicable law.</p>
- <p> Please note that we may need to retain certain information for record keeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion.</p>
-</blockquote>
-<ol start="8">
- <li><strong>For How Long Will Outreach Retain My Personal Information?</strong></li>
-</ol>
-<blockquote>
-  <p>We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. </p>
-</blockquote>
-<ol start="9">
- <li><strong>What Choices Do I Have?</strong></li>
-</ol>
-<blockquote>
- <p>You can always opt not to disclose information. However, if you elect to do so, we may be limited in responding to your inquiry or providing services to you.</p>
-	<p>You may opt-out of receiving marketing messages from Outreach or our Affiliates by sending an email to <a href="mailto:customerservice@outreach.com">customerservice@outreach.com</a>, by unsubscribing through the unsubscribe or opt-out link in an email. We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages.<br>
- </p>
-</blockquote>
-<ol start="10">
- <li><strong>Third Party Sites</strong></li>
-</ol>
-<blockquote>
- <p>The Sites may permit you to link to other websites on the Internet through direct links or through applications such as "share" or "Like" buttons, and other websites likewise may contain links to the Sites. The information practices or content of such other websites is governed by the privacy statements of those websites and not by this Privacy Policy.&nbsp; We encourage you to review the privacy policies found on such other websites, services, and applications to understand how your information may be collected and used.</p>
-</blockquote>
-<ol start="11">
- <li><strong>Sensitive Information </strong></li>
-</ol>
-<blockquote>
- <p>We ask that you not send us or disclose any sensitive Personal Information (e.g., social security numbers) on or through the Sites or via other means.</p>
-</blockquote>
-<ol start="12">
- <li><strong> Changes to this Privacy Policy</strong></li>
-</ol>
-<blockquote>
- <p>Outreach may amend this Privacy Policy from time to time. The "Effective Date" legend at the top of this page indicates when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Sites. Your use of the Sites following these changes means that you accept the revised Privacy Policy.</p>
-</blockquote>
-<ol start="13">
- <li><strong>Questions, Concerns or Complaints</strong></li>
-</ol>
-<blockquote>
- <p>Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at <a href="mailto:customerservice@outreach.com">customerservice@outreach.com</a> or by mail at Outreach, Inc., 5550 Tech Center Dr. Colorado Springs, CO 80919, ATTN: Customer Service - Privacy. Because email communications are not secure, please do not include credit card information or other sensitive information in your emails to us.</p>
- <p>Outreach will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.</p>
-</blockquote>
-     <p>Effective Date: January 27, 2017</p>
+		<p style="font-weight: 400; text-align: center">Effective Date: May 25, 2018</p>
+
+		<h1 style="font-weight: 500; text-align: center">PRIVACY POLICY</h1>
+
+		<b>INCLUDING FOR USERS OUTSIDE THE UNITED STATES</b>
+
+		<span>Outreach, Inc. and its Affiliates ("</span>
+		<b>Outreach</b>
+		<span>" or "</span>
+		<b>We</b>
+		<span>") know that you care about how the information we receive from you is used and shared, and we take your privacy seriously.
+			This Privacy Policy describes Outreach’s privacy practices in relation to information that we collect through websites
+			operated by us from which you are accessing this Privacy Policy, located at </span>
+		<span>[site specific link to PP]</span>
+		<span> and all related websites, our applications and/or APIs, and online services (collectively, the “</span>
+		<b>Domains</b>
+		<span>”), through our social media pages (collectively, the “</span>
+		<b>Social Media Pages</b>
+		<span>”), as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively,
+			including the Domains, and the Social Media Pages, the “</span>
+		<b>Sites</b>
+		<span>”). “</span>
+		<b>You</b>
+		<span>” or a “</span>
+		<b>user</b>
+		<span>” refers to any individual who visits or otherwise uses the Sites. By using the Sites, you are accepting and agreeing to
+			the practices outlined in this Privacy Policy. &nbsp;If you do not agree with the data practices described in this Privacy
+			Policy you should not use our Services. This Privacy Policy does not apply to any third party applications or software
+			that integrate with the Services through our Site (“Third Party Services”) or any other third party products, services,
+			or businesses.</span>
+
+		<ol>
+			<li>
+				<b>What Types of Information Does Outreach Receive From its Users?</b>
+			</li>
+			<ul>
+				<li>
+					<b>Personal Information.</b>
+					<span>&nbsp;“</span>
+					<b>Personal Information</b>
+					<span>” is information that identifies you as an individual or relates to an identifiable individual, including: name, title,
+						company name, job function, expertise, postal address, telephone number, physical address, email address, content you
+						post on our Site(s) (text, images, photographs, messages, comments or any other kind of content that is not your e-mail
+						address). &nbsp;It can also include transaction information, such details about purchases you make through the Site(s),
+						registrations you make through our Site(s), and billing details as well as usage information, such as information about
+						how you use our Site(s) and interact with us. If you submit any Personal Information relating to other people to us
+						or to our service providers in connection with the Site(s), you represent that you have the authority to do so and
+						to permit us to use the information in accordance with this Privacy Policy.</span>
+				</li>
+				<li>
+					<b>Other Information.</b>
+					<span>&nbsp;“</span>
+					<b>Other Information</b>
+					<span>” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual.
+						This might include, for instance, browser and device information; information collected through cookies, pixel tags,
+						and other technologies; demographic information and other information provided by you; or aggregated information. We
+						use this information to facilitate our operation of the Sites and for other purposes described below.</span>
+				</li>
+				<li>
+					<b>IP Address.</b>
+					<span>&nbsp;Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service
+						Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever you access
+						the Sites, along with the time of the visit and the page(s) that you visited. Collecting IP Addresses is standard practice
+						and is done automatically by many websites, applications
+						<g class="gr_ gr_415 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" id="415" data-gr-id="415">and</g> other services. Outreach uses IP Addresses to calculate usage levels of the Sites, help diagnose problems with
+						its servers, administer the Sites, and monitor the regions from which you navigate to Outreach’s Sites.&nbsp;</span>
+				</li>
+			</ul>
+			<li>
+				<b>How Does Outreach Collect Information?</b>
+			</li>
+		
+
+		<b>Personal Information.</b>
+		<span>&nbsp;We may collect Personal Information in a variety of ways, including:</span>
+		<ul>
+			<ul>
+				<li>
+					<b>Through the Sites:</b>
+					<span>&nbsp;We may collect Personal Information through the Sites, e.g., when you request a catalog, contact us, subscribe to our
+						email newsletter, download content (e.g. free eBooks), or register to use our Sites.&nbsp;</span>
+				</li>
+				<li>
+					<b>Offline:</b>
+					<span>&nbsp;We may collect Personal Information from you offline, such as during phone calls with sales representatives, or when
+						you contact customer service. &nbsp;&nbsp;</span>
+				</li>
+				<li>
+					<b>Through You:</b>
+					<span>&nbsp;Outreach may collect information such as your location or your preferred means of communication when you voluntarily
+						provide it. It also includes feedback and correspondence, such as information you provide in your responses to
+						<g class="gr_ gr_407 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" id="407" data-gr-id="407">surveys,</g> when you participate in market research activities,
+						<g class="gr_ gr_402 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="402" data-gr-id="402">report</g> a problem with our Site,
+						<g class="gr_ gr_404 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="404" data-gr-id="404">receive</g> customer support or otherwise
+						<g class="gr_ gr_405 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="405" data-gr-id="405">correspond</g> with us. Unless combined with Personal Information, this information does not personally identify you
+						or any other user of the Sites. Note that there is no legal obligation for you to provide us with personal information
+						and any information collected by us will be provided by you at your own will and with your consent.&nbsp;</span>
+				</li>
+				<li>
+					<b>Information From Other Sources:</b>
+					<span>&nbsp;In order to enhance our ability to provide relevant marketing, offers, and services to you, we may obtain information
+						about you from other sources such as joint marketing partners, social media platforms, as well as from other third
+						parties. &nbsp;Some of our Site(s) include interfaces that allow you to connect with social networking sites (each
+						<g class="gr_ gr_424 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="424" data-gr-id="424">a “</g>SNS”). &nbsp;If you connect to
+						<g class="gr_ gr_425 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="425" data-gr-id="425">a SNS</g> through our Site you authorize us to access, use, and store the information that you agreed the SNS could
+						provide to us based on your settings on that SNS. We will access, use, and store that information in accordance with
+						this Notice. You can revoke our access to the information you provide in this way at any time by amending the appropriate
+						settings from within your account settings on the applicable SNS.</span>
+				</li>
+			</ul>
+		</ul>
+
+		<b>Other Information.</b>
+		<span>&nbsp;We may collect Other Information in a variety of ways, including:</span>
+		<ul>
+			<ul>
+				<li>
+					<b>Through Your Browser or Device:</b>
+					<span>&nbsp;Certain information is collected by most browsers or automatically through your
+						<g class="gr_ gr_394 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="394" data-gr-id="394">device</g>, such as your computer type (Windows or Macintosh), screen resolution, operating system name and version,
+						device manufacturer and model, language, Internet browser type and version, and the names(s) of the Outreach Sites
+						you are using.&nbsp;</span>
+				</li>
+				<li>
+					<b>Through Cookies and Other Similar Technologies:</b>
+					<span>&nbsp;Cookies and other similar technologies may be used to collect Other Information. &nbsp;We use essential cookies to provide
+						you with services available through our Site(s). &nbsp;We use analytics and performance cookies to collect information about
+						traffic to our Site(s) and how users use our Site(s). &nbsp;We use social media cookies when you share information using
+						a social media site sharing button or action. We may use third parties to serve advertisements on other websites that
+						may be of interest to you, based on information collected about your use of our Sites and other websites.&nbsp; To do so,
+						these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags and
+						web beacons).&nbsp; Outreach does not recognize automated browser signals regarding tracking mechanisms, which may include
+						‘do not track’ instructions.&nbsp;</span>
+				</li>
+			</ul>
+		</ul>
+
+		<span>Outreach also uses a web analytics service, currently Google Analytics. &nbsp; </span>
+
+		<span>Google Analytics is a web analytics service provided by Google Inc. ("</span>
+		<b>Google</b>
+		<span>"). Google Analytics uses cookies and similar technologies to analyze how users use the Domains. The information generated
+			about Domain usage (including your shortened IP address) is transmitted to Google in the U.S. This information is used
+			to evaluate visitors’ use of the Domain, compile statistical reports on Domain activity, and provide other services related
+			to the Site and Internet use. Google may also collect information about Domain visitors’ use of other websites. For more
+			information about Google Analytics, or to opt out of Google Analytics, please go to:</span>
+		<a href="https://tools.google.com/dlpage/gaoptout">
+			<b>https://tools.google.com/dlpage/gaoptout</b>
+		</a>
+		<span>.</span>
+		<ul>
+			<ul>
+				<li>
+					<b>By Aggregating Information:</b>
+					<span>&nbsp;Aggregated Personal Information does not personally identify you or any other user of the Sites (for example, we may
+						aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).&nbsp;</span>
+				</li>
+			</ul>
+		</ul>
+
+		<b>Disabling cookies.</b>
+		<span>&nbsp;You can typically remove or reject cookies via your browser settings. &nbsp;In order to do this, follow the instructions provided
+			by your browser (usually located within the “settings,” “help,” “tools,” or “edit” facility). &nbsp;Many browsers are set to
+			accept cookies until you change your settings. Further information about cookies, including how to see what cookies have
+			been set on your computer or mobile device and how to manage and delete them, visit </span>
+		<a href="http://www.allaboutcookies.org">
+			<span>www.allaboutcookies.org</span>
+		</a>
+		<span>.</span>
+
+		<span>If you do not accept our cookies, you may experience some inconvenience in your use of our Site(s). &nbsp;For example, we may
+			not be able to recognize your computer or mobile device and you may need to log in every time you visit our Site(s).</span>
+
+		<b>Pixel tags.</b>
+		<span>&nbsp;We may also use pixel tags (which are also known as web beacons and clear GIFs) on our Site(s) to track the actions of
+			users on our Site(s). &nbsp;Unlike cookies, which are stored on the hard drive of your computer or mobile device by a website,
+			pixel tags are embedded invisibly on
+			<g class="gr_ gr_386 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del" id="386" data-gr-id="386">webpages</g>. &nbsp;Pixel tags measure the success of our marketing campaigns and compile statistics about usage of the
+			<g class="gr_ gr_383 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" id="383" data-gr-id="383">Site,</g> so that we can manage our content more effectively. &nbsp;The information we collect using pixel tags is not linked
+			to our users’ personal information.</span>
+
+		<b>Do Not Track Signals.</b>
+		<span>&nbsp;Some internet browsers may be configured to send “Do Not Track” signals to the online services that your visit. &nbsp;We currently
+			do not respond to do not track signals. To find out more about “Do Not Track,” please visit </span>
+		<a href="http://www.allaboutdnt.com">
+			<span>http://www.allaboutdnt.com</span>
+		</a>
+		<span>.</span>
+
+		
+			<li>
+				<b>How Does Outreach Use Personal Information?</b>
+			</li>
+		
+		<span>We may use Personal Information:</span>
+		<ul>
+			<ul>
+				<li>
+					<span>To operate, maintain, administer, and improve our Site(s).</span>
+				</li>
+				<li>
+					<span>To respond to your inquiries and fulfill your requests, including to track and administer services you have required
+						and to send you newsletters. &nbsp;</span>
+				</li>
+				<li>
+					<span>To send administrative information to you, for example, to confirm orders or notice of a license or subscription expiration.&nbsp;</span>
+				</li>
+				<li>
+					<span>To communicate with you, better understand your needs and interests, personalize our experience with the Site(s), and
+						provide you with related customer service.&nbsp;</span>
+				</li>
+				<li>
+					<span>To send you marketing communications, including via email in compliance with applicable laws, that we believe may be
+						of interest to you.</span>
+				</li>
+				<li>
+					<span>To personalize your experience on the Sites by presenting products and offers tailored to you.&nbsp;</span>
+				</li>
+				<li>
+					<span>To provide support and maintenance for the Site(s) and our services.</span>
+				</li>
+				<li>
+					<span>For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products,
+						enhancing, improving or modifying our Sites and services, sending you service announcements, technical notices, updates,
+						security alerts, identifying usage trends, determining the effectiveness of our promotional campaigns and operating
+						and expanding our business activities. &nbsp;</span>
+				</li>
+				<li>
+					<span>As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence;
+						(b) to comply with legal process; (c) to respond to requests from public and government authorities including public
+						and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e)&nbsp;to protect
+						our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that
+						of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may
+						sustain. &nbsp;</span>
+				</li>
+				<li>
+					<span>We may use or share your personal information with your prior consent, such as when you: consent to participate in surveys,
+						let us post your testimonials or endorsement on our Site(s), instruct us to take a specific action with respect to
+						your personal
+						<g class="gr_ gr_377 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" id="377" data-gr-id="377">information,</g> or opt into
+						<g class="gr_ gr_378 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="378" data-gr-id="378">third party</g> marketing communications.</span>
+				</li>
+				<li>
+					<span>We may disclose or use aggregated or de-identified information for any purpose. &nbsp;For example, we may share aggregated
+						or de-identified information with prospects partners, or sponsors for business or research purposes, such as when we
+						analyze and report on demographic trends to measure our objective of having healthy diversity ratios across our programs.</span>
+				</li>
+			</ul>
+		</ul>
+
+		
+			<li>
+				<b>How Will Outreach Share Personal Information It Receives?</b>
+			</li>
+		
+		<span>Information about our users is an integral part of our business. We only share your Personal Information as described in
+			this Privacy Policy.</span>
+
+		<b>Affiliates:</b>
+		<span>
+		</span>
+		<span>We may disclose Personal Information to our&nbsp;</span>
+		<b>Affiliates</b>
+		<span>&nbsp;(members of the Outreach family of Domains: </span>
+		<a href="http://www.outreach.com">
+			<span>http://www.outreach.com</span>
+		</a>
+		<span>) &nbsp;for the purposes described in this Privacy Policy. Outreach, Inc. is the party responsible for the management of the
+			jointly-used Personal Information.</span>
+
+		<b>Outreach Social Media Pages:</b>
+		<span>
+		</span>
+		<span>Personal Information may also be disclosed by you through the Sites, chat, and profile pages to which you are able to post
+			information and materials. This information may appear in public ways, such as through search engines or other publicly
+			available platforms, and
+			<g class="gr_ gr_380 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del" id="380" data-gr-id="380">may be</g> “crawled” or searched by third parties. Please do not post any information that you do not want to reveal to
+			the public at large.</span>
+
+		<b>Business Transfers:</b>
+		<span>
+		</span>
+		<span>In some cases, we may buy or sell assets or businesses. In these types of transactions, user information is typically one
+			of the business assets that is transferred. Outreach may disclose Personal Information to a third party in the event of
+			any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our
+			business, assets, or stock (including in connection with any bankruptcy or similar proceedings).</span>
+
+		<b>Protection of Outreach and Others:</b>
+		<span>
+		</span>
+		<span>We may release Personal Information when we believe that release is necessary or appropriate (a) under applicable law,
+			including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public
+			and government authorities including public and government authorities outside your country of residence; (d) to enforce
+			or apply our conditions of use and other agreements; (e)&nbsp;to protect our rights, privacy, safety or property, and/or that
+			of you or others and operations or those of any of our Affiliates; (f) to protect, investigate, and deter against fraudulent,
+			harmful, unauthorized, unethical or illegal activity; (g) to allow us to pursue available remedies or limit the damages
+			that we may sustain; and (h) to protect the rights, privacy, property, or safety of Outreach, our employees, our Affiliates,
+			our users, or any other person or entity. This includes exchanging information with other companies and organizations
+			for fraud protection and credit risk reduction.</span>
+
+		
+			<li>
+				<b>How Does Outreach Use and Disclose Other Information?</b>
+			</li>
+		
+		<span>We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable
+			law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it for
+			all the purposes for which we use and disclose Personal Information.</span>
+
+		<span>In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical
+			location). If we do, we will treat the combined information as Personal Information for as long as it is combined.</span>
+
+		
+			<li>
+				<b>How Does Outreach Secure Personal Information About Me?</b>
+			</li>
+		
+		<span>We have implemented organizational, technical, and administrative measures to protect Personal Information within our organization,
+			including security controls to prevent unauthorized access to our systems. While we take reasonable steps to secure your
+			Personal Information from loss, misuse, interference and unauthorized access, modification and disclosure, you should
+			be aware no security procedures or protocols are ever guaranteed to be 100 percent secure from intrusion or hacking, and
+			there is therefore always some risk assumed by sharing Personal Information online. If you have reason to believe that
+			your interaction with us is no longer secure (for example, if you feel that the security of your account has been compromised),
+			please immediately notify us in accordance with the “Questions, Concerns and Complaints” section below.</span>
+
+		
+			<li>
+				<b>How Can I Correct or Remove Information About Me?</b>
+			</li>
+		
+		<span>If you feel that any Personal Information about you that has been collected and stored by Outreach is incorrect, or if
+			you would Personal Information about you removed from our systems, please notify us at&nbsp;</span>
+		<a href="mailto:customerservice@outreach.com">
+			<span>customerservice@outreach.com</span>
+		</a>
+		<span>[dependant upon property change to customerservice@outreach.com]</span>
+		<span>&nbsp;so that we may consider and respond to your request in accordance with applicable law. You may also request access to
+			your Personal Information held by Outreach, by sending a written request to&nbsp;</span>
+		<a href="mailto:customerservice@outreach.com">
+			<span>customerservice@outreach.com</span>
+		</a>
+		<span>[dependant upon property change to customerservice@outreach.com]</span>
+		<span>.</span>
+
+		<span>For your protection, we may only implement requests with respect to the Personal Information associated with the particular
+			email address that you use to send us your request, and we may need to verify your identity before implementing your request.
+			We will try to comply with your request as soon as reasonably practicable, subject to applicable law.</span>
+
+		<span>Please note that we may need to retain certain information for
+			<g class="gr_ gr_338 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="338" data-gr-id="338">record keeping</g> purposes and/or to complete any transactions that you began prior to requesting such change or deletion.
+			&nbsp;</span>
+
+		
+			<li>
+				<b>For How Long Will Outreach Retain My Personal Information?</b>
+				<span>&nbsp;</span>
+			</li>
+		
+		<span>We will retain your Personal Information for the period necessary to fulfill the purposes for which collected and as outlined
+			in this Privacy Policy unless a longer retention period is required or permitted by law.</span>
+
+		
+			<li>
+				<b>What Choices Do I Have?</b>
+			</li>
+		
+		<span>You can always opt not to disclose information. However, if you elect to do so, we may be limited in responding to your
+			inquiry or providing services to you. &nbsp;</span>
+
+		<span>You may opt-out of receiving marketing messages from Outreach or our Affiliates by sending an email to </span>
+		<a href="mailto:customerservice@outreach.com">
+			<span>customerservice@outreach.com</span>
+		</a>
+		<span>[dependant upon property change to customerservice@outreach.com]</span>
+		<span>, by unsubscribing through the unsubscribe or opt-out link in an email. We will try to comply with your request(s) as soon
+			as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still
+			send you important administrative messages.</span>
+
+		
+			<li>
+				<b>Third Party Sites</b>
+			</li>
+		
+		<span>The Sites may permit you to link to other websites on the Internet through direct links or through applications such as
+			“share” or “Like” buttons, and other websites likewise may contain links to the Sites. The information practices or content
+			of such other websites is governed by the privacy statements of those websites and not by this Privacy Policy. &nbsp;We encourage
+			you to review the privacy policies found on such other websites, services, and applications to understand how your information
+			may be collected and used.</span>
+
+		
+			<li>
+				<b>Sensitive Information</b>
+				<span>&nbsp;</span>
+			</li>
+		
+		<span>We ask that you not send us or disclose any sensitive Personal Information (e.g., social security numbers) on or through
+			the Sites or via other means.</span>
+
+		
+			<li>
+				<b>Changes to this Privacy Policy</b>
+			</li>
+		
+		<span>We reserve the right to modify this Privacy Policy at any time. &nbsp;We encourage you to periodically review this page for
+			the latest information on our privacy practices. &nbsp;If we make material changes to this Privacy Policy we will communicate
+			that a change has been made to the policy in a reasonable manner which may include posting a notice on our web page, blog,
+			<g class="gr_ gr_326 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins doubleReplace replaceWithoutSep" id="326" data-gr-id="326">specific</g> announcement on this page, and/or posting the new Privacy Policy here.</span>
+
+		<span>Any modifications to this
+			<g class="gr_ gr_319 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="319" data-gr-id="319">privacy</g> Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on
+			the Site(s) (or as otherwise indicated at the time of posting). &nbsp;In all cases, your continued use of the Site(s) and/or
+			our services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy
+			Policy.</span>
+
+		
+			<li>
+				<span> </span>
+				<b>Children’s Privacy
+					<g class="gr_ gr_328 gr-alert gr_gramm gr_inline_cards gr_run_anim Style replaceWithoutSep" id="328" data-gr-id="328">.</g>
+				</b>
+				<span>
+					<g class="gr_ gr_328 gr-alert gr_gramm gr_inline_cards gr_disable_anim_appear Style replaceWithoutSep" id="328" data-gr-id="328">Our</g> Products, Services, and Site(s) are not directed to children under the age of 13, and we do not intentionally
+					gather personal information from visitors who are under the age of 13 and such individuals are prohibited hereby from
+					providing personal information, without their
+					<g class="gr_ gr_332 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling" id="332" data-gr-id="332">parental</g> or guardian’s consent. &nbsp;If a parent or guardian becomes aware that his or her child has provided us with
+					information without their consent, he or she should contact us at the contact information provided above. We will delete
+					such information from our files as soon as reasonably practicable.</span>
+			</li>
+		
+		
+			<li>
+				<b>Questions, Concerns or Complaints: Contact Us. &nbsp;</b>
+				<span>Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and
+					handle your information, please contact us by email at&nbsp;</span>
+				<a href="mailto:privacy@outreach.com">
+					<span>privacy@outreach.com</span>
+				</a>
+				<span>[dependant upon property change to privacy@outreach.com]</span>
+				<span>&nbsp;or by mail at Outreach, Inc., 5550 Tech Center Dr. Colorado Springs, CO 80919, ATTN: Customer Service - Privacy. Because
+					email communications are not secure, please do not include credit card information or other sensitive information in
+					your emails to us.</span>
+			</li>
+		</ol>
+		<span>Outreach will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the
+			aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process
+			and provide us with any relevant information that we may need.</span>
+
+		<h1 style="text-align: center; padding-top:20px;">For Users Outside of the United States</h1>
+
+		<span>Outreach (and its Affiliates and all Site(s)) is headquartered in the United States. &nbsp;Your information, including personal
+			information that we collect from you, may be transferred to, stored at and processed by us and our affiliates and other
+			third parties outside the country in which you reside, including, but not limited to the
+			<g class="gr_ gr_313 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="313" data-gr-id="313">united</g> States, where data protection and privacy regulations may not offer the same level of protection as in your
+			jurisdiction. &nbsp;We will take all reasonable steps to ensure that your data is treated securely and in accordance with this
+			Policy.</span>
+
+		<span>References to “personal information” in this Privacy Policy are equivalent to “personal data” governed by European Union
+			data protection legislation. &nbsp;We use the following safeguards if Outreach transfers personal information origination from
+			the European Union to other countries not deemed adequate under applicable data protection law:</span>
+
+		<b>Controller</b>
+
+		<span>Outreach is the controller of your personal information for purposes of European data protection legislation. &nbsp;See the
+			Contact Us section above for contact details.</span>
+
+		<b>Legal Bases for Processing Personal Information</b>
+
+		<span>We only use your personal information as permitted by law. &nbsp;We are required to inform you of the legal bases of our processing
+			of your personal information. &nbsp;Such legal basis includes:</span>
+
+		<ul>
+			<ul>
+				<li>
+					<span>To provide our Services. &nbsp;Processing is necessary to perform the contract governing our provision of the Services or
+						to take steps that you request prior to signing up for the Services.</span>
+				</li>
+				<li>
+					<span>To communicate with you, create aggregated or de-identified information, and for compliance, fraud prevention, and safety.
+						&nbsp;These processing activities constitute our legitimate interests. We make sure we consider and balance any potential
+						impact on you (both positive and negative) and your rights before we process your personal information for our legitimate
+						interests. &nbsp;We do not use your personal information for activities where our interests are overridden by the impact
+						on you (unless we have your consent or are otherwise required or permitted to by law).</span>
+				</li>
+				<li>
+					<span>To comply with
+						<g class="gr_ gr_293 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="293" data-gr-id="293">law</g>. &nbsp;Processing is necessary to comply with our legal obligations.</span>
+				</li>
+				<li>
+					<span>With your consent. &nbsp;Processing is based on your consent. &nbsp;Where we rely on your consent you have the right to withdraw
+						it anytime in the manner indicated in this policy or by contacting us at </span>
+					<a href="mailto:privacy@outreach.com">
+						<span>privacy@outreach.com</span>
+					</a>
+					<span>. </span>
+					<span>[dependant upon property change to privacy@outreach.com]</span>
+				</li>
+			</ul>
+		</ul>
+
+		<b>Use for new purposes</b>
+
+		<span>We may use your personal information for reasons not described in this Privacy Policy where permitted by law and the reason
+			is compatible with the purpose for which we collected it. &nbsp;If we need to use your personal information for an unrelated
+			purpose, we will notify you and explain the applicable legal basis.</span>
+
+		<b>Your Rights</b>
+
+		<span>European data protection laws give you certain rights regarding your personal information. &nbsp;You may ask us to take the
+			following actions in relation to your personal information that we hold:</span>
+
+		<ul>
+			<ul>
+				<li>
+					<b>Opt-out</b>
+					<span>. &nbsp;Stop sending you direct marketing communications. &nbsp;You may continue to receive service-related and other non-marketing
+						emails.</span>
+				</li>
+				<li>
+					<b>Access</b>
+					<span>. &nbsp;Provide you with information about our processing of your personal information and give you access to your personal
+						information.</span>
+				</li>
+				<li>
+					<b>Correct</b>
+					<span>. &nbsp;Update or correct inaccuracies in your personal information.</span>
+				</li>
+				<li>
+					<b>Delete.</b>
+					<span> &nbsp;Delete your personal information.</span>
+				</li>
+				<li>
+					<b>Transfer</b>
+					<span>. &nbsp;Transfer a machine-readable copy of your personal information to you or a third party of your choice.</span>
+				</li>
+				<li>
+					<b>Restrict</b>
+					<span>. &nbsp;Restrict the processing of your personal information.</span>
+				</li>
+				<li>
+					<b>Object.</b>
+					<span> &nbsp;Object to our reliance on our legitimate interests as the basis of our processing of your personal information that
+						impacts your rights.</span>
+				</li>
+			</ul>
+		</ul>
+
+		<span>You can submit these requests by email to </span>
+		<a href="mailto:privacy@outreach.com">
+			<span>privacy@outreach.com</span>
+		</a>
+		<span>[dependant upon property change to privacy@outreach.com]</span>
+		<span> or our postal address provided above. &nbsp;We may request specific information from you to help us confirm your identity and
+			process your request. &nbsp;Applicable law may require or permit us to decline your request. If we decline your request, we
+			will tell you
+			<g class="gr_ gr_373 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" id="373" data-gr-id="373">why,</g> subject to legal restrictions. &nbsp;If you would like to submit a complaint about our use of your personal information
+			or response to your requests regarding your personal information, you may contact us at or submit a complaint to the data
+			protection regulator in your jurisdiction. </span>
+
+		<b>Cross-Border Data Transfer</b>
+
+		<span>Whenever we transfer your personal information out of the European Economic Area (“EEA”) to countries not deemed by the
+			European Commission to provide an adequate level of personal information protection, the transfer will be based on one
+			of the following safeguards recognized by the European Commission as providing adequate protection for personal information,
+			where required by EU data protection legislation:</span>
+
+		<ul>
+			<ul>
+				<li>
+					<span>Contracts approved by the European Commission that impose data protection obligations on the parties to the transfer.
+						&nbsp;For further details, see European Commission Model contracts for the transfer of personal information to third countries.
+						</span>
+				</li>
+				<li>
+					<span>For transfers to third parties in the United States, ensuring they comply with EU legal data transfer protections and
+						the transfer complies with such legal requirements.</span>
+				</li>
+				<li>
+					<span>For transfers to third parties in the United States, ensuring they participate in the EU-US Privacy Shield Framework.</span>
+				</li>
+			</ul>
+		</ul>
+
+		<span>Please contact us by email to </span>
+		<a href="mailto:privacy@outreach.com">
+			<span>privacy@outreach.com</span>
+		</a>
+		<span>[dependant upon property change to privacy@outreach.com]</span>
+		<span> &nbsp;if you want further information on the specific mechanism used by us when transferring your personal information out of
+			the EEA.</span>
 
 
-</div>
+
+	</div>
 </div>
 
     </div>
@@ -468,11 +961,11 @@ margin-left:20px;
         <div class="footerLeftColumn">
             <div id="footerBranding">
                 <h1>
-                    <a href="/print/default.asp" title="Outreach: Church communication and  marketing tools">Outreach: Church communication and  marketing tools</a>
+                    <a href="/" title="Outreach: Church communication and  marketing tools">Outreach: Church communication and  marketing tools</a>
                 </h1>
             </div>
             <!--END footerbranding-->
-            <div>
+            <div id="footerAddress">
                 <address>
                     Outreach, Inc.<br>
                     5550 Tech Center Drive<br>
@@ -513,7 +1006,7 @@ margin-left:20px;
                 </div>
                 <div class="frc-col">
                     <h4>Company Information</h4>
-                    <a id="ctl02_footerAboutURL" title="About Outreach" href="http://www.outreach.com/print/article_full.aspx?article_name=a-aboutus&amp;ref=footer">About Outreach</a>
+                    <a id="footerAboutOutreach" title="About Outreach" href="http://www.outreach.com/print/article_full.aspx?article_name=a-aboutus&amp;ref=footer">About Outreach</a>
                     <a id="ctl02_footerEmploymentURL" title="Employment" href="http://outreach.com/careers" target="_blank">Employment</a>
                     <!--
                         <a id="ctl02_footerPressReleaseURL" title="Press Releases" href="http://www.outreach.com/print/article_full.aspx?article_name=a-OutreachNewsList&amp;ref=footer&amp;ref=footer">Press Releases</a>
@@ -524,8 +1017,6 @@ margin-left:20px;
                 <div class="frc-col">
                     <h4>Feedback</h4>
                     <a id="ctl02_footerCustomerServiceURL" title="How are we doing?" href="http://www.outreach.com/print/request_cust_service.asp?ref=footer">Customer Service</a>
-                    <a id="ctl02_footerFeedBackURL" title="Tell us what products you would like us to produce" href="http://www.outreach.com/print/feedback_form.asp?feedback_type=Product&amp;ref=footer">Product</a>
-                    <a id="ctl02_footerWebsiteFeedBackURL" title="Give us feedback on our website" href="http://www.outreach.com/print/feedback_form.asp?feedback_type=Product&amp;ref=footer">Website</a>
                 </div>
             </div>
             <div class="frc-row">
@@ -548,7 +1039,7 @@ margin-left:20px;
     </div>
     <!--END mainFooterContainer-->
     <div id="nfCopyright">
-        ©2017 Outreach, Inc. All rights reserved. Outreach<i class="fa fa-registered"></i> is a registered trademark of Outreach, Inc.
+        ©2019 Outreach, Inc. All rights reserved. Outreach<i class="fa fa-registered"></i> is a registered trademark of Outreach, Inc.
     </div>
 </div>
 <!-- end of #footer -->
