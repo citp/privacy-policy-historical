@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009170818id_/https%3A//foe.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506015216id_/https%3A//foe.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Friends of the Earth - Friends of the Earth
 
 We are committed to protecting your privacy.
 
-_Note: This privacy policy was updated in May 2018._
+_Note: This privacy policy was updated in March 2019._
 
 To make your experience on this website and our email lists more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information.
 
@@ -20,7 +20,7 @@ We may also monitor and track information such as visitor usage patterns of our 
 
 ### Protecting Your Privacy
 
-As part of our commitment to ensuring the privacy of our visitors and email subscribers, we do not sell or exchange names or any other personally identifiable information about our online visitors and activists with, for example, mass marketers.
+As part of our commitment to ensuring the privacy of our visitors, email subscribers and donors, we do not sell names or any other personally identifiable information about our online visitors and activists with for-profit 3rd profits.
 
 We may provide personal information to third parties on a completely confidential basis to enable such third parties to perform certain tasks, such as maintain a membership database or send email alerts and/or newsletters, on our behalf. These third party providers are committed to protecting the privacy of our members and subscribers, and will utilize your information only to provide the services for which we contract. We may share aggregate information about website usage and traffic patterns, stripped of any personally identifiable information, to third parties to comply with various reporting obligations and for business or marketing purposes.
 
@@ -32,7 +32,7 @@ Access to Friends of the Earth’s data is restricted within the company, and al
 
 ### Donor Privacy Policy
 
-Friends of the Earth will never share donor giving information with other organizations. However, like many other groups, Friends of the Earth may exchange or rent its donor mailing list with like-minded organizations — many of which we work with in our environmental advocacy work. If you do not want your name and address shared with other organizations, please [contact us](https://web.archive.org/about-us/contact "Contact Us") and we will remove you from any shared lists.
+Friends of the Earth does not share donor giving information with other organizations. However, like many other groups, Friends of the Earth may exchange or rent its donor and activist mailing list and email list with like-minded organizations — many of which we work with in our environmental advocacy work. If you do not want your name and address shared with other organizations, please [contact us](https://web.archive.org/about-us/contact "Contact Us") and we will remove you from any shared lists.
 
 ### Use of Cookies
 
