@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehappychickencoop.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228013354id_/https%3A//www.thehappychickencoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehappychickencoop.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505142945id_/https%3A//www.thehappychickencoop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,11 +20,12 @@ In this Policy the following terms shall have the following meanings:
 ---|---  
 **“Our Site”** | means this website, www.thehappychickencoop.com;  
 **“UK and EU Cookie Law”** | means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015;  
-**“We/Us/Our”** | means Woods Publishing LTD , a limited company registered in England under 11041731, whose registered address is 26 Berrycroft Ln, Romiley, Stockport SK6 3AU.  
+**“We/Us/Our”** | means Webnetworks LLC , a limited company registered in the state of Michigan, USA at 2370 E. Stadium Blvd #2010 Ann Arbor, MI 48104  
   
   2. Information About Us 
-    * 2.1. Our Site, is owned and operated by Woods Publishing LTD, a limited company registered in England under 11041731, whose registered address is 26 Berrycroft Ln, Romiley, Stockport SK6 3AU.
-    * 2.2. Our data protection officer is Robert Woods who can be contacted at rw [@/at] thehappychickencoop.com.
+    * 2.1. Our Site, is owned and operated by Webnetworks LLC, a limited company registered in the state of Michigan, USA at 2370 E. Stadium Blvd  
+#2010 Ann Arbor, MI 48104
+    * 2.2. Our data protection officer is Richard who can be contacted at rw [@/at] thehappychickencoop.com.
 
 
   3. Scope – What Does This Policy Cover?
@@ -113,15 +114,15 @@ Some data will be collected automatically by Our Site **(for further details, pl
 You have the legal right to ask for a copy of any of your personal data held by Us (where such data is held). Please contact Us for more details via the [contact us page](https://www.thehappychickencoop.com/contact-us/), or using the contact details below in section 14.
 
   12. What Cookies Do We Use and What For? 
-    * 12.1. Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our products and services. For more details, please refer to section 5, above, and to section 12.6 below. We have carefully chosen these Cookies and have taken steps to ensure that your privacy is protected and respected at all times.
-    * 12.2. By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us.
-    * 12.3. We use AdThrive to serve online advertisements to our users and you can reach about their privacy policy at <http://www.adthrive.com/privacy/>.
-    * 12.4. We also use Optin Monster and Get Response to collect user’s email addresses and We recommend that you read their privacy policies which are https://optinmonster.com/privacy/ and https://www.getresponse.com/legal respectively.
-    * 12.5. We use Gumroad to process payments and you are strongly advised to read their privacy policy at https://gumroad.com/privacy.
-    * 12.6. None of the above third parties are affiliated or related to Us in any way. In the event that you disapprove of any of the above third parties’ policies, you should stop using Our website right away and should not order any product or service on the website.
-    * 12.7. All Cookies used by and on Our Site are used in accordance with current English and EU Cookie Law.
-    * 12.8. Cookies will be placed on your computer or device subject to section 12, your acceptance of this is deemed to occur upon your first use of Our Site. By giving your consent to the placing of Cookies you are enabling Us to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of Our Site may not function fully or as intended.
-    * 12.9. The following first party Cookies may be placed on your computer or device:
+    *       * 12.1. Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our products and services. For more details, please refer to section 5, above, and to section 12.6 below. We have carefully chosen these Cookies and have taken steps to ensure that your privacy is protected and respected at all times.
+      * 12.2. By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us.
+      * 12.3. We use AdThrive to serve online advertisements to our users and you can reach about their privacy policy at <http://www.adthrive.com/privacy/>.
+      * 12.4. We also use Optin Monster and Get Response to collect user’s email addresses and We recommend that you read their privacy policies which are https://optinmonster.com/privacy/ and https://www.getresponse.com/legal respectively.
+      * 12.5. We use Gumroad to process payments and you are strongly advised to read their privacy policy at https://gumroad.com/privacy.
+      * 12.6. None of the above third parties are affiliated or related to Us in any way. In the event that you disapprove of any of the above third parties’ policies, you should stop using Our website right away and should not order any product or service on the website.
+      * 12.7. All Cookies used by and on Our Site are used in accordance with current English and EU Cookie Law.
+      * 12.8. Cookies will be placed on your computer or device subject to section 12, your acceptance of this is deemed to occur upon your first use of Our Site. By giving your consent to the placing of Cookies you are enabling Us to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of Our Site may not function fully or as intended.
+      * 12.9. The following first party Cookies may be placed on your computer or device:
 **Cookie** | **Purpose** | **More information**  
 ---|---|---  
 Google Analytics | Helps us monitor user interaction on website |  Cookies include:  
@@ -172,7 +173,7 @@ Under the GDPR, you have:
 
 To enforce any of the foregoing rights or if you have any other questions about Our Site or this Privacy Policy, please contact Us using the details set out in section 15 below.
 
-  14. Automated Decision-Making and Profiling
+  14. Automated Decision-Making and Profiling 
     * 14.1      In the event that We use personal data for the purposes of automated decision-making and those decisions have a legal (or similarly significant effect) on You, You have the right to challenge to such decisions under GDPR, requesting human intervention, expressing their own point of view, and obtaining an explanation of the decision from Us.
     * 14.2 The right described in section 14.1 does not apply in the following circumstances: 
       1. a) The decision is necessary for the entry into, or performance of, a contract between the You and Us;
