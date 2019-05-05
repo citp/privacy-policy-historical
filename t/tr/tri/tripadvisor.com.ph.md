@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com.ph privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726035054id_/https%3A//tripadvisor.mediaroom.com/ph-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com.ph privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505184537id_/https%3A//tripadvisor.mediaroom.com/ph-privacy-policy) for the most accurate reproduction.*
 
 # PH Media Center | Resources
 
