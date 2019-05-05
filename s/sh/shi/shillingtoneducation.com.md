@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shillingtoneducation.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104121859id_/https%3A//www.shillingtoneducation.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shillingtoneducation.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505204053id_/https%3A//www.shillingtoneducation.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice – Shillington Education
 
@@ -145,6 +145,6 @@ Campus and Intake Date
 
 Ready to apply for Shillington's graphic design course? You're four steps away. Simply select your campus and course, share your personal details, pay the initial deposit and we'll get in touch to confirm all the details. 
 
-Still researching? Learn more about our [course](https://web.archive.org/us/graphic-design-course/) and view [course dates and fees](https://web.archive.org/us/graphic-design-course/course-dates-and-fees/). 
+Still researching? Learn more about our [course](https://web.archive.org/uk/graphic-design-course/) and view [course dates and fees](https://web.archive.org/uk/graphic-design-course/course-dates-and-fees/). 
 
 Find available courses
