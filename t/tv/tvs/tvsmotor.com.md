@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvsmotor.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821095301id_/https%3A//www.tvsmotor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvsmotor.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505194542id_/https%3A//www.tvsmotor.com/privacy-policy) for the most accurate reproduction.*
 
 # TVS CORPORATE - xpress service
 
@@ -69,6 +69,14 @@ Controlling your personal information
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to online@tvsmotor.com  
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above E-mail address. We will promptly correct any information found to be incorrect. 
+
+**Google Play Privacy Policy:**
+
+We agree that our products that are available through Google Play will protect your privacy and legal rights. As you provide us with, or our product accesses or uses your usernames, passwords, or other login or personal information, we agree to make you aware that the information that is available with us will be provided with legally adequate privacy notice and protection. Further, our product may only use that information for the limited purposes for which we have been given permission to do so. 
+
+Our product will store your personal or sensitive information securely and only for as long as it is needed. However, on any scenario, if you opt into a separate agreement with us which will allow us to store or use personal or sensitive information directly related to our products, then the terms of that separate agreement will govern the use of such information. 
+
+Also, If you provide Google Account information, we will only use that information to access your Google Account when, and for the limited purposes for which we have been given your permission to do so. 
 
 **If there are any questions regarding this privacy policy you may contact us using the information below:**
 
