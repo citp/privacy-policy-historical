@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topseolinks.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101232321id_/http%3A//topseolinks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topseolinks.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505180331id_/http%3A//topseolinks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Top seo links.com
 
@@ -35,4 +35,23 @@ E-Mail ID = support @ Topseolinks . com
 Copyright © 2009 by "Topseolinks.com"  ·  All Rights reserved  ·  E-Mail: support @ Topseolinks .com     
 This site can be best viewed in IE 5.0 or above, 1024 x 768 Resolution
 
-[](https://web.archive.org/web/20161101232321id_/http%3A//topseolinks.com/seo-query.html)
+[](https://web.archive.org/web/20190505180331id_/http%3A//topseolinks.com/seo-query.html)
+
+| Home ||   
+---|---  
+| SEO Services  ||   
+---|---  
+| Clients Results ||   
+---|---  
+| PPC Services ||   
+---|---  
+| Hire Dedicated SEO Expert ||   
+---|---  
+| Remove Google Penalty|   
+---|---  
+  
+| Small Business SEO Services |   
+---|---|---  
+| Traffic Booster Plan ( Increase Your Sales Instantly )|   
+| SEO Resellers ( For Agencies )|   
+| Request A Quote| 
