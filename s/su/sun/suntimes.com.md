@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003053352id_/https%3A//chicago.suntimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506003818id_/https%3A//chicago.suntimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chicago Sun-Times
 
@@ -52,7 +52,7 @@ This Privacy Policy describes how we collect, use and disclose information that 
 
 **You have certain choices about how we use your information.**
 
-**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, [click here](http://wssp.suntimes.com/unsubscribe/) or follow the instructions in any promotional message you get from us. You may still receive transactional messages. Also, if you opt out, we may not provide to you non-promotional material, such as our emailed newsletters and other content.
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, [click here](http://link.suntimes.com/join/5py/newslettersignup) or follow the instructions in any promotional message you get from us. You may still receive transactional messages. Also, if you opt out, we may not provide to you non-promotional material, such as our emailed newsletters and other content.
 
 **You can control cookies and tracking tools.** We may use cookies and other technologies to store information on your computer or mobile device. Advertising service vendors that serve ads on the Services may also use their own cookies or identifiers.
 
@@ -92,10 +92,10 @@ If you click on a link to a third party site, you will be taken to websites we d
 
 If you have any questions about this Policy or other privacy concerns, please email us privacy@suntimes.com. You can also write to us or call at: 312-321-3000.
 
-Sun-Times Media Productions, LLC 350 N. Orleans Street, 10-S Chicago, IL 60654 Attention: Privacy Questions. Phone: 312-321-3000.
+Sun-Times Media Productions, LLC 30 N. Racine, Suite 300, Chicago, IL 60607 Attention: Privacy Questions. Phone: 312-321-3000.
 
 **We may update this Policy.**
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2015 Sun-Times Media Productions, LLC. All rights reserved.
+© 2019 Sun-Times Media Productions, LLC. All rights reserved.
