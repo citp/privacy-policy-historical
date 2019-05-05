@@ -1,30 +1,19 @@
-> *The following text is extracted and transformed from the exclaim.ca privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128153013id_/http%3A//exclaim.ca/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclaim.ca privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505131930id_/http%3A//exclaim.ca/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-This is the web site of Exclaim! Media.
+##  Privacy Policy 
 
-Our postal address is  
-849A Bloor St. W.  
-Toronto, ON, M6G 1M3  
-We can be reached via e-mail at [exclaim@exclaim.ca](mailto:exclaim@exclaim.ca)  
-or you can reach us by telephone at 416.535.9735 
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-## Policies
-
-  * For each visitor to our web page, our web server automatically recognizes only the user's internet connection information, but not their email address.
-  * We collect only aggregate information regarding the web pages our users access or visit.
-  * We only collect the email addresses from those requesting our services via email or online form (e.g., users subscribing to the print publication or email newsletter or entering a contest).
-  * We only collect name, address, telephone number and the email addresses of those who provide that information when joining our mailing list or entering our contests, agreeing to the terms and conditions included there.
-  * Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding contests they have entered.
-  * The information we collect is used to improve the content of our web site, used to notify users about updates to our web site and used by us to contact users for contest purposes.
-  * If you do not want to receive email from us in the future, please let us know by sending an email to the above address or if you have joined the email newsletter visit "<http://www.exclaim.ca/MailingList/update.aspx>" to unsubscribe.
-  * With respect to cookies: We use cookies to record past activity at our site in order to provide better service when visitors return to our site and ensure that visitors are not repeatedly seeing the same banner ads.
-  * With respect to ad servers: To try to bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-<http://www.astralmedia.com/>
-  * We only pass on user information to a third party upon a user's request (via opt in), and aggregate users data for ad serving purposes as mentioned above.
-  * From time to time there may be new, unanticipated uses for any collected user information not previously disclosed in our privacy notice. If our information practices change at some time in the future we will provide you with the ability to opt out of any of these communications by a response in like kind.
-  * Customers may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at the above address.
-  * If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
 
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
