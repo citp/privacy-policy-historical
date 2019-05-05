@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitlasvegas.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221213850id_/https%3A//www.visitlasvegas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlasvegas.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505151630id_/https%3A//www.visitlasvegas.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | VisitLasVegas.com
 
@@ -46,29 +46,29 @@ If you do not want your data collected with Google Analytics, you can install th
 
 To opt-out of analytics for the web, visit the Google Analytics opt-out page and install the add-on for your browser. For more details on installing and uninstalling the add-on, please see the relevant help resources for your specific browser.
 
-Updates to your browner or operating system may affect functionality of the opt-out add-on. Learn about managing add-ons for Chrome here. If you are not using Chrome, check directly with the manufacturer of your browser to determine whether add-ons will function properly on the browser version that you are using. 
+Updates to your browner or operating system may affect functionality of the opt-out add-on. [Learn about managing add-ons for Chrome here](https://support.google.com/chrome_webstore/answer/2664769?hl=en). If you are not using Chrome, check directly with the manufacturer of your browser to determine whether add-ons will function properly on the browser version that you are using. 
 
 The latest versions of Internet Explorer sometimes load the Google Analytics opt-out add-on after sending data to Google Analytics. Therefore, if you are using Internet Explorer, the add-on will set cookies on your computer. These cookies ensure that any collected data is immediately deleted from the collection server. Please make sure that third-party cookies aren’t disabled for your Internet Explorer browser. If you delete your cookies, the add-on will, within a short timeframe, reset these cookies to ensure that your Google Analytics browser add-on remains fully functional.
 
 The Google Analytics opt-out browser add-on does not prevent data from being sent to the website itself or in other ways to web analytics services. 
 
-Learn about how Google Analytics collects, uses and processes data here.
+[Learn about how Google Analytics collects, uses and processes data here](https://developers.google.com/analytics/resources/concepts/gaConceptsTrackingOverview).
 
-Learn about the cookies Google Analytics uses here. 
+[Learn about the cookies Google Analytics uses here](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage). 
 
 **_Adobe_**.  Adobe uses cookies in several ways, such as:
 
   * Authenticating and identifying you on our websites so Adobe can provide you the services you requested.
   * Keeping track of information you have provided — for example, keeping items in your shopping cart as you browse adobe.com
   * Providing you the Adobe websites you use
-  * Remembering your preferences or where you left off in your use of an Adobe                 website ([learn more or opt out](https://www.adobe.com/privacy/opt-out.html#2))
+  * Remembering your preferences or where you left off in your use of an Adobe website ([learn more or opt out](https://www.adobe.com/privacy/opt-out.html#2))
   * Measuring your use of Adobe websites so that Adobe can improve them, tailor its websites to your likely interests, and conduct market research
   * Understanding your likely interests so Adobe can provide you more relevant Adobe ads and content on non-Adobe websites and in non-Adobe apps ([learn more or opt out](https://www.adobe.com/privacy/opt-out.html#2))
   * Running the Adobe Experience Cloud solutions that help our business customers personalize and improve the performance of their websites, apps and marketing messages ([learn more or opt out](https://www.adobe.com/privacy/opt-out.html#2)).
 
 
 
-**_Facebook_**.  Facebook uses cookies if you have a Facebook account; use the Facebook Products, including its website and apps; or visit other websites and apps that use Facebook Products (including the Like button or other Facebook technologies). Cookies enable Facebook to offer the Facebook Products to you, and to understand the information Facebook receives about you, including information about your use of other websites and apps, whether or not you are registered or logged in. Facebook’s data policy describes the information it processes to support Facebook, Instagram, Messenger and other products, and other features offered by Facebook. Facebook’s cookie policy explains how Facebook uses cookies. 
+**_Facebook_**.  Facebook uses cookies if you have a Facebook account; use the Facebook Products, including its website and apps; or visit other websites and apps that use Facebook Products (including the Like button or other Facebook technologies). Cookies enable Facebook to offer the Facebook Products to you, and to understand the information Facebook receives about you, including information about your use of other websites and apps, whether or not you are registered or logged in. Facebook’s data policy describes the information it processes to support Facebook, Instagram, Messenger and other products, and other features offered by Facebook. [Facebook’s cookie policy explains how Facebook uses cookies](https://www.facebook.com/policy/cookies). 
 
 Users in the United States may opt out of many third-party ad networks. For example, you may go to the Digital Advertising Alliance (“DAA”) [Consumer Choice Page](http://optout.aboutads.info/?c=2#!/) for information about opting out of interest-based advertising and your choices regarding having information used by DAA companies. You may also go to the Network Advertising Initiative (“NAI”) [Consumer Opt-Out Page](http://optout.networkadvertising.org/?c=1#!/) for information about opting out of interest-based advertising and your choices regarding having information used by NAI members.
 
@@ -151,7 +151,7 @@ Please be notified that consent to use your personal information may include the
 
 We may share your personal information with any member of our group, which means our subsidiaries, related affiliate companies, a defined in section 1159 of the UK Companies Act 2006. 
 
-We may use nonidentifying and aggregate information to better design our website and share with our marketing and advertising agencies. If you choose to create an LVCVA profile, or receive information, we may store some or all of that information and use it for marketing research and marketing purposes. If you choose to save information, such as a meeting planner RFP form on the LVCVA website(s), in such cases, we may employ an outside research company to call you on our behalf. 
+We may use non identifying and aggregate information to better design our website and share with our marketing and advertising agencies. If you choose to create an LVCVA profile, or receive information, we may store some or all of that information and use it for marketing research and marketing purposes. If you choose to save information, such as a meeting planner RFP form on the LVCVA website(s), in such cases, we may employ an outside research company to call you on our behalf. 
 
 **EU Data Subject Rights**
 
