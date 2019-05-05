@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farnamstreetblog.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217043443id_/https%3A//www.fs.blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farnamstreetblog.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505204211id_/https%3A//www.fs.blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
