@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labome.org privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103045018id_/http%3A//www.labome.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labome.org privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505124923id_/http%3A//www.labome.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
