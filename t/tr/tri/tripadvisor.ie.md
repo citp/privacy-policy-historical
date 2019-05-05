@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726034318id_/https%3A//tripadvisor.mediaroom.com/ie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505184114id_/https%3A//tripadvisor.mediaroom.com/ie-privacy-policy) for the most accurate reproduction.*
 
 # IE Media Center | Resources
 
@@ -165,7 +165,7 @@ In accordance with applicable law, you may have the following rights with regard
 
 
 
-You can exercise several of your rights through the personal information section of your account. To exercise your other rights you can file a request by email to privacy@tripadvisor.com.
+You can exercise several of your rights through the personal information section of your account. To exercise your other rights you can file a request by [clicking here](https://app.onetrust.com/app/#/webform/10fccd6f-b384-42e8-a3e6-c8676705fbb3).
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights described in this Privacy Policy). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive.
 
@@ -204,7 +204,7 @@ TripAdvisor may change or modify this Privacy Policy from time to time. We will 
 
 ### **12\. How you can contact us**
 
-If you have any questions or complaints about the processing of your personal data by us, please contact us at privacy@tripadvisor.com. You may also have the right to lodge a complaint to the supervisory authority about the way we process your personal data. We would, however, appreciate the chance to address your concerns before you approach the supervisory authority, so please contact us in the first instance.
+To exercise your other rights you can file a request by [clicking here](https://app.onetrust.com/app/#/webform/10fccd6f-b384-42e8-a3e6-c8676705fbb3). You may also have the right to lodge a complaint to the supervisory authority about the way we process your personal data. We would, however, appreciate the chance to address your concerns before you approach the supervisory authority, so please contact us in the first instance.
 
 Our full details are:
 
