@@ -1,104 +1,8 @@
-<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2018-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227142339id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2019-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190506015753id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" itemscope="" itemtype="http://schema.org/WebPage"><head>
     <meta charset="utf-8">
-
-    <!-- Quantcast Choice. Consent Manager Tag -->
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script type="text/javascript" async="true">
-        var elem = document.createElement('script');
-        elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
-        elem.async = true;
-        elem.type = "text/javascript";
-        var scpt = document.getElementsByTagName('script')[0];
-        scpt.parentNode.insertBefore(elem, scpt);
-        (function() {
-            var gdprAppliesGlobally = false;
-            function addFrame() {
-                if (!window.frames['__cmpLocator']) {
-                    if (document.body) {
-                        var body = document.body,
-                            iframe = document.createElement('iframe');
-                        iframe.style = 'display:none';
-                        iframe.name = '__cmpLocator';
-                        body.appendChild(iframe);
-                    } else {
-                        // In the case where this stub is located in the head,
-                        // this allows us to inject the iframe more quickly than
-                        // relying on DOMContentLoaded or other events.
-                        setTimeout(addFrame, 5);
-                    }
-                }
-            }
-            addFrame();
-            function cmpMsgHandler(event) {
-                var msgIsString = typeof event.data === "string";
-                var json;
-                if(msgIsString) {
-                    json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
-                } else {
-                    json = event.data;
-                }
-                if (json.__cmpCall) {
-                    var i = json.__cmpCall;
-                    window.__cmp(i.command, i.parameter, function(retValue, success) {
-                        var returnMsg = {"__cmpReturn": {
-                                "returnValue": retValue,
-                                "success": success,
-                                "callId": i.callId
-                            }};
-                        event.source.postMessage(msgIsString ?
-                            JSON.stringify(returnMsg) : returnMsg, '*');
-                    });
-                }
-            }
-            window.__cmp = function (c) {
-                var b = arguments;
-                if (!b.length) {
-                    return __cmp.a;
-                }
-                else if (b[0] === 'ping') {
-                    b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
-                        "cmpLoaded": false}, true);
-                } else if (c == '__cmp')
-                    return false;
-                else {
-                    if (typeof __cmp.a === 'undefined') {
-                        __cmp.a = [];
-                    }
-                    __cmp.a.push([].slice.apply(b));
-                }
-            }
-            window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
-            window.__cmp.msgHandler = cmpMsgHandler;
-            if (window.addEventListener) {
-                window.addEventListener('message', cmpMsgHandler, false);
-            }
-            else {
-                window.attachEvent('onmessage', cmpMsgHandler);
-            }
-        })();
-        window.__cmp('init', {
-            'Language': 'en',
-            'Initial Screen Reject Button Text': 'I do not accept',
-            'Initial Screen Accept Button Text': 'I accept',
-            'Purpose Screen Body Text': 'You can set your consent preferences and determine how you want your data to be used based on the purposes below. You may set your preferences for us independently from those of third-party partners. Each purpose has a description so that you know how we and partners use your data.',
-            'Vendor Screen Body Text': 'You can set consent preferences for each individual third-party company below. Expand each company list item to see what purposes they use data for to help make your choices. In some cases, companies may disclose that they use your data without asking for your consent, based on their legitimate interests. You can click on their privacy policies for more information and to opt out.',
-            'Vendor Screen Accept All Button Text': 'Accept all',
-            'Vendor Screen Reject All Button Text': 'Reject all',
-            'Initial Screen Body Text': 'We and our partners use technology such as cookies on our site to personalise content and ads, provide social media features, and analyse our traffic. Click below to consent to the use of this technology across the web. You can change your mind and change your consent choices at anytime by returning to this site.',
-            'Initial Screen Body Text Option': 1,
-            'Publisher Name': 'Alpha Coders',
-            'Publisher Logo': 'https://static.alphacoders.com/alpha_system_360.png',
-            'Publisher Purpose IDs': [1,2,3,4],
-            'Post Consent Page': 'https://alphacoders.com/site/no-consent',
-            'UI Layout': 'banner',
-            'Cookie Domain': 'alphacoders.com',
-        });
-    </script>
-    <!-- End Quantcast Choice. Consent Manager Tag -->
-    <style>
-    </style>
 
     
     <title>Alpha Coders Privacy Policy</title>
@@ -282,7 +186,6 @@
             display: inline-block;
             border-radius:5px;
             border:5px solid #242424;
-            width: 100%;
             max-width: 360px;
             max-height: 450px;
             -webkit-box-shadow: 5px 5px 0px rgba(66, 101, 255, 0.63);
@@ -340,8 +243,7 @@
             color: inherit !important;
         }
 
-
-        .displaystyle-error {
+        .display-style-error {
             padding: 20px;
             margin: 15px;
             background-color: #FFFFFF;
@@ -351,11 +253,11 @@
             border-color: #a94442;
         }
 
-        .displaystyle-error .displaystyle-header {
+        .display-style-error .display-style-header {
             color: #a94442;
         }
 
-        .displaystyle-success {
+        .display-style-success {
             padding: 20px;
             margin: 15px;
             background-color: #FFFFFF;
@@ -365,18 +267,23 @@
             border-color: #3c763d;
         }
 
-        .displaystyle-success .displaystyle-header {
+        .display-style-success .display-style-header {
             color: #3c763d;
         }
 
-        .hr-custom {
-            clear:both;
-            height: 1px;
-            margin: 20px auto;
+        .hr-custom-white, .hr-custom-black {
             width: 100%;
-            border: none;
-            background-image: linear-gradient(to right, rgba(187, 187, 187, 0), rgba(0, 0, 0, 0.75), rgba(187, 187, 187, 0));
+            border: 0;
+            height: 2px;
+            margin: 15px auto 25px;
         }
+        .hr-custom-white {
+            background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+        }
+        .hr-custom-black {
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+        }
+
         .border-blue {
             border-radius: 5px;
             border: 5px solid #242424;
@@ -980,13 +887,90 @@
             width:50px !important;
             cursor:pointer;
         }
+
+        #cookie_consent {
+            position: fixed;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            overflow: hidden;
+            box-sizing: border-box;
+            font-size: 16px;
+            line-height: 1.5em;
+            z-index: 9999;
+            background: #237afc;
+            padding: 1em 1.8em;
+            width: 100%;
+            flex-wrap: nowrap;
+            flex-direction: row;
+            align-items: center;
+            color: #fff;
+            opacity: 1;
+            transition: opacity 1s ease;
+            display: none;
+        }
+        #cookie_consent span {
+            display: block;
+            flex: 1 1 auto;
+            max-width: 100%;
+            margin-right: 1em;
+        }
+        #cookie_consent span a {
+            color: #fff;
+            opacity: .8;
+            display: inline-block;
+            padding: .2em;
+            text-decoration: underline;
+        }
+        #cookie_consent div {
+            display: flex;
+            flex-wrap: nowrap;
+        }
+        #cookie_consent .btn-allow, #cookie_consent .btn-deny {
+            display: block;
+            padding: .4em .8em;
+            font-size: .9em;
+            font-weight: 700;
+            white-space: nowrap;
+            cursor: pointer;
+            border-radius: 4px;
+            margin: 4px;
+        }
+        #cookie_consent .btn-allow, #cookie_consent .btn-deny:hover {
+            color: #237afc;
+            background-color: #fff;
+        }
+        #cookie_consent .btn-allow:hover {
+            color: #1C62CA;
+            background-color: #e6e6e6;
+        }
+        #change_consent {
+            cursor: pointer;
+        }
+
+        @media (max-width: 500px) {
+            #cookie_consent {
+                flex-wrap: wrap;
+            }
+            #cookie_consent div {
+                flex: 1 1 auto;
+                margin-top: 10px;
+                flex-wrap: wrap;
+            }
+        }
     </style>
 
     
     
-
     
-    <script>
+    <style>
+        td.privacy-provider {
+            width:300px;
+        }
+    </style>
+
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -1044,7 +1028,8 @@
 
 <div id="page_container">
                 
-        <div class="custom-breadcrumb">
+    
+    <div class="custom-breadcrumb">
         <a class="breadcrumb-element breadcrumb-with-icon breadcrumb-blue" title="Alpha Coders" href="https://alphacoders.com">
             <img src="https://static.alphacoders.com/icons/favicon-16x16.png" alt=""> <span>Alpha Coders</span>
         </a>
@@ -1059,13 +1044,9 @@
     <h1 class="center title">Alpha Coders Privacy Policy</h1>
 
 
-    <div class="center">
-        <h3>Your can always change your consent settings <a style="color:#337ab7;" class="change-consent" onclick="window.__cmp('displayConsentUi');">Change GDPR Consent</a></h3>
-    </div>
-
     <div class="container">
         <div class="row">
-            <div class="col-md-10 col-md-offset-1">
+            <div class="col-md-12">
                 <div class="panel panel-primary panel-body">
                     <div class="alert alert-custom alert-info">
                         If you require any more information or have any questions about our privacy policy, feel free to contact us at admin@alphacoders.com.
@@ -1080,115 +1061,165 @@
                         </p>
 
                         <br>
-                        <h4>Log Files</h4>
+                        <h3>Log Files</h3>
                         <br>
 
                         <p>
-                            Like many other Websites, Alpha Coders makes use of log files.
+                            Alpha Coders makes use of log files.
                             The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages,
                             and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information.
                             IP addresses, and other such information are not linked to any information that is personally identifiable.
                         </p>
 
                         <br>
-                        <h4>Cookies and Web Beacons (GDPR is below)</h4>
-                        <br>
-
+                        <a class="btn btn-success change-consent">Change Cookie Consent</a>
+                        <h3>Cookies and Analytics</h3>
                         <p>
-                            Alpha Coders does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit,
-                            customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+                            Alpha Coders uses Google Analytics as an analytics provider. Google Analytics uses cookies to track your use of Alpha Coders. You can view Google's privacy
+                            policy: <a target="_blank" href="https://policies.google.com/privacy?hl=en">Google's Privacy Policy</a>
                         </p>
 
                         <br>
-                        <h4>DoubleClick DART Cookie</h4>
-                        <br>
 
-                        <ul>
-                            <li> Google, as a third party vendor, uses cookies to serve ads on Alpha Coders.</li>
-                            <li> Google's use of the DART cookie enables it to serve ads to your users based on their visit to Alpha Coders and other sites on the Internet.</li>
-                            <li> Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <a href="https://www.google.com/policies/technologies/ads/"></a></li>
-                        </ul>
-
+                        <h3>Cookies Directly From Alpha Coders</h3>
                         <p>
-                            Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......
-                            <br>
-                            </p><ul>
-                                <li>Google Adsense</li>
-                                <li>Advertisers that participate in Google's Ad Exchange</li>
-                                <li>Exponential</li>
-                                <li>Oauth</li>
-                                <li>bRealTime</li>
-                                <li>Operative</li>
-                            </ul>
-                        <p></p>
-
-                        <p>
-                            These third-party ad servers or ad networks use technology to the advertisements and links that appear on Alpha Coders send directly to your browsers.
-                            They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks
-                            to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+                            Alpha Coders uses cookies to store your on-site preferences, as well as track your session
                         </p>
 
                         <br>
-                        <h4>GDPR</h4>
-                        <br>
-                        <ul>
-                            <li>
-                                Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile
-                                personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online
-                                advertising and ad measurement. For more details including opt-out requests, access requests or
-                                complaints, please review their <a title="http://exponential.com/privacy/" href="http://exponential.com/privacy/" target="" rel="noopener noreferrer nofollow">privacy policy</a> or
-                                contact their data protection officer via
-                                <a title="mailto:privacy@exponential.com" href="mailto:privacy@exponential.com" target="" rel="noopener noreferrer nofollow">privacy@exponential.com</a>.
-                        </li></ul>
 
-                        <h5>Cookie Details</h5>
+                        <h3>Cookies and Social Media</h3>
+                        <p>
+                            On the home page of Alpha Coders we include follow us links to Twitter
+                            (<a target="_blank" href="https://twitter.com/en/privacy">Twitter Privacy Policy</a>)
+                            and Facebook (<a target="_blank" href="https://www.facebook.com/policy.php">Facebook Privacy Policy</a>.
+                        </p>
+
+                        <br>
+
+                        <h3>Cookies and Advertising</h3>
+
+                        <p>
+                            Alpha Coders is mainly monetized through advertisements. Some of these ads are personalized. Below is a table of our advertising partners.
+                        </p>
+
+
+
                         <table class="table">
                             <thead>
-                                <tr><th>Cookie Name</th>
-                                <th>Sort by (Domain)</th>
-                                <th>Function</th>
-                                <th>Party</th>
-                                <th>Class</th>
-                                <th>Type</th>
-                                <th>Expiry</th>
+                                <tr><th>
+                                    Ad Provider
+                                </th>
+                                <th>
+                                    Ad Personalization
+                                </th>
+                                <th>
+                                    Notes About Cookies
+                                </th>
+
                             </tr></thead>
-                            <tbody><tr>
-                                <td>
-                                    ANON_ID
-                                </td>
-                                <td>
-                                    tribalfusion.com
-                                </td>
-                                <td>
-                                    The anonymous hashed id in the cookie links the web user's browser to a profile which contains
-                                    the behaviors the user has displayed
-                                </td>
-                                <td>
-                                    Third
-                                </td>
-                                <td>
-                                    Tracking
-                                </td>
-                                <td>
-                                    Persistent
-                                </td>
-                                <td>3 months</td>
-                            </tr>
-                        </tbody></table>
+                            <tbody>
+                                <tr>
+                                    <td class="privacy-provider">
+                                        Google Adsense<br><br>
+                                        <a target="_blank" href="https://policies.google.com/technologies/ads">Google's Ad Information</a><br>
+                                        <a target="_blank" href="https://policies.google.com/privacy?hl=en">Google's Privacy Policy</a>
+                                    </td>
+                                    <td>
+                                        Non-personalized advertisements in the EEA, Personalized ads elsewhere
+                                    </td>
+                                    <td>
+                                        <strong>Note:</strong> With non-personalized ads cookies are still used: Frequency capping, aggregated ad reporting, and to combat fraud
+                                    </td>
 
-                        <br><br>
-                        <p>
-                            Alpha Coders has no access to or control over these cookies that are used by third-party advertisers.
-                        </p>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Google AdX<br><br>
+                                        <a target="_blank" href="https://policies.google.com/technologies/ads">Google's Ad Information</a><br>
+                                        <a target="_blank" href="https://policies.google.com/privacy?hl=en">Google's Privacy Policy</a>
+                                    </td>
+                                    <td>
+                                        Non-personalized advertisements in the EEA, Personalized ads elsewhere
+                                    </td>
+                                    <td>
+                                        <strong>Note:</strong> With non-personalized ads cookies are still used: Frequency capping, aggregated ad reporting, and to combat fraud
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Amazon<br><br>
+                                        <a target="_blank" href="https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&amp;nodeId=468496">Amazon's Privacy Policy</a>
+                                    </td>
+                                    <td>
+                                        Personalized advertisements
+                                    </td>
+                                    <td>
 
-                        <p>
-                            You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions
-                            about how to opt-out of certain practices. Alpha Coders's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or Websites.
-                        </p>
+                                    </td>
 
-                        <p>
-                            If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-                        </p>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Exponential<br><br>
+                                        <a title="http://exponential.com/privacy/" href="http://exponential.com/privacy/" target="" rel="noopener noreferrer nofollow">Exponential's Privacy Policy</a>
+
+                                    </td>
+                                    <td colspan="2">
+                                        Personalized advertisements<br><br>
+                                        Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile
+                                        personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online
+                                        advertising and ad measurement. For more details including opt-out requests, access requests or
+                                        complaints, please review their <a title="http://exponential.com/privacy/" href="http://exponential.com/privacy/" target="" rel="noopener noreferrer nofollow">privacy policy</a> or
+                                        contact their data protection officer via
+                                        <a title="mailto:privacy@exponential.com" href="mailto:privacy@exponential.com" target="" rel="noopener noreferrer nofollow">privacy@exponential.com</a>.
+                                        <br><br>
+
+                                        <table class="table">
+                                            <thead>
+                                            <tr><th>Cookie Name</th>
+                                            <th>Domain</th>
+                                            <th>Function</th>
+                                            <th>Party</th>
+                                            <th>Class</th>
+                                            <th>Type</th>
+                                            <th>Expiry</th>
+                                            </tr></thead>
+                                            <tbody><tr>
+                                                <td>
+                                                    ANON_ID
+                                                </td>
+                                                <td>
+                                                    tribalfusion.com
+                                                </td>
+                                                <td>
+                                                    The anonymous hashed id in the cookie links the web user's browser to a profile which contains
+                                                    the behaviors the user has displayed
+                                                </td>
+                                                <td>
+                                                    Third
+                                                </td>
+                                                <td>
+                                                    Tracking
+                                                </td>
+                                                <td>
+                                                    Persistent
+                                                </td>
+                                                <td>3 months</td>
+                                            </tr>
+                                        </tbody></table>
+
+                                    </td>
+                                </tr>
+
+                            </tbody>
+
+                        </table>
+
+
+
+
+
                     </div>
 
                     <br>
@@ -1207,22 +1238,75 @@
         <li><a href="https://alphacoders.com/site/acceptable_use" rel="nofollow">Acceptable Use</a></li>
         <li><a href="https://alphacoders.com/site/etiquette" rel="nofollow">Etiquette</a></li>
         <li><a href="https://alphacoders.com/site/advertising" rel="nofollow">Advertise With Us</a></li>
-        
-        <li><a class="change-consent" onclick="window.__cmp('displayConsentUi');">change consent</a></li>
-    </ul>
+        <li><a class="change-consent">Change Consent</a></li>
+            </ul>
     <div class="center">
-        <h5 class="white">Website text and design is copyright 2018 Alpha Coders.<br>
+        <h5 class="white">Website text and design is copyright 2019 Alpha Coders.<br>
             All submitted content remains copyright its original copyright holder | <a href="https://alphacoders.com/site/copyright">DMCA Copyright Violation</a><br>Images are for personal, non commercial use.</h5>
             </div>
+</div>
+
+<div id="cookie_consent">
+        <span>
+            Alpha Coders uses cookies for user experience, advertising, social media, and analytics.
+            <a href="https://alphacoders.com/site/privacy">Learn More</a>
+        </span>
+    <div class="center">
+        <div class="btn-deny">Decline</div>
+        <div class="btn-allow">Allow Cookies</div>
+    </div>
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script type="text/javascript" src="https://static.alphacoders.com/jquery-1.11.2.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/bootstrap-3.3.4/js/bootstrap.min.js"></script><iframe name="__cmpLocator" style="display: none;"></iframe>
+<script src="/bootstrap-3.3.4/js/bootstrap.min.js"></script>
 
 <script>
+    function setCookie(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        var expires = "expires="+d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";domain=.alphacoders.com;path=/";
+    }
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for(var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+
+    $(document).ready(function() {
+        var cookie_status = getCookie("cookieconsent_status");
+        if(cookie_status == "" || cookie_status == "deny") {
+            $('#cookie_consent').css('display', 'flex');
+        }
+
+        $('.change-consent').on('click', function () {
+            $('#cookie_consent').css('display', 'flex');
+        });
+
+        $('#cookie_consent .btn-allow').on('click', function () {
+            setCookie('cookieconsent_status', 'allow', 365);
+            $('#cookie_consent').css('display', 'none');
+        });
+
+        $('#cookie_consent .btn-deny').on('click', function () {
+            setCookie('cookieconsent_status', 'deny', 365);
+            window.location.href = "https://alphacoders.com/site/no-consent";
+        });
+    });
+
     $('.close-notice').on('click', function() {
         $(this).parent().fadeOut(600, function(){$(this).remove();});
     });
