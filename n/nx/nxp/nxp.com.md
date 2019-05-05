@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105200705id_/https%3A//www.nxp.com/about/privacy%3APRIVACYPRACTICES) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505192115id_/https%3A//www.nxp.com/about/privacy%3APRIVACYPRACTICES) for the most accurate reproduction.*
 
-# Privacy|NXP
+# Privacy | NXP
 
 ## Introduction
 
