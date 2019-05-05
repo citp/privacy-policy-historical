@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobtestprep.co.uk privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205234423id_/https%3A//www.jobtestprep.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobtestprep.co.uk privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505061438id_/https%3A//www.jobtestprep.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookie Information - JobTestPrep
+# Privacy Policy and Cookie Information
 
 **Privacy Policy**
 
@@ -49,7 +49,7 @@ Cookies and other online tracking technologies are small bits of data or code th
 
 **Tracking cookies:** When you visit our website we may collect tracking information, such as your browser type, the type of operating system you use, the name of your Internet service provider, and the pages you visited on the site.
 
-**Analytics cookies and similar technologies:** These collect information about your use of our websites and apps, and enable us to improve the way they work. These technologies (e.g. Google Analytics) allow us to increase the functionality and user-friendliness of our website and to better tailor our website to your needs. For example, we may want to know how long the average user spends on our website or which pages get the most attention. Information such as this will only be used in aggregate form and will not identify you personally.
+ **Analytics cookies and similar technologies:** These collect information about your use of our websites and apps, and enable us to improve the way they work. These technologies (e.g. Google Analytics) allow us to increase the functionality and user-friendliness of our website and to better tailor our website to your needs. For example, we may want to know how long the average user spends on our website or which pages get the most attention. Information such as this will only be used in aggregate form and will not identify you personally.
 
 **Functional/preference cookies and similar technologies:** These cookies collect information about your choices and preferences and allow us to remember things like your username to make the login process more convenient, and allow us to customise the services you have accessed.  
 
@@ -86,11 +86,11 @@ Due to accounting and legal requirements BlueSnap is unable to delete customers�
 
 These are the purposes that we use your data for:
 
-  * To ensure that you have access to the most relevant practice material (for example: PrepPack Recommendations, PrepPack updates and special offers)
+  * Providing this online service and performance of contract following our Terms of Use. 
+  * To ensure that you have access to the most relevant practice material personalised for your needs (for example: PrepPack™ Recommendations, PrepPack™ updates and special offers)
   * To ensure your success and satisfaction using our practice material (for example: reviews and satisfaction surveys)
-
-
   * Anonymously as a basis for future practice material recommendations
+  * Dispatch PrepPack™ recommendations, updates reviews and satisfaction surveys, special offers etc. via newsletters emails with your consent. You may unsubscribe at any time via the unsubscribe link in any email we send you.
 
 
 
