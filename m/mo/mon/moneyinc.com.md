@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moneyinc.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101173029id_/http%3A//moneyinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyinc.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505202320id_/https%3A//moneyinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Money Inc
 
 Privacy Policy
 
-Last updated 4/26/2017
+Last updated 5/6/2018
 
 Moneyinc.com is an interactive online service operated by Uncoached Corp. This “ **Privacy Policy** ” applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, “ **Computer** “)) and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “ **Website** “). Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).
 
@@ -77,6 +77,8 @@ We may offer sweepstakes, contests, and other promotions through the Website tha
 (5) Third Party Ad Server Networks:
 
 The Website may use third parties such as network advertisers to serve advertisements on the Website and may use traffic measurement services to analyze traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to the Website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. The Website’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies and other technologies on your Computer and track certain behavioral information regarding users of your Computer via a Device Identifier. These third party cookies and other technologies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies, web beacons, and other third party technologies are governed by each third party’s specific privacy policy, not this one.  **While we may use a variety of companies to serve advertisements on the Website, you may wish to visit**<http://www.networkadvertising.org/optout_nonppii.asp>,  **which provides information regarding this practice by Network Advertising Initiative (“NAI”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.**  Opting out of one or more NAI members only means that those NAI members will no longer be able to deliver targeted content and/or ads to you, which will affect this and other web sites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI opt-out may not, or may no longer, be effective. Additional information is available on the NAI’s web site accessible by the above link.
+
+We use technologies, such as cookies, to customize content and advertising, to provide social media features and to analyse traffic to the site. We also share information about your use of our site with our trusted social media, advertising and analytics partners.
 
 **D. PUBLIC FORUMS**
 
