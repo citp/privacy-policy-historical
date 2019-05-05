@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021061451id_/https%3A//www.redtag.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505184256id_/https%3A//www.redtag.ca/privacy.php) for the most accurate reproduction.*
 
 # Red Tag Vacations - Privacy Policy
 
