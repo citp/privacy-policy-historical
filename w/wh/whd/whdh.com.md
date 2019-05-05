@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whdh.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223164913id_/https%3A//whdh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whdh.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505185039id_/https%3A//whdh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Boston News, Weather, Sports | WHDH 7News
 
