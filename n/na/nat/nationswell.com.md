@@ -1,57 +1,125 @@
-> *The following text is extracted and transformed from the nationswell.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926140102id_/http%3A//nationswell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationswell.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505174205id_/http%3A//nationswell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NationSwell
 
-We at NationSwell, LLC (“ _Company_ ”, “ _we_ ” or “ _us_ ”) respect your privacy and are therefore committed to affording protection to information relating to any visitor to our website, [www.nationswell.com](http://nationswell.com/) (the “ _Website_ ”). In recognition of your need for appropriate protection and proper management of any personally identifiable information (“ ** _Personal Information_** ”) that we may receive from the Website, we have established this Privacy Policy. By using the Website you agree to be bound by this Privacy Policy, which shall take effect immediately upon your first use of the Website.
+Last Updated: February 22, 2019
 
-**1.      ****Privacy Policy Updates**
+NationSwell, LLC (“NationSwell,” “we,” “us,” or “our”) understands that you care about how we collect, use, and share information when you interact with our websites, social media accounts, email, and online services (our “Services”), and we value the trust you place in us. This Privacy Policy explains:
 
-Due to the rapidly evolving nature of web-based technology, we may need to update this Privacy Policy from time to time.  If so, we will post our updated Privacy Policy on this page [and may **** communicate the change by sending e-mail notices to registered users of the Website.] We encourage you to frequently check this page for any changes to our Privacy Policy. Your continued use of the Website and/or continued provision of Personal Information to us will constitute your acceptance of such change and will be subject to the terms of the then-current Privacy Policy.
+  * the types of information we collect through our Services;
+  * how we use and protect that information;
+  * the types of information we may share with others and under what circumstances; and
+  * the choices you have regarding our collection, use, and sharing practices.
 
-**2.      ****Information Collection and Use**
 
-Like most websites, we may collect non-Personal Information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-Personal Information is to better understand how our visitors use the Website. From time to time, we may release non-Personal Information, e.g., by publishing a report on trends in the usage of the Website.
 
-We may also collect Internet Protocol (“ ** _IP_** ”) addresses for logged in users and for users leaving comments on the Website. We only disclose logged-in user and commenter IP addresses under the same circumstances that we use and disclose Personal Information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.  We may use your IP address to help diagnose problems with our server and to administer the Website.  Your IP address may be used to help identify you as a returning visitor so that we can make your visit as useful as possible. We may investigate our log files to understand visitor usage patterns.
+This Privacy Policy applies to the NationSwell Services that link to it, including the emails we send and our affiliated websites and online services, regardless of how you access or use them, including through mobile devices. This Privacy Policy also applies to the information we collect when you interact with us offline, through social media, or via other websites and online services. It does not apply to non-NationSwell websites and mobile applications that may link to the Services or be linked to or from the Services; please review the privacy policies on those websites and applications directly to understand their privacy practices.
 
-You can visit parts of the Website without revealing any Personal Information about yourself.  However, to use certain features of the Website (e.g. commenting on blog posts, submitting AllStar nominations), you must provide your name and e-mail address and other contact information that you voluntarily transmit to us, and we may share that information with outside partners involved with providing or supporting those features. By voluntarily providing NationSwell with your name and contact information, you consent to being contacted by email by NationSwell and the aforementioned partners. Additionally, we may collect Personal Information that you provide when you contact us or when you voluntarily provide us with feedback, post in blogs, chat rooms, forums or message boards available from the Website. Other users will be able to see any information that you post to such blogs, chat rooms, forums and message boards.
+We may collect additional data about you if you register to become a member, and may use that data in ways in addition to what is described below. Please see the [_NationSwell Council_ _Membership Agreement_](http://nationswell.com/wp-content/uploads/2019/02/NationSwell-Council-Membership-Agreement.pdf) for more further details.
 
-**3.      ****Information from Minors**
+By using our Services, you are accepting the terms of this Privacy Policy and our Terms of Use, and you are consenting to our collection, use, protection, and sharing of your information as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you may not use our Services.
 
-You must be at least 13 years of age to use the Website.  Accordingly, if you are under the age of 13, please do not attempt to register with our Website and please refrain from sending any information about yourself to us (including, without limitation, your name, address, telephone number, or e-mail address). In the event that we learn that we have collected Personal Information from a person under the age of 13, we will delete that information as soon as reasonably practicable. If you believe that we might have any information from or about a person under the age of 13, please contact us at **** contact@nationswell.com.
+For questions about our privacy practices, contact us at [contactus@nationswell.com](mailto:contactus@nationswell.com).
 
-**4.      ****Cookies**
+**What Do We Collect?**
 
-We may use small text files called cookies to improve overall website experience. A cookie is a piece of data stored on the Website user’s hard drive containing information about the user. Cookies generally do not permit us to personally identify you.  We may also use cookies to, among other things, access your information and user preferences when you sign in.  We encourage you to logout whenever you leave your computer in order to better protect your information.
+_Information You Give Us_ : Some of the Services may include features or services that permit you to enter contact information and other information about you. We collect and store any information you enter on our Services. This includes:
 
-**5.      ****Google Analytics**
+  * Information you provide by filling in forms when using our Services.
+  * Email address information when subscribing to our email bulletins.
+  * Information you provide when you register for or attend one of our events.
+  * Any information or data you provide by commenting on content posted on our Services. Please note that these comments are also visible to other users of our Services.
+  * Information you provide when you apply for a job with our organization or through our Services.
+  * Information you provide when you interact with us via social media, including any posts, pictures, videos and messages which you submit to us either via our social media accounts on other sites (including by use of hashtags associated with us) or directly on our Services.
+  * Information you provide when you complete a survey administered by us or a service provider acting on our behalf.
+  * Information you provide when you participate in a contest or sweepstakes that we offer.
+  * If you contact us, we may keep a record of that correspondence and any contact information provided.
+  * Information you provide to us in any other way.
 
-We use a tool called “Google Analytics” to collect information such as how often users visit the Website and what pages they visit when they do. We use this information to maintain and improve the Website, and we may share anonymous statistical information we get from Google Analytics with our business partners for such purposes. Google’s ability to use and share information collected by Google Analytics about your visits to the Website is restricted by the [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](https://www.google.com/policies/privacy/). You can prevent Google Analytics from recognizing you on return visits to the Website by disabling cookies on your browser. In addition, if you want to prevent your data from being provided to Google Analytics, you can opt out using a [Google plug-in](https://tools.google.com/dlpage/gaoptout). For more information, you can read this site: [How Google uses data when you use our partners’ sites or apps](https://www.google.com/policies/privacy/partners/).
 
-**6.      ****Aggregate Information**
 
-We may track the total number of visitors, the number of visitors to each page of the Website, browser type, IP addresses, external websites linked to (“ ** _Aggregate Information_** ”) and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain Personal Information.  We use such aggregate information to analyze trends, administer the Website, track users’ movement, and gather broad demographic information for aggregate use.
+_Information We Collect Automatically_ : When you interact with the Services, certain information about your use of our Services is automatically collected. Much of this information is collected through cookies, web beacons, and other tracking technologies, as well as through your web browser or device.  This includes:
 
-**7.      ****Disclosure**
+  * Details of your visits to our Services and information generated in the course of the use our Services including, but not limited to, traffic data, location data, weblogs and other communication data, the resources that you access, the timing, frequency and pattern of service use, and how you reached our Services.
+  * Details regarding the device you use to access our Services, including, but not limited to, your IP address, operating system and browser type.
+  * Information about how you interact with our newsletters, including whether you open or click links in any correspondence.
+  * Information that you make available to us on a social media platform (such as by clicking on a social media icon linked to from our Services) including your account ID or username and other information included in your posts.
 
-We may disclose Personal Information (as well as Aggregate Information and the data generated by cookies) to those employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available on the Website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country. By using the Website, you consent to the transfer of such information to such employees.
 
-We may also disclose Personal Information to the vendors and service agencies that we may engage to assist us in providing our services to you. For example, we may provide your Personal Information to a credit card processing company to process your payment.
 
-Finally, we will disclose your Personal Information (i) when we reasonably believe we are required to do so by law, regulation or other government authority or when we deem it appropriate or necessary to provide such information to law enforcement authorities, (ii) to enforce our [Terms of Service](http://nationswell.com/termsofservice/), (iii) to protect and defend the rights or property of the Company, or (iv) to protect the safety of our employees, agents, or users of the Website.
+**Why Do We Collect This Information And How Do We Use It?**
 
-We will not otherwise sell or transfer your Personal Information to any company or organization, except that we may transfer your Personal Information to a successor entity upon a merger, sale, consolidation or other corporate reorganization to which the Company is a party.
+We may use the information we collect from you for the following purposes:
 
-**8.      ****Ads**
+  * To further our goal of creating a membership community of service-minded leaders, including to provide means for individuals to connect and communicate, to plan and host events that bring community members together, and ti identify other individuals who may wish to join the community.
+  * To enable you to utilize features on our Services, including to display your messages/captions, photos and/or videos (which may include “likes,” comments or other reactions to such messages/captions, photos and/or videos) on our Services.
+  * To enable us to interact with you, including to send you direct marketing communications if you consented to us doing so.
+  * To run contents and sweepstakes that you have entered or participated in.
+  * To provide you with the best service and improve and grow our business, including understanding our customer base and purchasing trends, understanding the effectiveness of our marketing, and tailoring advertising to you.
+  * To detect, investigate, and prevent activities that may violate our policies or be fraudulent or illegal, and to comply with legal requirements regarding the provision of products and services.
 
-Ads appearing on the Website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by the Company and does not cover the use of cookies by any advertisers.
 
-**9.      ****Interactive Features**
 
-We __ may offer chat rooms, message boards, comment features and other means of communicating to other users of the Website.  Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your Personal Information.  Contributions in public discussions may also be republished on the Website and in any Company publications without compensation to or express permission from the original contributor.
+**_Who Do We Share Information With?_**
 
-**10.      ****Security**
+_Service Providers_. We engage third party service providers to perform functions on our behalf such as: payment processing, marketing automation, website, software, and data storage, analytics, and conducting customer surveys.
 
-We will not be liable for any breach of the security measures on the Website or any loss, misuse or alteration of information resulting therefrom or from communications through the Internet.
+_Third Parties Involved in Advertising_. We engage third parties to assist us in serving advertising regarding the Services to others who may be interested in the Services. We may share de-identified or aggregated information about you to enable the third parties to identify these individuals.
 
-If you have any questions regarding this Privacy Policy please contact us via e-mail at contact@nationswell.com.
+_Social Media Platforms_. Where you choose to interact with us through social media, your interaction with social media providers typically allows that third party platform to collect some information about you through cookies they place on your device and other tracking mechanisms. In some cases, that third party social media platform may recognize you through its cookies even when you do not interact with their application(s). Please visit those third parties’ respective privacy policies to better understand their data collection practices and controls they make available to you.
+
+_Business Partners_. We may provide events, content, or other features on our Services in partnership with business partners. When we do this, we share general, aggregate or de-identified information about the users that interact with these events, content, or other features with the third-party business partner. We may also share your contact information with business partners who work with us to host events.
+
+**_Additional Information About our Data Collection and Sharing Practices_**
+
+_Sharing of Aggregated Data_. We collect and analyze aggregated, de-identified data and share this data and our analyses at our discretion, including with third party marketing agencies, media agencies and analytics providers.
+
+_Change of Ownership or Corporate Organization_. We may transfer to another entity or its affiliates or service providers some or all information about you in connection with, or during negotiations for, any merger, acquisition, sale of assets or any line of business, change in ownership control, or financing transaction. We cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Privacy Policy.
+
+_Cross-Border Transfer of Data_. If you use our Services outside of the United States, you understand that we may collect, process, and store information about you or that you provide to us in the United States and other countries.  The laws in the United States regarding this information may be different from the laws of your state or country.  Any such transfers will comply with safeguards as required by relevant law.  By using the Services, you consent to the collection, international transfer, storage, and processing of this information.
+
+**_Your Options and Rights_**
+
+_Our Email Bulletins_ : If at any time you would like to unsubscribe from receiving future emails, you can click the unsubscribe link at the bottom of any email bulletin, or email us at contactus@nationswell.com with the subject letter “unsubscribe” and we will promptly remove you from such email distribution lists. Please note that you may not opt-out of receiving notifications and other communications regarding your account or your transactions with us.
+
+_Cookies and other automatic information gathering technologies_ : Most web browsers automatically accept cookies but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your browser to decline cookies, some features of the Services may not be available, work, or work as designed.
+
+You may be able to opt out of or block tracking by interacting directly with the third-parties who conduct tracking through our Services. Please see below for more information.
+
+_Advertising_ : You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the websites for the  _[Network Advertising Initiative](https://www.networkadvertising.org/choices/)_ , the  _[Digital Advertising Alliance](http://www.aboutads.info/choices)_ , and the [European Interactive Digital Advertising Initiative](http://www.youronlinechoices.eu/). Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device.
+
+Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Services or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms. If you delete your cookies, you may also delete your opt-out preferences.
+
+**_How We Secure the Information We Collect From or About You_**
+
+We use a combination of physical, technical, and administrative safeguards to protect the information we collect through the Services.  While we use these precautions to safeguard your personal information, we cannot guarantee the security of the networks, systems, servers, devices, and databases we operate or that are operated on our behalf.
+
+**_Our Practices Regarding Information Belonging to Children_**
+
+The Services are intended for users age thirteen and older. Please do not create an account if you are under the age of 13. If we discover that we have inadvertently collected personal information from anyone younger than the age of 13, we will delete that information.
+
+**_Additional Information About Our Use of Tracking Technologies_**
+
+NationSwell relies on partners to provide many features of our Services using data about your use of the NationSwell and other sites. We use cookies for the following purposes:
+
+  * _Site Operations_ : Enabling features that are necessary for providing you the content and features on out Services, such as identifying you as being signed in, tracking content views so that we can pay the content owners, and remembering your preferences.
+  * _Analytics_ : Allowing us to understand how our Services are being used, track site performance and make improvements.
+  * _Personalized Advertising_ : Delivering tailored advertising based on your preferences or interests across our Services and through different devices and measuring the effectiveness of our advertisements.
+  * _Social Media_ : Enabling the sharing of content from our Services through social media networks and other sites.
+
+
+
+Below is a list of partners we use for these purposes with links to more information on their use of your data and how to exercise your options regarding tracking: __
+
+**Category** | **Partner** | **Further Information**  
+---|---|---  
+Analytics | Google | [How Google users information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)  
+Personalized Advertising, Social Media | Facebook | [Data Policy](https://www.facebook.com/privacy/explanation)  
+Analytics | Parse.ly | [Privacy Policy](https://www.parse.ly/privacy-policy/)  
+Analytics | WordPress Stats | [Privacy Policy](https://automattic.com/privacy/)  
+Analytics | Panoply | [Privacy Policy](https://panoply.io/privacy-policy/)  
+Analytics | Looker | [Privacy Policy](https://looker.com/privacy)  
+  
+**_Changes to This Privacy Policy_ : **Your browser or device may include “Do Not Track” functionality. At this time, NationSwell does not respond to browser “Do Not Track” signals.
+
+We may make changes to this Privacy Policy from time to time. We will post any changes, and such changes will become effective when they are posted. Your continued use of our Services following the posting of any changes will mean you accept those changes.
