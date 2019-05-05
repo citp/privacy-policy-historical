@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503040935id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505045418id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ## Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [contact@lyrster.com](mailto:contact@lyrster.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f695999882979582b69a8f8485829384d895999b). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Security
 
@@ -68,6 +68,10 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 Please note that users can not update or delete previously submitted information. If your information (such as your email address) should change, we ask that you re-submit a request. 
 
+## Legitimate Interest
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
 ## Notification of Privacy Statement Changes
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
@@ -79,4 +83,4 @@ Attn: Lyrster
 DesMoines, Iowa  
 USA, 50309 
 
-[contact@lyrster.com](mailto:contact@lyrster.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#25464a4b5144465165495c57565140570b464a48)
