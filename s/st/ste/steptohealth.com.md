@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steptohealth.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816160125id_/https%3A//steptohealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steptohealth.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505141754id_/https%3A//steptohealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Step To Health
 
@@ -10,7 +10,7 @@ Sending personal information is mandatory in order to contact an individual and 
 
 Refusal to provide the requested personal information, or refusal to accept the present information protection policy will prevent subscription, registration, or the receipt of products and services offered by this entity.
 
-According to the declaration of the Organic Law 15/1999, December 13th, Personal Information Protection, we declare that the personal information which is sent will be incorporated into files pertaining to GRUPO M CONTIGO S.L., address AZAFRANAL 19 2ºA 37001 Salamanca, having implemented all security measures established in Development Regulations in the LOPD, royal decree 1720/2007, December 21st.
+According to the declaration of the Organic Law 15/1999, December 13th, Personal Information Protection, we declare that the personal information which is sent will be incorporated into files pertaining to GRUPO M CONTIGO S.L., address Concejo 13, 37002, Salamanca, having implemented all security measures established in Development Regulations in the LOPD, royal decree 1720/2007, December 21st.
 
 ## ACCURACY AND VERACITY OF INFORMATION PROVIDED
 
@@ -30,7 +30,7 @@ GRUPO M CONTIGO S.L.. will not release user information to third parties. Howeve
 
 Exercise of access rights, reformation, cancellation and opposition
 
-Any sort of communication, along with the exercising of access rights, reformation, cancellation and opposition can be directed via mail to: GRUPO M CONTIGO S.L.., AZAFRANAL 19 2ºA 37001 Salamanca, or via email to [info@steptohealth.com](mailto:info@steptohealth.com), with the subject “Information Protection” indicated in the subject line. In order to exercise said rights and by obeying Instruction 1/1998, January 19th, of the Spanish Agency of Information Protection, the user must verify his/her identity to GRUPO M CONTIGO S.L., by sending a photocopy of his/her NATIONAL IDENTITY DOCUMEN or any other valid legal means.
+Any sort of communication, along with the exercising of access rights, reformation, cancellation and opposition can be directed via mail to: GRUPO M CONTIGO S.L.., Concejo 13, 37002, Salamanca, or via email to [info@steptohealth.com](mailto:info@steptohealth.com), with the subject “Information Protection” indicated in the subject line. In order to exercise said rights and by obeying Instruction 1/1998, January 19th, of the Spanish Agency of Information Protection, the user must verify his/her identity to GRUPO M CONTIGO S.L., by sending a photocopy of his/her NATIONAL IDENTITY DOCUMEN or any other valid legal means.
 
 ## INFORMATION SECURITY MEASURES
 
@@ -50,7 +50,7 @@ Sending personal information is mandatory in order to contact an individual and 
 
 Refusal to provide the requested personal information, or refusal to accept the present information protection policy will prevent subscription, registration, or the receipt of products and services offered by this entity.
 
-According to the declaration of the Organic Law 15/1999, December 13th, Personal Information Protection, we declare that the personal information which is sent will be incorporated into files pertaining to GRUPO M CONTIGO S.L., address AZAFRANAL 19 2ºA 37001 Salamanca, having implemented all security measures established in Development Regulations in the LOPD, royal decree 1720/2007, December 21st.
+According to the declaration of the Organic Law 15/1999, December 13th, Personal Information Protection, we declare that the personal information which is sent will be incorporated into files pertaining to GRUPO M CONTIGO S.L., address Concejo 13, 37002, Salamanca, having implemented all security measures established in Development Regulations in the LOPD, royal decree 1720/2007, December 21st.
 
 ## ACCURACY AND VERACITY OF INFORMATION PROVIDED
 
@@ -70,7 +70,7 @@ GRUPO M CONTIGO S.L.. will not release user information to third parties. Howeve
 
 Exercise of access rights, reformation, cancellation and opposition
 
-Any sort of communication, along with the exercising of access rights, reformation, cancellation and opposition can be directed via mail to: GRUPO M CONTIGO S.L.., AZAFRANAL 19 2ºA 37001 Salamanca, or via email to [info@steptohealth.com](mailto:info@steptohealth.com), with the subject “Information Protection” indicated in the subject line. In order to exercise said rights and by obeying Instruction 1/1998, January 19th, of the Spanish Agency of Information Protection, the user must verify his/her identity to GRUPO M CONTIGO S.L., by sending a photocopy of his/her NATIONAL IDENTITY DOCUMEN or any other valid legal means.
+Any sort of communication, along with the exercising of access rights, reformation, cancellation and opposition can be directed via mail to: GRUPO M CONTIGO S.L.., Concejo 13, 37002, Salamanca, or via email to [info@steptohealth.com](mailto:info@steptohealth.com), with the subject “Information Protection” indicated in the subject line. In order to exercise said rights and by obeying Instruction 1/1998, January 19th, of the Spanish Agency of Information Protection, the user must verify his/her identity to GRUPO M CONTIGO S.L., by sending a photocopy of his/her NATIONAL IDENTITY DOCUMEN or any other valid legal means.
 
 ## INFORMATION SECURITY MEASURES
 
