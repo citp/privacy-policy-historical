@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stack.com privacy policy that was archived on 2018-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181024070500id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stack.com privacy policy that was archived on 2019-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190505143751id_/https%3A//www.stack.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
@@ -140,7 +140,7 @@ function split_iris(destination)
 	<!-- Canonical Tag -->
 	
 		
-		<link rel="canonical" href="http://www.stack.com/privacy-policy">
+		<link rel="canonical" href="https://www.stack.com/privacy-policy">
 
 
 		
@@ -366,8 +366,57 @@ var DFP 	= {
 };
 </script>	
 
-<!-- Header Tag Code --> <script data-cfasync="false" type="text/javascript">/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/27ad77cd-e815-49ec-a84f-45e30871dfab.js');/*]]>*/</script> <!-- End Header Tag Code -->
+<!-- Header Tag Code --><script data-cfasync="false" type="text/javascript">/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/27ad77cd-e815-49ec-a84f-45e30871dfab.js');/*]]>*/</script><!-- End Header Tag Code -->
 
+	<!-- MVP Redirect -->
+<script>
+
+if (false){
+
+	// see if this user is/has been an MVP user
+	if(document.cookie.indexOf('mvpemail') !== -1){
+		// only redirect if article page
+		if (typeof pageinfo !== 'undefined' && (pageinfo.type == 'article' || pageinfo.type == 'subsitearticle')) {
+
+			window.getMVPCookie = function(name) {
+				var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+				if (match){ return match[2]; } else { return ''; }
+			}
+
+			var mvpemail = getMVPCookie('mvpemail');
+			//var mvpemail = 'N3pwbWhFelg2RXpuS20vaFRmYVllQ2R5VndlUHA0YXU2UGRkSUFxZm8vZz0';
+
+
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function() {
+				if (this.readyState == 4 && this.status == 200) {
+					var mvpdata 	= JSON.parse(this.responseText);
+				  	if(mvpdata['success'] === true){
+				  		window.location 	= pageinfo.url.replace('/a/','/adfree/');
+				  	}
+				}
+			};
+			xhttp.open("GET", "https://members.stack.com/api/v1/user/is_mvp?mvpemail=" + mvpemail, true);
+			xhttp.send();
+
+		}
+	}
+
+	// if adfree template - make sure user has proper cookie
+	if (typeof pageinfo !== 'undefined'){
+		if (pageinfo.type == 'adfree' || pageinfo.type == 'subsiteadfree'){
+			// if they don't have the cookie, we need to redirect them to an ad enabled page
+			if(document.cookie.indexOf('mvpemail') == -1){
+				// TODO: if cookie older than a day old, run request to verify they are still active user
+				window.location 	= pageinfo.url.replace('adfree','a');
+			} else {
+				// TODO: if they do have the cookie, we should check its validity
+			}
+		}
+	}
+
+}
+</script>
 	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -397,6 +446,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 	
 	
+	<!--
+<link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      //appId: "c198a1c4-b45c-4cec-a7c8-0cb6f701b31e",  // production
+      //appId:  "ac6fad2e-9ea6-44fe-a2b9-4793057d0c1e"  // staging
+      //appId:  "1ae3d28e-6ab0-4893-9cc1-50944089495d"  // https production
+      appId: "1ae3d28e-6ab0-4893-9cc1-50944089495d",
+    });
+  });
+</script>
+-->
+	<!-- Push Notifications --
+	<script>
+	(function(document, window){
+	    var script = document.createElement("script");
+	    script.type = "text/javascript";
+	    script.src = "https://push.smpush.com/scripts/push/nw2dqvgpj0";
+	    script.onload = function() {
+	        push_init();
+	        push_subscribe();
+	    };
+	    document.getElementsByTagName("head")[0].appendChild(script);
+	})(document, window);
+	</script>
+	-->
+
+	<script>window._izq = window._izq || []; window._izq.push(["init"]);
+
+
+if (typeof pageinfo !== 'undefined' && typeof pageinfo.taxonomy !== 'undefined'){
+	window._izq.push(["userProfile",{"add":{ "Category":pageinfo.taxonomy['category']} }]); 
+	window._izq.push(["userProfile",{"add":{ "Tag":pageinfo.taxonomy['post_tag']} }]); 
+}
+
+</script><script src="https://cdn.izooto.com/scripts/4407dbdfc96f5a560ead6045f8546fcdc9179493.js"></script>
+
 </head>
 <body class="pagetypecustom">
 
@@ -407,6 +496,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-58NL9Q"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 
 	
 	<div id="bannerbg">
@@ -461,6 +551,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<meta itemprop="url" content="/assets/img/branding/logos/stack-white-resized.png">
 	</span>
 					</a>
+
+					<style>
+					#mobile-login-join {
+						float:right;color:#FFF;font-family:'Oswald',Impact,Arial,Helvetica,sans-serif;font-size:16px;padding-right:10px;
+						margin-top:-35px;
+					}
+					#mobile-login-join a {
+						font-size:16px !important;
+					}
+					#mobile-login-join a:hover {
+						color:#FFF !important;
+					}
+					#mobile-login-join .joinme {
+						border-radius: 2px;background-color: #bf2f37;padding: 1px 6px;
+					}
+					</style>
+
+					<div id="mobile-login-join" class="hidden-sm hidden-md hidden-lg">
+
+						<a href="https://members.stack.com/member?utm_source=stack&amp;utm_campaign=navbar-login" target="_blank">Log In</a> &nbsp;&nbsp;
+
+						<a class="joinme" href="https://members.stack.com/go/subscribe-trial-7/offer?utm_source=stack&amp;utm_campaign=navbar-join" target="_blank">Join</a>
+
+					</div>
 
 				</div>
 				
@@ -958,103 +1072,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 														
 								
-								<li class="menu-item-videos menu-type-video">					
-									<a href="https://www.stack.com/videos">Videos</a>
-
-									
-										
-										<div class="menu-inner">
-
-
-												
-													<div class="submenu col-sm-3" data-cols="3">
-
-														<ul>
-
-															
-																
-																<li class="menu-type-video">
-
-																	<a href="https://www.stack.com/t/michael-johnson-performance">Michael Johnson Performance</a>
-
-																</li>
-
-															
-																
-																<li class="menu-type-video">
-
-																	<a href="https://www.stack.com/t/todd-durkin-workouts">Todd Durkin's World-Class Workouts</a>
-
-																</li>
-
-															
-														</ul>
-
-													</div>
-
-												
-													<div class="submenu col-sm-3" data-cols="3">
-
-														<ul>
-
-															
-																
-																<li class="menu-type-video">
-
-																	<a href="https://www.stack.com/t/path-to-the-pros-2018">Path to the Pros: 2018</a>
-
-																</li>
-
-															
-														</ul>
-
-													</div>
-
-												
-													<div class="submenu col-sm-3" data-cols="3">
-
-														<ul>
-
-															
-																
-																<li class="menu-type-video">
-
-																	<a href="https://www.stack.com/t/elite-performance-mike-boyle">STACK Elite Performance</a>
-
-																</li>
-
-															
-														</ul>
-
-													</div>
-
-												
-													<div class="submenu col-sm-3" data-cols="3">
-
-														<ul>
-
-															
-																
-																<li class="menu-type-video">
-
-																	<a href="https://www.stack.com/t/stack-fitness-weekly">STACK Fitness Weekly</a>
-
-																</li>
-
-															
-														</ul>
-
-													</div>
-
-												
-
-										</div>
-
-									
-								</li>
-
-														
-								
 								<li class="menu-item-resources menu-type-page">					
 									<a href="https://www.stack.com/resources">Resources</a>
 
@@ -1114,7 +1131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																
 																<li class="menu-type-static">
 
-																	<a href="http://www.stack.com/offer/v1/stack/?utm_source=stack&amp;utm_campaign=navigation-resources-tab">Partner Offers</a>
+																	<a href="https://www.stack.com/offer/v1/stack/?utm_source=stack&amp;utm_campaign=navigation-resources-tab">Partner Offers</a>
 
 																</li>
 
@@ -1140,7 +1157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																
 																<li class="menu-type-static">
 
-																	<a href="http://www.stack.com/c/recruiting-lifestyle">Recruiting</a>
+																	<a href="https://www.stack.com/c/recruiting-lifestyle">Recruiting</a>
 
 																</li>
 
@@ -1191,6 +1208,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</li>
 
 							
+							<li class="hidden-xs hidden-sm"><a href="https://members.stack.com/member?utm_source=stack&amp;utm_campaign=navbar-login" target="_blank">Log In</a></li>
+							<li class="hidden-xs hidden-sm"><a style="border-radius: 2px;background-color: #bf2f37;padding: 1px 6px;" href="https://members.stack.com/go/subscribe-trial-7/offer?utm_source=stack&amp;utm_campaign=navbar-join" target="_blank">Join</a></li>
+
 							<li class="menu-item-mobilesearch menu-type-search">					
 								<a href="https://www.stack.com/search">Search STACK</a>
 							</li>
@@ -1303,6 +1323,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div>
 				<p>We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous Member usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the STACK Websites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing Member preferences and trends. We may use cookies to save Member IDs, session validators, and on Member's browsers and hard drives, and may use them to provide tailored products or services to those Members, as they become available. We also may cross-match Member information with information collected from cookies and clickstream data in order to test features of the STACK Website, and to better personalize our various offerings for Members. IP addresses may be disclosed to a third party if we believe in good faith that the law or legal process so requires, or to protect the rights or property of STACK or others. From time to time we may extend various offers from various partner companies, including news or additional details on products and services. A Member's usage history may result in specifically tailored special offer screens or products. We may also produce aggregate reports for advertisers. This information will not include personally identifiable information about a Member, or a specific Member's online usage patterns.</p>
 			</div>
+		<h3>Third Party Tracking and Online Advertising</h3>
+			<div>
+				<p>We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our Service through cookies, social plug-ins, or other tracking technology. We may permit third party online advertising networks to collect information about your use of our websites over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit <a href="http://www.allaboutcookies.org">http://www.allaboutcookies.org</a> and/or the Network Advertising Initiative’s online resources, at <a href="http://optout.networkadvertising.org">http://optout.networkadvertising.org</a>. Depending on your mobile device, you may not be able to control tracking technologies through settings.</p>
+			</div>
+
 		<h3>Profile Information</h3>
 			<div>
 				<p>STACK allows Members to provide information to a profile that is accessible to other Members. We use this profile information for the purposes of providing our services to you, such as to analyze demographics, to better personalize our various offerings for Members, or to enable other Members to find your profile. All information, including any personally identifiable information, which is disclosed by Members in his or her public profile and journal entries are available for others to see. We caution you not to share sensitive information (such as social security numbers, credit card numbers, and driver's license numbers) with other Members whom you do not know or place such information in your profile.</p>
@@ -1460,19 +1485,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block  " data-name="0" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/is-early-specialization-beneficial-for-young-soccer-players">
+						<a href="https://www.stack.com/a/are-bang-energy-drinks-healthy">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/11/19150000/Youth-Soccer-Player-STACK-300x169.jpg" class="img-responsive" alt="Is Early Specialization Beneficial for Young Soccer Players?" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/11/04155437/BANG-Energy-Drinks-STACK-300x169.png" class="img-responsive" alt="Are Bang Energy Drinks Healthy?" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/11/19150000/Youth-Soccer-Player-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/11/04155437/BANG-Energy-Drinks-STACK-300x169.png">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/is-early-specialization-beneficial-for-young-soccer-players"> Is Early Specialization Beneficial for Young Soccer Players? </a> </strong>
+					<strong> <a href="https://www.stack.com/a/are-bang-energy-drinks-healthy"> Are Bang Energy Drinks Healthy? </a> </strong>
 					
 					
 				</div>
@@ -1482,19 +1507,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block  " data-name="1" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/the-childhood-drill-that-helped-pat-mahomes-build-superhuman-arm-strength">
+						<a href="https://www.stack.com/a/legendary-basketball-coach-muffet-mcgraw-parents-today-dont-want-to-give-their-child-a-chance-to-fail">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/10/10123231/Patrick-Mahomes-Arm-Strength-STACK-300x169.jpg" class="img-responsive" alt="The Childhood Drill That Helped Pat Mahomes Build Superhuman Arm Strength" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/12/30232233/Muffet-McGraw-STACK-300x169.jpg" class="img-responsive" alt="Legendary Basketball Coach Muffet McGraw: Parents Today Don't Want to Give Their Child a Chance to Fail" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/10/10123231/Patrick-Mahomes-Arm-Strength-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/12/30232233/Muffet-McGraw-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/the-childhood-drill-that-helped-pat-mahomes-build-superhuman-arm-strength"> The Childhood Drill That Helped Pat Mahomes Build Superhuman Arm Strength </a> </strong>
+					<strong> <a href="https://www.stack.com/a/legendary-basketball-coach-muffet-mcgraw-parents-today-dont-want-to-give-their-child-a-chance-to-fail"> Legendary Basketball Coach Muffet McGraw: Parents Today Don't Want to Give Their Child a Chance to Fail </a> </strong>
 					
 					
 				</div>
@@ -1504,19 +1529,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block  " data-name="2" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/how-to-change-your-basketball-body-language-for-the-better">
+						<a href="https://www.stack.com/a/feed-the-beasts-nutrition-strategies-that-power-duke-basketball">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/10/08060411/Basketball-Body-Language-STACK-300x169.jpg" class="img-responsive" alt="How to Change Your Basketball Body Language for the Better" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2019/03/28142346/Duke-Basketball-Nutrition-STACK-300x169.jpg" class="img-responsive" alt="Feed the Beasts: Nutrition Strategies That Power Duke Basketball" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/10/08060411/Basketball-Body-Language-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2019/03/28142346/Duke-Basketball-Nutrition-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/how-to-change-your-basketball-body-language-for-the-better"> How to Change Your Basketball Body Language for the Better </a> </strong>
+					<strong> <a href="https://www.stack.com/a/feed-the-beasts-nutrition-strategies-that-power-duke-basketball"> Feed the Beasts: Nutrition Strategies That Power Duke Basketball </a> </strong>
 					
 					
 				</div>
@@ -1526,19 +1551,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block  " data-name="3" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/why-usa-basketball-wants-youth-coaches-to-stop-using-zone-defenses">
+						<a href="https://www.stack.com/a/why-the-2000-meter-row-may-be-the-most-killer-fitness-test-ever-created">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/10/04145408/Man-Defense-STACK-300x169.jpg" class="img-responsive" alt="Why USA Basketball Wants Youth Coaches to Stop Using Zone Defenses" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2019/03/26130756/Rowing-Machine-STACK-300x169.jpg" class="img-responsive" alt="Why the 2,000-Meter Row May Be the Most Killer Fitness Test Ever Created" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/10/04145408/Man-Defense-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2019/03/26130756/Rowing-Machine-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/why-usa-basketball-wants-youth-coaches-to-stop-using-zone-defenses"> Why USA Basketball Wants Youth Coaches to Stop Using Zone Defenses </a> </strong>
+					<strong> <a href="https://www.stack.com/a/why-the-2000-meter-row-may-be-the-most-killer-fitness-test-ever-created"> Why the 2,000-Meter Row May Be the Most Killer Fitness Test Ever Created </a> </strong>
 					
 					
 				</div>
@@ -1548,19 +1573,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block  " data-name="4" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/how-to-teach-youth-soccer-players-basic-shooting-skills">
+						<a href="https://www.stack.com/a/the-message-you-send-to-your-kid-when-you-complain-about-their-coaches-and-teachers">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/09/21100053/Scissors-and-Shoot-Drill-STACK-300x169.png" class="img-responsive" alt="How to Teach Youth Soccer Players Basic Shooting Skills" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2019/06/08140000/Youth-Sports-Coach-STACK-300x169.jpg" class="img-responsive" alt="The Message You Send to Your Kid When You Complain About Their Coach" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/09/21100053/Scissors-and-Shoot-Drill-STACK-300x169.png">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2019/06/08140000/Youth-Sports-Coach-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/how-to-teach-youth-soccer-players-basic-shooting-skills"> How to Teach Youth Soccer Players Basic Shooting Skills </a> </strong>
+					<strong> <a href="https://www.stack.com/a/the-message-you-send-to-your-kid-when-you-complain-about-their-coaches-and-teachers"> The Message You Send to Your Kid When You Complain About Their Coach </a> </strong>
 					
 					
 				</div>
@@ -1570,19 +1595,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block hidden " data-name="5" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/rxbars">
+						<a href="https://www.stack.com/a/how-i-stumbled-upon-the-ultimate-science-backed-bedtime-snack-for-better-sleep-and-more-muscle">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2017/12/12113115/RXBars-STACK-300x169.png" class="img-responsive" alt="Are RXBARs Actually Healthy?" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2019/04/03170950/Bedtime-Snack-STACK-300x169.jpg" class="img-responsive" alt="How I Stumbled Upon the Ultimate, Science-Backed Bedtime Snack for Better Sleep and More Muscle" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2017/12/12113115/RXBars-STACK-300x169.png">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2019/04/03170950/Bedtime-Snack-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/rxbars"> Are RXBARs Actually Healthy? </a> </strong>
+					<strong> <a href="https://www.stack.com/a/how-i-stumbled-upon-the-ultimate-science-backed-bedtime-snack-for-better-sleep-and-more-muscle"> How I Stumbled Upon the Ultimate, Science-Backed Bedtime Snack for Better Sleep and More Muscle </a> </strong>
 					
 					
 				</div>
@@ -1592,19 +1617,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block hidden " data-name="6" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/is-fruit-juice-actually-healthy">
+						<a href="https://www.stack.com/a/how-america-killed-play-and-what-we-can-do-to-bring-it-back">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2018/09/11140845/Apple-Juice-STACK-300x169.jpg" class="img-responsive" alt="Is Fruit Juice Actually Healthy?" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2019/03/21112624/Death-of-Play-300x169.jpg" class="img-responsive" alt="How America Killed Play—and What We Can Do to Bring it Back" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2018/09/11140845/Apple-Juice-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2019/03/21112624/Death-of-Play-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/is-fruit-juice-actually-healthy"> Is Fruit Juice Actually Healthy? </a> </strong>
+					<strong> <a href="https://www.stack.com/a/how-america-killed-play-and-what-we-can-do-to-bring-it-back"> How America Killed Play—and What We Can Do to Bring it Back </a> </strong>
 					
 					
 				</div>
@@ -1614,19 +1639,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block hidden " data-name="7" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/is-peanut-butter-actually-healthy">
+						<a href="https://www.stack.com/a/are-bai-drinks-actually-healthy">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2017/09/07145012/Peanut-Butter-1-STACK-300x169.jpg" class="img-responsive" alt="Is Peanut Butter Actually Healthy?" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2017/07/20115142/Bai-Antioxidant-Infusion-STACK-300x169.png" class="img-responsive" alt="Are Bai Drinks Actually Healthy?" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2017/09/07145012/Peanut-Butter-1-STACK-300x169.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2017/07/20115142/Bai-Antioxidant-Infusion-STACK-300x169.png">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/is-peanut-butter-actually-healthy"> Is Peanut Butter Actually Healthy? </a> </strong>
+					<strong> <a href="https://www.stack.com/a/are-bai-drinks-actually-healthy"> Are Bai Drinks Actually Healthy? </a> </strong>
 					
 					
 				</div>
@@ -1636,19 +1661,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block hidden " data-name="8" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/why-parents-need-to-encourage-youth-athletes-to-play-multiple-sports">
+						<a href="https://www.stack.com/a/5-rear-delt-exercises-for-strong-and-durable-shoulders">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2017/04/21184112/Football-Kid-STACK-300x168.jpg" class="img-responsive" alt="Why Parents Need to Encourage Youth Athletes to Play Multiple Sports" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2016/07/22160057/Cable-High-Pulley-Lateral-Extension1-300x168.jpg" class="img-responsive" alt="5 Rear Delt Exercises for Strong and Durable Shoulders" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2017/04/21184112/Football-Kid-STACK-300x168.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2016/07/22160057/Cable-High-Pulley-Lateral-Extension1-300x168.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/why-parents-need-to-encourage-youth-athletes-to-play-multiple-sports"> Why Parents Need to Encourage Youth Athletes to Play Multiple Sports </a> </strong>
+					<strong> <a href="https://www.stack.com/a/5-rear-delt-exercises-for-strong-and-durable-shoulders"> 5 Rear Delt Exercises for Strong and Durable Shoulders </a> </strong>
 					
 					
 				</div>
@@ -1658,19 +1683,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="trending-block hidden " data-name="9" data-template="trending-block">
 
 					<div>
-						<a href="https://www.stack.com/a/study-nearly-90-of-this-years-nfl-draft-picks-played-multiple-sports-in-high-school">
+						<a href="https://www.stack.com/a/stanley-morgan-jr-shattered-records-and-changed-the-culture-at-nebraska">
 
 							<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2016/05/02132424/2016-NFL-Draft-STACK-300x168.jpg" class="img-responsive" alt="STUDY: Nearly 90% Of This Year's NFL Draft Picks Played Multiple Sports in High School" height="" width="" style="">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://upl.stack.com/wp-content/uploads/2019/04/03124740/Stanley-Morgan-NFL-Nebraska-2-STACK-300x169.jpg" class="img-responsive" alt="Stanley Morgan Jr. Shattered Records and Changed the Culture at Nebraska" height="" width="" style="">
 		<meta itemprop="height" content="300">
 		<meta itemprop="width" content="250">
-		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2016/05/02132424/2016-NFL-Draft-STACK-300x168.jpg">
+		<meta itemprop="url" content="https://upl.stack.com/wp-content/uploads/2019/04/03124740/Stanley-Morgan-NFL-Nebraska-2-STACK-300x169.jpg">
 	</span>
 
 						</a>
 					</div>
 
-					<strong> <a href="https://www.stack.com/a/study-nearly-90-of-this-years-nfl-draft-picks-played-multiple-sports-in-high-school"> STUDY: Nearly 90% Of This Year's NFL Draft Picks Played Multiple Sports in High School </a> </strong>
+					<strong> <a href="https://www.stack.com/a/stanley-morgan-jr-shattered-records-and-changed-the-culture-at-nebraska"> Stanley Morgan Jr. Shattered Records and Changed the Culture at Nebraska </a> </strong>
 					
 					
 				</div>
@@ -1803,23 +1828,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	
 	<div class="row">
-
-	<div class="col-xs-12">
-
-		<script id="mNCC" language="javascript">
-		medianet_width = "1052";
-		medianet_height = "200";
-		medianet_crid = "963428115";
-		medianet_versionId = "3111299"; 
-		medianet_chnm=pageinfo.type; // Used to specify the channel name
-		</script>
-		<center><script src="//contextual.media.net/nmedianet.js?cid=8CUGBXNY4"></script></center>
-
-	</div>
-
-</div>
-
-<div class="row">
 	<div class="col-xs-12">
 		<div class="be-ix-link-block"><!--Link Equity Target Div--></div>
 	</div>
@@ -1898,7 +1906,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<li><a href="http://www.facebook.com/STACK" target="_blank">Facebook</a></li>
 			<li><a href="http://www.twitter.com/stackmedia" target="_blank">Twitter</a></li>
 			<li><a href="http://www.youtube.com/user/STACKVids" target="_blank">YouTube</a></li>
-			<li><a href="http://www.instagram.com/stackmedia" target="_blank">Instagram</a></li>
+			<li><a href="https://www.instagram.com/stack/" target="_blank">Instagram</a></li>
 			<li><a href="http://www.pinterest.com/stackmedia" target="_blank">Pinterest</a></li>
 			<li><a href="https://www.stack.com/mrss/stack" target="_blank">RSS</a></li>
 		</ul>
@@ -1930,9 +1938,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="col-sm-6 col-sm-offset-3 center-txt headroom">
 
+		<img class="center-margins" src="/assets/img/minutemedia-logo.png" width="100">
+
+		<!--
 		<a href="http://www.foxsports.com">
-			<img class="center-margins" src="/assets/img/partners/fox-sports-logo.gif" alt="FOX Sports Digital">
+			<img class="center-margins" src="/assets/img/partners/fox-sports-logo.gif" alt="FOX Sports Digital" />
 		</a>
+		-->
 
 	</div>
 
@@ -1950,9 +1962,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
+	
+		
+		<script src="/assets/js/dfpbanner-lazyload-new.js"></script>
+
+	
+
 <script type="text/javascript" src="/min/?f=/assets/third-party/initializr/js/vendor/bootstrap.min.js,/assets/third-party/jquery-cookie-master/src/jquery.cookie.js,/assets/js/api.js,/assets/js/analytics.js,/assets/js/navbar.js,/assets/js/viewport.js,/assets/js/events.js,/assets/js/lazyload.js,/assets/js/promocode.js,/assets/js/mailcheck-master/src/mailcheck.min.js,/assets/js/mailcheck-init.js,/assets/js/marketing/refresh.js&amp;t=js"></script>
 <script type="text/javascript" src="/min/?f=/assets/js/loadmore.js&amp;t=js"></script>
-<script type="text/javascript" src="/min/?f=/assets/js/dfpbanner-lazyload.js&amp;t=js"></script>
 
 
 <script type="text/javascript">
@@ -2041,29 +2058,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       })();
 
     }
-</script><script>
-var infolinks_page_type 	= pageinfo.type || 'article';
-if (infolinks_page_type !== 'home' && infolinks_page_type !== 'page' && infolinks_page_type !== 'dtc' && infolinks_page_type !== 'fb'){
-	if (typeof device !== 'undefined' && device == 'phone'){
-		// mobile version
-		var infolinks_pid 	= 3119747;
-		var infolinks_wsid 	= 1;
-		var script 			= document.createElement('script');
-		script.setAttribute("type", "text/javascript");
-		script.setAttribute("src", 	"//resources.infolinks.com/js/infolinks_main.js");
-		document.body.appendChild(script);
-	} else {
-		// desktop version
-		var infolinks_pid 	= 3119747;
-		var infolinks_wsid 	= 0;	
-		var script 			= document.createElement('script');
-		script.setAttribute("type", "text/javascript");
-		script.setAttribute("src", 	"//resources.infolinks.com/js/infolinks_main.js");
-		document.body.appendChild(script);
-	}
-}
-</script><script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script><script type="text/javascript">ggv2id='vb90dub9';</script>
-<script type="text/javascript" src="https://js.gumgum.com/services.js"></script>
+</script>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			
+		</div>
+	</div>
+</div>
 
 
 </body></html>
