@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123436id_/http%3A//www.newgamenetwork.com/page/3/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505092634id_/https%3A//www.newgamenetwork.com/page/3/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New Game Network
 
@@ -30,3 +30,28 @@ This web site contains links to other sites. Please be aware that we are not res
 
 _Changes of Privacy Policy_  
 Users can be notified of any Privacy Policy changes by visiting this Privacy Policy Page.
+
+[](http://www.metacritic.com/) [](http://www.opencritic.com/)  
+[](http://www.gamerankings.com/) [](http://www.newsnow.co.uk/h/Technology/Gaming)
+
+Latest Comments
+
+[](https://disqus.com/by/sashakozak/) [Anno 1800 Review ](https://www.newgamenetwork.com/article/2104/anno-1800-review/)  
+May 2, 2019 by Sasha Kozak  
+Great review to one of my all time favorite series! 
+
+[]() [F1 2019 offers special editions ](https://www.newgamenetwork.com/news/16488/f1-2019-offers-special-editions/)  
+Apr 28, 2019 by JamesJay  
+Yes, Legends Edition is like the main "gold" version. It... 
+
+[]() [F1 2019 offers special editions ](https://www.newgamenetwork.com/news/16488/f1-2019-offers-special-editions/)  
+Apr 28, 2019 by Kel234  
+Can anyone please tell me, in the Legends Edition, do you... 
+
+[](https://disqus.com/by/katvic/) [F1 2019 offers special editions ](https://www.newgamenetwork.com/news/16488/f1-2019-offers-special-editions/)  
+Apr 27, 2019 by Kat Vic  
+It's not going to cost me anymore to pre order. I am... 
+
+[](https://disqus.com/by/disqus_jRCPdfdXD4/) [F1 2019 offers special editions ](https://www.newgamenetwork.com/news/16488/f1-2019-offers-special-editions/)  
+Apr 27, 2019 by Jocko Johnson  
+not a reason at all, it's manipulating the FOMO effect,... 
