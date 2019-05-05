@@ -1,122 +1,49 @@
-> *The following text is extracted and transformed from the gtt.net privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123050030id_/https%3A//www.gtt.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtt.net privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505074311id_/https%3A//www.gtt.net/us-en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GTT
+# Privacy Policy
 
-##### GTT Communications, Inc. (and, together with our affiliates each an “Affiliate”, “we”, “us” or “our”)
+## GTT Communications, Inc. (and, together with our affiliates each an “Affiliate”, “we”, “us” or “our”)
 
-**1\. Introduction**
+## 1\. Introduction
 
-This notice (“Notice”) has been developed to ensure our customers feel confident about the privacy and security of personal data and to meet our obligations under the General Data Protection Regulation (“GDPR”) and the data protection legislation of the jurisdiction of incorporation of the relevant member of the GTT group, as amended, revised, modified or replaced from time to time, and (together, the “Legislation”). Under the Legislation, ‘personal data’ is information that identifies you as an individual or is capable of doing so.
+This notice (“Notice”) has been developed to ensure our customers feel confident about the privacy and security of personal data and to meet our obligations under the General Data Protection Regulation (“GDPR”) and the data protection legislation of the jurisdiction of incorporation of the relevant member of the GTT group, as amended, revised, modified or replaced from time to time, and (together, the “Legislation”). Under the Legislation, ‘personal data’ is information that identifies you as an individual or is capable of doing so. To the extent we act as a ‘data controller’, we must comply with the data protection principles set down in the Legislation and this Notice applies to all personal data collected, processed and stored by us in the course of our activities. The purpose of this Notice is to set out the procedures that are to be followed when dealing with personal data and to outline how we will collect and manage personal information in accordance with all relevant legislation and standards. The procedures set out herein must be followed at all times by us, our employees, agents, contractors, or other parties working on behalf of us. This Notice extends to all personal data whether stored in electronic or paper format.
 
-To the extent we act as a ‘data controller’, we must comply with the data protection principles set down in the Legislation and this Notice applies to all personal data collected, processed and stored by us in the course of our activities. The purpose of this Notice is to set out the procedures that are to be followed when dealing with personal data and to outline how we will collect and manage personal information in accordance with all relevant legislation and standards. The procedures set out herein must be followed at all times by us, our employees, agents, contractors, or other parties working on behalf of us.
+## 2\. What Personal Information do we hold on customers?
 
-This Notice extends to all personal data whether stored in electronic or paper format.
+We only hold personal data that is directly relevant to our dealings with a given data subject. That data will be collected, held, and processed in accordance with the data protection principles and with this Notice in a reasonable and lawful manner. The customer will be requested to provide the following information for provision of services and for the purposes of billing: personal identification data, including: name, address, phone number and/or email address(es) online identification data, including: IP address
 
-**2\. What Personal Information do we hold on customers?**
+## 3\. Processing Personal Data
 
-We only hold personal data that is directly relevant to our dealings with a given data subject. That data will be collected, held, and processed in accordance with the data protection principles and with this Notice in a reasonable and lawful manner. The customer will be requested to provide the following information for provision of services and for the purposes of billing:
+Any and all personal data collected by us from the customer (as further detailed in Section 3 of this Notice) is collected in order to ensure that we can provide the services to its customers under the terms of the services agreement with the customer, that it provides the services in the best possible manner and that it can efficiently manage its customers as a whole. We use personal data in order to ensure we are able to perform services agreements with customers for the provision of agreed services. We may also use personal data in meeting certain obligations imposed by law. Business processes for personal data necessary to fulfil the terms of the services agreement with you as the customer include: direct provision of the services to you resolving issues arising in respect of the provision of the services or the services agreement with you billing for services provided by us under the services agreement with you administration of customer accounts, including: ensuring the ongoing provision of optimized services to you informing you of the status of the services implementing any changes to services, billing or customer information as requested by you In addition, we may also use customer personal data to contact you regarding information on available upgrades.
 
-  * personal identification data, including: name, address, phone number and/or email address(es)
-  * online identification data, including: IP address
+## 4\. Retention and accuracy
 
+We shall employ reasonable means to keep personal data accurate, complete and up to date in accordance with the purposes for which it was collected. You, as customer, are responsible for ensuring that you inform the relevant department of any changes in your personal details. Changes to personal information may be made by submitting a ticket through the network operations team or a sales agent. We endeavor to ensure personal information held by us is up to date and accurate.
 
+## 5\. Do we disclose information about customers to anyone else?
 
-**3\. Processing Personal Data**
+Personal data may be disclosed internally when passed from one department to another in accordance with the data protection principles and this Notice. Personal data is not passed to any internal department or any individual that does not reasonably require access to that personal data with respect to the purpose(s) for which it was collected and is being processed. Relevant internal departments to whom personal data may be disclosed are as follows: sales billing and accounts network operations security operations legal We shall disclose customer information to third parties only when it is necessary as part of our business practices or when there is a legal or statutory obligation to do. Categories of such third parties may include: subcontractors credit collection agencies auditors authorities to whom we are legally obliged to disclose customer information, e.g. law enforcement, tax authorities, etc. Whenever we disclose customer information to third parties, we will only disclose that amount of personal information necessary to meet such business need or legal requirement. Third parties that receive customer information from us must satisfy us as to the measures taken to protect the personal data such parties receive. Appropriate measures will be taken to ensure that all such disclosures or transfers of customer information to third parties will be completed in a secure manner and pursuant to contractual safeguards. We may provide information, when legally obliged to do so and in response to properly made requests, for the purpose of the prevention and detection of crime, and the apprehension or prosecution of offenders. We may also provide information for the purpose of safeguarding national security. In the case of any such disclosure, we will do so only in accordance with the Legislation. We may also provide information when required to do so by law, for example under a court order. We may also transfer data to legal counsel where same is necessary for the defence of legal claims. If there is any change in the ownership of GTT Communications, Inc. or any of its assets, we may disclose personal information to the new (or prospective) owner. If we do so, we will require the other party to keep all such information confidential.
 
-Any and all personal data collected by us from the customer (as further detailed in Section 3 of this Notice) is collected in order to ensure that we can provide the services to its customers under the terms of the services agreement with the customer, that it provides the services in the best possible manner and that it can efficiently manage its customers as a whole. We use personal data in order to ensure we are able to perform services agreements with customers for the provision of agreed services. We may also use personal data in meeting certain obligations imposed by law.
+## 6\. How long do we keep personal information?
 
-Business processes for personal data necessary to fulfil the terms of the services agreement with you as the customer include:
+The time period for which we retain information varies according to the use of that information. In some cases there are legal requirements to keep data for a minimum period of time. Unless specific legal requirements dictate otherwise, we will retain information no longer than is necessary for the purposes for which the data were collected or for which they are further processed. Customer personal data will be held for as long as the customer holds a services agreement for the provision of services with us. Following termination of service, customer personal data shall continue to be retained for the minimum period mandatory under local law. Following this mandatory period, personal data shall be retained for no longer than necessary to allow for the defence of legal claims in accordance with applicable statutory limitation periods under local law. Following the expiry of this period customer personal data held by us will be destroyed.
 
-  * direct provision of the services to you
-  * resolving issues arising in respect of the provision of the services or the services agreement with you
-  * billing for services provided by us under the services agreement with you
-  * administration of customer accounts, including: 
-    * ensuring the ongoing provision of optimized services to you
-    * informing you of the status of the services
-    * implementing any changes to services, billing or customer information as requested by you
+## 7\. How do we protect data about customers when it is transferred out of Europe?
 
+We may transfer customer personal data outside the EEA, including to the United States of America, for storage purposes. Any transfer of customer personal data outside of the EEA shall be made through transfer mechanisms approved or allowed for under the Legislation and we shall take all necessary steps to ensure that there is adequate protection, as required by the Legislation. You may obtain a copy of the standard data protection clauses which provide for appropriate safeguards for your rights by contacting us at legal@gtt.net.
 
+## 8\. How can you exercise your rights in respect of personal information we hold about you?
 
-In addition, we may also use customer personal data to contact you regarding information on available upgrades.
+We shall vindicate all your rights under the Legislation. These rights are as follows: your right to request from us access to personal data and to have any incorrect personal data rectified your right to the restriction of processing concerning you or to object to processing your right to have your personal data transferred to another service provider your right to have personal data erased (where appropriate) information on the existence of automated decision-making, if any, as well as meaningful information about the logic involved, its significance and its envisaged consequences Vindication of your rights shall not affect any rights which we may have under the Legislation. If you want to know what personal information we hold about you or exercise any of the above rights, you can do so by making your specific request in writing to the following address: GTT Communications, Inc./ Hibernia Atlantic Cable System Ltd, International Exchange Centre, Clonshaugh Industrial Estate, Dublin 17, Ireland. We will confirm your request within 21 days of receipt, and process your request within 30 days of receipt. If the information we hold about you is inaccurate, we request that you advise us promptly so that we can make the necessary amendments and confirm that these have been made within 30 days of receipt of your request.
 
-**4\. Retention and accuracy**
-
-We shall employ reasonable means to keep personal data accurate, complete and up to date in accordance with the purposes for which it was collected.
-
-You, as customer, are responsible for ensuring that you inform the relevant department of any changes in your personal details. Changes to personal information may be made by submitting a ticket through the network operations team or a sales agent. We endeavor to ensure personal information held by us is up to date and accurate.
-
-**5\. Do we disclose information about customers to anyone else?**
-
-Personal data may be disclosed internally when passed from one department to another in accordance with the data protection principles and this Notice. Personal data is not passed to any internal department or any individual that does not reasonably require access to that personal data with respect to the purpose(s) for which it was collected and is being processed.
-
-Relevant internal departments to whom personal data may be disclosed are as follows:
-
-  * sales
-  * billing and accounts
-  * network operations
-  * security operations
-  * legal
-
-
-
-We shall disclose customer information to third parties only when it is necessary as part of our business practices or when there is a legal or statutory obligation to do. Categories of such third parties may include:
-
-  * subcontractors
-  * credit collection agencies
-  * auditors
-  * authorities to whom we are legally obliged to disclose customer information, e.g. law enforcement, tax authorities, etc.
-
-
-
-Whenever we disclose customer information to third parties, we will only disclose that amount of personal information necessary to meet such business need or legal requirement. Third parties that receive customer information from us must satisfy us as to the measures taken to protect the personal data such parties receive.
-
-Appropriate measures will be taken to ensure that all such disclosures or transfers of customer information to third parties will be completed in a secure manner and pursuant to contractual safeguards.
-
-We may provide information, when legally obliged to do so and in response to properly made requests, for the purpose of the prevention and detection of crime, and the apprehension or prosecution of offenders. We may also provide information for the purpose of safeguarding national security. In the case of any such disclosure, we will do so only in accordance with the Legislation.
-
-We may also provide information when required to do so by law, for example under a court order.
-
-We may also transfer data to legal counsel where same is necessary for the defence of legal claims.
-
-If there is any change in the ownership of GTT Communications, Inc. or any of its assets, we may disclose personal information to the new (or prospective) owner. If we do so, we will require the other party to keep all such information confidential.
-
-**6\. How long do we keep personal information?**
-
-The time period for which we retain information varies according to the use of that information. In some cases there are legal requirements to keep data for a minimum period of time. Unless specific legal requirements dictate otherwise, we will retain information no longer than is necessary for the purposes for which the data were collected or for which they are further processed.
-
-Customer personal data will be held for as long as the customer holds a services agreement for the provision of services with us. Following termination of service, customer personal data shall continue to be retained for the minimum period mandatory under local law. Following this mandatory period, personal data shall be retained for no longer than necessary to allow for the defence of legal claims in accordance with applicable statutory limitation periods under local law. Following the expiry of this period customer personal data held by us will be destroyed.
-
-**7\. How do we protect data about customers when it is transferred out of Europe?**
-
-We may transfer customer personal data outside the EEA, including to the United States of America, for storage purposes. Any transfer of customer personal data outside of the EEA shall be made through transfer mechanisms approved or allowed for under the Legislation and we shall take all necessary steps to ensure that there is adequate protection, as required by the Legislation. You may obtain a copy of the standard data protection clauses which provide for appropriate safeguards for your rights by contacting us at [legal@gtt.net](mailto:legal@gtt.net).
-
-**8\. How can you exercise your rights in respect of personal information we hold about you?**
-
-We shall vindicate all your rights under the Legislation. These rights are as follows:
-
-  * your right to request from us access to personal data and to have any incorrect personal data rectified
-  * your right to the restriction of processing concerning you or to object to processing
-  * your right to have your personal data transferred to another service provider
-  * your right to have personal data erased (where appropriate)
-  * information on the existence of automated decision-making, if any, as well as meaningful information about the logic involved, its significance and its envisaged consequences
-
-
-
-Vindication of your rights shall not affect any rights which we may have under the Legislation.
-
-If you want to know what personal information we hold about you or exercise any of the above rights, you can do so by making your specific request in writing to the following address: GTT Communications, Inc./ Hibernia Atlantic Cable System Ltd, International Exchange Centre, Clonshaugh Industrial Estate, Dublin 17, Ireland.
-
-We will confirm your request within 21 days of receipt, and process your request within 30 days of receipt. If the information we hold about you is inaccurate, we request that you advise us promptly so that we can make the necessary amendments and confirm that these have been made within 30 days of receipt of your request.
-
-**9\. How do we protect personal information?**
+## 9\. How do we protect personal information?
 
 We shall employ reasonable appropriate administrative, technical, personnel procedural and physical measures to safeguard information against loss, theft and unauthorised uses access, uses or modifications.
 
-**10\. How can you make a complaint to us about the use of personal data?**
+## 10\. How can you make a complaint to us about the use of personal data?
 
-Complaints on the use, retention and disposal of personal data can submitted via email to [legal@gtt.net](mailto:legal@gtt.net).
+Complaints on the use, retention and disposal of personal data can submitted via email to legal@gtt.net. As a customer you also have the right to lodge a complaint with your national data protection supervisory authority.
 
-As a customer you also have the right to lodge a complaint with your national data protection supervisory authority.
+## 11\. Review
 
-**11\. Review**  
 This Notice will be reviewed and updated from time to time to take into account changes in the law and the experience of the Notice in practice. Any and all changes will be advised to customers.
