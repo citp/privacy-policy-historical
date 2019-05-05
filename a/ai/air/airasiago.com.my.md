@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the airasiago.com.my privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322082720id_/https%3A//www.airasiago.com.my/p/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airasiago.com.my privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505085917id_/https%3A//www.airasiago.com.my/p/corporate/privacypolicy) for the most accurate reproduction.*
 
 # AirAsiaGo. Personal Data Protection Policy | AirAsiaGo.com.my
 
 ## Privacy Policy
 
-This website (“Website”) is owned and operated by AAE Travel Pte. Ltd., a Singapore private company and joint venture between Expedia, Inc. and Air Asia Berhad. AAE Travel Pte. Ltd. understands that making bookings online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. This Privacy Policy applies to data collected on this Website. Our Website is intended for use by individuals who are over 18 years of age.
+This website (“Website”) is operated by AAE Travel Pte. Ltd., a Singapore private company and joint venture between Expedia, Inc. and Air Asia Berhad. AAE Travel Pte. Ltd. understands that making bookings online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. This Privacy Policy applies to data collected on this Website. Our Website is intended for use by individuals who are over 18 years of age.
 
 The terms “we”, “us”, “our” and “AAE” refer to AAE Travel Pte. Ltd. and its subsidiaries and corporate affiliates (collectively, the “AAE Companies”). An AAE corporate affiliate shall mean any entity (whether a person, corporation, partnership or otherwise) that directly or indirectly, controls, are controlled by, or are under common control with AAE. An entity shall be deemed to be in “control” of another entity when it holds fifty (50%) percent or more of voting shares in that entity or has management control of that entity).The term “you” refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents.
 
@@ -203,10 +203,10 @@ We may update this Privacy Policy in the future. We will notify you about materi
 
 #### How you can contact us
 
-If you have questions about either this Privacy Policy (or your travel planning or purchases) or any complaints about the processing of your personal information, please contact our data privacy officer at [aaeprivacy@aaetravel.com](mailto:aaeprivacy@aaetravel.com). You can also contact your local data protection authority for further information or to file a complaint.
+If you have questions about either this Privacy Policy or any complaints about the processing of your personal information, please contact our data privacy officer at [aaeprivacy@aaetravel.com](mailto:aaeprivacy@aaetravel.com). You can also contact your local data protection authority for further information or to file a complaint.
 
 We will do our best to respond to your request within 24 hours.   
-This Privacy Policy is effective as of 28 February 2017.
+This Privacy Policy is effective as of 1 November 2017.
 
 AAE Travel Pte. Ltd.   
 (Company Registration Number: 201113337M)   
