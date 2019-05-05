@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142339id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506015753id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
 
 # Alpha Coders Privacy Policy
 
@@ -12,68 +12,67 @@ At Alpha Coders, the privacy of our visitors is of extreme importance to us. Thi
   
 
 
-#### Log Files
+### Log Files
 
-Like many other Websites, Alpha Coders makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Alpha Coders makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-  
+Change Cookie Consent
 
+### Cookies and Analytics
 
-#### Cookies and Web Beacons (GDPR is below)
-
-Alpha Coders does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
-
-  
-
-
-#### DoubleClick DART Cookie
+Alpha Coders uses Google Analytics as an analytics provider. Google Analytics uses cookies to track your use of Alpha Coders. You can view Google's privacy policy: [Google's Privacy Policy](https://policies.google.com/privacy?hl=en)
 
   
 
 
-  * Google, as a third party vendor, uses cookies to serve ads on Alpha Coders.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to Alpha Coders and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [](https://www.google.com/policies/technologies/ads/)
+### Cookies Directly From Alpha Coders
 
-
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-
-
-  * Google Adsense
-  * Advertisers that participate in Google's Ad Exchange
-  * Exponential
-  * Oauth
-  * bRealTime
-  * Operative
-
-
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Alpha Coders send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Alpha Coders uses cookies to store your on-site preferences, as well as track your session 
 
   
 
 
-#### GDPR
+### Cookies and Social Media
+
+On the home page of Alpha Coders we include follow us links to Twitter ([Twitter Privacy Policy](https://twitter.com/en/privacy)) and Facebook ([Facebook Privacy Policy](https://www.facebook.com/policy.php). 
 
   
 
 
-  * Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/ "http://exponential.com/privacy/") or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com "mailto:privacy@exponential.com"). 
+### Cookies and Advertising
 
+Alpha Coders is mainly monetized through advertisements. Some of these ads are personalized. Below is a table of our advertising partners. 
 
+Ad Provider  |  Ad Personalization  |  Notes About Cookies   
+---|---|---  
+Google Adsense
 
-##### Cookie Details
+[Google's Ad Information](https://policies.google.com/technologies/ads)  
+[Google's Privacy Policy](https://policies.google.com/privacy?hl=en)
 
-Cookie Name | Sort by (Domain) | Function | Party | Class | Type | Expiry  
+|  Non-personalized advertisements in the EEA, Personalized ads elsewhere  |  **Note:** With non-personalized ads cookies are still used: Frequency capping, aggregated ad reporting, and to combat fraud   
+Google AdX
+
+[Google's Ad Information](https://policies.google.com/technologies/ads)  
+[Google's Privacy Policy](https://policies.google.com/privacy?hl=en)
+
+|  Non-personalized advertisements in the EEA, Personalized ads elsewhere  |  **Note:** With non-personalized ads cookies are still used: Frequency capping, aggregated ad reporting, and to combat fraud   
+Amazon
+
+[Amazon's Privacy Policy](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&nodeId=468496)
+
+|  Personalized advertisements  |   
+Exponential
+
+[Exponential's Privacy Policy](http://exponential.com/privacy/ "http://exponential.com/privacy/")
+
+|  Personalized advertisements
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/ "http://exponential.com/privacy/") or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com "mailto:privacy@exponential.com"). 
+
+| Cookie Name | Domain | Function | Party | Class | Type | Expiry  
 ---|---|---|---|---|---|---  
 ANON_ID  |  tribalfusion.com  |  The anonymous hashed id in the cookie links the web user's browser to a profile which contains the behaviors the user has displayed  |  Third  |  Tracking  |  Persistent  | 3 months  
   
-Alpha Coders has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Alpha Coders's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or Websites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
   
 
