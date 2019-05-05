@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernsalon.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004081627id_/http%3A//www.bobitbusinessmedia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernsalon.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505064829id_/http%3A//www.bobitbusinessmedia.com/privacy.aspx) for the most accurate reproduction.*
 
 # Bobit Business Media | Bobit Business Media Privacy Policy
 
@@ -17,7 +17,7 @@ Bobit Business Media
 3520 Challenger Street  
 Torrance, CA 90503  
 Phone: (310) 533-2440  
-E-mail:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cd9dbfa4bbacaeb48d8fa2afa4b9e3aea2a0)
+E-mail:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85d5f7ecf3e4e6fcc5c7eae7ecf1abe6eae8)
 
 ### The Information We Collect
 
