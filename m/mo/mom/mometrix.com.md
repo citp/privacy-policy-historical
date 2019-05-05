@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mometrix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143324id_/https%3A//www.mometrix.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mometrix.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505154756id_/https%3A//www.mometrix.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Mometrix Test Preparation
 
