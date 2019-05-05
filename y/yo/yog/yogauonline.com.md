@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogauonline.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012011627id_/https%3A//www.yogauonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogauonline.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505130905id_/https%3A//www.yogauonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YogaUOnline
 
