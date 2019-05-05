@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckygirltrading.blogspot.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531112415id_/http%3A//luckygirltrading.blogspot.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckygirltrading.blogspot.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505230810id_/http%3A//luckygirltrading.blogspot.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Make Every Day Your Lucky Day: Privacy Policy
 
