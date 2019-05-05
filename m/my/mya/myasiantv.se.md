@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myasiantv.se privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231101818id_/http%3A//myasiantv.se/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myasiantv.se privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505072309id_/http%3A//myasiantv.se/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
