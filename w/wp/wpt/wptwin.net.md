@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wptwin.net privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104100248id_/http%3A//www.wptwin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wptwin.net privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505223607id_/http%3A//www.wptwin.com/privacy.php) for the most accurate reproduction.*
 
 # wptwin.com Privacy Policy
 
