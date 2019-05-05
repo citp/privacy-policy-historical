@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102133300id_/http%3A//www.kamat.com/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505122338id_/http%3A//www.kamat.com/ppolicy.htm) for the most accurate reproduction.*
 
 # Kamat's Potpourri: Privacy Policy
 
-Last Updated On: August 16, 2018
+Last Updated On: February 22, 2019
 
 ###  Privacy Statement for Kamat's Potpourri 
 
@@ -43,4 +43,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [](http://www.kamat.com/tools/contact.php)
 
-For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20181102133300id_/http%3A//www.kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20181102133300id_/http%3A//www.kamat.com/copyrite.htm), and [Kamat Colophon](http://www.kamat.com/colophon/index.htm) sections.
+For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20190505122338id_/http%3A//www.kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20190505122338id_/http%3A//www.kamat.com/copyrite.htm), and [Kamat Colophon](http://www.kamat.com/colophon/index.htm) sections.
