@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the epforums.org privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073004id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epforums.org privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505215850id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.*
 
 # Play classic video games on your computer or mobile device | Emuparadise
 
 **Emuparadise Privacy Policy:**
 
-This privacy policy pertains to emuparadise.org and all it's subsidiaries. Addressed below are issues relating to our users privacy.
+This privacy policy pertains to EmuParadise and all it's subsidiaries. Addressed below are issues relating to our users privacy.
 
 Email Address Privacy:  
-\- Certain parts of emuparadise.org (forums, new releases, mailing lists, etc.) require our visitors to submit their email addresses for registration. The purpose of email address submission are two-fold:
+\- Certain parts of EmuParadise (forums, new releases, mailing lists, etc.) require our visitors to submit their email addresses for registration. The purpose of email address submission are two-fold:
 
   * To provide whatever service is opted in for by the user.
   * To verify the identity of the user in certain sensitive areas.
@@ -25,8 +25,8 @@ Spyware/Malware/Adware:
 \- Emuparadise is absolutely against any of the aforementioned activities. We condemn the nefarious use of spyware/malware/adware on the internet.  
 \- Sometimes such an ad might creep in through our banner networks since it is very hard to control the exact and complete content being served by advertisers. However, if you notify the webmaster of such an experience you can be rest assured we will take care of it and ensure that the malicious ad code is prevented from showing up on Emuparadise. 
 
-We will make every effort to protect our users privacy while browsing this website. If you have any privacy related queries, feel free to email MasJ at Emuparadise.org. (Replace at with @ and remove the spaces) 
+We will make every effort to protect our users privacy while browsing this website. If you have any privacy related queries, feel free to email info at Emuparadise.org. (Replace at with @ and remove the spaces) 
 
-Privacy Policy Update:
+**Privacy Policy Update:**
 
-_We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/managing/opt_out.asp)_
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
