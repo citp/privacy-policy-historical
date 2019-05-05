@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonomus.net privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114030323id_/http%3A//www.jonomus.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonomus.net privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505103304id_/http%3A//www.jonomus.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,4 @@ Jonomus.net has the discretion to update this privacy policy at any time. You ac
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [admin@jonomus.net](mailto:admin@jonomus.net)
 
-(Visited 267 times, 1 visits today)
+(Visited 305 times, 1 visits today)
