@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agacistore.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413024040id_/http%3A//www.agacistore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agacistore.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506011952id_/https%3A//www.agacistore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,7 +91,6 @@ You will be notified of any Privacy Policy changes:
 ### Updating Your Personal Information
 
   * By emailing us customerservice@agacistore.com
-  * By calling us 866-265-3036
   * By logging in to your account
 
 
@@ -137,10 +136,10 @@ If at anytime, you would like to unsubscribe from receiving future emails, you c
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.  
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
 AGACIstore.com  
-12460 Network BLVD #106  
-San Antonio, Texas 78249  
+4958 Stout Dr.  
+San Antonio, TX 78219  
 United States  
-_customerservice@agacistore.com  _  
-866-265-3036
+_customerservice@agacistore.com  _
