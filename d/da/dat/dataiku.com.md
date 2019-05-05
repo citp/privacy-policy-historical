@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dataiku.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106173957id_/https%3A//www.dataiku.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataiku.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505040536id_/https%3A//www.dataiku.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dataiku - Your Path to Enterprise AI
 
 Date of Last Revision: May 23rd, 2018
 
-Thank you for your interest in Dataiku! We are committed to protecting the privacy of the individuals who visit our websites, (“Visitors”) www.dataiku.com or www.banana-data.com, including all subdomains (“Websites”) and users of any version of our software (“Service”) who are registered, subscribed, or using our Service under an agreement with us (“Users”) (collectively “you”). This Privacy Policy applies to you and to the Dataiku family of companies, including Dataiku Inc, 26 Broadway, New York, NY 10004; Dataiku SAS, 6 Boulevard Poissonniere, 75009 Paris, France; and Dataiku Ltd, 2 Leman Street, London E1 8FA, United Kingdom (collectively “Dataiku,” “us”, or “we”). You can contact us at security-notification@dataiku.com.
+Thank you for your interest in Dataiku! We are committed to protecting the privacy of the individuals who visit our websites, (“Visitors”) www.dataiku.com or www.banana-data.com, including all subdomains (“Websites”) and users of any version of our software (“Service”) who are registered, subscribed, or using our Service under an agreement with us (“Users”) (collectively “you”). This Privacy Policy applies to you and to the Dataiku family of companies, including Dataiku Inc, 26 Broadway, New York, NY 10004; Dataiku SAS, 6 Boulevard Poissonniere, 75009 Paris, France; and Dataiku Ltd, 123 Pentonville Rd, London N1 9LZ, United Kingdom (collectively “Dataiku,” “us”, or “we”). You can contact us at security-notification@dataiku.com.
 
 _**Plain English: Thanks for stopping by! This Privacy Policy covers use of our websites and our Service.**_
 
@@ -36,7 +36,7 @@ _**Plain English: We collect information from you in order to make sure that you
 
 If you wish to subscribe to a newsletter via our Websites or access other content from our Websites, we will collect Personal Data, such as your name and email address, in order to send you the newsletter. You may choose to stop receiving our newsletter or marketing emails by following unsubscribe instructions included in each of these emails, or you can contact us at security-notification@dataiku.com.
 
-_**Plain English: Thank you for your interest in our newsletters o other content. If you changed your mind about your newsletter or do not want to get emails from our marketing team, you can easily unsubscribe by following instructions included in the email or by contacting us at security-notification@dataiku.com.**_
+_**Plain English: Thank you for your interest in our newsletters or other content. If you changed your mind about your newsletter or do not want to get emails from our marketing team, you can easily unsubscribe by following instructions included in the email or by contacting us at security-notification@dataiku.com.**_
 
 We may also collect Personal Data from you if you contact us through third parties, including but not limited to: (i) Intercom for chatting with us through our Websites; (ii) Meetup for joining any of our groups; (iii) Eventbrite for registering or attending any of our events; (iv) Typeform or GoDaddy for responding to our surveys; (v) Delighted for providing us user feedback; (vi) Teachable for registering to view any of our content there; (vii) Workable for applying for a job at Dataiku; (viii) Freshdesk for submitting support tickets. Any third party that collects your information will have their own privacy policies governing how they use and protect your information. We encourage you to read those privacy policies.
 
