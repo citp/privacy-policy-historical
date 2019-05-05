@@ -1,119 +1,169 @@
-> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002032031id_/https%3A//www.binweevils.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505164941id_/https%3A//www.binweevils.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bin Weevils
 
-Effective 10/06/2015
+Last Modified 24/05/2018
 
-**Bin Weevils** \- is the place in cyberspace where kids can play games, enter competitions, win prizes, watch favourite cartoons and chat to friends through moderated and filtered chat. Upgrade to a Bin Tycoon membership and gain access to even more features; players can open up their own business, including photo studios and party rooms, and write their very own magazine! Players can also plant and care for a garden and adopt a Bin Pet. 
+This privacy policy ("Privacy Policy") describes how 55 Pixels Ltd, a private limited company incorporated in England (Company Number: 06221146), having its registered office at Lynton House 7-12 Tavistock Square, London, United Kingdom, WC1H 9LT (referred to herein as "55 Pixels" "us" or "we") collects, uses and shares the personal and non-personal information our players (who we refer to as Players) provide to us across the 55 Pixels Kids Platforms, including but not limited to the websites located at [www.binweevils.com](https://www.binweevils.com/), [www.weevilworld.com](https://www.weevilworld.com/), the affiliated mobile application known as "WeevilWorld" and any of the 55 Pixels Kids Platform services and features (collectively referred to herein as the "55 Pixels Kids Platform"). This Privacy Policy applies only to the 55 Pixels Kids Platform; it does not apply to any third-party websites or mobile applications to which we may link, nor to any advertisements which may appear within the 55 Pixels Kids Platform. 
 
-Bin Weevils believes in the power of kids and we encourage both them and their parents to use and enjoy our site. Whilst we embrace the interactive nature of online media, we strive to educate parents and kids about how to appropriately safeguard their privacy when travelling on the web. Our information collection practices are described below. We urge kids to check with their parents before entering any information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know. This privacy policy covers the site BinWeevils.com. 
+By using this website or mobile application, you accept this Privacy Policy and our Kids [Terms of Service](https://www.binweevils.com/terms). If you do not accept this Privacy Policy, please do not use the 55 Pixels Kids Platform. Younger visitors should check with their parents or guardians before using the 55 Pixels Kids Platform. If you are a parent or legal guardian, by allowing your child to use the 55 Pixels Kids Platform, you are agreeing to the terms of this Privacy Policy on your child's behalf. It is important that you read and understand this Privacy Policy before allowing your child to use the 55 Pixels Kids Platform.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@binweevils.com](mailto:%20privacy@binweevils.com). 
+The 55 Pixels Kids Platform is certified by the kidSAFE Seal Program. The kidSAFE Seal Program is an independent safety certification service and seal-of-approval program designed exclusively for children-friendly websites and technologies, including child-targeted game sites, educational services, virtual worlds, social networks, mobile apps, connected products, and other similar interactive services and technologies. kidSAFE is also an FTC-Approved COPPA Safe Harbor Program. Go to [www.kidsafeseal.com](http://www.kidsafeseal.com/) for more information. 
 
-**What Information Is Collected?**
+**TABLE OF CONTENTS**
 
-At 55 Pixels Limited, it is our policy to create website content which requires minimum collection of information from our visitors. Generally, Bin Weevils limits collection of information to what is known as non-personally identifiable information (e.g. first name, age, gender, city or town). This information is collected so kids can participate in activities without giving out unnecessary personal information. Where we need extra information, e.g. kids'/parents' email addresses/telephone numbers (as explained below) to run competitions, allow the use of the 'Invite A Friend' feature, or to offer extra on-line activities, we let parents know the reason why we are collecting the information and what we will do with it. 
+  1. What we collect on the 55 Pixels Kids Platform
+  2. Why we collect information on the 55 Pixels Kids Platform
+  3. How we protect user information
+  4. Sharing Players’ personal information
+  5. Cookies and Other Tracking Technologies
+  6. International Data Transfers
+  7. Advertisements
+  8. Access, Modify, Delete and Other User Rights
+  9. Notice to California Residents / Your California Privacy Rights
+  10. Contact us
+  11. Revisions to Privacy Policy
 
-We will not sell personally identifiable information about you or your child to third parties.We will only share yours or your child's personally identifiable information with third parties for reasons disclosed within this privacy policy. 
 
-The data controller for the purposes of UK data protection legislation is 55 Pixels Limited ("we" or "us" or "our"). The ways we collect users' ("you" or "your" or "user") personal information and how we use it on the site are as follows: 
 
-**1\. Registration**
+## 1\. What we collect on the 55 Pixels Kids Platform
 
-The main way we collect personally identifiable information is through our registration process. Here we ask kids to submit their username and password only. If the player wishes to receive further information such as newsletters then the Bin Weevils account needs to be activated. The activation process collects a parental email address, child's gender and age. An activation email is sent to the parental email address provided. If the parent activates the Bin Weevils account, only then will the information be used for newsletter purposes. Registered kids' parents can unsubscribe from the newsletter service at any time. To unsubscribe, please contact us using the [**Contact Us Form**](https://support55pixels.helpshift.com/a/bin-weevils/?contact=1) on the website or by clicking on the unsubscribe link located at the bottom of each communication. 
+We do not purposely or knowingly collect personal information from you, except under limited exceptions set forth below. Information and content provided by Players goes through our moderation process, which includes technical analysis, automated text moderation, and trained, human moderators. The purpose of the moderation process is to remove any personal information or inappropriate content entered by Players before it is posted on the 55 Pixels Kids Platform or shared with other Players. 
 
-All such personal information collected during the registration process is used only for the purpose of providing kids with access to our registered member activities. It is not currently our policy to use such information for general marketing purposes or to share such information with third parties (except in relation to competitions as set out below or where we are required to do so by law or in the context of a business transfer). Should our policy on this change, we will let you know and give you the choice to be included. 
+### User Profile
 
-We do not obtain or require disclosure of sensitive personal data (such as ethnic origin or religion) but if you choose to provide us with such sensitive personal data, we may assume such sensitive personal data is provided with your express consent for processing by us for the purposes for which such personal data was provided by you unless otherwise notified by you to us in writing using the Contact Us Form on this website. 
+Creating an account on the 55 Pixels Kids Platform does not require, or permit, the use of any personal information. When you sign up for the 55 Pixels Kids Platform, you create an anonymous account, including a username which is then publicly available inside the 55 Pixels Kids Platform. You may not use your real name, or any other information that could identify you or your location in the creation of your account or in posting content to 55 Pixels. Your 55 Pixels account contains: 
 
-If you use the Contact Us Form to inquire about an issue, we will collect your Bin Weevils username, an email address, your message and age. If you are under age 13 we collect the email address for the sole purpose of responding directly on a one-time basis to a specific inquiry. 
+  * Username, which may not contain your real name;
+  * In-game Character;
+  * Your membership status
+  * Login status/recency
 
-**2\. Orders**
 
-If you purchase a product or service from Bin Weevils online, we request certain personally identifiable information from you on your order form. You must provide contact information (such as name, email address, and billing address) and financial information (such as credit card information and expiration date). If you are not the card holder please ask permission from the card holder before making a purchase. 
 
-**3\. Agents and Service Providers**
+Plus the following which are not visible to other players: 
 
-We use other third parties such as a shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. We use email and the telephone customer service to assist you if you have questions while using our site or regarding your order. These third parties are prohibited from using your personally identifiable information for promotional purposes. 
+  * Your Buddies in the 55 Pixels Kids Platform, but these are not visible to other players;
+  * Information about your progress and position within the game
 
-**4\. Competitions**
 
-We offer the opportunity for all kids to enter competitions online. In order to run competitions and send out prizes, it is necessary to collect some personally identifiable information from kids. This can include name and their parent's email address. If your child wins the competition we will email the parent and ask for the address and phone number where the parent and child may be reached. As a matter of policy, we keep such information only for the purposes of administering the competition and do not disclose such information to third parties except where necessary to fulfil the prizes (e.g. it may be shared with fulfilment houses for processing purposes). We may from time to time offer competitions sponsored by third party businesses and may share entrant information with such businesses in order to fulfil the competition only. We will provide potential entrants with the opportunity to opt-in to such third party sponsored competitions. Once a competition is finished, we will delete any personal information collected via online entry forms from our systems and it is not kept for any longer than is necessary. 
 
-**5\. Surveys**
+### Chat and Messaging
 
-We may offer kids the opportunity to complete surveys, on behalf of suitable third parties. No additional personally identifiable information will be requested and no personally identifiable information will be disclosed to third parties. Survey responses will be aggregated before use and individual responses will not be stored for any longer than is necessary. 
+Players can chat and message other players in a virtual public area. All chat and messages are moderated and filtered using best of breed moderation technology with human supervision and with tightly controlled kid-specific filtering rules. 
 
-**6\. Electronic Cards and Invite A Friend Feature**
+Players may block any or all requests to become ‘Buddies’ and for direct chat/messaging. 
 
-We may give kids the option to send "electronic card" to their friends. We do not collect our visitors' full names, but we do collect email addresses during this process in order to inform the user that their e-card has been read. We also ask users to submit their friends' email addresses so we can send them these e-cards. This information will only be used to send your friend this one-time email and will not be stored or shared with any third parties for their own marketing purposes. 
+Players can search for each other on the 55 Pixels Kids Platform with a username using the search and browsing tools on the 55 Pixels Kids Platform. 
 
-In order to use our Invite A Friend feature, you must provide us with your friend's email address and your first name. We use this information to send your friend a one-time invitation to visit the site. We store the information to keep track of the success of our referral program. If your friend wishes to have us remove their information from our database, they may contact us at [privacy@binweevils.com](mailto:%20privacy@binweevils.com) to do so. 
+### Communicating with Us
 
-**7\. Feedback**
+Players may also provide us with personal information by communicating directly with us. For example, if you choose, you may use one of our public email addresses to contact us. If you write to us (or otherwise contacts us), we may ask you to put us in contact with a parent or guardian, through whom we can then provide support. We may also ask you to prove to us that you are the parent of the owner of the Player account you are communicating with us about. 
 
-We provide kids with the opportunity to email us with their opinions and comments. In these circumstances, we ask for a Bin Weevils username, email address and age. This information is used solely by us in order to give requested feedback. If you are under age 13 your email address is collected for the sole purpose of responding directly on a one-time basis to a specific inquiry. This means that once the inquiry has been resolved we will not contact you again on the email address that was provided. 
+Consistent with the one-time use exception under the Children’s Online Privacy Protection Act, we only use players’ contact information to respond to inquiries, and we then delete Players’ email addresses from our servers. 
 
-All email correspondence is retained for customer service records. If you wish to have your child's email address and email correspondence records removed then please contact us at [privacy@binweevils.com](mailto:%20privacy@binweevils.com). For more information please refer to point 15. Access to Information. 
+### Password Recovery
 
-**8\. Cookies, Log Data and Web Beacons**
+You have the option of providing a parent/guardian email address to enable us to recover your password if you forget it. When requesting a password reset, we will ask you for this email address. We will then anonymise the email address by ‘hashing’ it, compare the anonymised hashes of your email address to confirm your identity, and then send you a password reset link using (but not storing) the email address. 
 
-Cookies are information files that your web browser places on the hard drive of your computer when you visit certain websites. We are able to access only the cookies that our site places on your computer and we are only able to determine the type of computer operating system and browser that you are using. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to "remember" users' activities on a website as well as users' visits to a website. At BinWeevils.com, cookies are used to determine the number of unique visitors to our site over a given period. We do not store any personal information in the cookies nor do we link or combine information collected through cookies to any personal information submitted by users when participating in our activities. We collect this information in order to improve access to our content based on our visitors' browsers and operating system types to make our content available to as many kids as possible. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. 
+### Other Non-personal information
 
-Log data collected on web servers within our control also supplies us with non-personally identifiable information about the number of visits to different pages on our site. We use this information only for improving our site. We do not link the "log data" collected to personally identifiable information submitted by users when participating in our activities. The information collected through cookies and log data may be passed to our Research Department or to third party advertisers or business partners. 
+We collect other non-personal information about Players whenever they interact with the 55 Pixels Kids Platform. Non-personal information includes the number and frequency of visitors to the 55 Pixels Kids Platform and the length of their stays and how they interact with the Platform, browser name, the type of computer, and technical information about the means of connection, such as the operating system. Information also includes player IP addresses, which we use solely for the internal support of the 55 Pixels Kids Platform, such as security, system administration, and in case requested by law enforcement. 
 
-We employ or our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+Information (including stored chat and messages) relating to Players who do not have an active membership and who have not logged in to the 55 Pixels Kids Platform within two years is deleted at the next inactive data purge or sooner. Inactive data purges take place at least twice per year. 
 
-**9\. Transfer of Personal Data**
+## 2\. Why we collect information on the 55 Pixels Kids Platform
 
-We may also transfer your personal data collected to any country, including countries outside the European Economic Area, for any of the purposes described above. Your provision of personal data to us through use of this site is understood by us to constitute consent to such transfer unless you inform us of your wish not to transfer your personal data in this manner by contacting us using the form in the Contact Us section of this website. 
+As set forth above, we collect personal information to serve our legitimate commercial business interests while protecting Players’ privacy. Specifically, we collect email addresses to allow us to respond to their questions or requests, including requests to reset user passwords; and we collect persistent identifiers (e.g., IP addresses) to support the internal operations of the 55 Pixels Kids Platform. We use the non-personal information we collect to improve Players’ experiences, and our products and services. 
 
-**10\. Monitoring of Communications**
+## 3\. How we protect Player Information
 
-We may record or monitor your telephone conversations and email correspondence with our staff for security, compliance with the law, training purposes and to maintain and improve the quality of our services. 
+55 Pixels takes reasonable steps to protect against possible breaches of the 55 Pixels Kids Platform. We adopt and implement appropriate and reasonable security practices regarding the collection, storage and processing of the information we collect, such as encryption. We also put in place physical safeguards such as limited employee access and confidentiality agreements with employees and contractors. 
 
-**11\. Security**
+Despite our efforts, no security measure is ever perfect or impenetrable. In the event we experience a data breach involving unencrypted personal information, we will notify Players by posting notice on the affected 55 Pixels website or app. 
 
-We have taken steps to ensure that all personally identifiable information that we collect is secure, including limiting the number of people who have physical access to our database servers as well as electronic security systems and password protections, which guard against unauthorised access. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+## 4\. Sharing Players’ Personal Information
 
-**12\. Agents/ Legal Disclaimer**
+We do not sell, trade, or rent your personal information to others, and will not do so except as required by law or in connection with a merger, asset sale or similar business transaction (as described below). We may share aggregated demographic or non-personal information not linked to any personal information regarding visitors and Players with our business partners, trusted affiliates and advertisers. Moreover, as set forth below, we use third-party service providers to help us operate our business and the 55 Pixels Kids Platform or administer activities on our behalf. 
 
-The personally identifiable information provided to BinWeevils.com may be transferred, disclosed or shared with third parties who may be engaged by us as data processors to specifically handle and deliver certain activities (e.g. message boards, competitions, e-cards, newsletters, advisory board, communities) and perform other technical and processing functions, such as sending postal mail and e-mail, removing repetitive information from registration lists, programming, providing services to our users, or otherwise operating our site. They have access to personal information needed to perform their processing functions, but may not use it for other purposes. 
+### Service providers
 
-We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+55 Pixels, like many other website and app operators, uses analytics for the purpose of analysing our player base and improving the performance of our online services. The third-party service providers performing these services on our behalf are listed below: 
 
-**13\. Third Party Websites**
+  * Google Analytics: <https://policies.google.com/privacy>
+  * Game Analytics: <https://gameanalytics.com/privacy>
 
-We provide a "bumper page" when linking from our website to an advertiser's site, which lets kids know they are going to an advertiser's site and reminds them not to give out information online without getting permission from their parents. Kids and their parents should be aware that other sites have different policies on collection of information to us, so it is important to check their Privacy Policies before submitting any personally identifiable information. 
 
-**14\. Business Transfers**
 
-In the event that all or substantially all of our assets are transferred or sold to another business, you agree that we may transfer any of your personally identifiable information to the acquiring business. 
+We may also engage other third parties to perform services in connection with the operation of the 55 Pixels Kids Platform. Each of these third parties is contractually obliged to protect the security of any information we share with them, and limited in their use of the information to the services being provided solely to 55 Pixels: 
 
-**15\. Access to Information**
+  * Two Hat Security (Community Sift): <https://www.twohat.com/privacy>. Your User ID is shared with Community Sift in connection with our moderation process.
+  * Google Android: Your identifier is shared with Google Android in connection with performance of network communications.
+  * Apple: Your iOS identifier is shared with Apple in connection with performance of network communications.
+  * Internet service provider (ISPs): Your IP address is shared with ISPs to ensure legal or regulatory compliance.
+  * OVH: <https://ovhcloud.com/legal/privacy-policy>. Used for Website and data storage.
+  * Online.net: <https://www.online.net/en>. Used for website and data storage.
+  * PayPal: [https://www.paypal.com](https://www.paypal.com/en/webapps/mpp/ua/privacy-full). If you choose to make purchases through the website, and pay with PayPal. 55 Pixels do not store any credit card or bank information.
+  * Stripe: <https://stripe.com/gb/privacy>. If you choose to make purchases through the website, and pay by card. 55 Pixels do not store any card or bank information.
+  * Helpshift: <https://www.helpshift.com/legal/privacy>. If you communicate with us for support we record the senders email address, the issue, and communications in the Helpshift support issue management system.
+  * Sendgrid: <https://sendgrid.com/policies/privacy>. If a parent email address is entered or used to request a password reset, Sendgrid handles email deliverability.
+  * OneSignal: <https://onesignal.com/privacy_policy>. If you have game-related push notifications opted-in, we use this system to send you game-related notifications.
+  * Appsflyer: [www.appsflyer.com/product/data-privacy](https://www.appsflyer.com/product/data-privacy). To identify where new players come to the 55 Pixels Platform from, we use Appsflyer. Your iOS or Android identifier, IP addresses and other technical data are used by Appsflyer to do this.
 
-If yours/your child's personal information changes, or if you no longer desire our service, you may correct, update, delete inaccuracies, amend, remove or deactivate your account by emailing us at [privacy@binweevils.com](mailto:%20privacy@binweevils.com). The deletion of data may lead to a termination of the Bin Weevils account and/or membership. 
 
-Parents have a right to have their child's personally identifiable information deleted or refuse further collection and use of that personally identifiable information collected from their child by contacting us at the email address listed above. We will retain yours/your child's information for as long as yours/your child's account is active or as needed to provide services. If you wish to cancel yours/your child's account or request that we no longer use the information to provide you services, contact us at the email address listed above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-**16\. Questions/Concerns?**
+For more information on the processing of your data by our third-party service providers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f1f1d06190e0c162f5a5a1f06170a031c410c0002). 
 
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us using the form in the Contact Us section of this website. Alternatively you can write to: 
+### Law enforcement requests
 
-55 Pixels Limited,  
-Attention: Mobile Apps,  
-2nd Floor,  
+We may disclose your personal information (a) in the good faith belief that we are required to do so by law; (b) if doing so is reasonably necessary to comply with legal process; (c) to respond to any claims; (d) to enforce the terms and conditions of the 55 Pixels Kids Platform; or (e) to protect the rights, property, or personal safety of 55 Pixels, its Players or the public. 
+
+### Corporate Transaction
+
+In addition, your personal data may be disclosed as part of any proposed or actual merger, sale, and transfer of 55 Pixels assets, acquisition, bankruptcy, or similar event. 
+
+## 5\. Cookies and other tracking technologies
+
+We may use cookies, local storage and other tracking technologies to collect information about visitors to the 55 Pixels Kids Platform and to help optimise their user experience. Cookies and local storage are a way of remembering a Player or visitor based on their device. Cookies are pieces of information that a website sends to a user’s computer while the user is viewing the website. A user can choose to have his or her computer warn the user each time a cookie is sent, or the user can choose to turn off all cookies. Players can do this through their browsers’ (e.g., Edge, Firefox, Chrome) settings. If a user turns off cookies, the user may not have access to certain features that make the web experience smoother.
+
+Cookies are used for internal support only and are not linked to Players’ personal information. 
+
+### Do Not Track disclosure
+
+Your browser may allow you to set a Do Not Track (DNT) signal indicating that you do not wish your online activity to be tracked. Currently, our system does not support and does not act on DNT signal headers that we may receive. 
+
+## 6\. International Data Transfers
+
+We operate globally and may transfer your personal information to individual companies or third parties in locations around the world for the purposes described in this Privacy Policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information and will comply with all applicable laws. 
+
+## 7\. Advertisements
+
+We may serve advertising from child-friendly brands. Advertising supports us in keeping the 55 Pixels Kids Platform free to use. Any ads we serve will be delivered by ad serving technology which has been designed to be compliant with COPPA and is certified as such by the ESRB Privacy Certified and kidSAFE COPPA Certified, or other such certification programs. Such advertisements will only be targeted based on the context or content you are viewing on the 55 Pixels Kids Platform, and not on your historical browsing behaviour. All ads served in the 55 Pixels Kids Platform will carry the SuperAwesome SafeAd watermark, which indicates that (a) the ad is not collecting personal information in contravention of COPPA, (b) its content has been reviewed for compliance with best practice and the CARU self-regulatory principles to be appropriate for children, and (c) it is age-appropriate for the 55 Pixels Kids Platform. If you have any questions about advertising on the 55 Pixels Kids Platform or concerns about specific ads that you see, please contact us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5525273c2334362c156060253c2d3039267b363a38). 
+
+## 8\. Access, Modify, Delete and Other User Rights
+
+Notwithstanding the limited nature of the personal information we collect from or about the Players on our 55 Pixels Kids Platform, Players or their parents have the right to request access to review and/or modify (including delete) personal information about a player. Players or their parents may also contact us to request certain information regarding our disclosures to third parties for direct marketing purposes. However, we do not share information with third parties for this purpose.
+
+If a user or parent wishes to exercise any of the above rights, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6616140f1007051f265353160f1e030a154805090b) or using the information within Section 10 of this Privacy Policy.
+
+Chat posted in the 55 Pixels Kids Platform may be publicly viewable during that player session. Players are prohibited from communicating personal or inappropriate information at any time, and we take reasonable steps to screen all messages/chat to remove any such information. Should you wish to edit or remove any message/chat after it has been posted, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4c4e554a5d5f457c09094c554459504f125f5351) or using the information within Section 10 of this Privacy Policy. Removal of the information from public view does not guarantee complete or comprehensive removal, however. After the removal request has been honoured, we may retain copies of the messages/chat. Additionally, we do not have control over third parties (e.g., other Players) who may have copied or reposted this information.
+
+You also have the right to lodge a complaint with an EU supervisory data protection authority. 
+
+## 9\. Notice to California Residents / Your California Privacy Rights
+
+Under California Civil Code § 1798.83, California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes during the immediately prior calendar year. We do not share your personal information with any unaffiliated third parties for their own marketing purposes. Nonetheless, you may make one request per year if you are a California resident. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request this information in writing by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7101031807101208314444011809141d025f121e1c) or by post at: Privacy, 55 Pixels Ltd, 17-18 Great Pulteney Street, London, W1F 9NE, United Kingdom. Please allow up to thirty (30) days for a response. 
+
+## 10\. Contact us
+
+If you have any questions, need information or require assistance, please do not hesitate to reach out to us either by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5727253e2136342e176262273e2f323b247934383a) or send us a letter to:  
+Attn: Privacy  
+55 Pixels Limited  
 17-18 Great Pulteney Street,  
-London W1F 9NE,  
+London, W1F 9NE,  
 United Kingdom  
-Telephone: +44 (0)20 3397 6831 
+Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4c4e554a5d5f457c09094c554459504f125f5351)
 
-**17\. Changes in this Privacy Policy**
+## 11\. Revisions to Privacy Policy
 
-From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. 
-
-If we make material changes to how we use personally identifiable information collected from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's personally identifiable information. 
-
-**18\. Effective Date**
-
-The privacy policy set out above is effective as of June 10th 2015. We reserve the right to change the privacy policy at our sole discretion. Bin Weevils users will be informed of any such change by us posting a new privacy policy on the Bin Weevils website and the effective date of any change of privacy policy will be clearly marked. As required by law, we will not use personally identifiable information in ways that are materially different from the ones described in this Privacy Policy without also providing notification of such practices and obtaining consent to any such different uses. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+55 Pixels may update this Privacy Policy at any time. When we do, we will update the “last modified” date at the top of the Privacy Policy. If the change is material, we will place a notice on the 55 Pixels website [(www.55pixels.com)](http://www.55pixels.com/) and/or in the app by revising the link to read substantially as "Updated Privacy Policy" for a reasonable amount of time, and if necessary, will obtain your prior consent or the prior consent of a parent or legal guardian. The most current version of this Privacy Policy will be available on the 55 Pixels Kids Platform and will supersede all previous versions of this Privacy Policy. 
