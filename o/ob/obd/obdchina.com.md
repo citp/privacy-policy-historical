@@ -1,97 +1,96 @@
-> *The following text is extracted and transformed from the obdchina.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703234432id_/http%3A//www.obdchina.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obdchina.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505100540id_/http%3A//www.obdchina.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# privacy_policy : OBD China, The auto OBD tools discount
+# Privacy Policy
 
-**obdchina.com** take your privacy very seriously and we will not share any information you give us with anyone else unless required by law. We will never sell, rent or otherwise distribute the information that you or your users submit on our website. We take your privacy seriously and we want you to feel comfortable using our services.
+This website ("website") is operated by OBDCHINA., which includes OBDCHINA stores, and OBDCHINA Sales. This privacy policy only covers information collected at this website, and does not cover any information collected offline by OBDCHINA. All OBDCHINA websites are currently covered by this privacy policy.
 
-**ABOUT US**
+## SECURITY
 
-OBDDiscount   is a registered trade-based company.we are the largest distributor and wholesaler of the OBD and locksmith products to the worldwide from China.Based with the advanced production and quality system,the sufficient stock and professional technical experts support,OBDDISCOUNT provide our every customer with the highest quality product and service.
+Personal information provided on the website and online credit card transactions are transmitted through a secure server. We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic, and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Our website uses encryption technology, like Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address, and credit card number. Our Customer Care center and stores also operate over a private, secure network. Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information.
 
-Our major product categories include:car professional diagnostic equipment, automotive universal equipment, obd scanner, auto repair data, Mileage Programmer, auto key programmer, key cutter, car chip, key, ecu programmer, automotive electronics etc.
+## PRIVACY POLICY
 
-Our major product manufacturers include:Launch X431, Autoboss,Autel,Xtool,LISHI,NanNing YanHua, etc.
+To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have implemented procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.  
+We have posted this privacy policy in order to explain our information collection practices and the choices you have about the way information is collected and used.
 
-Our products are sold to hundreds thousands of resellers and end-users in more than 200 countries and regions.
+As we continue to develop our website and take advantage of advances in technology to improve the services we offer, this privacy policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
 
-In order to provide you with the best products, efficient and quality customer services, and timely updates,we record a variety of information from your visit in our site. Thank you for accessing the website of obdchina.com (The"Site").We respect your privacy and protect your personal information. To know more, please read our Privacy Notice.
+## THE INFORMATION WE COLLECT
 
-**OBDDiscount.COM PRIVACY POLICY**
+Generally, you may browse the website without providing any personally identifiable information. However, we may ask you to provide personally identifiable information at various times and places on this website. In some cases, if you choose not to provide us with the requested information, you may not be able to access all parts of this website or participate in all of its features.
 
-To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used. 
+We receive and store any personally identifiable information you enter on the website, whenever you shop with Madison Island—online, through our catalogs, or in our stores, or information you give us in any other way, such as by subscribing to our catalogs, email, or mobile messaging. For example, we may collect the following personally identifiable information: your name, address, telephone number, mobile telephone number, driver's license number, birth date, and email address. If you use a credit or debit card or pay by check, we will also include your account number.
 
-This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
+If you use one of our services, or participate in one of our surveys, promotions, or sweepstakes, we may ask for additional information, such as your age, interests, or product preferences.
 
-This Privacy Notice only applies to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-obdchina.com website to which this site links or that links to this Site.
+From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use.
 
-**Information Collection And Use**
+When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses, and may collect general information concerning your location. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions.
 
-1\. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
+## HOW WE USE THE INFORMATION WE COLLECT
 
-* Help make this Site easier for you to use by not having to enter information more than once.
+We use the information we collect for various purposes, including:
 
-* Help you quickly find information, products, and services.
+  * To complete your purchase transactions
+  * To provide the services you request
+  * To send you our catalogs and other offerings by mail
+  * To identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you.
+  * To notify you of product recalls or provide other information concerning products you have purchased
+  * To improve our merchandise selections, customer service, and overall shopping experience
 
-* Help us create content on this Site that is most relevant to you.
 
-* Alert you to new information, products, and services that we offer.
 
-(a) Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide us with certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our Site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide us with to contact you.
+## OTHERS WITH WHOM WE SHARE YOUR INFORMATION
 
-(b) Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for free promotional notices; to request us to notify you when we receive a new brand, or new product style; to sign up for our email newsletter. Your participation in a contest is completely voluntary, and you may choose whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post the names and cities of contest winners on our Site.
+**The  OBDCHINA Group**: All of the above information that we collect, as described above, may be shared among all OBDCHINA entities, including OBDCHINA stores, website and Private Sales.
 
-(c) Cookies and Other Technology. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
+**Service Providers** : We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing emails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) provide fraud prevention; and (e) provide other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in our agreements with them.
 
-(i) Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."
+**Other Companies** : We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you.
 
-(ii) Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.
+**Business Transitions** : We may transfer or share a copy of personal information about you in the event that OBDCHINA or one of its properties, affiliates, or subsidiaries goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our website prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of Madison Island to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. Madison Island specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information.
 
-(iii) We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
+**Compliance with Law:** We may provide access to information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability, and to protect our rights or to protect the rights, property, or safety of visitors of this website or the public.
 
-(d) Log Files. As is true of most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+OBDCHINA partners with advertising companies to place our advertising on publisher websites on the Internet. These advertising companies collect anonymous information about your visits to our web site. This technology involves the use of third party cookies which allow them to develop personalized advertising so that it directly relates to offers that may be of interest to you. You may choose to opt-out of this service we have with our third-party advertising partner. We may also use Madison Island cookies to provide similar enhanced online marketing to you based on your interests and preferences. You may also choose to opt out of these enhanced online marketing ads.
 
-(e) Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
+## YOUR CHOICES REGARDING USE OF THE INFORMATION WE COLLECT
 
-(f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
+We provide you with a number of choices regarding our handling of your nonpublic personally identifiable information.
 
-**2\. Information Use and Disclosure.**
+ **Direct Mail or Telephone Marketing** : If you shop at the Madison Island or Private Sales stores and wish to be removed from the list of customers that receive direct mail or telemarketing calls, please either **write** to obdchina Customer Care at 112 West 34th Street, 18th Flr. New York, NY 10120 **or call** +1 212 268-4500. If you choose to write to us, please include your name, address, and credit card account number (if you have one), and state one of the following:  
+"NO MAIL OFFERS" (if you don't want to receive offers by mail);  
+"NO PHONE OFFERS" (if you don't want to receive offers by phone); or  
+"NO PHONE OR MAIL OFFERS" (if you don't want to receive either).
 
-(a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
+Because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request.
 
-(b) Communications with You: We will use your personal information to communicate with you about our site, and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to request us to notify you when we receive a new brand, new product style, or product; to sign up for our email newsletter and special offers. If you submit your email address, we will use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see opt out section below for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
+## YOUR CALIFORNIA PRIVACY RIGHTS
 
-(c) External Use. We want to provide you with excellent service and to offer you a great selection — we primarily sell merchandise, not information. We do not sell, rent, trade, license, or otherwise disclose your specific personal information or financial information to anyone, except that:
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: OBDCHINA Customer Care, 112 West 34th Street, 18th Floor, New York, NY 10120. Please allow 30 days for a response.
 
-(i) As do most catalog and Internet wholesalers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as DHL, and UPS) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
+## COOKIES, WEB BEACONS, AND HOW WE USE THEM
 
-(ii) Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in the Data Security section.)
+A "cookie" is a small data file stored by your Web browser on your computer or mobile device [hard drive]. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or "clear gif" is typically a one-pixel image, used to pass information from your computer or mobile device to a website.
 
-(iii) We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations, subpoenas, a court order, or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
+We use cookies and web beacons to keep track of what you have in your shopping cart and to remember you when you return to the website as well as to identify the pages you click on during your visit to our site and the name of the website you visited immediately before clicking to the Madison Island website. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies and web beacons on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies. We may also use web beacons, and other technologies, to help track whether our communications are reaching you, to measure their effectiveness, or to collect certain non-personal information about your computer, device, or browser in order to allow us to better design future communications to you.
 
-(iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it is possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Notice in effect.
+We may contract with third parties who may use cookies and web beacons and collect information on our behalf or provide services such as credit card processing, shipping, promotional services, or data management. We call them our Customer Care Partners. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners.
 
-(v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+## ONLINE ACCOUNT REGISTRATION
 
-**DATA SECURITY**
+To make online shopping faster and easier, you may register on the Madison Island website. As a registered customer, you only have to enter your shipping addresses and billing information once; they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online at any time to add, delete, or change information.
 
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall. 
+If you are using a public computer, we strongly encourage you to LOG OUT at the conclusion of your session. Your information will still be stored with us but it will not be accessible to anyone else from that computer.
 
-While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+## EMAILS
 
-**OPT OUT/CORRECTIONS**
+You will receive promotional emails from us only if you have asked to receive them. If you do not want to receive email from OBDCHINA or its affiliates you can click on the "Unsubscribe" link at the bottom of any email communication sent by us. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to OBDDISCOUNT’s Customer Support department at sales@obdchina.com. Please do not email your credit card number or other sensitive information.
+## ACCEPTANCE
 
-**OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
+By using this website, you accept the policies set forth in this Privacy Policy.
 
-As you might expect from obdchina.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+## ANY QUESTIONS?
 
-**CHANGES TO THIS PRIVACY POLICY**
-
-This privacy policy is subject to change. If we make any substantive changes in the way that we use the information collected through the Site or the Service, we will post a clear and conspicuous notice of those changes on the Site and in this privacy policy.
-
-**CHOICE AND OPT-OUT**
-
-If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at sales@obdchina.com
-
-All right reserved by OBDDISCOUNT website!
+We'll be happy to provide additional information or answer any questions.
