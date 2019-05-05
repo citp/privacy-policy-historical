@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aacn.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214057id_/https%3A//www.aacn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aacn.org privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505151437id_/https%3A//www.aacn.org/privacy-policy) for the most accurate reproduction.*
 
-# American Association of Critical Care Nurses Online Privacy Policy - AACN
+# Privacy Policy - AACN
 
 AACN respects and values the privacy of visitors to our website. We collect data about our visitors in order to conduct transactions, improve our users’ experiences, and keep our community informed.
 
