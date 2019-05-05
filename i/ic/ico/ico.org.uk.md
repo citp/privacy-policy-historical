@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227055913id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505193414id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
 
 # ICO Privacy notice | ICO
 
@@ -8,7 +8,11 @@ This privacy notice tells you what to expect us to do with your personal informa
 
 This notice is layered. So, if you wish, you can easily select the reason we process your personal information and see what we do with it.
 
+If your network blocks YouTube, you may not be able to view the above video. Please use another device.
+
 Pressing play on the video above will set a third-party cookie. Please read our [cookie policy](https://web.archive.org/global/cookies/ "Cookies") for more information.
+
+_Depending on your organisation’s network policies, you may be unable to view the video on this page. In this case, please access the page on a non-network device._
 
 We’ll tell you:
 
@@ -22,6 +26,4 @@ We’ll tell you:
 
 
 
- The first part of the notice is information we need to tell everybody
-
-Back to top [Next ](https://web.archive.org/global/privacy-notice/controller-s-contact-details/)
+ The first part of the notice is information we need to tell everybody.
