@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freebrowsinglink.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622121913id_/http%3A//www.freebrowsinglink.com/google-adsense-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebrowsinglink.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505165926id_/https%3A//www.freebrowsinglink.com/google-adsense-policy) for the most accurate reproduction.*
 
-# Google Adsense Policy
+# FreeBrowsingLink
 
 GOOGLE ADSENSE POLICY: This post confirms my ownership of the site and that this site adheres to Google AdSense program policies and Terms and Conditions.
 
