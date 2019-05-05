@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileiron.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905221712id_/https%3A//www.mobileiron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileiron.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505191655id_/https%3A//www.mobileiron.com/privacy-policy) for the most accurate reproduction.*
 
 # MobileIron Privacy Notice | MobileIron.com
 
