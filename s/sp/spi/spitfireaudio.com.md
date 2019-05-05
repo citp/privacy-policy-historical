@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the spitfireaudio.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130210426id_/https%3A//www.spitfireaudio.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spitfireaudio.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505145259id_/https%3A//www.spitfireaudio.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * [Products](https://www.spitfireaudio.com/shop/ "Browse the Spitfire Audio catalogue")
-  * [Collections](https://www.spitfireaudio.com/shop/collections/ "Collections")
   * [LABS](https://www.spitfireaudio.com/labs/ "LABS")
   * [Community](https://www.spitfireaudio.com/community/ "Community")
   * [About](https://www.spitfireaudio.com/about/ "About")
-  * [Help](https://www.spitfireaudio.com/zendesk/sso/ "Help")
+  * [Help](https://spitfireaudio.zendesk.com/hc/en-us "Help")
 
 
 
