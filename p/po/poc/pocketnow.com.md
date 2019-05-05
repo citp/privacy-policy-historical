@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pocketnow.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222170119id_/https%3A//pocketnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketnow.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505050455id_/https%3A//pocketnow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pocketnow
+# Privacy Policy | Pocketnow
 
 PRIVACY POLICY
 
