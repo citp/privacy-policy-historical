@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227023220id_/https%3A//earthjustice.org/site_info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505110506id_/http%3A//earthjustice.org/site_info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Earthjustice
 
@@ -8,9 +8,13 @@ Our fundamental privacy principles are transparency and fairness. In keeping wi
 
 We’ve tried to write this policy in a way that’s easy to understand, but some of it is technical. If you have any questions or concerns about this policy, please contact us.
 
-This policy applies solely to information collected by earthjustice.org (the “Site”), and is effective May 25, 2018. If you use our Site on or after May 25, 2018, you agree to the new policy.
+This policy applies solely to information collected by earthjustice.org (the “Site”), and is effective February 15, 2019. If you use our Site on or after February 15, 2019, you agree to the new policy.
 
 ### The Kinds Of Information We Collect About You
+
+Earthjustice has implemented administrative and technical security measures to safeguard any personally identifying information we collect online against unauthorized access, destruction, or alteration.
+
+Information we collect from you is stored on secure servers and is not publicly accessible, unless you chose to have Earthjustice disclose your personally identifiable information, for example, when you use our advocacy service to contact decision-makers. We use encrypted connections when processing financial and advocacy transactions through our website.
 
 #### Information You Give Us Voluntarily
 
@@ -83,6 +87,14 @@ Though our Site is not specifically directed towards the European Union (“EU�
 
 Earthjustice reserves the right, in its sole discretion and without any obligation, to modify or correct any errors or omissions in any portion of this Site, including its terms of use and privacy policy.
 
-If our information practices or privacy policy change at some time in the future, we will update our privacy policy to notify you of the changes and provide you with the ability to opt out of these new uses. Please check back at our Site periodically. We may change this policy from time to time, and if we do, we’ll post any changes on this page. If you continue to use our Site after changes go into effect, you agree to the new policy.
+If our information practices or privacy policy change at some time in the future, we will update our privacy policy to notify you of the changes and provide you with the ability to opt out of these new uses. Please check back at our Site periodically. We may change this policy from time to time, and if we do, we’ll post any changes on this page:
 
-If the changes are significant, we may provide a more prominent notice or ask for your consent, if required by law.
+Feb. 15, 2019
+
+Added language to explain how the data we receive and store is secured.
+
+May 25, 2018
+
+Updated policy to comply with GDPR disclosure requirements.
+
+If you continue to use our Site after changes go into effect, you agree to the new policy. If the changes are significant, we may provide a more prominent notice or ask for your consent, if required by law.
