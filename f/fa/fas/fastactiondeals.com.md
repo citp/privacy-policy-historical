@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastactiondeals.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105173555id_/http%3A//underfox.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastactiondeals.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505180514id_/http%3A//underfox.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -219,4 +219,4 @@ If Underfox is not able to provide access to some aspect of a customer’s perso
 
 Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting Underfox or the Privacy Officer as described above.  Underfox will promptly correct such personal information. 
 
-[..](https://web.archive.org/web/20181105173555id_/http%3A//underfox.com/google%20script%20seminar.doc)
+[..](https://web.archive.org/web/20190505180514id_/http%3A//underfox.com/google%20script%20seminar.doc)
