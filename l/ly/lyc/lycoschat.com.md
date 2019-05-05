@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lycoschat.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104084302id_/http%3A//uk.lycoschat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycoschat.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505124533id_/https%3A//uk.lycoschat.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 
 
-This privacy notice provides you with details of how we collect and process your personal data through your use of Lycos and Jubii Chats, or any other product delivered by Ysis Social Ltd.
+This privacy notice provides you with details of how we collect and process your personal data through your use of Lycos Chats, or any other product delivered by Ysis Social Ltd.
 
 By providing us with your data, you warrant to us that you are over 13 years of age.
 
@@ -164,6 +164,14 @@ This website may include links to third-party websites, plug-ins and application
 
 
 You can set your browser to refuse all or some browser cookies or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [Cookie Policy](https://web.archive.org/cookies.aspx)
+
+  12. **Advertising**
+
+
+
+We use one or more companies to place advertisements for our products and services and those of third parties on our sites and third-party sites. Cookies and other non-cookie technologies such as web beacons or tags, statistical identifiers and/or mobile advertising ID (e.g., Apple's IDFA) are used to measyre the effectiveness of our ads, and to determine the display of content and advertising to you based on your interests both on our site, as well as on third-party sutes and mobile apps where you may visit. To support this interest based advertising solution, we, and companies we have contracted with, may use non-personally identifiable information about your visits to our and other Web sites. The information collected does not enable any third-party to identify you or contact you individually, without appropriate notice or consent. 
+
+Although it is our hope that you find the display of advertising to you based on your non-personally identifying browser interests valuable, if you would prefer to not participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://optout.networkadvertising.org/managing/opt_out.asp>. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniqies. To learn more about interest-based advertising, please visit the NAI's website (www.networkadvertising.org) 
 
 ### Terms and Conditions 
 
