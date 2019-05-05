@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908173927id_/https%3A//openmedia.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505170022id_/https%3A//openmedia.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenMedia
 
