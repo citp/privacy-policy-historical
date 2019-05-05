@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momandabused.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029031501id_/http%3A//www.momandabused.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33045%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momandabused.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505122632id_/http%3A//www.momandabused.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33045%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
