@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotuslive.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622185321id_/https%3A//www.ibm.com/privacy/us/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotuslive.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505212141id_/http%3A//www.ibm.com/privacy/us/en/%3Flnk%3Dflg-privusen%3Flnk%3Dflg) for the most accurate reproduction.*
 
 # IBM Privacy Statement - United States
 
