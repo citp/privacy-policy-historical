@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220135133id_/https%3A//trafficswarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506015005id_/https%3A//www.trafficswarm.com/privacy-policy) for the most accurate reproduction.*
 
 # A Swarm of Free Traffic to Your Site Guaranteed! Get Targeted Free Advertising with TrafficSwarm.com
 
