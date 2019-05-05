@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dreamteamcric.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231173204id_/https%3A//dreamteamcric.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamteamcric.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505112631id_/https%3A//www.dreamteamcric.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dream Team Cricket
 
-This Privacy Policy governs the manner in which  **www.dreamteamcric.com**  collects, uses, maintains and discloses information collected from users (each, a User) of the  **www.dreamteamcric.com  **website (Site). This privacy policy applies to the Site, all products and services offered by  **www.dreamteamcric.com** **.**
+This Privacy Policy governs the manner in which  **www.https://www.dreamteamcric.com**  collects, uses, maintains and discloses information collected from users (each, a User) of the  **www.https://www.dreamteamcric.com  **website (Site). This privacy policy applies to the Site, all products and services offered by  **www.https://www.dreamteamcric.com** **.**
 
 **Personal Identification Information**
 
@@ -42,7 +42,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes To This Privacy Policy**
 
-**www.dreamteamcric.com**  has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**www.https://www.dreamteamcric.com**  has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your Acceptance Of These Terms**
 
@@ -54,8 +54,8 @@ By using our site, you consent to our privacy policy.
 
 **Contacting Us**
 
-If you have any questions regarding this privacy policy, the practices of this website or your dealings with this website, you can contact with us at **contact@dreamteamcric.com**
+If you have any questions regarding this privacy policy, the practices of this website or your dealings with this website, you can contact with us at **contact@www.https://www.dreamteamcric.com.php72-34.phx1-1.websitetestlink.com**
 
-**http://www.dreamteamcric.com**  
+**https://www.dreamteamcric.com**  
 Jaipur,  
 India
