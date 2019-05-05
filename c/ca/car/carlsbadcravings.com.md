@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carlsbadcravings.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119004032id_/http%3A//carlsbadcravings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlsbadcravings.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506013845id_/http%3A//carlsbadcravings.com/privacy-policy) for the most accurate reproduction.*
 
 # Copyright and Privacy Policy - Carlsbad Cravings
 
-[View Your Privacy Tools »](http://carlsbadcravings.com/privacy-policy/privacy-tools/)
+[View Your Privacy Tools »](https://carlsbadcravings.com/privacy-policy/privacy-tools/)
 
 ##  **COPYRIGHT**
 
