@@ -1,70 +1,77 @@
-> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925073111id_/https%3A//www.bmwusa.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505205621id_/https%3A//www.bmwusa.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - BMW USA
 
-Effective 10/17/2016
+Effective 01/28/2019
 
 1\. General Privacy Statement  
-This Privacy Policy outlines the types of information BMW of North America, LLC and its agents (collectively referred to herein as 'BMW NA') may collect through your use of the BMWUSA.com website, or that you provide to BMW NA through other means, such as the BMW apps (the 'Sites'); how BMW NA may collect, use, or share information related to your use of the Sites; steps BMW NA takes to protect this information; and choices you are provided with respect to the use of this information. 
+This Privacy Policy outlines the types of information BMW of North America, LLC, its subsidiaries, affiliates, service providers, authorized third parties and its agents (collectively referred to herein as 'BMW NA') may collect through your use of any BMW NA website, or that you provide to BMW NA through other means, such as the BMW apps (the 'Sites'); how BMW NA may collect, use, or share information related to your use of the Sites; steps BMW NA takes to protect this information; and choices you are provided with respect to the use of this information. 
 
 To access the Privacy Policy for BMW Assist™, 
 
-[ _click here._](http://www.bmwusa.com/Standard/Content/PrivacyPolicy/BMWAssist.aspx)
+[ _click here._](https://web.archive.org/privacy-policy/bmw-assist.html)
 
-By visiting the Sites you understand and agree to the terms as outlined in this Privacy Policy. As business conditions change, we will update this policy to reflect changes in our business practices. We reserve the right to change our Privacy Policy at any time. We will post revisions to our policy on our Sites and/or provide other notification as appropriate.
+By visiting the Sites you understand and agree to the terms as outlined in this Privacy Policy. As business conditions change, we will update this policy to reflect changes in our business practices. We reserve the right to change our Privacy Policy at any time, but we will post revisions to our policy on our Sites and/or provide other notification before we do so as appropriate.
 
-2\. Online Privacy and Security  
-We appreciate the trust you place in BMW and would not want to jeopardize your trust in any way. Your privacy on the Internet is as important to us as your safety when driving a BMW which is why we at BMW Group Company believe in an active approach to safeguarding your privacy online. You can interact and remain assured that you are protected by confidentiality, security, and your individual right to change your mind.
+2. Online Privacy and Security  
+We appreciate the trust you place in BMW and would not want to jeopardize your trust in any way. Your privacy on the Internet is as important to us as your safety when driving a BMW which is why we at BMW Group Company believe in an active approach to safeguarding your privacy online.
 
 3\. Confidentiality  
-In certain areas of the Sites you may choose to share personal information with us, such as your name, address, or even your driving interests. We may use this information for marketing research and other marketing and service related purposes like sending brochures you request and keeping in touch by email. We may share generic aggregated demographic information not linked to any personal information regarding visitors and users with our business partners, service providers, trusted affiliates and advertisers. With the limited exceptions below, we will not disclose any personal information you choose to share with us with anyone outside BMW or outside our related companies or business partners all of whom are contractually obligated to keep personal information confidential:
+In certain areas of the Sites you may choose to share personal information with us, such as your name, address, location information, or even your driving interests. We may use this information for marketing research and other marketing and service related purposes like sending brochures you request and keeping in touch by email. We may share generic aggregated demographic information not linked to any personal information regarding visitors and users with our business partners, service providers, trusted affiliates and advertisers. With the limited exceptions below, we will not disclose any personal information you choose to share with us with anyone outside BMW or outside our related companies or business partners all of whom are contractually obligated to keep personal information confidential:       
 
   * We may share your personal information with a third party in the event that a division or product line of BMW NA is bought, sold or otherwise transferred, or is in the process of a potential transaction as among the transferred business assets, and so that the buyer of that product line or division can continue to provide you with information and services.
-  
+
 
   * We reserve the right to disclose your personal information to respond to authorized information requests from government authorities, subpoenas or other litigation process or to protect the interests or safety of the Sites' visitors, customers, employees, or others, to address national security situations, or when otherwise required by law. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 
 
-  
 Without your specific permission, we will never transfer your personal information to any third party for that third party's marketing purposes.
 
-**A.** What information does BMW collect?
+**A.**  What information does BMW collect?
 
 As part of providing you with our products and services, we obtain 'personal information' about you, such as your name, address, email and phone number, when you submit such information to us. We also may obtain such information from third parties. 'Personal information' means information that identifies you or could reasonably be used to identify you. We also may collect other information about your visits to our Sites and other car buying activities you undertake during or after your visit to the Sites without you actively submitting such information. This information may include, for example: your browser type and language, your operating system, your Internet Protocol (IP) address, the URLs of websites you visited before and after visiting our Sites, the web search that landed you on our Sites, the web pages and advertisements you view, and the links you click on within our Sites. For more information, see Cookies and Other Tracking Technologies below.
 
-**B.** How does BMW use my personal information?
+**B.**  How does BMW use my personal information?
 
-Our primary goal in collecting personal information from you is to facilitate efficient transactions and provide you with information regarding relevant products and services. We may also use your personal information to improve the Sites, notify you about updates to the Sites, and for internal business analysis or other business purposes consistent with our mission and to carry out other purposes that are disclosed to you and to which you consent. BMW will not do anything to jeopardize your trust, including renting or selling your personal information.
+Our primary goal in collecting personal information from you is to facilitate efficient transactions and provide you with information regarding relevant products and services. We may also use your personal information to improve the Sites, notify you about updates to the Sites, and for internal business analysis or other business purposes consistent with our mission and to carry out other purposes that are disclosed to you and to which you consent. BMW will not do anything to jeopardize your trust, including renting or selling your personal information, except as specifically described in our policies.
 
-**C.** What information does BMW share?
+**C.**  What information does BMW share?
 
 We share personal information with BMW NA affiliated companies as well as non-affiliated companies that provide services on our behalf. All of these companies are contractually obligated to keep the personal information that we provide to them confidential and to use such information only to provide the services we ask them to perform. We also share personal information with non-affiliated companies that market our products and services such as our authorized BMW dealers who are distinct entities and have their own privacy policies.
 
-**D.** Is my personal information secure?
+**D.**  Is my personal information secure?
 
 We maintain physical, electronic and procedural safeguards designed to protect personal information. We also employ encryption technologies and user authentication procedures that are designed to keep your data secure. We limit access to personal information to authorized personnel, contractors and business partners who need access to perform their job and are contractually required to keep your information secure.
 
-**E.** Correcting/Updating Personal Information
+**E.**  Correcting/Updating Personal Information
 
 When a user's personal information changes (such as ZIP code) or if a user no longer is interested in our service and we are notified of such changes, we will endeavor to correct or update that user's personal information. In addition, the personal information in your online profile can be updated by you at any time in the 'View / Edit My Profile' section of My BMW. All personal information stored in your online My BMW profile requires a unique password and Login ID to access it (your BMW Login). With this password you can edit, delete or add to information you have shared while visiting our Sites. Additionally, the information you include in a credit application is secure while in transit to us.
 
-**F.** Privacy of Children
+**F.**  Opting Out of SMS Messages
+
+BMW and its affiliates will never send an SMS message to you without your written or digital consent for each event-based interaction you have with BMW. Event-based interactions include BMW-sponsored events, test drive experiences and vehicle service requests. Each event-based interaction with BMW provides an opportunity to give SMS consent and requires a separate opt-out for each event. At any time, you may discontinue receiving SMS messages by sending the SMS message “STOP” in response to the BMW message you received or by following other instructions provided in the last BMW message received for that event. Opting into SMS messages from a BMW dealer or indicating an SMS preference for dealer contact is not covered by this policy.
+
+**G.**  Privacy of Children
 
 We do not knowingly collect or use any personal information from children (we define 'children' as minors younger than 13) on our Sites without prior, verifiable parental consent. We do not knowingly allow children to order our products, communicate with us, or use any of our online services.
 
 If you become aware that a child has provided us with personal information, please contact us at privacy@bmwusa.com or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. We will take all reasonable measures to delete the information as soon as possible and to not use such information for any purpose, except where necessary to protect the safety of the child or others as required by law.
 
-4\. Links to Other Sites  
-Though our Sites contains links to other sites, we are not responsible for the content, links or privacy on any of those sites. We recommend that you review the Privacy Policy applicable to those sites before accessing them.
+**H.**  BMW Financial Services
 
-5\. Email Links  
-We use email links throughout the Sites to allow you to contact us directly with any questions or comments you may have. We read and try to reply promptly to every one. Information in the message is used to respond directly to your comments or questions. We may also file your comments to improve the Sites and programs, or review and discard the information. Your personal information is not shared with third parties except as noted in Section 3 of this policy without your express permission.
+In addition to the information disclosed by this policy, BMW Financial Services NA, LLC (“BMW FS”) may collect information about you to provide you financial services online. BMW FS is a separate entity from BMW NA, but you may access services offered by BMW FS through the BMWUSA.com site. Information collected by BMW FS is stored separately from information collected by BMW NA. The collection, use, and sharing of your financial information by BMW FS on its websites and apps is governed by this policy and additional notices that may be provided to you on BMW FS portions of the site. The collection and sharing of your personal information about your BMW FS accounts is governed by the [BMW FS Privacy Notice.](https://www.fsgroupprivacy.com/home/privacypolicy) Information collected by BMW FS may include your name, address, email address, mobile telephone number, and others that BMW FS may use to communicate with you about the products and services you are interested in. BMW FS may also collect personal information (such as your Social Security Number, income, employment information, and others) about you to pre-qualify, pre-approve, or approve you for financial services products. Upon your request, BMW FS may conduct a soft credit pull from credit reporting agencies to pre-qualify you for its products. Upon your request, BMW FS may also conduct a hard credit pull from credit reporting agencies if you choose to continue your application for BMW FS products. BMW FS may share this information with its service providers to assist it in its decision-making, and the provision of these and other financial products to you. BMW FS may also share your personal information with authorized BMW Centers to provide you with the products you have requested. 
 
-6\. Communication Preferences  
+4. Links to Other Sites  
+Though our Sites contain links to other sites, we are not responsible for the content, links or privacy on any of those sites. We recommend that you review the Privacy Policy applicable to those sites before accessing them.
+
+5. Email Links  
+We use email links throughout the Sites to allow you to contact us directly with any questions or comments you may have. We read and try to reply promptly to everyone. Information in the message is used to respond directly to your comments or questions. We may also file your comments to improve the Sites and programs, or review and discard the information. Your personal information is not shared with third parties except as noted in Section 3 of this policy without your express permission.
+
+6. Communication Preferences  
 You will only receive emails, mailings or app notifications from BMW NA if you have requested or agreed to be on our correspondence list. If you are currently on our email list and do not wish to receive further emails from us, simply click the 'unsubscribe' link in any BMW NA email. If you do not wish to receive further mailings from BMW NA, you can also call BMW Customer Relations at 800-831-1117. To prevent notification in BMW apps, you can do so by updating your settings on your mobile device. If you are receiving emails or mailings from any authorize BMW dealer, you must remove yourself from their list by calling them directly. BMW NA is not responsible for and cannot remove your information from a BMW dealer's communication list. 
 
-7\. Phishing Scams  
+7. Phishing Scams  
 There is a type of e-mail solicitation commonly known as a 'phishing' scam, with the primary objective being to obtain one's personal information. This information can then be used to steal a person's identity. Examples of these types of scams are: requests for you to send passwords, login names, Social Security numbers, or other personal information through email, U.S. mail, fax or text message. BMW NA does not participate in this type of solicitation. Recipients of suspicious email like this should delete the message from their inbox and, if possible, update their e-mail filter settings to block emails from the e-mail address being used. The 
 
 [ _Federal Trade Commission_](https://www.ftc.gov/news-events/press-releases/2008/04/new-ftc-videos-help-consumers-spot-phishing-scams)
@@ -78,7 +85,7 @@ There is a type of e-mail solicitation commonly known as a 'phishing' scam, with
 8\. Fraud Warning  
 Get more details about recent fraudulent emails that you may have received. 
 
-[ _Learn More._](http://www.bmwusa.com/Standard/Content/ContactUs/FraudWarning.aspx) 
+[ _Learn More._](https://web.archive.org/contact-us/fraud-warnings.html) 
 
 9\. Sites Traffic Monitoring  
 We collect information about visits to our Sites by tracking Internet Protocol (IP) addresses or other identifiers. We use this information to determine how to make future visits more convenient and productive for all BMW enthusiasts. We may also collect device type, browser type, access time, and the URL where a user is entering or exiting the Sites.
@@ -146,9 +153,5 @@ In addition, most internet browsers allow you to change your browser settings to
 Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, BMW NA and the Sites do not recognize DNT.
 
 12\. Questions and Comments  
-Please feel free to send your privacy-related comments or questions to 
-
-[ _privacy@bmwusa.com_](mailto:privacy@bmwusa.com)
-
- or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. You may also call BMW Customer Relations at 800-831-1117. Prompt 'Customer Relations.' Customer telephone calls may be recorded to protect you and our staff. In all written communications, please indicate that you are writing concerning BMWUSA.com or My BMW. We will do our best to respond to all reasonable inquiries in a timely manner.  
+Please feel free to send your privacy-related comments or questions to [ _privacy@bmwusa.com_](mailto:privacy@bmwusa.com) or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. You may also call BMW Customer Relations at 800-831-1117. Prompt 'Customer Relations.' Customer telephone calls may be recorded to protect you and our staff. In all written communications, please indicate that you are writing concerning BMWUSA.com or My BMW. We will do our best to respond to all reasonable inquiries in a timely manner.  
 
