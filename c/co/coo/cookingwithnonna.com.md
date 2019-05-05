@@ -1,70 +1,195 @@
-> *The following text is extracted and transformed from the cookingwithnonna.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926025425id_/http%3A//cookingwithnonna.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingwithnonna.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505052143id_/https%3A//www.cookingwithnonna.com/footer/privacy.html) for the most accurate reproduction.*
 
-# Privacy | footer
+# Privacy | footer | Site Content
 
-_**PRIVACY POLICY**_
-
-  
-Cooking with Nonna (“CWN”) is committed to providing information and activities relating to the Cooking With Nonna show and its hostess, Rossella Rago, on the CookingWithNonna.com website (the “Site”).  Our content includes information about Rossella Rago and her various endeavors, recipes, photos, videos and interactivity with our guests and users.  While we encourage the interactive nature of our website, we strive to promote the online safety and privacy of our users.   
-We have implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this Site.  This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.  
-
-**Overview**
-
-This Privacy Policy is intended to provide you with information as to: (i) the type of information that is collected, (ii) how collected information is used and with whom it is shared; (ii) how we intend to protect the information; and (iii) how you can access, modify and/or delete such information.  
-
-**California Privacy Rights**  
-Under California law, California residents who have provided personal information to a company may have the right to request a list of all third parties to whom that company had disclosed such information for the third parties’ direct marketing purposes during the preceding calendar year, along with a list of the categories of personal information that had been so disclosed.   If you are a California resident who would like information on how to exercise your rights concerning third party disclosures, you may send an email to this address. 
-
-     Attn:  California Privacy Rights Administrator
+**Cooking with Nonna Privacy Policy**  
+**Effective May 24, 2018**
 
   
-**Collection of Information**  
-Information You Provide to Us:  We collect some information about you when you visit and interact with this Site.  Some of this information is automatically collected, and some is collected when you interact with the Site.  The type of information that is automatically collected can include date and time of access of the Site, the Internet protocol address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, and the specific interactions you engage in with the site.  Information from which you can be personally identified may also be collected by us at the Site, including your name, postal address, email address (referred to as “Personal Consumer Information”).  Of course, you may choose not to provide certain information to us, but if so, you may not be able to participate in certain of the activities and transactions available at the Site.  
-
-**Use of “Cookies” and Other Technologies:**   We may use “cookies” and/or other technologies or files (collectively, “cookies”) to identify how visitors make use of this Site.  This aggregate tracking information is used to help us improve and enhance the website experience for all of our visitors.  If you would prefer not to have such cookies stored on your computer, you may modify your browser settings to reject most cookies, or manually remove cookies that have been placed on your computer.  However, by so rejecting the cookies, you may be unable to fully access the offerings on this Site.
+Cooking with Nonna is committed to providing information and activities relating to the Cooking With Nonna show and its hostess, Rossella Rago, on the CookingWithNonna.com website.  Our content includes information about Rossella Rago and her various endeavors, recipes, photos, videos and interactivity with our guests and users.  While we encourage the interactive nature of our website, we strive to promote the online safety and privacy of our users.  
+We have implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this Site.  This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.  If you have any questions or need further information about your data, please do not hesitate to contact us at [privacy@cookingwithnonna.com](mailto:privacy@cookingwithnonna.com) and we will address your questions at the earliest.
 
   
-**Electronic Communication:**   When you communicate with us electronically, via e-mail, when opting to receive our newsletter or otherwise, you consent to our use of the information you have provided, and you further consent to receive electronic communications from us and our affiliated entities.  If you would prefer not to receive such communications, you can opt out of our email lists by either clicking on the “opt out” line at the bottom of the email, or by emailing us directly here.
+**Children Under 13:**
 
-**Security of Information**  
-We maintain reasonable standards of confidentiality and security for this Site and for the Personal Consumer Information collected from this Site.  The Personal Consumer Information you provide is secured using industry standard e-commerce security technology.  We also restrict our own employees’ access to Personal Consumer Information.  However, it is possible that someone may intercept or access communications, transmissions and/or Personal Consumer Information.  You must also seek to protect against unauthorized access to any information that you use in connection with this website, and you should remember to close the browser once you have completed your activities on the Site or if you have decided to step away from your computer.  In the event that we determine that there has been a security breach resulting the unauthorized disclosure of Personal Consumer Information to a third party, we will notify consumers whose Personal Consumer Information has been so disclosed by posting such information on the Site and, if email contact is possible, then we would send an email advising of the status.
+Cooking with Nonna cares about protecting the privacy of children. We won't knowingly allow anyone under the age of 13 to provide us any personally identifying information online. Children should always get permission from their parents before sending any personal information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your knowledge and experience with your young ones. If you're under 13, please do not register for any of our Services or provide us with any personally identifying information (such as your name, email address or phone number).
 
-  **Use and Sharing of Information**  
-You acknowledge and agree that the Personal Consumer Information that we collect on this Site may be used for any lawful purpose.
+   
+**Information Collected Through Our Services:**
+
+The information we gather through our Services falls into two categories: (1) information you voluntarily supply to us when you register, subscribe to our newsletter or initiate other transactions, participate in promotions or surveys, submit comments or questions or otherwise communicate with us or others through the Services, and (2) information collected automatically as you use our Services, including without limitation, information that may be collected through our mobile applications while they are in use or running in the background of your device. Third-party providers and advertisers featured on, or linked to or from, our Services may also gather information through processes that we don't control and subject to their own separate privacy policies, which may differ from ours. Some of our Services also may participate in third-party advertising networks or similar services that collect information about your computer or device and your activity online and as a mobile user to tailor some of the advertising that you see on our Services and other third-party sites, mobile apps and marketing channels in their networks to your interests.
+
+   
+**Registration and Other Personally Identifying Information.**
+
+You may register to use certain features of our Services. When you register, we may collect personally identifying information, including your name, postal address, email address, user name and password, reminder questions and answers and communications preferences, such as which newsletters you would like to receive. We may also ask for information about your age, gender, hobbies, interests, preferences (such as your favorite foods, purchases or recipes) and the like, but you're free to register for most of our Services without providing all this additional information. When you register for one of our Services, the information you provide may be added to a centralized Cooking with Nonna database so that you may be simultaneously registered for our other Services as well. In addition, when you use various aspects of our Services, we may ask you for personally identifying information, including when you order  products, complete a survey, enter a contest, or report a problem with our Services. We may also collect contact information for other individuals when you use the sharing and referral tools available within some of our Services to forward content or offers to your friends and associates. We use this information to facilitate the communications that you request. Please note that if you use any "Email This Link to a Friend" features of our Services, your email address may be included in the communication sent to your friend.
+
+   
+**Contests and Other Promotions.**
+
+From time to time, we may offer contests, sweepstakes or other promotions. Participation in these promotions may require registration for our Services (see "Registration and Other Personally Identifying Information," above). We may also automatically enter our users in some promotions. If you choose to participate in promotions that require registration, we will collect contact information such as your name, address, and email address and we may share this information with co-sponsors or other third parties involved in the promotion that we identify in the rules or entry materials. We don't control these third parties' privacy practices, and our Privacy Policy does not apply to their collection and use of your information. We may also share some of your entry information with third parties or the public in connection with the administration of the promotion, such as winner selection and prize fulfillment, and as permitted by the promotion's official rules, such as on a winners' list.
+
+   
+**Information Collected Automatically When You Use Our Services.**
+
+Cooking with Nonna or third-party contractors we engage may collect certain information automatically when you use our Services, including but not limited to:
+
+  * Web pages, content and advertisements you view and links you click on while navigating within our Services;   
+  * Information about your interactions with our content, including video or audio content, such as the type of content accessed via our Services;
+  * Information about your interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions and the device you use to read emails;
+  * The site you visited before visiting the  Cooking with Nonna website and the site you visited after visiting the Cooking with Nonna website;
+  * Your Internet Protocol (IP) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
+  * Search terms you enter using our Services or on a referral site;
+  * Unique identifiers, including mobile device identification numbers, that can identify the physical location of devices in accordance with applicable law;
+  * Your device type, screen size, browser type, language and other settings, memory capacity, plug-ins, Internet domain, TCP configuration parameters, operating system, carrier code, time zone and the names, versions and package IDs of software installed on your device;
+  * Standard server log information; and
+  * Information collected through cookies, web beacons and other tracking technologies (see additional descriptions of these terms below).
+
+
+
+   
+**Personalization and Tracking Technologies.**
+
+Like most website and mobile application operators, we, our service providers or other third parties acting on our behalf or with our permission, use embedded scripts, "cookies," web beacons, device identifiers and other tracking technologies to operate, analyze, improve and protect the security of our Services and tailor content and advertising to user interests. Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of advertisements you see on our Services and other websites also may use tracking technologies to collect information about your use of our Services.
+
+  **Cookies.**
+
+Cookies are small amounts of data (often containing a unique identifier) that are stored in separate files within your computer or device’s Internet browser. Cookies are accessed and recorded by the websites you visit, and by the companies that deliver the advertisements you see on our services, so they can recognize the same browser navigating online. You can set your browser to accept or reject most cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you to decide whether to allow us or third parties to set cookies, but if you block cookies, you may not be able to view or access some of the features of our Services. Please be aware that certain browsers cannot block or delete so-called "Flash" cookies, which use a feature of the Adobe Flash video player to store information on your computer. For information about how to delete Flash cookies, please visit the Adobe website.
+
+   
+**Web Beacons and Other Tracking Technologies.**
+
+Web beacons (sometimes called "transparent GIFs," "clear GIFs," or "pixel tags") are small strings of code that embed a small graphic image (usually invisible) on a web page or in an email or advertisement. When your browser downloads a web beacon, the server that sends the corresponding image to your browser can recognize and store certain types of information such as cookies previously set, the time and date that you viewed the page embedded with the beacon and a description of that page.
+
+   
+**Mobile Device IDs and Location-Based Information.**
+
+Certain mobile devices, including smart phones and tablet devices, contain unique device IDs that can be used to identify their physical location. Some mobile device IDs are persistent, while others may be resettable by accessing the device’s privacy settings. Mobile devices also typically transmit caller ID data (which may include a phone number) when used to transmit a telephone call or text message. When you use mobile devices to access our Services, we may collect and transmit unique device IDs and collect caller ID data, as well as other information about your device, including without limitation, your wireless carrier, the make, model, operating system, capacity and settings of your device, the names, package IDs and versions of other software you have downloaded to your device and information about how you interact with and navigate within our Service. With your consent, we or our authorized service providers and partners also may use precise geolocation technology such as GPS or Wi-Fi triangulation or mobile Bluetooth beacon technology to collect information about the exact location of your mobile device. Precise location information may be collected both while you are using one of our mobile applications and continuously over time while our apps are not in use but are running in the background of your device. This information may be used for the purposes described below in "How We Use The Information We Collect," including to tailor special offers and advertising to your interests, both in our Services, and in third-party marketing channels. You can withdraw your consent to the further collection and use of your precise device location data through any of our mobile apps by accessing your device’s privacy settings as further explained below in "Opt-out Choices: Precise Device Location Tracking." For information about how to reset your advertising identifier and your other opt-out choices relating to interest-based advertising in mobile applications, see "Opt-out Choices: Mobile App Advertising and Tracking."
+
+   
+**Social Network Posting Tools and "Share" Features.**
+
+You can access various social network posting and sharing tools through our Services that are operated by third parties, including a "share" button that allows you to post links to content and features that you believe will be of interest to others on your social network pages. When you visit a page that includes one of these sharing tools, the third-party company that operates the tool may be collecting information about your browser, device and online activity through its own tracking technologies and subject to its own separate privacy policy, which may differ from ours.
+
+   
+**Nielsen Online Campaign Ratings Service.**
+
+Some of our advertisers may participate in a program operated by the Nielsen Company to develop an Online Campaign Ratings service that is comparable to Nielsen's television ratings. When one of their ads appears on our Services, it may contain a web beacon that will record your exposure to the ad, read certain cookies on your browser, and forward this information to one or more operators of third-party websites or other online service on which you may have registered. If the third-party operator recognizes a cookie that identifies you as one of its registered users, it will append the impression data it receives, which may identify you as a user our Services, with age and gender information before returning the data to Nielsen. Nielsen aggregates the data it receives about a given campaign to create ratings reports for advertisers and publishers. According to Nielsen, these reports measure campaign performance on an aggregate level within various demographic categories and do not identify you personally. For more information about Nielsen's information collection practices and any related opt-out choices, please see the Nielsen.com privacy policy.
+
+   
+**Information We May Obtain From Other Sources:**
+
+We may combine any information collected through the Services with other information that we obtain about you, your computer, and/or device from other companies and sources, including third-party data suppliers and public databases. The following are examples of information we may collect from other sources:
+
+  * Name, postal address, email address and telephone number;   
+  * Demographic data, such as age, gender, and income level;
+  * Your interests and purchase behavior;
+  * Publicly-visible data, such as your posts and submissions to blogs, video-sharing services, and other interactive forums; and
+  * Other navigation data, such as web sites visited and advertisements viewed or clicked on.
+
+
+
+  **How We Use The Information We Collect:**
+
+Our primary goal in collecting information is to provide you with a customized experience when using our Services and to make them more valuable to you. Because our Services are supported by advertising, we also use the information we collect to help us and advertisers efficiently reach consumers who are most likely to be interested in particular products and services. We only use payment and identity verification information as necessary to complete a particular transaction, provide a requested service, enforce legal rights or comply with applicable law.
+
+In addition, we and our authorized service providers generally use other information that we or they collect about you to:
+
+  * Customize the content you see when you use our Services and other services as you navigate online;   
+  * Analyze, operate and improve our Services, and fulfill your requests for products, services, and information, including to send you email and electronic newsletters;
+  * Help recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting one of our Services;
+  * Enable you to participate in features such as surveys, polls, sweepstakes, and message boards;
+  * Attribute content that you post to forums we operate on our Services;
+  * Recognize the same users as they access online or mobile services using multiple browsers or devices and deliver to them appropriate interest-based content and advertising;
+  * Provide you with special offers, promotions and information from our company, and select third parties in accordance with applicable law;
+  * Control the display of advertising and develop and deliver advertising tailored to your interests, including advertising that you see on our Services, advertising you see on third-party websites, mobile applications and email programs, and offers and advertising you may receive offline or as push-notifications, from us or others;
+  * Measure and analyze visitor traffic and usage patterns and improve the quality and effectiveness of our content, features, advertisements, and other communications;
+  * Conduct market or audience analysis and related reporting;
+  * Understand whether our users read email messages and click on links contained within those messages;
+  * Prevent potentially prohibited or illegal activities, comply with applicable law and enforce our Terms of Service Agreement;
+  * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+
+
+
+   
+**How We Disclose Information and Your Related Opt-out Choices:**
+
+Except as otherwise expressly noted herein or within the Services, we may share any information collected through our Services, including without limitation, your name, postal address (and any other information we combine with that information) with our  our provider partners and service providers, and with carefully selected third-party organizations and marketers of products and services potentially of interest to you. The following describes some of the circumstances in which we may share information about our users:
+
+   
+**Email.**
+
+We share our users' email addresses with service providers that send email messages and deliver targeted advertising on our behalf. These service providers may collect data about how you interact with those messages (including information about whether and when you opened a particular message or clicked on a link within a message and the device you used to do so) and analyze it in conjunction with similar information they collect when you respond to emails they send on behalf of their other clients who are not affiliated with us. They use this email response information in combination with your email address to target and optimize the delivery of emails and email advertising they send on our behalf and for their other clients. We may also provide our service providers with lists of our user email addresses in a hashed, encrypted or anonymized form that they use to recognize our users as they navigate online or use third-party email services and enable the delivery of interest-based advertising to those users. We do not authorize our service providers to share your email address with their other clients.
+
+If you use our Services to sign up for special email offers from third-party advertisers, we will also share your email address and any other information you provided with your request with the advertisers you selected. Except as described in this policy, we will not sell or rent your email address to unaffiliated third parties for their email marketing purposes, without your consent.
+
+   
+**Co-Registration Offers.**
+
+If, during or immediately following registration, you choose to access offers for goods or services that are available from selected third-party companies (“Co-Registration Vendors”), we may make certain contact and demographic information you provide (e.g., name, age, and/or email address) available to these vendors with your consent.
+
+   
+**Provider Partners and Service Providers.**
+
+To make your experience with our Services more useful and enjoyable, we may offer some features (such as social sharing tools and chat rooms) in conjunction with third-party providers ("Provider Partners") that specialize in operating such services. We share with each of these Provider Partners such information as is useful or necessary to provide you with the services we offer through that Provider Partner. Some of our Provider Partners may collect information directly from you pursuant to their own separate privacy policies which may differ from ours. For example, our affiliated company Cooking with Nonna Performance Marketing, LLC operates the home contractor referral tools available through some of our sites and collects information through such features pursuant to its separate privacy policy available here. We also contract with other companies to provide specialized services to us, including but not limited to credit-card and billing processing, shipping, marketing, advertising optimization and interest-based targeting, email and text message distribution, data processing, mobile and website analytics, user authentication, security and promotions management. We reserve the right to share with these companies any information we collect about you and/or authorize them to collect information from you directly to support the services they provide to us. For example, some of our Services integrate with Google’s reCAPTCHA widget to help us distinguish authentic human users from “bots” and protect our sites from spam and abuse. Through cookies and other tracking technologies, Google collects information about user activity to provide us with this service and processes and stores such information pursuant to its privacy policy available [here](https://policies.google.com/privacy?hl=en&gl=us).
+
+   
+**Aggregated and Anonymous Information.**
+
+We and our service providers may combine information about you with information that we or they collect about other users of our Services and share it in a form that does not identify you personally. We and our service providers may also anonymize information by removing any information (such as your name) that makes the information personally identifying to you. We may use aggregated information or other anonymous information and disclose it to third parties as we deem appropriate.
+
+   
+**Information You Post to Blogs, Discussion Forums and Community or Social Networking Areas.**
+
+Keep in mind that any information that you choose to post to blogs, discussion forums, or other community or social networking services that we offer can be seen, collected and used by anyone who has access to the applicable service. We cannot be responsible for any unauthorized third-party use of such information.
+
+   
+**Legal Compliance, Business Transfers and Other Disclosures.**
+
+Notwithstanding anything to the contrary stated herein or within our Services, we may occasionally release information about users of our Services when we deem such release appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our Terms of Service Agreement, or protect the rights, property or safety of users of our Services, the public, Cooking with Nonna , or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or on our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Cooking with Nonna.
+
+   
+**Your Opt-Out Choices.**
 
   
-**Use of Personal Consumer Information by CWN**  
-The Personal Consumer Information collected at this Site may be used for any lawful purpose, including to communicate with you, respond to your requests, and analyze and improve our websites, business and/or service to you.  We may use your information (including information obtained should you choose to opt in to one of our email lists) to send you email newsletters and information that we think you might find interesting or informative.  All email newsletters and other communications will provide you with an opportunity to opt out of receiving future issues of such newsletters or to opt out of receiving future information within the body of the email.  You may also, at any time, opt out of receiving any third party materials from this Site by emailing us directly [here](http://%20%3Cscript%20language%3D%27javascript%27%20type%3D%27text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy26448%20=%20'Privacy'%20+%20'@';%20addy26448%20=%20addy26448%20+%20'CookingWithNonna'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20addy26448%20+%20suffix%20+%20'/''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy26448%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=/'display:%20none;/'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E). 
+**Email.**
 
-**Sharing of User Content on the Site**  
-When users send us stories, recipes, photos and/or other User Content, these materials may be posted on our Site.  We will not use material without the acceptance by the user, or by the parent of a user if such user is under 18, of our User Content License Agreement.  We will not return any materials, such as photographs, once they have been sent to us.
+You can opt-out from any Cooking with Nonna email newsletter or commercial email list and prevent the collection of related email response information by our email service providers by using the unsubscribe link at the bottom of each message and/ or by visiting the Email Preferences page on our sites and updating your preferences. If you no longer want to receive third-party email offers that you requested through our Services, simply follow the advertiser's unsubscribe link or opt-out instructions that should be included in every commercial message you receive. If you wish to disable web beacons in our email messages, turn images “off” in your email client (e.g., Outlook or Outlook Express). Please refer to the settings or options menu in your email client for more information.
 
-**Disclosure by CWN of Personal Consumer Information to Other Entities**  
-Without restriction, CWN may disclose aggregated statistics about visitors to this Site, along with specific information concerning individual visitors of its Site that is not Personal Consumer Information, provided that no specific individual can be identified by the information so disclosed.  We may sometimes seek to share the Personal Consumer Information we have collected with a third party, and may also sometimes seek to share such Personal Consumer Information with companies that are affiliated with CWN  we may sometimes use a third party to provide certain services on its behalf, such as processing transactions, sending emails or performing statistical analyses of activity on this website.  In the event that we provide your Personal Consumer Information to any such entity, we will require that any such entity maintain the confidentiality of (and not further share) the Personal Consumer Information that we has provided to it.  We may sometimes share aggregated Personal Consumer Information with partners on the Site, such as Site statistics and behavioral data.
+**Mobile App Advertising and Tracking**
 
-**Acquisition of Business**  
-In the event that CWN is involved in a merger, acquisition, consolidation, restructuring, reorganization, liquidation, sale or similar transaction relating to any portion of its business and/or assets, you hereby acknowledge and agree that the Personal Consumer Information relating to visitors of this Site that we have collected may be included in the assets of, and/or  transferred pursuant to, such transaction.  If that occurs, CWN will post a notice to such effect on this website.
+We, our authorized service providers and/or other third-party partners involved in the delivery of advertising you receive through our mobile applications may collect information about your mobile device, including unique anonymous advertising identifiers and the names and IDs of apps you have installed, as well as information about how you use our mobile applications and other unaffiliated applications. We and our partners use this information to enable interest-based advertising you receive through our Services and within third-party apps and other marketing channels. Depending on your device and operating system, you may be able to reset your mobile device's advertising identifier to limit this data collection or prevent the collection of usage data across unaffiliated applications for interest-based advertising purposes by accessing the privacy settings on your mobile device. Each operating system, iOS for Apple devices, Android for Android devices and Windows for Microsoft devices, provides its own instructions. Visit the privacy settings for your mobile device or contact your platform operator for more information.
 
   
-**Legal Process**  
-CWN may disclose your Personal Consumer Information if it has a reasonable good faith basis to believe that it is required to do so by law, compelled by court order or legal process, or is reasonably necessary and/or appropriate to: (i) protect the rights, property and/or safety of CWN or any other person or entity; or (ii) prevent or take action concerning any alleged: (a) illegal activity or (b) breach of the Terms and Conditions or Privacy Policy of this website.
+If you authorized us and/or our service providers to collect and/or share information about the precise location of your device through a mobile application, you can always withdraw your consent and prevent the further collection and sharing of your precise device location information by accessing your device’s location privacy settings. Each operating system, iOS for Apple devices, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to turn off precise location sharing. Access the privacy settings for your mobile device or contact your platform operator for more information.  
+Do Not Track.
 
-  
-**Accessing Your Information**  
-You may update and/or correct the Personal Consumer Information collected on the Site, or seek to have such information deleted from our records, by emailing us here.   
-**Linked Sites**  
-From time to time, the CookingWithNonna.com website may contain links to other websites that are not controlled and/or maintained by CWN.  Please be aware that these other websites may have different privacy policies which may subject you to different privacy practices.  Please review the privacy policies of such other websites for information concerning what information is collected on such sites and how it is used.
+We do not currently respond to browser do-not-track signals. Instead, we adhere to the standards set out in this privacy policy and offer the opt-out choices described above.
 
-**Changes in Policy**  
-From time to time, this Privacy Policy may change.  We will post changes to the Privacy Policy at this Site.  Please review this Privacy Policy often so that you will remain abreast of CWN’s current policies, including our policies concerning the gathering and use of information that may be collected on our Site. This Privacy Policy was last updated on 4/30/09 and is effective immediately.
+   
+**Sites to Which We Link:**
 
-  
-**Contact Us**  
-If you have any questions concerning this Privacy Policy other than with respect to California Privacy rights, please send us an email here
+We also may provide links to other websites or services, and provide access to products and services offered by third parties, whose privacy policies we don't control.
 
-**Governing Law**  
-This Privacy Policy shall be governed by the laws of the State of New Jersey, without regard to its conflict of law provisions.  Any dispute concerning this Privacy Policy or your use of this Site shall be submitted to binding arbitration in New Jersey within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association.  To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto.  If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
+  **How to Correct or Update Your Information:**
 
-Copyright 2008-10 Cooking With Nonna/BaciTV, LLC.  All rights reserved.
+Cooking with Nonna  provides you with the ability to access and edit certain personally identifying information that you have provided to us when you became a member of the La Famiglia of Cooking with Nonna. To update this information, please visit the "My Profile" page on the Cooking with Nonna website and update your preferences. On the same page you will also fin a feature to completely delete your user account if you wish to do so. If you cannot locate such a feature, send us an email at privacy@Cooking with Nonna.com and we will assist you.  Please note that removing your User account from La Famiglia is independent from opting out of receiving our newsletters and vice-versa. You will need to perform both actions to be removed from La Famiglia and opting out from receiving the Cooking with Nonna emails.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+  **Security, Retention and Storage of Information:**
+
+We use commercially reasonable procedures to protect the personally-identifying information that we collect. No security system is impenetrable, however. We cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. Please see our Term and Conditions Agreement for more information related to posting materials on our Services including our use of such materials.
+
+For the purposes set out in this Online Privacy Policy, personally-identifying information may be transferred to, processed, stored and accessed by us, our affiliates and our unaffiliated service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your personally-identifying information. By using the Services, you consent to this transfer, processing, storage and access of your personally-identifying information in and/or outside of the jurisdiction in which you reside.
+
+  **Your California Privacy Rights**
+
+(As provided by California Civil Code Section 1798.83)
+
+California residents have the right to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed certain types of personal information (if any) for their direct marketing purposes in the prior calendar year. At our option, we may respond to such requests by providing instructions about how our users can exercise their options to prevent our disclosure of personal information to third parties for their direct marketing purposes. You can read these instructions above in the section of our Online Privacy Policy titled "How We Disclose Information and Your Related Opt-out Choices." Or, if you are a California resident and prefer that we send you a separate response, please email your request to privacy@Cooking with Nonna.com
+
+   
+**Changes to Our Privacy Policy:**
+
+Digital technology is rapidly evolving. If we decide to change our Privacy Policy in the future, we'll post the changes here and indicate at the top of the policy the last date on which it was updated. Unless otherwise noted, all changes will be effective when posted.
+
+[Print](https://cookingwithnonna.com/footer/privacy/Print.html "Print article < Privacy >")[Email](https://cookingwithnonna.com/component/com_mailto/link,64a84c1dae6ee6f8ed66a3e602b2160c3eb5f5cd/template,jp-scene/tmpl,component/ "Email this link to a friend")
