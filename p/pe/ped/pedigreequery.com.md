@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pedigreequery.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619060218id_/http%3A//www.pedigreeonline.com/policy.php%3Ffrom%3Dquery) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedigreequery.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505145000id_/https%3A//tbreds.pedigreeonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: April 20, 2017
+Effective Date: March 26, 2018
 
 ## Our Commitment To Privacy
 
@@ -14,7 +14,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 We may collect the following types of data about you when you use the Websites: 1. Personal Information; 2. Communication Information; 3. User Contribution Information; 4. Navigational Information; and 5. Payment Information.
 
-_Personal Information_ is information that you voluntarily submit to us and identifies you personally when you fill out forms on our Websites, and may also be included in the other types of data described below. This includes, but is not limited to, your name, address, phone number, email address, business name, and other information about you or your business when creating an account on the Websites, at the time of subscribing to any of our services, or when using our online support system. We may also ask you for information if we receive a complaint about you. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the Internet, such as from Facebook, Twitter and Google, or publicly available information that we may acquire.
+_Personal Information_ is information that you voluntarily submit to us and identifies you personally when you fill out forms on our Websites, and may also be included in the other types of data described below. This includes, but is not limited to, your name, address, phone number, email address, business name, and other information about you or your business when creating an account on the Websites, setting your Display Name for the Websites, at the time of subscribing to any of our services, or when using our online support system. We may also ask you for information if we receive a complaint about you. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the Internet, such as from Facebook, Twitter and Google, or publicly available information that we may acquire.
 
 _Communication Information_ is collected if you contact us using the online support system, or by direct email. We may keep a record of that correspondence. The information we collect will include the details of the messages you send and receive using our internal support service including, without limitation, the date/time you sent or received a message and the contents of that message.
 
@@ -22,7 +22,7 @@ _User Contribution Information_ is collected when you add, edit, delete, or uplo
 
 You are free to explore the Websites without entering any personal information about yourself. When you visit the Websites in this manner, we collect _Navigational Information_.
 
-_Navigational Information_ includes details of your visits to the Websites including, but not limited to, browser information, computer hardware and operating system information, geographical location data, IP address, length of visit, pages viewed, referral source, and other communication data. Although we do not correlate tracking information to individuals, some information collected, such as IP addresses, will be unique. We may also collect account identifier information which can be used to link to your Personal Information.
+_Navigational Information_ includes details of your visits to the Websites including, but not limited to, browser information, computer hardware and operating system information, geographical location data, IP address, length of visit, pages viewed, referral source, and other communication data. In general, we do not correlate tracking information to individuals, except that when you make a public post or change on the Websites, your IP address will be unique. If you are logged into one of the Websites when you make a public post or change on the Websites, your chosen Display Name will be listed with the post; if you are not logged in, your IP address will be listed with the post. We may also collect account identifier information which can be used to link to your Personal Information.
 
 The _Payment Information_ we collect and process when you subscribe to any of our paid services, includes credit card numbers and billing information. Credit cards are processed using third-party PCI-compliant service providers.
 
@@ -38,7 +38,7 @@ _Communication Information_ is used for support services for the Websites, and t
 
 _User Contribution Information_ is used for support services, tracking and logging user contributions to the Websites, quality control purposes, and to allow for other administrative purposes that might arise from time to time.
 
-_Navigational Information_ is used to operate the Websites, improve navigation, track user tendencies, and allow for other administrative purposes that might arise from time to time.
+_Navigational Information_ is used to operate the Websites, improve navigation, track user tendencies and contributions, and allow for other administrative purposes that might arise from time to time.
 
 If you give us 
 
@@ -55,6 +55,7 @@ We may disclose information about you that we collect or you provide:
   * To contractors, service providers, and other third parties we use to support our business.
   * To a buyer or other successor in the event of a merger, reorganization, dissolution, or other sale or transfer of some or all of the Company's assets, in which personal information held by the Company is among the assets transferred.
   * To fulfill the purpose for which you provide it.
+  * To other users to the extent that you post the information on a public portion of the Websites, including your IP address and/or Display Name when you make a change or other public post on the Websites.
   * For any other purpose disclosed by us when you provide the information.
   * To comply with any court order, law, or legal process, including to respond to any government or regulatory request. Our Websites may also include public forums or blogs. Please keep in mind that if you directly disclose any information through our public blogs or forums, this information may be collected and used by others and you are responsible for any post you might make. We may correct or delete any information you have posted on the Websites if you so request, unless its deletion is in violation of our Terms of Use found [here](https://www.pedigreeonline.com/terms). Please email [info@pedigreeonline.com](mailto:info@pedigreeonline.com) with your request.
 
@@ -100,7 +101,7 @@ You may learn about opting-out of personal advertising by visiting the Google ad
 
 Our web servers record certain requests and transactions in log files. This log data is used for operation of the Websites, to maintain the quality of the Websites, maintain subscriptions, troubleshooting, statistics, analytics, and to monitor system security and can be analyzed to that end. There is also information about your computer hardware, operating system, and software that is automatically collected by us in log files. This information can include: your IP address, browser type, domain names, internet service provider (ISP), the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, clickstream data, access times, and referring website addresses.
 
-We also log User Contribution Information. This log data can include your IP address, browser type, computer hardware and operating system information, details of the user contributions, and your account identifier. Your account identifier is linked to your Personal Information.
+We also log User Contribution Information. This log data can include your IP address, Display Name, browser type, computer hardware and operating system information, details of the user contributions, and your account identifier. Your account identifier is linked to your Personal Information.
 
 ## Our Commitment to Data Security
 
