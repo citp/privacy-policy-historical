@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardesignnews.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517161507id_/http%3A//cardesignnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardesignnews.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505085009id_/https%3A//cardesignnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Car Design News
 
@@ -162,7 +162,7 @@ Advertising on mobile devices may require the collection and sharing of the uniq
 
 **8\. Legal information and how to contact us**
 
-Under the UK Data Protection Act 1998 we have to say who the ‘data controller’ is for Ultima Media products and services provided via our websites, our magazines, events and other products and services. The data controller is the organisation responsible for protecting information and, in our case, is Ultima Media Ltd, 401 King Street, London W6 9NJ.
+Under the Data Protection Act 2018 we have to say who the ‘data controller’ is for Ultima Media products and services provided via our websites, our magazines, events and other products and services. The data controller is the organisation responsible for protecting information and, in our case, is Ultima Media Ltd, 401 King Street, London W6 9NJ.
 
 If you would like access to or a copy of the personal information we hold about you, to request a correction, or have any questions about how we may use it or to make a complaint, please contact the Data Protection Manager Justyna Makowiecka at the address shown above. Or email Justyna.Makowiecka@ultimamedia.com or telephone +44 20 8987 0900
 
