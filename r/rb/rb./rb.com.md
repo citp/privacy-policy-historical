@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924130959id_/https%3A//www.rb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505102122id_/https%3A//www.rb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Data Collection and Use – RB
 
@@ -12,7 +12,7 @@ In this Privacy Notice " **we** ", " **us** " and " **our** " refers to all the 
 
 Your Personal Information is controlled by Reckitt Benckiser Group plc (having a registered office at 103-105 Bath Road, Slough, Berkshire, SL1 3UH, United Kingdom) or our Reckitt Benckiser company located in your country. As regards this website, Reckitt Benckiser Group plc is the data controller.
 
-For more information about us, our local companies, our brands and our presence in your jurisdiction, please visit __[www.rb.com](https://web.archive.org/web/20180924130959id_/https://www.rb.com/privacy-policy/www.rb.com).
+For more information about us, our local companies, our brands and our presence in your jurisdiction, please visit __[www.rb.com](https://web.archive.org/web/20190505102122id_/https://www.rb.com/privacy-policy/www.rb.com).
 
 Definitions
 
@@ -173,7 +173,7 @@ We may create anonymous data records from Personal Information by excluding info
 
  _Intra-group sharing_
 
-Your Personal Information may be shared between the different companies and brands of our group, for the purposes set out in this Privacy Notice. As we have stated above, this Privacy Notice applies to all these companies’ and brands’ use of your Personal Information. For more information about us, our companies, our brands and our presence in your jurisdiction, please visit __[www.rb.com](https://web.archive.org/web/20180924130959id_/https://www.rb.com/privacy-policy/www.rb.com).
+Your Personal Information may be shared between the different companies and brands of our group, for the purposes set out in this Privacy Notice. As we have stated above, this Privacy Notice applies to all these companies’ and brands’ use of your Personal Information. For more information about us, our companies, our brands and our presence in your jurisdiction, please visit __[www.rb.com](https://web.archive.org/web/20190505102122id_/https://www.rb.com/privacy-policy/www.rb.com).
 
  _Third party service providers_
 
