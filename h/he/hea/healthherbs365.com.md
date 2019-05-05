@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthherbs365.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103071252id_/http%3A//healthherbs365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthherbs365.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505073122id_/http%3A//healthherbs365.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Health Herbs 365
+# Privacy Policy
 
 We recognize the importance of our visitor’s privacy and we aim to preserve the Privacy by all means. The information furnished herewith will inform you on the types of personal information we receive and collect when you use (operate) and visit [Health Herbs365](http://www.healthherbs365.com/ "Healthy Food House"), and how we safeguard your information. You can be assured that your personal information is never leaked or sold to the third parties and they are well protected by us.
 
