@@ -1,0 +1,731 @@
+<!--The following is the downloaded HTML source of the bankofhope.com privacy policy that was archived on 2019-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190505160421id_/https%3A//www.bankofhope.com/privacy-notice) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js no-touch geolocation rgba backgroundsize borderimage borderradius boxshadow opacity cssgradients csstransforms csstransforms3d csstransitions fontface generatedcontent video svg" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Privacy Notice › Bank of Hope</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-title" content="Bank of Hope">
+    <link rel="stylesheet" href="/assets/css/main.min.css">
+        <script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_49154.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TTJTZFJ"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script>
+        (function () {
+          "use strict";
+          //$.support.cors=true;
+
+          // once cached, the css file is stored on the client forever unless
+          // the URL below is changed. Any change will invalidate the cache
+          var css_href = '/assets/css/fonts.css?v=11242014';
+          // a simple event handler wrapper
+          function on(el, ev, callback) {
+            if (el.addEventListener) {
+              el.addEventListener(ev, callback, false);
+            } else if (el.attachEvent) {
+              el.attachEvent("on" + ev, callback);
+            }
+          }
+          
+          // if we have the fonts in localStorage or if we've cached them using the native batrowser cache
+          if ((window.localStorage && localStorage.font_css_cache) || document.cookie.indexOf('font_css_cache') > -1){
+            // just use the cached version
+            injectFontsStylesheet();
+          } else {
+           // otherwise, don't block the loading of the page; wait until it's done.
+            on(window, "load", injectFontsStylesheet);
+          }
+          
+          // quick way to determine whether a css file has been cached locally
+          function fileIsCached(href) {
+            return window.localStorage && localStorage.font_css_cache && (localStorage.font_css_cache_file === href);
+          }
+
+          // time to get the actual css file
+          function injectFontsStylesheet() {
+           // if this is an older browser
+            if (!window.localStorage || !window.XMLHttpRequest) {
+              var stylesheet = document.createElement('link');
+              stylesheet.href = css_href;
+              stylesheet.rel = 'stylesheet';
+              stylesheet.type = 'text/css';
+              document.getElementsByTagName('head')[0].appendChild(stylesheet);
+              // just use the native browser cache
+              // this requires a good expires header on the server
+              document.cookie = "font_css_cache";
+            
+            // if this isn't an old browser
+            } else {
+
+                // use the cached version if we already have it
+              if (fileIsCached(css_href)) {
+                
+                injectRawStyle(localStorage.font_css_cache);
+                // otherwise, load it with ajax
+              } else {
+                var request = createCORSRequest("GET", css_href);
+                if (request){
+                    request.onreadystatechange = function () {
+                      if (request.readyState === 4) {
+                        // once we have the content, quickly inject the css rules
+                        injectRawStyle(request.responseText);
+                        // and cache the text content for further use
+                        // notice that this overwrites anything that might have already been previously cached
+                        localStorage.font_css_cache = request.responseText;
+                        localStorage.font_css_cache_file = css_href;
+                      }
+                    };
+                    request.send();
+                }
+              }
+            }
+          }
+
+          function createCORSRequest(method, url){
+              var xhr = new XMLHttpRequest();
+              // Check if the XMLHttpRequest object has a "withCredentials" property.
+              // "withCredentials" only exists on XMLHTTPRequest2 objects.
+              if ("withCredentials" in xhr){
+                  xhr.open(method, url, true);
+              // Otherwise, check if XDomainRequest.
+              // XDomainRequest only exists in IE, and is IE's way of making CORS requests.
+              } else if (typeof XDomainRequest != "undefined"){
+                  xhr = new XDomainRequest();
+                  xhr.open(method, url);
+              } else {
+                  // Otherwise, CORS is not supported by the browser.
+                  xhr = null;
+              }
+              return xhr;
+          }
+
+
+          // this is the simple utitily that injects the cached or loaded css text
+          function injectRawStyle(text) {
+            var style = document.createElement('style');
+            // cater for IE8 which doesn't support style.innerHTML
+            style.setAttribute("type", "text/css");
+            if (style.styleSheet) {
+                style.styleSheet.cssText = text;
+            } else {
+                style.innerHTML = text;
+            }
+            document.getElementsByTagName('head')[0].appendChild(style);
+          }
+
+        }());
+    </script><style type="text/css">@font-face {
+  font-family: 'Circular Pro';
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Black.eot'); /* IE9 Compat Modes */
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Black.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Black.woff2') format('woff2'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Black.woff') format('woff'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Black.svg') format('svg'); /* Legacy iOS */  
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Circular Pro';
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BlackItalic.eot'); /* IE9 Compat Modes */
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BlackItalic.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BlackItalic.woff2') format('woff2'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BlackItalic.woff') format('woff'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BlackItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BlackItalic.svg') format('svg'); /* Legacy iOS */  
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Circular Pro';
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Bold.eot'); /* IE9 Compat Modes */
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Bold.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Bold.woff2') format('woff2'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Bold.woff') format('woff'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Bold.svg') format('svg'); /* Legacy iOS */  
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Circular Pro';
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BoldItalic.eot'); /* IE9 Compat Modes */
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BoldItalic.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BoldItalic.woff2') format('woff2'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BoldItalic.woff') format('woff'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BoldItalic.svg') format('svg'); /* Legacy iOS */  
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Circular Pro';
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Book.eot'); /* IE9 Compat Modes */
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Book.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Book.woff2') format('woff2'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Book.woff') format('woff'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Book.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Book.svg') format('svg'); /* Legacy iOS */  
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Circular Pro';
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BookItalic.eot'); /* IE9 Compat Modes */
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BookItalic.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BookItalic.woff2') format('woff2'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BookItalic.woff') format('woff'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BookItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-BookItalic.svg') format('svg'); /* Legacy iOS */  
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Circular Pro';
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Medium.eot'); /* IE9 Compat Modes */
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Medium.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Medium.woff2') format('woff2'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Medium.woff') format('woff'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-Medium.svg') format('svg'); /* Legacy iOS */  
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Circular Pro';
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-MediumItalic.eot'); /* IE9 Compat Modes */
+  src: url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-MediumItalic.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-MediumItalic.woff2') format('woff2'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-MediumItalic.woff') format('woff'), /* Modern Browsers */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-MediumItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/web/20171130210031im_/https://www.bankofhope.com/assets/font/CircularPro-MediumItalic.svg') format('svg'); /* Legacy iOS */  
+  font-weight: 500;
+  font-style: italic;
+}
+/*
+     FILE ARCHIVED ON 21:00:31 Nov 30, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:20:09 Jan 31, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 7.001
+  captures_list: 1389.241
+  CDXLines.iter: 18.893 (3)
+  PetaboxLoader3.resolve: 94.716
+  PetaboxLoader3.datanode: 1368.517 (4)
+  LoadShardBlock: 1357.977 (3)
+  exclusion.robots: 0.347
+  load_resource: 131.21
+  exclusion.robots.policy: 0.316
+  esindex: 0.017
+*/</style><!--[if IE 8]> <script src="/assets/js/polyfills.min.js"></script> <![endif]--><!--[if lt IE 9]> <script src="/assets/js/html5shiv.min.js"></script> <![endif]-->
+    
+    
+  
+          
+        
+            <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10041463'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '668995710145996'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=668995710145996&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+
+<body class="subpage Personal" style=""><!-- Google Tag Manager -->
+  
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTJTZFJ');</script><!-- End Google Tag Manager --><!-- Google Tag Manager (noscript) -->
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTJTZFJ" class="no-show" title="Google Tag Manager if scripting is off"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+
+<div role="navigation" aria-label="skip links">
+    <a href="#main" class="sr-only sr-only-focusable">Skip main menu</a>
+    
+</div>
+
+  <section class="topbar" aria-label="select banking segment and language">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-8 col-sm-10">
+				<div class="text-left">
+					<div class="landing-sel" aria-label="banking segment menu">
+						<span class="current"><span class="icon-landingmenu"></span><span class="sr-only">Banking segment currently set to:</span> Personal</span>
+						<ul class="sel-dropdown" id="category-sel-dropdown">
+							<li><a href="/" class="active">Personal</a></li>
+							<li><a href="/business">Business</a></li>
+							<li><a href="/wealth-management/hope-investment-services">Wealth Management</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-4 col-sm-2">
+				<div class="text-right">
+					<div class="lang-sel">
+						<a href="https://korean-bankofhope.com/" class="current external"><span lang="ko">한국어</span><br>Korean site</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<button type="button" class="editor-only btn btn-primary" href="#alert-modal" data-toggle="modal" data-target="#alert-modal">
+		Toggle Site Alert
+	</button>
+</section>
+<header class="header">
+	<div class="container">
+	  	<a href="/" class="logo pull-left" id="logo" itemprop="url" itemscope="" itemtype="http://schema.org/BankOrCreditUnion">
+		  	<span class="logotype" itemprop="logo" role="logo"></span>
+		  	<span class="sprite-brandmarkwhite"></span>
+		  	<h1 class="sr-only">Bank of Hope</h1>
+		</a>
+	  	<div class="header-right pull-right">
+	    	<nav class="navbar" aria-label="main menu">
+  <div class="container-fluid">
+    <button type="button" class="close-navbar"><span class="sprite-closemenu"><span class="sr-only">Close main menu</span></span></button><!-- Collect the nav links, forms, and other content for toggling -->
+    
+    <div class="collapse navbar-collapse" id="navbar-collapse">
+      <ul class="banno-menu menu-beb05510-8658-11e6-a5a3-005056a30020" style="max-height: none;">
+                       <li class="dropdown menu-group">
+        <span role="link" aria-expanded="false" class="group-item dropdown-toggle" tabindex="0" data-toggle="dropdown">Banking</span>
+        <ul class="dropdown-menu">
+            <li class="menu-internal">
+        <a href="/personal/banking/checking">Checking</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/savings-and-money-market">Savings &amp; Money Market</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/certificates-of-deposit">Certificates of Deposit</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/online-banking">Online Banking</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/online-bill-pay">Online Bill Pay</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/mobile-banking">Mobile Banking</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/other-banking-services">Other Banking Services</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/rates">Rates</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/foreign-exchange">Foreign Exchange</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/financial-calculators">Financial Calculators</a>
+        
+      </li>
+          </ul>
+      </li><li class="dropdown menu-group">
+        <span role="link" aria-expanded="false" class="group-item dropdown-toggle" tabindex="0" data-toggle="dropdown">Lending</span>
+        <ul class="dropdown-menu">
+            <li class="menu-internal">
+        <a href="/personal/lending/credit-cards">Credit Cards</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/lending/mortgage-loans">Mortgage Loans</a>
+        
+      </li>
+          </ul>
+      </li><li class="dropdown menu-group">
+        <span role="link" aria-expanded="false" class="group-item dropdown-toggle" tabindex="0" data-toggle="dropdown">Our Community</span>
+        <ul class="dropdown-menu">
+            <li class="menu-internal">
+        <a href="/personal/our-community/community-reinvestment-act">Community Reinvestment Act</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/our-community/community-development-banking-services">Community Development Banking Services </a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/our-community/community-development-lending">Community Development Lending</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/our-community/community-development-investments">Community Development Investments</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/our-community/community-development-services">Community Development Services</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/our-community/scholarship-program">Scholarship Program</a>
+        
+      </li>
+          </ul>
+      </li><li class="dropdown menu-group">
+        <span role="link" aria-expanded="false" class="group-item dropdown-toggle" tabindex="0" data-toggle="dropdown">About</span>
+        <ul class="dropdown-menu">
+            <li class="menu-internal">
+        <a href="/personal/about/about-hope">About Bank of Hope</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/about/hope-stories">Hope Stories</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/about/our-mission-and-values">Our Mission &amp; Values</a>
+        
+      </li><li class="menu-external">
+        <a href="http://www.ir-hopebancorp.com/govdocs.aspx?iid=4055174" class="external">Corporate Governance </a>
+        
+      </li><li class="menu-external">
+        <a href="http://www.ir-hopebancorp.com/CorporateProfile.aspx?iid=4055174" class="external">Investor Relations </a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/about/contact-us">Contact Us</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/about/careers">Careers</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/about/loan-centers-/-offices">Loan Centers / Offices</a>
+        
+      </li><li class="menu-external">
+        <a href="https://www.bankofhope.com/assets/files/ojShF6pb" target="_blank" class="external">Recent Transactions</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/about/branches">Branches</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/about/branch-/-atm-locator">Branch / ATM Locator</a>
+        
+      </li>
+          </ul>
+      </li>
+                     </ul>
+    </div>
+  </div>
+</nav>
+<section class="nav-toggles" aria-label="Access buttons"><!-- Brand and toggle get grouped for better mobile display -->
+  
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+      <span class="sr-only">Open main menu</span>
+      <span class="icon-menu hide-mobile-header"></span>
+      <span class="sprite-menucircle mobile-header-only"></span>
+    </button>
+  </div>
+  <a role="button" href="#search-modal" data-toggle="modal" data-target="#search-modal" class="search-toggle">
+    <span class="sr-only">Open search form</span>
+    <span class="icon-search hide-mobile-header"></span>
+    <span class="sprite-searchcircle mobile-header-only"></span>
+  </a>
+  <a role="button" href="#olb-modal" data-toggle="modal" data-target="#olb-modal" class="olb-toggle mobile-header-only">
+    <span class="sr-only">Open online banking section</span>
+    <span class="sprite-olbcirclelarge"></span>
+  </a>
+  <div class="visible-sticky hide-mobile-header">
+    <span class="divider" aria-hidden="true">/</span> 
+    <a role="button" href="#olb-modal" data-toggle="modal" data-target="#olb-modal" class="olb-toggle">
+      <span class="sr-only">Open online banking section</span>
+      <span class="icon-olb"></span>
+    </a>
+  </div>
+</section>
+	  	</div>
+	</div>
+</header>
+
+  <div id="main">
+   <div role="main">
+    <div class="hero-container hidden-content" style="display: block;">
+      <div class="hero slick-initialized slick-slider"><div aria-live="polite" class="slick-list draggable" style="height: 16px;"><div class="slick-track" style="opacity: 1; width: 1366px;"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 1366px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;"><div><div class="slide" style="width: 100%; display: inline-block;">
+          <div data-content-block="hero1" data-content="content" data-editable="editable" class="hero-img">
+                 <img alt="People playing chess" src="/assets/content/K0D50A3q/2016/10/14/subhead_1.jpg" image-id="p0v6a1fw"> 
+          </div>
+          <div class="hero-overlay"></div>
+        </div></div></div></div></div></div>
+    </div>
+    <div class="subpage-section-2">
+      <div id="scrolldown-anchor"></div>
+      <nav class="container" aria-label="breadcrumbs and page title">
+	<div class="row">
+	    <div class="col-sm-11 col-sm-offset-1">
+	    	<div class="breadcrumbs">
+	    		<a href="/">Home</a> / <span class="page-category hidden-content"></span><span class="page-title">Privacy Notice</span>
+	    	</div>
+	    	<h1 class="page-title">Privacy Notice</h1>
+	    </div>
+	</div>
+</nav>
+    </div>
+
+    <div class="subpage-section-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2">
+            <div data-content-block="bodyCopy" data-content="content" data-editable="editable" class="content">
+                  <p> <img alt="PDF icon" src="/assets/files/K3wNE7FJ" image-id="K3wNE7FJ"> <a target="_blank" data-disclaimer-id="null" class="" data-link-type-id="file" data-link-id="" href="/assets/files/FrtSMPI7">Print Version(PDF)</a></p><div class="small"> Documents in Portable Document Format (PDF) require Adobe Acrobat Reader 5.0 or higher to view, <a href="http://get.adobe.com/reader/" title="External Link" class="external">download Adobe® Acrobat Reader.</a></div><p style="text-align: right;"> Rev. 08/2016</p><table class="table-privacy facts"> <caption class="sr-only">Privacy notice about how Bank of Hope collect, use, and protect personal information</caption> <thead> <tr> <th scope="row" class="width20"> Facts </th> <td> What does <strong>Bank of Hope</strong> <br> do with your personal information? </td> </tr> </thead> <tbody> <tr> <th scope="row"> Why? </th> <td> Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. <br> </td> </tr> <tr> <th scope="row"> What? </th> <td> The types of personal information we collect and share depend on the product or service you have with us. This information can include: <br> <ul> <li class="big"> Social Security number and income </li> <li class="big"> Account balances and account transactions </li> <li class="big"> Payment history and transaction history </li> </ul> When you are no longer our customer, we continue to share your information as described in this notice. <br> </td> </tr> <tr> <th scope="row"> How? </th> <td> All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Bank of Hope chooses to share; and whether you can limit this sharing. <br> </td> </tr> </tbody></table><p></p><table class="table-privacy personal-info"> <thead> <tr> <th scope="col" class="width60"> Reasons we can share your personal information </th> <th scope="col" class="width20"> Does Bank of Hope share? </th> <th scope="col" class="width20"> Can you limit this sharing? </th> </tr> </thead> <tbody> <tr> <th scope="row"> <p> <strong> For our everyday business purposes — </strong> <br> such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus </p> </th> <td> Yes </td> <td> No </td> </tr> <tr> <th scope="row"> <p> <strong> For our marketing purposes— </strong> <br> to offer our products and services to you </p> </th> <td> Yes </td> <td> No </td> </tr> <tr> <th scope="row"> <p> <strong> For joint marketing with other financial companies </strong> </p> </th> <td> No </td> <td> We don't share </td> </tr> <tr> <th scope="row"> <p> <strong> For our affiliates’ everyday business purposes— </strong> <br> information about your transactions and experiences </p> </th> <td> Yes </td> <td> No </td> </tr> <tr> <th scope="row"> <p> <strong> For our affiliates’ everyday business purposes— </strong> <br> information about your creditworthiness </p> </th> <td> No </td> <td> We don't share </td> </tr> <tr> <th scope="row"> <p> <strong> For nonaffiliates to market to you </strong> </p> </th> <td> No </td> <td> We don't share </td> </tr> </tbody></table><p></p><table class="table-privacy questions"> <tbody> <tr> <th scope="row" class="width20"> Questions? </th> <td> Call - 888.811.6272 <br> </td> </tr> </tbody></table><p></p><table class="table-privacy who-what"> <thead> <tr> <th colspan="2" scope="col"> Who we are </th> </tr> </thead> <tbody> <tr> <th scope="row" class="width40"> Who is providing this notice? </th> <td> BANK OF HOPE </td> </tr> </tbody></table><p></p><table class="table-privacy who-what"> <thead> <tr> <th colspan="2" scope="col"> What we do </th> </tr> </thead> <tbody> <tr> <th scope="row" class="width40"> How does <strong>Bank of Hope</strong> protect my personal information? </th> <td> To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. </td> </tr> <tr> <th scope="row"> How does <strong>Bank of Hope</strong> collect my personal information? </th> <td> We collect your personal information, for example, when you <ul> <li> open an account or deposit money </li> <li> pay your bills or apply for a loan </li> <li> use your credit or debit card </li> </ul> We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. </td> </tr> <tr> <th scope="row"> Why can’t I limit all sharing? </th> <td> Federal law gives you the right to limit only <ul> <li> sharing for affiliates’ everyday business purposes — information about your creditworthiness </li> <li> affiliates from using your information to market to you </li> <li> sharing for nonaffiliates to market to you </li> </ul> State laws and individual companies may give you additional rights to limit sharing. </td> </tr> </tbody></table><p></p><table class="table-privacy definitions"> <thead> <tr> <th colspan="2" scope="col"> Definitions </th> </tr> </thead> <tbody> <tr> <th scope="row" class="width40"> Affiliates </th> <td> Companies related by common ownership or control. They can be financial and nonfinancial companies. <ul> <li> <em><strong>Bank of Hope does not share with our affiliates</strong></em> </li> </ul> </td> </tr> <tr> <th scope="row"> Nonaffiliates </th> <td> Companies not related by common ownership or control. They can be financial and nonfinancial companies. <ul> <li> <em><strong>Bank of Hope does not share with nonaffiliates so they can market to you</strong></em> </li> </ul> </td> </tr> <tr> <th scope="row"> Joint marketing </th> <td> A formal agreement between nonaffiliated financial companies that together market financial products or services to you. <ul> <li> <em><strong>Bank of Hope doesn’t jointly market</strong></em> </li> </ul> </td> </tr> </tbody></table><p></p><table class="table-privacy definitions"> <thead> <tr> <th scope="col"> Other important information </th> </tr> </thead> <tbody> <tr> <td> <p> <strong> Illinois Residents: </strong> This policy applies to business and consumer information collected by Bank of Hope. </p> </td> </tr> </tbody></table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+   </div>
+   <footer>
+  <div class="footer">
+    <div class="footercurve-container">
+      <img src="/assets/img/footerbg.png" class="footercurve" alt="">
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2 col-md-offset-2 col-md-push-8 col-sm-2 col-sm-offset-1 col-sm-push-9 col-xs-2 col-xs-offset-0 col-xs-push-10 col-650-12">
+          <div class="scrolltop-container">
+            <a href="#logo" id="scrollTop" title="Return to the top">
+              <span class="sr-only">Return to the top</span>
+              <span class="sprite-scrolltop" aria-hidden="true"></span>
+            </a>
+          </div>
+        </div>
+        <nav class="col-md-8 col-md-pull-4 col-sm-9 col-sm-pull-3 col-xs-10 col-xs-pull-2 col-650-12" aria-label="Personal footer menu">
+          <ul class="banno-menu menu-b315d470-8665-11e6-a5a3-005056a30020">
+                       <li class="dropdown menu-group">
+        <span role="link" aria-expanded="false" class="group-item dropdown-toggle" tabindex="0" data-toggle="dropdown">Helpful Links</span>
+        <ul class="dropdown-menu">
+            <li class="menu-internal">
+        <a href="/personal/about/branch-/-atm-locator">Branch / ATM Locator</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/about/contact-us">Contact Us</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/about/careers">Careers</a>
+        
+      </li><li class="menu-internal">
+        <a href="/nmls">NMLS Information</a>
+        
+      </li><li class="menu-internal">
+        <a href="/personal/banking/financial-calculators">Financial Calculators</a>
+        
+      </li><li class="menu-external">
+        <a href="http://get.adobe.com/reader/" target="_blank" class="external">Download a PDF Reader</a>
+        
+      </li>
+          </ul>
+      </li><li class="dropdown menu-group">
+        <span role="link" aria-expanded="false" class="group-item dropdown-toggle" tabindex="0" data-toggle="dropdown">Privacy Info</span>
+        <ul class="dropdown-menu">
+            <li class="menu-internal">
+        <a href="/privacy-notice">Privacy Notice</a>
+        
+      </li><li class="menu-internal">
+        <a href="/online-privacy">Online Privacy</a>
+        
+      </li><li class="menu-internal">
+        <a href="/accessibility-statement">Accessibility Statement</a>
+        
+      </li>
+          </ul>
+      </li><li class="dropdown menu-group">
+        <span role="link" aria-expanded="false" class="group-item dropdown-toggle" tabindex="0" data-toggle="dropdown">Protect Yourself</span>
+        <ul class="dropdown-menu">
+            <li class="menu-internal">
+        <a href="/learn-about-online-security">Learn About Online Security</a>
+        
+      </li><li class="menu-internal">
+        <a href="/credit-card-agreements">Credit Card Agreements</a>
+        
+      </li><li class="menu-internal">
+        <a href="/home-ownership-disclosure">Home Ownership Disclosure</a>
+        
+      </li><li class="menu-internal">
+        <a href="/regulation-gg">Regulation GG</a>
+        
+      </li><li class="menu-internal">
+        <a href="/website-terms-of-use">Website Terms of Use </a>
+        
+      </li>
+          </ul>
+      </li>
+                     </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <span class="compliance" aria-label="government agencies">
+        <span class="fdic">Member<abbr class="sr-only" title="Federal Deposit Insurance Corporation"> FDIC</abbr> <span class="icon-fdic"></span></span> 
+        <span class="divider">/</span> 
+        <span class="ehl">Equal Housing Lender <span class="icon-ehl"></span></span> 
+        <span class="divider">/</span> 
+      </span>
+      <span class="copyright" aria-label="copyright information">
+        ©<span class="copy-year"></span><span class="bank-name"> Bank of Hope.</span>
+      </span>
+    </div>
+  </div>
+</footer>
+  </div>
+
+      <script src="/assets/js/jquery-1.10.1.min.js"></script>
+<script defer="" src="/assets/js/script.min.js"></script>
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78349661-48', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  <section class="modal fade" id="search-modal" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="search-modalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="container" id="search-modalLabel">
+          Search
+          <button type="button" class="close pull-right" data-dismiss="modal" aria-label="Close">
+            <span class="sr-only">Close search form</span>
+            <span class="sprite-closemodal"></span>
+          </button>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="container" role="search">
+          <form method="GET" action="/search" class="search-form" name="q">
+            <div class="form-group">
+              <div class="form-intro" aria-hidden="true">
+                <span class="icon-search"></span>
+                <span class="divider">/</span>
+              </div>
+              <label for="search-site" class="sr-only" aria-label="Enter search terms">Search</label>
+              <input name="q" type="search" id="search-site" class="form-control" placeholder="What can we help you locate?" required="">
+            </div>
+            <button type="submit" name="Submit" class="btn btn-large btn-inverse" aria-label="Submit your search request">Search</button>
+          </form>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <div class="container">
+          <p>
+            Customer Support <br>
+            <a href="tel:+18888116272" class="tel">888-811-6272</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="modal fade" id="olb-modal" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="olb-modal-header">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="container">
+          <h2 class="olb-header" id="olb-modal-header">Online Banking<span class="sr-only"> modal</span></h2>
+          <button type="button" class="close pull-right" data-dismiss="modal" aria-label="Close">
+            <span class="sr-only">Close online banking section</span>
+            <span class="sprite-closemodal"></span>
+          </button>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="container">
+          
+<div class="olb">
+  <span class="sprite-olbcircle"></span>
+  <hr>
+  <form class="olb-form" method="post" action="https://secure.bankofhope.com/Login.aspx" autocomplete="off">
+    <fieldset class="form-group">
+      <legend class="sr-only">Online Banking services</legend>
+      <label for="select-one" class="sr-only">Select a service to log into</label>
+      <select class="form-control" id="select-one" aria-controls="logins-modal-container">
+        <option value="Online Banking" id="polb-label-modal" selected="">Online Banking</option>
+        <option value="eCorp Banking" id="eolb-label-modal">eCorp Banking</option>
+        <option value="Business Banking" id="bolb-label-modal">Business Banking</option>
+        <option value="Remote Deposit" id="rd-label-modal">Remote Deposit</option>
+        <option value="Credit Card" id="cc-label-modal">Credit Card</option>
+        <option value="Mortgage" id="mort-label-modal">Mortgage</option>
+        <option value="Trade Services" id="ts-label-modal">Trade Services</option>
+        <option value="Wealth Management" id="wm-label-modal">Wealth Management</option>
+      </select>
+    </fieldset>
+    <div id="logins-modal-container" aria-live="polite" aria-relevant="text additions">
+      <fieldset class="bbcn-olb" aria-hidden="false">
+                <input type="hidden" name="remoteLogin" value="true">
+                <legend class="sr-only">Online Banking</legend>
+                <div class="form-group">
+                  <label for="username" class="sr-only">Login ID</label>
+                  <input id="username" class="username form-control" type="text" name="LoginName" placeholder="Login ID" required="" autocomplete="off">
+                </div>
+                <div class="form-group">
+                  <label for="password" class="sr-only">Password</label>
+                  <input type="password" class="form-control" id="password" name="Password" placeholder="Password" required="" autocomplete="off">
+                </div>
+      </fieldset>
+      <div class="form-group">
+        <button type="submit" class="btn btn-default">LOGIN</button>
+      </div>
+      <nav class="olb-links" aria-hidden="false" aria-label="Online Banking additional links">
+        <a href="https://secure.bankofhope.com/RegistrationDisclosure.aspx" aria-labelledby="polb-label-modal" target="_self" class="external">Enroll</a> <span aria-hidden="true">/</span> <a href="/learn-about-online-security" aria-labelledby="polb-label-modal">Security</a><br>
+        <a href="/personal/help" aria-labelledby="polb-label-modal">User ID &amp; Password Help</a>
+      </nav>
+      <nav class="business-login-links hide" aria-hidden="true" aria-label="Business Banking additional links">
+        <a href="/business/enroll" aria-labelledby="bolb-label-modal">Enroll</a> <span aria-hidden="true">/</span><a href="/learn-about-online-security" aria-labelledby="bolb-label-modal">Security</a><br>
+        <a href="/business/help" aria-labelledby="bolb-label-modal">User ID &amp; Password Help</a>
+      </nav>
+    </div>
+
+  </form>
+</div>
+
+        </div>
+      </div>
+      <div class="modal-footer">
+        <div class="container">
+          <p>
+            Customer Support <br>
+            <a href="tel:+18888116272" class="tel">888-811-6272</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <div class="menu-backdrop"></div>
+
+
+
+
+<script src="/assets/target/disclaimers.js" id="disclaimerscript" defer="defer" proceed="Proceed" cancel="Cancel"></script>
+          
+        
+            <script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_49154.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script></body></html>
