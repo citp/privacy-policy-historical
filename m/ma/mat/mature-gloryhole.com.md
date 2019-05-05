@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mature-gloryhole.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020042233id_/http%3A//www.mature.nl/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mature-gloryhole.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505055157id_/http%3A//www.mature.nl/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Problem Master BV
 
