@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medianigeria.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031211536id_/http%3A//www.medianigeria.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medianigeria.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505042007id_/https%3A//www.medianigeria.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Media Nigeria
 
