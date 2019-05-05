@@ -1,175 +1,73 @@
-> *The following text is extracted and transformed from the abof.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612162304id_/http%3A//abof.custhelp.com/app/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abof.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506011825id_/https%3A//www.abof.com/content/privacy-policy-13%3Fsource%3Dfooter) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-##### PRIVACY POLICY
+abof.com ("Site") is an online portal of Madura Fashion & Lifestyle A Division of Aditya Birla Fashion & Retail Limited formally known as Pantaloons Fashion & Retail Limited Bangalore, Karnataka, India - 560068. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
 
-_Capitalized terms used under this Privacy Policy and not defined herein shall have the same meaning as ascribed thereto under the Terms and Conditions of Use_
+If you have any comments or suggestions, we would be pleased to receive them at our Bangalore address or by emailing us at [happytohelp@abof.com](https://web.archive.org/web/20190506011825id_/https%3A//www.abof.com/content/happytohelp@abof.com)
 
-Abof through its Website/Mobile Application, is extremely proud of its commitment to protect your privacy. We value your trust in us. We have adopted the following Privacy Policy, which is applicable to all Personal Information that you provide to abof through the Website/Mobile Application, either directly or which we get from your use of our Services.
+Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
 
-You acknowledge that you are disclosing Personal Information voluntarily. Prior to the completion of any registration process on the Website/Mobile Application or prior to availing of any Services offered if you wish not to disclose any Personal Information you may refrain from doing so; however if you don't provide the Personal Information that is requested it is possible that the registration process would be incomplete and/or you would not be able to avail of the Services.
+We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.
 
-This Privacy Policy does not apply to any Personal Information that you may provide to third parties, such as through other Linked Sites. Please be aware that if you choose to visit such third party sites, you should contact such third parties directly to determine their respective privacy policies because that third party's privacy policy, and not this Privacy Policy, will govern your activities and any personally identifiable information you disclose while visiting the third party site.
+You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
-abof expressly reserves at its sole discretion the right to change this Privacy Policy periodically in the future without prior notice to the Users. User shall review our Privacy Policy available at the Website/Mobile Application regularly to be sure you are fully current with our practices and procedures in this area. Your continued use of the Website/Mobile Application will be subject to the then-current Privacy Policy.
+## Data that we collect
 
-The following discloses our information gathering and dissemination practices for the Website/Mobile Application:
+We may collect various information if you seek to place an order for a product to us on the Site.
 
-###### Overview
+We collect, store and process your data for processing your purchase on the Site and any possible later claims, and to provide you with our services. We may collect your title, name, gender, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details.
 
-We respect and are committed towards protecting your privacy. As part of the normal operation of the Website/Mobile Application, we collect and, in some cases, may disclose Personal Information about you. This Privacy Policy describes the Personal Information we collect about you and what may happen to that Personal Information.
+We need this information in order to allow you to go ahead with placing your order for a product on the Site. We may use that data to process payment for the product and deliver the product to you. We also use that data to inform you when the product is about to be delivered.
 
-By accepting this Privacy Policy and our Terms, you expressly consent to our use and disclosure of your Personal Information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into the Terms and subject to the terms of the Terms, governs all use of the Website/Mobile Application.
+We may pass your name, phone number, email id and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier).
 
-In the course of registering for and availing various Services we provide from time to time through our Website/Mobile Application, we may collect your title, name, gender, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details, service usage, log information, IP Address, data collected through cookies and other personally identifiable information (collectively "Personal Information") through the Website/Mobile Application. We may seek additional information for new services that may be offered by us from time to time. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website/Mobile Application, we may collect such information into a file specific to you, and it shall also form a part of your Personal Information. Your Personal Information will not be posted in areas of the Website/Mobile Application viewable by the public or other users of the Website/Mobile Application.
+We may also share your data with our franchisor, if any. You further authorise such franchisor to use this information to sell products to you, directly or indirectly.
 
-###### Our Use of Your Personal Information
+We may also use your data in order to manage the Site, collect payment from you, enable you to subsequently use parts of the Site, detect any fraud or Site abuses, send you information relevant to the Site or our products, and in case we have any queries. Payments that you make through the Site will be processed by our company Madura Fashion & Lifestyle A Division of Aditya Birla Fashion & Retail Limited, a company registered in India.
 
-Our primary goal in collecting personally identifiable information is to provide you with a smooth, efficient and customized experience. The Personal Information is used for two general purposes: to process your order, and to provide you with the best possible services. This allows us to provide services and features that are most likely to meet your needs, and to customize the Website/Mobile Application and our Services to make your experience easier.
+You may receive phone calls from us, our franchisor or our third party associates in relation to providing services to you.
 
-###### Our Disclosure of Your Personal Information
+You must only submit to us or our agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes immediately.
 
-Due to the existing regulatory environment, we cannot ensure that all of your Personal Information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be required to disclose your Personal Information to the government, law enforcement agencies, or third parties under certain circumstances; third parties may unlawfully intercept or access transmissions or private communications; or users or authorized users may independently abuse or misuse your information that they collect from the Website/Mobile Application in violation of our Website's/Mobile Application's Privacy Policy and Terms of Use. Therefore, although we use industry standard information security practices to protect your privacy, we do not promise, and you should not expect, that your Personal Information will always remain private.
+Your actual order details may be stored with us and you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless such misuse is our fault.
 
-As a matter of policy, we do not sell or rent any Personally Information about you to any third party. However, the following describes some of the ways that your Personally Information may be disclosed. 
+Subject to the terms of this Privacy Policy, we shall not share any of your personal information with third parties without your explicit consent. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and your information is one of our most important assets. We store and process your information on computers located in India that are protected by physical as well as technological security devices. We use independent agencies to verify and certify our privacy principles. If you object to your information being transferred or used in this way please do not use the Site.
 
-**Advertisers:** We may aggregate (gather data across all Users) Personal Information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally.
+We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure.
 
-**Other Corporate Entities:** We may sometimes share data with our affiliates, subsidiaries, joint ventures and third party service providers that provide us with services and/or provide you with services. We use third-party service providers to process purchases you make and to monitor our Users' interests. To the extent that these entities have access to your Personal Information, we will ask them to treat it at least as protectively as they treat personally identifiable information they obtain from their other users or members. Our affiliates, subsidiaries, and joint ventures will follow privacy practices no less protective of all users and members than our practices described in this document, to the extent allowed by applicable law. It is possible that abof, its subsidiaries, affiliates, joint ventures or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that abof would share some or all of your Personal Information in order to continue to maintain and provide access to the Website/Mobile Application.
+## Credit Check and Fraud Prevention
 
-**Legal Requests:** abof co-operates with law enforcement inquiries, as well as other third parties to enforce laws relating to matters, such as intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any Personal Information about you to law enforcement and other government officials as we, in our sole discretion, believe reasonably necessary or appropriate, in connection with any investigation.
+We use standard and authorized payment services of reputed companies and our Credit Check and Fraud Prevention policies are aligned to the policies of these companies. All disputes would be subject to the jurisdiction of courts at Bangalore.
 
-###### DATA RETENTION POLICY
+## Other uses of your personal information
 
-We will retain data for as long as you use the Mobile Application and it would continue for a reasonable time thereafter. Please note that some or all of the provided data may be required in order for the Mobile Application to function properly. If you wish to stop us from collecting any personal Information or other data, you may uninstall the Mobile Application.
+We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, SMS updates, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the “unsubscribe” link in any email that we send to you or follow the unsubscription process as detailed in the SMS. Kindly note that unsubscribing from one medium does not automatically lead to unsubscription from the other. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in India) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.
 
-###### Transfer of Personally Identifiable Information
+## Competitions
 
-The Personal Information that we collect from you may be transferred to and stored at locations that are outside the territory of India. It may also be processed by staff operating outside the territory of India, who work for or are engaged by abof.
+For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.
 
-Since the transmission of any information across the internet is not completely secure, we have implemented strong security measures and will do our best to protect your Personal Information. That being said, we cannot ensure 100% security and any transmission is at your own risk.
+## Third Parties and Links
 
-###### Changing Your Personally Identifiable Information
+We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
 
-abof gives you the ability to edit your Personal Information and preferences at any time. You have the right to refuse any marketing email from us in the future. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. We will, however, retain in our files and databases Personal Information you have requested to remove in order to use it in some circumstances, such as to resolve disputes, troubleshoot problems, and enforce our Terms and Conditions of Use. Further, such prior Personal Information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. Therefore, you should not expect that all of your Personal Information will be completely removed from our databases in response to your requests.
+## Cookies
 
-###### YOUR CONSENT
+The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the some functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go tohttp://www.allaboutcookies.org or to find out about removing them from your browser, go to http://www.allaboutcookies.org/manage-cookies/index.html.
 
-By using the Website/ Mobile Application and by providing your information, you consent to the collection and use of the information in accordance with this Policy, including your consent to share the information.
+The Site uses technology from Google Analytics through which data is collected and stored for marketing and optimization purposes and data use profiles are prepared under a pseudonym. Cookies may be used for these purposes. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this Site and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.
 
-###### Cookies
+## Security
 
-Cookies are small and unique information identifiers that we send to your computer, mobile, tablet or other devices when you visit the Website. This enables us to recognize your profile and your device on future visits and provide to you customized features. These identifiers assist us in remembering your preferences and chosen items, hence, enhancing your Website browsing experience and trying to ensure that the ads and offers you see are personalized to your shopping behavior. The Website also uses technologies like Google Analytics which works on the data collected and stored through cookies and other identifiers for marketing and site optimization purposes.
+We have in place appropriate technical and security measures to prevent unauthorised or unlawful access to or accidental loss or destruction of or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. When we collect payment card details electronically, we use encryption by using Secure Socket Layer (SSL) coding. Whilst we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details. You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorised access to your password and to your computer.
 
-The acceptance of cookies is not mandatory for visiting the Website. Nevertheless, we would like to point out that many of the Website's features and functionalities are only possible with the activation of cookies. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. If you do leave cookies turned on, be sure to sign off when you finish using a shared computer.
+## Consent
 
-###### Security
+By submitting data to us or our agent or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy.
 
-abof uses reasonable security measures to safeguard the confidentiality of your Personal Information, such as firewalls, Transport Layer Security (TLS), and other physical and electronic security measures. However, you agree and acknowledge that "perfect security" does not exist on the Internet.
+## Copyright
 
-###### Mobile Privacy
+We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.
 
-We may offer you the ability for you to connect with the Website or use our Mobile Application, Services, and tools using a mobile device, either through a mobile application or via a mobile optimized Website. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices. This Privacy Policy will be referenced by all such mobile applications or mobile optimized Websites.
-
-###### Questions and Grievances
-
-If you have any questions or grievances about our privacy practices, please feel free to contact us at: [Customer Service](https://abof.custhelp.com/)
-
-###### GRIEVANCE OFFICER
-
-In accordance withInformation Technology (Reasonable Security Practices and Procedures and sensitive personal data or information) Rules, 2011 the name and contact details of Grievance Officer are provided below:
-
-**Name:** Dr. Pragnya Ram
-
-**Address:** Aditya Birla Management Corporation Pvt. Ltd., Aditya Birla Centre, S. K. Ahire Marg, Worli, Mumbai 400030.
-
-**Email Id:**[ pragnya.ram@adityabirla.com](mailto:pragnya.ram@adityabirla.com)
-
-**Phone No:** +91-22-24995000
-
-##### PRIVACY POLICY
-
-_Capitalized terms used under this Privacy Policy and not defined herein shall have the same meaning as ascribed thereto under the Terms and Conditions of Use_
-
-Abof through its Website/Mobile Application, is extremely proud of its commitment to protect your privacy. We value your trust in us. We have adopted the following Privacy Policy, which is applicable to all Personal Information that you provide to abof through the Website/Mobile Application, either directly or which we get from your use of our Services.
-
-You acknowledge that you are disclosing Personal Information voluntarily. Prior to the completion of any registration process on the Website/Mobile Application or prior to availing of any Services offered if you wish not to disclose any Personal Information you may refrain from doing so; however if you don't provide the Personal Information that is requested it is possible that the registration process would be incomplete and/or you would not be able to avail of the Services.
-
-This Privacy Policy does not apply to any Personal Information that you may provide to third parties, such as through other Linked Sites. Please be aware that if you choose to visit such third party sites, you should contact such third parties directly to determine their respective privacy policies because that third party's privacy policy, and not this Privacy Policy, will govern your activities and any personally identifiable information you disclose while visiting the third party site.
-
-abof expressly reserves at its sole discretion the right to change this Privacy Policy periodically in the future without prior notice to the Users. User shall review our Privacy Policy available at the Website/Mobile Application regularly to be sure you are fully current with our practices and procedures in this area. Your continued use of the Website/Mobile Application will be subject to the then-current Privacy Policy.
-
-The following discloses our information gathering and dissemination practices for the Website/Mobile Application:
-
-###### Overview
-
-We respect and are committed towards protecting your privacy. As part of the normal operation of the Website/Mobile Application, we collect and, in some cases, may disclose Personal Information about you. This Privacy Policy describes the Personal Information we collect about you and what may happen to that Personal Information.
-
-By accepting this Privacy Policy and our Terms, you expressly consent to our use and disclosure of your Personal Information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into the Terms and subject to the terms of the Terms, governs all use of the Website/Mobile Application.
-
-In the course of registering for and availing various Services we provide from time to time through our Website/Mobile Application, we may collect your title, name, gender, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details, service usage, log information, IP Address, data collected through cookies and other personally identifiable information (collectively "Personal Information") through the Website/Mobile Application. We may seek additional information for new services that may be offered by us from time to time. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website/Mobile Application, we may collect such information into a file specific to you, and it shall also form a part of your Personal Information. Your Personal Information will not be posted in areas of the Website/Mobile Application viewable by the public or other users of the Website/Mobile Application.
-
-###### Our Use of Your Personal Information
-
-Our primary goal in collecting personally identifiable information is to provide you with a smooth, efficient and customized experience. The Personal Information is used for two general purposes: to process your order, and to provide you with the best possible services. This allows us to provide services and features that are most likely to meet your needs, and to customize the Website/Mobile Application and our Services to make your experience easier.
-
-###### Our Disclosure of Your Personal Information
-
-Due to the existing regulatory environment, we cannot ensure that all of your Personal Information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be required to disclose your Personal Information to the government, law enforcement agencies, or third parties under certain circumstances; third parties may unlawfully intercept or access transmissions or private communications; or users or authorized users may independently abuse or misuse your information that they collect from the Website/Mobile Application in violation of our Website's/Mobile Application's Privacy Policy and Terms of Use. Therefore, although we use industry standard information security practices to protect your privacy, we do not promise, and you should not expect, that your Personal Information will always remain private.
-
-As a matter of policy, we do not sell or rent any Personally Information about you to any third party. However, the following describes some of the ways that your Personally Information may be disclosed. 
-
-**Advertisers:** We may aggregate (gather data across all Users) Personal Information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally.
-
-**Other Corporate Entities:** We may sometimes share data with our affiliates, subsidiaries, joint ventures and third party service providers that provide us with services and/or provide you with services. We use third-party service providers to process purchases you make and to monitor our Users' interests. To the extent that these entities have access to your Personal Information, we will ask them to treat it at least as protectively as they treat personally identifiable information they obtain from their other users or members. Our affiliates, subsidiaries, and joint ventures will follow privacy practices no less protective of all users and members than our practices described in this document, to the extent allowed by applicable law. It is possible that abof, its subsidiaries, affiliates, joint ventures or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that abof would share some or all of your Personal Information in order to continue to maintain and provide access to the Website/Mobile Application.
-
-**Legal Requests:** abof co-operates with law enforcement inquiries, as well as other third parties to enforce laws relating to matters, such as intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any Personal Information about you to law enforcement and other government officials as we, in our sole discretion, believe reasonably necessary or appropriate, in connection with any investigation.
-
-###### DATA RETENTION POLICY
-
-We will retain data for as long as you use the Mobile Application and it would continue for a reasonable time thereafter. Please note that some or all of the provided data may be required in order for the Mobile Application to function properly. If you wish to stop us from collecting any personal Information or other data, you may uninstall the Mobile Application.
-
-###### Transfer of Personally Identifiable Information
-
-The Personal Information that we collect from you may be transferred to and stored at locations that are outside the territory of India. It may also be processed by staff operating outside the territory of India, who work for or are engaged by abof.
-
-Since the transmission of any information across the internet is not completely secure, we have implemented strong security measures and will do our best to protect your Personal Information. That being said, we cannot ensure 100% security and any transmission is at your own risk.
-
-###### Changing Your Personally Identifiable Information
-
-abof gives you the ability to edit your Personal Information and preferences at any time. You have the right to refuse any marketing email from us in the future. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. We will, however, retain in our files and databases Personal Information you have requested to remove in order to use it in some circumstances, such as to resolve disputes, troubleshoot problems, and enforce our Terms and Conditions of Use. Further, such prior Personal Information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. Therefore, you should not expect that all of your Personal Information will be completely removed from our databases in response to your requests.
-
-###### YOUR CONSENT
-
-By using the Website/ Mobile Application and by providing your information, you consent to the collection and use of the information in accordance with this Policy, including your consent to share the information.
-
-###### Cookies
-
-Cookies are small and unique information identifiers that we send to your computer, mobile, tablet or other devices when you visit the Website. This enables us to recognize your profile and your device on future visits and provide to you customized features. These identifiers assist us in remembering your preferences and chosen items, hence, enhancing your Website browsing experience and trying to ensure that the ads and offers you see are personalized to your shopping behavior. The Website also uses technologies like Google Analytics which works on the data collected and stored through cookies and other identifiers for marketing and site optimization purposes.
-
-The acceptance of cookies is not mandatory for visiting the Website. Nevertheless, we would like to point out that many of the Website's features and functionalities are only possible with the activation of cookies. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. If you do leave cookies turned on, be sure to sign off when you finish using a shared computer.
-
-###### Security
-
-abof uses reasonable security measures to safeguard the confidentiality of your Personal Information, such as firewalls, Transport Layer Security (TLS), and other physical and electronic security measures. However, you agree and acknowledge that "perfect security" does not exist on the Internet.
-
-###### Mobile Privacy
-
-We may offer you the ability for you to connect with the Website or use our Mobile Application, Services, and tools using a mobile device, either through a mobile application or via a mobile optimized Website. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices. This Privacy Policy will be referenced by all such mobile applications or mobile optimized Websites.
-
-###### Questions and Grievances
-
-If you have any questions or grievances about our privacy practices, please feel free to contact us at: [Customer Service](https://abof.custhelp.com/)
-
-###### GRIEVANCE OFFICER
-
-In accordance withInformation Technology (Reasonable Security Practices and Procedures and sensitive personal data or information) Rules, 2011 the name and contact details of Grievance Officer are provided below:
-
-**Name:** Dr. Pragnya Ram
-
-**Address:** Aditya Birla Management Corporation Pvt. Ltd., Aditya Birla Centre, S. K. Ahire Marg, Worli, Mumbai 400030.
-
-**Email Id:**[ pragnya.ram@adityabirla.com](mailto:pragnya.ram@adityabirla.com)
-
-**Phone No:** +91-22-24995000
+This Privacy Policy can change at any time to include / exclude clauses and abof.com does not bear responsibility for updating users on the same.
