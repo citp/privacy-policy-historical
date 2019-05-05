@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sultan-center.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105182207id_/http%3A//www.sultan-center.com/tsc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sultan-center.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505232744id_/https%3A//www.sultan-center.com/tsc-privacy-policy) for the most accurate reproduction.*
 
 # TSC - Privacy Policy
 
@@ -28,7 +28,7 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-### SECTION II 
+### SECTION II
 
 **CONSENT**
 
@@ -39,7 +39,7 @@ How do you get my consent?
 
 
 
-### SECTION III 
+### SECTION III
 
 **DISCLOSURE**
 
@@ -55,19 +55,19 @@ How do you get my consent?
 
 
 
-### SECTION V 
+### SECTION V
 
 **THIRD - PARTYSERVICES**
 
   * In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
   * However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
-  * For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers. 
+  * For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
   * In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you .So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
   * Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
 
 
-### SECTION VII 
+### SECTION VII
 
 **AGE OF CONSENT**
 
@@ -95,139 +95,29 @@ Our website may contain links to other websites of interest. However, once you h
 
 The table below lists the cookies we collect and what information they store.
 
-COOKIE NAME
-
-| 
-
-COOKIE DESCRIPTION  
-  
+COOKIE NAME | COOKIE DESCRIPTION  
 ---|---  
-  
-CART
-
-| 
-
-The association with your shopping cart.  
-  
-CATEGORY_INFO
-
-| 
-
-Stores the category info on the page, which allows displaying pages more quickly.  
-  
-CUSTOMER
-
-| 
-
-An encrypted version of your customer id with the store.  
-  
-CUSTOMER_AUTH
-
-| 
-
-An indicator if you are currently logged into the store.  
-  
-CUSTOMER_INFO
-
-| 
-
-An encrypted version of the customer group you belong to.  
-  
-CUSTOMER_SEGMENT_IDS
-
-| 
-
-Stores the Customer Segment ID  
-  
-EXTERNAL_NO_CACHE
-
-| 
-
-A flag, which indicates whether caching is disabled or not.  
-  
-FRONTEND
-
-| 
-
-You session ID on the server.  
-  
-GUEST-VIEW
-
-| 
-
-Allows guests to edit their orders.  
-  
-LAST_CATEGORY
-
-| 
-
-The last category you visited.  
-  
-LAST_PRODUCT
-
-| 
-
-The most recent product you have viewed.  
-  
-NO_CACHE
-
-| 
-
-Indicates whether it is allowed to use cache.  
-  
-PERSISTENT_SHOPPING_CART
-
-| 
-
-A link to information about your cart and viewing history if you have asked the site.  
-  
-POLL
-
-| 
-
-The ID of any polls you have recently voted in.  
-  
-POLLN
-
-| 
-
-Information on what polls you have voted on.  
-  
-STF
-
-| 
-
-Information on products you have emailed to friends.  
-  
-STORE
-
-| 
-
-The store view or language you have selected.  
-  
-USER_ALLOWED_SAVE_COOKIE
-
-| 
-
-Indicates whether a customer allowed using cookies.  
-  
-VIEWED_PRODUCT_IDS
-
-| 
-
-The products that you have recently viewed.  
-  
-WISHLIST
-
-| 
-
-An encrypted list of products added to your Wishlist.  
-  
-WISHLIST_CNT
-
-| 
-
-The number of items in your Wishlist.  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, which allows displaying pages more quickly.  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You session ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed using cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.  
   
 **Changes to This Privacy Policy**
 
