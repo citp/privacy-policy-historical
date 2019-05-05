@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitartutee.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102114609id_/http%3A//www.guitartutee.com/gt-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartutee.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505165929id_/http%3A//www.guitartutee.com/gt-news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — GuitarTutee
 
