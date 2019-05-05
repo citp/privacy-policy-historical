@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bigassfans.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010023640id_/http%3A//www.bigasssolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigassfans.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505102608id_/https%3A//www.bigassfans.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Big Ass Solutions
+# Privacy Policy | Big Ass Fans
 
-_Last Updated February 28, 2017_
+_Last Updated March 27, 2019_
 
 ## Recent Updates
 
-Consolidated several internal documents and included the details here to provide more details on how Big Ass Solutions considers customer privacy important.
+Consolidated several internal documents and included the details here to provide more details on how Big Ass Fans considers customer privacy important.
 
   * Added section titled “Information we collect and how we use it”; 
     * Incorporated Web Site Cookie content from previous version;
@@ -28,13 +28,13 @@ Curious about what we do with your data? Well, you’ve come to the right place!
 
 The data collected is gathered using some pretty cool technology, including tools like Google Analytics and reporting from our apps/devices in communication with our cloud servers, aptly dubbed the Big Ass Cloud. Information about your web browser, operating system, pages visited, and more are also gathered through Google Analytics and similar tools. 
 
-If it strikes your fancy, you may choose to provide personal information (such as your name, address, telephone number and email address) on this web site or to Big Ass Solutions via other methods as described below. We also tell you how we may use the information (it’s not to stalk you if that’s what you’re worried about). If you use our Haiku Home SenseME products, we’ll collect and store data from your connected fans and/or devices in accordance with this data privacy policy.
+If it strikes your fancy, you may choose to provide personal information (such as your name, address, telephone number and email address) on this web site or to Big Ass Fans via other methods as described below. We also tell you how we may use the information (it’s not to stalk you if that’s what you’re worried about). If you use our Haiku Home SenseME products, we’ll collect and store data from your connected fans and/or devices in accordance with this data privacy policy.
 
 Here are some of the ways you may provide the information and the types of information you may submit. Kudos to you for giving a damn!
 
 ### Product Registration
 
-When you purchase a product from Big Ass Solutions or register through the SenseME application, we may request a variety of information to allow us to provide better service. And better service means a happier YOU. This information can include your name, address, phone number, email address, product’s model number, serial number and purchase date.
+When you purchase a product from Big Ass Fans or register through the SenseME application, we may request a variety of information to allow us to provide better service. And better service means a happier YOU. This information can include your name, address, phone number, email address, product’s model number, serial number and purchase date.
 
 ### Data from SenseME Products
 
@@ -57,7 +57,7 @@ If you schedule a service call or delivery, make a consumer inquiry, purchase pa
 
 ### Questionnaires and Surveys
 
-We occasionally may ask visitors to our web site and consumers to complete online surveys and opinion polls about their activities, attitudes and interests. You’re a donkey person? Hell yes! These surveys help us serve you better and improve the usefulness of our site. In conducting these surveys we may ask you for your name and email address. But no worries; we do not keep any personal information about you in connection with your participation in a Big Ass Solutions survey unless you specifically agree to provide that information.
+We occasionally may ask visitors to our web site and consumers to complete online surveys and opinion polls about their activities, attitudes and interests. You’re a donkey person? Hell yes! These surveys help us serve you better and improve the usefulness of our site. In conducting these surveys we may ask you for your name and email address. But no worries; we do not keep any personal information about you in connection with your participation in a Big Ass Fans survey unless you specifically agree to provide that information.
 
 ### Information from Third-Party Sources
 
@@ -65,7 +65,7 @@ We may receive information about you from publicly and commercially available so
 
 ### Online Services and Web Browser Tools
 
-Big Ass Solutions® uses a number of online services to enhance web browsers’ experiences while using the websites and to help plan future website services and marketing offers. We believe in giving power to the people. You should know who these services are so you can choose to opt out of them if you wish.
+Big Ass Fans uses a number of online services to enhance web browsers’ experiences while using the websites and to help plan future website services and marketing offers. We believe in giving power to the people. You should know who these services are so you can choose to opt out of them if you wish.
 
 ### Google Analytics
 
@@ -81,7 +81,7 @@ Google Analytics is a web analysis service provided by Google Inc. (“Google”
 
 Google Analytics for Display Advertising is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Adwords advertising network and the Doubleclick Cookie.
 
-  * For the opt-out: <http://google.com/settings/ads/onweb/optout?hl=en>.
+  * For the opt-out: <https://adssettings.google.com/>.
   * Personal Data collected: [Cookie and Usage Data](https://www.google.com/policies/technologies/types/).
   * Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
 
@@ -91,7 +91,7 @@ Google Analytics for Display Advertising is a Remarketing and Behavioral Targeti
 
 AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the activity of this Application with the Adwords advertising network and the Doubleclick Cookie.
 
-  * For the opt-out: <http://google.com/settings/ads/onweb/optout?hl=en>.
+  * For the opt-out: <https://adssettings.google.com/authenticated?hl=en>.
   * Personal Data collected: [Cookie and Usage Data](https://www.google.com/policies/technologies/types/).
   * Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
 
@@ -99,6 +99,7 @@ AdWords Remarketing is a Remarketing and Behavioral Targeting service provided b
 
 ### We use other systems to collect and manage information on our web visitors. This is a list of the tools with links to their data management policies:
 
+  * Salesforce Marketing Cloud: <https://www.salesforce.com/products/marketing-cloud/sfmc/marketing-cloud-anti-spam-policy/>
   * Pardot: <http://www.pardot.com/company/legal/permission-based-marketing-policy/>.
   * Facebook: <https://www.facebook.com/policy.php>.
   * Instagram: <https://instagram.com/about/legal/privacy/>.
@@ -127,19 +128,19 @@ We also may use personal information for other additional purposes, which we ide
 
 ## Information We Share
 
-We share data inside BAS with tools and people who are focused on improving the benefits of our products and services and to learn how to better market and sell. Like how we do things around here? Data from previous customers has helped mold us in to who we are today! The tools used to analyze the data are often developed or hosted by third parties through secure browsing sessions and/or encrypted data. 
+We share data inside Big Ass Fans with tools and people who are focused on improving the benefits of our products and services and to learn how to better market and sell. Like how we do things around here? Data from previous customers has helped mold us in to who we are today! The tools used to analyze the data are often developed or hosted by third parties through secure browsing sessions and/or encrypted data. 
 
 Your data is super duper safe with us. We limit data shared with any third party even if you connect to them through our apps. For example, if you sign up to connect your Haiku SenseME fan with a smart thermostat like Nest or ecobee, then you can rest assured we do not share any data with the thermostat company. We do access your thermostat’s data to provide better thermal comfort and increased energy efficiency. This information is transmitted through secure connections. If you connect Amazon’s Echo with our awesome Haiku SenseMe fans or lights, we share the name you gave the fan with Echo so Alexa knows what you want when you say “Alexa – turn on the fan in **Bobby’s Room**.”
 
-If you choose to have your products installed by BAS or one of our trusted installers, we’ll keep things on lockdown by sharing information about the products you purchased and any specific installation requirements. 
+If you choose to have your products installed by Big Ass Fans or one of our trusted installers, we’ll keep things on lockdown by **not** sharing information about the products you purchased and any specific installation requirements. 
 
-In the event BAS receives a valid legal request, we may be required to share your information with authorities who have jurisdiction to make such requests. 
+In the event Big Ass Fans receives a valid legal request, we may be required to share your information with authorities who have jurisdiction to make such requests. 
 
 ## Information We Transfer
 
 We’re international, baby, so we may transfer the personal information we collect on this site to other countries where we do business, but we will do so only for the purposes described above. When we transfer your information to other countries, we will protect that information as described here unless otherwise required by applicable laws.
 
-If you choose to provide information to us and are located outside the United States of America, please be advised that Big Ass Solutions dba Haiku Home will transfer your personal information to the United States of America and process it there. By submitting your personal information, you consent to this Privacy Policy and consent to such transfer. By using this site or otherwise providing BAS/HH with your personal information, you warrant that you have the right to transfer such information outside your country and into the United States of America.
+If you choose to provide information to us and are located outside the United States of America, please be advised that Big Ass Fans dba Haiku Home will transfer your personal information to the United States of America and process it there. By submitting your personal information, you consent to this Privacy Policy and consent to such transfer. By using this site or otherwise providing Big Ass Fans with your personal information, you warrant that you have the right to transfer such information outside your country and into the United States of America.
 
 ## Links to Other Sites
 
@@ -147,7 +148,7 @@ To keep things running ultra-smooth we provide links to other web sites for your
 
 ## Children's Privacy
 
-We have fans of all ages, but this web site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on Big Ass Solutions web sites. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on a Big Ass Solutions web site, we will delete the information from our records
+We have fans of all ages, but this web site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on Big Ass Fans web sites. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on a Big Ass Fans web site, we will delete the information from our records
 
 ## How We Protect Personal Information
 
@@ -159,10 +160,10 @@ We may update this list from time to time without any notice to the public, so f
 
 ## How to Contact Us
 
-If you have questions about this privacy policy or wish to have your information removed from our storage locations, please contact us ([info@bigasssolutions.com](mailto:info@bigasssolutions.com)). Remember, there’s no such thing as a bad question!
+If you have questions about this privacy policy or wish to have your information removed from our storage locations, please contact us ([info@bigassfans.com](mailto:info@bigassfans.com)). Remember, there’s no such thing as a bad question!
 
-Please note that Big Ass Solutions reserves the right to contact you in the event of a safety or quality-related issue with your registered appliance regardless of your stated privacy preferences.
+Please note that Big Ass Fans reserves the right to contact you in the event of a safety or quality-related issue with your registered appliance regardless of your stated privacy preferences.
 
 ## Notice to California Residents
 
-If you are a resident of the State of California, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Big Ass Solutions to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to [info@bigasssolutions.com](mailto:info@bigasssolutions.com) with “California Privacy Information Request” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
+If you are a resident of the State of California, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Big Ass Fans to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to [info@bigassfans.com](mailto:info@bigassfans.com) with “California Privacy Information Request” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
