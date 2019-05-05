@@ -1,186 +1,105 @@
-> *The following text is extracted and transformed from the travelblogsuccess.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318124809id_/https%3A//travelblogsuccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelblogsuccess.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505032150id_/https%3A//superstarblogging.nomadicmatt.com/privacy-policy) for the most accurate reproduction.*
 
-# TBS Privacy Policy - Travel Blog Success
+# Privacy Policy - Super Star Blogging
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Effective: May 25th, 2018
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+Superstar Blogging, a program by Nomadic Matt, Inc., is committed to protecting your privacy when you visit our Web site. Nomadic Matt, Inc (“The Company”, “we”, “us”, “nomadicmatt.com”) is committed to protecting your privacy when you visit our website, nomadicmatt.com. You can access Nomadicmatt.com and browse our site without disclosing any of your personal data. Nomadicmatt.com does not collect personal information about individuals, such as names and mailing or e-mail addresses unless it is knowingly provided by the individual and he or she has agreed to the terms under which Nomadicmatt.com will use it.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+Please read the Privacy Policy carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by the Privacy Policy. If you do not want to agree to the Privacy Policy, you must not access or use the Website.
 
-**When do we collect information?**
+ **Disclosure of Information**  
+Nomadicmatt.com will not sell, trade, or rent your personal information to others. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. We may use IP addresses to compile and provide aggregate statistics about our visitors, traffic patterns, and administer the site. IP addresses are not linked to personally identifiable information. We collect only the personal data that you may volunteer while using our services. We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form, open a support ticket or enter information on our site.
+ **Our Commitment to Children’s Privacy**  
+Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information at our sites from those we actually know are under 18, and no part of our site is structured to attract anyone under 18. If you are under 18, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-**How do we use your information?**
+If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at matt@nomadicmatt.com.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+ **Information We Collect on You**  
+When you access the Website, the Company will learn certain information about you during your visit. As a business, we collect personal data from you in a number of ways including:
 
-  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
-  * To allow us to better service you in responding to your customer service requests.
-  * To administer a contest, promotion, survey or other site feature.
-  * To quickly process your transactions.
-  * To send periodic emails regarding your order or other products and services.
+(1.) Newsletter optin: Your name and email address.
 
+(2.) Waiting List: Your name and email address.
 
+(3.) Transaction: You name, email address, billing information and payment source.
 
-**How do we protect visitor information?**
+We may use the information collected in the following ways:
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+  * To operate and maintain this Website;
+  * To improve your experience on this Website;
+  * To respond to your comments;
+  * To provide you with user support;
+  * Provide and deliver the information, products and services you request, process transactions and send you related information, including confirmations and receipts;
+  * Send you technical notices, updates, security alerts, and support and administrative messages;;
+  * Communicate with you about products, services, surveys, offers, promotions, rewards and events offered by Company and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests.
 
-We use regular Malware Scanning.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-We implement a variety of security measures when a user places an order to maintain the safety of your personal information.
+ **Cookies**
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+Similar to other commercial websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
 
-**Do we use ‘cookies’?**
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+The Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.
 
-We use cookies to:
+ **Third Party Use of Cookies**
 
-  * Help remember and process the items in the shopping cart.
-  * Understand and save user’s preferences for future visits.
-  * Keep track of advertisements.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
-  * We may also use trusted third party services that track this information on our behalf.
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
+ **Data Protection**
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+We employ commercially reasonable methods to ensure the security of the information you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.??Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information and other sensitive information is never transmitted via email.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+The Company may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-However, you can still place orders.
+For site security purposes and to ensure that this service remains available to all users, the Company uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-**Third Party Disclosure**
+ **VISITORS’ GDPR RIGHTS**  
+If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+We will retain the any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
 
-**Third party links**
+You have the right to seek restrictions on the processing of your data.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+You have the right to object to the processing of your data and the right to the portability of your data.
 
-**Google**
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
 
-Google’s advertising requirements can be summed up by [Google’s Advertising Principles](https://support.google.com/adwordspolicy/answer/1316548?hl=en). They are put in place to provide a positive experience for users.
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
 
-We use Google AdSense Advertising on our website.
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Should you wish to have your information deleted, please email us at matt@nomadicmatt.com and submit a request.
 
-We have implemented the following:
+ **External Web Sites**  
+Please note that nomadicmatt.com contains links to other websites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information.
 
-  * Demographics and Interests Reporting
+This privacy statement applies solely to information collected by Nomadicmatt.com. If you have any questions or concerns about our privacy policy, please contact: matt@nomadicmatt.com
 
+ **Affiliate Disclaimer**  
+Nomadic Matt, Inc has financial relationships with a number of companies mentioned on this website, and nomadicmatt.com may be compensated if you book via the links on this website.
 
+ **Transactional Information**  
+If you purchase products or services from us, we will collect certain information from you, including your name, address, email address, and information about the product or service you are purchasing. Payments are processed by third-party payment processors (e.g., PayPal), so please refer to the applicable processor’s terms and privacy policy for more information about how payment information is processed and stored.
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+ **Changes**  
+We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If we make a change to this policy that, in our sole discretion, is material, we will provide you with additional notice. We encourage you to review the Privacy Policy whenever you access or use our Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. If you continue to use our Services after Privacy Policy changes go into effect, you consent to the revised policy.
 
-Opting out:
+ **CONTACT US**
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+If you have questions or comments regarding the Privacy Policy, you may reach us at:
 
-**California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. Learn more [here](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf).
-
-**According to CalOPPA we agree to the following:**
-
-  * Users can visit our site anonymously.
-  * Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-  * Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
-
-
-
-Users will be notified of any privacy policy changes:
-
-  * On our Privacy Policy Page.
-
-
-
-Users are able to change their personal information:
-
-  * By emailing us.
-  * By logging in to their account.
-  * By chatting with us or sending us a ticket.
-
-
-
-How does our site handle do not track signals?
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-Does our site allow third party behavioral tracking?
-
-It’s also important to note that we allow third party behavioral tracking
-
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email:
-
-  * Within 7 business days.
-
-
-
-We will notify the users via in site notification:
-
-  * Within 7 business days.
-
-
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**
-
-  * Send information, respond to inquiries, and/or other requests or questions.
-  * Process orders and to send information and updates pertaining to orders.
-  * We may also send you additional information related to your product and/or service.
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
-
-
-
-**To be in accordance with CANSPAM we agree to the following:**
-
-  * NOT use false, or misleading subjects or email addresses.
-  * Identify the message as an advertisement in some reasonable way.
-  * Include the physical address of our business or site headquarters.
-  * Monitor third party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly.
-  * Allow users to unsubscribe by using the link at the bottom of each email.
-
-
-
-**If at any time you would like to unsubscribe from receiving future emails, you can:**
-
-  * Follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
-
-
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[support@travelblogsuccess.com](mailto:support@travelblogsuccess.com)
-
-Last Edited on 2016-12-12
+Nomadic Matt, Inc  
+207 E. 9th Street  
+Georgetown, TX 78626
+
+Email Address: matt@nomadicmatt.com
