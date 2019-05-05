@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the science101.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214082635id_/http%3A//www.science101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the science101.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505205735id_/https%3A//www.science101.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Science 101
 
