@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highrisehq.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226022721id_/https%3A//highrisehq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highrisehq.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505163100id_/http%3A//highrisehq.com/privacy) for the most accurate reproduction.*
 
 # Highrise Privacy Policy
 
