@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicepanther.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008005751id_/https%3A//www.practicepanther.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicepanther.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506031257id_/https%3A//www.practicepanther.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • PracticePanther.com
 
@@ -53,10 +53,6 @@ Panther Software, LLC. is concerned about privacy issues and wants you to be fa
 PracticePanther may observe your activities, interactions, preferences, transactional information, and other computer and connection information (such as IP address) relating to your use of our websites and our services. We may also use log files, cookies and similar technologies to collect information about the pages you view, links you click on, and other actions you may take when accessing our websites, services, or emails.
 
 We may use Personal Information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
-
-##### **Privacy Shield for EU Attorneys**
-
-As of September 06, 2016, PracticePanther complies with the Privacy Shield Framework for European attorneys.
 
 ##### **EU General Data Protection Regulation (GDPR)**
 
