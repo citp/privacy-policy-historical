@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flextronics.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227141209id_/https%3A//flex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flextronics.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506025500id_/https%3A//flex.com/privacy-policy) for the most accurate reproduction.*
 
 # | Flex
 
@@ -474,6 +474,12 @@ Google Analytics _ga
 The analytics.js library uses a single cookie named _ga to store a unique client identifier (Client ID), which is a randomly generated number. This ID is used by Google Analytics servers to calculate
 
 visitor, session, and campaign data. We use this information to help improve our Website. [www.flex.com](http://www.flex.com/)  
+  
+Act-on
+
+| 
+
+Act-On uses cookies to collect information about the use of this site. The Act-On Cookie tracks movement through all the sections of Flex's site that are beaconed for marketing information and persists until browser policy time or cache clear. The session cookie gathers the information about the IP address to attach a unique identifier for the user, it does not collect any other personal identification. Although Act-On plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Act-On. Act-On’s ability to use and share information collected by Act-On about your visits to this site is restricted by the Act-On Terms of Use and the Act-On Privacy Policy. You can prevent Act-On from recognizing you on return visits to this site by disabling cookies on your browser.   
   
 Pardot
 
