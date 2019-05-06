@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215151752id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506154349id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | TINYpulse
 
