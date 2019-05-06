@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olivergoehler.co.uk privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021064801id_/http%3A//www.olivergoehler.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivergoehler.co.uk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507014922id_/http%3A//www.olivergoehler.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - OliverGoehler.co.uk
 
@@ -64,4 +64,4 @@ Cheshire, Hyde SK14 1DX admin(at)olivergoehler.co.uk
 
 If you would like further information please contact us at the address above. [](http://www.rhinosupport.com/).
 
-[Home](https://web.archive.org/web/20181021064801id_/http%3A//www.olivergoehler.co.uk/index.html) | [Contact Us](https://web.archive.org/web/20181021064801id_/http%3A//www.olivergoehler.co.uk/contact-us.html) | [Privacy Policy](https://web.archive.org/web/20181021064801id_/http%3A//www.olivergoehler.co.uk/privacy-policy.html) |[Terms of Use](https://web.archive.org/web/20181021064801id_/http%3A//www.olivergoehler.co.uk/terms-of-use.html)
+[Home](https://web.archive.org/web/20190507014922id_/http%3A//www.olivergoehler.co.uk/index.html) | [Contact Us](https://web.archive.org/web/20190507014922id_/http%3A//www.olivergoehler.co.uk/contact-us.html) | [Privacy Policy](https://web.archive.org/web/20190507014922id_/http%3A//www.olivergoehler.co.uk/privacy-policy.html) |[Terms of Use](https://web.archive.org/web/20190507014922id_/http%3A//www.olivergoehler.co.uk/terms-of-use.html)
