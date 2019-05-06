@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youngleak.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233534id_/http%3A//www.youngleak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngleak.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506131029id_/https%3A//www.youngleak.com/privacy) for the most accurate reproduction.*
 
-# privacy - YoungLeak
+# privacy – YoungLeak
 
 This Privacy Policy governs the manner in which YoungLeak collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.youngleak.com](https://www.youngleak.com/) website (“Site”).
 
