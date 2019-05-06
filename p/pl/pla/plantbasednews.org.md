@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plantbasednews.org privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707232902id_/https%3A//www.plantbasednews.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantbasednews.org privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506071040id_/https%3A//www.plantbasednews.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## **What is this Privacy Policy for?**
 
-This privacy policy is for this website [[www.plantbasednews.org](http://www.websitename.co.uk/)] and served by [PLANT BASED NEWS LTD ] and governs the privacy of its users who choose to use it.
+This privacy policy is for this website [www.plantbasednews.org] and served by [PLANT BASED NEWS LTD ] and governs the privacy of its users who choose to use it.
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
@@ -20,7 +20,7 @@ Cookies are small files saved to the user's computers hard drive that track, sav
 
 Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ [http://www.google.com/privacy.html ](http://www.google.com/privacy.html)].
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ http://www.google.com/privacy.html ].
 
 Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
