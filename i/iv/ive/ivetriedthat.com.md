@@ -1,75 +1,49 @@
-> *The following text is extracted and transformed from the ivetriedthat.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024144340id_/http%3A//www.ivetriedthat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivetriedthat.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506060303id_/https%3A//ivetriedthat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | I've Tried That
+# Privacy Policy - ivetriedthat
 
-**What information do we collect?**
+## Who We Are
 
-We collect information from you when you place an order or subscribe to our newsletter.
+At ivetriedthat.com, we are committed to maintaining the trust and confidence of all visitors to our web site. In particular, we want you to know that ivetriedthat.com is not in the business of selling, renting or trading email lists with other companies and businesses for marketing purposes.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
+In this Privacy Policy, we’ve provided detailed information on when and why we collect personal information, how we use it, the limited conditions under which we may disclose it to others, and how we keep it secure.
 
- **What do we use your information for?**
+We take your privacy seriously and take measures to provide all visitors and users of ivetriedthat.com with a safe and secure environment.
 
-Any of the information we collect from you may be used in one of the following ways:
+## Cookies
 
-; To process transactions
+ivetriedthat.com may set and access ivetriedthat.com cookies on your computer. Cookies are used to provide our system with the basic information to provide the services you are requesting. Cookies can be cleared at any time from your internet browser settings.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+## Google Analytics & StatCounter
 
-; To send periodic emails
+When someone visits ivetriedthat.com we use third party services, Google Analytics & StatCounter, to collect standard internet log information and details of visitor behaviour patterns. We do this to track things such as the number of visitors to the various parts of the site and interactions with the site. This information is processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of visitors to our website.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+## Website Comments
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+When someone visits ivetriedthat.com, there may be an ability to submit comments on particular articles or pages. When comments are submitted, you are entitled to use aliases or information that completely hides your identity. When a comment is submitted, the relevant details (name, email, website) that you provide are stored. These details are stored so that we can display your comment back to you, and to anyone viewing the comment sections on the site. We do not verify information entered nor do we require verification.
 
- **How do we protect your information?**
+## Mailing Lists
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+As part of the registration process for our e-newsletter, we collect personal information. We use that information for a couple of reasons: to tell you about stuff you’ve asked us to tell you about; to contact you if we need to obtain or provide additional information; to check our records are right and to check every now and then that you’re happy and satisfied. We do not rent or trade email lists with other organisations, businesses or individuals.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We use a third-party provider, Aweber to deliver our newsletter. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see Aweber’s privacy notice. You can unsubscribe to general mailings at any time of the day or night by clicking the unsubscribe link at the bottom of any of our emails.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+## Display Ads
 
- **Do we use cookies?**
+The Website uses Mediavine to manage all third-party advertising on the Website. Mediavine serves content and advertisements when you visit the Website, which may use cookies. Mediavine may collect IP addresses and location to serve personalized ads. If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit <http://www.networkadvertising.org/managing/opt_out.asp>
 
-We do not use cookies.
+## Third Parties
 
- **Do we disclose any information to outside parties?**
+There may be some circumstances where your IP address, geographic location, and other browser related details may be shared with third party companies. We may share your above mentioned data with following third party companies from time to time.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## Access to Your Personal Information
 
- **Third party links**
+You are entitled to view, amend, or delete the personal information that we hold. Email your request to our data protection officer Steve at steve@ivetriedthat.com and we will work with you to remove any of your personal data we may have.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+## Changes to Our Privacy Policy
 
- **California Online Privacy Protection Act Compliance**
+We may make changes to our Privacy Policy in the future, however, the most current version of the policy will govern our processing of your personal data and will always be available at the following URL:
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+<https://ivetriedthat.com/privacy-policy/>
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://ivetriedthat.com/>
-
-**Your Consent**
-
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-This policy was last modified on 1/24/2011
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-https://ivetriedthat.com  
-Steve@IveTriedThat.com  
-Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
+If we make a change to this policy that, in our sole discretion, is material, we will notify you by an update or email, where possible. By continuing to access or use our services, you agree to be bound to the terms of our Privacy Policy.
