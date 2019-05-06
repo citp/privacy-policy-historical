@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeresult.in privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103065511id_/http%3A//seeresult.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeresult.in privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506213051id_/http%3A//seeresult.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SeeResult.in
 
