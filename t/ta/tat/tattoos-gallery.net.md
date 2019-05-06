@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattoos-gallery.net privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025035959id_/http%3A//www.tattoowise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoos-gallery.net privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506160014id_/http%3A//www.tattoowise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
