@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toppng.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217092151id_/https%3A//toppng.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppng.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507001631id_/https%3A//toppng.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - TOPpng
 
