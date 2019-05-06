@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydailychoice.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230010735id_/http%3A//mydailychoice.com/corp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailychoice.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506205018id_/https%3A//www.mydailychoice.com/corp/privacyPolicy) for the most accurate reproduction.*
 
-# MyDailyChoice :: Privacy Policy
+# MyDailyChoice:: Privacy Policy
 
 MyDailyChoice is committed to customer service and we intend to uphold this by providing a private and secure browsing experience. The following policy will help you to understand how we will treat your personal information. As we continue to improve our site and as we take advantage of developments in technology, this policy may change from time to time so please check this policy on an ongoing basis for revisions and updates.
 
