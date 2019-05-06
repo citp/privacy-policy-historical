@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qlinkwireless.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306093757id_/https%3A//www.qlinkwireless.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qlinkwireless.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506172750id_/https%3A//qlinkwireless.com/privacy.aspx) for the most accurate reproduction.*
 
 # None
 
@@ -24,6 +24,10 @@ Contact Information can consist of:
   * Billing information can include your payment data, credit history, credit card number, Social Security numbers, security codes, and service history.
 
 
+
+## TCPA DISCLOSURE
+
+To ensure that consumer’s inquiries are handled promptly, courteously, and accurately, some of the phone calls between you and us or any of our affiliates, agents, assigns and service providers, may be monitored and recorded by us and any of our affiliates, agents, assigns and service providers, to enhance service to you. You consent to this monitoring and recording. You agree that Q Link may from time to time make calls and/or send text messages to you at any telephone numbers associated with your account, including wireless telephone numbers that could result in charges to you. The manner in which these calls or text messages are made to you may include, but is not limited to, the use of prerecorded/artificial voice messages and/or automatic telephone dialing system. You further agree that Q Link may send e-mails to you at any e-mail address you provide us or use other electronic means of communication to the extent permitted by law. Consent may be revoked at any time and by any reasonable means.
 
 ## Third Party Websites
 
