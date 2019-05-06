@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnearnown.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824194316id_/https%3A//www.learnearnown.com/AboutLEO/PrivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnearnown.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506214950id_/https%3A//www.learnearnown.com/AboutLEO/PrivacyNotice) for the most accurate reproduction.*
 
 # LEO
 
