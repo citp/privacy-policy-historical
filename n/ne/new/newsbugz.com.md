@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsbugz.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208122841id_/https%3A//www.newsbugz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbugz.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506233040id_/https%3A//www.newsbugz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - News Bugz
 
-This Privacy Policy governs the manner in which News Bugz collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.newsbugz.com/> website (“Site”).
+This Privacy Policy governs the manner in which News Bugz collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://www.newsbugz.com/> website (“Site”).
 
 ### Personal identification information
 
@@ -80,11 +80,15 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
 ### Changes to this privacy policy
 
 News Bugz has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### **EZOIC SERVICE PRIVACY POLICY**
+
+newsbugz.com (“Website”) uses a third party technology called Ezoic. Ezoic is committed to protecting your privacy. We will only use the information that we collect lawfully in accordance with the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). <https://g.ezoic.net/privacy/newsbugz.com>
 
 ### Your acceptance of these terms
 
@@ -92,6 +96,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.newsbugz.com/contact-us/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://www.newsbugz.com/contact-us/).
 
 This document was last updated on December 06, 2016
