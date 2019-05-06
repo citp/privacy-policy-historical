@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129105159id_/https%3A//www.mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506110755id_/https%3A//www.mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | MECCA
 
