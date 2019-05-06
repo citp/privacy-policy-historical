@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entireweb.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018113415id_/https%3A//www.entireweb.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entireweb.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506020412id_/https%3A//www.entireweb.com/about/privacy) for the most accurate reproduction.*
 
 # About - Privacy Policy
 
@@ -6,21 +6,27 @@
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.entireweb.com (the “Site”).
 
+  
+
+
 ### PERSONAL INFORMATION WE COLLECT
 
 When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
 We collect Device Information using the following technologies:
 
-  * \- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
-  * \- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
-  * \- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
 
 
 Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information email address, and phone number. We refer to this information as “Order Information.”
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
+
+  
+
 
 ### HOW DO WE USE YOUR PERSONAL INFORMATION?
 
@@ -34,6 +40,11 @@ When in line with the preferences you have shared with us, provide you with info
 
 We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt out, please visit http://www.aboutads.info/choices. To opt-out of the use of your mobile device ID for targeted advertising, please see http://www.aboutads.info/appchoices.
+
+  
+
+
 ### SHARING YOUR PERSONAL INFORMATION
 
 We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
@@ -42,7 +53,7 @@ Finally, we may also share your Personal Information to comply with applicable l
 
 ### BEHAVIOURAL ADVERTISING
 
-As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work. 
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
 You can opt out of targeted advertising by: FACEBOOK - https://www.facebook.com/settings/?tab=ads GOOGLE - https://www.google.com/settings/ads/anonymous BING - https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads 
 
