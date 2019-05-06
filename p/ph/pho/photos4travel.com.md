@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photos4travel.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102162303id_/http%3A//www.photos4travel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos4travel.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506053411id_/http%3A//www.photos4travel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Photos4Travel.Com
 
