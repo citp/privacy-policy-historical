@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nick.co.uk privacy policy that was archived on 2018-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180714061235id_/http%3A//www.nick.co.uk/gsp/international/nick.co.uk/images/Nick_UK_Privacy_Policy_May_2018.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nick.co.uk privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506160300id_/http%3A//www.nick.co.uk/gsp/international/nick.co.uk/images/Nick_UK_Privacy_Policy_May_2018.pdf) for the most accurate reproduction.*
 
 # NICKELODE
 
