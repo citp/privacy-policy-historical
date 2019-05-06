@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklinen.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819183031id_/https%3A//www.brooklinen.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklinen.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506230100id_/https%3A//www.brooklinen.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -79,6 +79,22 @@ When you place an order through the Site, we will maintain your Order Informatio
 ### Changes
 
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+### Accessibility
+
+Please head [here](https://www.brooklinen.com/pages/website-accessibility-notice) to read our latest notice.
+
+### SMS / MMS Mobile Messaging Marketing Program
+
+We respect your privacy. We will only use information you provide through the Program to transmit your mobile messages and respond to you, if necessary. This includes, but is not limited to, sharing information with platform providers, phone companies, and other vendors who assist us in the delivery of mobile messages.  WE DO NOT SELL, RENT, LOAN, TRADE, LEASE, OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE PROGRAM TO ANY THIRD PARTY. Nonetheless, We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property. When you complete forms online or otherwise provide Us information in connection with the Program, you agree to provide accurate, complete, and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If, in Our sole discretion, We believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
+
+California Civil Code Section 1798.83 permits Users of the Program that are California residents to request certain information regarding our disclosure of the information you provide through the Program to third parties for their direct marketing purposes.  To make such a request, please contact us at the following address:
+
+Brooklinen, 81 prospect st, Brooklyn, NY, 11201, United States
+
+Hello@brooklinen.com
+
+This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 
 ### Contact us
 
