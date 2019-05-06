@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904192843id_/https%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506203728id_/https%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pro Tool Reviews
 
+###### Last updated on August 20, 2018
+
 ### **What information do we collect?**
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-Using the Ads Settings, users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. We also collect demographic information from Google Analytic’s Interest-based advertising for statistical use in understanding the makeup of our readership.
+Please refer to our [Cookie Policy](https://www.protoolreviews.com/cookie-policy/) for additional info on how we store information.
 
 ### **What do we use your information for?**
 
@@ -18,8 +14,8 @@ Any of the information we collect from you may be used in one of the following w
 
   * To personalize your experience (your information helps us to better respond to your individual needs)
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+  * To administer a giveaway, promotion, survey, or other site feature
+  * To send periodic emails about our recent content or, on occasion, to provide product information from one of our advertising partners
 
 
 
@@ -27,11 +23,17 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 ### **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-### **Do we use cookies?**
+### **How we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 ### **Do we disclose any information to outside parties?**
 
@@ -39,11 +41,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ### **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 ### **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We, therefore, will not distribute your personal information to outside parties without your consent.
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
@@ -65,10 +67,12 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us online](https://www.protoolreviews.com/contact "Contact PTR") or by mail at.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
 
 Pro Tool Reviews, LLC  
-PO Box 25004  
-Lakeland, FL 33802-5004  
+P.O. Box 7874  
+Lakeland, FL 33807-7874  
 USA  
 privacy -AT- protoolreviews.com
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
