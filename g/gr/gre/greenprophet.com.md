@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenprophet.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510174324id_/http%3A//www.greenprophet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenprophet.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506053936id_/https%3A//www.greenprophet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Green Prophet
 
@@ -20,7 +20,7 @@ How we use collected information
 
 Green Prophet collects and uses Users personal information for the following purposes:
 
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
 – To share your information with third parties  
 We may share or sell information with third parties for marketing or other purposes.  
@@ -70,4 +70,8 @@ Newmarket, Ontario
 L3Y4H8  
 contact@greenprophet.com
 
-This document was last updated on May 09, 2012
+This document was last updated Sept 27, 2017
+
+### Comments
+
+comments
