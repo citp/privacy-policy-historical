@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netcash.co.za privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112164957id_/https%3A//sagepay.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcash.co.za privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506165848id_/https%3A//sagepay.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Protecting Your Privacy | Sage Pay
+# Privacy Policy - SagePay
 
 Sage is committed to the security and privacy of our customer’s data. This Privacy Policy explains our commitment to safeguarding our customers’ data and serves as our agreement with our customers and other parties about our data handling practices. This policy lists the types of data we collect, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
 
