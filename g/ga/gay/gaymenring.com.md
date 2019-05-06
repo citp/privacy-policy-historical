@@ -1,35 +1,69 @@
-> *The following text is extracted and transformed from the gaymenring.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021101522id_/http%3A//www.gaymenring.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaymenring.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506192009id_/http%3A//gaymenring.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy at Gay Men Tube
+# Privacy Policy for gaymenring.com
 
-AE Media Group recognizes that its customers, visitors, users, and others who use Gay Men Ring value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Gay Men Ring site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. 
+##### Introduction
 
-Please note that any video, image, or other content posted at the direction of users onto the Gay Men Ring site becomes published content and is not considered personally identifiable information subject to this privacy notice.
+We collect and process your personal information in accordance with this privacy policy. This policy provides you with information regarding our obligations and your rights in compliance with the General Data Protection Regulation (GDPR).
 
-The Information AE Media Group Collects 
+##### Information That We Collect From You
 
-**User-provided information:** You provide certain personally identifiable information (such as your name and email address) to Gay Men Ring when choosing to participate in various activities on the sites such as uploading videos or posting messages.   
-**Cookies Information:** When you visit the Gay Men Ring site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Gay Men Ring uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Gay Men Ring site may not function properly if the ability to accept cookies is disabled.   
-**Log File Information:** When you use the Gay Men Ring site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser
+Information that you provide to us directly might include personal information such as your name, email address and other personal details.
 
-The Way AE Media Group Uses Information 
+We may also collect non personal information that may identify you such as location, IP address, browser type, operating system and other details about the device you are using.
 
-If you submit personally identifiable information to us through the Gay Men Ring website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site. 
+##### How we use your personal data
 
-Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Gay Men Ring site, and other users can contact you through messages and comments. Any videos that you submit to the Gay Men Ring site may be redistributed through the Internet and other media channels, and may be viewed by the general public. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes. 
+We use your personal data to process your request when you contact us by email or through our content removal form. We respect your privacy at all times. Your information will never be disclosed or shared with others without your consent, unless required to do so by law.
 
-When Gay Men Ring Discloses Information 
+##### Sharing or Disclosing Your Personal Data
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. AE Media Group also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of our company, our users or others. 
+Whilst we will never disclose or share your data with others without your consent, we use third party processors to provide IT services; these companies will process or store your information on our behalf.
 
-Our Commitment to Legal-Age Usage 
+We ensure all processors acting on our behalf act in accordance with this privacy notice.
 
-Protecting children from adult content is especially important. For that reason, AE Media Group does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Gay Men Ring site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the Gay Men Ring site at any time or in any manner. If AE Media Group learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information. 
+##### Your Rights
 
-In the Event of Merger, Sale, or Bankruptcy
+Under GDPR you have the right to access personal information that we processes about you.
 
-In the event that AE Media Group is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
+You can request from us information about - 
 
-Changes and updates to this Privacy Notice
+  1. The personal data we hold about you
+  2. The categories of personal data concerned
+  3. The purposes of the processing
+  4. Details to whom your personal data has/will be disclosed
+  5. How long we retain your personal data
+  6. If we did not collect the data directly from you, information about the source
 
-This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Gay Men Ring site constitutes your agreement to this privacy notice and any future revisions.
+
+
+You may also request from us the following-
+
+  1. That we update any incomplete or inaccurate data about you
+  2. Request that we delete your personal data in accordance with GDPR
+
+
+
+You may request we action your rights by contacting us by email at cjtubetrader (AT) gmail.com
+
+To ensure your data is protected, if we receive a request from you to exercise your rights, we will ask you to verify your identity before acting on the request.
+
+##### International Transfers
+
+Your personal data may be processed in countries outside your country of residence.
+
+Where these transfers take place, we will ensure the same high standard of protection for your personal data at all times.
+
+##### How Long We Retain Your Data
+
+We only retain personal information for as long as is necessary. For further details on our data retention periods please contact us.
+
+Where you have consented to us to use your details for direct marketing, we will keep this data until you notify us or otherwise withdraw your consent.
+
+##### Cookies
+
+A ‘cookie’ is a small text file sent from a website and stored on the user’s computer by the user’s web browser. Upon visiting a site that uses cookies, a cookie is downloaded onto your computer or mobile device. The next time you visit that site, your device will remember useful information such as preferences, visited pages or other options
+
+Cookies are widely used to add functionality to websites, or to ensure they work more efficiently. Our site relies on cookies to optimise the user experience and ensure the sites services function properly.
+
+Most web browsers allow some control to restrict or block cookies through the browser settings, however if you disable cookies you may find this affects your ability to use certain parts of our website or services. For more information about cookies please visit [https://www.aboutcookies.org](https://www.aboutcookies.org/).
