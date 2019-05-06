@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternativeairlines.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209194058id_/https%3A//www.alternativeairlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeairlines.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506161607id_/https%3A//www.alternativeairlines.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Alternative Airlines
 
