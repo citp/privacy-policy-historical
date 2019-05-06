@@ -1,104 +1,46 @@
-> *The following text is extracted and transformed from the flixsearch.io privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527212924id_/http%3A//flixsearch.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixsearch.io privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506020931id_/https%3A//flixboss.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Flixsearch
+# Privacy policy | Flixboss
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
+Flixboss was created by users, for users. We wanted to build a service that was free but also where private information was handled in a _responsible_ , _secure_ and _non-malicious_ manner. The guiding principle from the start has been "do unto others as you would have them do unto you"... and we wouldn't want anyone else to abuse our private data.
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+## Updates to the policy
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name or other details to help you with your experience.
+You will always find the latest version of our privacy policy on [this page](https://web.archive.org/privacy) (yes, same page you are looking at now). In case the privacy policy is changed we will do our best to update our users about the new terms.
 
-**When do we collect information?**
+## What data do we collect?
 
-We collect information from you when you register on our site or enter information on our site.
+The information that we are collecting can be divided into two groups:
 
-**How do we use your information?**
-
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
-
-  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-
-
-
-**How do we protect visitor information?**
-
-We do not use vulnerability scanning and/or scanning to PCI standards.
-
-We use regular Malware Scanning.
-
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
-
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
-
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
-
-**Do we use 'cookies'?**
-
-We do not use cookies for tracking purposes
-
-  * Understand and save user's preferences for future visits. 
+  1.  _Information of a technical nature_  
+This type of data is gathered automatically just by browsing the site. Examples include the IP number of the client, the browser type and version, the device that was used, the pages that were visited, the time that was spent on each page etc.
+  2.  _User provided information_  
+When signing up for the service our users are given the option to voluntarily provide more information about themselves. Examples include name, gender or birthday and none of these are required to be able to use the service. We also store which movies and series a user has interacted with, placed into their watchlist, seen or hidden. In case the user signs up for our weekly newsletter we store the email address.
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+## What is the data used for and how is it shared with third parties?
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+The main purpose of storing private information is to enable personalisation functionality on the site. You need to create an account to be able to use the watchlist features for example. Same goes for hiding or rating seen movies / series.
 
-**Third Party Disclosure**
+Another purpose is to understand our users better so that we can improve the funcionality of the site. For this we use analytics tools such as Google Analytics or Hotjar.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+Some technical variables are used in an anonymized fashion for serving of ads and shared with ad partners such as Google Adsense, for example to be able to target ads to users only in a specific geographic region or during a specific time of day. We don't share any of the user provided data variables (so called first party data) with third parties unless explicitly consented to by the user.
 
-**Third party links**
+Our weekly newsletters are sent using a third party tool called Mailchimp and for that reason all emails are also stored with them.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+## How is the collected data stored?
 
-**Google**
+The data is stored securely on our servers, and only for as long as it is needed to fulfill the purpose of it, as it is described here in the privacy policy. After that, it is either removed or anonymized.
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+## Do you use cookies (and if so, how)?
 
-We use Google AdSense Advertising on our website.
+Yes, we do. Most of the basic funcionality of the site can be used without having cookies switched on, but some features require them. An example is the user watchlist where saved movies and series are stored in a cookie locally. If you want to browse the site as a logged in user you will also need to accept cookies.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+Cookie Settings
 
-We have implemented the following:
+## Contact us
 
-  * Google Display Network Impression Reporting 
-  * Demographics and Interests Reporting 
+Flixboss intends to comply with all current rules and regulations regarding usage/storage of private data (such as GDPR). We realize that the language of the privacy policy can be a bit difficult at times so please don't hesitate to contact us if there is something you feel needs to be clarified.
 
-
-
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
-
-Opting out:
-
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on. 
-
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. 
-
-We do not specifically market to children under 13. 
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. 
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur: We will notify the users via in site notification 
-
-  * Within 7 business days 
-
-
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors. 
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. 
-
-We collect your email address in order to: 
-
-To be in accordance with CANSPAM we agree to the following: 
-
-If at any time you would like to unsubscribe from receiving future emails, you can email us at and we will promptly remove you from ALL correspondence. 
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+In case you wish to get in touch with us regarding your personal information, for example to find out what we have stored or if you wish to use your right to be forgotten, feel free to send an email to **info@flixboss.com** and we will do our best to help.
