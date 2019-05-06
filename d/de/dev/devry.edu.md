@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230044024id_/https%3A//www.devry.edu/devry-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506155745id_/https%3A//www.devry.edu/compliance/devry-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | DeVry University
-
-### DeVry University, Inc. Websites
 
 ##### 1) General
 
