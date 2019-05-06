@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011090730id_/https%3A//www.responsibletravel.com/copy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506232651id_/https%3A//www.responsibletravel.com/copy/privacy-policy) for the most accurate reproduction.*
 
 # Responsible Travel privacy policy.
 
