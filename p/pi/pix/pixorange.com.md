@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixorange.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104181632id_/http%3A//pixorange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixorange.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506051702id_/http%3A//pixorange.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | pixorange.com
 
