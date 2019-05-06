@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleindianrecipes.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228205353id_/https%3A//simpleindianrecipes.com/More/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleindianrecipes.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506023106id_/https%3A//simpleindianrecipes.com/More/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Simple Indian Recipes
 
@@ -116,3 +116,6 @@ and such processing is carried out by automated means, you have the right to rec
     1. Our data protection officer's contact details are: Dahlia Sam/Twinkle; Email: recipes(at)simpleindianrecipes.com.
 
 
+
+  
+Hi, I'm Dahlia, living in Chennai. Having lived in different parts of India and USA, I have been exposed to different cuisines. Trying new recipes is my passion. [More about me ⟩⟩](https://web.archive.org/AboutUs.aspx)
