@@ -1,63 +1,71 @@
-> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019124240id_/http%3A//www.cyfuture.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506223754id_/https%3A//cyfuture.com/privacy.html) for the most accurate reproduction.*
 
-# Application Development Outsourcing India, Offshore BPO Services India
+# Cyfuture : Privacy Statement
 
-**Cyfuture (I) Pvt.Ltd.** Privacy Policy Cyfuture (I) Pvt.Ltd herein reffered as Cyfuture knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting any of the sites offered by CyFuture, you are accepting the practices described in this Privacy Notice.** For question on the Privacy Notice please contact support@go4hosting.com
+Protection of your privacy is of prime importance, hence Cyfuture and all our companies, brands and subsidiaries (subsequently referred to as “Cyfuture”, “us” or “we”) follow a comprehensive Privacy Policy. This privacy policy covers our privacy practices regarding the collection, transference, usage, storage & disclosure of your personal information that we collect and store through this website or the Personal Information provided by you while participating in our events and campaigns.
 
-**What Personal Information About Customers Does CyFuture Gather?**
+It would behoove you to familiarize yourself with our Privacy Policy, and contact us at Cyfuture India Pvt. Ltd., 197/198, NSEZ, Noida, India - 201301, for any further clarifications.
 
-¤ **Information You Give Us:**  
-We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services (e.g., domain name registration, DNS hosting), and communicating with you.
+**It would behoove you to familiarize yourself with our Privacy Policy, and contact us at Cyfuture India Pvt. Ltd., 197/198, NSEZ, Noida, India - 201301, for any further clarifications.**
 
-¤ **Automatic Information:**  
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our Web site, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.
+For the purposes of this privacy policy, any information that can potentially identify a person comes under the ambit of “Personal Information”. Cyfuture services request you to provide personal Information when you interact with them, and the information you provide is used in accordance with the Cyfuture Privacy Policy. This information may be used in combination with generic information for various purposes such as marketing & advertising or product development. In case you refrain from providing your personal information, you may not be able to utilize optimum benefits from Cyfuture products.
 
-**What About Cookies?**  
-» Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. Besides using the information as described above, CyFuture utilizes cookies to control the flow of the ordering processes by maintaining the state of your online transactions.  
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+You might provide your name, email, physical address, phone number, IP address, credit card information among other personal information when you explore our services, take part in a survey, or contact us. Cyfuture collects this data for better recommending suitable products and services.
 
-**Does CyFuture Share the Information It Receives?**  
-Yes, we do share information but only as described below. Otherwise we will not provide your personal information without your consent. 
+With your consent, the data you provide is used in accordance with this Privacy Policy, legislative requirements (including region-specific restrictions and guidelines, if any), and legitimate disclosure laws. We use the data we collect to update you about our offerings, feature additions or enhancements, and other updates in relation to the performance & security of our services.
 
-¤ **WHOIS**  
-the Internet Corporation requires us for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. 
+This data is used in the development of new products & services, network & transaction security and financial verification wherever necessary.
 
-**ICANN**   
-then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.
+Personal information that you provide lets us keep you informed about changes in our products, services, the terms & conditions relating to them, and important security updates. We may use the data for system performance analysis, internal auditing and process improvement purposes. The carrying out of promotional activities and limited-period offers makes use of this data as well. For preventing fraud and illegal financial transactions, we may validate your personal information through comparison with public resources and databases to avoid monetary or privacy loss. 
 
-¤ **Advertisers:**  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+Third parties also create databases of personal information, which may be acquired and used by us in the development and deployment of our products & services according to prevalent laws governing the usage of such databases. 
 
-¤ **Partners:**  
-We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
+**PERSONAL INFORMATION: PROTECTION**
 
-¤ **Agents:**  
-We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide to CyFuture for any secondary purposes.
+Cyfuture is committed to protect your personal information stored with us. We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use or disclosure. 
 
-¤ **Service Providers:**  
-We engage other companies and individuals to perform enhanced services on our behalf. For example, we have engaged Critical Path, Inc. to provide free electronic mail services to our domain name registrants. In addition, certain of our enhanced services such as our Web Site Generator require that we contact Internet directories and various search engines on your behalf. Many of our service providers have access to personal information needed to perform their services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+**CONSEQUENCES OF NOT PROVIDING PERSONAL INFORMATION**
 
-¤ **Business Transfer:**  
-As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if Cyfuture. or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets.
+If you choose not to provide your Personal Information when the same is mandatory to process your request, we may not be able to provide the requested service.
 
-¤ **Compliance:**  
-We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of CyFuture, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+**ACCESS, CORRECTION AND OBJECTION OF PERSONAL INFORMATION**
 
-**How Secure Is Information About me?**  
-» We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents.
+Your active participation in keeping the data Cyfuture stores about you is encouraged. You can request us to update your personal information in case of changes or errors, and also request deletion, provided we are not required to retain the data for specified amounts of time by law.
 
-» **CyFuture has gone to great** lengths to ensure your information is securely obtained and held in compliance with the Card Holder Information Security Program. For example, we encrypt your credit card number before it is stored in our database. This ensures that no one may access your credit card from our system.
+**SHARING WITH OR DISCLOSURE TO THIRD PARTIES**
 
-» It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+In certain cases, it might become necessary to share personal information with law enforcement, legal or government authorities. These cases may arise from litigation, from public or government requests, or from national security reasons. In such cases, Cyfuture will be obliged to disclose your personal information to only the relevant authorities, and to inform you in such events. 
 
-**What Information Can I Access?**   
-» CyFuture gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.
+In case of any mergers & acquisitions, sale of company assets or reorganization of the firm, Cyfuture may be required to transfer any and all data to third party or parties, including personal information.
 
-**Links**  
-» Sites provided by CyFuture contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+**THIRD-PARTY SERVICES**
 
-**Children**   
-» CyFuture does not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian.
+Cyfuture products and services might contain links that lead to third-party applications or resources. If you choose to visit or interact with those third parties and their affiliates, the data you provide to them is governed by their separate privacy policies, to which you should pay heed regarding the usage of your personal information by them. Cyfuture has no control or responsibility towards data collected, stored and manipulated by third parties.
 
-**Conditions of Use, Notices, and Revisions**   
-» If you choose to visit CyFuture, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at CyFuture, please send us a thorough description to support@go4hosting.com, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes
+**RETENTION OF PERSONAL DATA**
+
+We will retain your personal data for as long as needed to provide the access and use of the website unless a longer period of retention is required either by law, or is necessitated for a legitimate business purpose.
+
+**INFORMATION SPECIFICALLY RELEVANT FOR EU USERS (GDPR)**
+
+Cyfuture is ardently pursuant of GDPR directives for data subjects in the EU. If you are a user of Cyfuture services in the European Union, you have the following rights with respect to Cyfuture’s handling of your personal information:
+
+  * You can request an explanation of personal data processing, handling and usage by us;
+  * You also have the right to receive a copy of the information that we collect about you whether the information is collected on the basis of consent or because the said information was required by us in order to provide the requested services.
+  * You possess the right to withdraw your consent for personal data processing, at any time to prevent future processing;
+  * You have the right to request correction of your personal data that has been stored with us in case you believe the same is not accurate;
+  * You may request deletion of your personal data, provided this request does not contravene any laws or legal procedures;
+  * You have the right to object to Cyfuture’s processing of their personal information; 
+  * You can contact the relevant data protection authority for issues regarding your personal data.
+
+
+
+**DATA TRANSFER:** In order for us to provide the services to you, your personal information will be transferred to, and stored at/processed in our servers in accordance with extant laws. Your personal data is also processed by staff operating in global locations. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this policy.
+
+**QUERIES REGARDING PRIVACY**
+
+Cyfuture is always open to answering queries, providing clarifications and addressing concerns regarding your privacy. If you have any questions regarding this Privacy Policy, please contact us via e-mail at: [privacy@cyfuture.com](mailto:privacy@cyfuture.com)
+
+**PRIVACY POLICY UPDATES**
+
+We may update this privacy policy from time to time. We encourage you to periodically review this privacy to understand how Cyfuture is protecting your information. If any change is unacceptable to you, you have the right to cease using this website. If you do not do so, you will be deemed to have accepted our then current Privacy Policy. 
