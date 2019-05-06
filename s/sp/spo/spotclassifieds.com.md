@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotclassifieds.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105114612id_/http%3A//www.spotclassifieds.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotclassifieds.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506022022id_/http%3A//www.spotclassifieds.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,6 +20,6 @@ We are committed to conducting our business in accordance with these principles 
 
 Need assistance? Have a question that isn't answered in our [Help](http://www.spotclassifieds.com/index.php?a=28&b=141) sections? Please feel free to visit our [Contact Us](http://www.spotclassifieds.com/index.php?a=28&b=136) page.
 
-#### Copyright © 2018 Spot Classifieds. All Rights Reserved.
+#### Copyright © 2019 Spot Classifieds. All Rights Reserved.
 
 Use of this Web site constitutes acceptance of the [User Agreement](http://www.spotclassifieds.com/index.php?a=28&b=140) and [Privacy Policy](http://www.spotclassifieds.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
