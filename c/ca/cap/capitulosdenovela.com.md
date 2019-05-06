@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitulosdenovela.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502105839id_/http%3A//ww43.capitulosdenovela.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitulosdenovela.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506194355id_/http%3A//ww43.capitulosdenovela.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
