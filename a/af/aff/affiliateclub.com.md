@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateclub.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230201141id_/http%3A//www.affiliateclub.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateclub.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506090808id_/http%3A//affiliateclub.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | AffiliateClub.com
 
