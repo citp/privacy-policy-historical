@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historicenvironment.scot privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207223514id_/https%3A//www.historicenvironment.scot/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historicenvironment.scot privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506215246id_/https%3A//www.historicenvironment.scot/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Lead Public Body for Scotland's Historic Environment
 
@@ -53,7 +53,11 @@ and gender.
 
 4.2.5  **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
-4.3 We do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+4.2.6 **Images and Photographic data** when we take photographs of events at our properties, or if you share your images of people with us on social media.
+
+4.2.7 **Image data** if we capture your image on our CCTV systems.
+
+4.3 We will only collect **Special Categories of Personal Data** about you if you are applying to work with us through our recruitment system. **Special Categories of Personal Data** include details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. This information will only be used for the purposes of equalities monitoring as stated within the job application process. 
 * **How is your personal data collected?  **
 
 5.1 We use different methods to collect data from and about you including through:
@@ -84,7 +88,7 @@ and gender.
 
 6.1.2 Where we need to comply with a legal or regulatory obligation
 
-6.2 Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message.
+6.2 Generally we do not rely on consent as a legal basis for processing your personal data. In some specific circumstances for example, in relation to sending direct marketing communications to you via email, text message or social media, we will look to gain your consent. We describe below how we use social media to keep you informed about our work and events at our sites.  
 * **Purposes for which we will use your personal data**
 
 7.1 We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so.
@@ -150,9 +154,12 @@ To use data analytics to improve our Website, products/services, customer relati
 
 9.2 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-* **Marketing**
+* **Marketing**  
 
-We will only use your personal data for direct marketing purposes where you have consented to be contacted for such purposes. We do not share your personal details with any third party for their marketing purposes. You have the right to withdraw consent to marketing at any time by contacting us using the details above.
+
+We will only use your personal data for direct marketing purposes where you have consented to be contacted for such purposes. We use trusted third-party media agencies to help us with our advertising, but we do not share your personal details with any third party for their marketing purposes. You have the right to withdraw consent to marketing at any time by contacting us using the details above.
+
+If you receive marketing from us on social media platforms you are able to withdraw your consent by adjusting your privacy settings on the social media platform itself. You may see our adverts if your settings allow for targeted advertising based on attributes of your social media profile, such as your location, age and interests. For example, if you live near one of our properties you may see an ad for an event at that property. You may also see our advertising as a result of your information being automatically profiled by the social media platform and your being selected as part of the audience for the ad. You can prevent this type of targeting by adjusting your privacy settings in the social media site or by adjusting your cookie settings in the browser. You can also interact with the ad itself and select the options that prevent further targeted advertising using your information in this way.
 
 * **Cookies**
 
@@ -176,7 +183,7 @@ When we process your personal data for the above purpose, we do so on the basis 
 
 We only transfer personal data outside of the European Economic Area (EEA) when we can ensure it will be protected to a similar degree as within the EEA. 
 
-For some of our services, such as ticket sales and social media management, we need to transfer data outside of the EEA. Your data may be transferred to Canada, which is deemed by the European Commission to provide an adequate level of protection for personal data. We may also transfer personal data to the United States to recipient organisations that are certified as adhering to the EU Privacy Shield.
+For some of our services, such as ticket sales and social media management, we need to transfer data outside of the EEA. Your data may be transferred to Canada, which is deemed by the European Commission to provide an adequate level of protection for personal data. We may also transfer personal data to the United States to recipient organisations that are certified as adhering to the EU Privacy Shield, or are otherwise contractually bound to treat our data to a similar standard.
 
 * **Data Security  **
 
