@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getoutofdebt.org privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917163806id_/https%3A//www.debt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getoutofdebt.org privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506165333id_/https%3A//www.debt.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Debt.com
 
-**Last updated: February 16, 2017.**
+**Last updated: November 12th, 2018.**
 
 This Online Privacy Policy (hereinafter sometimes referred to as the “Notice”) applies to this **Debt.com** online interface (i.e., website or mobile application) and any **Debt.com** affiliate or subsidiary online interface that links to this Notice, (each, a Site, and, collectively, Sites). The term **Debt.com** or “we” or “us” or “our” in this Notice refers to affiliates or subsidiaries of **Debt.com** that link to this Notice. This Notice describes how Sites may collect, use and share information from or about you, and explains how information may be collected and used for advertising purposes.
 
@@ -42,7 +42,7 @@ We may use Personal Information:
 
 #### How Personal Information is Shared
 
-When you submit personally identifiable information to us (which may include first name, last name, email address, zip code and contact phone number), we share this information with 3rd party service providers for the products that you were requesting assistance with and may also be used for cross-marketing purposes with affiliates for offers that we believe may be of benefit to you, based upon your initial request.
+When you submit personally identifiable information to us (which may include first name, last name, email address, zip code and contact phone number), we share this information with 3rd party service providers for the products that you were requesting assistance with and may also be used for cross-marketing purposes with affiliates for offers that we believe may be of benefit to you, based upon your initial request. Our affiliates and/or third party companies will not use your email address for their own marketing use, unless you have provided consent for them to do so.
 
 We also share non-personally identifiable information about our user base with our advertising affiliates who drive traffic to our website to help them identify and target our ideal customer. We may also share your contact information with third-parties who may contact you for a free, no-obligation consultation. This may include requesting help with Credit Restoration. Under the credit restoration selection, you may be contacted by Lexington Law Firm. You can read their privacy policy here <https://www.lexingtonlaw.com/info/privacy-policy.html>. A list of companies with whom we may share your information is [here](https://www.debt.com/privacy-policy/partners/).
 
