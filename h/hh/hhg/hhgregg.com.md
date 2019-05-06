@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhgregg.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023142547id_/https%3A//hhgregg.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhgregg.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507014533id_/https%3A//hhgregg.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
