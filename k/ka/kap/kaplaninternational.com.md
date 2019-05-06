@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106175008id_/https%3A//www.kaplaninternational.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506174636id_/https%3A//www.kaplaninternational.com/privacy-notice) for the most accurate reproduction.*
 
 # Kaplan International English Privacy Notice | Kaplan International
 
