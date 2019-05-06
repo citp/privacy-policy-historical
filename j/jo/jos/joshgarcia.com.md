@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joshgarcia.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802102931id_/http%3A//www.joshgarcia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshgarcia.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506171954id_/http%3A//www.joshgarcia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JoshGarcia.com
+# Privacy Policy
 
 Your privacy is very important to us. We want to make your experience with us is as enjoyable and rewarding as possible, and we want you to use the information, tools, and opportunities on our site with complete confidence. 
 
