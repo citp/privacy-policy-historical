@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunderland.ac.uk privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826091642id_/https%3A//www.sunderland.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunderland.ac.uk privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506190141id_/https%3A//www.sunderland.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | The University of Sunderland
 
@@ -14,7 +14,7 @@ This is the University of Sunderland’s Privacy Policy. The University of Sunde
 
 More information can be found in About Us and in Legal Status.
 
-**Cookies and Adwords**
+**Cookies and AdWords**
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to maintain, report on and aggregate information. This data informs us about your browsing actions and patterns. It is used to inform improvements to the website and for system administration.
 
@@ -49,7 +49,7 @@ If you are one of our suppliers, we will use information we hold on you to manag
 
 Personal information will not be sold to third parties, or provided to direct marketing companies or other such organisations without your permission.
 
-Personal information collected and/or processed by the University is held in accordance with the provisions of the Data Protection Act 1998.
+Personal information collected and/or processed by the University is held in accordance with the provisions of the GDPR and Data Protection Act 2018.
 
 **When we share your information**
 
@@ -91,7 +91,7 @@ You should be aware that if you follow a link from this site to another site, th
 
 Access to information and your rights
 
-The Data Protection Act 1998 gives you the right to access information held about you. For further information about this right and how to exercise it, please contact our Data Protection Officer at:
+The GDPR and Data Protection Act 2018 gives you the right to access information held about you. For further information about this right and how to exercise it, please contact our Data Protection Officer at:
 
 The Data Protection Officer
 
@@ -104,4 +104,4 @@ SR1 3SD
 
 Or send an email to: [dataprotection@sunderland.ac.uk](mailto:dataprotection@sunderland.ac.uk)
 
-You have the legal right to see a copy of the information that we hold about you on payment of a statutory fee of £10. You have the right to rectify any errors in information we hold about you, and to change or correct any details you have already given us. Please inform us about changes to your details so that we may keep our records accurate and up to date.
+You have the legal right to see a copy of the information that we hold about you. You have the right to rectify any errors in information we hold about you, and to change or correct any details you have already given us. Please inform us about changes to your details so that we may keep our records accurate and up to date.
