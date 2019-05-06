@@ -1,17 +1,33 @@
-> *The following text is extracted and transformed from the therundown.tv privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120183851id_/http%3A//www.therundown.tv/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therundown.tv privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506021411id_/http%3A//therundown.tv/privacy-policy) for the most accurate reproduction.*
 
-# Your Privacy on The Rundown
+# Privacy Policy - The Rundown
 
-As of Aug-10-2014
+The privacy of visitors to this site is very important to us. This Privacy Policy gives you information on what types of personal information we collect when you use this site, and our practices with respect to the use and disclose of such information. By visiting http://therundown.tv , you agree to this Privacy Policy and to the Terms of Service (TOS) which is located HERE.
 
-The Rundown values your privacy. Your registration information and any other details you place on our sites are subject to our Privacy Policy. Any and all personal information you provide us will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned to anyone outside The Rundown. 
+### Information You Give Us:
 
-Members are required to provide their name and email address. Registration requires a valid email address. We delete accounts from users whose emails bounce. 
+We receive and may store any personal information you enter on our Website or may give us in any other way. This information may include your name or email address, content you submit to the website, and other information.
 
-You have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile. You also decide how much personal information is visible to The Rundown members in your user profile. Non-members are not able to see your profile details, email you, or send you a private message. From the User Control Panel, you have the option of providing some additional information such as occupation, interests, and homepage URL. This information is made available to other The Rundown users to foster a sense of community. If you have any concerns about providing this information, simply leave these fields blank. 
+### Information We Automatically Collect:
 
-Use of the website involve use of "cookies.". This includes retention of your username and password on the computer you are working on, which helps track your last read message when you revisit the forum. You have the option to turn these cookies off at any time by updating your user profile preferences. We advise you to do so if you use a shared, public or hospital computer, or remember to log out after each session to prevent unauthorized access under your account. If your browser doesn't support cookies, or if you have cookies turned off, these preferences will not be set. 
+We may automatically receive and store certain types of information whenever you interact with us. For example, The Rundown allows guest commenting. When you make a guest comment, we may publish the content of your comment and may collect your IP (internet protocol) address, the time and the date you made the comment. We do not use cookies to collect or store information about you.
 
-* Google, as a third party vendor, uses cookies to serve ads on this site.   
-* Google's use of the DART cookie enables it to serve ads to you based on the visit to this site and other sites on the Internet.   
-* You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+### How We Use Information About You:
+
+When we disclose information about you:
+
+We never disclose your personal information to third parties.
+
+For information you give us, or information we automatically collect, certain records may be produced to law enforcement or private litigants in response to valid legal process. The Rundown reserves the right to cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We reserve the right to disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of The Rundown or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
+
+The Rundown also reserves the right to, but is not obligated to, refuse to disclose confidential sources or unpublished information we collect as part of our journalistic and/or news gathering and reporting under federal and/or state law.
+
+### Information Our Advertising Partners Automatically Collect:
+
+We use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. The Rundown has no control over these ad providers’ practices and you should review their privacy policies and steps for managing cookies.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
+
+GDPR Disclaimer: Our advertising demand partners, supported advertising mediation partners, data partners, and fraud and measurement partners have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints.
+
+(Visited 37 times, 1 visits today)
