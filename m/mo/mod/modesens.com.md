@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modesens.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927105108id_/https%3A//modesens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modesens.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506204733id_/https%3A//modesens.com/privacy) for the most accurate reproduction.*
 
 # ModeSens Privacy Policy
 
@@ -119,7 +119,7 @@ Residents of the State of California, under the California Civil Code, have the 
 
 This Site qualifies for the alternative option. Its privacy policy provides you with information on how you may opt-out from the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information during the preceding year for marketing purposes.
 
-If you are a California resident and request information about how to exercise your third party disclosure choices, send a request to the following email address: [info@modesens.com](https://web.archive.org/%22mailto:info@modesens.com/%22).
+If you are a California resident and request information about how to exercise your third party disclosure choices, send a request to the following email address: [info@modesens.com](mailto:info@modesens.com).
 
 If you are a resident of the European Economic Area (“EEA”), in order to provide our Site, products, and services to you, we may send and store your Personal Data outside of the EEA, including to the United States. Accordingly, your Personal Data may be transferred outside the country where you reside or are located, including to countries that may not or do not provide an adequate level of protection for your Personal Data.
 
@@ -175,4 +175,4 @@ Contact Information
     815 Brazos St. Ste. 500, Austin, TX 78701
     USA
     +1 (469) 283-8998
-    [info@modesens.com](https://web.archive.org/%22mailto:info@modesens.com/%22)
+    [info@modesens.com](mailto:info@modesens.com)
