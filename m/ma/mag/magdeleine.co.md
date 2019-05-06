@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magdeleine.co privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006185802id_/https%3A//magdeleine.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magdeleine.co privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506213557id_/https%3A//magdeleine.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of magdeleine.co - Magdeleine
 
