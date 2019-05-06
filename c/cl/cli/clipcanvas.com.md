@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipcanvas.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104110812id_/https%3A//support.clipcanvas.com/data-privacy-policy-gdpr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipcanvas.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506171753id_/https%3A//support.clipcanvas.com/data-privacy-policy-gdpr) for the most accurate reproduction.*
 
 # Data Privacy Policy - GDPR | Clipcanvas Support
 
