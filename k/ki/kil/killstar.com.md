@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killstar.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226182225id_/https%3A//www.killstar.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killstar.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506024159id_/https%3A//www.killstar.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | KILLSTAR - UK Store
 
@@ -55,6 +55,10 @@ This information is used to refine future email campaigns and supply the user wi
 
 In compliance with GDPR subscribers are given the opportunity to un-subscribe or amend their subscription preferences at any time through an automated system. This process is detailed at the footer of each email campaign.
 
+**Review Invitations**
+
+We have partnered with Trustpilot to collect verified customer service reviews. Customers will receive an email invitation 14-days after placing their order (plus a reminder 7-days later if a review has not been left before then) asking for a review. There is no obligation to respond although we welcome all customer feedback.
+
 **External Links**
 
 Although this website only looks to include quality, safe and relevant external links, users are advised to adopt a policy of caution before clicking any external web links mentioned throughout this website. (External links are clickable text / banner / image links to other websites).
@@ -73,7 +77,7 @@ This website may use social sharing buttons which help share web content directl
 
 This website and its owners through their social media platform accounts may share web links to relevant web pages. Some are shortened URLs [web addresses]. Users are advised to take caution and good judgement before clicking any shortened URLs published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine URLs are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
 
-Policy last updated 24th May 2018.
+Policy last updated 25th February 2019.
 
 If you have any questions about privacy please contact us by email at privacy@killstar.com or via mail:
 
