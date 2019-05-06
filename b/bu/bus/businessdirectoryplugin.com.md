@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessdirectoryplugin.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014103241id_/http%3A//businessdirectoryplugin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdirectoryplugin.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506030026id_/https%3A//businessdirectoryplugin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business Directory Plugin for WordPress
+# Privacy Policy
 
 **What information do we collect?**
 
