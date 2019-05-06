@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706201445id_/https%3A//www.armchairempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506144414id_/https%3A//www.armchairempire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Armchair Empire
 
-[ ](http://www.armchairempire.com/privacy-policy)
+[ ](https://www.armchairempire.com/privacy-policy)
 
 This privacy policy sets out how Armchair Empire uses and protects any information that you give Armchair Empire when you use this website.
 
@@ -42,8 +42,8 @@ Cookies are text files containing small amounts of information which are downloa
 
 You can find more information about cookies at:
 
-  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * [www.allaboutcookies.org](https://www.allaboutcookies.org/)
+  * [www.youronlinechoices.eu](https://www.youronlinechoices.eu/)
   * For a video about cookies visit [how Google uses cookies](https://www.google.com/policies/technologies/cookies/)
 
 
@@ -83,7 +83,7 @@ You may choose to restrict the collection or use of your personal information in
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
 
-Email: [jonas@armchairempire.com](mailto:%6aonas%40%61rmc%68ai%72em%70%69r%65.com "Send email to: jonas@armchairempire.com")
+Email: [jonas@www.armchairempire.com](mailto:jonas@ww%77.%61rm%63h%61ire%6d%70%69%72e.c%6fm "Send email to: jonas@www.armchairempire.com")
 
 
 
@@ -94,6 +94,6 @@ You may request details of personal information which we hold about you under th
 
 A small fee will be payable.
 
-If you would like a copy of the information held on you please write to: jonas@armchairempire.com
+If you would like a copy of the information held on you please write to: jonas@www.armchairempire.com
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
