@@ -1,138 +1,578 @@
-> *The following text is extracted and transformed from the codility.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317070400id_/https%3A//codility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codility.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506021537id_/https%3A//www.codility.com/data-privacy-notice) for the most accurate reproduction.*
 
-# Privacy policy - Codility
+# Data Privacy Notice - Codility
 
-Last updated on 2016-03-03
+**I have sent my CV to Codility or I am being considered for recruitment by Codility.**
 
-Codility Ltd ( _"_ we, _"_ “us” or “our”) is committed to protecting and respecting your privacy. This Privacy Policy sets out how we collect, use and share information which identifies you or is associated with you (“personal information”).
+  1. **Who we are**
 
-Please read this Privacy Policy carefully to understand our views and practices regarding your personal information and how we will treat it. By setting up an account with us or using and accessing [https://codility.com](https://codility.com/?__hstc=162943075.25a9486141118173af9bef7345cffd8b.1580356672808.1580356672808.1580356672808.1&__hssc=162943075.1.1580356672809&__hsfp=3924935683) (the “Service”), you consent to the use of your personal information as described in this Privacy Policy.
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Codility Ltd. Our registered office is at 9th Floor, 107 Cheapside, London, United Kingdom EC2V 6DN. Our company registration number is 08372083.
 
-You should also be aware that we use cookies to store and access information whilst providing the Service. You can find out more about our use of cookies in our [Cookie Policy](https://web.archive.org/cookie-policy/).
+We at Codility are the Data Controller of information we use for recruitment and selection where you have supplied us with your CV or other personal data; we are the Data Processor of information that has been supplied to us indirectly such as via an employment agency or service. We can be contacted at +44 (208) 970 78 68 or [jobs@codility.com](mailto:jobs@codility.com).
 
-**1\. Information We May Collect**
+  2. **a) We have received your CV/personal data from you directly**
 
-We collect the categories of information set out in sections a. to e. below when you use the Service.
 
-a. Information we collect directly from you: 
 
-We collect information from you when you submit information to us or the Service. The following are examples of when we may collect information directly from you:
+If your personal data held by Codility has been supplied by you for recruitment purposes then we are the Data Controller of your personal data.  It will be processed under our Legitimate Interests of selecting and recruiting the most suitable candidates to join us at Codility.  Your details, including your CV, will be processed by us for the purpose of supporting our recruitment and selection processes. They will be held by us for 12 months after which they will be anonymised and used for statistical analysis of our own recruitment and selection processes. Any remaining personal data will be deleted at this time.  **or**
 
-  * Account and test access information such as name, email address, telephone number, work and educational information, details about your professional interests, professional experience and your academic title
+  2. **b) We have received your CV/personal data from you indirectly**
 
-  * If you submit your CV, we will store any personal data not listed above that you include on your CV.
 
-  * When you fill in and submit forms on the Service, including forms submitted at the time of registering to use our Service, conducting assessments, reporting a problem with the Service or requesting further information from us.
 
-  * When you contact us via online submission, telephone, electronic mail or regular mail, we may keep a record of that correspondence.
+If we have received your CV or personal data from a third party (such as a Recruitment Agency or online service) then we will be the Data Processor of your personal data and obliged to act in line with the instructions that we are given by the Data Controller (to whom you may have provided your CV previously).  You will have given your Consent to the Data Controller or your data is being processed and shared under another, GDPR compliant Legal Basis such as their Legitimate Interests or the Performance of a Contract with you.
 
-  * When you complete surveys via the Service.
+These instructions will be laid down by the Data Controller and include the following details:
 
-  * When you post comments or opinions to us on the Service or third party website where we have a profile or presence (e.g. on our Facebook page).
+  * the subject matter and duration of the processing;
+  * the nature and purpose of the processing;
+  * the type of personal data and categories of data subject; and
+  * the obligations and rights of the controller.
 
 
 
+The agreement between the third party (the controller) and Codility will include the following terms:
 
-b. Information from the organisation that creates your profile on the Service
+That Codility must:
 
-If you are provided with login details to access the Service through an organisation’s account, that organisation may provide us with details to create a profile for you on the Service. This can include information such as your name, job title, work telephone number and email address.
+  * only act on the written instructions of the controller (unless required by law to act without such instructions);
+  * ensure that people processing the data are subject to a duty of confidence;
+  * take appropriate measures to ensure the security of processing;
+  * only engage a sub-processor with the prior consent of the third party and a written contract;
+  * assist the third party in providing subject access and allowing data subjects to exercise their rights under the GDPR;
+  * assist the third party in meeting its GDPR obligations in relation to the security of processing, the notification of personal data breaches and data protection impact assessments;
+  * delete or return all personal data to the third party as requested at the end of the contract; and
+  * submit to audits and inspections, provide the third party with whatever information it needs to ensure that they are both meeting their Article 28 obligations, and tell the controller immediately if it is asked to do something infringing the GDPR or other data protection law of the EU or a member state.
 
-c. Information about how you use the Service
 
-We collect data about how you use the Service such the time you access the Service and duration you are on it, the site you come to the Service from or go to after leaving the Service, selections and choices you make and preferences that you set when using the Service as well as any data you input while conducting any assessment on the Service.
+  3. **Rights that you have**
 
-d. Information about how you connect to the Service
 
-We collect data about the computer or other electronic device (“device”) you use to connect to the Service such as details about the type of device (which can include unique device identifying numbers), its operating system, browser and applications connected to the Service through the device, your Internet service provider or mobile network, your IP address and your devices telephone number (if it has one).
 
-e. Information about your actual location
+As your personal data is held by Codility you have rights under the General Data Protection Regulation (the GDPR) that Codility fully support. Your rights are:
 
-We do not collect information about your actual location, other than an approximate location (usually no more precise than city level) which can be determined from your IP address.
+  * The right to request a copy of your personal data which Codility holds about you;
+  * The right to request that Codility corrects any personal data if it is found to be inaccurate or out of date;
+  * The right to request your personal data is erased where it is no longer necessary for Codility to retain such data;
+  * The right to withdraw any consent you have given to the processing of your data, at any time;
+  * The right to request that Codility provide the data subject with his/her personal data and where possible, to transmit that data directly to another data controller, (known as the right to data portability) for the performance of a contract with the data subject and in either case the data controller processes the data by automated means.
+  * The right, where there is a dispute in relation to the accuracy or processing of your personal data, to request a restriction is placed on further processing;
+  * The right to object to the processing of personal data including for marketing purposes
+  * The right to lodge a complaint with the Information Commissioners Office (the ICO).
 
-In certain instances we may use cookies and similar technologies to store and access information we collect through the Service. You can find out more about our use of cookies in our [Cookie Policy](https://web.archive.org/cookie-policy/).
 
-**2\. Where We Store Your Personal Data**
 
-The information we collect directly from you, about how you use the Service and about how you connect to Service may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who works for us or for one of our suppliers or any of our employer clients. Such staff maybe engaged in, among other things the provision of support services to us or the assessment of your candidacy. By using the Service you consent to any transfer, storage or processing of your personal information outside of your country. We will take all steps reasonably necessary to ensure that personal information is treated securely and in accordance with this Privacy Policy.
+These rights are more fully explained at <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
 
-All information you provide to us is stored on a third party's secure servers providing data hosting services to us under our control or on computers of Codility Ltd or computers of our subsidiary Codility Polska Sp., z.o.o.. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Service, you are solely responsible for keeping this password confidential. If the password has been stolen or might otherwise be subject to misuse, it is your responsibility to notify us immediately for further action.
+Should you have any questions regarding these rights and how Codility supports them, please contact us at [dpo@codility.com](mailto:dpo@codility.com).
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+  4. **New Purpose**
 
-**3\. Uses Made of the Information We Collect**
 
-We use the information we collect in the following ways:
 
-  * To manage your account and provide you with the features of the Service, validate and keep your personal information accurate. We will use information we collect directly from you for this purpose.
+If we wish to use your personal data for a new purpose, not covered by this Notice, then we will provide you with a new Notice explaining this new use prior to commencing the processing and setting out the relevant purposes and processing conditions. Where and whenever necessary, we will seek your prior consent to the new processing.  Prior to deletion Codility anonymises data received from Candidates for the purpose of statistical analysis relating to the recruitment process.  Such anonymised data is no longer considered to be personal data and is not within the scope of the GDPR.
 
+  5. **Sharing Data**
 
 
-  * To ensure that content from the Service is presented in the most effective manner for you and for your device and to display content and features that are tailored to you, your interests and how you use the Service. We will use information we collect directly from you, information about how you use the Service and information about how you connect to the Service for this purpose.
 
+Codility will not share your data with any companies outside of the Codility Group (other than those that are involved in our recruitment and selection processes) without your explicit Consent. 
 
+  6. **Updating your Data**
 
-  * To provide you with information about products or services that you request from us or which we feel may interest you (in accordance with your marketing preferences). We will use information we collect directly from you for this purpose.
 
-  * To determine and predict information that may be of interest or relevant to you. We will use information we collect directly from you, information about how you use the Service and information about how you connect to the Service for this purpose.
 
-  * To carry out our obligations arising from any agreements entered into between you and us, such as allowing our employer clients to evaluate any test you have taken. We will use information we collect directly from you, information about how you use the Service and information about how you connect to the Service for this purpose.
+If you wish to request to update or change the information that we use of yours or how we use it, you can do so by contacting us by emailing [jobs@codility.com](mailto:jobs@codility.com). 
 
-  * To notify you about changes to the Service and address complaints, comments and issues you have in relation to your use of the Service. We will use information we collect directly from you for this purpose.
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us via the means above.
 
+  7. **Contacting Us**
 
 
-  * To prevent, detect and investigate illegal activities, breaches of any agreements entered into between you and us and threats to the security of the Service. We will use information we collect directly from you, information about how you use the Service and information about how you connect to the Service for this purpose.
 
+Any queries or comments about this privacy notice or for requests relating to the rights listed above, please contact Codility at [dpo@codility.com](mailto:dpo@codility.com).
 
+If you wish to make a complaint about how we use your information, please contact us in the first instance via [dpo@codility.com](mailto:dpo@codility.com) and we will do our best to help.
 
-  * To produce aggregate statistical information and analytics about users of and their submissions to the Service from which individuals cannot be identified.
+If you are still unhappy, you can contact the Information Commissioner’s Office via their website ([www.ico.org.uk](http://www.ico.org.uk%20/)). 
 
+We will occasionally update this privacy notice and our [privacy policy](https://app.codility.com/privacy-policy/).  We encourage you to periodically review this notice to be informed of how we use your information.
 
+This Privacy Notice was last updated November 2018.
 
+More information regarding Codility and our Data Protection Policy can be found at [www.codility.com](https://www.codility.com/)
 
-**4\. Disclosure of Personal Information**
+[Back to the top](https://web.archive.org/data-privacy-notice#backtotop)
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries and the employees, agents, officers, directors and contractors of the foregoing entities. These companies will only use your personal information in the same way as we can under this Privacy Policy.
+**I have an account with Codility’s Programmers’ Home service**
 
-We may disclose your personal information to third parties:
+  1. **Who we are**
 
-  * Who provide a service to us. These third parties will only be allowed to use your personal information in accordance with our instructions and will be required to keep your information secure.
 
 
+We at Codility are the Data Controller of personal data that is supplied to us when individuals sign-up for our Programmers’ service.
 
-  * In the event that we sell or buy or transfer any business or assets (in part or whole), in which case we may disclose your personal information to the prospective seller, buyer or recipient of such business or assets.
+We can be contacted at +44 (208) 970 78 68 or [dpo@codility.com](mailto:dpo@codility.com).
 
-  * In order to respond to a subpoena, court order or other legal duty or obligation (including without limitations requests or demands from law enforcement and government authorities and regulators).
+  2. **We received your personal data when you signed-up for our Programmer’s service**
 
-  * In order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person or to prevent financial loss to any person or entity, including Codility Ltd, its customers, clients, and other parties.
 
-  * In order to enforce or apply any agreement we have with you.
 
-  * Business partners who offer a service to you jointly with us. For example, this includes the employer clients of ours whose assessments you have undertaken.
+Your personal data held by Codility has been supplied by you for the purpose of managing and supporting your Programmer’s Account and its usage.  We are the Data Controller of your personal data.  It will be processed under our Legitimate Interests of providing you with the described service, to authenticate you and address you in communication about the service. Your personal data (including your IP address) will be held by us for 12 months after your account is terminated at which time it will be deleted.
 
+  3. **Rights that you have**
 
 
 
-**5\. Your Marketing Rights**
+As your personal data is held by Codility you have rights under the General Data Protection Regulation (GDPR) that Codility fully support. Your rights are:
 
-You have the right to ask us not to process the personal information for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at support@codility.com.
+  * The right to request a copy of your personal data which Codility holds about you;
+  * The right to request that Codility corrects any personal data if it is found to be inaccurate or out of date;
+  * The right to request your personal data is erased where it is no longer necessary for Codility to retain such data;
+  * The right to withdraw any consent you have given to the processing of your data, at any time;
+  * The right to request that Codility provide the data subject with his/her personal data and where possible, to transmit that data directly to another data controller, (known as the right to data portability) for the performance of a contract with the data subject and in either case the data controller processes the data by automated means.
+  * The right, where there is a dispute in relation to the accuracy or processing of your personal data, to request a restriction is placed on further processing;
+  * The right to object to the processing of personal data including for marketing purposes
+  * The right to lodge a complaint with the Information Commissioners Office (the ICO).
 
-We or online advertising networks that we partner with may use cookies to make sure advertisements you see online are more relevant to you. You can find out more about cookies and how to manage them by reading our [Cookie Policy](https://web.archive.org/cookie-policy/).
 
-The Service may, from time to time, contain links to and from the websites of our employer partners, partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**6\. Access to Information**
+These rights are more fully explained at <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.
+Should you have any questions regarding these rights and how Codility supports them, please contact us at [dpo@codility.com](mailto:dpo@codility.com).
 
-**7\. Changes to our Privacy Policy**
+  4. **New Purpose**
 
-Any changes we may make to our privacy policy in the future will be posted on this page.
 
-We may change, modify, add or remove portions of this Privacy Policy at any time. We will use reasonable endeavours to inform you of any material changes when they occur. We may do this by email or notice on the site as we consider appropriate. Any changes will be updated on this Privacy Policy page. You should periodically review our Privacy Policy page for any such changes and can object to them by no longer using or accessing the Service. Please further note, depending on your particular interaction with us, different portions of this Privacy Policy may apply to you at different times.
 
-**8\. Contact**
+If we wish to use your personal data for a new purpose, not covered by this Notice, then we will provide you with a new Notice explaining this new use prior to commencing the processing and setting out the relevant purposes and processing conditions. Where and whenever necessary, we will seek your prior consent to the new processing. 
 
-Questions, comments and requests regarding this privacy policy are welcome and should be addressed to support@codility.com.
+  5. **Sharing Data**
+
+
+
+Codility will not share your data with any companies outside of the Codility Group without your explicit Consent.
+
+  6. **Updating your Data**
+
+
+
+If you wish to request to update or change the information that we use of yours or how we use it, you can do so by contacting us by emailing us at [support@codility.com](mailto:support@codility.com)
+
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us via the means above.
+
+  7. **Contacting Us**
+
+
+
+Any queries or comments about this privacy notice or for requests relating to the rights listed above, please contact Codility at [dpo@codility.com](mailto:dpo@codility.com).
+
+If you wish to make a complaint about how we use your information, please contact us in the first instance via [dpo@codility.com](mailto:dpo@codility.com) and we will do our best to help.
+
+If you are still unhappy, you can contact the Information Commissioner’s Office via their website ([www.ico.org.uk](http://www.ico.org.uk/)).
+
+We will occasionally update this privacy notice and our [privacy policy](https://app.codility.com/privacy-policy/).  We encourage you to periodically review this notice to be informed of how we use your information.
+
+This Privacy Notice was last updated November 2018.
+
+More information regarding Codility and our Data Protection Policy can be found at [www.codility.com](https://www.codility.com/). 
+
+[Back to the top](https://web.archive.org/data-privacy-notice#backtotop)
+
+**I have visited Codility’s website and / or have completed an enquiry form**
+
+  1. **Who we are**
+
+
+
+We at Codility are the Data Controller of personal data that we collect through our website or through other media.
+
+We can be contacted at +44 (208) 970 78 68 or [dpo@codility.com](mailto:dpo@codility.com). 
+
+  2. **We received your personal data when completed a web form on our website**
+
+
+
+Your personal data collected by Codility has been supplied by you for the purpose of managing and supporting your enquiry or your request for information about our services.  We are the Data Controller of your personal data.  It will be processed under our Legitimate Interests of providing you with information so that we may continue to grow our business. Your details will be held by us for 6 months after we have a final, verifiable contact with you at which time they will be deleted. 
+
+  3. **Rights that you have**
+
+
+
+As your personal data is held by Codility you have rights under the General Data Protection Regulation (GDPR) that Codility fully support. Your rights are:
+
+  * The right to request a copy of your personal data which Codility holds about you;
+  * The right to request that Codility corrects any personal data if it is found to be inaccurate or out of date;
+  * The right to request your personal data is erased where it is no longer necessary for Codility to retain such data;
+  * The right to withdraw any consent you have given to the processing of your data, at any time;
+  * The right to request that Codility provide the data subject with his/her personal data and where possible, to transmit that data directly to another data controller, (known as the right to data portability) for the performance of a contract with the data subject and in either case the data controller processes the data by automated means.
+  * The right, where there is a dispute in relation to the accuracy or processing of your personal data, to request a restriction is placed on further processing;
+  * The right to object to the processing of personal data including for marketing purposes
+  * The right to lodge a complaint with the Information Commissioners Office (the ICO).
+
+
+
+These rights are more fully explained at <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
+
+Should you have any questions regarding these rights and how Codility supports them, please contact us at [dpo@codility.com](mailto:dpo@codility.com).
+
+  4. **New Purpose**
+
+
+
+If we wish to use your personal data for a new purpose, not covered by this Notice, then we will provide you with a new Notice explaining this new use prior to commencing the processing and setting out the relevant purposes and processing conditions. Where and whenever necessary, we will seek your prior consent to the new processing.
+
+  5. **Sharing Data**
+
+
+
+Codility will not share your data with any companies outside of the Codility Group without your explicit Consent.
+
+  6. **Updating your Data**
+
+
+
+If you wish to request to update or change the information that we use of yours or how we use it, you can do so by contacting us by emailing us at [support@codility.com](mailto:support@codility.com).
+
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us via the means above.
+
+  7. **Contacting Us**
+
+
+
+Any queries or comments about this privacy notice or for requests relating to the rights listed above, please contact Codility at [dpo@codility.com](mailto:dpo@codility.com).
+
+If you wish to make a complaint about how we use your information, please contact us in the first instance via [dpo@codility.com](mailto:dpo@codility.com) and we will do our best to help.
+
+If you are still unhappy, you can contact the Information Commissioner’s Office via their website ([www.ico.org.uk](http://www.ico.org.uk/)).
+
+We will occasionally update this privacy notice and our [privacy policy](https://app.codility.com/privacy-policy/).  We encourage you to periodically review this notice to be informed of how we use your information.
+
+This Privacy Notice was last updated November 2018.
+
+More information regarding Codility and our Data Protection Policy can be found at [www.codility.com](https://www.codility.com/). 
+
+[Back to the top](https://web.archive.org/data-privacy-notice#backtotop)
+
+**I have a corporate account and am Customer of Codility’s services**
+
+  1. **Who we are**
+
+
+
+We at Codility are the Data Controller of personal data that is supplied to us when individuals sign-up for our Programmers’ service.
+
+We can be contacted at +44 (208) 970 78 68 or [dpo@codility.com](mailto:dpo@codility.com).
+
+  2. **We received your personal data when you signed-up as a Customer of Codility**
+
+
+
+Your personal data held by Codility has been supplied by you for the purpose of managing and supporting your account with us: to authenticate you; to address you in communication about the service and your activity on our site; updating you about our services and/or industry related news.  We are the Data Controller of your personal data.  It will be processed under the Performance of the Contract that we have with your organisation to supply the described service. Your personal data (including your IP address) will be held by us for 36 months after the contract is terminated at which time they will be deleted.
+
+  3. **Rights that you have**
+
+
+
+As your personal data is held by Codility you have rights under the General Data Protection Regulation (the GDPR) that Codility fully support. Your rights are:
+
+  * The right to request a copy of your personal data which Codility holds about you;
+  * The right to request that Codility corrects any personal data if it is found to be inaccurate or out of date;
+  * The right to request your personal data is erased where it is no longer necessary for Codility to retain such data;
+  * The right to withdraw any consent you have given to the processing of your data, at any time;
+  * The right to request that Codility provide the data subject with his/her personal data and where possible, to transmit that data directly to another data controller, (known as the right to data portability) for the performance of a contract with the data subject and in either case the data controller processes the data by automated means.
+  * The right, where there is a dispute in relation to the accuracy or processing of your personal data, to request a restriction is placed on further processing;
+  * The right to object to the processing of personal data including for marketing purposes
+  * The right to lodge a complaint with the Information Commissioners Office (the ICO).
+
+
+
+These rights are more fully explained at <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
+
+Should you have any questions regarding these rights and how Codility supports them, please contact us at [dpo@codility.com](mailto:dpo@codility.com).
+
+  4. **New Purpose**
+
+
+
+If we wish to use your personal data for a new purpose, not covered by this Notice, then we will provide you with a new Notice explaining this new use prior to commencing the processing and setting out the relevant purposes and processing conditions. Where and whenever necessary, we will seek your prior consent to the new processing.
+
+  5. **Sharing Data**
+
+
+
+Codility will not share your data with any companies outside of the Codility Group without your explicit Consent.
+
+  6. **Updating your Data**
+
+
+
+If you wish to request to update or change the information that we use of yours or how we use it, you can do so by contacting us by emailing us at [support@codility.com](mailto:support@codility.com)
+
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us via the means above.
+
+  7. **Contacting Us**
+
+
+
+Any queries or comments about this privacy notice or for requests relating to the rights listed above, please contact Codility at [dpo@codility.com](mailto:dpo@codility.com).
+
+If you wish to make a complaint about how we use your information, please contact us in the first instance via [dpo@codility.com](mailto:dpo@codility.com) and we will do our best to help.
+
+If you are still unhappy, you can contact the Information Commissioner’s Office via their website ([www.ico.org.uk](http://www.ico.org.uk/)).
+
+We will occasionally update this privacy notice and our [privacy policy](https://app.codility.com/privacy-policy/).  We encourage you to periodically review this notice to be informed of how we use your information.
+
+This Privacy Notice was last updated November 2018.
+
+More information regarding Codility and our Data Protection Policy can be found at [www.codility.com](https://web.archive.org/).
+
+[Back to the top](https://web.archive.org/data-privacy-notice#backtotop)
+
+**I have received or requested information regarding Codility’s services**  
+
+  1. **Who we are**
+
+
+
+We at Codility are the Data Controller of personal data that is supplied to us when individuals sign-up for our Programmers’ service.
+
+We can be contacted at +44 (208) 970 78 68 or [dpo@codility.com](mailto:dpo@codility.com).
+
+  3. **We process your personal data to provide you with information about our services**
+
+
+
+Your personal data is held by Codility for the purpose of supplying you with information about the products and services that Codility supply.  We are the Data Controller of your personal data.  It will be processed under our Legitimate Interests of marketing to businesses and business people in our industry so that we may continue to grow user base. As mentioned below, you have the right to object to our use of these Legitimate Interests in relation to your data. Should you invoke this right we will cease to contact you immediately and delete your data from our systems.  Otherwise your personal data will be held and used by us for 12 months after our last verifiable contact with you after which time it will be deleted.
+
+  4. **Rights that you have**
+
+
+
+As your personal data is held by Codility you have rights under the General Data Protection Regulation (the GDPR) that Codility fully support. Your rights are:
+
+  * The right to request a copy of your personal data which Codility holds about you;
+  * The right to request that Codility corrects any personal data if it is found to be inaccurate or out of date;
+  * The right to request your personal data is erased where it is no longer necessary for Codility to retain such data;
+  * The right to withdraw any consent you have given to the processing of your data, at any time;
+  * The right to request that Codility provide the data subject with his/her personal data and where possible, to transmit that data directly to another data controller, (known as the right to data portability) for the performance of a contract with the data subject and in either case the data controller processes the data by automated means.
+  * The right, where there is a dispute in relation to the accuracy or processing of your personal data, to request a restriction is placed on further processing;
+  * The right to object to the processing of personal data including for marketing purposes
+  * The right to lodge a complaint with the Information Commissioners Office (the ICO).
+
+
+
+These rights are more fully explained at <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
+
+Should you have any questions regarding these rights and how Codility supports them, please contact us at [dpo@codility.com](mailto:dpo@codility.com).
+
+  5. **New Purpose**
+
+
+
+If we wish to use your personal data for a new purpose, not covered by this Notice, then we will provide you with a new Notice explaining this new use prior to commencing the processing and setting out the relevant purposes and processing conditions. Where and whenever necessary, we will seek your prior consent to the new processing.
+
+  6. **Sharing Data**
+
+
+
+Codility will not share your data with any companies outside of the Codility Group without your explicit Consent.
+
+  7. **Updating your Data**
+
+
+
+If you wish to request to update or change the information that we use of yours or how we use it, you can do so by contacting us by emailing us at [support@codility.com](mailto:support@codility.com).
+
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us via the means above.
+
+  8. **Contacting Us**
+
+
+
+Any queries or comments about this privacy notice or for requests relating to the rights listed above, please contact Codility at [dpo@codility.com](mailto:dpo@codility.com).
+
+If you wish to make a complaint about how we use your information, please contact us in the first instance via [dpo@codility.com](mailto:dpo@codility.com) and we will do our best to help.
+
+If you are still unhappy, you can contact the Information Commissioner’s Office via their website ([www.ico.org.uk](http://www.ico.org.uk/))
+
+We will occasionally update this privacy notice and our [privacy policy](https://app.codility.com/privacy-policy/).  We encourage you to periodically review this notice to be informed of how we use your information.
+
+This Privacy Notice was last updated November 2018.
+
+More information regarding Codility and our Data Protection Policy can be found at [www.codility.com](https://web.archive.org/).
+
+[Back to the top](https://web.archive.org/data-privacy-notice#backtotop)
+
+**I have a trial account with Codility**
+
+  1. **Who we are**
+
+
+
+We at Codility are the Data Controller of personal data that is supplied to us when organisations sign-up for a trial of one of our services.
+
+We can be contacted at +44 (208) 970 78 68 or [dpo@codility.com](mailto:dpo@codility.com).
+
+  2. **We received your personal data when you signed-up for a trial with Codility**
+
+
+
+Your personal data held by Codility has been supplied by you for the purpose of managing and supporting your trial account with us: to authenticate you; to address you in communication about the service and your activity on our site; updating you about our services and/or industry related news.  We are the Data Controller of your personal data.  It will be processed under our Legitimate Interests of allowing organisations to use and assess our services as part of our sales process so that we may continue to grow our business. Your personal data (including your IP address) will be held by us for 12 months after the trial is terminated at which time they will be deleted. 
+
+  3. **Rights that you have**
+
+
+
+As your personal data is held by Codility you have rights under the General Data Protection Regulation (the GDPR) that Codility fully support. Your rights are:
+
+  * The right to request a copy of your personal data which Codility holds about you;
+  * The right to request that Codility corrects any personal data if it is found to be inaccurate or out of date;
+  * The right to request your personal data is erased where it is no longer necessary for Codility to retain such data;
+  * The right to withdraw any consent you have given to the processing of your data, at any time;
+  * The right to request that Codility provide the data subject with his/her personal data and where possible, to transmit that data directly to another data controller, (known as the right to data portability) for the performance of a contract with the data subject and in either case the data controller processes the data by automated means.
+  * The right, where there is a dispute in relation to the accuracy or processing of your personal data, to request a restriction is placed on further processing;
+  * The right to object to the processing of personal data including for marketing purposes
+  * The right to lodge a complaint with the Information Commissioners Office (the ICO).
+
+
+
+These rights are more fully explained at <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
+
+Should you have any questions regarding these rights and how Codility supports them, please contact us at DPO@codility.com. 
+
+  4. **New Purpose**
+
+
+
+If we wish to use your personal data for a new purpose, not covered by this Notice, then we will provide you with a new Notice explaining this new use prior to commencing the processing and setting out the relevant purposes and processing conditions. Where and whenever necessary, we will seek your prior consent to the new processing. 
+
+  5. **Sharing Data**
+
+
+
+Codility will not share your data with any companies outside of the Codility Group without your explicit Consent.
+
+  6. **Updating your Data**
+
+
+
+If you wish to request to update or change the information that we use of yours or how we use it, you can do so by contacting us by emailing us at [support@codility.com](mailto:support@codility.com).
+
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us via the means above.
+
+  7. **Contacting Us**
+
+
+
+Any queries or comments about this privacy notice or for requests relating to the rights listed above, please contact Codility at [dpo@codility.com](mailto:dpo@codility.com).
+
+If you wish to make a complaint about how we use your information, please contact us in the first instance via [dpo@codility.com](mailto:dpo@codility.com) and we will do our best to help.
+
+If you are still unhappy, you can contact the Information Commissioner’s Office via their website ([www.ico.org.uk](http://www.ico.org.uk/)). 
+
+We will occasionally update this privacy notice and our [privacy policy](https://app.codility.com/privacy-policy/).  We encourage you to periodically review this notice to be informed of how we use your information.
+
+This Privacy Notice was last updated November 2018.
+
+More information regarding Codility and our Data Protection Policy can be found at [www.codility.com](https://web.archive.org/).
+
+[Back to the top](https://web.archive.org/data-privacy-notice#backtotop)
+
+**I have taken part in an interview or assessment that used the CodeLive service**
+
+  1. **Who we are**
+
+
+
+We at Codility are the Data Processor of personal data that is supplied to us when individuals join a CodeLive session.
+
+We can be contacted at +44 (208) 970 78 68 or [dpo@codility.com](mailto:dpo@codility.com).
+
+  2. **We received your personal data so you could be invited to a CodeLive session**
+
+
+
+We received your personal data from a third party (such as a Recruiter) and we are the Data Processor of your personal data.  We are obliged to act in line with the instructions that we are given by the Data Controller (to whom you may have provided your personal data previously). You will have given your Consent to the Data Controller or your data is being processed and shared under another, GDPR compliant Legal Basis such as their Legitimate Interests or the Performance of a Contract with you.
+
+These instructions will be laid down by the Data Controller and include the following details:
+
+  * the subject matter and duration of the processing;
+  * the nature and purpose of the processing;
+  * the type of personal data and categories of data subject; and
+  * the obligations and rights of the controller.
+
+
+
+The agreement between the third party (the controller) and Codility include the following terms:
+
+That Codility must:
+
+  * only act on the written instructions of the controller (unless required by law to act without such instructions);
+  * ensure that people processing the data are subject to a duty of confidence;
+  * take appropriate measures to ensure the security of processing;
+  * only engage a sub-processor with the prior consent of the third party and a written contract;
+  * assist the third party in providing subject access and allowing data subjects to exercise their rights under the GDPR;
+  * assist the third party in meeting its GDPR obligations in relation to the security of processing, the notification of personal data breaches and data protection impact assessments;
+  * delete or return all personal data to the third party as requested at the end of the contract; and
+  * submit to audits and inspections, provide the third party with whatever information it needs to ensure that they are both meeting their Article 28 obligations, and tell the controller immediately if it is asked to do something infringing the GDPR or other data protection law of the EU or a member state.
+
+
+  3. **Rights that you have**
+
+
+
+As your personal data is held by Codility you have rights under the General Data Protection Regulation (the GDPR) that Codility fully support. Your rights are:
+
+  * The right to request a copy of your personal data which Codility holds about you;
+  * The right to request that Codility corrects any personal data if it is found to be inaccurate or out of date;
+  * The right to request your personal data is erased where it is no longer necessary for Codility to retain such data;
+  * The right to withdraw any consent you have given to the processing of your data, at any time;
+  * The right to request that Codility provide the data subject with his/her personal data and where possible, to transmit that data directly to another data controller, (known as the right to data portability) for the performance of a contract with the data subject and in either case the data controller processes the data by automated means.
+  * The right, where there is a dispute in relation to the accuracy or processing of your personal data, to request a restriction is placed on further processing;
+  * The right to object to the processing of personal data including for marketing purposes
+  * The right to lodge a complaint with the Information Commissioners Office (the ICO).
+
+
+
+These rights are more fully explained at <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
+
+Should you have any questions regarding these rights and how Codility supports them, please contact us at [dpo@codility.com](mailto:dpo@codility.com).
+
+  4. **New Purpose**
+
+
+
+If we wish to use your personal data for a new purpose, not covered by this Notice, then we will provide you with a new Notice explaining this new use prior to commencing the processing and setting out the relevant purposes and processing conditions. Where and whenever necessary, we will seek your prior consent to the new processing.
+
+  5. **Sharing Data**
+
+
+
+Codility will not share your data with any companies outside of the Codility Group without your explicit Consent.
+
+  6. **Updating your Data**
+
+
+
+If you wish to request to update or change the information that we use of yours or how we use it, you can do so by contacting us by emailing us at [support@codility.com](mailto:support@codility.com)
+
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us via the means above.
+
+  7. **Contacting Us**
+
+
+
+Any queries or comments about this privacy notice or for requests relating to the rights listed above, please contact Codility at [dpo@codility.com](mailto:dpo@codility.com).
+
+If you wish to make a complaint about how we use your information, please contact us in the first instance via [dpo@codility.com](mailto:dpo@codility.com) and we will do our best to help.
+
+If you are still unhappy, you can contact the Information Commissioner’s Office via their website ([www.ico.org.uk](http://www.ico.org.uk/)).
+
+We will occasionally update this privacy notice and our [privacy policy](https://app.codility.com/privacy-policy/).  We encourage you to periodically review this notice to be informed of how we use your information.
+
+This Privacy Notice was last updated November 2018.
+
+More information regarding Codility and our Data Protection Policy can be found at [www.codility.com](https://web.archive.org/).
+
+[Back to the top](https://web.archive.org/data-privacy-notice#backtotop)
