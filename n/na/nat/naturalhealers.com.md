@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhealers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113156id_/http%3A//www.naturalhealers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealers.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506235236id_/https%3A//www.naturalhealers.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Natural Healers | Privacy Policy
 
@@ -22,7 +22,7 @@ To enhance your experience with our Website, many of our web pages use “cookie
 
 ### Collection of Information by Third-Party Sites and Ad Servers
 
-When you browse through our Website, we collect information on the efficiency and working of our Website. This includes such information as the number of times a web page is accessed, the browser used, paths taken when moving through the Website, and search terms entered by users. We use this information to improve the operation of our Website. We may use third-party advertising companies to serve ads on our Website. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is anonymous information. If you would like more information about this practice and your choices, click [here](http://www.networkadvertising.org/optout_nonppii.asp).
+When you browse through our Website, we collect information on the efficiency and working of our Website. This includes such information as the number of times a web page is accessed, the browser used, paths taken when moving through the Website, and search terms entered by users. We use this information to improve the operation of our Website. We may use third-party advertising companies to serve ads on our Website. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is anonymous information. If you would like more information about this practice and your choices, click [here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 ### Schools Contacting You
 
@@ -43,4 +43,5 @@ All Star
 Suite 500  
 Seattle, WA 98101
 
-Last Modified: October, 2016
+Last Modified: October, 2016  
+
