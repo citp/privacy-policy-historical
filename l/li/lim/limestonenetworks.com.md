@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limestonenetworks.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623230141id_/https%3A//www.limestonenetworks.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limestonenetworks.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506035227id_/https%3A//www.limestonenetworks.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,9 +26,9 @@ Limestone Networks, Inc. does use cookies to store information about visitors pr
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-#### Google Advertising
+#### Online Advertising
 
-Upon visiting Limestone Networks, Inc. you will receive a tracking cookie from Google which specifies if you are either a current client, current reseller or only a visitor of our site. This cookie is then used on Google's advertising network to provide you with ads relevant to you. 
+Upon visiting Limestone Networks, Inc. you will receive a tracking cookie from certain advertising network such as Google and or other site accounts owned by Limestone Networks, Inc. which specifies if you are either a current client, current reseller or only a visitor of our site. This cookie is then used on Google's, Bing, Facebook, and Twitter, advertising network to provide you with ads relevant to you. 
 
 ### Information Sharing
 
@@ -51,3 +51,11 @@ We restrict access to personal information to Limestone Networks, Inc. employees
 ### Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
+
+### Additional Privacy Rights for Individuals in the European Union
+
+In addition to the rights described elsewhere in this Privacy Policy, you may have additional Personal Information protection rights pursuant to applicable information protection legislation. If you are an individual in the European Union, these may include the right to information portability, the right to withdraw consent for processing, the right to object to or restrict the processing of your Personal Information, and the right to lodge a complaint with the supervisory authority of the EU country in which you reside.
+
+### How You Can Contact Us about Privacy
+
+If you have any questions, comments, or concerns about your privacy or this Privacy Notice, please contact us at Admin@limestonenetworks.com or you may write to us at the following address: Limestone Networks Inc., 400 S Akard St Ste 200, Dallas, TX 75202.
