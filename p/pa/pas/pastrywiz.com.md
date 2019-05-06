@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pastrywiz.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206081231id_/https%3A//www.pastrywiz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastrywiz.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506043924id_/https%3A//pastrywiz.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,6 +32,6 @@ Exponential Interactive, Inc, as our partner, have a legitimate interest to coll
 PastryWiz.com has no control over the information collected by third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned. If you have questions regarding different third party measurement services and their respective methods of information collection, please contact us.
 
 **Disclosure  
-**PastryWiz.com openly volunteers its practices of collecting information and it's practices of this site. If you have any questions pertaining to this privacy policy and its contents, [please write to us](https://web.archive.org/web/20181206081231id_/https%3A//www.pastrywiz.com/mail/stmail.htm).
+**PastryWiz.com openly volunteers its practices of collecting information and it's practices of this site. If you have any questions pertaining to this privacy policy and its contents, [please write to us](https://web.archive.org/web/20190506043924id_/https%3A//pastrywiz.com/mail/stmail.htm).
 
 Copyright Š PastryWiz TM
