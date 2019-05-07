@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkspace.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005125049id_/https%3A//www.talkspace.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkspace.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507183155id_/https%3A//www.talkspace.com/public/privacy-policy) for the most accurate reproduction.*
 
 # Talkspace - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 The Personal Data and Browser Data (hereinafter collectively referred to as "Data"), automatically collected from this website (hereinafter the "Site"), by means of automated systems or freely entered by the User of this Site.
 
-Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use Talkspace.com and how we collect and use your content and information. We encourage you to read the Privacy Policy in its entirety.
+Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use Talkspace.com and how we collect and use your content and information. We encourage you to read the Talkspace Terms of Use and this Privacy Policy in its entirety.
 
 We receive a number of different types of information about you, including:
 
@@ -20,17 +20,29 @@ Usernames and User IDs, which are a way to identify you on Talkspace. A User ID 
 
 Information posted to a group chat or moderated session and information kept within a one on one session.
 
-“Contact Information” is personal information and or family/friend/relation that Talkspace stores confidentially for your Therapist to access in case of an emergency or mental health crisis.
+“Contact Information” is personal information and or family/friend/relation that Talkspace stores confidentially for your Provider to access in case of an emergency or mental health crisis.
+
+If you are coming to the site through an employer or insurer payor such as and Employee Assistance Program (EAP) then there is additional information collected by these Parties. This information is typically collected to confirm your eligibility with the EAP or network benefit administrator and is not shared with your Provider (who will collect your contact information separately). Further, your Employer or the Employer of the subscriber of your benefits will not be provided this information (you likely already gave them similar information in your employee file unless you are a family member of an eligible employee).
+
+This information may include:
+
+  
+First Name  
+Last Name  
+Email  
+Date of Birth  
+Phone number  
+Who you are (employee or the spouse, domestic partner, or dependent of an employee in certain programs)  
+Employer’s name
 
 ## Parties processing the data
 
-Talkspace is a "DBA" used by Groop Internet Platform Inc. who runs the site and keeps the Data.
+Talkspace is a "DBA" used by Groop Internet Platform Inc. who runs the site and keeps the Data. Talkspace Network LLC is a wholly owned subsidiary of Groop Internet Platform Inc. This entity partners with Businesses and Insurance Networks and contracts with our Providers for Psychology and Psychiatry., We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies or during an emergency circumstance as judged by your Provider working with local authorities). Generally, we will only use your information within our company. However, sometimes we use third parties to process your information (for example as credit card payment providers). We will require these third parties to comply strictly with its instructions and we will require that they not use your personal information for their own business purposes.  
 
-We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies or during an emergency circumstance as judged by your Therapist working with local authorities). Generally, we will only use your information within our company. However, sometimes we use third parties to process your information (for example as credit card payment providers). We will require these third parties to comply strictly with its instructions and we will require that they not use your personal information for their own business purposes.
 
 ## The Uses of the collected Data by Talkspace
 
-Talkspace uses non-identifying and aggregate information to better design our Web site and to use in research and trend analysis. For example, we may tell an advertiser that X number of individuals visited a certain area on our Web site, or that Y number of men and Z number of women filled out a site survey or form, but we would not disclose anything that could be used to identify those individuals. We only provide data to our partners, if any, after we have removed your name and any other personally identifying information from it, or have combined it with other people's data in a way that it no longer personally identifies you.
+Talkspace uses non-identifying and aggregate information to better design our Web site and to use in research and trend analysis. For example, we may tell an advertiser that X number of individuals visited a certain area on our Website, or that Y number of men and Z number of women filled out a site survey or form, but we would not disclose anything that could be used to identify those individuals. We only provide data to our partners, if any, after we have removed your name and any other personally identifying information from it, or have combined it with other people's data in a way that it no longer personally identifies you.
 
 Talkspace uses non-identifying (De-Identified or “Safe Harbor” form) and aggregate information about responses to the clinical outcome assessments (personal assessments), and the frequency of the utilization of the Talkspace service. These efforts enhance program evaluation.
 
@@ -52,7 +64,7 @@ Some forms of processing (sending promotional information, commercial profiling,
 
 Upon request we provide site visitors with access to a description of information that we maintain about them. Talkspace.com uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. If you feel that this site is not following its stated information policy, you may contact us at addresses or phone number below.
 
-For content that is covered by intellectual property rights, like photos and videos you specifically grant Talkspace.com a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Talkspace.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. This Paragraph does NOT apply to photos, images or other videos shared ONLY with your Therapist in your private “Room” on the Platform.
+For content that is covered by intellectual property rights, like photos and videos you specifically grant Talkspace.com a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Talkspace.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. This Paragraph does NOT apply to photos, images or other videos shared ONLY with your Provider in your private “Room” on the Platform.
 
 When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
 
@@ -83,6 +95,20 @@ The Talkspace Platform is available on a multitude of portable electronic device
 ## Your Use of Your Personal Data
 
 If a Talkspace.com User utilizes the Platform to publish or otherwise share their own Personal Data or Contact Information with third parties, he or she assumes full responsibility for any further use of that Data or information.
+
+## International Use and The GDPR
+
+The Talkspace Platform advises both its Client/Users and practicing Platform Providers to be aware of and respect and comply with the local laws of any international based Client. Talkspace is cognizant and respects the formal promulgation of the existing European Union (EU) data privacy regulations. The General Data Protection Regulation 2016/679 is a regulation in EU law on data protection and privacy for all individuals within the European Union and the European Economic Area. It also addresses the export of personal data outside the EU and EEA and is commonly referred to as “GDPR.” Talkspace has always respected our Client’s Privacy (see our Privacy Policy) and we were already a HIPAA certified platform following stringent data privacy rules.
+
+The basic tenants of the promulgated GDPR regulations include, but are not limited to the following:
+
+Disclosure when you sell, transfer or third party marketing of User’s data: As outlined in this Terms of Use, Talkspace does not sell or transfer Client data and any marketing efforts are focused solely on internal information updates to our registered Clients.  
+Access to collected data: At Talkspace, you already have the ability to access your shared data (Your personal information, your emergency contact information and all your interactions with your Providers) and use it as you wish.  
+Clear Consent: At Talkspace our Terms of Use are clear on what consent we seek with regards to your data and prior to your engagement with your Provider, you review and agree to a further “informed consent” process.  
+Security: At Talkspace we have encrypted our data from day one and has always been stored all Private Health Information with full HIPAA compliance and in an anonymized form as required by the GDPR.   
+Notice/Audit: At Talkspace, we will provide our Clients notice of any data breach and we employ a full time security Officer, as well as engaging a third party security firm to periodically audit both or code and technology security as well as our HIPAA policies and procedures around data security.  
+‍  
+Finally, dependent of your EU country or origin, the GDPR takes into account what was previously termed the right “to forget” or request deletion of your data once you cease using a particular application or site. This particular tenant of the GDPR may conflict with applicable medical records retention laws. In the United States, this requires at least seven years of retention, which is common around the world and is sometime up to ten years or more in certain countries. So, unlike some data platforms, Talkspace cannot erase private health data directly upon a Client’s request, as it may be considered essential for other medical file retention purposes. Applicable individual country medical retention laws are generally considered an acceptable exception to the GDPR regulations regarding the right to deletion of certain data.
 
 ## Disputes
 
@@ -122,10 +148,10 @@ We strive to create a global community with consistent standards for everyone, b
 
 Talkspace.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to Talkspace.com at the "contact us" link on the website.
 
-Understand, that we treat your use of our platform with the utmost respect to your privacy. We keep all information not disclosed above private between the Therapist and the User, keeping only non-decimated "file" copies for reference in case of legal dispute of by court order as we are required to under Federal Laws for period up to seven years or by the applicable State Regulation. File retention protects both the User and the Therapists safety. Talkspace is not responsible for data lost/exposed/used due to the nature of the Internet and digital environments, including illegal actions of hackers and criminals, technical malfunctions of servers and database etc. These are the accepted risks of our Users and users of the Internet in general. You are agreeing to this standard in using our site.
+Understand, that we treat your use of our platform with the utmost respect to your privacy. We keep all information not disclosed above private between the Provider and the User, keeping only non-decimated "file" copies for reference in case of legal dispute of by court order as we are required to under Federal Laws for period up to seven years or by the applicable State Regulation. File retention protects both the User and the Providers safety. Talkspace is not responsible for data lost/exposed/used due to the nature of the Internet and digital environments, including illegal actions of hackers and criminals, technical malfunctions of servers and database etc. These are the accepted risks of our Users and users of the Internet in general. You are agreeing to this standard in using our site.
 
 Talkspace reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective. Regardless of later updates or changes to our privacy notice, we will never use the information you submit under our current privacy notice in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
 
 ‍
 
- **This Privacy notice was last updated on December 1, 2017 and is deemed effective as of this date.**
+ **This Privacy Policy was  last updated on December 1, 2018  and is deemed effective as of this date.**
