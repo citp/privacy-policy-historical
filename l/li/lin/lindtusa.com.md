@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212005101id_/http%3A//www.lindtusa.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507105406id_/https%3A//www.lindtusa.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy
+# Lindt Chocolate Privacy Policy | LindtUSA
 
 **Lindt & Sprüngli ** ( **"Lindt", "we", "us"** or " **our"** ) is committed to protecting your privacy. This Privacy Notice (" **Privacy Notice** ") explains how Lindt processes personal data, for what purposes, how we disclose it and what choices you have regarding our use of information about you. This Privacy Notice applies to information collected on our websites, online shops and applications (" **Sites** "). 
 
