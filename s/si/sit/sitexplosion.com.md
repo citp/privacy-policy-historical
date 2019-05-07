@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitexplosion.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105062614id_/http%3A//sitexplosion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitexplosion.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507133902id_/http%3A//sitexplosion.com/privacy.php) for the most accurate reproduction.*
 
 # SiteXplosion - Share & Discover All The Web Has To Offer!
 
