@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the birmingham.gov.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902211424id_/https%3A//www.birmingham.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birmingham.gov.uk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507093912id_/https%3A//www.birmingham.gov.uk/privacy) for the most accurate reproduction.*
 
 # Overview | Privacy statement | Birmingham City Council
 
-As a local authority Birmingham City Council ( _the Council_ ) collects, holds and processes a considerable amount of information, including personal data about you, the citizens of Birmingham and other website visitors.  This allows us to provide our services more effectively.
+As a local authority Birmingham City Council ( _the council_ ) collects, holds and processes a considerable amount of information, including personal data about you, the citizens of Birmingham and other website visitors. This allows us to provide our services more effectively.
 
 We understand that your personal data is important to you, and we have a responsibility to you regarding the information we hold about you, to ensure that the information we collect and use is done so proportionately, correctly and safely.
 
