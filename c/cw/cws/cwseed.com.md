@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwseed.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201070548id_/http%3A//www.cwseed.com/cwseed-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwseed.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507180007id_/https%3A//www.cwseed.com/cwseed-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CW Seed | Home of Original Digital Series
 
