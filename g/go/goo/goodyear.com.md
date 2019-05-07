@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodyear.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231131549id_/https%3A//www.goodyear.com/en-US/terms-conditions-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyear.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507124621id_/https%3A//www.goodyear.com/en-US/terms-conditions-privacy-policy) for the most accurate reproduction.*
 
 # Terms & Conditions and Privacy Policy | Goodyear Tires
 
@@ -108,7 +108,7 @@ From time to time, Goodyear may revise this Global Privacy Policy, in which case
 Questions or comments about this Policy should be submitted to the following person, by mail or e-mail:
 
 Director Compliance & Ethics   
-Phone: [(330) 796-7288](tel:330-796-7288)   
+Phone: (330) 796-7288   
 E-mail: [privacy_office@goodyear.com](mailto:privacy_office@goodyear.com)
 
 **_Addendum for Individuals Located in (or whose PII is Processed by Goodyear Entities established in) the European Economic Area (“EU Addendum”)_**
