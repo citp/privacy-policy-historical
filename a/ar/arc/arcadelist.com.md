@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the arcadelist.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516013932id_/http%3A//thunderstormgames.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadelist.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507102418id_/http%3A//www.thunderstormgames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Thunderstorm Games
+# Privacy Policy - thunderstormgames.com
 
-This Privacy Policy governs the manner in which Thunderstorm Games collects, uses, maintains and discloses information collected from users (each, a "User") of [thunderstormgames.com](http://thunderstormgames.com/ "Thunderstorm Games") website ("Site"). This privacy policy applies to the Site and all products and services offered by Thunderstorm Games.
+This Privacy Policy governs the manner in which Thunderstorm Games collects, uses, maintains and discloses information collected from users (each, a "User") of thunderstormgames.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Thunderstorm Games.
 
 ## Personal identification information
 
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 ## Non-personal identification information
 
@@ -18,19 +18,12 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ## How we use collected information
 
-Thunderstorm Games may collect and use Users personal information for the following purposes:  
+Thunderstorm Games may collect and use Users personal information for the following purposes:
 
-
-  *  _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  *  _\- To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-
-
+1\. - To improve customer service - Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+2\. - To personalize user experience - We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our site.  
+3\. - To improve our Site - We may use feedback you provide to improve our products and services.  
+4\. - To process payments - We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
 ## How we protect your information
 
@@ -62,10 +55,9 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Thunderstorm Games](http://thunderstormgames.com/ "Thunderstorm Games")  
-[thunderstormgames.com](http://thunderstormgames.com/ "Thunderstorm Games")
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-This document was last updated on January 08, 2014
+[Thunderstorm Games](https://web.archive.org/web/20190507102418id_/http%3A//www.thunderstormgames.com/title=)  
+[thunderstormgames.com](https://web.archive.org/web/20190507102418id_/http%3A//www.thunderstormgames.com/%7B%7Burl%7D%7D "Thunderstorm Games")
 
-Thunderstorm Games
+Copyright 2019 thunderstormgames.com \- [Terms of Service](http://www.thunderstormgames.com/terms-of-service) \- [Privacy Policy](http://www.thunderstormgames.com/privacy-policy)
