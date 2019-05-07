@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thebark.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229033828id_/https%3A//thebark.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebark.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507220527id_/https%3A//thebark.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Bark
 
-Last updated: 5/25/2018
+Last updated: 3/26/2019
 
 The Bark, Inc. (“Bark,” “we” or “us”) respects your privacy and has adopted policies and procedures to ensure that information collected on our website or by ordering from The Bark about our visitors and customers (“you” or "visitors") is handled responsibly. This Privacy Policy (“Policy”) describes the privacy practices of [www.thebark.com](http://www.thebark.com/) (“website”) and _The Bark_ ("magazine"). Use of this website is also subject to our [Terms of Use](https://thebark.com/content/terms-service).
 
-**Information Collection and Use – Personally Identifiable Information**  
+ **Information Collection and Use – Personally Identifiable Information**  
 The website only collects the personally identifiable information that you provide to us. Personally identifiable information includes data such as your name, street address, email address, telephone number, or, when necessary, financial, payment, or billing information. For information about updating or requesting deletion of your personally identifiable information, [click here](mailto:customerservice@thebark.com?subject=Privacy%3A%20Delete%20Account%20Information).
 
 We may collect personally identifiable information (including name, address, telephone number, e-mail address, and, when necessary, financial, payment, or billing information) when you:  
@@ -32,16 +32,28 @@ At Bark, we always want to provide you with the best possible service experience
 
 By providing your email address and showing us you opt-in, you consent to receive transactional emails, newsletters and other promotional or informational mailings from us. Instructions for unsubscribing are included in every e-mail.
 
-**Customer Privacy Options**  
- _For those who have shared a mailing address with us as a  print magazine subscription_: If you prefer not to receive traditional mail or other off-line promotions from this or any other The Bark, Inc. property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties (eg. direct mail) not owned by The Bark, Inc., please [click here](mailto:customerservice@thebark.com?subject=Privacy%3A%20opt-out%20of%20all%20mailing%20promotions).
+ **Customer Privacy Options**  
+ _For those who have shared a mailing address with us as a  print magazine subscription_: If you prefer not to receive traditional mail or other off-line promotions from this or any other The Bark, Inc. property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties (eg. direct mail) not owned by The Bark, Inc., please [click here](mailto:customerservice@thebark.com?subject=Privacy%3A%20opt-out%20of%20all%20mailing%20promotions&body=I%20am%20a%20subscriber%20to%20THE%20BARK%20magazine.%20Please%20update%20my%20preferences.%20Below%20is%20my%20account%20information.%0A--The%20Bark%20Account%20Number%3A%0A--Mailing%20Address%3A).
 
-If you prefer not to receive e-mail marketing from this or any other The Bark, Inc. property, or if you want to opt-out of any sharing of your email address with third parties not owned by The Bark, Inc., please click [here](mailto:customerservice@thebark.com?subject=Privacy%3A%20opt-out%20of%20all%20emailing%20promotions).
+If you prefer not to receive e-mail marketing from this or any other The Bark, Inc. property, or if you want to opt-out of any sharing of your email address with third parties not owned by The Bark, Inc., please click [here](https://thebark.us1.list-manage.com/unsubscribe?u=306bffbddb6f6dfc426d930cd&id=e8c8dbbec1).
 
-Your California Privacy Rights: Notice to California Customers California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please[ click here](mailto:customerservice@thebark.com?subject=Privacy%3A%20opt-out%20of%20all%20mailing%20promotions), or for email please [click here](mailto:customerservice@thebark.com?subject=Privacy%3A%20opt-out%20of%20all%20emailing%20promotions).
+Your California Privacy Rights: Notice to California Customers California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please[ click here](mailto:customerservice@thebark.com?subject=Privacy%3A%20opt-out%20of%20all%20mailing%20promotions&body=I%20am%20a%20subscriber%20to%20THE%20BARK%20magazine.%20Please%20update%20my%20preferences.%20Below%20is%20my%20account%20information.%0A--The%20Bark%20Account%20Number%3A%0A--Mailing%20Address%3A), or for email please [click here](http://thebark.us1.list-manage.com/unsubscribe?u=306bffbddb6f6dfc426d930cd&id=e8c8dbbec1).
 
 You can find more information about cookies at [www.allaboutcookies.org](http://www.britishmuseum.org/www.allaboutcookies.org) and [www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-**Information Collection and Use: Anonymous or Aggregate Data**
+### Advertising Privacy Statement
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.  
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.  
+
+For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at [customerservice@thebark.com](mailto:customerservice@thebark.com) ** ** and contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
+
+ **Information Collection and Use: Anonymous or Aggregate Data**
 
 • Profile  
 Each time you visit our website, our web server receives information from your computer such as your Internet protocol (IP) address, domain name, referral data (e.g., the address of the website you visited before clicking through to our website), and browser and platform type. We store this information using cookies, log files or user profiles administered by a third party. A profile consists of information we store about individual visitors that details their viewing preferences. These profiles do not contain information that individually identifies a visitor. We may use profile information to offer promotions to users, improve or customize the content of the site for a visitor, or direct certain types of information to a visitor. We may share aggregate profile information (without individually identifying information) with third parties.
@@ -62,7 +74,7 @@ Like most websites, we use log files to track visitors’ access to our website.
 • Clear Gifs (Web Beacons/Web Bugs)  
 We may employ software technology called “clear gifs” (also known as “web beacons” or “web bugs”) that help us better manage content on our site by informing us what content is most popular and most effective. Clear gifs are tiny graphics with a unique identifier, and are used to track the online movements of website visitors. Clear gifs are invisible on the page and are about the size of the period at the end of this sentence. Clear gifs are not tied to visitors’ personally identifiable information.
 
-**Information Disclosure to Third Parties**  
+ **Information Disclosure to Third Parties**  
 We do not disclose information from or about you except as described in this Policy.
 
 • Legal Requirements  
@@ -97,26 +109,26 @@ Your personally identifiable information and anonymized data collected about you
 
 
 
-**Public Postings**  
+ **Public Postings**  
 Our website provides numerous opportunities for visitors to express their opinions and views, which are subject to the standards of conduct in our Terms of Use. Content you submit to these forums will be made publicly available. For example, statements made in an online discussion forum will be made publicly available and attributed to you, subject to Bark’s sole discretion. You should be careful not to post anything that you do not wish to be publicly available, such as your personal contact information or sensitive information. Once information is made publicly available on our website (no matter how long it may remain available), it may be copied or downloaded by other persons, and Bark has no control over who may obtain the information or what they may do with it.
 
-**Surveys & Polls**  
+ **Surveys & Polls**  
 We occasionally conduct surveys and polls. Participation in these is completely voluntary. Non-personal demographic information collected in surveys or polls will be used to monitor and improve the website. If a survey or poll requests personally identifiable information, that information will only be used for the purpose disclosed at the point of collection.
 
-**Security**  
+ **Security**  
 We take physical, technical and administrative precautions to protect our visitors’ information from unauthorized access or use. Notwithstanding these measures, no transmission of data over the Internet or any other public network, or any online service, can be guaranteed to be 100% secure.
 
-**Links to Third Party Websites**  
+ **Links to Third Party Websites**  
 This website contains links to third party websites that offer products, services, and features that may be of interest to Bark visitors. User-created content such as comments or profile pages also may include links to or addresses for third-party websites. Bark is not responsible for the privacy and security practices of those third party sites; this Policy does not govern those websites. We encourage our visitors to be aware when they leave our website and to read the privacy policies and terms of use of each website that they visit.
 
-**Third-Party or Co-branded Features**  
+ **Third-Party or Co-branded Features**  
 Bark periodically collaborates with other companies to offer special features through our website. Because these offerings are not provided by Bark, they are subject to the third party’s privacy policies and procedures.
 
-**Notification of Changes**  
+ **Notification of Changes**  
 If we update our Privacy Policy, we will post those changes to this web page and revise the “Last Updated” date at the top of this page. We encourage our visitors to review this Policy each time they visit our website.
 
-**International Users and Jurisdiction**  
+ **International Users and Jurisdiction**  
 This website is published in the United States. Information collected on this website is subject to the laws of the United States, and US law shall govern in any and all disputes, including privacy or defamation issues. Your use of this website or submission of information to us constitutes your consent to the transfer of that information from your home country to the US.
 
-**Contact Information**  
+ **Contact Information**  
 If you have questions or concerns regarding this Policy, please [contact us](mailto:webmaster@thebark.com?subject=Questions%20regarding%20privacy%20policy) or send postal mail to Webmaster, The Bark, 2810 8th Street, Berkeley, CA 94710.
