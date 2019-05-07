@@ -1,28 +1,17 @@
-> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423032629id_/http%3A//texasguntrader.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507155054id_/https%3A//texasguntrader.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# Extra Page 11 Title
+# None
 
-The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
--U.S. Constitution, 4th amendment.
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
-**Privacy Policy Statement      Created August 21, 2013  
-**
 
-We will take all reasonable steps to protect your personal information.
 
-We will  **not**  distribute your personal information (including email address) to any third party*.
-
-IRC channels, classified ads, forums, blogs, wiki pages, RSS feeds, and other components are available to our community. Any information that you disclose(d) in these areas becomes public information. Please exercise caution when deciding to disclose any personal information on this website.
-
-Our servers are located in a highly secure complex, and incorporate all industry standard measures for both physical and data security.
-
-We may use your IP address or MAC address information for internal uses such as gathering demographic information and external (publicly viewable) uses such as geolocation and mapping functions. Other examples of the information we automatically collect include login name, email address, password, computer and connection information such as browser type and version, operating system, and platform. This information will  **not**  be shared with third parties*. This information can be used for statistical analysis.
-
-IP Address, email, and initial user communications are logged and may be reviewed internally for dispute resolution.
-
-We may from time to time update this Policy. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of the Policy. You can determine when this Policy was last revised by checking the "Created" date at the top of the Policy.
-
-**We respect your privacy.**
-
-*In the event of a court ordered criminal investigation TexasGunTrader will cooperate with law enforcement officials. We will submit only information relevent to the investigation. We support your individual liberties.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
