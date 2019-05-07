@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildlastingsuccess.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817085558id_/http%3A//www.buildlastingsuccess.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildlastingsuccess.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507204101id_/http%3A//www.buildlastingsuccess.com/policies/privacy) for the most accurate reproduction.*
 
 # Build Lasting Success -
 
@@ -83,6 +83,16 @@ You may be able to opt out of targeted advertising through your browser's "setti
 **Usage Data**
 
 We may collect usage data about you whenever you interact with the System, which may include the dates and times that you access the System and your browsing activities (such as what portions of the System are used). We also collect information regarding the performance of the System, including metrics related to the deliverability of emails and other communications you send through the System. This information allows us to improve the content and operation of the System, and facilitate research and analysis of the System.
+
+**Additional Limits on Use of Your Google User Data**
+
+Notwithstanding anything else in this Policy, if you provide us access to the following types of Your Google data, our use of that data will be subject to these additional restrictions:
+
+We will only use access to read, write, modify, or control Gmail message bodies (including attachments), metadata, headers, and settings to provide a web email client that allows You to compose, send, read, and process emails and will not transfer this Gmail data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets.
+
+We will not use Your Gmail data for serving advertisements.
+
+We will not allow humans to read this data unless We have Your affirmative agreement for specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for the System’s internal operations and even then only when the data has been aggregated and anonymized.
 
 **_Communications from the Site_**
 
@@ -189,7 +199,7 @@ If users have any questions or suggestions regarding our privacy policy, or wish
 [support@buildlastingsuccess.com](mailto:support@buildlastingsuccess.com)  
 [www.buildlastingsuccess.com](https://www.buildlastingsuccess.com/)  
 Networx Online, Inc.  
-27702 Crown Valley Parkway, #127  
-Ladera Ranch, CA 92694
+1968 S. Coast Hwy, Suite 1800  
+Laguna Beach, CA 92651
 
-**This policy is effective May 25, 2018**
+**This policy is effective April 30, 2019**
