@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205011650id_/https%3A//www.simplydresses.com/info/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507174608id_/https%3A//www.simplydresses.com/info/policies%23privacy) for the most accurate reproduction.*
 
 # Company Policies, Order Information, Payment Methods
 
@@ -32,8 +32,8 @@ We ship most orders the same day they’re placed!
 
   * The selected item must be marked “IN STOCK READY TO SHIP”
   * Order must be placed on Business days (Monday-Friday, non holiday)
-  * Place your order before 12 noon EST and choose US Next Day Shipping
-  * Place your order before 9 AM EST and choose US Ground Shipping
+  * Place your order before 12 noon EST and choose Rush 1 Day shipping
+  * Place your order before 9 AM EST and choose Standard 3-7 Days shipping
 
 
 
@@ -47,7 +47,7 @@ If you find a lower price on any dress we carry online, we will match it plus 2%
 
 ## Payment Methods
 
-We accept Visa, Mastercard, Discover, American Express, Money Order, Paypal and Simply Dresses Store Credit. You can pay via checking account using Paypal. To pay for your order with a money order do not place your order online. Mail your money order with your order information to...
+We accept Visa, Mastercard, Discover, American Express, Money Order, AfterPay*, Paypal and Simply Dresses Store Credit. You can pay via checking account using Paypal**. To pay for your order with a money order do not place your order online. Mail your money order with your order information to...
 
 Simply Dresses  
 105 Sleepy Hollow Dr. Suite C.  
@@ -55,7 +55,9 @@ Middletown, DE 19709
 
 Please include your name, phone number, email address, shipping address, style number, size and color.
 
-*When paying by check (E-check) via PayPal please allow 6-8 business days for the E-check to clear. Once it clears your order will then be processed.
+*For more information about AfterPay, please click [here.](https://web.archive.org/info/afterpay)
+
+**When paying by check (E-check) via PayPal please allow 6-8 business days for the E-check to clear. Once it clears your order will then be processed.
 
 ## Security
 
