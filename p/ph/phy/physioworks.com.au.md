@@ -1,26 +1,193 @@
-> *The following text is extracted and transformed from the physioworks.com.au privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008100626id_/https%3A//physioworks.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioworks.com.au privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507134136id_/https%3A//physioworks.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-PHYSIOWORKS respects your privacy and is committed to protecting your personal information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your personal information by PHYSIOWORKS. Please note that, PHYSIOWORKS reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how PHYSIOWORKS collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by PHYSIOWORKS as explained below. 
+## Introduction
 
-1\. Personal Information. You have complete control over your personal information. In general, you can visit our web site without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you an access to our protected and secured sites. This information may include registration data (your name, address, email address, phone number, title, etc.), information request data and response data ("User Information"). When you receive your confirmation email or when you receive any email from the list server, you will be given instructions on how to remove yourself from the list.
+This Privacy Policy explains how we at PhysioWorks protect the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
-2\. Use of User Information. We intend to use such information for purposes of supporting your and your employers relationship with PHYSIOWORKS by designing a web site content that is suitable to your needs and alerting you to new product and service offerings as they become available. This User Information may be retained by PHYSIOWORKS to verify compliance with the agreement between PHYSIOWORKS and your employer, to keep track of the domains from which people visit us, to create a user profile to better serve you and your employer, or to simply contact you either electronically or otherwise. If you decide that we should not use your personal User Information to contact you, please let us know and we will not use that information for such purpose. However, please do not submit any User Information if you are less than 18 years of age.
+We’ve tried to make this Privacy Policy as easy to read as possible. After all it’s your information and you deserve to know what we do to protect it, and all the rights you have. If there is anything you’re not sure of though please contact us directly via [admin@physioworks.com.au](mailto:admin@physioworks.com.au) or via phone on +61 7 32691122 and we’d be happy to answer any questions you have.
 
-3\. Disclosure of User Information. PHYSIOWORKS does not sell, trade or transfer User Information to third parties. However, we may share User Information with our PARTNERS for marketing, advertising or product/service offering purposes. For example, we provide User Information to our PARTNERS for direct emailing of our newsletters, online surveys or notifications on PHYSIOWORKS Offerings to our viewers. We also disclose User Information if: we have your consent; we need to share it in order to provide you with the products and/or services you requested; we respond to a court order or you violate our [Terms of Use](https://web.archive.org/terms). You may separately agree to provide your personal information to third parties that provide content for PHYSIOWORKS Offerings, in order to access and/or use their products and/or services. If you agree to provide such information to these third parties, then your personal information will be subject to their privacy policies.
+Definitions
 
-4\. Accuracy and Security. The accuracy and security of the User Information is important to PHYSIOWORKS. Currently, you may review and request updates to your User Information retained by contacting PHYSIOWORKS. If you contact us to correct your User Information, we will attempt to correct such inaccuracies in a timely manner. PHYSIOWORKS is concerned with the security of your User Information and is committed to taking reasonable steps to protect it from unauthorised access and use of that personal information. To that end, we put in place the appropriate physical, electronic and managerial policies and procedures to secure your personal User Information. We also continue to implement procedures to maintain accurate, complete and current User Information.
+We use a bunch of different terms in this policy. To make sure it is clear what we are talking about, here are some definitions of what we mean by each of these terms:
 
-5\. Usernames and Passwords. Access to certain content on our web site may be allowed under a written agreement between you or your employer and PHYSIOWORKS and will require a username and/or password. In some cases, failure to provide personal information may prevent you from accessing certain PHYSIOWORKS web pages containing certain confidential information, products, services, or promotional offers ("PHYSIOWORKS Offerings"). By accessing and using our protected and secured web site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our [Terms of Use](https://web.archive.org/terms).
+Personal Data
 
-6\. Cookies. PHYSIOWORKS uses "cookies". A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information such as your username and password that helps us recognize the pages you have visited and improve future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off of your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted, however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser (Microsoft Internet Explorer or Netscape Navigator) to warn you before accepting cookies or you can refuse all cookies by turning them off in your web browser. However, access to some of our secured web site(s) may require the use of cookies, which you must enable only cookies that get sent back to the originating server. Otherwise, you can still access most of the features on our web site even without accepting a cookie.
+  * Personal Data means data about a living individual who can be identified from those data. This includes information such as a name, address, telephone number, email address, or other account numbers, and information about that individual's activities when directly linked to that person such as information about his or her use of the PhysioWorks website or services.
+  * Personal information can also include demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information, which is data we collect about a group or category of products, services or people, from which individual identities have been removed.
 
-7\. External Links. PHYSIOWORKS web site provides links to other third party web sites. Even if the third party is affiliated with PHYSIOWORKS through a business partnership or otherwise, PHYSIOWORKS is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk.
 
-8\. Terms of Use. Please also see our [Terms of Use](https://web.archive.org/terms), which describes the restrictions, disclaimers, indemnification and limitation of liability governing the use of the entire PHYSIOWORKS web site.
 
-9\. General. If you have questions regarding our Privacy Statement, please contact PHYSIOWORKS via our [Contact Us](https://web.archive.org/contact-us) page. Updated 18-Jan-2018 11:00 PM 
+Usage Data
+
+  * Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+
+
+Cookies
+
+  * Cookies are small pieces of data stored on a User's device.
+
+
+
+Data Controller
+
+  * Data Controller means a person or entity who determines the purposes for which and the manner in which any personal data are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of the data you give us to set up and manage your PhysioWorks account.
+
+
+
+Data Processors (or Service Providers)
+
+  * Data Processor (or Service Provider) means a person or entity who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.
+
+
+
+Data Subject
+
+  * Data Subject is any living individual who is the subject of Personal Data.
+
+
+
+User
+
+  * The User is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
+
+
+
+The Type of Data we Collect
+
+Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to: Email address, Name, Address, State, Province, ZIP/Postal code, City, Credit Card details, Cookies and Usage Data.
+
+We may use your Personal Data to contact you with information about new features or announcements, to update you on the status of your account, to issue invoices, receipts or payment reminders, other information that may be relevant to you.
+
+We don’t recommend it, but you can opt out of receiving emails about new features and similar announcements by clicking on the ‘opt-out’ link or instructions in the email. You can not opt out of receiving transactional emails or notifications relating to your account status, security announcements or other communication that might be essential to the operation of your account.
+
+Of course, if you are no longer a user of PhysioWorks, and all business with us is concluded (for example you closed your practice and your PhysioWorks account) you can opt out of all communications from us.
+
+Usage Data
+
+We may also collect information about how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some or all of our Service.
+
+Examples of Cookies we use: session cookies (we use these cookies to operate our Service) and preference cookies (we use these cookies to remember your preferences and various settings).
+
+How we use Personal Information
+
+We collect and use your personal information to operate our web site and deliver our services to you. We will use your personal information to provide you with: online appointment book services, client management utilities, technical support, billing and credit control, sales and support, product upgrades and information. We also use your personal information it monitors the usage of the service, and to detect, prevent and address technical issues.
+
+We treat all information we collect from you as strictly confidential. We do not rent, lease or make available its customer lists or any other information contained in your account (including client details), to third parties. We will not reveal, disclose, sell, distribute, rent, licence, share or pass onto any third party (other than those who are contracted or supply services to us including of spam filter operators) any personal information that you may have provided to us, or stored in your account, unless we have your express consent to do so, other than in the circumstances set out in the next paragraph.
+
+Your Privacy and Disclosure of Data
+
+We will not disclose any material uploaded to our servers to anyone else without your permission, unless as permitted or required by law; requested and needed for your client's emergency treatment in exceptional circumstances, or for the prevention of immediate risk of loss of life or serious harm; to various regulatory bodies and law enforcement officials and agencies to protect against fraud and for related security purposes.
+
+If we are involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+Retention of Data
+
+We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+Security of Data
+
+PhysioWorks has an extensive range of security features in place to protect your personal information from unauthorised access. In addition we maintain our servers in a controlled and secured physical environment, however, no method of data storage and transmission (whether electronic or physical) can be deemed to be 100% secure and therefore we can not make this guarantee.
+
+You have an important role in keeping your data secure. You are responsible for maintaining the confidentiality of your personal details, account details and password. Your passwords protect your personal information and you are responsible for any activities that occur in your account or in respect of your use of this service. Please let us immediately if you suspect the security of your password or account has been compromised in any manner.
+
+Legal Basis for Processing Personal Data Under the General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), PhysioWorks’s legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+PhysioWorks may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it's not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+Your Data Protection Rights Under the General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. We also extend these rights to all users, even if you are located outside of the EEA. We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * The right to access, update or to delete the information we have on you.
+  * The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * The right to object. You have the right to object to our processing of your Personal Data.
+  * The right of restriction. You have the right to request that we restrict the processing of your personal information.
+  * The right to data portability. You have the right to be provided with a copy of your Personal Data in a structured, machine-readable and commonly used format.
+  * The right to withdraw consent. You also have the right to withdraw your consent at any time where PhysioWorks relied on your consent to process your personal information.
+
+
+
+These rights can be enacted by contacting us on admin@physioworks.com.au Please note that we may ask you to verify your identity before responding to such requests. (If you are a patient or client of a business that uses physioworks.com.au you will need to contact that business directly to discuss or evoke your protection rights.)
+
+If you live in the EEA you have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+PhysioWorks as a Data Controller (GDPR)
+
+We provide internet-based advice typically used to manage health conditions. As part of using PhysioWorks you, our customer, are likely to personal information stored about you in your PhysioWorks account. According to the GDPR, in these circumstances, you are considered to be the Data Controller, and we are your Data Processor.
+
+You are responsible for making sure that your Clients’ / Patients’ privacy and associated rights are respected. As your Data Processor, we will take care to protect the privacy of your clients and will process their Personal Data in accordance with the terms of our agreement with you, and under your lawful instruction.
+
+Third Party Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+Google Analytics
+
+  * Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+  * You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+  * For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+
+
+Online Appointment Bookings
+
+  * We use Powerdiary for online appointment bookings storage of patient records. You can access their [Privacy Policy here](https://www.powerdiary.com/privacy/).
+
+
+
+Payment Processors
+
+  * We use third-party services for payment processing (e.g. payment processors). These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+  * Your payments to us are processed by SecurePay. You can access their [Privacy Policy here.](https://www.securepay.com.au/privacy-policy/)
+
+
+
+Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+Policy Changes
+
+From time to time, we may review and update this Privacy Policy. Revised versions will be updated on this website and be effective once posted. We will also place a notice on our Login Page to indicate when changes are made. 
+
+Feedback
+
+We welcome your feedback. If you have any comments or about this Privacy Policy or would like to contact us or our Data Protection Officer for any reason, please email us at [admin@physioworks.com.au](mailto:admin@physioworks.com.au) for our contact details.
+
+Updated 14-Jan-2019 03:38 PM 
 
 ### Receive Special Offers and the Latest Injury Information
 
