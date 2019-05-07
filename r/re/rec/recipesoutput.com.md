@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipesoutput.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031124433id_/http%3A//recipesoutput.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipesoutput.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507043006id_/http%3A//recipesoutput.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
