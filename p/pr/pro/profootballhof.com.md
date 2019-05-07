@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002083358id_/http%3A//www.profootballhof.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507072540id_/https%3A//www.profootballhof.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service | Pro Football Hall of Fame Official Site
 
-_Last Updated: Sept. 10, 2018_
+_Last Updated: Feb. 13, 2018_
 
 NFL Enterprises LLC, the National Football League, and the other members of the NFL Family (collectively, “NFL,” “we,” “our,” “us”) respect your privacy and value your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our website www.ProFootballHOF.com,  (the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.
 
@@ -90,12 +90,14 @@ We are committed to maintaining your trust, and we want you to understand when a
   *   **Subsidiaries and Affiliates:  **We may share your information with all members of the NFL Family, including, without limitation, our subsidiaries and affiliates (e.g., NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.).
   * **  Member Clubs: **We may share your information with Member Clubs, each of whom has its own privacy policy, which is available on the Member Club's respective website.
   * **  Select Business Partners: ** With your prior permission, you may be presented with an opportunity to have certain information shared with our third party business partners when you enter a contest or sweepstakes or elect to receive marketing offers or other information.  If you do not elect to have your information shared, it will not be shared with such third parties.  
+  * **Contests and Sweepstakes:**   In some cases, a third party may operate or host a contest or sweepstakes on the Services, and collect your information. In those cases, we urge you to review the third party's privacy policy for that contest or sweepstakes before participating. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them. However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. Please read their respective privacy policies for more information.
+  * **Third-Party Ad Serving and Audience and Traffic Measurement Services:**   We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/.
   * **  Business Transfer:** If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, we may transfer your information as part of such transaction.
   * **  Administrative or Legal Process:** We may disclose your information to third parties in order to protect the legal rights, safety, and security of the NFL, our corporate affiliates, subsidiaries, business partners, and the users of our Services; enforce our Terms of Use; respond to and resolve claims or complaints; prevent fraud or for risk management purposes; and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
+  * **  Interactive Features:** We may share information with third parties when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool. If you post to these interactive features, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure that parties who have access to such information will respect your privacy.  Please exercise caution when using these features.
   *   **Other Parties With Your Consent:  **We may share information with third parties when you consent to such sharing.  For example, if you win a contest or sweepstakes, we may ask your permission to publicly post certain information on the Services identifying you as the winner.
   *   **Aggregate Information:  **We may share aggregate information, such as demographics and usage statistics, with advertisers, sponsors or other organizations. 
-  *   **Geolocation Information:  **We may share your geolocation information with service providers that perform certain functions or services on our behalf. These companies are authorized to use precise geolocation information only as necessary to provide these services to us.  We also may share your geolocation information with third parties so that they may provide you with geographically relevant advertising.  If you wish to stop the further collection of your geolocation information, please opt-out using your device settings.  
- 
+  *   **Geolocation Information:  **We may share your geolocation information with service providers that perform certain functions or services on our behalf. These companies are authorized to use precise geolocation information only as necessary to provide these services to us.  We also may share your geolocation information with third parties so that they may provide you with geographically relevant advertising.  If you wish to stop the further collection of your geolocation information, please opt-out using your device settings.
 
 
 
@@ -119,7 +121,7 @@ The Services may contain links to other websites or online services that are ope
 
 ## Security
 
-The security of your personal information is important to us.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at HOFPrivacy@ProFootballHOF.com.  
+The security of your personal information is important to us.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at HOFPrivacy@ProFootballHOF.com. 
 
 ## Data Retention
 
@@ -129,13 +131,11 @@ We will retain your information for as long as your account is active, as needed
 
 ## Children’s Privacy
 
-The Services do not knowingly collect, use, or disclose personal information from children under the age of 13.   If we are made aware we have collected personal information from a child under 13 years old in a manner that is inconsistent with the Children’s Online Privacy Protection Act (“COPPA”), we will delete this information as soon as possible.
-
-The NFL’s online properties that are directed to children, such as NFLRush.com, link to a different privacy policy.
+The Services do not knowingly collect, use, or disclose personal information from children under the age of 13.   If we are made aware we have collected personal information from a child under 13 years old, we will delete this information as soon as possible.
 
 ## Communications Preferences and Access
 
-You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive.  Please note that opt-out requests may take up to 10 days to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
+You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive.  Opt-out requests for these types of communications are required to take effect 10 days after the initial request as part of the CAN-SPAM Act.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
 
 If your information changes, or if you no longer desire to use the Services, you may request that we update, delete inaccuracies, or remove certain information by signing into your account and making the required changes, by emailing our Customer Support at [HOFPrivacy@ProFootballHOF.com](mailto:HOFPrivacy@ProFootballHOF.com), or by contacting us by postal mail at the contact information listed below.  
 
