@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protiviti.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010052255id_/https%3A//www.protiviti.com/US-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protiviti.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507061435id_/https%3A//www.protiviti.com/US-en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Protiviti - United States
 
@@ -10,7 +10,7 @@ When you use or register with the Site, we may ask for certain Personal Informat
 
 The Site also utilizes cookies to track your online activities, including your registration, submissions, and information requests, in accordance with applicable law. Cookies are files placed on your computer by a website server. Cookies on this Site do not collect Personal Information, but we do track your online activities and may link that information with Personal Information you have provided us through online registration. Your web browser may be set to accept cookies automatically, but can be changed to decline them. The Help section of the toolbar on most browsers will tell you how to set your browser to prevent accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. Please note that if you decline to accept cookies, then when and if you choose to download materials from the Site, you may be required to register each time you download materials from the Site.
 
-We use Personal Information and other data collected through the Site to register you with the Site and to otherwise provide you with requested information or services. We may also from time to time use your Personal Information to send you automated email messages or marketing materials regarding our services. These email messages may contain web beacons and other features that help us make sure that you received and were able to open the message. You may opt out of receiving such marketing email messages at any time by sending a message with "unsubscribe" in the subject line to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#17676572717265727974726457676578637e617e637e3974787a), or by following the instructions in any marketing communication.
+We use Personal Information and other data collected through the Site to register you with the Site and to otherwise provide you with requested information or services. We may also from time to time use your Personal Information to send you automated email messages or marketing materials regarding our services. These email messages may contain web beacons and other features that help us make sure that you received and were able to open the message. You may opt out of receiving such marketing email messages at any time by sending a message with "unsubscribe" in the subject line to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4c3c3e292a293e29222f293f0c3c3e2338253a253825622f2321), or by following the instructions in any marketing communication.
 
 #### **Disclosures of Personal Information**
 
@@ -57,7 +57,7 @@ This Privacy Policy does not address, and we are not responsible for, the privac
 
 #### **Personal Data Access and Correction**
 
-Protiviti will provide access to, update and amend, and/or delete the Personal Information in accordance with applicable law. You can request access to, and have the opportunity to update and amend your Personal Information, and, you can exercise the other rights acknowledged by applicable data protection legislation, including, for example, objection to and blocking of the processing of your Personal Information, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b2b293e3d3e293e35383e281b2b29342f322d322f3275383436) or by sending a letter to Attn: Database Management, Protiviti Inc., 2884 Sand Hill Road, Menlo Park, California 94025. For security reasons, Protiviti reserves the right to take steps to authenticate the identity of the requesting party before providing access to Personal Information in accordance with this section of the Privacy Policy.
+Protiviti will provide access to, update and amend, and/or delete the Personal Information in accordance with applicable law. You can request access to, and have the opportunity to update and amend your Personal Information, and, you can exercise the other rights acknowledged by applicable data protection legislation, including, for example, objection to and blocking of the processing of your Personal Information, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cbbbb9aeadaeb9aea5a8aeb88bbbb9a4bfa2bda2bfa2e5a8a4a6) or by sending a letter to Attn: Database Management, Protiviti Inc., 2884 Sand Hill Road, Menlo Park, California 94025. For security reasons, Protiviti reserves the right to take steps to authenticate the identity of the requesting party before providing access to Personal Information in accordance with this section of the Privacy Policy.
 
 #### **Revisions to the Policy**
 
@@ -87,7 +87,7 @@ If you have an unresolved concern about European Client Engagement Data that we 
 
 #### **Contact Us**
 
-Please contact us here [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e5b5978c9384869cc8b68d8c808981a5b5978a918c938c918ccb868a88) if you have any questions, wish to exercise your rights of access, or seek other assistance related to our participation in the Frameworks as described above.
+Please contact us here [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8bdbf9e2fdeae8f2a6d8e3e2eee7efcbdbf9e4ffe2fde2ffe2a5e8e4e6) if you have any questions, wish to exercise your rights of access, or seek other assistance related to our participation in the Frameworks as described above.
 
 #### This Policy is effective as of October 23, 2017. If you have any questions about our website privacy policies, please contact us at:
 
@@ -100,4 +100,4 @@ Menlo Park, California 94025
 +1.650.234.6000 
 
 **Email Address**    
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afdbcaccc7c1c6cccec381dcdadfdfc0dddbefdfddc0dbc6d9c6dbc681ccc0c2)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#96e2f3f5fef8fff5f7fab8e5e3e6e6f9e4e2d6e6e4f9e2ffe0ffe2ffb8f5f9fb)
