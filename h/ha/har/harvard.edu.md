@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvard.edu privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226195410id_/https%3A//www.harvard.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvard.edu privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507231428id_/https%3A//www.harvard.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Harvard University
 
