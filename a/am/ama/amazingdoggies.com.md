@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingdoggies.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314081635id_/http%3A//amazingdoggies.com/amazingdoggies-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingdoggies.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507201120id_/http%3A//amazingdoggies.com/amazingdoggies-com-privacy-policy) for the most accurate reproduction.*
 
 # amazingdoggies.com Privacy Policy – Amazing Doggies
 
@@ -101,5 +101,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 amazingdoggies.com  
 610 N. Gilbert Road  
 Gilbert, Arizona 85234 United States  
-info@amazingdoggies.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 Last Edited on 2015-10-04
