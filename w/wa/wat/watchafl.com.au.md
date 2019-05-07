@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchafl.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815013905id_/https%3A//www.watchafl.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchafl.com.au privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507043804id_/https%3A//www.watchafl.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch AFL
 
