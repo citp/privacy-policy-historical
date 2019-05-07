@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sathyamcinemas.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430051125id_/https%3A//www.spicinemas.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sathyamcinemas.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507090942id_/https%3A//www.spicinemas.in/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -78,3 +78,13 @@ To opt out of the Google Analytics please visit [https://tools.google.com/dlpage
 ## MODIFICATIONS TO THIS DOCUMENT
 
 SPI Cinemas may modify this Privacy Policy and the way it handles Personal Information at any time in its sole discretion. 
+
+We notice that you already have an order in progress for this session.
+
+###### Attention!
+
+Sorry, there are no seats available for this show right now. Please try again after a few minutes.
+
+###### Active Orders
+
+You cannot open more than three sessions. Please click on one of the active orders to continue.
