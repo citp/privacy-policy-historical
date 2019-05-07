@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdirectorylinks.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106073648id_/http%3A//www.topdirectorylinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdirectorylinks.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507021215id_/http%3A//www.topdirectorylinks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
