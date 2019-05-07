@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usamega.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010025225id_/https%3A//www.usamega.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usamega.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507085430id_/https%3A//www.usamega.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | USA Mega
 
@@ -12,8 +12,10 @@ Guests' e-mail addresses are never posted on BGL websites, except where specific
 
 "Cookies" are small bits of information sent from a web site that are stored on your computer.  They are used to do the "record keeping" that allows a computer to remember when you've registered on a site.  This saves you the trouble of re-entering the same information during repeated visits.  BGL uses cookies only to make your experience with us easier and more enjoyable.
 
-Your browser controls the use of cookies and, if you prefer, can be set to either accept or refuse them.  Our websites will continue to work fine on your computer without cookies, but we will be unable to provide a customized experience for you. 
+Your browser controls the use of cookies and, if you prefer, can be set to either accept or refuse them.  Our websites will continue to work fine on your computer without cookies, but we will be unable to provide a customized experience for you.
+
+In conjunction with our in-house advertising, we use third-party advertising companies to place customized advertisements on the pages you view on the Site. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements to the Site. These companies may use non-personal information collected by the cookies about your visits to the Site and other web sites in order to provide you with advertisements about goods and services of interest to you. 
 
 Guests under 18 years of age should not submit information to BGL without the consent of their parent or guardian. 
 
-If you have any questions or comments regarding this statement, please [contact us](https://web.archive.org/web/20181010025225id_/https%3A//www.usamega.com/contact.asp).
+If you have any questions or comments regarding this statement, please [contact us](https://web.archive.org/web/20190507085430id_/https%3A//www.usamega.com/contact.asp).
