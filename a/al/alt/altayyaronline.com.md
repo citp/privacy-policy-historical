@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altayyaronline.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927123102id_/https%3A//www.altayyaronline.com/contentserver/commons/AltayyarOnline-Privacy-Policy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altayyaronline.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507180855id_/https%3A//www.altayyaronline.com/contentserver/commons/AltayyarOnline-Privacy-Policy-en.html) for the most accurate reproduction.*
 
 # Privacy Policy | Altayyar Online
 
