@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phins.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105044124id_/http%3A//www.phins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phins.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507182157id_/http%3A//www.phins.com/privacy.html) for the most accurate reproduction.*
 
-# Phins.com Privacy Policy
+# 
 
 ##  Privacy Statement for Phins.com 
 
@@ -40,4 +40,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 The only personal information we store are email addresses and access to those addresses is limited to the director of Phins.com. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us here](https://web.archive.org/web/20181105044124id_/http%3A//www.phins.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us here](https://web.archive.org/web/20190507182157id_/http%3A//www.phins.com/contact.html). 
