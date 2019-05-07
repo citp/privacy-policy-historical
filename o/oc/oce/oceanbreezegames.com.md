@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanbreezegames.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105025703id_/http%3A//www.oceanbreezegames.com/index.php%3FPAGE%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanbreezegames.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507083038id_/http%3A//www.oceanbreezegames.com/index.php%3FPAGE%3Dprivacy) for the most accurate reproduction.*
 
 # Download Games
 
