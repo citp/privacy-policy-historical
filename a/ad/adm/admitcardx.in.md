@@ -1,28 +1,45 @@
-> *The following text is extracted and transformed from the admitcardx.in privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107221527id_/http%3A//www.sitjobs.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admitcardx.in privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507043051id_/http%3A//admitcardx.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SIT Jobs 2017 Sarkari Naukri, Admit Card Result
+# Privacy policy – Admit Cardx
 
-The privacy of our visitors on admitcardjobs.in is very important for us. If you require more details or have any query about our privacy frankly ask any question on our  **[contact us](http://www.admitcardjobs.in/contact-us/)** Page
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@admitcardx.in).
 
-This privacy policy document outline the types of individual information is received & collected by www.admitcardjobs.in & how it is used. We think that privacy of visitor’s personal information kept safe and it is important to do not share with anyone. We never forward your personal details to anyone. The aspirants are strictly advised to go through the Official notification to check all details for Eligibility Criteria/Selection Mode etc. & compare it after this if the visitor satisfying then they have to apply for the concerned posts.
+At http://admitcardx.in we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://admitcardx.in and how we use it.
 
-**Log Files**
+**Log Files**  
+Like many other Web sites, http://admitcardx.in makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-The details inside the log files include IP (internet protocol) addresses,/type of browser, Internet Service Provider (ISP) date/time stamp/ referring/exit pages& no. of clicks to analyze trends, IP addresses
+**Cookies and Web Beacons**  
+http://admitcardx.in uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-**Cookies and Web Beacons**
+**DoubleClick DART Cookie**
 
-www.admitcardjobs.in use cookies to store details about visitor’s preferences, record user-detailed on which pages the user access or visit to customize Advertisements.
+→ Google, as a third party vendor, uses cookies to serve ads on http://admitcardx.in.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://admitcardx.in and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**Double-click DART Cookie**
+**Our Advertising Partners**
 
-Google, as a 3rd party purveyor uses cookies to serve ads on our website. Google’s use of the DART cookie enables it, to serve ads to users based on their visit to www.admitcardjobs.in and other sites on the Internet. Some of our advertising partners may use cookies. Our website admitcardjobs.in does not have any control over these cookies that are used by third-party.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-Google Adsense  
-Infolinks
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:  [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://admitcardx.in._
 
-These third-party ad servers or ad networks use different technology to the advertisements &links that appear on www.admitcardjobs.in send directly to your browsers.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://admitcardx.in and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-They repeatedly receive of your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks Calculate the success of their advertisements &/ or to  _personalize_  the advertising content that you see.
+http://admitcardx.in has no access to or control over these cookies that are used by third-party advertisers.
 
-Every step has been taken to secure the accuracy of information appointed in this site. Admitcardjobs.in does not accept any accountability for any loss to any person for the result of any action taken on the basis of this information. If you wish to disable cookies, you may do so through your individual browser options.
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://admitcardx.in’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://admitcardx.in does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://admitcardx.in has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
