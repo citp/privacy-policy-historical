@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927131953id_/https%3A//bluecava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507055050id_/https%3A//bluecava.com/privacy-policy) for the most accurate reproduction.*
 
 # Qualia Online Privacy Policy | Qualia
 
