@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dangerous.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230094905id_/https%3A//www.dangerous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dangerous.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507102729id_/https%3A//www.dangerous.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • DANGEROUS
 
