@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218102856id_/https%3A//www.ecb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507063833id_/https%3A//www.ecb.co.uk/privacy) for the most accurate reproduction.*
 
 # England and Wales Cricket Board (ECB) - The Official Website of the ECB
 
@@ -8,37 +8,37 @@ Please note - we will never share your data with ECB Partners. We will include t
 
 This website is operated by England and Wales Cricket Board Limited (the **ECB)** as part of its network of sites and subsites (together, the **ECB Websites** ). 
 
-##  **The ECB and what it does**
+## **The ECB and what it does**
 
 The ECB is the governing body for cricket in England and Wales and is responsible for the growth and participation in cricket from grass roots level all the way through to the professional game and is behind a number of initiatives to help fans get involved including:
 
- **Cricket World Cup 2019.   **The ECB is the Local Organising Committee for the event run on behalf of the International Cricket Council (ICC) the world governing body for cricket - [FIND OUT MORE](http://www.cricketworldcup.com/)
+**Cricket World Cup 2019.   **The ECB is the Local Organising Committee for the event run on behalf of the International Cricket Council (ICC) the world governing body for cricket - [FIND OUT MORE](http://www.cricketworldcup.com/)
 
- **Play-Cricket.   **The online home of recreational cricket. Designed to help administrators manage their Leagues, Competitions, Clubs and Teams, whilst allowing access to all the latest scores and stats for players and their followers - [FIND OUT MORE](http://www.play-cricket.com/)
+**Play-Cricket.   **The online home of recreational cricket. Designed to help administrators manage their Leagues, Competitions, Clubs and Teams, whilst allowing access to all the latest scores and stats for players and their followers - [FIND OUT MORE](http://www.play-cricket.com/)
 
- **We Are England Cricket Supporters.   **Helps to keep fans informed with news, highlights and behind the scenes content from the England camp - [FIND OUT MORE](https://www.ecb.co.uk/#users)
+**We Are England Cricket Supporters.   **Helps to keep fans informed with news, highlights and behind the scenes content from the England camp - [FIND OUT MORE](https://www.ecb.co.uk/#users)
 
- **All Stars Cricket.   **A programme for all 5 – 8 year olds designed to give them their first taste of cricket - [FIND OUT MORE](https://www.ecb.co.uk/play/all-stars)
+**All Stars Cricket.   **A programme for all 5 – 8 year olds designed to give them their first taste of cricket - [FIND OUT MORE](https://www.ecb.co.uk/play/all-stars)
 
- **The New Competition.  **The ECB is the operator of the new competition - TBC
+**The New Competition.  **The ECB is the operator of the new competition - TBC
 
-##  **Data protection compliance**  
+## **Data protection compliance**  
 
 Unless stated otherwise, the ECB is the data controller in respect of all personal data collected on the ECB Websites which means that we are responsible for ensuring that we do so in full compliance with data protection and all other related privacy laws. 
 
 This Privacy Policy explains what information is collected about you, how it is used, and the steps taken to ensure that it is kept secure. We also explain your rights and how to contact us.
 
-##  **Additional privacy information**
+## **Additional privacy information**
 
 Additional privacy terms, which form part of this Privacy Policy, apply to personal data and use of, certain ECB Websites and services. Please click on the relevant link(s) below to view the additional terms: 
 
- **IT IS IMPORTANT THAT YOU UNDERSTAND AND ARE COMFORTABLE WITH THESE TERMS BEFORE USING THE RELEVANT WEBSITE AND/OR SERVICE AND WE ENCOURAGE YOU TO TAKE TIME TO READ THEM**
+**IT IS IMPORTANT THAT YOU UNDERSTAND AND ARE COMFORTABLE WITH THESE TERMS BEFORE USING THE RELEVANT WEBSITE AND/OR SERVICE AND WE ENCOURAGE YOU TO TAKE TIME TO READ THEM**
 
- **Service  **
+**Service  **
 
 | 
 
- **Link**  
+**Link**  
   
 ---|---  
   
@@ -48,7 +48,7 @@ There are no additional privacy terms at this time
 
  N/A  
   
-##  **Links to other websites**
+## **Links to other websites**
 
 Please note, ECB Websites may contain links to other websites (such as those of advertisers or our partners) that are not controlled by us, or our service providers. These links are provided for your convenience. We are only responsible for our own privacy practices and our security of ECB Websites. We recommend that you check the privacy and security policies and procedures of each and every other website that you visit.
 
@@ -64,29 +64,29 @@ If you are under 13, we will normally only send newsletters and offers and oppor
 
 In order to provide the goods or services you request, we will obtain details including:
 
-  *  **contact details** of those subscribing or registering for services, placing orders or making bookings and, where you do any of these things on behalf of another person we may require their contact details as well 
-  *  **date of birth** for example, where the service you require has age related restrictions or for verification purposes
-  *  **supporting information** other information that is relevant to the goods or services you request such as photo ID information for accreditations, clothing size for purchases of kit or other clothing items, dietary requirements where you are attending an event where refreshments are provided, allergy information or treatment that may need to be given to help those attending events. Details of the particular support information needed will normally be shown on the particular ECB Website for the goods or service you require.
-  *  **gender / disability / ethnicity information** to enable us to ensure we meet our social inclusion and anti-discrimination responsibilities. We do not always ask for this and will only do so where we consider it relevant
-  *  **feedback** and survey responses we receive from you and others
+  * **contact details** of those subscribing or registering for services, placing orders or making bookings and, where you do any of these things on behalf of another person we may require their contact details as well 
+  * **date of birth** for example, where the service you require has age related restrictions or for verification purposes
+  * **supporting information** other information that is relevant to the goods or services you request such as photo ID information for accreditations, clothing size for purchases of kit or other clothing items, dietary requirements where you are attending an event where refreshments are provided, allergy information or treatment that may need to be given to help those attending events. Details of the particular support information needed will normally be shown on the particular ECB Website for the goods or service you require.
+  * **gender / disability / ethnicity information** to enable us to ensure we meet our social inclusion and anti-discrimination responsibilities. We do not always ask for this and will only do so where we consider it relevant
+  * **feedback** and survey responses we receive from you and others
 
 
 
-##  **Where we obtain information**
+## **Where we obtain information**
 
 In most cases we will obtain information directly from you (or from someone who requests goods or services for you on your behalf) or the device you use to communicate with us.  The information will be obtained through ECB Websites, telephone conversations, emails and written and verbal communications (including blogs and social media interactions) and from records of the goods and services provided to you.  Some of this information may be obtained from the service providers we use such as ticket operators.
 
 We may supplement the information that you provide with other information that we obtain from our dealings with you (such as tickets you have purchased, newsletters you have subscribed to, events you or someone you book for have attended, achievements in cricket and details from other ECB services you have signed up for, use or have used such as Play-Cricket and We Are England Supporters) or which we receive from other organisations, such as other cricket organisations, sponsors or commercial partners.
 
- **Information about other people**
+**Information about other people**
 
 If you provide information to us about any person other than yourself, you must ensure that they understand how their information will be used and that you are authorised to disclose it to us, and to consent to its use on their behalf, before doing so.
 
- **IP addresses**
+**IP addresses**
 
 In order to understand how users use ECB Websites and our services and the things they are interested in, we may collect your Internet Protocol addresses (also known as IP addresses).  Your IP address is a unique address that computer devices (such as PCs, tablets and smartphones) use to identify themselves and in order to communicate with other devices in the network.
 
- **Cookies**  
+**Cookies**  
 
 In common with many other website operators, we may use standard technology called 'cookies' on ECB Websites. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate ECB Websites on each visit.
 
@@ -94,25 +94,25 @@ Our cookies are used to enable us to develop ECB Websites and to enable you to p
 
 The cookies we use can be found here [SHOW ME THE COOKIES](https://www.ecb.co.uk/cookies)   ** **
 
- **Preventing use of cookies**  
+**Preventing use of cookies**  
 
 Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored.  With experience, you can usually choose to switch off all cookies or to allow only certain ‘trusted’ sites to place cookies.
 
 For further information on cookies and Flash cookies and how to switch them off see the Information Commissioner’s website at _www.ico.gov.uk_ or visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) or _www.aboutcookies.org_.
 
- **PLEASE NOTE, IF YOU DO TURN COOKIES OFF, THIS WILL LIMIT THE SERVICE THAT WE ARE ABLE TO PROVIDE TO YOU AND MAY AFFECT YOUR USER EXPERIENCE**
+**PLEASE NOTE, IF YOU DO TURN COOKIES OFF, THIS WILL LIMIT THE SERVICE THAT WE ARE ABLE TO PROVIDE TO YOU AND MAY AFFECT YOUR USER EXPERIENCE**
 
-##  **Tracking technology**
+## **Tracking technology**
 
 Occasionally, we may use digital tracking (usually in a cookie) on ECB Websites or in emails we send to you.  We use these to ensure you receive appropriate information and do not receive multiple communications about the same thing (such as ticketing offers) from different cricket related organisations. 
 
- **Preventing use of tracking technologies**
+**Preventing use of tracking technologies**
 
 If you stop cookies, this will normally stop any tracking from the website. Where we plan to use tracking technology, we will ask for your consent.
 
- **PLEASE NOTE, IF YOU DO NOT ALLOW US TO USE TRACKING TECHNOLOGY, YOU MAY RECEIVE COMMUNICATIONS THAT ARE OF LESS INTEREST TO YOU OR FROM ALL OF THOSE ORGANISATIONS THAT ARE INVOLVED IN PUTTING ON AN EVENT**
+**PLEASE NOTE, IF YOU DO NOT ALLOW US TO USE TRACKING TECHNOLOGY, YOU MAY RECEIVE COMMUNICATIONS THAT ARE OF LESS INTEREST TO YOU OR FROM ALL OF THOSE ORGANISATIONS THAT ARE INVOLVED IN PUTTING ON AN EVENT**
 
-##  **How we will use your information**
+## **How we will use your information**
 
 All personal information that we obtain about you and/or any other person whose details you provide will be recorded, used, and protected by us in accordance with current data protection legislation, our TERMS OF USE for the relevant ECB Website and any other terms and conditions that are relevant to the goods or services you request and this Privacy Policy. We will primarily use the personal information for:
 
@@ -121,37 +121,37 @@ All personal information that we obtain about you and/or any other person whose 
   * to communicate with you in the event that any goods or services requested are unavailable or if there is a query or problem with your requests
   * to ensure a safe environment for the enjoyment of cricket events and activities
   * for record keeping purposes
-  *  **market research.** to carry out market research so that we can improve the goods and services we offer
-  *  **service development.** for research purposes and to enable us to understand requirements and develop cricket related services
-  *  **social inclusion.** to keep under review equal opportunities within cricket or ethnicity information to enable us to monitor and ensure compliance with anti-discrimination policies or to comply with our obligations to Sport England
+  * **market research.** to carry out market research so that we can improve the goods and services we offer
+  * **service development.** for research purposes and to enable us to understand requirements and develop cricket related services
+  * **social inclusion.** to keep under review equal opportunities within cricket or ethnicity information to enable us to monitor and ensure compliance with anti-discrimination policies or to comply with our obligations to Sport England
   * to track and analyse activity on ECB Websites and to understand the interests and views of fans and customers
-  *  **getting to know you.** to create an individual profile for you so that we can enhance your user experience, to understand and respect your preferences and to provide newsletters and details of relevant offers and opportunities where you have agreed to receive them
+  * **getting to know you.** to create an individual profile for you so that we can enhance your user experience, to understand and respect your preferences and to provide newsletters and details of relevant offers and opportunities where you have agreed to receive them
 
 
 
-##  **Consent and lawful processing of personal data**
+## **Consent and lawful processing of personal data**
 
 The legal basis for the collection and processing of your personal data is:
 
-  *  **for administration and service delivery:** that it is necessary to fulfil the contract that you are going to enter into or have entered into with us
-  *  **for dealing with medical needs:** that you have given your explicit consent or, in serious cases that it is in your vital interests to help you
-  *  **for direct marketing:** that you have given your consent
-  *  **for equality and inclusion:** that you have given your explicit consent by answering the question
-  *  **in all other cases:** that it is necessary for our legitimate interests which are to encourage participation in cricket and this does not prejudice or harm your rights and freedoms
+  * **for administration and service delivery:** that it is necessary to fulfil the contract that you are going to enter into or have entered into with us
+  * **for dealing with medical needs:** that you have given your explicit consent or, in serious cases that it is in your vital interests to help you
+  * **for direct marketing:** that you have given your consent
+  * **for equality and inclusion:** that you have given your explicit consent by answering the question
+  * **in all other cases:** that it is necessary for our legitimate interests which are to encourage participation in cricket and this does not prejudice or harm your rights and freedoms
 
 
 
- **Disclosing your personal information**
+**Disclosing your personal information**
 
 In order to provide our products and services, we may, occasionally, appoint other organisations to carry out some of the processing activities on our behalf. These may include, for example, technology hosts, printing companies and mailing houses. In these circumstances, we will ensure that personal information is properly protected and that it is only used in accordance with this Privacy Policy.
 
 We may pass relevant personal information to match venues, First Class Cricket Counties, County Cricket Boards, Clubs and Leagues for cricket administration and research purposes where we believe this is appropriate to the service you require or to enable them to understand player, fan and customer activity and to develop cricket related services. 
 
- **Use of your personal information at events**
+**Use of your personal information at events**
 
 In order to provide and administer events, we will provide relevant details to those running and specific sessions you attend.  We will also use your information to ensure compliance with Ground Regulations (where appropriate) and to make any required security checks in order to ensure a safe environment for you and others to enjoy cricket.
 
- **Payment information**
+**Payment information**
 
 The payment card information you provide will only be available to the payment provider.  This will not be available to the ECB.
 
@@ -165,7 +165,7 @@ You can view an up-to-date list of [CRICKET ORGANISATIONS](https://web.archive.o
 
 The ECB, [CRICKET ORGANISATIONS](https://web.archive.org/web/news/404241) and [ECB SPONSORS & PARTNERS](https://www.ecb.co.uk/sponsors-and-partners) would like to contact you and/or any person whose information you provide to us to invite you to enjoy other products and services (where you have agreed to us sending an invitation), to provide newsletters and to tell you and/or them about offers and opportunities that are available and about a range of other initiatives in a number of ways, including by post, text message, email or, for relevant services, push notification, personalised on-screen messages and social media.   Details of how to opt-in to or opt-out of receiving newsletters and details of offers are on relevant pages of the ECB Websites, in relevant forms you complete and/or in the electronic message you receive.  
 
- **Preferences / Subscribe / Unsubscribe**
+**Preferences / Subscribe / Unsubscribe**
 
 You and any other person whose information you have provided to us can change your/their mind about whether you wish to receive details of offers and opportunities at any time by using any of the methods shown below (see the section ‘ **How to contact** **us** ’ below) or by following the instructions with each offer you/they receive.
 
@@ -206,8 +206,8 @@ If you are providing updates or corrections about another person, we may require
 You have a number of legal rights in respect of your personal data.  These include: 
 
   * The right to receive a copy of the personal data that we hold about you. The same right applies to any other person whose personal data you provide to us.  We will require proof of identity and proof of authority if the request comes from someone other than the person whose data we are asked to provide.  This will ensure we only provide information to the correct person.  We normally expect to respond to requests within 28 days of receiving them.
-  *  **withdraw consent to direct marketing.** You can exercise this right at any time and can update your preferences yourself or ask us to do it for you.  See section ‘ **Updating and correcting your personal data** ’ above for details.
-  *  **withdraw consent to other processing.** Where the only legal basis for our processing your personal data is that we have your consent to do so, you may withdraw your consent to that processing at any time and we will have to stop processing your personal data.  Please note, this will only affect a new activity and does not mean that processing carried out before you withdrew your consent is unlawful.
+  * **withdraw consent to direct marketing.** You can exercise this right at any time and can update your preferences yourself or ask us to do it for you.  See section ‘ **Updating and correcting your personal data** ’ above for details.
+  * **withdraw consent to other processing.** Where the only legal basis for our processing your personal data is that we have your consent to do so, you may withdraw your consent to that processing at any time and we will have to stop processing your personal data.  Please note, this will only affect a new activity and does not mean that processing carried out before you withdrew your consent is unlawful.
   * If you consider any of your personal data is inaccurate, you can correct it yourself or ask us to do it for you (see section ‘ **Updating and correcting your personal data** ’ above for details).
   * In limited circumstances you may be able to require us to restrict our processing of your personal data.  For example, if you consider what we hold is inaccurate and we disagree, the processing may be restricted until the accuracy has been verified
   * In some circumstances, for example, where we have no legal basis for retaining your personal data, you may be entitled to require us to delete your personal data
@@ -218,7 +218,7 @@ You have a number of legal rights in respect of your personal data.  These incl
 
 ## How to contact us
 
- **Mail**
+**Mail**
 
 Privacy Officer
 
@@ -230,10 +230,10 @@ London
 
 NW8 8QZ
 
- **Phone**  
+**Phone**  
 
 0207 432 1200
 
- **Privacy officer**
+**Privacy officer**
 
 privacy@ecb.co.uk
