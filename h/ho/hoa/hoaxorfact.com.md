@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoaxorfact.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105144314id_/https%3A//www.hoaxorfact.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoaxorfact.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507222147id_/http%3A//www.hoaxorfact.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hoax Or Fact
 
