@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the itsallfreeonline.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627004714id_/http%3A//itsallfreeonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallfreeonline.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507102924id_/https%3A//itsallfreeonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Its All Free Online - Free Samples
-
-  
-We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](http://g.ezoic.net/privacy/itsallfreeonline.com).  
-
 
 **Privacy Policy**
 
