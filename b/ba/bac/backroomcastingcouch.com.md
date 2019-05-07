@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backroomcastingcouch.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217105929id_/https%3A//backroomcastingcouch.com/free/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backroomcastingcouch.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507140822id_/https%3A//backroomcastingcouch.com/free/privacy.html) for the most accurate reproduction.*
 
 # Backroom Casting Couch -
 
