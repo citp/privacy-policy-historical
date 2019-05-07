@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yoyogames.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112022206id_/https%3A//www.yoyogames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoyogames.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507091508id_/https%3A//www.yoyogames.com/privacy) for the most accurate reproduction.*
 
 # Privacy | YoYo Games
 
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. [ Learn more ](https://www.yoyogames.com/legal/cookies)
 
-#### Last updated: 01/11/2018
+#### Last updated: 04/01/2019
 
 ### Introduction
 
@@ -151,7 +151,7 @@ To provide you with information about, and support for, our Services, including 
 
 Necessary for the performance of a contact and necessary to comply with a legal or regulatory obligation  
   
-To keep you informed of products or services that you request from us or which we feel may interest you, offers and promotions relating to our Services, provided that you don't "opt-out" from this option
+To keep you informed of products or services that you request from us or which we feel may interest you, educational materials relating to our Services, provided that you don't "opt-out" from this option
 
 | 
 
@@ -175,7 +175,7 @@ To prevent you from using our websites and Services if you have requested that w
 
 Necessary to comply with a legal or regulatory obligation  
   
-For general marketing purposes, but only where you have provided your express and informed consent
+For general marketing purposes, offers and promotions, but only where you have provided your express and informed consent
 
 | 
 
@@ -233,11 +233,9 @@ Our Services may, from time to time, contain links to and from the websites or s
 
 10.3 Unless you have informed us that you wish to receive promotional information and emails, we will not send you such communications.
 
-10.4 Unless you have informed us that you do not wish to receive operational information, we will send you such communications, until you inform us that you no longer wish to receive them.
+10.4 You may update your marketing preferences at any time by accessing our [Preference Centre](https://accounts.yoyogames.com/profile/preferences).
 
-10.5 You may update your marketing preferences at any time by accessing our [Preference Centre](https://accounts.yoyogames.com/profile/preferences).
-
-### 11\. Marketing Preferences
+### 11\. Education Privacy Policy
 
 11.1 Notwithstanding anything express or implied herein to the contrary, YYG does not collect and/or process any Personal Information or any personally identifiable data from Education Institutions’ students, pursuant to or in connection with an Educational License, and thus students remain entirely anonymous to YYG. For the avoidance of doubt, despite the fact that we do not collect any Personal Information from Education Institutions’ students, we do collect and process Personal Information from Authorised Representatives of Education Institutions (i.e. teachers) in the course of opening an account with YYG for use of the YYG Platforms. For more information, please see our YYG Platforms User Agreement.
 
