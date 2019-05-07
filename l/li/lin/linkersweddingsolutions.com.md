@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkersweddingsolutions.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104113011id_/http%3A//linkersweddingsolutions.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkersweddingsolutions.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507111900id_/http%3A//linkersweddingsolutions.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Linkers Wedding Solutions | Wedding | Wedding Planner | Event Organizer | Indian Wedding | Wedding Sites | Wedding Planners In Delhi | Wedding Planners In Chandigarh | Indian Wedding Decorations | Wedding Planning | Chandigarh Hotel | Events Management | Event Company | Events Jobs | Event Management Courses | Wedding Planner Checklist
 
