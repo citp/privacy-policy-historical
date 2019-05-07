@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixabay.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231002827id_/https%3A//pixabay.com/en/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixabay.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507122727id_/https%3A//pixabay.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
