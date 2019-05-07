@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igcall.net privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910095435id_/http%3A//www.igcall.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igcall.net privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508004802id_/http%3A//www.igcall.net/privacy.php) for the most accurate reproduction.*
 
 # Welcome to Igcall....
 
