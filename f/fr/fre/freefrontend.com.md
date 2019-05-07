@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefrontend.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708081127id_/https%3A//freefrontend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefrontend.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507122112id_/https%3A//freefrontend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies Policy
 
@@ -101,7 +101,7 @@ Some of the services listed below may use Cookies to identify Users or they may 
 
 Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of freefrontend and User behavior concerning ads, products and services offered.
 
-Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](https://web.archive.org/web/20180708081127id_/https%3A//freefrontend.com/google.com/settings/ads/onweb/optout).
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](https://web.archive.org/web/20190507122112id_/https://freefrontend.com/privacy-policy/google.com/settings/ads/onweb/optout).
 
 Personal Data collected: Cookies and Usage Data. 
 
