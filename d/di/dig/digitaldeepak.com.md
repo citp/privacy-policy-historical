@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldeepak.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619205745id_/http%3A//digitaldeepak.com/digitaldeepak-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldeepak.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507215200id_/https%3A//digitaldeepak.com/digitaldeepak-com-privacy-policy) for the most accurate reproduction.*
 
 # DigitalDeepak.com Privacy Policy
 
@@ -152,7 +152,7 @@ To be in accordance with CANSPAM we agree to the following:
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://digitaldeepak.com  
+https://digitaldeepak.com  
 No.12, Lotus Business Centre  
 Bangalore, Karnataka 560068  
 India  
