@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeremedyshop.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929033249id_/https%3A//homeremedyshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeremedyshop.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507083332id_/https%3A//homeremedyshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Remedies
 
