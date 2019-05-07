@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadershipconnect.io privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817011617id_/https%3A//www.leadershipconnect.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadershipconnect.io privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507054340id_/https%3A//www.leadershipconnect.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Leadership Connect
+# Privacy Policy | Leadership Connect
 
 Leadership Connect respects your privacy. We do not collect personal information on this website unless you choose to provide this information to us.
 
@@ -20,7 +20,7 @@ This information does not personally identify you. We aggregate this information
 
 ### Use of Subscription and Registration Information
 
-If you choose to place orders, request trial access, or contact us, we will not be able to process your request unless you provide us your contact details. A separate subscription agreement will govern the terms of our use of your personal information. In general, information gathered will be primarily for the internal use of Leadership Connect and may be used to contact visitors for marketing purposes. If you purchase a subscription, we may occasionally provide your name and mailing address to qualified third parties whom we have determined offer products or services that may be of interest to you.
+If you choose to place orders, request information, or contact us, we will not be able to process your request unless you provide us your contact details. A separate subscription agreement will govern the terms of our use of your personal information. In general, information gathered will be primarily for the internal use of Leadership Connect and may be used to contact visitors for marketing purposes. If you purchase a subscription, we may occasionally provide your name and mailing address to qualified third parties whom we have determined offer products or services that may be of interest to you.
 
 Our website has links to other websites, such as government agencies, private organizations, foreign governments and international organizations.
 
@@ -32,7 +32,7 @@ Please be aware that:
 
 
 
-If you do not wish to receive our marketing materials (besides subscription renewal notices) and/or any offers from qualified third parties, please [contact us](https://www.leadershipconnect.io/company/contact-us/).
+If you do not wish to receive our marketing materials (besides subscription renewal notices) and/or any offers from qualified third parties, please unsubscribe from the email or [contact us](https://www.leadershipconnect.io/company/contact-us/).
 
 ### Third Parties
 
