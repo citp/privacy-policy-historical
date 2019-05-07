@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chop.edu privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227181815id_/https%3A//www.chop.edu/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chop.edu privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507225933id_/https%3A//www.chop.edu/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Children's Hospital of Philadelphia
 
-The Children's Hospital of Philadelphia (“CHOP”) has created these policies to demonstrate its commitment to privacy. It discloses our information-gathering and dissemination practices for this Web site (the “Service”). You usually can visit the Service without submitting any information about yourself. If you send us e-mail, respond to a survey, join our Online Community or otherwise subscribe to one of our on-line publications or email newsletters, then naturally we will have your name and e-mail address. We will use them only for replying to your message or forwarding the requested material. We do not share this information with any other partners, affiliates or members of CHOP or with any outside organization.
+Children's Hospital of Philadelphia (“CHOP”) has created these policies to demonstrate its commitment to privacy. It discloses our information-gathering and dissemination practices for this Web site (the “Service”). You usually can visit the Service without submitting any information about yourself. If you send us e-mail, respond to a survey, join our Online Community or otherwise subscribe to one of our on-line publications or email newsletters, then naturally we will have your name and e-mail address. We will use them only for replying to your message or forwarding the requested material. We do not share this information with any other partners, affiliates or members of CHOP or with any outside organization.
 
 ## Log File Data
 
@@ -30,7 +30,7 @@ Our privacy policies apply only to your use of the Service. The Service contains
 
 ## E-mail Communications, Newsletters and Related Services
 
-The Service provides you with the opportunity to receive communications from us. Once you have decided to receive such communications, you may later decide to stop receiving them. If you are a member of our Online Community and want to stop receiving communications, you may go to [http://chop.us2.list-manage1.com/unsubscribe?u=9ca30ff029816ed8ee975696d&id=a85baa9ddd](http://chop.us2.list-manage1.com/unsubscribe?u=9ca30ff029816ed8ee975696d&id=a85baa9ddd). You may also send a message to our [Web Access Center](https://web.archive.org/centers-programs/about-childrens-hospital-philadelphia/feedback) or send mail to the following postal address: Web Access Center, The Children’s Hospital of Philadelphia, Web Center, 3401 Civic Center Boulevard, Philadelphia, PA 19104.
+The Service provides you with the opportunity to receive communications from us. Once you have decided to receive such communications, you may later decide to stop receiving them. If you are a member of our Online Community and want to stop receiving communications, you may go to [http://chop.us2.list-manage1.com/unsubscribe?u=9ca30ff029816ed8ee975696d&id=a85baa9ddd](http://chop.us2.list-manage1.com/unsubscribe?u=9ca30ff029816ed8ee975696d&id=a85baa9ddd). You may also send a message to our [Web Access Center](https://web.archive.org/centers-programs/about-childrens-hospital-philadelphia/feedback) or send mail to the following postal address: Web Access Center, Children’s Hospital of Philadelphia, Web Center, 3401 Civic Center Boulevard, Philadelphia, PA 19104.
 
 ## Passwords
 
