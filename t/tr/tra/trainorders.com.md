@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainorders.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627082536id_/http%3A//www.trainorders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainorders.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507105349id_/https%3A//www.trainorders.com/privacy) for the most accurate reproduction.*
 
 # About Trainorders.com
 
@@ -34,4 +34,4 @@ Trainorders.com Inc uses reasonable precautions to keep the personal information
 
 Trainorders.com Inc offers a member locator system that provides the member's name, login, city, and state to other visitors of the web site. By default the users login name, city and state will be displayed. Trainorders.com Inc offers an opt out feature in the user control panel. 
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with Trainorders.com, you can contact: [http://www.trainorders.com/contact](https://web.archive.org/contact)
+If you have any questions about this privacy statement, the practices of this site or your dealings with Trainorders.com, you can contact: [https://www.trainorders.com/contact](https://web.archive.org/contact)
