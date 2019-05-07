@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecookierookie.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230073426id_/https%3A//www.thecookierookie.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecookierookie.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507193955id_/https%3A//www.thecookierookie.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure, Privacy Policy, and Terms - The Cookie Rookie
 
@@ -10,7 +10,7 @@ This blog will at times accept forms of cash advertising, sponsorship, paid inse
 
 This blog at times includes affiliate links to products shown.
 
-This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The occasional compensation received may influence the advertising content, topics or posts made in this blog, but will not effect the opinions expressed.  We will only recommend products that we truly believe in and love. That content, advertising space or post will be clearly identified as paid or sponsored content.
+This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The occasional compensation received may influence the advertising content, topics or posts made in this blog, but will not effect the opinions expressed. We will only recommend products that we truly believe in and love. That content, advertising space or post will be clearly identified as paid or sponsored content.
 
 We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to [Amazon.com](https://l.facebook.com/l.php?u=http%3A%2F%2FAmazon.com%2F&h=ATOCYCPqfLsINYMIXdUePFO5Czq8yegpeE2h39xUf43sx631Z5v0GxBsmUE0rxUn5PtHw2dMGRiVnGeJ8iWW0LxN2YDs9TD2gtlAsOFlckFc6OXq0DVIjOIM49YvgkPjnNKdVnmBVDl0jA) and affiliated sites.
 
@@ -47,11 +47,11 @@ The Website currently uses the following third-party service providers:
 
 Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Mail Chimp’s privacy policy for further information.
+Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to Mail Chimp’s privacy policy for further information.
 
  **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website.  These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
  **Links to other websites**
 
