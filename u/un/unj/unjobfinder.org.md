@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unjobfinder.org privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706142918id_/https%3A//www.impactpool.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unjobfinder.org privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507065924id_/https%3A//www.impactpool.org/about/privacy) for the most accurate reproduction.*
 
 # Impactpool privacy policy
 
