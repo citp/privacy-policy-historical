@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idolbin.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823101638id_/https%3A//www.idolbin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idolbin.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507075039id_/https%3A//www.idolbin.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Idolbin
 
@@ -10,4 +10,4 @@ Idolbin aggregates publicly available information from facebook, twitter, google
 
 Idolbin aggregates publicly available information from third party sources. Therefore, removing a listing from idolbin will not remove the information from its original source and therefore the information might still appear on other sites and the source.
 
-To remove a listing from idolbin, please enter the URL of the profile and your email address (for verification purposes). Note that only [unclaimed profiles](https://web.archive.org/web/20180823101638id_/https%3A//www.idolbin.com/privacy# "What is an unclaimed profile?") can be removed with this procedure.
+To remove a listing from idolbin, please enter the URL of the profile and your email address (for verification purposes). Note that only [unclaimed profiles](https://web.archive.org/web/20190507075039id_/https%3A//www.idolbin.com/privacy# "What is an unclaimed profile?") can be removed with this procedure.
