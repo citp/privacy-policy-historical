@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theshiksa.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022061951id_/https%3A//toriavey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshiksa.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507203747id_/https%3A//toriavey.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tori Avey
+# Privacy Policy - ToriAvey.com Cares About Your Privacy
 
 **ToriAvey.com** is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website and how we use that information. By using ToriAvey.com, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.  Your use of the Website and any personal information you provide via the Website or through other official contact with us remains subject to this Privacy Policy, as well as the Terms of Use and/or other stated policies.
 
