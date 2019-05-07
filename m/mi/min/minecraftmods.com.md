@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftmods.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226044909id_/https%3A//www.minecraftmods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftmods.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507225412id_/https%3A//www.minecraftmods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Mods
 
@@ -32,7 +32,6 @@ This privacy notice is provided in a format so that you can click through to the
 This privacy notice applies to the information collected by ACTdesign (UK) Ltd, including through the following websites:
 
   * [https://minecraftservers.org](https://minecraftservers.org/)
-  * [https://minecraftpeservers.org](https://minecraftpeservers.org/)
   * [https://www.minecraftskins.net](https://www.minecraftskins.net/)
   * [https://www.minecraftmods.com](https://www.minecraftmods.com/)
   * [https://www.minecrafttexturepacks.com](https://www.minecrafttexturepacks.com/)
