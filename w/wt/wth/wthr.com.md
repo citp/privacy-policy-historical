@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wthr.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231004149id_/https%3A//www.wthr.com/station/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wthr.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507075417id_/https%3A//www.wthr.com/station/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Station - 13 WTHR Indianapolis
 
