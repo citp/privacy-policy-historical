@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612050311id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507142617id_/https%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - YouBeauty
 
-Effective Date: October 15, 2014
+Effective Date: March 27, 2002
 
 Before using the YouBeauty.com (“we”, “us” or “our”) website, please read this Privacy Policy carefully. This Privacy Policy provides an explanation of what information we collect, how we collect it, how we use it and disclose it, and what choices you have regarding the collection, use and disclosure of your information. By using any part of our website you agree to be bound by this Privacy Policy and consent to the collection, use and disclosure of your information as described herein.
 
