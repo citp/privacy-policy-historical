@@ -1,125 +1,83 @@
-> *The following text is extracted and transformed from the blerp.com privacy policy that was archived on 2012-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120310050835id_/http%3A//www.blerp.com/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blerp.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507162638id_/https%3A//blerp.com/privacy) for the most accurate reproduction.*
 
-# Blerp - Account
+# Blerp Privacy Policy | Legal Information | Blerp
 
-Privacy Policy
+This Privacy Policy describes the policies and procedures of Blerp Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on [www.blerp.com](http://www.blerp.com/) (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) your use of the Services generally; and (ii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-  
-RocketOn, Inc. ("RocketOn") recognizes that its customers, visitors, users, and others who use Blerp.com, Hyperlayers.com or other web sites owned or operated by RocketOn (the "RocketOn Sites") (collectively or individually "Users") value their privacy. The RocketOn Sites include, but are not limited to, the domain names Blerp.com, Hyperlayers.com and RocketOn.com. This Privacy Policy details important information regarding the use and disclosure of User information collected on the RocketOn Sites. RocketOn provides this Privacy Policy to help you make an informed decision about whether to use or continue using the RocketOn Sites. 
+## What Does This Privacy Policy Cover?
 
-This Privacy Policy is incorporated in and is subject to the RocketOn's [Terms of Use](https://web.archive.org/account/terms_of_use). Your use of the RocketOn Sites and any personal information you provide on the RocketOn Sites remains subject to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/account/terms_of_use).
+This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners. This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot and do not take responsibility for the content or privacy policies of those Third Party Services.
 
-Please note that any images, photos, videos, messages, text, or any other content posted at the discretion of Users onto the RocketOn Sites becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
+## What Information Do We Collect?
 
-**The Information RocketOn Collects:**
+The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
 
-  * User Provided Information:
+### User Content:
 
-You provide certain personally identifiable information (such as your name and email address) to RocketOn when choosing to participate in various activities on the RocketOn Sites. Examples of such activities include, but are not limited to: posting or uploading images, photos, videos, ideas and messages, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+Some features of the Services allow you to provide content to the Services. All content submitted by you to the Services may be retained by us indefinitely, even if and after your access to the Services is terminated. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
 
-  * Cookies Information:
+### IP Address Information and Other Information Collected Automatically:
 
-When you visit the RocketOn Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. RocketOn uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the RocketOn Sites may not function properly if the ability to accept cookies is disabled.
+We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services. Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site.
 
-  * Browser Plug-In:
+### Information Collected Using Cookies:
 
-When you use our Browser Plug-In, we may employ web tracking and data gathering techniques which are used to track the online usage patterns of our Users anonymously (i.e. in a non-personally-identifiable manner). This information may be available to our web and advertising partners. You can turn off the web tracking and data gathering; however, some features of our Browser Plug-In, may not function if this is disabled.
+We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the internet. Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services. You can set your browser to not accept cookies, but this may limit your ability to use the Services. This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer.
 
-  * Log File Information:
+### Information Related to Advertising and the Use of Web Beacons:
 
-When you use the RocketOn Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+To support and enhance the Services, we may serve advertisements, and also allow third parties advertisements, through the Services. These advertisements are sometimes targeted to particular users and may come from ad networks. Advertisements served through the Services may be targeted to users who fit a certain general profile category, which may be based on anonymized information inferred from information provided to us by a user, on the Services usage patterns of particular users, or on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services. To increase the effectiveness of ad delivery, we may deliver a web beacon from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
 
-  * Clear GIFs Information:
+### Aggregate Information:
 
-When you use the RocketOn Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e. in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+We collect statistical information about how users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, or your web browser.
 
+Protection of Minor’s Personal Information: We do not knowingly collect any Personal Information from minors.
 
+The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties.
 
+### Public Information about Your Activity on the Services:
 
-**The Way RocketOn Uses Information:**
+Some of your activity on and through the Services is public by default. This may include, but is not limited to, content you have posted publicly on the Site or otherwise through the Services. Information concerning your use of the Services may be tracked anonymously through the use of cookies and stored by us. If you choose to provide Personal Information using certain public features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.
 
-Submitting your personally identifiable information to us through the RocketOn Sites enable us to operate, maintain, and provide to you the features and functionality of the RocketOn Sites.
+### IP Address Information:
 
-Any personal information, images, photos, videos, text or other content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload, post or contribute images, photos, videos, messages, text, or send messages through the RocketOn Sites, and other Users can contact you through messages and comments. Additionally, any images, photos, videos, messages, text, or other content that you submit to the RocketOn Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
+While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy.
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent, except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without consent for non-marketing or administrative purposes (such as notification of major RocketOn Site changes or for customer service purposes).
+You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services.
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the RocketOn Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
+### Aggregate Information:
 
-We use cookies, clear gifs, and log file information to (a) remember information so that you will not have to re-enter it during your subsequent visits; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
 
-**When RocketOn Discloses Information:**
+### Information Shared with Our Agents:
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy. We also use reasonable efforts to (a) limit their use of such information, and (b) use other appropriate confidentiality and security measures.
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
 
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent, except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+### Information Disclosed Pursuant to Business Transfers:
 
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the RocketOn Sites.
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law), or respond to a court order, subpoena, or search warrant.
+### Information Disclosed for Our Protection and the Protection of Others:
 
-RocketOn also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that RocketOn believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/account/terms_of_use), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to protect the rights, property, or personal safety of RocketOn, our Users or others.
+We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
 
-**Your Choices About Privacy:**
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
-You may decline to submit personally identifiable information through the RocketOn Sites, in which case RocketOn may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile, if you have one.Please note that any images, photos, videos, text or other content uploaded by Users to the RocketOn Sites cannot be removed by Users and remain subject to our [Terms of Use](https://web.archive.org/account/terms_of_use).
+## Is Information About Me Secure?
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+We seek to protect user information to ensure that it is kept private; however, we cannot guarantee the security of any user information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. We otherwise store all of our information, including your IP address information, using industry-standard techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.
 
-Please contact RocketOn with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices using our Contact Page.
+## Accessing Your Personal Information
 
-**Third-party Advertisers, Links to Other Sites:**
+Users can access and delete cookies through their web browser settings. California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 1701 Student Life Way, Salt Lake City, UT 84112
 
-RocketOn may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the RocketOn Sites. These third-party ad servers or ad networks use technology to send the advertisements and links that appear on the RocketOn Sites directly to your browser. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+You can use many of the features of the Services without registering, thereby limiting the type of information that we collect. You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
 
-RocketOn does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent, except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks RocketOn to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain types of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the RocketOn Sites, such as the number of times you viewed an ad, to determine which ads to deliver to you.
+## Changes to this Privacy Policy
 
-You should consult the respective privacy policies of third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. RocketOn's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted. We encourage you to review this Privacy Policy regularly.
 
-Currently, RocketOn relationships include, but are not limited to, the following third-party ad servers or ad networks:
+## What If I Have Questions or Concerns?
 
-Google: [www.google.com](http://www.google.com/)
-
-**Third-party Services:**
-
-RocketOn may allow other companies, called third-party services, to fulfill certain functions within the RocketOn Sites. These functions include without limitation: processing orders, processing credit card transactions, fulfilling orders, delivering content. These third-party services may ask for your private information.
-
-You should consult the respective privacy policies of these third-party services for more information on their practices and for instructions on how to opt-out of certain practices. RocketOn's privacy policy does not apply to, and we cannot control the activities of, such third parties or web sites.
-
-Currently, RocketOn relationships include, but are not limited to, the following third-party services:
-
-PayPal: [www.paypal.com](http://www.paypal.com/)  
-PayByCash: [www.paybycash.com](http://www.paybycash.com/)  
-Zong: [www.zong.com](http://www.zong.com/)
-
-**Our Commitment To Data Security:**
-
-RocketOn uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to RocketOn, and you do so at your own risk. Once we receive your transmission of information, RocketOn makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If RocketOn learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. RocketOn may post a notice on the RocketOn Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using our Contact Page.
-
-**Our Commitment To Childrens' Privacy:**
-
-Protecting the privacy of young children is especially important. For that reason, RocketOn does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the RocketOn Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the RocketOn Sites at any time or in any manner. If RocketOn learns that personally identifiable information of persons under 13 years of age has been collected on the RocketOn Sites without verified parental consent, then RocketOn will take the appropriate steps to delete this information.
-
-**Special Note to International Users:**
-
-The RocketOn Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the RocketOn Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the RocketOn Sites, which are governed by U.S. law, this Privacy Policy, and our [Terms of Use](https://web.archive.org/account/terms_of_use), you are transferring your personal information to the United States and you consent to that transfer.
-
-**In the Event of Merger, Sale, or Bankruptcy:**
-
-In the event that RocketOn is acquired by or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-**Changes & Updates to this Privacy Policy:**
-
-This Privacy Policy may be revised periodically which will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the RocketOn Sites constitutes your agreement to this Privacy Policy and any future revisions.
-
-For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
-
-**Date Last Modified:**
-
-This Privacy Policy was last modified January 30, 2009.
-
-**Contact Information:**
-
-Please contact RocketOn with any questions or comments about this Privacy Policy using our Contact Page.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [support@blerp.com](mailto:support@blerp.com). We will make every effort to resolve your concerns. Effective Date: January 1st, 2017
