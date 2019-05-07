@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyjobz.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114020634id_/http%3A//www.dailyjobz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyjobz.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507155435id_/https%3A//www.dailyjobz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Daily Jobs
+# Privacy Policy | Daily Jobs
 
 ### Privacy Policy
 
@@ -64,6 +64,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **_Contacting us_**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact-us/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.dailyjobz.com/contact-us/).
 
 This document was last updated on August 21, 2017
