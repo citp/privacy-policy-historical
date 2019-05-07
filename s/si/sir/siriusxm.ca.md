@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904105802id_/https%3A//www.siriusxm.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507075958id_/https%3A//www.siriusxm.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SiriusXM Canada
 
@@ -232,7 +232,7 @@ By Mail Attn: Privacy Officer, Sirius XM Canada Inc., 135 Liberty Street, Suite 
 
 The website is customized to show channels and plans for the  Service.
 
-[Sirius]() [XM]() [SiriusXM]()
+Sirius XM SiriusXM
 
 Don't know what service you have? Try our [VIN lookup tool](https://web.archive.org/what-is-siriusxm/in-your-vehicle/vin-lookup/) | I want to explore
 
