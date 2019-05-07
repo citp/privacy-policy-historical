@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kveller.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202001910id_/https%3A//www.kveller.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kveller.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508012314id_/https%3A//www.kveller.com/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Kveller
 
