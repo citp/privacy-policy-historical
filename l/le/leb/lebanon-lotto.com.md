@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lebanon-lotto.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902171507id_/https%3A//www.lebanon-lotto.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebanon-lotto.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507033641id_/https%3A//www.lebanon-lotto.com/privacy_policy.php) for the most accurate reproduction.*
 
-# PRIVACY POLICY | LEBANON LOTTO, Buy The Loto, Check the Results, Win The Draw; play lebanon loto from La Libanaise Des Jeux
+# PRIVACY POLICY | LEBANON LOTTO, Buy The Loto, Check the Results, Win The Draw; play lebanon loto from La Libanaise Des Jeux, loto libanais
 
 This privacy policy ("Policy") describes how we collect, protect and use the personally identifiable information ("Personal Information") you ("User", "you" or "your") provided on the https://www.lebanon-lotto.com/ website and any of its products or services (collectively, "Website" or "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
