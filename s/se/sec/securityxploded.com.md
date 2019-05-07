@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2018-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180725161219id_/https%3A//securityxploded.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507202254id_/https%3A//securityxploded.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.SecurityXploded.com
 
@@ -32,4 +32,6 @@ The information collected through our 'Submit Feedback' program is only used to 
 The data collected from feedback program is not stored anywhere except that feedback emails may be kept in our mail box some times for tracking purposes, otherwise they are deleted most of the times.   
   
 Contact us   
-If you believe that information presented above is incorrect or incomplete, please [write to us](https://web.archive.org/web/20180725161219id_/https%3A//securityxploded.com/contact.php). We will be more than happy to address any of your concerns or issues.
+If you believe that information presented above is incorrect or incomplete, please [write to us](https://web.archive.org/web/20190507202254id_/https%3A//securityxploded.com/contact.php). We will be more than happy to address any of your concerns or issues.  
+|   
+---
