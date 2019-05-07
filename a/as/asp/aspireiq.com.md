@@ -1,181 +1,106 @@
-> *The following text is extracted and transformed from the aspireiq.com privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803084851id_/https%3A//www.aspireiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspireiq.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507184753id_/https%3A//www.aspireiq.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-Fair Information Practices 
+(Last Updated May 15, 2018)
 
-Fair information  
-Practices
+On September 17, 2018 date, Revfluence changed its name to AspireIQ, Inc. Read our press release [here](https://www.aspireiq.com/blog/revfluence-is-now-aspireiq). This Privacy Policy has be updated with our new name as of January 17, 2019; the substance of the Policy has not been changed.
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
+AspireIQ, Inc., doing business as AspireIQ (www.aspireiq.com), as well as any present or future affiliated or related company (AspireIQ or we), recognizes the importance of your privacy. This privacy policy tells you what personal information we collect and how we use it. AspireIQ may change this privacy policy from time to time, in its sole discretion, as discussed in section 7 below. By registering an account or otherwise using or visiting any AspireIQ website, application, product, software, tool, data feed, and/or service (collectively the "Service"), you understand and agree to the terms of this policy. Please read this policy carefully. 
 
+## 1\. What Information Do We Collect?
 
- **What personal information do we collect from the people that visit our blog, website or app?**
+ _a. Personally-Identifiable Information:_ We may collect personally identifiable information when you specifically and knowingly provide it to us, for example when you request a demo or register and provide personal information such as your e-mail address, name, phone number, year of birth, or other information. Where applicable, personally identifiable information includes personal data as defined in applicable law. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
+This Privacy Policy does not apply to the privacy practices of third parties that we do not own or control, including but not limited to any third party websites, services, applications, online resources to which this Site may link or otherwise reference (collectively Third Party Services or TPS) that you may access through the Services. For example, the Services utilize the YouTube API Services as a TPS, and you are agreeing to be bound by the YouTube Terms of Service ([ https://www.youtube.com/t/terms ](https://www.youtube.com/t/terms)), Privacy Policy ([ http://www.google.com/policies/privacy ](http://www.google.com/policies/privacy)), and API Services Terms of Service ([ https://developers.google.com/youtube/terms/api-services-terms-of-service ](https://developers.google.com/youtube/terms/api-services-terms-of-service)) when engaging YouTube content and services through the Service. We take no responsibility for the content or privacy practices of any TPS. We encourage you to carefully review the privacy policies of any TPS you access.{' '} 
 
- **When do we collect information?**
+You may have the option to register an account with us using a TPS, and you may connect your account to a TPS such as Instagram, Facebook, Twitter or YouTube. By authorizing us to access your TPS account, you authorize us to obtain certain information from your TPS account, which may including your name, email address, birthday, work history, education history, current city, shared media, and the names, profile pictures, relationship status, and current cities of your TPS contacts. We only obtain information from your TPS account that you specifically authorize and grant us permission to obtain. 
 
-We collect information from you when you register on our site or enter information on our site.
+AspireIQ does not consider personally identifiable information to include information that has been anonymized so that it does not allow a third party to identify a specific individual. We collect and use your personally-identifiable information to: provide the Services; operate and improve our Service; provide customer service; perform research and analysis aimed at improving our products, Service and technology; and display content that is customized to your interests and preferences. 
 
- **How do we use your information?**
+You may always choose not to provide personally identifiable information, but if you so choose, certain parts of the Service may not be available to you. If you have registered an account with us, you will have agreed to provide your personally identifiable information in order to access the Services. This consent provides us with the legal basis we require under applicable law to process your data. You maintain the right to withdraw such consent at any time. If you do not agree to our use of your personal data in line with this Policy, please do not use our Services. 
 
+_b. Sensitive Personal Data:_ Subject to the following paragraph, we ask that you not send us, and you not disclose, any sensitive personal data (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us. 
+
+If you send or disclose any sensitive personal data to us when you submit content to the Services, you consent to our processing and use of such sensitive personal data in accordance with this Policy. If you do not consent to our processing and use of such sensitive personal data, you must not submit such content to us. 
+
+_c. Non-Personally-Identifiable Information:_ We may collect and aggregate non-personally identifiable information which is information which does not permit you to be identified or identifiable either by itself or in combination with other information available to a third party. This information may include information such as a website that referred you to us, your IP address, browser type and language, hardware types, geographic location, and access times and durations. We also may collect navigational information, including information about the Service content or pages you view, the links you click, and other actions taken in connection with the Service. We use this information to analyze usage patterns as part of making improvements to the Service. 
+
+_d. Cookies, Pixels and Local Storage:_ We may collect information using cookies, which are small data files stored on the hard drive of your computer or mobile device by a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience when using the Services. 
+
+We use two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, which are used only by us to recognize your computer or mobile device when it revisits any site or application that is party of the Services; and (2) third party cookies, which are served by service providers on sites or applications and can be used by such service providers to recognize your computer or mobile device when it visits other websites. 
+
+### i. Cookies we use
+
+The Services use the following types of cookies for the purposes set out below: 
+
+Type of cookie| Purpose  
+---|---  
+ _Essential Cookies_|  These cookies are essential to provide you with services available through the Services and to enable you to use some of its features. For example, they allow you to log in to secure areas of the sites or applications and help the content of the pages you request load quickly. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.   
+_Functionality Cookies_|  These cookies allow the Services to remember choices you make when you use a site or application, such as remembering your language preferences, remembering your login details and remembering the changes you make to other parts of your account, or preferences. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you use the Services.   
+_Analytics and Performance Cookies_|  These cookies are used to collect information about traffic to the Services and how users use the Services. The information gathered does not identify any individual visitor. The information is aggregated and anonymous. It includes the number of visitors to, the websites that referred them, the pages visited, what time of day they visited, whether they have visited before, and other similar information. We use this information to help operate the Services more efficiently, to gather broad demographic information and to monitor the level of activity on our Services.   
+We use Google Analytics for this purpose. Google Analytics uses its own cookies. It is only used to improve how the Services work. You can find out more information about Google Analytics cookies here:{' '} [ https://developers.google.com/analytics/resources/concepts/gaConceptsCookies ](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)  
+You can find out more about how Google protects your data here:{' '} [ www.google.com/analytics/learn/privacy.html ](http://www.google.com/analytics/learn/privacy.html).   
+You can prevent the use of Google Analytics relating to your use of the Services by downloading and installing the browser plugin available via this link:{' '} [ http://tools.google.com/dlpage/gaoptout?hl=en-GB ](http://tools.google.com/dlpage/gaoptout?hl=en-GB)  
+_Social Media Cookies_|  These cookies are used when you share information using a social media sharing button or like button on any site or application for the Services or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter or Google+. The social network will record that you have done this.   
   
+### ii. Disabling cookies
 
+You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the settings, help tools or edit facility). Many browsers are set to accept cookies until you change your settings. If you do not accept our cookies, you may experience some inconvenience in your use of the Services. For example, we may not be able to recognize your computer or mobile device and you may need to log in every time you use the Services 
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+### iii. Pixel Tags
 
- **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+We may also use pixel tags (which are also known as web beacons and clear GIFs) on the Services to track the actions of users on our sites and applications. Unlike cookies, which are stored on the hard drive of your computer or mobile device by a website, pixel tags are embedded invisibly on webpages. Pixel tags measure the success of our marketing campaigns and compile statistics about usage of the Services, so that we can manage our content more effectively. The information we collect using pixel tags is not linked to our users personal data. 
 
- **•** To improve our website in order to better serve you.
+### iv. Do Not Track Signals
 
- **•** To allow us to better service you in responding to your customer service requests.
+Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to do not track signals. To find out more about "Do Not Track," please visit{' '} [http://www.allaboutdnt.com](http://www.allaboutdnt.com/). 
 
- **•** To quickly process your transactions.
+## 2\. What Do We Do With The Information That We Collect?
 
- **•** To send periodic emails regarding your order or other products and services.
+Except as disclosed in this privacy policy, AspireIQ does not share your personal information with any outside parties. 
 
- **How do we protect visitor information?**
+a. AspireIQ will use the personally identifiable information directly provided by you solely for the purpose for which you have provided it, which may include: 
 
-  
+  * to operate, maintain, and improve the Services;
+  * to manage your account, including to communicate with you regarding your account; 
+  * to operate and administer any promotions you participate in on any site or application; 
+  * to respond to your comments and questions and to provide customer service; 
+  * to send information including technical notices, updates, security alerts, and support and administrative messages; 
+  * with your consent, to send you marketing e-mails about upcoming promotions, and other news, including information about products and services offered by us and our affiliates. You may opt-out of receiving such information at any time: such marketing emails tell you how to opt-out. Please note, even if you opt out of receiving marketing emails, we may still send you non-marketing emails. Non-marketing emails include emails about your account with us (if you have one) and our business dealings with you; 
+  * to process payments you make via the Services; and
+  * as we believe necessary or appropriate (a) to comply with applicable laws; (b) to comply with lawful requests and legal process, including to respond to requests from public and government authorities; (c) to enforce our Policy; and (d) to protect our rights, privacy, safety or property, and/or that of you or others. 
 
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-We use regular Malware Scanning.
+We may share this information with service providers who perform services on our behalf, such as those services listed above, or other services like processing information requests, displaying stored data you access, to assist us in marketing, to conduct audits, etc. Those companies will be permitted to obtain only the personal information they need to provide the service they provide, will be required to maintain the confidentiality of the information, and will be prohibited from using it for any other purpose. 
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
+We may also use information you provide to better serve you, and, if you have given your consent for us to do so, to send you email or text messages concerning offers from our partners and other third parties that we think may be of interest to you. If you do not wish to receive marketing emails, you may adjust your Personal Information Preferences as described below or follow the unsubscribe or stop instructions included within each communication. 
 
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+We will only retain your personally identifiable information as long as reasonably required to provide you with the Services unless a longer retention period is required or permitted by law (for example, for regulatory purposes). Data collected via the YouTube API will be retained for a maximum of 30 days unless required to provide you with the Services or a longer retention period is required by law. 
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+You may contact us anytime to opt-out of: (i) direct marketing communications; (ii) our collection of sensitive personal data; (iii) any new processing of your personal data that we may carry out beyond the original purpose; or (iv) the transfer of your personal data outside the EEA. Please note that your use of some of the Services may be ineffective upon opt-out. You may also: (A) access the data we hold about you at any time via your account or by contacting us directly; (B) update or correct any inaccuracies in your personal data by contacting us; (C) move your data to other service provider; (D) in certain situations, for example when the data we hold about you is no longer relevant or is incorrect, you can request that we erase your data. You may contact us at{' '} [support@aspireiq.com](mailto:support@aspireiq.com) anytime for any other questions you may have about your personally identifiable information and our use of it. 
 
- **Do we use 'cookies'?**
+_b. Disclosure:_ As a general rule, AspireIQ will not disclose any of your personally identifiable information except under one of the following circumstances: we have your permission, including the permission granted by your acceptance of this Privacy Policy; we determine in good faith that it is legally required to be revealed by any relevant statute, regulation, ordinance, rule, administrative or court order, decree, or subpoena; it is information that we determine must be disclosed to correct what we believe to be false or misleading information or to address activities that we believe to be manipulative, deceptive or otherwise a violation of law; where you are otherwise notified at the time we collect the data; where we need to share your information to provide the product or service you have requested; when such disclosure is made subject to confidentiality restrictions in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by AspireIQ. AspireIQ may share the non-personally identifiable information that AspireIQ gathers, in aggregate form only, with advertisers and other partners. 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+## 3\. Children's Policy
 
- **•** Understand and save user's preferences for future visits.
+The Terms of Service clearly provide that Users must be (i) 18 or older, or (ii) 13 and older if either (a) an emancipated minor, or (b) he/she possess legal parental or guardian consent. AspireIQ does not knowingly collect personally identifiable information from users under 13\. In the event that we learn that we have collected any personal information from a user under the age of 13, we will attempt to identify and delete that information from our database. 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+## 4\. International Usage
 
+The Service is owned by AspireIQ and may be accessed in the United States and abroad. For data protection purposes, AspireIQ is the controller and, unless otherwise noted, is also the processor of data. Information collected may be retained, and may be stored, processed, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction. If you are located outside of the United States, please note that the information you provide to us may be transferred to the United States. By using the Service, application and/or website, you consent to such transfer. We will take reasonable steps to ensure that your data is treated securely and in accordance with this Policy. 
 
-If you disable cookies off, some features will be disabled It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.
+## 5\. How Does A User Change Or Update Information?
 
-However, you can still place orders .
+If you have any questions or concerns about this privacy policy or would like the personally identifiable information that you have provided to be removed from our files, please contact AspireIQ via email at support@aspireiq.com. 
 
- **Third-party disclosure**
+## 6\. Security and Encryption
 
-  
+We follow generally accepted industry standards to help protect your personal information. No method of transmission over the internet, mobile technology, or method of electronic storage, is completely secure. Therefore, while we endeavor to maintain physical, electronic, and procedural safeguards to protect the confidentiality of the information that we collect online, we cannot guarantee its absolute security. Our Service has security measures in place designed to protect against the loss, misuse and alteration of the information under our control. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. All Service information is maintained on secure servers. Access to stored data is protected by multi-layered security controls including firewalls, role-based access controls and passwords. You are responsible to keep your password secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us at support@aspireiq.com. 
 
+## 7\. Changes to This Policy
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the last updated date at the top of the policy. If there are material changes to this statement or in how we will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our websites or applications. 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-**Third-party links**
-
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **Google**
-
-  
-
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
-
-We have not enabled Google AdSense on our site but we may do so in the future.
-
- **California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
-
-
- **According to CalOPPA we agree to the following:**
-
-Users can visit our site anonymously.
-
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.
-
-Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:
-
- **•** On our Privacy Policy Page
-
-Users are able to change their personal information:
-
- **•** By logging in to their account
-
- **How does our site handle do not track signals?**
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
-
-**Does our site allow third-party behavioral tracking?**
-
-It's also important to note that we do not allow third-party behavioral tracking
-
- **COPPA (Children Online Privacy Protection Act)**
-
-  
-
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We do not specifically market to children under 13.
-
- **Fair Information Practices**
-
-  
-
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
- **•** Within 7 business days
-
-We will notify the users via in-site notification
-
- **•** Within 7 business days
-
-We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
- **CAN SPAM Act**
-
-  
-
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
- **We collect your email address in order to:**
-
- **•** Send information, respond to inquiries, and/or other requests or questions.
-
- **•** Process orders and to send information and updates pertaining to orders.
-
- **•** We may also send you additional information related to your product and/or service.
-
- **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
-
- **To be in accordance with CANSPAM we agree to the following:**
-
- **•** NOT use false or misleading subjects or email addresses.
-
- **•** Identify the message as an advertisement in some reasonable way.
-
- **•** Include the physical address of our business or site headquarters.
-
- **•** Monitor third-party email marketing services for compliance, if one is used.
-
- **•** Honor opt-out/unsubscribe requests quickly.
-
- **•** Allow users to unsubscribe by using the link at the bottom of each email.
-
- **  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
- **•** Follow the instructions at the bottom of each email.
-
-and we will promptly remove you from **ALL** correspondence.
+2018 AspireIQ, Inc. All rights reserved.
