@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trinusvirtualreality.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106135726id_/https%3A//www.trinusvirtualreality.com/privacy_policy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinusvirtualreality.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507182217id_/https%3A//www.trinusvirtualreality.com/privacy_policy.txt) for the most accurate reproduction.*
 
 # 
 
