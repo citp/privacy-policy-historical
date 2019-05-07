@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyexchange.com.hk privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101051536id_/http%3A//beautyexchange.com.hk/etc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyexchange.com.hk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507161410id_/https%3A//www.beautyexchange.com.hk/etc/privacy.php) for the most accurate reproduction.*
 
 # BeautyExchange.com - all about beauty, fashion, lifestyle and more...
 
@@ -88,6 +88,6 @@ BeautyExchange.com shall retain your information for so long as you are a regist
 
 Suite 2802, 28th Floor, AXA Tower, Landmark East, 100 How Ming Street, Kwun Tong, Kowloon, Hong Kong  
 Telephone: (852) 2801 4128  
-Email: [inquiry@beautyexchange.com.hk](https://web.archive.org/web/20181101051536id_/http%3A//beautyexchange.com.hk/etc/inquiry@beautyexchange.com.hk)
+Email: [inquiry@beautyexchange.com.hk](https://web.archive.org/web/20190507161410id_/https%3A//www.beautyexchange.com.hk/etc/inquiry@beautyexchange.com.hk)
 
-To Unsubscribe our newsletter and promotion emails, please send your email to [unsubscribe@beautyexchange.com.hk](https://web.archive.org/web/20181101051536id_/http%3A//beautyexchange.com.hk/etc/unsubscribe@beautyexchange.com.hk)
+To Unsubscribe our newsletter and promotion emails, please send your email to [unsubscribe@beautyexchange.com.hk](https://web.archive.org/web/20190507161410id_/https%3A//www.beautyexchange.com.hk/etc/unsubscribe@beautyexchange.com.hk)
