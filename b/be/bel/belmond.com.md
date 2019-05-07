@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belmond.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812013810id_/https%3A//www.belmond.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belmond.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507163605id_/https%3A//www.belmond.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Data Notice on Processing of Personal Data
 
@@ -139,8 +139,9 @@ We do not sell, otherwise disclose, or share data we collect and hold about you,
 
 We may share your personal data with third parties as described below:
 
-  * other members of the [Belmond Group](http://belmondcdn.azureedge.net/pdfs/Belmond-Group-Entities.pdf), which may use this data to offer products and services to you consistent with the purposes identified in this Privacy Policy;
+  * other members of the [Belmond Group,](http://belmondcdn.azureedge.net/pdfs/Belmond-Group-Entities.pdf) or our affiliated companies, which may use this data to offer products and services to you consistent with the purposes identified in this Privacy Policy;
   * third party service providers who have been appointed as data processors to perform functions and services on our behalf and who will be provided only with personal data necessary to perform the services on our behalf but are not authorised by us to use such data for any other purposes (e.g. providers of services in respect of web hosting, payment processing, information technology systems, customer relationship management, booking and reservations management, marketing, auditing, administration);
+  * reservations management platforms used by you or Belmond to make reservations at Belmond restaurants, such as The Fork, OpenTable and ResDiary;
   * third party providers of components of any package holiday, excursion, transfer, concierge arranged activity/experience or other service we arrange for you;
   * to our advisors and insurers in the event of a claim, dispute or where otherwise necessary;
   * where the Belmond Property you visit is operated, but not owned by the Belmond Group, the owner of that Belmond Property (and its advisors and representatives); 
@@ -284,7 +285,7 @@ DoubleClick Advertising
 
 | 
 
-Allows us to monitor (using non-personally identifiable data) the number and type of relevant searches made for it on Google. Privacy policy available at [www.google.com/policies/technologies/ads/](https://web.archive.org/web/20180812013810id_/https%3A//www.belmond.com/www.google.com/policies/technologies/ads/)  
+Allows us to monitor (using non-personally identifiable data) the number and type of relevant searches made for it on Google. Privacy policy available at <https://www.google.com/policies/technologies/ads/>  
   
 Facebook Custom Audience
 
@@ -410,7 +411,7 @@ Sizmek
 
 | 
 
-Sizmek collects anonymous information on users of the Site. The technologies utilized allow Adroll to collect this information entirely anonymously and allow us to deliver interest-based advertising. Adroll’s privacy policy can be found [here](https://www.sizmek.com/privacy-policy/)  
+Sizmek collects anonymous information on users of the Site. The technologies utilized allow Sizmek to collect this information entirely anonymously and allow us to deliver interest-based advertising. The Sizmek privacy policy can be found [here](https://www.sizmek.com/privacy-policy/)  
   
 Sojern
 
