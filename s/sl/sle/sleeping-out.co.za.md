@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeping-out.co.za privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829140157id_/https%3A//www.sleeping-out.co.za/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeping-out.co.za privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507172443id_/https%3A//www.sleeping-out.co.za/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Sleeping-OUT
 
