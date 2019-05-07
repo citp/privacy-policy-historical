@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the majorleaguefishing.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220203425id_/http%3A//majorleaguefishing.com/contentpage/privacy-policy/5523) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorleaguefishing.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507185835id_/https%3A//majorleaguefishing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Major League Fishing
-
-PRIVACY POLICY
 
 Major League Fishing, LLC (“MLF”) respects the privacy of others.  This PRIVACY POLICY (this “Privacy Policy”) is intended to explain MLF’s privacy practices with respect to the MajorLeagueFishing.com, ScoreTrackerLive.com and ShopMLF.com websites (each with their respective pages and features, the “Site”) and the SCORETRACKER LIVE™ software program or application (together with its pages and features, the “ScoreTrackerLive App”).  This Privacy Policy is also intended to provide you and any person helping you visit, access, register with or use the Site and/or the ScoreTrackerLive App (collectively, “you” or “your”) with an overview of the following:
 
