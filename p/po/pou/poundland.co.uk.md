@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926152328id_/http%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507140427id_/https%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Poundland
 
-Poundland Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our [ **terms of use**](http://www.poundland.co.uk/legal/terms-of-use/)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed and shared by us.  We will not store or process any such personal data other than in accordance with the Data Protection Act 2018 (“the Act”).  
+Poundland Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our [ **terms of use**](https://www.poundland.co.uk/legal/terms-of-use/)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed and shared by us.  We will not store or process any such personal data other than in accordance with the Data Protection Act 2018 (“the Act”).  
 For the purpose of the Act the data controller is Poundland Limited, Wellmans Road, Willenhall, West Midlands, WV13 2QT, United Kingdom.
 
 **1\. Information we may collect from you**
@@ -245,11 +245,11 @@ We try to ensure that we deliver the best levels of customer service but if you 
 
 **Telephone:** 0333 234 1877
 
-You also have the right to lodge a complaint with the Information Commissioner’s Office (ICO), which is the body that regulates the handling of personal data in the United Kingdom. You can do this online through the ICO’s website at [_www.ico.org.uk_](http://www.ico.org.uk/), by telephone on 0303 123 1113, or by writing to them at Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, SK9 5AF.
+You also have the right to lodge a complaint with the Information Commissioner’s Office (ICO), which is the body that regulates the handling of personal data in the United Kingdom. You can do this online through the ICO’s website at [_www.ico.org.uk_](https://www.ico.org.uk/), by telephone on 0303 123 1113, or by writing to them at Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, SK9 5AF.
 
 **Terms of use**
 
-Please also read Our Website [Terms of Use](http://www.poundland.co.uk/legal/terms-of-use/).
+Please also read Our Website [Terms of Use](https://www.poundland.co.uk/legal/terms-of-use/).
 
 **Cookie Policy**
 
@@ -285,11 +285,11 @@ Google may also transfer this information to third parties where:
 
 
 
-Google will not associate your IP address with any other data it holds. If you would like to read more about Google Analytics or how Google might use your information, please click here: <http://www.google.com/analytics/learn/privacy.html>
+Google will not associate your IP address with any other data it holds. If you would like to read more about Google Analytics or how Google might use your information, please click here: <https://www.google.com/analytics/learn/privacy.html>
 
-Our Website also uses a cookie from Twitter, to enable Twitter to identify the Twitter user from Our Website.  This cookie is essential for the use of the Twitter panel on our Website.  If you would like to read more about how Twitter might use your information, please click here: <http://twitter.com/privacy>
+Our Website also uses a cookie from Twitter, to enable Twitter to identify the Twitter user from Our Website.  This cookie is essential for the use of the Twitter panel on our Website.  If you would like to read more about how Twitter might use your information, please click here: <https://twitter.com/privacy>
 
-Our Website also uses a cookie from eDigital Research Plc, to enable eDigital Research Plc to identify whether or not you have taken part in a survey run by Poundland previously through eDigital Research Plc.  If you disable this cookie you may be prompted to take a survey more than once. If you would like to read more about how eDigital Research Plc might use your information, please click here: <http://www.edigitalresearch.com/static/privacy>
+Our Website also uses a cookie from eDigital Research Plc, to enable eDigital Research Plc to identify whether or not you have taken part in a survey run by Poundland previously through eDigital Research Plc.  If you disable this cookie you may be prompted to take a survey more than once. If you would like to read more about how eDigital Research Plc might use your information, please click here: <https://www.edigitalresearch.com/static/privacy>
 
 **Can I opt out of cookies?**
 
@@ -297,4 +297,4 @@ You may block cookies by activating the setting on your browser or from the site
 
 **Privacy Policy and Terms of Use**
 
-For more information please read our Privacy Policy (above) and Our Website [**Terms of  Use**](http://www.poundland.co.uk/legal/terms-of-use/) **.**
+For more information please read our Privacy Policy (above) and Our Website [**Terms of  Use**](https://www.poundland.co.uk/legal/terms-of-use/) **.**
