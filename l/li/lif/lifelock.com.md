@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816005228id_/https%3A//www.lifelock.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507135546id_/https%3A//www.lifelock.com/legal/privacy) for the most accurate reproduction.*
 
 # LifeLock - Privacy
 
@@ -230,7 +230,7 @@ You may opt-out of many third-party ad networks, including those operated by mem
 
 As noted, we also participate in third party ad networks and use cookies to improve the performance of our advertising on third-party websites, including to display ads about LifeLock products on these sites. You may control our use of the General Information we collect about your activities on our Site to display targeted LifeLock advertising during your visits to third party websites. To opt out of receiving these targeted LifeLock ads, click [here](https://web.archive.org/advertising-choices/). Opting out of participation in LifeLock’s targeted advertising does not opt you out of our use of General Information for other purposes, such as analytics supporting optimization of our Site or development of new Products and Services. 
 
-Note: If your browser is configured to reject cookies when you visit the opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your opt-out may no longer be effective. Additional information is available on TRUSTe’s, NAI's and DAA's websites accessible by the above links. 
+Note: If your browser is configured to reject cookies when you visit the opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your opt-out may no longer be effective. Additional information is available on NAI's and DAA's websites accessible by the above links. 
 
 ##### Special Notice to California Consumers
 
@@ -251,10 +251,6 @@ Upon request LifeLock will provide you with information about whether we hold an
 ##### Contact Us
 
 If you have any questions about this Policy, please contact us at 1-800-LifeLock (543-3562), at [privacy@lifelock.com](mailto:privacy@lifelock.com), or by mail at LifeLock, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ 85281, Attn.: Chief Privacy Officer. You hereby agree that we may use and disclose any suggestions, ideas, concepts, or information (other than your Personal Information) that you provide to us regarding the Privacy Policy, our business, or any other matter, without obligation to you or any third party. 
-
-##### Dispute Resolution.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S. -based third party dispute resolution provider (free of charge) here. [ https://www.truste.com/consumer-resources/dispute-resolution/.](https://www.truste.com/consumer-resources/dispute-resolution/)
 
 ##### Definitions Used in this Policy
 
