@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829064318id_/https%3A//www.cqc.org.uk/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507110456id_/https%3A//www.cqc.org.uk/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Care Quality Commission
 
@@ -88,9 +88,9 @@ We may have to raise questions or concerns with a hospital directly; for example
 
 Under agreement of NHS Digital, we may send codes (hospital numbers) to the hospital to allow them to review their own medical records identifying specific patients to see if their care had been lacking in some way. These codes originate from the hospital and can only be used by hospital staff to identify patients who have been treated at that hospital. We always treat these codes with the utmost care, and we will never attempt to link this data with individuals’ names.
 
-**Concerns or objections about data provided by NHS Digital**
+**National data opt-out policy**
 
-If you have concerns about data that we receive from NHS Digital, or wish to object to your information being shared in this way, see the [NHS Digital website](http://content.digital.nhs.uk/yourinfo).
+CQC has legal powers to obtain information, including patient-identifiable data, that we need to carry out our role. The national data opt-out policy does not allow NHS service users to opt-out of the use of data where such powers are set out in law. CQC may still access your information if you have registered a national data opt-out. CQC is subject to strict, legal restrictions on the disclosure of confidential personal information. This is in compliance with the national data opt-out policy. Find out more about the [national data opt-out programme](https://www.nhs.uk/your-nhs-data-matters/).
 
 ### Publishing information
 
@@ -152,7 +152,7 @@ People joining CQC will be asked to complete a ‘declaration of interests’ fo
 
 We share information about our employees as required to meet our contractual obligations to them – for example, by sharing relevant personal data with pension service administrators. We also share personal data where required by law – for example, by providing information about our employees to HMRC.
 
-We have a legal obligation to comply with the Freedom of Information Act 2000 and this may include the requirement to disclose some information about our employees – especially those in senior or public facing roles. We also publish some information about our staff, including the names and work contact details of people in some roles and information on the [salary bands of all employees](https://www.cqc.org.uk/about-us/transparency/salaries-structure-staff-survey).
+We have a legal obligation to comply with the Freedom of Information Act 2000 and this may include the requirement to disclose some information about our employees – especially those in senior or public facing roles. We also publish some information about our staff, including the names and work contact details of people in some roles and information on the [salary bands of all employees](https://www.cqc.org.uk/about-us/transparency/salaries-structure-staff).
 
 ## Information about people who use our website
 
@@ -181,6 +181,18 @@ Information that has been saved (or autosaved) in our online forms but not sent 
 We use a third-party supplier to provide our e-newsletter service. If you subscribe to this service, your name and email address will be shared with them.
 
 The third-party supplier handles the data purely to provide this service on our behalf. This supplier observes the requirements of data protection law in how they obtain, handle and process your information. They will not make your data available to anyone other than CQC without your permission.
+
+## Consultation responses
+
+We carry out consultation exercises to help us develop our plans and policies. We collect responses from people who use services, care professionals and other organisations.
+
+We have a lawful basis to process personal data collected from consultation responses as processing is necessary to meet our legal obligations and to carry out our role.
+
+We will store personal information securely and use it strictly for analysis only. Once a consultation ends, we store responses according to our [retention and destruction schedule](https://www.cqc.org.uk/sites/default/files/20180525%20IAR%20V3%20Published%20website%20version.pdf).
+
+For some consultations we engage a specialist company to analyse results. Our agreement with such companies covers information security and data protection.
+
+You have the right to withdraw your consultation response from our analysis at any point before we have completed it. To do this, email the address given for that consultation.
 
 ### How we share information with other organisations
 
