@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sensis.com.au privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811194551id_/https%3A//www.sensis.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensis.com.au privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507183638id_/https%3A//www.sensis.com.au/about/privacy) for the most accurate reproduction.*
 
 # Sensis Privacy Policy
 
