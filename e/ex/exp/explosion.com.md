@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the explosion.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408224522id_/http%3A//www.explosion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosion.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507095035id_/https%3A//www.explosion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Explosion.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@explosion.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At http://www.explosion.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.explosion.com and how it is used.
 
