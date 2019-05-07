@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudlinux.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105024751id_/https%3A//www.cloudlinux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudlinux.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507230405id_/https%3A//www.cloudlinux.com/privacy-policy) for the most accurate reproduction.*
 
 # CloudLinux - Privacy Policy
 
@@ -80,12 +80,12 @@ We do not sell, trade, or otherwise transfer to outside parties your personal in
 
 ### User Access and Choice
 
-Upon request, CLOUDLINUX will provide you with information about whether we hold any of your personal information. You may access, correct or request deletion of your personal information by logging in to your account or by contacting us at [[privacy@cloudlinux.com](mailto:privacy@cloudlinux.com).](https://www.cloudlinux.com/cdn-cgi/l/email-protection#7404061d0215170d3417181b0110181d1a010c5a171b195a) We will respond to your request within a reasonable timeframe.
+Upon request, CLOUDLINUX will provide you with information about whether we hold any of your personal information. You may access, correct or request deletion of your personal information by logging in to your account or by contacting us at [[privacy@cloudlinux.com](mailto:privacy@cloudlinux.com).](https://www.cloudlinux.com/cdn-cgi/l/email-protection#c1b1b3a8b7a0a2b881a2adaeb4a5ada8afb4b9efa2aeacef) We will respond to your request within a reasonable timeframe.
 
   * **Data Retention**
     * We will retain your information as needed to provide you services. Even if you close your account with CLOUDLINUX, we will still retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. However, we will identify your account in our database as “deleted” or “closed”.
   * **Opt-out Preferences**
-    * When you register for an account, we will use your name and email address to send periodic emails to you of both promotional and transactional in nature. Out of respect for your privacy, you may choose to stop receiving promotional emails by following the unsubscribe instructions included in these emails or you can contact us at [privacy@cloudlinux.com](mailto:privacy@cloudlinux.com)[.](https://www.cloudlinux.com/cdn-cgi/l/email-protection#2f5f5d46594e4c566f4c43405a4b4346415a57014c404201)
+    * When you register for an account, we will use your name and email address to send periodic emails to you of both promotional and transactional in nature. Out of respect for your privacy, you may choose to stop receiving promotional emails by following the unsubscribe instructions included in these emails or you can contact us at [privacy@cloudlinux.com](mailto:privacy@cloudlinux.com)[.](https://www.cloudlinux.com/cdn-cgi/l/email-protection#6a1a18031c0b09132a0906051f0e0603041f124409050744)
 
 
 
@@ -98,7 +98,7 @@ Occasionally, at our discretion, we may include links to our merchant partners (
 
   * **Testimonials**
     * We display personal testimonials of satisfied customers on our Sites in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@cloudlinux.com](mailto:privacy@cloudlinux.com)
-  * [](https://www.cloudlinux.com/cdn-cgi/l/email-protection#2f5f5d46594e4c566f4c43405a4b4346415a57014c4042)**Social Media Widgets:**
+  * [](https://www.cloudlinux.com/cdn-cgi/l/email-protection#49393b203f282a30092a25263c2d2520273c31672a2624)**Social Media Widgets:**
     * CloudLinux Sites may include links that direct you to other websites or services whose privacy practices may differ from ours. Your use of and any information you submit to any of those third-party sites is governed by their privacy policies, not this one.
 
 
@@ -137,15 +137,15 @@ Cloud Linux Inc. complies with the EU-U.S. Privacy Shield Framework and the Swis
 
 [](https://www.privacyshield.gov/)With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Cloud Linux is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
-Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also may correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to [[privacy@cloudlinux.com](mailto:privacy@cloudlinux.com).](https://www.cloudlinux.com/cdn-cgi/l/email-protection#7505071c0314160c3516191a0011191c1b000d5b161a185b) If requested to remove data, we will respond within a reasonable timeframe.
+Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also may correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to [[privacy@cloudlinux.com](mailto:privacy@cloudlinux.com).](https://www.cloudlinux.com/cdn-cgi/l/email-protection#e696948f9087859fa6858a8993828a8f88939ec885898bc8) If requested to remove data, we will respond within a reasonable timeframe.
 
-We will provide an individual opt-out or opt-in choice before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [privacy@cloudlinux.com](mailto:privacy@cloudlinux.com)[.](https://www.cloudlinux.com/cdn-cgi/l/email-protection#3b4b49524d5a58427b5857544e5f5752554e431558545615)
+We will provide an individual opt-out or opt-in choice before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [privacy@cloudlinux.com](mailto:privacy@cloudlinux.com)[.](https://www.cloudlinux.com/cdn-cgi/l/email-protection#bbcbc9d2cddad8c2fbd8d7d4cedfd7d2d5cec395d8d4d695)
 
-[](https://www.cloudlinux.com/cdn-cgi/l/email-protection#5f2f2d36293e3c261f3c33302a3b3336312a27713c303271)In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+[](https://www.cloudlinux.com/cdn-cgi/l/email-protection#bcccced5cadddfc5fcdfd0d3c9d8d0d5d2c9c492dfd3d192)In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 Cloud Linux’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Cloud Linux remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Cloud Linux proves that it is not responsible for the event giving rise to the damage.
 
-In compliance with the Privacy Shield Principles, Cloud Linux commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact BILT by email at [[privacy@cloudlinux.com](mailto:privacy@cloudlinux.com).](https://www.cloudlinux.com/cdn-cgi/l/email-protection#9bebe9f2edfaf8e2dbf8f7f4eefff7f2f5eee3b5f8f4f6b5)
+In compliance with the Privacy Shield Principles, Cloud Linux commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact BILT by email at [[privacy@cloudlinux.com](mailto:privacy@cloudlinux.com).](https://www.cloudlinux.com/cdn-cgi/l/email-protection#9ceceef5eafdffe5dcfff0f3e9f8f0f5f2e9e4b2fff3f1b2)
 
 ACCESSING OR USING OUR SITES OR SERVICES, OR OTHERWISE PROVIDING INFORMATION TO US OR OUR CUSTOMERS, CONSTITUTES CONSENTING TO OUR POTENTIAL TRANSFER, PROCESSING AND STORAGE OF SUCH INFORMATION IN THE UNITED STATES.
 
@@ -162,4 +162,4 @@ If there are any questions regarding this Privacy Policy, the practices of this 
 **Cloud Linux Inc**  
 2318 Louis Rd, Suite B  
 Palo Alto, CA 94303, USA  
-[privacy@cloudlinux.com](mailto:privacy@cloudlinux.com) [](https://www.cloudlinux.com/cdn-cgi/l/email-protection#9ceceef5eafdffe5dcfff0f3e9f8f0f5f2e9e4b2fff3f1)
+[privacy@cloudlinux.com](mailto:privacy@cloudlinux.com) [](https://www.cloudlinux.com/cdn-cgi/l/email-protection#2555574c5344465c6546494a5041494c4b505d0b464a48)
