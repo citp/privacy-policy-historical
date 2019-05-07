@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thehighline.org privacy policy that was archived on 2018-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180916110547id_/https%3A//www.thehighline.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thehighline.org privacy policy that was archived on 2019-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190507163110id_/https%3A//www.thehighline.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="js"><head>
 		<script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
@@ -48,7 +48,10 @@
       };
 
       storyware['js/ui/ajax_open_hours'] = {
-        selector: '.js-AjaxOpenHours'
+        selector: 'body',
+        options: {
+          el: '.js-AjaxOpenHours'
+        }
       };
 
       storyware['js/ui/calendar_range_picker'] = {
@@ -138,16 +141,40 @@
         selector: '.js-SearchTrigger'
       };
 
+      storyware['js/ui/submenu_scroll'] = {
+        selector: '.js-SlidingMenu',
+        options: {
+          navContents: '.js-SlidingMenuContents',
+          leftArrow: '.js-SlidingMenu-leftArrow',
+          rightArrow: '.js-SlidingMenu-rightArrow'
+        }
+      };
+
+      storyware['js/ui/submenu_label'] = {
+        selector: '.js-SlidingMenuLabel'
+      };
 
       
         storyware['js/ui/donate_cta'].push({
-          selector: 'section[data-alert="Alert_634_t_2018-08-31_15:26:00"] .js-DonateCta'
+          selector: 'section[data-alert="Alert_8894_t_2019-05-03_10:08:00"] .js-DonateCta'
         });
 
       
       storyware['js/ui/lightbox'] = [];
 
+      storyware['js/ui/donate_widget'] = [];
+
+      storyware['js/ui/donate_widget_text_value'] = [];
+
       storyware['js/ui/lightbox_video'] = [];
+
+      storyware['js/ui/gallery_detection'] = {
+        selector: 'body',
+        options: {
+          gallery: '',
+          mediaItem: ''
+        }
+      };
 
 			      		</script>
 		
@@ -171,9 +198,9 @@
 <!-- / Yoast SEO Premium plugin. -->
 
 <link rel="dns-prefetch" href="//js.stripe.com">
-<link rel="dns-prefetch" href="//s.w.org">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.9 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.4.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.4.2';
 	var mi_track_user      = true;
 	var mi_no_track_reason = '';
 	
@@ -266,15 +293,16 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="op_css-css" href="https://www.thehighline.org/content/plugins/wp-opening-hours/dist/styles/main.css?ver=4.9.7" type="text/css" media="all">
-<link rel="stylesheet" id="sw-style-css" href="https://www.thehighline.org/content/themes/thehighline/dist/css/style.css?ver=2.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="scss-css" href="https://www.thehighline.org/content/cache/busting/1/sccss.css?ver=1536954605" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.thehighline.org/cms/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="op_css-css" href="https://www.thehighline.org/content/plugins/wp-opening-hours/dist/styles/main.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="sw-style-css" href="https://www.thehighline.org/content/themes/thehighline/dist/css/style.css?ver=2.0.45" type="text/css" media="all">
+<link rel="stylesheet" id="scss-css" href="https://www.thehighline.org/content/cache/busting/1/sccss.css?ver=1556641091" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
-var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/www.thehighline.org","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/www.thehighline.org","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.thehighline.org/content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.9"></script>
+<script type="text/javascript" src="https://www.thehighline.org/content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.4.2"></script>
 <script type="text/javascript" src="https://js.stripe.com/v3?ver=1"></script>
 <script type="text/javascript" src="https://www.thehighline.org/cms/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.thehighline.org/cms/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
@@ -303,8 +331,21 @@ ajaxurl: 'https://www.thehighline.org/cms/wp-admin/admin-ajax.php',
     	</head>
 	<body class="page-template-default page page-id-430">
     <div id="required-by-mmenu">
+            <section class="ParkAlert js-Alert js-ParkAlert ParkAlert--styled" data-alert-type="park" data-alert="Alert_7979_t_2019-05-06_12:08:00">
+  <div class="Container">
+    <div class="ParkAlert-content u-textCenter--md">
+      <span>
+        <p>Park update: The 16th St. elevator is temporarily out of order. In addition, the 23rd St. elevator will be temporarily unavailable from May 8-9. See our <a href="http://bit.ly/2Gn7TuJ">Visitor Info</a> page for a full list of alternate elevator locations.</p>
+
+      </span>
+    </div>
+  </div>
+  <a class="ParkAlert-close js-AlertClose" data-alert="Alert_7979_t_2019-05-06_12:08:00">
+    <span class="u-sr">Close Alert</span>
+  </a>
+</section>
       
-      	    <header class="Header js-Header">
+      	    <header class="Header Header--hasParkAlert js-Header">
   <div class="Header-wrap u-cf">
     <a class="MenuToggle" href="#mm-menu" id="js-MenuToggle">
       <div class="MenuToggle-left">
@@ -365,7 +406,6 @@ ajaxurl: 'https://www.thehighline.org/cms/wp-admin/admin-ajax.php',
 <ul class="sub-menu">
 	<li id="menu-item-4923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4923"><a href="https://www.thehighline.org/educational-partnerships/">Educational Partnerships</a></li>
 	<li id="menu-item-4926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4926"><a href="https://www.thehighline.org/families/">Families</a></li>
-	<li id="menu-item-4924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4924"><a href="https://www.thehighline.org/internships/">Internships</a></li>
 	<li id="menu-item-4925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4925"><a href="https://www.thehighline.org/teens/">Teens</a></li>
 </ul>
 </li>
@@ -427,11 +467,11 @@ ajaxurl: 'https://www.thehighline.org/cms/wp-admin/admin-ajax.php',
 <li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386"><a href="https://www.thehighline.org/faq/">FAQ</a></li>
 </ul>
         
-                <form class="Form Form--slim Form--dark Form--hasSubmitIcon js-MailchimpSubscribe" id="mc-embedded-subscribe-form" data-list-id="dbd2da8262" data-group-id="e8bc40ec0e" name="mc-embedded-subscribe-form" target="_blank" novalidate="">
+                <form class="Form Form--slim Form--dark Form--hasSubmitIcon js-MailchimpSubscribe" id="mc-embedded-subscribe-form" data-list-id="dbd2da8262" data-group-id="e8bc40ec0e" data-source="web-menu-footer" name="mc-embedded-subscribe-form" target="_blank" novalidate="">
           <div class="Form-group">
-            <input type="email" value="" name="EMAIL" class="email" id="mobile-menu-email" placeholder="Sign Up for our newsletter" required="">
+            <input type="email" value="" name="EMAIL" class="email" id="mobile-menu-email" placeholder="Email" required="">
             <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="" tabindex="-1" value="" placeholder="Sign up for our newsletter"></div>
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="" tabindex="-1" value="" placeholder="Email"></div>
             <div class="clear">
             <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="Button Button--dark Form-submit"><i class="icon-envelope"></i></button>
             </div>
@@ -486,54 +526,39 @@ ajaxurl: 'https://www.thehighline.org/cms/wp-admin/admin-ajax.php',
   <span class="Header-anchor Header-anchor--bottom js-HeaderAnchorBottom"></span>
 </header>
 	    
-                                <section class="Alert Alert--email js-Alert" data-alert-type="header" data-alert="Alert_634_t_2018-08-31_15:26:00">
+                                <section class="Alert Alert--cta js-Alert" data-alert-type="header" data-alert="Alert_8894_t_2019-05-03_10:08:00">
   <div class="Alert-body">
     <div class="Container Container--content">
       <div class="Grid Grid--withGutter">
         <div class="Grid-cell u-md-size1of2">
-                    <div class="u-weightBold u-font2 u-textUppercase Alert-header">
-            High Line in Your Inbox
+                    <div class="Alert-header u-weightBold u-heading1 u-font2 u-textUppercase u-marginT5--md">
+            Branch out from the ordinary gift
           </div>
-          
+                                <div class="Alert-subheading u-weightMedium u-font1 u-heading4 u-marginT20 u-marginB20 u-marginB0--md u-marginT40--md">
+              Adopt by 5/7 for delivery by Mother's Day
+            </div>
                   </div>
         <div class="Grid-cell u-md-size1of2">
-                      <div class="Alert-caption u-weightLight u-font1 u-marginT10 u-marginT0--md">
-              <p>Sign up for the High Line newsletter and receive the latest information first.</p>
+                      <div class="Alert-caption u-weightLight u-font1">
+              <p>This Mother’s Day, honor your favorite mom with an Adopt a Plant kit! Each plant adoption kit includes a certificate, postcard set and, as a special gift, a High Line sticker set.&nbsp;</p>
 
             </div>
           
-                    <form class="Form Form--standard js-MailchimpSubscribe u-marginT30 u-marginT40--md" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" data-alert="Alert_634_t_2018-08-31_15:26:00" data-list-id="dbd2da8262" data-group-id="e8bc40ec0e" target="_blank" novalidate="">
-            <div class="Form-group">
-              <input type="email" value="" name="EMAIL" class="email" id="alert_email" placeholder="your email" required="">
-              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="" tabindex="-1" value="" placeholder="Sign up for our newsletter"></div>
-              <div class="clear"></div>
-              <div class="u-margin u-marginT30 u-marginT40--md">
-                <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="Button Button--1 Button--wide Form-submit">Submit</button>
-              </div>
-              <div class="Form-loader">
-                <picture>
-                  <source srcset="https://www.thehighline.org/content/themes/thehighline/dist/svg/loader.svg">
-                  <img srcset="https://www.thehighline.org/content/themes/thehighline/dist/img/loader.gif" alt="Loading...">
-                </picture>
-              </div>
+          <div class="Alert-buttons u-marginT20 u-marginT40--md">
+            <div class="Grid Grid--withGutter">
+              <div class="Grid-cell u-lg-size2of5">
+                                <a class="Button Button--1 Button--wide js-AlertClose" data-alert="Alert_8894_t_2019-05-03_10:08:00" href="http://bit.ly/2UX0egF" target="&quot;_blank&quot;">Adopt a Plant</a>
+                              </div>
+              <div class="Grid-cell u-lg-size3of5 u-marginT20 u-marginT0--lg">
+                
+                              </div>
             </div>
-            <div class="Form-message Form-message--error">
-              <div class="u-heading10 u-weightSemiBold">
-                Please enter a valid email address!
-              </div>
-            </div>
-            <div class="Form-message Form-message--success">
-              <div class="u-heading10 u-weightSemiBold">
-                Thanks for signing up, we'll be in touch soon!
-              </div>
-            </div>
-          </form>
-                  </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
-  <a class="Alert-close js-AlertClose" data-alert="Alert_634_t_2018-08-31_15:26:00">
+  <a class="Alert-close js-AlertClose" data-alert="Alert_8894_t_2019-05-03_10:08:00">
     <span class="u-sr">Close Alert</span>
   </a>
 </section>
@@ -697,7 +722,7 @@ If you have any questions about this Donor Privacy Policy or our donor practices
 
         </div>
 
-                  <form class="Form Form--slim Form--dark Form--hasSubmitIcon u-marginB40 js-MailchimpSubscribe" id="mc-embedded-subscribe-form" data-list-id="dbd2da8262" data-group-id="e8bc40ec0e" name="mc-embedded-subscribe-form" target="_blank" novalidate="">
+                  <form class="Form Form--slim Form--dark Form--hasSubmitIcon u-marginB40 js-MailchimpSubscribe" id="mc-embedded-subscribe-form" data-list-id="dbd2da8262" data-group-id="e8bc40ec0e" name="mc-embedded-subscribe-form" data-source="web-footer" target="_blank" novalidate="">
             <div class="Form-group">
               <input type="email" value="" name="EMAIL" class="email" id="footer-email" placeholder="Email" required="">
               <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
@@ -774,7 +799,6 @@ If you have any questions about this Donor Privacy Policy or our donor practices
 <ul class="sub-menu">
 	<li id="menu-item-4927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4927"><a href="https://www.thehighline.org/educational-partnerships/">Educational Partnerships</a></li>
 	<li id="menu-item-5380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5380"><a href="https://www.thehighline.org/families/">Families</a></li>
-	<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://www.thehighline.org/internships/">Internships</a></li>
 	<li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="https://www.thehighline.org/teens/">Teens</a></li>
 </ul>
 </li>
@@ -809,6 +833,8 @@ If you have any questions about this Donor Privacy Policy or our donor practices
 	<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="https://www.thehighline.org/sustainable-practices/">Sustainable Practices</a></li>
 	<li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="https://www.thehighline.org/venue-rentals/">Venue Rentals</a></li>
 	<li id="menu-item-6420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6420"><a href="https://www.thehighline.org/careers/">Careers</a></li>
+	<li id="menu-item-10598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10598"><a href="https://www.thehighline.org/history/">History</a></li>
+	<li id="menu-item-10597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10597"><a href="https://www.thehighline.org/leadership/">Leadership</a></li>
 	<li id="menu-item-6419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6419"><a href="https://www.thehighline.org/blog/">Blog</a></li>
 </ul>
 </li>
@@ -820,7 +846,7 @@ If you have any questions about this Donor Privacy Policy or our donor practices
     </div>
     <div class="Footer-bottom u-marginT60">
       <ul class="List List--horizontal Footer-finePrint">
-        <li>© 2000 - 2018 Friends of the High Line</li>
+        <li>© 2000 - 2019 Friends of the High Line</li>
                   <li>The Diller – von Furstenberg Building</li>
                           <li class="u-inlineBlock--lg">820 Washington Street </li>
           <li class="u-hidden--lg"><a href="https://www.google.com/maps/search/820 Washington Street+New York+NY+10014" target="_blank">820 Washington Street New York, NY 10014</a></li>
@@ -834,17 +860,17 @@ If you have any questions about this Donor Privacy Policy or our donor practices
     </div>
   </div>
 </footer>
-	    			<script type="text/javascript" src="https://www.thehighline.org/content/themes/thehighline/dist/js/theme.js?ver=2.0.2"></script>
-<script type="text/javascript" src="https://www.thehighline.org/cms/wp-includes/js/wp-embed.min.js?ver=4.9.7"></script>
+	    			<script type="text/javascript" src="https://www.thehighline.org/content/themes/thehighline/dist/js/theme.js?ver=2.0.45"></script>
+<script type="text/javascript" src="https://www.thehighline.org/cms/wp-includes/js/wp-embed.min.js?ver=5.0.3"></script>
 <script>(function(w, d){
 	var b = d.getElementsByTagName("body")[0];
 	var s = d.createElement("script"); s.async = true;
-	var v = !("IntersectionObserver" in w) ? "8.7.1" : "10.5.2";
-	s.src = "https://www.thehighline.org/content/plugins/wp-rocket/inc/front/js/lazyload-" + v + ".min.js";
+	s.src = !("IntersectionObserver" in w) ? "https://www.thehighline.org/content/plugins/wp-rocket/inc/front/js/lazyload-8.15.2.min.js" : "https://www.thehighline.org/content/plugins/wp-rocket/inc/front/js/lazyload-10.17.min.js";
 	w.lazyLoadOptions = {
-		elements_selector: "img, iframe",
+		elements_selector: "img,iframe",
 		data_src: "lazy-src",
 		data_srcset: "lazy-srcset",
+		data_sizes: "lazy-sizes",
 		skip_invisible: false,
 		class_loading: "lazyloading",
 		class_loaded: "lazyloaded",
@@ -874,15 +900,15 @@ window.addEventListener('LazyLoad::Initialized', function (e) {
 			lazyLoadInstance.update();
 		} );
 	} );
-	
+
 	var b      = document.getElementsByTagName("body")[0];
 	var config = { childList: true, subtree: true };
-	
+
 	observer.observe(b, config);
 }, false);
 </script>
-          </div><script async="" src="https://www.thehighline.org/content/plugins/wp-rocket/inc/front/js/lazyload-10.5.2.min.js"></script>
+          </div><script async="" src="https://www.thehighline.org/content/plugins/wp-rocket/inc/front/js/lazyload-10.17.min.js"></script>
 	
 
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1536964727 --></body></html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1557243517 --></body></html>
