@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zipcode.org privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406130115id_/http%3A//zipcode.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcode.org privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507215025id_/https%3A//zipcode.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZipCode.org
 
-This Privacy Policy governs the manner in which ZipCode.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [ZipCode.org](https://web.archive.org/web/20180406130115id_/http%3A//zipcode.org/ZipCode.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by ZipCode.org. 
+This Privacy Policy governs the manner in which ZipCode.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [ZipCode.org](https://zipcode.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ZipCode.org. 
 
   
 
@@ -68,6 +68,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-[ZipCode.org](https://web.archive.org/web/20180406130115id_/http%3A//zipcode.org/ZipCode.org)
+[ZipCode.org](https://zipcode.org/)
 
 This document was last updated on August 15, 2012 
