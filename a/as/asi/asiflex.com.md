@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiflex.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816233250id_/https%3A//webdocs.asiflex.com/Privacy/Privacy_Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiflex.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507131053id_/https%3A//webdocs.asiflex.com/Privacy/Privacy_Notice.pdf) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -109,3 +109,4 @@ Postal Address:         ASI
                         201 W. Broadway, Suite 4-C
                         Columbia, MO 65203
 Website URL:            www.asiflex.com
+Fax:                     877-879-9038
