@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdtadvertising.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025123115id_/http%3A//sdtadvertising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdtadvertising.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507130035id_/http%3A//sdtadvertising.com/privacy.php) for the most accurate reproduction.*
 
 # -:: SDTadvertising.com: Privacy Policy ::-
 
@@ -36,7 +36,7 @@ SDTadvertising.com does not knowingly collect or solicit Personally Identifiable
 
 **Contacting Us.**
 
-We can be reached regarding questions about our privacy policy by [contacting support here.](https://web.archive.org/web/20181025123115id_/http%3A//sdtadvertising.com/support.php)
+We can be reached regarding questions about our privacy policy by [contacting support here.](https://web.archive.org/web/20190507130035id_/http%3A//sdtadvertising.com/support.php)
 
 **Changes to this Policy**
 
