@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413232156id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507214950id_/https%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TOMS®
 
@@ -124,4 +124,4 @@ Please also visit our [Terms of Use & Terms of Sale](https://web.archive.org/ter
 
 © TOMS.com, LLC. 2006-2018, all rights reserved.
 
-Help [ Help ](https://web.archive.org/email-us-en)
+Chat [ Email ](https://web.archive.org/email-us-en)
