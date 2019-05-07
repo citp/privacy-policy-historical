@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011070013id_/https%3A//www.nmc.org.uk/contact-us/data-protection/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507182038id_/https%3A//www.nmc.org.uk/contact-us/data-protection/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice
 
-We’re the professional regulator of nurses and midwives in the UK. From 2019, we’ll also regulate nursing associates.
+We’re the professional regulator of nurses, midwives and nursing associates in the UK. 
 
 There are a number of places where you can find out how we use personal information. This privacy notice tells you generally how we use information as a regulator. We also have more detailed information about how we use personal data in the [context of registration](https://web.archive.org/globalassets/sitedocuments/data-protection/registration-and-revalidation-information-handling-guidance.pdf), [fitness to practise](https://web.archive.org/globalassets/sitedocuments/ftp_information/ftp-information-handling-guidance.pdf) and [education](https://web.archive.org/globalassets/sitedocuments/data-protection/education-and-standards-information-handling-guidance.pdf).
 
@@ -71,7 +71,7 @@ We use your information to:
 
 We are legally required to maintain our register and keep it accurate and up to date. We are also legally required to process completed registration and revalidation applications.
 
-We send relevant updates and reminders and ask people to participate in research because we think it is in the public interest and necessary to perform our overarching functions and objectives. You can, however, ask us not to contact you for these reasons by contacting us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+We send relevant updates and reminders and ask people to participate in research because we think it is in the public interest and necessary to perform our overarching functions and objectives. You can, however, ask us not to contact you for these reasons by contacting us at [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 #### Further information
 
@@ -268,7 +268,7 @@ We may use your information to:
 
 We are under a legal obligation to effectively protect the public from registrants whose fitness to practise is impaired.
 
-We may invite you to participate in research if we think it is in the public interest and/or necessary to perform our overarching functions and objectives. You can however ask us not to contact you for these reasons by emailing us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+We may invite you to participate in research if we think it is in the public interest and/or necessary to perform our overarching functions and objectives. You can however ask us not to contact you for these reasons by emailing us at [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 back to top
 
@@ -298,7 +298,7 @@ If you work for an education provider we may use your information and any other 
 
 
 
-You have the right to object to us contacting you to participate in our consultations, events and research. To exercise this right please contact [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+You have the right to object to us contacting you to participate in our consultations, events and research. To exercise this right please contact [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 For more information about how we handle information in this area refer to our [Education and standards information handling guidance](https://web.archive.org/globalassets/sitedocuments/data-protection/education-and-standards-information-handling-guidance.pdf).
 
@@ -332,7 +332,7 @@ If you phone us we’ll record relevant information about the call. This include
 
 Any personal data we process to answer enquiries and complaints is because it is necessary to perform a task carried out in the public interest and/or in exercising our regulatory functions.
 
-If you object to us using your personal data for this reason you can email us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+If you object to us using your personal data for this reason you can email us at [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 Back to top
 
@@ -392,7 +392,7 @@ We carry out research which is relevant to our regulatory functions. In general,
 
 When we consult, we do so in the public interest and in exercising the official authority vested in us.
 
-You have a right to object to the use of your information for research purposes or for stakeholder engagement. If you wish to object to your personal data being used for research contact us at [foi&dparequests@nmc-uk.org](mailto:foi&dparequests@nmc-uk.org).
+You have a right to object to the use of your information for research purposes or for stakeholder engagement. If you wish to object to your personal data being used for research contact us at [foi&dparequests@nmc-uk.org](mailto:foi%26dparequests@nmc-uk.org).
 
 Back to top
 
@@ -504,7 +504,7 @@ Where publicly available information contains personal data, we’ll generally r
 
 We process personal data obtained from publicly available sources of information because it is necessary to perform a task carried out in the public interest and/or in exercising our regulatory functions. We have a legitimate interest in using publicly available sources of information to understand what is being said about us and the healthcare sector in general.
 
-You have a right to object to us using your publicly available information in the ways set out above by contacting [foi&dparequests@nmc-uk.org](mailto:foi&dparequests@nmc-uk.org).
+You have a right to object to us using your publicly available information in the ways set out above by contacting [foi&dparequests@nmc-uk.org](mailto:foi%26dparequests@nmc-uk.org).
 
 Back to top
 
@@ -556,7 +556,7 @@ We wouldn’t normally use the information in either CCTV recording or visitor r
 
 We use our premises to perform our regulatory functions. We consider that ensuring the security and safety of our premises is necessary for to perform a task carried out in the public interest and/or in our official authority as a regulator.
 
-We also consider that we have a legitimate interest in using CCTV images to keep our premises safe and secure. If you object to the way we use CCTV, you can contact [foi&dparequests@nmc-uk.org](mailto:foi&dparequests@nmc-uk.org).
+We also consider that we have a legitimate interest in using CCTV images to keep our premises safe and secure. If you object to the way we use CCTV, you can contact [foi&dparequests@nmc-uk.org](mailto:foi%26dparequests@nmc-uk.org).
 
 Back to top
 
@@ -566,7 +566,7 @@ We’ll hold and use your information only for as long as necessary for our busi
 
 Read our [corporate information retention schedule](https://web.archive.org/globalassets/sitedocuments/data-protection/corporate-retention-and-disposal-schedule.pdf).
 
-If you’d like more information about how long we keep your information contact us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+If you’d like more information about how long we keep your information contact us at [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 Back to top
 
@@ -578,7 +578,7 @@ You have the right to be informed about how and why we collect and use your info
 
 There’ll be times when it would not be appropriate for us to contact you to inform you that we have your information. This would include situations where you have supplied the information directly to us or where we don’t have contact information for you. There may be times where it could prejudice an investigation to make contact but we’ll do so once this need has passed.
 
-You can request further information or clarification on our use of your information at any time by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or emailing us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+You can request further information or clarification on our use of your information at any time by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or emailing us at [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 #### Right of access
 
@@ -590,7 +590,7 @@ Before answering a request we’ll take steps to verify the identity of the pers
 
 There are circumstances where we’ll hold information but will not be able to provide it in response to a request. This would apply if the information was being used in an investigation and our investigation would be prejudiced by providing you with the information. It would apply if we were compelled by law not to disclose it or if doing so would interfere with the rights of another person (for example the names of other people on the same records). In such circumstances we would tell you that this is the case (unless compelled by law not to do so). We would also not supply information about a person if we haven’t been given enough details to identify them from that information.
 
-You can request further information or clarification on our use of your information at any time by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or emailing us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+You can request further information or clarification on our use of your information at any time by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or emailing us at [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 #### Right to rectification
 
@@ -602,7 +602,7 @@ You should check any information about you which you provide to us and keep it u
 
 If you believe that information we have published about you online regarding a fitness to practise matter is incorrect or no longer relevant you can apply for this to be removed or amended by emailing [RemovingFtPInformation@nmc-uk.org](mailto:RemovingFtPInformation@nmc-uk.org).
 
-If your request is not related to fitness to practise information on our website, you can make your request by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or emailing us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+If your request is not related to fitness to practise information on our website, you can make your request by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or emailing us at [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 #### Right to erasure
 
@@ -612,7 +612,7 @@ There are limitations to this right. It doesn’t arise where we are compelled b
 
 If you believe that information we have published about you on our website regarding a fitness to practise hearing is incorrect or no longer relevant then you can apply for this to be removed by sending an email to [RemovingFtPInformation@nmc-uk.org](mailto:RemovingFtPInformation@nmc-uk.org).
 
-If your request is not related to fitness to practise information on our website, you can make your request by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or emailing us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+If your request is not related to fitness to practise information on our website, you can make your request by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or emailing us at [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 #### Right to restrict processing
 
@@ -620,7 +620,7 @@ You have the right to ask us to restrict the processing of your information for 
 
 In most instances due to the nature of our work the right to restrict the processing of your information does not arise. This is because we usually process information because of a legal obligation or because it is integral to our activities as a regulator.
 
-To make a request to restrict processing by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contacting [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+To make a request to restrict processing by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contacting [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 #### Right to data portability
 
@@ -628,7 +628,7 @@ You have the right to request your information in a machine readable format, usi
 
 Due to the nature of our work which involves complying with the legal obligations in our legislation and exercising our authority as a regulator, this right is unlikely to apply in most cases.
 
-To make a request please you can [fill in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contact [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+To make a request please you can [fill in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contact [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 #### Right to object
 
@@ -636,7 +636,7 @@ You have the right to object to us processing your information. This includes th
 
 There are a number of exemptions to this right. If we’re not able to comply with your request we’ll advise you of our decision within one month of your request setting out the reasons.
 
-You can tell us of your objection by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contacting [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+You can tell us of your objection by [filling in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contacting [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 #### Rights related to automated decision making including profiling
 
@@ -644,7 +644,7 @@ You have the right to request human intervention in any automated decision makin
 
 We generally don’t make decisions using automated means. Some of our registration processes are partially automated. However wherever we make a decision to refuse a person’s application for registration, this will never be automated.
 
-If you have an enquiry about our use of automated decision making, please [fill in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contact [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+If you have an enquiry about our use of automated decision making, please [fill in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contact [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 Back to top
 
@@ -656,7 +656,7 @@ If you believe that information we have published about you online regarding a f
 
 #### How to request a copy of the information we hold about you
 
-To request a copy of the information we hold about you, email us at [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+To request a copy of the information we hold about you, email us at [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 Or write to us at:
 
@@ -674,11 +674,11 @@ If you’ve previously attended one of our events and have provided us with your
 
 If you previously gave consent for us to you your image at one of our events and you now wish to withdraw your consent, please email [communications@nmc-uk.org](mailto:communications@nmc-uk.org).
 
-In all other cases where we rely on consent to process your information you can withdraw your consent by emailing [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org).
+In all other cases where we rely on consent to process your information you can withdraw your consent by emailing [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org).
 
 #### For all other enquiries about how we use your information
 
-For all other enquiries about how we use your information you can [fill in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contact [foi&dparequest@nmc-uk.org](mailto:foi&dparequest@nmc-uk.org)
+For all other enquiries about how we use your information you can [fill in this form](https://web.archive.org/contact-us/data-protection/dpa-request/) or contact [foi&dparequest@nmc-uk.org](mailto:foi%26dparequest@nmc-uk.org)
 
 #### Data Protection Officer
 
