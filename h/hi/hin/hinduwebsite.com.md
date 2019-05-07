@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hinduwebsite.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612185203id_/http%3A//www.hinduwebsite.com/utilities/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinduwebsite.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507134332id_/https%3A//www.hinduwebsite.com/utilities/privacypolicy.asp) for the most accurate reproduction.*
 
 # Hinduwebsite.com Privacy Policy
 
@@ -38,12 +38,16 @@ Whatever information that is provided under such circumstances is subject to the
 
 They are therefore requested to read very carefully the privacy policy guidelines of each and every website they visit through the links or information we provide, before entering into any contractual or other relationship with them or providing any personal information about themselves or others. 
 
-The visitors of Hinduwebsite.com or related websites are also requested to read our [terms of use](https://web.archive.org/web/20180612185203id_/http%3A//www.hinduwebsite.com/utilities/termsofuse.asp) before using any of the services provided by Hinduwebsite.com or the related websites and aliases, including Hinduwebsaite.org, Hinduwebsite.net, Hinduwebsite.info, Hinduismatoz.com, SDRCENTER.COM, QjMail.com, SDRCenter.Net and Saivism.Net. 
+The visitors of Hinduwebsite.com or related websites are also requested to read our [terms of use](https://web.archive.org/web/20190507134332id_/https%3A//www.hinduwebsite.com/utilities/termsofuse.asp) before using any of the services provided by Hinduwebsite.com or the related websites and aliases, including Hinduwebsaite.org, Hinduwebsite.net, Hinduwebsite.info, Hinduismatoz.com, SDRCENTER.COM, QjMail.com, SDRCenter.Net and Saivism.Net. 
 
 #### Special Information About Google Ads
 
 We display Google Ads on almost every page of the website. Google uses cookies to serve ads on Hinduwebsite.com and other domains that are pointed to the website. 
 
-The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on Hinduwebsite.com displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web, based on your visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Advertising keeps Google and many of the websites and services you use free of charge. To know How Google uses cookies in advertising please [click here.](https://policies.google.com/technologies/ads)
 
-We reserve the right to update our privacy policy terms and conditions from time to time without notice.
+The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on Hinduwebsite.com displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web, based on your visit to our sites and other sites on the Internet. 
+
+Google also uses various other types of cookies to run Google websites and ads-related products. Some or all of the cookies identified by Google may be stored in your browser. To know the types of cookies used by Google, how Google uses information from sites or apps that use our services, and how you can view and manage cookies in your browser, [please use this link](https://policies.google.com/technologies/partner-sites).
+
+ We reserve the right to update our privacy policy terms and conditions from time to time without notice.
