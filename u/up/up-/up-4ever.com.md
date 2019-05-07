@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up-4ever.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123021643id_/https%3A//www.up-4.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up-4ever.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507173449id_/https%3A//www.up-4.net/privacy.html) for the most accurate reproduction.*
 
 # Up-4ever - Easy way to share your files
 
