@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906031142id_/https%3A//whitespark.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507033856id_/https%3A//whitespark.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Whitespark
+# Privacy Policy Update - Whitespark
 
 We love our customers, and their privacy is extremely important to us.
 
 ## In a nutshell
 
   * We don’t require any personal information that we don’t actually need.
-  * We only keep your personal information for as long as we need it.
+  * We only keep your personal information for as long as we need it (ie. as long as you have an active account/subscription).
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
   * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
   * We don’t store credit card information on our servers.
@@ -62,7 +62,7 @@ We will try to respond to all legitimate requests within 30 days. It may take us
 
 ### Data Storage & Security
 
-All data is stored at state-of-the-art data [Liquid Web Data Center facilities](https://www.liquidweb.com/data-centers/). All data centers are manned 24/7/365 by onsite, highly trained Heroic Support® technicians, have CCTV security cameras covering inside, outside, and all entrances to the facilities. Site entrances are controlled by electronic perimeter access cards, they are remotely monitored by a third party security company, are SSAE-16 & HIPAA compliant and Safe Harbor Certified. These data centers also feature numerous geographic zones for added redundancy, as well as the ability to team with their US-West region to provide true Geographic Redundancy in multiple disaster-neutral US locations.
+All data is stored in world-class [Digital Ocean](https://www.digitalocean.com/) datacentres, covered by 24/7/365 physical security personnel, CCTV cameras and redundant backup generators. Whitespark uses only secure state-of-the-art encrypted communication with this server network to ensure that your data remains private.
 
 ### Cookies
 
