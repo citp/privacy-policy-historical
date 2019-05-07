@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updato.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125060745id_/https%3A//updato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updato.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507043012id_/https%3A//updato.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Updato
 
