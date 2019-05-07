@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uprr.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202211630id_/https%3A//www.up.com/up/aboutup/corporate_info/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uprr.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507041123id_/https%3A//www.up.com/up/aboutup/corporate_info/privacy/index.htm) for the most accurate reproduction.*
 
 # UP: Website Privacy Policy
 
@@ -58,6 +58,6 @@ While we do not direct any of the information on our site specifically to childr
 
 ### Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please contact the [webmaster@up.com](https://web.archive.org/web/20181202211630id_/https://www.up.com/aboutup/corporate_info/privacy/www.up.com/up/forms/feedback/)
+Should you have other questions or concerns about this Privacy Policy, please contact the [webmaster@up.com](https://web.archive.org/web/20190507041129id_/https://www.up.com/aboutup/corporate_info/privacy/www.up.com/up/forms/feedback/)
 
 Effective Date: March 2016
