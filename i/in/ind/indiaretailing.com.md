@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaretailing.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123045547id_/https%3A//www.indiaretailing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaretailing.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507223053id_/https%3A//www.indiaretailing.com/privacy-policy) for the most accurate reproduction.*
 
 # India Retailing - Retail Industry Business News Portal - Privacy Policy
 
