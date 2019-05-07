@@ -1,150 +1,176 @@
-> *The following text is extracted and transformed from the omise.co privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929092239id_/https%3A//www.omise.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omise.co privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507074519id_/https%3A//www.omise.co/en/privacy) for the most accurate reproduction.*
 
 # Omise: Privacy Policy
 
-[Omise Co., Ltd] (the **“Company”** ) sets forth this Privacy Policy (this **“Policy”** ) with regard to the treatment of users’ information, including but not limited to personal information, during the performance of services provided by the Company (the **“Services”** ), as follows; 
+Last update: October 17, 2018
 
-## 1\. User’s Information to be Collected and Method of Collection
+The privacy and security of your personal information is important to us. We implement the privacy concepts provided by the applicable laws and regulations including but not limited to local laws of Thailand, Japan, Singapore and the General Data Protection Regulation (GDPR) to ensure that your Personal Data (as defined below) will be collected, processed, used and shared in the appropriate manner and in accordance with the purpose we set out as follows. We also periodically train our staff and employees to comply with this privacy policy (“ **Policy** ”) and our Data Protection Officer is responsible to supervise our staff and employees in an appropriate manner.
 
-For purposes of this Policy, “User’s Information” means information that identifies users, history of actions on communication services and other information created or accumulated in relation to user or users’ devices, which shall be collected by the Company pursuant to this Policy. Depending on the method of collection, the User’s Information that we may collect for a user to use the Services includes:
+This Policy of Omise Co., Ltd., Omise Japan Co., Ltd., Omise Payment SG Pte. Ltd., our affiliates and group companies (the “ **Company** ”, “ **we** ” or “ **our** ”) will govern our treatment of your Personal Data during the term and performance of services provided by us through our official website, our process for onboarding merchants, and through our online payment services which customers transact via certain merchants’ online store/platform (“ **Services** ”). For the purpose of this Policy, “ **Personal Data** ” means any information relating to an individual who can be identified particularly by reference of certain information given by such individual as requested by the Company for specific purposes in the following sections.
 
-  1. ### (i) information provided by the user, including
+## 1\. Personal Data We Collect
 
-    * name;
+This Policy covers our collection, processing and treatment of the Personal Data on four (4) main categories:
 
-    * e-mail address:
+  1. onboarding new merchants;
 
-    * date of birth;
+  2. visiting and interacting with our website;
 
-    * credit card information;
+  3. payment via merchants’ platform; and
 
-    * photographs; and
-
-    * other information entered by the user into such form as specified by theCompany;
-
-  2. ### (ii) information provided from services outside the Services to the extent that the user permits for use with the Services;
-
-The Company may collect the following information from services outside the Services, including but not limited to social network services, to the extent the user permits for use with the Services at that time:
-
-    * ID used by the user for such outside service; and
-
-    * Authorized
-
-  3. ### (iii) information collected by the Company for the use by the user of the Services
-
-The Company may collect information upon access to or use of the Services, including
-
-    * terminal information
-
-    * log information
-
-    * cookies and anonymous ID; and
-
-    * location information.
+  4. company’s marketing communication.
 
 
 
 
-## 2\. Purpose of Use
+### 1.1 _Onboarding New Merchants_
 
-  1. ### 2.1 The User’s Information may be used not only for provision of the Services as provided in Section 2-2,but for other purposes as provided in Section 2-3.
+**Data we collect:** We strictly comply with the laws relating to anti-money laundering, and combating of terrorist financing and proliferation of weapons of mass destruction (AML/CFT) as well as our policy for the purpose of conducting our KYC/CDD on our merchants. Before onboarding, we are responsible to verify our merchants and do our best to ensure that they do not carry out or involve in illegal or restricted business activities. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy. All Personal Data you provided to us is stored on our secure servers. Where we transfer our data outside of Japan or Singapore, we ensure that adequate safeguards are in place.
 
-  2. ### 2.2 Specific purposes of the User’s Information for the provision of the Services shall include the following:
+For these purposes, individual merchants wishing to use our Services must provide us with the following Personal Data as part of our onboarding process:
 
-  3.     1. **(i)** provision, maintenance, protection, and improvement of the Services, including but not limited to acceptance of registration for the Services, identification of individuals and computation of use fees; 
-
-    2. **(ii)** guidance or response to inquiries relating to the Services; 
-
-    3. **(iii)** addressing a violation of rules, regulations or policies relating to the Services (the “Rules”); 
-
-    4. **(iv)** notice of any modification to the Rules; and 
-
-    5. **(v)** other purposes incidental to the foregoing. 
-
-  4. ### 2.3 Purposes other than those specified in Section 2.2 above shall be as indicated below:
-
-Purpose of Use | Corresponding User’s Information  
----|---  
-**(1)** creating statistical data relating to the Services, in a form that cannot identify an individual;  | 
-    * device information
-    * log information
-    * Cookies and anonymous ID
-    * location information  
-**(2)** delivering or displaying advertisements of the Company or third parties; And  | 
-    * device information
-    * log information
-    * Cookies and anonymous ID
-    * location information  
-**(3)** other marketing.  | 
-    * Name
-    * E-mail address
-    * Date of birth
-    * Other information input by users in the form specifies by the Company  
+  * full Name;
+  * ID card or passport;
+  * registered address listed in the house registration and current address and (in case of foreigner) address of his/her home country and current address in the country where he/she applies for our service;
+  * telephone number;
+  * email addresses;
+  * date of birth;
+  * photographs;
+  * details of bank account;
+  * occupation and work address;
+  * sample of signature(s) of merchants;
+  * any other information specified in certain merchant service agreement to be entered into between each individual merchant and the Company or under local laws of the country where you apply for our Services.
 
 
 
-## 3\. Method of Notice, Publication and Permission; Method of Discontinuance of the Use
+For merchants which are juristic persons, we collect your information per our KYC process described in the merchant service agreement including Personal Data of the the merchants’ representatives or directors (e.g. their full names, ID cards or passports, registered address and contact addresses (or in case of foreigner) address of his/her home country and current address where such juristic persons apply for our Services, date of birth, telephone number and sample of signature(s) of such representative(s) or director(s)).
 
-  1. ### 3.1 The user’s permission must be obtained before collecting the following User’s Information:
+**Method of data collection:** We collect your Personal Data during our KYC process through documents given to us via our website, dashboard, email and hard copies of documents that you deliver us.
 
-    * **(i ) terminal information: and**
-    * **(ii) location information.**
-  2. ###  **3.2** If the user specifies a certain setting, the user is entitled to require the Company to, and the Company shall immediately, discontinue the use of any or all of the User’s Information, in accordance with such rules as may be from time to time prescribed by the Company. Depending on the item of the User’s Information, if such collection or use is required for the Services, the Company may not be able to discontinue such collection unless the user withdraws from the Services pursuant to the procedures as determined by the Company
+**Data storage, processing and sharing:** We verify, process and store the Personal Data provided by each individual merchant on the Company’s protected system in Thailand, Japan or Singapore (as the case may be) which such Personal Data will neither be disclosed nor shared to any third parties, _unless otherwise_ specified by the applicable laws and regulations or requested by any government authorities.
 
+**Data retention:** We will keep the Personal Data of each merchant during the term of the Services or the merchant service agreement(s) between the Company and each merchant.
 
+Upon termination of the Services and/or each merchant service agreement, we are required by the applicable laws to further retain such Personal Data relating to the KYC/CDD process above and after that we will promptly delete or destroy such Personal Data from our system. The retention period after termination of our Services and closure of accounts as required by the laws vary in different jurisdictions as follows:
 
-
-## 4\. Outside Transmissions; Provision to Third Parties: Information Collection Modules In order to distribute targeted advertisements using the Users Information, the following information collection module is incorporated into the Services. Thus, the Company provides the User’s Information to the provider of such information collection module in accordance with the following:
-
-  
-**(i)** Name of Information Collection Module:  |   
----|---  
-**(ii)** Provider of Information Collection Module:  |   
-**(iii)** Items of User’s Information to be Provided:  |   
-**(iv)** Means and the Methods of Provision  |   
-**(v)** Purposes of Use by Provider:  |   
-**vi)** Whether or not Provider Intends to Provide Information to Third Parties:  |   
-**vi)** URL of Providers Privacy Policy  |   
-  
-## 5\. Provision of Personal Information to Third Parties
-
-Unless required by the related Personal Information Protection Act or other applicable laws and regulations, the Company shall not provide to any third party personal information contained in the User’s Information without the prior consent of the user, unless:
-
-  * **(i)** The Company authorizes such third party to handle the personal information in whole or in part to the extent necessary to accomplish the purpose of the use: 
-  * **(ii)** The personal information is provided through a business transfer by way of merger or other similar transactions: 
-  * **(iii)** The personal information is provided to a provider of an information collection module pursuant to Section 4 hereof: 
-  * **(iv)** The Company is required to cooperate with state or local governmental organizations or their agents to perform their duties or obligations pursuant to applicable laws and regulations, and such performance is likely to be precluded if the consent of the user must be obtained: and 
-  * **(v)** In addition to the foregoing, the Company is entitled to disclose information pursuant to the Personal Information Protection Act or other applicable laws and regulations. 
+  * Thailand: 5 years retention period for the Personal Data relating to the KYC documents and information and 10 years retention period for CDD documents and information pursuant to the Anti-Money Laundering Act of Thailand;
+  * Japan: 7 years retention period for the Personal Data relating KYC documents and information pursuant to the the laws in Japan (including the Corporate Tax Law);
+  * Singapore: 5 years retention period for both Personal Data relating to the KYC documents and information and CDD documents as well as information received for the purpose of further request made by government authorities and cooperation with the acquiring and/or issuing banks (in case we are requested to examine certain suspected transactions).
 
 
 
-## 6\. Joint Use
+**Your rights:** You may email directly to us requesting to access, change or update your Personal Data.
 
-The Company may jointly use personal information as follows:
+### 1.2 _Visiting and Interacting with Our Website_
 
-  * **(i)** Items of Personal Information to be Jointly Used: 
+**Data we collect:** When visiting our website, we will record in our web server logs your Personal Data as follows:
 
-  * **(ii)** Party to Jointly Use Personal Information: 
-
-  * **(iii)** Purposes of Joint Use: 
-
-  * **(iv)** Name of Party Responsible for User’s Information: 
-
-
+  * browser information (e.g. browser type and version, operating system, etc.) through user agent strings and metadata provided during the access request by your system;
+  * Internet protocol (IP) Addresses and their associated location;
+  * date and time of visit;
+  * referral uniform resources locator (URL); and
+  * pages visited by such visitor on our website.
 
 
-## 7\. Disclosure of Personal Information
 
-Upon request from the user to disclose its personal information under the Personal Information Protection Act, the Company shall, without delay, disclose to the user such information after confirming its identity (or notify it of the non existence of such personal information), to the extent required to do so pursuant to the Personal Information Protection Act and other applicable laws and regulations.
+For our website visitor analysis systems we will also additionally collect:
 
-## 8\. Inquiries
+  * Email address (when signing up);
+  * Google UUID (Unique User ID)
 
-Any suggestions, questions, complaints, or other inquiries on the handling of the User’s Information must be submitted to:
 
-### Omise Address
 
-**Omise Co., Ltd.**
+**Data processing and sharing** : Access to the Company’s website is logged to monitor system security as part of our intrusion detection program. We store the Personal Data that we collected for the purpose under this section on Amazon and Google Data Centers in Singapore and Tokyo, Japan.
 
-1448/17 J209-210 Bldg. Laprao 87 Klongchan Bangkapi Bangkok Thailand 10240
+Access information is also shared with our analytics provider, Google Analytics and Facebook using third party cookies.
 
-_The Company reserves its right to amend this Policy in the future, from times to times, any amendment to be done by the Company shall bind all user in all respect, and whether the Company has sent the prior notice to them regarding the amendment or not._
+**Profiling** : We use browser cookies to personalize contents and your preference, to selectively deliver and display the Company’s or others’ advertisements, to allow us to analyze statistical information of our website users including frequency and location of website access, and to measure conversion rate from website visit to account sign-ups. For this profiling purpose we embed third party javascript from Google and Facebook that share your browser information with them and link the site access with your browsing history using their cookies. In return, they provide us with anonymized visitor site usage analysis. Your actual user identity that you shared with these providers will not share with us. You consent to our browser cookies if you continue to use our website and decide not to block them.
+
+**Data Retention** : The retention of the Personal Data collected for profiling is governed:
+
+  * by Google Analytics where it will be be retained for 38 months; and
+  * by Facebook Insights where it will be retained in accordance with the retention policy of Facebook.
+
+
+
+Retention of logged access data that only provides IP and browser information of the accessing user, may be kept for one (1) year as required by PCI-DSS. Access to logs is strictly controlled and protected.
+
+**Your rights** : When successfully shown that you are the owner of certain IP addresses at a certain time, we provide you with all information we have about it. You may request erasure of those IP addresses from our logs which we will comply if there is no regulation or obligation requiring it to be kept.
+
+You can delete all site access and conversion data shared with Google anytime from [https://myactivity.google.com/myactivity](https://myactivity.google.com/myactivity).
+
+### 1.3 _Payment via Merchants’ Platform_
+
+**Data we collect** : We are the processor of the online payments and process certain of your Personal Data transacted (purchase goods or services) online through the merchant’s platform or store including collecting of payment card numbers, expiration dates, name of cardholders, CVC code and card brands. The collection and processing of such Personal Data follows the merchants’ privacy policy or your agreement with the merchants which at least explain how the merchant share your Personal Data with us.
+
+**Data processing and sharing** : For authorization and charging, your payment card data will be processed (and thus shared) through the relevant payment providers (e.g. Visa, MasterCard etc.) and third-party processors according to our contracts with them. The sharing is strictly secured as per data security standard (PCI-DSS).
+
+Payment information (excluding payment card numbers or sensitive information) will also be shared with the merchant on our platform. We may also share such information with third parties for fraud detection and prevention.
+
+We store the Personal Data that we collected for the purpose under this section on Amazon and Google Data Centers in Singapore and Tokyo, Japan.
+
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy. All Personal Data you provided to us is stored on our secure servers. Where we transfer our data outside of Japan or Singapore, we ensure that adequate safeguards are in place.
+
+**Data retention** : Your payment card information is securely kept with us for four (4) years, and your payment history will be retained with us for five (5) years from the transaction completion date as we may be required by the governmental authorities, issuing banks, acquiring banks and other source of funds to prove the existence of the transactions and cooperate and assist them in examining certain suspected transactions.
+
+**Your Rights** : When successfully shown that you are the owner of certain transactions or card information, we will provide you with all details in our system except for the payment card information itself which we are not allowed to share. You may request us to remove your card data (except the cardholder name as may be requested by the governmental authorities, issuing banks, acquiring banks and other source of funds). We will remove your card data within one (1) year after your request. During such period, the card will be blocked for further processing or payments.
+
+To exercise these rights please first contact your merchant through whom you bought goods or services. We can only take direct action if there is an issue contacting the merchant.
+
+### 1.4 _Company’s Marketing Communication_
+
+As part of our marketing and promotional plan, we may communicate with you through the channels (email, social media platform, telephone number and others) that you shared with us: (a) to provide information regarding our system and Services and (b) to advertise, deliver or promote our Services or our affiliates’ services.
+
+**Data retention and Sharing:** We will retain the contact details and communication information under this section as we deem appropriate, to the extent provided by the applicable laws and regulations, and will not share such information to any persons, _except_ our affiliate companies.
+
+**Your rights:** At any time, you may contact us to cease to send and deliver you any marketing and promotional information. We will promptly remove your contact and communication information for such purpose upon your request.
+
+## 2\. Sharing of Your Personal Data
+
+The Company will not share or disclose your Personal Data to any third parties, except:
+
+  * where expressly indicated in the previous sections;
+  * the Personal Data is provided through a business transfer by way of merger or other similar transactions;
+  * the Company is required to cooperate with state or local governmental organizations or their agents to perform their duties or obligations pursuant to applicable laws and regulations, and such performance is likely to be precluded if the consent of the user must be obtained;
+  * if the sharing or disclosure is requested by the owner of the Personal Data;
+  * in any event we obtain specific consent from the owner of the Personal Data.
+
+
+
+## 3\. Protecting Children's Personal Data
+
+We do not intend to provide our Services to individuals under legal ages. We encourage parents and legal guardians to monitor their children’s internet usage and to help enforce this Policy by instructing their children never to provide their Personal Data through the website or our Services without their permission.
+
+## 4\. Dispute Resolution
+
+Any claim or dispute arising from or in connection with this Policy shall be resolved by the competent court of Thailand.
+
+## 5\. Inquiries
+
+Should you have any suggestions, questions, complaints, or other inquiries in connection with this Policy, please do not hesitate to communicate with our data protection officer at our contact points as follows.
+
+Data Protection Officer
+
+_Our Offices_
+
+In Thailand: Omise Co., Ltd.
+
+> 1448/17 J209-210 Bldg., Ladprao 87, Klongchan, Bangkapi, Bangkok 10240 Thailand
+
+In Japan: Omise Japan Co., Ltd.
+
+> Sumitomo Realty & Development Infoss Annex 1F 12-10 Sakuragaokacho, Shibuya, Tokyo 150-0031, Japan
+
+In Singapore: Omise Payment SG Pte. Ltd.
+
+> 7 Straits View #11-01, Marina One East Tower, Singapore, 018936
+
+_Our email_
+
+[privacy@omise.co](mailto:privacy@omise.co)
+
+At any time, you may request to have your Personal Data maintained by us returned to you or removed by emailing us or use the provided portal (in case of merchants). Requests to access, change, or remove your information will be handled within thirty (30) days. To protect your privacy and security, we may take steps to verify your identity before complying with the request.
+
+## 6\. Changes to This Policy
+
+The Company may amend this Policy from time to time. Such changes will be highlighted when accessing the Services and you may access to the latest version of our Policy on our website.
