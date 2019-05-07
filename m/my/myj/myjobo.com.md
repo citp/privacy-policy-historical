@@ -1,73 +1,99 @@
-> *The following text is extracted and transformed from the myjobo.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002183408id_/https%3A//www.myjobo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobo.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507212513id_/https%3A//www.myjobo.com/cms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Find jobs in Malawi- Search for jobs on myjobo.com
+# Privacy Policy | Myjobo.com
 
-Unique Future Ltd having a principal place of business at Hove, the United Kingdom (hereinafter, referred to as “Company”, “we”, “us”, “our”) collects from the individual user (hereinafter, referred to as “you”, “your”, “user”) certain information through the website www.myjobo.com (hereinafter, referred to as “Website”). This Privacy Policy contains our policies and procedures governing the collection and handling of information that identifies an individual user or that could be used to contact or locate him or her (hereinafter, referred to as “Personal Information”). This Privacy Policy applies only to the Website. It does not apply to any other websites.
+#### **Our Privacy Policy**
 
-**1.      ****_Personal Information collected by us_**
+_Revised on 30th April, 2019_
 
-1.1  We collect the following Personal Information from job seekers using the Website: (1) CVs; (2) names; (3) email addresses; (4) postal addresses; and (5) phone numbers; 
+Myjobo.com is committed to a high standard of privacy for our users. We understand that job seeking is a confidential and private activity and we take great care to ensure the services we provide meet our users expectations. 
 
-1.2  We collect the following Personal Information from companies using the Website: (1) names of contact persons; (2) phone numbers of contact persons; (3) emails of contact persons; and (4) postal addresses.
+  
+We know that job seeking involves the provision of confidential and sensitive personal information to others. 
 
-**2.      ****_The purpose of collection of Personal Information_**
+  
+We encourage users to carefully apply for jobs and to read our Safe Job Hunting advice page. 
 
-2.1  We collect Personal Information from job seekers to: (1) allow companies to search for job seekers; (2) allow companies to contact job seekers; (3) send promotional materials to job seekers that we believe may be of interest to them; (4) send our newsletter to job seekers; and (5) communicate with job seekers; 
+  
+Myjobo.com collects a range of personal and non-personal data as part of its core service offering. 
 
-2.2   We collect Personal Information from companies to: (1) allow companies to contact job seekers; (2) send promotional materials to companies that may be of interest to them; (3) send our newsletter to companies; and (4) communicate with companies;
+  
+Myjobo.com collects information on our site visitors collectively including which sections of the site are most frequently visited, how often and for how long. This data is always used as aggregated, non-personal information. 
 
-**3.      ****_Protection of Personal Information_**
+  
+Myjobo.com utilises this information to improve and enhance our services by monitoring the areas on the site which are most popular to users and to enhance the usability and feature set of our services. 
 
-3.1  We employ information security tools to protect Personal Information collected by us. However, even with the use of such tools, we cannot guarantee the security of Personal Information. By using the Website, you acknowledge and agree that we make no such guarantee, and that your use of the Website is at your own risk.
+  
+This aggregated information may be shared with Myjobo.com partners, designers, technology service providers, investors, alliance partners, customers, advertisers and others in order to provide them with an overview of how Myjobo.com visitors use the site. 
 
-**4.      ****_Third party access to Personal Information_**
+  
+Myjobo.com's web servers gather your IP address, device and browser characteristics, site activity records and other data in order to assist with the diagnosis of problems or support issues with our services, and to monitor legitimate use of our site and to provide diagnostic data for maintaining the security of our website. 
 
-4.1  We give certain independent contractors access to your Personal Information. Those contractors assist us with the maintenance of the Website. All those contractors are required to sign contracts in which they promise to protect Personal Information using procedures reasonably equivalent to ours. We also may disclose Personal Information to attorneys, collection agencies, or law enforcement authorities to address potential privacy violations, or illegal behavior. And we disclose any information demanded in a court order or otherwise required by law or to prevent imminent harm to persons or property.
+  
+Myjobo.com uses cookies to provide you with a better experience. These cookies allow you to use specific services for example to remember who you are for automatically logging in.
 
-**5.      ****_Cookies_**
+  
+Users who do not wish to receive cookies can instruct their web browsers to refuse them. However, doing so will prevent access to some areas of the site and limit your use of some of the Myjobo.com services.
 
-5.1  We use cookies to make use of the Website as convenient as possible. Cookies are pieces of information that a website transfers to a computing device for record keeping purposes. The majority of web browsers are set to accept cookies. The cookies do not themselves personally identify users. However, they identify users’ browsers. The cookies allow the Company to remember your preferences and improve your experience of the Website.
+  
+In order to better understand our users, Myjobo.com may use a third party measurement company such as Alexa, Google, or other web measurement companies to assess site traffic and behaviour. Tracking codes from these companies are used to collect aggregated non-personal data about site, device, browser and internet service provider usage amongst other non-personal data. 
 
-5.2  It is possible to set your browser to refuse cookies. Please note that this may limit the services provided by us through the Website. If you would like to stop receiving cookies, check your browser’s help information or visit the following links for further information:
+  
+This aggregate, non-personal information is collated and provided to Myjobo.com by the third parties to assist in analysing the usage of the site. This data is also accessible by media organisations and research companies, for the purpose of conducting industry comparisons with other Internet websites. It is also accessible by third party advertisers considering placing advertising on Myjobo.com via Google and other third party ad serving providers. 
 
-·       [Internet Explorer](http://windows.microsoft.com/en-GB/windows7/How-to-manage-cookies-in-Internet-Explorer-9)
+  
+As part of registering with Myjobo.com, we collect personal information about you that you provide in order for you to take full advantage of Myjobo.com's services. 
 
-·       [Firefox](http://support.mozilla.org/en-US/kb/Cookies)
+  
+Registration is completely optional. However, registration for free or paid membership services allows you to take advantage of more of the tools and resources that assist you in finding a job. Registration includes submitting your email address, mobile phone number and other contact information, as well as some information about who you are and what type of job you are looking for. You may access, edit or delete this information at any time when you log in to your account. 
 
-·       [Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)
+  
+Job Alerts are an optional service designed to help job seekers maximize their chance of getting a job. Myjobo.com requests that you provide information relating to your employment preferences as well as your email address or mobile phone number so that we may notify you via email or SMS of jobs specific to your needs. Users can modify or delete their profiles at any time, and unsubscribe from the service at any time. Where signing up to a third party service is required (for example TNM or Airtel Alerts), we will specify that you are subscribing to a third party service not a service from Myjobo.com
 
-·       [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
+  
+Myjobo.com registered members may elect to store CVs and use those CVs when applying for a job. Please note that deleted records may still be stored by Myjobo.com in testing or back-up systems for a period of time. Myjobo.com provides registered members with the option of creating a personal profile. A profile may include your CV, employment and educational history, contact details, minimum salary expectation and the classifications and locations registered members would like to work in amongst other personal data. Registered members' profiles may be seen by Myjobo.com clients who place job ads in matching classifications and locations. Members can choose to hide their profile at any time. Myjobo.com provides registered members with a range of privacy options in relation to the access allowed to their Profile whereby the job advertiser sends the job for which they are inviting you to apply to you before you release your CV to them. 
 
-·       [Safari](http://support.apple.com/kb/index?page=search&q=cookies%20safari)
+  
+All information provided when creating a Profile including name, CV, email address, telephone numbers, employment and educational history are used for the purposes of facilitating registered members job seeking efforts.  Registered Members can modify, hide or delete their CV at any time. Myjobo.com reserves the right to disable or delete a Profile at their sole discretion.
 
-**6.      ****_Accessing and correcting your Personal Information_**
+  
+Making an online application to a job advertisement on Myjobo.com does require registration and full completion of your Profile. Paid membership is an optional product designed to help jobseekers access more services that make them compete better against other applicants. Job applications require you to provide personal information so that the advertiser can identify and contact you. Your application, including attachments and cover letters, are forwarded directly onto the third party advertiser. This information may also be disclosed to Myjobo.com's service providers and contractors from time to time who assist us to deliver our products and services, or may be disclosed to an advertisers provider in the case of recruitment agencies, recruitment software providers and other third party providers to our advertisers. 
 
-6.1  If you would like to access, modify, or delete your Personal Information stored on our servers, please login into your account and update your account information or contact us by using the contact details stated in Section 10 of this Privacy Policy.
+  
+Myjobo.com may also retain this information in order to customise the service we provide to you. For example, Myjobo.com may use this information to help create a Myjobo.com Profile that you may choose to use in the future. We will not however activate this (or any other service) or disclose this information to any third party without your express consent. Myjobo.com does however reserve the right to disable or delete a saved CV or cover letter at its discretion. However we will only do this for reasons of security, technological constraints or other factors unrelated to the personal information or identity or personal information of the user. 
 
-**7.      ****_Amendment of this Privacy Policy_**
+  
+By applying to a position advertised on Myjobo.com you are requesting that Myjobo.com pass the information to the Advertiser as a part of your application. Myjobo.com also provides you with selected information about job seeking and career-related topics in our email newsletter. This service is sent to registered users and provides the option of opting out of receiving these by changing your preferences. Myjobo.com may also make you aware of additional products and services which form part of your relationship or membership with Myjobo.com.
 
-7.1  We may change this Privacy Policy at any time by posting a new version on the following URL: [http://www.myjobo.com](http://www.myjobo.com/). The new version will become effective on the date it is posted.
+  
+Myjobo.com takes all reasonable steps to ensure the security of our systems. Myjobo.com allows you to access your information at any time to keep it accurate and up to date. Any information which we hold for you is stored on secure servers belonging to third parties including Google and Amazon. In addition, our employees and the contractors who provide services related to our information systems are contractually obliged to respect the confidentiality of any personal information held by Myjobo.com. Our employees have severely restricted access to personal data stored on Myjobo.com. However, Myjobo.com will not be held responsible for events arising from unauthorised access of your personal information.
 
-**8.      ****_Retention Period_**
+  
+You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the Myjobo.com site. Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.
 
-8.1  We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+  
+Unless you become a registered member, Myjobo.com does not collect information that identifies you personally. If however, you become a Myjobo.com registered member, you are able to change, update or delete your registered profile at any time by logging in.
 
-**9.      ****_Your consent_**
+  
+Myjobo.com may provide links for online job or other applications to third party sites. The use of your information by these third party sites is not within the control of Myjobo.com and we cannot accept responsibility for the conduct of other companies.
 
-9.1  By using the Website, you are consenting to our processing of your Personal Information as set forth in this Privacy Policy now and as amended by us. The term “Processing” includes, but is not limited to, collecting, storing, deleting, using, combining and disclosing information.
+  
+With the consent of Myjobo.com's registered members, Myjobo.com may provide that member's personal profile to Myjobo.com clients who have placed job ads with matching classifications and locations to the registered member's profile and who have purchased access to the member's profile. The use of that information by these Myjobo.com clients is not within the control of Myjobo.com and we cannot accept responsibility for the conduct of these clients. Myjobo.com clients who place job ads on Myjobo.com, and who purchase Myjobo.com registered members' profiles are asked to comply with our Advertiser Terms and Conditions that include a privacy policy with regard to their own information handling practices.
 
-**10.   ****_Contacting Us_**
+  
+You may also directly contact advertisers to request access to any personal information that you have sent as part of an application or as part of a profile.
 
-10.1  If you have any questions about this Privacy Policy, please contact us by email at [info@myjobo.com](mailto:info@myjobo.com), or please write to the following mailing address:
+  
+Sometimes, we transfer information to 3rd party contractors including persons outside of Malawi. Your personal data and CV may be stored securely on servers located in other parts of the world. Limited aspects of your profile information may be accessed by robots belonging to Google, Amazon, Microsoft or other third party search engine, security or other service providers. 
 
-Unique Future Ltd,
+  
+By giving us your personal information, you consent to such disclosures and storage. In addition, where we transfer information to persons outside Malawi we believe that the recipients of such information are subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to our own principles.
 
-United Kingdom.
+  
+Myjobo.com welcomes ideas and feedback about all aspects of the site. Myjobo.com stores feedback that users send to us. This feedback will be used to administer and refine the service and may be shared with Myjobo.com partners either in aggregate form or with specific identifying characteristics removed.
 
-**11.   ****_Links_**
+  
+From time to time, Myjobo.com may review and update its privacy statement. Revised versions will be updated on the website.
 
-11.1  The Website may contain links to other websites. If you provide any information to those websites, please note that you are providing this information directly to the owner of that website. Therefore, you are subject to that party's privacy policy. Our Privacy Policy does not apply to such websites.
-
-**12.   ****_Last amendment_**
-
-12.1  This Privacy Policy was last amended on 14th of June 2017.
+  
+**For further information, please contact us on:[info@myjobo.com](mailto:info@myjobo.com)**
