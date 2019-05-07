@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newkerala.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501232540id_/https%3A//www.newkerala.com/classic/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newkerala.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507122353id_/https%3A//www.newkerala.com/classic/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ newkerala.com
 
