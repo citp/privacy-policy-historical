@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialtwist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063744id_/http%3A//www.revemarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtwist.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507184447id_/https%3A//www.revemarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reve Marketing
 
@@ -143,13 +143,13 @@ You always have the option to cancel your account with us at any time. Simply si
 
 #### **Changes to this Privacy Policy**
 
-We reserve the right to modify this privacy policy at any time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We reserve the right to modify or update this privacy policy at any time without notice. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
   
 
 
 #### **How to Contact Us**
 
-If you have any questions about this privacy policy, Rêve Marketing's information practices, or your dealings with Rêve Marketing, you can contact us using our [Contact Us form](https://web.archive.org/web/20170606063744id_/http%3A//www.revemarketing.com/contact), call (866) 660-6044 Monday through Friday between the hours of 9am and 5pm PST, or write us at Rêve Marketing, Inc., 1975 W. El Camino Real, Suite 301, Mountain View, CA 94040.
+If you have any questions about this privacy policy, Rêve Marketing's information practices, or your dealings with Rêve Marketing, you can contact us using our [Contact Us form](https://web.archive.org/web/20190507184447id_/https%3A//www.revemarketing.com/contact), call (866) 660-6044 Monday through Friday between the hours of 9am and 5pm PST, or write us at Rêve Marketing, Inc., 1975 W. El Camino Real, Suite 301, Mountain View, CA 94040.
 
-**Updated November 6, 2015**
+**Updated May 23, 2018**
