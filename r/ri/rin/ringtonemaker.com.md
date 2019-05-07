@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringtonemaker.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518214342id_/http%3A//ringtonemaker.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringtonemaker.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507025225id_/https%3A//ringtonemaker.com/policy) for the most accurate reproduction.*
 
 # 
 
