@@ -1,43 +1,63 @@
-> *The following text is extracted and transformed from the kartoongames.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817075334id_/http%3A//www.kartoongames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kartoongames.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507102418id_/https%3A//thunderstormgames.com/privacy-policy) for the most accurate reproduction.*
 
-# Kartoon Games - Play All Online Games On Cartoon Games
+# Privacy Policy - thunderstormgames.com
 
-## Privacy Policy
+This Privacy Policy governs the manner in which Thunderstorm Games collects, uses, maintains and discloses information collected from users (each, a "User") of thunderstormgames.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Thunderstorm Games.
 
-* * *
+## Personal identification information
 
-Kartoongames is committed to providing an entertaining, fun and educational service. Kartoongames.com is a property of Kartoongames Limited "Kartoongames". Kartoongames respects the privacy concerns of visitors to Kartoongames.com. Kartoongames does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity. 
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### Information we collect
+## Non-personal identification information
 
-We may log IP addresses and/or drop cookies to prevent abuse of our website and/or to enhance services. Email addresses of under 13 year olds are not stored. They are encrypted into an unrecoverable format using a one way hash. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-###  How we use the information 
+## Web browser cookies
 
-We have an internal notification system to communicate with under 13 players and do not send them emails. We do not retain any personal information beyond the time it is needed. We may use information to ensure that users are compliance with our terms. Over 13's may authorize and receive email notifications related to Kartoongames services. Kartoongames Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Kartoongames's property, visitors, or anyone else that could be harmed by such activities. 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-We may sometimes use non-personally identifiable information that we collect to improve the design and content of our site, to personalize our visitors' experience or to offer products, programs, and services. We may also use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services. 
+## How we use collected information
 
-### Collection of Information and Third-Party Sites and Sponsors
+Thunderstorm Games may collect and use Users personal information for the following purposes:
 
-Our site may place a small file, called a cookie, on your hard drive to provide you with a better website. A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us. It only helps us analyze web traffic or lets web applications respond to you as an individual. Our authorized third-party advertisers in the course of serving ads to you, may also place cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser's settings section. Google, one of our third-party advertisers, may add a DART cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google's use of cookies by visiting the Google ad and content network privacy policy. 
+1\. - To improve customer service - Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+2\. - To personalize user experience - We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our site.  
+3\. - To improve our Site - We may use feedback you provide to improve our products and services.  
+4\. - To process payments - We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-### Information that is reasonably necessary
+## How we protect your information
 
-Kartoongames does not require under 13's to disclose more information than is reasonably necessary to participate in the activity as a condition of participation. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-### Security
+## Sharing your personal information
 
-We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-### Parental Review
+## Third party websites
 
-To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child. 
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-### Changes to this Privacy Policy
+## Advertising
 
-This Privacy Policy is part of the Kartoongames main Terms and Conditions which you agree to by accessing the Kartoongames.com webstie and/or services. You agree that Kartoongames Limited may change this Privacy Policy and the main Kartoongames Terms and Conditions at any time. 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-### Internet Safety
+## Google Adsense
 
-Kartoongames recommends that Parents take time to communicate and educate their children about Internet Safety. 
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+## Changes to this privacy policy
+
+Thunderstorm Games has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+[Thunderstorm Games](https://web.archive.org/web/20190507102418id_/https%3A//thunderstormgames.com/title=)  
+[thunderstormgames.com](https://web.archive.org/web/20190507102418id_/https%3A//thunderstormgames.com/%7B%7Burl%7D%7D "Thunderstorm Games")
+
+Copyright 2019 thunderstormgames.com \- [Terms of Service](http://www.thunderstormgames.com/terms-of-service) \- [Privacy Policy](http://www.thunderstormgames.com/privacy-policy)
