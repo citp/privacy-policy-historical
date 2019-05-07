@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the turo.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005050424id_/https%3A//turo.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turo.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507091717id_/https%3A//turo.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ### Privacy policy
 
-Last revised: April 20, 2018
+Last revised: October 9, 2018
 
 We collect three categories of information - information you give us; information automatically collected from your use of the Services; and information from third party sources.
 
@@ -17,7 +17,7 @@ Account information. When you register for an account with us, we require certai
 
 Profile information. We may also ask you to provide additional profile information to use certain features of the Turo Service which may include street addresses, phone numbers, driver’s license number and issuing country and/or state and date of birth. Certain parts of your profile (like your profile photos, employer, city, school and biography) are part of your public profile page and will be publicly visible to others.
 
-Trip information. We collect information you provide in relation to a trip such as vehicle listing details, availability dates, reviews and uploaded trip photos.
+Trip information. We collect information you provide in relation to a trip such as vehicle listing details, vehicle identification number (VIN), availability dates, reviews and uploaded trip photos.
 
 Payment information. We collect your financial information (like your bank account or payment card numbers) in connection with a potential or actual transaction, which may be stored by one or more third party payment services providers or digital payments companies that may be located inside or outside of your country of residence including outside the European Economic Area (EEA).
 
@@ -38,7 +38,9 @@ Log data. We automatically collect log information when you use the Platform, ev
 
 Trip information. We collect information related to your transactions on the Platform, including the date and time, amounts charged and other related trip details.
 
-Cookies and similar technology. When you access our Platform, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, clear gifs, pixel tags, e-tags, “Flash cookies”, or other local storage provided by your browser or associated applications (collectively “Cookies”). For more detailed information on our use of these technologies, please see our policy on Cookies, Web Beacons, and Similar Technologies. At this time, we do not respond to browser ‘Do-Not-Track’ signals.
+In-vehicle Turo Go devices. If a vehicle has a Turo Go device installed, the information we collect depends on the make, model and year of the vehicle but may include, GPS location, car battery voltage, fuel level, odometer reading, malfunction indicator lamp (e.g., a check engine light), door state (e.g., locked/unlocked), engine state (e.g., stopped/running) and VIN.
+
+Cookies and similar technology. When you access our Platform, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, clear gifs, pixel tags, e-tags, “Flash cookies”, or other local storage provided by your browser or associated applications (collectively “Cookies”). For more detailed information on our use of these technologies, please see our policy on [Cookies, Web Beacons, and Similar Technologies.](https://support.turo.com/hc/articles/213251437) At this time, we do not respond to browser ‘Do-Not-Track’ signals.
 
   
 
@@ -47,7 +49,7 @@ Cookies and similar technology. When you access our Platform, we (including comp
 
 Third party services. If you choose to log in to our Services through social media sites (e.g., Facebook or Google), the third-party service may send us information such as your registration and profile information from that service. The information we may receive varies by site and is controlled by that site. By associating an account managed by a third party with your Turo account and authorizing Turo to have access to this information, you agree that Turo may collect, store, and use this information in accordance with this Privacy Policy. We are not responsible for how those third parties use and share your information. Please refer to those third parties’ privacy policies to understand how they use and share your information.
 
-In-vehicle devices. If your vehicle, or a vehicle you book through the Services, includes an in-car device operated by a third-party service or installed by the host, that host or service may record information about your use of the car. The host and third-party service will be solely responsible to you for its use of such information but may disclose such information to Turo.
+Third party in-vehicle devices. If your vehicle, or a vehicle you book through the Services, includes an in-car device operated by a third-party service or installed by the host, that host or service may record information about your use of the car. The host and third-party service will be solely responsible to you for its use of such information but may disclose such information to Turo.
 
 Background information. To the extent permitted by applicable laws, Turo may obtain reports from public records of criminal convictions or local versions of background or registered sex offenders checks. We may use your information, including your full name and date of birth, to obtain such reports.
 
@@ -60,28 +62,28 @@ We use, store and process your information to provide and improve our Services a
 
 ###### Provide and improve our Services
 
-  * enable you to access and use the Turo Services 
-  * provide customer support 
-  * send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you and contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging, as authorized by our Terms of Service 
-  * enable the processing of transactions and send notices about your transactions 
-  * improve the Services, including by personalizing or customizing your user experience 
-  * measure the performance of the Services and improve our content and layout 
-  * enable you to communicate with other Turo users, including by sending them messages or other information during the booking process 
-  * if you provide us or our service providers any information relating to other people in connection with the Services, we may use and store this information to facilitate your referral invitations; send your requests for reviews, for fraud detection and prevention and for any purpose you authorize at the time of collection 
+  * enable you to access and use the Turo Services
+  * provide customer support
+  * send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you and contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging, as authorized by our Terms of Service
+  * enable the processing of transactions and send notices about your transactions
+  * improve the Services, including by personalizing or customizing your user experience
+  * measure the performance of the Services and improve our content and layout
+  * enable you to communicate with other Turo users, including by sending them messages or other information during the booking process
+  * if you provide us or our service providers any information relating to other people in connection with the Services, we may use and store this information to facilitate your referral invitations; send your requests for reviews, for fraud detection and prevention and for any purpose you authorize at the time of collection
 
 
 
 ###### Ensure a secure, safe and trusted experience
 
-  * verify your identity or authenticate information provided by you, including during account creation and password reset processes 
-  * resolve disputes, collect fees, and troubleshoot problems 
-  * detect, prevent, and/or remediate fraud, abuse, security incidents or other potentially harmful, prohibited or illegal activities 
-  * determine your likelihood of getting into an accident or of making an insurance claim, such by checking your auto insurance score 
-  * detect, prevent or remediate violations of and enforce our Terms and Policies 
-  * manage and protect our information technology infrastructure 
-  * conducting investigations and risk assessments 
-  * conduct checks against databases and information sources (such as but not limited to public government databases) 
-  * comply with our legal obligations, resolve any disputes that we may have with any of our users, and enforce our agreements 
+  * verify your identity or authenticate information provided by you, including during account creation and password reset processes
+  * resolve disputes, collect fees, and troubleshoot problems
+  * detect, prevent, and/or remediate fraud, abuse, security incidents or other potentially harmful, prohibited or illegal activities
+  * determine your likelihood of getting into an accident or of making an insurance claim, such by checking your auto insurance score
+  * detect, prevent or remediate violations of and enforce our Terms and Policies
+  * manage and protect our information technology infrastructure
+  * conducting investigations and risk assessments
+  * conduct checks against databases and information sources (such as but not limited to public government databases)
+  * comply with our legal obligations, resolve any disputes that we may have with any of our users, and enforce our agreements
 
 
 
@@ -92,9 +94,9 @@ In this regard, we may do any or all of the foregoing with or without further no
 
 ###### Provide and improve our Services
 
-  * provide targeted marketing, provide service update notices, and deliver promotional offers based on your communication preferences 
-  * perform creditworthiness and solvency checks, compare information for accuracy, and verify it with third parties 
-  * administer referral programs, rewards, surveys, contests, or other promotional activities or sponsored events 
+  * provide targeted marketing, provide service update notices, and deliver promotional offers based on your communication preferences
+  * perform creditworthiness and solvency checks, compare information for accuracy, and verify it with third parties
+  * administer referral programs, rewards, surveys, contests, or other promotional activities or sponsored events
 
 
 
