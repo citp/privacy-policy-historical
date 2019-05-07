@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hikingproject.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221020452id_/https%3A//www.adventureprojects.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikingproject.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507144503id_/https%3A//www.adventureprojects.net/privacy-policy) for the most accurate reproduction.*
 
 # Adventure Projects Privacy Policy
 
