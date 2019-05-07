@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackingtime.co privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008170205id_/https%3A//trackingtime.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackingtime.co privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507025820id_/https%3A//trackingtime.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help Center
 
@@ -25,7 +25,7 @@ Where we provide the Services under contract with an organization (for example y
 
 We collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below.
 
-**Account and profile data** : We collect information about you when you register for an account, create or modify your profile, set preferences, sign-up for or make purchases through the Services. For example, you provide your contact information and, in some cases, billing information when you register for the Services. You also have the option of adding a profile photo and other details to your profile information to be displayed in our
+**Account and profile data** : We collect information about you when you register for an account, create or modify your profile, set preferences, sign-up for or make purchases through the Services. For example, you provide your contact information and, in some cases, billing information when you register for the Services. You also have the option of adding a profile photo and other details to your profile information to be displayed in our Services. We keep track of your preferences when you select settings within the Services.
 
 **Services:** We keep track of your preferences when you select settings within the Services. 
 
