@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skullcandy.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007115026id_/http%3A//www.skullcandy.com/customer-service/privacy-policy/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skullcandy.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507205659id_/https%3A//info.skullcandy.com/Support%3FDest%3Dhc%252Fen-us%252Farticles%252F360010896613-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Skullcandy
+# Help Center | Skullcandy
 
 Skullcandy, Inc. and each of its affiliated companies (“Skullcandy,” “we,” “us” or “our”) is committed to respecting the privacy rights of all users of the Skullcandy.com website where this Privacy Policy is posted (each, a “Site”) and persons who may contact Skullcandy at retail stores and customer service call centers, and through our contests, sweepstakes, and online surveys or use of applications and/or software we may make available from time to time (collectively “Services”).  Skullcandy has established and implemented this Privacy Policy to inform visitors to the Site and users of our services how we use and protect the information we collect through the Site and the Services. By visiting the Site or using any of the Services, you consent to Skullcandy’s collection, use, disclosure, transfer and storage of information relating to you as set forth in this Privacy Policy.
 
@@ -35,8 +35,7 @@ You may also choose to participate in a third party application or feature (such
 All personal information that we obtain about you will be recorded, used and protected by us in accordance with current data protection legislation and this privacy policy. We will primarily use your personal information to provide products and services to you and, for example:  
 \- To administer a contest, promotion, survey or other site feature and to provide you with the relevant products or services (for instance to deliver a prize you may have won in a contest). You may be contacted by phone or email.  
 \- To send you information/materials via e-mail or sms-messages about products, offers and news we think could interest you. This information may relate to products, offers and news of Skullcandy and/or its licensees or carefully selected commercial partners. We only send you this if you have opted-in to receive Skullcandy e-mails and/or sms messages. In case you do not want to receive any e-mails and/or sms messages from us anymore, or if you want to modify you personal data or want your personal data to be deleted from our database, we refer you to the 'Opt-out, delete or modify personal information' section below  
-\- To analyze visits to the website and learn about the interests of our visitors in aggregate and also on personal level to better understand your interest and need, so we can improve our products and services and deliver to you the type of content, features and promotions that you are most interested in.  
-
+\- To analyze visits to the website and learn about the interests of our visitors in aggregate and also on personal level to better understand your interest and need, so we can improve our products and services and deliver to you the type of content, features and promotions that you are most interested in.
 
 **Who manages visitors' information**
 
@@ -69,10 +68,9 @@ You may cancel your registration at any time, and you can choose to opt-out of r
 
 **California Privacy Rights**
 
-If you are a California resident, you have the right to receive: (a) information identifying any third party or parties to whom Skullcandy may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please write to us at Skullcandy, 1441 W. Ute Blvd., Suite 250, Park City, UT 84098, Attn: Legal Department, or submit your request to legal@skullcandy.com. Skullcandy will respond to these requests within thirty (30) days. Requests that come to Skullcandy by other means may result in a delayed response.
+If you are a California resident, you have the right to receive: (a) information identifying any third party or parties to whom Skullcandy may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please write to us at Skullcandy, 6301 N. Landmark Dr., Park City, UT 84098, Attn: Legal Department, or submit your request to legal@skullcandy.com. Skullcandy will respond to these requests within thirty (30) days. Requests that come to Skullcandy by other means may result in a delayed response.
 
-California Online Privacy Protection Act Notice: Some web browsers incorporate a “Do Not Track” feature that signals to websites that you visit that you do not want to have your online activity tracked. How browsers communicate the Do Not Track signal is not yet uniform. For this reason, our Websites do not currently interpret, respond to or alter their practices when they receive Do Not Track signals. Please note that third parties may collect personal information about your online activities over time and across different websites when you visit our website or other online websites and services. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).  
-
+California Online Privacy Protection Act Notice: Some web browsers incorporate a “Do Not Track” feature that signals to websites that you visit that you do not want to have your online activity tracked. How browsers communicate the Do Not Track signal is not yet uniform. For this reason, our Websites do not currently interpret, respond to or alter their practices when they receive Do Not Track signals. Please note that third parties may collect personal information about your online activities over time and across different websites when you visit our website or other online websites and services. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
 **Changes to the policy**
 
@@ -80,7 +78,7 @@ The terms of this Privacy Policy will govern the use of any information collecte
 
 **How you can contact us**
 
-If you have any questions or comments relating to our website and/or the privacy policy, please contact us or write to us: Skullcandy, 1441 W. Ute Blvd. Suite 250 Park City, UT 84098.
+If you have any questions or comments relating to our website and/or the privacy policy, please contact us or write to us: Skullcandy,  6301 N. Landmark Dr., Park City, UT 84098.
 
 **Inquiry, Complaint, and Dispute Process:**
 
