@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230071405id_/https%3A//www.wmata.com/about/records/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507135633id_/https%3A//www.wmata.com/about/records/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer | WMATA
 
-Outlined below is  Metro's privacy policy governing personal data collected on this website. Metro also has a broader corporate privacy policy  protecting the privacy of individuals who are the subjects of records maintained in Metro's [systems of records](https://web.archive.org/about/records/sorn.cfm). See [explanations for  general routine uses within the systems of records notices](https://web.archive.org/upload/routine_Uses_in_SORN.pdf) .  Metro interprets and applies this privacy policy consistent with the federal Privacy Act, 5 U.S.C. § 552a, and federal practice.
+Outlined below is  Metro's privacy policy governing personal data collected on this website. Metro also has a broader [corporate privacy policy](https://web.archive.org/upload/9-2-2_Privacy_Policy.pdf "corporate privacy policy - opens in new window") protecting the privacy of individuals who are the subjects of records maintained in Metro's [systems of records](https://web.archive.org/about/records/sorn.cfm). See [explanations for  general routine uses within the systems of records notices](https://web.archive.org/upload/routine_Uses_in_SORN.pdf "explanations for  general routine uses within the systems of records notices - opens in new window") .  Metro interprets and applies this privacy policy consistent with the federal Privacy Act, 5 U.S.C. § 552a, and federal practice.
 
 ### Summary
 
@@ -22,7 +22,7 @@ If you have any questions or concerns about our privacy policy, please [contact 
 
 
 
-#### Information Collected and Stored Automatically
+### Information Collected and Stored Automatically
 
 We do not collect personal information when you visit our website unless you choose to provide that information  to us. Every time you visit the Metro site and view pages, we collect the following usage information:
 
@@ -50,7 +50,7 @@ Metro does not set cookies from any page in the wmata.com domain that store pers
 
 Top
 
-#### Personal Information Collected
+### Personal Information Collected
 
 There are places on the website where we ask you to provide us with personal information. We collect this information in order to provide you with the specified goods or services you requested. The information collected is owned by Metro and will not be sold or given to any entity outside of Metro except contractors hired by Metro to provide Metro-approved services. These contractors are bound by this policy and are prohibited from using the information except to fulfill the services for which Metro has contracted.
 
@@ -75,7 +75,7 @@ If you fill out an application for employment, the information collected will be
 
 Top
 
-#### Links to Other Sites
+### Links to Other Sites
 
 Metro's website links to external sites for services provided by Metro contractors, such as e-commerce. These sites are subject to Metro's privacy policy.
 
@@ -85,7 +85,7 @@ Note that the links we provide to outside sites are offered for your convenience
 
 Top
 
-#### Copyright
+### Copyright
 
 All images and text on the Metro website are copyrighted by Metro and are protected by applicable laws. Anyone wishing to use Metro graphics such as our logo or banners should contact Metro to obtain a license or permit.
 
