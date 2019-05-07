@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaa.org privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004185130id_/https%3A//adaa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaa.org privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507154502id_/https%3A//adaa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anxiety and Depression Association of America, ADAA
 
