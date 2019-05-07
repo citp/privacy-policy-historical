@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206223628id_/http%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507172520id_/https%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At [Techlomedia.in](http://techlomedia.in/), we respect the privacy of our visitors. This privacy document outlines the types of information we collect at [Techlomedia.in](http://techlomedia.in/) and how we use that information:
+At [Techlomedia.in](https://techlomedia.in/), we respect the privacy of our visitors. This privacy document outlines the types of information we collect at [Techlomedia.in](https://techlomedia.in/) and how we use that information:
 
 ### Log Files
 
@@ -18,9 +18,9 @@ Techlomedia.in uses cookies to store information about visitor preferences. Thes
 
 ### DoubleClick DART Cookie
 
-  * We use Google ads and Google, as a third party vendor, uses cookies to serve ads on [Techlomedia.in](http://techlomedia.in/).
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [techlomedia.in](http://techlomedia.in/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
+  * We use Google ads and Google, as a third party vendor, uses cookies to serve ads on [Techlomedia.in](https://techlomedia.in/).
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [techlomedia.in](https://techlomedia.in/) and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html).
 
 
 
