@@ -1,27 +1,57 @@
-> *The following text is extracted and transformed from the hollywoodheavy.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217103242id_/http%3A//www.hollywoodheavy.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodheavy.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507190640id_/http%3A//www.hollywoodheavy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – HollywoodHeavy.com
+# Privacy Policy – Hollywood Heavy.com
 
-Home » Privacy policy  
-PRIVACY POLICY  
-Privacy Policy
+## Who we are
 
-HollywoodHeavy.com take your privacy seriously. We want you to know what information we gather on our web sites, how we use it, and who we share it with, how we safeguard your information, and how you can control its use.  
-COLLECTING INFORMATION
+Our website address is: http://www.hollywoodheavy.com. 
 
-We collect information on our web sites in a variety of ways, depending upon how you use our sites. We collect information that you voluntarily submit to us, and we also gather information anonymously to help us better understand how our sites are being used and how we can better server our customers (including information provided through the use of “cookies“). In addition, “third party” web sites that you can link to from our web site may also collect and use your information.
+## What personal data we collect and why we collect it
 
-Cookies – Cookies are small files that can store data on your computer. The data can include your computer’s Internet Protocol address, information about how you use our site, and information about your preferences and past selections. DrewReports.com sets and accesses cookies on your computer. We use this information to keep track of your information for your own convenience, help us optimize your online experience, and help us understand how you use our web pages.
+### Comments
 
-Third Party Links – You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment. 
 
-We partner with various AdNetworks who serve ads and/or collect certain information when you visit our website. These Ad companies may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. That is known as “behavioral advertising”…
+### Media
 
-Notice Regarding Online Behavioral Advertising.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
+### Contact forms
 
-ALWAYS FEEL FREE TO CONTACT US.
+### Cookies
 
-If you have any questions about this Privacy Policy or any other matter, please contact us at:  
-Email:info@hollywoodheavy.com
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year. If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed. If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day. 
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website. 
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information. 
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes. 
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service. 
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
