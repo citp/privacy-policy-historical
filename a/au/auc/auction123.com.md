@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auction123.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231309id_/https%3A//www.auction123.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction123.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507035009id_/https%3A//www.auction123.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Auction123.com
 
@@ -57,3 +57,9 @@ We limit access to personal information about you to employees and independent c
 Auction123 may update this policy. We may notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Auction123 account or by placing a prominent notice on our site. Changes to the privacy policy will be automatically effective when posted on the site or notification has been sent.
 
 #### Questions and Suggestions
+
+If you have questions or suggestions, email us at:  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c292b0abb4a3a1bb92adaeaba1bb8283b7a1b6abadacf3f0f1eca1adaf)
+
+or call us Toll FREE at:  
+888.514.0123
