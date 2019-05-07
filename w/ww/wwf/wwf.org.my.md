@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwf.org.my privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106074036id_/http%3A//www.wwf.org.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwf.org.my privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507105430id_/http%3A//www.wwf.org.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | WWF Malaysia
 
