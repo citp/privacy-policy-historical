@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230135852id_/https%3A//bbsradio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507071333id_/https%3A//bbsradio.com/privacy) for the most accurate reproduction.*
 
 # BBS Radio Privacy Policy - Information Disclosure Policies
 
@@ -14,7 +14,7 @@ BBSRadio.com (corporately known as BBS Network Inc and herein referred to as BBS
   * We do not give out the information to third parties! We do not share, sell, rent or barter any identifiable personal information to any third party without your permission, and rarely then as well. It's how we roll!
 
 
-  * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [newsletter@BBSRadio.com](mailto:newsletter@BBSRadio.com "email us to opt out or opt in, for the BBS Radio Newsletter"), or contacting the us by mail at the following address. BBS Network, Inc. (dba: BBS Radio), 5167 Toyon Lane, Paradise, CA 95969. Toll Free in US/Canada 888-710-8061. The main business direct line is 323-744-4828. We are easy to reach, and we make ourselves readily available! People may also remove themselves from the Newsletter just by clicking on the link located on the bottom of the email.
+  * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [newsletter@BBSRadio.com](mailto:newsletter@BBSRadio.com "email us to opt out or opt in, for the BBS Radio Newsletter"), or contacting the us by mail at the following address. BBS Network, Inc. (dba: BBS Radio), 1500 Pleasant Hill Rd., Lafayette, CA 94549. Toll Free in US/Canada 888-710-8061. The main business direct line is 323-744-4828. We are easy to reach, and we make ourselves readily available! People may also remove themselves from the Newsletter just by clicking on the link located on the bottom of the email.
 
 
 
