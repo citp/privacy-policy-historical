@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825132141id_/https%3A//www.frenchentree.com/home/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507145552id_/https%3A//www.frenchentree.com/home/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy & Terms & Conditions
 
@@ -20,7 +20,7 @@ A cookie is a small piece of data sent from a website that is stored in the user
 
 2\. **For analytics and reporting**. FrenchEntrée use several analytic reporting tools to measure traffic to/from its websites. These tools help us make FrenchEntrée as user-friendly as possible. All of the information in our analytics is anonymous and is used solely for measuring our website traffic
 
-3\. **To serve unobtrusive adverts**. FrenchEntrée uses one ad management system (provided by Google) which uses cookies. These Google adverts may use your past browsing history to display the most appropriate adverts. No information is stored by these cookies, and again, all information is completely anonymous
+3\. **To serve unobtrusive adverts**. FrenchEntrée uses ad management systems which utilise cookies. These adverts may use your past browsing history to display the most appropriate adverts as you browse the web. No information is stored by these cookies, and again, all information is completely anonymous
 
 If a user sets up his/her browser to reject cookies, he or she may still use FrenchEntrée websites, although some functionality will be impaired. If you don’t wish to have cookies stored on your computer, you can find instructions on how to block them by visiting [allaboutcookies.org](http://allaboutcookies.org/ "All About Cookies").
 
