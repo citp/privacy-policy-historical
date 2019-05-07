@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offgamers.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228161742id_/https%3A//www.offgamers.com/terms-of-service%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offgamers.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507202100id_/https%3A//www.offgamers.com/terms-of-service%23privacy) for the most accurate reproduction.*
 
 # OffGamers Online Game Store
 
@@ -135,7 +135,7 @@ Any form of CD Key, Gift Card, Time Card, Expansion, Game Points, Pre-paid Card,
   * The Gift Card cash value is One to One dollar and cannot be used to purchase other Gift Cards.
   * During the redemption of goods, if the value of the goods exceeds the amount stated in the Gift Card, the balance
   * should be settled by cash or other available payment methods.
-  * However, if the value of the goods is less than the amount stated in the Gift Card, then the difference thereof shall be converted to Store Credits and placed in your OffGamers account.
+  * However, if the value of the goods is less than the amount stated in the Gift Card, then the difference thereof shall be converted to Store Credit and placed in your OffGamers account.
   * OffGamers shall not be held responsible for the loss or damage of the Gift Card and any of the losses or damages suffered by the holder of the Gift Card that arise from or in connection with the loss or damage of the Gift Card.
   * OffGamers reserves the right to deactivate/disable the Gift Card if it’s fraudulently obtained or in any means of payment for unsanctioned services unauthorized by OffGamers.
   * OffGamers reserves the right to vary and amend any of the above terms and conditions without prior notice.
