@@ -1,45 +1,83 @@
-> *The following text is extracted and transformed from the expressnewz.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020004818id_/http%3A//www.expressnewz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressnewz.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507234007id_/http%3A//expressnewz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Express Television News
+# Privacy Policy – Tattoo Designs
 
-ExpressNews cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at ExpressNews.com you are accepting the practices outlined in this Privacy Policy.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at .
 
-  * We will never sell your personal information, or use it for any other purpose other than logging in/out, demographics for our knowledge, and any voluntary feature of the site.
-  * We use cookies with minimal information in them.
-  * We use Google Analytics, which is covered by [Google’s Privacy policy](http://www.google.com/intl/en/privacy.html)
-  * We allow you to contact other members via profile pages, but no private information is sent unless you want them to see. (you can choose not receive any communication from anyone.)
+At http://expressnewz.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://expressnewz.com/ and how we use it.
 
+**Log Files**  
+Like many other Web sites, http://expressnewz.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-  * If you are below 13 then you can NOT use this forum. Do NOT register if you are below the age of 13.
-  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+**Cookies and Web Beacons**  
+http://expressnewz.com/ uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser. **DoubleClick DART Cookie**  
 
 
-
-If you have not [opted out of third-party ad serving](https://www.google.com/support/dfp_sb/bin/answer.py?hl=en&answer=94152), the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads on your site, and should be disclosed in your privacy policy as well in the following manner.
-
-  * Notify your site visitors of the third-party vendors and ad networks serving ads on your site.
-  * Provide links to the appropriate vendor and ad network websites.
-  * Inform your users that they may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+→ Google, as a third party vendor, uses cookies to serve ads on http://expressnewz.com/.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://expressnewz.com/ and other sites on the Internet.   
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html> **Our Advertising Partners**  
 
 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….   
 
-Because publisher sites and laws across countries vary, we’re unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/) for guidance on drafting a privacy policy.
 
-**In detail**
+  * Google
 
-  1. **What does** **ExpressNews** **Privacy Policy cover?**  
-All the personal information we collect is noted on your profile page. That includes your name, email, date of birth and biographic information. Thepersonal information that you provide is used for Registration purpose. In order for you to participate in ExpressNews discussion you must complete a registration form. As part of registration form, we require your email address.
-  2. **Profile Information**  
-ExpressNews allow other users to browse your full name, instant messaging URL, and other details within your member profile should you provide this optional information. ExpressNews allows for the RSS syndication of all of its public content within the website.
-  3. **Cookies** **  
-** Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser in order to check in if you are logged in or out. All the other information is located in ExpressNews server. Some of our business partners may use cookies on our website (for example advertisers). However, we have no access to or control over these cookies.
-  4. **Third-party Advertisement**  
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
-  5. **Membership Validity**  
-We reserve the right to delete any message, ban any member for any or no reason whatsoever. Members found to be abusing the contact form, using it for commercial purposes, or otherwise breaking the Community Guidelines will have his/her membership suspended.
-  6. **Children below 13 DO NOT Register**  
-The Federal Trade Commission’s Children Online Privacy Protection Act of 1998 (COPPA) require that Web Sites are to obtain parental consent before collecting, using, or disclosing personal information from children under 13. If you are below 13 then you cannot use this forum. Do NOT register if you are below the age of 13.
+
+
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:  [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://expressnewz.com/._
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://expressnewz.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+http://expressnewz.com/ has no access to or control over these cookies that are used by third-party advertisers. **Third Party Privacy Policies**  
+
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://expressnewz.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links).
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://expressnewz.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://expressnewz.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+#### Recent Posts
+
+  * [Maori Tattoo Forearm](http://expressnewz.com/maori-tattoo-forearm.html)
+  * [Tattoo Ink Tubes](http://expressnewz.com/tattoo-ink-tubes.html)
+  * [Maori Tattoos](http://expressnewz.com/maori-tattoos.html)
+  * [Hand Tattoo Removal Cost](http://expressnewz.com/hand-tattoo-removal-cost.html)
+  * [Tattoo Ink Wash](http://expressnewz.com/tattoo-ink-wash.html)
+
+
+
+#### Archives
+
+  * [January 2019](http://expressnewz.com/2019/01)
+  * [December 2018](http://expressnewz.com/2018/12)
+  * [November 2018](http://expressnewz.com/2018/11)
+  * [October 2018](http://expressnewz.com/2018/10)
+
+
+
+#### Categories
+
+  * [Ankle Tattoo](http://expressnewz.com/category/ankle-tattoo)
+  * [Celtic Tattoo](http://expressnewz.com/category/celtic-tattoo)
+  * [Finger Tattoo](http://expressnewz.com/category/finger-tattoo)
+  * [Japanese Tattoo](http://expressnewz.com/category/japanese-tattoo)
+  * [Lower Back Tattoo](http://expressnewz.com/category/lower-back-tattoo)
+  * [Maori Tattoo](http://expressnewz.com/category/maori-tattoo)
+  * [Tattoo Ink](http://expressnewz.com/category/tattoo-ink)
+  * [Tattoo Removal](http://expressnewz.com/category/tattoo-removal)
+  * [Tattoo Stencil](http://expressnewz.com/category/tattoo-stencil)
+  * [Tribal Tattoo](http://expressnewz.com/category/uncategorized/tribal-tattoo)
+  * [Uncategorized](http://expressnewz.com/category/uncategorized)
+  * [Wrist Tattoo](http://expressnewz.com/category/wrist-tattoo)
 
 
