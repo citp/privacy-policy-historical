@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104210937id_/https%3A//www.appointmentplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507140514id_/https%3A//www.appointmentplus.com/privacy) for the most accurate reproduction.*
 
 # StormSource Privacy Statement | AppointmentPlus
 
