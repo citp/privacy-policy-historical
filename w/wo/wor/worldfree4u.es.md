@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldfree4u.es privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106092925id_/http%3A//ww43.worldfree4u.es/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfree4u.es privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507155505id_/http%3A//ww43.worldfree4u.es/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
