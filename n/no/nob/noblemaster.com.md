@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noblemaster.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229180021id_/http%3A//www.noblemaster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noblemaster.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507164238id_/https%3A//www.noblemaster.com/privacy.html) for the most accurate reproduction.*
 
 # Noble Master Games - Privacy Policy
 
@@ -36,8 +36,8 @@ Rather than collecting data, our goal is to have our servers up and running reli
 
 ### How can I access my data?
 
-The information we have about you is yours. [Contact us](https://web.archive.org/web/20181229180021id_/http%3A//www.noblemaster.com/contact.html) anytime to access, correct or delete information we have about you. Please, include the related **username(s)** for a speedy resolution. 
+The information we have about you is yours. [Contact us](https://web.archive.org/web/20190507164238id_/https%3A//www.noblemaster.com/contact.html) anytime to access, correct or delete information we have about you. Please, include the related **username(s)** for a speedy resolution. 
 
 ### Still have questions?
 
-Also, we realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20181229180021id_/http%3A//www.noblemaster.com/contact.html), and we will be happy to discuss the matter with you. 
+Also, we realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20190507164238id_/https%3A//www.noblemaster.com/contact.html), and we will be happy to discuss the matter with you. 
