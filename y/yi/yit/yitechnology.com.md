@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yitechnology.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231083206id_/http%3A//www.yitechnology.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yitechnology.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507184524id_/https%3A//www.yitechnology.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YI Technology
 
@@ -242,7 +242,17 @@ Please note that third parties (including, for example, advertising networks and
 
 You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the relevant website and/or app.
 
- **Can the Privacy Policy be changed?**  
+ **This website is following the UK Law terms and condition:**
+
+Under this agreement, the payment processing services for goods and/or services purchased on this website are provided by SUNLIGHT (UK) TRADING LIMITED & Old Street,167 City Road,London,EC1V 1AW,UK on behalf of YI Technology. In the event you choose to pay with credit card and the payment will be processed via an European Acquirer, these terms are an agreement between you and SUNLIGHT (UK) TRADING LIMITED & Old Street,167 City Road,London,EC1V 1AW,UK. 
+
+If there is any chargeback or reversal of any payment requested by a payment service partner, SUNLIGHT (UK) TRADING LIMITED has the right to refund the money so requested by the payment service partner without liability to YI Technology. SUNLIGHT (UK) TRADING LIMITED will use reasonable efforts to assist YI Technology in participating in the dispute resolution process of the relevant payment service partners. 
+
+For any enquiries if you choose DHpay for payment,you can contact:   
+SUNLIGHT(UK) TRADING LIMITED  
+Address: Old Street 167 City Road London, EC1V 1AW, UK 
+
+**Can the Privacy Policy be changed?**  
 Please note that this Privacy Policy may change from time to time. We will provide notice of any changes by contacting you through a notification in the YI mobile app or through the email contact information you provided when setting up your YI account.
 
  **How can I contact YI?**  
