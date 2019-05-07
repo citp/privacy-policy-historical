@@ -1,184 +1,209 @@
-> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914052126id_/https%3A//www.movietickets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508003952id_/https%3A//www.movietickets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Fandango
 
-### **MovieTickets.com® Privacy Statement**
+[ en Español ](https://images.fandango.com/cms/assets/ec457020-6619-11e9-a6d9-19ea84f862a1--fandango-privacy-policy-es-es-20190430.pdf) | [ en Français ](https://images.fandango.com/cms/assets/f1312830-684a-11e9-ad37-f7cc0e4134f2--fandango-privacy-policy-fr-fr-20190430.pdf) | [ auf Deutsch ](https://images.fandango.com/cms/assets/e1ab3460-6619-11e9-b175-791e911be53d--fandango-privacy-policy-de-20190430.pdf)
 
-Effective Date: November 4, 2016
+Last updated: April 30, 2019
 
-MovieTickets.com, Inc. ("MovieTickets.com") is committed to your privacy. This Privacy Statement describes the types of information collected from and about you when you visit our website, www.movietickets.com (the "Site") or use any of our mobile applications (each an "App").  The Site and Apps are collectively the "Services."  This Privacy Statement also explains how MovieTickets.com may use and share such information, as well as your ability to control certain uses of it. By using the Services, you confirm your consent to the MovieTickets.com Privacy Statement. 
+This Privacy Policy describes the privacy practices of Fandango Media, LLC and its subsidiary companies, including the businesses operating under the Fandango, FandangoNOW, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, Fandango FanShop, MovieTickets.com, or M-GO brands ("Fandango", "we", "our" or "us"), with respect to how we collect, use, disclose and transfer the information you provide when you interact with us via those of our websites, applications, emails and other communications that link to or reference this policy (the "Services"). For European users of Rotten Tomatoes, please see additional provisions in Section 14. 
 
- **Summary** : This Privacy Statement explains: 
+**Our Owners**
 
-  1. **_Our Information Collection_** : We may collect personal information through the Services including your name, email address, zip code, location information, payment information, and other demographic information when you use the Services or make a purchase through the Services.  We and our third party ad networks may use cookies and other technologies to automatically collect certain non-personal information about you through the Services to provide you with relevant advertising.
-  2.  ** _Our Information Use_** : We may use the information we collect from and about you for purposes including to provide you with services, complete your transactions, provide you with targeted offers and advertising from us and our select partners, and contact you when necessary.
-  3.  ** _How We Share Information_** : We may share the information we collect from and about you with our service providers; with third parties (for purpose of order fulfilment, if it is a co-branded service or promotion, or if you opt-in to receive information from the third party); when necessary to protect our rights, sell or purchase assets, or comply with judicial process; and in aggregate or non-personally identifiable form.
-  4.  ** _Information Security_** : We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Service visitors and users.
-  5.  ** _Your Access and Control_** : We provide you with the opportunity to opt-out of receiving future marketing communications; unsubscribe from promotional materials; update, correct, or delete your information; and request a copy of your information.
-  6.  ** _Your Legal Rights_** : This Privacy Statement contains an arbitration clause and class action waiver.  By using this website, you confirm your consent to the Privacy Statement and agree that any disputes and claims you may have against us related to or arising under this Privacy Statement will be resolved in arbitration.  You are giving up your right to bring claims in court, to have those claims heard by a judge or jury, and to file claims on behalf of anyone but yourself and your family.
+When the Services receive or collect information, that information is being received and collected, and will be owned, by Fandango and each of "Fandango's Owners" (i.e., each company that has an ownership interest in Fandango). While Fandango's use, handling, disclosure and practices with respect to that information will be governed by this Privacy Policy, each Fandango Owner's use, handling, disclosure and practices with respect to that information will be governed by that Fandango Owner's privacy policy. Fandango's Owners are currently NBC/Universal and Warner Bros. If you want to learn more about the privacy practices of NBC/Universal and Warner Bros., we encourage you to review their policies (linked below): 
 
+  * [NBC/Universal Privacy Policy](http://www.nbcuniversal.com/privacy)
+  * [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy-center-wb-privacy-policy)
 
 
-We may revise this Privacy Statement at any time and encourage you to refer to this Privacy Statement periodically so that you understand our current privacy policies.
 
- **1\. Information We Collect**
+**Your Rights to Dispute**
 
- **Information You Provide**  
-We may collect personal information from you when you use the Services, create an account with us; place an order; make a purchase; sign up for newsletters or our email list; participate in our offers and programs including sweepstakes, contests, and surveys; or otherwise contact us.   
-This personal information may include your name, email address, zip code, gender, date of birth, race, ethnicity, income level, education level, parental status, marital status, primary language spoken in the home and, if you are making a purchase, financial account information (e.g., credit card, debit card or bank account information).
+**Your use of our websites and our other services are subject to binding individual arbitration of any disputes which may arise, as provided in the[Terms and Policies](https://web.archive.org/policies/terms-and-policies). Please read the arbitration provisions of the [Terms and Policies](https://web.archive.org/policies/terms-and-policies) carefully and do not use the Services if you are unwilling to arbitrate any disputes you may have with us as provided in our [Terms and Policies](https://web.archive.org/policies/terms-and-policies).**
 
- **Information Automatically Collected**  
-We may use cookies, web beacons, log files or other technologies to automatically collect certain information about visitors to our Site or users of our App, or interactions with our email and online or mobile advertisements. For example, we may collect information such as your browser type, your computer operating system, Internet Protocol ("IP") address, mobile or unique device identifier (provided by your mobile device or wireless carrier, as applicable, including your IDFA), the domain from which you accessed the Site, viewed webpages, whether an email was opened, links that are clicked, the number of times you have viewed an ad, and whether or not you clicked on an advertisement.
+  1. TYPES OF INFORMATION WE COLLECT ABOUT YOU
+  2. HOW WE COLLECT INFORMATION ABOUT YOU
+  3. HOW WE USE INFORMATION ABOUT YOU
+  4. HOW WE SHARE INFORMATION ABOUT YOU
+  5. ADDITIONAL INFORMATION ABOUT HOW WE USE AND SHARE INFORMATION ABOUT YOU
+  6. CHILDREN
+  7. HOW WE PROTECT INFORMATION ABOUT YOU
+  8. YOUR RIGHTS AND CHOICES
+  9. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION ABOUT YOU
+  10. IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS
+  11. LINKS TO OTHER WEBSITES AND SERVICES
+  12. UPDATES TO OUR PRIVACY POLICY
+  13. CONTACT US
+  14. EUROPEAN USERS
 
- **Device-Location Information**  
-The App may collect precise information about the location of your device. In order to allow the App to collect real-time location information you must opt-in to this service when prompted by the App and also enable the GPS services on your mobile device. We use your location information to provide information regarding nearby theaters. You may at any time opt-out from further allowing us to have access to your location data by managing your location preferences in the "My Account" section of the App or disabling the GPS services on your mobile device. ****
 
- **Advertising, Analytics, and Third-Party Providers**  
-We may also use third party providers, such as advertisers and ad networks, to help operate our Services and such providers may also use the information collected from or about you on the Services to serve you advertisements or other promotional messages from us or third party advertisers. Some of these advertisers and ad networks may collect and use information about your device ( _e.g._ , its IP address and device identifiers), your zip code, geographic location information, audio watermarks or inaudible audio waves, and other information in order to help analyze usage and target advertising on the Service and elsewhere. This information may be collected using technology such as cookies, web beacons, embedded audio watermarks, log files, or other technologies. 
 
-These advertisers and ad networks may collect and use the information described above to provide you with relevant advertisements based on your online behavior, your activities on the Services and other third party sites or mobile apps, interactions with our email, demographic information, or information relevant to your general location so that the advertising you see on through the Services, across other third party sites, mobile apps, or devices, via email, or through App push notifications more closely reflects your interests or geographical location. For example, the App may recognize audio watermarks that are broadcasted during a movie theater pre-show if your device is in the theater, which may then be used to send you relevant advertising through App push notifications. 
+##### 1\. TYPES OF INFORMATION WE COLLECT ABOUT YOU
 
- **Online Tracking**   **and California Do Not Track Disclosures**  
-Certain parts of our Services require cookies. You are free to set your browser or operating system settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features offered on the Service or take full advantage of all of our offerings. Please refer to your Web browser's or operating system's website or check the "Help" menu on your browser for more information on how to delete and/or disable your browser or operating system from receiving cookies or controlling your tracking preferences  
-.  
-Note, however, that our systems may not recognize some or all Do Not Track requests or headers from browsers. To learn more about the use of cookies or other technologies to deliver more relevant advertising, please click [here](http://www.networkadvertising.org/choices/). If you would like to disable web beacons used in our email, you should turn off or block "images" and/or HTML display in your email client.  On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
+There are two main types of information we collect about users of the Services:
 
- **Social Media**  
-You also can engage with our content on or through third-party social networking sites, such as Facebook, Twitter or other third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information from your interaction with our content.
+  * **"Personally Identifiable Information"** is information that identifies you and may include, for example, your full (i.e., first and last) name, phone number, email address, postal address, credit or other payment card number, and photos of you or other individuals.
+  * **"Non-Personally Identifiable Information"** is information that relates to you or the computer or device you use to access the online Services, but does not on its own identify you personally. This information may include (for example), information about your use of the Services, including web pages you have visited, apps you have downloaded, parts or functions of the Services you have used or viewed, gameplay data, content you have accessed or viewed, advertising sent to you or that you have viewed, transaction history, IP address and device identifiers, information about your Internet connection, information about the equipment or software you use to access the Services, and information you provide to or post on message boards or chat rooms that are part of the Services. 
 
-When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our Privacy Statement. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
 
-Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
 
- **Combination of Information**  
-We may combine the information we receive from and about you, including information you provide to us and information we automatically collect through our Site or Apps, as well as information collected from other online sources or apps, or from third party sources.
+##### 2\. HOW WE COLLECT INFORMATION FROM YOU
 
- **2\. How We Use Your Information**
+We collect information about you in three main ways:
 
-We may use the information that we collect from and about you to: (1) provide services, complete transactions, and communicate with visitors and users of the Services; (2) develop new products or services and improve the user experience on the Services; (3) respond to your inquiries; (4) provide you with targeted offers and advertising through the Services, or on other third party sites and mobile apps; (5) contact you with information and promotional materials from our company and select business partners; (6) contact you when necessary; (7) review the usage and operations of our Services; (8) address problems with our Services, our business, or our products and services; (9) protect the security or integrity of our Services and our business; and (1) as otherwise described to you at the point of collection, with your consent.
+  * **_Directly from you, when you provide it to us:_** for example, when you register with the website, download an app, sign up for email or text alerts, buy movie tickets or make other purchases via the Services, request products or services, respond to surveys, contact us or otherwise interact with us. Please remember that if others use devices into which you remain logged in, they may share information with us as if they were you, and they may have access to information that you have previously provided us. To protect your privacy, please log out from the Services you use on shared devices.
+  * **_Automatically, when you use our Services_** : we collect information through the use of cookies and similar technologies, through logging your activities on the Services, and when you download our applications. Please see our [Cookies Notice](https://web.archive.org/policies/cookies-and-tracking), and [Mobile Apps Information Center](https://web.archive.org/mobileterms) for further information, including your choices in relation to the use of these technologies. In addition, after your information has been provided, we may automatically associate that information and other information that we collect with your account whenever you are logged-in so that we can identify you across multiple devices and browsers, or we may use your location to show movie times and theaters near you, and to better target advertising based on location, as well as for analytics. When you are not logged-in, we may automatically collect information that can be used to recognize you across the devices you use. When you are using a Wi-Fi network to which we have access, we may also detect and identify a device to which you have previously logged-in. 
+  * **_From third parties_ **: we may obtain information about you from third parties outside of the Services. When you sign-on to the Services or otherwise interact with social networks or if you interact with us through a social media function such as a plug-in (for example, a Facebook "like" button) then you may be permitting us to have on-going access to some information from your social network profile (such as your name, email address, your friend list, photo, age, gender, location, birthday, social networking ID, current city, the people/sites you follow, and so forth). We may also obtain information about you from a third party data aggregator, cookie technology operator, advertising network, or another type of data company.
 
-We may also use information from and about you to assemble a pool of individuals who may be invited to market research screenings of movies and/or surveys produced by MovieTickets.com clients, including movie studios and producers ("Researchers"). Such Researchers may request a certain demographic group to view a movie in a particular location, for research and/or test screening purposes, and MovieTickets.com will make invitations to individuals chosen at random from the MovieTickets.com customer pool who meet the demographic requirements of the Researcher for the movie in the desired location. No personal information ( _e.g_., name, email, phone number, address) is provided to the Researchers if you are anonymously included in a requested demographic group.
 
- **3\. How We Share Your Information**
 
- **How We Share Your Information**  
-We do not sell or rent your personal information to third parties except as described in this Privacy Statement. We may share the information we collect from and about you with respect to:
+##### 3\. HOW WE USE INFORMATION ABOUT YOU
 
-  1.  ** _Third Party Service Providers_**  acting on our behalf, if the disclosure will enable them to perform a business, professional, or technical support function for us;
-  2.  ** _Order Fulfillment_**. To fulfill your purchase, we may share your contact information and financial account information with the movie exhibitor at which you are attending a screening and for which you are purchasing admissions, and with the provider of any other service or product from whom you are purchasing a service or product;
-  3.  ** _Co-Branded Services_**. Some MovieTickets.com services or promotions may be co-branded and offered in conjunction with another company. We share your information with marketing partners that participate with us in co-branded services and promotions, including with movie exhibitors;
-  4.  ** _Other Third Parties  _**that you have chosen to receive information from, such as a movie exhibitor, so that they can market their products or services to you if you opt-in to subscribe to or participate in offers or promotions from these third parties;
-  5.  ** _Protecting Our Rights_**  as necessary if we believe there has been a violation of the MovieTickets.com Site Terms of Use or of our rights or the rights of any third party;
-  6.  ** _Legal Process_** , for purposes of providing information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise required by law.  This may include disclosing personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements;
-  7.  ** _Consensual Disclosures_** , as described to you at the point of collection and consented by you;
-  8.  ** _Non-Personally Identifiable (or Aggregate) Information_**. We may share anonymous or aggregate information about Site visitors and customers to advertisers and other third parties for other marketing and promotional purposes. We will not share any personally identifiable information unless you have provided us with your prior consent to disclose such information; and
-  9.  ** _Operation of Law_**. MovieTickets.com may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected from and about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties.
+We (and our service providers) may use the information we collect about you for a variety of business purposes. For example, we may use that information to:
 
+  * Provide the services and products you have requested;
+  * Create an account on the Services if you have requested one;
+  * Personalize the services we offer and the advertising displayed through the Services (see options for opting-out of personalized advertising at our [Cookies Notice](https://web.archive.org/policies/cookies-and-tracking)); 
+  * Respond to your inquiries, requests, and comments;
+  * Allow you to participate in the interactive features of our Services, where you choose to do so;
+  * Provide technical support for the Services;
+  * Understand how the Services are used so that we can continuously improve the services we provide to you;
+  * Send you service-related communications, including announcements and administrative messages;
+  * Send you newsletters and information about products, services and promotions relating to us or other companies or organizations that we work with.
+  * Display certain content, such as content you upload and make available, comments, and game statics and rankings;
+  * Deter fraud or any other potentially illegal activities, and to protect the safety of our users and others; 
+  * Enforce our terms of service;
+  * Create consumer profiles and audience segments, which may be used for targeted advertising on the Services or on third party services. 
+  * Recognize devices you use and associate the information with your profile. We may use data collected or received from others, such as information about devices you use, to make a deterministic or probabilistic match of advertising and cookie identifiers. For example, we or others may match devices you use if you log onto the same online service or multiple devices or web browsers (deterministic), or if devices you use share similar attributes that support an inference that they are used by the same user (probabilistic). We also may use this information, for example, to match a user’s interest across devices, as well as for analytics, ad reporting, or to improve the services;
+  * Send gifts to your requested recipients, provide other communications relating to those sorts of transactions, as well as any further communications as may be authorized by the recipients; and
+  * Combine all the information we collect or receive about you for any of the foregoing purposes.
 
 
- **EU-US Privacy Shield**  
-MovieTickets.com participates in the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification page, please click [here](https://www.privacyshield.gov/).
 
-If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: [customerservice@movietickets.com](mailto:customerservice@movietickets.com). We will respond to your inquiry as soon as reasonably possible. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to the International Centre for Dispute Resolution (https://www.icdr.org). If your complaint is not resolved though these channels, under limited conditions, EU individuals may be able to invoke binding arbitration before a Privacy Shield Panel. 
+##### 4\. HOW WE SHARE INFORMATION ABOUT YOU
 
-MovieTickets.com may sometimes provide personal information to third parties as discussed above. If we transfer personal information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations.  MovieTickets.com will remain liable under the Privacy Shield if the third party that it engages to process personal data on its behalf does so in a manner inconsistent with the Privacy Principles, unless MovieTickets.com can prove that it is not responsible for the event giving rise to the damage.
+We may share Non-Personally Identifiable Information, such as aggregate data and information about your use of the Services with third parties. We may also share information about you as disclosed at the time you provide that information, as set forth in this Privacy Policy, and in the following circumstances:
 
-MovieTickets.com is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC) and other U.S. federal agencies. We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, as discussed above.
+  * **_Fandango's Owners and Subsidiaries:_ ** As stated at the beginning of this Privacy Policy, when the Services receive or collect information from you, that information is being received and collected by Fandango under this Privacy Policy, as well as by each of Fandango's Owners, each under its own respective privacy policy. Fandango's Owners are currently NBC/Universal and Warner Bros. If you want to learn more about the privacy practices of NBC/Universal and Warner Bros., we encourage you to review their policies (linked below): 
+    * [NBC/Universal Privacy Policy](http://www.nbcuniversal.com/privacy)
+    * [Warner Bros. Privacy Policy](http://www.warnerbros.com/privacy-center-wb-privacy-policy)
+  * **_Service Providers that We Have Retained to Perform Certain Business-Related Functions on Our Behalf:_ ** For example, our service providers may offer services such as research, analytics, hosting websites, fulfilling transactions, maintaining databases, administering contests, providing technology services and platforms, deliveries, and processing payments. We may also need to share information with other companies in order to enable the uses described above in “How We Use Information About You” or elsewhere in this Privacy Policy. Typically, when these companies are provided with Personally Identifiable Information they are only provided with that Personally Identifiable Information they need to perform their functions and that Personally Identifiable Information can only be used as is necessary to perform the services on our behalf, or to comply with legal requirements. Similarly, where appropriate, we often take steps to require third-party service providers to protect Personally Identifiable Information.
+  * **_Third Parties who Separately Have Your Information:_ ** We may share information about you or your use of the Services with third parties to whom you separately provide (or to whom you already separately have provided) your Personally Identifiable Information (e.g., if you establish or have established accounts with them). In these instances, we may enhance the data they have about you by using or sharing a common identifier that itself is not Personally Identifiable Information. When we share Non-Personally Identifiable Information with these third party services, they may be able to match it with other information that they separately receive about you.
+  * **_Theaters, Venue Operators, Event Promoters:_ ** We may provide information (including Personally Identifiable Information) to theaters, venue operators and event promoters so that they can admit you to their premises (or to the premises of their events), or be prepared to handle issues relating to your attendance or planned attendance.
+  * **_Loyalty Program Operators_ :** Our services offer the ability for consumers to link their Fandango account with the loyalty rewards programs of certain theaters, venue operators, event promoters, movie studios or other companies offering loyalty reward programs. When you indicate that you'd like such a link to occur, we may share transaction information or other information (including Personally Identifiable Information) pertaining to you with the applicable program operator.
+  * **_Social Networks:_ ** You may interact with certain features of the Services that cause information to be published to your social networks. Or, you may sign up for features on the Services or a social network that are designed to require that we provide to the social network, or the social network provide to us, information, which may include Personally Identifiable Information, to associate our records relating to you in our data base with the records that social network has relating to you in their database, so that they or we can contact you or tailor messages to you, or otherwise. On pages of the Services that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don't use that functionality.
+  * **_Message Boards and Other Public Areas:_ ** Information you provide to or post on message boards, chat rooms or other public areas that are part of the Services may be freely used and disclosed by us.
+  * **_For Mobile, Consumer Electronics or Other Device Apps:_ ** We may share information (including Personally Identifiable Information and how you use mobile apps, consumer electronics device apps or other device apps) with mobile carriers, technology providers, analytics providers, device makers or operators, or the operators of platforms, operating systems or other mobile, consumer electronics or other device apps. Please see our [Mobile Apps Information Center](https://web.archive.org/mobileterms) for additional details about mobile apps. 
+  * **_Opt-Ins:_ ** In some places on our Services we may place opt-ins where you can select to receive communications from companies with whom we have promotional relationships. If you opt-in to receive those communications, or opt-in to consent to share Personally Identifiable Information with them, we may disclose Personally Identifiable Information to them.
+  * **_Contests and Sweepstakes:_ ** We may publicly disclose the name, city and state of contest and sweepstakes winners if permitted by the contest/sweepstakes rules. 
+  * **_Sale of Our Business or Assets:_ ** If we sell all or part of our business or assets or are otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign any or all information to a third party as part of or in connection with that transaction. Upon such a transfer, the privacy policies of the acquiring entity may govern the use and further collection of Personally Identifiable Information and Non-Personally Identifiable Information.
+  * **_Legal Reasons:_ ** We may use or disclose information to cooperate with or enlist the support of law enforcement, government or regulatory bodies, content protection organizations or judicial processes with respect to, or to prevent, suspected or possible fraud or other suspected or possible illegal activities. We may also use or disclose information as we determine appropriate to the extent that records have been subpoenaed or otherwise in connection with pending or potential litigation, or to enforce or protect the rights or safety of Services users, us or others, or for risk management purposes. 
 
- **Links to Other Websites**  
-This Site may contain links to third party websites. MovieTickets.com is not responsible for the privacy practices or the content of such websites.
 
- **4\. Your Privacy and How We Protect Your Information**
 
- **Safeguards We Have Taken**
+**_A Special Note About Sharing Video Viewing Information:_ ** By using the Services, you are agreeing that we may share information about the video content viewed on your device through the Fandango Services with the analytics providers, advertising companies, third-party social media sites, and the other service providers we work with (as described in this Privacy Policy). If you have registered, you may withdraw your consent to sharing of personally identifiable viewing information associated with content viewed by sending an email to [privacy@fandango.com](mailto:privacy@fandango.com). You may also be able to control information shared with third parties, such as social media sites, through your privacy settings on those services.
 
-We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Service visitors and users. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
+##### 5\. ADDITIONAL INFORMATION ABOUT HOW WE USE AND SHARE INFORMATION ABOUT YOU
 
-| 
+We may work with third party ad networks and consumer data companies to help present ads through the Services or to help us evaluate and provide us with information about the use of the Services and viewing of our ads and other content. These third parties may view, edit or set their own tracking technologies/cookies, which will allow them to collect information about how you interact with content and advertising while you are using the Services and while you are on other third party platforms where their tracking technologies are located. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy.
 
-Secure Encryption & Identity Assurance Services Provided by DigiCert®
+For more information about your choices relating to these activities, see the [Cookies Notice](https://web.archive.org/policies/cookies-and-tracking), which provides certain opt-out choices. Please note that even if you choose to opt out, you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you. Please also note that if you opt-out of targeted advertising, we may still track your visits to the Services for our own analytics, operations and security purposes.
 
-A Secure Site Seal from DigiCert® establishes your business as a legitimate, registered, and safe place to do business online. Our secure server SSL Site Seal allows customers to check your identity, and Confirm Your Integrity.
+###### GOOGLE MAPS
 
-DigiCert® provides security to MovieTickets.com, Inc. by enabling the encryption of data transmitted between MovieTickets.com, Inc. and your browser during an encrypted SSL/TLS session (look for the padlock).  
-  
----|---  
-[](http://www.seflorida.bbb.org/BusinessReport.aspx?CompanyID=92019298&source=ctc)| The BBBOnLine Reliability seal program is the Better Business Bureau's reliability assurance program for the World Wide Web, aimed at creating greater consumer trust and confidence on the Internet. The mission of the Reliability seal program is to help web users find reliable, trustworthy, businesses online, and to help reliable businesses identify themselves as such, via voluntary self-regulatory programs. The BBBOnLine Reliability Seal supports the growth and development of safe and secure e-commerce.  
-  
- **Protect Your Username and Password**  
-We recommend that you not share your Site or App username or password with anyone. MovieTickets.com will never ask you for your username or password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of your MovieTickets.com account and close your browser window or App when you have finished your session.
+If you use Google Maps / Google Earth as part of the Services, you agree to comply with the Google Maps / Google Earth Additional Terms of Service (including the [Google Privacy Policy](https://policies.google.com/privacy)). Further, you agree that Google, and not Fandango, shall be responsible for any of your information Google receives as a result of your use of Google Maps / Google Earth. 
 
- **Children's Privacy**  
-The Services are intended for general audiences and MovieTickets.com does not knowingly collect any personal information from children under age 13. If we learn that a child under the age of 13 has provided personal information to the Services, we will use reasonable efforts to remove such information from our files. If you are under age 18 you should use MovieTickets.com only with the involvement of a parent or guardian.
+##### 6\. CHILDREN
 
- **Your California Privacy Rights**
+The Services are not designed or intended for use by children under 13, and thus if you are under 13 we ask that you do not use the Services or provide us with any information. If we discover that we have inadvertently gathered any such information then we will, to the extent required by law, delete such information from our records. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [privacy@fandango.com](mailto:privacy@fandango.com).
 
-For California residents: We may share your personal information with unaffiliated parties for their own direct marketing purposes. To request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes, please send an e-mail to CARights@movietickets.com or write us:
+California minors under 18 years old may request the removal of any information that they posted to the Services by contacting [privacy@fandango.com](mailto:privacy@fandango.com). Upon such request, we will anonymize or remove from public view any content posted by a minor to one of the Services, unless required by law to retain such content or information.
 
- _MovieTickets.com, Inc._  
- _2255 Glades Road, Suite 100E_  
- _Boca Raton, FL 33431_
+##### 7\. HOW WE PROTECT INFORMATION
 
- **Public Forums/Movie Reviews**  
-The Services may contain message boards, user reviews, comment sections, and/or news groups available to its users. We request that you provide contact information, such as name, email, address, occupation, and interests as may be requested to be a registered bulletin board user, reviewer or commenter. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings. 
+We maintain procedural, technical and physical safeguards for the Services to help protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the Personally Identifiable Information you provide via the Services. Unfortunately, no transmission of data is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. Therefore, any transmission of Personally Identifiable Information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details below. 
 
-Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information. If you voluntarily disclose personal information in a public area of the Services, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. MovieTickets.com does not control the actions of users in public areas of the Services. If you disclose personally identifiable information in a public area, you do so at your own risk.
+##### 8\. YOUR RIGHTS AND CHOICES
 
- **5\. Opt-Out, Remove, or Update Your Information**  
-You may opt-out of, or choose not to receive, marketing communications from us and our partners at the point where we request your information.  
- **  
-Opting Out**  
-You may choose not to receive future marketing communications and no longer receive our service as well as remove your information from our database using the following methods: 
+**_Communication Preferences and Opt-outs_ **
 
-  * Email. Users can send email to customerservice@movietickets.com
-  * Website. Users can visit the following URL: http://www.movietickets.com/myaccount.asp
-  * Postal Mail. Users can send mail to the following postal address:  
- _MovieTickets.com, Inc._  
- _Customer Service_  
- _2255 Glades Road, Suite 100E_  
- _Boca Raton, FL 33431_
+If you have subscribed to one or more of our email newsletters or are receiving them from us and you don't want them anymore, you can unsubscribe. Select the "unsubscribe" link at the bottom of any message, use other means provided to unsubscribe or change communication preferences, or use the contact details below, to unsubscribe from marketing and promotional e-mails. However, you cannot unsubscribe from some service related messages.
 
+_Mobile Apps_
 
-  * Telephone. Users can call the following telephone number: 1-888-440-8457
+For more information about our information collection and use practices with respect to our mobile applications, including information on how to opt out of targeted advertising, see the [Mobile Apps Information Center](https://web.archive.org/mobileterms).
 
+**_Advertising/Cookies and Similar Technologies_ **
 
+For more information about the use of cookies and similar technology on our Services (including your opt-out choices) please see the [Cookies and Tracking Technologies Information Center](https://web.archive.org/policies/cookies-and-tracking). We provide opt-out choices through our [Cookies and Tracking Technologies Information Center](https://web.archive.org/policies/cookies-and-tracking). The effect of an opt-out for some advertisers will be to stop targeted advertising, but it will still allow the collection of usage data for certain purposes (e.g., research, analytics and internal Services operation purposes).
 
-Note: It may take up to 10 business days to process your request.  
- **  
-Unsubscribe**  
-You may unsubscribe from promotional materials we send to you by selecting the "unsubscribe" link at the bottom of the newsletter, email, or other promotional material.  
- **  
-Update, Delete or Request a Copy of Your Information**  
-You may update or correct the information you previously provided to us using the following methods:
+**_Access and Correction_ **
 
-  * Email. Users can send email the Privacy Office at customerservice@movietickets.com
-  * Website. Users can visit the following URL: http://www.movietickets.com/myaccount.asp
-  * Postal Mail. _  Users can send mail to the following postal address:  
-_ _MovieTickets.com, Inc._  
- _Customer Service_  
- _2255 Glades Road, Suite 100E_  
- _Boca Raton, FL 33431_
+In addition to the functionality provided to you via the Services (such as using "account settings" for registered users), where legally required we provide online visitors with access to their Personally Identifiable Information and the ability to review, update and correct it. Some access requests may be subject to a small fee. To help your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to Personally Identifiable Information about you. Please contact [privacy@fandango.com](mailto:privacy@fandango.com) for more information about exercising these rights.
 
+**_Data Retention and Deletion_ **
 
-  * Telephone. Users can call the following telephone number: 1-888-440-8457
+We may retain your data for as long as you use the Services and for a reasonable time thereafter. If you'd like to delete, modify or update the Personally Identifiable Information that you provided via the Services please use the settings on the Services or contact us at [privacy@fandango.com](mailto:privacy@fandango.com) and we will respond in a reasonable time. Please note that some or all of this data may be required in order for the Services to function properly, and we may be required to retain certain information by law.
 
+##### 9\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION ABOUT YOU
 
+The Services are governed by and operated in accordance with, the laws of the United States. Fandango makes no representation that the Services are governed by or operated in accordance with the laws of any other nation.
 
-You can also request that the data be deleted (requests for deletion of certain information may require closing the account). Information about a customer may be withheld or exempted from deletion if this is required by law, is part of a fraud investigation or is required for accounting and audit purposes.   
-You may also request a copy of your personal information by contacting us at the email, address, or telephone number provided above.  
- **  
-6\. International Customer Privacy**
+If you are located outside of the United States, please be aware that information we collect, including Personally Identifiable Information, may be transferred to, processed, stored and used in the United States. Under United States law, your Personally Identifiable Information may be subject to access requests from governments, courts, or law enforcement in the United States.
 
- **Privacy Shield Framework**  
-MovieTickets.com complies with the U.S. - E.U. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. We have certified to the U.S. Department of Commerce that we adhere to the Privacy Shield Framework Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield Framework, please visit <https://www.privacyshield.gov/welcome>.
+##### 10\. IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS
 
- **7\. Your Legal Rights**
+Residents of the State of California may request a list of all third parties to which our Services have disclosed certain personal information (as defined by California law) during the preceding year for those third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us at Fandango, Attn: Privacy Officer, 407 N. Maple Dr., Suite 300, Beverly Hills, CA 90210. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
- **Arbitration**  
-Movietickets.com is committed to resolving any customer concerns regarding their privacy. If you feel that your privacy may have been violated, we will attempt to directly resolve the complaint. Any complaints that are still unresolved after these direct efforts will be settled by binding arbitration administered by the International Centre for Dispute Resolution (https://www.icdr.org) in accordance with its applicable commercial rules. Requests for arbitration may be made by either party by written notice to the other party. If, within ten (10) days of issue of the request for arbitration, the parties agree to determination of the matter by a named single arbitrator, it shall be determined by that arbitrator. If, within ten (10) days of issue of a request for arbitration, the parties do not agree on a single arbitrator for determination of a specific dispute, such dispute shall be determined by a panel of three (3) arbitrators, one to be appointed by each party, with those to appoint a third arbitrator to act as chairman of the panel.
+**_DO NOT TRACK_ **
 
- **Class Action Waiver**  
-Neither you nor we shall be entitled to join or consolidate claims in arbitration by or against other individuals or entities, or arbitrate any claim as a representative member of a class or in a private attorney general capacity. Accordingly, you and we agree that the AAA Supplementary Rules for Class Arbitrations do not apply to our arbitration. If, however, the law of your state would find this agreement to dispense with class arbitration procedures unenforceable, then this entire paragraph (Class Action Waiver) is unenforceable.
+Fandango does not currently take actions to respond to Do Not Track signals. When a uniform technological standard has been developed, Fandango will reconsider. We continue to review new technologies and may adopt a standard once one is created.
 
- **8\. Revisions to this Privacy Statement**  
-MovieTickets.com reserves the right to change this Privacy Statement at any time. When we do, we will post the change(s) on the Site. If we change the Privacy Statement in a material way, we will provide appropriate online notice to you.
+##### 11\. LINKS TO OTHER WEBSITES AND SERVICES
+
+The Services may contain links to third-party websites or services. In some cases, we may embed a content feed, video player or other application from a third party into the Services, and those feeds, players or other applications may appear to be part of the Services, even though they are provided or served by a third party. If you access another website, or any such services, even ones that may contain the Fandango logo or are framed by the Services, please understand that the operators of these websites or services may collect information from you, or place or read cookies or other tracking devices, which will be used by them in accordance with their own privacy practices, which may differ from ours. We are not responsible for, and we do not endorse or control, the policies or practices of any such website or services. You should always read the Privacy Policy of any website or services you access carefully in order to understand their information usage practices.
+
+##### 12\. UPDATES TO OUR PRIVACY POLICY
+
+From time to time, we may revise this Privacy Policy. If we make material revisions to the way we collect or use your Personally Identifiable Information, we will provide you with notice of those changes by either: (1) announcing the change on our Services or (2) taking other actions as we deem appropriate under the circumstances, including without limitation, posting the revised version of this Privacy Policy online. You should check our Services frequently for updates. 
+
+You can determine when this Privacy Policy was last revised by referring to the "Last Updated" or similar legend at the top of this page. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using our Services.
+
+##### 13\. CONTACT US
+
+For any questions in relation to this Privacy Policy please contact us at [privacy@fandango.com](mailto:privacy@fandango.com) or Fandango, ATTN: Legal Department, 407 N. Maple Dr., Suite 300, Beverly Hills, CA 90210.
+
+##### 14\. EUROPEAN USERS
+
+This section is applicable only to European Users of Rotten Tomatoes. Other Services are not intended for use outside of the United States. It supplements certain sections of the Privacy Policy and provides additional information that should be read together with other sections of the Privacy Policy. To the extent there is any conflict between this section and the other Privacy Policy, this section shall govern. 
+
+###### DATA CONTROLLERS 
+
+When this policy mentions "Fandango", "we", "our" or "us", it refers to the company or companies responsible for your information under this Privacy Policy (or “Data Controller”). This includes Fandango Media, LLC, and Fandango’s Owners (as defined above), namely, currently NBCUniversal, LLC and Warner Bros (please see above for further information on these companies).
+
+###### THE LEGAL BASES ON WHICH WE USE YOUR INFORMATION.
+
+We describe above in Section 3 how we use your information. We often rely on the following legal bases where we use your information, as described above:
+
+  * Where it is necessary to fulfil a contract that we have in place with you. Examples of situations where we rely on this basis include where we have a contract with you to provide you with Services or provide you with a sweepstakes prize you have won.
+  * Where it is necessary for the purposes our legitimate interests as a global media organization. This may include our interests in understanding our customers, ensuring our services are being provided efficiently and satisfactorily and ensuring proper administration of our businesses. Examples of situations where we rely on this basis include providing you with technical support, responding to your requests and inquiries, preventing fraud or any other potentially illegal activities and protecting the safety of our users and others. 
+  * Where it is necessary in order to comply with a legal obligation to which we are subject. Examples of situations where we rely on this basis include complying with subpoenas, search warrants and court orders;
+  * Where you have given us your consent to do so. Examples include where we need to send you newsletters and information about products, services and promotions.
+
+
+
+###### YOUR RIGHTS AND CHOICES: WITHDRAWING CONSENT AND OPTING-OUT
+
+**_Porting Data_ **
+
+In addition to the rights above, you may have the right to have the information you have provided to us and which we use to provide services to you in a machine-readable format. This right enables you to move your information from one provider to another, for example, so that the other provider can continue to service your needs effectively.
+
+**_Change of mind or objection_ **
+
+Where you have given us consent to use your information for any of the above purposes, you have the right to withdraw that consent at any time. You may also have a right to object to our use of your information where we are relying on a legitimate interest and there is something about your particular situation that makes you want to object to our processing on this ground. 
+
+These rights do not apply in all cases however. Please contact the relevant online service or [privacy@fandango.com](mailto:privacy@fandango.com) for more information about whether these rights apply if so how they can be exercised. 
+
+###### WHERE YOUR INFORMATION WILL BE USED
+
+As a global organization, Fandango, may need to transfer your information outside the European Economic Area and make it accessible to our affiliates, Partners and third party service providers internationally. We do so in order to provide you with our services and for the other purposes outlined above. Please be aware that the data protection laws in some of these countries may not offer the same level of protection as those in your country of residence. Before transferring your information in this way we will take steps to ensure that suitable safeguards are put in place aimed at ensuring an appropriate level of protection applies to your information. For further information on these safeguards, please contact us at [privacy@fandango.com](mailto:privacy@fandango.com). 
