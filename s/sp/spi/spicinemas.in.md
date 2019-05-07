@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicinemas.in privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306154623id_/https%3A//www.spicinemas.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicinemas.in privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507090942id_/https%3A//www.spicinemas.in/privacy) for the most accurate reproduction.*
 
 # Privacy
 
