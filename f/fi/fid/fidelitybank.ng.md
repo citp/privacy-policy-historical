@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fidelitybank.ng privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318183101id_/https%3A//www.fidelitybank.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelitybank.ng privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508011833id_/https%3A//www.fidelitybank.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fidelity Bank
+# Privacy Policy - Fidelity Bank
 
 PRIVACY STATEMENT
 
