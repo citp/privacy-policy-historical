@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hokaoneone.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020034340id_/https%3A//www.hokaoneone.com/on/demandware.store/Sites-HOKA-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hokaoneone.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507201743id_/https%3A//www.hokaoneone.com/on/demandware.store/Sites-HOKA-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
 
 # HOKA ONE ONE® Official Site | Privacy Policy
 
@@ -158,8 +158,6 @@ back to top
 ## Can I Access, Update, Correct, or Delete My Personal Information?
 
 You have the right to access and correct, and in some case delete, the personal information that we hold about you. If you created an account with us, you may access, update, and correct the information that you have submitted to us by logging into your account. If you made a purchase as a guest, or if would like to delete the information that you submitted to us, please use this form to send your request to us online or contact our respective Customer Service Departments at the following email addresses:
-
-Delete Personal Information View Personal Information
 
 Brand | Region | Email Address  
 ---|---|---  
