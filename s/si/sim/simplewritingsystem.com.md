@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the simplewritingsystem.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026163015id_/http%3A//simplewritingsystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplewritingsystem.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507221207id_/https%3A//simplewritingsystem.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — John Carlton's Simple Writing System
+# Privacy Policy – John Carlton's Simple Writing System
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
- **We recognizes the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
+We recognizes the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
  **Sharing and Selling Information**
 
-We **do not** share, trade, rent, lend, lease, or sell any of the information that uniquely identify a subscriber (such as email addresses or personal details) to or with anyone except to the extent it is necessary to process transactions or provide services that you have requested. **We hate junk email, too.**
+We do not share, trade, rent, lend, lease, or sell any of the information that uniquely identify a subscriber (such as email addresses or personal details) to or with anyone except to the extent it is necessary to process transactions or provide services that you have requested. We hate junk email, too.
 
  **Choice/Opt-In/Opt-Out**
 
-If you choose to provide us your email address, we may at times email you information and/or offers we think you might find interesting.  You can Opt-Out / Unsubscribe from these emails at any time and you will not receive future messages.  Every email we send comes with an Opt-Out / Unsubscribe link.  Click that link, and we will discontinue sending you messages as soon as technically feasible.
+If you choose to provide us your email address, we may at times email you information and/or offers we think you might find interesting. You can Opt-Out / Unsubscribe from these emails at any time and you will not receive future messages. Every email we send comes with an Opt-Out / Unsubscribe link. Click that link, and we will discontinue sending you messages as soon as technically feasible.
 
  **What Information Do We Collect?**
 
@@ -20,23 +20,23 @@ When you visit this web site you may provide us with two types of information: p
 
  **1\. Personal Information You Choose to Provide**
 
- **Registration Information**
+Registration Information
 
 When you register for any of our products, services or newsletters you will provide us information about yourself. The only registration information we request is your first name and email address.
 
- **Email Information**
+Email Information
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
- **Credit Card Information**
+Credit Card Information
 
-We do not collect or store any credit card information.  We use secure 3rd party vendors, such as PayPal, to process payments.  They do not share any of your credit card information with us.  They just tell us if your payment was successfully processed.
+We do not collect or store any credit card information. We use secure 3rd party vendors, such as PayPal, to process payments. They do not share any of your credit card information with us. They just tell us if your payment was successfully processed.
 
  **2\. Web Site Use Information**
 
 Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
 
- **How Do We Use the Information That You Provide to Us?**
+How Do We Use the Information That You Provide to Us?
 
 Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, executing and improving our marketing and promotional efforts, improve our content and service offerings, and customize our site’s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
 
@@ -46,7 +46,7 @@ Occasionally, we may also use the information we collect to notify you about imp
 
  **What Are Cookies?**
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users who allow cookies.  **A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.**
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users who allow cookies. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
 
  **How Do We Use Information We Collect from Cookies?**
 
@@ -56,41 +56,43 @@ As you visit and browse our Web site, the site uses cookies to differentiate you
 
 IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
 
- **How Can You Access and Correct Your Information?**
+How Can You Access and Correct Your Information?
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us.  However, the only personally identifiable information we might have would be your first name and email address, so we don’t see the point.
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us. However, the only personally identifiable information we might have would be your first name and email address, so we don’t see the point.
 
- **What About Legally Compelled Disclosure of Information?**
+What About Legally Compelled Disclosure of Information?
 
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
 
- **What About Other Web Sites Linked to Our Web Site?**
+What About Other Web Sites Linked to Our Web Site?
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.  
 Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
 
- **Your Consent**
+Your Consent
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
 
- **Our Commitment To Data Security**
+Our Commitment To Data Security
 
 Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
- **Surveys & Contests**
+Surveys & Contests
 
 From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
- **A Special Note About Children**
+A Special Note About Children
 
 Children are not eligible to use our services unsupervised and we ask that children (under the age of 16) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
 
- **Acquisition or Changes in Ownership**
+Acquisition or Changes in Ownership
 
 In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
 
- **Policy Modifications**
+Policy Modifications
 
-We may change this Privacy Policy from time to time.  We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
-If you have any questions or concerns regarding our privacy policy please go to   [www.MarketingRebelSupport.com](http://www.marketingrebelsupport.com/) and open a ticket.
+If you have any questions or concerns regarding our privacy policy please go to www.MarketingRebelSupport.com and open a ticket.
+
+Enter your text here...The testimonials and case studies on this page are, to the best of our ability to determine, all true and accurate. They were provided willingly, without any compensation offered in return. These testimonials and case studies do not represent typical or average results. Most customers do not contact us or offer to share their results, nor are they required or expected to. Therefore, we have no way to determine what typical or average results have been. Many people do not implement anything we teach them. We can't make anyone follow our advice, and we obviously can't promise that our advice, as interpreted and implemented by everyone, is going to achieve for everyone the kinds of results it's helped the folks on this page achieve. The income statements and examples on this website are not intended to represent or guarantee that everyone will achieve the same results. Each individual's success will be determined by his or her desire, dedication, marketing background, product, effort and motivation to work and follow recommendations. There is no guarantee you will duplicate the results stated here. You recognize any business endeavor has inherent risk for loss of capital.
