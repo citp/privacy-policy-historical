@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amyporterfield.com privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703114848id_/https%3A//www.amyporterfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amyporterfield.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507143543id_/https%3A//www.amyporterfield.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Amy Porterfield | Online Marketing Expert
 
-PD Marketing LLC ( **“Company”** , **“we”** , or **“us”** ) respects your privacy and is committed to protecting it through this Privacy Policy.
+Amy Porterfield, Inc. ( **“Company”** , **“we”** , or **“us”** ) respects your privacy and is committed to protecting it through this Privacy Policy.
 
 This Privacy Policy governs your access to and use of Amyporterfield.com, including any content, functionality and services offered on or through Amyporterfield.com (the “Website”), whether as a guest or a registered user.
 
@@ -40,7 +40,7 @@ The Company reserves the right to use technological equivalents of cookies, incl
 
 Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
 ###### Email Information
 
@@ -96,7 +96,7 @@ For site security purposes and to ensure that this service remains available to 
 
 ###### Policy Changes
 
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
 ###### Visitors’ GDPR Rights
 
@@ -118,11 +118,11 @@ We require only the information that is reasonably required to enter into a cont
 
 ###### Contact Us
 
-PD Marketing LLC welcomes your questions or comments regarding the Privacy Policy:
+Amy Porterfield, Inc. welcomes your questions or comments regarding the Privacy Policy:
 
-PD Marketing LLC  
-1468 James Road  
-Gardnerville, NV 89460
+Amy Porterfield, Inc.  
+3451 Via Montebello #192-418  
+Carlsbad, CA 92009, United States
 
 Email Address: [support@amyporterfield.com](mailto:support@amyporterfield.com)
 
