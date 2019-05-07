@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujitsu-general.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111113656id_/http%3A//fujitsu-general.com/global/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujitsu-general.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507100921id_/http%3A//fujitsu-general.com/global/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy - FUJITSU GENERAL GLOBAL
 
@@ -114,7 +114,7 @@ FGL asks that You not send, disclose or otherwise make available to FGL any sens
 
 A cookie is a small piece of code which is sent from our servers to your computer. It does not contain any personal information and is used to improve the functionality of the website and also to anonymously track user visits, to enable us to improve the overall user experience by making improvements to the website. We do not use information based on your location, IP address, internet service provider, company or other identification data. We may, for example, track the overall number of visitors to a specific page, or record where site visitors are coming from and which search terms were used to find us.
 
-For further information on what cookies are, how FGL use them, and for details of how cookies can be disabled, please see our [Cookie Policy](https://web.archive.org/web/20181111113656id_/http%3A//fujitsu-general.com/global/privacy/cookie/index.html).
+For further information on what cookies are, how FGL use them, and for details of how cookies can be disabled, please see our [Cookie Policy](https://web.archive.org/web/20190507100921id_/http%3A//fujitsu-general.com/global/privacy/cookie/index.html).
 
 ## 14\. Modifications to Privacy Policy
 
