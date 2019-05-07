@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905220250id_/https%3A//balsamiq.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507061744id_/https%3A//balsamiq.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Balsamiq
 
-Effective May 25, 2018. Document History
+Effective May 2, 2019. Document History
 
-This Policy applies to all of balsamiq websites, products and services, and any point of contact you might have with Balsamiq.
+This Policy applies to all of Balsamiq websites, products and services, and any point of contact you might have with Balsamiq.
 
 We define the following as our " **Online Services** ":
 
-  * The balsamiq.com websites (balsamiq.com, docs.balsamiq.com, support.balsamiq.com, blog.balsamiq.com)
+  * The balsamiq.com websites (balsamiq.com, blog.balsamiq.com)
   * Balsamiq Cloud
   * Balsamiq for Google Drive
   * Balsamiq for Confluence Cloud
@@ -50,7 +50,7 @@ Balsamiq is a small multi-national organization, based in Italy and the USA. We'
 
 Our Italian company (which does Research and Software Development) is **Balsamiq SRL**. Our tax identification number (P.IVA and C.F) is IT-02921031205.
 
-Our American company (which primarily does Sales and Marketing) is **Balsamiq Studios, LLC**. Our federal tax identification number (EIN) is 26-2200095.
+Our American company (which primarily does Sales and Marketing) is **Balsamiq Studios, LLC**. Our Federal Tax Identification Number (EIN) is 26-2200095.
 
 Balsamiq SRL fully owns Balsamiq Studios, LLC, and both are run by our founder and CEO **Giacomo Guilizzoni** ([peldi@balsamiq.com](mailto:peldi@balsamiq.com)).
 
@@ -88,39 +88,56 @@ We automatically email the public invoice link following the purchase to the ema
 
 The history of changes to the billing contact information on the invoice made by you or our team are logged and stored in Olio.
 
-As part of purchasing a License Product directly from us (Balsamiq for Desktop or Atlassian Server plugins), you are requested to enter a License Name. This is usually a company name, but sometimes an individual's name is entered. This name is kept in Olio to maintain accurate purchase records.
+As part of purchasing a License Product directly from us (Balsamiq for Desktop or Atlassian Server Apps), you are requested to enter a License Name. This is usually a company name, but sometimes an individual's name is entered. This name is kept in Olio to maintain accurate purchase records.
 
-If we have issued you a [free license](https://web.archive.org/free/) or a trial license extension via email, we will have saved your email address in Olio along with the License Name we issued, which may be in a company or individual's name, depending on the case. We keep this data to track the software we have given out.
+If we have issued you a [free license](https://web.archive.org/givingback/free/) or a trial license extension via email, we will have saved your email address in Olio along with the License Name we issued, which may be in a company or individual's name, depending on the case. We keep this data to track the software we have given out.
 
 Subscription Service records may include more than one billing contact. These email addresses and related billing contact information can be updated at any time and the history of changes are logged in Olio.
 
-Lastly, if you have purchased one of our Atlassian Plugins (Add-ons) for Jira or Confluence directly from the [Atlassian Marketplace](https://marketplace.atlassian.com/), Atlassian has offered us access to the billing records for purchases of our plugin (add-on). We import this data into Olio which includes limited Personal Data such as the technical and billing contacts' email address and names. This information is used to offer better support to customers by having all purchase records together, as well as for our accounting purposes. Data from Atlassian includes purchase price, but not details on the payment method.
+Lastly, if you have purchased one of our Atlassian Apps for Jira or Confluence directly from the [Atlassian Marketplace](https://marketplace.atlassian.com/), Atlassian has offered us access to the billing records for purchases of our app. We import this data into Olio which includes limited Personal Data such as the technical and billing contacts' email address and names. This information is used to offer better support to customers by having all purchase records together, as well as for our accounting purposes. Data from Atlassian includes purchase price, but not details on the payment method. Atlassian is not responsible for the privacy, accuracy nor security of this data. 
 
-The data we collect in Olio, including Personal Data is not shared with third parties, except for the purposes of determining the validity of a payment. In this case we may share the name and email address associated with the purchase with the credit card holder, your company’s accounting department, or with our payment processor when responding to a chargeback.
+The data we collect in Olio, including Personal Data, is not shared with third parties, except for the purposes of determining the validity of a payment. In this case we may share the name and email address associated with the purchase with the credit card holder, your company’s accounting department, or with our payment processor when responding to a chargeback.
 
 We only send emails to the email addresses we collect in Olio to communicate account activity such as purchase confirmation and subscription status (renewal, cancellation, etc.).
 
 #### Personal Data for Online Services
-
-##### Cookies
-
-For the Online Services where you have to log in, we may use **cookies** to identify whether you have logged in. Therefore, your browser must be enabled to accept cookies from our Online Service's domain in order for you to use it.
-
-##### Passwords
-
-When we store **passwords** , we never store them in the clear. No-one can see them. We either save them in our database using best-practice cryptographic hashing, or go through a 3rd party authentication provider (see below). 
-
-It is your sole responsibility to keep your user name, password and other sensitive information confidential. If you become aware of any unauthorized use of your account or any other breach of security, you must notify Balsamiq immediately.
-
-If you forget your password, we send you a secure link via email that lets you reset it.
-
-Balsamiq staff will never change a password for you, nor change the Owners (as defined in the [Terms of Service](https://web.archive.org/legal/terms/tos/#introduction)) or Billing Administrators. Please refer to [our documentation](https://docs.balsamiq.com/) to learn how to assign or revoke these roles yourself.
 
 ##### User Account Information
 
 For our Online Services that have the concept of a "User Account", we store **your name** , **email address** , and if you upload it, a **photo** to use as your avatar.
 
 We use this information to identify you as a user of the Online Service.
+
+##### Cookies
+
+For the Online Services where you have a separate User Account, we may use **cookies** to identify whether you have logged in. Therefore, your browser must be enabled to accept cookies from our Online Service's domain in order for you to use it.
+
+##### Passwords
+
+We store **passwords** only for Online Services with separate Balsamiq "User Accounts." We never store these passwords in the clear. No-one can see them. We either save them in our database using best-practice cryptographic hashing, or go through a 3rd party authentication provider (see below). 
+
+It is your sole responsibility to keep your user name, password, and other sensitive information confidential. If you become aware of any unauthorized use of your account or any other breach of security, you must notify Balsamiq immediately.
+
+If you forget your password, we send you a secure link via email that lets you reset it.
+
+Balsamiq staff will never change a password for you, nor change the Owners (as defined in the [Terms of Service](https://web.archive.org/legal/terms/tos/#introduction)) or Billing Administrators. Please refer to [our documentation](https://web.archive.org/docs/) to learn how to assign or revoke these roles yourself.
+
+##### Exceptions
+
+For those Online Services that do not require a separate User Account:
+
+Atlassian Confluence and Jira apps: we do not store user data other than what is described in the Transaction and Billing Information section.
+
+Balsamiq Wireframes for Google Drive: we store the user's email address and ID to properly identify the Google account.
+
+A password is not required to use the following websites:
+
+  * The balsamiq.com websites (balsamiq.com, blog.balsamiq.com)
+  * Balsamiq for ux.stackexchange.com
+  * Wireframestogo.com
+  * UXApprentice.com
+
+
 
 #### Personal Data for License Products
 
@@ -169,7 +186,7 @@ Here's the list of our vendors we use, and links to their privacy policies:
 Vendor / Product | Purpose | Entity Country | Privacy Policy Link  
 ---|---|---|---  
 Amazon Web Services (AWS) | Host our software and databases | USA |  [AWS Privacy Policy](https://aws.amazon.com/privacy/)  
-Google App Engine | Host the software and database for our Balsamiq for Google Drive Plugin | USA |  [Google Cloud Platform Privacy Policy](https://cloud.google.com/security/privacy/)  
+Google App Engine | Host the software and database for our Balsamiq for Google Drive app | USA |  [Google Cloud Platform Privacy Policy](https://cloud.google.com/security/privacy/)  
 Google Analytics | Aggregate website visitor statistics | USA |  [Google Privacy Policy](https://www.google.com/policies/privacy/)  
 Google Sheets | Store data from balsamiq.com online forms, as well a customer lists for beta program and similar | USA |  [G Suite Security and Trust](https://gsuite.google.com/security/)  
 Atlassian Confluence | Store data from balsamiq.com online forms, as well a customer lists for beta program and similar | USA |  [Atlassian Privacy Policy](https://www.atlassian.com/legal/privacy-policy)  
@@ -189,29 +206,31 @@ Discourse | Forums Hosting | USA |  [Discourse Privacy Policy](https://www.disco
   
 ### How to Access or Control Your Data
 
-If you have any questions or concerns about how your Personal Data is processed, or if you want a copy of your data, or want to rectify it or delete it (to the extent that's possible by law), don't hesitate to email us at [privacy@balsamiq.com](mailto:privacy@balsamiq.com).
+You have the right to request a copy of your information, to object to our use of your information, to request the deletion or restriction of your information, or to request your information in a structured, electronic format.
 
 Balsamiq Cloud and myBalsamiq give you a way to access your personal information and correct it, via User Settings or a billing page.
 
 Most of our Online Services give you a way to download or delete your data at any time. Once you delete your data, unless specified otherwise, we keep it in our backups for up to 60 days, then destroy it with no way to recover it.
 
+If you have any questions or concerns about how your Personal Data is processed, or if you want a copy of your data, or want to rectify it or delete it, don't hesitate to email us at [privacy@balsamiq.com](mailto:privacy@balsamiq.com).
+
 To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
 We will respond as quickly as possible, and certainly within 30 days.
 
-We need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
+In certain circumstances we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
 
 ### Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-If we become aware of a data breach that affects your personal data, we will notify you (and the appropriate national supervisory authorities) within 72 hours.
+If we become aware of a data breach that affects your Personal Data, we will notify you (and the appropriate national supervisory authorities) within 72 hours.
 
 Our detailed Information Security information is [here](https://web.archive.org/legal/security).
 
 #### Who Can See My Wireframes?
 
-The people you share them with, as described in our Online Service or Licensed Product's [documentation](https://docs.balsamiq.com/). 
+The people you share them with, as described in our Online Service or Licensed Product's [documentation](https://web.archive.org/docs/). 
 
 For the Balsamiq Services that have the concept of Owners (as defined in [Terms of Service](https://web.archive.org/legal/terms/tos/#introduction)), they will be able to see your wireframes as well.
 
@@ -221,9 +240,25 @@ For Online Services some Balsamiq employees will also have access, according to 
   * We only access your wireframes in response to a customer support question, or to debug and fix an issue.
   * We never make changes to anything unless explicitly requested by an Owner.
   * We never share what we see with other customers, the general public, or the rest of the Balsamiq staff.
-  * We might give access to US authorities if requested in writing. We’ll try not to, but we don’t have the resources to fight the government. We’ll also keep your Owners(s) informed as much as we can if this happens.
+  * We might give access to government authorities if requested in writing. We’ll try not to, but we don’t have the resources to fight the government. We’ll also keep your Owners(s) informed as much as we can if this happens.
 
 
+
+### Privacy Shield Notice
+
+Balsamiq Studios, LLC* complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework [as set forth by the U.S. Department of Commerce](http://www.privacyshield.gov/welcome) regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Balsamiq Studios, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+Balsamiq Studios, LLC is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Balsamiq Studios, LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. Balsamiq is liable for any processing of personal information by such third parties that is inconsistent with the Privacy Shield Principles unless it is not responsible for the event giving rise to any alleged damage.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Balsamiq Studios, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission (FTC). In certain situations, Balsamiq Studios, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Balsamiq Studios, LLC commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Balsamiq.
+
+Balsamiq Studios, LLC has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU.
+
+Under certain conditions, Privacy Shield provides the right to invoke binding arbitration when other dispute resolution procedures have not provided resolution. This is described in [Annex I to the Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+
+*Only US-based entities are eligible to self-certify under Privacy Shield. Therefore, as an EU based entity, Balsamiq SRL does not need to self-certify under Privacy Shield in order to transfer data outside of the EU.
 
 ### Children's Privacy
 
@@ -248,6 +283,8 @@ Italy
 
 ### Document History
 
+  * 2 May 2019: Added note to comply with section 8.4(d) of the [Atlassian Vendor Agreement](https://www.atlassian.com/licensing/marketplace/publisheragreement), added more details to highlight the differences between our Online Services, and how they manage data.
+  * 7 Nov 2018: Updated with Privacy Shield information.
   * 2 Aug 2018: Updated deleted data retention period from "7 days" to "up to 60 days".
   * 31 May 2018: Added Wireframestogo.com and UXApprentice.com, improved Children's Privacy section, added proactive support info, and fixed some typos.
   * 25 May 2018: major update to unify our separate privacy policies into one, and to add more detail as required by GDPR.
