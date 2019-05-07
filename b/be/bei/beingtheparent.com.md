@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the beingtheparent.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721235910id_/https%3A//www.beingtheparent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beingtheparent.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507122556id_/https%3A//www.beingtheparent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Being The Parent
+
+#### PRIVACY POLICY
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/beingtheparent.com).  
+
 
 **Mykids Ventures Private Limited** (“Company/Us/We/Our”) is committed to protecting your privacy and ensuring you have a positive experience on Our website, [www.beingtheparent.com](http://www.beingtheparent.com/) (“Website/ Site”). This policy (“Policy”) outlines Our personal information handling practices for both online and offline data. If you give us personal information, We will treat it according to this Policy. By clicking “Sign Up” while registering on Our Website you (‘User/ You/ Your’) agree to be bound to the terms of this Policy and Terms of Services.
 
@@ -56,7 +62,7 @@ Like most websites, We use cookies and web log files to track Site usage. We use
 
 All the information You provide to Us, including sensitive personal information, is voluntary. You have the right to withdraw Your consent at any time by duly modifying Your privacy and account settings. Please note that Your withdrawal of consent will not be retroactive.
 
-You can access, modify, correct and eliminate the data about You which has been collected pursuant to Your decision to become a User. If You update any of Your information, We may keep a copy of the information which You originally provided to Us in Our archives for the purposes as documented herein. We take Your rights seriously and encourage You to use them if You deem this to be appropriate. You may exercise these rights by emailing us at info@beingtheparent.com
+You can access, modify, correct and eliminate the data about You which has been collected pursuant to Your decision to become a User. If You update any of Your information, We may keep a copy of the information which You originally provided to Us in Our archives for the purposes as documented herein. We take Your rights seriously and encourage You to use them if You deem this to be appropriate. You may exercise these rights by emailing us at support@beingtheparent.com
 
   * **External links.    **
 
@@ -161,3 +167,6 @@ We may update this Policy with notice through email or otherwise. We will also n
 
 
 If You have any questions about this Policy, please feel free to contact Us through Our Site
+
+  
+
