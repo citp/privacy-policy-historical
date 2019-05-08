@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotoballer.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227195716id_/https%3A//www.rotoballer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotoballer.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508031520id_/https%3A//www.rotoballer.com/privacy-policy) for the most accurate reproduction.*
 
 # RotoBaller Privacy Policy | RotoBaller
 
