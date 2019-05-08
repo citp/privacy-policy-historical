@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asda.jobs privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213110713id_/https%3A//www.asda.jobs/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda.jobs privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508023723id_/https%3A//www.asda.jobs/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Asda | Privacy & Cookie Policy
 
