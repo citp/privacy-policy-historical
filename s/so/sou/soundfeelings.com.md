@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107062312id_/http%3A//www.soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundfeelings.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508073759id_/http%3A//www.soundfeelings.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy and GDPR Statement
 
@@ -54,7 +54,7 @@ email
 
 Please also see our Security Statement.
 
-Please also see our [Security Statement](https://web.archive.org/web/20181107062312id_/http%3A//www.soundfeelings.com/about/security.htm).
+Please also see our [Security Statement](https://web.archive.org/web/20190508073759id_/http%3A//www.soundfeelings.com/about/security.htm).
 
 
 
