@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclebar.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120034337id_/https%3A//cyclebar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclebar.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509003032id_/https%3A//cyclebar.com/privacy) for the most accurate reproduction.*
 
 # CYCLEBAR | Premium Indoor Cycling Franchise
 
