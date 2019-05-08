@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pridemov.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402082506id_/http%3A//ww43.pridemov.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pridemov.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508105757id_/http%3A//ww43.pridemov.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
