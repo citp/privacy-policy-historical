@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womow.com.au privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823105036id_/https%3A//www.wordofmouth.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womow.com.au privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508072710id_/https%3A//www.wordofmouth.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,7 +84,7 @@ In addition, we may disclose personal information when we believe that we are la
 
 * ###  Feedback 
 
-We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, please [_click here for our contact details_](https://web.archive.org/web/20180823105036id_/https%3A//www.wordofmouth.com.au/contact-us).   
+We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, please [_click here for our contact details_](https://web.archive.org/web/20190508072710id_/https%3A//www.wordofmouth.com.au/contact-us).   
 
 
 * ###  Policy Changes 
