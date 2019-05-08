@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhreporting.nic.in privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619105913id_/http%3A//iay.nic.in/netiay/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhreporting.nic.in privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508141403id_/https%3A//pmayg.nic.in/netiay/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Pradhan Mantri Awas Yojana - Gramin (PMAY-G)
 
