@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justapinch.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209091708id_/https%3A//www.justapinch.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justapinch.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508155652id_/https%3A//www.justapinch.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Just A Pinch
 
