@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatbit.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813144420id_/https%3A//www.fatbit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatbit.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509014449id_/https%3A//www.fatbit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FATbit Technologies - privacy policy
 
@@ -48,7 +48,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 #### Childrens Online Privacy Protection Act Compliance 
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 14 years of age. Our website, products and services are all directed to people who are at least 14 years old or older.
 
 ####  Online Privacy Policy Only 
 
@@ -56,7 +56,7 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.fatbit.com](http://www.fatbit.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.fatbit.com](https://www.fatbit.com/)
 
 #### Your Consent 
 
@@ -70,9 +70,20 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.fatbit.com](http://www.fatbit.com/)  
+[https://www.fatbit.com](https://www.fatbit.com/)
+
+#### Head Office
+
 FATbit Technologies   
-(Ably Soft Pvt Ltd)  
+(Ably Soft Pvt Ltd)   
 Plot 268, Sector-82,   
 JLPL Industrial Area,   
 Mohali, Punjab, India 
+
+#### Branch Office
+
+FATbit Technologies   
+(Ably Soft Pvt Ltd)   
+Unit No. A-712, Tower A,  
+7th Floor, Bestech Business Towers,  
+Sector 66, Mohali, Punjab
