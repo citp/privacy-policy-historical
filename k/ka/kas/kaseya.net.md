@@ -1,85 +1,148 @@
-> *The following text is extracted and transformed from the kaseya.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220192753id_/http%3A//www.kaseya.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaseya.net privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509015849id_/https%3A//www.kaseya.com/legal/kaseya-privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Kaseya
+# Kaseya Privacy Statement | Kaseya
 
-Privacy Statement Effective as March 4, 2014 
-
-Kaseya has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe program only covers information that is collected through the www.kaseya.com Web site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at legal@Kaseya.com or +1415.694.5700. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-Kaseya complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. Kaseya has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Kaseya’s certification, please visit <http://www.export.gov/safeharbor/>. Kaseya will respond to your request to delete or change your personal information within 30 days.
+_Privacy Statement Effective as of August 29, 2018_
 
 ### 1\. Overview
 
-Kaseya respects the privacy of our customers and business partners. We recognize the need for protections and management of personal information that is provided to us or accessed by us. Kaseya has therefore established this Privacy Statement to assist you to understand what information we collect and how that information is used. This statement may change from time to time so please check back periodically. By accessing any Kaseya website, such as at http://www.kaseya.com, downloading any materials from Kaseya websites, purchasing products or services, or by providing any information to Kaseya including via Kaseya Support, Kaseya websites, e-mail addresses, or otherwise, you acknowledge and fully understand Kaseya’s Privacy Statement and consent to the information collection and use practices described herein. If you do not agree to this Privacy Statement, do not use Kaseya websites, download any materials from them, purchase products or services or provide information to Kaseya or its affiliated or partner companies.
+Kaseya, its affiliates and group partner companies (“We”, “Us”, or “Our”) recognize the need for protection and management of your personal information. We have therefore adopted this Privacy Statement to assist you in understanding what information We collect and how that information is used and shared. This Privacy Statement applies to the information We collect when you access any Kaseya website, when you purchase or use a Kaseya product, or when you provide any non-public information to us.
 
-### 2\. Information We Collect and How We Use It
+Before you access any Kaseya website, such as at https://www.kaseya.com, purchase or use Kaseya products or services, or provide any non- public information to Us, you should review this Privacy Statement to understand Our information collection and use practices.
 
-**A. Types of Information**
+### 2\. Information We Collect
 
-**Information Logging**. Kaseya may track and use information relating to website usage such as: Internet protocol address; kind of browser, operating system or computer used; number of links clicked within a website; state or country from which you accessed the site; date and time of your visit(s); name of your Internet service provider; web page(s) you linked to or from another website; and pages you viewed on a website.
+We collect certain categories of information about you and the device that you are using, particularly when you visit our websites but also when you use or purchase our products or when you provide us information to deliver you newsletters and other communications. In particular:
 
- **Cookies**. Kaseya may use cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We link cookies to personal information on the site in order to make it easier for users to return to the site and to access the Site’s features.
+ **Contact Information:** Contact information is information or data that can be used to identify or contact a specific individual. For example, when you access Our websites, We ask you to provide certain contact information when you create an account, such as your name, address, phone number, e-mail address, user IDs and passwords, contact preferences, educational and employment background. If you do not wish to provide the information requested, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested.
 
-Kaseya reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into Kaseya.com a site that relies on third-party cookies).
+ **Payment Information:** If you purchase a product or service from Kaseya, you will need to provide us with payment information. This may include billing and other transaction information, credit card number, or other financial information that we can use to ensure proper payment for the services you are purchasing.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+ **Device Information:** As is true of most websites, We gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you.
 
-**Personal Information**. Personal information is information that can be used to identify or contact a specific individual, such as a name, address, telephone number or email address. Kaseya may collect or access certain personal information from customers and business partners. Other than as set forth above, Kaseya does not collect personal information unless you choose to provide such personal information.
+ **Tracking and Location Information:** We may collect and/or track certain information that is derived from the use of our products such as usage patterns, travel patterns, web site page views and traffic patterns. We may use this tracking and location information for statistical purposes to improve our products and services and to help users manage their environment and infrastructure more efficiently.
 
-On Kaseya web sites you may be able to order products or services, register products, request information, subscribe to marketing or support materials, register to a secure extranet site to obtain access to product information, support, services and training. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs and passwords, billing and transaction information, credit card or other financial information, contact preferences, educational and employment background, job interest data and benefit choices.
+ **Mobile Device Information:** When Our products are deployed to mobile devices via a Kaseya Application installed on the device, Our servers automatically record information that may include: the MAC (Media Access Controller) addresses from the network card in or used with your devices; web requests, Internet Protocol addresses, phone numbers, browser types, browser languages, the date and time of request; and other information regarding internet connection activities. In addition, the information collected and tracked depends upon the system configurations chosen by the administrator and the options enabled by the users and may include device location, device identifier and device user name; status of the mobile device SIM card; MAC addresses and device serial numbers; phone number, signal strength, cell tower, carrier, IMEI#, and other WWAN attributes; first and last name and email address of device user; device check-out/check-in; who uses which device as well as the physical status of the device at the start of a shift and then again at the end of a shift; applications loaded on the device (excluding content); real-time GPS location tracking and mapping, including analysis of location data and history; or mobile device remote control, including screen capture. The administrator can perform partial or complete erasure of data on user devices, including restoring the device to its factory default. The mechanisms that allow smartphones and mobile devices to be monitored run in the background of the devices. Individuals are notified that these functions may occur, but may not be aware when these functions are occurring in real time.
 
-**Testimonials**. We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personal information that is being displayed on our website under public pages please send your request to [webmaster@kaseya.com](mailto:webmaster@kaseya.com).
+ **Kaseya Blog:** If you use Our blog or any community forum on Our web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. Although We are not responsible for the personally identifiable information you choose to submit via these forums, We will use reasonable efforts to remove that information from our blogs or community forums, if you contact us at dpo@kaseya.com.
 
-**Blogs**. If you use the blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+Information Related to Data Collected for our Clients:
 
-**B. Use of Information**
+  * Kaseya collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.  We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-Except as described in this Privacy Statement, we will not disclose your personal information outside of Kaseya and its subsidiaries and affiliates without your consent. We do not sell, rent, or lease personal information or our customer lists to third parties. We use all the information we collect to provide and enhance the products, services and information you request to manage and operate our business, and to contact you regarding our products and services. For example, we may use the information we collect for the following purposes: billing and other accounting purposes; establishing accounts and contacting you regarding important information about your account, including notices and updates; display of personalized content and advertising; information security and IT management purposes; information security and IT management purposes; informing you of other products or services offered by Kaseya and its affiliates; sending you relevant survey invitations; providing you with additional materials regarding Kaseya products and services or to connect you with a Kaseya representative, if necessary; responding directly to your questions, comments or requests for support; analyzing site usage, to improve and customize our web sites and products and service offers, and to improve our marketing and promotional efforts; compiling; and enforcing our agreements with you. The information we collect may be combined with information obtained from other sources and other companies. We may compile, sell, and otherwise use for any purpose non personal information relating to or arising from the capabilities, problems, successes, statistics, diagnostics, inventory, composition, configuration, performance (or lack thereof) of: (a) the Software or Services; (b) Authorized Machines or any network to which an Authorized Machine is connected; or (c) any software or hardware loaded on, comprising, or used in connection with or otherwise related to any of the forgoing. In order to help provide our products, services, or information, we occasionally hire other companies to assist such as providing products or services, handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those companies will be permitted to obtain only the information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-We may access and/or disclose any information if we believe such action is necessary to: (a) comply with any law, judicial, proceeding, government request, court order, legal process, rule or regulation or any process served on Kaseya; (b) protect and defend the rights or property of Kaseya (including the enforcement of our agreements); or (c) act in urgent circumstances or emergencies. If Kaseya is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal Information we have collected as part of that transaction provided that such third party continues to honor our Privacy Statement.
 
-### 3\. Communication Preferences and Choices
+Access and Retention of Data Controlled by our Clients:
 
-You can stop the delivery of promotional e-mail or other Kaseya communications by following the instructions in the e-mail you receive or by contacting Kaseya at [webmaster@kaseya.com](mailto:webmaster@kaseya.com). These choices do not apply to the receipt of mandatory product or service communications that are considered part of certain Kaseya products or services, which you may receive periodically unless you cancel the product or service. Furthermore, Kaseya does not require that you provide Kaseya with personal information. The decision to provide personal information is voluntary. If you do not wish to provide the personal information requested, however, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested.
+  * We acknowledge that you have the right to access your personal information. Kaseya has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the COMPANY’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
 
-### 4\. Accessing And Changing Your Personal Information
 
-You may have the ability to view or edit your personal information by contacting us at [webmaster@kaseya.com](mailto:webmaster@kaseya.com), and we will contact you to enable you to access your information and the opportunity to change or delete your information. To protect your privacy and security, we may require steps to verify your identity, such as a password and user ID, before granting access to your data.
 
-### 5\. Third Party Policies
+We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Kaseya will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
 
-Related offerings with links from Kaseya’s websites have their own privacy policies that can be viewed by clicking on the corresponding links within each respective website. All Kaseya partners are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of other third parties before you provide any personal information or complete any transaction with such parties.
+### 3\. Cookies and Similar Technologies
 
-### 6\. Collection and Use of Children's Personal Information
+“Cookies” are small text files that are placed on your computer, smartphone or other device when you visit a website. Like many other website operators, Kaseya works with third party service providers and partners (including marketing partners, customer service providers, and others) to use cookies, beacons, and similar technology for a number of purposes. For example, These technologies are used in:
 
-Kaseya does not knowingly collect personal information from children under the age of 13. If Kaseya learns that we have personal information on a child under the age of 13, we will delete that information from our systems. We encourage you to talk with your children about communicating with strangers and disclosing personal information online. You should instruct children to never give personal information, unless supervised by a parent or responsible adult, monitor the sites your kids are visiting and which sites are appropriate and review privacy policies to understand how your child’s information is treated. 
+  * Analyzing site usage trends;
+  * Administering the site;
+  * Tracking users’ movements around the site;
+  * Gathering demographic information about Our user base as a whole;
+  * Saving your shopping cart;
+  * Identifying users to remember users’ settings (e.g. language preference);
+  * For authentication and to help you sign up for Our services.
 
-### 7\. Security
 
-Kaseya takes information security very seriously and uses reasonable measures to protect your personal information from unauthorized access. We use a variety of security technologies depending on the situation and procedures to help protect your personal information from unauthorized access, use, or disclosure such as physical access controls, Secure Socket Layers (SSL), Internet firewalls, intrusion detection, and network monitoring. However, no security system can be guaranteed to be 100% secure, and therefore we cannot guarantee the security of your Information or assume liability for improper access to it. By using the Kaseya web site, or providing Information to us through any means, you agree that we can communicate with you electronically about any matter including regarding security, privacy, and administrative issues.
 
-If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.
+Users can control the use of cookies at the individual browser level. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-### 8\. Use of Web Beacons
+Behavioral Targeting / Re-Targeting
 
-Kaseya web pages may contain electronic images known as web beacons - sometimes called single-pixel gifs - that may be used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver co-branded services. We may include web beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note you will continue to receive generic ads.
 
-Kaseya may also employ web beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our sites. We prohibit web beacons on our sites from being used by third parties to collect or access your personal information.
+### 4\. How We Use the Information We Collect
 
-Finally, we may work with other companies that advertise on Kaseya sites to place web beacons on their sites in order to allow us to develop statistics on how often clicking on an advertisement on a Kaseya site results in a purchase or other action on the advertiser's site.
+We use the information We collect to provide and enhance Our products and services, to operate Our business (e.g. billing and other accounting purposes; establishing accounts and contacting you regarding important information about your account, including notices and updates), for editorial and feedback purposes, for marketing and promotional purposes (including providing your contact information to third parties with whom Kaseya has a relationship), for statistical analysis, for product development, to contact you regarding our products and services, to monitor and maintain our network, and to address issues that may arise concerning claims of abuse or inappropriate activity. For example, We may use the information We collect for the following purposes:
 
-### 9\. Data Retention
+  * Displaying personalized content and advertising;
+  * Information security and IT management;
+  * Informing you of other products or services offered by Us;
+  * Sending you relevant survey invitations;
+  * Providing you with additional materials regarding Our products and services or to connect you with a Kaseya representative;
+  * Responding directly to your questions, comments or requests for support;
+  * Analyzing site usage to improve and customize Our web sites and products and service offerings;
+  * Improving Our marketing and promotional efforts; and
+  * Enforcing Our agreements with you.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at legal@kaseya.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### 10\. Social Media Features and Widgets
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Some of the information We collect allows Us to differentiate users on Our network, and in some cases, We act as a pass-through for certain pieces of information to obtain authentication for Internet access. We may compile, sell, and otherwise use for any purpose any usage data or other data as set forth in the Kaseya End User License Agreement (“EULA”) including information that we may receive by providing support or professional services under that agreement. If you have purchased products or services from Kaseya, please refer to the EULA to which you are party for further information regarding how we collect and process usage data.
 
-### 11\. Changes to this Statement
+If our use of your data is governed by the European Union’s General Data Protection Regulation (“GDPR”), you should know that we rely on the following legal grounds to process your personal information:
 
-We reserve the right to modify this Privacy Statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective. Your continued use of Kaseya’s products, services or websites or communication with Kaseya constitutes your agreement to this Privacy Statement and any updates.
+  *  **Performance of a contract**  – To the extent you have purchased a product or service from Kaseya, we may need to collect and use your personal information to perform the services which you have purchased. For example, we may use your personal information to respond to requests you make via our website and provide you with such services.
+  *  **Compliance with law**  – In certain circumstances we may be required to process your data to comply with legal obligations to which Kaseya is subject.
+  *  **Consent**  – Some of the personal information We collect is provided by you voluntarily, for example when you sign up to join a mailing list or register for an event, and is therefore collected and used with your permission. To withdraw your consent to such use, you can contact us at dpo@kaseya.com.
+  *  **Legitimate interests**  – We may use your personal information for our legitimate interests, such as to improve our products and services and the content on Kaseya websites. We may also use your contact information to keep you and others who have provided us with their contact information up-to-date on recent product and service developments. It you wish us to stop using your contact information in this manner, you can contact us at dpo@kaseya.com.
 
-### 12\. Contacting Us
 
-If you have questions or concerns, you should first contact the Kaseya Privacy Administrator at: [legal@kaseya.com](mailto:legal@kaseya.com); 2nd Floor, Commerzbank House, Guild Street, International Financial Services Centre, Dublin 1, Ireland. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <https://feedback-form.truste.com/watchdog/request> TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+### 5\. How We Share Information We May Collect
+
+We occasionally hire other companies to assist Us in providing products or services, handling the processing and delivery of mailings, providing customer support, hosting websites, customer billing, processing transactions, or performing statistical analysis of our services. Those companies will be permitted to obtain only the information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
+
+We may disclose any information We collect from you if We believe such action is necessary to: (a) comply with any law, judicial proceeding, government request, court order, legal process, rule or regulation or any process served on Us; (b) protect and defend the rights or property of Kaseya (including the enforcement of Our agreements and investigation of potential violations thereof); (c) protect your safety or the safety of others; (d) detect, prevent, or otherwise address fraud, security or technical issues; or (e) act in urgent circumstances or emergencies. If We are acquired by or merged with a third party, you will be notified via email and/or a prominent notice on our website of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We reserve the right to transfer the personal information We have collected as part of that transaction or proposed transaction, provided that such third party agrees to maintain procedures no less protective than those found in our Privacy Statement.
+
+### 6\. Accessing And Changing Your Personal Information
+
+Depending on the relevant jurisdiction, you may have certain rights granted to you by law with respect to the personal information Kaseya and others have collected about you. For example, if the GDPR applies to the data We have collected about you, you have the right to access and correct data We have about you, to object to the processing of data, and to request that any information we have about you be erased.
+
+You may request to exercise these rights by managing your account through the online portal or by emailing our data privacy team at dpo@kaseya.com. We will respond to your request within a reasonable timeframe, but no later than one month after you submit the request.
+
+To protect your privacy and security, we may require steps to verify your identity, such as a password and user ID, before granting access to your data.
+
+Upon request Kaseya will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it by making the change on our member information page or by emailing our Customer Support at dpo@kaseya.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe.
+
+### 7\. Third Party Sites and Services
+
+Related offerings with links from Kaseya’s websites have their own privacy policies that can be viewed by clicking on the corresponding links within each respective website. All Kaseya partners are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.
+
+However, since we do not have direct control over the policies or practices of participating third parties, we are not responsible for the privacy practices or content of those sites. We recommend and encourage that you always review the privacy policies of those third parties before you provide any personal information or complete any transaction with such parties.
+
+Our web site also includes social media features, such as the Facebook “Like” button and widgets, such as the “Share this” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site, therefore your interactions with these features are governed by the privacy statement of those third parties.
+
+### 8\. Collection and Use of Children’s Personal Information
+
+Kaseya does not knowingly collect or use personal information from children under the age of 13, or equivalent minimum age in the respective jurisdiction. If Kaseya learns that we have personal information on a child under the age of 13, or equivalent minimum age depending on jurisdiction, we will take steps to delete that information from our systems.
+
+### 9\. Cross-Border Data Transfers
+
+Kaseya participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Kaseya is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [[https://www.privacyshield.gov](https://www.privacyshield.gov/)]
+
+Kaseya is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Kaseya complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Kaseya is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission In certain situations, Kaseya may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+### 10\. Security
+
+Kaseya takes information security seriously and uses reasonable measures to protect your information from unauthorized access. When you place orders on our websites, all of your order information, including your credit card number and delivery address, is transmitted through the Internet using Transport Layer Security (TLS) technology. TLS technology causes your browser to encrypt your order information before transmitting it to our secure server. We use a variety of security technologies depending on the situation to help protect your information from unauthorized access, use, or disclosure, such as physical access controls, TLS, Internet firewalls, and network monitoring. However, no security system is 100% secure, and therefore we cannot guarantee the security of your information or assume liability for improper access to it. If you use a password to help protect your information, it is your responsibility to keep your password confidential, change the password frequently and use a strong password. We strongly recommend that you do not share this password with anyone.
+
+### 11\. Data Retentions
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at dpo@kaseya.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### 12\. Communication Preferences
+
+You can stop delivery of promotional e-mail or other Kaseya communications by contacting Kaseya at dpo@kaseya.com. Additionally, when you purchase products or services from Us, We may deliver non-promotional communications related to those products or services which may not be canceled unless you cease use of the product or service.
+
+### 13\. Changes to this Statement
+
+We reserve the right to modify this Privacy Statement at any time, so please review it frequently. If We make material changes to this Statement, We will notify you here, by email, or by means of a notice on Our home page prior to the change becoming effective. Your continued use of Kaseya’s products, services or websites or communication with Kaseya constitutes your agreement to this Privacy Statement and any updates.
+
+### 14\. Contacting Us
+
+If you have questions or concerns, you should first contact the Kaseya Privacy Administrator at: dpo@kaseya.com; 26 West 17th Street, 9th Floor, New York, New York 10011.
