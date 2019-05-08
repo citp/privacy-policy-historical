@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the stlyrics.com privacy policy that was archived on 2018-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180927155700id_/https%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stlyrics.com privacy policy that was archived on 2019-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190508232741id_/https%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en" xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage"><head>
+        <meta name="theme-color" content="#d4d4d4">
+        <link rel="manifest" href="/manifest.json">
                                         
         <link rel="shortcut icon" href="/images/desktop/favicon.ico">
 
-        
         <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->        
-        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0&amp;appId=264778770366717"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0&amp;appId=264778770366717"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
                                 
 
@@ -18,11 +19,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width">
 <meta itemprop="url" content="https://www.stlyrics.com/privacy.htm">
-<meta itemprop="name" content="SoundTrack Lyrics Site #1. Lyrics for songs from any movie, film, cartoon, tv, musical, video game">
+<meta itemprop="name" content="Soundtrack Lyrics Site #1. Song lyrics from any movie, film, cartoon, tv, musical, video game">
 <meta itemprop="image" content="http://www.stlyrics.com/soundtrack-lyrics.gif">
-<meta itemprop="description" content="Song lyrics, soundtrack lyrics for any movie, cartoon, TV, game, Broadway musical. Music videos, song descriptions">
-<meta property="og:title" content="SoundTrack Lyrics Site #1. Lyrics for songs from any movie, film, cartoon, tv, musical, video game">
-<meta property="og:description" content="Song lyrics, soundtrack lyrics for any movie, cartoon, TV, game, Broadway musical. Music videos, song descriptions">
+<meta itemprop="description" content="Soundtrack lyrics for any movie, cartoon, TV, game, Broadway musical. Browse song by artist or soundtrack title.">
+<meta property="og:title" content="Soundtrack Lyrics Site #1. Song lyrics from any movie, film, cartoon, tv, musical, video game">
+<meta property="og:description" content="Soundtrack lyrics for any movie, cartoon, TV, game, Broadway musical. Browse song by artist or soundtrack title.">
 <meta property="og:image" content="http://www.stlyrics.com/soundtrack-lyrics.gif">
 <meta property="og:url" content="https://www.stlyrics.com/privacy.htm">
 <meta property="fb:app_id" content="264778770366717">
@@ -35,9 +36,6 @@
 <meta property="twitter:creator" content="@stlyricscom">
 <meta property="twitter:domain" content="https://www.stlyrics.com/privacy.htm">
                 
-
-         
-
         
 
 
@@ -186,7 +184,17 @@ a.merch-btn:hover{color: #31708f; text-decoration: none;}
 
 /*.merch-btn:hover{background-color: #f7f7f7; padding: 5px 10px;text-decoration: none; color:#0fb2fc;}*/
 body {visibility: visible;}
-</style>        
+</style>        <script>
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(function(registration) {
+                        console.log('Registration successful, scope is:', registration.scope);
+                    })
+                    .catch(function(error) {
+                        console.log('Service worker registration failed, error:', error);
+                    });
+            }
+        </script>
     </head>
     <body>
         <header class="startEnd">
@@ -199,7 +207,7 @@ body {visibility: visible;}
                 <div class="input-group">
                     <input type="hidden" name="cx" value="partner-pub-1248082249428003:4249914101">
                     <input type="hidden" name="ie" value="UTF-8">
-                    <input placeholder="Search..." itemprop="query-input" class="form-control" type="text" name="q" id="q" size="17" value="" style="">
+                    <input aria-label="Search" placeholder="Search..." itemprop="query-input" class="form-control" type="text" name="q" id="q" size="17" value="" style="">
                     <input type="hidden" name="cof" value="FORID:11">
                     <span class="input-group-btn"><button class="btn btn-link srchBtn" type="submit"><span class="icon">🔍</span></button></span>                 
                 </div>
@@ -346,11 +354,11 @@ body {visibility: visible;}
                 <hr>
                 <div class="h5">Recommended sites</div>
 <div class="list-group">
-    <a href="http://www.azlyrics.com" class="list-group-item" target="_blank">A-Z Lyrics Universe</a>
-    <a href="http://www.azvideos.com" class="list-group-item" target="_blank">Music Videos</a>
-    <a href="http://www.cowboylyrics.com" class="list-group-item" target="_blank">Country Lyrics &amp; Tabs</a>
-    <a href="http://www.azchords.com" class="list-group-item" target="_blank">Guitar Chords</a>
-    <a href="http://www.allmusicals.com" class="list-group-item" target="_blank">Broadway Musicals</a>
+    <a href="http://www.azlyrics.com" rel="noopener" class="list-group-item" target="_blank">A-Z Lyrics Universe</a>
+    <a href="http://www.azvideos.com" rel="noopener" class="list-group-item" target="_blank">Music Videos</a>
+    <a href="http://www.cowboylyrics.com" rel="noopener" class="list-group-item" target="_blank">Country Lyrics &amp; Tabs</a>
+    <a href="http://www.azchords.com" rel="noopener" class="list-group-item" target="_blank">Guitar Chords</a>
+    <a href="http://www.allmusicals.com" rel="noopener" class="list-group-item" target="_blank">Broadway Musicals</a>
     <a href="/links.htm" class="list-group-item">More Links</a>
 </div>
 
@@ -413,7 +421,7 @@ privacy@exponential.com  </p>
 
 
 <h4>Advertisers</h4>
-<p>We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Amazon.com <a href="http://rcm.amazon.com/e/cm/privacy-policy.html?o=1">privacy policy</a>. AllPosters.com <a href="">privacy policy</a>. Adtegrity.com <a href="http://www.adtegrity.com">privacy policy</a>.</p>
+<p>We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. AllPosters.com <a href="">privacy policy</a>. Adtegrity.com <a href="http://www.adtegrity.com">privacy policy</a>.</p>
 
 <br>
 
@@ -466,7 +474,7 @@ privacy@exponential.com  </p>
     <div class="container">
         <br>
         <ul class="nav nav-pills">
-            <li class="pull-right copyright" role="presentation">©&nbsp;STLyrics.com 2018</li>
+            <li class="pull-right copyright" role="presentation">©&nbsp;STLyrics.com 2019</li>
             <li role="presentation"><a href="/blog.htm">Music blog</a></li>
             <li role="presentation"><a href="/add.htm">Add/correct lyrics</a></li>
             <li role="presentation"><a href="/dmca.htm">DMCA</a></li>
@@ -476,9 +484,7 @@ privacy@exponential.com  </p>
     </div>
 </footer>
         <!-- Begin comScore Tag -->
-<script> 
-    var _comscore=_comscore||[],urlo=document.URL.replace("http://","");_comscore.push({c1:2,c2:"6772046",c3:"",c4:urlo,c5:"",c6:"",c15:""}),function(){var c=document.createElement("script"),e=document.getElementsByTagName("script")[0];c.async=!0,c.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e)}(); 
-</script>
+ 
 <!-- End comScore Tag -->
 
     <script type="text/javascript">
@@ -504,7 +510,6 @@ privacy@exponential.com  </p>
         "name" : "Stlyrics",
         "sameAs" : [
             "https://www.facebook.com/stlyricscom",
-            "https://plus.google.com/+stlyricscom",
             "https://www.twitter.com/stlyricscom"
         ]                
     }
@@ -535,6 +540,9 @@ privacy@exponential.com  </p>
 </script>
 
                        
+
+
+
     <script type="text/javascript" src="/themes/front/js/all.min.js"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
