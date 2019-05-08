@@ -1,0 +1,464 @@
+<!--The following is the downloaded HTML source of the spellcheckplus.com privacy policy that was archived on 2019-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190508042638id_/https%3A//spellcheckplus.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<link type="application/opensearchdescription+xml" rel="search" href="/Resources/osdd-pro-en.xml ">
+
+<meta name="verify-v1" content="xDOS7uemcTftvOqgMF06XK+ARkFB3zGGDeAqnn9hdok=">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+
+	<title>"SpellCheckPlus" Online Spelling and Grammar Checker for English as a Second Language</title>
+	<link rel="stylesheet" href="/Resources/mea/css/styles.css?6" type="text/css">
+	<link rel="stylesheet" href="/Resources/nadaclair.css?1" type="text/css">
+	<style>
+		.fa:hover {cursor: pointer;}
+		.cke_notification_warning .cke_notification_message a {color: white; text-decoration: underline;}
+	</style>
+			<link rel="stylesheet" href="/Resources/spellcheckplus/style.css" type="text/css">	
+		<link rel="shortcut icon" type="image/x-icon" href="/Resources/favicon.ico">
+	<meta name="description" content="SpellCheckPlus is a grammar checker that finds common spelling errors and grammatical mistakes in English.<br />Simply type (or paste) your text into the window below and hit the " check="" text"="" button."="">
+	<meta name="keywords" content="check, checker, correct, spell, spelling, grammar, English">
+<!--	<script src="https://use.fontawesome.com/379f14eb7d.js"></script>-->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Resources/prototype.js"></script>
+		<script type="text/javascript" src="/Resources/tiny_mce.3.5.8/tiny_mce.js">
+	</script>
+	<script type="text/javascript">
+		// these variables need to be declared before the editor is loaded
+		var noStyledEditor = false;
+		var defaultInterfaceLanguage = "en";
+		var defaultDocumentLanguage = "en";
+		var defaultBaseUrl = "/";
+		var defaultOrigTime = 1557290017;
+		var defaultResizableEditor = false;
+	</script>
+	<script type="text/javascript" src="/Resources/nadaclair.js?1">
+	</script>
+	<script type="text/javascript">
+	if ( navigator.userAgent.indexOf("Safari/4")==-1 && (typeof ( window.noStyledEditor ) == "undefined"  || !window.noStyledEditor)) {
+		var ua = navigator.userAgent;
+//		var isSafari = ua.indexOf('Safari') != -1 && ua.indexOf('Chrome') == -1;
+//		var isSafari4 = isSafari && ua.indexOf('Safari/4') != -1;
+//		var isOpera = ua.indexOf('Opera') != -1;
+//		isSafari = false;
+//		isSafari4 = false;
+//		isOpera = false;
+		tinyMCE.init({
+			mode : "specific_textareas",
+			editor_deselector : "questions",
+			theme : "advanced",
+			plugins : "print,nadaclairprint,nadaclairclean,searchreplace,nadaclaircopy,paste,nadaclaircheck,fullscreen",
+			theme_advanced_buttons1 : "nadaclaircheck,separator,nadaclaircopyplain," + 
+				"selectall,pastetext,pasteword,"+
+				"separator,nadaclairclean,separator," +
+				"search,replace," +
+				"charmap,separator," +
+				"print,nadaclairprinttext" + 
+				(window.defaultResizableEditor ? ",separator,fullscreen" : ""),
+//			theme_advanced_buttons1: "nadaclaircheck,separator,copytext,selectall,pastetext,pasteword,separator,nadaclairclean,separator,search,replace,charmap,separator,print,nadaclairprinttext",
+//			theme_advanced_buttons1: "nadaclaircheck,separator,nadaclaircopyplain,selectall,pastetext,pasteword,separator,nadaclairclean,separator,search,replace,charmap,separator,print,nadaclairprinttext,separator",
+			theme_advanced_buttons2 : "",
+			theme_advanced_buttons3 : "",
+			theme_advanced_toolbar_location : "top",
+			theme_advanced_toolbar_align : "left",
+			theme_advanced_statusbar_location : "bottom",
+			theme_advanced_resize_horizontal : false,
+			theme_advanced_resizing : window.defaultResizableEditor ? window.defaultResizableEditor : false,
+			paste_text_use_dialog: true,
+			editor_selector : "nadaclair",
+			paste_use_dialog : false,
+			language : iLang,
+			cleanup_on_startup : true,
+			cleanup : true,
+			content_css : baseUrl + "Resources/nadaclair.css,Resources/spellcheckplus/style.css",
+			entity_encoding : "raw",
+			valid_elements : "h1,h2,h3,h4,h5,h6,p,br,span[class|title|onmouseover|onclick|hpTip],div[style],img[src|width|height|alt],hr,i",
+			event_elements : "span",
+			onchange_callback : "myCustomOnChangeHandler",
+			setupcontent_callback : "myOnSetupContent",
+//			init_instance_callback : "myCustomInitInstance",
+//			setup: "myCustomInitInstance"
+			setup: myCustomSetup
+			//auto_focus : "typedText"
+			
+			
+//			oninit: myCustomInitInstance
+		});
+			
+	}
+	
+	function customInitEditorInstance(inst) {
+		//alert(true)
+		// possibly hide resize for non pro
+	}
+
+	var bookmarkWin = "Unable to bookmark this page automatically; try pressing Ctrl-D";
+	var bookmarkMac = "Unable to bookmark this page automatically; try pressing: Command-D";
+	function addBookmark() {
+		var title= "[undefined]";
+		if (window.external && (!document.createTextNode ||
+	      (typeof(window.external.AddFavorite)=='unknown'))) {window.external.addFavorite(baseUrl,title);}
+		else {
+			// we could add as a side panel in firefox or opera, but we don't want a side panel
+			alert(navigator.userAgent.toLowerCase().indexOf('mac')==-1 ? bookmarkWin : bookmarkMac);
+		}
+	}
+	function initPage() {
+		if (top.location != location) {
+			top.location.href = document.location.href ;
+		}
+		window.document.onmouseover = hpTips_onMouseOver;
+		window.document.onmouseout = hpTips_onMouseOut;
+//		window.document.onclick = hpTips_onMouseOver; // register for browsers that can't handle onmouseover
+		window.document.onkeydown = myOnKeyDown;
+		if (document.content && document.content.typedText.value==getTypeHere()) {document.content.typedText.select();}
+//		tinyMCE.execCommand('mceFocus',false,getEditorId()); 	
+	}
+	</script>
+		<script>
+	
+	function insertMultiEditorChar(char) {
+		if (window.tinyMCE) {insertChar(char);} // use old code
+		if (window.CKEDITOR && CKEDITOR.instances.typedText) {
+			CKEDITOR.instances.typedText.insertText(char);
+		}
+	}
+	
+	// show exercises and explanations for free
+	var showExplanationsShow = "show";
+	var showExplanationsHide = "hide";
+	function showExplanations() {
+		exp = document.getElementById("show-explanations-toggle");
+		var expItemsDisplay = ""
+		var expLabel = showExplanationsHide;
+		if (exp.innerHTML==showExplanationsHide) {
+			expItemsDisplay = "none";
+			expLabel = showExplanationsShow;
+		}
+		exp.innerHTML = expLabel;
+		expItems = document.getElementsByTagName("li");
+		var expItem = null;
+		for (var i=0;i<expItems.length;i++) {
+			var summaryTip = null;
+			var summaryExplanation = null;
+			expItem = expItems[i];
+			for (var j=0; j<expItem.childNodes.length;j++) {
+				var expItemChild = expItem.childNodes[j];
+				var itemClass = expItemChild.className;
+				if (!itemClass) {continue;}
+				if (itemClass.indexOf("summary-item-label")>-1) {
+					if (expItemChild.title && expItemChild.title.length>0) {summaryTip=expItemChild.title;}
+					else if (expItemChild.hpTip && expItemChild.hpTip.length>0) {summaryTip=expItemChild.hpTip;}
+				}
+				else if (itemClass=="summary-item-explanation" && summaryTip) {
+					expItemChild.innerHTML = summaryTip;
+					expItemChild.style.display = expItemsDisplay;
+				}
+			}
+		}
+	}
+	var previousExerciseEl = null;
+	function loadExercises(ruleId, elIndex) {
+		var el = document.getElementById("summary-"+elIndex)
+		var myAjax = new Ajax.Request( 
+			baseUrl,
+			{ 
+				method : "post",
+				parameters : {exercises: ruleId},
+				onComplete: function(responseObject) {
+					if (previousExerciseEl) { // get rid of any other exercises
+						previousExerciseEl.parentNode.removeChild(previousExerciseEl);
+					}
+					previousExerciseEl = document.createElement('div');
+					previousExerciseEl.className="exercise";
+					previousExerciseEl.innerHTML=getExercisesFromString(responseObject.responseText);
+					el.parentNode.parentNode.insertBefore(previousExerciseEl, el.parentNode.parentNode.firstChild);
+				},
+				onFailure: function() {alert("Unable to load grammar exercise.")}
+			});
+	}
+	
+	function loadExercisesId(ruleId, elIndex) {
+		var el = document.getElementById("summary-"+elIndex)
+		var myAjax = new Ajax.Request( 
+			baseUrl,
+			{ 
+				method : "post",
+				parameters : {exercises_id: ruleId},
+				onComplete: function(responseObject) {
+					if (previousExerciseEl) { // get rid of any other exercises
+						previousExerciseEl.parentNode.removeChild(previousExerciseEl);
+					}
+					previousExerciseEl = document.createElement('div');
+					previousExerciseEl.className="exercise";
+					previousExerciseEl.innerHTML=getExercisesFromString(responseObject.responseText);
+					el.parentNode.parentNode.insertBefore(previousExerciseEl, el.parentNode.parentNode.firstChild);
+				},
+				onFailure: function() {alert("Unable to load grammar exercise.")}
+			});
+	}
+
+	
+	var sendingMessage = false;
+	function sendQuestion() {
+		var q = document.getElementById('questionsForm');
+		var qv = q.question.value;
+		if (!qv) {return false;}
+		var ev = q.email.value;
+		if (!ev) {
+			if (!confirm("Your name and email are optional, but necessary if you wish to get a response. Are you sure you wish to continue?")) {return false;}
+		}
+		sendingMessage = true;
+		document.getElementById('questionsButton').disabled=sendingMessage;
+		var myAjax = new Ajax.Request( 
+			baseUrl,
+			{ 
+				method : "post",
+				parameters : {question: qv, email: ev},
+				onComplete: function(responseObject) {
+					alert("Your message has be sent - thank you.");
+					q.question.value='';
+					sendingMessage = false;
+					document.getElementById('questionsButton').disabled=sendingMessage;
+				},
+				onFailure: function() {
+					alert("Sorry, an error occurred while trying to send your message.")
+					sendingMessage = false;
+					document.getElementById('questionsButton').disabled=sendingMessage;
+				}
+			});
+		return false;
+		
+	}
+	
+	var toolElement;
+	var lastToolSearch;
+	function doLangTool(e, fromElement) {
+		toolElement = fromElement;
+		e = e ? e : window.event;
+		var code = e.keyCode ? e.keyCode : e.which;
+		if (code) {
+			if (code==13) {return false;}
+		}
+		setTimeout("_doLangTool()",10);
+		return true;
+	}
+	
+	var lastLangToolTime = 0;
+	function _doLangTool(fromElement) {
+		var search = toolElement.value;
+		if (search.length<2) {
+			document.getElementById("langtoolresults").innerHTML = "";
+			return true;
+		}
+		if (search==lastToolSearch) {return;}
+		lastToolSearch = search;
+		lastLangToolTime = new Date().getTime();
+		var myAjax = new Ajax.Request( 
+			baseUrl+"langtool",
+			{ 
+				method : "post",
+				parameters : {
+					"lang" : toolElement.form.langToolLang.value, 
+					"langTool" : toolElement.form.langToolSelect ? toolElement.form.langToolSelect[toolElement.form.langToolSelect.selectedIndex].value : toolElement.form.langTool.value,
+					"search" : search,
+					"time" : lastLangToolTime
+				},
+				onComplete: showLangToolResults,
+				onFailure: showLangToolFailure
+			});
+		return true;
+		
+	}
+	function showLangToolResults(originalRequest) {
+		var lookForTime = originalRequest.responseText.match(/results-(\d+)/);
+		if (lookForTime && lookForTime[1]<lastLangToolTime) {return;}
+		document.getElementById("langtoolresults").innerHTML=originalRequest.responseText;
+	}
+	function showLangToolFailure() {
+	} 
+	</script>
+	<script type="text/javascript" src="/Resources/exercises.js"></script>	
+	<script type="text/javascript" src="/Resources/jquery/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript">
+		jQuery.noConflict();
+		jQuery(document).ready(function() {
+			initPage();
+			jQuery(".ctrl-icon").mouseenter(function(ev) {
+				var parts = this.id.split('-')
+				if (parts.length==2) {
+					var container = jQuery('#'+parts[0]+'-container');
+					if (container.is(":hidden")) {
+						jQuery(".top-ctrl-container:visible").hide(); // make sure others are hidden
+						jQuery('#'+parts[0]+'-container').css({right: 'auto'}).show().css({left: ev.clientX-container.outerWidth()});
+					}
+				}
+			});
+			jQuery(".top-ctrl-container").mouseleave(function(ev) {
+				if (jQuery(this).has(ev.target).length) {return;}
+				var parts = this.id.split('-')
+				if (parts.length==2) {
+					var container = jQuery('#'+parts[0]+'-container');
+					jQuery('#'+parts[0]+'-container').hide();
+				}
+			});
+			
+			// allow password to be submit
+			jQuery(".profile_login_password").keypress(function(e) {
+	            // Enter pressed?
+				var c = e.which ? e.which : e.keyCode;
+	            if(c == 13) {
+	                this.form.submit();
+	            }
+			})
+		})	
+	</script>
+	<script>
+		var hasAds = true; hasAdsChecked = false;
+		function noAdsApparently() {
+			if (hasAdsChecked) {return;}
+			hasAds = false;
+			var el = document.getElementById("topbanner");
+			if (el) {
+				jQuery(el).prepend("<div>You seem to be using an ad blocker. This free site is supported by ads, if you find it useful, please consider:<ul><li>allowing ads for this site</li><li><a href='https://pro.spellcheckplus.com/'>trying the Pro version</a> (no ads)</li><li><a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NFQCG27EML2JL'>making a donation</a></li></ul></div>");
+			} else {
+				jQuery(function() {noAdsApparently();})
+			}
+			hasAdsChecked = true;
+		}
+	</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="noAdsApparently();"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4084254879335516",
+    enable_page_level_ads: true  });
+</script>
+</head>
+
+<body class="spellcheckplus privacy free" style="">
+	<div id="main">
+		<div id="top">
+			<table width="100%">
+					<tbody><tr>
+						<td>
+							<table cellpadding="0" cellspacing="0" style="border-spacing: 0px;" class="logo"><tbody><tr><td><a href="/"><img src="/Resources//mea/images/icone_rvb_web3.png" border="0" alt="SpellCheckPlus"></a></td><td><div><a href="/"><span class="logo-domain">SpellCheckPlus</span><span class="logo-tld">.com</span></a></div> <div class="logo-tagline">grammar and spelling checker</div></td></tr></tbody></table>						</td>
+												<td align="right">
+							<table><tbody><tr><td align="center" id="addthis">
+																<div class="share42init"><span id="share42"><a rel="nofollow" style="display:inline-block;vertical-align:bottom;width:16px;height:16px;margin:0 6px 6px 0;padding:0;outline:none;background:url(https://web.archive.org/Resources//share42/icons.png) -0px 0 no-repeat" href="#" data-count="fb" onclick="window.open('//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190508042638id_%2Fhttps%3A%2F%2Fspellcheckplus.com%2Fprivacy%2F', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=550, height=440, toolbar=0, status=0');return false" title=" Facebook" target="_blank"></a><a rel="nofollow" style="display:inline-block;vertical-align:bottom;width:16px;height:16px;margin:0 6px 6px 0;padding:0;outline:none;background:url(https://web.archive.org/Resources//share42/icons.png) -16px 0 no-repeat" href="#" data-count="pin" onclick="window.open('//pinterest.com/pin/create/button/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190508042638id_%2Fhttps%3A%2F%2Fspellcheckplus.com%2Fprivacy%2F&amp;media=null&amp;description=%22SpellCheckPlus%22%20Online%20Spelling%20and%20Grammar%20Checker%20for%20English%20as%20a%20Second%20Language', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=600, height=300, toolbar=0, status=0');return false" title="Pin It" target="_blank"></a><a rel="nofollow" style="display:inline-block;vertical-align:bottom;width:16px;height:16px;margin:0 6px 6px 0;padding:0;outline:none;background:url(https://web.archive.org/Resources//share42/icons.png) -32px 0 no-repeat" href="#" onclick="window.open('//www.tumblr.com/share?v=3&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190508042638id_%2Fhttps%3A%2F%2Fspellcheckplus.com%2Fprivacy%2F&amp;t=%22SpellCheckPlus%22%20Online%20Spelling%20and%20Grammar%20Checker%20for%20English%20as%20a%20Second%20Language&amp;s=SpellCheckPlus%20is%20a%20grammar%20checker%20that%20finds%20common%20spelling%20errors%20and%20grammatical%20mistakes%20in%20English.%3Cbr%20%2F%3ESimply%20type%20(or%20paste)%20your%20text%20into%20the%20window%20below%20and%20hit%20the%20', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=450, height=440, toolbar=0, status=0');return false" title=" Tumblr" target="_blank"></a><a rel="nofollow" style="display:inline-block;vertical-align:bottom;width:16px;height:16px;margin:0 6px 6px 0;padding:0;outline:none;background:url(https://web.archive.org/Resources//share42/icons.png) -48px 0 no-repeat" href="#" data-count="twi" onclick="window.open('//twitter.com/intent/tweet?text=%22SpellCheckPlus%22%20Online%20Spelling%20and%20Grammar%20Checker%20for%20English%20as%20a%20Second%20Language&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190508042638id_%2Fhttps%3A%2F%2Fspellcheckplus.com%2Fprivacy%2F', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=550, height=440, toolbar=0, status=0');return false" title=" Twitter" target="_blank"></a></span></div>
+								<script type="text/javascript" src="/Resources//share42/share42.js"></script>
+
+								
+							</td><td width="20">&nbsp;</td><td align="center">
+																	<div style="margin-bottom: 5px;"><a href="https://pro.spellcheckplus.com/"><img src="/Resources//mea/images/icons/user_64.png" class="ctrl-icon" id="profile-icon"></a>
+																<a href="/Faq/"><img src="/Resources//mea/images/icons/help-icon.png" class="icon ctrl-icon" id="help-icon"></a></div>
+								<div id="help-container" class="ctrl-container top-ctrl-container" style="display: none">
+									<ul>
+										<li><a href="/Faq/" class="button">FAQ</a></li>
+										<li><a href="mailto:mail@spellcheckplus.com" class="button">Contact Us</a></li>
+									</ul>
+								</div>
+								<div id="profile-container" class="ctrl-container top-ctrl-container" style="display: none;">
+																													<form action="https://pro.spellcheckplus.com/" method="post" style="margin: 0;" name="profile_login_top">
+											<input type="hidden" name="userlogin" value="login">
+											<table cellpadding="0" cellspacing="0" style="padding: 3px; background-color: #eee;">
+												<tbody><tr>
+													<td align="right" style="white-space: nowrap;">email:&nbsp;</td>
+													<td><input type="text" name="email" size="25" value="" style="font-size: 7pt: width: 15em;"></td>
+												</tr>
+												<tr>
+													<td align="right" style="white-space: nowrap;">password:&nbsp;</td>
+													<td><input class="profile_login_password" type="password" name="password" size="25" style="font-size: 7pt: width: 15em;"></td>
+												</tr>
+												<tr>
+													<td align="center" colspan="2" style="white-space: nowrap;">
+														<ul><li><a class="button" href="#" onclick="document.profile_login_top.submit(); return false;">login</a></li></ul>
+														<div style="font-size: smaller;">
+																															<div>
+																	<input type="checkbox" name="rememberMe" checked="checked"> remember me<span class="pseudospace">&nbsp;</span><span title="Check this option if you don't wish to login every time you use the site. This option is only recommended for personal computers (not shared computers like in a classroom)." class="hpTipLink">?</span>																</div>
+																															<ul>
+																<li><a href="https://pro.spellcheckplus.com/Password/">forgot your password?</a></li>
+															</ul>
+														</div>
+														<hr>
+														<ul>
+															<li><a href="https://pro.spellcheckplus.com/Create/" class="button">create new account</a></li>
+														</ul>
+													</td>
+												</tr>
+											</tbody></table>
+										</form>
+								
+								</div>
+							</td></tr></tbody></table>
+							
+							
+						</td>
+											</tr>
+			</tbody></table>
+		</div>
+		
+		<div id="content">
+		<table width="100%" cellpadding="8" cellspacing="0">
+						<tbody><tr>		
+				<td id="editor" valign="top">
+																						<h1>Nadaclair Language Technologies Privacy Notice</h1>
+<h2>Who is collecting the data?</h2>
+<p>The data is collected by Nadaclair Language Technologies Inc. through the following websites: BonPatron.com, SpellCheckPlus.com, SpanishChecker.com and ItalianChecker.com (and associated subdomains such as pro.BonPatron.com).</p>
+<h2>What data is being collected?</h2>
+<p>By default we store all texts submitted, though subscribers have the option of disabling this feature and deleting their stored texts. User accounts (for subscribers) have the information from their profile, such as email address and email options, as well as account creation and expiry dates. For all users standard web log information is stored (time, request, IP address) for the purposes of monitoring server performance and use. Cookies are used to store the username (email address) and preferences (such as language proficiency). We also use&nbsp;<a href="https://privacy.google.com/">Google Analytics</a>&nbsp;to better understand how the sites are being used and&nbsp;<a href="http://www.addthis.com/privacy">AddThis</a>&nbsp;to help promote our resources on social media. We do not store any financial information on our servers from subscribers.</p>
+<h2>What is the legal basis for processing the data?</h2>
+<p>Users willingly submit texts. These texts may be used to improve error identification.</p>
+<h2>Will the data be shared with any third parties?</h2>
+<p>None of the data collected will be shared with any third party.</p>
+<h2>How will the information be used?</h2>
+<p>Our use of information could take two forms: a) we may use texts submitted to test our ability to identify grammatical errors; b) we may use contact information to make users aware of developments.</p>
+<h2>How long will the data be stored for?</h2>
+<p>The texts submitted may be stored indefinitely (though subscribers have the option of deleting their texts and their accounts). For the free sites, texts are submitted anonymously and we have no way of identifying individual users or their texts.</p>
+<h2>What rights does the data subject have?</h2>
+<p>The data subject has the right to anonymity and to the privacy of their contact information.</p>
+<h2>How can the data subject raise a complaint?</h2>
+<p>The data subject can raise a complaint with us directly at mail@nadaclair.com</p><div align="center"><table cellpadding="0" cellspacing="0" style="border-spacing: 0px;" class="logo"><tbody><tr><td><a href="/"><img src="/Resources//mea/images/icone_rvb_web3.png" border="0" alt="SpellCheckPlus"></a></td><td><div><a href="/"><span class="logo-domain">SpellCheckPlus</span><span class="logo-tld">.com</span></a></div> <div class="logo-tagline">grammar and spelling checker</div></td></tr></tbody></table></div>
+										</td>
+			</tr>
+					</tbody></table>
+	</div>
+	</div>
+			<div id="belowmain">
+		<!---->
+	    <table class="bottominfo" cellpadding="4" cellspacing="0">
+	        <tbody><tr>
+	            <td class="copyright">
+					© Nadaclair Language Technologies Inc., 2001-2019: <span style="white-space: nowrap;">Terry&nbsp;Nadasdi&nbsp;&amp;&nbsp;Stéfan&nbsp;Sinclair</span>
+				</td>
+				<td><a href="/privacy/">Privacy</a></td>
+	            <td class="links">
+					<table>
+						<tbody><tr>
+							<td style="text-align: left;"><a href="http://bonpatron.com">BonPatron</a> (Français)<br><a href="http://spanishchecker.com">SpanishChecker</a> (Español)							</td>
+						</tr>
+					</tbody></table>
+				</td>
+											            <td align="center" nowrap="nowrap" style="white-space: nowrap;">
+									<ul id="langselect" class="tabmenu">
+																			</ul>
+					            </td>
+												<!---->
+				
+	        </tr>
+	    </tbody></table>
+    </div>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-161344-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+		
+
+</body></html>
