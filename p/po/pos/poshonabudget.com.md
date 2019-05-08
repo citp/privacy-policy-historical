@@ -1,40 +1,58 @@
-> *The following text is extracted and transformed from the poshonabudget.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081941id_/http%3A//poshonabudget.com/privacy-policy-ftc-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poshonabudget.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508105654id_/https%3A//thesugarfreediva.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy/ FTC Disclosure
+# Privacy - THE SUGAR FREE DIVA
 
-### Your privacy  
+**I hate when my personal information is given out.**  
+That is why I will never give yours out.  
+As a matter of fact, the only time that I, on behalf this site, will gather your information is when you sign up for my cool newsletter or leave me a cool comment.
+
+However, I do use have advertising on this site. And, Google Analytics is checking out who is visiting me.  
+These folks may be gathering information, as they do on other sites.
+
+## What information is collected here?
+
+  * If you decide to leave a comment, you are asked to leave an email address. This is mostly to make sure that your comment is not a spam comment and that you are a real person. There is an option (see check box) in the comment section for you to choose to or not to save your name and information for your next visit to the Sugar Free Diva.
+  * Google Analytics lets me know a general description of folks who have visited my site. This is to let me know what content is popular so that I can bring you more like it in the future.
+  * When you sign up for my cool newsletter I need an email address to send it to. If you look at the newsletter then you will clearly see a way for you to control your information. Also, I only use your email address to send the newsletter and will never lend it or sell it to anyone.
+  * There may also be third party cookies and other information which I have no control over. I do want to let you know that Amazon and Mediavine advertising help me pay for this site. They may be tracking information for their purposes. Also, I use third party wordpress plug-ins to make this site even better. Plug-ins such as the one used here for you to share content across social media, say that they are compliant for GDPR.
+  * Sponsored content, although rare on this site, may also come with information concerning data collection and use. You will see more information about this on the sponsored content post itself.
+  * There are security measures on this site that prevent harm to this site and to the information that visitors may be interested in. Sometimes they will monitor the security according to ip addresses.
 
 
-Poshonabudget.com/myposhmedia uses Google Analytics and Advertising to collect visitor data and analyze traffic on this site. This information helps us understand visitor interests and helps us improve our website. 
 
-When you visit our site, the pages that you look at, and a short text file called a cookie, are downloaded to your computer. A cookie is used to store small amounts of information. This information is collected for traffic analysis only. The cookie does not contain personal details. The cookies used on this site are for Clickstream/ navigation information only.The information being collected does not contain personally identifiable information and are used to identify patterns. 
+[](https://thesugarfreediva.com/qtq80-oklgkn/)
 
-Depending on the browser that you use, you can set your preferences to block/ refuse cookies, and/ or notify you before they are placed. This site does not sell, give, or trade the statistics to any 3rd parties for data-mining or marketing purposes. Please visit http://www.google.com/policies/privacy/ for their privacy policy.
+### Further Reading
 
-Tracking cookies are good as they let us know where you came from, what pages you visited, and how long you stayed. Your name and personal information is never part of this information. This information is beneficial, as it is used to improve this site and it’s content. For example, if enough people seem to be interested in recipes or fashion, more posts will be made to help you enjoy these topics even more. 
+  * [Google Privacy Policy.](https://www.google.com/policies/privacy/)
+  * [WordPress Commenting Privacy Information ](https://automattic.com/privacy/)
+  * [Mediavine Advertising Privacy Policies/Option Information.](https://www.mediavine.com/gdpr/)
+  * [Chrome Opt In ](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Mozilla Opt In](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Safari Opt In ](https://support.apple.com/kb/PH21411)
+  * [Learn More about opting out of network advertising](http://www.networkadvertising.org/)
 
-Cookies collect information about your surfing habits only on the site of the provider of the cookie. Please visit your browser’s policy on how to block cookies if you would like to not take part in the tracking on this site. Experts say that these cookies are not harmful and cannot introduce viruses or extract personal contact information.
 
-Advertisers on this site may also be using cookies.  
-This site has no access to these cookies and no information on the specifics. Please consult the advertiser for more information on this. 
 
-This site sells nothing from this site specifically. No personal information related to sales is needed or used. If you have subscribed to the newsletter or social media of this site, the information that you have provided is never shared for monetary purposes. We value our readers privacy.
+### [Read about my disclosure policy](https://thesugarfreediva.com/about/disclosure/)
 
-### Disclosure Policy
+The Legal Stuff  
+[Privacy Policy](https://www.iubenda.com/privacy-policy/26217888 "Privacy Policy")
 
-  
-This policy is valid from 23 February 2013
+* * *
 
-**As per the FTC guidelines for blogs,  
-**  
-This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+Advertising Privacy Statement
 
-This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies. 
 
-The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-This blog does not contain any content which might present a conflict of interest.
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. 
 
-[](https://www.pinterest.com/pin/create/button/)
+For European Economic Area Residents
 
-r
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at thesugarfreediva@gmail.com and contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
+
+* * *
+
+This privacy policy is as of October 19, 2018. However, the owner of this site does reserve the right to update this policy as needed in the future.
