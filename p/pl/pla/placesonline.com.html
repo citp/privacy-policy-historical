@@ -1,346 +1,895 @@
-<!--The following is the downloaded HTML source of the placesonline.com privacy policy that was archived on 2016-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224235702id_/http%3A//www.paesionline.info/copyright.asp%3Fdomain%3D.com) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the placesonline.com privacy policy that was archived on 2019-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190508042603id_/https%3A//www.placesonline.com/info/copyright) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" style="display: block;"><head>
-<title>Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-<link rel="image_src" href="http://www.paesionline.info/engine/images/logo_en.png">
-
-<link href="http://www.paesionline.info/engine/css/main.min.css?v=5.7" rel="stylesheet" type="text/css" media="screen">
-
-<script src="//cdn.iubenda.com/iubenda.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-
-<script type="text/javascript" src="http://www.paesionline.info/engine/js/functions.min.js?v=0.2"></script>
-
-<!--
-	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
--->
-<meta property="og:image" content="http://www.paesionline.info/engine/images/logo_en.png">
-    <meta property="og:locale" content="en_US">
-    
-	<script language="javascript" type="text/javascript">
-	/* CARICAMENTO DOM ELEMENTI DINAMICI SOCIAL */
-		$(document).ajaxComplete(function(){
-			try{
-				FB.XFBML.parse();
-				twttr.widgets.load();
-				gapi.plusone.go();
-			}catch(ex){}
-		});
-		
-		$(document).ready(function(){				
-		/* DLG SIGNUP */
-		
-		$('.dlg_userregistrationlogin_open').click(function(){$("body").append("<div id=\"dlg_userregistrationlogin\" title=\"User\'s Registration\"></div>");$("#dlg_userregistrationlogin").dialog({bgiframe:true,autoOpen:false,width:800,height:450,modal:true,draggable:false,resizable:false,position:'center',close:function(){$("#dlg_userregistrationlogin").remove()}});$("#dlg_userregistrationlogin").load("http://www.placesonline.com/frm_userregistrationlogin.asp?entity=userregistrationlogin").dialog('open');return false});
-
-		/* ADD FRIENDS */
-		$('.addtofriends').click(function(){var id_user=$(this).attr("title");$("body").append("<div id=\"dlg_addtofriends\" title=\"Friendship request\"></div>");$("#dlg_addtofriends").dialog({bgiframe:true,autoOpen:false,width:500,height:350,modal:true,draggable:false,resizable:false,close:function(){$("#dlg_addtofriends").remove()}});url="http://www.placesonline.com/frm_addtofriends_add.asp?id_user="+id_user;$("#dlg_addtofriends").load(url).dialog('open');return false});
-		/* DLG LOGIN */
-		$('.dlg_userloginregistration_open').click(function(){$("body").append("<div id=\"dlg_userloginregistration\" title=\"User\'s Registration\"></div>");$("#dlg_userloginregistration").dialog({bgiframe:true,autoOpen:false,width:800,height:450,modal:true,draggable:false,resizable:false,position:'center',close:function(){$("#dlg_userloginregistration").remove()}});$("#dlg_userloginregistration").load("http://www.placesonline.com/frm_userloginregistration.asp?entity=userloginregistration").dialog('open');return false});
-		
-		/*TROFEI*/
-		$('.game_avatar_trophies').click(function(){var url; url = "http://www.placesonline.com/engine/includes/ajax/game_ajax_trofei_utente.asp?action=trofei_utente&idu=" + $(this).attr("data-uid"); $("body").append("<div id=\"dlg_modal_trophies\" ></div>");$("#dlg_modal_trophies").dialog({bgiframe:true,autoOpen:false,width:800,height:450,modal:true,draggable:false,resizable:false,position:'center',close:function(){$("#dlg_modal_trophies").remove()}});$("#dlg_modal_trophies").load(url).dialog('open');return false});
-
-
-		/* EMAIL SHARING */
-		$('.sharebymail').click(function(){$("body").append("<div id=\"dlg_share_sendtofriend\" title=\"Recommend per email\"></div>");$("#dlg_share_sendtofriend").dialog({bgiframe:true,autoOpen:false,width:500,height:500,modal:true,draggable:false,resizable:false,close:function(){$("#dlg_share_sendtofriend").remove()}});$("#dlg_share_sendtofriend").load("http://www.placesonline.com/frm_share_sendtofriend.asp?url=http://www.placesonline.com/copyright.asp?domain=.com").dialog('open');return false});
-		/* SEND MESSAGE*/
-		$('.sendmessageuser').click(function(){$("body").append("<div id=\"sendmessagewriter_dialog\" title=\"Send private message\"></div>");$("#sendmessagewriter_dialog").dialog({bgiframe:true,autoOpen:false,width:400,height:525,modal:true,draggable:false,resizable:false,close:function(){$("#sendmessagewriter_dialog").remove()}});var id_user_to=$(this).attr("title");var url="http://www.placesonline.com/frm_sendmessagewriter_add.asp?id_user_to="+id_user_to;$("#sendmessagewriter_dialog").load(url).dialog('open')});
-		/* BECOME FAN */
-		$(".becomefan").click(function(){$.ajax({type:"GET",async:false,url:"http://www.placesonline.com/global_ajax.inc.asp",data:"action=becomefan&id_user="+$(this).attr("title"),success:function(html){$("#div_becomefan").html(html)}})});
-
-		$.validator.addMethod("customDate",function(value, element) {
-				return value.match(/^\d{1,2}\/\d{1,2}\/\d{4}$/);
-		},"Please enter a date in the right format");
-		$.datepicker.setDefaults($.datepicker.regional['en']);
-
-		
-	});
-	</script>
-    
+<!DOCTYPE html><html><head>
+	<!--gen-layout-->
+    <!-- Google Tag Manager -->
+<script src="//cdn.iubenda.com/iubenda.js"></script><script type="text/javascript" async="" src="//cdnvideo.notifyon.com/script/js/1113a4bbdfed97c3b74271795d8d333a.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=185451441483876"></script><script type="text/javascript" async="" src="//cdn.notifyon.com/script/js/11246e8f1c28f973fac4bf47e99b8754.js"></script><script async="" src="//www.google.com/adsense/search/async-ads.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MDG34D7"></script><script>
+(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-MDG34D7');
+</script>
+<!-- End Google Tag Manager -->
     
 
-<script language="javascript" type="text/javascript">
-	//GOOGLE ADMANAGER
-	//GOOGLE ADMANAGER
-	GS_googleAddAdSenseService("ca-pub-9500073444472668");
-	GS_googleEnableAllServices();
+	
+		
+    <script src="https://www.placesonline.com/Content/js/base/qazy.js?v=30"></script>
+    <script type="text/javascript">
+        window.urlPolSite = "https://www.placesonline.com/";
+    </script>
+
+		
+    <script type="text/javascript" charset="utf-8">
+    (function (G, o, O, g, L, e) {
+        G[g] = G[g] || function () {
+            (G[g]['q'] = G[g]['q'] || []).push(
+             arguments)
+        }, G[g]['t'] = 1 * new Date; L = o.createElement(O), e = o.getElementsByTagName(
+        O)[0]; L.async = 1; L.src = '//www.google.com/adsense/search/async-ads.js';
+        e.parentNode.insertBefore(L, e)
+    })(window, document, 'script', '_googCsa');
 </script>
 
+    <meta charset="utf-8">
+    
 
+
+<title>Privacy Policy</title>
+<meta name="description" content="">
+
+
+	
+	
+    
+<meta property="og:url" content="https://www.placesonline.com/info/copyright">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="">
+<meta property="fb:app_id" content="185451441483876">
+
+
+
+        <meta property="og:image" content="https://images.placesonline.com/redazionali/indici/hotel_skin.jpg">
+
+<script src="https://apis.google.com/js/platform.js" async="" defer="">
+    { lang: 'en' }
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	
+	
+    <link href="https://www.placesonline.com/Content/css/bootstrap.css?v=30" rel="stylesheet" type="text/css">
+    <link href="https://www.placesonline.com/Content/css/style.css?v=30" rel="stylesheet" type="text/css">
+
+    <script>
+        var require = { baseUrl: '/Content/js', urlArgs: 'v=30' };
+        
+    </script>
+    <script src="https://www.placesonline.com/Content/js/require.min.js?v=30" data-main="require_config" type="text/javascript"></script>
+
+    
+    
+    
+
+    
+
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/paesionline_favicon.png">
+    <link rel="apple-touch-icon" href="/Content/images/paesionline_webclip.png">
+    <meta name="google-site-verification" content="WX37qN7xaSEVP4jU-UgY3SGnHVQ5Cl3wYf3uSh5e4GI">
+    <link rel="manifest" href="/manifest.json">
+
+
+	<!-- https://www.placesonline.com/info/copyright -->
+
+	<!--charlie-->
+    
+	
 </head>
 <body>
-<!-- Correct fb_xd_fragment Bug Start -->
-<script>
-document.getElementsByTagName('html')[0].style.display='block';
+    <!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDG34D7"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <script>
+
+    (function (n, o, t, y) {
+        n._ppt = n._ppt || [];
+        n._ppt.push(['_currentTime', Date.now()]);
+        t = o.createElement('script');
+        t.type = 'text/javascript';
+        t.async = true;
+        t.src = '//cdn.notifyon.com/script/js/11246e8f1c28f973fac4bf47e99b8754.js';
+        y = o.getElementsByTagName('script')[0];
+        y.parentNode.insertBefore(t, y);
+    })(window, document);
+
+    window._ppt = window._ppt || [];
+    window._ppt.push(['NotifyOnReady', callbackOnNotifyOnReady]);
+
+    function callbackOnNotifyOnReady() {
+
+
+
+        setTimeout(function () { window._ppt.push(['subscriberToSegment', '', callbackAddSegment]); }, 4000);
+
+		/*
+        if (notifyOnLibrary.getSettings().isSubscribed) {
+
+            if (getCookie('notifyon_' + 'HotelsClick') == 1) {
+                console.log('hotelsClick ' + 'already sent');
+            } else {
+
+                var hotelsClick_title_template = 'PaesiOnLine.it ti consiglia i migliori hotels a [$destinazione]';
+                var hotelsClick_description_template = 'Se sei interessato a [$destinazione] confronta prezzi, recensioni e posizione sul sito HotelsClick.com, poi scegli l\'albergo che fa per te. Clicca qui!';
+                var hotelsClick = ['^.*paesionline.it\/.*-roma.*$', '^.*paesionline.it\/.*-milano.*$', '^.*paesionline.it\/.*-londra.*$', '^.*paesionline.it\/.*-gallipoli.*$', '^.*paesionline.it\/.*-lecce.*$', '^.*paesionline.it\/.*-mestre.*$', '^.*paesionline.it\/.*-venezia.*$', '^.*paesionline.it\/.*-palermo.*$', '^.*paesionline.it\/.*-firenze.*$', '^.*paesionline.it\/.*-budapest.*$', '^.*paesionline.it\/.*-santorini.*$'];
+                var hotelsClick_description = ['Roma', 'Milano', 'Londra', 'Gallipoli', 'Lecce', 'Mestre', 'Venezia', 'Palermo', 'Firenze', 'Budapest', 'Santorini'];
+                var hotelsClick_url = ['http://bit.ly/hotelsclick_roma', 'http://bit.ly/hotelsclick_milano', 'http://bit.ly/hotelsclick_londra', 'http://bit.ly/hotelsclick_gallipoli', 'http://bit.ly/hotelsclick_gallipoli', 'http://bit.ly/hotelsclick_mestre', 'http://bit.ly/hotelsclick_mestre', 'http://bit.ly/hotelsclick_palermo', 'http://bit.ly/hotelsclick_firenze', 'http://bit.ly/hotelsclick_budapest', 'http://bit.ly/hotelsclick_santorini'];
+                var hotelsClick_icon = '//cdn.notifyon.com/images/users/24/notification/1498555756-hotels_click.jpg';
+                var hotelsClick_bigImage = '';
+
+                if ('' == 'Puglia') {
+                    var json_retargeting = { 'title': hotelsClick_title_template.replace('[$destinazione]', hotelsClick_description[3]), 'description': hotelsClick_description_template.replace('[$destinazione]', hotelsClick_description[3]), 'url': hotelsClick_url[3], 'icon': hotelsClick_icon, 'bigImage': hotelsClick_bigImage, 'minutes': 30 };
+                    //console.log(json_retargeting);
+                    setTimeout(function () { window._ppt.push(['sendRetargetingNotification', 'HotelsClick', json_retargeting, callbackRatergetingResult]); }, 4000);
+                }
+                else if ('' == 'Lazio') {
+                    var json_retargeting = { 'title': hotelsClick_title_template.replace('[$destinazione]', hotelsClick_description[0]), 'description': hotelsClick_description_template.replace('[$destinazione]', hotelsClick_description[0]), 'url': hotelsClick_url[0], 'icon': hotelsClick_icon, 'bigImage': hotelsClick_bigImage, 'minutes': 30 };
+                    //console.log(json_retargeting);
+                    setTimeout(function () { window._ppt.push(['sendRetargetingNotification', 'HotelsClick', json_retargeting, callbackRatergetingResult]); }, 4000);
+                }
+                else if ('' == 'Lombardia') {
+                    var json_retargeting = { 'title': hotelsClick_title_template.replace('[$destinazione]', hotelsClick_description[1]), 'description': hotelsClick_description_template.replace('[$destinazione]', hotelsClick_description[1]), 'url': hotelsClick_url[1], 'icon': hotelsClick_icon, 'bigImage': hotelsClick_bigImage, 'minutes': 30 };
+                    //console.log(json_retargeting);
+                    setTimeout(function () { window._ppt.push(['sendRetargetingNotification', 'HotelsClick', json_retargeting, callbackRatergetingResult]); }, 4000);
+                }
+                else if ('' == 'Veneto') {
+                    var json_retargeting = { 'title': hotelsClick_title_template.replace('[$destinazione]', hotelsClick_description[5]), 'description': hotelsClick_description_template.replace('[$destinazione]', hotelsClick_description[5]), 'url': hotelsClick_url[5], 'icon': hotelsClick_icon, 'bigImage': hotelsClick_bigImage, 'minutes': 30 };
+                    //console.log(json_retargeting);
+                    setTimeout(function () { window._ppt.push(['sendRetargetingNotification', 'HotelsClick', json_retargeting, callbackRatergetingResult]); }, 4000);
+                }
+                else if ('' == 'Sicilia') {
+                    var json_retargeting = { 'title': hotelsClick_title_template.replace('[$destinazione]', hotelsClick_description[7]), 'description': hotelsClick_description_template.replace('[$destinazione]', hotelsClick_description[7]), 'url': hotelsClick_url[7], 'icon': hotelsClick_icon, 'bigImage': hotelsClick_bigImage, 'minutes': 30 };
+                    //console.log(json_retargeting);
+                    setTimeout(function () { window._ppt.push(['sendRetargetingNotification', 'HotelsClick', json_retargeting, callbackRatergetingResult]); }, 4000);
+                }
+                else if ('' == 'Toscana') {
+                    var json_retargeting = { 'title': hotelsClick_title_template.replace('[$destinazione]', hotelsClick_description[8]), 'description': hotelsClick_description_template.replace('[$destinazione]', hotelsClick_description[8]), 'url': hotelsClick_url[8], 'icon': hotelsClick_icon, 'bigImage': hotelsClick_bigImage, 'minutes': 30 };
+                    //console.log(json_retargeting);
+                    setTimeout(function () { window._ppt.push(['sendRetargetingNotification', 'HotelsClick', json_retargeting, callbackRatergetingResult]); }, 4000);
+                }
+                else if ('' == 'Ungheria') {
+                    var json_retargeting = { 'title': hotelsClick_title_template.replace('[$destinazione]', hotelsClick_description[9]), 'description': hotelsClick_description_template.replace('[$destinazione]', hotelsClick_description[9]), 'url': hotelsClick_url[9], 'icon': hotelsClick_icon, 'bigImage': hotelsClick_bigImage, 'minutes': 30 };
+                    //console.log(json_retargeting);
+                    setTimeout(function () { window._ppt.push(['sendRetargetingNotification', 'HotelsClick', json_retargeting, callbackRatergetingResult]); }, 4000);
+                }
+                else if ('' == 'Grecia') {
+                    var json_retargeting = { 'title': hotelsClick_title_template.replace('[$destinazione]', hotelsClick_description[10]), 'description': hotelsClick_description_template.replace('[$destinazione]', hotelsClick_description[10]), 'url': hotelsClick_url[10], 'icon': hotelsClick_icon, 'bigImage': hotelsClick_bigImage, 'minutes': 30 };
+                    //console.log(json_retargeting);
+                    setTimeout(function () { window._ppt.push(['sendRetargetingNotification', 'HotelsClick', json_retargeting, callbackRatergetingResult]); }, 4000);
+                }
+ 
+            }
+
+        }
+		
+		*/
+
+
+
+    }
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+
+    function callbackRatergetingResult(response) {
+        console.log(response);
+        json_res = JSON.parse(response);
+        if (json_res.message == 'OK') {
+            console.log('set cookie ' + json_res.retargeting_campaign);
+            createCookie('notifyon_' + json_res.retargeting_campaign, 1, 15);
+        }
+    }
+
+    function callbackAddSegment(response) {
+        console.log(response)
+    }
+
+    function callbackRemoveSegment(response) {
+        console.log(response)
+    }
+
+
+    function createCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+
+    function eraseCookie(name) {
+        createCookie(name, "", -1);
+    }
+
 </script>
-<!-- Correct fb_xd_fragment Bug End -->
-<div id="page_container">
-	<div id="info_page">
-	
-   <div id="info_header">
 
-            <div id="info_logo"><span class="pl6"><a href="http://www.paesionline.info/index.asp?domain=.com"><img src="http://www.paesionline.info/engine/images/logo_info.png" alt="Places On Line"></a></span></div>
-            <div id="info_flags"><ul class="language_flags"><li><a href="http://www.paesionline.info/index.asp?domain=.it"><img src="http://www.paesionline.info/engine/images/icons/flag_it.png" class="hover" alt="italiano" width="16" height="11"></a></li><li><a href="http://www.paesionline.info/index.asp?domain=.es"><img src="http://www.paesionline.info/engine/images/icons/flag_es.png" class="hover" alt="español" width="16" height="11"></a></li><li><a href="http://www.paesionline.info/index.asp?domain=.fr"><img src="http://www.paesionline.info/engine/images/icons/flag_fr.png" class="hover" alt="français" width="16" height="11"></a></li><li><img src="http://www.paesionline.info/engine/images/icons/flag_couk_hover.png" alt="english" width="16" height="11"></li><li><a href="http://www.paesionline.info/index.asp?domain=.de"><img src="http://www.paesionline.info/engine/images/icons/flag_de.png" class="hover" alt="deutsch" width="16" height="11"></a></li><li><a href="http://www.paesionline.info/index.asp?domain=.com.br"><img src="http://www.paesionline.info/engine/images/icons/flag_combr.png" class="hover" alt="português" width="16" height="11"></a></li></ul></div>
-            <div class="clearbt"></div>
-           
-		   
-		    <div id="info_breadcrumbs" style="position:relative; height:80px">
-            	<div class="floatleft">
-		            <p class="pl6" style="padding-top:20px"><a href="http://www.placesonline.com/">PlacesOnLine.com</a>
-
-                    &gt; <a href="http://www.paesionline.info/index.asp?domain=.com">Home .info  </a> &gt; Privacy Policy
-				</p>
-			 </div>
-                 <div class="floatright w250" style="padding-top:20px">
-					<p class="pr22 pl22 strong">Our numbers</p>
-                    <ul class="xsmall pl22 mt6">
-                        <li>30.000.000 users per year</li>
-                        <li>200.000 Accommodations</li>
-                        <li>15.000 reviewed destinations</li>
-                        <li>650.000 registered users</li>
-                        <li>Thousands videos</li>
-                        <li>40.000 Photos</li>
-                    </ul>
-                 </div>
-	            <div class="clearbt"></div>
-            </div>
-        </div>
-<!--
-        <div id="info_adv"></div>
--->
-
-        <div id="info_container">
-            <div id="info_content">
+    
+    
+    
+    <script type="text/javascript">require(['require_config'], function() { require(['common_info_commonInfoCookiesLaw'], function (common_info_commonInfoCookiesLaw) {new common_info_commonInfoCookiesLaw('CommonInfoCookiesLaw');}); });</script>
 
 
-<div>
-	<h1>Privacy Policy</h1>
 
-<br> 	
-<div style="text-align:center">
-<a href="//www.iubenda.com/privacy-policy/864354" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+<div id="cookies-policies-alert" class="alert alert-warning alert-dismissable text-center" style="position: fixed;top: 0;width: 100%;z-index: 999999;">
+    <a href="#" class="close" data-dismiss="alert" aria-label="close">×</a>
+    <div class="row"><strong>Notice</strong></div>
+    <div class="row">
+        This website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in the <a href="https://www.placesonline.com/info/copyright" target="_blank">cookie policy</a>.<br>
+If you want to know more or withdraw your consent to all or some of the cookies, please refer to the <a href="https://www.placesonline.com/info/copyright" target="_blank">cookie policy</a>.<br>
+By closing this banner, scrolling this page, clicking a link or continuing to browse otherwise, you agree to the use of cookies.
+    </div>
+    <div class="row">
+        <a href="#"> To accept </a> <a href="https://www.placesonline.com/info/copyright" target="_blank"> | Read more</a>
+    </div>
 </div>
-<br> 
-	
-<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>DATA  CONTROLLER</strong><br>
-By consulting the website <a href="http://www.placesonline.com/">www.placesonline.com</a> all data  concerning identified or identifiable persons may be processed.<br>
-The data Controller of the abovementioned treatment of personal data is  Paesionline S.r.l., with registered office in Rocca di Papa (RM), Via Francesco  D’Assisi 4, VAT No. 09172321003, e-mail info@paesionline.it<strong>.</strong><br>
-The data Manager is Luca Cotichini. The complete list of the  data Managers may be found at the premises of Paesionline S.r.l. and it may be  consulted upon written request sent by mail or e-mail to the abovementioned  addresses, indicating as object “Privacy – list of data Managers”.<br><br>
-<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TYPE OF DATA TREATED</strong><br><br>
-<strong>2.1.&nbsp;&nbsp; NAVIGATION DATA</strong><br>
-When operating, the computer systems and software procedures necessary  for the correct functioning of the Site collect some personal data which are  implicitly transmitted in the use of internet communication protocols.<br>
-This information is not collected in order to be associated with  identified users, but in virtue of its nature, it may lead to their  identification.<br>
-This category of data includes IP addresses or domain names of the  computers utilized by users who connect to the Site, the URI (<em>Uniform Resource Identifier</em>) addresses  of the resources requested, the time of the request, the method used to send a  request to the server, the size of the file obtained in reply, the numeric code  indicating the state of the reply given by the server (sent, error) and other  parameters relating to the user's operating system and data processing  environment.<br>
-These data shall only be used to obtain anonymous statistical  information concerning the use of the Site and to verify its correct  functioning. The data shall also be used&nbsp;  in case it should be deemed necessary to determine the liability for any  data processing offences detrimental to the Site.<br>
-The Site does not use <em>cookies</em> for the transmission of personal information, nor does it use the so-called  persistent <em>cookies</em>, that is systems  to trace users.<br>
-The so-called session <em>cookies</em> (which are not stored persistently on the user's computer and are deleted when  closing the browser) are used for the sole transmission of the session IDs  (made up by casual numbers generated by the server) necessary to enable a  secure and efficient exploration of the site.<br><br>
-<strong>2.2.&nbsp;&nbsp;&nbsp;&nbsp; DATA PROVIDED VOLUNTARILY  BY THE USER</strong><br>
-Apart from such data, the Controller shall process the information  provided by the user when registering on the Site, such as name and surname,  date of birth, street and e-mail address, and any further data related to  video, text and photo contents (all together referred to as “Contributions”) in  order to (i) send newsletters, (ii) send via e-mail advertising and promotional  information related to the Site, to the tourist sector as well as others, (iii)  carry out market research, (iv) elaborate all data provided by the registered  user and those collected owing to the user's navigation on the Site so as to  identify the relevant commercial profile and to use the results of such  elaboration for promotional and commercial purposes, as well as (v) publish the  Contributions in compliance with the limits and conditions, (vi) offering discounts therein foreseen.<br><br>
-<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NATURE OF THE DATA AND  CONSEQUENCES IN CASE OF REFUSAL TO REPLY</strong><br>
-In order to enable the Controller to publish the users' Contributions it  is necessary to consent the treatment of personal data. Therefore, in case of  refusal, the service shall not be supplied and relevant discounts shall not be  granted.<br>
-The user is free to provide his/her data for the remaining purposes of  the Site. However, the refusal of the abovementioned treatment shall entail the  impossibility of being informed about new marketing initiatives and of being  updated on any new services offered on the Site related to the tourist sector  and/or any further activities related to other sectors. <br><br>
-<strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODALITIES OF THE  TREATMENT</strong><br>
-All personal data are processed by means of manual computer systems and  are automatized for the length of time necessary to achieve the objective for  which they are collected.<br>
-The Controllers follow specific security measures in order to guarantee  the treatment of the data in compliance with the personal data protection law,  with a particular attention in preventing any data loss, any illicit or  uncorrect data use, or unauthorized access to data banks.<br><br>
-<strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THE INTERESTED PARTY'S  RIGHTS </strong><br>
-The person to whom the personal data refer has the right, in any moment,  to obtain confirmation of the existence or non-existence of any personal data  concerning him/her, and receive an intelligible communication of said data,  even if they have not been registered yet.<br><br>
-The interested party has the right to obtain information  concerning: </p>
+
+    
+    
+    
+
+<div id="fb-root"></div>
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=185451441483876';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+
+
+
+
+
+    
+    <script type="text/javascript">require(['require_config'], function() { require(['domReady!','utils'], function (domReady,utils) {utils.initializeDom();}); });</script>
+    <div id="wrapper">
+        
+<!-- Sidebar -->
+<div id="sidebar-wrapper">
+    <ul class="nav navbar-nav navbar-right" id="account-menu">
+            <li class="text-uppercase">
+                <a href="https://www.placesonline.com/community/signup-login" class="navitem-link-account"><span class="glyphicon poicon-user pol_anl_hd_singup"></span>Sign Up </a>
+            </li>
+            <li class="text-uppercase">
+                <a href="https://www.placesonline.com/community/signup-login" class="navitem-link-account"><span class="glyphicon poicon-sign-in" pol_anl_hd_signin=""></span> Sign In</a>
+            </li>
+    </ul>
+    <div class="padding-md bck-gray1 menu-item-title">
+        <a href="https://www.placesonline.com/" class="color-white"><strong>The whole website**</strong></a>
+    </div>
+    <ul class="nav navbar-nav navbar-left" id="top-menu">
+            <li class="dropdown">
+                    <a href="https://www.placesonline.com/travel-guides" class="navitem-link-menu"><strong>Destinations
+</strong></a>
+            </li>
+            <li class="dropdown">
+                    <a href="#" class="dropdown-toggle navitem-link-menu-toggle" data-toggle="dropdown"><strong>Hotels
+&nbsp;<b class="caret"></b></strong></a>
+                    <ul class="dropdown-menu">
+                                <li class="padding-sm  col-offset-left-25"><strong class="color-cyan">Accommodation</strong></li>
+                                <li role="separator" class="divider small"></li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/hotels" class="navitem-link-menu">Hotel
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/farm-houses" class="navitem-link-menu">Farm house
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/bed-and-breakfast" class="navitem-link-menu">Bed &amp; Breakfast
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/camping" class="navitem-link-menu">Camping
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/resorts-and-holiday-houses" class="navitem-link-menu">Vacation Rentals
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/youth-hostels" class="navitem-link-menu">Hostels
+</a>
+                                    </li>
+                    </ul>
+            </li>
+            <li class="dropdown">
+                    <a href="https://www.placesonline.com/flights" class="navitem-link-menu"><strong>Flights
+</strong></a>
+            </li>
+            <li class="dropdown">
+                    <a href="https://www.placesonline.com/travel-ideas" class="navitem-link-menu"><strong>Travel ideas
+</strong></a>
+            </li>
+            <li class="dropdown">
+                    <a href="#" class="dropdown-toggle navitem-link-menu-toggle" data-toggle="dropdown"><strong>Other
+&nbsp;<b class="caret"></b></strong></a>
+                    <ul class="dropdown-menu">
+                                <li class="padding-sm  col-offset-left-25"><strong class="color-cyan">Useful tools
+</strong></li>
+                                <li role="separator" class="divider small"></li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/weather" class="navitem-link-menu">Weather
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/photos" class="navitem-link-menu">Photos
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://video.placesonline.com" class="navitem-link-menu">Videos</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/community" class="navitem-link-menu">Community
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/travelogues" class="navitem-link-menu">Diaries and Articles
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/restaurants-pizza-and-pubs" class="navitem-link-menu">Restaurants
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/map" class="navitem-link-menu">Maps
+</a>
+                                    </li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/articles" class="navitem-link-menu">Blog
+</a>
+                                    </li>
+                                <li class="padding-sm  col-offset-left-25"><strong class="color-cyan">Getting around
+</strong></li>
+                                <li role="separator" class="divider small"></li>
+                                    <li class="col-offset-left-35">
+                                        <a href="https://www.placesonline.com/car-rental" class="navitem-link-menu">Car rental
+</a>
+                                    </li>
+                    </ul>
+            </li>
+    </ul>
+</div>
+
+
+
+    
+        
+<div class="container site-container"><div class="header-nav-container container">
+<nav class="navbar navbar-default page-content-container offcanvas navbar-top-menu" role="navigation" style="margin-bottom:0px;">
+    <div class="site-navbar-container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle glyphicon  poicon-navicon menu-toggle-btn" id="menu-toggle-btn" style="border-right:1px solid #e7e7e7 !important"></button>
+            <a class="navbar-brand navbar-brand-centered no-margin-padding" href="https://www.placesonline.com/" data-toggle="collapse" data-target="#nav-header-logo-collapse">
+                <img class="logo-navbar-brand" src="https://www.placesonline.com//Content/images/logo_com.png" alt="PaesiOnLine">
+            </a>
+            <button type="button" style="border-left:1px solid #e7e7e7 !important" class="navbar-toggle pull-right glyphicon poicon-search" data-toggle="collapse" data-target="#nav-header-search-collapse" id="search-toggle-btn"></button>
+        </div>
+        <div class="collapse navbar-collapse navbar-left  nav-header-search" id="nav-header-search-collapse">
+    <form class="navbar-form navbar-left" role="search">
+
+        <div class="input-group input-main-search-container">
+                
+
+
+<script type="text/javascript">require(['require_config'], function() { require(['filter_autocomplite'], function (filter_autocomplite) {new filter_autocomplite('AutocompliteBase','.input-search-container','false','input-search-container','False','False','False','True','True','','','','');}); });</script>
+
+<div class="input-search-container autocomplite-base-container">
+
+
+    
+    <input class="form-control input-validation-error autocomplite-base input-search" data-val-required="" data-name="top-search" id="top-search" name="top-search" placeholder="Search for a city or place of interest" type="text" value="" data-val="true" aria-required="true" aria-describedby="top-search-error" aria-invalid="true" autocomplete="off">
+
+    
+
+    
+        <input name="" type="hidden" value="" class="hd-autocomplite input-validation-error" data-val-required="" data-name="" id="" data-val="true" aria-required="true" aria-describedby="-error" aria-invalid="true">
+        <span class="field-validation-valid text-danger" data-valmsg-for="" data-valmsg-replace="true"></span>
+    <input name="" type="hidden" value="" class="hd-autocomplite-addinfo">
+</div>
+
+        </div>
+    </form>
+</div>
+        <div class="collapse no-margin-padding navbar-collapse" id="main-navbar-collapse">
+            <ul class="nav navbar-nav navbar-left text-uppercase" id="top-menu">
+                <li class="dropdown">
+                    <a href="https://www.placesonline.com/travel-guides" class="navitem-link-menu">Destinations
+</a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle navitem-link-menu-toggle" data-toggle="dropdown">Hotels
+&nbsp;<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                                <li class="padding-sm"><strong class="color-cyan">Accommodation</strong></li>
+                                <li role="separator" class="divider small"></li>
+										<li>
+											<a href="https://www.placesonline.com/hotels" class="navitem-link-menu">Hotel
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/farm-houses" class="navitem-link-menu">Farm house
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/bed-and-breakfast" class="navitem-link-menu">Bed &amp; Breakfast
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/camping" class="navitem-link-menu">Camping
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/resorts-and-holiday-houses" class="navitem-link-menu">Vacation Rentals
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/youth-hostels" class="navitem-link-menu">Hostels
+</a>
+										</li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="https://www.placesonline.com/flights" class="navitem-link-menu">Flights
+</a>
+                </li>
+                <li class="dropdown">
+                    <a href="https://www.placesonline.com/travel-ideas" class="navitem-link-menu">Travel ideas
+</a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle navitem-link-menu-toggle" data-toggle="dropdown">Other
+&nbsp;<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                                <li class="padding-sm"><strong class="color-cyan">Useful tools
+</strong></li>
+                                <li role="separator" class="divider small"></li>
+										<li>
+											<a href="https://www.placesonline.com/weather" class="navitem-link-menu">Weather
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/photos" class="navitem-link-menu">Photos
+</a>
+										</li>
+										<li>
+											<a href="https://video.placesonline.com" class="navitem-link-menu">Videos</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/community" class="navitem-link-menu">Community
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/travelogues" class="navitem-link-menu">Diaries and Articles
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/restaurants-pizza-and-pubs" class="navitem-link-menu">Restaurants
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/map" class="navitem-link-menu">Maps
+</a>
+										</li>
+										<li>
+											<a href="https://www.placesonline.com/articles" class="navitem-link-menu">Blog
+</a>
+										</li>
+                                <li class="padding-sm"><strong class="color-cyan">Getting around
+</strong></li>
+                                <li role="separator" class="divider small"></li>
+										<li>
+											<a href="https://www.placesonline.com/car-rental" class="navitem-link-menu">Car rental
+</a>
+										</li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" id="account-menu">
+                <li class="text-uppercase">
+                    <a href="https://www.placesonline.com/community/signup-login" class="navitem-link-account pol_anl_hd_singup"><span class="glyphicon poicon-user"></span>Sign Up </a>
+                </li>
+                <li class="text-uppercase">
+                    <a href="https://www.placesonline.com/community/signup-login" class="navitem-link-account pol_anl_hd_signin"><span class="glyphicon poicon-sign-in"></span> Sign In</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+    <div class="componentElapsedTot">HeaderMain-GetPartialViewNoCache = 0</div></div>
+    <header class="clearfix site-page-breadcrumbs">
+        <div class="page-content-container bck-gray2 hidden-xs visible-md visible-lg">
+            <nav class="navbar navbar-default navbar-breadcrumbs hidden-xs visible-md visible-lg" role="navigation">
+                <div class="clearfix">
+                    
+                    <ol class="breadcrumb">
+                            <li>Page:</li>
+
+                        <li>Privacy Policy</li>
+                    </ol>
+                </div>
+            </nav>
+        </div>
+    </header>
+<div class="componentElapsedTot">HeaderBreadcrumb-GetPartialViewNoCache = 0</div><main class="clearfix site-contents"><div class="top-headerboard"></div><div class="page-content-container">
+<script>
+    require(['require_config'],
+        function () {
+            require([
+                    , "jquery"
+                    , "//ads.valica.it/vads.js"]
+            , function () { });
+        });
+</script>
+
+
+
+
+
+
+
+
+
+    <div class="site-container" style="background-color: inherit;">
+        <div class="leader-board-container">
+	<style>
+		@media only screen and (max-width: 500px)  {
+			.sticky-bottom {
+				position: fixed;
+				bottom: 0;
+				width: 100%;
+				z-index: 99999;
+				left: 0;
+				background-color: #ededed;
+				padding-top: 1px;
+				padding-bottom: 1px !important;
+			}
+		}
+	</style>
+    <div style="margin:0 auto; ">
+        <div class="vunit " data-cid="" data-adunit="POLCOM_LEADERBOARD_MASTHEAD" data-size-mapping="LDB_MH" data-dimensions="320x50,320x100,468x60,728x90,970x90,970x250,990x250" data-plabel="" data-targeting="{&quot;gruppo&quot;:&quot;&quot;,&quot;continenti&quot;:&quot;&quot;,&quot;nazioni&quot;:&quot;&quot;,&quot;stati&quot;:&quot;&quot;,&quot;localita&quot;:&quot;&quot;,&quot;tags&quot;:[],&quot;speciale&quot;:&quot;&quot;}" data-video-id="">
+        </div>
+    </div>
+        </div>
+    </div>
+<div class="componentElapsedTot">AdvValica-GetPartialView = 0</div>
+
+<div class="clearfix header-title-subtitle">
+    <div class="h1-title">
+        <h1>Privacy Policy<span>&nbsp;&nbsp;</span></h1>
+    </div>
+    <div class="h2-title hidden-xs visible-md visible-lg">
+        <h2></h2>
+    </div>
+    <div class="hidden">
+        
+    </div>
+</div>
+<div class="row-md-offset-bottom-1">
+    
+
+<div class="d-in-inblock" style="vertical-align:top">
+    <div class="fb-like" data-href="http://www.placesonline.comhttps://www.placesonline.com/info/copyright" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+</div>
+<div class="d-in-inblock" style="vertical-align:top">
+    <div class="fb-share-button pol_anl_fb_share" data-href="https://www.placesonline.com/info/copyright" data-layout="button"></div>
+</div>
+<div class="d-in-inblock col-offset-left-1" style="vertical-align:top">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.placesonline.com/info/copyright" data-text="Rome holiday  guide" data-via="placesonline"></a>
+</div>
+<div class="d-in-inblock col-offset-left-1" style="vertical-align:top">
+    <div class="g-plusone" data-size="medium" data-annotation="none" data-href="http://www.placesonline.comhttps://www.placesonline.com/info/copyright"></div>
+</div>
+</div>
+<div class="componentElapsedTot">HeaderPageTitle-GetPartialViewNoCache = 0</div><div style="text-align:center;">
+    <a href="//www.iubenda.com/privacy-policy/864354" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a>
+    <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+</div>
+<div>
+<div>
+<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>DATA CONTROLLER</strong><br>By consulting the website <a href="http://www.placesonline.com/">www.placesonline.com</a> all data concerning identified or identifiable persons may be processed.</p>
+<p>The data Controller of the abovementioned treatment of personal data is Paesionline S.r.l., with registered office in Rocca di Papa (RM), Via Francesco D’Assisi 4, VAT No. 09172321003, e-mail info@paesionline.it<strong>.</strong></p>
+<p>The data Manager is Valica srl. The complete list of the data Managers may be found at the premises of Paesionline S.r.l. and it may be consulted upon written request sent by mail or e-mail to the abovementioned addresses, indicating as object “Privacy – list of data Managers”.<br><br><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TYPE OF DATA TREATED</strong><br><br><strong>2.1.&nbsp;&nbsp; NAVIGATION DATA</strong><br>When operating, the computer systems and software procedures necessary for the correct functioning of the Site collect some personal data which are implicitly transmitted in the use of internet communication protocols.<br>This information is not collected in order to be associated with identified users, but in virtue of its nature, it may lead to their identification.</p>
+<p>This category of data includes IP addresses or domain names of the computers utilized by users who connect to the Site, the URI (<em>Uniform Resource Identifier</em>) addresses of the resources requested, the time of the request, the method used to send a request to the server, the size of the file obtained in reply, the numeric code indicating the state of the reply given by the server (sent, error) and other parameters relating to the user's operating system and data processing environment.</p>
+<p>These data shall only be used to obtain anonymous statistical information concerning the use of the Site and to verify its correct functioning. The data shall also be used&nbsp; in case it should be deemed necessary to determine the liability for any data processing offences detrimental to the Site.</p>
+<p>The Site does not use <em>cookies</em> for the transmission of personal information, nor does it use the so-called persistent <em>cookies</em>, that is systems to trace users.</p>
+<p>The so-called session <em>cookies</em> (which are not stored persistently on the user's computer and are deleted when closing the browser) are used for the sole transmission of the session IDs (made up by casual numbers generated by the server) necessary to enable a secure and efficient exploration of the site.<br><br><strong>2.2.&nbsp;&nbsp;&nbsp;&nbsp; DATA PROVIDED VOLUNTARILY BY THE USER</strong><br>Apart from such data, the Controller shall process the information provided by the user when registering on the Site, such as name and surname, date of birth, street and e-mail address, and any further data related to video, text and photo contents (all together referred to as “Contributions”) in order to (i) send newsletters, (ii) send via e-mail advertising and promotional information related to the Site, to the tourist sector as well as others, (iii) carry out market research, (iv) elaborate all data provided by the registered user and those collected owing to the user's navigation on the Site so as to identify the relevant commercial profile and to use the results of such elaboration for promotional and commercial purposes, as well as (v) publish the Contributions in compliance with the limits and conditions, (vi) offering discounts therein foreseen.<br><br><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NATURE OF THE DATA AND CONSEQUENCES IN CASE OF REFUSAL TO REPLY</strong><br>In order to enable the Controller to publish the users' Contributions it is necessary to consent the treatment of personal data. Therefore, in case of refusal, the service shall not be supplied and relevant discounts shall not be granted.</p>
+<p>The user is free to provide his/her data for the remaining purposes of the Site. However, the refusal of the abovementioned treatment shall entail the impossibility of being informed about new marketing initiatives and of being updated on any new services offered on the Site related to the tourist sector and/or any further activities related to other sectors. <br><br><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODALITIES OF THE TREATMENT</strong><br>All personal data are processed by means of manual computer systems and are automatized for the length of time necessary to achieve the objective for which they are collected.</p>
+<p>The Controllers follow specific security measures in order to guarantee the treatment of the data in compliance with the personal data protection law, with a particular attention in preventing any data loss, any illicit or uncorrect data use, or unauthorized access to data banks.<br><br><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THE INTERESTED PARTY'S RIGHTS </strong><br>The person to whom the personal data refer has the right, in any moment, to obtain confirmation of the existence or non-existence of any personal data concerning him/her, and receive an intelligible communication of said data, even if they have not been registered yet.<br><br>The interested party has the right to obtain information concerning:</p>
 <ol start="1" type="1">
-  <ol start="1" type="1">
-    <li>the source of the personal data; </li>
-    <li>the purposes and the modalities of the        treatment; </li>
-    <li>the logic applied in case of treatment performed        using electronic equipment; </li>
-    <li>the data controllers' and managers' identifying        details ;</li>
-  </ol>
+<ol start="1" type="1">
+<li>the source of the personal data;</li>
+<li>the purposes and the modalities of the treatment;</li>
+<li>the logic applied in case of treatment performed using electronic equipment;</li>
+<li>the data controllers' and managers' identifying details ;</li>
+</ol>
 </ol>
 <ol>
-  <ol>
-    <li>the parties or categories  of parties to which the personal data may be communicated, or which may be  informed about such data, as representatives appointed for that territory by  the State, or as managers or people in charge. </li>
-  </ol>
+<ol>
+<li>the parties or categories of parties to which the personal data may be communicated, or which may be informed about such data, as representatives appointed for that territory by the State, or as managers or people in charge.</li>
 </ol>
-<p>The  interested party has also the right to obtain: </p>
+</ol>
+<p>The interested party has also the right to obtain:</p>
 <ol start="1" type="1">
-  <ol start="6" type="1">
-    <li>the updating, modification, that is when        interested, and integration of the data;</li>
-    <li>the deletion, transformation into anynomous form        or the blocking of any of the data processed unlawfully, including data        which do not need to be stored with regard to the purposes for which they        were collected or subsequently treated; </li>
-    <li>a declaration stating that those to whom the        data have&nbsp; been communicated are        aware of the operations referred to in paragraphs 1) and 2), including        their content, except in the case in which it is not possible to fulfil        said obligation or if it entails an involvement of means which is clearly        disproportionate as to the right protected.</li>
-  </ol>
+<ol start="6" type="1">
+<li>the updating, modification, that is when interested, and integration of the data;</li>
+<li>the deletion, transformation into anynomous form or the blocking of any of the data processed unlawfully, including data which do not need to be stored with regard to the purposes for which they were collected or subsequently treated;</li>
+<li>a declaration stating that those to whom the data have&nbsp; been communicated are aware of the operations referred to in paragraphs 1) and 2), including their content, except in the case in which it is not possible to fulfil said obligation or if it entails an involvement of means which is clearly disproportionate as to the right protected.</li>
 </ol>
-<p>The  interested party has the right to oppose, totally or partially: </p>
+</ol>
+<p>The interested party has the right to oppose, totally or partially:</p>
 <ol start="1" type="1">
-  <ol start="9" type="1">
-    <li>to the treatment of his/her personal data, for        legitimate reasons, even though pertaining to the purpose of the        collecting; </li>
-    <li>to the treatment of his/her personal data for        the sending of advertising material or the carrying out of market        research or for business communications.</li>
-  </ol>
+<ol start="9" type="1">
+<li>to the treatment of his/her personal data, for legitimate reasons, even though pertaining to the purpose of the collecting;</li>
+<li>to the treatment of his/her personal data for the sending of advertising material or the carrying out of market research or for business communications.</li>
 </ol>
-<p>In order to assert the abovementioned rights,  please write to the Controllers, sending your request to the registered office  address or to the e-mail address as mentioned in paragraph 1, indicating as  object “<em>Privacy – assertion of rights ex  art. 7 of Lgs.D. 196/2003</em>”.<br>
-  <br>
-    <strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMMUNICATION AND DATA  DISCLOSURE</strong><br>
-  All personal data collected on the Site shall not be disclosed, sold, or  transferred to third parties, except where required by law.<br>
-  Therefore, in any case, with the exception of communications or  disclosure of data requested, in compliance with the law, by police, judicial  authorities, information and security bodies or other public subjects with the  aim of defending and granting State security or for prevention, investigation  or repression of crimes.<br><br>
-  <strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODIFICATIONS</strong></p>
-This  present document constitutes the Site's privacy policy which in time shall be  subject of possible modifications and/or updates.</div>
-
-	<p class="strong">Please refer italian's <a href="http://www.paesionline.info/copyright.asp?domain=.it">privacy policy</a> for more information</p>
-    
-            </div>
-            <div id="info_navigation">
-<script language="javascript" type="text/javascript">
-  	$(document).ready(function(){
-			$("ul.navigationleft li a.nav_note").addClass("nav_left_active"); 
-		    $("ul.navigationleft li ul li a[href='http://www.paesionline.info/copyright.asp?domain=.com']").addClass("nav_left_single_active"); 
-
-			
-
-
-
-					$("ul.navigationtoggle li a.nav_note").next().slideToggle('normal');
-//apre automaticamente la voce nav_pubblicita
-					$("ul.navigationtoggle li a.nav_pubblicita").next().slideDown('normal');
-					$("ul.navigationtoggle li a.nav_pubblicita").next().addClass("fixed_navigation"); 
-
-//apre automaticamente la voce nav_pubblicita
-					$("ul.navigationtoggle li a.nav_servizialleaziende").next().slideDown('normal');
-					$("ul.navigationtoggle li a.nav_servizialleaziende").next().addClass("fixed_navigation"); 
-					
-			});
-		</script>
-
-
-<div id="info_navigation">
-    <ul id="navigationleft" class="navigationleft navigationtoggle collapsible toparrow">
-        <li>
-            <a href="#" class="nav_profiloaziendale">Company Profile</a>
-            <ul class="navigationleft">
-                <li><a href="http://www.paesionline.info/company.asp?domain=.com">Companies</a></li>
-                <li><a href="http://www.paesionline.info/where_we_are.asp?domain=.com">Where we are - Contacts</a></li>
-                <li><a href="http://www.paesionline.info/our_staff.asp?domain=.com">Our staff</a></li>
-                <li><a href="http://www.paesionline.info/press_area.asp?domain=.com">Press</a></li>
-                <li><a href="http://www.paesionline.info/partners.asp?domain=.com">Partners</a></li>
-            </ul>
-		</li>
-		<li>
-            <a href="#" class="nav_pubblicita">Advertising</a>
-            <ul>
-                <li><a href="http://www.paesionline.info/banner.asp?domain=.com">Banner</a></li>
-                <li><a href="http://www.paesionline.info/text_ads.asp?domain=.com">Text Ads</a></li>
-                <!--<li><a href="http://www.paesionline.info/sponsorship.asp?domain=.com">Sponsorship</a></li>-->
-                <li><a href="http://www.paesionline.info/newsletter_advertorial.asp?domain=.com">Newsletter &amp; Dem</a></li>
-                <li><a href="http://www.paesionline.info/skin.asp?domain=.com">Skin</a></li>
-                <li><a href="http://www.paesionline.info/pdf.asp?domain=.com">Pdf</a></li>
-            </ul>
-		</li>
-	
-		<li>
-            <a href="#" class="nav_contentprovider">Content Provider
-</a>
-            <ul>
-                <li><a href="http://www.paesionline.info/business_services.asp?domain=.com">Editorial projects</a></li>
-                <li><a href="http://www.paesionline.info/portfolio.asp?domain=.com">Our clients</a></li>
-            </ul>
-            
-		</li>
-		
-		<li>
-            <a href="#" class="nav_partecipaallaguida">Join the guide
-</a>
-            <ul>
-                <li><a href="http://www.paesionline.info/add_users.asp?domain=.com">Community
-</a></li>
-                
-            </ul>
-            
-		</li>
-			
-		<li>
-            <a href="#" class="nav_note">Notes</a>
-            <ul>
-                <li><a href="http://www.paesionline.info/legal.asp?domain=.com">Terms of use</a></li>
-                <li><a href="http://www.paesionline.info/editorial.asp?domain=.com">Editorial notes</a></li>
-                <li><a href="http://www.paesionline.info/copyright.asp?domain=.com">Privacy Policy</a></li>
-            </ul>
-            
-		</li>
-		<li>
-            <a href="#" class="nav_copyright">Copyright</a>
-            <ul>
-                <li><a href="http://www.paesionline.info/policy.asp?domain=.com">Disclaimer</a></li>
-            </ul>
-		</li>
-		<li>
-            
-            <a href="#" class="nav_impiego">Jobs</a>
-            <ul>
-                <li><a href="http://www.paesionline.info/job_opportunities.asp?domain=.com">Job opportunities</a></li>
-            </ul>
-		</li>
-
-
-		
-		<li>
-            
-            <a href="#" class="nav_widget">Widget</a>
-            <ul>
-                <li><a href="http://www.paesionline.info/widget_placesrank.asp?domain=.com">Places Rank</a></li>
-
-                <li><a href="http://www.paesionline.info/widget_seguicisu.asp?domain=.com">Please follow</a></li>
-
-                <li><a href="http://www.paesionline.info/logos_banners_on_your_site.asp?domain=.com">Links and Tools</a></li>
-
-                <li><a href="http://www.paesionline.info/widget_guidepdf.asp?domain=.com">PDF Guide</a></li>
-
-                <li><a href="http://www.paesionline.info/widget_scopri.asp?domain=.com">Discover and join in!</a></li>
-
-                <li><a href="http://www.paesionline.info/widget_strutture.asp?domain=.com">Hotel and tourist services</a></li>
-
-                <li><a href="http://www.paesionline.info/widget.asp?domain=.com">See all</a></li>
-            </ul>																			
-		</li>
-
-		
-			
-	</ul>
-	
-			
-		
-	
+</ol>
+<p>In order to assert the abovementioned rights, please write to the Controllers, sending your request to the registered office address or to the e-mail address as mentioned in paragraph 1, indicating as object “<em>Privacy – assertion of rights ex art. 7 of Lgs.D. 196/2003</em>”.<br><br><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMMUNICATION AND DATA DISCLOSURE</strong><br>All personal data collected on the Site shall not be disclosed, sold, or transferred to third parties, except where required by law.</p>
+<p>Therefore, in any case, with the exception of communications or disclosure of data requested, in compliance with the law, by police, judicial authorities, information and security bodies or other public subjects with the aim of defending and granting State security or for prevention, investigation or repression of crimes.<br><br><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODIFICATIONS</strong></p>
+This present document constitutes the Site's privacy policy which in time shall be subject of possible modifications and/or updates.</div>
+<p class="strong">Please refer italian's <a href="http://www.paesionline.it/info/copyright">privacy policy</a> for more information</p>
 </div>
-<script language="javascript" type="text/javascript">
-  	$(document).ready(function(){
-		    $("#info_navigation ul li a[href='http://www.paesionline.info/copyright.asp?domain=.com']").addClass("nav_left_single_active"); 
-	});
+
+<div class="componentElapsedTot">CommonInfoStaticPageDetail-GetPartialView = 0</div></div></main>		<script> (function (n, o, t, y) { n._vpt = n._vpt || []; n._vpt.push(['_currentTime', Date.now()]); t = o.createElement('script'); t.type = 'text/javascript'; t.async = true; t.src = '//cdnvideo.notifyon.com/script/js/1113a4bbdfed97c3b74271795d8d333a.js'; y = o.getElementsByTagName('script')[0]; y.parentNode.insertBefore(t, y); })(window, document); </script>
+		<div id="embed-46" data-embed-id="46" class="noty-sticky-b"></div>
+		<script>_vpt.push(['_embed', { action: 'show', id: '46', type: 'sticky', width: '360' }]); </script>
+		<style>
+			
+			
+			@media (max-width: 481px) {
+				#trivago_box {
+					display:inline-block !important; 
+				}
+				
+				.slickWindow {
+					margin: 0px auto 71px !important;
+				}
+			}
+			
+		</style>
+		<div id="trivago_box" class="footer-banner scroll-to-fixed-fixed" style="z-index: 1000;position: fixed;bottom: 0px;margin-left: 0px;width: 360px;left: 0px;border-top: solid 5px #f48f00;background-color: rgb(49, 112, 178);min-width: 100%;min-height: 70px;text-align: center;display: none;">
+				<div class="book" style="
+				width: 300px;
+				margin: 0 auto;
+			">    
+				<h3 style="
+				font-size: 14px;
+				line-height: 18px;
+				font-weight: bold;
+				margin: 10px 0 8px;
+				color: #fff;
+				text-shadow: 0 2px 1px rgba(0,0,0,.5);
+			">Viaggia verso  al miglior prezzo!</h3>
+				<div class="bottone" style="
+				background: #f48f00;
+				border: 1px solid #f0d194;
+				border-radius: 1px;
+				width: 250px;
+				height: 32px;
+				color: #fff;
+				font-size: 18px;
+				line-height: 22px;
+				text-transform: uppercase;
+				font-weight: bold;
+				padding: 0;
+				margin: 0 auto;
+				margin-bottom: 8px;
+				-webkit-box-shadow: 0 2px 2px rgba(0,0,0,.4);
+				box-shadow: 0 2px 2px rgba(0,0,0,.4);
+				letter-spacing: -1px;
+			"><a rel="nofollow" href="https://api.valica.it/api/native/trackingClickWanderio_POL?permalink=1&amp;acid=b4nHcgkvSf&amp;tag=FOOTER&amp;q=Italia" target="_blank" style="
+				color: #fff;
+				line-height: 30px;
+				display: block;
+			">ITALIA</a></div></div></div>
+
+
+
+
+<footer class="clearfix site-footer bck-gray2">
+    <div class="padding-lg">
+        <p class="paragraph color-default">
+            <small>
+                
+				©2019 Valica Srl. P.IVA 13701211008
+            </small>
+        </p>
+        <p class="paragraph color-default">
+            <small>
+                <a href="https://www.placesonline.com/info/legal" target="_blank" class="link-black">Terms and conditions</a> |
+                <a href="https://www.placesonline.com/info/editorial" target="_blank" class="link-black">Editorial</a> |
+                
+				<a href="https://www.placesonline.com/info/copyright" target="_blank" class="link-black">Privacy</a>
+            </small>
+        </p>
+        <p class="paragraph color-default"><small>Any reproduction or other use in part or in whole of this website is expressly prohibited - Valica Srl is not responsible for linked websites.</small></p>
+        <p class="paragraph color-default">
+            <small>
+                <a class="button btn-guida link-default pol_anl_ft_joinguide" href="https://www.placesonline.com/community/join-guide"> + Join the guide: </a>
+                <a class="button btn-guida link-default pol_anl_ft_tas" href="https://www.placesonline.com/community/signup-tas"> + Add your property </a>
+                <a class="button btn-guida link-default pol_anl_ft_company" href="https://www.placesonline.com/community/signup-company"> + Promote your business </a>
+                <a class="button btn-guida link-default pol_anl_ft_auth" href="https://www.placesonline.com/community/signup-authority"> + Promote the area </a>
+				<a class="button btn-guida link-default pol_anl_ft_snd_event" href="https://www.placesonline.com/community/signup-event"> + Add your event </a>
+                
+                    
+            </small>
+        </p>
+        <div class="row row-md-offset-bottom-1 row-md-offset-top-3">
+            <div class="col-md-4 col-xs-12">
+                <small>International websites: </small>
+
+                <a href="http://www.paesionline.it" title="">
+                    <img class="multilanguage-flags flag_it disabled" src="/Content/images/transparent1x1.gif" alt="Italia">
+                </a>
+                <a href="http://www.placesonline.es" title="">
+                    <img class="multilanguage-flags flag_es disabled" src="/Content/images/transparent1x1.gif" alt="Italia">
+                </a>
+                <a href="http://www.placesonline.fr" title="">
+                    <img class="multilanguage-flags flag_fr disabled" src="/Content/images/transparent1x1.gif" alt="Italia">
+                </a>
+                <a href="http://www.placesonline.com" title="">
+                    <img class="multilanguage-flags flag_com " src="/Content/images/transparent1x1.gif" alt="Italia">
+                </a>
+                <a href="http://www.placesonline.de" title="">
+                    <img class="multilanguage-flags flag_de disabled" src="/Content/images/transparent1x1.gif" alt="Italia">
+                </a>
+            </div>
+            <div class="col-md-4 col-xs-12">
+                <div class="float-left">
+                    <small>Follow us:  </small>
+                </div>
+                    <div class="float-left col-offset-left-05">
+                        <a rel="nofollow" href="https://facebook.com/PlacesOnLine-130150589037" target="_blank">
+                            <i class="glyphicon poicon-facebook-with-circle font-size-18" style="color:#bdc3c8"></i>
+                        </a>
+                    </div>
+                                                    <div class="float-left col-offset-left-05">
+                        <a rel="nofollow" href="https://twitter.com/placesonline" target="_blank">
+                            <i class="glyphicon poicon-twitter-with-circle font-size-18" style="color:#bdc3c8"></i>
+                        </a>
+                    </div>
+            </div>
+        </div>
+        <div class="overflow-hd row">
+            <div class="float-left">
+                <a href="http://www.valica.it/" title="Valica" target="_blank">
+                    <img src="/Content/images/valica_logo.png" alt="Italia">
+                </a>
+            </div>
+            <div class="float-left" style="margin:2px 0px 0px 5px;">
+                <small style="margin-top:1px;margin-left:5px;">
+                    <a href="http://www.valica.it/chi-siamo/" target="_blank" class="link-default pol_anl_ft_about">About</a> |
+                    <a href="http://www.valica.it/" target="_blank" class="link-default pol_anl_ft_adv">Advertising</a>
+                </small>
+            </div>
+        </div>
+    </div>
+</footer><div class="componentElapsedTot">Footer-GetPartialView = 0,0156249</div></div>
+<script>
+    require(['require_config'],
+        function () {
+            require([
+                    , "jquery"
+                    , "//ads.valica.it/vads.js"]
+            , function () { });
+        });
 </script>
 
-            </div>
-            <div class="clearbt"></div>
+
+
+
+
+
+
+
+
+	<style>
+		@media only screen and (max-width: 500px)  {
+			.sticky-bottom {
+				position: fixed;
+				bottom: 0;
+				width: 100%;
+				z-index: 99999;
+				left: 0;
+				background-color: #ededed;
+				padding-top: 1px;
+				padding-bottom: 1px !important;
+			}
+		}
+	</style>
+    <div style="margin:0 auto; ">
+        <div class="vunit " data-cid="" data-adunit="POLCOM_SKIN" data-size-mapping="SKIN" data-dimensions="1x1" data-plabel="" data-targeting="{&quot;gruppo&quot;:&quot;&quot;,&quot;continenti&quot;:&quot;&quot;,&quot;nazioni&quot;:&quot;&quot;,&quot;stati&quot;:&quot;&quot;,&quot;localita&quot;:&quot;&quot;,&quot;tags&quot;:[],&quot;speciale&quot;:&quot;&quot;}" data-video-id="">
         </div>
-        <div id="info_footer" class="mb56 mt56">
-        
-        <hr class="gray mt12 mb12">
-        
-        <span class="padding xsmall">
-Our network:<ul class="language_flags"><li><a href="http://www.paesionline.it/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_it.png" class="hover" alt="italiano" width="16" height="11"> Viaggi e Vacanze</a></li><li><a href="http://www.placesonline.es/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_es.png" class="hover" alt="español" width="16" height="11"> Viajes  y Vacaciones</a></li><li><a href="http://www.placesonline.fr/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_fr.png" class="hover" alt="français" width="16" height="11"> Séjours et vacances</a></li><li><a href="http://www.placesonline.com/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_couk.png" class="hover" alt="english" width="16" height="11"> Travel and Holidays</a></li><li><a href="http://www.placesonline.de/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_de.png" class="hover" alt="deutsch" width="16" height="11"> Reisen und Ferien</a></li><li><a href="http://www.placesonline.com.br/" rel="nofollow"><img src="http://www.paesionline.info/engine/images/icons/flag_combr.png" class="hover" alt="português" width="16" height="11"> Viagens e Turismo</a></li></ul>
-		</span>
+    </div>
+<div class="componentElapsedTot">AdvValica-GetPartialView = 0</div>
+<script>
+    require(['require_config'],
+        function () {
+            require([
+                    , "jquery"
+                    , "//ads.valica.it/vads.js"]
+            , function () { });
+        });
+</script>
 
-        <p class="xsmall padding mT20">©2016 Paesionline Srl. P.IVA 09172321003</p>
+
+
+
+
+
+
+
+
+	<style>
+		@media only screen and (max-width: 500px)  {
+			.sticky-bottom {
+				position: fixed;
+				bottom: 0;
+				width: 100%;
+				z-index: 99999;
+				left: 0;
+				background-color: #ededed;
+				padding-top: 1px;
+				padding-bottom: 1px !important;
+			}
+		}
+	</style>
+    <div style="margin:0 auto; ">
+        <div class="vunit cs " data-cid="" data-adunit="POLCOM_POPUP" data-size-mapping="OOP_POPUP" data-dimensions="1x1" data-plabel="" data-targeting="{&quot;gruppo&quot;:&quot;&quot;,&quot;continenti&quot;:&quot;&quot;,&quot;nazioni&quot;:&quot;&quot;,&quot;stati&quot;:&quot;&quot;,&quot;localita&quot;:&quot;&quot;,&quot;tags&quot;:[],&quot;speciale&quot;:&quot;&quot;}" data-video-id="">
         </div>
-	</div>
-</div>
-
-		<script language="javascript" type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script language="javascript" type="text/javascript">
-		try {
-		var pageTracker = _gat._getTracker("UA-2533415-7");
-		pageTracker._trackPageview();
-		} catch(err) {}</script>
+    </div>
+<div class="componentElapsedTot">AdvValica-GetPartialView = 0</div>
 
 
+        <div style="width:100%;height:30px; background-color:gray;color:white;display:none;" class="elapsed">
+            TOT = 0,0156249 -- LL = 0,1406237 --- 08/05/2019 06:33:48
+        </div>
+    </div>
+    <link href="https://www.placesonline.com/Content/css/icons-font.css?v=30" rel="stylesheet" type="text/css">
 
+    
 
 
 
