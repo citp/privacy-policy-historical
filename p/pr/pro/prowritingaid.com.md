@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowritingaid.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227162132id_/https%3A//prowritingaid.com/en/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowritingaid.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508171558id_/https%3A//prowritingaid.com/en/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -123,7 +123,7 @@ This policy was last modified on 22-May-18
 ## Contact us
 
 If there are any questions regarding this privacy policy you may use our [contact](https://prowritingaid.com/en/Home/Contact) page or in writing to:  
-ProWritingAid  
-College Farmhouse  
-Denton, Oxford OX44 9JJ  
+International House  
+24 Holborn Viaduct  
+London EC1A 2BN  
 United Kingdom 
