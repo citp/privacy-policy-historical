@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221224530id_/https%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508042639id_/https%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies - Rough Guides | Rough Guides
 
