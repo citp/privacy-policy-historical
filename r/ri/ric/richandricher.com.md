@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richandricher.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107225953id_/http%3A//richandricher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richandricher.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508221957id_/http%3A//richandricher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rich and Richer
 
