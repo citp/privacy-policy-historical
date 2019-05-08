@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asustor.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903154133id_/https%3A//www.asustor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asustor.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508201452id_/https%3A//www.asustor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ASUSTOR Inc.
 
@@ -216,11 +216,11 @@ We take precautions to protect your personal data against unauthorised access, a
 
 **8\. How to manage your personal data**
 
-This paragraph introduces that if you may have any inquiries or requests on your personal data collected by ASUSTOR, you may log in your “ASUSTOR Account” or manage privacy-related settings on particular ASUSTOR products and services you use. Also, you may contact us through “Customer’s request on personal data” interface on ASUSTOR official website or email to [privacy@asustor.com.](mailto:privacy@asus.com)
+This paragraph introduces that if you may have any inquiries or requests on your personal data collected by ASUSTOR, you may log in your “ASUSTOR Account” or manage privacy-related settings on particular ASUSTOR products and services you use. Also, you may contact us through email [privacy@asustor.com.](mailto:privacy@asus.com)
 
 **8.1 ASUSTOR ID**
 
-  1. Please provide your true, accurate, current and complete personal data to ASUSTOR under your ASUSTOR ID so that ASUSTOR can provide you with the corresponding ASUSTOR products and services.
+  1. Please provide your email to ASUSTOR as your ASUSTOR ID so that ASUSTOR can provide you with the corresponding ASUSTOR products and services.
   2. You may view and change your account data by logging in your ASUSTOR ID and editing your account data.
   3. If you would like to subscribe or unsubscribe ASUSTOR eDM and notice with ASUSTOR news, latest products and services, you may change the setting by logging in your ASUSTOR ID account.
 
@@ -237,7 +237,7 @@ You are free to choose to enable or disable sharing your personal data with ASUS
 
 
 **8.4 Contact ASUSTOR to manage your personal data**  
-Your may contact us through “Customer’s request on personal data” interface on ASUSTOR official website or email to [privacy@asustor.com](mailto:privacy@asustor.com) as well as through ADM if you have any requests and inquiries about your personal data under your ASUSTOR ID or other personal data collected by ASUSTOR, such as request for access, correction, download, block, deletion, objecting ASUSTOR from using some or all of your personal data (for example, you may contact us if you consider ASUSTOR is wrongfully collecting and using your personal data) and restrict ASUSTOR from using your personal data under some certain circumstances (for example, you may contact us if you do not wish your personal data to be analysed at all times.)
+Your may contact us through email [privacy@asustor.com](mailto:privacy@asustor.com) as well as through ADM if you have any requests and inquiries about your personal data under your ASUSTOR ID, such as request for access, correction, download, block, deletion, objecting ASUSTOR from using some or all of your personal data (for example, you may contact us if you consider ASUSTOR is wrongfully collecting and using your personal data) and restrict ASUSTOR from using your personal data under some certain circumstances (for example, you may contact us if you do not wish your personal data to be analysed at all times.)
 
 Also, if you have consented ASUSTOR to collect your personal data through ASUSTOR products and services, you are free to withdraw your consent by changing privacy-related settings in particular ASUSTOR products and services (please refer to 8.2 in this Privacy Policy) or by submitting your request for withdrawal of consent to us. We will stop collecting your personal data and will only retain your personal data collected before such request for withdrawal.
 
@@ -252,10 +252,10 @@ Also, if you have consented ASUSTOR to collect your personal data through ASUSTO
 
 **9\. Children’s Privacy**
 
-This paragraph introduces that in order to protect children’s privacy, if you are a child, please seek your parents (or guardian)’s consent before you provide your personal data to ASUSTOR. Also, if your parents (or guardian) would like to manage your personal data, he/ she may contact us through “Customer’s request on personal data” interface on ASUSTOR official website or email to [privacy@asustor.com](mailto:privacy@asus.com)
+This paragraph introduces that in order to protect children’s privacy, if you are a child, please seek your parents (or guardian)’s consent before you provide your personal data to ASUSTOR. Also, if your parents (or guardian) would like to manage your personal data, he/ she may contact us through email [privacy@asustor.com](mailto:privacy@asus.com)
 
 We do not knowingly collect personal data from a child below the age of eighteen (18), or equivalent minimum age in the relevant jurisdiction, without parental consent. We encourage parents (or guardians) to take an active role in a child’s online activities and interests while using ASUSTOR products and services.  
-If you are a child, please seek parental consent before your use of ASUSTOR products and services. You may submit your personal data with parental (or guardian’s) consent to us only. Your parents (or guardian) can contact us through “Customer’s request on personal data” interface on ASUSTOR official website or email to _privacy@asustor.com_ as well as through ADM to revoke or withdraw any consent previously given, request for access, correction, download, block, deletion, objecting ASUSTOR from using some or all of your personal data (for example, your parents (or guardian) may contact us if he/she considers ASUSTOR may wrongfully collect and use your personal data) and restricting ASUSTOR from using your personal data under some certain circumstances (for example, your parents (or guardian) may contact us if he/she does not wish your personal data to be analysed) at all times.
+If you are a child, please seek parental consent before your use of ASUSTOR products and services. You may submit your personal data with parental (or guardian’s) consent to us only. Your parents (or guardian) can contact us through email to _privacy@asustor.com_ as well as through ADM to revoke or withdraw any consent previously given, request for access, correction, download, block, deletion, objecting ASUSTOR from using some or all of your personal data (for example, your parents (or guardian) may contact us if he/she considers ASUSTOR may wrongfully collect and use your personal data) and restricting ASUSTOR from using your personal data under some certain circumstances (for example, your parents (or guardian) may contact us if he/she does not wish your personal data to be analysed) at all times.
 
 **10\. Sensitive Personal Data**  
 ASUSTOR will never ask you to provide sensitive personal data such as data about your medical or health records, political, religious or philosophical beliefs, criminal offences (alleged, or committed), criminal conviction background, racial or ethnic origin, trade union membership, sexual orientation, sexual history, behaviour or genetic data. Please refrain from providing us with such sensitive personal data.
