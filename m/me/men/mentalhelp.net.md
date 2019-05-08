@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalhelp.net privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011212845id_/https%3A//www.mentalhelp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalhelp.net privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509013233id_/https%3A//www.mentalhelp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,9 +96,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 Recovery Brands
 
-517 Fourth Avenue
-
-Suite 401
+1200 Fourth Avenue
 
 San Diego, CA 92101
 
