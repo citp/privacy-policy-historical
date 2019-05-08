@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tommyjohn.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029064317id_/https%3A//tommyjohn.com/pages/tommy-john-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommyjohn.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508220033id_/https%3A//tommyjohn.com/pages/tommy-john-website-privacy-policy) for the most accurate reproduction.*
 
 # Premium men's and women's underwear and undershirts by Tommy John - Tommy John
 
@@ -6,7 +6,7 @@
 
 **Last Updated Date of Current Policy:**  March 1, 2018
 
-This Privacy Policy is incorporated by reference into the Tommy John, Inc. [Terms and Conditions](https://www.tommyjohn.com/terms) (the " **Terms** "). The term " **Tommy John** ," " **we** ," and " **us** " includes Tommy John, Inc. and our affiliates and subsidiaries.  Please read the following to learn more about our Privacy Policy.   **By using or accessing the Services in any manner, you acknowledge that you accept the practices outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**  The Privacy Policy explains how Tommy John may:
+This Privacy Policy is incorporated by reference into the Tommy John, Inc. [Terms and Conditions](https://www.tommyjohn.com/terms "Terms and Conditions") (the " **Terms** "). The term " **Tommy John** ," " **we** ," and " **us** " includes Tommy John, Inc. and our affiliates and subsidiaries.  Please read the following to learn more about our Privacy Policy.   **By using or accessing the Services in any manner, you acknowledge that you accept the practices outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**  The Privacy Policy explains how Tommy John may:
 
   * collect;
 
@@ -17,7 +17,7 @@ This Privacy Policy is incorporated by reference into the Tommy John, Inc. [Ter
 
 
 
-personally identifiable information (" **Personal Information** ")we obtain through the website located at [www.tommyjohn.com](http://www.tommyjohn.com/) (the " **Site** "), through our catalogs, and through visits to our retail stores, sample sales, and warehouse sales (collectively, the " **Services** "). We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our Services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
+personally identifiable information (" **Personal Information** ")we obtain through the website located at [www.tommyjohn.com](http://www.tommyjohn.com/ "www.tommyjohn.com") (the " **Site** "), through our catalogs, and through visits to our retail stores, sample sales, and warehouse sales (collectively, the " **Services** "). We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our Services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
 All other terms not defined herein will have the meanings set forth in the Terms.
 
@@ -56,9 +56,9 @@ By using the Site, you are authorizing us to gather, parse, and retain data rela
 
 **Opt-Out.**  
 
-If you do not want to receive email communications from us, please indicate your preference by e-mailing us as [support@tommyjohn.com](mailto:support@tommyjohn.com).  As noted above, you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt out of certain mobile ads via their device settings.
+If you do not want to receive email communications from us, please indicate your preference by e-mailing us as [support@tommyjohn.com](mailto:support@tommyjohn.com "support@tommyjohn.com").  As noted above, you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt out of certain mobile ads via their device settings.
 
-The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices/](http://www.aboutads.info/choices/).  You have the option to opt out of Google's use of cookies by visiting the Google advertising opt-out page at [www.google.com/privacy_ads.html](file:///C:/NRPortbl/DOCS/AJS1/www.google.com/privacy_ads.html) or the Google Analytics Opt-out Browser Add-on at <https://tools.google.com/dlpage/gaoptout/>. 
+The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "www.networkadvertising.org/managing/opt_out.asp") and [www.aboutads.info/choices/](http://www.aboutads.info/choices/ "www.aboutads.info/choices/").  You have the option to opt out of Google's use of cookies by visiting the Google advertising opt-out page at [www.google.com/privacy_ads.html](file:///C:/NRPortbl/DOCS/AJS1/www.google.com/privacy_ads.html "www.google.com/privacy_ads.html") or the Google Analytics Opt-out Browser Add-on at <https://tools.google.com/dlpage/gaoptout/>. 
 
 **To be clear, whether you are using our opt-out or an online industry opt-out, these cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out.  **For example, if you have opted out on your computer browser, that opt-out will not be effective on your mobile device. You must separately opt out on each device.
 
@@ -139,25 +139,25 @@ The Services also contain links and interactive features with various social med
 
 We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
 
-By using the Services or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Site or sending an e-mail to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at [support@tommyjohn.com](mailto:support@tommyjohn.com).
+By using the Services or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Site or sending an e-mail to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at [support@tommyjohn.com](mailto:support@tommyjohn.com "support@tommyjohn.com").
 
 ## Children's Privacy
 
 We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
 
-We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Services is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at [support@tommyjohn.com](mailto:support@tommyjohn.com). If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child's account.
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Services is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at [support@tommyjohn.com](mailto:support@tommyjohn.com "support@tommyjohn.com"). If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child's account.
 
 ## International Users
 
 By using the Services, you will transfer data to the United States.
 
-By choosing to use the Services or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the State of New York and the adjudication of any disputes arising in connection with Tommy John or the Services will be in accordance with the [Terms](https://www.tommyjohn.com/terms).
+By choosing to use the Services or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the State of New York and the adjudication of any disputes arising in connection with Tommy John or the Services will be in accordance with the [Terms](https://www.tommyjohn.com/terms "Terms").
 
 ## Update Your Information Or Pose A Question Or Suggestion
 
-If you would like to update or correct any information that you have provided to us through your use of the Services or otherwise, or if you have suggestions for improving this Privacy Policy, please send an e-mail to [support@tommyjohn.com](mailto:support@tommyjohn.com).
+If you would like to update or correct any information that you have provided to us through your use of the Services or otherwise, or if you have suggestions for improving this Privacy Policy, please send an e-mail to [support@tommyjohn.com](mailto:support@tommyjohn.com "support@tommyjohn.com").
 
-_California Privacy Rights_ : Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: [support@tommyjohn.com](mailto:support@tommyjohn.com).
+_California Privacy Rights_ : Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: [support@tommyjohn.com](mailto:support@tommyjohn.com "support@tommyjohn.com").
 
 ## Changes To Our Privacy Policy And Practices
 
@@ -173,4 +173,4 @@ Tommy John, Inc.
 
 100 Broadway, 11th Floor, New York, NY 10005
 
-[support@tommyjohn.com](mailto:support@tommyjohn.com)
+[support@tommyjohn.com](mailto:support@tommyjohn.com "support@tommyjohn.com")
