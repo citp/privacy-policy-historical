@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chaostrophic.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520181116id_/http%3A//www.chaostrophic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaostrophic.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508034121id_/https%3A//www.chaostrophic.com/privacy-policy) for the most accurate reproduction.*
 
-# Chaostrophic ⋆Privacy Policy
-
-I was recently informed that by law in the USA, if you have a public website it must contain a privacy policy.  Of course they want you to have to pay $150.00 or more for some fancy lawyer to draw one up.  So I had a generic one generated for free and we will using that.  It is not absolute fact and some things don’t even apply to the site, but it should pass the definition of the law.
+# Privacy Policy | Chaostrophic
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -119,6 +117,4 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **To be in accordance with CANSPAM we agree to the following:**
 
 **  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at Contact@chaostrophic.com  **and we will promptly remove you from **ALL** correspondence.
-
-Chaostrophic is a place to be free and do what you want. You can read and watch all the interesting content, make comments, chat, rant, rave, play games and waste your day away. In no way do we want to inhibit your enjoyment of our site. We are just here to have fun.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) **and we will promptly remove you from **ALL** correspondence.
