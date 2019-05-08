@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the facinghistory.org privacy policy that was archived on 2018-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180927043524id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the facinghistory.org privacy policy that was archived on 2019-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190508152849id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MBVRF9"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcDUFFbGwEGXVZQAQg="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MBVRF9"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcDUFFbGwEGXVZQAQg="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(18),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(19),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(21)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(21)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(21)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(21)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(16);n.exports={generateTraceHeader:r}},{}],11:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(12),u=t(10).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(15),w=t(14),v=window.XMLHttpRequest;s.features.xhr=!0,t(9),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],12:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],13:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(18),s=t(19),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],14:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],15:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],16:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],17:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],18:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],19:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],20:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],21:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(19),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(18),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(18),u=t("ee"),d=t(17),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:x,userAgent:d};t(13),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(20)},{}]},{},["loader",2,11,4,3]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy | Facing History and Ourselves</title>
+    <title>Facing History Privacy Policy | Facing History and Ourselves</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="https://www.facinghistory.org/profiles/facing_history_distro/themes/custom/facingfuture/favicon.ico" type="image/vnd.microsoft.icon">
 <meta name="description" content="Basics of This Privacy Policy: Facing History does not sell, rent, or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations. If you voluntarily submit information to us in connection with a special project we are conducting in collaboration with other organizations, we may share the information you submit with those other organizations, but we will inform you with a notice on the page where you submit your information.">
@@ -12,11 +12,11 @@
 <meta name="referrer" content="no-referrer">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="https://www.facinghistory.org/privacy">
-<link rel="shortlink" href="https://www.facinghistory.org/node/3919">
+<link rel="shortlink" href="https://www.facinghistory.org/node/13998">
 <meta property="og:site_name" content="Facing History and Ourselves">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.facinghistory.org/privacy">
-<meta property="og:title" content="Privacy">
+<meta property="og:title" content="Facing History Privacy Policy">
 <meta property="og:description" content="Basics of This Privacy Policy: Facing History does not sell, rent, or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations. If you voluntarily submit information to us in connection with a special project we are conducting in collaboration with other organizations, we may share the information you submit with those other organizations, but we will inform you with a notice on the page where you submit your information.">
 <meta property="og:image" content="http://cdn2.hubspot.net/hubfs/443401/ogfacebook.png">
 <meta property="og:image:secure_url" content="https://cdn2.hubspot.net/hubfs/443401/ogfacebook.png">
@@ -26,23 +26,25 @@
 <link type="text/css" rel="stylesheet" href="https://www.facinghistory.org/sites/default/files/css/css_MmaTJ-1mO46JEJ8ENYIIOSAE5JIp-cZiaxCygmbUD_Y.css" media="all">
 <link type="text/css" rel="stylesheet" href="https://www.facinghistory.org/sites/default/files/css/css_bwND2O2T_b5T0GW9W74nT8TOpChtgkcKdnUHklZyn5c.css" media="all">
 <link type="text/css" rel="stylesheet" href="https://www.facinghistory.org/sites/default/files/css/css_KE6CDBTI964kIs-gOeVVrFIsY7WgPwgpfYodJmeeLok.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.facinghistory.org/sites/default/files/css/css_LjVDq2JcyiPVgYkXtymIRZz93Mi5faJIYoVjnwAcU8U.css" media="screen">
-<link type="text/css" rel="stylesheet" href="https://www.facinghistory.org/sites/default/files/css/css_lYxJ6pWNww3OdISRDkK40CvZt3QkctKktRLXb1qSp-I.css" media="print">
+<link type="text/css" rel="stylesheet" href="https://www.facinghistory.org/sites/default/files/css/css_huhV12WSoH_nSn_bhdJtDoO_7CaUGSa6W67dTP_Aev8.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://www.facinghistory.org/sites/default/files/css/css_YyEERLiWvKVu2VWzMfTSX-zL16B2sRxvx2PVvMHlKfk.css" media="print">
     <!-- TYPEKIT -->
     <script src="https://use.typekit.net/fbv3rxx.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MBVRF9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
       })(window,document,'script','dataLayer','GTM-MBVRF9');</script>
-    <!-- End Google Tag Manager -->
+      <!-- End Google Tag Manager -->
     <!-- Start of HubSpot Embed Code -->
     <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/443401.js"></script>    <!-- End of HubSpot Embed Code -->
   </head>
-  <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3919 node-type-page">
+  <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-13998 node-type-page">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBVRF9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
     <div class="page-container">
       <div class="page-container-inner">
                 
@@ -79,12 +81,6 @@
 <li class="last leaf"><a href="/cart">Cart</a></li>
 </ul>  </div>
 </div>
-<div id="block-block-19" class="block block-block">
-
-    
-  <div class="content">
-    <meta content="HDCtux64aampw-FsCrlP2d3ECqZvuUdZK6J2ytV_rAE" name="google-site-verification">  </div>
-</div>
   </div>
   </div>
 </header>
@@ -92,7 +88,7 @@
 <!-- BREADCRUMB -->
 <div class="breadcrumb">
     <div class="region region-global-breadcrumb">
-    <div><div class="flag-outer"><span class="flag-wrapper flag-content-bookmarks"><a href="https://engage.facinghistory.org/playlist/add/node-3919">Add or Edit Playlist</a></span></div></div>      <div class="print-icon"><a href="javascript:window.print()"><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.57 48.57" preserveAspectRatio="xMinYMid"><defs><style>.cls-1{fill:#003b4c;}</style></defs><title>fh_print</title><path class="cls-1" d="M29,41.19H16.91v-2H29ZM49.28,10.83V37.14H41.19V49.28H8.81V37.14H.72V10.83H8.81V.72H41.19V10.83ZM37.14,31.07H12.86V45.24H37.14Zm0-26.31H12.86v6.07H37.14Zm8.09,11.13a1,1,0,1,0-1,1A1,1,0,0,0,45.24,15.89ZM33.09,35.12H16.91v2H33.09Z" transform="translate(-0.72 -0.72)"></path></svg>
+    <div><div class="flag-outer"><span class="flag-wrapper flag-content-bookmarks"><a href="https://engage.facinghistory.org/playlist/add/node-13998">Add or Edit Playlist</a></span></div></div>      <div class="print-icon"><a href="javascript:window.print()"><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.57 48.57" preserveAspectRatio="xMinYMid"><defs><style>.cls-1{fill:#003b4c;}</style></defs><title>fh_print</title><path class="cls-1" d="M29,41.19H16.91v-2H29ZM49.28,10.83V37.14H41.19V49.28H8.81V37.14H.72V10.83H8.81V.72H41.19V10.83ZM37.14,31.07H12.86V45.24H37.14Zm0-26.31H12.86v6.07H37.14Zm8.09,11.13a1,1,0,1,0-1,1A1,1,0,0,0,45.24,15.89ZM33.09,35.12H16.91v2H33.09Z" transform="translate(-0.72 -0.72)"></path></svg>
 </a></div>
   </div>
 </div>
@@ -108,14 +104,14 @@
 <!-- PAGE CONTENT AREA -->
 <div class="content-area container">
   <!-- PAGE TITLE -->
-        <h1 class="page__title title" id="page-title">Privacy</h1>
+        <h1 class="page__title title" id="page-title">Facing History Privacy Policy</h1>
         <div class="content">
       <div class="region region-content">
     <div id="block-system-main" class="block block-system">
 
     
   <div class="content">
-    <div id="node-3919" class="node node-page node-promoted view-mode-full clearfix">
+    <div id="node-13998" class="node node-page view-mode-full clearfix">
 
   
       
@@ -123,139 +119,281 @@
   <div class="content">
     
   <div class="field-body">
-    <h3>
-	Basics of This Privacy Policy</h3>
+    <h3>Summary of This Privacy Notice</h3>
 
-<blockquote>
-	<p>
-		<strong>Facing History does not sell, rent, or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations. If you voluntarily submit information to us in connection with a special project we are conducting in collaboration with other organizations, we may share the information you submit with those other organizations, but we will inform you with a notice on the page where you submit your information.</strong></p>
-</blockquote>
+<p>Facing History is committed to protecting your privacy. This privacy notice, together with our <a href="https://www.facinghistory.org/privacy/cookie-policy">Cookie Policy</a>, sets out how we look after your personal data when you visit our website at <a href="https://www.facinghistory.org">www.facinghistory.org</a>, and tells you about your privacy rights and how certain laws may apply to you.</p>
 
-<h3>
-	Full Privacy Policy</h3>
+<p>If you have any queries about this policy or how we use your personal information, please contact us at <a href="/cdn-cgi/l/email-protection#98e8eaf1eef9fbe1d8fef9fbf1f6fff0f1ebecf7eae1b6f7eaffa7ebedfaf2fdfbeca5c8eaf1eef9fbe1bdaaa8c8f7f4f1fbe1bdaaa8d1f6e9edf1eae1"><span class="__cf_email__" data-cfemail="a6d6d4cfd0c7c5dfe6c0c7c5cfc8c1cecfd5d2c9d4df88c9d4c1">[email&nbsp;protected]</span></a>.</p>
 
-<p>
-	Facing History and Ourselves National Foundation, Inc. (“Facing History”) is committed to protecting your privacy. This Facing History Privacy Policy describes how we collect and handle user data collected during your visit to the Facing History website. The Facing History website is www.facinghistory.org, and it includes all web pages for which the domain name includes “facinghistory.org”.</p>
+<p><strong>Facing History does not sell, rent, or license its customer lists to third parties. We do not sell, trade, or share any donor's personal information with any other entity, nor do we send donor mailings on behalf of other organizations. </strong></p>
 
-<p>
-	Please note, however, that we may occasionally collaborate with other organizations on special projects and set up web pages for those projects. We may invite you to voluntarily submit contact information or other personal information on those pages, and the information that you submit may be subject to a different privacy policy. We will include a notice on the web page to inform you that a different privacy policy may apply.</p>
+<h3>Contents</h3>
 
-<p>
-	This is not the privacy policy for other websites where Facing History has a presence, such as Facebook or Twitter. Those sites have their own privacy policies, which are posted there.</p>
+<ol>
+	<li><strong><a href="#about-us">About us</a></strong></li>
+	<li><a href="#what-personal-data-do-we-collect-via-site"><strong>What personal data do we collect via the site?</strong></a></li>
+	<li><a href="#how-we-collect-personal-data"><strong>How we collect personal data</strong></a></li>
+	<li><a href="#how-why-we-use-personal-data"><strong>How and why we use personal data</strong></a></li>
+	<li><a href="#how-we-share-personal-data"><strong>How we share personal data</strong></a></li>
+	<li><a href="#international-transfers"><strong>International transfers</strong></a></li>
+	<li><a href="#data-security"><strong>Data security</strong></a></li>
+	<li><a href="#children"><strong>Children</strong></a></li>
+	<li><a href="#how-long-we-keep-personal-data"><strong>How long we keep personal data</strong></a></li>
+	<li><a href="#third-party-links"><strong>Third party links</strong></a></li>
+	<li><a href="#your-rights"><strong>Your rights</strong></a></li>
+	<li><a href="#changes-to-policy-your-data"><strong>Changes to this policy or your data</strong></a></li>
+</ol>
 
-<p>
-	Facing History is a general audience web site, intended for users of all ages. Personal information of all users is collected, used, and disclosed as described in this Privacy Statement. This Statement contains a section with specific details regarding personal information collected from children (see below).</p>
+<hr>
+<ol>
+	<li>
+	<h4><a id="about-us" name="about-us">About Us</a></h4>
 
-<h4>
-	Collection of your Personal Information</h4>
+	<p>This website <a href="https://www.facinghistory.org">www.facinghistory.org</a> (our "<strong>site</strong>") is operated by Facing History and Ourselves, Inc. ("<strong>Facing History US</strong>") and Facing History and Ourselves Ltd ("<strong>Facing History UK</strong>"). Together, Facing History US and Facing History UK are referred to in this privacy notice as "<strong>Facing History</strong>", and also as "we", "us" and "our". Facing History US and Facing History UK are joint data controllers of any information we collect via this site.</p>
 
-<p>
-	<strong>Passively collected data</strong></p>
+	<p>The contact details of our head offices are:</p>
 
-<p>
-	Like most websites, Facing History automatically collects certain information about your computer hardware and software when you visit our website. This information may include your IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used to provide general statistics regarding your use of the Facing History website.</p>
+	<table class="responsive">
+		<tbody>
+			<tr>
+				<td>
+				<p>&nbsp;</p>
 
-<p>
-	Facing History also collects information about which pages our customers visit within the Facing History website. This site visitation data is identified only by a unique ID number, and it is never not linked with personal information unless a user registers with us or otherwise consents.</p>
+				<h4>Facing History and Ourselves, US</h4>
+				</td>
+				<td>
+				<p>16 Hurd Rd<br>
+				Brookline, MA 02445<br>
+				United States</p>
 
-<p>
-	In order to constantly improve our web site and better serve our customers online, Facing History may use software tools such as "cookies" to gather information about site visitors' browsing activities.</p>
+				<p><a href="/cdn-cgi/l/email-protection#f891969e97b89e999b91969f90918b8c978a81d6978a9fc78b8d9a929d9b8cc5a88a918e999b81ddcac8a89794919b81ddcac89196898d918a81"><span class="__cf_email__" data-cfemail="91f8fff7fed1f7f0f2f8fff6f9f8e2e5fee3e8bffee3f6">[email&nbsp;protected]</span></a><br>
+				<br>
+				+1-617-232-1595<br>
+				+1-800-856-903</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<h4>Facing History and Ourselves, Canada</h4>
 
-<p>
-	<strong>Voluntarily submitted data</strong></p>
+				<p>&nbsp;</p>
+				</td>
+				<td>
+				<div class="ts-ck-entity-embed-center"><div class="entity entity-fh-chunk fh-chunk-text fh-chunk-view-mode-simple clearfix">
+    
+  
+  <div class="content">
+    
+  <div class="field-text">
+    <p>Facing History and Ourselves, Canada<br>
+	425 University Ave. Suite 502<br>
+	Toronto, Ontario<br>
+	M5G 1T6<br>
+	Canada</p>  </div>
+  </div>
+</div>
+</div>
 
-<p>
-	You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request.</p>
+				<p><a href="/cdn-cgi/l/email-protection#96f5f7f8f7f2f7d6f0f7f5fff8f1feffe5e2f9e4efb8f9e4f1a9e5e3f4fcf3f5e2abc6e4ffe0f7f5efb3a4a6c6f9fafff5efb3a4a6fff8e7e3ffe4ef"><span class="__cf_email__" data-cfemail="b4d7d5dad5d0d5f4d2d5d7dddad3dcddc7c0dbc6cd9adbc6d3">[email&nbsp;protected]</span></a><br>
+				<br>
+				+1 -416-901-3831<br>
+				Fax: +1 -416-979-3936</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<h4>Facing History and Ourselves,&nbsp;UK</h4>
+				</td>
+				<td>
+				<p>The Old Fire Station<br>
+				140 Tabernacle Street<br>
+				London<br>
+				EC2A 4SD<br>
+				United Kingdom</p>
 
-<p>
-	For example, during your visits to our web sites, you may request information, contact us, sign up for an event or training, join our email list, create an account, or make a donation, or conduct other transactions online. In those cases, we will ask you to give us certain personally identifying information just as you would if you were communicating with us in person, by mail or by telephone. Also, we may invite you to "sign-in," complete a survey, or answer simple questions.</p>
+				<p><a href="/cdn-cgi/l/email-protection#482427262c2726082e292b21262f20213b3c273a3166273a2f773b3d2a222d2b3c75183a213e292b316d7a78182724212b316d7a782126393d213a31"><span class="__cf_email__" data-cfemail="731f1c1d171c1d331512101a1d141b1a00071c010a5d1c0114">[email&nbsp;protected]</span></a></p>
 
-<p>
-	We may also occasionally collaborate with other organizations on special projects and create web pages for those projects. If you choose to participate in those projects, we will ask you to submit personally identifiable information (such as your name, address, email address, or telephone number), and we may share the information that you submit with the other organizations involved in the project. In that case, we will include a notice on the project web page to inform you that we will be sharing the information that you submit with other organizations, and we will tell you if other privacy terms will apply.</p>
+				<p>+44 (0)20 7300 7248</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	&nbsp;
 
-<p>
-	Be assured that we maintain electronic security safeguards to help protect the personal information about you that you submit or that we obtain via the Internet.</p>
+	<p>Facing History UK is registered with the UK Information Commissioner's Office under registration number ZA463293.</p>
 
-<h4>
-	Use of your Personal Information</h4>
+	<p>We also have offices in Canada, Chicago, Cleveland, Los Angeles, Memphis, New England, New York, and San Francisco. For further information, please see <a href="https://www.facinghistory.org/about-us/offices">here</a>.</p>
+	</li>
+	<li>
+	<h4><a id="what-personal-data-do-we-collect-via-site" name="what-personal-data-do-we-collect-via-site">What personal data do we collect via the site?</a></h4>
 
-<p>
-	Facing History uses the information that you voluntarily submit to fulfill your orders or transactions, or to contact you about Facing History activities or news, or about opportunities to support Facing History. If you voluntarily submit information in connection with a special project that we are conducting with another organization, we may share your information with that organization for purposes of the project.</p>
+	<p>You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations.</p>
 
-<p>
-	Facing History and its operational service partners collect and use your personal information. These services may include the display of customized content based upon the information Facing History has collected. Facing History does not use or disclose sensitive personal information without your explicit consent.</p>
+	<p>We collect different information depending on how you use our site and how you interact with us. 'Personal data' means any data which can be associated with you as an individual, either directly or indirectly.</p>
 
-<p>
-	Facing History may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.</p>
+	<p>The personal data we collect via the site may include:</p>
 
-<p>
-	Facing History does not sell, rent, or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations.</p>
+	<ul>
+		<li><strong>Identity information</strong>, such as your name, organization name and position. If you are a teacher and are using our services in that capacity, we may also ask for your place of employment, and the grades/subjects you teach.</li>
+		<li><strong>Contact data</strong>, such as your address, area (including postal or ZIP code), email address and telephone details.</li>
+		<li><strong>Log-in data</strong>, if you create an account on our site.</li>
+		<li><strong>Payment and billing details</strong>, if you choose to donate to us, or if you choose to attend a paid event.</li>
+		<li><strong>Technical data</strong>, such as your internet protocol (IP) address, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the site.</li>
+		<li><strong>Usage data</strong>, which includes information about how you use the site, and any communications we may receive from you.</li>
+		<li><strong>Marketing and communications data</strong>, including your preferences in receiving marketing and other communications from us.</li>
+	</ul>
 
-<p>
-	We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.</p>
+	<p>If you are contacting us in respect of a particular event or campaign, we may ask you questions in respect of that specific (for example, such as your goal in attending an event). We will also collect any other data that you specifically provide to us.</p>
 
-<p>
-	Facing History may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Facing History; (b) protect and defend the rights or property of Facing History; or (c) act under exigent circumstances to protect the personal safety of users of Facing History services or members of the public.</p>
+	<p>Our site is not intended for storing or transmitting 'special categories' of personal data, such as details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, or health information. We do not knowingly collect information relating to actual or alleged criminal offences.</p>
+	</li>
+	<li>
+	<h4><a id="how-we-collect-personal-data" name="how-we-collect-personal-data">How we collect personal data</a></h4>
 
-<p>
-	Personal information collected on this site may be stored and processed in the United States or any other country in which Facing History maintains facilities, and by using this site, you consent to any such transfer of information outside of your country.</p>
+	<p>Different personal data is collected in different ways.</p>
 
-<p>
-	If you choose to send us an e-mail message, we may retain the content of the e-mail, your e-mail address, and our response in order to service your needs.</p>
+	<p><strong>a) Personal data you provide to us </strong></p>
 
-<p>
-	You may be placed on our mailing list when you contact us. To remove your name from our mailing list, please send an email to <a href="/cdn-cgi/l/email-protection#2b42454d446b4d4a4842454c4342585f4459520544594c14585e49414e485f167b474e4a584e0e191b594e46445d4e0e191b464e0e191b4d5944460e191b464a424742454c0e191b4742585f"><span class="__cf_email__" data-cfemail="c6afa8a0a986a0a7a5afa8a1aeafb5b2a9b4bfe8a9b4a1">[email&nbsp;protected]</span></a></p>
+	<ul>
+		<li>If you create an account with us, you will be required to provide your identity, contact and log-in data. You may be required to create an account in order to access or download certain materials on our site.</li>
+		<li>If you register to attend one of our events, or to purchase books from us, you will need to provide your identity and contact details. In the case of event registration, we may also ask some questions which are specific to the event, and if there is a charge for attending the event, we may require payment and billing information.</li>
+		<li>If you wish to make a donation through our site, we will ask for your identity, contact and billing details.</li>
+		<li>If you submit a speaker request form, we will ask for your contact and identity details.</li>
+		<li>When you sign up to one of our mailing lists, you will provide us with your identity and contact information and your marketing and communications preferences.</li>
+	</ul>
 
-<p>
-	If you opt out of broadcast emails, Facing History reserves the right to contact you in other ways.</p>
+	<p>You will also provide us with personal data when you correspond with us, and if you provide us with any feedback.</p>
 
-<h4>Control of your Personal Information</h4>
+	<p><strong>b) Personal data we collect automatically </strong></p>
 
-<p>
-	When you contact us, or otherwise give us personal information, Facing History will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.</p>
+	<p>We collect your technical and usage data, as described above, as you use our site. Some of this data is collected using cookies, beacons and similar technologies.</p>
 
-<h4>Security of your Personal Information</h4>
+	<p>For full information about the cookies we use, please see our&nbsp;<a href="/privacy/cookie-policy">Cookie Policy</a>.</p>
 
-<p>
-	Facing History is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
+	<p><strong>c) Personal data we collect from third parties</strong></p>
 
-<h4>
-	Links to Third Party Sites</h4>
+	<p>We occasionally obtain personal data from third party partners and collaborators and providers - but only when you have agreed to this.</p>
+	</li>
+	<li>
+	<h4><a id="how-why-we-use-personal-data" name="how-why-we-use-personal-data">How and why we use personal data</a></h4>
 
-<p>
-	Facing History is not responsible for the information practices employed by sites linked to or from our web site. In most cases, links to non-Facing History web sites are provided solely as pointers to information on topics that may be useful to the users of Facing History. Since third party web sites may have different privacy policies and/or security standards governing their sites, we advise you to review the privacy policies and terms and conditions of these sites prior to providing any personal information.</p>
+	<p>We will only use your information where:</p>
 
-<h4>
-	Children's Online Privacy</h4>
+	<p><strong>a)You have given us permission to do so </strong></p>
 
-<p>
-	Protecting children on the Internet is very important to us. For that reason, Facing History does not intentionally collect information on our web sites from those we actually know are under 13. Parents can be proactive and limit web site access to their children by installing filtering software.</p>
+	<p>If you sign up to receive news alerts or our other mailing lists, we will use your <strong>contact and identity information</strong> to send you updates and marketing information that you have consented to receive. Likewise, we may need your <strong>contact, identity, technical and/or usage information</strong> to respond to a question you have asked us.</p>
 
-<p>
-	Children's access to the Internet can permit them to visit inappropriate web sites and be exposed to unnecessary risks. The Children's Online Privacy Protection Act (COPPA) protects children under the age of 13 from the online collection of personal information. Learn more about COPPA at the Federal Trade Commission's web site.</p>
+	<p><strong>b) We have a legitimate interest (reasonable purpose) for doing so</strong></p>
 
-<h4>
-	Changes to this Statement</h4>
+	<p>We will use your information for our legitimate business reasons where our doing so will not unduly affect your rights.</p>
 
-<p>
-	Facing History will occasionally update this Privacy Statement. If there are material changes to this Statement or in how Facing History will use your personal information, Facing History will prominently post such changes prior to implementing the change. Facing History encourages you to periodically review this Statement to be informed of how we are protecting your information.</p>
+	<p>We will use your <strong>identity, contact and usage information</strong> to keep our records up to date, and to customize our site's content to you. If you are a current or former user of our services, we may also use your contact and identity details to keep you up to date with our latest news.</p>
 
-<h3>
-	Contact Information</h3>
+	<p>We will use your <strong>technical information</strong> to:</p>
 
-<p>
-	Facing History welcomes your comments regarding this Privacy Statement. If you believe that Facing History has not adhered to this Statement, please contact us by telephone, e-mail, or postal mail.</p>
+	<ul>
+		<li>provide and make improvements to the site, system maintenance, support, reporting and hosting of data, and troubleshooting;</li>
+		<li>ensure that the site is secure;</li>
+		<li>analyse how users interact with the site; and</li>
+		<li>address any issues you may experience with the site.</li>
+	</ul>
 
-<p>
-	Facing History's Privacy Policy<br>
-	16 Hurd Rd<br>
-	Brookline, MA 02445<br>
-	617-232-1595<br>
-	800-856-9039<br>
-	Email: <a href="/cdn-cgi/l/email-protection#abc2c5cdc4ebcdcac8c2c5ccc3c2d8dfc4d9d285c4d9cc94d8dec9c1cec8df96fbd9c2ddcac8d28e999bfbc4c7c2c8d28e999bc2c5dadec2d9d2"><span class="__cf_email__" data-cfemail="a2cbccc4cde2c4c3c1cbccc5cacbd1d6cdd0db8ccdd0c5">[email&nbsp;protected]</span></a></p>
+	<p>We may also use any or all of the information above to administer and manage Facing History in general. If you feel that your interests and fundamental rights outweigh our business purposes, and that we should therefore stop processing your data, please let us know.</p>
 
-<p>
-	Last updated: August 27, 2018</p>  </div>
+	<p><strong>c) We need to comply with a legal or regulatory obligation </strong></p>
+
+	<p>In certain circumstances, we may need to retain or use your data to comply with regulations and/or the law.</p>
+
+	<p><strong>d) We need it to perform a contract or provide a service that you or your organization has asked for </strong></p>
+
+	<p>For example, we may need your <strong>contact and log-in data</strong> to enable you to create an account on our site; your <strong>contact, identity, technical and/or usage information</strong> to respond to a question you have asked us via our site, and your <strong>billing and payment information</strong> to process any payments you have requested.</p>
+
+	<p>Likewise, if you have subscribed to one of our events, or otherwise requested our services, we may need your contact and identity data to be able to provide that service to you.</p>
+	</li>
+	<li>
+	<h4><a id="how-we-share-personal-data" name="how-we-share-personal-data">How we share personal data</a></h4>
+
+	<p>Personal data collected via this site is shared between Facing History US, Facing History Canada and Facing History UK.</p>
+
+	<p>We do not sell, rent, or lease our customer lists to third parties. We do not sell, trade, or share any donor's personal information with any other entity, nor do we send donor mailings on behalf of other organizations.</p>
+
+	<p>We may share your information with our trusted third-party service providers (including information technology providers such as website and mailing list hosts, and Docebo, our online learning platform provider). We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.</p>
+
+	<p>If you voluntarily submit information in connection with a special project that we are conducting with another organization, we may share your information with that organization for purposes of the project.</p>
+
+	<p>On rare occasions, we may access and/or disclose your personal information if required to do so by law or regulation, or in the good faith belief that such action is necessary to: (a) comply with any applicable law or with legal process; (b) protect and defend the rights or property of Facing History; or (c) act under exigent circumstances to protect the rights, property or personal safety of our employees, services or members of the public.</p>
+	</li>
+	<li>
+	<h4><a id="international-transfers" name="international-transfers">International transfers</a></h4>
+
+	<p>This site is hosted on servers located in the United States.</p>
+
+	<p>If Facing History UK transfers your data outside of the European Economic Area to a country which the European Commission does not deem to have adequate data privacy laws, we will ensure that such transfer(s) are in accordance with applicable data privacy laws. In respect of transfers within Facing History, we have executed a data transfer agreement giving effect to the Model Clauses pursuant to Commission decision 2004/915/EC.</p>
+
+	<p>In respect of transfers outside of Facing History, we either implement the Model Clauses pursuant to Commission decision 2004/915/EC or 2010/87/EU (as appropriate) with the recipient of your personal data; and/or ensure that the recipient of your data is registered with the EU-US Privacy Shield.&nbsp;</p>
+
+	<p>You can obtain further information in this respect (including a copy of the Model Clauses) by contacting us.</p>
+	</li>
+	<li>
+	<h4><a id="data-security" name="data-security">Data security</a></h4>
+
+	<p>Facing History is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
+
+	<p>However, the transmission of information via the internet is not completely secure. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot guarantee the security of your data.</p>
+	</li>
+	<li>
+	<h4><a id="children" name="children">Children</a></h4>
+
+	<p>Protecting children on the internet is very important to us. For that reason, we do not intentionally collect information on our site from children under the age of 13. Parents can be proactive and limit web site access to their children by installing filtering software.</p>
+
+	<p>Children's access to the internet can enable them to visit inappropriate web sites and be exposed to unnecessary risks. In the US, the Children's Online Privacy Protection Act (COPPA) protects children under the age of 13 from the online collection of personal information. Learn more about COPPA at the <a href="https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions">Federal Trade Commission's web site</a>.</p>
+	</li>
+	<li>
+	<h4><a id="how-long-we-keep-personal-data" name="how-long-we-keep-personal-data">How long we keep personal data</a></h4>
+
+	<p>We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for. (This includes satisfying any legal, accounting, or reporting requirements.)</p>
+
+	<p>When we decide how long to retain personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data (and whether we can achieve those purposes through other means), and our legal requirements.</p>
+	</li>
+	<li>
+	<h4><a id="third-party-links" name="third-party-links">Third party links</a></h4>
+
+	<p>This site may contain links to other sites whose information practices may be different than ours. Facing History is not responsible for the information practices employed by sites linked to or from our web site. In most cases, links to non-Facing History web sites are provided solely as pointers to information on topics that we think may be useful to you. Since third party web sites may have different privacy policies and/or security standards, we advise you to read the privacy policies and terms and conditions of these sites before you provide any personal information.</p>
+	</li>
+	<li>
+	<h4><a id="your-rights" name="your-rights">Your rights</a></h4>
+
+	<p>If you are in the European Union, or if your data has been processed by Facing History UK, the European General Data Protection Regulation ("<strong>GDPR</strong>") gives you specific rights over your personal data. If the GDPR applies, you have the right to:</p>
+
+	<ul>
+		<li>require us to correct any inaccurate personal data we hold about you;</li>
+		<li>request a copy of the personal data that we hold about you; and</li>
+		<li>withdraw your consent to our using your data for marketing purposes.</li>
+	</ul>
+
+	<p>In certain circumstances, you may also:</p>
+
+	<ul>
+		<li>ask us to restrict how we use your personal information;</li>
+		<li>ask us to delete the personal information we hold about you; and</li>
+		<li>ask us to provide you with the information that we hold about you in a</li>
+		<li>structured, commonly used and machine-readable format.</li>
+	</ul>
+
+	<p>You also have the right to lodge a complaint with the Information Commissioner’s Office (“<strong>ICO</strong>”), which is the UK supervisory authority for data protection issues (<a href="https://ico.org.uk/">www.ico.org.uk</a>). We would, however, be grateful if you would contact us in the first instance so we can endeavor to deal with your concerns direct.</p>
+
+	<p>If you wish to exercise any of these rights, please contact us at<a href="/cdn-cgi/l/email-protection#264f484049664047454f48414e4f555249545f08495441195553444c4345521b76544f5047455f03141676494a4f455f0314166f4857534f545f"> <span class="__cf_email__" data-cfemail="21484f474e61474042484f46494852554e53580f4e5346">[email&nbsp;protected]</span></a> or by writing to one of our addresses listed above.</p>
+	</li>
+	<li>
+	<h4><a id="changes-to-policy-your-data" name="changes-to-policy-your-data">Changes to this policy or your data</a></h4>
+
+	<p>We may occasionally update this Privacy Notice. Any changes will be posted on this site, and (if you have subscribed to our mailing lists), we will also update you of any changes. We also encourage you to review this Privacy Notice from time to time to be informed of how we are protecting your information.</p>
+
+	<p>This privacy notice was last updated on October 10, 2018.</p>
+	</li>
+</ol>
+<!-- THIS VERSION NUMBER WAS IN THE DOC CAMERON PROVIDED ON 10/02/2018:  
+63063629 v6-->  </div>
   </div>
 
   
@@ -268,7 +406,9 @@
 
   
   
+
 </div>
+
 <!-- end page content area -->
 
 
@@ -276,7 +416,7 @@
 
   <div class="global-cta">
       <div class="region region-global-cta">
-    <div id="block-bean-front-download-free" class="block block-bean dark has-field-image view-mode-3-column-wide block-bean-cta-block block-bean-622">
+    <div id="block-bean-front-download-free" class="block block-bean  has-field-image view-mode-3-column-wide block-bean-cta-block block-bean-622">
 
     
   <div class="content">
@@ -290,7 +430,7 @@
 <source srcset="https://www.facinghistory.org/sites/default/files/styles/425x240/public/cta/fddcd1ca-87bf-11e5-98de-ccccaba5ecc6.jpg?itok=9jszDxnf&amp;timestamp=1457971787 1x" media="(min-width: 767px)">
 <source srcset="https://www.facinghistory.org/sites/default/files/styles/375x120/public/cta/fddcd1ca-87bf-11e5-98de-ccccaba5ecc6.jpg?itok=O-ZdoTIH&amp;timestamp=1457971787 1x" media="(min-width: 0px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://www.facinghistory.org/sites/default/files/styles/425x240/public/cta/fddcd1ca-87bf-11e5-98de-ccccaba5ecc6.jpg?itok=9jszDxnf&amp;timestamp=1457971787" alt="" title="">
+<img src="https://www.facinghistory.org/sites/default/files/styles/425x240/public/cta/fddcd1ca-87bf-11e5-98de-ccccaba5ecc6.jpg?itok=9jszDxnf&amp;timestamp=1457971787" alt="stack of Facing History and Ourselves resource books on a desk." title="">
 </picture></a>  </div>
 
   <div class="field-callout-link">
@@ -299,7 +439,7 @@
 </div>
   </div>
 </div>
-<div id="block-bean-front-subscribe-blog" class="block block-bean dark has-field-image view-mode-3-column-wide block-bean-cta-block block-bean-623">
+<div id="block-bean-front-subscribe-blog" class="block block-bean  has-field-image view-mode-3-column-wide block-bean-cta-block block-bean-623">
 
     
   <div class="content">
@@ -313,7 +453,7 @@
 <source srcset="https://www.facinghistory.org/sites/default/files/styles/425x240/public/cta/fddd5cc6-87bf-11e5-8061-699dc3290910.jpg?itok=ViwxDae5&amp;timestamp=1457971787 1x" media="(min-width: 767px)">
 <source srcset="https://www.facinghistory.org/sites/default/files/styles/375x120/public/cta/fddd5cc6-87bf-11e5-8061-699dc3290910.jpg?itok=B2NsXsU9&amp;timestamp=1457971787 1x" media="(min-width: 0px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://www.facinghistory.org/sites/default/files/styles/425x240/public/cta/fddd5cc6-87bf-11e5-8061-699dc3290910.jpg?itok=ViwxDae5&amp;timestamp=1457971787" alt="" title="">
+<img src="https://www.facinghistory.org/sites/default/files/styles/425x240/public/cta/fddd5cc6-87bf-11e5-8061-699dc3290910.jpg?itok=ViwxDae5&amp;timestamp=1457971787" alt="Universe of Obligation definition on a classroom chalkboard." title="">
 </picture></a>  </div>
 
   <div class="field-callout-link">
@@ -322,7 +462,7 @@
 </div>
   </div>
 </div>
-<div id="block-bean-front-find-workshop" class="block block-bean dark has-field-image view-mode-3-column-wide block-bean-cta-block block-bean-624">
+<div id="block-bean-front-find-workshop" class="block block-bean  has-field-image view-mode-3-column-wide block-bean-cta-block block-bean-624">
 
     
   <div class="content">
@@ -331,12 +471,12 @@
   <div class="content">
     
   <div class="field-image">
-    <a href="/calendar"><picture>
+    <a href="https://www.facinghistory.org/calendar"><picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
 <source srcset="https://www.facinghistory.org/sites/default/files/styles/425x240/public/cta/fddc1910-87bf-11e5-9fcf-dabdd615d91e.jpg?itok=KAJk2MdJ&amp;timestamp=1457971787 1x" media="(min-width: 767px)">
 <source srcset="https://www.facinghistory.org/sites/default/files/styles/375x120/public/cta/fddc1910-87bf-11e5-9fcf-dabdd615d91e.jpg?itok=Nml4OR3D&amp;timestamp=1457971787 1x" media="(min-width: 0px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://www.facinghistory.org/sites/default/files/styles/425x240/public/cta/fddc1910-87bf-11e5-9fcf-dabdd615d91e.jpg?itok=KAJk2MdJ&amp;timestamp=1457971787" alt="" title="">
+<img src="https://www.facinghistory.org/sites/default/files/styles/425x240/public/cta/fddc1910-87bf-11e5-9fcf-dabdd615d91e.jpg?itok=KAJk2MdJ&amp;timestamp=1457971787" alt="a male student uses a marker to write on a wall during a class activity." title="">
 </picture></a>  </div>
 
   <div class="field-callout-link">
@@ -358,7 +498,7 @@
     <h2 class="search-block-title">Search Our Collection</h2><div class="search-block-body">Everything you need to get started teaching your students about racism, antisemitism and prejudice.</div><form action="/privacy" method="post" id="fh-common-search-footer-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keywords">
  <input placeholder="Search" required="" type="text" id="edit-keywords" name="keywords" value="" size="30" maxlength="128" class="form-text">
 </div>
-<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"><input type="hidden" name="form_build_id" value="form-pwTs9Mj42NubWvt-Mniumo2lUYWG2TA_Q-Q19I6njNg">
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"><input type="hidden" name="form_build_id" value="form-HrDOu-DbpcLfU5JcUnrlIRPr1yEDG2SXch2kT6TTIVk">
 <input type="hidden" name="form_id" value="fh_common_search_footer_form">
 </div></form>  </div>
 </div>
@@ -372,7 +512,7 @@
 <div class="form-item form-type-textfield form-item-zip">
  <input placeholder="Your Zip Code" required="" type="text" id="edit-zip" name="zip" value="" size="9" maxlength="128" class="form-text">
 </div>
-<input type="submit" id="edit-submit--2" name="op" value="Submit" class="form-submit"><input type="hidden" name="form_build_id" value="form-EEUt8Eb1XogIKAuuYs0QW10QF3hex10CMtVrdIxG9lA">
+<input type="submit" id="edit-submit--2" name="op" value="Submit" class="form-submit"><input type="hidden" name="form_build_id" value="form-S1gQCLg_1kk8E1nB5djKTqGb2HeWo1fayktjhNIKWzg">
 <input type="hidden" name="form_id" value="fh_common_email_signup_form">
 </div></form>  </div>
 </div>
@@ -424,7 +564,7 @@
   <div class="content">
     <ul class="menu"><li class="first leaf"><a href="/contact-us" title="">Contact Us</a></li>
 <li class="leaf"><a href="/about-us/our-blogs" title="">Our Blogs</a></li>
-<li class="leaf"><a href="/calendar-old">Calendar</a></li>
+<li class="leaf"><a href="/calendar" title="">Calendar</a></li>
 <li class="leaf"><a href="/careers" title="">Careers</a></li>
 <li class="leaf"><a href="/books-borrowing">Books &amp; Borrowing</a></li>
 <li class="last leaf"><a href="https://give.facinghistory.org/">Give</a></li>
@@ -446,7 +586,9 @@
   <div class="content">
     <h2 class="block-title"></h2>
   <div class="field-bean-body text-long">
-    Copyright © 2018 Facing History and Ourselves. We are a registered 501 (c)(3) charity. <a href="/privacy">Privacy Policy</a>  </div>
+    Copyright © 2019 Facing History and Ourselves. We are a registered 501 (c)(3) charity. <a href="/privacy">Privacy Policy</a><br><br>
+Our headquarters are located at:<br>
+16 Hurd Road, Brookline, MA 02445  </div>
   </div>
 </div>
   </div>
@@ -471,14 +613,14 @@ document.createElement( "picture" );
 //--><!]]>
 </script>
 <script type="text/javascript" src="https://www.facinghistory.org/sites/default/files/js/js_9LxQYNcHez42saCSnQXHePouksOl8pzxQr4SokgRx18.js"></script>
-<script type="text/javascript" src="https://www.facinghistory.org/sites/default/files/js/js_pq3znEonrucy4ysqru60ilAerCyAhjmFwoqrBmC0qss.js"></script>
+<script type="text/javascript" src="https://www.facinghistory.org/sites/default/files/js/js_SkjXx2A52ZLvuTUbiNXsIDt7m_Q1mEgo2Clz-0Ou7Pc.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"facingfuture","theme_token":"q39epoENDAlOTBuf4ESwN_B3E1_YHQGALw5b1OXDAMo","js":{"profiles\/facing_history_distro\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"profiles\/facing_history_distro\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/facing_history_distro\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/facing_history_distro\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"0":1,"profiles\/facing_history_distro\/modules\/contrib\/ga_push\/modules\/browser\/ga_push_browser.js":1,"profiles\/facing_history_distro\/modules\/contrib\/back_to_top\/js\/back_to_top.js":1,"profiles\/facing_history_distro\/modules\/contrib\/extlink\/extlink.js":1,"https:\/\/sadmin.brightcove.com\/js\/BrightcoveExperiences.js":1,"profiles\/facing_history_distro\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/facing_history_distro\/modules\/contrib\/hide_submit\/hide_submit.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/bigfoot-fh.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/slick.min.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/responsive-tables.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/microsite.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/facingfuture.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"profiles\/facing_history_distro\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/facing_history_distro\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/facing_history_distro\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"profiles\/facing_history_distro\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/facing_history_distro\/modules\/contrib\/views\/css\/views.css":1,"profiles\/facing_history_distro\/modules\/contrib\/back_to_top\/css\/back_to_top.css":1,"profiles\/facing_history_distro\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/facing_history_distro\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/facing_history_distro\/modules\/contrib\/content_type_extras\/css\/content_type_extras.css":1,"profiles\/facing_history_distro\/modules\/custom\/ts_ck_entity_embed\/includes\/ts_ck_entity_embed.css":1,"profiles\/facing_history_distro\/modules\/contrib\/hide_submit\/hide_submit.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/bigfoot-number.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/bigfoot-number-fh.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/slick-theme.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/slick.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/responsive-tables.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/facingfuture.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/print.css":1}},"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_hide_fx":1,"hide_submit_reset_time":0},"picture":{"mappings":[["Facing History Chunk Mapping","facing_history_chunk_mapping"],["Topics Full","topics_full"],["Topics Teaser","topics_teaser"],["Wide CTA Block","wide_cta_block"],["Large Hero","large_hero"],["CTA Block","cta_block"],["Hero","hero"],["Impact Block","impact_block"],["Card","card"],["Not Set","not_set"]],"label":"Image size (required)"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"(facinghistory\\.org)|(pantheonsite\\.io)|(fh\\.dev)|(fh\\.dv)","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"ts_ck_entity_embed":{"base_path":"profiles\/facing_history_distro\/modules\/custom\/ts_ck_entity_embed","js_files":["https:\/\/sadmin.brightcove.com\/js\/BrightcoveExperiences.js","profiles\/facing_history_distro\/modules\/custom\/fh_modular_content\/js\/fh_modular_content.js","https:\/\/sadmin.brightcove.com\/js\/BrightcoveExperiences.js","profiles\/facing_history_distro\/modules\/custom\/fh_modular_content\/js\/fh_modular_content.js"],"entity_info":{"fh_chunk":{"tab_label":"Chunk","render_method":"fh_modular_content_render_chunk","view_name":"ts_ck_entity_embed_chunk","view_modes":["thumbnail","simple","complete","thumbnail","simple","complete"],"alignment_options":["left","right","center","left","right","center"]}}},"cache_string":"pfmq13","urlIsAjaxTrusted":{"\/privacy":true},"keenio":{"projectId":"57615f290727190538094e61","writeKey":"9997f36f91a6111c02311f993ad597cfbc943cb455ef7862d06a303d6b67ecb334064faf37ee2432ae3025f8081965cd1c80bb7842bb992b174fbf092075e2a9bf8b12fc1ac757eb551710cb5c866202f8ec7d56045ad69ce3cdfe1878472645"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"facingfuture","theme_token":"hkUQmPd9Iu-BsVfb6k5Q5PyUTzehZr5xCoMEH8jT1XY","js":{"profiles\/facing_history_distro\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"profiles\/facing_history_distro\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/facing_history_distro\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/facing_history_distro\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"0":1,"profiles\/facing_history_distro\/modules\/contrib\/ga_push\/modules\/browser\/ga_push_browser.js":1,"profiles\/facing_history_distro\/modules\/contrib\/back_to_top\/js\/back_to_top.js":1,"profiles\/facing_history_distro\/modules\/contrib\/extlink\/extlink.js":1,"https:\/\/sadmin.brightcove.com\/js\/BrightcoveExperiences.js":1,"profiles\/facing_history_distro\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/facing_history_distro\/modules\/contrib\/hide_submit\/hide_submit.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/bigfoot-fh.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/slick.min.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/responsive-tables.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/microsite.js":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/js\/facingfuture.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"profiles\/facing_history_distro\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/facing_history_distro\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/facing_history_distro\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"profiles\/facing_history_distro\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/facing_history_distro\/modules\/contrib\/views\/css\/views.css":1,"profiles\/facing_history_distro\/modules\/contrib\/back_to_top\/css\/back_to_top.css":1,"profiles\/facing_history_distro\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/facing_history_distro\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/facing_history_distro\/modules\/contrib\/content_type_extras\/css\/content_type_extras.css":1,"profiles\/facing_history_distro\/modules\/custom\/ts_ck_entity_embed\/includes\/ts_ck_entity_embed.css":1,"profiles\/facing_history_distro\/modules\/contrib\/hide_submit\/hide_submit.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/bigfoot-number.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/bigfoot-number-fh.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/slick-theme.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/slick.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/responsive-tables.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/facingfuture.css":1,"profiles\/facing_history_distro\/themes\/custom\/facingfuture\/css\/print.css":1}},"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"hide","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_hide_fx":1,"hide_submit_reset_time":0},"picture":{"mappings":[["Facing History Chunk Mapping","facing_history_chunk_mapping"],["Topics Full","topics_full"],["Topics Teaser","topics_teaser"],["Wide CTA Block","wide_cta_block"],["Large Hero","large_hero"],["CTA Block","cta_block"],["Hero","hero"],["Impact Block","impact_block"],["Card","card"],["Not Set","not_set"]],"label":"Image size (required)"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"(facinghistory\\.org)|(pantheonsite\\.io)|(fh\\.dev)|(fh\\.dv)","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"ts_ck_entity_embed":{"base_path":"profiles\/facing_history_distro\/modules\/custom\/ts_ck_entity_embed","js_files":["https:\/\/sadmin.brightcove.com\/js\/BrightcoveExperiences.js","profiles\/facing_history_distro\/modules\/custom\/fh_modular_content\/js\/fh_modular_content.js","https:\/\/sadmin.brightcove.com\/js\/BrightcoveExperiences.js","profiles\/facing_history_distro\/modules\/custom\/fh_modular_content\/js\/fh_modular_content.js"],"entity_info":{"fh_chunk":{"tab_label":"Chunk","render_method":"fh_modular_content_render_chunk","view_name":"ts_ck_entity_embed_chunk","view_modes":["thumbnail","simple","complete","thumbnail","simple","complete"],"alignment_options":["left","right","center","left","right","center"]}}},"cache_string":"pqkpeh","urlIsAjaxTrusted":{"\/privacy":true},"keenio":{"projectId":"57615f290727190538094e61","writeKey":"9997f36f91a6111c02311f993ad597cfbc943cb455ef7862d06a303d6b67ecb334064faf37ee2432ae3025f8081965cd1c80bb7842bb992b174fbf092075e2a9bf8b12fc1ac757eb551710cb5c866202f8ec7d56045ad69ce3cdfe1878472645"}});
 //--><!]]>
 </script>
       </div>
     </div>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"24cee30c04","applicationID":"2697269","transactionName":"blxXZUcCDRZTUBYIX1cWdFJBCgwLHV0NBVVmSVRWUDwVDFdE","queueTime":0,"applicationTime":583,"atts":"QhtUEw8YHhg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"24cee30c04","applicationID":"2697269","transactionName":"blxXZUcCDRZTUBYIX1cWdFJBCgwLHV0NBVVmSVRWUDwVDFdE","queueTime":0,"applicationTime":314,"atts":"QhtUEw8YHhg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </div></body></html>
