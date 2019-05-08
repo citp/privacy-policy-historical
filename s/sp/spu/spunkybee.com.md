@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spunkybee.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229034659id_/http%3A//www.spunkybee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spunkybee.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508022024id_/http%3A//www.spunkybee.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
