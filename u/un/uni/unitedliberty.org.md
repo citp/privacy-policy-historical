@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedliberty.org privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107055227id_/http%3A//www.unitedliberty.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedliberty.org privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508113926id_/http%3A//www.unitedliberty.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United Liberty | Free Market - Individual Liberty - Limited Government
 
