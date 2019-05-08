@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc.ca privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218020327id_/https%3A//www.nbc.ca/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc.ca privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508223643id_/https%3A//www.nbc.ca/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | National Bank
 
