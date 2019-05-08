@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the wqow.com privacy policy that was archived on 2018-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181107175003id_/http%3A//wqow.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wqow.com privacy policy that was archived on 2019-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190508122240id_/http%3A//wqow.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - WQOW</title>
     
@@ -54,7 +54,8 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="cordillera-ads-styles-css" href="http://wqow.com/wp-content/plugins/cordillera-ads/assets/css/ads.css?ver=4.9.8" type="text/css" media="all">
 <link rel="stylesheet" id="cordillera-intra-articles-css" href="http://wqow.com/wp-content/plugins/cordillera-intra-article-nav/assets/css/intra-articles.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="wp-polls-css" href="http://wqow.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8" type="text/css" media="all">
+<link rel="stylesheet" id="cordillera-video-embed-css" href="http://wqow.com/wp-content/plugins/cordillera-post-modification/assets/css/video-embed.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="http://wqow.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.2" type="text/css" media="all">
 <style id="wp-polls-inline-css" type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
@@ -96,52 +97,18 @@ img.emoji {
 <script type="text/javascript" src="http://wqow.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _EPYT_ = {"ajaxurl":"http:\/\/wqow.com\/wp-admin\/admin-ajax.php","security":"a987690142","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/wqow.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+var _EPYT_ = {"ajaxurl":"https:\/\/wqow.com\/wp-admin\/admin-ajax.php","security":"62f1f05d9b","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/wqow.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://wqow.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=12.2"></script>
 <link rel="https://api.w.org/" href="http://wqow.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wqow.com/xmlrpc.php?rsd">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wqow.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wqow.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.9.8">
 <link rel="shortlink" href="http://wqow.com/?p=387">
 <link rel="alternate" type="application/json+oembed" href="http://wqow.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwqow.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://wqow.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwqow.com%2Fprivacy-policy%2F&amp;format=xml">
-<script type="text/javascript">
-(function(url){
-	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-	var addEvent = function(evt, handler) {
-		if (window.addEventListener) {
-			document.addEventListener(evt, handler, false);
-		} else if (window.attachEvent) {
-			document.attachEvent('on' + evt, handler);
-		}
-	};
-	var removeEvent = function(evt, handler) {
-		if (window.removeEventListener) {
-			document.removeEventListener(evt, handler, false);
-		} else if (window.detachEvent) {
-			document.detachEvent('on' + evt, handler);
-		}
-	};
-	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
-	var logHuman = function() {
-		if (window.wfLogHumanRan) { return; }
-		window.wfLogHumanRan = true;
-		var wfscr = document.createElement('script');
-		wfscr.type = 'text/javascript';
-		wfscr.async = true;
-		wfscr.src = url + '&r=' + Math.random();
-		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-		for (var i = 0; i < evts.length; i++) {
-			removeEvent(evts[i], logHuman);
-		}
-	};
-	for (var i = 0; i < evts.length; i++) {
-		addEvent(evts[i], logHuman);
-	}
-})('//wqow.com/?wordfence_lh=1&hid=F5966DA8A00DF220F03989DC5C7602AD');
-</script>
+
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 <!-- Google Tag Manager for WordPress by gtm4wp.com -->
@@ -196,57 +163,57 @@ body.pojo-a11y-focusable a:focus{ outline-style: solid !important;	outline-width
                       var mapping1 = googletag.sizeMapping().
         addSize([1024,0],[300, 250]). //desktop 
 addSize([0,0],[300, 250]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wqow/wqow.com/1:1_a', [300,250], 'div-gpt-ad-1').
-            defineSizeMapping(mapping1).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "1:1_A Medium_Rectangle");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wqow/wqow.com/1:1_a', [300,250], 'div-gpt-ad-1')
+            .defineSizeMapping(mapping1)
+        .setTargeting("wp_unit", "1:1_A Medium_Rectangle")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
         var mapping2 = googletag.sizeMapping().
         addSize([1024,0],[300, 250]). //desktop 
 addSize([0,0],[300, 250]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wqow/wqow.com/1:1_b', [300,250], 'div-gpt-ad-2').
-            defineSizeMapping(mapping2).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "1:1_B Medium_Rectangle");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wqow/wqow.com/1:1_b', [300,250], 'div-gpt-ad-2')
+            .defineSizeMapping(mapping2)
+        .setTargeting("wp_unit", "1:1_B Medium_Rectangle")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
         var mapping3 = googletag.sizeMapping().
         addSize([1024,0],[728, 90]). //desktop 
 addSize([0,0],[320, 50]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wqow/wqow.com/8:1_a', [[728,90],[320,50]], 'div-gpt-ad-3').
-            defineSizeMapping(mapping3).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "8:1_A Leaderboard");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wqow/wqow.com/8:1_a', [[728,90],[320,50]], 'div-gpt-ad-3')
+            .defineSizeMapping(mapping3)
+        .setTargeting("wp_unit", "8:1_A Leaderboard")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
         var mapping4 = googletag.sizeMapping().
         addSize([1024,0],[728, 90]). //desktop 
 addSize([0,0],[320, 50]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wqow/wqow.com/8:1_b', [[728,90],[320,50]], 'div-gpt-ad-4').
-            defineSizeMapping(mapping4).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "8:1_B Leaderboard");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wqow/wqow.com/8:1_b', [[728,90],[320,50]], 'div-gpt-ad-4')
+            .defineSizeMapping(mapping4)
+        .setTargeting("wp_unit", "8:1_B Leaderboard")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
 googletag.pubads().setTargeting("wp_category", ["news"]);
@@ -297,7 +264,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <i class="wi wi-day-cloudy" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
-                    Osseo                </div>
+                    Eau Claire                </div>
+                                    <div class="station-temperature" style="color:#212121">
+                        45°
+                    </div>
                             </div>
                     <div class="station" data-slide-number="1" data-station-id="KLUM">
                 <div class="station-condition">
@@ -305,15 +275,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Menomonie                </div>
+                                    <div class="station-temperature" style="color:#212121">
+                        42°
+                    </div>
                             </div>
                     <div class="station" data-slide-number="2" data-station-id="KY23">
                 <div class="station-condition">
-                    <i class="wi wi-day-cloudy" data-condition="Unknown Precipitation" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-day-cloudy" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Chetek                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        32°
+                        45°
                     </div>
                             </div>
                     <div class="station" data-slide-number="3" data-station-id="KRGK">
@@ -322,6 +295,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Durand                </div>
+                                    <div class="station-temperature" style="color:#212121">
+                        46°
+                    </div>
                             </div>
                     <div class="station" data-slide-number="4" data-station-id="KRCX">
                 <div class="station-condition">
@@ -329,9 +305,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Ladysmith                </div>
-                                    <div class="station-temperature" style="color:#212121">
-                        33°
-                    </div>
                             </div>
                     <div class="station" data-slide-number="5" data-station-id="KMFI">
                 <div class="station-condition">
@@ -340,7 +313,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     Neillsville                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        32°
+                        41°
                     </div>
                             </div>
                     <div class="station" data-slide-number="6" data-station-id="KRPD">
@@ -349,9 +322,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Rice Lake                </div>
-                                    <div class="station-temperature" style="color:#212121">
-                        32°
-                    </div>
                             </div>
                     <div class="station" data-slide-number="7" data-station-id="KRNH">
                 <div class="station-condition">
@@ -360,17 +330,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     New Richmond                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        30°
+                        46°
                     </div>
                             </div>
                     <div class="station" data-slide-number="8" data-station-id="KBCK">
                 <div class="station-condition">
-                    <i class="wi wi-day-cloudy" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-day-cloudy" data-condition="Mostly Cloudy" data-condition-abbrv="bkn" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Black River Falls                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        34°
+                        44°
                     </div>
                             </div>
                     <div class="station" data-slide-number="9" data-station-id="KMDZ">
@@ -382,32 +352,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                     <div class="station" data-slide-number="10" data-station-id="K21D">
                 <div class="station-condition">
-                    <i class="wi wi-day-cloudy" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-day-sunny" data-condition="Clear" data-condition-abbrv="skc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     River Falls                 </div>
                                     <div class="station-temperature" style="color:#212121">
-                        32°
+                        46°
                     </div>
                             </div>
                     <div class="station" data-slide-number="11" data-station-id="KDLH">
                 <div class="station-condition">
-                    <i class="wi wi-snow" data-condition="Light Snow" data-condition-abbrv="snow" style="color:#0A246A"></i>
+                    <i class="wi wi-rain" data-condition="Light Rain" data-condition-abbrv="rain" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Duluth                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        29°
+                        39°
                     </div>
                             </div>
                     <div class="station" data-slide-number="12" data-station-id="KGRB">
                 <div class="station-condition">
-                    <i class="wi wi-day-cloudy" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-day-sunny" data-condition="Clear" data-condition-abbrv="skc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Green Bay                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        37°
+                        41°
                     </div>
                             </div>
                     <div class="station" data-slide-number="13" data-station-id="KLSE">
@@ -417,7 +387,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     La Crosse                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        35°
+                        48°
                     </div>
                             </div>
                     <div class="station" data-slide-number="14" data-station-id="KMSN">
@@ -427,7 +397,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     Madison                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        35°
+                        42°
                     </div>
                             </div>
                     <div class="station" data-slide-number="15" data-station-id="KMKE">
@@ -437,7 +407,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     Milwaukee                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        39°
+                        45°
                     </div>
                             </div>
                     <div class="station" data-slide-number="16" data-station-id="KMSP">
@@ -447,7 +417,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="station-title" style="color:#212121">
                     Twin Cities                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        31°
+                        50°
                     </div>
                             </div>
             </div>
@@ -459,11 +429,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                             <ul id="menu-main-menu" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-home first-item menu-item-2634"><a href="https://wqow.com/"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-news menu-item-172"><a href="http://wqow.com/news/"><span>News</span></a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-election-results menu-item-57305"><a href="http://wqow.com/election-results/"><span>Election Results</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-election-results menu-item-120736"><a href="http://wqow.com/election-results/"><span>Election Results</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closs-missing-barron-teen menu-item-48508"><a href="http://wqow.com/closs/"><span>Closs: Missing Barron Teen</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-meth-community-crisis menu-item-33417"><a href="http://wqow.com/meth-crisis-in-our-community/"><span>Meth: Community Crisis</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-crime-courts menu-item-2968"><a href="http://wqow.com/crime-courts/"><span>Crime &amp; Courts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-your-voice-your-vote menu-item-2969"><a href="http://wqow.com/your-voice-your-vote/"><span>Your Voice, Your Vote</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-digging-deeper menu-item-115236"><a href="http://wqow.com/digging-deeper/"><span>Digging Deeper</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-daybreak menu-item-3002"><a href="http://wqow.com/daybreak/"><span>Daybreak</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-actively-aging menu-item-3003"><a href="http://wqow.com/actively-aging/"><span>Actively Aging</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-obituaries menu-item-23302"><a href="https://wqow.tributes.com/"><span>Obituaries</span></a></li>
@@ -472,7 +442,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-weather menu-item-404"><a href="http://wqow.com/weather/"><span>Weather</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-interactive-radar menu-item-885"><a href="http://wqow.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-cancellations menu-item-874"><a href="http://wqow.com/closings-cancellations/"><span>Closings &amp; Cancellations</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-cancellations menu-item-874"><a href="http://wqow.com/closings/"><span>Closings &amp; Cancellations</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-submit-closings menu-item-2635"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=wqow_12bq,9a1qp"><span>Submit Closings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-traffic-cameras menu-item-3465"><a href="http://wqow.com/traffic-cameras/"><span>Traffic Cameras</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-stormtracker-18-weather-app menu-item-21801"><a href="http://wqow.com/stormtracker-18-weather-app/"><span>Stormtracker 18 Weather App</span></a></li>
@@ -481,17 +451,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-sports menu-item-171"><a href="http://wqow.com/sports/"><span>Sports</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wiaa-state-tournament menu-item-3473"><a href="http://wqow.com/sports/wiaa-state-tournament/"><span>WIAA State Tournament</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-magic-of-march-app menu-item-105162"><a href="http://wqow.com/sport/wiaa/2015/01/26/download-the-magic-of-march-app-for-wiaa-basketball-and-hockey/"><span>Magic of March app</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-prep-sports menu-item-3478"><a href="http://wqow.com/prep-sports/"><span>Prep Sports</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-college-sports menu-item-3472"><a href="http://wqow.com/college-sports/"><span>College Sports</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-community menu-item-403"><a href="http://wqow.com/community/"><span>Community</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-community-calendar menu-item-83326"><a href="/community/"><span>Community Calendar</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-hometown-business-connections menu-item-3471"><a href="http://wqow.com/hometown-business-connections/"><span>Hometown Business Connections</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-inspiring-health menu-item-3470"><a href="http://wqow.com/inspiring-health/"><span>Inspiring Health</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-contests menu-item-3468"><a href="http://wqow.com/contests-2/"><span>Contests</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-jefferson-awards menu-item-3469"><a href="http://wqow.com/jefferson-awards/"><span>Jefferson Awards</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-tools-for-schools menu-item-19758"><a href="http://wqow.com/tools-for-schools/"><span>Tools for Schools</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-tools-for-schools menu-item-19758"><a href="http://wqow.com/tools/"><span>Tools for Schools</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-positively-chippewa-valley menu-item-35683"><a href="http://wqow.com/positively-chippewa-valley/"><span>Positively Chippewa Valley</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-submit-a-birthday-request menu-item-3466"><a href="http://wqow.com/submit-a-birthday-request/"><span>Submit a birthday request</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-adopt-a-pet menu-item-3467"><a href="http://wqow.com/adopt-a-pet/"><span>Adopt A Pet</span></a></li>
@@ -499,7 +471,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-watch menu-item-408"><a href="http://wqow.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-tv-listings menu-item-99325"><a href="http://wqow.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wqow-live-stream menu-item-3677"><a href="http://wqow.com/news/wqow-live-stream/"><span>WQOW Live Stream</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-eau-claire-la-crosse-cw menu-item-134393"><a href="https://yourcwtv.com/partners/lacrosse/"><span>Eau Claire-La Crosse CW</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-decades-tv menu-item-134389"><a href="https://www.decades.com/"><span>Decades TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-court-tv menu-item-134390"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-justice-network menu-item-134391"><a href="http://www.justicenetworktv.com/"><span>Justice Network</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-discover-wisconsin menu-item-56204"><a href="https://discoverwisconsin.com"><span>Discover Wisconsin</span></a></li>
 </ul>
 </li>
@@ -509,7 +486,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-meet-the-team menu-item-3756"><a href="http://wqow.com/meet-the-team/"><span>Meet the Team</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-advertise-with-wqow menu-item-490"><a href="http://wqow.com/advertise-with-wqow/"><span>Advertise with WQOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-advertiser-services menu-item-487"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-quincify-digital-marketing menu-item-488"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-careers-at-wqow menu-item-486"><a href="http://wqow.com/wqow-careers/"><span>Careers at WQOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-quincy-media-careers menu-item-489"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
@@ -517,11 +493,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul><ul id="menu-main-menu-1" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home first-item menu-item-2634"><a href="https://wqow.com/"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-172"><a href="http://wqow.com/news/"><span>News</span></a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57305"><a href="http://wqow.com/election-results/"><span>Election Results</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120736"><a href="http://wqow.com/election-results/"><span>Election Results</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48508"><a href="http://wqow.com/closs/"><span>Closs: Missing Barron Teen</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33417"><a href="http://wqow.com/meth-crisis-in-our-community/"><span>Meth: Community Crisis</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2968"><a href="http://wqow.com/crime-courts/"><span>Crime &amp; Courts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2969"><a href="http://wqow.com/your-voice-your-vote/"><span>Your Voice, Your Vote</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115236"><a href="http://wqow.com/digging-deeper/"><span>Digging Deeper</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3002"><a href="http://wqow.com/daybreak/"><span>Daybreak</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3003"><a href="http://wqow.com/actively-aging/"><span>Actively Aging</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23302"><a href="https://wqow.tributes.com/"><span>Obituaries</span></a></li>
@@ -530,7 +506,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-404"><a href="http://wqow.com/weather/"><span>Weather</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-885"><a href="http://wqow.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://wqow.com/closings-cancellations/"><span>Closings &amp; Cancellations</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://wqow.com/closings/"><span>Closings &amp; Cancellations</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2635"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=wqow_12bq,9a1qp"><span>Submit Closings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3465"><a href="http://wqow.com/traffic-cameras/"><span>Traffic Cameras</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21801"><a href="http://wqow.com/stormtracker-18-weather-app/"><span>Stormtracker 18 Weather App</span></a></li>
@@ -539,17 +515,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-171"><a href="http://wqow.com/sports/"><span>Sports</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3473"><a href="http://wqow.com/sports/wiaa-state-tournament/"><span>WIAA State Tournament</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-105162"><a href="http://wqow.com/sport/wiaa/2015/01/26/download-the-magic-of-march-app-for-wiaa-basketball-and-hockey/"><span>Magic of March app</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3478"><a href="http://wqow.com/prep-sports/"><span>Prep Sports</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3472"><a href="http://wqow.com/college-sports/"><span>College Sports</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-403"><a href="http://wqow.com/community/"><span>Community</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83326"><a href="/community/"><span>Community Calendar</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471"><a href="http://wqow.com/hometown-business-connections/"><span>Hometown Business Connections</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3470"><a href="http://wqow.com/inspiring-health/"><span>Inspiring Health</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3468"><a href="http://wqow.com/contests-2/"><span>Contests</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3469"><a href="http://wqow.com/jefferson-awards/"><span>Jefferson Awards</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19758"><a href="http://wqow.com/tools-for-schools/"><span>Tools for Schools</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19758"><a href="http://wqow.com/tools/"><span>Tools for Schools</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35683"><a href="http://wqow.com/positively-chippewa-valley/"><span>Positively Chippewa Valley</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3466"><a href="http://wqow.com/submit-a-birthday-request/"><span>Submit a birthday request</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3467"><a href="http://wqow.com/adopt-a-pet/"><span>Adopt A Pet</span></a></li>
@@ -557,7 +535,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-408"><a href="http://wqow.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99325"><a href="http://wqow.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3677"><a href="http://wqow.com/news/wqow-live-stream/"><span>WQOW Live Stream</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134393"><a href="https://yourcwtv.com/partners/lacrosse/"><span>Eau Claire-La Crosse CW</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134389"><a href="https://www.decades.com/"><span>Decades TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134390"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134391"><a href="http://www.justicenetworktv.com/"><span>Justice Network</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56204"><a href="https://discoverwisconsin.com"><span>Discover Wisconsin</span></a></li>
 </ul>
 </li>
@@ -567,7 +550,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3756"><a href="http://wqow.com/meet-the-team/"><span>Meet the Team</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="http://wqow.com/advertise-with-wqow/"><span>Advertise with WQOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-487"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="http://wqow.com/wqow-careers/"><span>Careers at WQOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-489"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
@@ -628,11 +610,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <ul id="menu-main-menu-2" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home first-item menu-item-2634"><a href="https://wqow.com/"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-172"><a href="http://wqow.com/news/"><span>News</span></a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57305"><a href="http://wqow.com/election-results/"><span>Election Results</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120736"><a href="http://wqow.com/election-results/"><span>Election Results</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48508"><a href="http://wqow.com/closs/"><span>Closs: Missing Barron Teen</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33417"><a href="http://wqow.com/meth-crisis-in-our-community/"><span>Meth: Community Crisis</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2968"><a href="http://wqow.com/crime-courts/"><span>Crime &amp; Courts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2969"><a href="http://wqow.com/your-voice-your-vote/"><span>Your Voice, Your Vote</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115236"><a href="http://wqow.com/digging-deeper/"><span>Digging Deeper</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3002"><a href="http://wqow.com/daybreak/"><span>Daybreak</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3003"><a href="http://wqow.com/actively-aging/"><span>Actively Aging</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23302"><a href="https://wqow.tributes.com/"><span>Obituaries</span></a></li>
@@ -641,7 +623,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-404"><a href="http://wqow.com/weather/"><span>Weather</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-885"><a href="http://wqow.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://wqow.com/closings-cancellations/"><span>Closings &amp; Cancellations</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://wqow.com/closings/"><span>Closings &amp; Cancellations</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2635"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=wqow_12bq,9a1qp"><span>Submit Closings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3465"><a href="http://wqow.com/traffic-cameras/"><span>Traffic Cameras</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21801"><a href="http://wqow.com/stormtracker-18-weather-app/"><span>Stormtracker 18 Weather App</span></a></li>
@@ -650,17 +632,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-171"><a href="http://wqow.com/sports/"><span>Sports</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3473"><a href="http://wqow.com/sports/wiaa-state-tournament/"><span>WIAA State Tournament</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-105162"><a href="http://wqow.com/sport/wiaa/2015/01/26/download-the-magic-of-march-app-for-wiaa-basketball-and-hockey/"><span>Magic of March app</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3478"><a href="http://wqow.com/prep-sports/"><span>Prep Sports</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3472"><a href="http://wqow.com/college-sports/"><span>College Sports</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-403"><a href="http://wqow.com/community/"><span>Community</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83326"><a href="/community/"><span>Community Calendar</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471"><a href="http://wqow.com/hometown-business-connections/"><span>Hometown Business Connections</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3470"><a href="http://wqow.com/inspiring-health/"><span>Inspiring Health</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3468"><a href="http://wqow.com/contests-2/"><span>Contests</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3469"><a href="http://wqow.com/jefferson-awards/"><span>Jefferson Awards</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19758"><a href="http://wqow.com/tools-for-schools/"><span>Tools for Schools</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19758"><a href="http://wqow.com/tools/"><span>Tools for Schools</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35683"><a href="http://wqow.com/positively-chippewa-valley/"><span>Positively Chippewa Valley</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3466"><a href="http://wqow.com/submit-a-birthday-request/"><span>Submit a birthday request</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3467"><a href="http://wqow.com/adopt-a-pet/"><span>Adopt A Pet</span></a></li>
@@ -668,7 +652,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-408"><a href="http://wqow.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99325"><a href="http://wqow.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3677"><a href="http://wqow.com/news/wqow-live-stream/"><span>WQOW Live Stream</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134393"><a href="https://yourcwtv.com/partners/lacrosse/"><span>Eau Claire-La Crosse CW</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134389"><a href="https://www.decades.com/"><span>Decades TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134390"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134391"><a href="http://www.justicenetworktv.com/"><span>Justice Network</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56204"><a href="https://discoverwisconsin.com"><span>Discover Wisconsin</span></a></li>
 </ul>
 </li>
@@ -678,7 +667,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3756"><a href="http://wqow.com/meet-the-team/"><span>Meet the Team</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="http://wqow.com/advertise-with-wqow/"><span>Advertise with WQOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-487"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="http://wqow.com/wqow-careers/"><span>Careers at WQOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-489"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
@@ -686,11 +674,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul><ul id="menu-main-menu-3" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home first-item menu-item-2634"><a href="https://wqow.com/"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-172"><a href="http://wqow.com/news/"><span>News</span></a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57305"><a href="http://wqow.com/election-results/"><span>Election Results</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120736"><a href="http://wqow.com/election-results/"><span>Election Results</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48508"><a href="http://wqow.com/closs/"><span>Closs: Missing Barron Teen</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33417"><a href="http://wqow.com/meth-crisis-in-our-community/"><span>Meth: Community Crisis</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2968"><a href="http://wqow.com/crime-courts/"><span>Crime &amp; Courts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2969"><a href="http://wqow.com/your-voice-your-vote/"><span>Your Voice, Your Vote</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115236"><a href="http://wqow.com/digging-deeper/"><span>Digging Deeper</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3002"><a href="http://wqow.com/daybreak/"><span>Daybreak</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3003"><a href="http://wqow.com/actively-aging/"><span>Actively Aging</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23302"><a href="https://wqow.tributes.com/"><span>Obituaries</span></a></li>
@@ -699,7 +687,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-404"><a href="http://wqow.com/weather/"><span>Weather</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-885"><a href="http://wqow.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://wqow.com/closings-cancellations/"><span>Closings &amp; Cancellations</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://wqow.com/closings/"><span>Closings &amp; Cancellations</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2635"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=wqow_12bq,9a1qp"><span>Submit Closings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3465"><a href="http://wqow.com/traffic-cameras/"><span>Traffic Cameras</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21801"><a href="http://wqow.com/stormtracker-18-weather-app/"><span>Stormtracker 18 Weather App</span></a></li>
@@ -708,17 +696,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-171"><a href="http://wqow.com/sports/"><span>Sports</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3473"><a href="http://wqow.com/sports/wiaa-state-tournament/"><span>WIAA State Tournament</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-105162"><a href="http://wqow.com/sport/wiaa/2015/01/26/download-the-magic-of-march-app-for-wiaa-basketball-and-hockey/"><span>Magic of March app</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3478"><a href="http://wqow.com/prep-sports/"><span>Prep Sports</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3472"><a href="http://wqow.com/college-sports/"><span>College Sports</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-403"><a href="http://wqow.com/community/"><span>Community</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83326"><a href="/community/"><span>Community Calendar</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471"><a href="http://wqow.com/hometown-business-connections/"><span>Hometown Business Connections</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3470"><a href="http://wqow.com/inspiring-health/"><span>Inspiring Health</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3468"><a href="http://wqow.com/contests-2/"><span>Contests</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3469"><a href="http://wqow.com/jefferson-awards/"><span>Jefferson Awards</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19758"><a href="http://wqow.com/tools-for-schools/"><span>Tools for Schools</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19758"><a href="http://wqow.com/tools/"><span>Tools for Schools</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35683"><a href="http://wqow.com/positively-chippewa-valley/"><span>Positively Chippewa Valley</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3466"><a href="http://wqow.com/submit-a-birthday-request/"><span>Submit a birthday request</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3467"><a href="http://wqow.com/adopt-a-pet/"><span>Adopt A Pet</span></a></li>
@@ -726,7 +716,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-408"><a href="http://wqow.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99325"><a href="http://wqow.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3677"><a href="http://wqow.com/news/wqow-live-stream/"><span>WQOW Live Stream</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134393"><a href="https://yourcwtv.com/partners/lacrosse/"><span>Eau Claire-La Crosse CW</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134389"><a href="https://www.decades.com/"><span>Decades TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134390"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134391"><a href="http://www.justicenetworktv.com/"><span>Justice Network</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56204"><a href="https://discoverwisconsin.com"><span>Discover Wisconsin</span></a></li>
 </ul>
 </li>
@@ -736,7 +731,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3756"><a href="http://wqow.com/meet-the-team/"><span>Meet the Team</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="http://wqow.com/advertise-with-wqow/"><span>Advertise with WQOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-487"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="http://wqow.com/wqow-careers/"><span>Careers at WQOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-489"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
@@ -840,22 +834,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<p>Boyd's fire chief told News 18 crews were digging up a leaking water line at Double D's Saloon and workers</p>
 			</div>
 					</div>
-</div><div class="recent-post media list-item post-33477 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories category-crime-courts tag-child tag-courts tag-eau-claire tag-sexual-assault tag-wqow post_format-post-format-image ">
-		<div class="media-body">
-					<h3 class="media-heading entry-title"><a href="http://wqow.com/news/top-stories/2018/09/14/sex-offender-faces-new-charges-in-eau-claire/">Sex offender faces new charges in Eau Claire</a></h3>
-				<div class="entry-meta">
-														</div>
-					<div class="entry-excerpt">
-				<p>A convicted sex offender living in Eau Claire is charged with two counts of first degree sexual assault of a</p>
-			</div>
-					</div>
-</div><div class="recent-post media list-item post-36930 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories category-news post_format-post-format-image ">
+</div><div class="recent-post media list-item post-36930 post type-post status-publish format-image has-post-thumbnail hentry category-news category-top-stories post_format-post-format-image ">
 		<div class="media-body">
 					<h3 class="media-heading entry-title"><a href="http://wqow.com/news/top-stories/2018/09/19/active-shooter-reported-at-business-in-madison-suburb-2/">UPDATE: Middleton shooter was employee of business where he opened fire</a></h3>
 				<div class="entry-meta">
 														</div>
 					<div class="entry-excerpt">
 				<p>The Middlelton Police department sent a phone message to residents about an active shooter.</p>
+			</div>
+					</div>
+</div><div class="recent-post media list-item post-84839 post type-post status-publish format-image has-post-thumbnail hentry category-closs category-top-stories tag-barron tag-barron-county tag-denise-closs tag-douglas-county tag-gordon tag-homicide tag-jake-patterson tag-james-closs tag-jayme-closs tag-kidnapping post_format-post-format-image ">
+		<div class="media-body">
+					<h3 class="media-heading entry-title"><a href="http://wqow.com/news/top-stories/2019/01/14/formal-charges-filed-against-jake-patterson-murder-kidnapping-burglary/">Criminal Complaint: Patterson chose Jayme after spotting her get on school bus, made two other attempts to kidnap her</a></h3>
+				<div class="entry-meta">
+														</div>
+					<div class="entry-excerpt">
+				<p>The complaint states he drove past police just 20 seconds after leaving her home.</p>
 			</div>
 					</div>
 </div></div></div></section>        <div id="div-gpt-ad-1" class="div-gpt-ad div-gpt-widget"></div>
@@ -954,7 +948,7 @@ or <a href="mailto:news@wqow.com">news@wqow.com</a></p></div></div></div></secti
 			<div class="container">
 				<div class="content-copyright">
 					<div class="pull-left-copyright">
-						All content © Copyright 2000 - 2018 WQOW Television. All Rights Reserved. For more information on this site, please read our <a href="/privacy-policy">Privacy Policy</a>, <a href="/terms-of-service">Terms of Service</a>, and <a href="http://www.aboutads.info/choices">Ad Choices</a>.					</div>
+						All content © Copyright 2000 - 2019 WQOW Television. All Rights Reserved. For more information on this site, please read our <a href="/privacy-policy">Privacy Policy</a>, <a href="/terms-of-service">Terms of Service</a>, and <a href="http://www.aboutads.info/choices">Ad Choices</a>.					</div>
 					<div class="pull-right-copyright">
 											</div>
 				</div>
@@ -1026,7 +1020,7 @@ or <a href="mailto:news@wqow.com">news@wqow.com</a></p></div></div></div></secti
 				</div>
 			</div>
 		</div>
-		<link rel="stylesheet" id="elementor-post-860-css" href="http://wqow.com/wp-content/uploads/sites/11/elementor/css/post-860.css?ver=1541612594" type="text/css" media="all">
+		<link rel="stylesheet" id="elementor-post-860-css" href="http://wqow.com/wp-content/uploads/sites/11/elementor/css/post-860.css?ver=1554922553" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var breakingNews = {"siteURL":"http:\/\/wqow.com","breakingNewsTitle":"BREAKING NEWS","breakingWeatherTitle":"WEATHER ALERT","breakingNewsBg":"#dd3333","breakingWeatherBg":"#dd9933"};
@@ -1035,10 +1029,10 @@ var breakingNews = {"siteURL":"http:\/\/wqow.com","breakingNewsTitle":"BREAKING 
 <script type="text/javascript" src="http://wqow.com/wp-content/plugins/cordillera-breaking-news/dist/build.js?ver=1.1.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var pollsL10n = {"ajax_url":"http:\/\/wqow.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+var pollsL10n = {"ajax_url":"https:\/\/wqow.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://wqow.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8"></script>
+<script type="text/javascript" src="http://wqow.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.2"></script>
 <script type="text/javascript" src="http://wqow.com/wp-content/plugins/pojo-forms/assets/js/app.min.js?ver=4.9.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -1049,7 +1043,7 @@ var PojoA11yOptions = {"focusable":"","remove_link_target":"","add_role_links":"
 <script type="text/javascript" src="http://wqow.com/wp-content/themes/buzz/assets/bootstrap/js/bootstrap.min.js?ver=3.3.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var Pojo = {"ajaxurl":"http:\/\/wqow.com\/wp-admin\/admin-ajax.php","css_framework_type":"bootstrap","superfish_args":{"delay":150,"animation":{"opacity":"show","height":"show"},"speed":"fast"}};
+var Pojo = {"ajaxurl":"https:\/\/wqow.com\/wp-admin\/admin-ajax.php","css_framework_type":"bootstrap","superfish_args":{"delay":150,"animation":{"opacity":"show","height":"show"},"speed":"fast"}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://wqow.com/wp-content/themes/buzz/assets/js/frontend.min.js?ver=1.7.12"></script>
@@ -1068,7 +1062,7 @@ var PojoLightboxOptions = {"script_type":"photoswipe","smartphone":"","woocommer
 <script type="text/javascript" src="http://wqow.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.1.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/wqow.com\/wp-admin\/admin-ajax.php","nonce":"d7e006e364","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/wqow.com\/wp-admin\/admin-ajax.php","nonce":"41107f79ac","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://wqow.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.1.2"></script>
@@ -1146,5 +1140,5 @@ var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0
 									</div>
 			</div>
 		</nav>
-		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"277133278b","applicationID":"95576464","transactionName":"Yl0BZUMHVxYFAEcIV1sXIlJFD1YLSwpdBV1N","queueTime":0,"applicationTime":736,"atts":"ThoCEwsdRBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"277133278b","applicationID":"95576464","transactionName":"Yl0BZUMHVxYFAEcIV1sXIlJFD1YLSwpdBV1N","queueTime":0,"applicationTime":678,"atts":"ThoCEwsdRBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
