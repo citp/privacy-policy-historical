@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mfe.govt.nz privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150004id_/http%3A//www.mfe.govt.nz/about-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfe.govt.nz privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508163116id_/http%3A//www.mfe.govt.nz/about-site/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Ministry for the Environment
 
