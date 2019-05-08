@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the models-resource.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002034406id_/https%3A//www.models-resource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the models-resource.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508162100id_/https%3A//www.models-resource.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Models Resource
 
@@ -29,6 +29,8 @@ You may also choose to allow other members of The VG Resource to contact you via
 
 Cookies  
 The VG Resource depends on cookies to maintain sessions with our users, to enable you to resume your login on subsequent visits, and to store other pieces of information that are necessary for the proper operation and customization of our applications.
+
+We also use cookies through third-party vendors including Google to serve ads. These cookies enable Google and its partners to serve ads based on your visit to this site and/or other sites on the internet. You may opt out of Google's personalized advertising by visiting [Google Ads Settings](https://www.google.com/settings/ads).
 
 Logs  
 We maintain logs that record the Internet Protocol (IP) address of all incoming connections, the pages that visitors view, database queries performed, and the parts of applications that are utilized. We use this information to understand usage patterns and to improve our service. We do not share this information with any other company.
