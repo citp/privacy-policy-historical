@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realscout.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825061009id_/https%3A//www.realscout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realscout.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508052008id_/https%3A//www.realscout.com/privacy) for the most accurate reproduction.*
 
 # RealScout - Personalized Home Search with More Data About Local Listings / RealScout
 
@@ -107,6 +107,6 @@ California law permits residents of California to request certain details about 
 If you have any questions or comments about this Policy, please contact us using the following contact information: 
 
 RealScout, Inc.   
-144 South Whisman Drive, Ste F  
+211 Hope Street, No. 390517  
 Mountain View, CA 94041  
 [support@realscout.com](mailto:privacy@realscout.com)
