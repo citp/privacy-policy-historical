@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the programmingsimplified.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216133346id_/http%3A//www.programmingsimplified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmingsimplified.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508123606id_/https%3A//www.programmingsimplified.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Programming Simplified
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/programmingsimplified.com).  
+
 
 Privacy Policy for [www.programmingsimplified.com](http://www.programmingsimplified.com/)
 
@@ -13,7 +17,7 @@ The DoubleClick DART cookie
 
 The DoubleClick DART cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the publisher's site(s) and across the web.
 
-We use [Google adsense](https://www.google.com/adsense/) on our website to serve ads and cookies will be placed on your computer to improve ad serving.
+We use [Google AdSense](https://www.google.com/adsense/) on our website to serve ads and cookies will be placed on your computer to improve ad serving.
 
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.  
 Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to our website and/or other sites on the Internet.  
