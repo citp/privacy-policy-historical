@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the canadianangelxo.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104122626id_/http%3A//canadianangelxo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianangelxo.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508055105id_/http%3A//canadianangelxo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This policy was updated on May 22, 2018.
+Last updated February 1, 2019 
 
 This privacy policy sets out how The Life of a Canadian Angel uses and protects any information that you give while using canadianangelxo.com Should we ask you to provide certain information by which you can be identified when using this website, you can rest assure that it will only be used in accordance with this privacy statement.
 
 The Life of a Canadian Angel may change this policy from time to time by updating this page. Please check this page from time to time to ensure that you are happy with any changes.
 
-## What we collect
+## **What we collect**
 
 We may collect the following information:
 
@@ -18,7 +18,7 @@ We may collect the following information:
 
 
 
-## What we do with the information we gather
+## **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -27,15 +27,15 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-## Security
+## **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-## Links to other websites
+## **Links to other websites**
 
 This website may contain links to other websites of interest. However, once you have used these links to leave this site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-## Controlling your personal information
+## **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
@@ -48,6 +48,5 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you have any questions about this Privacy Policy, please [contact me](http://canadianangelxo.com/contact).
 
-View our updated [Cookie Policy](http://canadianangelxo.com/cookie-policy).
-
-View our updated [Copyright Policy](http://canadianangelxo.com/copyright-policy).
+View our updated [Cookie Policy](http://canadianangelxo.com/cookie-policy).   
+View our updated [Copyright Policy](http://canadianangelxo.com/copyright-policy). 
