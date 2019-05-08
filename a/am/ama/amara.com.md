@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amara.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822143047id_/https%3A//www.amara.com/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amara.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508131654id_/https%3A//www.amara.com/content/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -76,6 +76,12 @@ You can opt out of the data transfers on our [browsing data preferences](https:/
 
 You can opt out of the tracking and data transfers on our [browsing data preferences](https://web.archive.org/content/browsing-consents) page.
 
+#### Conversant
+
+[Conversant](https://www.conversantmedia.com/) power some of our display remarketing programmes. They track your browsing behaviour across multiple websites, and build a profile of your interests. This allows Amara to show you relevant adverts on other websites. You may be interested in their [Privacy Notice](https://www.conversantmedia.com/legal/privacy).
+
+You can opt out of the tracking and data transfers on our [browsing data preferences](https://web.archive.org/content/browsing-consents) page.
+
 #### Facebook
 
 We use [Facebook](https://en-gb.facebook.com/business/products/ads) to advertise to you on their platform.
@@ -144,6 +150,8 @@ We engage the following organisations which we use as processors of your data. A
 
 [Delamode](http://www.delamode-group.com/)
 
+[Google](https://www.google.com/)
+
 [More2](http://www.more2.com/)
 
 [Rackspace](https://www.rackspace.com/en-gb)
@@ -162,9 +170,13 @@ We engage the following organisations which we use as processors of your data. A
 
 ## Marketing, promotions and offers
 
-We will only send you email marketing communications if you have opted in to receive them. You have the right to opt-out at any time, please see the footer of the emails for details.
+In most cases, we will only send you email marketing communications if you have opted in to receive them.
 
-You may opt out of other marketing communications via post, telephone or SMS, from the [My Account] area.
+When you place an order with us, we may rely upon a soft opt-in approach to send you emails along with our legitimate interest to process your data. If we are using this approach, you will be offered an out-out when your data are collected.
+
+In all cases you have the right to opt-out at any time, please see the footer of the emails for details.
+
+You may opt out of other marketing communications via post, telephone or SMS, from the [My Account](https://web.archive.org/customers) area.
 
 ## How long will we keep your data for?
 
