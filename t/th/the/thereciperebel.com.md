@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereciperebel.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011124624id_/https%3A//www.thereciperebel.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereciperebel.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508210152id_/https%3A//www.thereciperebel.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Recipe Rebel
 
