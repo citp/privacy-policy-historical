@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219172616id_/https%3A//www.healthcare.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508172824id_/https%3A//www.healthcare.gov/privacy) for the most accurate reproduction.*
 
 # Privacy | HealthCare.gov
 
-## Table of Contents
+## Table of contents
 
 [Types of information we collect](https://web.archive.org/privacy/#types)
 
@@ -24,7 +24,7 @@
 
 [Additional privacy information](https://web.archive.org/privacy/#additional)
 
-## HealthCare.gov Privacy Policy
+## HealthCare.gov privacy policy
 
 Protecting your privacy is very important to us. We’re telling you about our privacy policy so you know what information we collect, why we collect it, and what we do with it. This privacy notice is for HealthCare.gov, CuidadoDeSalud.gov, and other Healthcare.gov subdomains such as Finder.HealthCare.gov. These sites are referred to as “HealthCare.gov” throughout the rest of this notice and are maintained and operated by the Centers for Medicare & Medicaid Services (CMS). This privacy notice aligns with the CMS [Privacy Policy](http://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html).
 
@@ -139,22 +139,22 @@ When you visit a website, its server may generate a piece of text known as a "co
 
 There are two types of cookies, single session (temporary), and multi-session (persistent). Single session cookies last only as long as your web browser is open. Once you close your browser, the session cookie disappears. Persistent cookies are stored on your device for longer periods. Both types of cookies create an ID that is unique to your device.
 
-  * **Session Cookies:** We use session cookies for technical purposes such as to allow better navigation through our site. These cookies let our server know that you are continuing a visit to our site. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1—Single Session.” The policy says, "This tier encompasses any use of single session web measurement and customization technologies."
-  * **Persistent Cookies:** We use persistent cookies to understand the differences between new and returning visitors to HealthCare.gov. Persistent cookies remain on your device between visits to our site until they expire or are removed by the user. The OMB Memorandum 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2—Multi-session without personally identifiable information.” The policy says, "This tier encompasses any use of multi-session web measurement and customization technologies when no PII is collected." We do not use persistent cookies to collect personally identifiable information. CMS does not identify a user by using such technologies.
+  * **Session cookies:** We use session cookies for technical purposes such as to allow better navigation through our site. These cookies let our server know that you are continuing a visit to our site. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1—Single Session.” The policy says, "This tier encompasses any use of single session web measurement and customization technologies."
+  * **Persistent cookies:** We use persistent cookies to understand the differences between new and returning visitors to HealthCare.gov. Persistent cookies remain on your device between visits to our site until they expire or are removed by the user. The OMB Memorandum 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2—Multi-session without personally identifiable information.” The policy says, "This tier encompasses any use of multi-session web measurement and customization technologies when no PII is collected." We do not use persistent cookies to collect personally identifiable information. CMS does not identify a user by using such technologies.
 
 
 
 CMS also uses the following technologies on HealthCare.gov:
 
-  * **Persistent Cookies for Digital Advertising** – Similar to persistent cookies identified above, CMS uses persistent cookies for outreach through digital advertising. These cookies can also be created on third-party sites and remain on your device between visits to our site until they expire or are removed by you. Consistent with OMB guidance for “Usage Tier 2”, we do not use persistent cookies for outreach to collect personally identifiable information. CMS does not identify a user by using such technologies.
-  * **Web Beacons for Digital Advertising** – Also referred to as pixels and\or tracking tags – See-through images placed on certain pages of HealthCare.gov are typically used in conjunction with cookies and are not stored on your device. When you access these pages, web beacons generate a notice of your visit. See the section [How CMS uses third-party websites and applications with HealthCare.gov](https://web.archive.org/privacy/#thirdparty) for information on how we use web beacons.
-  * **Website Log Files** – Are used as an analysis tool and to tell how visitors use HealthCare.gov, how often they return, and how they navigate through the site.
+  * **Persistent cookies for digital advertising** – Similar to persistent cookies identified above, CMS uses persistent cookies for outreach through digital advertising. These cookies can also be created on third-party sites and remain on your device between visits to our site until they expire or are removed by you. Consistent with OMB guidance for “Usage Tier 2”, we do not use persistent cookies for outreach to collect personally identifiable information. CMS does not identify a user by using such technologies.
+  * **Web beacons for digital advertising** – Also referred to as pixels and\or tracking tags – See-through images placed on certain pages of HealthCare.gov are typically used in conjunction with cookies and are not stored on your device. When you access these pages, web beacons generate a notice of your visit. See the section [How CMS uses third-party websites and applications with HealthCare.gov](https://web.archive.org/privacy/#thirdparty) for information on how we use web beacons.
+  * **Website log files** – Are used as an analysis tool and to tell how visitors use HealthCare.gov, how often they return, and how they navigate through the site.
   * **Flash** – Flash is used to assess the performance of the site and as a player for selected videos depending on the browser a device is using.
-  * **Local Storage Objects** \- We use Flash Local Storage Objects (“LSOs”) to store your preferences and to personalize your visit.
+  * **Local storage objects** \- We use Flash Local Storage Objects (“LSOs”) to store your preferences and to personalize your visit.
 
 
 
-## Your Choices About Tracking and Data Collection on HealthCare.gov
+## Your choices about tracking and data collection on HealthCare.gov
 
 HealthCare.gov offers a Privacy Manager which gives you control over what tracking and data collection takes place during your visit. Third-party tools are enabled by default to provide a quality consumer experience.
 
@@ -162,7 +162,7 @@ The privacy manager provides you with the choice to opt-in or to opt-out of the 
 
 Note that if you disable cookies in your browser, our privacy manager will not be able to store your preferences and will not function properly. If you do not wish to use our privacy manager to opt-out of the tools used by HealthCare.gov, you can opt-out of tools individually, or via the Digital Advertising Alliance (“DAA”) AdChoices icon, discussed in the next subsection.
 
-See the [List of Third-party Tools](https://web.archive.org/third-party-privacy-policies) for more information on how to opt-out individually to each service.
+See the [list of third-party tools](https://web.archive.org/third-party-privacy-policies) for more information on how to opt-out individually to each service.
 
 If you opt out of the tools used by HealthCare.gov via the privacy manager or by opting out of the tools directly, you will still have access to information and resources at HealthCare.gov. Alternatively, if you do not want to use the website, [you can use the call center to apply](https://web.archive.org/contact-us)
 
@@ -174,7 +174,7 @@ If you opt out of the tools used by HealthCare.gov via the privacy manager or by
 
 As a response to OMB Memo M-10-06, Open Government Directive, the HealthCare.gov site leverages a variety of technologies and social media services to communicate and interact with the public. These third-party websites and applications include popular social networking and media sites, open source software communities, and more.
 
-### Third-party Websites:
+### Third-party websites:
 
 Your activity on the third-party websites that HealthCare.gov links to (such as Facebook or Twitter) is governed by the security and privacy policies of those websites. You should review the privacy policies of all websites before using them so that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party website to match your preferences.
 
@@ -184,21 +184,21 @@ CMS, as operator of the Health Insurance Marketplace, manages and oversees an En
 
 For more information on how your information is used and kept secure when you apply or enroll through an EDE partner without using HealthCare.gov, please see the CMS Privacy Impact Assessment for [Enhanced Direct Enrollment Partner Websites](https://www.hhs.gov/pia/third-party-websites-and-applications-pia-enhanced-direct-enrollment-partners.html).
 
-### Website Analytics Tools:
+### Website analytics tools:
 
 These tools collect basic site usage information such as: how many visits HealthCare.gov receives, the pages visited by consumers, time spent on the site, the number of return visits to the site, the approximate location of the device used to access the site, types of devices used, etc. This information is then used to maintain the website including: monitoring site stability, measuring site traffic, optimizing site content, and improving the consumer experience. Use the  HealthCare.gov privacy manager  to opt-out of website analytics tools.
 
-### Digital Advertising Tools for Outreach and Education:
+### Digital advertising tools for outreach and education:
 
 CMS uses third-party tools to support our digital advertising outreach and education efforts. These tools enable CMS to reach new people and provide information to previous visitors. In order to use these tools, we use the following technologies on HealthCare.gov.
 
-**Click Tracking** – CMS uses click tracking to identify the ads that are most helpful to consumers and efficient for outreach. This enables CMS to improve the performance of ads that consumers click on. When users click on links from ads, data about what ad was viewed is collected. Reports are generated about ad performance – including the total number of views and clicks an ad received.
+**Click tracking** – CMS uses click tracking to identify the ads that are most helpful to consumers and efficient for outreach. This enables CMS to improve the performance of ads that consumers click on. When users click on links from ads, data about what ad was viewed is collected. Reports are generated about ad performance – including the total number of views and clicks an ad received.
 
-**Conversion Tracking** \- CMS uses conversion tracking to identify ads that are helpful to consumers and efficient for outreach. It enables CMS to improve the performance of ads viewed by consumers. When a HealthCare.gov ad is viewed on a third-party site (e.g. a banner ad), a cookie is placed in the browser of the device the ad was viewed on. If this device later visits HealthCare.gov, the visit is linked to the ad viewed on the same device. Use the  HealthCare.gov privacy manager  to opt-out of advertising tools. Users can click on the “AdChoices” Icon in the corner of our Ads to opt-out of this Ad Targeting. Users who have set their browser to “Do Not Track” will automatically be opt-ed out of conversion tracking. For more information about AdChoices and Do Not Track, see “Your Choices about tracking and Data Collection”
+**Conversion tracking** \- CMS uses conversion tracking to identify ads that are helpful to consumers and efficient for outreach. It enables CMS to improve the performance of ads viewed by consumers. When a HealthCare.gov ad is viewed on a third-party site (e.g. a banner ad), a cookie is placed in the browser of the device the ad was viewed on. If this device later visits HealthCare.gov, the visit is linked to the ad viewed on the same device. Use the  HealthCare.gov privacy manager  to opt-out of advertising tools. Users can click on the “AdChoices” Icon in the corner of our Ads to opt-out of this Ad Targeting. Users who have set their browser to “Do Not Track” will automatically be opt-ed out of conversion tracking. For more information about AdChoices and Do Not Track, see “Your Choices about tracking and Data Collection”
 
 **Re-targeting** \- CMS uses retargeting to provide information to consumers who have previously visited HeathCare.gov such as reminders about upcoming enrollment deadlines. Retargeting enables CMS to improve the performance of ads by delivering them to relevant audiences such as recent visitors to HealthCare.gov. During a visit to HealthCare.gov, a cookie is placed in the browser of the devices used to view the site. When that same device is used to visit third-party sites that are displaying HealthCare.gov ads, ads for HealthCare.gov may be shown to that device because it had previously visited HealthCare.gov. Using these cookies, CMS does not collect information about the third-party sites visited by a device. Reports are generated about ad performance – including the total number of views and clicks an ad received. Use the  HealthCare.gov privacy manager  to opt-out of advertising tools. Users can click on the “AdChoices” Icon in the corner of our Ads to opt-out of this Ad Targeting. Users who have set their browser to “Do Not Track” will automatically be opt-ed out of conversion tracking. For more information about AdChoices and Do Not Track, see [Your Choices about Tracking and Data Collection](https://web.archive.org/privacy/#choices).
 
-**Targeted Advertising** \- CMS uses third-party vendors to engage in targeted advertising (also known as online behavioral or interest-based advertising) to provide information to consumers across their online activities. Targeted advertising involves the collection of data from a particular computer or device. Data regarding web viewing behaviors or application use is gathered to predict user preferences or interests. CMS can have ads delivered to computers or devices based on the preferences or interests inferred from the web viewing behaviors or application use.
+**Targeted advertising** \- CMS uses third-party vendors to engage in targeted advertising (also known as online behavioral or interest-based advertising) to provide information to consumers across their online activities. Targeted advertising involves the collection of data from a particular computer or device. Data regarding web viewing behaviors or application use is gathered to predict user preferences or interests. CMS can have ads delivered to computers or devices based on the preferences or interests inferred from the web viewing behaviors or application use.
 
 Third-party vendors engaged by CMS may also target advertising based on information automatically collected (not information you provide) when you browse the CMS websites or other websites on the internet. You can opt out this type of data collection via our Privacy Manager, Ad Choices, and Do Not Track. See [Your Choices about Tracking and Data Collection](https://web.archive.org/privacy/#choices) above for methods to opt out of this type of collection.
 
@@ -228,7 +228,7 @@ We believe in the importance of protecting the privacy of children online. The C
 
 HealthCare.gov may link to other HHS sites, other government sites, and/or to private organizations (e.g. health care providers). We link to other websites solely for your convenience and education. When you follow a link to an external site, you are leaving HealthCare.gov and are subject to the external site’s privacy and security policies. Non-federal websites do not necessarily operate under the same laws, regulations, and policies as federal websites. Aside from third-party websites highlighted in this privacy notice, CMS is not responsible for the contents of external web pages and a link to a page does not constitute an endorsement.
 
-### Your Privacy on Social Media Sites & Other Sites that Require Registration
+### Your privacy on social media sites & other sites that require registration
 
 CMS uses Social Media Sites (listed below) in order to increase government transparency, enhance information sharing, promote public participation, and encourage collaboration with the agency.
 
