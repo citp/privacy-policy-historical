@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviation-safety.net privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829111258id_/https%3A//aviation-safety.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviation-safety.net privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508194219id_/https%3A//aviation-safety.net/about/privacy.php) for the most accurate reproduction.*
 
 # Aviation Safety Network > Privacy policy
 
