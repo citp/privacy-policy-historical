@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206032302id_/https%3A//www.socrative.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508101145id_/https%3A//socrative.com/privacy.html) for the most accurate reproduction.*
 
 # Socrative
 
-Last Updated: June 1, 2018
+Last Updated: December 17, 2018
 
 Showbie Inc. ("Showbie") values your privacy. In this Socrative.com Privacy Policy ("Privacy Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our website www.socrative.com (the "Site"), users of our mobile applications (the "Apps"), and users of the services available through our Site and Apps (collectively, the "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access, update and exercise other rights in respect of your personal information. The Site, Apps and Services are owned and operated by Showbie Inc., #403, 10113 104 Street NW, Edmonton, Alberta, Canada T5J 1A1.
 
@@ -129,6 +129,10 @@ We may aggregate or anonymize data we collect to create Anonymous Data. Anonymou
 
 We do not sell your Personal Data. We will disclose the Personal Data that we collect from you only as described in this Privacy Policy.
 
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform service-related services or to assist us in analyzing how our service is used. [Here](https://help.socrative.com/privacy-and-security/who-socrative-shares-your-data-with) is a list of service providers Socrative currently uses.
+
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. In cases of onward transfer to third parties of Personal Information received, Showbie is potentially liable.
+
 We may disclose Personal Data as follows:
 
   * Teacher Data. If you are a Teacher, we will share the Educational Materials, Resource Pins and other information that you load through your Account with the other Teachers, Students and Parents that you have allowed to receive it. We will share any information that you post on your Profile with other Teachers. We will share any information that you post to your Newsfeed based on the privacy settings you have selected.
@@ -182,9 +186,9 @@ You have several choices regarding our use of your information on our Services:
 
  **Accessing and Deleting Your Personal Data**
 
-  * You may request a copy of the Personal Data Socrative has about you
+  * You may request a copy of the Personal Data Socrative has about you.
   * You may edit or delete any of the non-required information from your Personal Data through the profile page in your Account on our Site or Apps.
-  * You may request deletion of your Personal Data or your entire Account by us by using the contact information provided above and you may also request that Socrative limit further processing
+  * You may request deletion of your Personal Data or your entire Account by us by using [this form](https://showbie.typeform.com/to/y1bMQz) and you may also request that Socrative limit further processing.
   * Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or Apps for a period of time.
 
 
@@ -193,7 +197,7 @@ You have several choices regarding our use of your information on our Services:
 
 We may send periodic promotional or informational emails to Teacher users about Socrative services, products, or events. You may opt out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt out of receiving emails about recommendations or other information we think may interest you, we may still send you administrative e-mails about your account or any Services you have requested or received from us.
 
- **Disabling Cookies.**
+ **Disabling Cookies**
 
 Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not be available to you.
 
@@ -318,8 +322,26 @@ Parents and Teachers have a right to review and correct the information we have 
 
 This COPPA Policy is current as of the Last Updated date set forth above. We may change this COPPA Policy from time to time, so please be sure to check back periodically. If we make any changes to this COPPA Policy that materially affect our practices with regard to the personal information we have previously collected from a Child, we will provide you with notice in advance of such change becoming effective by emailing you at the address we have on file for you and by highlighting the change on our Site.
 
+#### ADDENDUM – 1.1 SHOWBIE INC. EU PRIVACY SHIELD AND SWISS-U.S. PRIVACY SHIELD CERTIFICATION INFORMATION
+
+ **EU-US PRIVACY SHIELD AND SWISS-U.S. CERTIFICATIONS**  
+The following information aligns Showbie US, Inc.’s (also doing business as Socrative) Statement with the specific points required by the Privacy Shield self-certification process, and ensures Socrative’s compliance with the EU-US Privacy Shield and Swiss-U.S. Privacy Shield Framework.
+
+ **Compliance.** Socrative complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union and Switzerland to the United States. Socrative has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+**Complaints.** In compliance with the Privacy Shield Principles, Socrative to resolve complaints about our collection or use of your Personal Information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield Policy should first contact Socrative at [privacy@socrative.com.](mailto:privacy@socrative.com)
+
+Socrative has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland. Please note that, under limited circumstances, a binding arbitration option may be available before a Privacy Shield panel. Socrative is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
+ **Organization Information**
+
+Showbie Inc. (Also doing business as Socrative)  
+#403, 10113 104 Street NW  
+Edmonton, AB T5J 1A1 Canada  
+[privacy@socrative.com](mailto:privacy@socrative.com)
+
 ### Why You'll Love PRO
 
 With even more tools to engage your students, Socrative PRO helps you differentiate instruction, amp up engagement, and work formative assessment magic. Get 10 rooms, 150 student capacity per activity, secure rostering, and other gotta-have features when you upgrade.
 
-[Get Pro](https://web.archive.org/web/20181206032302id_/https%3A//www.socrative.com/pricing.html)
+[Get Pro](https://web.archive.org/web/20190508101145id_/https%3A//socrative.com/pricing.html)
