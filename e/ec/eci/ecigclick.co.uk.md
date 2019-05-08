@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecigclick.co.uk privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923171618id_/http%3A//www.ecigclick.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigclick.co.uk privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508091835id_/https%3A//www.ecigclick.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy • Ecigclick
 
@@ -7,7 +7,7 @@
 ### Introduction & General Terms
 
 This document (“Privacy Policy”), in combination with the Cookies Policy and Competition rules make up our commitment to protecting personal information we hold about our customers, prospective customers, newsletter subscribers, competition entrants, website users or any other data subject whose personal information we hold.  
-Personal information as outlined in this policy is being processed by Ecigclick (“we”, “our”, “us”, “Ecigclick”). You can find out more about us by visiting http://www.ecigclick.co.uk/about-us. In the event of any part of Ecigclick being sold we reserve the right to continue to share your data to third parties in accordance with the latest preferences you have provided. You will be informed should any change of ownership occur, and the new owner will manage your personal information preferences. 
+Personal information as outlined in this policy is being processed by Ecigclick (“we”, “our”, “us”, “Ecigclick”). You can find out more about us by visiting https://www.ecigclick.co.uk/about-us. In the event of any part of Ecigclick being sold we reserve the right to continue to share your data to third parties in accordance with the latest preferences you have provided. You will be informed should any change of ownership occur, and the new owner will manage your personal information preferences. 
 
 Policy key definitions:
 
@@ -107,7 +107,7 @@ Whenever we process data for these purposes we will ensure that we always keep y
 
 **Social Media Cookies**   – These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
 
-For more information on how we use cookies please read our [Cookie Policy](http://www.ecigclick.co.uk/cookie-policy/).  
+For more information on how we use cookies please read our [Cookie Policy](https://www.ecigclick.co.uk/cookie-policy/).  
  
 
 ### Analytics
@@ -199,7 +199,7 @@ Because of the kind of work that we do and the systems that we use, we do not en
 
 ### Your Right to stop receiving communications
 
-For details on your rights to ask us to stop sending you various kinds of communications, please [contact us](http://www.ecigclick.co.uk/contact/).
+For details on your rights to ask us to stop sending you various kinds of communications, please [contact us](https://www.ecigclick.co.uk/contact/).
 
 ### Your Right to object to automated decision making and profiling
 
