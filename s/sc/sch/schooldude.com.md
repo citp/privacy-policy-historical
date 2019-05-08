@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909032520id_/https%3A//www.dudesolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508155644id_/https%3A//www.dudesolutions.com/privacy) for the most accurate reproduction.*
 
 # Operations Management Software | Dude Solutions
 
