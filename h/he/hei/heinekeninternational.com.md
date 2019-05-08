@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heinekeninternational.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701010456id_/https%3A//www.theheinekencompany.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heinekeninternational.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508111646id_/https%3A//www.theheinekencompany.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ After agreeing with those terms the rest of the site will be just as accessible
 
 **
 
-[Validate your age](http://www.theheinekencompany.com/age-gate)
+[Validate your age](https://web.archive.org/Age-gate)
 
 ### 1\. General 
 
@@ -74,7 +74,7 @@ The Website is not intended for use by individuals under the age of 18 (or the a
 
 ### 9\. Your Rights to Access, Rectification, Deletion, Restriction and Data Portability
 
-You have the right to request an overview of your Personal Data processed by or on behalf of us. You have the right to have your Data rectified, deleted or restricted (as appropriate). You can exercise this right by contacting this [webform](https://secure.theheinekencompany.com/contact-us) with a data privacy request. Please note that requests that do not meet the requirements set out by applicable law or HEINEKEN guidelines may be requested to be re-issued or ultimately denied and that certain Personal Data may be exempt from such access, rectification and deletion requests pursuant to applicable data protection laws or other laws and regulations. Please note that you can also delete Personal Data by de-activating your user, however we will retain Personal Data where it is legally required for us to do so, which applies e.g. to sales administration.
+You have the right to request an overview of your Personal Data processed by or on behalf of us. You have the right to have your Data rectified, deleted or restricted (as appropriate). You can exercise this right by contacting this [webform](https://web.archive.org/Contact-Us) with a data privacy request. Please note that requests that do not meet the requirements set out by applicable law or HEINEKEN guidelines may be requested to be re-issued or ultimately denied and that certain Personal Data may be exempt from such access, rectification and deletion requests pursuant to applicable data protection laws or other laws and regulations. Please note that you can also delete Personal Data by de-activating your user, however we will retain Personal Data where it is legally required for us to do so, which applies e.g. to sales administration.
 
 You have the right to receive the Personal Data that you have provided to us in a structured, commonly used and machine-readable format, and in certain circumstances we will, at your request, transmit your Data to another controller where this is technically feasible. 
 
@@ -88,4 +88,4 @@ We will keep this Privacy Policy under review and make updates from time to time
 
 ### 12\. Contact 
 
-If you have any other question, objection to our use of your Personal Data or a complaint about this Privacy Policy or about our handling of your Personal Data, please contact us via [this webform](https://secure.theheinekencompany.com/contact-us) with a data privacy request. You also have the right to file a complaint with your local data protection authority. 
+If you have any other question, objection to our use of your Personal Data or a complaint about this Privacy Policy or about our handling of your Personal Data, please contact us via [this webform](https://web.archive.org/Contact-Us) with a data privacy request. You also have the right to file a complaint with your local data protection authority. 
