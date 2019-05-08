@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdadeducation.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921202329id_/http%3A//legacyeducationalliance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadeducation.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508021629id_/http%3A//legacyeducationalliance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -155,7 +155,7 @@ You will receive marketing communications from us if you have requested informat
 
 ### THIRD-PARTY MARKETING
 
-We will get your express opt-in consent before we share your personal data with any company outside the Legacy Group of companies for marketing purposes.
+We will get your express opt-in consent before we share your personal data with any company outside the Legacy Group of companies for marketing purposes. Partners include Email marketing network, Display marketing network, Facebook, LinkedIn, Twitter, Snapchat, Instagram
 
 ### OPTING OUT
 
