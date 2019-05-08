@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lushtrip.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106195718id_/http%3A//www.lushtrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushtrip.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508195302id_/http%3A//www.lushtrip.com/privacy-policy) for the most accurate reproduction.*
 
 # LushTrip | Privacy Policy
 
