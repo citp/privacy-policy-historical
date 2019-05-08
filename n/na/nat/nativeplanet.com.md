@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativeplanet.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630034001id_/https%3A//www.greynium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeplanet.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508214041id_/https%3A//www.greynium.com/privacy-policy) for the most accurate reproduction.*
 
 # Greynium-Privacy Policy
 
@@ -34,7 +34,16 @@ All information gathered by us shall be stored on servers, log files and any oth
   4. **Disclosure to Third Parties** If you indicate your consent on your subscription form, Greynium shall be at liberty to disclose your information or part thereof to its agents/ business partners/ retailers/vendors/ service providers/ third party servers/advertisers and other business associates.
   5. **Confidentiality** We at Greynium endeavor to treat your information as confidential and not cause any harm, theft, loss, unauthorized access, misuse within our storage system, alteration and destruction. In line with the priority for confidentiality, we request you to use SSL-enabled browsers such as Chrome, Safari, Firefox or Internet Explorer as such browsers protect the confidentiality of information while it is transmitted over internet. In the event any of our Services are public forums such as chat rooms, you shall be responsible for the information you may disclose on such forums to other users.
   6. **Legal Disclosure** You agree that if so required by law or as per directions of the governmental agency, authority, court, etc, Greynium may be required to disclose all your information and in such an event Greynium is in no manner responsible for informing you or seeking your prior approval.
-  7. **Grievances** In the event you have any grievances relating to the Policy, please inform us within 24 hours of occurrence of the instance from which the grievance has arisen, by writing an email to the Grievance Officer at inquiries@greynium.com. We shall respond to all grievances lodged with us, within 36 hours through emails, telephone calls, personal visits, etc. and shall redress your grievance expeditiously.
-  8. **Amendments** Greynium retains unconditional right to modify or amend this Policy without any recourse to you or any requirement of notice of the same to you. You can determine when this Policy was last modified by referring to the “Last Updated” legend above. It shall be your responsibility to check this Policy periodically for changes.
+  7. **Grievances** In the event you have any grievances relating to the Policy, please inform us within 24 hours of occurrence of the instance from which the grievance has arisen, by writing an email to the Grievance Officer at inquiries@greynium.com. We shall respond to all grievances lodged with us, within 36 hours through emails, telephone calls, personal visits, etc. and shall redress your grievance expeditiously. 
+
+_Complaints Relating To Content_
+
+Any complaint relating to content appearing on the website shall be made by a person aggrieved within a reasonable time not exceeding 7 (seven) days from the date of first posting or aggregation to the following person appointed by the Company whose details are reproduced below:
+
+Contact Person :  
+Mr. Ajay Mohan Verma  
+E-mail : [grievanceofficer@oneindia.co.in](mailto:grievanceofficer@oneindia.co.in)
+
+  8. **Amendments** Greynium retains unconditional right to modify or amend this Policy without any recourse to you or any requirement of notice of the same to you. You can determine when this Policy was last modified by referring to the “Last Updated” legend above. It shall be your responsibility to check this Policy periodically for changes. 
 
 
