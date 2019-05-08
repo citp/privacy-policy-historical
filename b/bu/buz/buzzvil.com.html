@@ -1,0 +1,1021 @@
+<!--The following is the downloaded HTML source of the buzzvil.com privacy policy that was archived on 2019-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190508192038id_/https%3A//www.buzzvil.com/privacy-policy-2) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#" itemscope="" itemtype="https://schema.org/WebPage"><!-- head --><head>
+
+<!-- meta -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<script async="" src="https://static.addtoany.com/menu/page.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+    window.bz_store = {
+        localStoreSupport: function() {
+            try {
+                return 'localStorage' in window && window['localStorage'] !== null;
+            } catch (e) {
+                return false;
+            }
+        },
+        set: function(name,value,seconds) {
+            if (seconds) {
+                var date = new Date();
+                date.setTime(date.getTime()+(seconds*1000));
+                var expires = "; expires="+date.toGMTString();
+            }
+            else {
+                var expires = "";
+            }
+            if( this.localStoreSupport() ) {
+                localStorage.setItem(name, value);
+            }
+            else {
+                document.cookie = name+"="+value+expires+"; path=/";
+            }
+        },
+        get: function(name) {
+            if( this.localStoreSupport() ) {
+                var ret = localStorage.getItem(name);
+                //console.log(typeof ret);
+                switch (ret) {
+                    case 'true':
+                        return true;
+                    case 'false':
+                        return false;
+                    default:
+                        return ret;
+                }
+            }
+            else {
+                // cookie fallback
+                /*
+                 * after adding a cookie like
+                 * >> document.cookie = "bar=test; expires=Thu, 14 Jun 2018 13:05:38 GMT; path=/"
+                 * the value of document.cookie may look like
+                 * >> "foo=value; bar=test"
+                 */
+                var nameEQ = name + "=";  // what we are looking for
+                var ca = document.cookie.split(';');  // split into separate cookies
+                for(var i=0;i < ca.length;i++) {
+                    var c = ca[i];  // the current cookie
+                    while (c.charAt(0)==' ') c = c.substring(1,c.length);  // remove leading spaces
+                    if (c.indexOf(nameEQ) == 0) {  // if it is the searched cookie
+                        var ret = c.substring(nameEQ.length,c.length);
+                        // making "true" and "false" a boolean again.
+                        switch (ret) {
+                            case 'true':
+                                return true;
+                            case 'false':
+                                return false;
+                            default:
+                                return ret;
+                        }
+                    }
+                }
+                return null; // no cookie found
+            }
+        },
+        del: function(name) {
+            if( this.localStoreSupport() ) {
+                localStorage.removeItem(name);
+            }
+            else {
+                this.set(name,"",-1);
+            }
+        }
+    };
+
+    function guid() {
+        function s4() {
+            return Math.floor((1 + Math.random()) * 0x10000)
+                .toString(16)
+                .substring(1);
+        }
+        return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
+    }
+
+    bz_request_id = guid()
+    bz_session_id = bz_store.get('bz_test_session_id')
+    if (bz_session_id == null) {
+        bz_session_id = guid()
+        bz_store.set('bz_test_session_id', bz_session_id, 60*60*24*365*10)
+    }
+    </script>
+
+
+
+
+
+
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51321387-1', 'auto');
+  ga('set', 'dimension1', bz_request_id);
+  ga('set', 'dimension4', bz_session_id);
+  ga('set', 'dimension2', (new Date()).toISOString());
+  ga('send', 'pageview');
+
+
+
+
+  
+
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '875858919124525'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=875858919124525&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<meta name="google-site-verification" content="haM-fHmt7hj70IVLOHS7AypB2guQ2jEycPgalbcDNsY">
+<!-- Hotjar Tracking Code for www.buzzvil.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:813305,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="https://static.hotjar.com/c/hotjar-813305.js?sv=6"></script>
+   
+
+
+
+
+
+
+
+
+<script>
+    (function (bz_request_id, bz_session_id) {
+        function sendEvent(count) {
+            (function (img) {
+                var extra_query_list = [
+                    'bz_count=',
+                    count.toString(),
+                    '&bz_path=',
+                    encodeURIComponent(window.location.pathname),
+                    '&bz_origin=',
+                    encodeURIComponent(window.location.origin),
+                    '&bz_request_id=',
+                    bz_request_id,
+                    '&bz_session_id=',
+                    bz_session_id,
+                ];
+                if (window.location.search) {
+                    img.src = '//ad.buzzvil.com/event/ga-test.gif' + window.location.search + '&' + extra_query_list.join("");
+                } else {
+                    img.src = '//ad.buzzvil.com/event/ga-test.gif?' + extra_query_list.join("");
+                }
+            }) (new Image())
+        }
+        sendEvent(count=0);
+
+        var n = 10;
+        setTimeout(countDown, 1000);
+
+        function countDown(){
+           n--;
+           if(n > 0){
+              setTimeout(countDown, 1000);
+           }
+           sendEvent(count=10-n);
+        }
+    })(bz_request_id, bz_session_id)
+    </script>
+<link rel="shortcut icon" href="https://www.buzzvil.com/wp-content/uploads/2016/12/buzzvil.png">
+<link rel="apple-touch-icon" href="https://www.buzzvil.com/wp-content/uploads/2016/12/apple-touch-icon.png">
+
+<!-- wp_head() -->
+<title>Privacy policy - Buzzvil</title>
+<!-- script | dynamic -->
+<script id="mfn-dnmc-config-js">
+//<![CDATA[
+window.mfn = {mobile_init:960,nicescroll:40,parallax:"translate3d",responsive:1,retina_js:0};
+window.mfn_lightbox = {disable:false,disableMobile:false,title:false,};
+window.mfn_sliders = {blog:0,clients:0,offer:0,portfolio:0,shop:0,slider:0,testimonials:0};
+//]]>
+</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v10.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Buzzvil takes personal users' information seriously. This details the main privacy policies apply to data that Buzzvil collects through ad network business.">
+<link rel="canonical" href="https://www.buzzvil.com/privacy-policy-2/">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="ko_KR">
+<meta property="og:locale:alternate" content="ja_JP">
+<meta property="og:locale:alternate" content="zh_TW">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy policy - Buzzvil">
+<meta property="og:description" content="Buzzvil takes personal users' information seriously. This details the main privacy policies apply to data that Buzzvil collects through ad network business.">
+<meta property="og:url" content="https://www.buzzvil.com/privacy-policy-2/">
+<meta property="og:site_name" content="Buzzvil">
+<meta property="article:publisher" content="https://www.facebook.com/Buzzvil/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Buzzvil takes personal users' information seriously. This details the main privacy policies apply to data that Buzzvil collects through ad network business.">
+<meta name="twitter:title" content="Privacy policy - Buzzvil">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.buzzvil.com/","sameAs":["https://www.facebook.com/Buzzvil/"],"@id":"https://www.buzzvil.com/#organization","name":"Buzzvil","logo":"https://www.buzzvil.com/wp-content/uploads/2018/04/BZ_logo_red_600x400-1.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Buzzvil » Feed" href="https://www.buzzvil.com/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.buzzvil.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.buzzvil.com/wp-includes/js/wp-emoji-release.min.js?ver=5.1.1" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://www.buzzvil.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.buzzvil.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://www.buzzvil.com/wp-content/themes/betheme/style.css?ver=20.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-base-css" href="https://www.buzzvil.com/wp-content/themes/betheme/css/base.css?ver=20.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-layout-css" href="https://www.buzzvil.com/wp-content/themes/betheme/css/layout.css?ver=20.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-shortcodes-css" href="https://www.buzzvil.com/wp-content/themes/betheme/css/shortcodes.css?ver=20.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-animations-css" href="https://www.buzzvil.com/wp-content/themes/betheme/assets/animations/animations.min.css?ver=20.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-jquery-ui-css" href="https://www.buzzvil.com/wp-content/themes/betheme/assets/ui/jquery.ui.all.css?ver=20.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-jplayer-css" href="https://www.buzzvil.com/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css?ver=20.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-responsive-css" href="https://www.buzzvil.com/wp-content/themes/betheme/css/responsive.css?ver=20.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="Roboto-css" href="https://fonts.googleapis.com/css?family=Roboto%3A1%2C300%2C400%2C500%2C700%2C900&amp;ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="addtoany-css" href="https://www.buzzvil.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" type="text/css" media="all">
+<style id="addtoany-inline-css" type="text/css">
+.addtoany_content {
+    float: right;
+}
+</style>
+<link rel="stylesheet" id="jetpack_css-css" href="https://www.buzzvil.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.1.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.buzzvil.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1"></script>
+<link rel="https://api.w.org/" href="https://www.buzzvil.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.buzzvil.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.buzzvil.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.1.1">
+<link rel="shortlink" href="https://wp.me/Pagey0-13t">
+<link rel="alternate" type="application/json+oembed" href="https://www.buzzvil.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.buzzvil.com%2Fprivacy-policy-2%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.buzzvil.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.buzzvil.com%2Fprivacy-policy-2%2F&amp;format=xml">
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<link rel="alternate" href="https://www.buzzvil.com/privacy-policy-2/" hreflang="en">
+<link rel="alternate" href="https://www.buzzvil.com/ko/privacy-policy-17-07-11-2/" hreflang="ko">
+<link rel="alternate" href="https://www.buzzvil.com/ja/privacy-policy-jp/" hreflang="ja">
+<link rel="alternate" href="https://www.buzzvil.com/zh/privacy-policy-tw/" hreflang="zh">
+
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<style type="text/css">img#wpstats{display:none}</style><!-- style | dynamic -->
+<style id="mfn-dnmc-style-css">
+@media only screen and (min-width: 960px) {body:not(.header-simple) #Top_bar #menu{display:block!important}.tr-menu #Top_bar #menu{background:none!important}#Top_bar .menu > li > ul.mfn-megamenu{width:984px}#Top_bar .menu > li > ul.mfn-megamenu > li{float:left}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-1{width:100%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-2{width:50%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-3{width:33.33%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-4{width:25%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-5{width:20%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-6{width:16.66%}#Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto;border-width:0 1px 0 0}#Top_bar .menu > li > ul.mfn-megamenu > li:last-child > ul{border:0}#Top_bar .menu > li > ul.mfn-megamenu > li > ul li{width:auto}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400;background:none}#Top_bar .menu > li > ul.mfn-megamenu a .menu-arrow{display:none}.menuo-right #Top_bar .menu > li > ul.mfn-megamenu{left:auto;right:0}.menuo-right #Top_bar .menu > li > ul.mfn-megamenu-bg{box-sizing:border-box}#Top_bar .menu > li > ul.mfn-megamenu-bg{padding:20px 166px 20px 20px;background-repeat:no-repeat;background-position:right bottom}.rtl #Top_bar .menu > li > ul.mfn-megamenu-bg{padding-left:166px;padding-right:20px;background-position:left bottom}#Top_bar .menu > li > ul.mfn-megamenu-bg > li{background:none}#Top_bar .menu > li > ul.mfn-megamenu-bg > li a{border:none}#Top_bar .menu > li > ul.mfn-megamenu-bg > li > ul{background:none!important;-webkit-box-shadow:0 0 0 0;-moz-box-shadow:0 0 0 0;box-shadow:0 0 0 0}.mm-vertical #Top_bar .container{position:relative;}.mm-vertical #Top_bar .top_bar_left{position:static;}.mm-vertical #Top_bar .menu > li ul{box-shadow:0 0 0 0 transparent!important;background-image:none;}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu{width:98%!important;margin:0 1%;padding:20px 0;}.mm-vertical.header-plain #Top_bar .menu > li > ul.mfn-megamenu{width:100%!important;margin:0;}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li{display:table-cell;float:none!important;width:10%;padding:0 15px;border-right:1px solid rgba(0, 0, 0, 0.05);}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:last-child{border-right-width:0}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li.hide-border{border-right-width:0}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li a{border-bottom-width:0;padding:9px 15px;line-height:120%;}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{font-weight:700;}.rtl .mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:first-child{border-right-width:0}.rtl .mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:last-child{border-right-width:1px}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu{width:980px!important;margin:0;}.header-plain:not(.menuo-right) #Header .top_bar_left{width:auto!important}.header-stack.header-center #Top_bar #menu{display:inline-block!important}.header-simple #Top_bar #menu{display:none;height:auto;width:300px;bottom:auto;top:100%;right:1px;position:absolute;margin:0}.header-simple #Header a.responsive-menu-toggle{display:block;right:10px}.header-simple #Top_bar #menu > ul{width:100%;float:left}.header-simple #Top_bar #menu ul li{width:100%;padding-bottom:0;border-right:0;position:relative}.header-simple #Top_bar #menu ul li a{padding:0 20px;margin:0;display:block;height:auto;line-height:normal;border:none}.header-simple #Top_bar #menu ul li a:after{display:none}.header-simple #Top_bar #menu ul li a span{border:none;line-height:44px;display:inline;padding:0}.header-simple #Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:0;top:0;width:44px;height:44px;line-height:44px;font-size:30px;font-weight:300;text-align:center;cursor:pointer;color:#444;opacity:0.33;}.header-simple #Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}.header-simple #Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}.header-simple #Top_bar #menu ul li.hover a{border-bottom:0}.header-simple #Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}.header-simple #Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin:0!important;width:auto!important;background-image:none}.header-simple #Top_bar #menu ul li ul li{width:100%!important;display:block;padding:0;}.header-simple #Top_bar #menu ul li ul li a{padding:0 20px 0 30px}.header-simple #Top_bar #menu ul li ul li a .menu-arrow{display:none}.header-simple #Top_bar #menu ul li ul li a span{padding:0}.header-simple #Top_bar #menu ul li ul li a span:after{display:none!important}.header-simple #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}.header-simple #Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}.header-simple #Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}.header-simple #Top_bar #menu ul li ul li ul li a{padding:0 20px 0 40px}.rtl.header-simple #Top_bar #menu{left:1px;right:auto}.rtl.header-simple #Top_bar a.responsive-menu-toggle{left:10px;right:auto}.rtl.header-simple #Top_bar #menu ul li.submenu .menu-toggle{left:0;right:auto}.rtl.header-simple #Top_bar #menu ul li ul{left:auto!important;right:0!important}.rtl.header-simple #Top_bar #menu ul li ul li a{padding:0 30px 0 20px}.rtl.header-simple #Top_bar #menu ul li ul li ul li a{padding:0 40px 0 20px}.menu-highlight #Top_bar .menu > li{margin:0 2px}.menu-highlight:not(.header-creative) #Top_bar .menu > li > a{margin:20px 0;padding:0;-webkit-border-radius:5px;border-radius:5px}.menu-highlight #Top_bar .menu > li > a:after{display:none}.menu-highlight #Top_bar .menu > li > a span:not(.description){line-height:50px}.menu-highlight #Top_bar .menu > li > a span.description{display:none}.menu-highlight.header-stack #Top_bar .menu > li > a{margin:10px 0!important}.menu-highlight.header-stack #Top_bar .menu > li > a span:not(.description){line-height:40px}.menu-highlight.header-transparent #Top_bar .menu > li > a{margin:5px 0}.menu-highlight.header-simple #Top_bar #menu ul li,.menu-highlight.header-creative #Top_bar #menu ul li{margin:0}.menu-highlight.header-simple #Top_bar #menu ul li > a,.menu-highlight.header-creative #Top_bar #menu ul li > a{-webkit-border-radius:0;border-radius:0}.menu-highlight:not(.header-fixed):not(.header-simple) #Top_bar.is-sticky .menu > li > a{margin:10px 0!important;padding:5px 0!important}.menu-highlight:not(.header-fixed):not(.header-simple) #Top_bar.is-sticky .menu > li > a span{line-height:30px!important}.header-modern.menu-highlight.menuo-right .menu_wrapper{margin-right:20px}.menu-line-below #Top_bar .menu > li > a:after{top:auto;bottom:-4px}.menu-line-below #Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:-4px}.menu-line-below-80 #Top_bar:not(.is-sticky) .menu > li > a:after{height:4px;left:10%;top:50%;margin-top:20px;width:80%}.menu-line-below-80-1 #Top_bar:not(.is-sticky) .menu > li > a:after{height:1px;left:10%;top:50%;margin-top:20px;width:80%}.menu-link-color #Top_bar .menu > li > a:after{display:none!important}.menu-arrow-top #Top_bar .menu > li > a:after{background:none repeat scroll 0 0 rgba(0,0,0,0)!important;border-color:#ccc transparent transparent;border-style:solid;border-width:7px 7px 0;display:block;height:0;left:50%;margin-left:-7px;top:0!important;width:0}.menu-arrow-top.header-transparent #Top_bar .menu > li > a:after,.menu-arrow-top.header-plain #Top_bar .menu > li > a:after{display:none}.menu-arrow-top #Top_bar.is-sticky .menu > li > a:after{top:0!important}.menu-arrow-bottom #Top_bar .menu > li > a:after{background:none!important;border-color:transparent transparent #ccc;border-style:solid;border-width:0 7px 7px;display:block;height:0;left:50%;margin-left:-7px;top:auto;bottom:0;width:0}.menu-arrow-bottom.header-transparent #Top_bar .menu > li > a:after,.menu-arrow-bottom.header-plain #Top_bar .menu > li > a:after{display:none}.menu-arrow-bottom #Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:0}.menuo-no-borders #Top_bar .menu > li > a span:not(.description){border-right-width:0}.menuo-no-borders #Header_creative #Top_bar .menu > li > a span{border-bottom-width:0}.menuo-right #Top_bar .menu_wrapper{float:right}.menuo-right.header-stack:not(.header-center) #Top_bar .menu_wrapper{margin-right:150px}body.header-creative{padding-left:50px}body.header-creative.header-open{padding-left:250px}body.error404,body.under-construction,body.template-blank{padding-left:0!important}.header-creative.footer-fixed #Footer,.header-creative.footer-sliding #Footer,.header-creative.footer-stick #Footer.is-sticky{box-sizing:border-box;padding-left:50px;}.header-open.footer-fixed #Footer,.header-open.footer-sliding #Footer,.header-creative.footer-stick #Footer.is-sticky{padding-left:250px;}.header-rtl.header-creative.footer-fixed #Footer,.header-rtl.header-creative.footer-sliding #Footer,.header-rtl.header-creative.footer-stick #Footer.is-sticky{padding-left:0;padding-right:50px;}.header-rtl.header-open.footer-fixed #Footer,.header-rtl.header-open.footer-sliding #Footer,.header-rtl.header-creative.footer-stick #Footer.is-sticky{padding-right:250px;}#Header_creative{background:#fff;position:fixed;width:250px;height:100%;left:-200px;top:0;z-index:9002;-webkit-box-shadow:2px 0 4px 2px rgba(0,0,0,.15);box-shadow:2px 0 4px 2px rgba(0,0,0,.15)}#Header_creative .container{width:100%}#Header_creative .creative-wrapper{opacity:0;margin-right:50px}#Header_creative a.creative-menu-toggle{display:block;width:34px;height:34px;line-height:34px;font-size:22px;text-align:center;position:absolute;top:10px;right:8px;border-radius:3px}.admin-bar #Header_creative a.creative-menu-toggle{top:42px}#Header_creative #Top_bar{position:static;width:100%}#Header_creative #Top_bar .top_bar_left{width:100%!important;float:none}#Header_creative #Top_bar .top_bar_right{width:100%!important;float:none;height:auto;margin-bottom:35px;text-align:center;padding:0 20px;top:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}#Header_creative #Top_bar .top_bar_right:before{display:none}#Header_creative #Top_bar .top_bar_right_wrapper{top:0}#Header_creative #Top_bar .logo{float:none;text-align:center;margin:15px 0}#Header_creative #Top_bar .menu_wrapper{float:none;margin:0 0 30px}#Header_creative #Top_bar .menu > li{width:100%;float:none;position:relative}#Header_creative #Top_bar .menu > li > a{padding:0;text-align:center}#Header_creative #Top_bar .menu > li > a:after{display:none}#Header_creative #Top_bar .menu > li > a span{border-right:0;border-bottom-width:1px;line-height:38px}#Header_creative #Top_bar .menu li ul{left:100%;right:auto;top:0;box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03);-webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03)}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu{width:700px!important;}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu > li > ul{left:0}#Header_creative #Top_bar .menu li ul li a{padding-top:9px;padding-bottom:8px}#Header_creative #Top_bar .menu li ul li ul{top:0!important}#Header_creative #Top_bar .menu > li > a span.description{display:block;font-size:13px;line-height:28px!important;clear:both}#Header_creative #Top_bar .search_wrapper{left:100%;top:auto;bottom:0}#Header_creative #Top_bar a#header_cart{display:inline-block;float:none;top:3px}#Header_creative #Top_bar a#search_button{display:inline-block;float:none;top:3px}#Header_creative #Top_bar .wpml-languages{display:inline-block;float:none;top:0}#Header_creative #Top_bar .wpml-languages.enabled:hover a.active{padding-bottom:9px}#Header_creative #Top_bar a.button.action_button{display:inline-block;float:none;top:16px;margin:0}#Header_creative #Top_bar .banner_wrapper{display:block;text-align:center}#Header_creative #Top_bar .banner_wrapper img{max-width:100%;height:auto;display:inline-block}#Header_creative #Action_bar{display:none;position:absolute;bottom:0;top:auto;clear:both;padding:0 20px;box-sizing:border-box}#Header_creative #Action_bar .social{float:none;text-align:center;padding:5px 0 15px}#Header_creative #Action_bar .social li{margin-bottom:2px}#Header_creative .social li a{color:rgba(0,0,0,.5)}#Header_creative .social li a:hover{color:#000}#Header_creative .creative-social{position:absolute;bottom:10px;right:0;width:50px}#Header_creative .creative-social li{display:block;float:none;width:100%;text-align:center;margin-bottom:5px}.header-creative .fixed-nav.fixed-nav-prev{margin-left:50px}.header-creative.header-open .fixed-nav.fixed-nav-prev{margin-left:250px}.menuo-last #Header_creative #Top_bar .menu li.last ul{top:auto;bottom:0}.header-open #Header_creative{left:0}.header-open #Header_creative .creative-wrapper{opacity:1;margin:0!important;}.header-open #Header_creative .creative-menu-toggle,.header-open #Header_creative .creative-social{display:none}.header-open #Header_creative #Action_bar{display:block}body.header-rtl.header-creative{padding-left:0;padding-right:50px}.header-rtl #Header_creative{left:auto;right:-200px}.header-rtl.nice-scroll #Header_creative{margin-right:10px}.header-rtl #Header_creative .creative-wrapper{margin-left:50px;margin-right:0}.header-rtl #Header_creative a.creative-menu-toggle{left:8px;right:auto}.header-rtl #Header_creative .creative-social{left:0;right:auto}.header-rtl #Footer #back_to_top.sticky{right:125px}.header-rtl #popup_contact{right:70px}.header-rtl #Header_creative #Top_bar .menu li ul{left:auto;right:100%}.header-rtl #Header_creative #Top_bar .search_wrapper{left:auto;right:100%;}.header-rtl .fixed-nav.fixed-nav-prev{margin-left:0!important}.header-rtl .fixed-nav.fixed-nav-next{margin-right:50px}body.header-rtl.header-creative.header-open{padding-left:0;padding-right:250px!important}.header-rtl.header-open #Header_creative{left:auto;right:0}.header-rtl.header-open #Footer #back_to_top.sticky{right:325px}.header-rtl.header-open #popup_contact{right:270px}.header-rtl.header-open .fixed-nav.fixed-nav-next{margin-right:250px}#Header_creative.active{left:-1px;}.header-rtl #Header_creative.active{left:auto;right:-1px;}#Header_creative.active .creative-wrapper{opacity:1;margin:0}.header-creative .vc_row[data-vc-full-width]{padding-left:50px}.header-creative.header-open .vc_row[data-vc-full-width]{padding-left:250px}.header-open .vc_parallax .vc_parallax-inner { left:auto; width: calc(100% - 250px); }.header-open.header-rtl .vc_parallax .vc_parallax-inner { left:0; right:auto; }#Header_creative.scroll{height:100%;overflow-y:auto}#Header_creative.scroll:not(.dropdown) .menu li ul{display:none!important}#Header_creative.scroll #Action_bar{position:static}#Header_creative.dropdown{outline:none}#Header_creative.dropdown #Top_bar .menu_wrapper{float:left}#Header_creative.dropdown #Top_bar #menu ul li{position:relative;float:left}#Header_creative.dropdown #Top_bar #menu ul li a:after{display:none}#Header_creative.dropdown #Top_bar #menu ul li a span{line-height:38px;padding:0}#Header_creative.dropdown #Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:0;top:0;width:38px;height:38px;line-height:38px;font-size:26px;font-weight:300;text-align:center;cursor:pointer;color:#444;opacity:0.33;}#Header_creative.dropdown #Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}#Header_creative.dropdown #Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}#Header_creative.dropdown #Top_bar #menu ul li.hover a{border-bottom:0}#Header_creative.dropdown #Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}#Header_creative.dropdown #Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin-left:0!important;width:auto!important;background-image:none}#Header_creative.dropdown #Top_bar #menu ul li ul li{width:100%!important}#Header_creative.dropdown #Top_bar #menu ul li ul li a{padding:0 10px;text-align:center}#Header_creative.dropdown #Top_bar #menu ul li ul li a .menu-arrow{display:none}#Header_creative.dropdown #Top_bar #menu ul li ul li a span{padding:0}#Header_creative.dropdown #Top_bar #menu ul li ul li a span:after{display:none!important}#Header_creative.dropdown #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}#Header_creative.dropdown #Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}#Header_creative.dropdown #Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}#Header_creative{transition: left .5s ease-in-out, right .5s ease-in-out;}#Header_creative .creative-wrapper{transition: opacity .5s ease-in-out, margin 0s ease-in-out .5s;}#Header_creative.active .creative-wrapper{transition: opacity .5s ease-in-out, margin 0s ease-in-out;}}@media only screen and (min-width: 768px) {#Top_bar.is-sticky{position:fixed!important;width:100%;left:0;top:-60px;height:60px;z-index:701;background:#fff;opacity:.97;filter:alpha(opacity = 97);-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,0.1);-moz-box-shadow:0 2px 5px 0 rgba(0,0,0,0.1);box-shadow:0 2px 5px 0 rgba(0,0,0,0.1)}.layout-boxed.header-boxed #Top_bar.is-sticky{max-width:960px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.layout-boxed.header-boxed.nice-scroll #Top_bar.is-sticky{margin-left:-5px}#Top_bar.is-sticky .top_bar_left,#Top_bar.is-sticky .top_bar_right,#Top_bar.is-sticky .top_bar_right:before{background:none}#Top_bar.is-sticky .top_bar_right{top:-4px;height:auto;}#Top_bar.is-sticky .top_bar_right_wrapper{top:15px}.header-plain #Top_bar.is-sticky .top_bar_right_wrapper{top:0}#Top_bar.is-sticky .logo{width:auto;margin:0 30px 0 20px;padding:0}#Top_bar.is-sticky #logo{padding:5px 0!important;height:50px!important;line-height:50px!important}.logo-no-sticky-padding #Top_bar.is-sticky #logo{height:60px!important;line-height:60px!important}#Top_bar.is-sticky #logo img.logo-main{display:none}#Top_bar.is-sticky #logo img.logo-sticky{display:inline;max-height:35px;}#Top_bar.is-sticky .menu_wrapper{clear:none}#Top_bar.is-sticky .menu_wrapper .menu > li > a{padding:15px 0}#Top_bar.is-sticky .menu > li > a,#Top_bar.is-sticky .menu > li > a span{line-height:30px}#Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:-4px}#Top_bar.is-sticky .menu > li > a span.description{display:none}#Top_bar.is-sticky .secondary_menu_wrapper,#Top_bar.is-sticky .banner_wrapper{display:none}.header-overlay #Top_bar.is-sticky{display:none}.sticky-dark #Top_bar.is-sticky{background:rgba(0,0,0,.8)}.sticky-dark #Top_bar.is-sticky #menu{background:rgba(0,0,0,.8)}.sticky-dark #Top_bar.is-sticky .menu > li > a{color:#fff}.sticky-dark #Top_bar.is-sticky .top_bar_right a{color:rgba(255,255,255,.5)}.sticky-dark #Top_bar.is-sticky .wpml-languages a.active,.sticky-dark #Top_bar.is-sticky .wpml-languages ul.wpml-lang-dropdown{background:rgba(0,0,0,0.3);border-color:rgba(0,0,0,0.1)}}@media only screen and (max-width: 959px){#Top_bar #menu{display:none;height:auto;width:300px;bottom:auto;top:100%;right:1px;position:absolute;margin:0}#Top_bar a.responsive-menu-toggle{display:block}#Top_bar #menu > ul{width:100%;float:left}#Top_bar #menu ul li{width:100%;padding-bottom:0;border-right:0;position:relative}#Top_bar #menu ul li a{padding:0 25px;margin:0;display:block;height:auto;line-height:normal;border:none}#Top_bar #menu ul li a:after{display:none}#Top_bar #menu ul li a span{border:none;line-height:44px;display:inline;padding:0}#Top_bar #menu ul li a span.description{margin:0 0 0 5px}#Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:15px;top:0;width:44px;height:44px;line-height:44px;font-size:30px;font-weight:300;text-align:center;cursor:pointer;color:#444;opacity:0.33;}#Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}#Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}#Top_bar #menu ul li.hover a{border-bottom:0}#Top_bar #menu ul li a span:after{display:none!important}#Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}#Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin-left:0!important;width:auto!important;background-image:none!important;box-shadow:0 0 0 0 transparent!important;-webkit-box-shadow:0 0 0 0 transparent!important}#Top_bar #menu ul li ul li{width:100%!important}#Top_bar #menu ul li ul li a{padding:0 20px 0 35px}#Top_bar #menu ul li ul li a .menu-arrow{display:none}#Top_bar #menu ul li ul li a span{padding:0}#Top_bar #menu ul li ul li a span:after{display:none!important}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}#Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}#Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}#Top_bar #menu ul li ul li ul li a{padding:0 20px 0 45px}.rtl #Top_bar #menu{left:1px;right:auto}.rtl #Top_bar a.responsive-menu-toggle{left:20px;right:auto}.rtl #Top_bar #menu ul li.submenu .menu-toggle{left:15px;right:auto;border-left:none;border-right:1px solid #eee}.rtl #Top_bar #menu ul li ul{left:auto!important;right:0!important}.rtl #Top_bar #menu ul li ul li a{padding:0 30px 0 20px}.rtl #Top_bar #menu ul li ul li ul li a{padding:0 40px 0 20px}.header-stack .menu_wrapper a.responsive-menu-toggle{position:static!important;margin:11px 0!important}.header-stack .menu_wrapper #menu{left:0;right:auto}.rtl.header-stack #Top_bar #menu{left:auto;right:0}.admin-bar #Header_creative{top:32px}.header-creative.layout-boxed{padding-top:85px}.header-creative.layout-full-width #Wrapper{padding-top:60px}#Header_creative{position:fixed;width:100%;left:0!important;top:0;z-index:1001}#Header_creative .creative-wrapper{display:block!important;opacity:1!important}#Header_creative .creative-menu-toggle,#Header_creative .creative-social{display:none!important;opacity:1!important;filter:alpha(opacity=100)!important}#Header_creative #Top_bar{position:static;width:100%}#Header_creative #Top_bar #logo{height:50px;line-height:50px;padding:5px 0}#Header_creative #Top_bar #logo img.logo-sticky{max-height:40px!important}#Header_creative #logo img.logo-main{display:none}#Header_creative #logo img.logo-sticky{display:inline-block}.logo-no-sticky-padding #Header_creative #Top_bar #logo{height:60px;line-height:60px;padding:0}.logo-no-sticky-padding #Header_creative #Top_bar #logo img.logo-sticky{max-height:60px!important}#Header_creative #Top_bar #header_cart{top:21px}#Header_creative #Top_bar #search_button{top:20px}#Header_creative #Top_bar .wpml-languages{top:11px}#Header_creative #Top_bar .action_button{top:9px}#Header_creative #Top_bar .top_bar_right{height:60px;top:0}#Header_creative #Top_bar .top_bar_right:before{display:none}#Header_creative #Top_bar .top_bar_right_wrapper{top:0}#Header_creative #Action_bar{display:none}#Header_creative.scroll{overflow:visible!important}}#Header_wrapper, #Intro {background-color: #000119;}#Subheader {background-color: rgba(247, 247, 247, 1);}.header-classic #Action_bar, .header-fixed #Action_bar, .header-plain #Action_bar, .header-split #Action_bar, .header-stack #Action_bar {background-color: #2C2C2C;}#Sliding-top {background-color: #545454;}#Sliding-top a.sliding-top-control {border-right-color: #545454;}#Sliding-top.st-center a.sliding-top-control,#Sliding-top.st-left a.sliding-top-control {border-top-color: #545454;}#Footer {background-color: #3B3C42;}body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover,.widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title,.content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc, .post-nav.minimal a i {color: #626262;}.post-nav.minimal a svg {fill: #626262;}.themecolor, .opening_hours .opening_hours_wrapper li span, .fancy_heading_icon .icon_top,.fancy_heading_arrows .icon-right-dir, .fancy_heading_arrows .icon-left-dir, .fancy_heading_line .title,.button-love a.mfn-love, .format-link .post-title .icon-link, .pager-single > span, .pager-single a:hover,.widget_meta ul, .widget_pages ul, .widget_rss ul, .widget_mfn_recent_comments ul li:after, .widget_archive ul,.widget_recent_comments ul li:after, .widget_nav_menu ul, .woocommerce ul.products li.product .price, .shop_slider .shop_slider_ul li .item_wrapper .price,.woocommerce-page ul.products li.product .price, .widget_price_filter .price_label .from, .widget_price_filter .price_label .to,.woocommerce ul.product_list_widget li .quantity .amount, .woocommerce .product div.entry-summary .price, .woocommerce .star-rating span,#Error_404 .error_pic i, .style-simple #Filters .filters_wrapper ul li a:hover, .style-simple #Filters .filters_wrapper ul li.current-cat a,.style-simple .quick_fact .title {color: #6E7382;}.themebg,#comments .commentlist > li .reply a.comment-reply-link,#Filters .filters_wrapper ul li a:hover,#Filters .filters_wrapper ul li.current-cat a,.fixed-nav .arrow,.offer_thumb .slider_pagination a:before,.offer_thumb .slider_pagination a.selected:after,.pager .pages a:hover,.pager .pages a.active,.pager .pages span.page-numbers.current,.pager-single span:after,.portfolio_group.exposure .portfolio-item .desc-inner .line,.Recent_posts ul li .desc:after,.Recent_posts ul li .photo .c,.slider_pagination a.selected,.slider_pagination .slick-active a,.slider_pagination a.selected:after,.slider_pagination .slick-active a:after,.testimonials_slider .slider_images,.testimonials_slider .slider_images a:after,.testimonials_slider .slider_images:before,#Top_bar a#header_cart span,.widget_categories ul,.widget_mfn_menu ul li a:hover,.widget_mfn_menu ul li.current-menu-item:not(.current-menu-ancestor) > a,.widget_mfn_menu ul li.current_page_item:not(.current_page_ancestor) > a,.widget_product_categories ul,.widget_recent_entries ul li:after,.woocommerce-account table.my_account_orders .order-number a,.woocommerce-MyAccount-navigation ul li.is-active a,.style-simple .accordion .question:after,.style-simple .faq .question:after,.style-simple .icon_box .desc_wrapper .title:before,.style-simple #Filters .filters_wrapper ul li a:after,.style-simple .article_box .desc_wrapper p:after,.style-simple .sliding_box .desc_wrapper:after,.style-simple .trailer_box:hover .desc,.tp-bullets.simplebullets.round .bullet.selected,.tp-bullets.simplebullets.round .bullet.selected:after,.tparrows.default,.tp-bullets.tp-thumbs .bullet.selected:after{background-color: #6E7382;}.Latest_news ul li .photo, .Recent_posts.blog_news ul li .photo, .style-simple .opening_hours .opening_hours_wrapper li label,.style-simple .timeline_items li:hover h3, .style-simple .timeline_items li:nth-child(even):hover h3,.style-simple .timeline_items li:hover .desc, .style-simple .timeline_items li:nth-child(even):hover,.style-simple .offer_thumb .slider_pagination a.selected {border-color: #6E7382;}a {color: #6E7382;}a:hover {color: #2275ac;}*::-moz-selection {background-color: #6E7382;}*::selection {background-color: #6E7382;}.blockquote p.author span, .counter .desc_wrapper .title, .article_box .desc_wrapper p, .team .desc_wrapper p.subtitle,.pricing-box .plan-header p.subtitle, .pricing-box .plan-header .price sup.period, .chart_box p, .fancy_heading .inside,.fancy_heading_line .slogan, .post-meta, .post-meta a, .post-footer, .post-footer a span.label, .pager .pages a, .button-love a .label,.pager-single a, #comments .commentlist > li .comment-author .says, .fixed-nav .desc .date, .filters_buttons li.label, .Recent_posts ul li a .desc .date,.widget_recent_entries ul li .post-date, .tp_recent_tweets .twitter_time, .widget_price_filter .price_label, .shop-filters .woocommerce-result-count,.woocommerce ul.product_list_widget li .quantity, .widget_shopping_cart ul.product_list_widget li dl, .product_meta .posted_in,.woocommerce .shop_table .product-name .variation > dd, .shipping-calculator-button:after,.shop_slider .shop_slider_ul li .item_wrapper .price del,.testimonials_slider .testimonials_slider_ul li .author span, .testimonials_slider .testimonials_slider_ul li .author span a, .Latest_news ul li .desc_footer,.share-simple-wrapper .icons a {color: #a8a8a8;}h1, h1 a, h1 a:hover, .text-logo #logo { color: #ffffff; }h2, h2 a, h2 a:hover { color: #6E7383; }h3, h3 a, h3 a:hover { color: #ff3030; }h4, h4 a, h4 a:hover, .style-simple .sliding_box .desc_wrapper h4 { color: #6E7383; }h5, h5 a, h5 a:hover { color: #6E7383; }h6, h6 a, h6 a:hover,a.content_link .title { color: #6E7383; }.dropcap, .highlight:not(.highlight_image) {background-color: #FCFCFC;}a.button, a.tp-button {background-color: #FCFCFC;color: #747474;}.button-stroke a.button, .button-stroke a.button.action_button, .button-stroke a.button .button_icon i, .button-stroke a.tp-button {border-color: #FCFCFC;color: #747474;}.button-stroke a:hover.button, .button-stroke a:hover.tp-button {background-color: #FCFCFC !important;color: #fff;}a.button_theme, a.tp-button.button_theme,button, input[type="submit"], input[type="reset"], input[type="button"] {background-color: #6E7382;color: #ffffff;}.button-stroke a.button.button_theme:not(.action_button),.button-stroke a.button.button_theme .button_icon i, .button-stroke a.tp-button.button_theme,.button-stroke button, .button-stroke input[type="submit"], .button-stroke input[type="reset"], .button-stroke input[type="button"] {border-color: #6E7382;color: #6E7382 !important;}.button-stroke a.button.button_theme:hover, .button-stroke a.tp-button.button_theme:hover,.button-stroke button:hover, .button-stroke input[type="submit"]:hover, .button-stroke input[type="reset"]:hover, .button-stroke input[type="button"]:hover {background-color: #6E7382 !important;color: #ffffff !important;}a.mfn-link {color: #656B6F;}a.mfn-link-2 span, a:hover.mfn-link-2 span:before, a.hover.mfn-link-2 span:before, a.mfn-link-5 span, a.mfn-link-8:after, a.mfn-link-8:before {background: #FF3030;}a:hover.mfn-link {color: #FF3030;}a.mfn-link-2 span:before, a:hover.mfn-link-4:before, a:hover.mfn-link-4:after, a.hover.mfn-link-4:before, a.hover.mfn-link-4:after, a.mfn-link-5:before, a.mfn-link-7:after, a.mfn-link-7:before {background: #FF3030;}a.mfn-link-6:before {border-bottom-color: #FF3030;}.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover{background-color: #6E7382;color: #fff;}.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover{background-color: #6E7382;color: #fff;}.woocommerce #respond input#submit.disabled,.woocommerce #respond input#submit:disabled,.woocommerce #respond input#submit[disabled]:disabled,.woocommerce a.button.disabled,.woocommerce a.button:disabled,.woocommerce a.button[disabled]:disabled,.woocommerce button.button.disabled,.woocommerce button.button:disabled,.woocommerce button.button[disabled]:disabled,.woocommerce input.button.disabled,.woocommerce input.button:disabled,.woocommerce input.button[disabled]:disabled{background-color: #6E7382;color: #fff;}.woocommerce #respond input#submit.disabled:hover,.woocommerce #respond input#submit:disabled:hover,.woocommerce #respond input#submit[disabled]:disabled:hover,.woocommerce a.button.disabled:hover,.woocommerce a.button:disabled:hover,.woocommerce a.button[disabled]:disabled:hover,.woocommerce button.button.disabled:hover,.woocommerce button.button:disabled:hover,.woocommerce button.button[disabled]:disabled:hover,.woocommerce input.button.disabled:hover,.woocommerce input.button:disabled:hover,.woocommerce input.button[disabled]:disabled:hover{background-color: #6E7382;color: #fff;}.button-stroke.woocommerce-page #respond input#submit,.button-stroke.woocommerce-page a.button:not(.action_button),.button-stroke.woocommerce-page button.button,.button-stroke.woocommerce-page input.button{border: 2px solid #6E7382 !important;color: #6E7382 !important;}.button-stroke.woocommerce-page #respond input#submit:hover,.button-stroke.woocommerce-page a.button:not(.action_button):hover,.button-stroke.woocommerce-page button.button:hover,.button-stroke.woocommerce-page input.button:hover{background-color: #6E7382 !important;color: #fff !important;}.column_column ul, .column_column ol, .the_content_wrapper ul, .the_content_wrapper ol {color: #6E7382;}.hr_color, .hr_color hr, .hr_dots span {color: #FCFCFC;background: #FCFCFC;}.hr_zigzag i {color: #FCFCFC;}.highlight-left:after,.highlight-right:after {background: #FCFCFC;}@media only screen and (max-width: 767px) {.highlight-left .wrap:first-child,.highlight-right .wrap:last-child {background: #FCFCFC;}}#Header .top_bar_left, .header-classic #Top_bar, .header-plain #Top_bar, .header-stack #Top_bar, .header-split #Top_bar,.header-fixed #Top_bar, .header-below #Top_bar, #Header_creative, #Top_bar #menu, .sticky-tb-color #Top_bar.is-sticky {background-color: #ffffff;}#Top_bar .wpml-languages a.active, #Top_bar .wpml-languages ul.wpml-lang-dropdown {background-color: #ffffff;}#Top_bar .top_bar_right:before {background-color: #e3e3e3;}#Header .top_bar_right {background-color: #f5f5f5;}#Top_bar .top_bar_right a:not(.action_button) {color: #444444;}#Top_bar .menu > li > a,#Top_bar #menu ul li.submenu .menu-toggle {color: #ffffff;}#Top_bar .menu > li.current-menu-item > a,#Top_bar .menu > li.current_page_item > a,#Top_bar .menu > li.current-menu-parent > a,#Top_bar .menu > li.current-page-parent > a,#Top_bar .menu > li.current-menu-ancestor > a,#Top_bar .menu > li.current-page-ancestor > a,#Top_bar .menu > li.current_page_ancestor > a,#Top_bar .menu > li.hover > a {color: #ffffff;}#Top_bar .menu > li a:after {background: #ffffff;}.menuo-arrows #Top_bar .menu > li.submenu > a > span:not(.description)::after {border-top-color: #ffffff;}#Top_bar .menu > li.current-menu-item.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current_page_item.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-menu-parent.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-page-parent.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-menu-ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-page-ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current_page_ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.hover.submenu > a > span:not(.description)::after {border-top-color: #ffffff;}.menu-highlight #Top_bar #menu > ul > li.current-menu-item > a,.menu-highlight #Top_bar #menu > ul > li.current_page_item > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-page-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current-page-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current_page_ancestor > a,.menu-highlight #Top_bar #menu > ul > li.hover > a {background: #FCFCFC;}.menu-arrow-bottom #Top_bar .menu > li > a:after { border-bottom-color: #ffffff;}.menu-arrow-top #Top_bar .menu > li > a:after {border-top-color: #ffffff;}.header-plain #Top_bar .menu > li.current-menu-item > a,.header-plain #Top_bar .menu > li.current_page_item > a,.header-plain #Top_bar .menu > li.current-menu-parent > a,.header-plain #Top_bar .menu > li.current-page-parent > a,.header-plain #Top_bar .menu > li.current-menu-ancestor > a,.header-plain #Top_bar .menu > li.current-page-ancestor > a,.header-plain #Top_bar .menu > li.current_page_ancestor > a,.header-plain #Top_bar .menu > li.hover > a,.header-plain #Top_bar a:hover#header_cart,.header-plain #Top_bar a:hover#search_button,.header-plain #Top_bar .wpml-languages:hover,.header-plain #Top_bar .wpml-languages ul.wpml-lang-dropdown {background: #FCFCFC;color: #ffffff;}.header-plain #Top_bar,.header-plain #Top_bar .menu > li > a span:not(.description),.header-plain #Top_bar a#header_cart,.header-plain #Top_bar a#search_button,.header-plain #Top_bar .wpml-languages,.header-plain #Top_bar a.button.action_button {border-color: #F2F2F2;}#Top_bar .menu > li ul {background-color: #000000;}#Top_bar .menu > li ul li a {color: #ffffff;}#Top_bar .menu > li ul li a:hover,#Top_bar .menu > li ul li.hover > a {color: #ffffff;}#Top_bar .search_wrapper {background: #2991D6;}.overlay-menu-toggle {color: #ffffff !important;background: transparent;}#Overlay {background: rgba(41, 145, 214, 0.95);}#overlay-menu ul li a, .header-overlay .overlay-menu-toggle.focus {color: #FFFFFF;}#overlay-menu ul li.current-menu-item > a,#overlay-menu ul li.current_page_item > a,#overlay-menu ul li.current-menu-parent > a,#overlay-menu ul li.current-page-parent > a,#overlay-menu ul li.current-menu-ancestor > a,#overlay-menu ul li.current-page-ancestor > a,#overlay-menu ul li.current_page_ancestor > a {color: #B1DCFB;}#Top_bar .responsive-menu-toggle,#Header_creative .creative-menu-toggle,#Header_creative .responsive-menu-toggle {color: #ffffff;background: transparent;}#Side_slide{background-color: #191919;border-color: #191919; }#Side_slide,#Side_slide .search-wrapper input.field,#Side_slide a:not(.button),#Side_slide #menu ul li.submenu .menu-toggle{color: #A6A6A6;}#Side_slide a:not(.button):hover,#Side_slide a.active,#Side_slide #menu ul li.hover > .menu-toggle{color: #FFFFFF;}#Side_slide #menu ul li.current-menu-item > a,#Side_slide #menu ul li.current_page_item > a,#Side_slide #menu ul li.current-menu-parent > a,#Side_slide #menu ul li.current-page-parent > a,#Side_slide #menu ul li.current-menu-ancestor > a,#Side_slide #menu ul li.current-page-ancestor > a,#Side_slide #menu ul li.current_page_ancestor > a,#Side_slide #menu ul li.hover > a,#Side_slide #menu ul li:hover > a{color: #FFFFFF;}#Action_bar .contact_details{color: #bbbbbb}#Action_bar .contact_details a{color: #2991d6}#Action_bar .contact_details a:hover{color: #2275ac}#Action_bar .social li a,#Header_creative .social li a,#Action_bar .social-menu a{color: #bbbbbb}#Action_bar .social li a:hover,#Header_creative .social li a:hover,#Action_bar .social-menu a:hover{color: #FFFFFF}#Subheader .title{color: #888888;}#Subheader ul.breadcrumbs li, #Subheader ul.breadcrumbs li a{color: rgba(136, 136, 136, 0.6);}#Footer, #Footer .widget_recent_entries ul li a {color: #D3D5DA;}#Footer a {color: #D3D5DA;}#Footer a:hover {color: #FFFFFF;}#Footer h1, #Footer h1 a, #Footer h1 a:hover,#Footer h2, #Footer h2 a, #Footer h2 a:hover,#Footer h3, #Footer h3 a, #Footer h3 a:hover,#Footer h4, #Footer h4 a, #Footer h4 a:hover,#Footer h5, #Footer h5 a, #Footer h5 a:hover,#Footer h6, #Footer h6 a, #Footer h6 a:hover {color: #ffffff;}/#Footer .themecolor, #Footer .widget_meta ul, #Footer .widget_pages ul, #Footer .widget_rss ul, #Footer .widget_mfn_recent_comments ul li:after, #Footer .widget_archive ul,#Footer .widget_recent_comments ul li:after, #Footer .widget_nav_menu ul, #Footer .widget_price_filter .price_label .from, #Footer .widget_price_filter .price_label .to,#Footer .star-rating span {color: #D3D5DA;}#Footer .themebg, #Footer .widget_categories ul, #Footer .Recent_posts ul li .desc:after, #Footer .Recent_posts ul li .photo .c,#Footer .widget_recent_entries ul li:after, #Footer .widget_mfn_menu ul li a:hover, #Footer .widget_product_categories ul {background-color: #D3D5DA;}#Footer .Recent_posts ul li a .desc .date, #Footer .widget_recent_entries ul li .post-date, #Footer .tp_recent_tweets .twitter_time,#Footer .widget_price_filter .price_label, #Footer .shop-filters .woocommerce-result-count, #Footer ul.product_list_widget li .quantity,#Footer .widget_shopping_cart ul.product_list_widget li dl {color: #a8a8a8;}#Footer .footer_copy .social li a,#Footer .footer_copy .social-menu a{color: #65666C;}#Footer .footer_copy .social li a:hover,#Footer .footer_copy .social-menu a:hover{color: #FFFFFF;}a#back_to_top.button.button_js{color: #65666C;background:transparent;-webkit-box-shadow:0 0 0 0 transparent;box-shadow:0 0 0 0 transparent;}a#back_to_top.button.button_js:after{display:none;}#Sliding-top, #Sliding-top .widget_recent_entries ul li a {color: #cccccc;}#Sliding-top a {color: #FF3030;}#Sliding-top a:hover {color: #2275ac;}#Sliding-top h1, #Sliding-top h1 a, #Sliding-top h1 a:hover,#Sliding-top h2, #Sliding-top h2 a, #Sliding-top h2 a:hover,#Sliding-top h3, #Sliding-top h3 a, #Sliding-top h3 a:hover,#Sliding-top h4, #Sliding-top h4 a, #Sliding-top h4 a:hover,#Sliding-top h5, #Sliding-top h5 a, #Sliding-top h5 a:hover,#Sliding-top h6, #Sliding-top h6 a, #Sliding-top h6 a:hover {color: #ffffff;}#Sliding-top .themecolor, #Sliding-top .widget_meta ul, #Sliding-top .widget_pages ul, #Sliding-top .widget_rss ul, #Sliding-top .widget_mfn_recent_comments ul li:after, #Sliding-top .widget_archive ul,#Sliding-top .widget_recent_comments ul li:after, #Sliding-top .widget_nav_menu ul, #Sliding-top .widget_price_filter .price_label .from, #Sliding-top .widget_price_filter .price_label .to,#Sliding-top .star-rating span {color: #FF3030;}#Sliding-top .themebg, #Sliding-top .widget_categories ul, #Sliding-top .Recent_posts ul li .desc:after, #Sliding-top .Recent_posts ul li .photo .c,#Sliding-top .widget_recent_entries ul li:after, #Sliding-top .widget_mfn_menu ul li a:hover, #Sliding-top .widget_product_categories ul {background-color: #FF3030;}#Sliding-top .Recent_posts ul li a .desc .date, #Sliding-top .widget_recent_entries ul li .post-date, #Sliding-top .tp_recent_tweets .twitter_time,#Sliding-top .widget_price_filter .price_label, #Sliding-top .shop-filters .woocommerce-result-count, #Sliding-top ul.product_list_widget li .quantity,#Sliding-top .widget_shopping_cart ul.product_list_widget li dl {color: #a8a8a8;}blockquote, blockquote a, blockquote a:hover {color: #444444;}.image_frame .image_wrapper .image_links,.portfolio_group.masonry-hover .portfolio-item .masonry-hover-wrapper .hover-desc {background: rgba(255, 48, 48, 0.8);}.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-title:after,.masonry.tiles .post-item.no-img,.masonry.tiles .post-item.format-quote,.blog-teaser li .desc-wrapper .desc .post-title:after,.blog-teaser li.no-img,.blog-teaser li.format-quote {background: #FF3030;}.image_frame .image_wrapper .image_links a {color: #ffffff;}.image_frame .image_wrapper .image_links a:hover {background: #ffffff;color: #FF3030;}.image_frame {border-color: #f8f8f8;}.image_frame .image_wrapper .mask::after {background: rgba(255, 255, 255, 0.4);}.sliding_box .desc_wrapper {background: #FF3030;}.sliding_box .desc_wrapper:after {border-bottom-color: #FF3030;}.counter .icon_wrapper i {color: #FF3030;}.quick_fact .number-wrapper {color: #FF3030;}.progress_bars .bars_list li .bar .progress {background-color: #FF3030;}a:hover.icon_bar {color: #FF3030 !important;}a.content_link, a:hover.content_link {color: #FF3030;}a.content_link:before {border-bottom-color: #FF3030;}a.content_link:after {border-color: #FF3030;}.get_in_touch, .infobox {background-color: #FF3030;}.google-map-contact-wrapper .get_in_touch:after {border-top-color: #FF3030;}.timeline_items li h3:before,.timeline_items:after,.timeline .post-item:before {border-color: #6E7382;}.how_it_works .image .number {background: #6E7382;}.trailer_box .desc .subtitle,.trailer_box.plain .desc .line {background-color: #FF3030;}.trailer_box.plain .desc .subtitle {color: #FF3030;}.icon_box .icon_wrapper, .icon_box a .icon_wrapper,.style-simple .icon_box:hover .icon_wrapper {color: #FF3030;}.icon_box:hover .icon_wrapper:before,.icon_box a:hover .icon_wrapper:before {background-color: #FF3030;}ul.clients.clients_tiles li .client_wrapper:hover:before {background: #6E7382;}ul.clients.clients_tiles li .client_wrapper:after {border-bottom-color: #6E7382;}.list_item.lists_1 .list_left {background-color: #FF3030;}.list_item .list_left {color: #FF3030;}.feature_list ul li .icon i {color: #FF3030;}.feature_list ul li:hover,.feature_list ul li:hover a {background: #FF3030;}.ui-tabs .ui-tabs-nav li.ui-state-active a,.accordion .question.active .title > .acc-icon-plus,.accordion .question.active .title > .acc-icon-minus,.faq .question.active .title > .acc-icon-plus,.faq .question.active .title,.accordion .question.active .title {color: #FF3030;}.ui-tabs .ui-tabs-nav li.ui-state-active a:after {background: #FF3030;}body.table-hover:not(.woocommerce-page) table tr:hover td {background: #6E7382;}.pricing-box .plan-header .price sup.currency,.pricing-box .plan-header .price > span {color: #FF3030;}.pricing-box .plan-inside ul li .yes {background: #FF3030;}.pricing-box-box.pricing-box-featured {background: #FF3030;}input[type="date"], input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"],select, textarea, .woocommerce .quantity input.qty,.dark input[type="email"],.dark input[type="password"],.dark input[type="tel"],.dark input[type="text"],.dark select,.dark textarea{color: #626262;background-color: rgba(255, 255, 255, 1);border-color: #EBEBEB;}::-webkit-input-placeholder {color: #929292;}::-moz-placeholder {color: #929292;}:-ms-input-placeholder {color: #929292;}input[type="date"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, select:focus, textarea:focus {color: #1982c2;background-color: rgba(233, 245, 252, 1) !important;border-color: #d5e5ee;}:focus::-webkit-input-placeholder {color: #929292;}:focus::-moz-placeholder {color: #929292;}.woocommerce span.onsale, .shop_slider .shop_slider_ul li .item_wrapper span.onsale {border-top-color: #6E7382 !important;}.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {border-color: #6E7382 !important;}@media only screen and ( min-width: 768px ){.header-semi #Top_bar:not(.is-sticky) {background-color: rgba(255, 255, 255, 0.8);}}@media only screen and ( max-width: 767px ){#Top_bar{background: #ffffff !important;}#Action_bar{background: #FFFFFF !important;}#Action_bar .contact_details{color: #222222}#Action_bar .contact_details a{color: #2991d6}#Action_bar .contact_details a:hover{color: #2275ac}#Action_bar .social li a,#Action_bar .social-menu a{color: #bbbbbb}#Action_bar .social li a:hover,#Action_bar .social-menu a:hover{color: #777777}}html { background-color: #FCFCFC;}#Wrapper, #Content { background-color: #FCFCFC;}body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"],input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {font-family: "Roboto", Arial, Tahoma, sans-serif;}#menu > ul > li > a, .action_button, #overlay-menu ul li a {font-family: "Roboto", Arial, Tahoma, sans-serif;}#Subheader .title {font-family: "Roboto", Arial, Tahoma, sans-serif;}h1, h2, h3, h4, .text-logo #logo {font-family: "Roboto", Arial, Tahoma, sans-serif;}h5, h6 {font-family: "Roboto", Arial, Tahoma, sans-serif;}blockquote {font-family: "Roboto", Arial, Tahoma, sans-serif;}.chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number,.pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {font-family: "Roboto", Arial, Tahoma, sans-serif;}body {font-size: 14px;line-height: 21px;font-weight: 400;letter-spacing: 0px;}big,.big {font-size: 16px;line-height: 28px;font-weight: 400;letter-spacing: 0px;}#menu > ul > li > a, a.button.action_button, #overlay-menu ul li a{font-size: 14px;font-weight: 400;letter-spacing: 0px;}#overlay-menu ul li a{line-height: 21px;}#Subheader .title {font-size: 25px;line-height: 25px;font-weight: 400;letter-spacing: 0px;}h1, .text-logo #logo { font-size: 40px;line-height: 45px;font-weight: 700;letter-spacing: 0px;}h2 { font-size: 30px;line-height: 30px;font-weight: 300;letter-spacing: 0px;}h3 {font-size: 20px;line-height: 25px;font-weight: 400;letter-spacing: 0px;}h4 {font-size: 20px;line-height: 25px;font-weight: 400;letter-spacing: 0px;}h5 {font-size: 15px;line-height: 19px;font-weight: 700;letter-spacing: 0px;}h6 {font-size: 13px;line-height: 19px;font-weight: 400;letter-spacing: 0px;}#Intro .intro-title { font-size: 70px;line-height: 70px;font-weight: 400;letter-spacing: 0px;}.with_aside .sidebar.columns {width: 23%;}.with_aside .sections_group {width: 77%;}.aside_both .sidebar.columns {width: 18%;}.aside_both .sidebar.sidebar-1{ margin-left: -82%;}.aside_both .sections_group {width: 64%;margin-left: 18%;}@media only screen and (min-width:1240px){#Wrapper, .with_aside .content_wrapper {max-width: 1920px;}.section_wrapper, .container {max-width: 1900px;}.layout-boxed.header-boxed #Top_bar.is-sticky{max-width: 1920px;}}@media only screen and (min-width:768px){.layout-boxed #Subheader .container,.layout-boxed:not(.with_aside) .section:not(.full-width),.layout-boxed.with_aside .content_wrapper,.layout-boxed #Footer .container { padding-left: 0%; padding-right: 0%;}.layout-boxed.header-modern #Action_bar .container,.layout-boxed.header-modern #Top_bar:not(.is-sticky) .container { padding-left: 0%; padding-right: 0%;}}@media only screen and (max-width: 767px){.section_wrapper,.container,.four.columns .widget-area { max-width: 700px !important; }}#Top_bar #logo,.header-fixed #Top_bar #logo,.header-plain #Top_bar #logo,.header-transparent #Top_bar #logo {height: 60px;line-height: 60px;padding: 15px 0;}.logo-overflow #Top_bar:not(.is-sticky) .logo {height: 90px;}#Top_bar .menu > li > a {padding: 15px 0;}.menu-highlight:not(.header-creative) #Top_bar .menu > li > a {margin: 20px 0;}.header-plain:not(.menu-highlight) #Top_bar .menu > li > a span:not(.description) {line-height: 90px;}.header-fixed #Top_bar .menu > li > a {padding: 30px 0;}#Top_bar .top_bar_right,.header-plain #Top_bar .top_bar_right {height: 90px;}#Top_bar .top_bar_right_wrapper { top: 25px;}.header-plain #Top_bar a#header_cart, .header-plain #Top_bar a#search_button,.header-plain #Top_bar .wpml-languages,.header-plain #Top_bar a.button.action_button {line-height: 90px;}.header-plain #Top_bar .wpml-languages,.header-plain #Top_bar a.button.action_button {height: 90px;}@media only screen and (max-width: 767px){#Top_bar a.responsive-menu-toggle { top: 40px;}.mobile-header-mini #Top_bar #logo{height:50px!important;line-height:50px!important;margin:5px 0;}}.twentytwenty-before-label::before { content: "Before";}.twentytwenty-after-label::before { content: "After";}#Side_slide{right:-250px;width:250px;}.blog-teaser li .desc-wrapper .desc{background-position-y:-1px;}
+</style>
+<!-- style | custom css | theme options -->
+<style id="mfn-dnmc-theme-css">
+/***********************************************************/
+/****************   MENU ADJUSTMENTS   **************/
+/***********************************************************/
+
+#Top_bar .menu > li ul{
+background: rgba(0,0,0,0.5);
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+}
+.menu-highlight #Top_bar #menu > ul > li.current-menu-item > a, .menu-highlight #Top_bar #menu > ul > li.current_page_ancestor> a{
+    background:transparent;
+    -webkit-box-shadow: 0px 0px 0px 1px rgba(255,255,255,1);
+    -moz-box-shadow: 0px 0px 0px 1px rgba(255,255,255,1);
+    box-shadow: 0px 0px 0px 1px rgba(255,255,255,1);
+}
+.menu-highlight #Top_bar #menu > ul > li.current-menu-parent > a,  .menu-highlight #Top_bar #menu > ul > li.hover > a{
+background:rgba(255,255,255,0.2);
+}
+
+/***********************************************************/
+/****************   RESPONSIVE ADJUSTMENTS   **************/
+/***********************************************************/
+
+/****************   MOBILE ONLY   **************/
+@media only screen and (max-width: 767px){
+
+#Top_bar {
+    background: #FF3030 !important;
+}
+.style-simple #Filters{
+display:none;
+}
+.section_wrapper, .container, .four.columns .widget-area {
+    max-width:none !important;
+}
+.the_content_wrapper, .section-post-related, .sidebar, .blog .section_wrapper {
+    margin: 0 4% !important;
+}
+.section_wrapper, .container, .four.columns .widget-area {
+    max-width: 700px!important;
+    padding-left: 1px!important;
+    padding-right: 1px!important;
+}
+}
+
+/****************   UNDER FULL NAV BREAKPOINT   **************/
+
+@media only screen and (max-width: 959px){
+
+.menu-highlight #Top_bar .menu > li.current-menu-item > a, .menu-highlight #Top_bar .menu > li.current_page_item > a, .menu-highlight #Top_bar .menu > li.current-menu-parent > a, .menu-highlight #Top_bar .menu > li.current-page-parent > a, .menu-highlight #Top_bar .menu > li.current-menu-ancestor > a, .menu-highlight #Top_bar .menu > li.current_page_ancestor > a, .menu-highlight #Top_bar .menu > li.hover > a, #Top_bar .menu > li > a, #Top_bar #menu ul li.submenu .menu-toggle, #Top_bar .menu > li ul li a:hover {
+    color: #6E7382;
+}
+
+#Top_bar .menu > li ul{
+background: #f4f4f4 !important;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+}
+#Top_bar.is-sticky .menu > li ul{
+background: inherit !important;
+color: #f4f4f4;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+}
+#Top_bar .menu > li ul li a {
+    color: #6E7382;
+}
+#Top_bar.is-sticky .menu > li ul li a, .menu-highlight #Top_bar.is-sticky .menu > li.current-menu-item > a, .menu-highlight #Top_bar.is-sticky .menu > li.current_page_item > a, .menu-highlight #Top_bar.is-sticky .menu > li.current-menu-parent > a, .menu-highlight #Top_bar.is-sticky .menu > li.hover > a, #Top_bar.is-sticky .menu > li > a {
+    color: #f4f4f4 !important;
+}
+.menu-highlight #Top_bar.is-sticky #menu > ul > li.current-menu-parent > a, .menu-highlight #Top_bar.is-sticky #menu > ul > li.hover > a, .menu-highlight #Top_bar.is-sticky #menu > ul > li.current-menu-item > a {
+    background: rgba(255,255,255,0.1);
+-webkit-box-shadow: none  !important;
+-moz-box-shadow: none !important;
+box-shadow: none  !important;
+}
+
+ #Top_bar #menu ul li.submenu .menu-toggle {
+   color: #D3D5DA;
+   opacity:1;
+}
+.section_wrapper, .container, .with_aside .content_wrapper {
+    max-width: none !important;
+}
+.our_values .vc_column-inner{
+min-height:400px !important;
+}
+}
+
+/****************   UPPER FULL NAV BREAKPOINT  **************/
+
+@media only screen and (min-width: 959px){
+
+.section_wrapper, .container, .with_aside .content_wrapper {
+    max-width: none !important;
+}
+.single-portfolio .section_wrapper{
+padding:0 16%;
+}
+.blog .content_wrapper, .single-post .the_content_wrapper{
+padding:0 8%;
+}
+.our_values .vc_column-inner{
+min-height:350px;
+}
+.page-template-template-portfolio #Content{
+margin-top:110px !important;
+}
+.single-post #Content, .single-portfolio #Content, .blog #Content, .category #Content, .archive #Content, .search #Content{
+margin-top:85px !important;
+}
+}
+
+/***********************************************************/
+/**********************PORTFOLIO-BLOG*********************/
+/***********************************************************/
+
+.single-portfolio .post-header > .title_wrapper > h1, .single-post .post-header > .title_wrapper > h1{
+color: #6E7382;
+}
+.single-post #Top_bar, .blog #Top_bar, .category #Top_bar, .archive #Top_bar, .search #Top_bar, .page-template-template-portfolio #Top_bar, .single-portfolio #Top_bar{
+background:#FF3030;
+}
+.widget_categories ul, .widget_categories ul{
+list-style:none;
+}
+.widget_categories ul, .widget_categories ul li a{
+background:none;
+color:#6E7382 !important;
+}
+.widget_categories ul, .widget_categories ul li a:after{
+background:none;
+color:#6E7382 !important;
+text-decoration:underline;
+}
+.widget_recent_entries ul li a, .widget:after, .widget_recent_entries ul li{
+border:none;
+background:none;
+color: #6E7382 !important;
+}
+.widget_categories ul {
+    padding: 5px 10px 5px 13px;
+}
+.widget_recent_entries ul li:after {
+    background: none !important;
+}
+.date_label{
+background:none !important;
+}
+.post-footer{
+background:none !important;
+}
+.post-head{
+display:none;
+}
+#popup_contact > a.button {
+  display:none;
+}
+
+
+/***********************************************************/
+/**********************FOOTER*********************/
+/***********************************************************/
+
+#Footer .widget_nav_menu ul{
+list-style:none;
+background:none;
+padding:0;
+}
+
+#Footer .widget_nav_menu ul li:after{
+border:none;
+}
+#Footer .widgets_wrapper {
+    padding: 15px;
+}
+.mc4wp-form-fields > p > label{
+display:none;
+}
+#popup_contact > a.button {
+background: #f7f7f7 !important;
+color: rgba(0,0,0,0.5);
+}
+/***********************************************************/
+/**********************MISC*********************/
+/***********************************************************/
+
+h2.wpb_heading.wpb_singleimage_heading{
+font-size:14px;
+font-weight:600;
+height:40px;
+line-height:18px;
+}
+.wp-caption-text {
+background:none;
+color:#6e7382;
+line-height:24px;
+font-size:1.2em;
+}
+.counter .desc_wrapper .number-wrapper{
+color:#fff;
+font-family:roboto;
+font-weight: 700;
+}
+.counter .desc_wrapper .number-wrapper .label{
+font-size:100%;
+}
+.style-simple blockquote{
+font-style:normal;
+color:#6E7382;
+margin-left:0;
+}
+.team > .image_frame > .image_wrapper  .scale-with-grid{
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+}
+.wpb_wrapper > .flexslider{
+-webkit-box-shadow: none;
+-moz-box-shadow: none;
+box-shadow: none;
+}
+.team .desc_wrapper h4, .team .desc_wrapper .subtitle{
+text-align:center;
+}
+.flex-control-nav, .flex-control-paging{
+display:none;
+}
+ code{
+white-space: pre-wrap;
+}
+.counter {
+padding: 20px 0;
+}
+@media only screen and (min-width: 768px){
+.team_odd-fix{
+justify-content: center;
+}
+
+.vc_row.team_odd-fix > .vc_column_container{
+width: 16.66666667%;
+}
+}
+/***********************************************************/
+/**********************NEWSLETTER*********************/
+/***********************************************************/
+.vc_row .mc4wp-form-fields p {
+font-size:20px;
+}
+.vc_row .mc4wp-form-fields input[type="email"] {
+width:60%
+}
+.vc_row .mc4wp-form-fields input[type="submit"] {
+width:160px;
+}
+.mc4wp-form-fields input[type="submit"] {
+background-color: #ff3030 !important;
+color: #fff !important;
+font-weight: bold;
+border:1px solid #ff3030;"
+}
+.mc4wp-form-fields input[type="submit"]:hover {
+background-color: #ff8080 !important;
+border:1px solid #ff3030;"
+}
+.popup_contact_wrapper .mc4wp-form-fields input[type="email"]{
+width:100%;
+}
+
+/***********************************************************/
+/**********************LANGUAGE FIX*********************/
+/***********************************************************/
+.readmore{
+color:#FF3030;
+text-decoration: underline;
+}
+
+.style-simple blockquote {
+    padding: 1.857em;
+    padding-bottom: 0;
+    border-left: 3px solid #d9d9d9;
+    border-bottom: 1px solid transparent;
+    background: #f2f2f2;
+    font-size: 14px;
+}
+
+.style-simple blockquote a{
+    color: rgb(255, 48, 48);
+}
+
+.custom_section_wrapper {
+    margin: 0 -30px;
+}
+</style>
+<!-- style | custom css | page options -->
+<style id="mfn-dnmc-page-css">
+#Top_bar{
+background:#FF3030;
+}
+#Content{
+margin-top:85px !important;
+}
+</style>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.buzzvil.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://www.buzzvil.com/wp-content/uploads/2016/07/cropped-icon-50x50.png" sizes="32x32">
+<link rel="icon" href="https://www.buzzvil.com/wp-content/uploads/2016/07/cropped-icon-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.buzzvil.com/wp-content/uploads/2016/07/cropped-icon-300x300.png">
+<meta name="msapplication-TileImage" content="https://www.buzzvil.com/wp-content/uploads/2016/07/cropped-icon-300x300.png">
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<!-- body -->
+<body class="page-template-default page page-id-4059  color-custom style-simple button-stroke layout-full-width if-border-hide hide-love header-transparent header-fw minimalist-header sticky-header sticky-dark ab-hide subheader-title-left menu-highlight menuo-no-borders menuo-right footer-stick footer-copy-center boxed2fw mobile-tb-left mobile-mini-mr-ll tablet-sticky tr-header tr-menu be-reg-2082 wpb-js-composer js-comp-ver-5.2.1 vc_responsive">
+
+	<!-- mfn_hook_top --><!-- mfn_hook_top -->
+	
+	
+	<!-- #Wrapper -->
+	<div id="Wrapper">
+
+		
+		
+		<!-- #Header_bg -->
+		<div id="Header_wrapper">
+
+			<!-- #Header -->
+			<header id="Header">
+				
+
+
+<!-- .header_placeholder 4sticky  -->
+<div class="header_placeholder"></div>
+
+<div id="Top_bar" class="loading">
+
+	<div class="container">
+		<div class="column one">
+		
+			<div class="top_bar_left clearfix">
+			
+				<!-- Logo -->
+				<div class="logo"><a id="logo" href="https://www.buzzvil.com" title="Buzzvil" data-height="60" data-padding="15"><img class="logo-main scale-with-grid" src="https://www.buzzvil.com/wp-content/uploads/2018/02/buzzvil-vecto.svg" data-retina="https://www.buzzvil.com/wp-content/uploads/2018/02/buzzvil-vecto-1.svg" data-height="" alt=""><img class="logo-sticky scale-with-grid" src="https://www.buzzvil.com/wp-content/uploads/2018/02/buzzvil-vecto.svg" data-retina="https://www.buzzvil.com/wp-content/uploads/2018/02/buzzvil-vecto-1.svg" data-height="" alt=""><img class="logo-mobile scale-with-grid" src="https://www.buzzvil.com/wp-content/uploads/2018/02/buzzvil-vecto.svg" data-retina="https://www.buzzvil.com/wp-content/uploads/2018/02/buzzvil-vecto-1.svg" data-height="" alt=""><img class="logo-mobile-sticky scale-with-grid" src="https://www.buzzvil.com/wp-content/uploads/2018/02/buzzvil-vecto.svg" data-retina="https://www.buzzvil.com/wp-content/uploads/2018/02/buzzvil-vecto-1.svg" data-height="" alt=""></a></div>			
+				<div class="menu_wrapper">
+					<nav id="menu"><ul id="menu-main-en" class="menu menu-main"><li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-66"><a href="https://www.buzzvil.com/"><span>Home</span></a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46"><a href="https://www.buzzvil.com/company/"><span>Company</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://www.buzzvil.com/company/"><span>About</span></a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://www.buzzvil.com/career/"><span>Career</span></a></li>
+	<li id="menu-item-5466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5466"><a href="https://www.buzzvil.com/press-en/"><span>Press</span></a></li>
+	<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.buzzvil.com/contact/"><span>Contact</span></a></li>
+</ul>
+</li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40"><a href="https://www.buzzvil.com/publisher/"><span>Publisher</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="https://www.buzzvil.com/publisher/"><span>Lockscreen</span></a></li>
+	<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://www.buzzvil.com/offerwall/"><span>Offerwall</span></a></li>
+</ul>
+</li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37"><a href="https://www.buzzvil.com/advertiser/"><span>Advertiser</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://www.buzzvil.com/advertiser/"><span>Lockscreen</span></a></li>
+	<li id="menu-item-766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-766"><a href="https://www.buzzvil.com/offerwall-ad/"><span>Offerwall</span></a></li>
+</ul>
+</li>
+<li id="menu-item-3760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3760"><a href="https://www.buzzvil.com/blog/"><span>Blog</span></a></li>
+<li id="menu-item-3942" class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3942"><a href="#pll_switcher"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHzSURBVHjaYkxOP8IAB//+Mfz7w8Dwi4HhP5CcJb/n/7evb16/APL/gRFQDiAAw3JuAgAIBEDQ/iswEERjGzBQLEru97ll0g0+3HvqMn1SpqlqGsZMsZsIe0SICA5gt5a/AGIEarCPtFh+6N/ffwxA9OvP/7//QYwff/6fZahmePeB4dNHhi+fGb59Y4zyvHHmCEAAAW3YDzQYaJJ93a+vX79aVf58//69fvEPlpIfnz59+vDhw7t37968efP3b/SXL59OnjwIEEAsDP+YgY53b2b89++/awvLn98MDi2cVxl+/vl6mituCtBghi9f/v/48e/XL86krj9XzwEEEENy8g6gu22rfn78+NGs5Ofr16+ZC58+fvyYwX8rxOxXr169fPny+fPn1//93bJlBUAAsQADZMEBxj9/GBxb2P/9+S/R8u3vzxuyaX8ZHv3j8/YGms3w8ycQARmi2eE37t4ACCDGR4/uSkrKAS35B3TT////wADOgLOBIaXIyjBlwxKAAGKRXjCB0SOEaeu+/y9fMnz4AHQxCP348R/o+l+//sMZQBNLEvif3AcIIMZbty7Ly6t9ZmXl+fXj/38GoHH/UcGfP79//BBiYHjy9+8/oUkNAAHEwt1V/vI/KBY/QSISFqM/GBg+MzB8A6PfYC5EFiDAABqgW776MP0rAAAAAElFTkSuQmCC" title="English" alt="English"></span></a>
+<ul class="sub-menu">
+	<li class="lang-item lang-item-185 lang-item-ko menu-item menu-item-type-custom menu-item-object-custom menu-item-3942-ko"><a href="https://www.buzzvil.com/ko/privacy-policy-17-07-11-2/" hreflang="ko-KR" lang="ko-KR"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHiSURBVHjaYvz4/SsDEvj37x+YhLCgGAb+ADFAADEBpfk4uIDo2YNHV89fZP3PyMfBLcDFxc/NLcjNy8nMfPnM2cd374ry84sJCAE1AAQQC8Tg169fb9269cP7DyJiYsqKiv/v3v3/589/FZVnL16uXbtGQFBQWEhIRlYWaAVAAIFs+P///4cPH37//m1oYqwsJfm/t/d/QcH/vJz/ddUKYqJuXl5v3rx5/uIFUBnQBoAAYgT6gZedE6jt1atXXLy8jHsOcEyd+P/37y9/mH7+/CWQEPEpIvLj6zdS0lKMjIwPnj0BCCAWiC+BukVERICMnW/4jP8w/2bibDLMf/aTvfrxOX12dm5pKaACBkZGoJMAAgioAaQaCN6+fcvDzfVVXTdXvZKZjfURu9iHHz/vGrupf//85u1HSUlJRqCef/8AAogJiIGqb968OW3aNKC/PQw4VS1UnjALMXz/4azD5uokvW/f/vr6+pMnT0L8ABBALP/AocTFxQXkHzx0WFNLszZM7ZIJ+5+//3UV2O/du7l6zXphYWEBAQGgAqCTAAII5AcgS1pa2t3d/eXLl2JikkD9ekpcEHeKi0t5eHgANairq4PjlQEggBifv32LHJFwiuEPmMEAYf/5A1YNxAABBgCFMRk3L8TWJAAAAABJRU5ErkJggg==" title="한국어" alt="한국어"></span></a></li>
+	<li class="lang-item lang-item-159 lang-item-ja menu-item menu-item-type-custom menu-item-object-custom menu-item-3942-ja"><a href="https://www.buzzvil.com/ja/privacy-policy-jp/" hreflang="ja" lang="ja"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAE2SURBVHjaYvz69SsDEvj37x+ERGbAwZ9//wACiAUoysXFBST///8P0QOm//+HU0jgxYsXAAHEAlP0H8HYt+//4SP/f//6b2b238sLrpqRkRFoCUAAsaCrXrv2/8KF///8+f/r9//Dh/8/ffI/OQWiAeJCgABigrseJPT27f/Vq////v3/1y8oWrzk/+PHcEv+/PkDEEBMEM/B3fj/40eo0t9g8suX/w8f/odZAVQMEEAsQAzj/2cQFf3PxARWCrYEaBXQLCkpqB/+/wcqBgggJrjxQPX/hYX/+/v///kLqhpIBgf/l5ODhxiQBAggFriToDoTEv5zcf3ftQuk2s7uf0wM3MdAAPQDQAAxvn37lo+PDy4KZUDcycj4/z9CBojv3r0LEEAgG969eweLSBDEBSCWAAQYACaTbJ/kuok9AAAAAElFTkSuQmCC" title="日本語" alt="日本語"></span></a></li>
+	<li class="lang-item lang-item-94 lang-item-zh menu-item menu-item-type-custom menu-item-object-custom menu-item-3942-zh"><a href="https://www.buzzvil.com/zh/privacy-policy-tw/" hreflang="zh-TW" lang="zh-TW"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFjSURBVHjaYmRQ38wAB3/+gdCvfww//jx8Hy7BwPAPAwEEEAtQWUutDpA0EmZnZmI68vTL338Mf//+FbhQwPznK9Pv3////PkPI79s2gQQQCwQo0W+/nMOFWdlZXww+8vhN9///Pn3596Df78//f/1+//vX/9//QKqZpSVBdoAEEAsQGv+/fv3+9dfBgag4L/v3//8/vsPqAGqFKT6N0QDA1CagQEggFgY/vz5+5fhwo/fNXPu/fn379nHn3/+/vsNNAPJbLgGoFsAAoiF4RdQ2b+/f/4+f/cHaPDvv/+BHgAy2H9/QaiGaACKMjAABBDL36ehDJfy/z94ADSP4TfYf0jOQCYZwU4CCCAWIGYECwENQFGEqhokC3QBAwNAAIE0MIODjAGuCFPbH6CGv8DABvoBIIBAGph+/2GQlAQb85fhD0gnI9hIBggJRH//QhBQMUAAMX5FjUgGbLELlwICgAADAElTZuDmjaewAAAAAElFTkSuQmCC" title="中文 (繁體)" alt="中文 (繁體)"></span></a></li>
+</ul>
+</li>
+</ul></nav><a class="responsive-menu-toggle " href="#"><i class="icon-menu-fine"></i></a>					
+				</div>			
+				
+				<div class="secondary_menu_wrapper">
+					<!-- #secondary-menu -->
+									</div>
+				
+				<div class="banner_wrapper">
+									</div>
+				
+				<div class="search_wrapper">
+					<!-- #searchform -->
+					
+					
+<form method="get" id="searchform" action="https://www.buzzvil.com/">
+						
+		
+	<i class="icon_search icon-search-fine"></i>
+	<a href="#" class="icon_close"><i class="icon-cancel-fine"></i></a>
+	
+	<input type="text" class="field" name="s" placeholder="Enter your search">			
+	<input type="submit" class="submit" value="" style="display:none;">
+	
+</form>					
+				</div>				
+				
+			</div>
+			
+						
+		</div>
+	</div>
+</div>							</header>
+
+			
+		</div>
+
+		
+		<!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->	
+<!-- #Content -->
+<div id="Content">
+	<div class="content_wrapper clearfix">
+
+		<!-- .sections_group -->
+		<div class="sections_group">
+		
+			<div class="entry-content" itemprop="mainContentOfPage">
+			
+				<div class="section the_content has_content"><div class="section_wrapper"><div class="the_content_wrapper"><h2></h2>
+<h2><b>Buzzvil Privacy Policy</b></h2>
+<p><span style="font-weight: 400;">Buzzvil Co., Ltd. (Hereinafter referred to as “the Company”) takes personal information of users very seriously. This Privacy Policy details the main privacy policies that apply to data that the Company collects through Buzzvil’s advertising network business (“Service”).</span></p>
+<p><span style="font-weight: 400;">Through this Privacy Policy (the “Policy”), the Company regards personal information of the users as important and inform them of the purpose and method of Company’s using the personal information provided by the users and the measures taken by the Company for protection of those personal information.</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">This Policy will be effective on the 25th day of May, 2018 and, in case of modification thereof, the Company will make public notice of it through posting it on the bulletin board of Company’s website or individual notice through sending mails, fax or e-mails.</span></p>
+<p>&nbsp;</p>
+<h4><b>1. About Buzzvil services</b></h4>
+<p><span style="font-weight: 400;">Buzzvil offers online advertising network services. We provide personalized ads to mobile users of our partnered publishers on mobile apps or websites for our advertisers.</span></p>
+<h4><b>2. Data collection and collection methods</b></h4>
+<p><span style="font-weight: 400;">The Company does not collect or store personal information that may directly identify a specific individual, such as name, contact, email, date of birth, or health status.</span></p>
+<p><span style="font-weight: 400;">The Company automatically collects the following anonymous data in the process of using the Service to achieve the purposes of Article 3.</span></p>
+<p><span style="font-weight: 400;">– Device identification values and IP addresses defined as non-personal information such as Google Advertising ID (GAID), Android ID, Advertiser Identifier (IDFA), Vendor Identifier (IDFV), etc.</span></p>
+<p><span style="font-weight: 400;">– Locale, language, device manufacturer, device name, communication carrier, OS version, user agent,&nbsp; package list (the applications and/or processes which are installed or run on your device while the partner app is active or inactive) etc.</span></p>
+<p><span style="font-weight: 400;">– User information provided by partner companies such as User ID.</span></p>
+<h2></h2>
+<h4><b>3. Purpose of data collection</b></h4>
+<p><span style="font-weight: 400;">The Company uses the collected data for the following purposes:</span></p>
+<p><span style="font-weight: 400;">① Member management, identification and delivering service: </span><span style="font-weight: 400;">We use the IP address assigned to your device to send you requested such as your point information. We use unique identifiers of your device to help us authenticate you as the person who should have access to your Buzzvil Account</span></p>
+<p><span style="font-weight: 400;">② Ad serving: We publish personalized, interest-based ads based on individual interests, preferences, etc., and to analyze the effectiveness of advertising.</span></p>
+<p><span style="font-weight: 400;">③ Customer Support: We respond to customer support requests and help resolve any customer support issues that may arise.</span></p>
+<p><span style="font-weight: 400;">④ Frequency capping: We limit the number of times ads are shown (to prevent you from seeing the same ad multiple times)</span></p>
+<p><span style="font-weight: 400;">⑤ Conversion tracking (allowing you to receive points for participating in ads)</span></p>
+<p><span style="font-weight: 400;">⑥ Fraud Detection and Prevention: We identify invalid clicks (or ad queries) to protect BuzzScreen, Advertisers and Advertising Demand Partners from fraudulent behavior.</span></p>
+<p><span style="font-weight: 400;">⑦ Performance measurement and service fee settlement: We report performance of contracts and settle service fee regarding provisions of services demanded by the users</span></p>
+<p><span style="font-weight: 400;">⑧ Notification: We make notice of function of company sites or applications or matters on policy change</span></p>
+<p><span style="font-weight: 400;">⑨ Marketing activities: We provide information on promotional events as well as opportunity to participate</span></p>
+<p><span style="font-weight: 400;">⑩ Legal Necessity, To comply with applicable laws or legal obligation</span></p>
+<p><span style="font-weight: 400;">⑪ Use of information with the prior consent of the users (for example, utilization of marketing advertisement)</span></p>
+<p><span style="font-weight: 400;">⑫ Improvement of existing services and development of new services</span></p>
+<p><span style="font-weight: 400;">The Company agrees that it will obtain consent from the users if the Company desires to use the information other than those expressly stated in this Policy. </span></p>
+<h2></h2>
+<h4><b>4. Cookie, Beacons and Similar Technologies</b></h4>
+<p><span style="font-weight: 400;">The Company may collect collective and impersonal information through ‘cookies’ or ‘web beacons’. </span></p>
+<p><span style="font-weight: 400;">Cookies are very small text files to be sent to the browser of the users by the server used for an operation of the websites of the Company and will be stored in hard-disks of the users’ computer. A web beacon is a small quantity of code which exists on the websites and e-mails. </span></p>
+<p><span style="font-weight: 400;">By using web beacons, we may know whether a user has interacted with certain webs or the contents of an email. These functions are used for evaluating, improving services and setting-up users’ experiences so that much-improved services can be provided by the Company to the users.</span></p>
+<h2></h2>
+<h4><b>5. Your Privacy Controls</b></h4>
+<p><span style="font-weight: 400;">European Economic Area, the United Kingdom, and Switzerland</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">If you are located in the European Economic Area, the United Kingdom, or Switzerland, publishers who would like us to serve you personalized ads must first obtain your consent so that Buzzvil and our partners can process your personal data for this purpose. If you provide your consent, we will collect, use, share, and otherwise process all of the personal data described above for the purpose of serving you personalized advertising that Buzzvil and our partners believe is most relevant to you.</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">If you decide that you do not want a personalized advertising experience, we will not process your personal data for this purpose. For example, we will not collect, use, or share your iOS Identifier for Advertising or Android Advertising Identifier, your precise location data, or your demographic or interest information. However, we can still serve you contextual ads that are targeted to the content or type of app you are using.</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">You can withdraw your consent to our personalized lockscreen content experience at any time.</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">Publishers may provide a way for you to withdraw your consent to BuzzScreen Policy directly from within an app. If you withdraw your consent from within an app, we will no longer collect, use, share, or otherwise process personal data from that app to personalize your advertising experience.</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">Even if you do not consent to a personalized advertising experience, or you later withdraw such consent, we will still process your personal data when necessary to comply with law or to support our legitimate interests, as described below.</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">We will process personal data as necessary to comply with the law. For example, we will collect your IP address to perform a lookup of your country so that we know whether you are located in the European Economic Area, the United Kingdom, or Switzerland, but we will truncate your IP address before we process it for this purpose.</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">The United States and Other Countries</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">Opt-Out: If you are located in the United States or another country outside the European Economic Area, the United Kingdom, and Switzerland, you can opt out of receiving personalized advertising by using your applicable device settings:</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">On iOS, you may opt out by enabling the “Limit Ad Tracking” setting.</span></p>
+<p><span style="font-weight: 400;">On Android devices, you may opt out by enabling the “Opt out of Ads Personalization” setting.</span></p>
+<h2></h2>
+<h4><b>6. Sharing your information</b></h4>
+<p><span style="font-weight: 400;">We work with Publisher Partners, Advertising Demand Partners, Supported Advertising Mediation Partners, Data Partners, and Fraud and Measurement Partners (collectively, “Buzzvil Partners”) in order to provide the Buzzvil Services. Unless otherwise noted in our partner list, Buzzvil Partners are each independent controllers of your data. We will provide the current list of Buzzvil Partners with whom we share your data upon request.</span></p>
+<p><span style="font-weight: 400;">In principle, the Company will not share user information to third parties without prior consent. However, we may share data to provide service and comply for the following cases.</span></p>
+<p><span style="font-weight: 400;">– To serve personalized ads from Advertising Demand Partners</span><span style="font-weight: 400;"><br>
+</span><span style="font-weight: 400;"><br>
+</span><span style="font-weight: 400;">– To share aggregated ad performance measurement with advertisers and publishers, process settlement, detect fraudulent activities and manage customer CS response</span></p>
+<p><span style="font-weight: 400;">– In the case of requests from investigative agencies in accordance with procedures and methods set forth in the Act for investigation purposes</span></p>
+<p><span style="font-weight: 400;">– Other cases where the user gives prior consent for sharing his or her personal information</span></p>
+<h2></h2>
+<h4><b>7. Data security and storage</b></h4>
+<p><span style="font-weight: 400;">The Company takes the security of customer information very seriously. The Company maintains data security through industry-standard security measures, including firewalls and encryption, and keeps data for a period that meets the following requirements:</span></p>
+<p><span style="font-weight: 400;">– To complete the customer support service provided</span></p>
+<p><span style="font-weight: 400;">– To comply with applicable legal and regulatory obligations</span></p>
+<p><span style="font-weight: 400;">– To prevent abuse and use of unauthorized services</span></p>
+<p><span style="font-weight: 400;">– To prevent other disputes, and disputes between users</span></p>
+<p><span style="font-weight: 400;">The company constructs the following security measures to protect the users’ personal information from any unauthorized access, release, use or modification:</span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">– Transmit users’ personal information by using encrypted communication zone</span></p>
+<p><span style="font-weight: 400;">– Store important information such as passwords after encrypting it</span></p>
+<p><span style="font-weight: 400;">– Install a system in the zone the external access to which is controlled so as to prevent leakage or damage of users’ personal information by hacking or computer virus</span></p>
+<p><span style="font-weight: 400;">– Establish and execute internal management plan </span></p>
+<p><span style="font-weight: 400;">– Operate access control system </span></p>
+<p><span style="font-weight: 400;">– Take measures to prevent forging or alteration of access record</span></p>
+<h4><b>8. Global operation and Privacy Shield</b></h4>
+<p><span style="font-weight: 400;">We base our services on AWS solutions, which has already obtained approval from EU data protection authorities, known as the Article 29 Working Party, of the AWS Data Processing Addendum and Model Clauses to enable transfer of data outside Europe, including to the U.S.</span></p>
+<h4><b>9. Users’ right to access</b></h4>
+<p><span style="font-weight: 400;">The users or their legal representatives, as main agents of the information, may exercise the following options regarding the collection, use and sharing of personal information by the Company: </span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">– Exercise right to access to personal information</span></p>
+<p><span style="font-weight: 400;">– Make corrections or deletion</span></p>
+<p><span style="font-weight: 400;">– Make temporary suspension of treatment of personal information </span></p>
+<p><span style="font-weight: 400;">– Request the withdrawal of their consent provided before</span></p>
+<p><span style="font-weight: 400;">If, in order to exercise the above options, you, as an user, contact the Company by using representative telephone or sending a document or e-mails, or using telephone to the responsible department (or person in charge of management of personal information), the Company will take measures without delay: Provided that the Company may reject the request of you only to the extent that there exists either proper cause as prescribed in the laws or equivalent cause. </span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">If you are located in the European Economic Area, the United Kingdom, or Switzerland, and withdraw your consent, we will also inform our current partners with whom we have shared the data of your withdrawal or opt-out so that they, as independent controllers of your personal data, can also respect your choice. Our partners may also have separate legal bases for collecting, using, retaining, and sharing your personal data.</span></p>
+<h2></h2>
+<h4><b>10. Protection of personal information of children</b></h4>
+<h4><span style="font-weight: 400;">In principle, the Company does not collect any information from the children under 13 or equivalent minimum age as prescribed in the laws in the relevant jurisdiction. The website, products, and services of the Company are the ones to be provided to ordinary people, in principle. The Company does not intentionally collect any personal information from children.</span></h4>
+<p><span style="font-weight: 400;">If you are located in the European Economic Area, the United Kingdom, or Switzerland, you must be at least 16 years of age to consent to personalized advertising experience. We do not collect or otherwise process personal data from individuals in the European Economic Area, the United Kingdom, and Switzerland whom it knows to be under 16 years of age, except for compliance with a legal obligation and pursuit of a legitimate interest.</span><span style="font-weight: 400;"><br>
+</span><span style="font-weight: 400;"><br>
+</span><span style="font-weight: 400;">We do not knowingly collect, maintain, or use Personal Information from children under 16 years of age, and no part of the Service is directed to children under the age of 16. If you learn that your child has provided us with personal information without your consent, then you may alert us at </span><a href="mailto:dpo@buzzvil.com"><span style="font-weight: 400;">dpo@buzzvil.com</span></a><span style="font-weight: 400;">. If we learn that we have collected any Personal Information from children under 16, then we will promptly take steps to delete such information.</span></p>
+<h2></h2>
+<h4><b>11. Data Protection Officer</b></h4>
+<p><span style="font-weight: 400;">To communicate with our Data Protection Officer, please email </span><a href="mailto:dpo@buzzvil.com"><span style="font-weight: 400;">dpo@buzzvil.com</span></a><span style="font-weight: 400;">.</span></p>
+<h2></h2>
+<h4><b>12. Changes to Privacy Policy</b></h4>
+<p><span style="font-weight: 400;">The Company may change its Policy for a variety of reasons, such as improving your personal information processing procedures, reflecting changes to company services, or complying with applicable laws. If the Company changes its Policy, we will notify you using the Service or any other reasonable means. </span></p>
+<h4><b>13. Other important information</b></h4>
+<p><span style="font-weight: 400;">① Data transmission: Considering it engages in global businesses, the Company may provide the users’ personal information to the companies located in other countries for the purpose as expressly stated in this Policy. For the places where the personal information is transmitted, retained or processed, the Company takes reasonable measures for protecting that personal information.</span></p>
+<p><span style="font-weight: 400;">② 3rd party’s sites and services: The website, product or service of the Company may include the links to the ones of a 3rd party and the privacy protection policy of the site of the 3rd party may be different. Thus, it is required for the users to check additionally that policy of a 3rd party site linked to the site of the Company.</span></p>
+<h4><b>14. Responsible department of Company</b></h4>
+<p><span style="font-weight: 400;">The Company designates the following department and person in charge of personal information in order to protect the personal information of customers and deal with complaints from customers: </span></p>
+<h2></h2>
+<p><span style="font-weight: 400;">E-mail: </span><a href="mailto:support@buzzvil.com"><span style="font-weight: 400;">support@buzzvil.com</span></a></p>
+<p><span style="font-weight: 400;">Mail: 3rd Floor, Daelim Building, 272 Seokchon Lake, Songpa-gu, Seoul, Korea</span></p>
+<p><span style="font-weight: 400;">When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.</span></p>
+<h2></h2>
+<p><i><span style="font-weight: 400;">Application date: May 25th, 2018</span></i></p>
+<p>&nbsp;</p>
+</div></div></div>				
+				<div class="section section-page-footer">
+					<div class="section_wrapper clearfix">
+					
+						<div class="column one page-pager">
+													</div>
+						
+					</div>
+				</div>
+				
+			</div>
+			
+				
+		</div>
+		
+		<!-- .four-columns - sidebar -->
+		
+	</div>
+</div>
+
+
+<!-- mfn_hook_content_after --><!-- mfn_hook_content_after -->
+<!-- #Footer -->		
+<footer id="Footer" class="clearfix">
+	
+		
+	<div class="widgets_wrapper" style=""><div class="container"><div class="column one-fourth"><aside id="search-2" class="widget widget_search"><h4>Search</h4>
+<form method="get" id="searchform" action="https://www.buzzvil.com/">
+						
+		
+	<i class="icon_search icon-search-fine"></i>
+	<a href="#" class="icon_close"><i class="icon-cancel-fine"></i></a>
+	
+	<input type="text" class="field" name="s" placeholder="Enter your search">			
+	<input type="submit" class="submit" value="" style="display:none;">
+	
+</form></aside></div><div class="column one-fourth"><aside id="text-2" class="widget widget_text"><h4>Buzzvil</h4>			<div class="textwidget"><p>2, 3, 5F, Daerim Building, 272 Seokchonhosu-ro (32 Songpa-dong), Songpa-gu, Seoul, South Korea</p>
+</div>
+		</aside></div><div class="column one-fourth"><aside id="nav_menu-3" class="widget widget_nav_menu"><h4>More</h4><div class="menu-footer-en-container"><ul id="menu-footer-en" class="menu"><li id="menu-item-4083" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4059 current_page_item menu-item-4083"><a href="https://www.buzzvil.com/privacy-policy-2/" aria-current="page">Privacy policy</a></li>
+<li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a href="https://www.buzzvil.com/terms-of-service/">Terms of service</a></li>
+</ul></div></aside></div><div class="column one-fourth"><aside id="polylang-2" class="widget widget_polylang"><h4>Languages</h4><ul>
+	<li class="lang-item lang-item-2 lang-item-en lang-item-first current-lang"><a lang="en-US" hreflang="en-US" href="https://www.buzzvil.com/privacy-policy-2/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHzSURBVHjaYkxOP8IAB//+Mfz7w8Dwi4HhP5CcJb/n/7evb16/APL/gRFQDiAAw3JuAgAIBEDQ/iswEERjGzBQLEru97ll0g0+3HvqMn1SpqlqGsZMsZsIe0SICA5gt5a/AGIEarCPtFh+6N/ffwxA9OvP/7//QYwff/6fZahmePeB4dNHhi+fGb59Y4zyvHHmCEAAAW3YDzQYaJJ93a+vX79aVf58//69fvEPlpIfnz59+vDhw7t37968efP3b/SXL59OnjwIEEAsDP+YgY53b2b89++/awvLn98MDi2cVxl+/vl6mituCtBghi9f/v/48e/XL86krj9XzwEEEENy8g6gu22rfn78+NGs5Ofr16+ZC58+fvyYwX8rxOxXr169fPny+fPn1//93bJlBUAAsQADZMEBxj9/GBxb2P/9+S/R8u3vzxuyaX8ZHv3j8/YGms3w8ycQARmi2eE37t4ACCDGR4/uSkrKAS35B3TT////wADOgLOBIaXIyjBlwxKAAGKRXjCB0SOEaeu+/y9fMnz4AHQxCP348R/o+l+//sMZQBNLEvif3AcIIMZbty7Ly6t9ZmXl+fXj/38GoHH/UcGfP79//BBiYHjy9+8/oUkNAAHEwt1V/vI/KBY/QSISFqM/GBg+MzB8A6PfYC5EFiDAABqgW776MP0rAAAAAElFTkSuQmCC" title="English" alt="English"><span style="margin-left:0.3em;">English</span></a></li>
+	<li class="lang-item lang-item-185 lang-item-ko"><a lang="ko-KR" hreflang="ko-KR" href="https://www.buzzvil.com/ko/privacy-policy-17-07-11-2/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHiSURBVHjaYvz4/SsDEvj37x+YhLCgGAb+ADFAADEBpfk4uIDo2YNHV89fZP3PyMfBLcDFxc/NLcjNy8nMfPnM2cd374ry84sJCAE1AAQQC8Tg169fb9269cP7DyJiYsqKiv/v3v3/589/FZVnL16uXbtGQFBQWEhIRlYWaAVAAIFs+P///4cPH37//m1oYqwsJfm/t/d/QcH/vJz/ddUKYqJuXl5v3rx5/uIFUBnQBoAAYgT6gZedE6jt1atXXLy8jHsOcEyd+P/37y9/mH7+/CWQEPEpIvLj6zdS0lKMjIwPnj0BCCAWiC+BukVERICMnW/4jP8w/2bibDLMf/aTvfrxOX12dm5pKaACBkZGoJMAAgioAaQaCN6+fcvDzfVVXTdXvZKZjfURu9iHHz/vGrupf//85u1HSUlJRqCef/8AAogJiIGqb968OW3aNKC/PQw4VS1UnjALMXz/4azD5uokvW/f/vr6+pMnT0L8ABBALP/AocTFxQXkHzx0WFNLszZM7ZIJ+5+//3UV2O/du7l6zXphYWEBAQGgAqCTAAII5AcgS1pa2t3d/eXLl2JikkD9ekpcEHeKi0t5eHgANairq4PjlQEggBifv32LHJFwiuEPmMEAYf/5A1YNxAABBgCFMRk3L8TWJAAAAABJRU5ErkJggg==" title="한국어" alt="한국어"><span style="margin-left:0.3em;">한국어</span></a></li>
+	<li class="lang-item lang-item-159 lang-item-ja"><a lang="ja" hreflang="ja" href="https://www.buzzvil.com/ja/privacy-policy-jp/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAE2SURBVHjaYvz69SsDEvj37x+ERGbAwZ9//wACiAUoysXFBST///8P0QOm//+HU0jgxYsXAAHEAlP0H8HYt+//4SP/f//6b2b238sLrpqRkRFoCUAAsaCrXrv2/8KF///8+f/r9//Dh/8/ffI/OQWiAeJCgABigrseJPT27f/Vq////v3/1y8oWrzk/+PHcEv+/PkDEEBMEM/B3fj/40eo0t9g8suX/w8f/odZAVQMEEAsQAzj/2cQFf3PxARWCrYEaBXQLCkpqB/+/wcqBgggJrjxQPX/hYX/+/v///kLqhpIBgf/l5ODhxiQBAggFriToDoTEv5zcf3ftQuk2s7uf0wM3MdAAPQDQAAxvn37lo+PDy4KZUDcycj4/z9CBojv3r0LEEAgG969eweLSBDEBSCWAAQYACaTbJ/kuok9AAAAAElFTkSuQmCC" title="日本語" alt="日本語"><span style="margin-left:0.3em;">日本語</span></a></li>
+	<li class="lang-item lang-item-94 lang-item-zh"><a lang="zh-TW" hreflang="zh-TW" href="https://www.buzzvil.com/zh/privacy-policy-tw/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFjSURBVHjaYmRQ38wAB3/+gdCvfww//jx8Hy7BwPAPAwEEEAtQWUutDpA0EmZnZmI68vTL338Mf//+FbhQwPznK9Pv3////PkPI79s2gQQQCwQo0W+/nMOFWdlZXww+8vhN9///Pn3596Df78//f/1+//vX/9//QKqZpSVBdoAEEAsQGv+/fv3+9dfBgag4L/v3//8/vsPqAGqFKT6N0QDA1CagQEggFgY/vz5+5fhwo/fNXPu/fn379nHn3/+/vsNNAPJbLgGoFsAAoiF4RdQ2b+/f/4+f/cHaPDvv/+BHgAy2H9/QaiGaACKMjAABBDL36ehDJfy/z94ADSP4TfYf0jOQCYZwU4CCCAWIGYECwENQFGEqhokC3QBAwNAAIE0MIODjAGuCFPbH6CGv8DABvoBIIBAGph+/2GQlAQb85fhD0gnI9hIBggJRH//QhBQMUAAMX5FjUgGbLELlwICgAADAElTZuDmjaewAAAAAElFTkSuQmCC" title="中文 (繁體)" alt="中文 (繁體)"><span style="margin-left:0.3em;">中文 (繁體)</span></a></li>
+</ul>
+</aside></div></div></div>
+
+		
+		<div class="footer_copy">
+			<div class="container">
+				<div class="column one">
+
+										
+					<!-- Copyrights -->
+					<div class="copyright">
+						© 2018 Buzzvil. All Rights Reserved.					</div>
+					
+					<ul class="social"><li class="facebook"><a href="https://www.facebook.com/Buzzvil/" title="Facebook"><i class="icon-facebook"></i></a></li><li class="linkedin"><a href="https://www.linkedin.com/company/buzzvil" title="LinkedIn"><i class="icon-linkedin"></i></a></li></ul>							
+				</div>
+			</div>
+		</div>
+	
+		
+	
+	
+	
+</footer>
+
+</div><!-- #Wrapper -->
+
+
+<a id="back_to_top" class="button button_js sticky scroll" href=""><i class="icon-up-open-big"></i></a>
+	<div id="popup_contact">
+		<a class="button button_js" href="#"><i class="icon-mail-line"></i></a>
+		<div class="popup_contact_wrapper">
+			<script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.3.3 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-4803" method="post" data-id="4803" data-name="Buzzscreen Newsletter"><div class="mc4wp-form-fields"><p>Join our BuzzScreen Newsletter!</p>
+<p>
+	<input type="email" name="EMAIL" placeholder="Enter Your Email" required="">
+</p>
+
+<p>
+	<input type="submit" value="SUBSCRIBE NOW">
+</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1557343239"><input type="hidden" name="_mc4wp_form_id" value="4803"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->			<span class="arrow"></span>
+		</div>
+	</div>
+
+<!-- mfn_hook_bottom --><!-- mfn_hook_bottom -->	
+<!-- wp_footer() -->
+	<div style="display:none">
+	</div>
+<script>(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.buzzvil.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201919"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-content/themes/betheme/js/plugins.js?ver=20.8.2"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-content/themes/betheme/js/menu.js?ver=20.8.2"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-content/themes/betheme/assets/animations/animations.min.js?ver=20.8.2"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=20.8.2"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-content/themes/betheme/js/parallax/translate3d.js?ver=20.8.2"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-content/themes/betheme/js/scripts.js?ver=20.8.2"></script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.buzzvil.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.3.3"></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://www.buzzvil.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.3.3'></script>
+<![endif]-->
+<script type="text/javascript" src="https://stats.wp.com/e-201919.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.1.1',blog:'151632532',post:'4059',tz:'9',srv:'www.buzzvil.com'} ]);
+	_stq.push([ 'clickTrackerInit', '151632532', '4059' ]);
+</script>
+
+
+</body></html>
