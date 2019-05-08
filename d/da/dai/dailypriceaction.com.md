@@ -1,80 +1,133 @@
-> *The following text is extracted and transformed from the dailypriceaction.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902043034id_/https%3A//dailypriceaction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypriceaction.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508152638id_/https%3A//dailypriceaction.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Daily Price Action
 
-This Privacy Policy (the Policy) contains the policies of Daily Price Action (DPA) regarding the collection and use of information relating to this Web site (the Web Site) and all applications accessible through this Web site (the Applications), except where noted. References to the User mean any person or company that visits or uses the Web Site or the Applications.
+Daily Price Action LLC (“ **Company,** ” “ **we,** ” or “ **us** ”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
-For DPA, the protection of personal data is of utmost importance. This information informs you how we protect your privacy when you give your personal data to us. DPA shall comply with all applicable data protection regulations, but in addition, we would like to assure you that we are using your data in a responsible way, making sure that your privacy is protected at any time when visiting our web site or communicating with us via e-mail and especially when you are utilizing our password protected logistical exchange areas.
+This Privacy Policy governs your access to and use of www.dailypriceaction.com, including any content, functionality and services offered on or through www.dailypriceaction.com (the “ **Website** “), whether as a guest or a registered user.
 
-By using the Web Site or any Application you represent that (a) you are of sufficient legal age and have authority to use the Web Site and Applications and to bind your company as applicable; and (b) you have read this Policy and consent to the use of personal information collected by DPA as described in this Policy. DPA may make changes to this Policy by posting the revised Policy on this Web Site. Please check periodically to ensure that you have reviewed the most current Policy. Using the Web Site or any Application after any change to the Privacy Policy will be deemed consent to the change.
+When accessing the Website, the Company will learn certain information about you, both automatically and through voluntary actions you may take, during your visit. This policy applies to information we collect on the Website and in email, text, or other electronic messages between you and the Website.
 
-##### General Information Collection
+Please read the Privacy Policy carefully before you start to use the Website. **By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by the Privacy Policy.** If you do not want to agree to the Privacy Policy, you must not access or use the Website.
 
-DPA may collect, maintain, and process information provided by or concerning Users, on and through the Web Site and the Applications. Users represent and warrant that all information they provide to DPA is accurate, current, non-misleading and relevant for the purpose provided. Users of the Applications also represent and warrant that they have the authority to provide the information submitted through the Applications, and agree that DPA may occasionally verify that authority
+### CHILDREN UNDER THE AGE OF 13
 
-##### Public Areas of the Web Site
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-Users may visit the public areas of the Web site without disclosing any personal information about themselves, other than DPA automatic logging of basic usage data as described in Usage Data below.
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at Justin@dailypriceaction.com.
 
-##### Contact Information and “Opt-Out”
+### INFORMATION WE COLLECT ABOUT YOU
 
-If a User requests information from DPA, an e-mail or other contact information may be required in order to allow DPA to reply or for other related purposes. DPA will request only that information reasonably necessary to provide requested information or services. Users may elect to opt-out from receiving communications by (i) checking appropriate opt-in or opt-out boxes if provided on the collection form, (ii) following the instructions Opt-Out Choices below, or (iii) following the instructions described in the communication sent from DPA.
+When you access the Website, the Company will learn certain information about you during your visit.
 
-##### Registration Information
+ _Information You Provide To Us._ The Website provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms, responding to surveys, search queries on our search feature, providing comments or other feedback, and providing information when ordering a product or service via the Website.
 
-To use the Web Site or Applications, Users may be required to register by providing contact information such as user ID, password, name, title, business address, business telephone number, business e-mail address and other contact information (Registration Information). Certain portions of the Registration Information may be used for determining qualifications for use of particular Applications. DPA may use Registration Information to communicate with Users regarding available transactions, changes in functionality of the Web Site or Applications, billing, help desk and other activities relating to the operation of the Web Site. DPA may also use Registration Information to send Users information about products or services available on or through the Web Site and offers made available by DPA business partners, which information may be sent by DPA or the business partner making the offer. Instructions on how to request that DPA not send future communications (except for those necessary for the operation of the Web Site) or that DPA not share Registration Information with third parties are contained in Opt-Out Choices below.
+We use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.
 
-##### Transaction Data
+ _Information We Collect Through Automatic Data Collection Technology._ As you navigate through our Website, we may use automatic data collection technologies including Google Analytics to collect certain information about your equipment, browsing actions, and patterns. This will generally include information about your location, your traffic pattern through our website, and any communications between your computer and our Website.  Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type.
 
-DPA may collect and compile information concerning use of the Web Site and Applications, including transactions and other use by Users (Transaction Data). DPA will use Transaction Data for its intended purpose in DPA business with, for or on behalf of the User or the User’s company. DPA will not share Transaction Data with any third party, except to the extent reasonably required in DPA business with, for or on behalf of the User or the User’s company. DPA may aggregate and/or use for its own internal purposes any Transaction Data, and may use or disclose to third parties aggregated Transaction Data not reasonably identifiable to any User or company. DPA will use its best efforts to guard all Transaction Data against unintentional disclosure.
+The information we collect automatically is used for statistical data and will not include personal information. We use this data to improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.
 
-##### Usage Data
+### USE OF COOKIES AND PIXELS
 
-DPA will collect information about how Users use the Web Site and the Applications. This data may include a User’s domain name, language, type of browser and operating system, Internet service provider, Internet protocol (IP) address, the site or reference directing the User to the Web Site, and the amount of time spent on the Web Site or using any Application (collectively, Usage Data). DPA may monitor and use Usage Data in aggregated form to measure the Web Site’s performance and Application activity and improve the Web Site’s design and functionality. DPA may also use Usage Data for security purposes or to verify transactions or other communications made in the Applications.
+Similar to other commercial websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
 
-##### Consent to Processing
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-By using or providing information to the Web Site and the Applications, Users understand and consent to the collection, processing and use of such information in the United States and other countries and territories, for the purposes set forth in this Policy.
+The Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.
 
-##### Acceptable Disclosures
+### THIRD PARTY USE OF COOKIES
 
-DPA may use third parties to provide or perform services and functions on the Web Site and the Applications. For example, DPA may use a third-party supplier to provide functionality provided in an Application through a browser re-direction to or framed use of systems operated by that third-party supplier. DPA will make information concerning Users and their use of the Web Site and the Applications available to these suppliers, as necessary, to perform these functions. Any access to that information will be limited to the purpose for which the information was provided. The suppliers may be located throughout the world; therefore information relating to Users may be sent worldwide to countries having different privacy protection standards than the User’s country of residence. DPA may also make information concerning Users, the Web Site and the Applications, and the uses thereof, available to law enforcement personnel and agencies as required by law. Where permitted by law, DPA may also disclose such information to law enforcement personnel and agencies, or use such information as part of legal process, in order to protect its property or in support of an investigation regarding a breach of the terms of use or any unauthorized access to or use of the Web Site or the Applications.
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-##### Cookies
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-Cookies are text files containing information which makes it possible to identify repeated visitors exclusively for the duration of their visit to our web pages. Cookies are stored on the hard disk of your computer and do not cause any damage there. The cookies of our internet pages do not contain any personal data on you. Cookies will save you having to enter data several times, facilitate the transmission of specific contents and will help us to identify those parts of our online service that are particularly popular. This will enable us, among other things, to adapt our web pages exactly to your requirements.  
-If you want, you can deactivate the use of cookies any time by changing the preferences of your browser. Please use the help functions of your internet browser to see how you can make these changes.
+### EMAIL INFORMATION
 
-##### Linked Sites and Applications
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail, and telephone. This also applies when you register for our website, sign up through any of our forms using your email address or make a purchase on this site. For further information see the email policies below.
 
-DPA may provide links to third parties’ Web sites or applications (Linked Sites) from the Web Site or any Application. Linked Sites are not necessarily reviewed, controlled or examined by DPA. Each Linked Site may have its own terms of use and privacy policy, and Users must be familiar and comply with all such terms and policies when using Linked Sites. DPA is not responsible for the policies and practices of any Linked Site, or any additional links contained in them. These links do not imply DPA endorsement of the Linked Sites or any company or service.
+### EMAIL POLICIES
 
-##### Security
+We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and will not disclose your email address to any third parties except as allowed in the section titled Disclosure of Your Information.
 
-DPA employs technical and organizational security measures to protect the personal data you give to us from any deliberate manipulation, loss, destruction or access by unauthorized persons. Our security measures are improved and adapted on a regular basis according to the state of the art.
+We will maintain the information you send via e-mail in accordance with applicable federal law.
 
-##### Contact; Questions; Comments; Complaints
+In compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.
 
-If you would like to communicate with DPA regarding privacy issues or have questions, comments or complaints about this Policy, the Web Site or any Application, please forward such communication via the [Contact Page](https://dailypriceaction.com/contact).
+Our emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime.
 
-##### Advertising
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
 
-Privacy Policy for  **https://dailypriceaction.com**
+### HOW AND WHY WE COLLECT INFORMATION
 
-The privacy of our visitors to **https://dailypriceaction.com**  is important to us.
+The Company collects your information in order to record and support your participation in the activities you select. If you register to download a book or resources, sign up for our newsletter, and/or purchase a product from us, we collect your information. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or register for services that you are required to provide information.
 
-At **https://dailypriceaction.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to Justin@dailypriceaction.com requesting to unsubscribe from future emails.
 
-**https://dailypriceaction.com** , and how we safeguard your information. We never sell your personal information to third parties.
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll you to receive our free email newsletter if you affirmatively consent to it. **However, if you register for our free webinar, we are going to send you reminder emails as well as a replay link for the duration of three days under the lawful grounds of legitimate interest.** If you do not wish to receive these emails or any other, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to Justin@dailypriceaction.com requesting to unsubscribe from future emails.
 
-**Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+### HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?
 
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+We use personal information for purposes of presenting our Website and its contents to you, providing you with information, providing you with offers for products and services, providing you with information about your subscriptions and products, carrying out any contract between you and the Company, administering our business activities, providing customer service, and making available other items and services to our customers and prospective customers.
 
-We also use third party advertisements on **https://dailypriceaction.com**  to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+From time-to-time, we may use the information you provide to us to make you offers to purchase products and services provided by third parties in exchange for a commission to be paid to us by such third parties. Should you opt to take part in such promotions, the third parties will receive your information.
 
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (“interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non-personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx](http://www.google.com/doubleclick/)
+From time-to-time, we may use the information you provide to us to display advertisements to you that are tailored to your personal characteristics, interests, and activities.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+### DISCLOSURE OF YOUR INFORMATION
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+As a general rule, we do not sell, rent, lease or otherwise transfer any information collected whether automatically or through your voluntary action.
+
+We may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.
+
+We may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of service or any other agreement between you and the Company.
+
+We may provide your information to any successor in interest in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s asserts and/or business.
+
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights or when compelled by a court or other governmental entity to do so.
+
+### HOW DO WE PROTECT YOUR INFORMATION AND SECURE INFORMATION TRANSMISSIONS?
+
+We employ commercially reasonable methods to ensure the security of the information you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information and other sensitive information is never transmitted via email.
+
+The Company may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, the Company uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+### POLICY CHANGES
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+### VISITORS’ GDPR RIGHTS
+
+If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
+
+We will retain the any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
+
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
+
+You have the right to seek restrictions on the processing of your data.
+
+You have the right to object to the processing of your data and the right to the portability of your data.
+
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
+
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
+
+### CONTACT US
+
+The Company welcomes your questions or comments regarding the Privacy Policy:
+
+Daily Price Action LLC
+
+124 Alana Drive
+
+Saxonburg, PA 16056
+
+Email Address: Justin@dailypriceaction.com
+
+Effective as of May 17, 2018
