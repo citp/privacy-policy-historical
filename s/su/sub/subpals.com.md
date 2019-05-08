@@ -1,113 +1,55 @@
-> *The following text is extracted and transformed from the subpals.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501073509id_/https%3A//subpals.com/%23fb8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subpals.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508155134id_/https%3A//www.subpals.com/privacy-policy) for the most accurate reproduction.*
 
-# SubPals | Get 10 youtube subscribers daily, the revolution in sub4sub
+# Privacy Policy - SubPals
 
-Each visit to Subpals.com, the following will happen... 
+This Privacy Policy governs the manner in which SubPals collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.subpals.com website (“Site”). This privacy policy applies to the Site and all products and services offered by SubPals.
 
-  * You will be subscribed to the 10 current Channels.
-  * Your channel will be displayed on the homepage for more engagement.
-  * The next 10 users to join Subpals.com will be subscribed to your Channel.
+### Personal identification information
 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.
 
+### Non-personal identification information
 
-That's it!  
-Tell your friends, cause Subpals.com is powered by you the user!
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-#### Do you Sell YouTube Subscribers?
+### Web browser cookies
 
-NO! Subpals.com is user generated using the YouTube API.   
-We took the concept of "sub4sub" and using YouTube's API services  
-in that matter. Using subpals.com helps other channels find channels  
-that would otherwise be missed, we help build a community driven on  
-the power of the user.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-#### How many subscriber will I get using Subpals.com?
+### How we use collected information
 
-You will almost always get 10 subscribers, but we cannot guarantee it.  
-If a user is already subscribed to your channel, and they sign up after  
-you, then you will not get that subsciption. And on the rare note, if   
-YouTube is undergoing maintenance, then that could be a possibility. Check  
-our facebook page for all updates to Subpals.com
+SubPals may collect and use Users personal information for the following purposes:
 
-#### How often can I use Subpals.com
+– To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+– To improve our Site: We may use feedback you provide to improve our products and services.
 
-Depending on which option you choose, you can either use the site  
-once every 2 days (free), or everyday. Either manually or we'll do it  
-for you everyday, so you can enjoy other things without worrying about  
-the harder stuff.
+– To run a promotion, contest, survey or other Site feature: To send Users information they agreed to receive about topics we think will be of interest to them.
 
-#### Is Subpals.com safe to use?
+– To send periodic emails: We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-YES! Our service is 3,000+ users strong and continues to grow by the min.  
-Our #1 goal is your privacy and security. Also our site is 100% safe guarded using a 256bit encryption.
+### How we protect your information
 
-#### Is my account stored on Subpals.com?
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We only store your channel name.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-**What information do we collect?**
+### Sharing your personal information
 
-We collect information from you when you subscribe to our newsletter. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address or credit card information.
+### Changes to this privacy policy
 
- **What do we use your information for?**
+SubPals has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Any of the information we collect from you may be used in one of the following ways: 
+### Your acceptance of these terms
 
-; To process transactions
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+### Contacting us
 
-; To send periodic emails
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+SubPals  
+[https://www.subpals.com ](https://www.subpals.com/)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#66151316160914122615130416070a15481c03080203150d4805090b)
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
-
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
- **Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
- **Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
- **Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.subpals.com](http://www.subpals.com/)
-
- **Your Consent**
-
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.subpals.com
-
-USA  
-contact@subpals.com
-
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
+This document was last updated on December 17, 2018
