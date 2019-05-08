@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arm.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227045125id_/https%3A//www.arm.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arm.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508073451id_/https%3A//www.arm.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Arm
 
