@@ -1,14 +1,36 @@
-> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906193130id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508204310id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SeatGeek
 
 If you have questions or concerns regarding this statement, you should first contact the SeatGeek administrators at [hi@seatgeek.com](mailto:hi@seatgeek.com).
 
-Last updated on April 1, 2018
+Last updated on April 18, 2019
 
 ## We are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and buys on our Site or Application.
 
 This policy (“Privacy Policy”) describes how SeatGeek collects, uses, and discloses information via our mobile application (“Application”) and website located at www.SeatGeek.com, including third-party apps, sites and platforms (e.g., social media services) where our ticketing products and services are distributed (collectively the “Site”). Certain services, which you may access via the Application or on the Site, are provided by our third-party partners, and protection of your information relating to such services will be governed by the privacy policy of such third parties. By accessing, browsing and using the Application and/or Site, you acknowledge that you have read, understood and agreed to the Privacy Policy described herein.
+
+## EU-US and Swiss-US Privacy Shield
+
+SeatGeek complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield. SeatGeek has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [www.privacyshield.gov/](https://www.privacyshield.gov/).
+
+In compliance with the Privacy Shield Principles, SeatGeek commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact SeatGeek at [hi@seatgeek.com](mailto:hi@seatgeek.com).
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, SeatGeek is subject to the regulatory and enforcement powers of the US Federal Trade Commission.
+
+Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to [hi@seatgeek.com](mailto:hi@seatgeek.com). If requested to remove data, we will respond within a reasonable timeframe.
+
+We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [hi@seatgeek.com](mailto:hi@seatgeek.com).
+
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+SeatGeek’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, SeatGeek remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless SeatGeek proves that it is not responsible for the event giving rise to the damage.
+
+In compliance with the Privacy Shield Principles, SeatGeek commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact SeatGeek by email at [hi@seatgeek.com](mailto:hi@seatgeek.com).
+
+SeatGeek has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
+
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at [www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 ## Information We Collect
 
