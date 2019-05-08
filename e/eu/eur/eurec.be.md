@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurec.be privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128160251id_/http%3A//www.eurec.be/en/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurec.be privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508233959id_/http%3A//www.eurec.be/en/About/Privacy-Policy) for the most accurate reproduction.*
 
 # EUREC / About / Privacy Policy
 
@@ -10,7 +10,7 @@ The access to and the use of this website are subject to the following Disclaime
 
 Copyright notice
 
-Copyright © 2018 EUREC E.E.I.G. All Rights Reserved.
+Copyright © 2019 EUREC E.E.I.G. All Rights Reserved.
 
 Fair Processing Notice (May 2018)
 
