@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backwoodshome.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210085212id_/http%3A//www.backwoodshome.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backwoodshome.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508034040id_/https%3A//www.backwoodshome.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Backwoods Home Magazine
 
@@ -22,7 +22,7 @@ If you tell us you do not want to be part of the mailing list, we will permanent
 
 If you are included on our mailing list, you may request removal at any time. All requests for inclusion, removal or other matters relating to the Special Offers list should be emailed to [customer-service@backwoodshome.com](mailto:customer-service@backwoodshome.com).
 
-You may also send your request via U.S. Mail to: Customer Service, Backwoods Home Magazine, P.O. Box 712, Gold Beach, OR 97444.
+You may also send your request via U.S. Mail to: Customer Service, Backwoods Home Magazine, P.O. Box 308, Philomath, OR 97370.
 
 3\. COMMUNICATING WITH US
 
@@ -75,7 +75,7 @@ We will not disclose personally identifiable information we collect from you to 
 
 > Forum & Chat Room
 > 
-> Our Forum has a separate User Agreement[ which may be reviewed here](http://www.backwoodshome.com/forum/vb/faq.php?faq=terms_header#faq_terms_and_conditions)
+> Our Forum has a separate User Agreement[ which may be reviewed here](https://www.backwoodshome.com/forum/vb/faq.php?faq=terms_header#faq_terms_and_conditions)
 
 C. Use of Cookies
 
@@ -115,15 +115,15 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 Mailing Address:  
 Backwoods Home Magazine  
-P.O. Box 712  
-Gold Beach, OR 97444
+P.O. Box 308  
+Philomath, OR 97370
 
 Office Address:  
 Backwoods Home Magazine  
-29545 Ellensburg Avenue  
-Gold Beach, OR 97444  
-Telephone " 1-541-247-8900
+2364 Main St., Bldg. B  
+Philomath, OR 97370  
+Telephone " 1-541-929-7106
 
-Office Hours: Monday – Thursday, 8 AM to 4 PM Pacific Time
+Office Hours: Monday – Thursday, 9 AM to 4 PM Pacific Time
 
 Backwoods Home Magazine, Inc. will use commercially reasonable efforts to promptly respond and resolve any problem or question.
