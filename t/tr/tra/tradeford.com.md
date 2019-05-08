@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeford.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612232322id_/http%3A//www.tradeford.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeford.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508132705id_/https%3A//www.tradeford.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # TradeFord.com Privacy Policy
 
