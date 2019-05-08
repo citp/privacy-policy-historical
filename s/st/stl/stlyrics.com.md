@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927155700id_/https%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508232741id_/https%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - Stlyrics.com
 
@@ -32,7 +32,7 @@ Subject to your consent, Exponential Interactive, Inc collect and profile person
 
 #### Advertisers
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Amazon.com [privacy policy](http://rcm.amazon.com/e/cm/privacy-policy.html?o=1). AllPosters.com [privacy policy](). Adtegrity.com [privacy policy](http://www.adtegrity.com/).
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. AllPosters.com [privacy policy](). Adtegrity.com [privacy policy](http://www.adtegrity.com/).
 
   
 
