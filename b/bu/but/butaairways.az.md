@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the butaairways.az privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020103820id_/https%3A//www.butaairways.az/en/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butaairways.az privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508224407id_/https%3A//www.butaairways.az/en/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buta Airways
 
