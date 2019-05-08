@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231075852id_/https%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508023400id_/https%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
 
-# DakkaDakka - Privacy Policy | Madness? This is DAKKA!
+# DakkaDakka - Privacy Policy | There is no "I" in Dakka.
 
 ## Dakka Privacy Policy
 
