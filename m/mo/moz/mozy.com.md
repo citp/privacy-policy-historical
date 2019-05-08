@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122124112id_/https%3A//www.carbonite.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508181533id_/https%3A//www.carbonite.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Carbonite Privacy Policy | Carbonite
 
-#### Last updated: May 2018
+#### Last updated: January 2019
 
 Carbonite, Inc. and its affiliates and subsidiaries (collectively “Carbonite”) respect the privacy of our customers and users. Please take time to read this Privacy Policy (“Privacy Policy”) as we believe it is important for our customers and users to understand how we collect, process and use personal data.  
 
@@ -62,15 +62,19 @@ Carbonite is a global organization. As a result, data collected by us, including
 
 #### WHEN AND WHY WE SHARE YOUR PERSONAL DATA
 
- **We do not and will not sell Personal Data to marketers or other vendors.  **
+ **We do not and will not sell Personal Data to marketers or other vendors and we do not access customer stored data that is protected by our Products and Services for marketing purposes.  **
 
 We may share data, including Personal Data, in the following circumstances:
 
- **Service Providers.** Carbonite may share data, including Personal Data, with our contracted third-party service providers in order to provide and improve our Products and Services, Websites or Portals or to administer surveys and user analysis to better understand user needs and preferences. These third-parties include affiliates and subsidiaries, business partners, payment and delivery services, advertising networks, analytics providers, credit reference agencies, social media companies, email distributors, marketing automation partners, customer survey companies, data storage and hosting partners, IT specialists and product developers.
+ **Service Providers.** Carbonite may share data, including Personal Data, with our contracted third-party service providers ("Service Providers") in order to provide our Products and Services, Websites or Portals.  We may share Personal Data with Service Providers who administer surveys and perform user analysis to better understand user needs and preferences. These Service Providers include  business partners, payment and delivery services, advertising networks, analytics providers, credit reference agencies, social media companies, email distributors, marketing automation partners, customer survey companies, data storage and hosting partners, IT specialists and product developers.
 
  **Legal Purposes.** Carbonite may share data, including Personal Data, as necessary to comply with applicable law, court orders, governmental agencies, for the administration of justice, to protect vital interests, to protect the security or integrity of Carbonite’s databases, Products and Services, Websites or Portals, or to take precautions against legal liability.
 
- **Sale.** In the event of a merger, consolidation, or acquisition of all, substantially all or a portion of Carbonite’s business or assets, Carbonite may share data, including Personal Data. Customers and users acknowledge and agree that data, including encrypted stored data and Personal Data that Carbonite has collected, may be securely shared, disclosed and transferred to such successor or assignee. 
+ **Sale.** In the event of a merger, consolidation, or acquisition of all, substantially all or a portion of Carbonite’s business or assets, Carbonite may share data, including Personal Data. Customers and users acknowledge and agree that data, including encrypted stored data and Personal Data that Carbonite has collected, may be securely shared, disclosed and transferred to such successor or assignee.
+
+#### OPT OUT
+
+Customers and users can opt-out of receiving marketing and promotional communications from Carbonite by emailing [optout@carbonite.com](mailto:optout@carbonite.com), contacting customer support at 1-877-222-5488 or the appropriate geographical telephone number found [here](https://web.archive.org/customer-support), or mailing Carbonite, Inc., Two Avenue de Lafayette, Boston, MA 02111, Attn: Privacy. We will continue to process Personal Data for the limited purpose of delivering operational and service-related communications relating to purchases, changes to Products and Services or policies, and other purposes as permitted by law.
 
 #### RETENTION OF DATA
 
@@ -81,17 +85,16 @@ We may retain data, including Personal Data, for as long as necessary to deliver
 Subject to applicable data protection laws, customers and users have the following rights with respect to Carbonite’s handling of Personal Data:
 
   *  **Access.**  The right to access Personal Data held by Carbonite.
-  *  **Opt-Out.**  The right to object to certain processing of Personal Data (unless Carbonite has overriding compelling grounds to continue processing), including the right to opt-out of receiving direct marketing. We will, however, continue to use Personal Data for the limited purpose of communicating important notices relating to purchases, changes to Products and Services or policies, and other reasons permitted by law.
   *  **Rectification.**  The right to request correction of Personal Data that is incomplete, incorrect, unnecessary or outdated.
   *  **Right to be Forgotten.**  The right to request erasure of all Personal Data that is incomplete, incorrect, unnecessary or outdated within a reasonable period of time. Carbonite will do everything possible to erase Personal Data if a user or customer so requests. However, Carbonite will not be able to erase all Personal Data if it is technically impossible due to limitations of existing technology or for legal reasons, such as Carbonite is mandated by applicable law to retain Personal Data.
-  *  **Restriction of Processing.  **The right to request restriction of processing Personal Data for certain reasons, such as the inaccuracy of Personal Data.
-  *  **Data Portability.  **If requested, Carbonite will provide Personal Data in a structured, secure, commonly used and machine-readable format.
+  *  **Restriction of Processing.  **The right to request restriction of processing Personal Data for certain reasons, provided Carbonite does not have an overriding, legitimate interest to continue processing.
+  *  **Data Portability**. If requested, Carbonite will provide Personal Data in a structured, secure, commonly used and machine-readable format.
   *  **Right to Withdraw Consent**. If Personal Data is processed solely based on consent, and not based on any other legal basis, customers can withdraw consent at any time.
   *  **Data Protection Contact.**  The right to contact the relevant data protection regulator regarding Carbonite’s handling of Personal Data.
 
 
 
-To exercise any of the above listed rights, email Carbonite at [privacy@carbonite.com](mailto:privacy@carbonite.com), contact customer support at 1-877-222-5488 or the appropriate geographical telephone number found [here](https://web.archive.org/customer-support/evault-doubletake-support), or mail Carbonite, Inc., Two Avenue de Lafayette, Boston, MA 02111, Attn: Privacy. Carbonite will process requests in accordance with applicable law and within a reasonable period of time.
+To exercise any of the above listed rights, email Carbonite at [privacy@carbonite.com](mailto:privacy@carbonite.com), contact customer support at 1-877-222-5488 or the appropriate geographical telephone number found [here](https://web.archive.org/customer-support), or mail Carbonite, Inc., Two Avenue de Lafayette, Boston, MA 02111, Attn: Privacy. Carbonite will process requests in accordance with applicable law and within a reasonable period of time.
 
 #### CARBONITE AS A DATA CONTROLLER AND PROCESSOR
 
@@ -133,11 +136,11 @@ Customers and users agree that any dispute or claim against Carbonite will be re
 
 #### CHANGES TO CARBONITE'S PRIVACY POLICY
 
-As laws and best practices evolve, this Privacy Policy may change. Carbonite will provide email notification to customers and users if changes to the Privacy Policy are material. Continued use of the Products and Services after modification constitutes acceptance to the Privacy Policy, as modified. We encourage periodic review of the Privacy Policy for the latest information on our privacy practices.    
+As laws and best practices evolve, this Privacy Policy will likely change. By continuing to access our Websites and Portals or using our Products and Services, users and customers acknowledge and accept the Privacy Policy as revised.  Carbonite will provide email notification to customers and users if changes to the Privacy Policy are material. We encourage periodic review of the Privacy Policy for the latest information on our privacy practices.    
 
 #### CONTACT CARBONITE
 
-For questions related to this Privacy Policy generally, please email [privacy@carbonite.com](mailto:privacy@carbonite.com). To contact Carbonite’s Data Privacy Officer, or for questions related specifically to the EU-U.S. or Swiss Privacy Shield Frameworks or the General Data Protection Regulation, please email [DPO@carbonite.com](mailto:dpo@carbonite.com).
+To contact Carbonite’s Data Privacy Officer, or for questions related specifically to the EU-U.S. or Swiss Privacy Shield Frameworks or the General Data Protection Regulation, please email [DPO@carbonite.com](mailto:dpo@carbonite.com). For questions related to this Privacy Policy generally, please email [privacy@carbonite.com](mailto:privacy@carbonite.com).
 
 Carbonite (UK) Limited is Carbonite's representative in the European Union for data protection matters pursuant to Article 27 of the General Data Protection Regulation of the European Union. Carbonite (UK) Limited can be contacted at:  
 Carbonite (UK) Limited  
