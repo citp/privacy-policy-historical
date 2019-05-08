@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gopaisa.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128181533id_/http%3A//www.gopaisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopaisa.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508030511id_/https%3A//www.gopaisa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 GoPaisa ("we", "our", "us") is an online service that help users ("you") to make better decision when it comes to buying the products online. We provide our users a go-to destination for smartphones which is replete with review texts and videos (shot by genuine users), expert advice, price comparison with other platforms as well as discussion panel to have an in-depth knowledge about the smartphones they wish to buy. Our website, mobile properties, and related applications are a part of the GoPaisa Netventures Private Limited.
 
-If you are accessing our website and using our services, you acknowledge that you have read and understood our Privacy Policy. This also means that you are bound to take actions in accordance with this documented Privacy Policy of GoPaisa Netventures Private Limited. This Policy has been last updated on 01-31-2020. We may change the same as and when the situation arise. So, you are requested to periodically check the website as we might or might not provide notification for the same.
+If you are accessing our website and using our services, you acknowledge that you have read and understood our Privacy Policy. This also means that you are bound to take actions in accordance with this documented Privacy Policy of GoPaisa Netventures Private Limited. This Policy has been last updated on 02-24-2020. We may change the same as and when the situation arise. So, you are requested to periodically check the website as we might or might not provide notification for the same.
 
 ### An Overview
 
