@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the project-ascension.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827152455id_/https%3A//project-ascension.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-ascension.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508190810id_/http%3A//project-ascension.com/page/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Ascension Classless Realm
+# Privacy Policy - Ascension Classless WoW Servers
 
 #### PRIVACY POLICY
 
@@ -108,7 +108,7 @@ You have the right to the following:
 
 3\. right to write a complaint to a supervisory body that is dealing with personal data protection.
 
-You may choose at any time to disable their account in the [User Panel](https://web.archive.org/web/20180827152455id_/https%3A//project-ascension.com/ucp), in which case the information will be destroyed after a period of  **14 days**. This deactivation is canceled if the account is being used during this time. You have the right to delete your data at any time.
+You may choose at any time to disable their account in the [User Panel](https://web.archive.org/web/20190508190810id_/http%3A//project-ascension.com/ucp), in which case the information will be destroyed after a period of  **14 days**. This deactivation is canceled if the account is being used during this time. You have the right to delete your data at any time.
 
 CONTACTING US
 
