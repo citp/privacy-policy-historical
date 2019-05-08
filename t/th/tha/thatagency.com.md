@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thatagency.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612014805id_/http%3A//www.thatagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatagency.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508224153id_/https%3A//thatagency.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | THAT Agency
+# Website Privacy Policy | THAT Agency
 
 Open Policy on the Issue of Privacy: We at THAT Agency adhere to a strict professional code of ethical conduct in the handling of your personal information. Read below to review how we safeguard your relationship with us.
 
@@ -37,3 +37,6 @@ Finally, we never use or share the personally identifiable information provided 
 ### Our Commitment To Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+  
+
