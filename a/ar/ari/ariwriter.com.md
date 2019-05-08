@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariwriter.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105132752id_/http%3A//www.ariwriter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariwriter.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508111717id_/http%3A//www.ariwriter.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Tips for News Writing
 
