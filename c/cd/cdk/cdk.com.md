@@ -1,345 +1,83 @@
-> *The following text is extracted and transformed from the cdk.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122111711id_/https%3A//www.cdkglobal.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdk.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508022157id_/https%3A//www.cdkglobal.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CDK Global
 
-## Use of CDK Global website and associated pages
+This website (this "Site") owned and operated by CDK Global, LLC (together with its affiliates, individually or collectively, "CDK"). Your privacy is important to CDK. We want you to understand how we collect, use, share and store your information when you use this Site. By using this Site, you accept and agree to the practices this Privacy Statement describes. IF YOU DO NOT AGREE, PLEASE DO NOT USE THIS SITE.
 
-CDK Global (UK) Limited and its subsidiaries and affiliates (hereinafter **CDK** or **we** ) are committed to protecting the privacy and security of your Personal Information collected or generated in connection with your relationship with CDK (“Personal Information”). 
+### Information We Collect
 
-CDK is a **Data Controller** which means that we are responsible for deciding how we may collect and use personal information you provide to us either directly or through the use of our website and HTML based emails. This notice explains our practices with regard to your Personal Information and how we comply with the General Data Protection Regulation (EU) 2016/679 ( **GDPR** ).
+When you use this Site, we may collect and use personally identifiable information and other information about you. "Personally identifiable information" includes your name, address, email address, telephone number and other similar information that can be used to individually identify you, directly or indirectly, and that is not otherwise publicly available. For example, we may collect the following information:
 
-CDK is made up of various legal entities trading in different countries. These entities are all ultimately controlled by the same entity – CDK Global, LLC.  When you provide information through our website, you will be providing it to CDK as a whole. Your information may be stored in and accessed from countries outside of the EEA whose laws provide various levels of protection for personal data, not always equivalent to the level of protection that may be provided in your own country. CDK have taken steps through the implementation of model clauses between CDK legal entities and contractual requirements with third parties to ensure an adequate level of protection. 
+  * Information that you provide on this Site or Linked Sites by filling in forms, opening an account or purchasing any product or service on or through this Site, including your name, address, email address, telephone number or other information;
+  * Information that you provide when you communicate with us or other parties who provide products or services on or through this Site, or other users of this Site through this Site for any reason, including information in emails you send us, or submissions you may make on our Site; and
+  * Details of your visits to this Site or Linked Sites and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data, including your IP address, browser type, device identification data, the date and time you accessed or left the Site, and the pages you viewed.
 
-**Personal Information** means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).  There are "special categories" of more sensitive personal data which require a higher level of protection, such as information about a person's health or sexual orientation. The term **process** used in in this Privacy Notice means any operation performed upon Personal Information, whether or not by automated means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure or dissemination, transfer, sharing and erasure or destruction.
 
-**
 
-  1. Personal Information Processed
+In addition, we may combine information about your visits to this Site and/or any Linked Site with personally identifiable information about you (this combination is sometimes called "PII Merger") so that we can better understand your interests and serve you better, such as by tailoring your experience within this Site or a Linked Site or delivering relevant advertisements to you as described in "Use of Tracking Technologies" below. You can opt out of having this occur by opting out of interest-based advertising as described in "Your Privacy Options" below. We do not retrieve personally identifiable information from the computer or other device that you use to visit this Site or any Linked Site.
 
-**
+### Use of Tracking Technologies
 
-We process your Personal Information through automated and paper-based data processing systems and have established routine processing functions (such as processing for provision of product information and provision of services). 
+We use cookies, pixel tags, server logs and other Internet technologies to collect information about you and your use of this Site, and we may additionally collect data about your visits to other websites. These technologies do not provide us with your personal information, but they do allow us to track and record your activities on this Site and other websites. In addition to information collected by us, we may allow our related companies or other third parties to use cookies and web beacons to track non-personally identifiable information about visitors to this Site.
 
-We will collect, store, and use the following categories of Personal Information about you:
+A "cookie" is a small computer file that is sent to your computer when you visit a website. When you visit this Site again (or certain other cooperating websites), the cookie allows us to recognize your browser. Cookies may store user preferences and other information. A pixel tag (also known as a "web beacon") is a type of technology placed on a website or within the body of an email for the purpose of tracking a user's activity on websites, or when emails are opened or accessed, and is often used in combination with cookies. To learn more about the details, you may visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or other resources.
 
-**Category**
+### Your Privacy Options
 
-| 
+  * _Decline or Block Cookies and Pixel Tags._ You can modify the security settings on your computer, tablet or mobile device and reset your browser to approve or reject cookies on a case-by-case basis, block cookies from certain sites, or even refuse all cookies. Similarly, you can disable pixel tags by changing your browser settings to omit images and disable Javascript, or use commercial software packages that can omit pixel tags and most advertisements. Please be aware, however, if you "turn off," purge or disable cookies or pixel tags, you may not be able to use all of the features, functions or services available on this Site.
+  * _Opt Out of Interest-Based Advertising and PII Merger._ CDK is a participant in the Digital Advertising Alliance ("DAA") and supports DAA's Self-Regulatory Principles for Online Behavioral Advertising, which means that you have options and choices about our collection and use of your data for online interest-based advertising. CDK is also a member of the Interactive Advertising Bureau ("IAB") and adheres to the IAB Code of Conduct. For more information about interest-based information tracking and to opt out of interest-based advertising categories by CDK, you may click on the DAA's AdChoices icon located at the bottom of this page or visit <http://www.aboutads.info/choices/>. Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements delivered by CDK, but these advertisements may not be as relevant to you.
+  * _Do-Not-Track Request._ This Site currently does not respond to "do not track" or similar signals.
 
-**Personal Information**  
-  
----|---  
-  
-**Personal**
 
-| 
 
-First name  
-Middle name  
-Last name  
-Title  
-User account or authentication data  
-Email address  
-Phone numbers  
-  
-**Work Contact Details**
+### Use of Your Information
 
-| 
+  * _General._ We use the information we collect from you on this Site primarily to enable us to effectively provide our products and services, including: 
+    * To provide you the information, products or services offered on or through this Site;
+    * For our internal purposes such as to monitor and analyze Site traffic and usage patterns to help improve this Site or product or service offered on or through this Site, better understand our customers' needs, or to develop new offerings in which you may be interested;
+    * To compile statistics and reports regarding the users of this Site, products and services, which may include combining the personal information you provide with information we obtain from business partners or other companies;
+    * To deliver interest-based content and advertising to you that is targeted to the interests we identify through your online activities;
+    * To share with our related companies or trusted third parties so that they may assist us with our use of the information as described above; and
+    * To share with trusted third parties, such as advertising networks, for use in delivering interest-based advertising to you.
+  * _Other Circumstances._ We may disclose information about you, including personally identifiable information, if we have a good faith belief that disclosure is necessary to: (i) comply with applicable laws, regulations, legal process (such as a subpoena), or government requests, or to respond to claims that any such data violates the rights of others; (ii) enforce the Terms of Use for this Site, including investigation of potential violations of the Terms of Use, or to detect, prevent, or otherwise address fraud, security, or technical issues; or (iii) protect against harm to the rights, property, or safety of CDK, our customers, users, or the public as required or permitted by law. In addition, we may disclose your personal information to third parties if we are involved in a merger, acquisition, or sale of any or all of our business and/or our assets to a third party, provided that they agree to abide by the terms and conditions of this Privacy Statement.
 
-Company name  
-Company address  
-Company telephone number  
-Company mobile phone number  
-Email address  
-Phone numbers  
-  
-**Role Details**
 
-| 
 
-Position overview  
-Position details  
-Position, title and reporting information  
-Full time equivalency information  
-  
-**
+### Security
 
-  2. Purposes For Processing Personal Information
+We use commercially reasonable physical, electronic, and managerial procedures to safeguard and secure the information we collect on this Site. These procedures may include, but are not limited to, facility access control, firewalls, encryption, intrusion detection, and Site monitoring. However, no data protection procedures are entirely infallible. As a result, while we strive to protect your personally identifiable information, we cannot guarantee that it will be 100% secure. Your transmission of your data to this Site is done entirely at your own risk.
 
-**
+### Third Party Websites and Social Media Features
 
-We will only use your Personal Information when the law allows us to. Most commonly, we will use your Personal Information in the following circumstances:
+This Site may contain links to third party websites ("Linked Site"). CDK provides these Linked Sites solely for your convenience, and does not control or endorse any of them. CDK cannot be responsible for the content, security, or privacy policies of such Linked Sites. By accessing other third party websites or applications through this Site, you are consenting to the terms and privacy policies of those websites. It is possible that other parties may collect personally identifiable information about your online activities over time and across different web sites when you use CDK's Site.
 
-  * To provide information (such as brochures requested), support and to process general enquiries you my make through our website;
-  * Where we need to comply with a legal obligation;
-  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests;
+Our Site may include social media features, such as the Facebook "Like" button. These features may collect your IP address and the website pages you are visiting, and may set a cookie to enable the feature to function properly. Social media features are either hosted on a third party website or hosted directly on this Site. Your interactions with these features are governed by the privacy statement of the entity providing them.
 
+### International Visitors
 
+This Site is hosted and operated in the United States ("US") and elsewhere in the world except Europe. It is not intended to be used by users in, or to offer products or services to residents of, Europe. By using the Site, you are consenting to the transfer of any information related to your use of this Site (including your personal information) to the US or to another jurisdiction other than your own. If you are accessing this Site from outside the US, please be advised that US law (or the law of the jurisdiction ultimately hosting this Site or the related content) may not offer the same privacy protections as the law of your jurisdiction.
 
-We processes your Personal Information for the following purposes: 
+### Your California Privacy Rights
 
-**Purposes for processing Personal Information**  
----  
-  
-Marketing, Provision of product and company information and updates  
-  
-Delivery of service bulletins and product information and related information to customer contacts  
-  
-Legal and regulatory compliance, litigation, investigations, and risk management (including systems for storage of legal work products, documents and information);  
-  
-Other legal and customary business-related information, such as making back-up copies of files for business continuity, as needed for computer system maintenance and other everyday human resource purposes;  
-  
-Personal Information collected through its internal websites, including without limitation in connection with subscriptions for newsletters, downloads of materials and registration for products and services, including online and offline Personal Information pertaining to prospective, current and former customer contacts;  
-  
-Data processed by CDK’s threat management platform and its related technologies and procedures that will provide advanced prevention, detection, response and intelligence capabilities to protect CDK and the employee data it processes;  
-  
-Systems enabling collaboration, including document sharing;  
-  
-Systems for storage and distribution of internal emails and archiving historical data;  
-  
-Business operations purposes, including maintaining records related to mergers, acquisitions, reorganizations, sales, distributions, dispositions, financial management and reporting;  
-  
-Statistical analysis of website traffic, including the use of Cookies.  
-  
-We may be required to disclose your Personal Information in response to lawful requests by public authorities to comply with national security or law enforcement requirements.
+If you are a California resident, you have the right under California law to request companies with whom you have an established business relationship to provide certain information about the companies' sharing of personal information with third parties for direct marketing purposes during the past year. If you are a California resident and wish to request further information about our compliance with this law or have questions or concerns about our privacy practices, you may contact us using the contact information set forth below.
 
-We will only use your Personal Information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your Personal Information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. ****
+### Children's Privacy
 
-Please note that we may process your Personal Information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+This Site is solely for use by businesses and by people who are at least 18 years old. By using this Site, you affirm that you are at least 18 years of age. We are not liable for any damages that may result from a user's misrepresentation of age. Under no circumstances may anyone under 13 years of age use this Site, or submit any information, including personally identifying information, on this Site. Parents or legal guardians of children under the age of 13 cannot agree to these terms on their behalf in order to overwrite this paragraph.
 
-**
+### Privacy Statement Updates
 
-  3. Cookies
+We will update this Privacy Statement from time to time, and any changes will take effect immediately after they are posted on this Site. Collection and use of your information from that point on will be subject to the updated Privacy Statement. Your continued use of the Site will be deemed your agreement to the updated Privacy Statement. If you do not agree with the changes, you should stop using the Site and notify us that you do not want your information used in accordance with the changes. We will specify the date of the most recent update in the "Last Date for Updates" section of this Privacy Statement. If you need a copy of any previous version(s) of this Privacy Statement, you may contact us at the address below.
 
-**
+### Contacting Us
 
-**What are Cookies and how are they used** **?**
+If you have any questions, comments, or complaints regarding CDK's privacy practices or this Privacy Statement please do not hesitate to contact us by email at [privacy@cdk.com](mailto:mailto:privacy@cdk.com) or by writing to:
 
-Cookies are small strings of text that web sites can send to your browser. Cookies cannot retrieve any other data from your hard drive or obtain your e-mail address. If you are simply browsing a CDK informational site, a cookie may be used to identify your browser as one that has visited the site before. The CDK website uses cookies to collect information about how our site is used and to save and remember any preferences that may have been set. 
+CDK Global Holdings, Inc.  
+Legal Department  
+1950 Hassell Rd.  
+Hoffman Estates, IL 60169
 
-We may also make use of memory-based cookies in support of authenticating a user of certain CDK web applications. If you are a registered user of a site providing service to CDK clients (and have a user ID and password), we may use cookies so that we can provide personalized information based on preferences you have indicated while using the site.
+### Last Date for Updates
 
-Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize CDK services which require registration if you reject cookies.
-
-To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit  _[www.aboutcookies.org](http://www.aboutcookies.org/)_  or  _[www.allaboutcookies.org](http://www.allaboutcookies.org/)_. The following explains the different types of cookies that CDK websites use and their purpose:
-
-**Provider**
-
-| 
-
-**Purpose**  
-  
----|---  
-  
-**Google Analytics**  
-Cookie name:  _utma _utmb _utmc _utmz
-
-| 
-
-Used to collect information in an anonymous form about how visitors use our site including; number of visitors, where visitors have come to the site from and the pages visited.  
-  
-**Marketing Cookie**  
-Cookie name: PARDOT
-
-| 
-
-When you first visit a website that uses the Pardot system, a third party cookie from pardot.com is stored in your browser which tracks the pages you visit during your session. The information collected by this cookie on our website is visible only to CDK, and is not shared with any third parties including Pardot or other users of the Pardot system.
-
-The cookie does not contain any personal information but if you choose to fill out a form on our site then we will link your personal information to the browsing information associated with the Pardot cookie on your browser.
-
-Information collected is used to personalize our service to you (for example by choosing how we communicate with you (subject to your consent) and tailoring the content of any communications to you to include information that reflects the interest that you have shown in the content of our web pages, or by choosing offers or promotions that we think may interest you and to improve how we respond to your needs.  
-  
-**More Cookies Information** ** **
-
-_[Click here for an overview of privacy at Google](https://www.google.com/policies/privacy/ "External link")_
-
-To opt out of being tracked by Google Analytics across all websites visit  _<http://tools.google.com/dlpage/gaoptout>_  .
-
-**
-
-  4. Other Sites
-
-**
-
-CDK sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites.
-
-**
-
-  5. Disclosure to Third Parties
-
-**
-
-We may disclose your Personal Information:
-
-  * to our affiliates for the purposes listed above,
-  * to other data processors who use the data only for CDK’s purposes and under CDK’s instructions, 
-  * where required/permitted by law, such as with your consent,  in the event of an emergency or to comply with internal (e.g. disclosures to shareholder’s) and statutory (e.g. HMRC) reporting requirements.
-  * to an acquiring organization if CDK is involved in a sale or a transfer of some or all of its business (anonymised data preceding sale). 
-
-
-
-We may disclose your Personal Information to the categories of third parties listed above for the following purposes:
-
-**Purposes for disclosing Personal Information to third parties**  
-  
----  
-  
-Customer relationship management;  
-  
-Communication including email addresses and mobile devices;  
-  
-Legal and regulatory compliance, litigation, investigations, and risk management (including systems for storage of legal work products, documents and information);  
-  
-Other legal and customary business-related information, such as making back-up copies of files for business continuity, as needed for computer system maintenance;  
-  
-Personal Information collected through its internal websites, including in connection with subscriptions for newsletters, downloads of materials and registration for products and services, including online and offline Personal Information pertaining to prospective, current and former customers;  
-  
-Data processed by CDK’s threat management platform and its related technologies and procedures that will provide advanced prevention, detection, response and intelligence capabilities to protect CDK and the employee data it processes;  
-  
-Systems enabling collaboration, including document sharing;  
-  
-Systems for storage and distribution of internal emails and archiving historical data;  
-  
-Business operations purposes, including maintaining records related to mergers, acquisitions, reorganizations, sales, distributions, dispositions, financial management and reporting;  
-  
-Our third-party service providers and other entities in the group are required to take appropriate security measures to protect your Personal Information in line with our policies. We do not allow our third-party service providers to use your Personal Information for their own purposes. We only permit them to process your personal data for specified purposes and in accordance with our instructions. ****
-
-**
-
-  6. Transferring Personal Information Outside The EU
-
-**
-
-Due to the global nature of our business, your Personal Information may be transferred across national borders, including to the United States. We transfer Personal Information we collect about you to those countries included in the table below. We only transfer Personal Information that is necessary for us to fulfil our obligations as an employer in order to perform our contract with you. We have stated where an adequacy decision by the European Commission in respect of each country has been provided which means that country provides an adequate level of protection for your Personal Information. 
-
-Where there is no adequacy decision, we have put in place additional measures to ensure that your Personal Information receives an adequate level of protection and is treated in a way that is consistent with and which respects EU laws on data protection.
-
-  
-
-
-Country receiving Personal Information
-
-| 
-
-Adequacy Decision/Security Measures  
-  
----|---  
-  
-United States of America
-
-| 
-
-EU – US Privacy Shield. To view CDK’s certification under Privacy Shield, please visit <http://www.privacyshield.gov/list>.    
-  
-**
-
-  7. Data Security
-
-**
-
-We have put in place measures to protect the security of your information. Third parties will only process your Personal Information on our instructions and where they have agreed to treat the information confidentially and to keep it secure.
-
-In addition, we limit access to your Personal Information to those employees, affiliates, agents, contractors and other third parties who have a business need to know. They will only process your Personal Information on our instructions and they are subject to a duty of confidentiality. 
-
-We have put in place procedures to deal with any suspected data security breach and will notify you and the appropriate regulator where applicable. 
-
-**
-
-  8. Data Retention
-
-**
-
-We will only retain your Personal Information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements and subject to our retention policy. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. ****
-
-In some circumstances we may anonymize your Personal Information so that it can no longer be associated with you, in which case we may use such information without further notice to you. Once you are no longer a customer of the company we will retain and securely destroy your Personal Information in accordance with our data retention policy and any applicable laws and regulations. ****
-
-**
-
-  9. Rights of Access, correction, deletion and restriction
-
-**
-
-Under certain circumstances, by law you have the rights listed below in relation to your Personal Information. You will not usually have to pay a fee to access your Personal Information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances.
-
-We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that Personal Information is not disclosed to any person who has no right to receive it.
-
-If you would like to make a data subject request please use the following contact details: [privacy@cdkglobal.com](mailto:privacy@cdkglobal.com)
-
-**_Request access_** **** to your Personal Information (commonly known as a "data subject access request"). This enables you to receive a copy of the Personal Information we hold about you and to check that we are lawfully processing it.   
-Your right to access your Personal Information may be limited or denied where the burden or expense of providing access would be disproportionate to the risks to your privacy in question, or when such access would:
-
-  * compromise confidential commercial information; 
-  * interfere with the execution or enforcement of the law or with private causes of action including the prevention, investigation or detection of offenses or the right to a fair trial; 
-  * violate the legitimate rights or important interests of others; 
-  * breach a legal or other professional privilege or obligation; 
-  * prejudice employee security investigations or grievance proceedings or in connection with employee succession planning or corporate re-organizations; 
-  * prejudice the confidentiality necessary in monitoring, inspection or regulatory functions connected with sound management, or in future or ongoing negotiations involving CDK. 
-
-
-
-**Request correction** **** of the Personal Information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected. Please note that you have a shared responsibility with regard to the accuracy of your Personal Information.  When updating your Personal Information, you must provide truthful, complete and accurate information.  
-
-**Request deletion** of your Personal Information. This enables you to ask us to delete or remove Personal Information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your Personal Information where you have exercised your right to object to processing (see below).
-
-**Object to processing** of your Personal Information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your Personal Information for direct marketing purposes.
-
-**Request the restriction of processing** **** of your Personal Information. This enables you to ask us to suspend the processing of Personal Information about you, for example if you want us to establish its accuracy or the reason for processing it.
-
-**Request the transfer** **** of your Personal Information to another party. 
-
-**Right to withdraw consent:** __In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your Personal Information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, please contact[privacy@cdk.com](mailto:privacy@cdk.com). Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
-
-**
-
-  10. Choice 
-
-**
-
-If your Personal Information is:
-
-  * to be disclosed to a third party (other than CDK’s agent acting on CDK’s behalf), or 
-  * to be used for a purpose that is materially different from the purpose for which it was originally collected or subsequently authorized,
-
-
-
-CDK will inform you and give you a chance to object to such disclosure or use (opt-out).  
-
-If such information is sensitive Personal Information, CDK will only disclose it to a third party (other than CDK’s agent acting on CDK’s behalf) or use it for a purpose that is materially different from the purpose for which it was originally collected or subsequently authorized after you have given your consent affirmatively and explicitly (opt-in).  However, your opt-in is not required in the rare occasions when the disclosure of the sensitive Personal Information is:
-
-  * in the vital interests of you or another person; 
-  * necessary for the establishment of legal claims or defenses; 
-  * required to provide medical care or diagnosis; 
-  * necessary to carry out the organization’s contractual obligations, or
-  * related to Personal Information that is manifestly made public by you.
-
-
-
-**
-
-  11. Complaints
-
-**
-
-CDK commits to resolving complaints about you privacy rights in a timely manner.  If you believe that your Personal Information has not been handled in accordance with the CDK Global Privacy Policy (including the Addendum), or applicable laws, you may submit a complaint by email to [privacy@cdk.com](mailto:privacy@cdk.com). 
-
-If your complaint is not satisfactorily addressed by CDK, you may file a complaint to the DPA in the country where you work for CDK.  The contact information of the DPAs may be found at <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>. CDK has committed to cooperate with EU data protection authorities (DPAs) and to comply with the advice given by such authorities with regard to your Personal Information in the context of the employment relationship. Additionally, with respect to Personal Information transferred from the EU to the U.S. pursuant to the Privacy Shield, CDK is also subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
-
-If you have any questions about CDK’s Global Privacy Policy (including the Addendum), or your privacy rights under the Privacy Shield principles or other applicable laws, you may contact your local Human Resources manager by email or by phone, or send an email to [privacy@cdk.com](mailto:privacy@cdk.com).
-
-**
-
-  12. Changes To This Privacy Notice
-
-**
-
-We reserve the right to update this privacy notice at any time, updated versions of the notice will be published on our website.. We may also notify you in other ways from time to time about the processing of your Personal Information. 
-
-**
-
-  13. Contacting your account manager
-
-**
-
-If you have any questions about this privacy notice, please contact your account manager in the first instance or alternatively by emailing [privacy@cdk.com](mailto:privacy@cdk.com). 
-
-Last updated 7th August 2018
+This Privacy Statement was last updated on March 13, 2018.
