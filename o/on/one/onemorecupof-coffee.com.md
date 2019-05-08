@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemorecupof-coffee.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829162302id_/https%3A//onemorecupof-coffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorecupof-coffee.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508114212id_/https%3A//onemorecupof-coffee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ One More Cup of Coffee found at https://onemorecupof-coffee.com/ (“Website”
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-_GDPR_
+ _GDPR_
 
 ## Who we are
 
