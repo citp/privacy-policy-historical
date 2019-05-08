@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayofhappiness.net privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125195918id_/http%3A//www.actionforhappiness.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayofhappiness.net privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508154652id_/http%3A//www.actionforhappiness.org/privacy) for the most accurate reproduction.*
 
 # Action for Happiness
 
