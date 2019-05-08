@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackerearth.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905211046id_/https%3A//www.hackerearth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerearth.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508172250id_/https%3A//www.hackerearth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HackerEarth
 
@@ -34,14 +34,16 @@ We collect the following Personal Data about you when you use or otherwise inter
   * Name (First name/last name/full name)
   * Title
   * Email ID (both personal and professional)
+
+
+
+Since HackerEarth acts as a Data Processor, the Data Controller may choose to collect some of the following additional details.
+
   * Profile/display picture
   * Country, state, postcode or city of residence
   * Login name, screen name, nickname, or handle
   * Telephone number (Home/work/mobile telephone number)
-  * National identification or social security number
-  * Passport number
   * Postal or other physical address
-  * Credit/debit card information
   * Date of birth
   * Gender
   * Name(s) of the school/university (including grades and graduation year)
