@@ -1,210 +1,89 @@
-> *The following text is extracted and transformed from the petside.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226051017id_/http%3A//www.mars.com/global/policies/privacy/pp-english.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petside.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508031855id_/https%3A//www.petside.com/privacy-policy) for the most accurate reproduction.*
 
-# Mars Privacy Policy | Mars
+# Privacy Policy - PetSide
 
-Click [here](http://www.mars.com/) to go to www.mars.com
+## Privacy Policy
 
-**Contact us**  
- **Our Mailing Address is:**
+## 1\. Who We Are:
 
-Global Privacy Team  
-Dundee Road,  
-Slough, Berkshire SL1 4LG  
-E-mail:  
-[privacy@effem.com](mailto:privacy@effem.com)
+Petside.com and its related blogs (hereafter “site”, “website”, or Pet Side Platform”) is an affiliate marketing platform providing information and guides on dog accessories, apparel, food, supplements, health and insurance. To be able to provide effective content and affiliate marketing service, Pet Side will from time to time collect, use, retain, share or disclose (together referred to as “processing”) certain personal and non-personal information related to the use of the Pet Side website. This policy therefore explains how Pet Side collects information, how such information is used and the choices and rights that users have with regard to their information. If you are an individual established in the European Union (EU) or the European Economic Area (EEA), this Policy also informs you on your data rights and our data protection obligations under the European Union General Data Protection Regulation (GDPR). Please note that this Policy applies only to information collected in connection with this site and does not cover information collected by websites linked from this site. By using the site, you are acknowledging that you have read this Policy and agree to be fully bound by it. If you do not agree with the way we handle personal data as stipulated in this Policy, please do not use Petside.com.
 
-Our Privacy Statement
+## 2\. Changes to this Privacy Policy:
 
-**What does this privacy statement apply to?**
+This Policy may be changed at any time to be in line with change in our services or change in laws regulating personal information and privacy protection. When we make such changes, we will notify our users by posting the updated version of the policy on the website and, if possible, via the email address you provided to us. Please review this Policy regularly because it governs the manner in which we handle your personal data.
 
-This privacy statement applies to your personal information collected or processed through the websites, mobile applications and other services and products that collect or process data and display this statement belonging to Mars, Incorporated and its family of companies . This statement does not apply to such entities’ websites, mobile applications and other services and products that do not display or include a link to this privacy statement or that have their own privacy statement. This privacy statement applies to your personal information, which is any information or combination of information that could reasonably be used to identify you.
+## 3\. Information we collect:
 
-Our privacy practices are consistent with country data protection laws. We cooperate with country data protection authorities if they believe a privacy problem has occurred.
+The particular type of information we collect depends on which type of our services you are using. Generally, we collect personal information that you provide to us on your own accord but we also register information about your use of the services. When we refer to personal information we mean such information collected from you or about your use of the services which can directly or indirectly identify you as a specific individual. Non-personal information is information about your use of services which cannot identify you as a particular individual. Generally, we use information to provide our services, give you a better user experience, improve our services and give offers which are relevant to your needs. We collect the following types of information  
+a. Personal information: When you become our customer, contact us directly, or make an enquiry, we collect the following contact information from you: name and email address  
+b. Customer support information: When you contact our customer support service, we will collect any information you provide to us in your request for support so as to be able to deal with and provide the needed assistance.  
+c. Information about your interaction with Pet Side:  
+i. Technical information: We collect other technical information when you view our website. This information is collected using cookies and similar web tracking and analytics technologies. It includes the internet protocol address of your internet service, the date and time of your visit, pages you viewed on the site, type of device used to view the site, the type and version of browser you used to access the site as well as the website that referred you to our website.  
+ii. Search queries: When you search for content, products or items on the site, our website may collect search queries entered on the site. This information is collected so as to improve our website content as well as its overall design and navigation and make sure that website users find relevant content easily.
 
-Back to the Top
+## 4\. Cookies and Similar Technologies:
 
- **What information do we collect and process?**
+Pet Side uses cookies and other web tracking technologies such as pixel tags (also called “web beacons”) to register information about how users use the Pet Side website. A cookie is a little text file which the Pet Side website stores in your device when you view the site. We use two types of cookies:  
+a. Session cookies: A session cookie is saved temporarily during your browsing session on our website and is used to manage your browsing session including for example to remember whether you logged in or not or to remember products you have placed in a shopping cart.  
+b. Permanent cookies: A permanent cookies is called permanent in the sense that it stays in your device for a longer (usually specified) period of time or until it is manually removed by the user. We use these cookies to remember user preferences and improve your experience as repeat visitor of our website.  
+c. Deleting or Blocking Cookies: Please note that your internet browser can be adjusted so that it automatically rejects cookies. You may also delete cookies that have been stored in your device. To learn more about avoiding cookies, visit your browser privacy or content settings. Pet Side may work as normal if you block third party cookies. However if you block session cookies, we cannot guarantee that our website will work properly. To learn more about cookies and how to avoid them, please visit www.allaboutcookies.org.  
+d. Third party cookies and Web Analytics: We also use third party analytics tools that may set their own third party permanent cookies. These include services like Google Analytics, Google AdSense and Facebook Pixel. We use Google Analytics and Facebook Pixel for to collect analytics data on website usage so as to be able to improve our services and user experience and deliver, target and optimise our advertising. We use Facebook Pixel for example to understand traffic that reaches our website through our Facebook Ads. Google AdSense uses double-clicking tracking cookies which helps to track the use of affiliate links and related affiliate commission as well as deliver targeted ads basing your interaction at our website or other websites. Both Facebook Pixels and Google Analytics may collect non-personal information about your visit to the site including the internet address of your internet service, page views, browser data and device information.
 
-We may collect or process various information that you provide to us, including personal contact details, and information related to your purchases, employment or demographic.
+## 5\. Lawful Grounds for Processing of Personal Data:
 
-  1. **Personal contact details includes information such as names, addresses, telephone numbers, or e-mail addresses such as when you provide them to us during online registration or when doing business with us or providing services to us; some websites allow you to establish a user name and password to set up an account.**
-  2. **Purchase-related information includes data regarding purchases you make on our websites, including payment card information and shipping details.**
-  3. **Employment-related information includes your indicated job preferences, work history and information provided on applications submitted to us online.**
-  4. **Demographic information includes data such as age, gender, hobby or activity information, taste or other preference information, and the like.**
+To be able to process your personal data, the law requires that we must have lawful grounds to do so. We rely on the following lawful justifications when processing your personal data or information in relation to this website:  
+a. Consent: When you register with us, we will require you to provide consent for the use of your information to complete your registration or to receive our newsletter. When you contact us directly, please note that you are providing your consent for the use of your contact information in responding to your questions or enquiries. In other cases where consent for processing of personal data is provided we will process personal data for particular purposes to which that consent applies  
+b. Performance of contract. We will process personal data as necessary for the implementation of any legal agreement in which you are a part of or to carry out any request by you before entering into such an agreement.  
+c. Compliance with the law: We will process personal data in order to fulfil any legal obligation or required to which we are subject as data controller.  
+d. Legitimate Interest: We will process your personal information as necessary for purposes related to our legitimate interest as long as our legitimate interests do not override you basic rights and freedoms.
 
+## 6\. How We Use Information:
 
+To be able to provide you with access to our information content, review and buying guides, articles and services, we will need to process your information. Below you will find details about the purposes for which we process your information and related lawful grounds.  
+a. Provide access to our content and services: We collect and process personal information so as to register and identify you as our customer and so as to be able to provide content or services you have requested including for example regular newsletters from us. This information is collected on the basis of contractual necessity.  
+b. Communication and support: We will use your contact information and other information in your correspondence with us to provide customer support, respond to you questions and offer tips on dog-related articles, products and services.  
+c. Develop and improve our content, services and products: We use personal information relating to your interaction with our website and communication with us as the basis for understanding our website’s performance so as to improve your personal experience and our services generally.  
+d. Marketing. To be able to market and provide relevant products and services to you in accordance with your preferences, we may process information about the affiliate links you have clicked and other services and products you have bought or used.  
+e. Security and prevention of abuse: We process personal information n with the aim of securing and protecting our services and website. In particular we process personal information to detect and prevent fraud, misuse, illegal access attempts, crime and the use of our services which violates our terms and conditions.  
+f. Compliance with the law: We may collect, use and/or store personal information when required to do so by the law or in compliance with any court order.
 
-We may collect information from other sources, including contact lists, and demographic information from third parties and other sources. This data may be combined with other information that we collect.
+## 7\. Sharing and Disclosure:
 
-We also collect certain types of information automatically:
+Pet Side does not share personal information to third parties without consent except where it is necessary for the provision of services to you or as otherwise permitted by the law. We may share personal information in the following circumstances:  
+a. To our partners and service providers: As an affiliate marketer, we will only share information with our partners and services when it is absolutely necessary for them to provide or improve our services on our behalf. These may include providers who assist with customer support, email service delivery, technical support, web maintenance and advertising services. We take suitable measures to ensure that personal information is managed in accordance with laws applicable to data security and personal integrity. Our partners and service providers must comply with those laws and this privacy policy.  
+b. To comply with the law: We may become liable to disclose certain personal information when for example we are compelled to do so in accordance with the law or order of a court or government agency.  
+c. Business transfer or sale: In the event that Pet Side is bought by or merged with another company, we may have disclose, in our legitimate interest, certain personal information (e.g. customer lists) in connection with that transaction.
 
-  1. **Your Internet Protocol (IP) address or device identifier, your device’s operating system, browser type, websites visited before or after you visit our website, pages viewed and activities at our website, as well as your interaction with advertisements.**
-  2. **Third-party service and advertising partners may also collect information automatically.**
-  3. **Find out more about our collection practices at[How do we use cookies and web beacons.](https://web.archive.org/global/policies/privacy/pp-english.aspx#cookies)**
+## 8\. Data Retention:
 
+Pet Side does not retain user information indefinitely. We only keep your information for as long as you a customer with us, when it is necessary to fulfil our contractual obligation or when required to do by the law. When you are no longer a customer with us or when you unsubscribe from our newsletter, we will, where applicable, erase your account and delete all your personal information where we no longer have use or lawful ground for processing of such information. We will also notify our partners with whom we have shared your information so that they can delete such information.
 
+## 9\. Your Data Rights:
 
-Back to the Top
+As a data subject, you have the following rights as regards information collected from or about you in connection with PetSide.com.  
+a. Right to access information: Pet Side values fairness and transparency in the processing of personal data. In accordance with the GDPR, you have the right to be informed about the types of personal information collected from you, the purpose for which your information was collected, third parties to whom that information has been or will be disclosed to as well the period for which your information will be retained. Request to access information must be in writing and signed by you personally. This information will be provided free of charge although Pet Side may charge if the request are excessive or unreasonable. If you would to exercise this right, please submit your request to us via email at contact (@) petside.com and inform us about the type of information you would like to access.  
+b. Right to rectification. If you discover that personal information we have collected from you is not correct or is missing, you have the right to request that we rectify or complete it. Where we rectify your information, we will also inform our potential partners who had access to such information so that they can rectify and update such information.  
+c. Right to deletion or erasure of personal data. As a customer you have the right to request the erasure of certain personal information if: the information is no longer needed having regard to the purposes for which it was collected; if the processing is unlawful; if you withdraw your consent and Pet Side have no other legal ground for processing of information, and if you object to use of certain information for our legitimate interest and we have no other legal ground for continued processing of such information.  
+d. Right to restrict processing: You have the right to restrict the processing of your information in certain cases. Restriction on processing means that the information is marked so that it used for limited or specified purposes only. For example you if your personal information is inaccurate or incomplete, you have the right to restrict the use of information until it is corrected or updated. If the processing is unlawful, you may also demand that the use of such be limited as opposed to demanding for deletion.  
+e. Right to object to processing. You have the right to object to processing of your personal information which is done on the ground of our legitimate interests which include, for example, direct marketing or profiling for marketing purposes.  
+f. Right to data portability: In certain cases, you have the right to obtain and transfer your information to another company. Information will be provided in structured, commonly used and machine-readable format. This right applies only to information that you have personally provided to us or whose processing is necessary for the provision of services you requested or ordered from us. It does not apply to information that we process on the basis of our legitimate interest or for legal compliance purposes.
 
-How do we use your information?
+## 10\. How We Protect Your Information:
 
-We may use your information for a variety of purposes including: to provide products or services that you request; to administer promotions (sweepstakes, contests and offers); to communicate with you; to deliver advertising; to improve our websites, products and services; and for other legitimate business purposes.
+Pet Side uses industry standard encryption measures to encrypt and protect personal information which is communicated to us or transmitted through our website. This includes the use of Secure Socket Layer/Transport Layer Security encryption technology. To ensure integrity and confidentiality of personal information, we have also implemented systematic, organisational technical measures which prevent unauthorised access, modification or disclosure of personal information. Our personnel are bound by confidentiality obligations and have access to only that personal data required for the completion of particular task.
 
-  1. **Providing the features, products and services you request: We may use the information we collect about you to fulfill your requests for, and enable your use of, our features, products and services.**
-  2. **Registration, contests and promotions: We may use your information to enter you in contests, to notify you of results and to register you for certain features, products and services.**
-  3. **To communicate with you and provide you with information: We may use your information to communicate with you, to respond to your questions or comments, to provide you with updates and news and to alert you when job vacancies that fit your profile arise (in the event that you submit your resume). We also may use your information to provide you with personalized content, information, and to send you brochures, coupons, samples, offers and other information on our products or our family of companies. We ask visitors providing e-mail addresses to indicate if they would like further information or updates from us or our website and only those who request it will receive follow-up communications from us. We may also ask if you would like to receive information about other products available from members of our family of companies.**
+## 11\. Links to External Websites:
 
+Pet Side is an Amazon affiliate marketer and we feature links to Amazon.com and other external websites. All links to external websites are provided for convenience only and does not constitute endorsement. We do not monitor, review or manage the websites linked herefrom and we do warrant that the products or services provided on those external websites will be available, secure or reliable. In addition, we are not responsible for how those website collect or handle your information. Our privacy commitments are limited to information gathering activities done only by Pet Side. We advise you to review those site’s policies and terms of use before submitting your information to them.
 
+## 12\. Data Breach Notification.
 
-We also offer visitors an “opt-out” option at any time they wish to cease receiving e-mails or other information from us. 
+In the event that Pet Side is affected by data breach involving your personal information, Pet Side will inform you immediately of the nature of the breach, details about the likely impact of that breach as well as details about recommended measures to address the adverse effects of that breach.
 
-  1. **To deliver to you relevant advertising: We may purchase and use opt-in e-mail lists to contact potential customers who we believe may be interested in products or services from the Mars family of companies. We will honor opt-out requests and ask those providing lists to give us assurances that e-mail contact information is provided only for those consumers who have expressed a desire to receive offers and information by e-mail. We also may use demographic and preference information to allow advertising related to Mars products and services to be targeted to the users for whom they are most pertinent. This is designed so that users will see advertising that is most likely to interest them, and advertisers can display their ads to people who are most likely to be receptive. For further information about our advertising practices, please see[ What is our policy on online interest-based advertising](http://www.mars.com/global/policies/privacy/pp-english.aspx#internetad) below. **
-  2. **To provide you with other offers. For example, sometimes our brands will make offers, coupons and information, including catalogues, available to you through the mail. For example, when customers place an online order in our catalogue stores or sign up for one of our catalogues online we may add them to the list to receive that catalogue. We may also use lists we have received from third parties or public sources to send you this information, and, as is routinely done in the catalogue business, may exchange names and addresses (but not e-mail addresses absent consent) of our catalogue customers with other catalogue companies who may also contact you by mail. You may “opt-out” of receiving offline communications from our brands at any time.**
-  3. **To improve our websites, features, products and services. We may use the information that we collect to improve the Mars family of product offerings, services, as well as our websites and features.**
-  4. **For other purposes. We also may use your information for other legitimate purposes, which we strive to identify at the time of collection.**
+## 13\. Contact and Complaints:
 
+If you have any complaints about how we process your personal information, you have the right to file a complaint to the data supervisory authority. If you have questions regarding this Policy or if you would like to exercise any of your rights as stipulated in this Policy, please contact us via email or the address provided below:
 
+contact (@) petside.com
 
-Back to the Top
-
-How do we share and disclose your information?
-
-We may share or disclose your information: 
-
-  1. **With Mars and the Mars family of companies;**
-  2. **With vendors or agents. For example, we may share your information with companies we have hired to provide services on our behalf. When we share information with these other companies to provide services for us, they are not allowed to use it for any other purpose and must keep it confidential unless you otherwise consent.**
-  3. **Where your information may be transferred along with other business assets.**
-
-
-
-We also may share or disclose personal information, including the content of your communications: 
-
-  1. **To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.**
-  2. **To conduct investigations of consumer complaints or possible breaches of law, to protect the integrity of the website, to fulfill your requests, or to cooperate in any legal investigation.**
-  3. **To protect the rights or property of the Mars family of companies or our customers, including enforcing the terms governing your use of the services.**
-  4. **To act on a good faith belief that access or disclosure is necessary to protect the safety of our associates, customers or the public.**
-
-
-
-Please note that our websites may include links to third-party websites whose privacy practices may differ from our privacy practices. If you submit personal information to any of those websites, your information is governed by the privacy policies on those websites. We encourage you to review the privacy policy of any website you visit.
-
-Back to the Top
-
-What about children’s privacy?
-
-Our websites are primarily designed and intended for adults and, where brand-appropriate, teenagers. In accordance with the Children’s Online Privacy Protection Act (COPPA), we do not knowingly collect or store any personal information about children under age 13, and our company websites are not designed to collect personal information from children under age 13. We may ask visitors to enter a birth date to restrict those who are underage from accessing certain websites, areas or features. If we learn we are dealing with a child under age 13, we may ask for the e-mail address of a parent and make an effort to contact them to determine if the child has permission to provide information to us. For more information, please review our [Special Note to Parents.](http://www.mars.com/global/policies/note-to-parents/np-english.aspx)
-
-Back to the Top
-
-How do we use tracking technologies like “cookies”, web beacons and other technologies ?
-
-We or our service providers or business partners use technologies like cookies and web beacons to offer certain functions at our website, to understand our visitors, and to offer ads at non-affiliated third-party websites, sometimes using information collected through technology at one of our family of websites and sometimes through third-party networks. Service providers or publishers may display ads for our products at unaffiliated third-party websites based on your online activities. We support self-regulatory programs for this practice, called interest-based advertising or online behavioral advertising, and ask our business partners to do the same. Find out more below at [What are our policies regarding online interest-based advertising?](https://web.archive.org/global/policies/privacy/pp-english.aspx#internetad) Please note that third parties where you might see our ads have their own privacy statements and use technologies which we do not control. We encourage you to read those policies carefully.
-
-_What are cookies and how do we use them?_
-
-“Cookies” are data files that a website sends to your computer while you are viewing the website. These data files include information that allows our websites to remember important information that will make your use of the website more efficient and useful to you. Our websites use cookies for a variety of purposes.
-
-Visitors to our websites use different web browsers and different computers. To make your visits as easy as possible with the technology you use, we automatically keep track of information like the type of browser (e.g., Internet Explorer, Safari, or Firefox) and operating system (e.g., Windows, Mac-OS X) used by a visitor, IP address, domain name of the visitor’s Internet service provider, websites visited before and after, pages viewed and activities at our websites, and advertisements seen or clicked on. We also track the total number of visitors to our websites in an aggregate form to allow us to update and improve them. Personal contact information is not extracted in this process. This information tells us if more visitors prefer certain features or areas to others, which helps us keep our websites fresh and interesting to the majority of our visitors.
-
-Cookie technology helps us deliver content tailored to a visitor’s interests, and allows us to make ordering products, entering and participating in sweepstakes and contests, and offering other functions at our websites easier for our visitors. Websites that offer online shopping use cookies to remember and process the items in your shopping cart. Where permitted, we may associate personal information with a cookie file in such instances.
-
-Please note that we may allow third parties to advertise on our websites. Some of these third parties may place cookies on your computer for purposes of advertising. we do not control the cookies of third parties. Some of these companies are members of the Network Advertising Initiative (NAI), which offers a single location to opt out of their cookies. Please visit the [Network Advertising Initiative’s website.](http://www.networkadvertising.org/optout_nonppii.asp)
-
-_What are web beacons and how do we use them?_
-
-Some of our Web pages and e-mail updates may contain electronic images called “web beacons” (sometimes known as one pixel GIFs, clear GIFs or pixel tags). Web beacons allow us to count visitors who have viewed our webpages. In promotional e-mail messages and newsletters, web beacons allow us to count how many subscribers have read them. Web beacons allow us to develop statistical information about the activities and features that most interest our consumers for the purpose of providing more personalized content. Web beacons are not used to access personal information without your consent.
-
-_What if you don’t want cookies?_
-
-If you don’t want cookies, you can set your computer to warn you each time a cookie is being sent or turn off all cookies (except Flash cookies) through your browser (e.g., Internet Explorer or Safari). Check your browser “help” menu to learn the correct way to change or update your cookies. To find out more about how to manage or delete Flash cookies, visit Adobe. Please note that if you do not accept cookies, some features or activities may not be available to you.
-
-Back to the Top
-
- _What are our policies regarding online interest-based advertising?_
-
-We support the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance in the US and applies to US consumers. More information about these Principles can be [found here](http://www.aboutads.info/obaprinciples). Advertisements that we place online using interest-based data are expected to be delivered with the Advertising Option Icon to help consumers understand how their data is being collected and used and to provide choices for consumers who want more control. The Icon looks like this:
-
-By clicking on the Icon when it appears, you can review information (and follow information) regarding online interest-based advertisements, including who is collecting and using your online data, how you can opt-out from receiving such advertisements, and more.
-
-_How do we serve advertisements through online interest-based advertising?_
-
-At times we display ads both on our network of owned and operated websites and on the websites of third parties. When you visit one of our websites or view ads that we serve elsewhere online, you may see different kinds of ads, such as text ads next to search results or video ads on web pages. Sometimes, these ads are based on the content of the pages on which they appear. Other times, these ads are generated by matching the particular ad to your interests as inferred from your online activities that have been collected over time. With interest-based advertising, the goal is to show you ads that are most relevant to you.
-
-To do this, we and some of our third-party advertising companies use technologies such as cookies and web beacons to collect information about your interaction with our websites and other third-party websites (“Online Data”). This Online Data generally does not identify you to us personally and, typically, it is aggregated with other data to create segments – groups of users and certain general interest categories that we have inferred based on a variety of factors (for example, “sports fan”). The Online Data can include:
-
-  1. **The Web pages, products and services you view and links you click when using our websites and services as well as third-party websites;**
-  2. **Our e-mails that you view and links you click on within that e-mail;**
-  3. **Whether you view or click on ads that are shown to you;**
-  4. **Demographic or interest data, including general geographic location derived from IP address;**
-  5. **Offline purchase data that may be combined with Online Data to create a better profile regarding your interests or purchasing preferences; and**
-  6. **The search terms you enter when using certain search services.**
-
-
-
-We and our third-party advertising partners use this Online Data to paint a more accurate picture of the interests of the audiences with which we interact – including you – so that we can serve ads that are more relevant to those interests.
-
-In addition, our third-party advertising partners use this Online Data for a variety of other purposes, including (a) in conjunction with advertising that appears on our website or other websites, (b) for reporting website traffic, statistics, advertisement data and other interaction with ads and the websites on which they are served, and (c) to measure the effectiveness of web-based and e-mail advertisements.
-
-_Why would you want to receive interest-based ads?_
-
-Consumers like to receive interest-based ads for many different reasons. Interest-based ads are helpful because they are more tailored to your particular interests. For example, cat owners may see more ads for cat food and fewer ads for dog grooming services. Interest-based ads also are more likely to help them discover new products and services that are actually relevant to them and their interests. For example, dog owners may see an ad about the latest dog-grooming products, whereas cat owners might be more likely to see an ad for the latest feline hairball solution. In short, receiving interest-based ads can help to improve their access to new products, services and features that are most relevant to them, which in turn could help to improve their life and social experiences. Consumers also will not see the same ads over and over from us because the number of times they see a particular interest-based ad is limited. By opting-out of interest-based ads, they lose all of these benefits.
-
-_How can consumers opt-out of receiving interest-based ads from us?_
-
-If consumers do not want this website to show them interest-based ads they can opt-out by following the instructions [here](http://www.mars.com/global/policies/adchoices/ac-english.aspx?eid=2155). If they do not want to receive interest-based ads from any of our US sites, they need to click the AdChoices link in the footer section of that website and follow the instructions there. Please note, however, that opting-out does not mean they will no longer see ads from us online. It simply means that the online ads from us they do see will not be based on their particular interests.
-
-For more information about who we allow to use technologies on our website to collect Online Data about you such as your interaction with our website, please click on the link at the bottom of our homepage.
-
-Back to the Top
-
- **What else do you need to know?**
-
-_Where is your information stored and processed?_
-
-Personal information collected on our websites and services ,or received by Mars from you or third parties, may be stored and processed in the United States or any other country where we or our service providers maintain facilities.
-
-The servers and databases in which information may be stored may be located outside the country from which you accessed this website and in a country that does not have the same privacy laws as your country of residence. The personal information you provide us may be transmitted abroad, but we will collect, process and use personal information only in accordance with this privacy statement.
-
-Employment-related queries may also be transferred to any member of the Mars family of companies. By visiting this website and submitting information, you consent to such collection, processing, transfer and/or storage of your personal information. Please note: our policies may differ by region, so if you visit one of our websites in a different region, please check to see if there is a statement specific to that location.
-
-_What about chat rooms, message boards, or other interactive forums?_
-
-We may offer chat rooms, message or bulletin boards, or interactive areas where visitors may post comments or information for our visitors’ enjoyment. If there is a chat room, bulletin or message board, social networking opportunities or other interactive areas where personal information may be posted at this website, be sure to check posted rules before entering, as you will be bound by them as well as our General Terms and Conditions. Rules for participation in interactive features may establish age and other restrictions on participation. Anything you post online is public information, and we are not responsible for anything you voluntarily post online. Users should exercise caution when disclosing personal information online.
-
-_How do we safeguard your information?_
-
-We have implemented administrative, physical and technical safeguards designed to protect your information. If online shopping is permitted at the website, we use Secure Sockets Layer (SSL) to communicate with your browser software when you order from us online and thereby provide us with payment card or related information. SSL is the industry standard security protocol, which makes it very difficult for anyone else to intercept your credit card / transaction and order information that you send us when you submit your online order. Otherwise, the transmission of information to and from us is not encrypted or secure. We limit access to personal information to those who have a business need. We keep personal information only for a reasonably needed amount of time. 
-
-No security measures can be 100% secure, however, and so we recommend that you take additional measures to protect yourself and your information, including by installing up to date anti-virus software, closing browsers after use, keeping confidential your log-in credentials and passwords, and making sure that you regularly update software and apps you have downloaded to ensure you have enabled the latest security features on your devices. 
-
-_Changes to this Privacy Statement_
-
-We may update this privacy statement from time to time, so please visit this page periodically and review this statement for changes. We will notify you of material changes to this privacy statement by posting a notice on our home page for a reasonable period of time and changing the “Last Updated” date [(below)]. Your continued use of our websites following the posting of changes will mean that you accept the changed terms.
-
-_What should you do if you have questions, wish to access, update or delete information, or wish to opt-out of receiving future communications?_ We take steps to keep your personal information accurate. You can view, correct or update the personal contact information you provide to Mars. Some Mars programs provide access to view or update personal information online. Check where you registered to learn if you can view or update your information there. 
-
-If you would like us to access, update, change, or delete information we have about you in our marketing database (subject to any applicable legal exceptions), would like to opt-out of receiving further communications from us, or have questions about our privacy statement, please [click here](mailto:privacy@effem.com).
-
-Back to the Top
-
- **How can you contact us?**
-
-To contact us, [privacy@effem.com](mailto:privacy@effem.com)  
-Our Mailing Address is: Global Privacy Team, Dundee Road, Slough, Berkshire  
-SL1 4LG. 
-
-Back to Top
-
-We are committed to working with you to resolve any complaints you may have regarding this Privacy Statement or the treatment of your personal information. If you have a concern, please contact [privacy@effem.com](mailto:privacy@effem.com) and your communication will be promptly addressed. 
-
-We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
-
-If you are a resident of the EEA or Switzerland and you feel that we have not resolved your concerns as described above, you have the right to bring your concern to your local data protection authority (DPA) authorized to receive such complaints. We will cooperate with any appropriately authorized DPA in the investigation and resolution of complaints brought under the Safe Harbor and will comply with the lawful advice of such DPA.
-
-**What are your California Privacy Rights?**
-
-California law permits residents of California to opt-out of Mars’ disclosure of personal information to third parties for their direct marketing purposes. You may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to our contact address above or by e-mailing us at [privacy@effem.com](mailto:privacy@effem.com). Please note that this opt-out does not prohibit disclosure made for non-marketing purposes. California law also permits residents of California to request and obtain from us once per year, free of charge, a list of the third parties (if any) to whom we have disclosed personal information for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an e-mail to: [privacy@effem.com](mailto:privacy@effem.com) or by writing to our contact address above. Requests via telephone or facsimile will not be accepted. The e-mail subject line or mailing envelope and the content of your request must include the phrase “Your California Privacy Rights,” and include your name, e-mail address (if you wish to receive a response via e-mail) or street address, city, state, zip code (if you wish to receive a response via postal mail). 
-
-Last Updated: March, 2014
-
-Back to the Top
+This Policy was last updated on 4th October 2019
