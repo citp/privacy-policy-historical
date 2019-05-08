@@ -1,89 +1,121 @@
-> *The following text is extracted and transformed from the healthable.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624030815id_/https%3A//www.healthable.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthable.org privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508100715id_/https%3A//www.kraftysprouts.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Healthable
+# Privacy Policy – Krafty Sprouts
 
-[](https://www.healthable.org/wp-content/uploads/2015/11/privacy1.jpg)
+This Privacy Policy (“Policy “) explains how information about you is collected, used and disclosed by Krafty Sprouts. This Policy applies to Krafty Sprouts websites, including [https://www.kraftysprouts.com](https://www.kraftysprouts.com/), [https://healthable.org](https://healthable.org/), Healthable android app, https://soccerteria.com, https://naijayellowpages.com, http://riolohost.com and [https://thegloor.com](https://thegloor.com/) or other online products or services (collectively, “Services“).
 
-Internet privacy is an issue that we take very seriously. Healthable is committed to protecting your privacy. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns.
+COLLECTION OF INFORMATION
 
-**What information does Healthable collect, and how is it used?**
+We collect information about you in various ways when you use our Services. For example, we collect information you provide to us when you sign up for our newsletters, participate in a contest or survey, use our Contact Us form, or otherwise communicate with us. Such information may include your name, email address, and any other information you choose to provide. We may also obtain information from other sources and combine that with information we collect on our Services.
 
-Information gathered online can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that cannot be traced back to a specific individual. For example, Healthable knows what searches are queried each day at each of its Web sites but does not know the names, e-mail addresses or phone numbers of the people searching.
+When you access or use our Services, some information is automatically collected. For example, when you visit our Services through your computer, we automatically log your computer’s operating system, Internet Protocol (IP) address and approximate location information derived from your IP address, access times, browser type and language, and the website you visited before navigating to our Services. Additionally, when you visit our Services through your mobile device, we collect your unique device ID, device make and model, device IP address, mobile web browser type and version and mobile carrier. We also collect information about your usage of and activity on our Services.
 
-Personally identifiable information is information which allows us to identify you. This information can include your name, address, phone number, email address, etc. It is our belief that you will find it beneficial at times to provide us with certain personal information so that your experience with Healthable is more personally relevant to you and/or delivered directly to you (e.g., via newsletter).
+**Cookies:**
 
-**Who Collects Anonymous Information on Healthable**
+We automatically collect information using “cookies.” Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Services and your experience. We use cookies to see which areas and features are popular and to count visits to our Services. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features of our Services.
 
-Currently, Healthable, DoubleClick (a division of Google) and various advertisers and other ad technology companies collect anonymous information on Healthable. These are Healthable’s partners. Information collected includes the visitor’s ISP domain name (e.g., whether the user is logged on from aol.com or whitehouse.gov), referral data (e.g., the address of the last URL a user visited prior to clicking through to the Healthable web site), and browser and platform type (e.g., Microsoft Internet Explorer 6.0 browser on a Windows XP platform). In addition, Healthable and other partners collect anonymous information on search queries and pages viewed, which is generally associated with a browser’s cookie (see below for more on cookies).
+**Web Beacons:**
 
-Finally, Healthable also counts, tracks, and aggregates visitors’ activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Healthable properties, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but Healthable will not disclose your individual identity or personal data without your permission. When Healthable does present aggregated information to outside companies, no one will be able to identify or contact you.
+We may collect information using web beacons (also known as pixel tags). Web beacons are electronic images that may be used on our Services or in our emails. We use web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
-The entities collecting this anonymous information use it to improve the overall quality of the online experience, including product monitoring and improvement, and targeted advertising on and off Healthable. You should know that some of our partners (or the partners of our partners) may connect the anonymous information collected on our site(s) with your identity if you have provided your identity to those partners or partners of partners (e.g., you may have provided data to an ecommerce site which knows your identity and can connect that identity with your behavior on a Healthable site through the placement of a web beacon).
+**Third Party Analytics and Advertisements:**
 
-If you wish to opt-out of the use of anonymous data or the ability of third-parties to connect your anonymous data on a Healthable site with your personal identity, you can opt-out in one of two ways: (1) you can disable cookies, although this may negatively affect your online experience as most sites require cookies for very basic browsing; (2) you can opt-out of data use with each individual partner through the Network Advertising Initiative gateway opt-out site <http://www.networkadvertising.org/optout_nonppii.asp>.
+We may also allow third parties to provide analytics services and serve advertisements on our behalf across the Internet. These entities may use cookies, web beacons and other devices or technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Krafty Sprouts and third parties to, among other things, analyze data, determine the popularity of certain content, deliver advertising or other content targeted to your interests and better understand the usage and visitation of our Services and other sites tracked by these third parties. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit <http://optout.networkadvertising.org/?c=1#!/> and [http://optout.aboutads.info/?c=2&lang=EN](http://optout.aboutads.info/?c=2&lang=EN) or, if you are in the European Economic Area (“EEA”), [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
-At that site you can also review the privacy policies of those Ad Servers. For users wishing to prevent use of their information for targeted advertising, we recommend opting out of Google (which powers direct advertising on Healthable sites) and/or “check all” to opt out of targeting from all participating companies. Healthable sites do not respond to web browser ‘do not track’ signals.
+**USE OF INFORMATION**
 
-California and Canadian users: California and Canadian law requires that we notify you about our practices related to disclosing or sharing information with third parties, which we do in this Privacy Policy. Our practices and opt-out mechanisms are not limited to Californian and Canadian users, but apply to all users. If you would like more information about any rights you may have, you may notify us via email.
+We may use information about you for various purposes, including to:
 
-**Use of ‘Cookies’**
+  * operate and improve our Services;
+  * provide and deliver products and services and send you related information;
+  * respond to your comments and questions and provide customer service;
+  * communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by Krafty Sprouts and our selected partners;
+  * process and deliver contest entries and rewards;
+  * monitor and analyze trends, usage and activities in connection with our Services;
+  * personalize and improve the Services and provide advertisements, content or features that match user profiles or interests; and
+  * carry out any other purpose for which the information was collected.
 
-Healthable and the partners listed above use browser cookies to anonymously associate collected information with a specific computer browser. If you have provided personally-identifiable information to a third-party, that third-party may be able to associate anonymous information collected on Healthable and stored via the third-party’s cookie with your identity, though utilizing this information to target specific individuals is considered against self-regulatory practices per the Network Advertising Initiative and is rarely if ever done. Cookies are a standard Internet technology that allows a web server to both store and retrieve information on a user’s system.
 
-Healthable and partner web servers automatically ask new users whether their browser will agree to accept a cookie file. If a visitor accepts, the web server will be able to identify the user’s cookie and associate collected information with that cookie either on the user’s computer or on a server.
 
-If a user accepts a Healthable or partner cookie, but would later like to remove it from his or her computer, he or she can just remove it from the browser. Use of cookies allows Healthable and its partners to monitor traffic flow, patterns of travel within and through the sites, and to dynamically personalize content and advertising.
+**SHARING OF INFORMATION**
 
-**Web Beacons**
+We may share information about you as follows:
 
-Some Healthable web pages use web beacons in conjunction with cookies to compile aggregate statistics about web site usage. A web beacon is an electronic image, called an action tag, or single pixel (1×1), or clear GIF. Web beacons enable Healthable or a partner to place or read a cookie (subject to the user’s permission per the above section), as well as collect the time and date of a page view, and a description of the page where the web beacon is placed. Users have the option to render some web beacons unusable by rejecting their associated cookies.
+  * with your consent or at your direction;
+  * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
+  * with other companies that we partner with to offer contests, surveys or questionnaires when you opt-in to this type of sharing (for California residents, please see “Your California Privacy Rights” below for more information);
+  * in response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * if we believe your actions are inconsistent with the spirit or language of our user agreements or policies or to protect the rights, property and safety of Krafty Sprouts or others; and
+  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.
 
-**Third-party Media Companies**
 
-We use third-party advertising companies and exchanges to serve ads. These third-party ad servers and exchange providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience.
 
-If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here: <http://networkadvertising.org/consumer/opt_out.asp>.
+We may also share aggregated or de-identified information that cannot reasonably be used to identify you.
 
-Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Healthable. If you click on an advertisement on Healthable and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you.
+**SOCIAL SHARING FEATURES**
 
-**Gathering and Use of Personally Identifiable Information**
+The Services may offer social plug-ins (such as the Facebook “Like” button) or other tools or features which let you share actions you take on our Services with other websites, and vice versa. The use of such social sharing features enables the sharing of certain information with your friends or the public, depending on the settings you establish with the third party that provides the feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.
 
-We collect personally identifiable information that you provide to us when you sign up for a newsletter or other service, when you register as a member of Healthable and/or when you update your member profile. We use the personally identifiable information that you supply to provide you with the specific services you select, to conduct market and advertising research where your personal information may be anonymized and matched with similarly anonymized third-party data to enable aggregate analysis, and to send you emails about web site updates, which may include new features and enhanced functionality.
+**SECURITY**
 
-Personally identifiable information is only shared with third parties bound by strict confidentiality and security requirements and under contract to Healthable, or in anonymized fashion as described above (for research) or when Healthable has your permission to do so. Healthable occasionally sponsors sweepstakes, contests, or other events that require the collection, processing, and storage of individual contact and demographic information that may or may not be shared with participating sponsors.
+Krafty Sprouts takes reasonable measures to help protect information we collect about you in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-As part of such a sponsored program, registrant’s personal contact and demographic information will not be released to third party or non-participating organizations without the user’s consent and Healthable will request that co-sponsors of such events maintain the privacy of the registrants’ information. When appropriate, users will be given the opportunity to receive information from third-party organizations in connection with services or events offered by Healthable.
+**DATA RETENTION**
 
-This option may be made available through Healthable’s registration and/or through registration processes maintained by a participating third-party. In all cases, you will be informed before you register for the event of service that a third party will be receiving the registration information you provide, and you will have the option not to participate in any service or event that requires third party involvement.
+We store the information we collect about you for as long as is necessary for the purpose(s) for which we originally collected it. We may retain certain information for legitimate business purposes or as required by law.
 
-As a general rule, Healthable does not make a practice of de-identifying personal information on any kind of regular schedule.
+**TRANSFER OF INFORMATION TO THE U.S. AND OTHER COUNTRIES**
 
-**With whom does Healthable share the information it collects?**
+Krafty Sprouts is based in the United States and we process and store information in the United States. Therefore, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.
 
-Other than when shared under contract and with confidentiality and security provisions or for research purposes as when your information is anonymized, Healthable does not provide third-party access to your personal information except in the aggregate and only after the information has been de-identified. Healthable will not disclose the contact or demographic information of any individual user to advertisers or any other outside organization without the express permission of the individual.
+**YOUR INFORMATION CHOICES AND CHANGES**
 
-Healthable uses third-party companies to serve ads when you visit our web site. These companies may use certain information about your visit to our web sites in order to provide advertisements to our web sites; our third-party advertiser may place or recognize a unique cookie on your browser.
+Promotional Communications.
 
-Healthable also does work with third-parties to “append” information to the personal information Healthable collects (e.g., to append age or gender based on a user’s email address). Healthable stores the information it collects on its servers and employs industry-recognized security measures to protect it. On a regular basis, Healthable does employ third-parties to verify and audit its security measures.
+You may opt out of receiving promotional emails from Krafty Sprouts by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about updates to our Services.
 
-**E-mail Choice/Opt-Out**
+**Your California Privacy Rights**
 
-Each e-mail newsletter and special offer sent by Healthable contains an easy, automated way for you to cease receiving our e-mail newsletters. One click of the mouse is all that is required — the system automatically excludes you from future mailings without needing additional human intervention. To unsubscribe, click the “unsubscribe” link in the footer of any e-mail newsletter from Healthable.
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at **legal@kraftysprouts.com**. However, please note that under the law, a business is not required to provide this information if it permits California residents to opt-in to, or opt-out of, this type of sharing. Krafty Sprouts qualifies for this alternative option by providing you with the ability to opt-in to such sharing at the time we collect information about you.
 
-If you do not have Internet access, please reply to your Healthable e-mail and type the word “UNSUBSCRIBE” in the subject line. Healthable will not rent, sell or barter your email address to third parties, nor will we share your name with marketing partners unless you check a special box on our site to request third-party offers sent from Healthable.
+**RESIDENTS OF THE EUROPEAN ECONOMIC AREAS**
 
-Members of Healthable may also elect to receive News Alerts and Blog Alerts via email. To change mailing frequency, or to unsubscribe from New Alerts or Blog Alerts, Healthable Members should log into their account to update their preferences.
+If you are a resident of the European Economic Area (EEA), you have certain rights and protections under the law regarding the processing of your personal data.
 
-**User Research**
+**Legal Basis for Processing**
 
-On occasion, Healthable will make available to potential advertisers and research firms aggregated results from research it has conducted on its user base. Once again, Healthable will only provide such demographic information on an aggregated basis and does not disclose individual member profiles without user consent.
+If you are a resident of the EEA, when we process your personal data we will only do so in the following situations:
 
-**Special Policy With Regards to Information from Children under Thirteen**
+  * We have your consent to share your personal data.
+  * We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the Krafty Sprouts Services you have requested).
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to communicate with you about changes to our Services and to provide, secure, and improve our Services.
 
-In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), Healthable will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will never voluntarily share their personally identifiable information with third parties, regardless of their stated preference given at registration.
 
-**Effective: July 2014. Material changes to this policy will be posted here.**
 
-If you have additional questions, please contact us [contact@healthable.org](mailto:contact@healthable.org). Please note that while we are happy to answer general questions, in order to protect the privacy of our users, we do not answer specific questions about the information collected about specific users (including users who may request access to the information collected on them).
+**Data Subject Requests**
 
-Online privacy is in the regulatory purview of the Federal Trade Commission. For more information or to lodge a complaint, please visit the FTC’s Consumer Response Center: <https://www.ftccomplaintassistant.gov/>
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you may contact us as indicated below.
+
+**Questions or Complaints**
+
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>.
+
+**CHANGES TO THIS POLICY**
+
+Krafty Sprouts may change this Policy from time to time. If we make any changes to this Policy, we will notify you by revising the date at the top of the Policy, and in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review this Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
+
+CONTACT US
+
+If you have any questions about this Policy, please contact us at:
+
+Krafty Sprouts
+
+Charles Abbey Close
+
+Port Harcourt, Rivers State, Nigeria.
+
+Phone: +2348181702565
+
+legal@kraftysprouts.com
+
+Follow us: @kraftysprouts on Twitter | Krafty Sprouts on Facebook
