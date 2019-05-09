@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saltstack.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621022240id_/https%3A//saltstack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saltstack.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509172817id_/https%3A//s.saltstack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SaltStack
 
@@ -34,7 +34,7 @@ Our site provides users the opportunity to opt out of receiving communications f
 
 **Rights to Your Data**
 
-At any time, you may request a copy of your data or request that your data be removed from our systems by visiting the [following form](https://learn.saltstack.com/unsubscribe/data-preferences) or by emailing us at [privacy@saltstack.com](mailto:privacy@saltstack.com). You may also contact us if you feel your data has been used in violation of this policy and can withdraw your consent for us to collect your data at any time. 
+At any time, you may request a copy of your data or request that your data be removed from our systems by visiting the [following form](https://learn.ssaltstack.wpengine.com/unsubscribe/data-preferences) or by emailing us at [privacy@saltstack.com](mailto:privacy@saltstack.com). You may also contact us if you feel your data has been used in violation of this policy and can withdraw your consent for us to collect your data at any time. 
 
 **How Do We Use the Information You Provide to Us?**
 
