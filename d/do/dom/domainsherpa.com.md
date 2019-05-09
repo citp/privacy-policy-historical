@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsherpa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095258id_/http%3A//www.domainsherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsherpa.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509135831id_/https%3A//www.domainsherpa.com/privacy) for the most accurate reproduction.*
 
 # DomainSherpa Privacy Policy
 
@@ -7,7 +7,7 @@ Last updated: January 3, 2011
 
 We recognize that your privacy is very important and take it seriously. This Privacy Policy describes DomainSherpa’s policies and procedures on the collection, use and disclosure of your information when you use the DomainSherpa Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/tos/).
 
- **Information Collection and Use**
+**Information Collection and Use**
 
 DomainSherpa uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track User Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws.
 
@@ -25,7 +25,7 @@ Clear GIFs Information: When you use the Service, we may employ clear GIFs (also
 
 Third Party Services: DomainSherpa may use Google Analytics or a similar analytics service provider to help understand use of the Service. Google Analytics and similar analytics service providers collect the information sent by your browser as part of a web page request, including cookies and your IP address. Google Analytics or a similar analytics service provider also receive this information and their use of it is governed by their Privacy Policies.
 
- **How We Share Your Information**
+**How We Share Your Information**
 
 Personally Identifiable Information: DomainSherpa may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of DomainSherpa (for instance, on servers or databases co-located with hosting providers).
 
@@ -39,25 +39,25 @@ Non-Personally Identifiable Information: We may share non-personally identifiabl
 
 DomainSherpa may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on DomainSherpa. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. DomainSherpa does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks DomainSherpa to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The DomainSherpa Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
- **How We Protect Your Information**
+**How We Protect Your Information**
 
 DomainSherpa uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to DomainSherpa or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 In the event that personal information is compromised as a result of a breach of security, DomainSherpa will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
- **Your Choices About Your Information**
+**Your Choices About Your Information**
 
 You may, of course, decline to submit personally identifiable information through the Service, in which case DomainSherpa may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account.
 
- **Children’s Privacy**
+**Children’s Privacy**
 
 Protecting the privacy of young children is especially important. DomainSherpa does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information.
 
- **Links to Other Web Sites**
+**Links to Other Web Sites**
 
 We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website’s own rules and policies.
 
- **Changes to Our Privacy Policy**
+**Changes to Our Privacy Policy**
 
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
@@ -65,11 +65,9 @@ If you have any questions about our practices or this privacy policy, please con
 privacy@domainsherpa.com, or send mail to:
 
 DomainSherpa  
-A Division of Web X.0 Media LLC  
 Attn: Privacy Agent  
-321 High School Rd NE, Suite D3-281  
-Bainbridge Island, WA 98110
+c/o Media Options S.A.  
+Plaza Caesar, Piso 2  
+Calle 76 Este, Panama City, Panama
 
 #### If you enjoyed this article, subscribe for updates (it's free)
-
-[](https://www.dnacademy.com/uniregistry)
