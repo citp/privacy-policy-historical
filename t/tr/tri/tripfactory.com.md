@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripfactory.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330153049id_/http%3A//tripfactory.com/gen/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripfactory.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509134444id_/https%3A//www.tripfactory.com/gen/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TripFactory.com
 
@@ -14,7 +14,7 @@ We collect information in two ways:
 
   1. When you give it to us or give us permission to obtain it.
 
-When you sign up for or use our products, you voluntarily give us certain information. This can include your name, profile photo, preferences, comments, likes, email address you used to sign up, and any other information you provide us. You also may give us permission to access your information in other services. For example, you may login to TripFactory using your Facebook account, which allows us to obtain information from those accounts (e.g., your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are. 
+When you sign up for or use our products, you voluntarily give us certain information. This can include your name, profile photo, preferences, comments, likes, email address you used to sign up, and any other information you provide us. **By calling us, or accepting our calls, you also consent to the call being recorded along with related data.** You also give us permission to access your information in other services. For example, you may login to TripFactory using your Facebook account, which allows us to obtain information from those accounts (e.g., your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are. 
 
   2. We also get technical information when you use our products or use websites or apps that have TripFactory features.
 
