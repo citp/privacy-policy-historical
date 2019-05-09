@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mailpoet.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818042920id_/https%3A//www.mailpoet.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailpoet.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510005700id_/https%3A//www.mailpoet.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - MailPoet
 
-_Last updated: 2018/05/19_
+_Last updated: 2019/02/04_
 
 This notice falls under the [General Data Protection Regulation](https://www.eugdpr.org/) (GDPR).
 
@@ -22,11 +22,30 @@ FRANCE
 
 
 
+Our logos can be downloaded [on this page](https://www.mailpoet.com/logo/).
+
 ## How To Contact Us
 
 We can be reached via this [contact form](https://www.mailpoet.com/support/sales-pre-sales-questions/) on our website.
 
+## Our Plugin Does _Not_ Collect Any Data
+
+The free and Premium MailPoet plugins do not collect any user data according to the [WordPress Plugins Guidelines](https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/#7-plugins-may-not-track-users-without-their-consent).
+
+We do collect data if you opt in to share your data in _Settings > Advanced _(Mixpanel, US) or if you use the MailPoet Sending Service.
+
+Some data will be recorded if you interact with the following user feedback tools in our plugin:
+
+  * The contact form at the bottom right of all pages which will identify you (Helpscout, US)
+  * The question “ _Would you recommend this plugin to a friend?_ ” will identify your website and email (Satismeter, Czech)
+  * The sidebar announcement panel will log your IP but will not identify you (GetBeamer, US)
+  * Videos guides will track views, but in a non identifiable way (Vimeo, US)
+
+
+
 ## Personal Data We Collect
+
+If you have created an account with MailPoet, we collect the following data.
 
   * Email address;
   * Names;
@@ -69,13 +88,16 @@ In Europe:
   * Payline, France;
   * Linode, England;
   * Lixium, France (holds no identifiable data);
-  * PollDaddy, Ireland.
+  * PollDaddy, Ireland;
+  * SatisMeter, Czech Republic;
+  * Hotjar, Malta.
 
 
 
 International:
 
   * Amazon S3, US (encrypted backups);
+  * GetBeamer, US;
   * Helpscout, US;
   * Stripe, US;
   * Baremetrics, US;
@@ -112,3 +134,7 @@ Data at MailPoet is not shared or sold with any third party.
 MailPoet staff and contractors have access to users data for the purpose of providing services.
 
 No personal identifiable data is stored on staff or contractor computers on a permanent basis. Contractors are requested to delete this data at the end of their mission.
+
+## Signup to our Newsletter
+
+Join 30,514 subscribers & get original tips and tricks delivered to your inbox each month.
