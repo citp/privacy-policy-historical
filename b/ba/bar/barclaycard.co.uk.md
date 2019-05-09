@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118082719id_/https%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509215041id_/https%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
 
 # Barclaycard Privacy and Cookie Policy | Barclaycard
 
@@ -83,7 +83,7 @@ You have rights relating to the way that we use your information, and can make c
 
 To use any of the rights set out above, or to discuss any other issue relating to your information, please contact us via the methods set out in the 'Contact us' section.
 
-If you have any concerns about the way we use your information, you have the right to complain to the Information Commissioner's Office, which regulates the use of personal information in the UK, by calling [0303 123 1113](tel:030320123201113 "Call the ICO on 0303 123 1113") or via [www.ico.org.uk/make-a-complaint/](https://ico.org.uk/make-a-complaint/ "View the Information Commissioner's Office website, opens in a new window, third party site").
+If you have any concerns about the way we use your information, you have the right to complain to the Information Commissioner's Office, which regulates the use of personal information in the UK, by calling [0303 123 1113](tel:03031231113 "Call the ICO on 0303 123 1113") or via [www.ico.org.uk/make-a-complaint/](https://ico.org.uk/make-a-complaint/ "View the Information Commissioner's Office website, opens in a new window, third party site").
 
 For further details on your rights concerning the way we use your information, and other ways to contact us, please see the full [Barclaycard Privacy Policy](https://web.archive.org/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf "View the Barclaycard privacy policy, opens in a new window") PDF (339KB).  
 
