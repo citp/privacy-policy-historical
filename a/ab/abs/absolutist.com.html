@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the absolutist.com privacy policy that was archived on 2018-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181218194442id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the absolutist.com privacy policy that was archived on 2019-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190509143357id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,8 +17,8 @@
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/themes/absolutist/script/jquery-1.11.0.min.js"></script>
     <script src="/themes/absolutist/script/jquery-ui.js" async=""></script>
     <script src="/themes/absolutist/script/lightbox.min.js" async=""></script>
-    <script src="//inhabitmainlive.akamaized.net/livefiles/v2.0/hb.js"></script>    	
-    <script type="text/javascript" src="/themes/absolutist/script/jquery.rating.min.js"></script>
+    <script src="/themes/absolutist/script/hb.js"></script>    	
+    <script type="text/javascript" src="/themes/absolutist/script/jquery.rating.min.js" async=""></script>
     <script type="application/ld+json">
 		{
 		  "@context" : "http://schema.org",
@@ -33,6 +33,106 @@
 		}
 	</script>
     <script type="text/javascript">
+		function Get(yourUrl){
+			var Httpreq = new XMLHttpRequest();
+			Httpreq.open("GET",yourUrl,false);
+			Httpreq.send(null);
+			return Httpreq.responseText;          
+		}
+		Array.prototype.in_array = function(p_val) {
+			for(var i = 0, l = this.length; i < l; i++)	{
+				if(this[i] == p_val) {
+					return true;
+				}
+			}
+			return false;
+		}
+		function getCookieCountry(){
+			var json_obj = JSON.parse(Get("https://viber.absolutist.com/get-country/"));
+			var EU = ["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IS","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE","CH","TR","GB"];
+			var urlRedirect = "";
+			if(json_obj.result.locale == "US") urlRedirect = "http://www.aboutads.info/choices/";
+			else if(EU.in_array(json_obj.result.locale)) urlRedirect = "http://www.youronlinechoices.eu/";
+			else urlRedirect = "https://cookies.insites.com/";
+			window.open(urlRedirect,'_blank');
+		}
+		var q = function(q, res){
+			if (document.querySelectorAll) {
+				res = document.querySelectorAll(q);
+			} else {
+				var d=document
+				, a=d.styleSheets[0] || d.createStyleSheet();
+				 a.addRule(q,'f:b');
+				for(var l=d.all,b=0,c=[],f=l.length;b<f;b++)
+					l[b].currentStyle.f && c.push(l[b]);
+				a.removeRule(0);
+				res = c;
+			}
+			return res;
+		}
+		, _has = function(obj, key) {
+			return Object.prototype.hasOwnProperty.call(obj, key);
+		};
+		function loadImage (el, fn) {
+			var img = new Image()
+			, src = el.getAttribute('data-src');
+			img.onload = function() {
+				if (!! el.parent)
+					el.parent.replaceChild(img, el)
+				else
+					el.src = src;
+				fn? fn() : null;
+			}
+			img.src = src;
+		}
+		function elementInViewport(el) {
+			var rect = el.getBoundingClientRect()
+			return (
+				rect.top    >= 0
+				&& rect.left   >= 0
+				&& rect.top <= (window.innerHeight || document.documentElement.clientHeight)
+			)
+		}
+		function addEvent( obj, type, fn ) {
+			if ( obj.attachEvent ) {
+				obj['e'+type+fn] = fn;
+				obj[type+fn] = function(){obj['e'+type+fn]( window.event );};
+				obj.attachEvent( 'on'+type, obj[type+fn] );
+			} else {
+				obj.addEventListener( type, fn, false );
+			}
+		}
+		var processScroll = function(){
+			console.log('scroll');
+			for (var i = 0; i < images.length; i++) {
+				if (elementInViewport(images[i])) {
+					loadImage(images[i], function () {
+						images.splice(i, i);
+					});
+				}
+			};
+		};
+		document.addEventListener('DOMContentLoaded', function(){
+			var images = new Array()
+			, query = q('img.lazy')
+			, processScroll = function(){
+				console.log('scroll');
+				for (var i = 0; i < images.length; i++) {
+					if (elementInViewport(images[i])) {
+						loadImage(images[i], function () {
+							images.splice(i, i);
+						});
+					}
+				};
+			} ;
+			// Array.prototype.slice.call is not callable under our lovely IE8
+			for (var i = 0; i < query.length; i++) {
+				images.push(query[i]);
+			};
+			processScroll();
+			setTimeout(processScroll, 1000);
+			addEvent(document, 'scroll', processScroll);
+		});
 		<!-- Begin
 		var expDays = 1;
 		function GetCookie (name) { 
@@ -183,8 +283,11 @@
 		}
       });
     </script>
+    <style>
+		#topGames {margin-top:5px !important;}
+    </style>
     <!--PAGE:HEADDATA-->
-    <style>body {background:#313558 url('/themes/absolutist/img/substrate/365-my-daily-hidden.jpg?1539073279') top center no-repeat; background-attachment:fixed;}</style>
+    <style>body {background:#1a141b url('/themes/absolutist/img/substrate/Apothecarium_en.jpg?1542789080') top center no-repeat; background-attachment:fixed;}</style>
  <script type="text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -197,12 +300,12 @@
 </script>
 <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
   <script type="text/javascript">
-      window.cookieconsent_options = {"message":"Our website uses cookies to provide better user experience. By continuing to browse the site, you agree to our use of cookies.","dismiss":"Ok","learnMore":"Learn more.","link":"http://cookies.insites.com/","theme":"light-bottom"};
+      window.cookieconsent_options = {"message":"Our website uses <a onClick=\"getCookieCountry();\" href=\"#\">cookies</a> to provide better user experience. By continuing to browse the site, you agree to our use of cookies, as well as our <a target=\"_blank\" href=\"https://absolutist.com/privacy-policy/\">Privacy Policy</a>.","dismiss":"Ok","theme":"light-bottom"};
       </script> 
       <script type="text/javascript" src="/themes/absolutist/script/cookieconsent.min.js"></script>
       <!-- End Cookie Consent plugin -->
   <link rel="stylesheet" type="text/css" href="//web.archive.org/web/20170325181837/http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/light-bottom.css"></head>
-<body onload="checkCount()" style=""><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">Ok</a><p class="cc_message">Our website uses cookies to provide better user experience. By continuing to browse the site, you agree to our use of cookies. <a data-cc-if="options.link" target="_blank" class="cc_more_info" href="http://cookies.insites.com/">Learn more.</a></p><a class="cc_logo" target="_blank" href="https://web.archive.org/web/20170325181837/http://silktide.com/cookieconsent">Cookie Consent plugin for the EU cookie law</a></div></div>
+<body onload="checkCount()"><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">Ok</a><p class="cc_message">Our website uses <a onclick="getCookieCountry();" href="#">cookies</a> to provide better user experience. By continuing to browse the site, you agree to our use of cookies, as well as our <a target="_blank" href="https://absolutist.com/privacy-policy/">Privacy Policy</a>. </p><a class="cc_logo" target="_blank" href="https://web.archive.org/web/20170325181837/http://silktide.com/cookieconsent">Cookie Consent plugin for the EU cookie law</a></div></div>
 	<div id="popup" style="display:none;">
 		<div id="pushMessage" style="background:white none repeat scroll 0 0;border:1px solid #c8c8c8;border-radius:3px;bottom:15px;font-family:'Arial',sans-serif;font-size:12px;padding:20px 10px 10px;position:fixed;right:15px;text-align:center;transition:right 1s ease-in-out 0s;width:400px;z-index:10000;box-shadow:0 0 10px rgba(0,0,0,0.5);padding:10px;color:#000;">
 			<div style="bottom: 15px; display: block;">		
@@ -239,7 +342,6 @@
         <div class="social">
           <a href="https://www.facebook.com/Absolutist.games" target="_blank" class="facebook" title="facebook"></a>
           <a href="https://twitter.com/AbsolutistGame" target="_blank" class="twitter" title="twitter"></a>
-          <a href="https://plus.google.com/u/0/113294275757831098687/posts" target="_blank" class="googleplus" title="plus.google"></a>
         </div>
         <!-- Search Widget -->          
         <div id="search">
@@ -263,10 +365,10 @@
         <div id="subLinkLeft" style="left:280px;"></div>
         <div id="subLinkRight" style="right:90px;"></div>
 <!-- Substrate Links -->
-<a href="http://absolutist.com/ios/365-my-daily-hidden/" target="_blank" style="position:absolute; top:0px; height:115px; left:350px; width:450px;" onclick="ga('send', 'event', 'numbers_button', 'click', 'gplay_numbers', 1);"></a>
+<a href="http://absolutist.com/android/apothecarium-the-renaissance-of-evil/" target="_blank" style="position:absolute; top:0px; height:115px; left:350px; width:450px;" onclick="ga('send', 'event', 'numbers_button', 'click', 'gplay_numbers', 1);"></a>
 <div id="subLinks" style="position:absolute; top:0px; height:41px; left:830px;">
   
-<a href="https://itunes.apple.com/app/apple-store/id1325586108?pt=68276&amp;ct=absback&amp;mt=8" target="_blank" style="display:block; padding-top:8px;"><img src="/themes/absolutist/img/store/btn_appstore.png" height="41" width="120" alt="play!"></a><a href="https://play.google.com/store/apps/details?id=com.absolutist.hidden365&amp;referrer=utm_source=absback&amp;utm_medium=button" target="_blank" style="display:block; padding-top:4px;"><img src="/themes/absolutist/img/store/btn_googleplay.png" height="41" width="120" alt="play!"></a>
+<a href="https://play.google.com/store/apps/details?id=com.absolutist.apothecarium&amp;referrer=utm_source=absback&amp;utm_medium=button" target="_blank" style="display:block; padding-top:8px;"><img src="/themes/absolutist/img/store/btn_googleplay.png" height="41" width="120" alt="play!"></a><a href="https://itunes.apple.com/app/apple-store/id1438233139?pt=68276&amp;ct=absback&amp;mt=8" target="_blank" style="display:block; padding-top:4px;"><img src="/themes/absolutist/img/store/btn_appstore.png" height="41" width="120" alt="play!"></a>
 </div>
 <!-- End of Substrate Links -->
       </div>
@@ -392,7 +494,7 @@ $(document).ready(function () {
 <p><strong>Social Networking Sites</strong></p>
 <p>If you access our games via a third party social networking site (e.g. Facebook), Absolutist may receive information about your social networking site profile, including without limitation your associated email address, user ID, profile and user name, profile photo and friend list (to the extant that you use viral features inside our social games).</p>
 <p><strong>Mobile devices</strong></p>
-<p>If you install or otherwise access our games via a mobile device, we and our service providers may receive information about your location (based on your IP address) and your mobile device (e.g. your device model, current OS version, and UI language), and app usage data, including Google Advertising ID.</p>
+<p>If you install or otherwise access our games via a mobile device, we and our service <a href="https://absolutist.com/providers/" target="_blank">providers</a> may receive information about your location (based on your IP address) and your mobile device (e.g. your device model, current OS version, and UI language), and app usage data, including Google Advertising ID.</p>
 <p><strong>Use of information</strong></p>
 <p>We use third-party advertising companies to serve ads when you visit our website, or play our social or mobile games. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p>
 <p>We may also use your app usage data for analytical purposes to further upgrade user experience in our games. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see below for contact information.</p>
@@ -485,7 +587,7 @@ arkdisplay.show();
     
     <div class="clear"></div>
   </div>
-  <div class="bottomBar">© Absolutist.com, 2000 - 2018</div>
+  <div class="bottomBar">© Absolutist.com, 2000 - 2019</div>
 </div>
       </div>
     </div>
