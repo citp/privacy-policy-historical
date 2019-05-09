@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearnews.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008121106id_/https%3A//www.gearnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearnews.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509111750id_/https%3A//www.gearnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - gearnews.com
 
@@ -128,7 +128,7 @@ Our website utilises Google Analytics, a web analytics tool by Google Inc. (“G
 
 As an alternative to installing the browser plug-in, particularly in internet browsers on mobile devices, you can prevent the collection of data by Google Analytics by clicking this link:
 
-[Deactivate Google Analytics](https://web.archive.org/web/20181008121106id_/https://www.gearnews.com/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
+[Deactivate Google Analytics](https://web.archive.org/web/20190509111750id_/https://www.gearnews.com/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
 
 This will save an “opt-out” cookie to your device, meaning that none of your data will be collected on this website by Google Analytics.
 
