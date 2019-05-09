@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenithnovels.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105173505id_/http%3A//zenithnovels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenithnovels.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509174859id_/http%3A//zenithnovels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zenith Novels
 
