@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2shared.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626061203id_/https%3A//www.2shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2shared.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509234956id_/https%3A//www.2shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 2shared - Privacy Policy
 
