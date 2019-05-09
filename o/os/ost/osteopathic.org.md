@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osteopathic.org privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831122512id_/https%3A//osteopathic.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osteopathic.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509125626id_/https%3A//osteopathic.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Osteopathic Association
 
@@ -111,7 +111,7 @@ The AOA may also use PII provided by you to conduct research, to improve our Sit
 
 Managing your PII
 
-You can manage your profile and email preferences, or request to be removed from any non-transactional communication from the AOA by contacting us using the information in the [ **Contac** **t** **Us**](http://osteopathic.org/about/contact-us/) section of Osteopathic.org. California residents have additional considerations per California’s “Shine the Light” law.
+You can manage your profile and email preferences, or request to be removed from any non-transactional communication from the AOA by contacting us using the information in the [ **Contac** **t** **Us**](https://osteopathic.org/about/contact-us/) section of Osteopathic.org. California residents have additional considerations per California’s “Shine the Light” law.
 
 You have the right to:
 
