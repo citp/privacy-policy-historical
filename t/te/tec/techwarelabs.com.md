@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwarelabs.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226221012id_/http%3A//www.techwarelabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwarelabs.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509171457id_/http%3A//www.techwarelabs.com/privacy-policy) for the most accurate reproduction.*
 
 # TechwareLabs Privacy Policy - TechwareLabs
 
