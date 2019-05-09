@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makinggameofthrones.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127181519id_/http%3A//www.hbo.com/html/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makinggameofthrones.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509074604id_/http%3A//www.hbo.com/html/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | HBO
 
@@ -18,7 +18,7 @@ Service = all of our consumer-facing HBO websites, services and applications, as
 
 3\. **What is the Effective Date?**
 
-The Effective Date of this Policy is November 7, 2018. You can see a copy of the previous policy [here](https://web.archive.org/web/20181215102856id_/https://www.hbo.com/privacy-policy-previous)
+The Effective Date of this Policy is November 7, 2018. You can see a copy of the previous policy [here](https://web.archive.org/web/20190520110231id_/https://www.hbo.com/privacy-policy-previous)
 
 4.  **Has the Policy changed from the previous version?**
 
