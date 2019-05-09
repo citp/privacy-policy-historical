@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the multiplex.global privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084626id_/http%3A//www.multiplex.global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplex.global privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509075538id_/https%3A//www.multiplex.global/global-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Multiplex
+# Global Privacy Policy – Multiplex
 
 Brookfield understands and appreciates that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. This Policy explains how we will deal with your personal information as you interact with us.
 
@@ -8,7 +8,7 @@ Brookfield understands and appreciates that your privacy is very important to yo
 
 Personal information is any information that can be used to personally identify you. We will collect personal information from you so we can provide you with products and services that you have requested or which you have enquired about, and any additional information necessary to deliver those products and services. We may also collect your personal information to respond to your enquiries and so we can let you know about other products, services, or opportunities you might be interested in.
 
-**What personal information do we collect and hold?**  
+ **What personal information do we collect and hold?**  
 We may collect the following types of personal information:
 
   * name;
@@ -24,7 +24,7 @@ We may collect the following types of personal information:
 
 If you have invested in a managed investment scheme, we are required to collect additional personal and sensitive information under the Income Tax Assessment Act and Anti Money Laundering and Counter Terrorism Financing (AML/CTF) Act.
 
-**How do we collect your personal information?**  
+ **How do we collect your personal information?**  
 We collect your personal information directly from you unless it is unreasonable or impracticable to do so. When collecting personal information from you, we may collect in ways including:
 
   * through your access and use of our websites;
@@ -36,7 +36,7 @@ We collect your personal information directly from you unless it is unreasonable
 
 In some situations, we may collect information about you from third parties such as your legal or personal representative, your financial adviser, or publicly available sources of information. We will only collect your information from third parties when we reasonably believe that you have consented to these sources collecting and disclosing the information.
 
-**What happens if we can’t collect your personal information?**  
+ **What happens if we can’t collect your personal information?**  
 If you do not provide us with the personal information described above, some or all of the following may happen:
 
   * we may not be able to provide the requested products or services to you; or
@@ -60,7 +60,7 @@ In line with modern business practices and to assist you with your requirements 
 
 Your personal information will not be shared, sold, or disclosed other than as described in this Policy.
 
-**Direct marketing materials**  
+ **Direct marketing materials**  
 We may send you direct marketing, communications and information about our products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS and email, in accordance with applicable marketing laws, such as the Spam Act 2003 (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. You may opt-out of receiving marketing communications from us by contacting us (see the details below) and we will then ensure that your name is removed from our mailing list.
 
 ##### Protecting your personal information and keeping it accurate and up-to-date
@@ -73,10 +73,10 @@ If you believe that your personal information is incorrect or out of date you ca
 
 Please be aware that some information cannot be amended or deleted sue to legal reasons. If we deny your request, we will inform you of the reasons for this decision.
 
-**Our Websites**  
+ **Our Websites**  
 Our websites have electronic security systems in place, including firewalls. Depending on the Group organisation with which you deal, other security measures may also be in place to control access to your personal information.
 
-**Links to Other Sites**  
+ **Links to Other Sites**  
 You may be able to access external websites by clicking on links we have provided. Those other websites are not subject to our privacy standards, policies and procedures. You will need to contact or review those websites directly to determine what security measures they have in place.
 
 When we have personal information about you we will make every reasonable effort to make sure that the information is secure and is used or disclosed consistently with the Privacy Principles.
@@ -95,7 +95,7 @@ If you have any questions about privacy, you can call our offices. Our staff wil
 
 To request access to personal information held about you in Brookfield’s records, to make a privacy related complaint, to obtain more information about this Privacy Policy or to enquire about privacy matters generally, please contact the Brookfield Privacy Officer as follows:
 
-**Mail:** GPO Box 172 SYDNEY NSW 2000  
+ **Mail:** GPO Box 172 SYDNEY NSW 2000  
 **Email:** [privacy@multiplex.global](mailto:privacy@multiplex.global)  
 **Telephone:** 02 9322 2000  
 **Fax:** 02 9322 2001
