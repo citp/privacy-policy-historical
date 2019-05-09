@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mormonchannel.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005230554id_/https%3A//www.lds.org/services/platform/v3/privacy-policy%3Flang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormonchannel.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509065835id_/https%3A//www.lds.org/services/platform/v3/resources/privacy-policy%3Flang%3Deng) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -20,7 +20,7 @@ a.   _Actively submitted data_. You submit personal data to us when you join t
 
 b.  _Data we obtain from third parties and passively submitted data_. When local law permits, you may submit personal data, including contact information about someone other than yourself (in other words, a third party) to allow us to make contact with that person, make a delivery, or otherwise meet your request. When providing personal data about anyone other than yourself, you must first obtain the other person’s informed consent if his or her consent is legally required.
 
-If you or someone else has provided us with your personal contact information and you would like to request that we do not contact you further, please follow the unsubscribe or opt-out procedures provided on the specific site, newsletter, email notification, or please contact us at [DataPrivacyOfficer@ldschurch.org](mailto:DataPrivacyOfficer@ldschurch.org).
+If you or someone else has provided us with your personal contact information and you would like to request that we do not contact you further, please follow the unsubscribe or opt-out procedures provided on the specific site, newsletter, email notification, or please contact us at [DataPrivacyOfficer@churchofjesuschrist.org](mailto:DataPrivacyOfficer@churchofjesuschrist.org).
 
 We may process and make publicly available personal data obtained from published sources. We may process and publish living information in compliance with applicable local laws.
 
@@ -80,7 +80,7 @@ This Notice is effective September 1, 2018 and may be amended from time to time.
 
 We have a global chief data protection officer who can answer questions about data privacy or security issues. Inquiries concerning this Notice or the security of personal data that we process may be sent through email, fax, or mail:
 
-Email:             [DataPrivacyOfficer@ldschurch.org](mailto:DataPrivacyOfficer@ldschurch.org)  
+Email:             [DataPrivacyOfficer@churchofjesuschrist.org](mailto:DataPrivacyOfficer@churchofjesuschrist.org)  
 Fax:                 +1-801-240-1187  
 Address:         Data Privacy Office  
                         50 E. North Temple Street  
