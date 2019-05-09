@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the aescripts.com privacy policy that was archived on 2018-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181128123605id_/https%3A//aescripts.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aescripts.com privacy policy that was archived on 2019-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190509143850id_/https%3A//aescripts.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUDU1JbARABXFNaBwMCXg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 <title>Privacy Policy  - aescripts + aeplugins - aescripts.com</title>
 <meta name="description" content="&nbsp;">
 
@@ -13,40 +13,40 @@
 <link rel="icon" href="https://aescripts.com/skin/frontend/default/pluginsio/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="https://aescripts.com/skin/frontend/default/pluginsio/favicon.ico" type="image/x-icon">
 <link rel="image_src" type="image/jpeg" href="http://www.domain.com/path/icon-facebook.gif">
-<link rel="stylesheet" type="text/css" href="https://aescripts.com/js/solrsearch/autocomplete.css?v=51">
-<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/css/styles.css?v=51" media="all">
-<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/aw_blog/css/style.css?v=51" media="all">
-<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/default/css/downloadplus.css?v=51" media="all">
-<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/css/magestore/giftvoucher.css?v=51" media="all">
-<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/default/iceberg/videogallery/css/videogallery.css?v=51" media="all">
-<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/default/solrsearch/css/style.css?v=51" media="all">
-<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/css/print.css?v=51" media="print">
-<script type="text/javascript" src="https://aescripts.com/js/prototype/prototype.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/lib/ccard.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/prototype/validation.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/scriptaculous/builder.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/scriptaculous/effects.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/scriptaculous/controls.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/varien/js.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/varien/form.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/mage/translate.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/mage/cookies.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/iceberg/lightbox/lightbox.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/skin/frontend/default/pluginsio/js/pluginsio.js?v=51" rel="main"></script>
-<script type="text/javascript" src="https://aescripts.com/js/ebizmarts/mailchimp/campaignCatcher.js?v=51"></script>
-<script type="text/javascript" src="https://aescripts.com/js/jquery/jquery-1.11.1.min.js?v=51"></script>
-<script type="text/javascript" src="https://aescripts.com/js/jquery/no-conflict.js?v=51"></script>
-<script type="text/javascript" src="https://aescripts.com/js/hackathon/HoneySpam/honeyspam.js?v=51"></script>
-<script type="text/javascript" src="https://aescripts.com/js/solrsearch/autocomplete.js?v=51"></script>
-<script type="text/javascript" src="https://aescripts.com/skin/frontend/default/pluginsio/js/ajaxsearch.js?v=51"></script>
-<script type="text/javascript" src="https://aescripts.com/skin/frontend/default/pluginsio/js/magestore/giftvoucher.js?v=51"></script>
+<link rel="stylesheet" type="text/css" href="https://aescripts.com/js/solrsearch/autocomplete.css?v=58">
+<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/css/styles.css?v=58" media="all">
+<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/aw_blog/css/style.css?v=58" media="all">
+<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/default/css/downloadplus.css?v=58" media="all">
+<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/css/magestore/giftvoucher.css?v=58" media="all">
+<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/default/iceberg/videogallery/css/videogallery.css?v=58" media="all">
+<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/default/solrsearch/css/style.css?v=58" media="all">
+<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/css/print.css?v=58" media="print">
+<script type="text/javascript" src="https://aescripts.com/js/prototype/prototype.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/lib/ccard.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/prototype/validation.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/scriptaculous/builder.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/scriptaculous/effects.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/scriptaculous/controls.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/varien/js.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/varien/form.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/mage/translate.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/mage/cookies.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/iceberg/lightbox/lightbox.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/skin/frontend/default/pluginsio/js/pluginsio.js?v=58" rel="main"></script>
+<script type="text/javascript" src="https://aescripts.com/js/ebizmarts/mailchimp/campaignCatcher.js?v=58"></script>
+<script type="text/javascript" src="https://aescripts.com/js/jquery/jquery-1.11.1.min.js?v=58"></script>
+<script type="text/javascript" src="https://aescripts.com/js/jquery/no-conflict.js?v=58"></script>
+<script type="text/javascript" src="https://aescripts.com/js/hackathon/HoneySpam/honeyspam.js?v=58"></script>
+<script type="text/javascript" src="https://aescripts.com/js/solrsearch/autocomplete.js?v=58"></script>
+<script type="text/javascript" src="https://aescripts.com/skin/frontend/default/pluginsio/js/ajaxsearch.js?v=58"></script>
+<script type="text/javascript" src="https://aescripts.com/skin/frontend/default/pluginsio/js/magestore/giftvoucher.js?v=58"></script>
 <link href="https://aescripts.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
 <link href="https://aescripts.com/learn/rss/index/store_id/1/" title="Learn" rel="alternate" type="application/rss+xml">
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/css/styles-ie.css?v=51" media="all" />
+<link rel="stylesheet" type="text/css" href="https://aescripts.com/skin/frontend/default/pluginsio/css/styles-ie.css?v=58" media="all" />
 <![endif]-->
 <!--[if lt IE 9]>
-<script type="text/javascript" src="https://aescripts.com/skin/frontend/default/pluginsio/js/html5shiv.js?v=51"></script>
+<script type="text/javascript" src="https://aescripts.com/skin/frontend/default/pluginsio/js/html5shiv.js?v=58"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -81,11 +81,12 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-    <meta property="fb:admins" content="718831457">
-
-                    
-    
-    <script type="text/javascript">//<![CDATA[
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@aescripts">
+        <meta name="twitter:title" content="Privacy Policy  - aescripts + aeplugins - aescripts.com">
+    <meta name="twitter:description" content="The best plugins and scripts for 3D, VFX and motion graphics software including Adobe After Effects, Cinema 4D and Premiere Pro. Lots of video tutorials showing how to use the tools provided.">
+    <meta name="twitter:image" content="https://aescripts.com/skin/frontend/default/pluginsio/images/logo.png">
+<script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script>
 <script type="application/ld+json">
@@ -145,16 +146,16 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 		
 		            <ul id="latest">
                 <span>Latest </span>
-                                    <li><a href="https://aescripts.com/boxcam/">Boxcam 2</a></li>
-                                    <li><a href="https://aescripts.com/learn/datamosh-picture-glitching-tutorial/">Datamosh Picture Glitching Tutorial</a></li>
-                                    <li><a href="https://aescripts.com/file-hunter/">File Hunter</a></li>
-                                    <li><a href="https://aescripts.com/learn/cyber-week-sale/">Cyber Week Sale: Everything 25% OFF</a></li>
-                                    <li><a href="https://aescripts.com/space-curves/">Space Curves</a></li>
-                                    <li><a href="https://aescripts.com/learn/stardust-biology-after-effects-tutorial/">Stardust Biology After Effects Tutorial</a></li>
-                                    <li><a href="https://aescripts.com/project-info-list-exporter/">Project Info List Exporter 2</a></li>
-                                    <li><a href="https://aescripts.com/learn/360---landscapes-with-freeform-pro--geolayers-2--after-effects-cc-2019/">360° Landscapes with FreeForm Pro + GEOLayers 2 + After Effects CC 2019</a></li>
-                                    <li><a href="https://aescripts.com/motion-designers-bundle-for-animation-composer/">Motion Designer's Bundle v3 for Animation Composer</a></li>
-                                    <li><a href="https://aescripts.com/learn/poly-dancer/">Poly Dancer</a></li>
+                                    <li><a href="https://aescripts.com/premiere-pro-shortcut-icons/">Premiere Pro Shortcut Icons</a></li>
+                                    <li><a href="https://aescripts.com/learn/summer-of-sales-2019/">Summer of Sales 2019</a></li>
+                                    <li><a href="https://aescripts.com/after-effects-shortcut-icons/">After Effects Shortcut Icons</a></li>
+                                    <li><a href="https://aescripts.com/learn/yellow-lab---reel/">Yellow Lab - Reel</a></li>
+                                    <li><a href="https://aescripts.com/extended-coffee-break/">Extended Coffee Break</a></li>
+                                    <li><a href="https://aescripts.com/learn/easily-retime-voice-overs-and-audio-in-after-effects/">Easily Retime Voice Overs and Audio in After Effects</a></li>
+                                    <li><a href="https://aescripts.com/marker-typer/">Marker Typer</a></li>
+                                    <li><a href="https://aescripts.com/learn/how-to-add-scars--tattoos-and-digital-makeup---after-effects-and-mocha-pro/">How to add Scars, Tattoos &amp; Digital Makeup - After Effects &amp; Mocha Pro</a></li>
+                                    <li><a href="https://aescripts.com/fx-magicoin/">FX MagiCoin</a></li>
+                                    <li><a href="https://aescripts.com/learn/center-dynamic-layouts-easily-in-after-effects/">Center Dynamic Layouts Easily in After Effects</a></li>
                             </ul>
 		
         	</div>
@@ -176,10 +177,6 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 
 //]]>
 </script>
-    <div class="wrapper">
-        <div class="sitewide-banner">
-            <div style="text-align: center;"><strong><a style="color: #f5f5f5;" href="/?ref=sitewide_banner">Save 25% off everything* with code: CYBER</a></strong></div>        </div>
-    </div>
 <header>
     <div class="header wrapper">
 	
@@ -339,22 +336,26 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Animation Composer</span>
 </a>
 </li><li class="level3 nav-2-3-19-3">
+<a href="https://aescripts.com/after-effects/animation/assistant/audio/">
+<span>Audio</span>
+</a>
+</li><li class="level3 nav-2-3-19-4">
 <a href="https://aescripts.com/after-effects/animation/assistant/monkey/">
 <span>Monkey</span>
 </a>
-</li><li class="level3 nav-2-3-19-4">
+</li><li class="level3 nav-2-3-19-5">
 <a href="https://aescripts.com/after-effects/animation/assistant/rigfast/">
 <span>RigFast</span>
 </a>
-</li><li class="level3 nav-2-3-19-5">
+</li><li class="level3 nav-2-3-19-6">
 <a href="https://aescripts.com/after-effects/animation/assistant/squash-and-stretch/">
 <span>Squash &amp; Stretch</span>
 </a>
-</li><li class="level3 nav-2-3-19-6">
+</li><li class="level3 nav-2-3-19-7">
 <a href="https://aescripts.com/after-effects/animation/assistant/text/">
 <span>Text</span>
 </a>
-</li><li class="level3 nav-2-3-19-7 last">
+</li><li class="level3 nav-2-3-19-8 last">
 <a href="https://aescripts.com/after-effects/animation/assistant/ui-ux-fui/">
 <span>UI/UX/FUI</span>
 </a>
@@ -373,11 +374,11 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Character Animation</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-3-22-8 first">
+<li class="level3 nav-2-3-22-9 first">
 <a href="https://aescripts.com/after-effects/animation/character-animation/rigging/">
 <span>Rigging</span>
 </a>
-</li><li class="level3 nav-2-3-22-9 last">
+</li><li class="level3 nav-2-3-22-10 last">
 <a href="https://aescripts.com/after-effects/animation/character-animation/lip-sync/">
 <span>Lip-Sync</span>
 </a>
@@ -451,7 +452,7 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Animated Textures</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-4-37-10 first last">
+<li class="level3 nav-2-4-37-11 first last">
 <a href="https://aescripts.com/after-effects/animation-libraries/animated-textures/set-matte/">
 <span>Set Matte</span>
 </a>
@@ -462,7 +463,7 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Animated Typefaces</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-4-38-11 first last">
+<li class="level3 nav-2-4-38-12 first last">
 <a href="https://aescripts.com/after-effects/animation-libraries/animated-typefaces/jsx-typeface/">
 <span>JSX Typeface</span>
 </a>
@@ -473,14 +474,18 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Animation Composer</span>
 </a>
 </li><li class="level2 nav-2-4-40">
+<a href="https://aescripts.com/after-effects/animation-libraries/character-rigging/">
+<span>Character Rigging</span>
+</a>
+</li><li class="level2 nav-2-4-41">
 <a href="https://aescripts.com/after-effects/animation-libraries/fui/">
 <span>Fantasy/Fake User Interface (FUI)</span>
 </a>
-</li><li class="level2 nav-2-4-41">
+</li><li class="level2 nav-2-4-42">
 <a href="https://aescripts.com/after-effects/animation-libraries/motion-curves/">
 <span>Motion Curves</span>
 </a>
-</li><li class="level2 nav-2-4-42 last">
+</li><li class="level2 nav-2-4-43 last">
 <a href="https://aescripts.com/after-effects/animation-libraries/squash-and-stretch/">
 <span>Squash &amp; Stretch</span>
 </a>
@@ -495,137 +500,141 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Automation</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-6-43 first">
+<li class="level2 nav-2-6-44 first">
 <a href="https://aescripts.com/after-effects/automation/alignment/">
 <span>Alignment</span>
 </a>
-</li><li class="level2 nav-2-6-44">
+</li><li class="level2 nav-2-6-45">
+<a href="https://aescripts.com/after-effects/automation/audio/">
+<span>Audio</span>
+</a>
+</li><li class="level2 nav-2-6-46">
 <a href="https://aescripts.com/after-effects/automation/edit-scene-detection/">
 <span>Edit/Scene Detection</span>
 </a>
-</li><li class="level2 nav-2-6-45">
+</li><li class="level2 nav-2-6-47">
 <a href="https://aescripts.com/after-effects/automation/camera/">
 <span>Camera</span>
 </a>
-</li><li class="level2 nav-2-6-46">
+</li><li class="level2 nav-2-6-48">
 <a href="https://aescripts.com/after-effects/automation/color/">
 <span>Color</span>
 </a>
-</li><li class="level2 nav-2-6-47">
+</li><li class="level2 nav-2-6-49">
 <a href="https://aescripts.com/after-effects/automation/comps/">
 <span>Comps</span>
 </a>
-</li><li class="level2 nav-2-6-48">
+</li><li class="level2 nav-2-6-50">
 <a href="https://aescripts.com/after-effects/automation/data/">
 <span>Data</span>
 </a>
-</li><li class="level2 nav-2-6-49 parent">
+</li><li class="level2 nav-2-6-51 parent">
 <a href="https://aescripts.com/after-effects/automation/effects/">
 <span>Effects</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-6-49-12 first last">
+<li class="level3 nav-2-6-51-13 first last">
 <a href="https://aescripts.com/after-effects/automation/effects/pseudo-effects/">
 <span>Pseudo Effects</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-2-6-50">
+</li><li class="level2 nav-2-6-52">
 <a href="https://aescripts.com/after-effects/automation/expressions/">
 <span>Expressions</span>
 </a>
-</li><li class="level2 nav-2-6-51">
+</li><li class="level2 nav-2-6-53">
 <a href="https://aescripts.com/after-effects/automation/file-handling/">
 <span>File Handling</span>
 </a>
-</li><li class="level2 nav-2-6-52">
+</li><li class="level2 nav-2-6-54">
 <a href="https://aescripts.com/after-effects/automation/generate/">
 <span>Generate</span>
 </a>
-</li><li class="level2 nav-2-6-53">
+</li><li class="level2 nav-2-6-55">
 <a href="https://aescripts.com/after-effects/automation/import-replace/">
 <span>Import/Replace</span>
 </a>
-</li><li class="level2 nav-2-6-54">
+</li><li class="level2 nav-2-6-56">
 <a href="https://aescripts.com/after-effects/automation/keyframes/">
 <span>Keyframes</span>
 </a>
-</li><li class="level2 nav-2-6-55">
+</li><li class="level2 nav-2-6-57">
 <a href="https://aescripts.com/after-effects/automation/layers/">
 <span>Layers</span>
 </a>
-</li><li class="level2 nav-2-6-56">
+</li><li class="level2 nav-2-6-58">
 <a href="https://aescripts.com/after-effects/automation/masks-shape-layers/">
 <span>Masks/Shape Layers</span>
 </a>
-</li><li class="level2 nav-2-6-57">
+</li><li class="level2 nav-2-6-59">
 <a href="https://aescripts.com/after-effects/automation/markers/">
 <span>Markers</span>
 </a>
-</li><li class="level2 nav-2-6-58">
+</li><li class="level2 nav-2-6-60">
 <a href="https://aescripts.com/after-effects/automation/paint/">
 <span>Paint</span>
 </a>
-</li><li class="level2 nav-2-6-59">
+</li><li class="level2 nav-2-6-61">
 <a href="https://aescripts.com/after-effects/automation/parenting/">
 <span>Parenting</span>
 </a>
-</li><li class="level2 nav-2-6-60">
+</li><li class="level2 nav-2-6-62">
 <a href="https://aescripts.com/after-effects/automation/physics-simulation/">
 <span>Physics Simulation</span>
 </a>
-</li><li class="level2 nav-2-6-61">
+</li><li class="level2 nav-2-6-63">
 <a href="https://aescripts.com/after-effects/automation/presentation-tools/">
 <span>Presentation Tools</span>
 </a>
-</li><li class="level2 nav-2-6-62">
+</li><li class="level2 nav-2-6-64">
 <a href="https://aescripts.com/after-effects/automation/project-items/">
 <span>Project Items</span>
 </a>
-</li><li class="level2 nav-2-6-63">
+</li><li class="level2 nav-2-6-65">
 <a href="https://aescripts.com/after-effects/automation/proxies/">
 <span>Proxies</span>
 </a>
-</li><li class="level2 nav-2-6-64">
+</li><li class="level2 nav-2-6-66">
 <a href="https://aescripts.com/after-effects/automation/template/">
 <span>Template</span>
 </a>
-</li><li class="level2 nav-2-6-65">
+</li><li class="level2 nav-2-6-67">
 <a href="https://aescripts.com/after-effects/automation/text/">
 <span>Text</span>
 </a>
-</li><li class="level2 nav-2-6-66">
+</li><li class="level2 nav-2-6-68">
 <a href="https://aescripts.com/after-effects/automation/texturing/">
 <span>Texturing</span>
 </a>
-</li><li class="level2 nav-2-6-67">
+</li><li class="level2 nav-2-6-69">
 <a href="https://aescripts.com/after-effects/automation/time-remapping/">
 <span>Time Remapping</span>
 </a>
-</li><li class="level2 nav-2-6-68">
+</li><li class="level2 nav-2-6-70">
 <a href="https://aescripts.com/after-effects/automation/tracking-object-removal/">
 <span>Tracking/Object Removal</span>
 </a>
-</li><li class="level2 nav-2-6-69">
+</li><li class="level2 nav-2-6-71">
 <a href="https://aescripts.com/after-effects/automation/transitions/">
 <span>Transitions</span>
 </a>
-</li><li class="level2 nav-2-6-70">
+</li><li class="level2 nav-2-6-72">
 <a href="https://aescripts.com/after-effects/automation/rendering/">
 <span>Rendering</span>
 </a>
-</li><li class="level2 nav-2-6-71 parent">
+</li><li class="level2 nav-2-6-73 parent">
 <a href="https://aescripts.com/after-effects/automation/rigging/">
 <span>Rigging</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-6-71-13 first last">
+<li class="level3 nav-2-6-73-14 first last">
 <a href="https://aescripts.com/after-effects/automation/rigging/head-rigging/">
 <span>Head Rigging</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-2-6-72 last">
+</li><li class="level2 nav-2-6-74 last">
 <a href="https://aescripts.com/after-effects/automation/versioning/">
 <span>Versioning</span>
 </a>
@@ -640,27 +649,34 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Design Tools</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-8-73 first">
+<li class="level2 nav-2-8-75 first">
 <a href="https://aescripts.com/after-effects/design-tools/alignment/">
 <span>Alignment</span>
 </a>
-</li><li class="level2 nav-2-8-74">
+</li><li class="level2 nav-2-8-76 parent">
 <a href="https://aescripts.com/after-effects/design-tools/color/">
 <span>Color</span>
 </a>
-</li><li class="level2 nav-2-8-75">
+<ul class="level2">
+<li class="level3 nav-2-8-76-15 first last">
+<a href="https://aescripts.com/after-effects/design-tools/color/gradient/">
+<span>Gradient</span>
+</a>
+</li>
+</ul>
+</li><li class="level2 nav-2-8-77">
 <a href="https://aescripts.com/after-effects/design-tools/glyphs/">
 <span>Glyphs</span>
 </a>
-</li><li class="level2 nav-2-8-76">
+</li><li class="level2 nav-2-8-78">
 <a href="https://aescripts.com/after-effects/design-tools/isometry/">
 <span>Isometry</span>
 </a>
-</li><li class="level2 nav-2-8-77">
+</li><li class="level2 nav-2-8-79">
 <a href="https://aescripts.com/after-effects/design-tools/textures/">
 <span>Textures</span>
 </a>
-</li><li class="level2 nav-2-8-78 last">
+</li><li class="level2 nav-2-8-80 last">
 <a href="https://aescripts.com/after-effects/design-tools/type/">
 <span>Type</span>
 </a>
@@ -671,11 +687,11 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Editing</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-9-79 first">
+<li class="level2 nav-2-9-81 first">
 <a href="https://aescripts.com/after-effects/editing/edit-scene-detection/">
 <span>Edit/Scene Detection</span>
 </a>
-</li><li class="level2 nav-2-9-80 last">
+</li><li class="level2 nav-2-9-82 last">
 <a href="https://aescripts.com/after-effects/editing/story/">
 <span>Story</span>
 </a>
@@ -690,15 +706,15 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Expressions</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-11-81 first">
+<li class="level2 nav-2-11-83 first">
 <a href="https://aescripts.com/after-effects/expressions/controller/">
 <span>Controller</span>
 </a>
-</li><li class="level2 nav-2-11-82">
+</li><li class="level2 nav-2-11-84">
 <a href="https://aescripts.com/after-effects/expressions/editing-managing/">
 <span>Editing/Managing</span>
 </a>
-</li><li class="level2 nav-2-11-83 last">
+</li><li class="level2 nav-2-11-85 last">
 <a href="https://aescripts.com/after-effects/expressions/optimization/">
 <span>Optimization</span>
 </a>
@@ -709,112 +725,116 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Image</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-12-84 first parent">
+<li class="level2 nav-2-12-86 first parent">
 <a href="https://aescripts.com/after-effects/image/a-i-machine-learning/">
 <span>A.I./Machine Learning</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-12-84-14 first last">
+<li class="level3 nav-2-12-86-16 first last">
 <a href="https://aescripts.com/after-effects/image/a-i-machine-learning/style-transfer/">
 <span>Style Transfer</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-2-12-85">
+</li><li class="level2 nav-2-12-87">
 <a href="https://aescripts.com/after-effects/image/alignment/">
 <span>Alignment</span>
 </a>
-</li><li class="level2 nav-2-12-86">
+</li><li class="level2 nav-2-12-88">
 <a href="https://aescripts.com/after-effects/image/bit-depth/">
 <span>Bit Depth</span>
 </a>
-</li><li class="level2 nav-2-12-87">
+</li><li class="level2 nav-2-12-89">
 <a href="https://aescripts.com/after-effects/image/blur/">
 <span>Blur</span>
 </a>
-</li><li class="level2 nav-2-12-88">
+</li><li class="level2 nav-2-12-90">
 <a href="https://aescripts.com/after-effects/image/channel/">
 <span>Channel</span>
 </a>
-</li><li class="level2 nav-2-12-89">
+</li><li class="level2 nav-2-12-91">
 <a href="https://aescripts.com/after-effects/image/color-correction/">
 <span>Color Correction</span>
 </a>
-</li><li class="level2 nav-2-12-90">
+</li><li class="level2 nav-2-12-92">
 <a href="https://aescripts.com/after-effects/image/data-visualization/">
 <span>Data Visualization</span>
 </a>
-</li><li class="level2 nav-2-12-91">
+</li><li class="level2 nav-2-12-93">
 <a href="https://aescripts.com/after-effects/image/degradation/">
 <span>Degradation</span>
 </a>
-</li><li class="level2 nav-2-12-92">
+</li><li class="level2 nav-2-12-94">
 <a href="https://aescripts.com/after-effects/image/distortion/">
 <span>Distortion</span>
 </a>
-</li><li class="level2 nav-2-12-93">
+</li><li class="level2 nav-2-12-95">
 <a href="https://aescripts.com/after-effects/image/extention/">
 <span>Extention</span>
 </a>
-</li><li class="level2 nav-2-12-94">
+</li><li class="level2 nav-2-12-96">
 <a href="https://aescripts.com/after-effects/image/film-stock-emulation/">
 <span>Film Stock Emulation</span>
 </a>
-</li><li class="level2 nav-2-12-95">
+</li><li class="level2 nav-2-12-97">
 <a href="https://aescripts.com/after-effects/image/fractals/">
 <span>Fractals</span>
 </a>
-</li><li class="level2 nav-2-12-96 parent">
+</li><li class="level2 nav-2-12-98 parent">
 <a href="https://aescripts.com/after-effects/image/generate/">
 <span>Generate</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-12-96-15 first last">
+<li class="level3 nav-2-12-98-17 first">
+<a href="https://aescripts.com/after-effects/image/generate/gradient/">
+<span>Gradient</span>
+</a>
+</li><li class="level3 nav-2-12-98-18 last">
 <a href="https://aescripts.com/after-effects/image/generate/particle-system/">
 <span>Particle System</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-2-12-97 parent">
+</li><li class="level2 nav-2-12-99 parent">
 <a href="https://aescripts.com/after-effects/image/keying/">
 <span>Keying</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-12-97-16 first last">
+<li class="level3 nav-2-12-99-19 first last">
 <a href="https://aescripts.com/after-effects/image/keying/clean-plate-creation/">
 <span>Clean Plate Creation</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-2-12-98">
+</li><li class="level2 nav-2-12-100">
 <a href="https://aescripts.com/after-effects/image/lens-effects/">
 <span>Lens Effects</span>
 </a>
-</li><li class="level2 nav-2-12-99">
+</li><li class="level2 nav-2-12-101">
 <a href="https://aescripts.com/after-effects/image/matte/">
 <span>Matte</span>
 </a>
-</li><li class="level2 nav-2-12-100">
+</li><li class="level2 nav-2-12-102">
 <a href="https://aescripts.com/after-effects/image/object-removal/">
 <span>Object Removal</span>
 </a>
-</li><li class="level2 nav-2-12-101">
+</li><li class="level2 nav-2-12-103">
 <a href="https://aescripts.com/after-effects/image/paint/">
 <span>Paint</span>
 </a>
-</li><li class="level2 nav-2-12-102">
+</li><li class="level2 nav-2-12-104">
 <a href="https://aescripts.com/after-effects/image/pixelation/">
 <span>Pixelation</span>
 </a>
-</li><li class="level2 nav-2-12-103">
+</li><li class="level2 nav-2-12-105">
 <a href="https://aescripts.com/after-effects/image/procedural/">
 <span>Procedural</span>
 </a>
-</li><li class="level2 nav-2-12-104">
+</li><li class="level2 nav-2-12-106">
 <a href="https://aescripts.com/after-effects/image/scaling-enhancement/">
 <span>Scaling/Enhancement</span>
 </a>
-</li><li class="level2 nav-2-12-105 last">
+</li><li class="level2 nav-2-12-107 last">
 <a href="https://aescripts.com/after-effects/image/spill-suppression/">
 <span>Spill Suppression</span>
 </a>
@@ -833,7 +853,7 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Rotoscoping</span>
 </a>
 </li><li class="level1 nav-2-16">
-<a href="https://aescripts.com/after-effects/stock-footage-21/">
+<a href="https://aescripts.com/after-effects/stock-footage-24/">
 <span>Stock Footage</span>
 </a>
 </li><li class="level1 nav-2-17 parent">
@@ -841,63 +861,63 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Text</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-17-106 first">
+<li class="level2 nav-2-17-108 first">
 <a href="https://aescripts.com/after-effects/text/3d/">
 <span>3D</span>
 </a>
-</li><li class="level2 nav-2-17-107">
+</li><li class="level2 nav-2-17-109">
 <a href="https://aescripts.com/after-effects/text/animated-font/">
 <span>Animated Font</span>
 </a>
-</li><li class="level2 nav-2-17-108">
+</li><li class="level2 nav-2-17-110">
 <a href="https://aescripts.com/after-effects/text/animation/">
 <span>Animation</span>
 </a>
-</li><li class="level2 nav-2-17-109">
+</li><li class="level2 nav-2-17-111">
 <a href="https://aescripts.com/after-effects/text/conversion/">
 <span>Conversion</span>
 </a>
-</li><li class="level2 nav-2-17-110">
+</li><li class="level2 nav-2-17-112">
 <a href="https://aescripts.com/after-effects/text/credit-roll/">
 <span>Credit Roll</span>
 </a>
-</li><li class="level2 nav-2-17-111">
+</li><li class="level2 nav-2-17-113">
 <a href="https://aescripts.com/after-effects/text/karaoke/">
 <span>Karaoke</span>
 </a>
-</li><li class="level2 nav-2-17-112">
+</li><li class="level2 nav-2-17-114">
 <a href="https://aescripts.com/after-effects/text/generate/">
 <span>Generate</span>
 </a>
-</li><li class="level2 nav-2-17-113">
+</li><li class="level2 nav-2-17-115">
 <a href="https://aescripts.com/after-effects/text/language/">
 <span>Language</span>
 </a>
-</li><li class="level2 nav-2-17-114">
+</li><li class="level2 nav-2-17-116">
 <a href="https://aescripts.com/after-effects/text/search-update-rename/">
 <span>Search/Update/Rename</span>
 </a>
-</li><li class="level2 nav-2-17-115">
+</li><li class="level2 nav-2-17-117">
 <a href="https://aescripts.com/after-effects/text/spell-check/">
 <span>Spell Check</span>
 </a>
-</li><li class="level2 nav-2-17-116">
+</li><li class="level2 nav-2-17-118">
 <a href="https://aescripts.com/after-effects/text/subtitles/">
 <span>Subtitles</span>
 </a>
-</li><li class="level2 nav-2-17-117">
+</li><li class="level2 nav-2-17-119">
 <a href="https://aescripts.com/after-effects/text/syntax/">
 <span>Syntax</span>
 </a>
-</li><li class="level2 nav-2-17-118">
+</li><li class="level2 nav-2-17-120">
 <a href="https://aescripts.com/after-effects/text/text-modifier/">
 <span>Text Modifier</span>
 </a>
-</li><li class="level2 nav-2-17-119">
-<a href="https://aescripts.com/after-effects/text/typemonkey-35/">
+</li><li class="level2 nav-2-17-121">
+<a href="https://aescripts.com/after-effects/text/typemonkey-38/">
 <span>TypeMonkey</span>
 </a>
-</li><li class="level2 nav-2-17-120 last">
+</li><li class="level2 nav-2-17-122 last">
 <a href="https://aescripts.com/after-effects/text/matte/">
 <span>Matte</span>
 </a>
@@ -912,107 +932,111 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Utilities</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-19-121 first">
+<li class="level2 nav-2-19-123 first">
 <a href="https://aescripts.com/after-effects/utilities/collect-files/">
 <span>Collect Files</span>
 </a>
-</li><li class="level2 nav-2-19-122">
+</li><li class="level2 nav-2-19-124">
 <a href="https://aescripts.com/after-effects/utilities/color/">
 <span>Color</span>
 </a>
-</li><li class="level2 nav-2-19-123">
+</li><li class="level2 nav-2-19-125">
 <a href="https://aescripts.com/after-effects/utilities/duplicate/">
 <span>Duplication</span>
 </a>
-</li><li class="level2 nav-2-19-124">
+</li><li class="level2 nav-2-19-126">
 <a href="https://aescripts.com/after-effects/utilities/file-handling/">
 <span>File Handling</span>
 </a>
-</li><li class="level2 nav-2-19-125">
+</li><li class="level2 nav-2-19-127">
 <a href="https://aescripts.com/after-effects/utilities/footage/">
 <span>Footage</span>
 </a>
-</li><li class="level2 nav-2-19-126">
+</li><li class="level2 nav-2-19-128">
 <a href="https://aescripts.com/after-effects/utilities/group-collaboration/">
 <span>Group Collaboration</span>
 </a>
-</li><li class="level2 nav-2-19-127">
+</li><li class="level2 nav-2-19-129">
 <a href="https://aescripts.com/after-effects/utilities/import-export/">
 <span>Import/Export</span>
 </a>
-</li><li class="level2 nav-2-19-128">
+</li><li class="level2 nav-2-19-130">
+<a href="https://aescripts.com/after-effects/utilities/icons/">
+<span>Icons</span>
+</a>
+</li><li class="level2 nav-2-19-131">
 <a href="https://aescripts.com/after-effects/utilities/json/">
 <span>JSON</span>
 </a>
-</li><li class="level2 nav-2-19-129">
+</li><li class="level2 nav-2-19-132">
 <a href="https://aescripts.com/after-effects/utilities/keyboard/">
 <span>Keyboard</span>
 </a>
-</li><li class="level2 nav-2-19-130">
+</li><li class="level2 nav-2-19-133">
 <a href="https://aescripts.com/after-effects/utilities/launcher/">
 <span>Launcher</span>
 </a>
-</li><li class="level2 nav-2-19-131">
+</li><li class="level2 nav-2-19-134">
 <a href="https://aescripts.com/after-effects/utilities/motion-graphics-templates-mogrt/">
 <span>Motion Graphics templates (Mogrt)</span>
 </a>
-</li><li class="level2 nav-2-19-132">
+</li><li class="level2 nav-2-19-135">
 <a href="https://aescripts.com/after-effects/utilities/organization/">
 <span>Organization</span>
 </a>
-</li><li class="level2 nav-2-19-133">
+</li><li class="level2 nav-2-19-136">
 <a href="https://aescripts.com/after-effects/utilities/pixel-bender/">
 <span>Pixel Bender</span>
 </a>
-</li><li class="level2 nav-2-19-134">
+</li><li class="level2 nav-2-19-137">
 <a href="https://aescripts.com/after-effects/utilities/preferences/">
 <span>Preferences</span>
 </a>
-</li><li class="level2 nav-2-19-135">
+</li><li class="level2 nav-2-19-138">
 <a href="https://aescripts.com/after-effects/utilities/presets/">
 <span>Presets</span>
 </a>
-</li><li class="level2 nav-2-19-136">
+</li><li class="level2 nav-2-19-139">
 <a href="https://aescripts.com/after-effects/utilities/project/">
 <span>Project</span>
 </a>
-</li><li class="level2 nav-2-19-137">
+</li><li class="level2 nav-2-19-140">
 <a href="https://aescripts.com/after-effects/utilities/quality-control/">
 <span>Quality Control</span>
 </a>
-</li><li class="level2 nav-2-19-138">
+</li><li class="level2 nav-2-19-141">
 <a href="https://aescripts.com/after-effects/utilities/rendering/">
 <span>Rendering</span>
 </a>
-</li><li class="level2 nav-2-19-139">
+</li><li class="level2 nav-2-19-142">
 <a href="https://aescripts.com/after-effects/utilities/scripting-tools/">
 <span>Scripting Tools</span>
 </a>
-</li><li class="level2 nav-2-19-140">
+</li><li class="level2 nav-2-19-143">
 <a href="https://aescripts.com/after-effects/utilities/search/">
 <span>Search</span>
 </a>
-</li><li class="level2 nav-2-19-141">
+</li><li class="level2 nav-2-19-144">
 <a href="https://aescripts.com/after-effects/utilities/selection/">
 <span>Selection</span>
 </a>
-</li><li class="level2 nav-2-19-142">
+</li><li class="level2 nav-2-19-145">
 <a href="https://aescripts.com/after-effects/utilities/sort/">
 <span>Sort</span>
 </a>
-</li><li class="level2 nav-2-19-143">
+</li><li class="level2 nav-2-19-146">
 <a href="https://aescripts.com/after-effects/utilities/storyboarding-contact-sheet/">
 <span>Storyboarding/Contact Sheet</span>
 </a>
-</li><li class="level2 nav-2-19-144">
+</li><li class="level2 nav-2-19-147">
 <a href="https://aescripts.com/after-effects/utilities/text/">
 <span>Text</span>
 </a>
-</li><li class="level2 nav-2-19-145">
+</li><li class="level2 nav-2-19-148">
 <a href="https://aescripts.com/after-effects/utilities/toolkit/">
 <span>Toolkit</span>
 </a>
-</li><li class="level2 nav-2-19-146 last">
+</li><li class="level2 nav-2-19-149 last">
 <a href="https://aescripts.com/after-effects/utilities/video-mapping/">
 <span>Video Mapping</span>
 </a>
@@ -1117,7 +1141,7 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <ul class="level1">
 <li class="level2 nav-3-6-13 first">
 <a href="https://aescripts.com/premiere-pro/text/search/">
-<span>Search</span>
+<span>Search/Update/Rename</span>
 </a>
 </li><li class="level2 nav-3-6-14 last">
 <a href="https://aescripts.com/premiere-pro/text/transcription/">
@@ -1143,10 +1167,14 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 <span>Import/Export</span>
 </a>
 </li><li class="level2 nav-3-9-16">
+<a href="https://aescripts.com/premiere-pro/utilities/project/">
+<span>Project</span>
+</a>
+</li><li class="level2 nav-3-9-17">
 <a href="https://aescripts.com/premiere-pro/utilities/search/">
 <span>Search</span>
 </a>
-</li><li class="level2 nav-3-9-17 last">
+</li><li class="level2 nav-3-9-18 last">
 <a href="https://aescripts.com/premiere-pro/utilities/speech-to-text/">
 <span>Speech to Text</span>
 </a>
@@ -1301,39 +1329,50 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 </li>
 </ul>
 </li><li class="level0 nav-11 parent">
+<a href="https://aescripts.com/houdini/">
+<span>Houdini</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-11-1 first last">
+<a href="https://aescripts.com/houdini/group-collaboration/">
+<span>Group Collaboration</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-12 parent">
 <a href="https://aescripts.com/photoshop/">
 <span>Photoshop</span>
 </a>
 <ul class="level0">
-<li class="level1 nav-11-1 first">
+<li class="level1 nav-12-1 first">
 <a href="https://aescripts.com/photoshop/text/">
 <span>Text</span>
 </a>
-</li><li class="level1 nav-11-2 parent">
+</li><li class="level1 nav-12-2 parent">
 <a href="https://aescripts.com/photoshop/image/">
 <span>Image</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-11-2-1 first">
+<li class="level2 nav-12-2-1 first">
 <a href="https://aescripts.com/photoshop/image/color-correction/">
 <span>Color Correction</span>
 </a>
-</li><li class="level2 nav-11-2-2">
+</li><li class="level2 nav-12-2-2">
 <a href="https://aescripts.com/photoshop/image/channel/">
 <span>Channel</span>
 </a>
-</li><li class="level2 nav-11-2-3 last">
+</li><li class="level2 nav-12-2-3 last">
 <a href="https://aescripts.com/photoshop/image/procedural/">
 <span>Procedural</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-11-3 last parent">
+</li><li class="level1 nav-12-3 last parent">
 <a href="https://aescripts.com/photoshop/utilities/">
 <span>Utilities</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-11-3-4 first last">
+<li class="level2 nav-12-3-4 first last">
 <a href="https://aescripts.com/photoshop/utilities/pixel-bender/">
 <span>Pixel Bender</span>
 </a>
@@ -1341,1082 +1380,1130 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 </ul>
 </li>
 </ul>
-</li><li class="level0 nav-12 parent">
+</li><li class="level0 nav-13 parent">
 <a href="https://aescripts.com/illustrator/">
 <span>Illustrator</span>
 </a>
 <ul class="level0">
-<li class="level1 nav-12-1 first last">
+<li class="level1 nav-13-1 first last">
 <a href="https://aescripts.com/illustrator/path-editing-tools/">
 <span>Path Editing Tools</span>
 </a>
 </li>
 </ul>
-</li><li class="level0 nav-13 parent">
+</li><li class="level0 nav-14 parent">
 <a href="https://aescripts.com/stand-alone-applications/">
 <span>Stand-alone Applications</span>
 </a>
 <ul class="level0">
-<li class="level1 nav-13-1 first">
+<li class="level1 nav-14-1 first">
 <a href="https://aescripts.com/stand-alone-applications/storyboarding-contact-sheet/">
 <span>Storyboarding/Contact Sheet</span>
 </a>
-</li><li class="level1 nav-13-2 last">
+</li><li class="level1 nav-14-2 last">
 <a href="https://aescripts.com/stand-alone-applications/stylus-utility/">
 <span>Stylus Utility</span>
 </a>
 </li>
 </ul>
-</li><li class="level0 nav-14 last parent">
+</li><li class="level0 nav-15 last parent">
 <a href="https://aescripts.com/authors/">
 <span>Authors</span>
 </a>
 <ul class="level0">
-<li class="level1 nav-14-1 first parent">
+<li class="level1 nav-15-1 first parent">
 <a href="https://aescripts.com/authors/a-b/">
 <span>A-B</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-14-1-1 first">
+<li class="level2 nav-15-1-1 first">
 <a href="https://aescripts.com/authors/a-b/aaron-ecthelion/">
 <span>Aaron Ecthelion</span>
 </a>
-</li><li class="level2 nav-14-1-2">
+</li><li class="level2 nav-15-1-2">
 <a href="https://aescripts.com/authors/a-b/adam-katz/">
 <span>Adam Katz</span>
 </a>
-</li><li class="level2 nav-14-1-3">
+</li><li class="level2 nav-15-1-3">
 <a href="https://aescripts.com/authors/a-b/adascripts/">
 <span>adascripts</span>
 </a>
-</li><li class="level2 nav-14-1-4">
+</li><li class="level2 nav-15-1-4">
 <a href="https://aescripts.com/authors/a-b/aep/">
 <span>aep</span>
 </a>
-</li><li class="level2 nav-14-1-5">
+</li><li class="level2 nav-15-1-5">
 <a href="https://aescripts.com/authors/a-b/aescripts-aeplugins/">
 <span>aescripts + aeplugins</span>
 </a>
-</li><li class="level2 nav-14-1-6">
+</li><li class="level2 nav-15-1-6">
 <a href="https://aescripts.com/authors/a-b/aescripts-aeplugins-tools/">
 <span>aescripts + aeplugins tools</span>
 </a>
-</li><li class="level2 nav-14-1-7">
+</li><li class="level2 nav-15-1-7">
+<a href="https://aescripts.com/authors/a-b/aetools/">
+<span>aetools</span>
+</a>
+</li><li class="level2 nav-15-1-8">
 <a href="https://aescripts.com/authors/a-b/ae-off/">
 <span>AE_OFF</span>
 </a>
-</li><li class="level2 nav-14-1-8">
+</li><li class="level2 nav-15-1-9">
 <a href="https://aescripts.com/authors/a-b/alan-eddie/">
 <span>Alan Eddie</span>
 </a>
-</li><li class="level2 nav-14-1-9">
+</li><li class="level2 nav-15-1-10">
 <a href="https://aescripts.com/authors/a-b/alan-fregtman/">
 <span>Alan Fregtman</span>
 </a>
-</li><li class="level2 nav-14-1-10">
+</li><li class="level2 nav-15-1-11">
 <a href="https://aescripts.com/authors/a-b/alejandro-sanclemente/">
 <span>Alejandro Sanclemente</span>
 </a>
-</li><li class="level2 nav-14-1-11">
+</li><li class="level2 nav-15-1-12">
 <a href="https://aescripts.com/authors/a-b/aleksey-gankov/">
 <span>Aleksey Gankov</span>
 </a>
-</li><li class="level2 nav-14-1-12">
+</li><li class="level2 nav-15-1-13">
 <a href="https://aescripts.com/authors/a-b/alex-kravchenko/">
 <span>Alex Kravchenko</span>
 </a>
-</li><li class="level2 nav-14-1-13">
+</li><li class="level2 nav-15-1-14">
 <a href="https://aescripts.com/authors/a-b/alex-lee/">
 <span>Alex Lee</span>
 </a>
-</li><li class="level2 nav-14-1-14">
+</li><li class="level2 nav-15-1-15">
 <a href="https://aescripts.com/authors/a-b/alex-munteanu/">
 <span>Alex Munteanu</span>
 </a>
-</li><li class="level2 nav-14-1-15">
+</li><li class="level2 nav-15-1-16">
 <a href="https://aescripts.com/authors/a-b/alex-white/">
 <span>Alex White</span>
 </a>
-</li><li class="level2 nav-14-1-16">
+</li><li class="level2 nav-15-1-17">
 <a href="https://aescripts.com/authors/a-b/andrew-yang/">
 <span>Andrew Yang</span>
 </a>
-</li><li class="level2 nav-14-1-17">
+</li><li class="level2 nav-15-1-18">
 <a href="https://aescripts.com/authors/a-b/andrius-vaskevicius/">
 <span>Andrius Vaškevičius</span>
 </a>
-</li><li class="level2 nav-14-1-18">
+</li><li class="level2 nav-15-1-19">
 <a href="https://aescripts.com/authors/a-b/animatika-software/">
 <span>Animatika software</span>
 </a>
-</li><li class="level2 nav-14-1-19">
+</li><li class="level2 nav-15-1-20">
 <a href="https://aescripts.com/authors/a-b/animography/">
 <span>Animography</span>
 </a>
-</li><li class="level2 nav-14-1-20">
+</li><li class="level2 nav-15-1-21">
 <a href="https://aescripts.com/authors/a-b/anomes/">
 <span>Anomes</span>
 </a>
-</li><li class="level2 nav-14-1-21">
+</li><li class="level2 nav-15-1-22">
+<a href="https://aescripts.com/authors/a-b/anthony-possobon/">
+<span>Anthony Possobon</span>
+</a>
+</li><li class="level2 nav-15-1-23">
 <a href="https://aescripts.com/authors/a-b/anyfx360/">
 <span>anyFX360</span>
 </a>
-</li><li class="level2 nav-14-1-22">
+</li><li class="level2 nav-15-1-24">
 <a href="https://aescripts.com/authors/a-b/autokroma/">
 <span>Autokroma</span>
 </a>
-</li><li class="level2 nav-14-1-23">
+</li><li class="level2 nav-15-1-25">
 <a href="https://aescripts.com/authors/a-b/azedine-hiri/">
 <span>Azedine Hiri</span>
 </a>
-</li><li class="level2 nav-14-1-24">
+</li><li class="level2 nav-15-1-26">
 <a href="https://aescripts.com/authors/a-b/bao-plugins/">
 <span>BAO Plugins</span>
 </a>
-</li><li class="level2 nav-14-1-25">
+</li><li class="level2 nav-15-1-27">
 <a href="https://aescripts.com/authors/a-b/barbecue-dad-productions/">
 <span>Barbecue Dad Productions</span>
 </a>
-</li><li class="level2 nav-14-1-26">
+</li><li class="level2 nav-15-1-28">
 <a href="https://aescripts.com/authors/a-b/bartek-skorupa/">
 <span>Bartek Skorupa</span>
 </a>
-</li><li class="level2 nav-14-1-27">
+</li><li class="level2 nav-15-1-29">
 <a href="https://aescripts.com/authors/a-b/bartlomiej-otlowski/">
 <span>Bartłomiej Otłowski</span>
 </a>
-</li><li class="level2 nav-14-1-28">
+</li><li class="level2 nav-15-1-30">
 <a href="https://aescripts.com/authors/a-b/batchframe/">
 <span>Batchframe</span>
 </a>
-</li><li class="level2 nav-14-1-29">
+</li><li class="level2 nav-15-1-31">
 <a href="https://aescripts.com/authors/a-b/bear-studios/">
 <span>bear studios</span>
 </a>
-</li><li class="level2 nav-14-1-30">
+</li><li class="level2 nav-15-1-32">
 <a href="https://aescripts.com/authors/a-b/ben-rollason/">
 <span>Ben Rollason</span>
 </a>
-</li><li class="level2 nav-14-1-31">
+</li><li class="level2 nav-15-1-33">
 <a href="https://aescripts.com/authors/a-b/bgra-entertainment/">
 <span>BGRA Entertainment</span>
 </a>
-</li><li class="level2 nav-14-1-32">
+</li><li class="level2 nav-15-1-34">
 <a href="https://aescripts.com/authors/a-b/bikomart/">
 <span>Bikomart</span>
 </a>
-</li><li class="level2 nav-14-1-33">
+</li><li class="level2 nav-15-1-35">
 <a href="https://aescripts.com/authors/a-b/blastframe/">
 <span>Blastframe</span>
 </a>
-</li><li class="level2 nav-14-1-34">
+</li><li class="level2 nav-15-1-36">
 <a href="https://aescripts.com/authors/a-b/blurrypixel/">
 <span>Blurrypixel</span>
 </a>
-</li><li class="level2 nav-14-1-35">
+</li><li class="level2 nav-15-1-37">
 <a href="https://aescripts.com/authors/a-b/brennan-chapman/">
 <span>Brennan Chapman</span>
 </a>
-</li><li class="level2 nav-14-1-36">
+</li><li class="level2 nav-15-1-38">
 <a href="https://aescripts.com/authors/a-b/breton-brander/">
 <span>Breton Brander</span>
 </a>
-</li><li class="level2 nav-14-1-37 last">
+</li><li class="level2 nav-15-1-39 last">
 <a href="https://aescripts.com/authors/a-b/butlerm/">
 <span>Butlerm</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-14-2 parent">
+</li><li class="level1 nav-15-2 parent">
 <a href="https://aescripts.com/authors/c-e/">
 <span>C-E</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-14-2-38 first">
+<li class="level2 nav-15-2-40 first">
 <a href="https://aescripts.com/authors/c-e/calvin-swaim/">
 <span>Calvin Swaim</span>
 </a>
-</li><li class="level2 nav-14-2-39">
+</li><li class="level2 nav-15-2-41">
 <a href="https://aescripts.com/authors/c-e/carlos-dordelly/">
 <span>Carlos Dordelly</span>
 </a>
-</li><li class="level2 nav-14-2-40">
+</li><li class="level2 nav-15-2-42">
 <a href="https://aescripts.com/authors/c-e/casey-baker/">
 <span>Casey Baker</span>
 </a>
-</li><li class="level2 nav-14-2-41">
+</li><li class="level2 nav-15-2-43">
 <a href="https://aescripts.com/authors/c-e/chris-joyce/">
 <span>Chris Joyce</span>
 </a>
-</li><li class="level2 nav-14-2-42">
+</li><li class="level2 nav-15-2-44">
 <a href="https://aescripts.com/authors/c-e/chris-roe/">
 <span>Chris Roe</span>
 </a>
-</li><li class="level2 nav-14-2-43">
+</li><li class="level2 nav-15-2-45">
 <a href="https://aescripts.com/authors/c-e/chris-zwar/">
 <span>Chris Zwar</span>
 </a>
-</li><li class="level2 nav-14-2-44">
+</li><li class="level2 nav-15-2-46">
 <a href="https://aescripts.com/authors/c-e/cihan-balunak/">
 <span>Cihan Balunak</span>
 </a>
-</li><li class="level2 nav-14-2-45">
+</li><li class="level2 nav-15-2-47">
 <a href="https://aescripts.com/authors/c-e/cody-sorgenfrey/">
 <span>Cody Sorgenfrey</span>
 </a>
-</li><li class="level2 nav-14-2-46">
+</li><li class="level2 nav-15-2-48">
 <a href="https://aescripts.com/authors/c-e/collin-brooks/">
 <span>Collin Brooks</span>
 </a>
-</li><li class="level2 nav-14-2-47">
+</li><li class="level2 nav-15-2-49">
 <a href="https://aescripts.com/authors/c-e/cragl-vfx-tools/">
 <span>cragl vfx tools</span>
 </a>
-</li><li class="level2 nav-14-2-48">
+</li><li class="level2 nav-15-2-50">
 <a href="https://aescripts.com/authors/c-e/creative-impatience/">
 <span>Creative Impatience</span>
 </a>
-</li><li class="level2 nav-14-2-49">
+</li><li class="level2 nav-15-2-51">
 <a href="https://aescripts.com/authors/c-e/crossphere/">
 <span>CROSSPHERE</span>
 </a>
-</li><li class="level2 nav-14-2-50">
+</li><li class="level2 nav-15-2-52">
 <a href="https://aescripts.com/authors/c-e/crunchy/">
 <span>Crunchy</span>
 </a>
-</li><li class="level2 nav-14-2-51">
+</li><li class="level2 nav-15-2-53">
 <a href="https://aescripts.com/authors/c-e/daandirk/">
 <span>DaanDirk</span>
 </a>
-</li><li class="level2 nav-14-2-52">
+</li><li class="level2 nav-15-2-54">
 <a href="https://aescripts.com/authors/c-e/dani-ria/">
 <span>Dani Ria</span>
 </a>
-</li><li class="level2 nav-14-2-53">
+</li><li class="level2 nav-15-2-55">
 <a href="https://aescripts.com/authors/c-e/daniel-fredley/">
 <span>Daniel Fredley</span>
 </a>
-</li><li class="level2 nav-14-2-54">
+</li><li class="level2 nav-15-2-56">
 <a href="https://aescripts.com/authors/c-e/dataclay/">
 <span>Dataclay</span>
 </a>
-</li><li class="level2 nav-14-2-55">
+</li><li class="level2 nav-15-2-57">
 <a href="https://aescripts.com/authors/c-e/dave-jacobson/">
 <span>Dave Jacobson</span>
 </a>
-</li><li class="level2 nav-14-2-56">
+</li><li class="level2 nav-15-2-58">
 <a href="https://aescripts.com/authors/c-e/david-seitz/">
 <span>David Seitz</span>
 </a>
-</li><li class="level2 nav-14-2-57">
+</li><li class="level2 nav-15-2-59">
 <a href="https://aescripts.com/authors/c-e/david-torno/">
 <span>David Torno</span>
 </a>
-</li><li class="level2 nav-14-2-58">
+</li><li class="level2 nav-15-2-60">
 <a href="https://aescripts.com/authors/c-e/deadlock-studio/">
 <span>Deadlock Studio</span>
 </a>
-</li><li class="level2 nav-14-2-59">
+</li><li class="level2 nav-15-2-61">
 <a href="https://aescripts.com/authors/c-e/digital-anarchy/">
 <span>Digital Anarchy</span>
 </a>
-</li><li class="level2 nav-14-2-60">
+</li><li class="level2 nav-15-2-62">
 <a href="https://aescripts.com/authors/c-e/dillon/">
 <span>Dillon</span>
 </a>
-</li><li class="level2 nav-14-2-61">
+</li><li class="level2 nav-15-2-63">
 <a href="https://aescripts.com/authors/c-e/dtdt-works/">
 <span>DT Design Technologies</span>
 </a>
-</li><li class="level2 nav-14-2-62">
+</li><li class="level2 nav-15-2-64">
 <a href="https://aescripts.com/authors/c-e/e-and-l-tools/">
 <span>E&amp;L Tools</span>
 </a>
-</li><li class="level2 nav-14-2-63">
+</li><li class="level2 nav-15-2-65">
 <a href="https://aescripts.com/authors/c-e/ebberts-zucker/">
 <span>Ebberts + Zucker</span>
 </a>
-</li><li class="level2 nav-14-2-64">
+</li><li class="level2 nav-15-2-66">
 <a href="https://aescripts.com/authors/c-e/edgar-huanca/">
 <span>Edgar Huanca</span>
 </a>
-</li><li class="level2 nav-14-2-65">
+</li><li class="level2 nav-15-2-67">
 <a href="https://aescripts.com/authors/c-e/editform/">
 <span>EditForm</span>
 </a>
-</li><li class="level2 nav-14-2-66">
+</li><li class="level2 nav-15-2-68">
 <a href="https://aescripts.com/authors/c-e/eduardo-iglesias/">
 <span>Eduardo Iglesias</span>
 </a>
-</li><li class="level2 nav-14-2-67">
+</li><li class="level2 nav-15-2-69">
 <a href="https://aescripts.com/authors/c-e/efx/">
 <span>EFX</span>
 </a>
-</li><li class="level2 nav-14-2-68">
+</li><li class="level2 nav-15-2-70">
 <a href="https://aescripts.com/authors/c-e/eilert-janssen/">
 <span>Eilert Janßen</span>
 </a>
-</li><li class="level2 nav-14-2-69">
+</li><li class="level2 nav-15-2-71">
 <a href="https://aescripts.com/authors/c-e/ellen-luff/">
 <span>Ellen Luff</span>
 </a>
-</li><li class="level2 nav-14-2-70">
+</li><li class="level2 nav-15-2-72">
 <a href="https://aescripts.com/authors/c-e/eofain-ptorrez/">
 <span>Eofain PTorrez</span>
 </a>
-</li><li class="level2 nav-14-2-71">
+</li><li class="level2 nav-15-2-73">
 <a href="https://aescripts.com/authors/c-e/erwin-santacruz/">
 <span>Erwin Santacruz</span>
 </a>
-</li><li class="level2 nav-14-2-72">
+</li><li class="level2 nav-15-2-74">
 <a href="https://aescripts.com/authors/c-e/escuelacine-com-scripts/">
 <span>EscuelaCine.com Scripts</span>
 </a>
-</li><li class="level2 nav-14-2-73 last">
+</li><li class="level2 nav-15-2-75 last">
 <a href="https://aescripts.com/authors/c-e/extrabite-io/">
 <span>Extrabite.io</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-14-3 parent">
+</li><li class="level1 nav-15-3 parent">
 <a href="https://aescripts.com/authors/f-l/">
 <span>F-L</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-14-3-74 first">
+<li class="level2 nav-15-3-76 first">
 <a href="https://aescripts.com/authors/f-l/fabian-moron-zirfas/">
 <span>Fabian Morón Zirfas</span>
 </a>
-</li><li class="level2 nav-14-3-75">
+</li><li class="level2 nav-15-3-77">
 <a href="https://aescripts.com/authors/f-l/fixel-algorithms/">
 <span>Fixel Algorithms</span>
 </a>
-</li><li class="level2 nav-14-3-76">
+</li><li class="level2 nav-15-3-78">
 <a href="https://aescripts.com/authors/f-l/flame/">
 <span>Flame</span>
 </a>
-</li><li class="level2 nav-14-3-77">
+</li><li class="level2 nav-15-3-79">
 <a href="https://aescripts.com/authors/f-l/forge-and-form-gmbh/">
 <span>Forge and Form GmbH</span>
 </a>
-</li><li class="level2 nav-14-3-78">
+</li><li class="level2 nav-15-3-80">
 <a href="https://aescripts.com/authors/f-l/fox-scripts/">
 <span>Fox Scripts</span>
 </a>
-</li><li class="level2 nav-14-3-79">
+</li><li class="level2 nav-15-3-81">
 <a href="https://aescripts.com/authors/f-l/francois-lefebvre/">
-<span> François Lefebvre</span>
+<span>François Lefebvre</span>
 </a>
-</li><li class="level2 nav-14-3-80">
+</li><li class="level2 nav-15-3-82">
 <a href="https://aescripts.com/authors/f-l/francois-tarlier/">
 <span>François Tarlier</span>
 </a>
-</li><li class="level2 nav-14-3-81">
+</li><li class="level2 nav-15-3-83">
 <a href="https://aescripts.com/authors/f-l/fremox/">
 <span>Fremox</span>
 </a>
-</li><li class="level2 nav-14-3-82">
+</li><li class="level2 nav-15-3-84">
 <a href="https://aescripts.com/authors/f-l/froggy-team/">
 <span>Froggy Team</span>
 </a>
-</li><li class="level2 nav-14-3-83">
+</li><li class="level2 nav-15-3-85">
 <a href="https://aescripts.com/authors/f-l/fxphd/">
 <span>fxphd</span>
 </a>
-</li><li class="level2 nav-14-3-84">
+</li><li class="level2 nav-15-3-86">
 <a href="https://aescripts.com/authors/f-l/gabriel-grenier/">
 <span>Gabriel Grenier</span>
 </a>
-</li><li class="level2 nav-14-3-85">
+</li><li class="level2 nav-15-3-87">
 <a href="https://aescripts.com/authors/f-l/gerry-holtz/">
 <span>Gerry Holtz</span>
 </a>
-</li><li class="level2 nav-14-3-86">
+</li><li class="level2 nav-15-3-88">
 <a href="https://aescripts.com/authors/f-l/gianni-lorusso/">
 <span>Gianni Lorusso</span>
 </a>
-</li><li class="level2 nav-14-3-87">
+</li><li class="level2 nav-15-3-89">
 <a href="https://aescripts.com/authors/f-l/gilad-glasberg/">
 <span>Gilad Glasberg</span>
 </a>
-</li><li class="level2 nav-14-3-88">
+</li><li class="level2 nav-15-3-90">
 <a href="https://aescripts.com/authors/f-l/graphos/">
 <span>Graphos</span>
 </a>
-</li><li class="level2 nav-14-3-89">
+</li><li class="level2 nav-15-3-91">
 <a href="https://aescripts.com/authors/f-l/greg-gunn/">
 <span>Greg Gunn</span>
 </a>
-</li><li class="level2 nav-14-3-90">
+</li><li class="level2 nav-15-3-92">
 <a href="https://aescripts.com/authors/f-l/hernan-torrisi/">
 <span>Hernan Torrisi</span>
 </a>
-</li><li class="level2 nav-14-3-91">
+</li><li class="level2 nav-15-3-93">
 <a href="https://aescripts.com/authors/f-l/hiroyuki-sato/">
 <span>Hiroyuki Sato</span>
 </a>
-</li><li class="level2 nav-14-3-92">
+</li><li class="level2 nav-15-3-94">
 <a href="https://aescripts.com/authors/f-l/ian-haigh/">
 <span>Ian Haigh</span>
 </a>
-</li><li class="level2 nav-14-3-93">
+</li><li class="level2 nav-15-3-95">
 <a href="https://aescripts.com/authors/f-l/ian-pinder/">
 <span>Ian Pinder</span>
 </a>
-</li><li class="level2 nav-14-3-94">
+</li><li class="level2 nav-15-3-96">
 <a href="https://aescripts.com/authors/f-l/igor-petrovic/">
 <span>Igor Petrovic</span>
 </a>
-</li><li class="level2 nav-14-3-95">
+</li><li class="level2 nav-15-3-97">
 <a href="https://aescripts.com/authors/f-l/illo/">
 <span>ILLO</span>
 </a>
-</li><li class="level2 nav-14-3-96">
+</li><li class="level2 nav-15-3-98">
 <a href="https://aescripts.com/authors/f-l/ilumy-design/">
 <span>ilumy design</span>
 </a>
-</li><li class="level2 nav-14-3-97">
+</li><li class="level2 nav-15-3-99">
 <a href="https://aescripts.com/authors/f-l/imagineer-systems/">
 <span>Imagineer Systems</span>
 </a>
-</li><li class="level2 nav-14-3-98">
+</li><li class="level2 nav-15-3-100">
 <a href="https://aescripts.com/authors/f-l/immanuel-morales/">
 <span>Immanuel Morales</span>
 </a>
-</li><li class="level2 nav-14-3-99">
+</li><li class="level2 nav-15-3-101">
 <a href="https://aescripts.com/authors/f-l/invisible-chainsaw/">
 <span>Invisible Chainsaw</span>
 </a>
-</li><li class="level2 nav-14-3-100">
+</li><li class="level2 nav-15-3-102">
 <a href="https://aescripts.com/authors/f-l/jacob-danell/">
 <span>Jacob Danell</span>
 </a>
-</li><li class="level2 nav-14-3-101">
+</li><li class="level2 nav-15-3-103">
 <a href="https://aescripts.com/authors/f-l/jakob-schindegger/">
 <span>Jakob Schindegger</span>
 </a>
-</li><li class="level2 nav-14-3-102">
+</li><li class="level2 nav-15-3-104">
 <a href="https://aescripts.com/authors/f-l/jae-tools/">
 <span>Jae Tools</span>
 </a>
-</li><li class="level2 nav-14-3-103">
+</li><li class="level2 nav-15-3-105">
 <a href="https://aescripts.com/authors/f-l/jake-and-dan/">
 <span>Jake and Dan</span>
 </a>
-</li><li class="level2 nav-14-3-104">
+</li><li class="level2 nav-15-3-106">
 <a href="https://aescripts.com/authors/f-l/james-hoff/">
 <span>James Hoff</span>
 </a>
-</li><li class="level2 nav-14-3-105">
+</li><li class="level2 nav-15-3-107">
 <a href="https://aescripts.com/authors/f-l/james-ronan/">
 <span>James Ronan</span>
 </a>
-</li><li class="level2 nav-14-3-106">
+</li><li class="level2 nav-15-3-108">
 <a href="https://aescripts.com/authors/f-l/jayse-hansen/">
 <span>Jayse Hansen</span>
 </a>
-</li><li class="level2 nav-14-3-107">
+</li><li class="level2 nav-15-3-109">
 <a href="https://aescripts.com/authors/f-l/jeremy-cox/">
 <span>Jeremy Cox</span>
 </a>
-</li><li class="level2 nav-14-3-108">
+</li><li class="level2 nav-15-3-110">
+<a href="https://aescripts.com/authors/f-l/jfcg/">
+<span>JFCG</span>
+</a>
+</li><li class="level2 nav-15-3-111">
 <a href="https://aescripts.com/authors/f-l/joachim-holler/">
 <span>Joachim Holler</span>
 </a>
-</li><li class="level2 nav-14-3-109">
+</li><li class="level2 nav-15-3-112">
+<a href="https://aescripts.com/authors/f-l/joao-morgado/">
+<span>João Morgado</span>
+</a>
+</li><li class="level2 nav-15-3-113">
 <a href="https://aescripts.com/authors/f-l/jordan-steele/">
 <span>Jordan Steele</span>
 </a>
-</li><li class="level2 nav-14-3-110">
+</li><li class="level2 nav-15-3-114">
 <a href="https://aescripts.com/authors/f-l/julian-herrera/">
 <span>Julian Herrera</span>
 </a>
-</li><li class="level2 nav-14-3-111">
+</li><li class="level2 nav-15-3-115">
 <a href="https://aescripts.com/authors/f-l/justified-type/">
 <span>Justified Type</span>
 </a>
-</li><li class="level2 nav-14-3-112">
+</li><li class="level2 nav-15-3-116">
 <a href="https://aescripts.com/authors/f-l/justin-taylor/">
-<span> Justin Taylor</span>
+<span>Justin Taylor</span>
 </a>
-</li><li class="level2 nav-14-3-113">
-<a href="https://aescripts.com/authors/f-l/khanyu-inc/">
-<span>Khanyu Inc.</span>
+</li><li class="level2 nav-15-3-117">
+<a href="https://aescripts.com/authors/f-l/kabansky/">
+<span>Kabansky</span>
 </a>
-</li><li class="level2 nav-14-3-114">
+</li><li class="level2 nav-15-3-118">
 <a href="https://aescripts.com/authors/f-l/keller-io/">
 <span>Keller.io</span>
 </a>
-</li><li class="level2 nav-14-3-115">
+</li><li class="level2 nav-15-3-119">
 <a href="https://aescripts.com/authors/f-l/kevin-schires/">
 <span>Kevin Schires</span>
 </a>
-</li><li class="level2 nav-14-3-116">
-<a href="https://aescripts.com/authors/f-l/koji-color-181/">
+</li><li class="level2 nav-15-3-120">
+<a href="https://aescripts.com/authors/f-l/koji-color-200/">
 <span>Koji Color</span>
 </a>
-</li><li class="level2 nav-14-3-117">
+</li><li class="level2 nav-15-3-121">
+<a href="https://aescripts.com/authors/f-l/kraftyfx/">
+<span>KraftyFX</span>
+</a>
+</li><li class="level2 nav-15-3-122">
 <a href="https://aescripts.com/authors/f-l/kyle-martinez/">
 <span>Kyle Martinez</span>
 </a>
-</li><li class="level2 nav-14-3-118">
+</li><li class="level2 nav-15-3-123">
 <a href="https://aescripts.com/authors/f-l/lars-jandel/">
 <span>Lars Jandel</span>
 </a>
-</li><li class="level2 nav-14-3-119">
+</li><li class="level2 nav-15-3-124">
 <a href="https://aescripts.com/authors/f-l/lasse-lauch/">
 <span>Lasse Lauch</span>
 </a>
-</li><li class="level2 nav-14-3-120">
+</li><li class="level2 nav-15-3-125">
 <a href="https://aescripts.com/authors/f-l/late-for-dinner-studios/">
 <span>Late for Dinner Studios</span>
 </a>
-</li><li class="level2 nav-14-3-121">
+</li><li class="level2 nav-15-3-126">
 <a href="https://aescripts.com/authors/f-l/laurence-yates/">
 <span>Laurence Yates</span>
 </a>
-</li><li class="level2 nav-14-3-122">
+</li><li class="level2 nav-15-3-127">
 <a href="https://aescripts.com/authors/f-l/liam-hill/">
 <span>Liam Hill</span>
 </a>
-</li><li class="level2 nav-14-3-123">
+</li><li class="level2 nav-15-3-128">
 <a href="https://aescripts.com/authors/f-l/lie-p9/">
 <span>Lie_P9</span>
 </a>
-</li><li class="level2 nav-14-3-124">
+</li><li class="level2 nav-15-3-129">
 <a href="https://aescripts.com/authors/f-l/lighght/">
 <span>lighght</span>
 </a>
-</li><li class="level2 nav-14-3-125">
+</li><li class="level2 nav-15-3-130">
+<a href="https://aescripts.com/authors/f-l/liu-ran/">
+<span>Liu Ran</span>
+</a>
+</li><li class="level2 nav-15-3-131">
 <a href="https://aescripts.com/authors/f-l/llcheesell/">
 <span>llcheesell</span>
 </a>
-</li><li class="level2 nav-14-3-126">
+</li><li class="level2 nav-15-3-132">
 <a href="https://aescripts.com/authors/f-l/lloyd-alvarez/">
 <span>Lloyd Alvarez</span>
 </a>
-</li><li class="level2 nav-14-3-127">
+</li><li class="level2 nav-15-3-133">
 <a href="https://aescripts.com/authors/f-l/louis-fortin/">
 <span>Louis Fortin</span>
 </a>
-</li><li class="level2 nav-14-3-128 last">
+</li><li class="level2 nav-15-3-134 last">
 <a href="https://aescripts.com/authors/f-l/luke-letellier/">
 <span>Luke Letellier</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-14-4 parent">
+</li><li class="level1 nav-15-4 parent">
 <a href="https://aescripts.com/authors/m-p/">
 <span>M-P</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-14-4-129 first">
+<li class="level2 nav-15-4-135 first">
 <a href="https://aescripts.com/authors/m-p/mago-fonts/">
 <span>MaGo fonts</span>
 </a>
-</li><li class="level2 nav-14-4-130">
+</li><li class="level2 nav-15-4-136">
 <a href="https://aescripts.com/authors/m-p/mahmoud-elsafy/">
 <span>Mahmoud Elsafy</span>
 </a>
-</li><li class="level2 nav-14-4-131">
+</li><li class="level2 nav-15-4-137">
 <a href="https://aescripts.com/authors/m-p/maltaannon-tools/">
 <span>Maltaannon Tools</span>
 </a>
-</li><li class="level2 nav-14-4-132">
+</li><li class="level2 nav-15-4-138">
 <a href="https://aescripts.com/authors/m-p/mamoworld/">
 <span>mamoworld</span>
 </a>
-</li><li class="level2 nav-14-4-133">
+</li><li class="level2 nav-15-4-139">
+<a href="https://aescripts.com/authors/m-p/mapoart/">
+<span>MapoART</span>
+</a>
+</li><li class="level2 nav-15-4-140">
 <a href="https://aescripts.com/authors/m-p/marioarturo/">
 <span>MarioArturo</span>
 </a>
-</li><li class="level2 nav-14-4-134">
+</li><li class="level2 nav-15-4-141">
 <a href="https://aescripts.com/authors/m-p/mario-brauer/">
 <span>Mario Brauer</span>
 </a>
-</li><li class="level2 nav-14-4-135">
+</li><li class="level2 nav-15-4-142">
 <a href="https://aescripts.com/authors/m-p/marco-sanasi/">
 <span>Marco Sanasi</span>
 </a>
-</li><li class="level2 nav-14-4-136">
+</li><li class="level2 nav-15-4-143">
 <a href="https://aescripts.com/authors/m-p/markus-bergelt/">
 <span>Markus Bergelt</span>
 </a>
-</li><li class="level2 nav-14-4-137">
+</li><li class="level2 nav-15-4-144">
 <a href="https://aescripts.com/authors/m-p/markus-feder/">
 <span>Markus Feder</span>
 </a>
-</li><li class="level2 nav-14-4-138">
+</li><li class="level2 nav-15-4-145">
 <a href="https://aescripts.com/authors/m-p/mathieu-glatigny/">
 <span>Mathieu Glatigny</span>
 </a>
-</li><li class="level2 nav-14-4-139">
+</li><li class="level2 nav-15-4-146">
 <a href="https://aescripts.com/authors/m-p/matthew-butler/">
 <span>Matthew Butler</span>
 </a>
-</li><li class="level2 nav-14-4-140">
+</li><li class="level2 nav-15-4-147">
 <a href="https://aescripts.com/authors/m-p/matthias-guntrum/">
 <span>Matthias Guntrum</span>
 </a>
-</li><li class="level2 nav-14-4-141">
+</li><li class="level2 nav-15-4-148">
 <a href="https://aescripts.com/authors/m-p/matt-gravish/">
 <span>Matt Gravish</span>
 </a>
-</li><li class="level2 nav-14-4-142">
+</li><li class="level2 nav-15-4-149">
 <a href="https://aescripts.com/authors/m-p/matt-tillman/">
 <span>Matt Tillman</span>
 </a>
-</li><li class="level2 nav-14-4-143">
+</li><li class="level2 nav-15-4-150">
 <a href="https://aescripts.com/authors/m-p/matt-volp/">
 <span>Matt Volp</span>
 </a>
-</li><li class="level2 nav-14-4-144">
+</li><li class="level2 nav-15-4-151">
 <a href="https://aescripts.com/authors/m-p/mediapreview-fx/">
 <span>mediapreview fx</span>
 </a>
-</li><li class="level2 nav-14-4-145">
+</li><li class="level2 nav-15-4-152">
 <a href="https://aescripts.com/authors/m-p/mekajiki/">
 <span>Mekajiki</span>
 </a>
-</li><li class="level2 nav-14-4-146">
+</li><li class="level2 nav-15-4-153">
 <a href="https://aescripts.com/authors/m-p/mettle/">
 <span>Mettle</span>
 </a>
-</li><li class="level2 nav-14-4-147">
+</li><li class="level2 nav-15-4-154">
 <a href="https://aescripts.com/authors/m-p/michael-cardeiro/">
 <span>Michael Cardeiro</span>
 </a>
-</li><li class="level2 nav-14-4-148">
+</li><li class="level2 nav-15-4-155">
 <a href="https://aescripts.com/authors/m-p/michael-delaney/">
 <span>Michael Delaney</span>
 </a>
-</li><li class="level2 nav-14-4-149">
+</li><li class="level2 nav-15-4-156">
 <a href="https://aescripts.com/authors/m-p/michel-pensas/">
 <span>Michel Pensas</span>
 </a>
-</li><li class="level2 nav-14-4-150">
+</li><li class="level2 nav-15-4-157">
 <a href="https://aescripts.com/authors/m-p/mike-overbeck/">
 <span>Mike Overbeck</span>
 </a>
-</li><li class="level2 nav-14-4-151">
+</li><li class="level2 nav-15-4-158">
 <a href="https://aescripts.com/authors/m-p/mike-udin/">
 <span>Mike Udin</span>
 </a>
-</li><li class="level2 nav-14-4-152">
+</li><li class="level2 nav-15-4-159">
 <a href="https://aescripts.com/authors/m-p/mini-kiwi/">
 <span>Mini Kiwi</span>
 </a>
-</li><li class="level2 nav-14-4-153">
+</li><li class="level2 nav-15-4-160">
 <a href="https://aescripts.com/authors/m-p/mister-horse/">
 <span>Mister Horse</span>
 </a>
-</li><li class="level2 nav-14-4-154">
+</li><li class="level2 nav-15-4-161">
 <a href="https://aescripts.com/authors/m-p/mistis-fonts/">
 <span>Misti's Fonts</span>
 </a>
-</li><li class="level2 nav-14-4-155">
+</li><li class="level2 nav-15-4-162">
 <a href="https://aescripts.com/authors/m-p/modio/">
 <span>Modio</span>
 </a>
-</li><li class="level2 nav-14-4-156">
+</li><li class="level2 nav-15-4-163">
 <a href="https://aescripts.com/authors/m-p/momcilo-stojkovic/">
 <span>Momcilo Stojkovic</span>
 </a>
-</li><li class="level2 nav-14-4-157">
+</li><li class="level2 nav-15-4-164">
 <a href="https://aescripts.com/authors/m-p/motion-boutique/">
 <span>Motion Boutique</span>
 </a>
-</li><li class="level2 nav-14-4-158">
+</li><li class="level2 nav-15-4-165">
 <a href="https://aescripts.com/authors/m-p/motion-embassy/">
 <span>Motion Embassy</span>
 </a>
-</li><li class="level2 nav-14-4-159">
+</li><li class="level2 nav-15-4-166">
 <a href="https://aescripts.com/authors/m-p/motion-geeks/">
 <span>Motion Geeks</span>
 </a>
-</li><li class="level2 nav-14-4-160">
+</li><li class="level2 nav-15-4-167">
 <a href="https://aescripts.com/authors/m-p/mr-journey/">
 <span>Mr. Journey</span>
 </a>
-</li><li class="level2 nav-14-4-161">
+</li><li class="level2 nav-15-4-168">
 <a href="https://aescripts.com/authors/m-p/nab/">
 <span>Nab</span>
 </a>
-</li><li class="level2 nav-14-4-162">
+</li><li class="level2 nav-15-4-169">
 <a href="https://aescripts.com/authors/m-p/nataworkstudio/">
 <span>nataworkstudio</span>
 </a>
-</li><li class="level2 nav-14-4-163">
+</li><li class="level2 nav-15-4-170">
 <a href="https://aescripts.com/authors/m-p/nik-ska/">
 <span>Nik Ska</span>
 </a>
-</li><li class="level2 nav-14-4-164">
+</li><li class="level2 nav-15-4-171">
 <a href="https://aescripts.com/authors/m-p/olaola-yuan/">
 <span>Olaola Yuan</span>
 </a>
-</li><li class="level2 nav-14-4-165">
+</li><li class="level2 nav-15-4-172">
 <a href="https://aescripts.com/authors/m-p/oleg-yarko/">
 <span>Oleg Yarko</span>
 </a>
-</li><li class="level2 nav-14-4-166">
+</li><li class="level2 nav-15-4-173">
 <a href="https://aescripts.com/authors/m-p/orrin-zucker/">
 <span>Orrin Zucker</span>
 </a>
-</li><li class="level2 nav-14-4-167">
+</li><li class="level2 nav-15-4-174">
 <a href="https://aescripts.com/authors/m-p/othercubed/">
 <span>OtherCubed</span>
 </a>
-</li><li class="level2 nav-14-4-168">
+</li><li class="level2 nav-15-4-175">
 <a href="https://aescripts.com/authors/m-p/ouss/">
 <span>OUSS</span>
 </a>
-</li><li class="level2 nav-14-4-169">
+</li><li class="level2 nav-15-4-176">
 <a href="https://aescripts.com/authors/m-p/oussama-touzni/">
 <span>Oussama Touzni</span>
 </a>
-</li><li class="level2 nav-14-4-170">
+</li><li class="level2 nav-15-4-177">
 <a href="https://aescripts.com/authors/m-p/paul-conigliaro/">
 <span>Paul Conigliaro</span>
 </a>
-</li><li class="level2 nav-14-4-171">
+</li><li class="level2 nav-15-4-178">
 <a href="https://aescripts.com/authors/m-p/paul-tuersley/">
 <span>Paul Tuersley</span>
 </a>
-</li><li class="level2 nav-14-4-172">
+</li><li class="level2 nav-15-4-179">
 <a href="https://aescripts.com/authors/m-p/pavel-parchevskiy/">
 <span>Pavel Parchevskiy </span>
 </a>
-</li><li class="level2 nav-14-4-173">
+</li><li class="level2 nav-15-4-180">
 <a href="https://aescripts.com/authors/m-p/perry-design/">
 <span>Perry Design</span>
 </a>
-</li><li class="level2 nav-14-4-174">
+</li><li class="level2 nav-15-4-181">
 <a href="https://aescripts.com/authors/m-p/peter-quinn/">
 <span>Peter Quinn</span>
 </a>
-</li><li class="level2 nav-14-4-175">
+</li><li class="level2 nav-15-4-182">
 <a href="https://aescripts.com/authors/m-p/pixelbot/">
 <span>Pixelbot</span>
 </a>
-</li><li class="level2 nav-14-4-176">
+</li><li class="level2 nav-15-4-183">
 <a href="https://aescripts.com/authors/m-p/plugin-everything/">
 <span>Plugin Everything</span>
 </a>
-</li><li class="level2 nav-14-4-177">
+</li><li class="level2 nav-15-4-184">
 <a href="https://aescripts.com/authors/m-p/plugin-play/">
 <span>Plugin Play</span>
 </a>
-</li><li class="level2 nav-14-4-178 last">
+</li><li class="level2 nav-15-4-185 last">
 <a href="https://aescripts.com/authors/m-p/productioncrate/">
 <span>ProductionCrate</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-14-5 parent">
+</li><li class="level1 nav-15-5 parent">
 <a href="https://aescripts.com/authors/q-r/">
 <span>Q-R</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-14-5-179 first">
+<li class="level2 nav-15-5-186 first">
 <a href="https://aescripts.com/authors/q-r/quarterlight-pictures/">
 <span>Quarterlight Pictures</span>
 </a>
-</li><li class="level2 nav-14-5-180">
+</li><li class="level2 nav-15-5-187">
 <a href="https://aescripts.com/authors/q-r/real-creations/">
 <span>Real Creations</span>
 </a>
-</li><li class="level2 nav-14-5-181">
+</li><li class="level2 nav-15-5-188">
 <a href="https://aescripts.com/authors/q-r/redefinery/">
 <span>redefinery</span>
 </a>
-</li><li class="level2 nav-14-5-182">
+</li><li class="level2 nav-15-5-189">
 <a href="https://aescripts.com/authors/q-r/rebane/">
 <span>Rebane</span>
 </a>
-</li><li class="level2 nav-14-5-183">
+</li><li class="level2 nav-15-5-190">
 <a href="https://aescripts.com/authors/q-r/rebusfilm/">
 <span>Rebus Film</span>
 </a>
-</li><li class="level2 nav-14-5-184">
+</li><li class="level2 nav-15-5-191">
 <a href="https://aescripts.com/authors/q-r/red-giant/">
 <span>Red Giant</span>
 </a>
-</li><li class="level2 nav-14-5-185">
+</li><li class="level2 nav-15-5-192">
 <a href="https://aescripts.com/authors/q-r/reduxfx-productions/">
 <span>ReduxFX</span>
 </a>
-</li><li class="level2 nav-14-5-186">
+</li><li class="level2 nav-15-5-193">
 <a href="https://aescripts.com/authors/q-r/remco-janssen/">
 <span>Remco Janssen</span>
 </a>
-</li><li class="level2 nav-14-5-187">
+</li><li class="level2 nav-15-5-194">
 <a href="https://aescripts.com/authors/q-r/remi-monedi/">
 <span>Rémi Monedi</span>
 </a>
-</li><li class="level2 nav-14-5-188">
+</li><li class="level2 nav-15-5-195">
 <a href="https://aescripts.com/authors/q-r/rendertom/">
 <span>renderTom</span>
 </a>
-</li><li class="level2 nav-14-5-189">
+</li><li class="level2 nav-15-5-196">
 <a href="https://aescripts.com/authors/q-r/reuben-lara/">
 <span>Reuben Lara</span>
 </a>
-</li><li class="level2 nav-14-5-190">
+</li><li class="level2 nav-15-5-197">
 <a href="https://aescripts.com/authors/q-r/robert-sarosi/">
 <span>Robert Sarosi</span>
 </a>
-</li><li class="level2 nav-14-5-191">
+</li><li class="level2 nav-15-5-198">
 <a href="https://aescripts.com/authors/q-r/rob-womack/">
 <span>Rob Womack</span>
 </a>
-</li><li class="level2 nav-14-5-192">
+</li><li class="level2 nav-15-5-199">
+<a href="https://aescripts.com/authors/q-r/rodrigo-dominguez/">
+<span>Rodrigo Domínguez</span>
+</a>
+</li><li class="level2 nav-15-5-200">
 <a href="https://aescripts.com/authors/q-r/roe-media/">
 <span>Roe Media</span>
 </a>
-</li><li class="level2 nav-14-5-193">
+</li><li class="level2 nav-15-5-201">
 <a href="https://aescripts.com/authors/q-r/romain-cousin/">
 <span>Romain Cousin</span>
 </a>
-</li><li class="level2 nav-14-5-194">
+</li><li class="level2 nav-15-5-202">
 <a href="https://aescripts.com/authors/q-r/roman-zander/">
 <span>Roman Zander</span>
 </a>
-</li><li class="level2 nav-14-5-195">
+</li><li class="level2 nav-15-5-203">
 <a href="https://aescripts.com/authors/q-r/rowbyte/">
 <span>Rowbyte</span>
 </a>
-</li><li class="level2 nav-14-5-196">
+</li><li class="level2 nav-15-5-204">
 <a href="https://aescripts.com/authors/q-r/rune-gangso/">
 <span>Rune Gangsø</span>
 </a>
-</li><li class="level2 nav-14-5-197">
+</li><li class="level2 nav-15-5-205">
 <a href="https://aescripts.com/authors/q-r/ryan-cashman/">
 <span>Ryan Cashman</span>
 </a>
-</li><li class="level2 nav-14-5-198">
+</li><li class="level2 nav-15-5-206">
 <a href="https://aescripts.com/authors/q-r/ryan-ragle/">
 <span>Ryan Ragle</span>
 </a>
-</li><li class="level2 nav-14-5-199 last">
+</li><li class="level2 nav-15-5-207 last">
 <a href="https://aescripts.com/authors/q-r/r-smart/">
 <span>R-smart</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-14-6 last parent">
+</li><li class="level1 nav-15-6 last parent">
 <a href="https://aescripts.com/authors/s-z-0-9/">
 <span>S-Z 0-9</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-14-6-200 first">
+<li class="level2 nav-15-6-208 first">
 <a href="https://aescripts.com/authors/s-z-0-9/scott-garner/">
 <span>Scott Garner</span>
 </a>
-</li><li class="level2 nav-14-6-201">
+</li><li class="level2 nav-15-6-209">
 <a href="https://aescripts.com/authors/s-z-0-9/scott-higgs/">
 <span>Scott Higgs</span>
 </a>
-</li><li class="level2 nav-14-6-202">
+</li><li class="level2 nav-15-6-210">
 <a href="https://aescripts.com/authors/s-z-0-9/salahuddin-taha/">
 <span>Salahuddin Taha</span>
 </a>
-</li><li class="level2 nav-14-6-203">
+</li><li class="level2 nav-15-6-211">
 <a href="https://aescripts.com/authors/s-z-0-9/sander-van-dijk/">
 <span>Sander van Dijk</span>
 </a>
-</li><li class="level2 nav-14-6-204">
+</li><li class="level2 nav-15-6-212">
 <a href="https://aescripts.com/authors/s-z-0-9/sander-van-dijk-and-remco-janssen/">
 <span>Sander van Dijk &amp; Remco Janssen</span>
 </a>
-</li><li class="level2 nav-14-6-205">
+</li><li class="level2 nav-15-6-213">
 <a href="https://aescripts.com/authors/s-z-0-9/sebas-and-clim/">
 <span>Sebas and Clim</span>
 </a>
-</li><li class="level2 nav-14-6-206">
+</li><li class="level2 nav-15-6-214">
 <a href="https://aescripts.com/authors/s-z-0-9/sebastian-moreno/">
 <span>Sebastian Moreno</span>
 </a>
-</li><li class="level2 nav-14-6-207">
+</li><li class="level2 nav-15-6-215">
 <a href="https://aescripts.com/authors/s-z-0-9/sebastien-lavoie/">
 <span>Sébastien Lavoie</span>
 </a>
-</li><li class="level2 nav-14-6-208">
+</li><li class="level2 nav-15-6-216">
 <a href="https://aescripts.com/authors/s-z-0-9/sebastien-perier/">
 <span>Sébastien Perier</span>
 </a>
-</li><li class="level2 nav-14-6-209">
+</li><li class="level2 nav-15-6-217">
 <a href="https://aescripts.com/authors/s-z-0-9/sergei-tabalov/">
 <span>Sergei Tabalov</span>
 </a>
-</li><li class="level2 nav-14-6-210">
+</li><li class="level2 nav-15-6-218">
 <a href="https://aescripts.com/authors/s-z-0-9/set-matte/">
 <span>Set Matte</span>
 </a>
-</li><li class="level2 nav-14-6-211">
+</li><li class="level2 nav-15-6-219">
+<a href="https://aescripts.com/authors/s-z-0-9/sideshowfx/">
+<span>SideshowFX</span>
+</a>
+</li><li class="level2 nav-15-6-220">
 <a href="https://aescripts.com/authors/s-z-0-9/songz-meng/">
 <span>Songz Meng</span>
 </a>
-</li><li class="level2 nav-14-6-212">
+</li><li class="level2 nav-15-6-221">
 <a href="https://aescripts.com/authors/s-z-0-9/specular/">
 <span>Specular</span>
 </a>
-</li><li class="level2 nav-14-6-213">
+</li><li class="level2 nav-15-6-222">
+<a href="https://aescripts.com/authors/s-z-0-9/sqbrain/">
+<span>SqBrain</span>
+</a>
+</li><li class="level2 nav-15-6-223">
 <a href="https://aescripts.com/authors/s-z-0-9/steve-kirby/">
 <span>Steve Kirby</span>
 </a>
-</li><li class="level2 nav-14-6-214">
+</li><li class="level2 nav-15-6-224">
 <a href="https://aescripts.com/authors/s-z-0-9/steve-lewis/">
 <span>Steve Lewis</span>
 </a>
-</li><li class="level2 nav-14-6-215">
+</li><li class="level2 nav-15-6-225">
 <a href="https://aescripts.com/authors/s-z-0-9/struttura/">
 <span>STRUTTURA</span>
 </a>
-</li><li class="level2 nav-14-6-216">
+</li><li class="level2 nav-15-6-226">
 <a href="https://aescripts.com/authors/s-z-0-9/sugarbank-fx/">
 <span>Sugarbank FX</span>
 </a>
-</li><li class="level2 nav-14-6-217">
+</li><li class="level2 nav-15-6-227">
 <a href="https://aescripts.com/authors/s-z-0-9/sugkyu/">
 <span>Sugkyu</span>
 </a>
-</li><li class="level2 nav-14-6-218">
+</li><li class="level2 nav-15-6-228">
 <a href="https://aescripts.com/authors/s-z-0-9/sunrise-moon/">
 <span>SUNRISE MOON</span>
 </a>
-</li><li class="level2 nav-14-6-219">
+</li><li class="level2 nav-15-6-229">
 <a href="https://aescripts.com/authors/s-z-0-9/superluminal/">
 <span>Superluminal</span>
 </a>
-</li><li class="level2 nav-14-6-220">
+</li><li class="level2 nav-15-6-230">
 <a href="https://aescripts.com/authors/s-z-0-9/surround-media/">
 <span>Surround Media</span>
 </a>
-</li><li class="level2 nav-14-6-221">
+</li><li class="level2 nav-15-6-231">
 <a href="https://aescripts.com/authors/s-z-0-9/tangent-fx/">
 <span>Tangent FX</span>
 </a>
-</li><li class="level2 nav-14-6-222">
+</li><li class="level2 nav-15-6-232">
 <a href="https://aescripts.com/authors/s-z-0-9/takumi-kashima/">
 <span>Takumi Kashima</span>
 </a>
-</li><li class="level2 nav-14-6-223">
+</li><li class="level2 nav-15-6-233">
 <a href="https://aescripts.com/authors/s-z-0-9/that-studio/">
 <span>That Studio</span>
 </a>
-</li><li class="level2 nav-14-6-224">
+</li><li class="level2 nav-15-6-234">
 <a href="https://aescripts.com/authors/s-z-0-9/the-drawing-room/">
 <span>The Drawing Room</span>
 </a>
-</li><li class="level2 nav-14-6-225">
+</li><li class="level2 nav-15-6-235">
 <a href="https://aescripts.com/authors/s-z-0-9/timecore/">
 <span>Timecore</span>
 </a>
-</li><li class="level2 nav-14-6-226">
+</li><li class="level2 nav-15-6-236">
 <a href="https://aescripts.com/authors/s-z-0-9/tobias-van-bladel/">
 <span>Tobias van Bladel</span>
 </a>
-</li><li class="level2 nav-14-6-227">
+</li><li class="level2 nav-15-6-237">
 <a href="https://aescripts.com/authors/s-z-0-9/tony-banik/">
 <span>Tony Banik</span>
 </a>
-</li><li class="level2 nav-14-6-228">
+</li><li class="level2 nav-15-6-238">
 <a href="https://aescripts.com/authors/s-z-0-9/torus-media-labs/">
 <span>Torus Media Labs</span>
 </a>
-</li><li class="level2 nav-14-6-229">
+</li><li class="level2 nav-15-6-239">
 <a href="https://aescripts.com/authors/s-z-0-9/transfusion-ai/">
 <span>Transfusion.AI</span>
 </a>
-</li><li class="level2 nav-14-6-230">
+</li><li class="level2 nav-15-6-240">
 <a href="https://aescripts.com/authors/s-z-0-9/tumoiyorozu/">
 <span>TumoiYorozu</span>
 </a>
-</li><li class="level2 nav-14-6-231">
+</li><li class="level2 nav-15-6-241">
 <a href="https://aescripts.com/authors/s-z-0-9/tyler-swanson/">
 <span>Tyler Swanson</span>
 </a>
-</li><li class="level2 nav-14-6-232">
+</li><li class="level2 nav-15-6-242">
 <a href="https://aescripts.com/authors/s-z-0-9/ulti-media/">
 <span>ulti.media</span>
 </a>
-</li><li class="level2 nav-14-6-233">
+</li><li class="level2 nav-15-6-243">
 <a href="https://aescripts.com/authors/s-z-0-9/valkaari/">
 <span>Valkaari</span>
 </a>
-</li><li class="level2 nav-14-6-234">
+</li><li class="level2 nav-15-6-244">
 <a href="https://aescripts.com/authors/s-z-0-9/vaporstack-tools/">
 <span>vaporstack tools</span>
 </a>
-</li><li class="level2 nav-14-6-235">
+</li><li class="level2 nav-15-6-245">
 <a href="https://aescripts.com/authors/s-z-0-9/vfx-wizard/">
 <span>VFX Wizard</span>
 </a>
-</li><li class="level2 nav-14-6-236">
+</li><li class="level2 nav-15-6-246">
 <a href="https://aescripts.com/authors/s-z-0-9/victoria-nece/">
 <span>Victoria Nece</span>
 </a>
-</li><li class="level2 nav-14-6-237">
+</li><li class="level2 nav-15-6-247">
 <a href="https://aescripts.com/authors/s-z-0-9/video-copilot/">
 <span>Video Copilot</span>
 </a>
-</li><li class="level2 nav-14-6-238">
+</li><li class="level2 nav-15-6-248">
 <a href="https://aescripts.com/authors/s-z-0-9/video-narco/">
 <span>Video Narco</span>
 </a>
-</li><li class="level2 nav-14-6-239">
+</li><li class="level2 nav-15-6-249">
+<a href="https://aescripts.com/authors/s-z-0-9/vimager/">
+<span>vimager</span>
+</a>
+</li><li class="level2 nav-15-6-250">
 <a href="https://aescripts.com/authors/s-z-0-9/vinhson-nguyen/">
 <span>VinhSon Nguyen</span>
 </a>
-</li><li class="level2 nav-14-6-240">
+</li><li class="level2 nav-15-6-251">
 <a href="https://aescripts.com/authors/s-z-0-9/visuality/">
 <span>visuality</span>
 </a>
-</li><li class="level2 nav-14-6-241">
+</li><li class="level2 nav-15-6-252">
 <a href="https://aescripts.com/authors/s-z-0-9/vranos/">
 <span>Vranos</span>
 </a>
-</li><li class="level2 nav-14-6-242">
+</li><li class="level2 nav-15-6-253">
 <a href="https://aescripts.com/authors/s-z-0-9/vurb/">
 <span>Vurb</span>
 </a>
-</li><li class="level2 nav-14-6-243">
+</li><li class="level2 nav-15-6-254">
 <a href="https://aescripts.com/authors/s-z-0-9/wasib-qureshi/">
 <span>Wasib Qureshi</span>
 </a>
-</li><li class="level2 nav-14-6-244">
+</li><li class="level2 nav-15-6-255">
 <a href="https://aescripts.com/authors/s-z-0-9/we-are-there/">
 <span>WE ARE THERE</span>
 </a>
-</li><li class="level2 nav-14-6-245">
+</li><li class="level2 nav-15-6-256">
 <a href="https://aescripts.com/authors/s-z-0-9/weird-alchemy/">
 <span>Weird Alchemy</span>
 </a>
-</li><li class="level2 nav-14-6-246">
+</li><li class="level2 nav-15-6-257">
 <a href="https://aescripts.com/authors/s-z-0-9/wlazinski-matthieu/">
 <span>Wlazinski Matthieu</span>
 </a>
-</li><li class="level2 nav-14-6-247">
+</li><li class="level2 nav-15-6-258">
 <a href="https://aescripts.com/authors/s-z-0-9/yaroflasher/">
 <span>YaroFlasher</span>
 </a>
-</li><li class="level2 nav-14-6-248">
+</li><li class="level2 nav-15-6-259">
 <a href="https://aescripts.com/authors/s-z-0-9/zack-lovatt/">
 <span>Zack Lovatt</span>
 </a>
-</li><li class="level2 nav-14-6-249">
+</li><li class="level2 nav-15-6-260">
 <a href="https://aescripts.com/authors/s-z-0-9/zaebects/">
 <span>Zaebects</span>
 </a>
-</li><li class="level2 nav-14-6-250">
+</li><li class="level2 nav-15-6-261">
 <a href="https://aescripts.com/authors/s-z-0-9/zhiqiang-li/">
 <span>Zhiqiang Li</span>
 </a>
-</li><li class="level2 nav-14-6-251">
+</li><li class="level2 nav-15-6-262">
+<a href="https://aescripts.com/authors/s-z-0-9/zzstarsound/">
+<span>ZzStarSound</span>
+</a>
+</li><li class="level2 nav-15-6-263">
 <a href="https://aescripts.com/authors/s-z-0-9/3d-yuvsoft/">
 <span>3D YUVsoft</span>
 </a>
-</li><li class="level2 nav-14-6-252 last">
+</li><li class="level2 nav-15-6-264 last">
 <a href="https://aescripts.com/authors/s-z-0-9/908video-plugins/">
 <span>908video Plugins</span>
 </a>
@@ -2472,7 +2559,7 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
        	<script type="text/javascript">
         //<![CDATA[
             var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
-            var SolrBridgeAutocomplete = new SolrBridgeSearch('search',{id:'autocomplete',target:'#search_mini_form',inputid:'search',containerid:'search_mini_form',boxWidth:469,searchTextPlaceHolder:'',currencySign:'&nbsp;$&nbsp;',currencycode:'USD',ajaxBaseUrl:'https://aescripts.com',searchResultUrl:'https://aescripts.com/search',viewAllResultText:'View all search results for %s',categoryText:'Categories',viewAllCategoryText:'View all categories >>',viewAllBrandsText:'View all brands >>',keywordsText:'Keywords',productText:'product',productsText:'products',brandText:'Brands',storetimestamp:'1543390566',storeid:'1',customergroupid:'0',categoryRedirect:'0',showBrand:'0',showBrandAttributeCode:'manufacturer',displaykeywordsuggestion:'true',displayResultOfText:'Search results for %s',displayResultOfInsteadText:'Search results for %s instead',currencyPos:'before',displayThumb:'0',allowFilter:'0',categoryLimit:'3',brandLimit:'3',fromPriceText:'from',ajaxprice:0});
+            var SolrBridgeAutocomplete = new SolrBridgeSearch('search',{id:'autocomplete',target:'#search_mini_form',inputid:'search',containerid:'search_mini_form',boxWidth:469,searchTextPlaceHolder:'',currencySign:'&nbsp;$&nbsp;',currencycode:'USD',ajaxBaseUrl:'https://aescripts.com',searchResultUrl:'https://aescripts.com/search',viewAllResultText:'View all search results for %s',categoryText:'Categories',viewAllCategoryText:'View all categories >>',viewAllBrandsText:'View all brands >>',keywordsText:'Keywords',productText:'product',productsText:'products',brandText:'Brands',storetimestamp:'1557398330',storeid:'1',customergroupid:'0',categoryRedirect:'0',showBrand:'0',showBrandAttributeCode:'manufacturer',displaykeywordsuggestion:'true',displayResultOfText:'Search results for %s',displayResultOfInsteadText:'Search results for %s instead',currencyPos:'before',displayThumb:'0',allowFilter:'0',categoryLimit:'3',brandLimit:'3',fromPriceText:'from',ajaxprice:0});
         //]]>
         </script> 
     </div>
@@ -2764,7 +2851,7 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 	<footer>
     <div class="wrapper">
             
-        <p class="copyright">© Copyright aescripts + aeplugins 2018</p>
+        <p class="copyright">© Copyright aescripts + aeplugins 2019</p>
         <div class="footer-links">
             <ul class="links1">
     <li><a href="https://aescripts.com/support/">Support</a></li>
@@ -2791,5 +2878,5 @@ src="https://www.facebook.com/tr?id=527033787484778&ev=PageView&noscript=1&cd[so
 
 	
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a3a35b342d","applicationID":"18280258","transactionName":"ZABTZhEECEZWVhJYCl1KZEAKSg9bU1AeHxVbFQ==","queueTime":0,"applicationTime":120,"atts":"SEdQEFkeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a3a35b342d","applicationID":"211270907","transactionName":"ZABTZhEECEZWVhJYCl1KcFEXDAlbGFYLQkpDBFZXTBMPUEA=","queueTime":0,"applicationTime":211,"atts":"SEdQEFkeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
