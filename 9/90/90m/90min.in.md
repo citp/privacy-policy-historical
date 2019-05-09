@@ -1,213 +1,193 @@
-> *The following text is extracted and transformed from the 90min.in privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505185558id_/http%3A//www.90min.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 90min.in privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509064349id_/http%3A//www.90min.in/privacy) for the most accurate reproduction.*
 
 # 
 
-Last modified April 7, 2017
+Last updated: May 1, 2018
 
-We, at Sportority Limited Ltd. (the “ **Company** ), understand you want to keep your information private and that you value our emphasis on keeping your information safe and discrete. We respect your privacy and are committed to protect the privacy of our users (“ **user** ” or “ **you** ”).
+  
 
-The Company provides its services to you when you use its 90min.com services, including 90min mobile applications and 90min website, and when you use online services, websites and applications of our trusted third parties' brands' (each a " **Brand** "), as well as any of our online services )collectively: the “ **Services** ”).
 
-We have created this Privacy Policy to inform you about how the Company and its Brand owners (if applicable) (collectively " **we** ", " **our** " or " **us** ") manage, collect and use your information through your use of our Services, which provide you a platform to share your thoughts and commentaries regarding sport events (as a writer) and to enjoy online information concerning sports events, news, updates, videos, podcasts, etc. (as a visitor).  
+### Our Commitment to You 
 
-The Privacy Policy is a part of our Terms of Use and is incorporated therein by references. The definitions in the Terms of Use apply to this Privacy Policy unless stated otherwise.
+Pro Sportority (Israel) Ltd and its affiliated companies (“Sportority”) are dedicated to providing internet users with the highest level of transparency and control over the use of their data. In order for us to provide you with our services we are required to collect and process certain personal information about you and your activity. 
 
-We encourage you to read the Privacy Policy carefully and use it to make informed decisions. By using our Services, you agree to the terms of this Privacy Policy and your continued use of the Services constitutes your ongoing agreement to this Privacy Policy.
+By entrusting us with your information, we would like to assure you of our commitment to keep such information private. We have taken measurable steps to protect the confidentiality, security and integrity of this Information. We encourage you to review the following information carefully.
 
-In this Privacy Policy you will read about:
+  
 
-  *  **types of information** we collect  
 
-  *  **Cookies** and Google Analytics  
+### Grounds for data collection 
 
-  *  **How we use** the information we collect  
+Processing of your “Personal Data” (meaning any information which may potentially allow your identification with reasonable means) is necessary for the performance of our contractual obligations towards you and providing you with our services and the operation of our website (hereinafter the “Services” and “Website”), to protect our legitimate interests and for compliance with legal and regulatory obligations to which we are subject.
 
-  *  **With whom we share the information**  
+When you use our Service, you consent to the collection, storage, use, disclosure and other uses of your Personal Information as described in this Privacy Policy.
 
-  *  **For how long we retain** the information we collect  
+  
 
-  * The **Data Protection Officer**  
 
-  *  **Advertisements  
-**
-  *  **How do we safeguard** your information  
+### How do we receive data about you?
 
-  *  **Minors**  
+We receive your Personal Data from various sources:
 
-  *  **Advertising ID and Advertising Identifier**  
+  1. Registration information - When you voluntarily provide us your personal details in order to create an account or register to our Services (for example, your name and email address);
 
-  * How to **contact us**  
+  2. When you communicate with us - For example when you send us an email, we collect the Personal Information you provided us with.
 
+  3. Technical information - When operating our services, we use various technological tracking tools to collect information regarding your use of the Website. Along with our partners, we may use tracking technologies such as cookies, JavaScript, beacons and Local Storage such as HTML5, which are used to store content information and preferences. You can learn more about the tracking tools we use by visiting our [Cookie Policy](https://www.90min.in/cookie_policy).
 
+  4. Third party information – We may receive your data from third party providers who help us with the provision and maintenance of our Services, such as social networks (for example your name and user name, when you register or log-in to our Service), traffic analytics vendors, fraud prevention agencies and others.
 
 
- **What type of information we collect**
 
-We collect two types of data and information from our users:
 
-The first type of information is individually identifiable information, namely information that identifies an individual or may with reasonable effort identify an individual (“Personal Information”), which includes the following:
+### What type of data we collect?
 
-  *  **Voluntary information:** We collect information which you provide us voluntarily, such as your name and email address, which you may provide us as part of becoming a Writer. In addition, we may also when you respond to communications from us, communicate with us via email or share additional information about yourself through your use of the Services, we may also collect such information.  
+Personal Data
 
-  *  **User Content:** We permit you and other users to upload, post or otherwise make available data, text, graphics, statuses, links, images, comments, articles, podcasts and conversations  (" **User Content** ") on the Services. Such User Content may include Personal Information. We as well as other users may see and share any of your User Content that you make publicly available through the Services. To learn more about User Content and your responsibilities with regard to such content, please see our Terms of Use.  
+In the course of using the Service, we may ask you to provide us with certain Personal Data to provide and improve the Service, to contact or identify you, to enable you to access certain parts of the Website, and as otherwise indicated in this Policy. We collect the following Personal Data about you:
 
-  *  **Social networks:** When you log-in to our Services from your social network account (such as your Facebook account), we will have access to basic information from your social network account, such as your name, birthdate, profile picture and friends' list, as well as information you made publicly available on such account. We will use the Personal Information for the purposes set out herein and disclose such information only to third parties as detailed in this Privacy Policy.  
+  * Registration information – your name, your email address, and your age range. If you connect your account to a social network (for example: if you log in via Facebook), we will also collect certain details, such as your Facebook token, profile and profile photo.  
 
-  *  **Device information:** When you are using the Services, we may collect your device persistent identifier (e.g. IMEI, MAC address, etc.) and your IP address.  
+  * When using our Services – our webserver will collect your IP-address and UDID. 
 
 
 
 
-The second type of information is un-identified and non-identifiable information pertaining to a user(s), which may be made available or gathered via your use of the Services (“ **Non-personal Information** ”). We are not aware of the identity of the user from which the Non-personal Information was collected. Such information includes the following:
+Non-Personal Data
 
-  *  **Technical information:** In order to enhance the functionality of the Services and to provide you with a better user experience, we collect technical information transmitted by your device, including certain software and hardware information (e.g. the type of browser and operating system your device uses, language preference, access time and the domain name from which you linked to the Services; etc.).  
+We also collect data about the use of our Service and the characteristics and activities of users, in order to operate it and improve it. We may collect the following non-Personal Data:
 
-  *  **Analytics information:** We collect information about your use of the Services, such as applications' usage, log files, user activity (e.g. pages viewed, the amount of time spent on particular pages, online browsing, clicks, actions, installs, etc.), time stamps, alerts, etc. This information is collected for amongst other things troubleshooting errors and bugs as well as for research and analytics purposes about your use of the Services.  
+  * Technical information – this category includes data such as website visits, the browser you are using and its display settings, your operating system, device type, session start/stop time, time zone, network connection type (e.g., Wi-Fi, cellular), and cookie information and your general location (city and country).
 
-  *  **Anonymous information:** We may anonymize or de-identify the information collected by the Services or via other means so that the information cannot, on its own, personally identify you. Our use and disclosure of such aggregated or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation and for any purpose.
+  * Information from third parties – this category includes information we receive from our business partners. This may include pseudonymous advertiser identifiers that some Advertisers or other third party ad platforms choose to share with us. This information is also used to enhance data points about a particular unique browser or device.
 
 
 
-If we combine Personal Information with Non-personal Information, the combined information will be treated as Personal Information for as long as it remains combined.
 
- **Cookies and Google Analytics**
+If we combine Personal Data with non-Personal Data, the combined data will be treated as Personal Data. Further Personal Data will only be stored and processed if you voluntarily provide it to us, e.g. through a contact form.
 
-We use cookies, web pixels and other technologies or methods of web analysis to gather, store, and track certain information related to your visit to and activity through the Services.
+  
 
-A cookie is a piece of data stored on your browser containing information about your access to the Services. We and our trusted partners may use such cookies for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our Services quicker and easier. When you visit our site, two types of cookies may be set on your computer. The cookies set by us are called First Party Cookies. Third Party Cookies are the cookies set by someone else, such as service providers who help us operate and improve our site.
 
- **First Party Cookies**
+### Tracking Technologies
 
-Our cookies are limited to authentication and basic service provision purposes:
+When you visit or access our Services we use (and authorize 3rd parties to use) pixels, cookies, events and other technologies. Those allow us to automatically collect information about you, your device and your online behavior, in order to enhance your navigation in our Services, improve our Website’s performance, perform analytics and customize your experience on it. In addition, we may merge information we have with information collected through these tracking technologies with information we may obtain from other sources and, as a result, such information may become Personal Data.
 
-o   Cookies required to enable your access to the Services and to provide you with the services or content you have requested. These cookies expire at the end of each browsing session.
+To learn more about our Tracking Technologies please visit our [Cookie Policy](https://www.90min.in/cookie_policy) page. 
 
-o   Cookies used to identify whether you are a registered user returning to the site. These cookies generally expire within two weeks.
+  
 
-Our cookies contain an alphanumeric string allowing us to identify your device which does not contain any personally identifying information about you
 
-·       **  Third Party Cookies**
+### How do we use the data we collect?
 
-In addition to these first party cookies, you may also encounter cookies set by third parties for various purposes such as those specified below. Because we frequently update our site and Services, add/ remove site features and change service providers on a regular basis, the identity of the third party serving cookies may change from time to time. We expect, however, that the following categories of third party cookies will typically be set by third parties when you use our site and Services, depending on how you interact with our Services:
+  * Provision of service \- for the provision and improvement of our Services, including for support and to respond to your queries.
 
-o   Social Networking Platform Cookies: Cookies set by social networking platforms to enable social media logins or to facilitate the sharing and liking of site content on social networks;
+  * Service announcements \- we will use your Personal Data to communicate with you and to keep you informed of our latest updates to our Services and offer you service offers.
 
-o   Analytics and Performance Cookies: Cookies used to help us analyze how people interact with our site so we can improve the site layout and features for users, to improve performance of the Services, and to help us with site maintenance;
+  * Marketing and advertising purposes \- by subscribing to our newsletter you will receive tips and announcements straight to your email account. We may also use your Personal Data in the following ways: we may send you promotional material concerning our Services, or our partners' services, which we believe might interest you; we may also display certain adverts on our site, which we believe will be relevant for you. We make our best efforts to make sure you see only relevant ads and receive relevant communications from us, including but not limited to, by building an automated profile based on your Personal Data. You may however choose not to receive our promotional or marketing emails (all or any part thereof) by clicking on the “unsubscribe” link in the emails that you receive from us. Please note that even if you unsubscribe from our newsletter, we may continue to send you service-related updates and notifications, or reply to your queries and feedback you provide us. You may also object to the use of your Personal Data for advertising purposes by disabling your cookies, as described in our [Cookie Policy](https://www.90min.in/cookie_policy). 
 
-o   Content Recommendation Cookies: Cookies set by service providers who recommend additional content to you while browsing our website;
+    * Opt-out of receiving marketing materials \- If you do not want us to use or share your Personal Data for marketing purposes, you may opt-out in accordance with this "Opt-out" section. Please note that even if you opt-out, we may still use and share your Personal Data with third parties for non-marketing purposes (for example to fulfill your requests, communicate with you and respond to your inquiries, etc.). In such cases, the companies with whom we share your Personal Data are authorized to use your Personal Data only as necessary to provide these non-marketing services.
 
-o   Fraud Detection Cookies:  Cookies set by service providers in order to detect fraud and improve the security of our online communications;
+  * Analytics, surveys and research \- from time to time, we may conduct surveys or test features, and analyze the data we have to develop, evaluate and improve these features, all in order to improve our Services and think of new and exciting features for our users.
 
-o   Targeting and Advertising Cookies: Cookies used to target and deliver advertisements and to measure the effectiveness of advertising on our Services.
+  * Protecting our interests \- we may use your Personal Data when we believe it’s necessary in order to take precautions against liabilities, investigate and defend ourselves against any third party claims or allegations, investigate and protect ourselves from fraud, protect the security or integrity of our services and protect the rights and property of Sportority, its users and/or partners. 
 
-These cookies will expire when set by the respective third party service provider. 
+  * Enforcing of policies \- we may use your Personal Data in order to enforce our policies, including but limited to our [Terms](https://www.90min.in/terms) .
 
- **·         Google Analytics and Display Advertising**
+  * Compliance with legal and regulatory requirements \- we may use your Personal Data to investigate violations, and as required by law, regulation or other governmental authority, or to comply with a subpoena or similar legal process.
 
-We are currently using Google Analytics on our site and have implemented the following Google Analytics features based on Display Advertising:
 
-o   Google Display Network Impression Reporting: We, together with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick Cookie) to report how our ad impressions, use of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+  
 
-o   Google Analytics Demographics and Interest Reporting: We use data from Google’s interest-based advertising or 3rd-party audience data with Google Analytics to better understand the demographics of users on our site. This allows us to provide more relevant and interesting content to users.
 
-You can opt-out of Google Analytics for Display Advertising and customize Google’s Display Network ads by using Google’s Ads Settings (https://www.google.com/settings/ads). Google also offers additional tools which you can use to manage opt-outs for Google Analytics (https://tools.google.com/dlpage/gaoptout).
+### With whom do we share your Personal Data?
 
-By accessing and using the Services, you consent to the placement of cookies and other tracking technologies (e.g. pixels) on your device in accordance with this Privacy Policy. You may remove the cookies by following the instructions of your device preferences; however, if you choose to disable cookies, some features of the Services may not operate properly and your online experience may be limited. Additionally, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device.
+  * Internal concerned parties \- we share your information with companies in our group, as well as our employees, in order to provide you with our services.
 
- **How we use the information we collect**
+  * Business partners \- we share your information with business partners, such as storage and analytics providers who help us provide you with our service. These third parties may have access to your Personal Data so that they may perform these tasks on our behalf, but they are obligated to comply with this Privacy Policy and may not use your Personal Data for any other purpose.
 
-We use and share Personal Information in the manners described in this Privacy Policy. In addition to the purposes listed above, the information we collect, which may include your Personal Information, is used for the following purposes:
+  * Compliance with laws and law enforcement entities \- we cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any data about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party's property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. We also may be required to disclose an individual’s Personal Data in response to a lawful request by public authorities, including meeting national security or law enforcement requirements.
 
-To provide our Services (e.g. enable you to share User Content; follow other users’ shared content; etc.).
+  * Merger and acquisitions – we may share your data if we enter into a business transaction such as a merger, acquisition, reorganization, bankruptcy, or sale of some or all of our assets. Any party that acquires our assets as part of such a transaction may continue to use your data in accordance with the terms of this Privacy Policy.
 
-To identify and authenticate your access to certain features of the Services;
 
-To communicate with you and to keep you informed of our latest updates;
+  
 
-To send you marketing communications regarding special offers, products, services and periodic newsletters. You can control receipt of certain messages through your "settings" page in the Services;
 
-To serve you advertisements when you use our Services;
+### Transfer of data outside the EEA 
 
-To perform a research or to conduct anonymous analytics in order to improve and customize our Services to your needs and interests;
+Please note that some data recipients may be located outside the EEA. In such cases we will transfer your data only to such countries as approved by the European Commission as providing adequate level of data protection, or enter into legal agreements ensuring an adequate level of data protection.
 
-To test changes to the Services and make improvements to their functionality;
+  
 
-To support and troubleshoot our Services and to respond to your queries;
 
-To detect and  prevent frauds as well as online security threats; and
+### How we protect your information
 
-To investigate violations and enforce our policies, and as required by law, regulation or other governmental authority, or to comply with a subpoena or similar legal process or respond to a government request.
+We have implemented administrative, technical, and physical safeguards to help prevent unauthorized access, use, or disclosure of your Personal Data. Your data is stored on secure servers and isn’t publicly available. We limit access of your information only to those employees or partners on a “need to know” basis, in order to enable the carrying out of the agreement between us. 
 
- **Sharing of Personal Information**
+While we seek to protect your information to ensure that it is kept confidential, we cannot absolutely guarantee its security. You need to help us prevent unauthorized access to your account by protecting your password appropriately and limiting access to your account. You will be solely responsible for keeping your password confidential and for all use of your password and your account, including any unauthorized use. You should also be aware that there is always some risk involved in transmitting information over the internet. While we strive to protect your Personal Data, we cannot ensure or warrant the security and privacy of your Personal Data or other content you transmit using the service, and you do so at your own risk. 
 
-We do not trade, sell, or otherwise share your Personal Information with third-parties except as set out in this Privacy Policy.
+  
 
-In addition to the different uses listed above, we may transfer or disclose Personal Information to Brand owners, subsidiaries, affiliated companies and subcontractors. In addition, we may transfer or disclose Personal Information with other trusted third party service providers or partners, who are located in different jurisdictions across the world, for the purpose of: (a) storing or processing such information on our behalf; (b) assisting us with our business operations and the providing and improvement of our Services; and (c) performing research, technical diagnostics and analytics with regard to the Services. 
 
-We may also disclose Personal Information, or any information you submitted via the Services if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our policies (including our Agreement), including investigations of potential violations thereof; (iii) investigate, detect, prevent, or take action regarding illegal activities or other wrongdoing, suspected fraud or security issues; (iv) to establish or exercise our rights to defend against legal claims; (v) prevent harm to the rights, property or safety of us, our users, yourself or any third party; or (vi) for the purpose of collaborating with law enforcement agencies and/or in case we find it necessary in order to enforce intellectual property or other legal rights.
+### Retention
 
-We may also share Non-personal Information or anonymized information with other third parties for different purposes, such as advertising (see below specific information with regard to our advertising practices, under "Advertisements").
+We will retain your Personal Data for as long as necessary to provide our services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our policies. Retention periods will be determined taking into account the type of information that is collected and the purpose for which it is collected, bearing in mind the requirements applicable to the situation and the need to destroy outdated, unused information at the earliest reasonable time. Under applicable regulations, we will keep records containing client personal data, trading information, account opening documents, communications and anything else as required by applicable laws and regulations. 
 
- **Data Protection Officer**
+  
 
-If You feel that your privacy was treated not in accordance with our policy, or if any person attempted to misuse our Services or acted in an inappropriate or unlawful manner, please contact our Data Protection Officer (“DPO”) at this email address: helpdesk@minutemedia.com and our DPO shall investigate promptly.
 
-Please also contact our DPO if you would like to receive information about Your Personal Information which we retain, to update it or to withdraw any consent which has been given by you under this Privacy Policy.
+### EU User Rights
 
- **Third party collection of information**
+You may request to: 
 
-Please keep in mind that this Privacy Policy does not apply to any third party’s websites, services or applications, even if they are accessible, downloadable, or otherwise distributed through the Services. You should always review their privacy practices carefully before providing Personal Information to such third parties.
+  1. Receive confirmation as to whether or not Personal Data concerning you is being processed, and access your stored Personal Data, together with supplementary information. 
 
-You are knowingly and voluntarily assuming all risks of using any third-party websites, services or applications. You agree that we shall have no liability whatsoever with respect to such third party sites and your usage of them.
+  2. Receive a copy of Personal Data you directly volunteer to us in a structured, commonly used and machine-readable format. 
 
- **Advertisements**
+  3. Request rectification of your Personal Data that is in our control.
 
-We may use advertising technology to serve advertisements (including targeted ads) when you use our Services. This technology may use Non-personal Information with regards to your use of the Services to serve advertisements to you. We may also use third parties and share with them Non-personal Information to assist us in evaluating the success of our advertising campaigns and help us retargeting our users.
+  4. Request erasure of your Personal Data. 
 
-You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: www.networkadvertising.org/optout_nonppii.asp and www.aboutads.info/choices.
+  5. Object to the processing of Personal Data by us. 
 
- **How do we safeguard and transfer your information?**
+  6. Request to restrict processing of your Personal Data by us.
 
-We take great care in implementing and maintaining the security of the Services and your information. We employ industry standard procedures and policies to ensure the safety of our users’ information, and prevent unauthorized use of any such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Services, and we make no warranty, express, implied or otherwise, that we will prevent such access.
+  7. Lodge a complaint with a supervisory authority.
 
-Since we operate globally, it may be necessary to transfer your Personal Information to countries outside the European Union. The data protection and other laws of these countries may not be as comprehensive as those in the European Union − in these instances we will take steps to ensure that a similar level of protection is given to your Personal Information. You hereby consent to transfer of your Personal Information to countries outside the European Union. 
 
-If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse our Services or acted in an inappropriate manner, please contact our DPO at helpdesk@minutemedia.com
 
-If you are unsatisfied with our response, you can reach out to the applicable data protection authority.
 
- **For how long we retain the information we collect?**
+However, please note that these rights pertain to EU residents only, are not absolute, and may be subject to our own legitimate interests and regulatory requirements. Users outside the EU are welcome to contact us for any questions or requests at the details below.
 
-We value your privacy and control over your Personal Information, and therefore you may, at any time, request to change and update it by emailing us at please contact our DPO at helpdesk@minutemedia.com
+  
 
-You can also request that we will correct errors or that we will erase your Personal Information (except for data that we are required to keep under applicable laws) by emailing us. 
 
-Please note that unless you instruct us otherwise we retain the information we collect for as long as needed to provide the Services and to comply with our legal obligations, resolve disputes and enforce our agreements.
+### How to contact us?
 
-We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion.
+If you wish to exercise any of the aforementioned rights, or receive more information, please contact our Data Protection Officer (“DPO”) using the details provided below:
 
- **Corporate transaction**
+Attn. DPO, Sportority Limited, 
 
-We may share Information, including Personal Information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale of an asset or transfer in the operation thereof) of the Company or the Brand owner (as applicable). In the event of the above, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy.
+Email: dpo@minutemedia.com
 
- **Minors**
+Herzog, Fox & Neeman
 
-The Services are not designated to users under the age of 13. If you are under 13, you should not use the Services nor provide any Personal Information to us.
+164 Bishopsgate EC2M 4LX, London
 
-We reserve the right to access and verify any Personal Information collected from you. In the event that we become aware that a user under the age of 13 has shared any information, we will discard such information. If you have any reason to believe that a minor has shared any information with us, please contact our DPO at helpdesk@minutemedia.com
+  
 
- **Advertising ID**
 
-The Google Advertising ID is an anonymous identifier, provided by Google Play services. If your device has an Advertising ID, we will collect and use it for advertising and user analytic purposes.
+### Our Policy toward Children
 
-By downloading or using our Services you explicitly agree that we may associate your Advertising ID with your applicable persistent device identifier. This will facilitate our ability to improve your personalized experience. Further, we may use other persistent identifiers for non-advertising purposes. If your device does not have Advertising ID, we will use other identifiers.
+We understand the importance of protecting children’s privacy, especially in an online environment. The Site and Services are not designed for or directed at children under the age of 16 years old (“Minors”). We do not knowingly collect Personal Data from Minors. If a parent or guardian becomes aware that his or her child has provided us with Personal Data, he or she should contact us using the details provided above.
 
- **Updates**
+  
 
-We may revise this Privacy Policy from time to time, in our sole discretion, and the most current version will always be posted in our application. We encourage you to review this Privacy Policy regularly for any changes.
 
-Your continued use of the Services, following the notification of such amendments in our application, constitutes your acknowledgement and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments.
+### Updates to this Policy 
 
- **How to contact us**
+This Privacy Policy is subject to changes from time to time, in our sole discretion. The most current version will always be posted on our website (as reflected in the "Last Updated" heading). You are advised to check for updates regularly. In the event of material changes, we will provide you with a notice. By continuing to access or use our Services after any revisions become effective, you agree to be bound by the updated Privacy Policy. 
 
-If you have any general questions about the Services or the information that we collect about you and how we use it, please contact our DPO at helpdesk@minutemedia.com
+  
+
