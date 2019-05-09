@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trickymasseur.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117093720id_/https%3A//teenmegaworld.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickymasseur.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509062822id_/http%3A//trickymasseur.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last Modified: May 23, 2018
 
-This privacy policy discloses the privacy practices for IKMedia S.R.O. IKMedia S.R.O.operates the TeenMegaWorld Network (TmwVRnet.com, Beauty4k.com, NoBoring.com, Anal-Beauty.com, Dirty-Coach.com, X-Angels.com, WOW-Orgasms.com, Dirty-Doctor.com, NylonsX.com, WatchMeFucked.com, Anal-Angels.com, FirstBGG.com , Creampie-Angels.com, TrickyMasseur.com, Squirtingvirgin.com, TeenMegaWorld.net, TeenSexMovs.com, TeenSexMania.com, TeenStarsOnly.com, NubileGirlsHD.com, HomeTeenVids.com, LollyHardcore.com, FuckStudies.com, WMBGirls.com, Beauty-Angels.com, Boys-Love18.com, Gag-N-Gape.com, Old-N-Young.com, PrivateTeenVideo,com, ATMovs.com, iTeenVideo.com, 18FirstSex.com, SoloTeenGirls.net, Teens3Some.com, HomeToyTeens.com, TheyDidntKnow.com, AboutGirlsLove.com, Latin-Shemales.net). This privacy policy applies solely to information collected by this web sites. It will notify you of the following: 
+IKMedia S.R.O (hereinafter "we", "us" or "our") operates the website web.archive.org (hereinafter "Web" or the "Website") and is the controller of the information collected or provided via this Website. It will notify you of the following: 
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
 
@@ -92,4 +92,4 @@ This web site contains links to other sites. Please be aware that we are not res
 
 From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via email[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via email[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection). **
