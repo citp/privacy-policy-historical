@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004152541id_/https%3A//www.expedia.com.au/p/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509170549id_/https%3A//www.expedia.com.au/p/support/privacy) for the most accurate reproduction.*
 
 # Expedia Privacy Pledge
 
