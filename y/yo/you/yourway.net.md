@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourway.net privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204043119id_/http%3A//lifeyourway.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourway.net privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509231212id_/https%3A//lifeyourway.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Life Your Way
+# Privacy Policy > Life Your Way
 
 The privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
@@ -23,7 +23,7 @@ None of this information is linked to anything that is personally identifiable, 
 
 **2\. Cookies**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information ( _not_ including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information ( _not_ including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [https://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 My advertising partners include, but are not limited to, Google AdSense, Burst Media and Amazon.com.
 
@@ -47,6 +47,6 @@ While Life Your Way is highly selective about which sites we provide links to, w
 
 Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from Life Your Way. We use a secure opt-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://lifeyourway.net/contact).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://lifeyourway.net/contact).
 
 Last Updated: January 1, 2014
