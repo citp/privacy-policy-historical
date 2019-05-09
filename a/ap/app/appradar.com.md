@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222035505id_/https%3A//appradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509164935id_/https%3A//appradar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - App Radar
 
 ### Our Commitment to Data Privacy
 
 At App Radar we are committed to protecting and respecting your data privacy.
 
-We make no compromises regarding your privacy. We strive to be transparent in the way we are processing your data. We are in compliance with the EU’s General Data Protection Regulation (“GDPR”) and Austria’s data protection regulation. Our data protection officer is happy to respond to any questions regarding the GDPR at [privacy@appradar.com](mailto:privacy@appradar.com)
+We make no compromises regarding your privacy. We strive to be transparent in the way we are processing your data. We are in compliance with the EU’s General Data Protection Regulation (“GDPR”) and Austria’s data protection regulation. Our data protection officer is happy to respond to any questions regarding the GDPR at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7303011a0512100a3312030301121712015d101c1e)
 
 ### Privacy Policy
 
@@ -88,7 +88,7 @@ This website uses retargeting technology. This enables us to contact internet us
 
 No personal data is stored and the usage takes place with regard to the laws for data protection. We cooperate with Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA).
 
-You can opt out of Google Analytics by visiting <https://www.google.com/settings/ads> or by downloading the Google Analytics opt-out browser add-on at <https://tools.google.com/dlpage/gaoptout>.
+You can opt out of Google Analytics by visiting <https://www.google.com/settings/ads> or by downloading the Google Analytics opt-out browser add-on at <https://tools.google.com/dlpage/gaoptout>.
 
 Please note that App Radar initializes Google Analytics with the setting “anonymizeIp”. This guarantees anonymized data collection by masking the last part of your IP address.
 
@@ -102,7 +102,7 @@ After you sign-up for the App Radar newsletter you will receive an email from Ma
 
 We have an ongoing Data-Processing-Agreement (DPA) with Mailchimp. The DPA is a contract that legally binds Mailchimp to keep our users data save, process our data in regards to our data protection regulations and don’t disclose our data to third parties.
 
-Mailchimps privacy policy can be found here: <https://mailchimp.com/legal/privacy/>
+Mailchimps privacy policy can be found here: <https://mailchimp.com/legal/privacy/>
 
 ### Hotjar
 
@@ -116,17 +116,17 @@ This will stop Hotjar from recording your user behaviour.
 
 ### Facebook Visitor Action Pixel
 
-We use the Facebook Visitor Action Pixel to track user behaviour after they have been redirected to our website by clicking on a Facebook Ad. This enables us to measure the effectiveness of Facebook ads for statistical and market research purposes.The data collected in this way is anonymous to us, i.e. we do not see the personal data of individual users. However, this data is stored and processed by Facebook, which is why we are informing you, based on our knowledge of the situation. Facebook may link this information to your Facebook account and also use it for its own promotional purposes, in accordance with Facebook’s Data Usage Policy <https://www.facebook.com/about/privacy/>. You can allow Facebook and its partners to place ads on and off Facebook. A cookie may also be stored on your computer for these purposes.
+We use the Facebook Visitor Action Pixel to track user behaviour after they have been redirected to our website by clicking on a Facebook Ad. This enables us to measure the effectiveness of Facebook ads for statistical and market research purposes.The data collected in this way is anonymous to us, i.e. we do not see the personal data of individual users. However, this data is stored and processed by Facebook, which is why we are informing you, based on our knowledge of the situation. Facebook may link this information to your Facebook account and also use it for its own promotional purposes, in accordance with Facebook’s Data Usage Policy <https://www.facebook.com/about/privacy/>. You can allow Facebook and its partners to place ads on and off Facebook. A cookie may also be stored on your computer for these purposes.
 
-Facebook Visitor Action Pixel is provided by Facebook Inc (1 Hacker Way, Menlo Park, CA 94025, USA, or, if you are based in the EU, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland). Facebook is certified under the Privacy Shield Agreement and thus guarantees compliance with European data protection legislation [https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active)](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active\)).
+Facebook Visitor Action Pixel is provided by Facebook Inc (1 Hacker Way, Menlo Park, CA 94025, USA, or, if you are based in the EU, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland). Facebook is certified under the Privacy Shield Agreement and thus guarantees compliance with European data protection legislation [https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active)](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active\)).
 
-You can tell stop the collection of your data by Facebook pixel by visiting the following address: <https://www.facebook.com/settings?tab=ads>.
+You can tell stop the collection of your data by Facebook pixel by visiting the following address: <https://www.facebook.com/settings?tab=ads>.
 
 ### Payment Provider
 
 App Radar uses PayPal and Braintree (Paypal Group) as payment providers. For the use of these payment providers their Terms of Service and Privacy Policy apply. The ToS and Privacy Policy for PayPal and Braintree are different depending on the country you are in. Make sure to select the right country:
 
-<https://www.paypal.com/us/webapps/mpp/ua/useragreement-full> <https://www.paypal.com/us/webapps/mpp/ua/privacy-full> <https://www.braintreepayments.com/en-at/legal/payment-services-agreement-eu> <https://www.braintreepayments.com/legal/braintree-privacy-policy>
+https://www.paypal.com/us/webapps/mpp/ua/useragreement-fullhttps://www.paypal.com/us/webapps/mpp/ua/privacy-fullhttps://www.braintreepayments.com/en-at/legal/payment-services-agreement-euhttps://www.braintreepayments.com/legal/braintree-privacy-policy
 
 ### Your Rights to Your Data
 
@@ -141,7 +141,7 @@ Adhering to the GDPR we rely on your consent to process your data. We fully ackn
 
 
 
-If you want to exercise any of these rights you can reach our data protection officer via email at: [privacy@appradar.com](mailto:privacy@appradar.com). For your protection, we may ask you to provide proof of identity before we can answer the above requests.
+If you want to exercise any of these rights you can reach our data protection officer via email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0b7b79627d6a68724b6a7b7b796a6f6a7925686466). For your protection, we may ask you to provide proof of identity before we can answer the above requests.
 
 ### Data Transfer to the United States (Privacy Shield)
 
@@ -155,9 +155,8 @@ The language applicable to this Privacy Policy is English and is offered for the
 
 #### Contact
 
- **App Radar Software GmbH**  
+**App Radar Software GmbH**  
 Lastenstraße 13a  
 8020 Graz  
 AUSTRIA  
-Email: [privacy@appradar.com](mailto:privacy@appradar.com)  
-
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5a5a7bca3b4b6ac95b4a5a5a7b4b1b4a7fbb6bab8)
