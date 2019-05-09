@@ -1,66 +1,117 @@
-> *The following text is extracted and transformed from the coupontrade.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326120238id_/https%3A//www.raise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupontrade.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509044351id_/http%3A//raise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Raise
 
-Security is a top priority around here. If you don’t believe us, just look at the lengths we’ve gone to in this privacy statement. Read our Privacy Policy statement here.
+Effective Date: May 23rd, 2017
 
-We collect information from you that you have submitted at the time of registration for a User Account, updates to your User Account and/or profile, billing inquiries, sweepstakes participation, postings, and/or when contacting us. By using Raise, you agree to the collection, use and disclosure of your information as described in this Privacy Policy, as amended from time to time. If you subsequently disagree with our Privacy Policy or any amendments or modifications thereto, please do not use our Site or service.
+This Online Privacy Policy applies to information about you that Raise Marketplace, LLC (“Raise,” “we,” or “us”) may obtain about you when you visit [www.raise.com](https://www.raise.com/) or use our mobile application (collectively, the “Services”). This Privacy Policy also describes how we may collect, use, or share information about you; your choices regarding our use of your information; the ways in which we safeguard the information we collect; and how you may contact us regarding our privacy practices.
 
-## Protecting your Privacy
+## Information We Collect
 
-Raise makes an effort to ensure that your information is given a reasonable measure of security. Despite any physical, managerial and technical safeguards to preserve the integrity and security of information, we cannot however guarantee or warrant that such information will not be breached, accessed, disclosed, stolen, altered, lost or destroyed. If we learn of a security system breach that affects the privacy of your personal information, or in any way compromises the nature of our systems, we will attempt to notify you electronically so that you can take appropriate protective measures. Raise shall attempt to secure information being transmitted through an encryption process. At times when we shall accept credit card information to process a transaction, we shall use a secure socket layer (SSL) technology to provide for secure transmission. Raise will use commercially reasonable efforts to limit access to your personal information to employees, agents, and officers of Raise, and only provide what is required to perform their job duties.
+### Information You Provide to Us
 
-## Data Collection
+We obtain information that you provide to us directly, for example, data you submit when you [create an account](https://www.raise.com/user/sign_up) or [book a demo](https://www.raise.com/bulk-sell-gift-cards). The information we collect may include personal information such as your name, email address, phone number, and date of birth. In some cases we also may request driver’s license or State ID card information or a Social Security number to authenticate a user’s identity in conjunction with certain transactions.
 
-During your use of our services we automatically collect information. The types of information we collect are used so that we at Raise can better understand how the Site and our users interact with one another. Data that is collected from our Site is often used to supplement the needs for internal enhancement. We often ploy strategies that will better improve user experiences and that configuration is derived from information collected and published to develop trends and patterns for internal review.
+### Information That is Collected Automatically When You Use the Services
 
-Information automatically collected when you browse or use our Site includes but is not limited to: your browser type, operating system, IP address, device ID, internet service provider, the search engine (if used) to locate Raise, and the websites you have accessed before, during and immediately after visiting or using Raise.com. User information is categorized into two separate categories. At our discretion we will compile information that we can use to better engage our users with direct preferred service. The two categories of collection are: Personally Identifying Information and Non-Personally Identifying Information, which are described as follows. Personally Identifying Information is information such as your name and email address, whereas Non-Personally Identifying Information, without the aid of additional information, cannot be directly associated with any one person. We use “cookies” that collect non personal information for internal uses as described above. Raise or our service providers will use cookies so as to provide information related and personalized to your preferred viewing. They are used for, but not limited to, the following purposes:
+In addition to information you submit to us, we may collect certain information using automated means such as cookies, web beacons, and web server logs. The types of information we collect automatically may include IP addresses, device identifiers, browser characteristics, operating system details, language preferences, referring URLs, length of visits, and pages viewed.
 
-  * To recognize you when you use our Site.
-  * To provide you with customized content.
-  * To measure our services.
-  * To monitor Raise service usage.
-  * To recognize our affiliates’ referrals.
-  * To research to improve our content and services.
-  * Other internal business purposes.
+In addition, when you use our mobile application we may collect certain information that your mobile device captures during normal usage, such as motion-generated or orientation-generated mobile sensor data that your mobile device uses for various features. For example, when you turn your phone and the screen reorients itself based on the way you’re holding it, or when you shake your phone to trigger a particular action.
 
+We may combine certain automatically-collected information with other information we obtain about you.
 
+### Data Analytics
 
-You have the option to delete and decline your cookie setting, but please note that this will prevent you from using unique features of our service.
+We also may use third-party web analytics services, such as Google Analytics. These service providers help us understand our audience and analyze how visitors use the Services. To learn more about how Google may use information collected through the Services, [click here](https://www.google.com/policies/privacy/partners/). To learn more about opting out of data collection through Google Analytics, [click here](https://tools.google.com/dlpage/gaoptout).
 
-Please be aware that Raise does not possess any authority over the privacy policies and terms and conditions of any third party sites or links on our Site. The browsing of our Site is governed by this Agreement. Once you visit another website for any reason, you will be bound by the terms and conditions set forth by the owner or operator of that website.
+Your web browser may have settings that allow you to transmit a “Do Not Track” signal when you visit various websites or use online services. Like many websites and online services, our Services are not designed to respond to “Do Not Track” signals received from browsers. To learn more about “Do Not Track” signals, you may wish to visit <http://www.allaboutdnt.com/>.
 
-## Referring a Friend
+### Location Information
 
-When you choose to share Raise services with your friends, we will collect your friend’s given name and email address when provided. Your friend will be given the option to remove their name from our prescribed service.
+When you use our mobile applications, we may collect, use, and share precise location data about you to provide and improve our location-based products and services. Where available, location-based services may use technologies such as GPS, Bluetooth, crowd-sourced Wi-Fi hotspots, and cell tower locations to determine a mobile device’s approximate location. You may use your device settings to restrict this type of location tracking generally, and/or to prevent a particular app from obtaining location data about your device in connection with the use of that app.
 
-## Third Party Disclosure Policy
+## How We May Use Your Information
 
-Raise takes your privacy very seriously. We will not share Personal Information with third parties without your permission, except for the Permitted Purposes, as defined below. We may, however, use any information we have gathered from or about you, including but not limited to Personal Information, for our own internal business purposes, such as determining ways and methods of improving our services and Products. “Personal Information” shall mean your name, address, email address, and credit card information. “Permitted Purposes” shall mean any of the following:
+We may use the information we collect about you for various purposes, including to:
 
-  * Complying with applicable laws.
-  * Investigating any disputed charges.
-  * Fulfilling your product or service request.
-  * Providing you with a business or technical support function.
-  * Verifying and/or processing credit card orders.
-  * Hosting, developing, and maintaining our service, our database, and enhancing our network information.
-  * Creating and publishing reports on trend and patterns for business-related practices.
-  * Satisfying requirements for promotions and sweepstakes in which you have participated.
-  * If we believe that there has been a violation of this Agreement, our rights, or the rights of any of our affiliates or third parties.
-  * If necessary, to identify, investigate, prevent or take action regarding illegal activities or suspected fraud or other abuses of our services.
-  * Responding to a judicial request, court order, law enforcement agency request, or requests in connection with an investigation concerning matters of public safety.
-  * The transfer of our assets in the event of sale, merger, acquisition by another company, or the sale of all or a portion of our assets. We may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or portion of our assets.
+  * Personalize and improve your online experience;
+  * Respond to emails or other requests, inquiries, comments, or questions;
+  * Provide customer support;
+  * Present you with offers tailored to your interests and past activities or usage of the Services;
+  * Monitor and analyze trends, usage, and activities of visitors to, and users of, the Services;
+  * Improve the Services, our marketing, and products or services we may offer;
+  * Contact you regarding your use of the Services or, in our discretion, changes to our policies;
+  * Verify and/or authenticate a user’s identity;
+  * Provide users with information that we believe may be useful to them, such as information about products or services offered by us or by others;
+  * Prevent fraud or other misuse of the Services, including protecting our rights and the rights of affiliates or related third parties;
+  * Maintain records of our transactions and communications;
+  * Comply with applicable laws, regulations, or legal process as well as industry standards and our company policies;
+  * Prevent, investigate, identify, or take any other action with regard to any suspected or actual fraudulent or illegal activity or any activity that violates our Terms of Use; or
+  * For any other purpose, with your consent.
 
 
 
-## Raise's Use of Remarketing with Google Analytics
+We also may use the information we obtain about you in other ways for which we provide notice at the time of collection.
 
-Raise uses a feature of Google Analytics called 'Remarketing Lists' to place a cookie (the 'DoubleClick' cookie) on your computer when you land on a specified page on our website. This cookie captures anonymous information about your page visits. Google Analytics data, along with the DoubleClick cookie, allow us to serve you ads based on your prior visits to our website.
+In addition, we use information collected online through cookies, web beacons, and other automated means for purposes such as recognizing your browsing device when you visit the Services, tracking your activity as you navigate the Services, or analyzing your use of the Services. This information may be used to track your activity over time on various websites and services, as well as across different devices you may use to access the Internet and our Services.
 
-Ads are served and displayed through the Google Display Network and targeted partner websites relevant to the gift card industry. Raise uses a combination of first-party cookies from Google Analytics along with third-party cookies from DoubleClick to tag computers when you visit specific pages on the website in order to tailor a relevant message while you visit other partnered websites in the Google Display Network within the specified cookie duration.
+## How We May Share Information
 
-You may opt out of DoubleClick's use of cookies by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb/#display_optout) or the [Network Advertising Initiative opt-out page.](http://www.networkadvertising.org/choices/)
+We may permit our agents, vendors, consultants, and other service providers to access information we collect about you through the Services to carry out work on our behalf. We also may use outside companies to help us send emails or text messages and manage email or text message campaigns, manage our careers page, or host or operate the Services. These third party service providers use the personal information to which they have access to carry out the purposes for which we shared the information.
 
-## Policy Changes
+We also may share your information: (1) if we are required to do so by law, regulation, or legal process (such as in response to a court order or subpoena or similar government request for information); (2) to fulfill requests by government agencies, including law enforcement authorities; (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; (4) to enforce our policies, or to protect legal rights, property, or safety; (5) with third parties, to investigate or address possible criminal or fraudulent activity; or (6) in the event of a joint venture, partnership, merger, or other collaboration with another organization.
 
-Raise will from time to time update, modify or amend our Privacy Policy with information that is necessary. It is your sole responsibility to fully read and understand our policy and all updates, modifications, and amendments. If we make any changes to our Privacy Policy, we will notify you either by amending this Agreement, by email, or by means of notice on our homepage.
+We reserve the right to transfer any information we obtain through the Services in the event we sell or transfer all or a portion of our business or assets (e.g., further to a merger, reorganization, liquidation, or any other business transaction, including negotiations of such transactions).
+
+## Information Security
+
+We maintain appropriate administrative, technical, and physical safeguards designed to help protect personal information collected or received through the Services. Although we use reasonable efforts to safeguard information, transmission via the Internet is not completely secure and we cannot guarantee the security of your information collected through the Services.
+
+## Links to Other Websites
+
+The Services may include links to other websites for your convenience and information. Websites that are operated by entities not affiliated with Raise may have their own privacy policies or notices, which we strongly suggest you review. Raise is not responsible for the content or privacy practices of any linked websites that we do not control.
+
+## Social Features
+
+The Services may include features that are designed to permit interactions that you initiate between the Services and third party websites or services, including third party social networks (“Social Features”). Examples of Social Features include enabling you to “like” or “share” our content on other websites or services; make comments on certain pages using a plugin; or to transmit content to the Services from your account on a third party website or service.
+
+If you use Social Features on the Services, both Raise and the third-party service that operates the Social Features may have access to certain information about you and your use of both the Services and theirs. The information we collect in connection with Social Features is subject to this Privacy Policy. The information collected and stored by the third parties remains subject to those third parties’ privacy practices, including whether the third parties continue to share information with us, the types of information shared, and your choices with regard to what is visible to others on those third party websites or services.
+
+## Children’s Privacy
+
+The Services are not intended for, nor targeted to, children under 13, and we do not knowingly or intentionally collect information from children under 13. If we learn that we have received information directly from a child who is under the age of 13, we will delete the information in accordance with applicable law.
+
+## California Privacy Rights
+
+California law permits customers in California to request certain details about how their “personal information” (as defined by California Civil Code Section 1798.83) is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California customers to opt in to, or opt out of, this type of sharing. We do not share personal information with third parties or affiliates for those third parties’ or affiliates’ own direct marketing purposes. California customers may request information about our compliance with this law by contacting us at [privacy@raise.com](mailto:privacy@raise.com) or by postal mail sent to:
+
+Raise Marketplace, LLC   
+Attention: California Privacy Inquiry   
+11 E. Madison Street   
+Chicago, Illinois 60602   
+
+
+Your inquiry must specify “California Privacy Rights Request” in the subject line of the email or the first line of the letter, and include your name, street address, city, state, and ZIP code. Please note that we are only required to respond to one request per customer each year.
+
+## Your Choices
+
+You may unsubscribe from receiving promotional emails from us by following the instructions provided in those email communications. Please note that even if you opt out of receiving promotional communications from us, we may continue to send you non-promotional emails, such as communications regarding our ongoing relationship with you.
+
+Many web browsers provide options to allow you to stop accepting new cookies, or to disable existing cookies. Please be aware that if you disable the cookies on your device, you may not be able to use certain features of the Services or other websites. In addition, disabling cookies may invalidate opt outs that use cookies to recognize devices that have opted out.
+
+## Information for Users Outside the United States
+
+As set forth in our [Terms of Use](https://www.raise.com/terms), Raise is intended for use in the United States. If you happen to be visiting us from outside the United States, please be aware that information we collect will be transferred to and stored on our servers in the United States. By using the Services, you acknowledge and consent to the transfer and processing of your personal data in the United States as described in this Privacy Policy. Please be aware that the data protection laws and regulations applicable to your personal data transferred to the United States may be different from the laws in your country of residence.
+
+## Changes to this Privacy Policy
+
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this Privacy Policy. We encourage you to review this Privacy Policy whenever you visit the Services to stay informed about our information practices.
+
+## How to Contact Us
+
+If you have questions regarding this Privacy Policy you may email us at [privacy@raise.com](mailto:privacy@raise.com) or write to us at:
+
+Raise Marketplace, LLC   
+Attention: Privacy Inquiry   
+11 E. Madison Street   
+Chicago, Illinois 60602 
