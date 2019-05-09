@@ -1,0 +1,636 @@
+<!--The following is the downloaded HTML source of the happyeasygo.com privacy policy that was archived on 2019-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190509031657id_/https%3A//www.happyeasygo.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+ <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Happy Easy Go</title>
+
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"> 
+<meta name="keywords" content="cheap air tickets, cheap flight tickets, cheap tickets, cheap ticket, online ticket booking, cheap air fare, flight booking, flight tickets, air flight booking, cheap flight ticket, cheap flights, cheap flights domestic india, domestic flights offers，India travel, travel in India, flight, Mumbai To Delhi Flights, Delhi To Mumbai Flights ">
+<meta name="description" content="Happy Easy Go is an India Based Online Travel Agency which providing Flight Tickets with Lowest Airfare. Book now and Save your Wallet today on our official website! ">
+<meta name="renderer" content="webkit">
+<link href="/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="/dll/dll.css?v=4.0">
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M66LCMH"></script><script type="text/javascript" src="/dll/dll.js?v=4.1"></script>
+<!--[if lt IE 10]>
+  <script src="/static/js/xdomain.all.js" slave="cors-proxy.html"></script>
+  <script src="/static/js/html5shiv.min.js"></script>
+<![endif]-->
+
+<script>
+  function getCookie(name){
+  var arr, reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+  if(arr=document.cookie.match(reg))
+  return unescape(arr[2]);
+  else
+  return null;
+  }
+window.dataLayer = [{
+'userId': getCookie('uuid') || '',
+}];
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+  (function(w, d, s, l, i){
+    w[l]=w[l]||[];
+    w[l].push({'gtm.start':new Date().getTime(), event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-M66LCMH');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-93580804-3', 'auto', 'HotelTracker');
+// ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+<script>
+  (function(w, d, $){
+    window['hegTrackCallback'] = function(obj){
+      obj = obj || {};
+      var sendData = {};
+      $.extend(sendData, obj);
+      $.ajax({
+          url: '/heg_logs/saveTrackLogs.do',
+          data: JSON.stringify(sendData),
+          type: 'POST',
+          headers:{
+            'Content-Type': 'application/json',
+            'x-Device': 'pc'
+          }
+      }).then(function(rsp){
+        // console.log('');
+      }).fail(function(err){
+        // console.log(err);
+      });
+    };
+  })(window, document, dll(0));
+  
+</script>
+<script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-messaging.js"></script>
+<script>
+  var config = {
+    apiKey: "AIzaSyBiEGv1209MguMH9Jt42gf7LiVSa63uTp0",
+    authDomain: "happyeasygo-2018in.firebaseapp.com",
+    databaseURL: "https://happyeasygo-2018in.firebaseio.com",
+    projectId: "happyeasygo-2018in",
+    storageBucket: "happyeasygo-2018in.appspot.com",
+    messagingSenderId: "676670711123"
+  };
+  firebase.initializeApp(config);
+  const messaging= firebase.messaging();
+
+  getToken(messaging);
+  messaging.onMessage(function(payload) {
+    var option = payload.notification;
+    var notification = new Notification(option.title, option);
+  });
+  function getToken(messaging) {
+    messaging.requestPermission().then(function () {
+      // TODO(developer): Retrieve an Instance ID token for use with FCM.
+      // Get Instance ID token. Initially this makes a network call, once retrieved
+      // subsequent calls to getToken will return from cache.
+      messaging.getToken().then(function (currentToken) {
+        if (currentToken) {
+          fetch('/message_api/appNotificationUser/addServiceNo.do', {method:'POST',body:JSON.stringify({deviceNo:currentToken,device:'PC'}),headers:{'content-type': 'application/json'}});
+        } else {
+          // Show permission request.
+          console.log('No Instance ID token available. Request permission to generate one.');
+        }
+      }).catch(function (err) {
+        console.log('An error occurred while retrieving token. ', err);
+      });
+      // ...
+    }).catch(function (err) {
+      console.log('Unable to get permission to notify.', err);
+    });
+    // Callback fired if Instance ID token is updated.
+    messaging.onTokenRefresh(function () {
+      messaging.getToken().then(function (refreshedToken) {
+        console.log('Token refreshed.');
+        // Indicate that the new Instance ID token has not yet been sent to the
+        // app server.
+        fetch('/message_api/appNotificationUser/addServiceNo.do', {method:'POST',body:JSON.stringify({deviceNo:currentToken,device:'PC'}),headers:{'content-type': 'application/json'}});
+      }).catch(function (err) {
+        console.log('Unable to retrieve refreshed token ', err);
+      });
+    });
+  }
+</script>
+
+<script type="text/javascript">
+  // business = {
+  //   action : 'ORDER',
+  //   channel : 'PC0001',
+  //   uid : getCookie('uid') ||  '123456789012345678',
+  //   phone_num : '18888888888',
+  //   order_id : 'order_12345678'
+  // };
+
+  // serverHost = "//stalker.qisec.cn";
+  // (function() {
+  //   var s = document.createElement('script');
+  //   s.type = "text/javascript";
+  //   s.charset = "utf-8";
+  //   s.async = "true";
+  //   s.src = "//stalker.qisec.cn/stalker.js";
+  //   var p = document.getElementsByTagName('script')[0];
+  //   p.parentNode.insertBefore(s, p);
+  // })();
+</script>
+
+<!-- Modal -->
+</head><body><div class="modal prizeModal fade" id="couShareModal" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <a href="javascript:;" type="button" class="close GAEV" ga-category="Homepage_popup_coupon_redeem" ga-action="click" ga-label="HomepagePopup_Close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"></span></a>
+        <div class="title fontSz16 font-Roman">
+          <span class="fontB fontSz24">Spring Sale</span> 
+          <br>
+          Sign up now for massive discounts on your first booking!
+        </div>
+        <div class="validity colorGray">
+        Validity: <span></span>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="imgBox">
+          <div class="couponBan">
+            <div style="position:relative">
+              <img src="" alt="" class="couponImg">
+              <div class="btnCopy">
+                <div class="coupon-value hotel-coupon">
+                  <span>HEGFLY</span> 
+                  <img src="//img.happyeasygo.com/www/static/img/8da0c772c9a3c31ecf33181ef0dfb423.png" alt="">
+                </div>
+              </div>
+              <div class="mark">
+                <i class="icon icon-flight"></i>
+                <span>Flight</span>
+              </div>
+            </div>
+            <a href="/flight" class="redeemBtn GAEV" ga-category="Homepage_popup_coupon_redeem" ga-action="click" ga-label="HomepagePopup_F_BookNow">
+              Book Now
+            </a>
+          </div>
+          <div class="couponBan">
+            <div style="position:relative">
+              <img src="" alt="" class="couponImg">
+              <div class="btnCopy">
+                <div class="coupon-value hotel-coupon">
+                  <span>HEGSPBN</span> 
+                  <img src="//img.happyeasygo.com/www/static/img/8da0c772c9a3c31ecf33181ef0dfb423.png" alt="">
+                </div>
+              </div>
+              <div class="mark">
+                <i class="icon icon-hotel"></i>
+                <span>Hotel</span>
+              </div>
+            </div>
+            <a href="https://www.happyeasygo.com/hotel" class="redeemBtn GAEV" ga-category="Homepage_popup_coupon_redeem" ga-action="click" ga-label="HomepagePopup_H_BookNow">
+              Book Now
+            </a>
+          </div>
+        </div>
+        <div class="footNote login">
+           You can check its usage terms and conditions on <a href="/offers/spring-sale" class="colorPri campaigs-link GAEV" ga-category="Homepage_popup_coupon_redeem" ga-action="click" ga-label="HomepagePopup_HoliFestival">  Spring Sale</a>  page.
+        </div>
+        <div class="TipsMsg" style="display:none">The coupon code has been copied to your clipboard</div>
+      </div>
+    </div>
+  </div>
+</div> 
+<link href="/commons/styles.7613020f9caada3b6e8ddf01a318f6bd.css" rel="stylesheet"><link href="/privacy/styles.14372c4ed50a55efe6f704694f8ab844.css" rel="stylesheet">
+
+
+  <header class="clearfix" id="header">
+  <div class="container" style="padding:0px 0px 0px 230px">
+    <a href="/" class="logo pull-left" style="">
+      <img src="/static/images/head-logo.png" alt="Online Travel Agency" title="Lowest Airfares in India">
+    </a>
+    <ul class="pull-left item-wrap ">
+      <li>
+        <a href="/flight/" class="item flight font-Roman" data-role="flight">
+          <span class="text">FLIGHTS</span></a>
+      </li>
+      <li class="hotel">
+        <a href="https://www.happyeasygo.com/hotel" class="item hotels font-Roman" data-role="hotels">
+          <span class="text">HOTELS</span></a>
+      </li>
+      <li>
+        <a href="/offer/" class="item offer font-Roman" data-role="offer">
+          <span class="text">OFFERS</span></a>
+      </li>
+      <li>
+        <a href="/wallet-terms/" class="item wallet-terms font-Roman" data-role="wallet-terms">
+          <span class="text">WALLET</span></a>
+      </li>
+      <!-- <li>
+        <a href="/srcc-crossroads-2018/" class="item cross">
+          <span class="text">CROSSROADS 2018</span>
+        </a>
+      </li> -->
+      </ul>
+      <ul class="pull-left item-wrap item-wrap_2">
+      <li class="referral_li">
+          <a href="/referral" class="fore referral " data-role="referral">
+            <i class="icon refer"></i>
+            REFER &amp; EARN
+          </a>
+      </li>
+      <li class="support_li">
+          <a href="/support" class="fore support" data-role="support">
+            <i class="icon custom"></i>
+            SUPPORT
+          </a>
+      </li>
+      <!--<li class="customInfo">
+        <a href="/support" class="fore support " data-role='support'>
+          <i class="icon custom"></i>
+          SUPPORT
+        </a>
+        <div class="phoneInfo" id="infoCard">
+          <div class="arrow">
+            <span></span>
+            <span></span>
+          </div>
+          <div class="infoCon font-Roman">
+            <ul>
+              <li>
+                <i class='icon phone'></i>
+                <p class='phoneNo'>
+                </p>
+              </li>
+              <li>
+                <i class='icon mail'></i>
+                <p>
+                  <a href="mailto:cs@happyeasygo.com" class="email">
+                      <span>cs@happyeasygo.com</span>
+                  </a> 
+                </p>
+               
+              </li>
+              <li>
+                <i class='icon feba'></i>
+                <p>
+                  <a href="javascript:;" class="" id="feedback-wrap">Feedback</a>
+                </p>
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </li>-->
+      <li class="sing">
+        <i class="icon login-icon"></i>
+        <span class="logIn  hidden-xs">
+          <a href="/static/template/loginTpl.html" data-toggle="modal" data-target="#login_modal">SIGN IN</a>
+        </span>
+        <span class="Segmentation hidden-xs" style="margin-right:3px;">/</span>
+        <span class="register  hidden-xs">
+          <a href="/static/template/register.html" data-toggle="modal" data-target="#register_modal">SIGN UP</a>
+        </span>
+        <i class="icon icon-down pull-right"></i>
+        <div class="tools_box">
+          <div class="tools">
+            <div class="arrow">
+            </div>
+            <a href="/account/?src=trips" class="fore font-Light">
+              <i class="icon trips"></i>
+              <span>My Trips</span>
+            </a>
+            <a href="/account/?src=hotels" class="fore font-Light">
+              <i class="icon hotels"></i>
+              <span>My Hotels</span>
+            </a>
+            <a href="/account/?src=print" class="fore font-Light">
+              <i class="icon print"></i>
+              <span>Print Ticket</span>
+            </a>
+             <a href="/account/?src=cancellation" class="fore font-Light hidden anchorCancel">
+              <i class="icon cancel"></i>
+              <span>Cancellation</span>
+            </a>
+            <a href="/account/?src=myCoupon" class="fore font-Light hidden anchorCancel">
+              <i class="icon wallet"></i>
+              <span>My Coupons</span>
+            </a>
+            <a href="/account/?src=profile" class="fore font-Light hidden anchorCancel">
+              <i class="icon profile"></i>
+              <span>My Profile</span>
+            </a>
+            <!-- <a href="/account/?src=travellers" class="fore">
+              <i class="fa fa-print fa-lg"></i>
+              Traveller List
+            </a> -->
+            <a href="/account/?src=wallet" class="fore font-Light hidden anchorCancel">
+              <i class="icon wallet"></i>
+              <span>Happy Wallet</span>
+            </a>
+            
+            
+           
+            <!--<a href="/account/?src=security" class="fore font-Light">
+              <i class="icon security"></i>
+              <span>Account Security</span>
+            </a>-->
+            <a href="/referral" class="fore font-Light">
+              <i class="icon refer"></i>
+              <span>Refer &amp; Earn</span>
+            </a>
+            <a href="javascript:void(0)" class="fore font-Light hidden anchorCancel" id="signOut">
+              <i class="icon sign-in"></i>
+              <span>Sign out</span>
+            </a>
+          </div>
+        </div>
+      </li>
+    </ul>
+    <div class="pull-right">
+    </div>
+  </div>
+  <div class="clearfix" id="messageHint">
+  <ul class="clearfix item">
+    
+  </ul>
+</div>
+
+<script id="messageHintTpl" type="text/template">
+  <ul class='clearfix item'>
+    {{_.each(myModel, function(val, i){ }}
+    <li>
+       <span class="waring"></span>
+        <a href="/messageHintDetails/?id={{=val.id}}"><span class="text" id='{{=val.id}}'>{{=val.title_text}}</span></a>
+        <span class="delete"></span>
+    </li>
+    {{ }) }}
+  </ul>
+</script>
+
+
+</header>
+<div class="feedback-wrap feedback-wrap2" id="">
+  <div class="feed_close">x</div>
+  <div class="text"></div>
+</div>
+<div class="Fb-con" id="Fb-con">
+  <!--<div class="close" style="margin:6px 10px">
+    <span>&times;</span>
+  </div>-->
+  <div class="feedform">
+    <form onsubmit="return false">
+      <h2>Have website related feedback
+        <br>or suggestion?</h2>
+      <p>We value our customer experience on our website and app, if you have any suggestion regarding our website please send
+        us your feedback below.</p>
+      <div class="form-group">
+        <label for="username">Name</label>
+        <input type="text" name="name" class="form-control" placeholder="Your name">
+        <div class="checkError hidden">
+          You miss this
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" name="email" class="form-control" placeholder="Your email address">
+        <div class="checkError hidden">
+          Please enter valid Email address.
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="Fb-text">Your Feedback</label>
+        <textarea class="form-control" name="content" rows="3" maxlength="500"></textarea>
+        <div class="checkError hidden">You miss this</div>
+      </div>
+      <button id="Fb_sub" class="btn btn-warning sub">Submit</button>
+      <button id="Fb-cancle" class="btn can">Cancel</button>
+    </form>
+  </div>
+  <div class="feedback-wrap" id="feedBackClose">
+    <!--<div class="text">
+      <i class='icon'></i>
+      Feedback
+    </div>-->
+  </div>
+  
+</div>
+<div class="firstAnn">
+  <div class="ann_close">x</div>
+  <a href="" class="GAEV" ga-category="anniv-link" ga-action="click">
+    <img src="" alt="">
+  </a>
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M66LCMH" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div class="container">
+  <div class="content" id="mainContent">
+    <!-- <h2 class="title">
+         Privacy Policy
+    </h2>
+    <section>
+      <h3>HAPPYEASYGO is very concerned about protecting your privacy</h3>
+        <p>
+        This website is published and maintained by HAPPYEASYGO TRAVELS PRIVATE LIMITED (“HAPPYEASYGO”). The Privacy Policy is applicable to the websites of HAPPYEASYGO including www.happyeasygo.com, which also comprises of the mobile site, Smartphone App Platforms such as iOS, Android, Windows (all together referred to as “Site”). This privacy policy does not apply to the websites of our business partners, corporate affiliates or to any other third parties, even if their websites are linked to the site. We recommend you to review the respective privacy statements of the other parties with whom you interact.
+      </p>
+      <p>
+        By browsing, visiting, accessing and/or using the services on this Site (or searching for any of the pages on this Site), the customer (“You”) explicitly consents and agrees to our Privacy Policy laid out herein. You also agree that the information furnished by you is lawful, true and correct and does not violate or infringe any laws. In case of any violations, infringement, furnishing of wrongful or unauthorized information, HAPPYEASYGO shall not be liable for the same.
+      </p>
+      <p>
+        We encourage you to review our Privacy Policy, and familiarize with it. Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, you may wish to bookmark this page and/or periodically review this page to make sure you have the latest version of the Privacy Policy.
+      </p>
+      <h3>What information does HAPPYEASYGO collect and/or use?</h3>
+      <p>
+        After you access of this Site, certain information about you, such as:
+      </p>
+      <div>
+        <p>
+          <strong>Personally Identifiable Information</strong> such as name(s), race, gender, marital status, religion, age and contact details which may include e-mail address or contact number(s), password etc.
+        </p>
+        <ul>
+          <li>Information about your personal identity such as race, gender, marital status, religion, age etc.</li>
+          <li>Your financial information such as your banking details and any information relating to your income and lifestyle levels.</li>
+          <li>Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like.</li>
+          <li>Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc. We maintain this in encrypted form on secure servers.</li>
+        </ul>
+      </div>
+      <div>
+        <p><strong>Transactional Information: </strong>Transactional history and financial information such as Bank account or credit card or debit card or other payment instrument details etc.</p>
+      </div>
+      <div>
+        <p><strong>Booking information</strong> which includes information about the travel, bookings, co-passengers, travel preferences etc.</p>
+      </div>
+      <div>
+        <p><strong>Stored Information:</strong> Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.</p>
+      </div>
+      <div>
+        <p><strong>Other information</strong> that may be requested or gathered while you visit, access or use the Site.</p>
+      </div>
+      <p>Besides the above, when you browse the Website, HAPPYEASYGO may collect information regarding the domain and host from which you access the Internet, the Internet Protocol address of the computer or Internet Service Provider you are using, and anonymous site statistical data, information furnished while navigating the Site, the systems and programs used and the time spent on our Site along with any other relevant information. The Website uses cookie and tracking technology depending on the features offered. Aggregate cookie and tracking information may be shared with third parties to cater to provide you a better service and experience.</p>
+      <p>We may also collect and furnish such other information as is required in compliance of various laws, court order, as requested by other government or law enforcement authority, or in the good faith believe that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of HAPPYEASYGO or any or all of its affiliates, associates, employees, directors or officers or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference to our operations rights, interests, whether intentionally or otherwise, or when anyone else could be harmed by such activities.</p>
+      <h3>Right to collect</h3>
+      <p>By accepting the Terms you agree that we may collect and store your Personal Information as long as you subscribe to or use our Services subject to the limitations set out in this Privacy Policy.</p>
+      <h3>What is the information we used for?</h3>
+      <ul>
+        <li>To conduct bookings, ticketing and payment transactions for the services available on the Site;</li>
+        <li>To personalize your experience and give you better service: (your information helps us to better respond to your individual needs)</li>
+        <li>To improve the user friendliness of the site; (we continually strive to improve the site offerings based on the information we receive from you)</li>
+        <li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)</li>
+        <li>Website traffic analysis</li>
+        <li>To administer a contest, promotion, survey or other site feature</li>
+        <li>To send Emails, SMS and other communications for providing services, responding to inquiries, and/or other requests or questions.</li>
+        <li>To respond to queries of the authorities in regard to your accessing of the site and services availed by you.</li>
+      </ul>
+      <h3>Automatic Logging of Session Data</h3>
+      <p>Of course, you are solely responsible for maintaining the secrecy of your passwords, and your Site membership account information. Please be very careful, responsible, and alert with this information, especially whenever you’re online.</p>
+      <h3>How do we use the cookies?</h3>
+      <p>Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) to enables the sites or service providers systems to recognize your browser and capture and remember certain information. Yes, we use cookies to understand and save your preferences for future visits and keep track of advertisements. This helps us to serve you better and more efficiently, and to personalize your experience at our Website.</p>
+      <p>Similarly, a cookie may be placed by our third – party advertising companies or advertisement providers. These companies may use aggregated statistics about your visits to this and other websites in order to provide you advertisements about travel – related goods and services, your preferences in or any goods and services of potential interest to you. The third – party advertising companies or advertisement providers may also employ technology that is used to measure the effectiveness of our ads, your preference and other relevant statistical data to serve you better. Any such information may be anonymous about your visits to this and other sites and does not link online actions to an identifiable person.</p>
+      <p>Mostly the Web browsers are programmed to automatically accept cookies but if you desire to opt from receiving the cookies you can do so by changing the options on your web browser or using certain software programs, you can control how and whether the cookies will be accepted by your browser. HAPPYEASYGO does respects your right to block any unwanted Internet activity, especially that of unscrupulous websites, though blocking cookies from usage of HAPPYEASYGO Site may disable certain features on the Site, and may make it impossible to purchase or use certain services available on the Site. Please note that it is possible to block cookie activity from certain websites while permitting cookies from websites you trust, like HAPPYEASYGO Website.</p>
+      <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. However, we do transmit your information to trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also the release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, other non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+      <h3>Third party links</h3>
+      <p>HAPPYEASYGO Site contains links to other websites. Please note that when you click on one of these links, you are entering another website for which HAPPYEASYGO has no responsibility and these third party sites have separate and independent privacy policies which you will have to acquaint yourselves with. We encourage you to read the privacy statements of all such sites as their policies may be materially different from our Privacy Policy. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+      <h3>Grievance policy</h3>
+      <p>HAPPYEASYGO strongly believes in a sincere and transparent approach to its users. You trust and love us and we would never put growth before trust. This policy document aims at minimizing instances of customer complaints, grievances and disappointments via channelized approach, review and redressal.</p>
+      <p>You can file a grievance / share feedback if you are disappointed with the services rendered by HAPPYEASYGO or any other issues. You can give your grievance / feedback through email or snail mail.</p>
+      <p>In order to make HAPPYEASYGO redressal channels more meaningful and effective, a structured system has been put in place. This system will ensure that the complaints are redressed seamlessly and well within the stipulated timeframe.</p> 
+    </section> -->
+  <h2 class="title">Privacy Policy</h2><section><h3>HAPPYEASYGO is very concerned about protecting your privacy</h3><div><ul><li>This website is published and maintained by HAPPYEASYGO TRAVELS PRIVATE LIMITED ("HAPPYEASYGO"). The Privacy Policy is applicable to the websites of HAPPYEASYGO including www.happyeasygo.com, which also comprises of the mobile site, Smartphone App Platforms such as iOS, Android, Windows (all together referred to as "Site"). This privacy policy does not apply to the websites of our business partners, corporate affiliates or to any other third parties, even if their websites are linked to the site. We recommend you to review the respective privacy statements of the other parties with whom you interact.</li><li>By browsing, visiting, accessing and/or using the services on this Site (or searching for any of the pages on this Site), the customer ("You") explicitly consents and agrees to our Privacy Policy laid out herein. You also agree that the information furnished by you is lawful, true and correct and does not violate or infringe any laws. In case of any violations, infringement, furnishing of wrongful or unauthorized information, HAPPYEASYGO shall not be liable for the same.</li><li>We encourage you to review our Privacy Policy, and familiarize with it. Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, you may wish to bookmark this page and/or periodically review this page to make sure you have the latest version of the Privacy Policy.</li></ul></div><h3>What information does HAPPYEASYGO collect and/or use?</h3><div><ul><li>After you access of this Site, certain information about you, such as:</li><li>Personally Identifiable Information such as name(s), race, gender, marital status, religion, age and contact details which may include e-mail address or contact number(s), password etc.</li><li>Information about your personal identity such as race, gender, marital status, religion, age etc.</li><li>Your financial information such as your banking details and any information relating to your income and lifestyle levels.</li><li>Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like.</li><li>Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc. We maintain this in encrypted form on secure servers.</li><li>Transactional Information: Transactional history and financial information such as Bank account or credit card or debit card or other payment instrument details etc.</li><li>Booking information which includes information about the travel, bookings, co-passengers, travel preferences etc.</li><li>Stored Information: Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.</li><li>Other information that may be requested or gathered while you visit, access or use the Site.</li><li>Besides the above, when you browse the Website, HAPPYEASYGO may collect information regarding the domain and host from which you access the Internet, the Internet Protocol address of the computer or Internet Service Provider you are using, and anonymous site statistical data, information furnished while navigating the Site, the systems and programs used and the time spent on our Site along with any other relevant information. The Website uses cookie and tracking technology depending on the features offered. Aggregate cookie and tracking information may be shared with third parties to cater to provide you a better service and experience.</li><li>We may also collect and furnish such other information as is required in compliance of various laws, court order, as requested by other government or law enforcement authority, or in the good faith believe that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of HAPPYEASYGO or any or all of its affiliates, associates, employees, directors or officers or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference to our operations rights, interests, whether intentionally or otherwise, or when anyone else could be harmed by such activities.</li></ul></div><h3>Right to collect</h3><div><ul><li>By accepting the Terms you agree that we may collect and store your Personal Information as long as you subscribe to or use our Services subject to the limitations set out in this Privacy Policy.</li></ul></div><h3>What is the information we used for?</h3><div><ul><li>To conduct bookings, ticketing and payment transactions for the services available on the Site;</li><li>To personalize your experience and give you better service: (your information helps us to better respond to your individual needs)</li><li>To improve the user friendliness of the site; (we continually strive to improve the site offerings based on the information we receive from you)</li><li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)</li><li>Website traffic analysis</li><li>To administer a contest, promotion, survey or other site feature</li><li>To send Emails, SMS and other communications for providing services, responding to inquiries, and/or other requests or questions.</li><li>To respond to queries of the authorities in regard to your accessing of the site and services availed by you.</li></ul></div><h3>Automatic Logging of Session Data</h3><div><ul><li>Of course, you are solely responsible for maintaining the secrecy of your passwords, and your Site membership account information. Please be very careful, responsible, and alert with this information, especially whenever you're online.</li></ul></div><h3>How do we use the cookies?</h3><div><ul><li>Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) to enables the sites or service providers systems to recognize your browser and capture and remember certain information. Yes, we use cookies to understand and save your preferences for future visits and keep track of advertisements. This helps us to serve you better and more efficiently, and to personalize your experience at our Website.</li><li>Similarly, a cookie may be placed by our third – party advertising companies or advertisement providers. These companies may use aggregated statistics about your visits to this and other websites in order to provide you advertisements about travel – related goods and services, your preferences in or any goods and services of potential interest to you. The third – party advertising companies or advertisement providers may also employ technology that is used to measure the effectiveness of our ads, your preference and other relevant statistical data to serve you better. Any such information may be anonymous about your visits to this and other sites and does not link online actions to an identifiable person.</li><li>Mostly the Web browsers are programmed to automatically accept cookies but if you desire to opt from receiving the cookies you can do so by changing the options on your web browser or using certain software programs, you can control how and whether the cookies will be accepted by your browser. HAPPYEASYGO does respects your right to block any unwanted Internet activity, especially that of unscrupulous websites, though blocking cookies from usage of HAPPYEASYGO Site may disable certain features on the Site, and may make it impossible to purchase or use certain services available on the Site. Please note that it is possible to block cookie activity from certain websites while permitting cookies from websites you trust, like HAPPYEASYGO Website.</li><li>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. However, we do transmit your information to trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also the release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, other non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</li></ul></div><h3>Third party links</h3><div><ul><li>HAPPYEASYGO Site contains links to other websites. Please note that when you click on one of these links, you are entering another website for which HAPPYEASYGO has no responsibility and these third party sites have separate and independent privacy policies which you will have to acquaint yourselves with. We encourage you to read the privacy statements of all such sites as their policies may be materially different from our Privacy Policy. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</li></ul></div><h3>Grievance policy</h3><div><ul><li>HAPPYEASYGO strongly believes in a sincere and transparent approach to its users. You trust and love us and we would never put growth before trust. This policy document aims at minimizing instances of customer complaints, grievances and disappointments via channelized approach, review and redressal.</li><li>You can file a grievance / share feedback if you are disappointed with the services rendered by HAPPYEASYGO or any other issues. You can give your grievance / feedback through email or snail mail.</li><li>In order to make HAPPYEASYGO redressal channels more meaningful and effective, a structured system has been put in place. This system will ensure that the complaints are redressed seamlessly and well within the stipulated timeframe.</li></ul></div></section></div>
+</div>
+  
+<footer>
+  <div class="footImg">
+      <div class="container">
+        <div class="footImg_img"></div>
+      </div>
+  </div>
+  <div class="foot"> 
+      <!--  <div class="bg">
+        </div> -->
+          <div class="container">
+            <ul class="clearfix">
+              <!-- <li class="col-sm-1"></li> -->
+              <li class="first-link  col-sm-2">
+                <dl>
+                  <dt class="font-Roman"><strong>HappyEasyGo</strong></dt>
+                  <dd><a href="/aboutus/">About Us</a></dd>
+                  <!-- <dd><a href="##">Our Team</a></dd> -->
+                  <!-- <dd><a href="##">Investors</a></dd> -->
+                  <dd><a href="/contact/">Contact Us</a></dd>
+                  <dd><a href="/Careers/">Careers</a></dd>
+                  <dd><a href="https://www.happyeasygo.com/travel-blog/">Blog</a></dd>
+                  <dd><a href="https://www.happyeasygo.com/heg_seo/flight.do" target="_blank">TOP Airline Routes</a></dd> 
+                  <!-- <dd><a href="##">Partner with Us</a></dd> -->
+                  <!-- <dd><a href="##">Join Us</a></dd> -->
+                </dl>
+              </li>
+              <li class="second-link col-sm-2">
+                <dl>
+                  <dt class="font-Roman"><strong>About the Site</strong></dt>
+                  <dd><a href="/faqs/">FAQs</a></dd>
+                  <dd><a href="/conditions/">Terms &amp; Conditions</a></dd>
+                  <dd><a href="/privacy/">Privacy</a></dd>
+                  <!-- <dd><a href="##">Payment Security</a></dd> -->
+                  <!-- <dd><a href="##">User Agreement</a></dd> -->
+                </dl>
+              </li>
+              <!-- <li class="third-link col-sm-2">
+                <dl>
+                  <dt><strong>Product Offering</strong></dt>
+                  <dd><a href="##">Flight Schedule</a></dd>
+                  <dd><a href="##">City Airline Routes</a></dd>
+                  <dd><a href="##">international Flights</a></dd>
+                </dl>
+              </li> -->
+              <li class="fourth-link col-sm-2">
+                <dl>
+                  <dt class="font-Roman"><strong>More Links</strong></dt>
+                  <!-- <dd><a href="##">HappyEasyGo Offers</a></dd> -->
+                  <dd><a href="/airlines/indigo/">IndiGo</a></dd>
+                  <dd><a href="/airlines/jetairways/">Jet Airways</a></dd>
+                  <dd><a href="/airlines/goair/">GoAir</a></dd>
+                  <!-- <dd><a href="/goindia/">Go India</a></dd> -->
+                  <dd><a href="/airlines/spicejet/">SpiceJet</a></dd>
+                  <dd><a href="/airlines/airasia/">AirAsia</a></dd>
+                  <dd><a href="/airlines/vistara/">Vistara</a></dd>
+                  <dd><a href="/airlines/airindia/">Air India</a></dd>
+                </dl>
+              </li>
+              <li class="link followUs col-sm-2">
+                <dl>
+                  <dt class="font-Roman"><strong>Follow Us</strong></dt>
+                  <dd class="clearfix">
+                    <a href="https://www.facebook.com/happyeasygo/" target="_blank" class="fb-icon fwIcon"></a>
+                    <a href="https://twitter.com/happyeasygo" target="_blank" class="tw-icon fwIcon"></a>
+                    <a href="https://www.instagram.com/happyeasygo_india/" target="_blank" class="ins-icon fwIcon"></a>
+                    <a href="https://www.youtube.com/channel/UCBlph2534GSN1PDJH9E5ylg" target="_blank" class="tb-icon fwIcon"></a>
+                    <a href="https://www.linkedin.com/company/happyeasygo-com/" target="_blank" class="gl-icon fwIcon"></a>
+                  </dd>
+                  <!--<dd class='clearfix'>
+                    <a href="https://www.youtube.com/channel/UCBlph2534GSN1PDJH9E5ylg" class="tb-icon fwIcon"></a>
+                    <a href="https://plus.google.com/+HappyEasyGoIndia" class="gl-icon fwIcon"></a>
+                  </dd>-->
+                </dl>
+              </li>
+              <li class="link linkDownload col-sm-2">
+                <dl>
+                  <dt class="font-Roman"><strong>Mobile</strong></dt>
+                  <dd><a href="/cheap-flights-booking-app">Download our mobile app</a></dd>
+                  <dd>
+                    <a href="https://app.adjust.com/2x7p5g" target="_blank" class="downLink">
+                      <img src="//img.happyeasygo.com/www/static/img/4b022e91f4fe0ce812cc45425b8bfb63.png" alt="">
+                    </a>
+                  </dd>
+                  <dd>
+                    <a href="https://itunes.apple.com/app/id1390426818?mt=8" target="_blank">
+                      <img src="//img.happyeasygo.com/www/static/img/388426dd37fc3e0c1f86061a9e6aede9.png" alt="">
+                    </a>
+                  </dd>
+                </dl>
+              </li>
+            </ul>
+            <p class=" foot_p" style="text-align: center;margin: 20px 0px 0px;">Copyright © 2016-2019 Happyeasygo Group. All rights reserved</p>
+            <p class=" foot_p" style="text-align: center;margin: 10px 0px 0px;">All brands, logos are trademarks or registered trademarks of their respective owners.</p>
+          </div>
+  </div>
+</footer>
+<div class="modal fade" data-backdrop="static" data-keyboard="false" id="login_modal" role="dialog" tabindex="-1">
+  <div class="modal-dialog" style="overflow: hidden;width:440px;height:410px;">
+    <div class="close" data-dismiss="modal" aria-label="Close" style="position: absolute; right:6px; top:3px; z-index: 100; font-size: 28px;opacity:1;"><span aria-hidden="true" style="color:#ccc;">×</span>
+    </div>
+    <div class="modal-content">
+      <div class="log-loading">
+        <img src="/static/images/loading.jpg" alt="">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="register_modal" data-backdrop="static" data-keyboard="false" role="dialog" tabindex="-1">
+  <div class="modal-dialog" style="overflow: hidden;width:500px;">
+    <div class="close" data-dismiss="modal" aria-label="Close" style="position: absolute; right:6px; top:3px; z-index: 100; font-size: 28px"><span aria-hidden="true">×</span>
+    </div>
+    <div class="modal-content">
+      <div class="log-loading">
+        <img src="/static/images/loading.jpg" alt="">
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="/commons/webpack-runtime.654f21d72581e5151c23.js"></script><script type="text/javascript" src="/commons/bundle.7df57466ca92e0de973d.js"></script><script type="text/javascript" src="/privacy/entry.bbbdc6f79abfbb0c51f0.js"></script><script type="text/javascript" src="//img.happyeasygo.com/static/js/boomerang.js?t=201903071416"></script>
+</body></html>
