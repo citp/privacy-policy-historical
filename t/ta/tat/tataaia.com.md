@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tataaia.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130163224id_/http%3A//tataaia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataaia.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509185225id_/http%3A//tataaia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Tata AIA Life Insurance Company: Best Life Insurance Plans in India
 
