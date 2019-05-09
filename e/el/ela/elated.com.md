@@ -1,61 +1,74 @@
-> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721151122id_/https%3A//www.elated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509200621id_/https%3A//www.elated.com/privacy) for the most accurate reproduction.*
 
-# ELATED Privacy Statement
+# Privacy Policy | Matt Doyle | Elated Communications
 
-We created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for www.elated.com.
+## Who we are
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to save your password so you don't have to re-enter it each time you visit the Forums, and to keep a note of the fact that you are logged in.
+We are Matthew Doyle t/a Elated Communications, a registered business in Australia. Our Australian Business Number is 77 346 357 526. Our website address is: https://www.elated.com .
 
-The Forums registration form requires users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+## What personal data we collect and why we collect it
 
-Our online store requires users to give us contact information (like their name, email address and billing address). The customer's contact information is used to contact the visitor when necessary. We share customer contact information with our e-commerce provider in order to complete online payments. We do not share this information with any other third party.
+### Comments
 
-This site contains links to other sites. Elated Communications is not responsible for the privacy practices or the content of such Web sites.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-Our site uses an order form for customers to request information and services. We collect visitors' contact information (like their email address). The customer's contact information is used to get in touch with the visitor when necessary. We will not give or sell this contact information to any third party.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-## Third Party Cookies
+### Media
 
-Third party advertisers and Web analytics software on this site may use cookies and/or Web beacons in order to collect information and serve advertisements to you. IP addresses and tracking cookies are not linked to personally identifiable information.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Advertisers may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). You can also set your browser to reject cookies, or to notify you when a cookie is being sent by a third party. This shouldn't affect your browsing experience of our website.
+### Contact forms
 
-## Public Forums
+If you send us a message via our contact form at https://www.elated.com/contact/, your name, email address, message subject and message body will be sent to us via email. This information is necessary so that we can contact you about your message. The information you enter via the contact form is not stored on our server.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+### Cookies
 
-## Choice / Opt-Out (Mailing Lists)
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Users can sign up for various Elated newsletters and mailing lists using their email address. The user can unsubscribe from a mailing list at any time by following the **Unsubscribe** link at the bottom of each newsletter email. Unsubscribe requests are honoured within 48 business hours of receipt.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-## Choice / Opt-Out (Webmaster Forums)
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-The Forums provide users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. The Forums give users the following options for removing their information from our database to not receive future communications or to no longer receive our service:
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-  * By clicking "Edit Profile" and de-selecting the "Send News and Notices" option. 
+### Embedded content from other websites
 
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
+### Analytics
 
-## Correct / Update (Webmaster Forums)
+We use Google Analytics to track visits and interactions on our website. To do this, Google Analytics saves several cookies and also collects your IP address. To find out more about how Google Analytics obtains and uses data about your visits to our site, see <https://support.google.com/analytics/answer/6004245?hl=en>.
 
-This site gives users the following options for changing and modifying information previously provided:
+## Who we share your data with
 
-  * By clicking "Edit Profile" and changing the information there.
+If you use our website then your personal information may be shared with the following entities:
 
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-The Webmaster  
-Elated Communications  
-30 Missingham Parade  
-Robertson  
-2577  
-Australia  
+  * **Google Analytics:** For the purposes of tracking visits (see  _Analytics_ above).
+  *  **Mailchimp:** If you sign up for any of our mailing lists then we may share your first name and email address with Mailchimp for the purposes of sending you marketing emails. To find out how Mailchimp handles your information, see Mailchimp’s privacy policy at <https://mailchimp.com/legal/privacy/>.
 
 
-Top of Page
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+If you send us an email via any of our contact forms then we may retain the email indefinitely.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+If you sign up for one of our mailing lists then your first name and email address is sent to Mailchimp, a United States company. Mailchimp participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. For more information, see MailChimp’s privacy policy at <https://mailchimp.com/legal/privacy/> .
+
+## Our contact information
+
+If you have any privacy-specific concerns about your use of this website, please contact us at <https://www.elated.com/contact/>.
