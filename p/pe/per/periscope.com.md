@@ -1,33 +1,41 @@
-> *The following text is extracted and transformed from the periscope.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702165238id_/https%3A//periscope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the periscope.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510003230id_/https%3A//www.periscope.com/privacy-policy) for the most accurate reproduction.*
 
-# PERISCOPE / Privacy Policy
-
-* * *
+# Privacy Policy | Periscope
 
 This Privacy Notice informs you about the type of data collected through the Periscope website (“Site”), and how we at Periscope use, disclose and protect that information.
 
-**Applicability of this Privacy Notice**  
+### Applicability of this Privacy Notice
+
 This Privacy Notice applies only to the information we collect on this Site (at www.periscope.com) and not to any information that we collect through other methods or services, including websites owned or operated by our affiliates, vendors or partners.
 
-**Information You Provide to Us**  
-We may collect and store personal information that you choose to voluntarily provide to us when you contact us, such as when you sign up to receive our newsletter, alerts or publications. Personal information may include your name, residential or business address, email address, or phone number. We use the information you provide to send you the communications that you request. We may also use the information to communicate with you about other topics that we think may be of interest to you.  
+### Information You Provide to Us
+
+We may collect and store personal information that you choose to voluntarily provide to us when you contact us, such as when you sign up to receive our newsletter, alerts or publications. Personal information may include your name, residential or business address, email address, or phone number. We use the information you provide to send you the communications that you request. We may also use the information to communicate with you about other topics that we think may be of interest to you.
+
 If you communicate with Periscope through the “Contact Us” link on our Site, we may ask you for information such as your name, email address and telephone number so we can respond to your questions and comments. We may also use the information you provide so that we can communication with you about topics we think may be of interest to you.
 
-**Information We Collect by Automated Means**  
+### Information We Collect by Automated Means
+
 We are committed to making your online experience with our Site informative and relevant. To achieve this, we collect certain information by automated means when you visit this Site, such as your IP address, the type of internet browser you are using, operating system, referring URLs, information on actions taken on the Site, how many users visited our Site and dates and times of Site visits. By collecting this information, we learn how to best tailor this Site to our visitors. We collect this information by various means, as explained below.
 
-**Cookies**  
-Cookies are bits of text that are placed on your computer’s hard drive or mobile device when you visit certain websites. Cookie technology holds information a site may need to personalize a visitor’s experience. Cookies may also be used for security purposes and to gather website statistical data, such as which pages are visited, what is downloaded, and the paths taken by visitors to our website as they move from page to page.  
+### Cookies
+
+Cookies are bits of text that are placed on your computer’s hard drive or mobile device when you visit certain websites. Cookie technology holds information a site may need to personalize a visitor’s experience. Cookies may also be used for security purposes and to gather website statistical data, such as which pages are visited, what is downloaded, and the paths taken by visitors to our website as they move from page to page.
+
 You do have control over cookies, and can refuse the use of cookies by selecting the appropriate settings on your browser. Note, however, that by not accepting or deleting the use of cookies, you may affect your website experience and you may not be able to take full advantage of all features on this Site. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please consult the “Help” section of your browser for more information.
 
-**Third-Party Automated Collection and Internet-Based Advertising**  
-Periscope participates in interest-based advertising (IBA), also known as Online Behavioral Advertising. We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online. Periscope adheres to the Digital Advertising Alliance (DAA) self-regulatory principles for IBA.  
+### Third-Party Automated Collection and Internet-Based Advertising
+
+Periscope participates in interest-based advertising (IBA), also known as Online Behavioral Advertising. We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online. Periscope adheres to the Digital Advertising Alliance (DAA) self-regulatory principles for IBA.
+
 We allow third-party companies to collect certain information when you visit our websites or use our mobile applications. This information is used to serve ads for Periscope products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally-identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g., static IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie, web beacon or other similar tracking technologies to collect this information.
 
-**Google Analytics**  
-We may also use third-party solutions to conduct web analytics, such as Google Analytics. Google Analytics is a web analytics service provided by Google, Inc., which uses cookies to help analyze how users use this website. The information generated by the cookie about your use of this Site (such as your IP address, the URL visited, the date and time the page was viewed) will be transmitted and stored by Google on servers in the United States. Google will use this information to monitor your use of this Site, compiling reports on website activity for website operators and providing other services related to website activity and Internet usage. Google may transfer this information to third parties where required by law, or where such third parties process information on Google’s behalf. For more information about Google’s privacy policy in respect of Google Analytics, please refer to <http://www.google.com/analytics/learn/privacy.html>. You may opt out of Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout?hl+en=GB>.
+### Google Analytics
 
-**How We Use the Information We Collect**  
+We may also use third-party solutions to conduct web analytics, such as Google Analytics. Google Analytics is a web analytics service provided by Google, Inc., which uses cookies to help analyze how users use this website. The information generated by the cookie about your use of this Site (such as your IP address, the URL visited, the date and time the page was viewed) will be transmitted and stored by Google on servers in the United States. Google will use this information to monitor your use of this Site, compiling reports on website activity for website operators and providing other services related to website activity and Internet usage. Google may transfer this information to third parties where required by law, or where such third parties process information on Google’s behalf. For more information about Google’s privacy policy in respect of Google Analytics, please refer to <http://www.google.com/analytics/learn/privacy.html>. You may opt out of Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout?hl+en=GB>.
+
+### How We Use the Information We Collect
+
 We may use the information we obtain about you both to further our relationship with you and for other purposes, including to:
 
   * send you newsletters and/or industry updates;
@@ -42,40 +50,52 @@ We may use the information we obtain about you both to further our relationship 
 
 We may use personal information for other additional purposes. We will identify these additional purposes at the time of collection.
 
-**Sharing Information**  
-We do not sell or otherwise disclose personal information we collect about you, except as described herein or otherwise disclose to you at the time the data is collected.  
-We may share your information among Periscope-related entities. We also may share information provided by our visitors to this Site with service providers we have retained to perform services on our behalf, including without limitation, hosting or operating this Site, carrying out your requests, responding to your inquiries, and analyzing data. We require these service providers by contract to appropriately safeguard the privacy and security of personal information they process on our behalf.  
-We may disclose information about you as compelled or required by law, to law enforcement authorities or other government officials, to protect or defend our legal rights, or in order to investigate, prevent or take action regarding illegal activities, suspected fraud, or violations for our Terms and conditions for using this Site or other applicable policies.  
+### Sharing Information
+
+We do not sell or otherwise disclose personal information we collect about you, except as described herein or otherwise disclose to you at the time the data is collected.
+
+We may share your information among Periscope-related entities. We also may share information provided by our visitors to this Site with service providers we have retained to perform services on our behalf, including without limitation, hosting or operating this Site, carrying out your requests, responding to your inquiries, and analyzing data. We require these service providers by contract to appropriately safeguard the privacy and security of personal information they process on our behalf.
+
+We may disclose information about you as compelled or required by law, to law enforcement authorities or other government officials, to protect or defend our legal rights, or in order to investigate, prevent or take action regarding illegal activities, suspected fraud, or violations for our Terms and conditions for using this Site or other applicable policies.
+
 We also reserve the right to transfer personal information we have about you in the event that we sell or transfer all or a portion of our business assets.
 
-**Data Transfer**  
+### Data Transfer
+
 We may transfer the information we collect on this Site to other countries other than in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Notice.
 
-**Security**  
+### Security
+
 The security of information is important to us, and we are committed to using reasonable measures to protect the personal information we may collect. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or the information stored on this Site is absolutely secure.
 
-**Links to Other Websites**  
+### Links to Other Websites
+
 This Site may provide links to other websites for your convenience and information. These websites may operate independently from us. Linked sites may have their own privacy notices or policies, which we strongly encourage you to review to understand their procedures for collecting, using and disclosing personal information. We are not responsible for the content of the linked websites, any use of these sites, or the privacy practices of these sites.
 
-**Children**  
+### Children
+
 This Site is not intended for children and we do not knowingly solicit personal data from or communicate with children under the age of 13. Further, this Site is not intended for incapacitated persons, and we do not knowingly solicit personal data from individuals who are incapacitated. If you become aware that your child, any child under your care, or a person otherwise not able to provide valid consent has provided us with information without a parent or guardian’s consent, please contact us as described below.
 
-**Access, Updates and Your Choices**  
-You can tell us at any time not to send you marketing communications by email by clicking on the unsubscribe link within the marketing emails you receive from us or by contacting us as indicated below.  
-Subject to applicable law, you may have the right to request access to and receive information about the personal data we maintain about you, update and correct inaccuracies in your personal data and have the information modified or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements. To update your information, ask us to remove you from our mailing lists or submit a request, please send your request to [info@periscope.com](mailto:info@periscope.com). For your protection, we may require proof of identity, including proper verification and confirmation that you are the individual entitled to request access, before providing information to you.
+### Access, Updates and Your Choices
 
-**Consent**  
+You can tell us at any time not to send you marketing communications by email by clicking on the unsubscribe link within the marketing emails you receive from us or by contacting us as indicated below.
+
+Subject to applicable law, you may have the right to request access to and receive information about the personal data we maintain about you, update and correct inaccuracies in your personal data and have the information modified or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements. To update your information, ask us to remove you from our mailing lists or submit a request, please send your request to info@periscope.com. For your protection, we may require proof of identity, including proper verification and confirmation that you are the individual entitled to request access, before providing information to you.
+
+### Consent
+
 By using this Site, you consent to the processing of your personal information as described in this Privacy Notice.
 
-**Contacting Us**  
-If you have any questions about this Privacy Notice or our privacy practices, please feel free to email us at [info@periscope.com](mailto:info@periscope.com) or write to us at:
+### Contacting Us
+
+If you have any questions about this Privacy Notice or our privacy practices, please feel free to email us at info@periscope.com or write to us at:
 
 Periscope  
 921 Washington Ave S  
-Minneapolis, MN, 55415  
-Attn: Privacy Lead
+Minneapolis, MN, 55415
 
-**Changes to this Privacy Notice**  
+### Changes to this Privacy Notice
+
 We reserve the right to change or add to this Privacy Notice from time to time and will post any revisions on this Site. We will indicate at the bottom of the Privacy Notice when it was most recently updated. We encourage you to check back often to review the latest version.
 
-**Privacy Notice Effective Date** : October 18, 2016
+ **Privacy Notice Effective Date:**  October,18 2016
