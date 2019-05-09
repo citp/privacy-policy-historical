@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limeshot.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221195906id_/http%3A//limeshot.com/contact-us/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limeshot.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509115326id_/http%3A//limeshot.com/contact-us/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
