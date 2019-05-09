@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acr.org privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919131051id_/https%3A//www.acr.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acr.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509234207id_/https%3A//www.acr.org/Privacy) for the most accurate reproduction.*
 
 # Privacy | American College of Radiology
 
-The ACR is committed to protecting your privacy and will collect no personal information from you unless you consent to provide that information. This privacy policy applies when you visit or use our websites. This policy may be supplemented by additional privacy statements, terms or notices provided to you. 
+The ACR is committed to protecting your privacy and will collect no personal information from you unless you consent to provide that information. This privacy policy applies when you visit or use our websites. This policy may be supplemented by additional privacy statements, terms or notices provided to you.
 
 ### Information we collect
 
