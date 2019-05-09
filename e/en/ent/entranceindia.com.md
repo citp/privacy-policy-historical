@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entranceindia.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602061728id_/http%3A//www.entranceindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entranceindia.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509110755id_/https%3A//www.entranceindia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Entranceindia
+# ENTRANCEINDIA | Privacy Policy | ENTRANCEINDIA
 
-Privacy Policy of [www.entranceindia.com](https://web.archive.org/web/20180602061728id_/http://www.entranceindia.com/)
+Privacy Policy of [www.entranceindia.com](https://web.archive.org/web/20190509110755id_/https://www.entranceindia.com/)
 
 This privacy policy sets out how www.entranceindia.com uses and protects any information that you give to www.entranceindia.com when you use this website.
 
@@ -37,7 +37,7 @@ We require this information to understand your needs and provide you with a bett
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**
+ **How we use cookies**
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
