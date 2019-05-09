@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218194442id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509143357id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ If you access our games via a third party social networking site (e.g. Facebook)
 
 **Mobile devices**
 
-If you install or otherwise access our games via a mobile device, we and our service providers may receive information about your location (based on your IP address) and your mobile device (e.g. your device model, current OS version, and UI language), and app usage data, including Google Advertising ID.
+If you install or otherwise access our games via a mobile device, we and our service [providers](https://absolutist.com/providers/) may receive information about your location (based on your IP address) and your mobile device (e.g. your device model, current OS version, and UI language), and app usage data, including Google Advertising ID.
 
 **Use of information**
 
@@ -46,4 +46,4 @@ We have security measures in place to protect the loss, misuse and alteration of
 
 **More Information**
 
-If you have any questions about this privacy statement, please contact our web-site support team: [support at absolutist.com](https://web.archive.org/web/20181218194442id_/http%3A//contacts/)
+If you have any questions about this privacy statement, please contact our web-site support team: [support at absolutist.com](https://web.archive.org/web/20190509143357id_/http://absolutist.com/contacts/)
