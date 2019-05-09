@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the rydercup.com privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531175715id_/http%3A//www.rydercup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydercup.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509145726id_/https%3A//www.rydercup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RyderCup.com
 
 #### What's New in the Updated Privacy Policy?  
 
-We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates and unaffiliated third parties. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.
+We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates, including AT&T, Inc. and Warner Media, LLC, and unaffiliated third parties. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.
 
 Thank you for visiting [www.rydercup.com](http://www.rydercup.com/), a digital service operated by Turner Sports Interactive, Inc., a subsidiary of Turner Broadcasting System, Inc. ("Turner") pursuant to agreements with the Professional Golfers Association of American ("PGA"). Turner and the PGA are collectively referred to in this document as "we" or "us". Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among Turner's network of affiliated and operated digital services ("Turner Network"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with Turner or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). A representative list of Turner Affiliates is available [here](https://web.archive.org/privacy-policy#affiliates). "Users" are persons that use the Services.
+
+A representative list of Turner Affiliates is available [here](https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English).
 
 #### I. The Information We Collect
 
@@ -20,7 +22,7 @@ At some Services, you may also be able to submit Information about other people.
 
 ##### 2\. Information That is Passively or Automatically Collected.
 
-We, and our "Partners", who include Turner Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution partners and other partners, may use automated means to collect various types of Information about you, your computer or other device used to access our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled [Cookies, and Other User and Ad-Targeting Technologies](https://web.archive.org/privacy-policy#cookies) for more information about how the foregoing Information may be collected and used.
+We, and our "Partners", who include Turner Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution partners and other partners, may use automated means to collect various types of Information about you, your computer or other device used to access, or in connection with, our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, device attributes, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled [Cookies, and Other User and Ad-Targeting Technologies](https://web.archive.org/privacy-policy#cookies) for more information about how the foregoing Information may be collected and used.
 
 ##### 3\. Geo-location Information
 
@@ -52,13 +54,23 @@ We, along with our Partners, may use the Information to:
 
 When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Services, (3) contact you through the social media service or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social media services. When you provide information about yourself to us through an application, through our Services, or on social media services or other third party platforms, it may be publicly viewed by other members of these services and we cannot prevent further use of the information by third parties.
 
-We or a Partner may use "cookies" or similar technologies to associate certain of the Information with a unique identifier that then associates the Information with your device or browser. For information about how these technologies work and how we may use them,please go to Section IV, titled [Cookies, And Other User And Ad-Targeting Technologies](https://web.archive.org/privacy-policy#cookies). Sometimes, we may associate cookies with the Information, including de-identified, "hashed,"" or anonymous versions of Information you have provided (such as during registration), in order to send or help our Partners send ads and offers based on your presumed interests or demographic information. We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with our Service, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Service, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our [Terms of Use](https://web.archive.org/privacy-policy#terms) for details on our use of content you submit.
+We or a Partner may use "cookies" or similar technologies to associate certain of the Information with a unique identifier that then associates the Information with your device or browser. For information about how these technologies work and how we may use them,please go to Section IV, titled [Cookies, And Other User And Ad-Targeting Technologies](https://web.archive.org/privacy-policy#cookies). Sometimes, we may associate cookies with the Information, including de-identified, "hashed,"" or anonymous versions of Information you have provided (such as during registration), in order to send or help our Partners send ads and offers based on your presumed interests or demographic information. We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with our Service, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Service, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our [Terms of Use](http://www.pga.com/other/terms-use) for details on our use of content you submit.
 
 #### III. Information Sharing and Disclosure
 
 We may disclose the Information as follows:
 
-1\. To service providers or Partners that we have engaged to perform business-related functions on our behalf. This may include service providers that: (a) conduct research and analytics; (b) create content; (c) provide customer, technical or operational support; (d) conduct or support marketing (such as email or advertising platforms); (e) fulfill orders and user requests; (f) handle payments; (g) host our Services, forums and online communities; (h) administer contests; (i) maintain databases; (j) send or support online or mobile advertising; and (k) otherwise support our Services. 2. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request or similar request. 3. With third parties in order to investigate, prevent, or take action (in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or the Services, or violations of our policies, the law or our [Terms of Use](http://www.pga.com/other/terms-use), to verify or enforce compliance with the policies governing our Services. 4. We may transfer some or all of your Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets, or if a substantial portion of our or of a business unit’s assets is sold or merged in this way. 5. We may share the Information with Turner Affiliates, so they can provide, improve and communicate with you about their own, or their marketing partners’ products and services. A representative list of our affiliates is available in the [Turner Affiliates](https://web.archive.org/privacy-policy#affiliates) section below. 6. We may share the Information with unaffiliated Partners and third parties (e.g., our third party service providers, advertisers, advertising networks and platforms, agencies, other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that wish to market products or services to you. If you wish to opt out from such sharing please visit the [How to Contact Us/Opting Out of Marketing Communications](https://web.archive.org/privacy-policy#contact) section below for further instructions. Please note that the Services covered by this Privacy Policy may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information from their visitors. We have no control over these third parties' use of this information, which is subject to their own privacy policies.
+1\. To service providers or Partners that we have engaged to perform business-related functions on our behalf. This may include service providers that: (a) conduct research and analytics; (b) create content; (c) provide customer, technical or operational support; (d) conduct or support marketing (such as email or advertising platforms); (e) fulfill orders and user requests; (f) handle payments; (g) host our Services, forums and online communities; (h) administer contests; (i) maintain databases; (j) send or support online or mobile advertising; and (k) otherwise support our Services.
+
+2\. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request or similar request.
+
+3\. With third parties in order to investigate, prevent, or take action (in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or the Services, or violations of our policies, the law or our [Terms of Use](http://www.pga.com/other/terms-use), to verify or enforce compliance with the policies governing our Services.
+
+4\. We may transfer some or all of your Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets, or if a substantial portion of our or of a business unit’s assets is sold or merged in this way.
+
+5\. We may share the Information with Turner Affiliates, so they can provide, improve and communicate with you about their own, or their marketing partners’ products and services. A representative list of our affiliates is available [here](https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English).
+
+6\. We may share the Information with unaffiliated Partners and third parties (e.g., our third party service providers, advertisers, advertising networks and platforms, agencies, other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that wish to market products or services to you. If you wish to opt out from such sharing please visit the [How to Contact Us/Opting Out of Marketing Communications](https://web.archive.org/privacy-policy#contact) section below for further instructions. Please note that the Services covered by this Privacy Policy may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information from their visitors. We have no control over these third parties' use of this information, which is subject to their own privacy policies.
 
 #### IV. Cookies and Other User and Ad-Targeting Technologies.
 
@@ -135,42 +147,8 @@ California's "Shine the Light" law, Civil Code section 1798.83, requires certain
 
 #### VII. List of Turner Affiliates.
 
-Below is a representative list of some of the Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. We may update this list from time-to-time, so please check back periodically to keep up-to-date.
-
-BLEACHER REPORT, INC.  
-CABLE NEWS INTERNATIONAL, INC.  
-CABLE NEWS NETWORK, INC.  
-CARTOON INTERACTIVE GROUP, INC.  
-CARTOON NETWORK ENTERPRISES, INC.  
-CNE TOURS, INC. (F/K/A CARTOON NETWORK SHOP, INC.)  
-CNN INTERACTIVE GROUP, INC.  
-COURT TV DIGITAL LLC  
-COURTROOM TELEVISION NETWORK LLC  
-GREAT BIG STORY, LLC  
-RETRO, INC.  
-SUPERSTATION, INC.  
-TBS INTERACTIVE GROUP, INC.  
-TCM INTERACTIVE GROUP, INC.  
-THE CARTOON NETWORK, INC.  
-TNT INTERACTIVE GROUP, INC.  
-TNT ORIGINALS, INC.  
-TURNER BROADCASTING SALES, INC.  
-TURNER CLASSIC MOVIES, INC.  
-TURNER DIGITAL BASKETBALL SERVICES, INC.  
-TURNER DIGITAL ENTERTAINMENT, LLC  
-TURNER ENTERTAINMENT NETWORKS, INC.  
-TURNER FESTIVALS, INC. (F/K/A TURNER DIRECT RETAILING, INC.)  
-TURNER MEDIA VENTURES, INC.  
-TURNER NETWORK SALES, INC.  
-TURNER NETWORK TELEVISION, INC.  
-TURNER PAGES, INC.  
-TURNER SPORTS INTERACTIVE, INC.  
-TURNER SPORTS, INC.
-
-Below is a list of some of the Time Warner companies that are affiliated with the Turner group companies and with whom we may share Information we collect at our Services. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.
-
-Warner Bros. Entertainment, Inc. Home Box Office, Inc. Time Warner, Inc.
+Please click [here](https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English) to see a representative list of Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. This list also includes companies that are affiliated with the Turner group companies and their affiliates, with whom we may share Information we collect on our Services. We may update this list from time-to-time, so please check back periodically to keep up-to-date.
 
 ##### VIII. Updates & Effective Date
 
-From time to time, we may update this Privacy Policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and with whom we share it. The Privacy Policy posted on this Service was updated on Tuesday, June 28, 2016.
+From time to time, we may update this Privacy Policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and with whom we share it. The Privacy Policy posted on this Service was updated on Tuesday, October 16, 2018.
