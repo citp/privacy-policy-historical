@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahappyhippymom.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119110740id_/https%3A//www.ahappyhippymom.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahappyhippymom.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509113409id_/https%3A//www.ahappyhippymom.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Happy Hippy Mom
 
