@@ -1,55 +1,172 @@
-> *The following text is extracted and transformed from the godlife.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013023035id_/http%3A//godlife.com/en/privacy%3Fv%3D14445787489693338) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godlife.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509040433id_/https%3A//godlife.com/en/privacy) for the most accurate reproduction.*
 
-# God Loves You! | GodLife
+# GodLife
 
-Welcome to godlife.com Website (Site) of Global Media Outreach. When we use the terms “we” “us” or “our”, we refer to Global Media Outreach. (“Our Organization”). 
+#### Introduction.
 
-Please know that we are committed to protecting and appropriately handling the private and personal information of users and visitors to this Site. We are publishing this Privacy Statement to let you know how we handle personal information in this Site. We may, from time-to-time, update this privacy notice so we encourage you to periodically review this policy. We will notify you about material changes in the way we treat personal information by placing a notice on our site. 
+Global Media Outreach is the ministry behind GodLife and all GodLife communities. At Global Media Outreach we are committed to maintaining the accuracy, confidentiality and security of your personal information.
 
-#### 1\. Using this Site.
+This Privacy Policy applies to how we collect, use and disclose your personal information when you interact with our ministry activities. For example, you may interact with us by visiting our website, via mobile device, or by attending a ministry event.
 
-Please read our [Terms of Use](https://web.archive.org/en/terms?v=14445787489693338) to find out more about the requirements for using this Site.
+#### Information About Us.
 
-#### 2\. Collection and Use of Information.
+Global Media Outreach is a registered 501(c)(3) non-profit organization. Our office address is 7160 Dallas Parkway, Suite 200, Plano, TX 75024.
 
-We take your privacy very seriously. You can visit and enjoy many of our Sites without disclosing any personal information about yourself. There may be times when you will have the opportunity to share limited, personally identifiable information to access or utilize certain features of this Site. We limit our collection of personal information to pertinent information for the activity you choose to undertake. For example, in order for you to make a purchase or donation, we may collect your name, email address, street and billing addresses, phone number, and credit card information. Depending on what you purchase, we may also need to collect other personal information. Generally, we will not disclose or share any visitor information (including your e-mail address) with anyone outside Our Organization without your permission. There may be times that we need to use your information in order to provide you with ministry services or products. For example, we may need to use or share your information with our partners and agents who provide goods and services to you on our behalf. We also may need to share your information with other parts of Our Organization to service your requests or provide you with information or other ministry opportunities. Lastly, we may need to use your information if required for us to comply with legal requirements pertaining to your information or activities, or to enforce our rights as agreed under the Terms of Use. In all such efforts we will take steps to safeguard your information. You agree that by submitting information to this Site you understand and freely consent to allow us to use, store, publish, transmit and process this information at our discretion to provide you with the goods and services you request and to operate this Site and related ministry activities. 
+Global Media Outreach is on a mission to share Jesus with the world online. Our expertise is using technology to share the Gospel. We develop tools and practices to help our volunteers disciple new and recommitting believers each day. With the help of strategic partnerships, these disciples are connected to Christian communities.
 
-#### 3\. Registering on the Site
+#### Privacy Policy Effectiveness.
 
-We give visitors to certain Sites the opportunity to register or provide their contact information such as their e-mail address so they can receive updates such as news reports, project or organization reports, opportunities for personal and financial involvement and promotional information. You may also be required to register on the Site to engage in other activities, such as purchases or downloads of materials, services, products, donations, receiving promotions, registering for conferences or activities, or registering for chat rooms or public forums. Personally identifiable information that you provide in these registrations is used consistently with this policy and we will notify you at a particular site if any uses are different than these uses. You can choose not to receive such mailings, or cancel any registrations, by un-subscribing. (See "Opt-In/Opt-Out Communications” below). 
+It is Global Media Outreach’s policy to comply with applicable privacy laws. Sometimes the privacy legislation and/or an individual’s right to privacy are different from one jurisdiction to another. Consequently, the rights and obligations contained in this Privacy Policy may not be available to everyone, everywhere.
 
-#### 4\. Security
+#### What is Personal Information?
 
-For Sites that collect information, we typically employ security measures, including technical, administrative, and physical security steps to protect the loss, misuse and alteration of information under our control. For example, the Site may use a Secured Socket Layer (SSL) server for activities such as order forms, and for users to make donations, download information and materials, and to make purchases online. For this, users need to provide contact information (such as name, postal and e-mail addresses) and financial information (credit card numbers and expiration dates). Information that is collected from a person may be used to verify their qualifications for registration, to bill them for products and services, and for all purposes related to the transaction. These uses could include processing your order, transmitting information to the participating merchant or service provider, and authenticating your purchase(s), and the information you have provided. We also use technology to protect your credit card number when we store your order and whenever we transfer that information to participating merchants or service providers.We cannot guarantee that the security measures we implement in connection with the operation of the Site will absolutely prevent others from accessing or acquiring any information that you provide while using the Site. You can do some things to help protect the security of your information. For instance, never give out your password since this is what is used to access all of your account information. Also, remember to sign out of your account and close your browser window when you finish visiting our Site, so that other people using the same computer will not have access to your information. 
+For the purposes of this Privacy Policy, personal information is information about you, individually, such as name, address, telephone number, email address, and your personal preferences, and other information you may share with us.
 
-#### 5\. Public Forums
+#### What Personal Information Do We Collect?
 
-Certain of our Sites may make Forums (as defined in the Terms of Use) available to its registered users. We might operate these Forums or they may be operated by outside groups. We are not responsible for the content posted in any chat rooms or other Forum. Please remember that any information disclosed in any Forum becomes public information and you should exercise caution when deciding to disclose any personal information. Also, any information you submit to our Sites is the property of our Sites unless the Site indicates otherwise. If you post personal information online that is accessible to the public (in any Forum, message board, or "chat" environment), you may receive unsolicited messages from other parties in return. 
+You can visit our website without telling us who you are or revealing personal information about yourself, including your e-mail address. Our web server may collect anonymous information related to your visit to our website, such as IP address and domain used to access our website, browser type, the website you came from to access our website, the page you entered and exited at, any website page within our website that is viewed by that IP address and the country where you are located. We use this information to monitor our website’s performance (such as number of visits, average time spent, page views, etc.) and for our operational purposes, such as working to continually upgrade our website.
 
-#### 6\. Cookies and Information Collected by Technology
+In addition, we collect the personal information that you submit to our website or provide to us through ministry activities, such as your name, address and any other contact or other information that you choose to provide. Collection may occur, for example, when you:
 
-The Site may use cookies to keep track of website activities, save your password or deliver content specific to your interests. A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. The only personal information a cookie can contain is information you supply yourself. You can refuse cookies by turning them off in your browser. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience certain interactive features of the Site or access all of the services provided through the Site. The Site may collect some information (such as your IP address) that may not be readily apparent to you that it is being collected. We may use your IP address to help diagnose problems with our server and to administer the Site. Your IP address may also be used to help us identify you and any activity in which you engage. We do keep track of the domains from which people visit us. We analyze this data for trends and statistics, but we do not keep it in a personally identifiable manner. The Site also uses information collected through technology to make the Site more interesting and useful to you. We normally do not combine this type of information with personally identifiable information. However, we may combine this information with personally identifiable information to identify a visitor in order to enforce compliance with our Terms of Use, or to protect the Site, interests and reputation, guests, and/or others. Demographic and profile data may also be collected at the Site. We can use this data to tailor our visitors’ experience at the Site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+  * Use the “contact” portion of our website;
+  * Make a donation
+  * Receive and review online information about our ministries;
+  * Apply for a position or to volunteer through our website;
+  * Request resources or book/register for an event;
+  * Submit a contact form in connection with this website or a Global Media Outreach event; or
+  * Correspond with a representative of Global Media Outreach.
 
-#### 7\. Third Party Sites and Information
 
-The Site may contain links to other Web sites that are run by third parties such as other organizations, Sponsors, Content Providers and Advertisers. Once you've clicked on a link or button activator for an outside Site, you will leave the Site and be taken to sites that we do not control, and our privacy policy no longer applies on those sites. You must read the privacy policy of the third party Web site concerning how personal information will be used. We also provide content created by third-parties on certain of our Sites. We are not responsible for the privacy practices or the content of such Content Providers or Third-Party Sites. 
 
-#### 8\. Special Rules for Children
+Your personal information may also be given to us by third parties such as social media platforms and networks that share or allow you to share information with us.  For more information about social media platform and network privacy practices, please review the privacy policies and settings of the social media platforms and networks that you use.
 
-We do not collect more personally identifiable information from children under the age of 13 than is necessary for them to participate in our online or other activities such as registering for a conference or downloading materials. When a child under the age of 13 attempts to register with one of Our Sites, purchase products or materials, or participate in an activity requiring the submittal of personally identifiable information, he or she must have a parent or guardian provide permission and consent for that child to provide information and register. The only personally identifiable information we collect from a child is information that is necessary for the child to participate in some activity, such as an address for making a purchase. We may also collect personal information, like a pet's name, to help visitors (including children) remember their Log-in Name and password if they forget them. We also allow parents to request at any time that the information collected about their child be removed from our database. If you would like to review information about your children that they have provided as registered users, please send such request by e-mail to the e-mail address available through the Site. Please be sure to include your child's log-in name and password. On certain of our Sites, we occasionally may host or offer access to some chat rooms, or other Forums, where no personally identifiable information is collected or posted. Children can visit these Forums without having to first provide any personally identifiable information. 
+Where you request information from us, we may use the e-mail address that you provide to send you information about our ministry and resources that may be of interest to you. If you have agreed to receive communications from us, such as by e-mail, you may ask us to remove you from the list at any time (using the unsubscribe instructions provided with each e-mail).
 
-#### 9\. Opt-In/Opt-Out Communications
+#### How Do We Use Cookies?
 
-We may provide visitors to the Site the opportunity to register for services such as signing-up to receive updates from certain parts of Our Organization. Visitors are not obligated to register for these services. Also, you can unsubscribe from any electronic communications from Our Organization. Please contact us to request that we no longer contact you via e-mail or other means using the personal information you have provided at any of the Site. 
+When you visit our website, we may place a “cookie” on your computer to track your visit. A cookie is a small data file that can only be read by the website that placed the cookie on your hard drive. The cookie acts as an identification card and allows our website to identify you and to retain information that is relevant to interacting with our website. The cookie allows us to track your visit to the website so that we can better understand your use of our website and customize it to better meet your needs.
 
-#### 10\. Access and Change Information
+We may use different types of cookies on our website: persistent cookies; session cookies; and third-party cookies. (Please refer to your browser’s Help section for further information on controlling and setting cookies).
 
-The Site may offer different options for accessing, changing and modifying information you previously provided at the Site. To change or update your information, such as donor or customer record (for registered users only), e-mail address, or address, or to stop a duplicate e-mail, please contact us as described below. Make sure to provide your name with both the old and new information. 
+A persistent cookie remains on your computer for authentication purposes where the use of this website requires a username and password. We may use a persistent cookie to save your username, with your consent given on your computer, so you don’t have to re-enter it each time you visit one of our sites. You may choose to reject persistent cookies and use your login password each time you visit a site, and the site will still function correctly.
 
-#### 11\. Contacting Our Organization
+A session cookie is temporary, only used during a single session on this website, and is automatically deleted at the end of your visit. We may use session cookies (a) to customize your visit to this website and your online experience, (b) to deliver content consistent with your stated interests and the manner in which you browse and/or use this website, and (c) for other purposes to make your visit more convenient.
 
-A link named [Contact Us](https://web.archive.org/en/form/connect?v=14445787489693338) may be provided on pages of Our Site. Please click on this link to send an e-mail to Our Organization’s support staff and we will work to ensure your query is answered or passed on to the appropriate person in a timely manner. You can also contact Our Organization about general information of our Site at: [Global Media Outreach](https://www.globalmediaoutreach.com/). 
+You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences. Depending on the website, the rejection of session cookies may interfere with the functionality of this website and in certain cases you may have to accept session cookies in order for the site to function at all. If your browser does not differentiate between persistent and session cookies, you may have to enable all cookies in order for this website to function properly.
 
-#### 12\. Your California Privacy Rights
+In addition to cookies, we may use web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. These may be used to send information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
 
-Beginning January 1, 2005 under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2005 will receive information regarding 2004 sharing activities). Please be aware that not all information sharing is covered by the "Shine the Light" requirements. 
+#### What about Online Advertising?
+
+We promote and encourage support use of our ministry resources by purchasing advertising space on third-party websites. When you visit some websites, we or a third party may place one or more types of cookies on your computer in order to recognize your computer. Because we advertise about our ministry activities on third-party websites, we are able to compile anonymous information over time about the types of pages, content, and ads you or others who use your computer visited or viewed. This anonymous information is used for many purposes. For example, it helps us try to ensure that you do not see the same advertisements repeatedly. We also use this anonymous information to help select and display targeted advertisements on third-party websites that encourage support of our ministry activities.
+
+Third-party companies also may collect anonymous information about your activity on our websites and applications and on third-party websites and applications using online tracking technologies like cookies and web beacons. Tracking data collected by these third-party companies is used to decide which advertisements you see on third-party websites and applications, but does not identify you personally.
+
+#### What about Links to other Websites?
+
+Our website may contain links to other websites. To allow you to interact with third-party websites on which you may have accounts (such as social media websites) or join communities on such websites, we may provide links or embed third-party applications that allow you to login, post content, or join communities from our websites.
+
+Please note that the third party websites accessed through links on our site are subject to the third party’s privacy policy and standards. We cannot assume any responsibility for the privacy practices, policies or actions of the third parties that operate these websites, or for how they collect, use or disclose your personal information. You should review the privacy policies of these websites before providing them with personal information.
+
+#### Why Do We Collect, Use, and Disclose Personal Information?
+
+The personal information collected through our website is used and disclosed for our ministry purposes. For example, we may collect, use and disclose your personal information to:
+
+  * Establish, maintain and manage our relationship with you;
+  * Communicate with you about our ministry and resources which may be of interest to you;
+  * Be able to review the services that we provide to you so that we may work to improve our services;
+  * Be able to comply with your requests;
+  * Enable us to comply with applicable law or regulatory process (for example, we may collect personal information to satisfy the obligations imposed on us by various regulators).
+
+
+
+Global Media Outreach never sells, rents, leases or exchanges your personal information with other organizations. In order to fulfill the ministry and organizational purposes for which you provided us your personal information, it may be shared with our employees, Ministry Partners, and other parties who require such information to assist us with establishing, maintaining and managing our relationship with you and providing ministry products and services. For example, Global Media Outreach may provide certain information technology, and consulting to Ministry Partners (in the US or abroad) from time to time so that we or they may provide ministry services you have expressed an interest in. As a result, your personal information may transit through or be collected, used, processed, stored or disclosed in both the United States and other countries, including countries outside the European Economic Area, under the control of Global Media Outreach or one of our Ministry Partners. Where your personal information is provided to Ministry Partners or service providers, we restrict the use of your information to the purpose for which it is provided.
+
+Please note that we may collect, use or disclose your publicly-available personal information without your knowledge or consent where we are permitted or required by applicable law or regulatory requirements to do so.
+
+#### How Long Do We Keep Your Personal Information?
+
+We retain personal information for as long as we reasonably require it for ministry or legal purposes. In determining data retention periods, Global Media Outreach takes into consideration local laws, contractual obligations, and the expectations and requirements for handling such data.
+
+#### Your Consent is Important to Us.
+
+By interacting with our ministry (e.g., by using our website) and, if applicable, submitting your personal information, you agree to the terms of this Privacy Policy.
+
+You may change or withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice, by contacting us at privacy@globalmediaoutreach.com. All communications with respect to such withdrawal or variation of consent must be in writing, and it may take us up to 30 days to process your withdrawal of consent. Please note that in some circumstances, withdrawing or changing your consent to certain uses of your personal information may affect: (i) our ability to provide you with the products or services you request; and (ii) your ability to access this website.
+
+#### How is Your Personal Information Protected?
+
+Global Media Outreach endeavors to maintain physical, technical and procedural safeguards that are appropriate to the sensitivity of the personal information in question. These safeguards are designed to prevent your personal information from loss and unauthorized access, copying, use, modification or disclosure.
+
+Global Media Outreach uses Internet Encryption Software, Secure Socket Layer (SSL) Protocol or Transport Layer Security (TLS) Protocol, when collecting or transferring sensitive data such as credit card information. Any information you enter is encrypted at your browser, sent over the public Internet in encrypted form, and then de-crypted at our server.
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while this website strives to protect your personal information, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. Once we receive your personal information, we make commercially reasonable efforts to ensure its security on our systems.  Also, if you provide us with your payment information, it is accessible only to a small number of trusted Global Media Outreach employees who have been specially trained in processing this information.
+
+The security of your personal information is important to us. Please advise us immediately of any incident involving the loss of or unauthorized access to or disclosure of personal information that is in our custody or control.
+
+#### Updating Your Personal Information.
+
+It is important that the information contained in our records is both accurate and current. If your personal information happens to change during the course of our relationship, please keep us informed of such changes at privacy@globalmediaoutreach.com. In some circumstances we may comply with your request by appending an alternative text to the record in question.
+
+#### Access to Your Personal Information.
+
+You can ask about personal information we have about you. If you want to review, verify or correct your personal information, please contact us in writing at privacy@globalmediaoutreach.com.
+
+When contacting us about your personal information, we may request specific information from you to confirm your identity and right to access, as well as to search for and provide you with the personal information that we hold about you.
+
+Your right to access the personal information that we hold about you is not absolute. There may be instances where applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal information that we hold about you. In addition, the personal information may have been destroyed, erased or made anonymous in accordance with our record retention obligations and practices. In the event that we cannot provide you with access to your personal information, we will inform you of the reasons why, subject to any legal or regulatory restrictions.
+
+#### Your Preferences.
+
+You may manage the types of communications you receive from us by contacting us at privacy@globalmediaoutreach.com.
+
+#### More Information for Those Outside the United States.
+
+Only if you interact with us from places that have data privacy legislation such as the EU General Data Protection Regulation or substantially equivalent law, then we also want you to know the following about how we treat your personal information.
+
+#### Basis for Processing.
+
+We may process your personal information typically because:
+
+  * the processing is based on a legitimate ministry interest (e.g., to protect the security and integrity of our systems or to respond to your requests, etc.)
+  * you provided your consent;
+  * the processing is necessary for our contractual relationship; and/or
+  * the processing is necessary for us to comply with our legal or regulatory obligations.
+
+
+
+#### Your Rights.
+
+You have the right to request access to the personal information we hold about you  and to have any inaccuracies corrected.  You also have other rights including:
+
+  * the right to erasure;
+  * the right to restrict processing;
+  * the right to data portability;
+  * the right to object; and/or
+  * Rights in relation to automated decision making and profiling (if applicable).
+
+
+
+We consider and respond to all requests in accordance with applicable law.  As mentioned above, when contacting us about your personal information, we may request specific information from you to confirm your identity and right to the request, as well as to search for your personal information and provide you with a response to your request.  There also may be instances where it may not be possible to facilitate your request due to legal requirements or other obligations or practices. 
+
+Let us know about a request or concern you may have by contacting us at privacy@globalmediaoutreach.com. You may also take a concern about how we manage your personal information to the authority in your area.
+
+#### Participation via Mobile Device and Text Messaging.
+
+Participating in Global Media Outreach ministry programs via mobile device, such as through text messaging, is intended to work with major wireless carriers.
+
+Global Media Outreach cannot guarantee that any particular wireless service provider will allow participation, which is also subject to the capabilities of your mobile device. Wireless service providers may charge participants for text messages, including error messages, sent and/or received in connection with Global Media Outreach’s ministry programs. Global Media Outreach will not be responsible for these charges. Participants should consult their wireless service provider’s pricing plan for details.
+
+Data gathered through mobile device participation may include, without limitation, your response(s) to the ministry program and your cell phone number. Use of such data will be as described elsewhere in this Privacy Policy. By interacting with Global Media Outreach via mobile device and/or text messaging you consent to Global Media Outreach’s use of your mobile device and cell phone number to communicate with you. Global Media Outreach will provide opt-out information that will allow you to indicate your desire to stop receiving text messages.
+
+#### Inquiries or Concerns?
+
+If you have any questions about this Privacy Policy or concerns about how we manage your personal information, please contact us at privacy@globalmediaoutreach.com.
+
+#### Revisions to this Privacy Policy.
+
+Global Media Outreach from time to time, may make changes to this Privacy Policy to reflect changes in its legal or regulatory obligations or in the manner in which we deal with your personal information (the date of the last update is shown below).
+
+#### Interpretation of this Privacy Policy.
+
+Any interpretation associated with this Privacy Policy will be made by Global Media Outreach. Unless otherwise indicated, this Privacy Policy does not create or confer upon any individual any rights, or impose upon Global Media Outreach any rights or obligations outside of, or in addition to, any rights or obligations imposed by United States federal and state laws, as applicable.
