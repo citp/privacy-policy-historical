@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118124909id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509211919id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | XSplit
+# Privacy Policy and Cookies | XSplit
 
 SplitmediaLabs Limited ("SplitmediaLabs," "we," "our" or "us") are the developers and publishers of xsplit.com, XSplit Broadcaster, XSplit Gamecaster and XSplit VCam applications. 
 
