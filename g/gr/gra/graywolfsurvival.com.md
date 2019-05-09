@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graywolfsurvival.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220072721id_/http%3A//graywolfsurvival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graywolfsurvival.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509232607id_/https%3A//graywolfsurvival.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,8 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 We collect information from you when you subscribe to a newsletter or enter information on our site.
 
 **How do we use your information?**
+
+[](http://988399syzst5jvj-vfaqfvdybm.hop.clickbank.net/?tid=MIDPOST)
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
@@ -60,7 +62,7 @@ We have not enabled Google AdSense on our site but we may do so in the future.
 
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-[](http://988399syzst5jvj-vfaqfvdybm.hop.clickbank.net/?tid=MIDPOST)
+[](http://af48b3218gwkp2ll5n04w3xlec.hop.clickbank.net/?tid=MIDPOST)
 
 **According to CalOPPA we agree to the following:**
 
@@ -144,5 +146,7 @@ graywolfsurvival.com
 Graywolf Survival Phoenix, AZ 85383
 
 USA
+
+graywolfsurvival@gmail.com
 
 Last Edited on 2014-11-30
