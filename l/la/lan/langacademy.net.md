@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the langacademy.net privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508181921id_/http%3A//langacademy.net/vb/view.php%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langacademy.net privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509064839id_/http%3A//langacademy.net/vb/view.php%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
 
 # privacy-policy - Language Learning | Langacademy
 
