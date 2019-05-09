@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the upjob.in privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509112827id_/http%3A//www.upjob.in/2014/12/privacy-policy-for-upjobin.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upjob.in privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509134917id_/http%3A//www.upjob.in/2014/12/privacy-policy-for-upjobin.html) for the most accurate reproduction.*
 
 # Privacy Policy For UpJob.IN
-
-###  Privacy Policy For UpJob.IN 
 
 Privacy Policy For UpJob.IN
 
@@ -33,3 +31,5 @@ If your current advertising services contract with Google or DoubleClick already
 •    Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
 
 •    Users may opt out of the use of the DART cookie by visiting the advertising opt-out page. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.)
+
+**Sponsored link**
