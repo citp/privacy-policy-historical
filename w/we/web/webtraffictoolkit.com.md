@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtraffictoolkit.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117150004id_/http%3A//webtraffictoolkit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtraffictoolkit.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509122845id_/https%3A//blog.webtraffictoolkit.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Web Traffic Toolkit
 
 ## How We Protect Your Privacy
 
@@ -42,37 +42,37 @@ If we sell our website, we may transfer your information to the purchaser of the
 
 ## Do-Not-Track, Interest-Based Advertising, Remarketing, and Dynamic Ad Serving
 
-_Do-Not-Track_
+ _Do-Not-Track_
 
 We try to honor any Do-Not-Track signals you send through your web browser when visiting our website. However, please read the following important information about “Interest-Based Advertising,” “Remarketing,” and “Dynamic Ad Serving” so that you understand the type of tracking that may be done by third party vendors when you visit our site and how you can opt out of such tracking.
 
-_Interest-Based Advertising_
+ _Interest-Based Advertising_
 
-When you visit our website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. 
+When you visit our website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like.
 
 This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about Google privacy policies and its DoubleClick DART cookie used to generate interest-based advertising, go to <http://www.google.com/privacy/ads/>.
 
-_Protect My Choices_
+ _Protect My Choices_
 
 If you are using Internet Explorer, Mozilla Firefox, or Google Chrome browsers, you may wish to install the “Protect My Choices” browser extensions that are designed to help you keep your opt-out preferences. To learn more, go to <http://www.aboutads.info/PMC>.
 
-_Remarketing_
+ _Remarketing_
 
 This website may use a remarketing tag to advertise online. This means that Google and other third-party vendors may show our ads to you on sites across the Internet. These third-party vendors, including Google, may use cookies to serve ads to you based upon your past visits to our website.
 
 If you would like to opt out of Google’s use of cookies, you can visit the company’s Ad Preferences Manager at <https://www.google.com/ads/preferences/>.
 
-In the alternative, you can opt out of the use of cookies by third-party vendors by going to the Network Advertising Initiative’s opt-out page located at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+In the alternative, you can opt out of the use of cookies by third-party vendors by going to the Network Advertising Initiative’s opt-out page located at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-_Dynamic Ad Serving_
+ _Dynamic Ad Serving_
 
-Our website may use Google’s Dynamic Ad Serving feature. To opt out of interest-based ads by Google, follow Google’s opt-out instructions located at [ https://support.google.com/ads/answer/2662922?hl=en ](https://web.archive.org/web/20181117150004id_/http%3A//webtraffictoolkit.com/%20https://support.google.com/ads/answer/2662922?hl=en%20). 
+Our website may use Google’s Dynamic Ad Serving feature. To opt out of interest-based ads by Google, follow Google’s opt-out instructions located at [ https://support.google.com/ads/answer/2662922?hl=en ](http://webtraffictoolkit.com/%20https://support.google.com/ads/answer/2662922?hl=en%20).
 
-_DoubleClick Remarketing Pixels_
+ _DoubleClick Remarketing Pixels_
 
-Our website may use DoubleClick’s remarketing pixels. If you would like to opt out of DoubleClick’s use of cookies, you can visit the DoubleClick opt-out page at <https://www.google.com/settings/ads/onweb#display_optout>. 
+Our website may use DoubleClick’s remarketing pixels. If you would like to opt out of DoubleClick’s use of cookies, you can visit the DoubleClick opt-out page at <https://www.google.com/settings/ads/onweb#display_optout>.
 
-In the alternative, you can opt out of use of cookies by third-party vendors by going to the Network Advertising Initiative’s opt-out page located at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+In the alternative, you can opt out of use of cookies by third-party vendors by going to the Network Advertising Initiative’s opt-out page located at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
@@ -104,4 +104,4 @@ If you are concerned about the topic covered by this website privacy policy, you
 
 Any questions or concerns about this website privacy policy should be brought to our attention by sending an email to info[at]webtraffictoolkit.com and providing us with information relating to your concern.
 
-This document is Copyright © 2008-2013 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at http://webtraffictoolkit.com/. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+This document is Copyright © 2008-2019 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at http://webtraffictoolkit.com/. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
