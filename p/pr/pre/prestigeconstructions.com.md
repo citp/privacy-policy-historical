@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prestigeconstructions.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413154426id_/https%3A//www.prestigeconstructions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigeconstructions.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509035259id_/https%3A//www.prestigeconstructions.com/privacy) for the most accurate reproduction.*
 
-# Prestige
-
-Privacy Policy
+# Privacy | Prestige Estates Projects Limited
 
 ##### This policy was last modified on 1st January 2014.
 
@@ -20,8 +18,6 @@ When filling out a form on our site, for any of the above-mentioned reasons, you
 
 Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
-READ MORE
-
 ##### What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
@@ -36,7 +32,7 @@ Any of the information we collect from you may be used in one of the following w
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-**Note:** If at any time you would like to unsubscribe from receiving future emails from us, simply respond to the email received letting us know the same & we will have you taken off from our database.
+Note: If at any time you would like to unsubscribe from receiving future emails from us, simply respond to the email received letting us know the same & we will have you taken off from our database.
 
 ##### How do we protect your information?
 
@@ -47,8 +43,6 @@ These security measures include: password protected directories and databases to
 ##### Do we use cookies?
 
 Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser [if you allow] that enables the sites or service providers systems to recognize your browser and capture and remember certain information).
-
-READ MORE
 
 ##### Do we disclose any information to outside parties?
 
@@ -72,9 +66,7 @@ This online Privacy Policy applies only to information collected through our web
 
 ##### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.prestigeconstructions.com/terms>.
-
-READ MORE
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.prestigeconstructions.com/terms>.
 
 ##### Your Consent
 
