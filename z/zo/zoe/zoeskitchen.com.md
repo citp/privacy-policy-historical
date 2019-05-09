@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoeskitchen.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021044317id_/https%3A//zoeskitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoeskitchen.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509024231id_/https%3A//zoeskitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoës Kitchen
 
@@ -77,8 +77,9 @@ Our site and mobile app are not intended for children under the age of 13. We wi
 
 We may offer links to other sites that are not operated by Zoes. If you visit one of these linked sites, then you should review its privacy policy and any other applicable policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies are specifically outside the scope of this Policy.
 
-Who can I contact if I have additional questions? If you have any questions about this Policy, then please contact us at:   
-Zoes Kitchen Home Office  
-5760 State Highway 121, Suite 250, Plano, TX 75024  
+Who can I contact if I have additional questions? If you have any questions about this Policy, then please contact us at:
+
+CAVA + Zoës Kitchen Support Center  
+7700 Windrose Avenue, Suite G300, Plano, TX 75024  
 Attention: IT Analyst  
 
