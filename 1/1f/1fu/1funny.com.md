@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1funny.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228192542id_/https%3A//1funny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1funny.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509161435id_/https%3A//1funny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – 1Funny.com
 
@@ -19,7 +19,7 @@ We also use third party advertisements on 1Funny.com to support our site. Some o
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Newsletter / Mailing List  
-If you choose to join our newsletter, you will need to enter your email address and an optional name on the newsletter forms on our website. Your email address and name will not be shared with any third party and will strictly be used to send you updates of new content and promotions. Email open and click through data is collected to track the effectiveness of our newsletter. We use GetResponse for hosting our newsletter. [Click here to see their privacy policy](https://www.getresponse.com/legal/privacy.html).
+If you choose to join our newsletter, you will need to enter your email address and an optional name on the newsletter forms on our website. Your email address and name will not be shared with any third party and will strictly be used to send you updates of new content and promotions. Every email from our newsletter has an unsubscribe link at the bottom if you wish to be removed from our mailings. Email open and click through data is collected to track the effectiveness of our newsletter. We use GetResponse for hosting our newsletter. [Click here to see their privacy policy](https://www.getresponse.com/legal/privacy.html).
 
 Additional Third Party Plugins and Addons  
 This site uses Akismet to reduce spam. [Learn how your comment data is processed](https://automattic.com/privacy-notice/).  
