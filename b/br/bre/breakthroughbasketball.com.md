@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710085431id_/https%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509223133id_/https%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
 
 # BreakthroughBasketball.com Privacy Policy
-
-## _**Subscribe for FREE and Get 3 eBooks…**_
-
-**Just for subscribing to our free newsletter you’ll get these 3 eBooks for free…**
-
-  * **72 Basketball Drills & Coaching Tips – 136 page eBook.**
-  * **21 Basketball Tips & Tricks for Players – 20 page eBook.**
-  * **32 Winning Basketball Plays – 96 page eBook.**
-
-
-
-Plus you’ll get ALL updates to this website delivered to your inbox for free. Over 100,000 other coaches, players, & parents have already subscribed.
-
-We will never send you spam or share your email address, guaranteed!
-
-_Close_
 
 **Our Commitment To Privacy:**
 
@@ -28,11 +12,14 @@ To better protect your privacy we provide this notice explaining our online info
 
 This notice applies to all information collected or submitted on the BreakthroughBasketball.com website. On some pages, you can order informational products, make requests or comments, and register to receive newsletters and other materials. The types of personal information collected at these pages may include:
 
-\- Your Name  
-\- Your Address  
-\- Your Email Address  
-\- Your Telephone Number  
-\- Your Credit Card or Debit Card Information
+\- Your name  
+\- Your address  
+\- Your email address  
+\- Your telephone number  
+\- Your credit card or debit card information  
+\- Your password  
+\- Whether you are a coach, parent or player  
+\- What age level you coach
 
 **Other Information We Collect:**
 
@@ -46,6 +33,10 @@ We automatically log personal data via our website when you send us an electroni
 \- Research and Development  
 \- Customer Administration  
 \- Marketing
+
+**Retention of Personal Information:**
+
+Your personal information will be retained for as long as it is necessary to carry out the purposes set out in this Privacy Policy (unless longer retention is required by applicable law). However, we will not retain any of your personal information beyond this period and the retention of your personal information will be subject to periodic review. We may keep an anonymized form of your personal information, which will no longer refer to you, for statistical purposes without time limits, to the extent that we have a legitimate and lawful interest in doing so.
 
 **Cookies:**
 
@@ -65,13 +56,19 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out.
 
+**Transfer of Information:**
+
+If you are located outside the United States and choose to provide information to us, we may transfer your information to the United States (or any other country where we operate), where the privacy laws may not be as protective as in your country or jurisdiction. By using our website, you consent to the collection, transfer, use, storage, and disclosure of your information as described in this Privacy Policy.
+
+Please be aware that information you provide to us or that we obtain as a result of your use of our services may be collected in your country and subsequently transferred to the United States or another country in accordance with applicable law. The privacy and data protection laws in the country to which your information is transferred may not be equivalent to such laws in your country of residence. Your personal information may be subject to the laws of the country to which it is transferred and may be accessible without notice to you by the courts, law enforcement and national security authorities of that country. By using our website or providing us with your information, you consent to the collection, international transfer, storage, and processing of your information.
+
 **Our Commitment To Data Security:**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **Our Commitment To Children's Privacy:**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13 years of age, and no part of our website is intended to attract anyone under 13.
+We do not knowingly collect or store contact information about children under the age of 13 in the United States or the appropriate age for services directed toward children as defined under applicable laws in other jurisdictions.
 
 **How You Can Access Or Correct Your Information:**
 
@@ -85,4 +82,4 @@ If we decide to change our privacy statement, we will post those changes here so
 
 If at any time, you have questions or concerns about the BreakthroughBasketball.com's privacy statement, please feel free to contact us by visiting this [page](https://web.archive.org/contact-us.asp).
 
-_**Effective June 20, 2007**_
+_**Last Updated July 12, 2018**_
