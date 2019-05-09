@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madamedeals.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215084306id_/https%3A//madamedeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madamedeals.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509091425id_/https%3A//madamedeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Madame Deals
+# Privacy Policy - Real Advice Gal
 
 **Real Advice Gal by Madame Deals, Inc. Privacy Policy**
 
