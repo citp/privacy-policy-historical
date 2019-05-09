@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831021721id_/https%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509020625id_/https%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Looking for your Purpose in Life, the Meaning of a Name, Meaning of Baby Names, or how to Make a Name Change?
 
-### Last Update May 25, 2018
+### Last Update November 20, 2018
 
 We are serious about safeguarding your personal information. This privacy policy ("Policy") describes how the **Society of Kabalarians of Canada** and the **Kabalarian Philosophy** (collectively, the "Society of Kabalarians") collects, uses, and shares personal information of consumers who use our website located at **kabalarians.com** , our mobile application ("Application") (collectively, the "Site") and online services ("Services"). This Policy also applies to any of our other websites that post this Policy.
 
@@ -144,15 +144,15 @@ Your information, including personal data that we collect from you, may be trans
 
 Subject to the next paragraph, we ask that you not send us, and you do not disclose, any sensitive personal data: social security numbers, If you send or disclose any sensitive personal data to us when you submit user-generated content to **kabalarians.com** , you consent to our processing and use of such sensitive personal data in accordance with this Policy. If you do not consent to our processing and use of such sensitive personal data you must not submit such user-generated content to **kabalarians.com**. 
 
-## OUR POLICY ON CHILDREN & MINORS
+## OUR POLICY ON CHILDREN AND MINORS
 
-**Kabalarians.com** is not directed at children and minors under 18. If a parent or guardian becomes aware that their child/minor has provided us with information without their consent, they should contact and we will delete such information as soon as reasonabiy practicable. 
+**Kabalarians.com** does not knowingly collect personal information from children or minors under the age of 18 without parental approval. If a parent or guardian becomes aware that their child/minor has provided us with information without their consent, they should contact our office and we will delete such information as soon as reasonably practicable. 
 
-We do not knowingly collect personal information from children or minors under the age of 18 without parental approval. If we learn that we have personal information on a child or minor under the age of 18 without parental approval, we will delete that information from our systems. The Kabalarian Philosophy encourages parents to go online with their children. Here are a few tips to help make a child's or minor's online experience safer: 
+The Kabalarian Philosophy encourages parents to go online with their children. Here are a few tips to help make a child's or minor's online experience safer:
 
   * Teach children/minors never to give personal information, unless supervised by a parent or responsible adult, including name, address, phone, school, etc.
   * Know the sites your children and minors are visiting and which sites are appropriate. 
-  * Look for a website's privacy policies. Know how your child's or minor's information is treated.
+  * Look for Web site privacy policies. Know how your child's or minor's information is treated.
 
 
 
