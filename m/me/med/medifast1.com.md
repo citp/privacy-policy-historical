@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130040321id_/http%3A//www.medifast1.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509134659id_/https%3A//www.medifast1.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy & Security
+# medifast
 
 **_
 * ABOUT THIS PRIVACY POLICY AND USING OUR SITE AND TOOLS
 _**
 
-This Privacy Policy applies to websites provided by Medifast, Inc. and **OPTA** VIA LLC and their subsidiaries and affiliates ("Company" or "We" or "Our"). Within this privacy policy, the term "Company Websites" pertains to any and all websites hosted and/or operated by Medifast, Inc. and **OPTA** VIA LLC, including co-branded, product and divisional websites which link to this Privacy Policy.
+This Privacy Policy applies to websites provided by Medifast, Inc. and **OPTA** VIA LLC and their subsidiaries and affiliates (“Company” or “We” or “Our”). Within this privacy policy, the term “Company Websites” pertains to any and all websites hosted and/or operated by Medifast, Inc. and **OPTA** VIA LLC, including co-branded, product and divisional websites which link to this Privacy Policy.
 
 The Company Websites contain links to other sites. Once you enter another website, be aware that Company is not responsible for the privacy practices of such other sites. We encourage you to look for and review the privacy statements of each and every website that you visit through links on the Company Websites. We hope that reading Our Privacy Policy gives you a clear idea of how We manage information about you.
 
-While you may use some of the functionality of the Company Websites without registering for an account, many of the specific tools and services on the Company Websites require registration. If you choose to register with the Company Websites for certain services, we require you to submit Personal Data. Depending on the tool or service you have selected, we may also collect Personal Health Information such as your weight, health conditions, and medications, among other information. "Personal Data" means any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, address or phone number or an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+While you may use some of the functionality of the Company Websites without registering for an account, many of the specific tools and services on the Company Websites require registration. If you choose to register with the Company Websites for certain services, We require you to submit Personal Data. Depending on the tool or service you have selected, we may also collect Personal Health Information such as your weight, health conditions, and medications, among other information. “Personal Data” means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, address or phone number or an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
-You are responsible for ensuring the accuracy of the Personal Data you submit to the Company Websites. Inaccurate information will affect the information you receive when using the Company Websites and tools and our ability to contact you as contemplated in this Privacy Policy. For example, your email address should be kept current because that is how we communicate with you.
+You are responsible for ensuring the accuracy of the Personal Data you submit to the Company Websites. Inaccurate information will affect the information you receive when using the Company Websites and tools and Our ability to contact you as contemplated in this Privacy Policy. For example, your email address should be kept current because that is how We communicate with you.
 
 **_
 * INFORMATION WE COLLECT ABOUT YOU
 _**
 
-Even if you do not register with the Company Websites, we collect information about your use of the Company Websites, special promotions and newsletters. 
+Even if you do not register with the Company Websites, We collect information about your use of the Company Websites, special promotions and newsletters. 
 
 _Automatically Collected Information_
 
@@ -26,13 +26,13 @@ _Automatically Collected Information_
   1. Cookies
 **
 
-We collect information about your use of the Company Websites and your use of the websites of selected sponsors and advertisers through the use of Cookies. The Company Websites and Our sponsors' or advertisers' websites assign every computer a different Cookie. The information collected by Cookies (i) helps us dynamically generate advertising and content on web pages or in newsletters, and (ii) allows us to statistically monitor how many people are using the Company Websites and selected sponsors' and advertisers' sites, how many people open Our emails, and for what purposes these actions are being taken. We may use Cookie information to target certain advertisements to your browser or to determine the popularity of certain content or advertisements. Cookies are also used to facilitate a user's log-in, as navigation aids, and as session timers, but not to retain Personal Health Information about you. 
+We collect information about your use of the Company Websites and your use of the websites of selected sponsors and advertisers through the use of Cookies. The Company Websites and Our sponsors’ or advertisers’ websites assign every computer a different Cookie. The information collected by Cookies (i) helps us dynamically generate advertising and content on web pages or in newsletters, and (ii) allows us to statistically monitor how many people are using the Company Websites and selected sponsors’ and advertisers’ sites, how many people open Our emails, and for what purposes these actions are being taken. We may use Cookie information to target certain advertisements to your browser or to determine the popularity of certain content or advertisements. Cookies are also used to facilitate a user’s log-in, as navigation aids, and as session timers, but not to retain Personal Health Information about you. 
 
 Your browser software can be set to reject all Cookies. Most browsers offer instructions on how to reset the browser to reject Cookies in the "Help" section of the toolbar. If you reject Our Cookies, certain of the functions and conveniences of the Company Websites may not work properly but you do not have to accept Our Cookies in order to productively use the Company Websites. 
 
-We and Our service providers also use Cookies to collect information from you over time and across the Company Websites and other websites to provide you with and improve the performance of Our advertising that Our service providers deliver to you on other websites. You may opt-out of receiving future commercial emails by clicking on the " _unsubscribe_ " link at the end of commercial e-mails or following instructions on how to unsubscribe from the mailing list.
+We and Our service providers also use Cookies to collect information from you over time and across the Company Websites and other websites to provide you with and improve the performance of Our advertising that Our service providers deliver to you on other websites. You may opt-out of receiving future commercial emails by clicking on the “ _unsubscribe_ ” link at the end of commercial e-mails or following instructions on how to unsubscribe from the mailing list.
 
-Some of Our service providers may offer the ability to opt out of their use of your information for the placement of targeted advertisements. To opt out of these service providers' use of your information for the placement of targeted advertisements, please visit [http://optout.aboutads.info](http://optout.aboutads.info/). We do not currently respond to web browser "do not track" signals or other mechanisms that provide a method to opt out of the collection of information across the networks of websites and online services in which We participate. For more information about "do not track" signals, visit [http://www.allaboutdnt.org](http://www.allaboutdnt.org/). 
+Some of Our service providers may offer the ability to opt out of their use of your information for the placement of targeted advertisements. To opt out of these service providers’ use of your information for the placement of targeted advertisements, please visit [http://optout.aboutads.info](http://optout.aboutads.info/). We do not currently respond to web browser “do not track” signals or other mechanisms that provide a method to opt out of the collection of information across the networks of websites and online services in which We participate. For more information about “do not track” signals, visit [http://www.allaboutdnt.org](http://www.allaboutdnt.org/). 
 
 **
   2. Web Beacons
@@ -73,7 +73,7 @@ After you have registered as a member of the Company Websites, you may choose to
   3. Children
 **
 
-The Company Websites do not sell products for purchase by children. We sell products for purchase by adults. If you are under 18, you may only use the Company Websites with the involvement of a parent or guardian. In this case, a parent or guardian is solely responsible for providing supervision of the minor's use of the Company Websites. The parent or guardian assumes full responsibility for ensuring that the registration information is kept secure and that the information submitted is accurate. The parent or guardian also assumes full responsibility for the interpretation and use of any information or suggestions provided through the Company Websites for the minor. If you become aware that your child has provided their Personal Data through the Company Websites, please contact us at the contact information provided below. 
+The Company Websites do not sell products for purchase by children. We sell products for purchase by adults. If you are under 18, you may only use the Company Websites with the involvement of a parent or guardian. In this case, a parent or guardian is solely responsible for providing supervision of the minor’s use of the Company Websites. The parent or guardian assumes full responsibility for ensuring that the registration information is kept secure and that the information submitted is accurate. The parent or guardian also assumes full responsibility for the interpretation and use of any information or suggestions provided through the Company Websites for the minor. If you become aware that your child has provided their Personal Data through the Company Websites, please contact us at the contact information provided below. 
 
 **
   4. Market Research
@@ -88,14 +88,14 @@ _**
 
 We use the Personal Data that you provide to: 
 
-  * Respond to your questions, as it is in Our legitimate interest to provide you appropriate responses;
-  * Verify your identity when you access and use our services, and ensure the security of your Personal Data, so We can comply with Our contractual obligations to you;
-  * Provide you the specific services you select, so We can comply with Our contractual obligations to you;
-  * Analyze how you use our services and improve our services, as it is in Our legitimate interest to understand any issues with our services and improve them;
-  * Send you emails about website maintenance and updates, and inform you of significant changes to this Privacy Policy, as it is in Our legitimate interest to provide you with notices about Our services;
-  * Communicate with you about offers, products, and services that may be of interest to you, as it is in Our legitimate interest to make the messages we send more relevant and interesting-where required by law, we will obtain your consent first;
+  * respond to your questions, as it is in Our legitimate interest to provide you appropriate responses, 
+  * verify your identity when you access and use our services, and ensure the security of your Personal Data, so We can comply with Our contractual obligations to you,
+  * provide you the specific services you select, so We can comply with Our contractual obligations to you,
+  * analyze how you use our services and improve our services, as it is in Our legitimate interest to understand any issues with our services and improve them,
+  * send you emails about website maintenance and updates, and inform you of significant changes to this Privacy Policy, as it is in Our legitimate interest to provide you with notices about Our services,
+  * communicate with you about offers, products, and services that may be of interest to you, as it is in Our legitimate interest to make the messages we send more relevant and interesting—where required by law, we will obtain your consent first,
   * Exercise our rights where it is necessary to do so, for example to detect, prevent, and respond to fraud, intellectual property infringement, or violations of law or contract, and
-  * Comply with our legal and regulatory obligations.
+  * comply with our legal and regulatory obligations.
 
 **_
 * DISCLOSURE OF YOUR INFORMATION
@@ -103,16 +103,16 @@ _**
 
 Except as set forth in this Privacy Policy or as specifically agreed to by you, Company will not disclose any Personal Data it gathers from you through the Company Websites. We will only release Personal Data to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others. In the event that We are legally compelled to disclose your Personal Data to a third party, We will attempt to notify you unless doing so would violate the law or court order. In addition, We may disclose Personal Data as described below. 
 
-If you are a Client of **OPTA** VIA, in order to provide you with the products and services you have requested, We may share your Personal Data, including, but not limited to, your name, contact information (such as e-mail, address and phone number), as well as product order history, with your personal **OPTA** VIA Coach and other **OPTA** VIA Coaches in your personal **OPTA** VIA Coach's up line organization. However, any payment information you may give to the Company in the course of ordering Our products will only be disclosed to the Company's Client Success Team or Coach Success Team members and will not be available to any third parties for any reason except to comply with valid legal requirements. Coaches who receive your information have agreed not to share your information with any third parties and are obligated to observe the intent of this Privacy Policy under the terms of their Independent **OPTA** VIA Coach Agreement with the Company.
+If you are a Client of **OPTA** VIA, in order to provide you with the products and services you have requested, We may share your Personal Data, including, but not limited to, your name, contact information (such as e-mail, address and phone number), as well as product order history, with your personal **OPTA** VIA Coach and other **OPTA** VIA Coaches in your personal **OPTA** VIA Coach’s up line organization. However, any payment information you may give to the Company in the course of ordering Our products will only be disclosed to the Company’s Client Success Team or Coach Success Team members and will not be available to any third parties for any reason except to comply with valid legal requirements. Coaches who receive your information have agreed not to share your information with any third parties and are obligated to observe the intent of this Privacy Policy under the terms of their Independent **OPTA** VIA Coach Agreement with the Company.
 
-If you are an **OPTA** VIA Coach, you will receive mentorship, advice and information from your own sponsoring Business Coach and your Business Coach's up line organization. To allow such mentorship and communication, We may share your Personal Data as well as other data related to your business with your Business Coach and Coaches in your Business Coach's up line organization. In the ordinary course of supporting your business, information about you, as well as product order history may also be shared with your sponsoring Business Coach and your Business Coach's up line organization. Coaches who receive your information have agreed not to share your information with any third parties and are obligated to observe the intent of this Privacy Policy under the terms of their Independent **OPTA** VIA Coach Agreement with the Company.
+If you are an **OPTA** VIA Coach, you will receive mentorship, advice and information from your own sponsoring Business Coach and your Business Coach’s up line organization. To allow such mentorship and communication, We may share your Personal Data as well as other data related to your business with your Business Coach and Coaches in your Business Coach’s up line organization. In the ordinary course of supporting your business, information about you, as well as product order history may also be shared with your sponsoring Business Coach and your Business Coach’s up line organization. Coaches who receive your information have agreed not to share your information with any third parties and are obligated to observe the intent of this Privacy Policy under the terms of their Independent **OPTA** VIA Coach Agreement with the Company.
 
-We periodically share your information, including your personal improvement and weight-loss related information, with Company partners. This includes companies that are controlled by, or are under common control with Medifast Inc., Independent Medifast Weight Control Centers, Medifast independent distributors and " **OPTA** VIA Coaches". These partners use your information to make predictions about your interests and reach out to you with special offers, promotions, advertisements, newsletters, and other materials. Where required by law, we will obtain your consent prior to such sharing. 
+We periodically share your information, including your personal improvement and weight-loss related information, with Company partners. This includes companies that are controlled by, or are under common control with Medifast Inc., Independent Medifast Weight Control Centers, Medifast independent distributors and “ **OPTA** VIA Coaches”. These partners use your information to make predictions about your interests and reach out to you with special offers, promotions, advertisements, newsletters, and other materials. Where required by law, we will obtain your consent prior to such sharing. 
 
 We also share your information in limited form with third party operations and maintenance contractors who need to use that information in the course of their provision of products or services to the Company. These contractors include vendors and suppliers that provide us with technology, services, and/or content related to better operation and maintenance of the Company Websites. Access to your Personal Data by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function for the Company Websites. We also contractually require that Our operations and maintenance contractors:
 
-  1. Protect the privacy of your Personal Data consistent with this Privacy Policy 
-  2. Not use or disclose your Personal Data for any purpose other than providing us with products and services 
+  1. protect the privacy of your Personal Data consistent with this Privacy Policy 
+  2. not use or disclose your Personal Data for any purpose other than providing us with products and services 
 
 **_
 * HOW COMPANY HANDLES PRIVACY AND SECURITY INTERNALLY
@@ -141,7 +141,7 @@ _**
   1. Updating Your Personal Data
 **
 
-The Company Websites' pages that collect and store self-reported data allow you to correct, update or review information you have submitted by going back to the specific page, logging-in and making the desired changes.
+The Company Websites’ pages that collect and store self-reported data allow you to correct, update or review information you have submitted by going back to the specific page, logging-in and making the desired changes.
 
 **
   2. Removing your Personal Data
@@ -163,14 +163,14 @@ Upon your request, We will delete your Personal Data from Our active databases a
 
 In addition, you may have certain rights regarding your Personal Data, subject to local law. These include the following rights to:
 
-    * Access your information; 
-    * Rectify the information we hold about you; 
-    * Erase your information;
-    * Restrict Our use of your information;
-    * Object to Our use of your information;
-    * Receive your information in a usable electronic format and transmit it to a third party (right to data portability);
-    * Lodge a complaint with your local data protection authority; and,
-    * Where the processing of your information is based on your consent, you have the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.
+    * access your information; 
+    * rectify the information we hold about you; 
+    * erase your information;
+    * restrict Our use of your information;
+    * object to Our use of your information;
+    * receive your information in a usable electronic format and transmit it to a third party (right to data portability);
+    * lodge a complaint with your local data protection authority; and,
+    * where the processing of your information is based on your consent, you have the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.
 
 Please note that we will likely require additional information from you in order to honor your requests.
 
@@ -190,4 +190,4 @@ We will keep your Personal Data for as long as we have a relationship with you f
 
 Company retains the right to update this Privacy Policy at its general discretion according to the needs of the business, its consumers or in accordance with the mandates of federal and state law. If We update this Privacy Policy, We will notify you by posting a new Privacy Policy on this page or by notifying you through the Company Websites or at other contact information We have on file for you. If any such update materially increases the ways in which We collect, use or share the information previously collected from you through the Company Websites, We will give you the opportunity to consent to such changes before applying them to that information.
 
-This version of the privacy policy is effective December 1, 2018.
+This version of the privacy policy is effective December 1,2018.
