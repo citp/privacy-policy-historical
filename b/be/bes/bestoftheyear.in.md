@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestoftheyear.in privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830075047id_/https%3A//bestoftheyear.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestoftheyear.in privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509203402id_/https%3A//bestoftheyear.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BOTY
 
