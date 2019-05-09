@@ -1,174 +1,109 @@
-> *The following text is extracted and transformed from the builtin.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509052015id_/http%3A//www.builtin.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtin.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509053138id_/https%3A//builtin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Built In
 
-### DARK BLUE SEA - PRIVACY POLICY
+Last Updated: 2/21/18
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+Your privacy is important to us.  Built In, Inc. and its subsidiaries and affiliates (“Built In,” “we,” or “us”), understand your concerns with regard to how information about you is used and shared, and we appreciate your trust that we will use and share information about you carefully and sensibly. This Privacy Policy describes what information we collect about you, how we collect it, how we use it, with whom we may share it, and what choices you have regarding it. This Privacy Policy is incorporated into and is a part of the [Terms of Use](http://www.builtinchicago.org/terms-use) of our Website (the “Site”).  The services provided on the Site are referred to as “Services”. We encourage you to become familiar with this Privacy Policy and our [Terms of Use](http://www.builtinchicago.org/terms-use). By accessing and using the Site, you agree that you have read and understand this Privacy Policy and that you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy. This Privacy Policy may change from time to time. Your continued use of the Site after we make changes is deemed to be acceptance of those changes, so please check the Privacy Policy periodically for updates.
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+This Privacy Policy applies only to information collected at this Site. It does not apply to any other websites.  For instance, if you click “Apply Now” on a job posting on the Site, we may redirect you to such employer’s career site to submit a resume or application.  Information collected through such third party sites is not subject to this Privacy Policy, but instead is subject to such third party service provider’s privacy policy.  We encourage you to seek out and read the privacy policy of each website that you visit.
 
-The Dark Blue Sea group comprises a number of companies that includes:
+1\.    What information do we collect, and how do we collect it?
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+We refer to information that can personally identify you, such as your name, address and email address as “Personal Information”. While you may browse the Site without providing Personal Information, when you create an account and otherwise use the Services, you will provide certain Personal Information, such as your name, email address, username and password, work and educational history, and other information that populates your online profile.  We and our third party service providers (“Contractors”) may use the Personal Information you provide to us to search for publicly available information (such as your business expertise, skills, current and past job titles, education, activity on other publicly available websites, and your city location) to create an enhanced profile that is available on the Site to a limited number of users. If you choose to login to the Site with a third-party social media site such as Facebook or Google, we may collect Personal Information from such third party social media site, in which case we will ask for your consent prior to your logging in to the Site using your social media account.
 
+We use your Personal Information to provide the Site and Services to you, including, but not limited to maintaining your profile page, supplementing your profile page with publicly available information, contacting you to deliver information that we believe is targeted to your interests, informing you of any relevant job postings that may be of interest to you based upon your expressed interests and Usage Information related to you, to manage your participation in events, and to otherwise provide any additional and new services that may be of interest to you. Except as specifically stated in this Privacy Policy, we do not disclose your Personal Information to third parties.   
 
+Additionally, we may collect and display information that does not personally identify you. This includes, but is not limited to, information about general industry trends, job availability and skills needed for these jobs, salary trends, and other information related to job seeking, recruiting and branding, all of which are provided to best deliver Services to you (“Aggregate Information”).
 
-#### ABOUT THIS PRIVACY POLICY
+As with many other websites, Built In and its Contractors may also collect certain non-personal statistical information pertaining to you and the equipment and communications method that you use to access the Internet and our Site. We refer to this information as “Usage Information”.  This Usage Information allows us to optimize the Site to the Internet connections and equipment that are used to visit the Site. For instance, in order to make the Site better, we may collect information on: how long you use the Site; which links you click on the Site; whether you have used the Site before and on how many occasions; how frequently you use the Site; and at which point you exit the Site. We collect this information directly from you when you provide it to us and automatically as you navigate through and interact with our Site. Information collected this way includes: (i) details of your visits to our Site, including traffic data, location data, logs, other communication data, and the resources that you access and use on the Site; and (ii) information about your computer and internet connection, including your IP address, operating system, and browser type. The technologies we use for this automatic data collection of usage information may include:
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+•    Cookies (or browser cookies): A cookie is a small file placed on the hard drive of your computer. We use session cookies to keep track of your login information.  You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you use the Site.
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+•    Pixel Tags / Web Beacons: Pages of our website and our emails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an email. We may also use these web beacons for other related Site statistics (e.g., recording the popularity of certain content and verifying system and server integrity). For example, you may receive targeted notifications of available job postings based on the content or the pages you click on.
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+•    Device identifiers:  When you use a mobile device like a tablet or phone to access our Site, we may access, collect, monitor, store on your device, and/or remotely store one or more “device identifiers”. Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by us.
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+2\.    How will we use the information you provide to us?
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+In addition to the uses described above or in our [Terms of Use](http://www.builtinchicago.org/terms-use), we and our Contractors may use the information that we collect from or about you to analyze and improve the content, materials, and Services that we make available on the Site, to notify you of changes made to the Site, to evaluate user needs and customize the Site content delivered to you according to those needs, to send you promotional materials that you request from us, and for other legitimate and lawful business purposes. If you contact us for support or assistance, we may use information about you or your system that you provide or that we collect for purposes such as verifying whether your system meets the minimum requirements needed to use the Site and our various Services.
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+We and our Contractors may store Personal Information for as long as needed for the purposes indicated in this Privacy Policy, which may be indefinitely. We and our Contractors may store Personal Information in the United States, or we may transfer it to other countries.
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+3\. Contractors
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+We use Contractors in order to efficiently provide our Site to you. Some Contractors, such as credit card processing companies, will collect information directly from you and provide us with relevant data. We may use this information to carry out our obligations and enforce our rights arising from any contracts entered into (for instance, to collect any authorized fees). Information collected from Contractors are governed by their privacy policies. You should view the privacy policies of Contractors before providing information to them. If you interact with a third party, the Contractor may have access to your Personal Information, even though we do not disclose your Personal Information for these purposes without your consent.
 
-In order to do this, we share your personal information with our related companies.
+4\.    With whom do we share the information we collect?  
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+We may disclose Usage Information and Aggregate Information about our users without restriction. This information cannot be used to personally identify our users. If we combine the Usage Information and Aggregate Information with your Personal Information (for instance, to send targeted job postings to you based on your usage of the Site), it will be considered Personal Information.  We may share Personal Information with our Contractors and affiliates in order to provide Services to you, and for other lawful business reasons. We do not disclose your Personal Information except in the circumstances described here:
 
-#### HOW WE COLLECT INFORMATION
+•    To Provide the Services:  We may share or disclose your Personal Information, at your direction, in connection with your use of the Site and our providing Services to our users.  Unless you opt out, we share Personal Information about you that we collect from you or third party sources with some of our corporate Members that purchase premium memberships (“Premium Members”) and Contractors in connection with our job search and recruiting services.   Additionally, your profile information will be included in a searchable database for Premium Members and other users of our Service to view. We may also provide such users and Premium Members with information on users of the Site that visit their company page or otherwise click the “Apply Now” button on a job posting to be redirected to such Premium Member’s site. Premium Members can export limited information from your profile, such as your name, title and email address. You should be aware that these parties may contact you, and that this may result in unsolicited messages from third parties.   
 
-**Personal Information provided to us**
+•    Contractors:  We may share your Personal Information with or disclose it to Contractors and other third parties we use to support our business.  For example, we may decide from time to time to utilize a number of business and marketing partners in delivering the content, materials, and Services available on or through the Site to you. We may share Personal Information with these business and marketing partners for any lawful purpose, including to communicate with you or to fulfill your requests for our Services. Built In and its Contractors may also produce reports on Site traffic or usage patterns and share these reports with our business and marketing partners and others.
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+•    Business Transfers:  In the event that Built In is involved in a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, your Personal Information held by us may be among the assets transferred.
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+•    Law and Harm:  Notwithstanding anything to the contrary in this Privacy Policy, we may disclose or share your Personal Information in order to comply with any court order, law, or legal process, including to respond to any government or regulatory request, or if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Built In, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-**Website activity, cookies and related technology**
+•    Enforcement: We may also use and disclose Personal Information about you to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+•    Disclosed when Collected or With Your Consent:  For any other purpose disclosed by us when you provide the information or otherwise with your consent.
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+4\.    What choices do you have?
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+When corresponding with Built In or our representatives, or when making a request for information or otherwise interacting with us or others through the Site, you choose what information to supply, what questions or comments to submit, whether you wish to receive further information, and by what method of communication such information should be delivered. Please take care to share only such information as is needed or that you believe is appropriate. You are under no obligation to provide us with personally identifiable information, but without it we may not be able to provide you the products or services you request. We have created mechanisms to provide you with the following control over your information:  
 
-**IP Addresses**
+•    Tracking Technologies: You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that many parts of the Site may then be inaccessible or will not function properly.
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+•    Email Communications: If you do not wish to have your email address used by Built In to promote our own services or third parties, you may select the kinds of promotional messages you will receive by modifying your account settings. You may also opt out of receiving these messages by following the “unsubscribe” link contained within the promotional message. For example, you will be asked if you are open to new job opportunities.  If you select yes, we may contact you with employer requests for introduction, which you may accept or reject.  Alternatively, you have the option to decline to receive introduction requests from employers. You will also have the option to opt out of these messages by indicating you are not open to new opportunities, and you have the option to reject introductions to employers through the Site.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+•    Job Seeker Database: When you create an account on the Site, you will automatically be listed on Built In’s database of job seekers which can be accessed and searched by Premium Members and employers. If you do not wish to be listed on this database, you may opt out of being listed on the database.
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+•    Opt Out.  You may opt out of the sharing described in this Privacy Policy by sending an email to support@builtin.com.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+•    Delete Your Account.  You may delete your account by emailing us at support@builtin.com.  Please be advised that, even if we successfully delete your account, employers who have paid for our databases and Premium Members may have retained a copy of your Personal Information for their own files. We cannot control the retention or use of your Personal Information once they have been downloaded by third parties, and you will not be able to delete information held by those third parties.
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+You may contact us as indicated below if at any time you would like to ask us about our data collection practices and our information security policy.
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+California Privacy Rights
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+California Civil Code Section §1798.83 permits users that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to support@builtin.com.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+5\.    How Do We Protect Information Collected About You? 
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+Built In and our Contractors take commercially reasonable measures to protect against the loss, misuse and unauthorized access or disclosure, alteration and destruction of your personal data by aiming to maintain appropriate physical, procedural and electronic safeguards to protect your personal data, including:
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+•    Restricting access to personal data to our employees and Contractors on a “need to know” basis;
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+•    Enforcing policies and procedures for our employees in their handling of personal data; and;
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+•    Using technologies designed to safeguard data during its transmission, such as SSL encryption for the data you provide on our websites.
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-#### EPP SHARING ARRANGEMENTS
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your Personal Information, we cannot guarantee the security of your Personal Information transmitted to our Site. Any transmission of Personal Information is at your own risk and we do not guarantee that information that you transmit or otherwise supply to us, or any communications conducted on or through the Site, is or will be totally secure. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. If you become aware of any breach of Site security, this Privacy Policy, or the [Terms of Use](http://www.builtinchicago.org/terms-use), please notify us immediately.
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+6\.  Children under Age 13
 
-#### PROTECTING KIDS PRIVACY
+Our Site is not intended for children under 13 years of age. No one under age 13 may provide any Personal Information on the Site. We do not knowingly collect Personal Information from children under 13. If you are under 13, do not use or provide any information on the Site. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@builtin.com.
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+7\.    We may change this Notice.
 
-**Notice to Kids**
+From time to time, we may change our privacy practices, and this Privacy Policy, because of changes in relevant and applicable legal or regulatory requirements, in our business or our business practices, or in our attempts to better serve your needs and those of our other members. Notice of such changes to our privacy practices will be given in the manner described in the [Terms of Use](http://www.builtinchicago.org/terms-use) and a revised Privacy Policy will be posted on the Site.  The date of the most recent revision to the policy is identified herein.  You are responsible for periodically reviewing this Privacy Policy to check for changes.
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+7\.    Any questions? Please contact us at:
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+Built In, Inc.
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
+440 North Wells Suite 502
 
-**Notice to Parents**
+Chicago, Illinois 60654
 
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+Telephone: 312-476-8478
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
+Email: support@builtin.com
 
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
+Acknowledgement
 
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
-
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
-
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
-
-#### LINKS TO OTHER WEBSITES
-
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
-
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
-
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
-
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
-
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
-
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
-
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
-
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
-
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
-
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
-
-#### PRIVACY COMPLAINTS
-
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
-
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
-
-
-
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
-
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+BY ACCESSING OR USING THE SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND CONSENT TO OUR PRIVACY PRACTICES AND TO THE USES AND DISCLOSURES OF INFORMATION THAT WE COLLECT ABOUT YOU, AND YOU AGREE TO BE BOUND BY THE [TERMS OF USE](http://www.builtinchicago.org/terms-use) APPLICABLE TO YOU.
