@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bringfido.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227043059id_/https%3A//www.bringfido.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringfido.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509165541id_/https%3A//www.bringfido.com/privacy) for the most accurate reproduction.*
 
-# BringFido.com Privacy Policy
+# BringFido Privacy Policy
 
 We collect and store information about you and your pets when you use the Service. We use the information to fulfill your requests, provide the Service’s functionality, improve the Service’s quality, personalize your experience, track usage of the Service, provide feedback to third party businesses, display relevant advertising, market the Service, provide customer support, message you, back up our systems and allow for disaster recovery, enhance the security of the Service, and comply with legal obligations.
 
@@ -96,4 +96,4 @@ If you would like additional information about your personal data and its use in
 We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our collection, use, and disclosure of information about you. By continuing to access or use the Service after those changes become effective, you agree to the revised Privacy Policy.
 
 Revised and Effective as of February 1, 2017  
-© 2005-2018 Kendall Media, Inc. All rights reserved.
+© 2005-2019 Kendall Media, Inc. All rights reserved.
