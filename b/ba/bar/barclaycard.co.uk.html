@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the barclaycard.co.uk privacy policy that was archived on 2018-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181118082719id_/https%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barclaycard.co.uk privacy policy that was archived on 2019-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190509215041id_/https%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=""><head>
   <meta charset="UTF-8">
@@ -20,12 +20,12 @@
 
     <link rel="stylesheet" type="text/css" href="/etc/designs/bccl/clientlibs/bcdl/css/bdl.css">
 
-    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/picturefill.min.js" async="" type="text/javascript"></script>
+    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/picturefill.min.js" async=""></script>
   <script>(function (H) {
     H.className = H.className.replace(/\bno-js\b/, '')
   })(document.documentElement)</script>
 
-  <script type="text/javascript">
+  <script>
     // Picture element HTML5 shiv
     document.createElement("picture");
   </script>
@@ -70,7 +70,65 @@
 
 <body class="skiplink-hidden" style="position: relative;">
 
-     <div class="section"><div class="new"></div>
+    
+
+    <script>
+        //ccpCookieValues will later be updated from actual user cookies as part of AEMENGAGE-732. For now, it will all be hardcoded to 'on'
+        var ccpCookieValues = {cat2:'on',cat3:'on',cat4:'on'};
+
+        //defaulting it to blank. Actual value will be updated as part of AEMENGAGE-732
+        var newReturning = '';
+
+        var items = 'bcard,Personal,PrivacyPolicy'.split(',');
+        var pageDepth = items.length;
+
+        var digitalData = {
+            page: {
+                pageInfo: {
+                    pageName: items.join(':'),
+                    cmsPageName: 'privacy\u002Dpolicy',
+                    cmsPath: '\/content\/barclaycard\u002Dco\u002Duk\/en\/personal\/privacy\u002Dpolicy',
+                    level1: items[0],
+                    level2: pageDepth > 1 ? items[1] : '',
+                    level3: pageDepth > 2 ? items[2] : '',
+                    level4: pageDepth > 3 ? items[3] : '',
+                    urlProtocol: document.location.protocol,
+                    urlHost: document.location.hostname,
+                    urlPath: document.location.pathname,
+                    urlQueryString: document.location.search,
+                    urlHash: document.location.hash,
+                    urlContent: "",
+                    templateId: "\/apps\/bccl\/templates\/page\u002D7525",
+                    pageId:  "",
+                    breadcrumb: "",
+                    accessibility: "",
+                    segment: items[1],
+                    pageVersion: "",
+                    impressions: "",
+                    buildVersion: "",
+                    applicationId: "",
+                    applicationType: "",
+
+                    // W3C Data Layer recommendation
+                    timeStamp: new Date(),
+                    destinationURL: document.location,
+                    referringURL: document.referrer,
+                    breadCrumbs: []
+                },
+                searchInfo: {}
+            },
+            user: {
+                ccp: {
+                    cat2: ccpCookieValues.cat2,
+                    cat3: ccpCookieValues.cat3,
+                    cat4: ccpCookieValues.cat4
+                },
+                newReturning: newReturning
+            },
+            events: []
+        };
+    </script>
+  <div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="custom_tags_head_sitewide iparsys parsys"><div class="custom_tag parbase section">
 
 
@@ -116,14 +174,19 @@
 <header class="standard-desktop-header header">
   <div class="side-collapse-container">
     <!-- START: Top navigation links -->
-    <div class="top-navigation">
-      <nav>
-        <h2 class="hidden">Top Navigation</h2>
+    <div class="top-navigation" data-component-type="Header">
+      <nav aria-label="Top Navigation">
         <ul class="personal-business">
 
-          <li class="selected"><a href="/personal" title="Personal"><span class="icon icon-customer"></span> Personal</a></li>
 
-          <li><a href="/business" title="Business"><span class="icon icon-business"></span> Business</a></li>
+              <li class="selected"><a href="/personal"><span class="visuallyhidden">Current page</span><span class="icon icon-customer"></span> Personal</a></li>
+
+
+
+
+
+              <li><a href="/business"><span class="icon icon-business"></span> Business</a></li>
+
 
         </ul>
         <ul class="top-navigation-content">
@@ -145,7 +208,7 @@
     </div>
     <!-- END: Top navigation links -->
 
-    <div class="main-navigation-wrapper">
+    <div class="main-navigation-wrapper" data-component-type="Header">
       <!-- START: Logo -->
       <div class="logo">
         <a href="/personal" title="Barclaycard">
@@ -157,51 +220,50 @@
       <!-- START: Main navigtion links -->
       <!-- START: Main navigtion links -->
       <div class="main-navigation cssmenu-new" id="menu">
-        <nav role="navigation">
-          <h2 class="hidden">Main Navigation</h2>
-          <ul role="menubar" class="menubar">
+        <nav aria-label="Main Navigation">
+          <ul class="menubar">
 
-            <li class="has-sub closed " role="menuitem">
+            <li class="has-sub closed ">
               <a href="#" aria-haspopup="true" aria-expanded="false" onclick="return false;"> Credit cards</a>
-              <div class="desktop-nav cssmenu cssmenu-new" style="display:none;" role="menu" aria-expanded="false" aria-hidden="true">
-                <ul role="menu" aria-expanded="false" aria-hidden="true">
+              <div class="desktop-nav cssmenu cssmenu-new" style="display:none;" aria-hidden="true">
+                <ul aria-hidden="true" aria-label="Submenu">
 
 
 
-                  <li role="menuitem" class="has-sub closed">
+                  <li class="has-sub closed">
                     <a href="#" aria-haspopup="true" aria-expanded="false"><span>Choose a Barclaycard</span>
                     <span class="holder"></span></a>
-                    <ul role="menu" aria-expanded="false" aria-hidden="true">
+                    <ul aria-hidden="true" aria-label="Submenu">
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards"><span>Compare all credit cards</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-card/find-the-right-barclaycard"><span>Find the right Barclaycard</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/balance-transfer-calculator"><span>Balance transfer calculator</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/balance-transfer-credit-cards"><span>Balance transfer credit cards</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/purchase-credit-cards"><span>Purchase credit cards</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/rewards-credit-cards"><span>Rewards credit cards</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/credit-building-cards"><span>Credit building credit cards</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/eligibility-checker"><span>Check if you're eligible</span></a>
                       </li>
 
@@ -217,20 +279,20 @@
 
 
 
-                  <li role="menuitem" class="has-sub closed">
+                  <li class="has-sub closed">
                     <a href="#" aria-haspopup="true" aria-expanded="false"><span>Learn about credit cards</span>
                     <span class="holder"></span></a>
-                    <ul role="menu" aria-expanded="false" aria-hidden="true">
+                    <ul aria-hidden="true" aria-label="Submenu">
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/new-to-credit"><span>How do credit cards work?</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/what-is-a-balance-transfer"><span>What is a balance transfer?</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/representative-example-explained"><span>Representative example explained</span></a>
                       </li>
 
@@ -246,20 +308,20 @@
 
 
 
-                  <li role="menuitem" class="has-sub closed">
+                  <li class="has-sub closed">
                     <a href="#" aria-haspopup="true" aria-expanded="false"><span>Barclaycard benefits</span>
                     <span class="holder"></span></a>
-                    <ul role="menu" aria-expanded="false" aria-hidden="true">
+                    <ul aria-hidden="true" aria-label="Submenu">
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/benefits"><span>Reasons to get a Barclaycard</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/barclaycard-entertainment"><span>Barclaycard Entertainment</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/using-contactless"><span>Contactless</span></a>
                       </li>
 
@@ -279,16 +341,16 @@
             <!-- menu item which does not have any sub menus -->
 
 
-            <li class="has-sub closed " role="menuitem">
+            <li class="has-sub closed ">
               <a href="#" aria-haspopup="true" aria-expanded="false" onclick="return false;">Existing customer</a>
-              <div class="desktop-nav cssmenu cssmenu-new" style="display:none;" role="menu" aria-expanded="false" aria-hidden="true">
-                <ul role="menu" aria-expanded="false" aria-hidden="true">
+              <div class="desktop-nav cssmenu cssmenu-new" style="display:none;" aria-hidden="true">
+                <ul aria-hidden="true" aria-label="Submenu">
 
 
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/customer"><span>Existing customer homepage</span></a>
                   </li>
 
@@ -299,40 +361,40 @@
 
 
 
-                  <li role="menuitem" class="has-sub closed">
+                  <li class="has-sub closed">
                     <a href="#" aria-haspopup="true" aria-expanded="false"><span>Your account</span>
                     <span class="holder"></span></a>
-                    <ul role="menu" aria-expanded="false" aria-hidden="true">
+                    <ul aria-hidden="true" aria-label="Submenu">
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/online-account-servicing"><span> Online account servicing</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/barclaycard-app"><span> Barclaycard app</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/activate-new-barclaycard"><span>Activate your credit card</span></a>
                       </li>
 
-                      <li role="menuitem">
-                        <a href="/personal/customer/emergency-card-replacement"><span>If your card is lost or damaged</span></a>
+                      <li>
+                        <a href="/personal/customer/lost-stolen-damaged-cards"><span>Lost, stolen or damaged cards</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/pay-your-bill"><span>Ways to pay your bill</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/fraud"><span>If you suspect fraud</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/money-worries"><span>Money worries</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/terms"><span>Credit card terms and conditions</span></a>
                       </li>
 
@@ -348,24 +410,24 @@
 
 
 
-                  <li role="menuitem" class="has-sub closed">
+                  <li class="has-sub closed">
                     <a href="#" aria-haspopup="true" aria-expanded="false"><span>Balance transfers and offers</span>
                     <span class="holder"></span></a>
-                    <ul role="menu" aria-expanded="false" aria-hidden="true">
+                    <ul aria-hidden="true" aria-label="Submenu">
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/transfer-balance"><span>Balance transfers</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/money-transfer"><span>Money transfers</span></a>
                       </li>
 
-                      <li role="menuitem">
-                        <a href="/personal/instalment-plan"><span>Instalment Plan</span></a>
+                      <li>
+                        <a href="/personal/customer/instalment-plan"><span>Instalment Plan</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/change-credit-limit"><span>Change credit limit</span></a>
                       </li>
 
@@ -381,20 +443,20 @@
 
 
 
-                  <li role="menuitem" class="has-sub closed">
+                  <li class="has-sub closed">
                     <a href="#" aria-haspopup="true" aria-expanded="false"><span>Barclaycard benefits</span>
                     <span class="holder"></span></a>
-                    <ul role="menu" aria-expanded="false" aria-hidden="true">
+                    <ul aria-hidden="true" aria-label="Submenu">
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/benefits"><span>Benefits with your Barclaycard</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/barclaycard-entertainment"><span>Barclaycard Entertainment</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/customer/pay-your-way"><span>Pay your way</span></a>
                       </li>
 
@@ -410,32 +472,32 @@
 
 
 
-                  <li role="menuitem" class="has-sub closed">
+                  <li class="has-sub closed">
                     <a href="#" aria-haspopup="true" aria-expanded="false"><span>Credit made clearer</span>
                     <span class="holder"></span></a>
-                    <ul role="menu" aria-expanded="false" aria-hidden="true">
+                    <ul aria-hidden="true" aria-label="Submenu">
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/new-to-credit"><span>Guidance for limited credit history</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/understanding-interest"><span>Understanding interest</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/understanding-your-credit-rating"><span>Understanding your credit rating</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/advantages-of-credit-card"><span>Ways to use your credit card</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/help-and-support/know-your-rights"><span>Purchase protection</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="/personal/credit-cards/managing-credit"><span>Managing credit</span></a>
                       </li>
 
@@ -451,16 +513,16 @@
 
 
 
-                  <li role="menuitem" class="has-sub closed">
+                  <li class="has-sub closed">
                     <a href="#" aria-haspopup="true" aria-expanded="false"><span>Freedom Rewards</span>
                     <span class="holder"></span></a>
-                    <ul role="menu" aria-expanded="false" aria-hidden="true">
+                    <ul aria-hidden="true" aria-label="Submenu">
 
-                      <li role="menuitem">
+                      <li>
                         <a href="https://www.barclaycard.co.uk/freedomrewards/about-freedom-rewards.html"><span>About Freedom Rewards</span></a>
                       </li>
 
-                      <li role="menuitem">
+                      <li>
                         <a href="https://freedomstore.barclaycard.co.uk"><span>Check and redeem Freedom Rewards</span></a>
                       </li>
 
@@ -480,16 +542,16 @@
             <!-- menu item which does not have any sub menus -->
 
 
-            <li class="has-sub closed " role="menuitem">
+            <li class="has-sub closed ">
               <a href="#" aria-haspopup="true" aria-expanded="false" onclick="return false;">Help &amp; support</a>
-              <div class="desktop-nav cssmenu cssmenu-new" style="display:none;" role="menu" aria-expanded="false" aria-hidden="true">
-                <ul role="menu" aria-expanded="false" aria-hidden="true">
+              <div class="desktop-nav cssmenu cssmenu-new" style="display:none;" aria-hidden="true">
+                <ul aria-hidden="true" aria-label="Submenu">
 
 
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/customer/forgotten-log-in-details"><span>Forgotten login details</span></a>
                   </li>
 
@@ -502,7 +564,7 @@
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/customer/lost-stolen-damaged-cards"><span>Lost, stolen or damaged cards</span></a>
                   </li>
 
@@ -515,7 +577,7 @@
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="https://status.uk.barclays"><span>Service status</span></a>
                   </li>
 
@@ -528,7 +590,7 @@
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/contact-us"><span>Contact us</span></a>
                   </li>
 
@@ -541,7 +603,7 @@
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/customer/fraud"><span>Fraud protection</span></a>
                   </li>
 
@@ -554,7 +616,7 @@
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/customer/money-worries"><span>Money worries</span></a>
                   </li>
 
@@ -567,7 +629,7 @@
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/help-and-support/bereavement-guide"><span>Bereavement guide</span></a>
                   </li>
 
@@ -580,7 +642,7 @@
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/help-and-support/spending-abroad"><span>Using your card abroad</span></a>
                   </li>
 
@@ -593,7 +655,7 @@
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/help-and-support/know-your-rights"><span>Purchase protection</span></a>
                   </li>
 
@@ -606,7 +668,7 @@
 
 
 
-                  <li role="menuitem">
+                  <li>
                     <a href="/personal/credit-cards/understanding-interest"><span>Understanding interest</span></a>
                   </li>
 
@@ -630,26 +692,26 @@
 
       <!-- START: Site section tabs -->
 
-        <div class="site-section-tab">
+        <div class="site-section-tab login-section">
           <ul class="nav-list">
 
+              <li class="loginurl closed"><a href="https://bcol.barclaycard.co.uk/ecom/as2/initialLogon.do" title="log in" aria-haspopup="true" aria-controls="a_login" aria-expanded="false" data-component-type="Button">Log in</a></li>
 
-              <li class="log-in closed"><a href="/personal/download-login" title="log in" aria-haspopup="true" role="button" aria-controls="a_login" aria-expanded="false">Log in</a></li>
 
 
-              <li class="register  closed"><a href="/personal/customer/register-online-account" title="Register" role="button">Register</a></li>
+              <li class="register  closed"><a href="/personal/customer/register-online-account" title="Register" data-component-type="Button">Register</a></li>
           </ul>
         </div>
 
       <!-- END: Site section tabs -->
 
 
-      <div class="site-section-tab">
+      <div class="site-section-tab mobile-menu-section">
         <ul class="nav-list">
           <li class="up1024-show">
             <!-- START: Hamburger Menu -->
-            <button data-toggle="collapse-side" data-target=".side-collapse" data-target-2=".side-collapse-container" type="button" class="navbar-toggle pull-left hamburger" aria-expanded="false">
-            <h3>Menu</h3></button>
+            <button data-toggle="collapse-side" data-target=".side-collapse" data-target-2=".side-collapse-container" type="button" aria-expanded="false" aria-controls="offscreen-navigation" class="navbar-toggle pull-left hamburger">
+            <span class="visuallyhidden">Open </span><span class="h3">Menu</span></button>
             <!-- END: Hamburger Menu -->
           </li>
         </ul>
@@ -726,21 +788,22 @@
   </div>
   <!-- Side collapse container END -->
 
-  <div class="side-collapse in">
+  <div id="offscreen-navigation" aria-hidden="true" tabindex="-1" class="side-collapse in">
     <!-- START: Side Nav -->
-    <div id="cssmenu" class="mobile-nav visible-xs visible-sm sidenav-cssmenu cssmenu-new">
+    <div id="cssmenu" data-component-type="Menu" class="mobile-nav visible-xs visible-sm sidenav-cssmenu cssmenu-new">
+      <nav aria-label="Mobile Navigation" class="sidenav-cssmenu">
       <ul class="menubar">
 
             <li class="has-sub closed ">
               <a href="#" aria-haspopup="true" aria-expanded="false"><span> Credit cards</span><span class="holder"></span></a>
-                <ul aria-expanded="false" aria-hidden="true">
+                <ul aria-hidden="true">
 
 
                   <li class="has-sub closed">
-                    <a href="#">
+                    <a href="#" aria-haspopup="true" aria-expanded="false">
                       <span>Choose a Barclaycard</span>
                     </a>
-                    <ul>
+                    <ul aria-hidden="true">
 
                       <li>
                         <a href="/personal/credit-cards">
@@ -798,10 +861,10 @@
 
 
                   <li class="has-sub closed">
-                    <a href="#">
+                    <a href="#" aria-haspopup="true" aria-expanded="false">
                       <span>Learn about credit cards</span>
                     </a>
-                    <ul>
+                    <ul aria-hidden="true">
 
                       <li>
                         <a href="/personal/credit-cards/new-to-credit">
@@ -829,10 +892,10 @@
 
 
                   <li class="has-sub closed">
-                    <a href="#">
+                    <a href="#" aria-haspopup="true" aria-expanded="false">
                       <span>Barclaycard benefits</span>
                     </a>
-                    <ul>
+                    <ul aria-hidden="true">
 
                       <li>
                         <a href="/personal/credit-cards/benefits">
@@ -865,7 +928,7 @@
 
             <li class="has-sub closed ">
               <a href="#" aria-haspopup="true" aria-expanded="false"><span>Existing customer</span><span class="holder"></span></a>
-                <ul aria-expanded="false" aria-hidden="true">
+                <ul aria-hidden="true">
 
 
 
@@ -877,10 +940,10 @@
 
 
                   <li class="has-sub closed">
-                    <a href="#">
+                    <a href="#" aria-haspopup="true" aria-expanded="false">
                       <span>Your account</span>
                     </a>
-                    <ul>
+                    <ul aria-hidden="true">
 
                       <li>
                         <a href="/personal/customer/online-account-servicing">
@@ -901,8 +964,8 @@
                       </li>
 
                       <li>
-                        <a href="/personal/customer/emergency-card-replacement">
-                          <span>If your card is lost or damaged</span>
+                        <a href="/personal/customer/lost-stolen-damaged-cards">
+                          <span>Lost, stolen or damaged cards</span>
                         </a>
                       </li>
 
@@ -938,10 +1001,10 @@
 
 
                   <li class="has-sub closed">
-                    <a href="#">
+                    <a href="#" aria-haspopup="true" aria-expanded="false">
                       <span>Balance transfers and offers</span>
                     </a>
-                    <ul>
+                    <ul aria-hidden="true">
 
                       <li>
                         <a href="/personal/customer/transfer-balance">
@@ -956,7 +1019,7 @@
                       </li>
 
                       <li>
-                        <a href="/personal/instalment-plan">
+                        <a href="/personal/customer/instalment-plan">
                           <span>Instalment Plan</span>
                         </a>
                       </li>
@@ -975,10 +1038,10 @@
 
 
                   <li class="has-sub closed">
-                    <a href="#">
+                    <a href="#" aria-haspopup="true" aria-expanded="false">
                       <span>Barclaycard benefits</span>
                     </a>
-                    <ul>
+                    <ul aria-hidden="true">
 
                       <li>
                         <a href="/personal/credit-cards/benefits">
@@ -1006,10 +1069,10 @@
 
 
                   <li class="has-sub closed">
-                    <a href="#">
+                    <a href="#" aria-haspopup="true" aria-expanded="false">
                       <span>Credit made clearer</span>
                     </a>
-                    <ul>
+                    <ul aria-hidden="true">
 
                       <li>
                         <a href="/personal/credit-cards/new-to-credit">
@@ -1055,10 +1118,10 @@
 
 
                   <li class="has-sub closed">
-                    <a href="#">
+                    <a href="#" aria-haspopup="true" aria-expanded="false">
                       <span>Freedom Rewards</span>
                     </a>
-                    <ul>
+                    <ul aria-hidden="true">
 
                       <li>
                         <a href="https://www.barclaycard.co.uk/freedomrewards/about-freedom-rewards.html">
@@ -1085,7 +1148,7 @@
 
             <li class="has-sub closed ">
               <a href="#" aria-haspopup="true" aria-expanded="false"><span>Help &amp; support</span><span class="holder"></span></a>
-                <ul aria-expanded="false" aria-hidden="true">
+                <ul aria-hidden="true">
 
 
 
@@ -1176,8 +1239,8 @@
 
       <!-- login register mobile -->
 
-      <ul class="mobile-login">
-        <li><a href="/personal/download-login" title="log in" aria-haspopup="true" role="button" aria-controls="a_login" aria-expanded="false">Log in</a></li>
+		<ul class="mobile-login">
+        <li><a href="https://bcol.barclaycard.co.uk/ecom/as2/initialLogon.do" title="log in" aria-haspopup="true" role="button" aria-controls="a_login" aria-expanded="false">Log in</a></li>
         <li><a href="/personal/customer/register-online-account" title="Register" role="button">Register</a></li>
       </ul>
 
@@ -1197,6 +1260,7 @@
         <li><a href="/personal/sitemap" title="Sitemap">Sitemap</a></li>
 
       </ul>
+    </nav>
     </div>
 
     </div>
@@ -1213,26 +1277,24 @@
 </div><div class="iparys_inherited"><div class="cookies iparsys parsys"><div class="cookie-message section">
 
 
-<div class="cookieprompt js-cookieprompt hide" role="alert" style="display: block !important; visibility: visible;">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-xs-12">
-        <div class="cookieprompt-content">
-          
+<div class="cookieprompt js-cookieprompt hide" role="alert" data-component-type="CookiePrompt" style="display: block !important; visibility: visible;">
+  <div class="row">
+    <div class="col-xs-12 col-sm-9">
+      
 
-<p>We use cookies to give you the best browsing experience and to help us understand how you use our site. Cookies are small snippets of data stored on your computer and some have already been set. By continuing to use our website you are accepting our use of cookies. To find out more, read&nbsp;<a href="/personal/guide-to-cookies" title="Guide to cookies, opens in a new window">about cookies</a><br>
+
+	<div>
+		<p>Barclaycard uses cookies on this website. They help us to know a little bit about you and how you use our website, which improves the browsing experience and marketing - both for you and for others. They are stored locally on your computer or mobile device. To accept cookies continue browsing as normal.&nbsp;To find out more, read&nbsp;<a href="/personal/guide-to-cookies" title="Read our guide to cookies">about cookies</a><br>
 </p>
 
+	</div>
 
 
 
-        </div>
-      </div>
-      <div class="text-right-md">
-        <a href="#" class="btn cookie-close">
-			<span class="icon-cross"></span>
-	  	</a>
-      </div>
+
+    </div>
+    <div class="col-xs-12 col-sm-3">
+      <a href="#" class="btn button btn-primary cookie-close" title="Accept and close">Accept and close</a>
     </div>
   </div>
 </div>
@@ -1273,13 +1335,16 @@
 
 
   </div>
+  <div class="skipwrapper"><a id="content2" tabindex="-1"></a>-</div>
   <div class="container-fluid">
-    <div class="row visuallyhidden">
-      <div class="col-md-12">
-        <a id="content2" tabindex="-1"></a>
+
+    <div class="row visuallyhidden" aria-hidden="true" tabindex="-1">
+      <div class="col-xs-12">
         <h1>Barclaycard's Privacy and Cookie Policy</h1>
       </div>
     </div>
+
+
   </div>
 
   <!-- Hero Component  -->
@@ -1291,7 +1356,7 @@
 
 
 
-<section class="jumbo jumbo-short   ">
+<section class="jumbo jumbo-short   " data-component-type="HeroBanner">
 
 <picture>
   <source srcset="/content/dam/barclaycard/images/personal/root/hero-images1/privacy-and-cookie-policy-hero-3_1.large.medium_quality.jpg" media="(min-width: 1024px)">
@@ -1312,14 +1377,18 @@
 					<div class="jumbo-overlay ">
 
 						<div class="h-pull-left">
-							<span class="jumbo-overlay-icon"></span>
+							<span class="jumbo-overlay-icon" aria-hidden="true"></span>
 						</div>
 
 						<div class="jumbo-overlay-content ">
 						  <div class="jumbo-overlay-body">
   							
 
-<h2>Privacy and Cookie Policy</h2>
+
+	<div>
+		<h2>Privacy and Cookie Policy</h2>
+
+	</div>
 
 
 
@@ -1363,8 +1432,13 @@
 
 
 
+
+
+
+
+
 <div class="row ">
-	<div class="col-md-12">
+	<div class="col-md-12" data-component-type="Column1">
 		
 
 
@@ -1381,9 +1455,13 @@
     		<div class="article-snippet-bd cms-content">
       		<div>
 
-<h2>Privacy Policy</h2>
+
+	<div>
+		<h2>Privacy Policy</h2>
 <p>This policy applies to information we hold about you.&nbsp; In this policy, 'we', 'us', and 'our' mean Barclaycard, which is a trading name of Barclays Bank UK PLC., registered number 9740322, registered office 1 Churchill Place, London E14 5HP. Barclaycard’s trading address is at 1234 Pavilion Drive, Northampton NN4 7SG.&nbsp; 'You' means the person the information relates to.</p>
 <p>This policy applies to information held about customers and possible future customers, suppliers and possible future suppliers, contacts and all other people we hold information about.&nbsp; By ‘information’ we mean personal and financial information about you that we collect, use, share and store. For further details on the information about you that we may process, please see the full&nbsp;<a title="View the Barclaycard privacy policy, opens in a new window" href="/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf" target="_blank" class="third-party">Barclaycard Privacy Policy</a>&nbsp;PDF (339KB).</p>
+
+	</div>
 
 
 
@@ -1394,9 +1472,12 @@
 
 
 
-<h3>How we collect information about you</h3>
+
+	<div>
+		<h3>How we collect information about you</h3>
 <p>We collect, use, share and store information about you to provide you with the services that you have requested from us and to share information with you about services that may be of interest to you.&nbsp; We will collect your information directly from you or from third parties.&nbsp; For further details of where we may obtain your information from, see the full&nbsp;<a title="View the Barclaycard privacy policy, opens in a new window" href="/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf" target="_blank" class="third-party">Barclaycard Privacy Policy</a>&nbsp;PDF (339KB).</p>
 
+	</div>
 
 
 
@@ -1407,7 +1488,10 @@
 
 
 
-<h3>How we use your information</h3>
+
+
+	<div>
+		<h3>How we use your information</h3>
 <p>We use this information:</p>
 <ul style="list-style-position: inside;">
 <li><span class="nav-list">to provide our services to you;</span></li>
@@ -1421,6 +1505,7 @@
 </ul>
 <p>We will use automated processes. For further information, including the legal basis on which we use your information, please see the full&nbsp;<a title="View the Barclaycard privacy policy, opens in a new window" href="/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf" target="_blank" class="third-party">Barclaycard Privacy Policy</a>&nbsp;PDF (339KB).</p>
 
+	</div>
 
 
 
@@ -1431,7 +1516,10 @@
 
 
 
-<h3>Sharing your information with others</h3>
+
+
+	<div>
+		<h3>Sharing your information with others</h3>
 <p>We’ll keep your information confidential but we may share it in certain circumstances, for the purposes set out in this policy, with:</p>
 <ul style="list-style-position: inside;">
 <li><span class="nav-list">other Barclays companies;</span></li>
@@ -1447,6 +1535,7 @@
 <p>For further details of third parties we may share your information with, and how your information will be used by us, fraud prevention agencies, credit reference agencies, and other third parties,&nbsp;see the full&nbsp;<a title="View the Barclaycard privacy policy, opens in a new window" href="/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf" target="_blank" class="third-party">Barclaycard Privacy Policy</a>&nbsp;PDF (339KB).<br>
 </p>
 
+	</div>
 
 
 
@@ -1457,7 +1546,10 @@
 
 
 
-<h3>Credit Reference Agencies and Fraud Prevention Agencies</h3>
+
+
+	<div>
+		<h3>Credit Reference Agencies and Fraud Prevention Agencies</h3>
 <p>We will supply your personal information to credit reference agencies and fraud prevention agencies and they will give us information about you, such as about your financial history. We do this to assess creditworthiness and product suitability, check your identity, manage your account, trace and recover debts and prevent criminal activity. These agencies may in turn share your personal information with other organisations. If fraud is detected, you could be refused certain services, finance or employment.</p>
 <p>If false or inaccurate information is provided to us and fraud is identified, details may be passed to credit reference and fraud prevention agencies to prevent fraud and money laundering and to verify your identity.</p>
 <p>The Credit Reference Agency Information Notice (CRAIN) describes how the three main credit reference agencies in the UK each use and share personal data. The CRAIN is available on the credit reference agencies’ websites:</p>
@@ -1470,6 +1562,7 @@
 <p>For more details on how information held by credit reference agencies and fraud prevention agencies may be used, please&nbsp;see the full&nbsp;<a title="View the Barclaycard privacy policy, opens in a new window" href="/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf" target="_blank" class="third-party">Barclaycard Privacy Policy</a>&nbsp;PDF (339KB).<br>
 </p>
 
+	</div>
 
 
 
@@ -1480,7 +1573,10 @@
 
 
 
-<h3>Your rights</h3>
+
+
+	<div>
+		<h3>Your rights</h3>
 <p>You have rights relating to the way that we use your information, and can make certain choices. For example, you can:</p>
 <ul style="list-style-position: inside;">
 <li><span class="nav-list">inform us of a correction to your personal data;</span></li>
@@ -1491,10 +1587,11 @@
 <li><span class="nav-list">ask us to stop using your information in certain circumstances.</span></li>
 </ul>
 <p>To use any of the rights set out above, or to discuss any other issue relating to your information, please contact us via the methods set out in the 'Contact us' section.</p>
-<p>If you have any concerns about the way we use your information, you have the right to complain to the Information Commissioner's Office, which regulates the use of personal information in the UK, by calling <a title="Call the ICO on 0303 123 1113" href="tel:030320123201113" onclick="return false" class="phone-desktop">0303 123 1113</a> or via <a title="View the Information Commissioner's Office website, opens in a new window, third party site" href="https://ico.org.uk/make-a-complaint/" target="_blank" class="third-party">www.ico.org.uk/make-a-complaint/</a>.</p>
+<p>If you have any concerns about the way we use your information, you have the right to complain to the Information Commissioner's Office, which regulates the use of personal information in the UK, by calling <a title="Call the ICO on 0303 123 1113" href="tel:03031231113" onclick="return false" class="phone-desktop">0303 123 1113</a> or via <a title="View the Information Commissioner's Office website, opens in a new window, third party site" href="https://ico.org.uk/make-a-complaint/" target="_blank" class="third-party">www.ico.org.uk/make-a-complaint/</a>.</p>
 <p>For further details on your rights concerning the way we use your information, and other ways to contact us, please see the full&nbsp;<a title="View the Barclaycard privacy policy, opens in a new window" href="/content/dam/barclaycard/documents/personal/Privacy_Policy_terms.pdf" target="_blank" class="third-party">Barclaycard Privacy Policy</a>&nbsp;PDF (339KB).<br>
 </p>
 
+	</div>
 
 
 
@@ -1505,7 +1602,10 @@
 
 
 
-<h3>Contact us</h3>
+
+
+	<div>
+		<h3>Contact us</h3>
 <p>Please go to <a title="View Barclays control your data page, opens in a new window" href="https://www.barclays.co.uk/important-information/control-your-data/" target="_blank" class="third-party">www.barclays.co.uk/control-your-data</a> if you have any questions about privacy issues. If you would like more information on your rights, or you want to exercise them, please send a request through our website at&nbsp;<a title="View Barclays control your data page, opens in a new window" href="https://www.barclays.co.uk/important-information/control-your-data/" target="_blank" class="third-party">www.barclays.co.uk/control-your-data</a>.</p>
 <p>You can contact our data protection officer at: The Data Protection Officer, Barclays Bank UK PLC, Leicester, LE87 2BB or email: <a title="Email the Barclays data protection officer" href="mailto:DPO@Barclays.com">DPO@Barclays.com</a>.<br>
 </p>
@@ -1517,6 +1617,7 @@
 <br>
 <a href="/personal/ppi" target="_self" title="Visit our PPI page">Visit our PPI page</a></p>
 
+	</div>
 
 
 
@@ -1527,11 +1628,16 @@
 
 
 
-<h3>Security</h3>
+
+
+	<div>
+		<h3>Security</h3>
 <p>Please remember that any messages you send over the internet aren't secure unless they are encrypted. We’re not responsible for unauthorised access by a third party or the corruption of any information sent to us.<br>
 <br>
 So for your own security, please don't send us any personal or account information by standard email.<br>
 </p>
+
+	</div>
 
 
 
@@ -1587,8 +1693,15 @@ So for your own security, please don't send us any personal or account informati
 
 
 
+
+
+
+
+
+
+
 <div class="row ">
-	<div class="col-md-12">
+	<div class="col-md-12" data-component-type="Column1">
 		
 
 
@@ -1605,7 +1718,9 @@ So for your own security, please don't send us any personal or account informati
     		<div class="article-snippet-bd cms-content">
       		<div>
 
-<h2>Cookie Policy</h2>
+
+	<div>
+		<h2>Cookie Policy</h2>
 <h3>What are cookies and how do we use them?</h3>
 <p>Cookies are text files containing small amounts of information, which your computer or mobile device downloads when you visit a website. When you return to websites – or visit other websites that use the same cookies – they recognise these cookies and therefore your browsing device.<br>
 <br>
@@ -1613,6 +1728,8 @@ Cookies do lots of different jobs, like helping us understand how this website i
 <br>
 You can learn about the cookies we use and how to manage them below.</p>
 <p>View our&nbsp;<a title="Guide to cookies" href="/personal/guide-to-cookies">guide to cookies</a>&nbsp;for further information.</p>
+
+	</div>
 
 
 
@@ -1623,7 +1740,9 @@ You can learn about the cookies we use and how to manage them below.</p>
 
 
 
-<h3>We use cookies to:</h3>
+
+	<div>
+		<h3>We use cookies to:</h3>
 <ul>
 <li><span class="unindented">Ensure your security and privacy when in our secure sites</span></li>
 <li><span class="unindented">Store login details for our secure sites</span></li>
@@ -1642,6 +1761,7 @@ You can learn about the cookies we use and how to manage them below.</p>
 <p>The type of cookies used on most websites can generally be put into 1 of 4 categories, based on the International Chamber of Commerce guide to cookie categories; Strictly Necessary, Performance, Functionality and Targeting.<br>
 </p>
 
+	</div>
 
 
 
@@ -1652,7 +1772,10 @@ You can learn about the cookies we use and how to manage them below.</p>
 
 
 
-<h4>Strictly Necessary Cookies</h4>
+
+
+	<div>
+		<h4>Strictly Necessary Cookies</h4>
 <p>These cookies are essential, as they enable you to move around the website and use its features, such as accessing secure areas. Without these cookies, services you've asked for can't be provided. These cookies don’t gather information about you that is used for marketing or remembering where you've been on the internet.<br>
 </p>
 <h4>Performance Cookies</h4>
@@ -1668,6 +1791,7 @@ These cookies can also be used to remember changes you've made to text size, fon
 Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience.<br>
 </p>
 
+	</div>
 
 
 
@@ -1678,14 +1802,19 @@ Without these cookies, a website cannot remember choices you've previously made 
 
 
 
-<h4>Targeting Cookies</h4>
+
+
+	<div>
+		<h4>Targeting Cookies</h4>
 <p>These cookies are used to tailor marketing to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information may be shared with other organisations such as advertisers. Although these cookies can track your visits to other websites, they don’t usually know who you are.<br>
 <br>
 Without these cookies, online advertisements you encounter will be less relevant to you and your interests.<br>
 </p>
-<h3>What happens to cookies that have been downloaded in the past?</h3>
+<h3>What about cookies that have been downloaded in the past?</h3>
 <p>Cookies set prior to you changing your settings may still be on your computer. You can remove them using your browser settings.<br>
 </p>
+
+	</div>
 
 
 
@@ -1717,6 +1846,8 @@ Without these cookies, online advertisements you encounter will be less relevant
 
 	</div>
 </div>
+
+
 
 
 
@@ -1743,7 +1874,7 @@ Without these cookies, online advertisements you encounter will be less relevant
 
 
 
-<section class="quicklink quicklink-1col">
+<section class="quicklink quicklink-1col" data-component-type="Quicklink">
 	<div class="quicklink-item">
 		<div class="quicklink-content">
 
@@ -1764,7 +1895,7 @@ Without these cookies, online advertisements you encounter will be less relevant
 				</li>
 
 				<li>
-					<a href="/personal/customer/protecting-you-from-fraud" title="Find out about the security of the website and how we protect you while you browse" target="_parent">Browsing the site securely</a>
+					<a href="/personal/customer/protecting-yourself-from-fraud" title="Find out about the security of the website and how we protect you while you browse" target="_parent">Browsing the site securely</a>
 				</li>
 
 				<li>
@@ -1814,9 +1945,13 @@ Without these cookies, online advertisements you encounter will be less relevant
 				<div class="col-xs-12 col-lg-12">
 				
 
-<p>Barclaycard is a trading name of Barclays Bank UK PLC.&nbsp;Barclays Bank UK PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 759676). Registered in England No. 9740322. Registered office: 1 Churchill Place, London E14 5HP<br>
+
+	<div>
+		<p>Barclaycard is a trading name of Barclays Bank UK PLC.&nbsp;Barclays Bank UK PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 759676). Registered in England No. 9740322. Registered office: 1 Churchill Place, London E14 5HP<br>
 </p>
 <p>Barclays Bank UK PLC adheres to The Standards of Lending Practice which are monitored and enforced by the LSB:<a href="https://www.lendingstandardsboard.org.uk/" title="Visit the Lending Standards Board website, opens in a new window, third party site" target="_blank" class="third-party">&nbsp;www.lendingstandardsboard.org.uk</a></p>
+
+	</div>
 
 
 
@@ -1825,7 +1960,7 @@ Without these cookies, online advertisements you encounter will be less relevant
 			</div>
 
 			<div class="responsive-copyright">
-				<p>© Barclaycard 2018</p>
+				<p>© Barclaycard 2019</p>
 			</div>
 
 		</div>
@@ -1837,7 +1972,7 @@ Without these cookies, online advertisements you encounter will be less relevant
 <div class="share parbase section">
 
 
-<div class="share">
+<div class="share" data-component-type="Share">
 	<div class="container-fluid">
     <div class="row">
       <div class="col-xs-12">
@@ -1873,12 +2008,12 @@ Without these cookies, online advertisements you encounter will be less relevant
 </div>
 
 
-    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/jquery.min.js" type="text/javascript"></script>
-    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/jquery.qtip.min.js" type="text/javascript"></script>
-    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/objectFitPolyfill.min.js" type="text/javascript"></script>
-    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/jquery.cookie.js" type="text/javascript"></script>
-    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/jquery.ba-bbq.js" type="text/javascript"></script>
-    <script src="/etc/designs/bccl/clientlibs/bcdl/js/bdl.js" type="text/javascript"></script>
+    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/jquery.min.js"></script>
+    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/jquery.qtip.min.js"></script>
+    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/objectFitPolyfill.min.js"></script>
+    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/jquery.cookie.js"></script>
+    <script src="/etc/designs/bccl/clientlibs/bcdl/deps/js/jquery.ba-bbq.js"></script>
+    <script src="/etc/designs/bccl/clientlibs/bcdl/js/bdl.js"></script>
 
    <div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="custom_tags_footer_sitewide iparsys parsys"><div class="custom_tag parbase section">
@@ -1915,6 +2050,16 @@ Without these cookies, online advertisements you encounter will be less relevant
             <script type="text/javascript">_satellite.pageBottom();</script>
         
     
+
+
+
+
+
+
+    
+    
+<script type="text/javascript" src="/etc/designs/bccl/datalayer.js"></script>
+
 
 
 
