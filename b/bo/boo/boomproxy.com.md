@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomproxy.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208203203id_/http%3A//www.boomproxy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomproxy.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509092549id_/http%3A//boomproxy.com/privacy.html) for the most accurate reproduction.*
 
 # Terms Of Service
 
