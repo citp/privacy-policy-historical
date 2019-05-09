@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localise.biz privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903205147id_/https%3A//localise.biz/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localise.biz privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509024029id_/https%3A//localise.biz/info/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Loco
 
@@ -10,7 +10,7 @@ If you have any questions about your privacy on our website or our processing of
 
 About half of our customers are in the European Union (as are we for now). Our approach to data protection is modelled closely on the principles of GDPR and we happily comply with our obligations under this law.
 
-This Privacy Notice is designed to be short and easy to read, but of course the 88 pages of [EU Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) are not so short. If you'd like to know more about how we comply with this regulation, please see [Loco's compliance with the EU General Data Protection Regulation](https://web.archive.org/web/20180903205147id_/https%3A//localise.biz/info/privacy/gdpr).
+This Privacy Notice is designed to be short and easy to read, but the 88 pages of [EU Regulation 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) are not so short. If you'd like to know more about how we comply with this regulation, please see [Loco's compliance with the EU General Data Protection Regulation](https://web.archive.org/web/20190509024029id_/https%3A//localise.biz/info/privacy/gdpr).
 
 ### Personal Data we collect, and why 
 
@@ -30,7 +30,7 @@ We use Google's [IP Anonymization](https://support.google.com/analytics/answer/2
 
 Data sent from your browser to Google Analytics is safeguarded by Google's own [privacy policies](https://support.google.com/analytics/answer/6004245). If you dislike this data being sent to Google, you can block Google Analytics completely with [this browser add-on](https://tools.google.com/dlpage/gaoptout?hl=en). Also check out [Privacy Badger](https://www.eff.org/privacybadger).
 
-Note that Google Analytics sets long-lived cookies to establish if a visitor is new. See our separate [cookie policy](https://web.archive.org/web/20180903205147id_/https%3A//localise.biz/info/privacy/cookies) for more information about that.
+Note that Google Analytics sets long-lived cookies to establish if a visitor is new. See our separate [cookie policy](https://web.archive.org/web/20190509024029id_/https%3A//localise.biz/info/privacy/cookies) for more information about that.
 
 #### Account profile data 
 
@@ -79,11 +79,11 @@ This data is not personally identifiable information and will never include your
 
 #### Personal data related to payments 
 
-If you subscribe to any of Loco's paid services we will store your billing address including postcode and country. This is required for processing payments and also for our tax records. We may have to store some of this data for legal reasons even if you close your account. See our [terms of service](https://web.archive.org/web/20180903205147id_/https%3A//localise.biz/info/legal/terms#payment) in relation to this.
+If you subscribe to any of Loco's paid services we will store your billing address including postcode and country. This is required for processing payments and also for our tax records. We may have to store some of this data for legal reasons even if you close your account. See our [terms of service](https://web.archive.org/web/20190509024029id_/https%3A//localise.biz/info/legal/terms#payment) in relation to this.
 
 All sensitive payment information like credit card numbers is held by our [payment providers](https://web.archive.org/help/accounts/billing). **We have no access to credit card numbers**.
 
-EU customers: Please note that our payment provider Stripe is based in USA, but your rights as EU citizens are protected under the Privacy Shield framework. See the [Data Processors section of our GDPR compliance page](https://web.archive.org/web/20180903205147id_/https%3A//localise.biz/info/privacy/gdpr#processors) for more detail.
+EU customers: Please note that our payment provider Stripe is based in USA, but your rights as EU citizens are protected under the Privacy Shield framework. See the [Data Processors section of our GDPR compliance page](https://web.archive.org/web/20190509024029id_/https%3A//localise.biz/info/privacy/gdpr#processors) for more detail.
 
 #### Single sign-on 
 
@@ -111,32 +111,32 @@ You can disable some notification emails in your project settings, but others (s
 
 #### Email addresses given to us by unauthorized persons 
 
-It can happen that someone accidentally registers for Loco with the wrong email address (that isn't theirs). Or it can happen that an existing user invites someone to Loco without having permission to share that person's email address with us.
+It can happen that someone accidentally registers for Loco with the wrong email address (that isn't theirs). Or it can happen that an existing user invites someone to Loco without having permission to share that person's address with us.
 
 Firstly and most importantly, we **don't store** a new email address until it has been [verified](https://web.archive.org/help/accounts/emails#verify) and its owner has been given a chance to read this privacy notice and decide whether or not to activate their account. There are no email addresses in our system that don't belong to someone who explicitly activated an account.
 
 Secondly, and more complicatedly the activation email sent to the new address is effectively unsolicited mail to its unwitting recipient. (We accidentally spammed them). In this instance, the unsubscribe link in the email will allow the owner of this email address to permanently block our system from sending them any emails in future. To achieve this without actually storing their address we store an irreversible hash of it instead.
 
-If we've sent you an email but you've never heard of us, we're sorry it was an accident. Block your address via the unsubscribe link and it won't happen again.
+If we've sent you an email but you've never heard of us, we're sorry; it was an accident. Block your address via the unsubscribe link and it won't happen again.
 
 #### Transmission of personal data over email 
 
 When sending emails we will use our preferred third party sending service [Amazon SES](https://aws.amazon.com/ses/). This involves your email address and the contents of the email being passed securely to Amazon for the purpose of delivery.
 
-EU citizens: We have a contract in place with Amazon which guarantees their processing of these emails protects your rights as a direct extension of our guarantees. See the [Data Processors section of our GDPR compliance page](https://web.archive.org/web/20180903205147id_/https%3A//localise.biz/info/privacy/gdpr#processors) for more detail.
+EU citizens: We have a contract in place with Amazon which guarantees their processing of these emails protects your rights as a direct extension of our guarantees. See the [Data Processors section of our GDPR compliance page](https://web.archive.org/web/20190509024029id_/https%3A//localise.biz/info/privacy/gdpr#processors) for more detail.
 
 ### Destroying your data 
 
 Your account can be closed from your Loco dashboard. Please see the help page on [closing your account](https://web.archive.org/help/accounts/closing).
 
-If you ask us to close your account, all your data (personal and otherwise) will be removed permanently from all our systems, except for any historical payment information that we (or our service providers) are obliged to keep for tax or legal reasons. See our [terms of use](https://web.archive.org/web/20180903205147id_/https%3A//localise.biz/info/legal/terms#data) for more detail on the data we're legally obliged to retain.
+If you ask us to close your account, all your data (personal and otherwise) will be removed permanently from all our systems, except for any historical payment information that we (or our service providers) are obliged to keep for tax or legal reasons. See our [terms of use](https://web.archive.org/web/20190509024029id_/https%3A//localise.biz/info/legal/terms#data) for more detail on the data we're legally obliged to retain.
 
 We guarantee to destroy your data as far as legally and physically possible within 30 days. The reality is that most of your data will be wiped from our active system much more quickly than that, often within a few hours.
 
 ### Securing your data 
 
-We set ourselves high standards of security when handling your personal data (and in all aspects of running our service). See our [security disclosures](https://web.archive.org/web/20180903205147id_/https%3A//localise.biz/info/security) for technical detail on how we protect our systems.
+We set ourselves high standards of security when handling your personal data (and in all aspects of running our service). See our [security disclosures](https://web.archive.org/web/20190509024029id_/https%3A//localise.biz/info/security) for technical detail on how we protect our systems.
 
 ### Use of cookies 
 
-Loco uses cookies, but they are not designed to personally identify you. Please see our full [Cookie policy](https://web.archive.org/web/20180903205147id_/https%3A//localise.biz/info/privacy/cookies).
+Loco uses cookies, but they are not designed to personally identify you. Please see our full [Cookie policy](https://web.archive.org/web/20190509024029id_/https%3A//localise.biz/info/privacy/cookies).
