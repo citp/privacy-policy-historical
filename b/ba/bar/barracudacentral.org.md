@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barracudacentral.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230080425id_/https%3A//www.barracuda.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barracudacentral.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509143622id_/https%3A//www.barracuda.com/legal/privacy) for the most accurate reproduction.*
 
 # Company | Barracuda Networks
 
