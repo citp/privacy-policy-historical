@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvnewsroom.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212050412id_/https%3A//tvnewsroom.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvnewsroom.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509214657id_/http%3A//www.tvnewsroom.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
