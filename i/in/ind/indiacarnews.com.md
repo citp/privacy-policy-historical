@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiacarnews.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223133853id_/https%3A//www.indiacarnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacarnews.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509021950id_/https%3A//www.indiacarnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - India Car News
 
 IndiaCarNews.com (“Website”) values its readers and ensures to protect privacy of personal information of our readers. If in case we use personal information of our readers we make sure it has been done in a protected manner and readers are notified proactively.
 
@@ -8,7 +8,7 @@ The answers to all the questions, as to the intensity of personal information co
 
 You can further inquire about the above given statement and clear your doubts by mailing us at contact@indiacarnews.com
 
-**Here is the complete policy, please read carefully:**
+ **Here is the complete policy, please read carefully:**
 
 At India Car News we believe in keeping any sort of personally identifiable information like name, address and telephone number shared on our website confidential. We assure our readers that we follow all necessary measures required to safeguard privacy of our readers on India Car News.
 
