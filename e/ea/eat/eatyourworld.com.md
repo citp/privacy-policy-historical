@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the eatyourworld.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019161819id_/https%3A//eatyourworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatyourworld.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509115751id_/https%3A//eatyourworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Eat Your World
-
-  
-We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/eatyourworld.com).  
-
 
 Eat Your World, LLC (“Company,” “we,” “our,” “us”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Eat Your World website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this privacy policy.  
 
@@ -121,6 +117,6 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 **QUESTIONS OR CONCERNS**
 
-If you have any questions or concerns regarding privacy at our Website, please send us a detailed message to [[email protected]](https://eatyourworld.com/cdn-cgi/l/email-protection), and we will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy at our Website, please send us a detailed message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), and we will make every effort to resolve your concerns. 
 
 _Last updated: May 24, 2018_
