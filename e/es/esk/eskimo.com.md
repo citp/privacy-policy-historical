@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eskimo.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106062726id_/http%3A//www.eskimo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eskimo.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509121413id_/https%3A//www.eskimo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eskimo North
 
