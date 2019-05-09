@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beefree.io privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829061907id_/https%3A//beefree.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beefree.io privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509121144id_/https%3A//beefree.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BEE free
 
@@ -8,7 +8,7 @@ Effective Date: July 31, 2018
 
 We at MailUp Inc., an email marketing company (“ **MailUp** ” or “ **we** ”), respect your concerns about privacy.
 
-This policy describes the types of information we collect from you when you visit **<http://beefree.io/>** (including any third-level-domain and sub-domains) (“ **Website** ”) and when you use our Services, how we use the information, with whom we share it and the choices available to users of our Website and Services regarding our use of the information. We also describe our practices for protecting that information and how you can contact us about our privacy practices.
+This policy describes the types of information we collect from you when you visit **<https://beefree.io/>** (including any third-level-domain and sub-domains) (“ **Website** ”) and when you use our Services, how we use the information, with whom we share it and the choices available to users of our Website and Services regarding our use of the information. We also describe our practices for protecting that information and how you can contact us about our privacy practices.
 
 If you do not agree with our policies and practices, your choice is not to use our Website or Services. **_By accessing or using this Website, or any of the Services it provides, you agree to this Privacy Policy._**  This policy may change from time to time (see _Changes to our Privacy Policy_ ). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
@@ -133,5 +133,8 @@ This policy was **last modified on July 31, 2018**. It was substantially modifie
 If you have questions or concerns about this Privacy Policy and our privacy practices, you can contact MailUp, Inc. at **[support@beefree.io](mailto:support@beefree.io)** or by writing to the following address:
 
 MailUp, Inc.  
-450 Townsend Street,  
-San Francisco, CA 94107, USA
+c/o WeWork, 1111 Broadway,  
+Suite 300,  
+Oakland, CA 94607
+
+Beefree uses cookies to offer you a better browsing experience. We use these for advertising and analytics purposes. By continuing to use the site, you agree to the use of cookies. Accept [Read More](https://beefree.io/cookies-policy/)
