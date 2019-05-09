@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnycatpix.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108041226id_/http%3A//www.funnycatpix.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnycatpix.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509214255id_/http%3A//www.funnycatpix.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
