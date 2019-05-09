@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhw.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231032126id_/https%3A//www.lhw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhw.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509162627id_/https%3A//www.lhw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : The Leading Hotels of the World
 
