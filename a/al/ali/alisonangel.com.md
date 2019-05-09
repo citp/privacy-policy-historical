@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alisonangel.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107153116id_/http%3A//www.alisonangel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alisonangel.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509175033id_/http%3A//www.alisonangel.com/privacy.php) for the most accurate reproduction.*
 
 # Alison Angel Privacy Policy
 
