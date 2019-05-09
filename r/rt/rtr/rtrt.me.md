@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the rtrt.me privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107152500id_/https%3A//rtrt.me/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtrt.me privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509171556id_/https%3A//rtrt.me/legal/privacy) for the most accurate reproduction.*
 
 # Privacy » RTRT.me
 
 ## PRIVACY POLICY
 
   
-Effective: May 25th, 2018 [(previous version here)](https://static.rtrt.me/legal/rtrt_privacy_policy-2013-01-13.pdf)
+Effective: November 21st 2018 [(previous version here)](https://static.rtrt.me/legal/rtrt_privacy_policy_2018-05-25.pdf)
 
 We care about your privacy! Our goal is to offer you best-in-class technology services while respecting your privacy and protecting your personal information. Thank you for this opportunity to earn your trust. 
 
@@ -221,7 +221,11 @@ Personal data stored by RTRT on the Platform is handled carefully and in accorda
 
 **NOTE:** If you have a security-related concern please contact us immediately at [help@rtrt.me](mailto:help@rtrt.me?subject=Data%20Security%20Concern). 
 
-**Data Transfers:** We operate internationally and transfer information to our systems in the United States or other countries for the purposes described in this Privacy Policy. 
+**Privacy Shield:** We participate in, and have certified our compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S Privacy Shield Framework. We are committed to subjecting all Personal Information received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [ U.S. Department of Commerce’s Privacy Shield ](https://www.privacyshield.gov/) website. 
+
+**NOTE:** If you have a complaint or concern about our Privacy Shield compliance, please contact us at [privacy@rtrt.me](mailto:privacy@rtrt.me?subject=Communication%20Preference%20Privacy%20Concern). You can also refer a complaint to our chosen independent dispute resolution body [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), and in certain circumstances, invoke binding arbitration to address complaints about our compliance with Privacy Shield. 
+
+**Data Transfers:** We operate internationally and transfer information to our systems in the United States or other countries for the purposes described in this Privacy Policy. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Dilltree Inc is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. Dilltree complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. However, Dilltree cannot be held liable for any damages caused by third parties. 
 
 ## Grounds For Personal Data Processing _http://rtrt.me/legal/privacy#legal-bases_
 
@@ -257,4 +261,4 @@ Here is how you can contact us:
 
 If you have a privacy concern, or have questions or suggestions about how we can improve this policy, please contact us at [privacy@rtrt.me](mailto:privacy@rtrt.me?subject=Privacy%20Question) or by using [our contact form](https://rtrt.me/contact). 
 
-If contacting us does not resolve your complaint, you have more options. Residents in the European Union (EU), European Economic Area (EEA), and Switzerland may also have the right to contact our Data Protection Officer at [dpo@rtrt.me](mailto:dpo@rtrt.me?subject=Questioning%20Bases%20for%20Data%20Collection). 
+If contacting us does not resolve your complaint, you have more options. Residents in the European Union (EU), European Economic Area (EEA), and Switzerland may also have the right to contact our Data Protection Officer at [dpo@rtrt.me](mailto:dpo@rtrt.me?subject=Questioning%20Bases%20for%20Data%20Collection). Finally, you can also refer a complaint to our chosen independent dispute resolution body [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), and in certain circumstances, invoke the Privacy Shield arbitration process. 
