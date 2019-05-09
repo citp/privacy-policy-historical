@@ -1,147 +1,69 @@
-> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231160711id_/http%3A//www.rogersmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509150217id_/https%3A//www.moneysense.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Rogers Media
+# Privacy Policy - MoneySense
 
-### General Faqs
+Last Updated:  January 31, 2019
 
-  * What is Rogers Media?
-  * Where can I learn about the Rogers Group of Companies privacy policy?
-  * What is the purpose of these privacy policy FAQs?
-  * What is personal information?
-  * Does Rogers collect personal information?
-  * How does Rogers use information it gathers about me?
-  * Might I be contacted by organizations outside Rogers?
-  * What are marketing preferences?
-  * How can I change my marketing preferences?
-  * How can I change or update my e-mail newsletter subscriptions?
-  * Does Rogers Media use telemarketing to sell magazine subscriptions?
-  * What about personalized ads in magazines?
-  * How does Rogers Media protect the privacy of children?
-  * I’m registering on one of your websites for the first time, but my name is here already. How?
-  * Do Rogers Media websites use cookies?
-  * Do Rogers Media websites record information about my computer or my visit?
-  * How does Rogers Media advertise on its website?
-  * What about information on public forums?
-  * What steps do you take for the security of my information?
-  * How else can I protect my privacy online?
-  * What happens to information I provide on a contest entry?
-  * Are there other ways my information will be used?
+MoneySense, Inc. (“ **MoneySense** ” / “ **we** ” / “ **us** “) is committed to protecting your privacy. We make the MoneySense website, [www.moneysense.ca](https://www.moneysense.ca/) (the “ **Website** ”) available together with our services as further described in our [Terms of Use](https://www.moneysense.ca/terms-of-use) (the “ **Services** ”). This Privacy Policy describes how we collect, store, use and distribute information about our users through the Website and Services.
+
+**Consent: By using the Website or our Services you consent to the use of your Personal Information as described in this Privacy Policy**
+
+**Collection of Information**
+
+We aim to collect, use and disclose only such information as is required to enable us to manage your account, to provide the Services, to maintain our customer/visitor lists, to respond to your inquiries or provide feedback, and for service improvement. We will maintain the confidentiality of any contact information you provide to us when you sign up for our marketing communications or contact us with questions or for further information and we will use it only for the purposes for which we have collected it (subject to the exclusions and disclosures we have listed below), unless you agree that we may disclose it to other third parties.
+
+Two types of information may be collected through the Website and our Services: Personal Information and  Website Information.
+
+“ ** _Personal Information_** ” is personally identifiable information, such as your name, address, e-mail address, credit card information, address, birth date and gender. At the time of collection, we will clearly identify the information being collected and the purposes for which it will be used. It is always your choice whether or not to provide Personal Information but if you choose not to provide certain requested Personal Information, in some instances you may not be able to access and use all of the features of the Website and Services. In other instances, your choice not to provide certain other Personal Information may mean that you will not be able to use certain features of the Website. We may collect Personal Information in respect of the Website through communications with you; user support; online tools; and expert advice services.
+
+“ ** _Website  Information _**is information we collect when you visit our Website, such as an Internet Protocol Address (IP Address), the domain used to access the Website, and the type and version of browser or operating system being used by visitors to the Website.
+
+We also collect aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors, what pages users access or visit, and average time spent on the Website. Similarly, business contact information such as the name, title, business address, or telephone number of a business or professional person or an employee of an organization is not considered Personal Information when such information is used for the purposes of contacting the individual in their business/professional capacity.
+
+**Use of Information** : We collect information for the following purposes:
+
+  1. _Request Forms_ If you request more information about a certain Financial Product listed on our Website you may be required to input certain further Personal Information, such as name, contact information, address, and certain other information depending on the nature of the Financial Product you are interested in. If you submit such a request form, we will send the information contained in the form to the applicable Vendor of the Financial Product, and you hereby consent to us sharing your Personal Information with such Vendors. Any Personal Information that we provide to third party Vendors will be treated in accordance with the terms of such Vendor’s own Privacy Policy, which you should read. Ratehub.ca will not be responsible in any way for how any Vendor treats your Personal Information.
+  2. _Online Tools:_ We may offer tools such as a mortgage calculator, Canada child benefit calculator, RESP calculator, TFSA Room calculator, and credit card finder. If you use these tools, we collect information you provide (such as your income, RESP balance, credit score, etc.) in order to provide you with the features and functions of the tools. We do not store the Personal Information you provide when you use these tools.
+  3. Ask MoneySense: If you decide to ask one of our experts a question such our Retirement, Auto, Real Estate or Tax experts, we will collect your email address and any other Personal Information you provide in your correspondence with the expert in order to respond to your question.
+  4. _Location Information_ : Certain Financial Products are only available in certain areas, and therefore we may ask for your location, either by requesting your postal code, city, and/or address
+  5. _Transactional Notifications_ : We provide notifications for certain activities relating to your use of our Services despite your indicated e-mail preferences, for example we may send you notices of any updates to our Terms of Use or Privacy Policy.
+  6. _Marketing Communications:_  If you opt-in to receive marketing communications from us, we collect your name and email address to send you the newsletter you requested. You may withdraw your consent to receiving marketing communications from us at any time by following the opt-out instructions in each communication, or by contacting our marketing department at [marketing@ratehub.ca](mailto:marketing@ratehub.ca).
+  7. _Statistics_ : We also collect statistics about your use of products/services [referred to you]through the Website. This information will be kept confidential, however, aggregate statistics that do not personally identify an individual will be kept by us and such aggregate statistics may be made available to other members or third parties.
+  8. _System Logs & Cookies_: Cookies are used by us to track content usage and traffic on the Website. A cookie is a feature of your web browser that consists of a text file that is placed on your hard disk by a web server. The Website uses cookies to help it compile aggregate statistics about usage of this Website, such as how many users visit the Website, how long users spend viewing the Website, and what pages are viewed most often, and what pages Users may visit directly after leaving the Website. This information is used to improve the content of the Website and to provide and improve the Services. You can set your browser to notify you when you are sent a cookie. This gives you the chance to decide whether or not to accept it. If you disable cookies, you may not be able to take advantage of all the features of the Website. We do not link any of the information we use in cookies to any personally identifiable information submitted by you when you are on the Website.
 
 
 
-Contact Us
+Your IP address is reported by your web browser whenever you visit a page on the Website. This information is recorded together with your registration information on our databases.
 
-#### What is Rogers Media?
+  10. _Analytics_ : We may use a third party such as Google Analytics to help us gather and analyze information about the areas visited on the Website (such as the pages most read, time spent, search terms and other engagement data) in order to evaluate and improve the user experience and the Website. For more information or to opt-out using the Google Analytics opt-out browser add-on, see “[How Google uses data when you use our partners’ sites or apps](https://policies.google.com/technologies/partner-sites?hl=en)” and “[Google Analytics and Privacy](https://support.google.com/analytics/answer/6004245)”.
+  11. _Advertisements_ : Advertisements appearing on the Website may be delivered by us or one or more third-party web advertisers. These third party web advertisers may set cookies. These cookies allow the advertisement server operated by that third party to recognize your computer each time they send you an online advertisement. Accordingly, advertisement servers may compile information about where or whether you viewed their advertisements and which advertisements you clicked on. This information allows web advertisers to deliver targeted advertisements that they believe will be of most interest to you. We use third-party advertising companies to serve ads when you visit our website. These companies may use non-personally identifiable information (which does not include your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,  _[click here](https://www.networkadvertising.org/)_.
 
-Rogers Media Inc. operates Rogers Broadcasting and Rogers Publishing. Rogers Media Inc. is a wholly owned subsidiary of Rogers Communications Partnership (Rogers) (TSX: RCI; NYSE: RCI). Rogers Communications and its subsidiaries and affiliates are referred to as the Rogers Group of Companies.
 
-#### Where can I learn about the Rogers Group of Companies privacy policy?
 
-#### What is the purpose of these privacy policy FAQs?
+If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled ‘ _Amendment of this Policy_ ’.
 
-These FAQs provide additional information regarding, and interpretation of, the Rogers Group of Companies’ privacy policy as it applies to Rogers Media. The FAQs explain how Rogers Media treats your personal information collected in connection with your subscription to all Rogers Media publications and your interactions with Rogers Media radio, website and digital properties. They also provide contact information in the event that you want to make further inquiries regarding your personal information.
+**Disclosures & Transfers**: We have put in place contractual and other organizational safeguards with our agents and service providers (see further below) to ensure a proper level of protection of your Personal Information (see further  _Security_  below). In addition to those measures, we will not disclose or transfer your Personal Information to third parties without your permission, except as specified in this Privacy Policy (see further  _Important Exceptions_  below).
 
-#### What is personal information?
+As at the date of this Privacy Policy, we share Personal Information about you in respect of the Website only with service providers that provide services on our behalf. We use service providers to improve our Website and provide services such as hosting our Website, providing advertising services, email marketing services, cloud services, and analytics advertising services.
 
-Personal information is any information that is related to an identifiable individual. It typically includes such information as your name, e-mail address, or mailing address. It could also include preferences you provided at websites or other information. It does not include the business contact information of a person, such as name, title and mailing contact information.
+Our servers (and certain service providers) are also located in Canada and the U.S. and accordingly your Personal Information may be available to the Canadian and U.S. government or its agencies under a lawful order, irrespective of the safeguards we have put in place for the protection of your Personal Information.
 
-#### Does Rogers collect personal information?
+From time to time we may employ third parties to help us improve the Website and/or the Services. These third parties may have limited access to databases of user information solely for the purpose of helping us to improve the Website and/or the Services and they will be subject to contractual restrictions prohibiting them from using the information about our members for any other purpose.
 
-We collect personal information such as your name, address, e-mail address, or other personal information when you register with a website or order a product or service. You may also be asked for personal information when you enter into contests or promotions sponsored by us or our partners.
+**_Important Exceptions_** : We may disclose your Personal Information to third parties without your consent if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Website members, other users of the Services, or anyone else (including the rights or property of anyone else) that could be harmed by such activities. We may disclose Personal Information when we believe in good faith that such disclosure is required or permitted by and in accordance with applicable law.
 
-#### How does Rogers use information it gathers about me?
+We may also disclose your Personal Information in connection with a corporate re-organization, a merger or amalgamation with another entity, a sale of all or a substantial portion of our assets or stock, including any due diligence exercise carried out in relation to the same, provided that the information disclosed continues to be used for the purposes permitted by this Privacy Policy by the entity acquiring the information (or as otherwise consented to).
 
-Rogers Media uses your personal information to provide you with products or services that you have requested. We may further use such information to develop and customize products or services to better meet your needs and preferences, and to offer you products and services from Rogers, including any companies within the Rogers Group of Companies.
+**Security** : The security of your Personal Information is important to us. We use commercially reasonable efforts to store and maintain your Personal Information in a secure environment. We take technical, contractual, administrative, and physical security steps designed to protect Personal Information that you provide to us. We have implemented procedures designed to limit the dissemination of your Personal Information to only such designated staff as are reasonably necessary to carry out the stated purposes we have communicated to you.
 
-#### Might I be contacted by organizations outside Rogers?
+You are also responsible for helping to protect the security of your Personal Information. For instance, never give out your email account information to third parties.
 
-Advertisers may ask Rogers Media for permission to send material to you that you may find of interest. In such cases, your name, email or mailing address are only released to a reputable third party service bureau for the purpose of sending the specific material. All such advertising material is reviewed by Rogers Media and subject to approval for acceptable advertising content.
+**Retention** : We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you. We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained personal information will remain subject to the terms of this Privacy Policy. If you request that your name be removed from our databases, it may not be possible to completely delete all your Personal Information due to technological and legal constraints.
 
-If you would prefer that your name, email or mailing address not be provided to marketers outside of Rogers Group of Companies, please [click here](https://www.rogersmedia.com/contact/) for a list of Rogers Media properties and links to their respective customer account logins.
+**Amendment of this Policy** : We reserve the right to change this Privacy Policy at any time. If we decide to change this Privacy Policy in the future, we will post an appropriate notice on the home page at www.moneysense.ca. Any non-material change (such as clarifications) to this Privacy Policy will become effective on the date the change is posted and any material changes will become effective 30 days from their posting on the Website. Unless stated otherwise, our current Privacy Policy applies to all Personal Information that we have about you. The date on which the latest update was made is indicated at the top of this document. We recommend that you print a copy of this Privacy Policy for your reference and revisit this policy from time to time to ensure you are aware of any changes. Your continued use of the Website signifies your acceptance of any changes.
 
-#### What are marketing preferences?
+**Access and Accuracy** : You have the right to access the Personal Information we hold about you in order to verify the Personal Information we have collected in respect to you and to have a general account of our uses of that information. Upon receipt of your written request, we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user. In such circumstances we will provide reasons for the denial to you upon request. We will endeavor to deal with all requests for access and modifications in a timely manner.
 
-Your relationship with Rogers Media permits us to contact you about our products and services, as well as those of our affiliates in the Rogers Group of Companies. But if you prefer otherwise, we provide clear and easy ways for you to tell us so. These are your personal marketing preferences.
+We will make every reasonable effort to keep your Personal Information accurate and up-to-date, and we will provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate. As appropriate, this amended Personal Information will be transmitted to those parties to which we are permitted to disclose your information. Having accurate Personal Information about you enables us to give you the best possible service.
 
-#### How can I change my marketing preferences?
-
-To access and change your marketing preferences, please [click here](https://www.rogersmedia.com/contact/) for a list of Rogers Media properties and links to their respective customer account logins.
-
-#### How can I change or update my e-mail newsletter subscriptions?
-
-We have many e-mail newsletters for you to choose from and realize your preferences may change over time. To review or update your e-mail newsletter subscriptions please [click here](https://www.rogersmedia.com/contact/) for a list of Rogers Media properties and links to their respective customer account logins.
-
-#### Does Rogers Media use telemarketing to sell magazine subscriptions?
-
-Yes, some consumers find it convenient to be contacted by phone either to start new subscriptions or to renew an existing subscription. The authorized agents who sell new subscriptions are required to make use of the national “Do Not Call” registry to ensure that they do not call the phone numbers of people who have registered. If you are already a subscriber and do not want to receive telemarketing calls, you may add your phone number to our internal Do Not Call list by sending your request to:
-
-For Consumer Publications – [webmedia@rci.rogers.com](mailto:webmedia@rci.rogers.com)  
-For Business Publications – [bppgservice@rci.rogers.com](mailto:bppgservice@rci.rogers.com)
-
-You can get more information about the national “Do Not Call” registry here <http://www.crtc.gc.ca/eng/INFO_SHT/t1031.htm>.
-
-#### What about personalized ads in magazines?
-
-Occasionally an advertiser may ask that we print the name of subscribers on their advertisement in our publications. When this is done, the subscriber’s name is printed on the ad at the same time that the mailing label is printed on the cover of the magazine. The subscriber’s name appears only in their personal copy of the magazine. If you would prefer not have your name included in such advertisements, please [click here](https://customer.rogersmagazineservice.com/app/) for a list of Rogers Media properties and links to their respective customer account logins.
-
-Please note ‘Do Not Personalize’ is not applicable to business magazines.
-
-#### How does Rogers Media protect the privacy of children?
-
-The privacy of children is important to us. We will not knowingly send direct mailings, e-mail or other correspondence to anyone who indicates that they are younger than 16 years old. Your children should always ask you for permission before sending personal information to Rogers Media or to anyone else. Any personal information we gather about children under the age of 16 would be used solely for demographic purposes. Access to some of our websites may be prohibited to children under a certain age as specified in the website’s Terms of Service. Rogers Media cannot verify the validity of persons claiming to be age-eligible to access such websites.
-
-#### I’m registering on one of your websites for the first time, but my name is here already. How?
-
-Some Rogers Media websites may share online registration services. Any information you provide while registering for a website is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media website, the associated information will be retrieved, so you don’t have to re-enter it.
-
-#### Do Rogers Media websites use cookies?
-
-Yes, Rogers Media websites use cookies. A cookie is set when you register on our websites.
-
-A cookie is a small text file sent to your internet browser’s files for our reference. No one else can read this file. Cookies allow our server computer to recognize your computer when you return to our websites, so you don’t have to re-register and so we can retain any preferences you may have given us. If you do not wish to receive cookies, most browsers allow you to be alerted when a cookie is sent to your computer, so you can decide whether to accept it.
-
-#### Do Rogers Media websites record information about my computer or my visit?
-
-Rogers Media collects IP addresses and related information for the purposes of system administration and to create aggregate statistical reports for advertisers. This information cannot identify you personally.
-
-Browser information (i.e. the URL of the webpage you were just on, the IP address of the computer you are using, your domain type, and your browser version) is automatically recorded as part of transmitting information over the Internet.
-
-We may use it to help us display information in the best format for you.
-
-We may develop summary reports for advertisers, to help them better understand our audience and provide advertisements that are more likely to be of interest to you. For example, we may report total number of visitors to our website in general or to specific webpages, average length of visit, etc. No identifying data about individuals is reported.
-
-During your visit to our websites, we may record choices you have made and use this to provide more customized content or advertising. The data does not identify you and is not retained after your visit. This is sometimes called “clickstream” data.
-
-We may use other industry standard technologies like pixel tags and web beacons to track your use of our websites and promotions, or we may allow our affiliates and third party service providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behaviour on our websites, as well as give us a way to measure the effectiveness of our promotions and performance.
-
-#### How does Rogers Media advertise on its website?
-
-The ads appearing on many of the Rogers Media websites are delivered to you using online advertising networks, and Adobe Media Optimizer technology. Information about your visits to this website, such as the number of times you have viewed an ad or visited certain pages of Rogers Media websites (but not your name, address, email or other personal information) is used to serve ads to you.
-
-The ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of the advertisements served to you on Rogers Media websites or through affiliate advertising network providers.
-
-Web beacons utilize JavaScript code and write information to cookies, which are small files on your computer. If you do not want a cookie to be written, simply change the setting in your browser. For more information and how to ‘opt-out’ from ad network providers’ cookies, visit the [Your Ad Choices website](http://youradchoices.ca/choices).
-
-#### What about information on public forums?
-
-Rogers Media websites may make chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-#### What steps do you take for the security of my information?
-
-Our websites use industry-standard security measures to protect data against loss, misuse and interception by third parties. Our security policies are periodically reviewed and enhanced as necessary. However, Rogers Media assumes no liability for interception, alteration or misuse of information transmitted over the Internet.
-
-#### How else can I protect my privacy online?
-
-Generally speaking, whenever you disclose personal information online there is a risk that the information may be intercepted, collected and used. That goes for information disclosed on message boards, in chat areas – or even in e-mail. The Rogers Group of Companies is not responsible if that information is intercepted. You transmit information at your own risk.
-
-Co-branded websites and third party websites and services may be accessible through Rogers Media websites. Third parties may collect information for their own contests or promotions, and may have their own privacy and data collection practices. The Rogers Group of Companies is not responsible for and bears no liability for these policies or actions.
-
-You alone are responsible for keeping passwords and information safe. Be careful and responsible whenever you’re online.
-
-#### What happens to information I provide on a contest entry?
-
-Rogers Media uses a variety of contests and similar promotions to increase awareness of our products and services. We generally request contact information so that we can notify you if you are a prize winner. As well, in some cases we may contact contest entrants with product information. Contest entries generally include a way for you to indicate that you do not want to be contacted based on the information on your entry. Because contests may involve co-sponsors outside Rogers Group of Companies who have their own privacy practices, it is always advisable to read the entry form and contest rules before entering.
-
-#### Are there other ways my information will be used?
-
-Rogers Media may also use or disclose your personal information when we believe in good faith that the law requires it or under circumstances specifically described to you when we collect the information (such as in a Terms of Service or Use agreement).
+**Contact Us** : You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions, if you find any errors in our information about you, or for more information on the manner in which we or our service providers use your Personal Information, please [contact us here](https://www.moneysense.ca/contact-us/)
