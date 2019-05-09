@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apppresser.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918164601id_/https%3A//apppresser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apppresser.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509212208id_/https%3A//apppresser.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - AppPresser
+# Privacy Policy | AppPresser
 
 This Privacy Policy governs the manner in which AppPresser / WP4, LLC. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://apppresser.com](http://apppresser.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by AppPresser / WP4, LLC..
 
@@ -63,6 +63,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [AppPresser / WP4, LLC.](http://apppresser.com/)  
 [http://apppresser.com](http://apppresser.com/)  
 (732)-749-9546  
-support@apppresser.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on January 06, 2014
