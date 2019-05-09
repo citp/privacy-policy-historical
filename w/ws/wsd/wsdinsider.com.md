@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdinsider.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227035919id_/https%3A//www.wallstreetdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdinsider.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509200013id_/https%3A//www.wallstreetdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wall Street Daily
 
@@ -12,31 +12,31 @@ Our **Website (**[https://wallstreetdaily.com](https://wallstreetdaily.com/) **)
 
 If you want to navigate directly to a particular section of this policy please click on the relevant link below.
 
- ** _What does Wall Street Daily do?_**
+**_What does Wall Street Daily do?_**
 
- ** _What personal information does Wall Street Daily collect and why?_**
+**_What personal information does Wall Street Daily collect and why?_**
 
- ** _Who does Wall Street Daily share my personal information with?_**
+**_Who does Wall Street Daily share my personal information with?_**
 
- ** _Legal basis for processing personal information_**
+**_Legal basis for processing personal information_**
 
- ** _How does Wall Street Daily keep my personal information secure?_**
+**_How does Wall Street Daily keep my personal information secure?_**
 
- ** _International data transfers_**
+**_International data transfers_**
 
- ** _Data retention_**
+**_Data retention_**
 
- ** _Your data protection rights_**
+**_Your data protection rights_**
 
- ** _Updates to this privacy policy_**
+**_Updates to this privacy policy_**
 
- ** _How to contact us_**
+**_How to contact us_**
 
- **What does Wall Street Daily do?**
+**What does Wall Street Daily do?**
 
 Wall Street Daily is a privately owned publishing company based in Baltimore, Maryland, USA.  We publish newsletters which provide insight and advice on investing.  You can learn more about Wall Street Daily in the “About Us” section of our Website.
 
- **What personal information does Wall Street Daily collect and why?**
+**What personal information does Wall Street Daily collect and why?**
 
 We collect information in order to allow us to provide the publications you have subscribed to, and to personalize and improve your experience of our services, Website, and communications with you.  All such information is held on secure servers.
 
@@ -44,7 +44,7 @@ We only use personal data you have given us or that we have collected from you w
 
 The personal information that we may collect about you broadly falls into two categories:
 
-  *  _ _Information that you provide__
+  * __Information that you provide__
 
 
 
@@ -52,7 +52,7 @@ We may ask you to provide personal information in order to provide our services 
 
 The personal information you are asked to provide, and the reasons why you are being asked to provide it, will be made clear to you at the point you are asked to provide it.
 
-  *  _ _Information that we collect automatically__
+  * __Information that we collect automatically__
 
 
 
@@ -64,7 +64,7 @@ We collect this information so we can better understand the visitors who come to
 
 Some of this information may be collected using cookies and similar technology.
 
- **Who does Wall Street Daily share my personal information with?**
+**Who does Wall Street Daily share my personal information with?**
 
 We may disclose your personal information to the following categories of recipients:
 
@@ -75,7 +75,7 @@ We may disclose your personal information to the following categories of recipie
 
 
 
- **Legal basis for processing personal information**
+**Legal basis for processing personal information**
 
 Our legal basis for collecting and using the personal information described above will depend on the information concerned and the context in which we collect it.
 
@@ -92,21 +92,21 @@ We fund our free daily editorial emails, _Sykes’ Penny Stock Millionaires and 
 
 If we collect and use your personal information in reliance on our legitimate interests, this will normally be to operate and improve our services, Website, and communications.  It would also include responding to your questions, undertaking marketing, or detecting or preventing illegal activities.  We may have other legitimate interests and, if appropriate, we will make clear to you at the relevant time what those legitimate interests are.
 
- **How does Wall Street Daily keep my personal information secure?**
+**How does Wall Street Daily keep my personal information secure?**
 
 We use appropriate technical and organizational measures to protect the personal information that we collect and process.  The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information.  Where we share data with third parties, we ensure that your data will be kept secure and will not be provided or sold to another party.
 
- **International data transfers**
+**International data transfers**
 
 Your personal information may be transferred to, and processed in, countries other than the country in which you are resident.  These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective). However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this privacy policy.
 
- **Data retention**
+**Data retention**
 
 We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
- **Your data protection rights**
+**Your data protection rights**
 
 You have the following data protection rights:
 
@@ -120,12 +120,12 @@ You have the following data protection rights:
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
- **Updates to this privacy policy**
+**Updates to this privacy policy**
 
 We may update this privacy policy from time to time in response to changing legal, technical or business developments. When we update our privacy policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material privacy policy changes if and where this is required by applicable data protection laws.
 
 You can see when this privacy policy was last updated by checking the “last updated” date displayed at the top of this privacy policy.
 
- **How to contact us**
+**How to contact us**
 
 If you have any questions or concerns about our use of your personal information, please contact us by clicking [here](https://www.wallstreetdaily.com/customer-feedback/).
