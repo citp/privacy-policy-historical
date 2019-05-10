@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkcameron.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901161510id_/http%3A//kirkcameron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkcameron.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510160401id_/http%3A//kirkcameron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions — Kirk Cameron
 
