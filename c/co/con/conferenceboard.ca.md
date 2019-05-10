@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferenceboard.ca privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515060137id_/http%3A//www.conferenceboard.ca/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferenceboard.ca privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510215401id_/https%3A//www.conferenceboard.ca/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ The Conference Board will identify to an individual the purposes for which perso
 
 However, there may be other circumstances that require such information to be collected and used. 
 
-The Conference Board of Canada collects the following personal information from individuals during the course of normal commercial activities. The information obtained includes name, business title, rank, function and general contact information, levels of interest for our services and topics, and transaction activity with The Conference Board of Canada. 
+The Conference Board of Canada collects the following personal information from individuals during the course of normal commercial activities. The information obtained includes, but is not limited to, name, business title, rank, function and general contact information, levels of interest for our services and topics, and transaction activity with The Conference Board of Canada. 
 
 This information is used primarily to determine an individual's entitlement to The Conference Board of Canada’s services. In addition, this information may be used to: 
 
@@ -72,7 +72,7 @@ This information is used primarily to determine an individual's entitlement to T
 
 The Conference Board of Canada collects and stores information through our web servers and persistent cookies. Gathered electronically, this information includes the pages visited, referral type, technology used and the Internet Protocol address. This information may be used for the purposes identified in this policy. 
 
-The Conference Board of Canada uses cookies. A cookie is a small piece of information that is sent to your computer when you access a Web site. There are two kinds of cookies. A session cookie is stored temporarily in your computer’s memory. A session cookie is destroyed as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved to your hard drive. 
+The Conference Board of Canada uses cookies and similar technologies, such as web beacons. A cookie is a small piece of information that is sent to your computer when you access a Web site. There are two kinds of cookies. A session cookie is stored temporarily in your computer’s memory. A session cookie is destroyed as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved to your hard drive. 
 
 We use session cookies on the Conference Board Web site, to allow you to gain access to a document you requested prior to being signed in. Persistent cookies are used to store your encrypted user ID and password, so that you won’t have to type it in each time that you access our e-Library. This persistent cookie is set if you click on “Remember my sign-in information.” Persistent cookies are also used by our web and marketing analytic services. 
 
@@ -100,6 +100,14 @@ Customer information is shared with external service providers only to the exten
 
 Personal information is retained only as long as necessary for the fulfillment of the purposes stated in this policy.
 
+### Children Under the Age of 18
+
+The Conference Board of Canada’s services are directed to the general public. The Conference Board does not knowingly collect information from children under 18 years of age or have any reasonable grounds for believing that children under the age of 18 are accessing the Conference Board’s services. In the event that the Conference Board learns that it has inadvertently collected personal information from a child under the age of 18, it will delete that information immediately. 
+
+### External Applications 
+
+The Conference Board of Canada may use external applications to facilitate the provision of its services, including, but without limitation, DoubleDutch Event Management software (collectively, "App" or "Apps"). Limited personal data may be collected from individuals through App use, including Internet Protocol address, browser software, operating system, and the time and date on which an App was accessed. Additionally, usage of the Apps may be tracked for statistical and research purposes by means of cookies. By accessing and using any App, individuals consent to the use of their personal information for the purposes set forth within this policy.
+
 ### Accuracy of Personal Information 
 
 Personal information is kept as accurate, complete and up to date as necessary for the purposes for which it is to be used. Individuals are encouraged to provide updates to their personal information as changes occur, to enable us to continue to provide services to them. 
@@ -114,7 +122,7 @@ Ottawa, ON K1H 8M7
 
 ### Safeguarding Personal Information
 
-Personal information, whatever its form, will be protected by security safeguards appropriate to the sensitivity of the information. The safeguards will protect personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. The measures of protection include: 
+Personal information, whatever its form, will be protected by security safeguards appropriate to the sensitivity of the information. The safeguards will, to the best of the Conference Board of Canada’s ability, protect personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. The measures of protection include: 
 
   * physical measures, for example, locking filing cabinets and restricted access to offices; 
   * organizational measures, for example, security passes and limiting access to the personal information on a “need-to-know” basis; 
