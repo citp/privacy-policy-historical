@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinmyband.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175535id_/https%3A//www.joinmyband.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinmyband.co.uk privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510141744id_/https%3A//www.joinmyband.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Musicians Wanted Ads at Join My Band
 
@@ -77,13 +77,16 @@ For more information on the cookies set by Google Analytics please visit [this p
 
 Our advertisers/payment services providers may also send you cookies. 
 
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: [http://www.google.com/privacy_ads.html](http://www.google.co.uk/privacy_ads.html). However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.
+We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: <https://adssettings.google.com/>. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin. Find out more about how Google uses information from sites or apps that use their services here: <https://policies.google.com/technologies/partner-sites>.
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 For more information on cookies and how to manage them, please visit <http://www.aboutcookies.org/>.
+
+**You can manage your personalised advertising privacy settings here:  
+Change privacy settings**
 
 ### (3) Using your personal information
 
@@ -112,6 +115,8 @@ We may use your personal information to:
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us. 
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
+
+If you would like to delete your Join My Band account you can do so using the "Delete your account" page found in the "My Account" section of the website.
 
 All our website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
@@ -149,9 +154,7 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
-(a) the payment of a fee (currently fixed at £10.00); and
-
-(b) the supply of appropriate evidence of your identity.
+(a) the supply of appropriate evidence of your identity.
 
 We may withhold such personal information to the extent permitted by law.
 
