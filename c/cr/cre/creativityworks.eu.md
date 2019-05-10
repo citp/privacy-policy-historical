@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativityworks.eu privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107230702id_/http%3A//www.creativityworks.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativityworks.eu privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510190446id_/http%3A//www.creativityworks.eu/privacy-policy) for the most accurate reproduction.*
 
 # CW! Privacy Policy - Creativity Works
 
