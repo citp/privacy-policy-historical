@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeintwo.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826084142id_/http%3A//lifeintwo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeintwo.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510085611id_/http%3A//lifeintwo.com/info/privacy) for the most accurate reproduction.*
 
 # Life in Two
 
