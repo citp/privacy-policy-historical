@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacocks.co.uk privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823093810id_/https%3A//www.peacocks.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacocks.co.uk privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510234141id_/https%3A//www.peacocks.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Peacocks
 
