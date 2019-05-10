@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001062624id_/http%3A//www.swellnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510102024id_/https%3A//www.swellnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Swellnet
 
-## You are here
-
-  1. [Home](https://web.archive.org/)
-  2. Privacy policy
-
-
-
-If you have any questions or concerns regarding our privacy policy please direct them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95b3b6a4a4a7aeb3b6a4a4a1aeb3b6a4a5a0aeb3b6a4a4adaeb3b6a5aca2aeb3b6a5acacaeb3b6a4a7a4aeb3b6a5a3a1aeb3b6a4a4a0aeb3b6a4a4acaeb3b6a4a5a4aeb3b6a4a5adaeb3b6a4a5adaeb3b6a4a4a5aeb3b6a4a5a4aeb3b6a4a4a3aeb3b6a5a1a3aeb3b6a5acacaeb3b6a4a4a4aeb3b6a4a5acae).
+If you have any questions or concerns regarding our privacy policy please direct them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#193f3a28282b223f3a28282d223f3a28292c223f3a282821223f3a29202e223f3a292020223f3a282b28223f3a292f2d223f3a28282c223f3a282820223f3a282928223f3a282921223f3a282921223f3a282829223f3a282928223f3a28282f223f3a292d2f223f3a292020223f3a282828223f3a28292022).
 
 You may also send a letter to: 
 
@@ -37,5 +30,3 @@ In some instances, advertisers will set cookies on our site. These cookies are n
 Many browsers are set to accept cookies. You may prefer to set your browser to refuse cookies. It is possible, however, that some areas of the site will not function properly if you do so.
 
 **This policy may be changed at any time at Swellnet's discretion.**
-
-[](https://web.archive.org/signup)
