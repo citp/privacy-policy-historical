@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107070433id_/https%3A//democrats.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510162054id_/https%3A//democrats.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Democrats
 
