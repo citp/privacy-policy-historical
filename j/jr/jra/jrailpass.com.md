@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrailpass.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925230444id_/https%3A//www.jrailpass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrailpass.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510093128id_/https%3A//www.jrailpass.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies - JRailPass
 
@@ -10,7 +10,7 @@ At  we take the privacy and security of our clients very seriously. That is why 
 
 is the company responsible for data protection and management through the website www.jrailpass.com, hereinafter known as the Web.
 
-The headquarters of , forthwith referred to as the Company, we or us, with VAT number B86899440, are located in
+The headquarters of , forthwith referred to as the Company, we or us, with VAT number B66394073, are located in
 
 8 am - 5 pm on business days
 
