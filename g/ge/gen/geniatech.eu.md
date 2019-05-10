@@ -1,97 +1,80 @@
-> *The following text is extracted and transformed from the geniatech.eu privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429081313id_/https%3A//www.geniatech.eu/eyetv/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniatech.eu privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510161900id_/https%3A//www.geniatech.eu/en-datenschutz) for the most accurate reproduction.*
 
-# Privacy statement | Geniatech EyeTV
+# Privacy Policy | Geniatech EyeTV
 
-This privacy statement (together with our [Terms and Conditions](https://www.geniatech.eu/eyetv/terms-and-conditions/)) sets out the privacy practices for  **Geniatech Europe GmbH**
+### 2\. Collection and saving the personal data and nature and purpose of its use
 
-Managing Director: Michael Decker  
-Kaiserstrasse 100  
-52134 Herzogenrath
+ _When visiting the website_
 
-Phone:0049-2407- 55290-80  
-Fax: 0049-2407- 55290-89  
-[GTESales@geniatech.com](mailto:GTESales@geniatech.com) (“GENIATECH”).
+If you use the website www.geniatech.eu purely for information purposes, i.e. you do not register or send us any other information, the browser used on your device automatically sends information to our website server. This information is saved temporarily in what is known as a log file. The following information is recorded without you doing anything and saved until it is deleted automatically:
 
-Questions, comments and requests about this privacy policy are welcomed and if you feel that GENIATECH is not abiding by its posted privacy policy, you should immediately contact GENIATECH at GTELegal@geniatech.com by email and we will try to resolve your concerns.
+  * IP address of the querying computer,
+  * Date and time of access,
+  * Time zone difference to Greenwich Mean Time (GMT),
+  * Name and URL file accessed,
+  * Access status/HTTP status code,
+  * Volume of data transferred,
+  * Website from which you accessed our site (referrer URL),
+  * Browser used,
+  * Operating system on your computer and its interface,
+  * Name of your access provider,
+  * Browser software language and version.
 
- **Information Collection and Use**
 
-For the purposes of the Data Protection Act 1998 (“DPA”), the data controller is GENIATECH.
 
-GENIATECH is committed to protecting and respecting your privacy.
+This data is processed by us for the following purposes:
 
-We may collect and process the following data about you:
+  * To guarantee a seamless connection is established to the website,
+  * To guarantee user-friendly use of the website,
+  * To evaluate system security and stability
+  * and for other administrative purposes.
 
-◦    Information that you provide by filling in forms on our site www.GENIATECHshop.co.uk.
 
-This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem to our site.
 
-◦    If you contact us we may keep a record of that correspondence.
+The legal basis for this data-processing is article 6, para. 1, clause 1, letter f, GDPR. The purposes of the data collection above are based on our justified interests. Under no circumstances will we use data collected to derive information about you.
 
-◦    Details of transactions you carry out through our site and of the fulfilment of your orders.
+When you visit our website, we also use cookies and analysis services. We make a distinction between cookies which are technically necessary and those which are for the purposes of statistical recording and optimisation. The latter are used only if you have consented to this. You can find more details about this in sections 4 and 5 of this privacy policy.
 
-◦    Details of your visits to our site and the resources that you access.
+ _If you subscribe to our newsletter_
 
-GENIATECH will not sell, share, transfer or rent information collected on this site other than as disclosed in this statement.
+If you have provided explicit consent in accordance with art. 6, para 1, clause 1, letter a GDPR, we use your email address to send you our newsletter on a regular basis. Entering an email address is sufficient to receive the newsletter. Entering further data marked as separate is voluntary, and this data is used to provide more targeted information.
 
-Registration
+You can unsubscribe at any time, for example, using the link at the end of every newsletter. Alternatively, you can send a request to unsubscribe by email at any time to datenschutz@eu-geniatech.com.
 
-During registration you are required to give your contact information (such as name and email address). This information will be used to contact you about our products and services.
+ _If you use our contact/support or complaint form_
 
-Log Files And Cookies
+If you have any questions or support requests, or in the event of a complaint, we offer you the option of making contact with us through the forms provided on the website. This requires you to provide at least a valid e-mail address, so we know who the question comes from and we can respond. As a rule, further information can be provided on a voluntary basis. Further information is required for support requests and complaints.
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. This is statistical data about our users’ browsing actions and patterns, and is not linked to any personally identifiable information.
+Data processing for the purposes of making contact with us is in accordance with art. 6, para 1, clause 1, letter a GDPR on the basis of the consent you have provided voluntarily, or in accordance with art. 6, para 1, clause 1, letter b GDPR for support requests or complaints.
 
-For the same reason, GENIATECH may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalized service.
+The personal data collected by us for the use of the relevant forms is automatically deleted once your enquiry has been resolved.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. [However, if you select this setting you may be unable to access certain parts of our site.] Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log onto our site.
+ _If you use our web shop_
 
-Uses Made Of The Information
+If you wish to place an order in our web shop, you need to provide personal data in order for us to process your order and conclude a contract. The mandatory information required to process the contracts is marked separately, further information is voluntary. We process the data provided by you in order to execute your order. To do this, we may forward your payment information to our company bank. The legal basis for this is article 6, para. 1, clause 1, letter b, GDPR.
 
-GENIATECH uses information held about you in the following ways:
+You have the option of creating a customer account, which allows us to save your data for further purchases in the future. If you create an account under “My Account”, the data you provide is saved on a revocable basis. All further data, including your user account, can be deleted in the customer area at any time.
 
-◦    To ensure that content from our site is presented in the most effective manner for you and for your computer.
+We can also process the data provided by you in order to inform you about other interesting products in our portfolio or send you emails with technical information.
 
-◦    To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+Business and tax law regulations stipulate that we must save your address, payment and order data for a period of ten years. However, after two years, processing is restricted such that your data is only used in order to comply with the statutory regulations.
 
-◦    To carry out our obligations arising from any contracts entered into between you and GENIATECH.
+In order to prevent unauthorised access by third parties to your personal data, especially your financial data, the order process is encrypted using TLS technology.
 
-◦    [To allow you to participate in interactive features of our service, when you choose to do so.]
+Of course, you can object to your personal data being used for advertising and data analysis purposes when using our web shop at any time. You can use the contact details above to inform us if you no longer wish to receive advertising: datenschutz@eu-geniatech.com
 
-◦    To notify you about changes to our service.
+ _If you use further functions and services on our website_
 
-GENIATECH may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and GENIATECH (or they) may contact you about these by electronic means or telephone (email).
+As well as using our website for information only, and the newsletter and forms options, we offer various services which you can use if you are interested. To do this, you generally need to enter further personal data which we require and use to provide the relevant service.
 
-If you are an existing customer, GENIATECH will only contact you by electronic means with information about goods and services similar to those which were the subject of a previous sale to you.
+Sometimes, we use external service providers to process your data. They have been carefully selected and commissioned by us, are bound by our instructions and are regularly checked.
 
-If you are a new customer, and where GENIATECH permits selected third parties to use your data, GENIATECH (or they) will contact you by electronic means only if you have consented to this.
+We can also pass your personal data on to third parties where we are offering promotions, competitions, contracts or similar services in conjunction with partners. You can find more detailed information on this when you provide your personal data or in the small print at the bottom of the service description.
 
-If you do not want GENIATECH to use your data in this way, or pass your details onto third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form or registration form).
+If our service provider or partner has their headquarters in a country outside the European Economic Area (EEA), we will inform you of the consequence of these circumstances in the description of the offer.
 
-Links
+If you have provided consent to the processing of your data when using further functions and offers on our website, you can revoke this at any time. Once expressed to us, this revocation has an impact on our rights to process your personal data.
 
-This web site contains links to other sites. Please be aware that GENIATECH is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+If our processing of your personal data for the use of further functions and offers on our website relies on weighing up interests, you can submit an objection to this processing. This applies especially if the processing is not required for the fulfilment of the contract with you, which we will always highlight in the following description of the functions. If you do revoke your consent in this way, we ask you to set out your reasons why we may not process your personal data in the ways we have described. If your objection is justified, we will check the situation and either discontinue or modify data processing or set out to you the binding proprietary reasons for which we are continuing with the processing.
 
-Security
-
-This web site uses technological and operational procedures to protect our users’ information. When you submit personal information via the web site, this is protected both online and offline.
-
-When our registration form asks you to enter personal information we use all reasonable efforts to protect user-information online and offline. All of our users’ information, not just personal information, has restricted access. Our employees must use password-protected log-in screens to gain access to restricted information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure your information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
-
-The DPA gives you the right to access information held about you. You may at any time request a copy of the data we hold on you by sending an email to uk_privacy@GENIATECH.com.
-
-Disclosure Of Your Information
-
-GENIATECH may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006.
-
-GENIATECH may disclose your information to third parties:
-
-◦    in the event that GENIATECH sells or buys any business or assets, in which case GENIATECH may disclose your personal data to the prospective seller or buyer of such business or assets.
-
-◦    if GENIATECH or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-
-◦    if GENIATECH Is under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to apply its [terms of use](http://www.medion.com/gb/electronics/MedionCmsLightbox.html?contentCode=footer_guidelines), or our [terms and conditions of supply](http://www.medion.com/gb/electronics/MedionCmsLightbox.html?contentCode=footer_agb) and other agreements, or to protect the rights, property or safety of GENIATECH, its customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-Notification Of Changes
-
-If we decide to change our privacy policy, we will post those changes on our Homepage or, where necessary, email notice of changes directly to our users, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. You will have a choice as to whether or not we use your information in this different manner. We will use information in accordance with the changed privacy policy unless you notify us that you wish to unsubscribe.
+Of course, you can object to your personal data from the use of further functions and offers on our website being used for advertising and data analysis purposes at any time. You can use the contact details above to inform us if you no longer wish to receive advertising: datenschutz@eu-geniatech.com
