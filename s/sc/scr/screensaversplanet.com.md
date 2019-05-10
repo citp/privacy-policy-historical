@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screensaversplanet.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004180735id_/http%3A//www.screensaversplanet.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screensaversplanet.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510152001id_/http%3A//www.screensaversplanet.com/about/terms) for the most accurate reproduction.*
 
 # Terms of use - Screensavers Planet
 
