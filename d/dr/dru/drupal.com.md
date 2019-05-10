@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drupal.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826181727id_/https%3A//www.acquia.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupal.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510042754id_/https%3A//www.acquia.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Acquia
+# Privacy Policy
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Acquia complies with the relevant regulation applying to personal data, includin
 
 ## EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
 
-Acquia complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the United States Department of Commerce regarding the collection, use, and retention of personally identifiable information transferred from the European Union and Switzerland to the United States. Consistent with our commitment to protect personally identifiable information about individuals in the European Union, Acquia has certified to the Department of Commerce that it adheres to the [Privacy Shield Principles ](https://www.privacyshield.gov/article?id=Requirements-of-Participation)of Notice, Choice, and Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Privacy Shield Principles” or the “Principles”). Acquia’s EU-U.S. and Swiss-U.S. Privacy Shield Certification also extends to personally identifiable information that we receive directly through the Sites. More information on the EU-U.S. and Swiss-U.S. Privacy Shield and Acquia’s scope of participation in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks are available at http://www.privacyshield.gov/welcome.
+Acquia complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the United States Department of Commerce regarding the collection, use, and retention of personally identifiable information transferred from the European Union, the United Kingdom and Switzerland to the United States. Consistent with our commitment to protect personally identifiable information about individuals in the European Union, Acquia has certified to the Department of Commerce that it adheres to the [Privacy Shield Principles ](https://www.privacyshield.gov/article?id=Requirements-of-Participation)of Notice, Choice, and Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Privacy Shield Principles” or the “Principles”). Acquia’s EU-U.S. and Swiss-U.S. Privacy Shield Certification also extends to personally identifiable information that we receive directly through the Sites. More information on the EU-U.S. and Swiss-U.S. Privacy Shield and Acquia’s scope of participation in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks are available at http://www.privacyshield.gov/welcome.
 
 If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
@@ -110,7 +110,7 @@ To request updates or changes to your information or your preferences regarding 
 
 You will be notified prior to when your personally identifiable information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
-Please note that if you opt out of receiving our promotional or marketing emails, you may still receive certain service-related communications from us, such as administrative and services announcements and messages about your account.
+Please note that if you opt out of receiving our promotional or marketing emails, you may still receive certain service-related communications from us, such as administrative and services announcements and messages about your account. Occasionally these materials are sent from a different email domain: marketing@theacquiateam.com. 
 
 ## Employment Opportunities
 
