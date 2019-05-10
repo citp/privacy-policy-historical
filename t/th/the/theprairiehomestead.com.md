@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theprairiehomestead.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084407id_/http%3A//www.theprairiehomestead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprairiehomestead.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510153341id_/https%3A//www.theprairiehomestead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • The Prairie Homestead
 
-Privacy is a big deal in our day and age, and we take it very seriously.
+Your privacy is of the utmost importance to us here at The Prairie Homestead.
 
 The Prairie Homestead (“Website”) is governed by the following privacy policy.
 
@@ -22,7 +22,7 @@ We respect your privacy and are committed to protecting it. The purpose of this 
 
 **_Third-Party Use of Personal Information_**
 
-The Website may provide personal information to an applicable third party in order to provide services. Currently, the Website uses the services of Aweber for delivery of email updates and newsletters. Aweber’s use of your personal information is subject to Aweber’s privacy policy.
+The Website may provide personal information to an applicable third party in order to provide services. Currently, the Website uses the services of ConvertKit for delivery of email updates and newsletters. ConvertKits use of your personal information is subject to ConvertKit’s privacy policy.
 
 Your personal information is not shared with any other third-party applications.
 
