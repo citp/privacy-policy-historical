@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendsite.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202082724id_/https%3A//dropspace.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsite.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510044350id_/https%3A//dropspace.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | dropspace.io
 
