@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoserve.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020175813id_/https%3A//www.infoserve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoserve.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510160038id_/https%3A//www.infoserve.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Infoserve
 
@@ -50,10 +50,10 @@ A cookie is a small file of letters and numbers that we store on your browser or
 
 We use the following cookies:
 
-  * **Strictly necessary cookies.** These are cookies that are required for the operation of our websites. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
-  * **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our websites. This helps us to improve the way our websites work, for example, by ensuring that users are finding what they are looking for easily.
-  * **Functionality cookies.** These are used to recognise you when you return to our websites. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-  * **Targeting cookies.** These cookies record your visit to our websites, the pages you have visited and the links you have followed. We will use this information to make our websites and the advertising displayed on them more relevant to your interests. We may also share this information with third parties for this purpose.
+  *  **Strictly necessary cookies.** These are cookies that are required for the operation of our websites. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  *  **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our websites. This helps us to improve the way our websites work, for example, by ensuring that users are finding what they are looking for easily.
+  *  **Functionality cookies.** These are used to recognise you when you return to our websites. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  *  **Targeting cookies.** These cookies record your visit to our websites, the pages you have visited and the links you have followed. We will use this information to make our websites and the advertising displayed on them more relevant to your interests. We may also share this information with third parties for this purpose.
 
 
 
