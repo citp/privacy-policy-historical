@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trannyaccess.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001041823id_/http%3A//www.procustomersupport.com/privacy.php%3Fsite%3Dtrannyaccess.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannyaccess.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510055806id_/http%3A//www.procustomersupport.com/privacy.php%3Fsite%3Dtrannyaccess.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
