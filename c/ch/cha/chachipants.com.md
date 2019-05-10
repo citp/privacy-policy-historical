@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chachipants.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103164326id_/http%3A//www.chachimomma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chachipants.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510191635id_/http%3A//www.chachimomma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
