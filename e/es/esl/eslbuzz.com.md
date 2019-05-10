@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eslbuzz.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002040303id_/https%3A//www.eslbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslbuzz.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510103645id_/https%3A//www.eslbuzz.com/privacy) for the most accurate reproduction.*
 
-# Privacy - ESL Buzz
+# Privacy - ESLBuzz Learning English
 
 **Privacy Policy**
 
