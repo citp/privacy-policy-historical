@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khabarindia.in privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323003902id_/https%3A//www.khabarindia.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khabarindia.in privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510064158id_/https%3A//www.khabarindia.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Khabar India
+# Privacy Policy -
 
 Privacy Policy
 
