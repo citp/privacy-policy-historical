@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newburycomics.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230184431id_/https%3A//www.newburycomics.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newburycomics.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510164904id_/https%3A//www.newburycomics.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Newbury Comics
 
@@ -11,6 +11,8 @@ When you purchase something from our store, as part of the buying and selling pr
 When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
 Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
+
+Mobile marketing (if applicable): With your permission, we may send you text messages about our store, new products and other updates. Read our [Mobile Marketing Terms & Conditions](https://www.newburycomics.com/pages/textinfo).
 
 **SECTION 2 - CONSENT**
 
