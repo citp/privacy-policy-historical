@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819180641id_/http%3A//www.traveltowork.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510094514id_/http%3A//www.traveltowork.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel to Work
 
@@ -27,5 +27,3 @@ Our site may contain links to other websites of interest. However, once you use 
 ## Privacy Contact Information
 
 Should you have any questions, concerns, or comments about our privacy policy, please contact us by email  directly at **  webmaster @ traveltowork.net.**
-
-Travel to Work is an useful travel blog sharing travel tips and travel destinations.
