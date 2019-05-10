@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyvector.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923032617id_/https%3A//skyvector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyvector.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510201055id_/https%3A//skyvector.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SkyVector
 
@@ -22,4 +22,4 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 ### Delete my Account ** **
 
-The information stored at SkyVector includes username, email address, and IP address. If you wish to file a flight plan, SkyVector also collects phone numbers, addresses, airport information, airplane information including tail number and identifying characterics. Anytime you want to cancle your account, click cancle your account at the end of the user profile page. If you want to do a full GDPR wipe, to have the data or account deleted from SkyVector, send an email to [delete@skyvector.com](mailto:delete@skyvector.com) with **Delete my Account** in the subject line. 
+The information stored at SkyVector includes username, email address, and IP address. If you wish to file a flight plan, SkyVector also collects phone numbers, addresses, airport information, airplane information including tail number and identifying characterics. Anytime you want to cancle your account, click cancle your account at the end of the user profile page. If you want to do a full GDPR wipe, to have the data or account deleted from SkyVector, send an email to [delete@skyvector.com](mailto:delete@skyvector.com) with **Delete my Account** in the subject line and your username in the body. 
