@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lmtdefense.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920121653id_/http%3A//www.lmtdefense.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmtdefense.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510105004id_/https%3A//lmtdefense.com/privacy-policy) for the most accurate reproduction.*
 
-# Lewis Machine & Tool Company
+# Lewis Machine & Tool Company | User Privacy Policy
 
-Privacy Statement: Information Collection, Use, and Sharing We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you.
+### Information Collection, Use, and Sharing
+
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you.
 
 We will not sell or rent this information to anyone.
 
