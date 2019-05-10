@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auction.co.uk privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809173428id_/http%3A//www.allsop.co.uk/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction.co.uk privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510104633id_/https%3A//www.allsop.co.uk/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Allsop
 
@@ -12,7 +12,7 @@ This website is not intended for children and we do not knowingly collect data r
 
 It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
 
-This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the policy [here](http://www.allsop.co.uk/resources/2018/05/180522-Allsop-LLP-Privacy-Notice-PDF-version.pdf). Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the policy [here](https://www.allsop.co.uk/resources/2018/05/180522-Allsop-LLP-Privacy-Notice-PDF-version.pdf). Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
 
   1. **_IMPORTANT INFORMATION AND WHO WE ARE_**
 
