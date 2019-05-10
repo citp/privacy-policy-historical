@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtimebuddy.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912093340id_/https%3A//www.worldtimebuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtimebuddy.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510200010id_/https%3A//www.worldtimebuddy.com/privacy) for the most accurate reproduction.*
 
 # Privacy - World Time Buddy
 
