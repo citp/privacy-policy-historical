@@ -1,103 +1,142 @@
-> *The following text is extracted and transformed from the theresurgent.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103212611id_/http%3A//theresurgent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theresurgent.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510171834id_/https%3A//theresurgent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & DMCA | The Resurgent
+# Privacy Policy - The Resurgent
 
-Last updated: December 28, 2015
+## Overview
 
-Resurgent Media, LLC (“us”, “we”, or “our”) operates the http://www.theresurgent.com website (the “Service”).
+We encourage all users of the The Resurgent website to read our privacy policy in full. But here’s a quick rundown of the key themes in this policy.
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+  * We receive personal information from you in a variety of ways. This information can come from what you give us directly, such as through a subscription, a newsletter sign-up, or a website comment. This information can also come from what you do not give us directly, such as data gathered by third parties (including advertisers) based on your browsing habits.
+  * We use your behavior while on the The Resurgent website to serve you additional content that you might like. In other words, we match your content selections with similar selections that you have not yet read. We hope this makes your website experience more rewarding.
+  * You can control the information you give us. You can unsubscribe from any e-mail series we send you. (You can do this directly within the e-mail.) You can opt out of targeted advertising as well.
+  * We encourage you to contact us at contact -at- theresurgent.com with any questions you might have about our Privacy Policy and our practices regarding your personal information. European Union citizens may also contact us to request information on personal data that is being tracked or stored. Note: The Resurgent, Inc., does not track and/or store any personally identifiable information (PII) on non-U.S. users.
+  * By subscribing to any of our digital-product offerings you accept our terms and agree to be tracked via login and other on-site actions deemed appropriate by the The Resurgent to deliver you the digital service you have requested.
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.theresurgent.com
 
-**Information Collection And Use**
+## General Statement
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name (“Personal Information”).
+This privacy policy exists to help you understand how information submitted will be treated when you log on to and/or use our website (www.theresurgent.com).
 
-We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+This privacy policy applies only to www.theresurgent.com. This policy does not apply to information collected through any other website or to the practices of companies that The Resurgent does not control. Please note that our site may contain links to other websites. For example, if you click on an advertisement on The Resurgent and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.
 
-**Log Data**
+## General Statement about Data Collection & Targeted Advertising
 
-We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+The Resurgent website permits data collection for interest-based advertising. We and third parties may use cookies, web beacons or pixels, mobile ad identifiers, and other tracking technologies to facilitate site navigation, to better understand and improve our services, and to determine or improve the advertising shown to you on this website or elsewhere. We may use your information to facilitate the delivery of targeted ads and promotions on behalf of ourselves and advertisers on this website. This information may be combined with information collected across different websites, online services, and other linked or associated devices.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
+We and third parties may use technologies called beacons or pixels that communicate information from your device to a server. Beacons can be embedded in online content, videos, and e-mails, and can allow a server to read certain types of information from your device, know when you have viewed particular content or a specific e-mail message, determine the time and date on which you viewed the beacon, and determine the IP address of your device. We and third parties use beacons for a variety of purposes, such as analyzing the use of our services and providing content and ads that are of greater relevance to you.
 
-**Cookies**
+## The Information We Collect
 
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+ **The information you provide directly to us:**
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+You are not required to provide information directly to us in order to view The Resurgent. However, when you use certain functions of the website, such as when you register for certain services, access certain content or features, or directly contact us, we may ask you to provide information, including:
 
-If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+  * contact information, such as name, email address, postal address, phone number, and mobile number;
+  * username and password;
+  * information posted in community discussions and other interactive online features;
+  * search queries conducted on the The Resurgent website; and
+  * correspondence you send to us.
 
-**DoubleClick Cookie**
 
-Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
+ **Information automatically collected when you visit and interact with the  The Resurgent website:**
 
-**Do Not Track Disclosure**
+When you visit and interact with The Resurgent, certain information may be collected automatically, including:
 
-We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+  * your computer’s Internet Protocol (IP) address;
+  * your browser type and operating system;
+  * the web pages you were visiting immediately before and after you came to the Site;
+  * activities within community discussions;
+  * web pages and advertisements that you view, and links that you click on;
+  * your bandwidth speed and information about the software programs that are installed on your computer;
+  * aggregated data about email click-through rates and user video viewing;
+  * standard server log information; and
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies.
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-**Service Providers**
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+ **Information we collect from other sources:**
 
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:
 
-**Communications**
+  * if you access third-party social networking services (such as Facebook Connect or Twitter) through the The Resurgent website, your username and connection lists for those services;
+  * demographic data, such as age range, gender, and interests;
+  * advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and
+  * unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-**Compliance With Laws**
 
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+Please note that we may combine the information that we collect with information we obtain from third-party sources.
 
-**Security**
+## How We Use The Information We Collect
 
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+ **E-mail Communications:**
 
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+We may use the information that we collect to send you e-mail communications, such as editorial updates, information about your account or changes to The Resurgent, and promotional messages about our own or our marketing partners’ products and services. If you signed up for one of our e-mail newsletters, we also will send you the newsletter that you requested.
 
-**International Transfer**
+ **Advertising:**
 
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+In order to provide our readers with free access to our content, we display advertisements on the The Resurgent website, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach The Resurgent visitors who are most interested in their products, and you see advertising for products or services in which you may be interested.
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+Third-party advertisers and advertising platforms also may serve targeted ads on the The Resurgent website. Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+ **User Accounts:**
 
-**Links To Other Sites**
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we may delete comments per our comment-moderation guidelines in order to maintain civil and open discussions.
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+ **Request Fulfillment:**
 
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer-service requests or to enable you to participate in features on the site such as surveys, polls, sweepstakes, and message boards.
 
-**Children’s Privacy**
+## Information Sharing
 
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
+The Resurgent values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
 
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+  * We may employ third parties to perform The Resurgent-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
+  * We may share information gathered from our subscribers with select third-party vendors who assist us and other parties with promoting and marketing products. This might include customer research, management of customer databases, promotional mailings or other targeted promotions. This information may include your name, address, or e-mail address.
+  * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personalinformation in public activities or submissions.
 
-**Changes To This Privacy Policy**
 
-This Privacy Policy is effective as of December 28, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the The Resurgent website.
 
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+## Third-party Service
 
-**Contact Us**
+To customize your experience on the The Resurgent website and to simplify our registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us.
 
-If you have any questions about this Privacy Policy, please contact us.
+In addition, if you connect to a Facebook account, your experience on the site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.
 
-**DMCA**  
-For DMCA violations, please email mail at theresurgent dot com
+Please note that you may disconnect third-party accounts at any time. To modify your Facebook privacy settings, click [here](https://www.facebook.com/help/325807937506242). To modify your Twitter privacy settings, click [here](https://support.twitter.com/articles/20169886).
 
-  
+Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.
 
+## Your Account
+
+ **Deactivating your account:**
+
+You can deactivate your account at any time (please use the service through which you signed in). When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Resurgent has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities.
+
+ **Cookies and other technologies:**
+
+As discussed above, cookies and other technologies, as well as third-party advertisers, may collect information about you.
+
+  *  _Cookies:_ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser.
+  *  _NAI:_ In addition, many third-party advertising networks are members of the Network Advertising Initiative. To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please go [here](http://www.networkadvertising.org/choices/).
+  *  _Flash Cookies_ : You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the BetterPrivacy add-on to automatically delete your Flash cookies every time you close your browser.
+
+
+
+If you opt out of these technologies, you will continue to see advertising displayed on The Resurgent, but the advertising may not be targeted to your interests.
+
+Please remember that we do not have access to, or control over, advertiser or service-provider cookies, and the information practices of third parties are not covered by this privacy policy.
+
+## Confidentiality & Security
+
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.
+
+Please note that no data transmission or storage can be guaranteed to be 100 percent secure. We want you to feel confident using the The Resurgent website, but we cannot ensure or warrant the security of any information you transmit to us.
+
+## Privacy-Policy Changes
+
+We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the effective date below. We will notify you of any material changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary e-mail address specified in your account.
