@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milled.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911170500id_/https%3A//milled.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milled.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510020658id_/https%3A//milled.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Milled
 
