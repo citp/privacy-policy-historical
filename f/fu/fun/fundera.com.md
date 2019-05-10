@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundera.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824025219id_/https%3A//www.fundera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundera.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510173621id_/https%3A//www.fundera.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fundera
 
@@ -36,11 +36,9 @@ By accessing the Site and by using the Service, you agree to, and are bound by, 
   
 ·         _Registration Information_ : When you register for the Service, you will be asked for basic registration information, such as a username and password.
 
-·         _Identification Information_ : You may also be asked to provide identification information to confirm your identity, including your first and last name and certain financial information.
+·         _Application Information_ : You may also be asked to provide identification information to confirm your identity, including your first and last name and certain financial information, as well as additional information about your business that will be provided to third-party sources of funding in connection with your applications for funding from those third-party sources, including certain financial information and other documents required by the third-party source of funding to complete an application.
 
-·         _Application Information_ : You may also be asked to provide additional information that will be provided to third-party sources of funding in connection with your applications for funding from those third-party sources, including certain financial information and other documents required by the third-party source of funding to complete an application.
-
-·         _Verified DAta_ : Verified Data: You may also be asked to provide tax returns or to synch Fundera to your bank’s transactional data. Verified Data will be used to ensure the Application Information is accurate. Verified data will automatically substitute the inconsistent Application Information with information from the Verified Data.
+·         _Verified Data_ : Verified Data: You may also be asked to provide tax returns or to synch Fundera to your bank’s transactional data. Verified Data will be used to ensure the Application Information is accurate. Verified data will automatically substitute the inconsistent Application Information with information from the Verified Data.
 
 ·         _Third-Party Credentials_ : You may also enter in certain passwords, usernames, account numbers, and other account information for third-party sites and Internet services (" ** _Third-Party Sites_** ").
 
@@ -58,11 +56,11 @@ By accessing the Site and by using the Service, you agree to, and are bound by, 
   
 2.               _Use of Your Information_.  We may use the information you provide about yourself, information about your Third-Party Sites, and information provided to us from our referral partners to fulfill your requests for our Services, to respond to your inquiries about our Services, and to offer you other products, programs, or services that we believe may be of interest to you.  We may use your information to complete transactions you request, to verify the existence and condition of your accounts, to correct inaccurate Application Information, or to assist with a transaction.  For example, we may use the account information you provide or that we collect from Third-Party Sites to confirm your accounts are valid and, as applicable, to access funds from your accounts in connection with fulfillment of the Services.  We may also use your information to improve and personalize the Services and any related services, including future products and services.  For example, we may use your information to pre-fill form fields on the Sites for your convenience.  
   
-3.               _Sharing of Information_.  We may share personal information about you as follows:
+3.               _Sharing of Information_.  We may share personal information about you in the following circumstances:
 
 |  |   
   
-·         With your consent, including to third-party credit reporting services when we request a credit report on your behalf or to any potential source of funding to whom you instruct us to identify you through the Services;
+·         With your consent, including to third-party credit reporting services when we request a credit report on your behalf or to any potential third party source of funding to whom you instruct us to identify you through the Services;
 
 ·         With third parties to provide, maintain, and improve our Services;
 
