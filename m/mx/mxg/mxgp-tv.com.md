@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxgp-tv.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108142214id_/https%3A//www.mxgp-tv.com/info/privacy-policy%3Flocale%3DEN_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxgp-tv.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510083904id_/https%3A//www.mxgp-tv.com/info/privacy-policy%3Flocale%3DEN_en) for the most accurate reproduction.*
 
 # Privacy Policy - MXGP-TV.com
 
@@ -56,7 +56,7 @@ The Services provided by Youthstream are not intended for minors under the age o
 
 Youthstream does not collect Personal Data from people under the age of 18 or below the applicable age limit in consideration of the national laws and regulations applicable to users (the "Age Limit").
 
-If the user is below the Age Limit, he must not use the Service and must not provide any Personal Data to Youthstream. If you are a parent of a child below the Age Limit and you know that your child has provided Personal Data to Youthstream, you must contact Youthstream at contact@youthstream-media.com. In this case, the user may request the exercise of his access, rectification, cancellation, and/or oppose the processing of Personal Data.
+If the user is below the Age Limit, he must not use the Service and must not provide any Personal Data to Youthstream. If you are a parent of a child below the Age Limit and you know that your child has provided Personal Data to Youthstream, you must contact Youthstream at mxgptv@mxgp.com. In this case, the user may request the exercise of his access, rectification, cancellation, and/or oppose the processing of Personal Data.
 
 ### 7) Data Retention and Archive
 
@@ -70,19 +70,18 @@ The user has the right to oppose, in whole or in part: a) for legitimate reasons
 
 At any time, the user has the right to request to Youthstream the cancellation or to block Data Processed breacking the applicable law and to oppose their processing for legitimate reasons.
 
-All requests addressed to Youthstream by writing to: contact@youthstream-media.com.
+All requests addressed to Youthstream by writing to: mxgptv@mxgp.com.
 
 ### 9) Holder and manager of the processing
 
 The Data Controller is
 
-Youthstream Media SA  
-Located in World Trade Center II  
-Rte de Pré-Bois 29  
-PO BOX 829,  
-1215 Geneva 15 Airport Switzerland.
+NV3A SAM / Youthstream Organisation
 
-The Data Processor of Personal Data on behalf of the Company is the current President, domiciled for the assignment at the aforementioned registered office. The Data Processor is responsible for replying to the data subject in relation to the exercise of the rights indicated above; any request relating to Personal Data processed by Youthstream may therefore be addressed to the aforementioned Manager at the registered office of the Company, or by writing to the e-mail address: contact@youthstream-media.com. The updated list of Managers is available at the Company and is knowable through a specific request formulated to the aforementioned e-mail address.
+Gildo Pastor Center - Bloc B - Etage 9  
+7, Rue du Gabian, 98000 Monaco, Monte Carlo
+
+The Data Processor of Personal Data on behalf of the Company is the current President, domiciled for the assignment at the aforementioned registered office. The Data Processor is responsible for replying to the data subject in relation to the exercise of the rights indicated above; any request relating to Personal Data processed by Youthstream may therefore be addressed to the aforementioned Manager at the registered office of the Company, or by writing to the e-mail address: mxgptv@mxgp.com. The updated list of Managers is available at the Company and is knowable through a specific request formulated to the aforementioned e-mail address.
 
 ### 10) Changes
 
