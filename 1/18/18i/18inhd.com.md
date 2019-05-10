@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18inhd.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107015753id_/http%3A//www.18inhd.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33450%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18inhd.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510144103id_/http%3A//www.18inhd.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33450%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
