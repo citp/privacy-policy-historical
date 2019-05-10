@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthizen.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106221325id_/http%3A//www.healthizen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthizen.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510211320id_/http%3A//www.healthizen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthizen
 
