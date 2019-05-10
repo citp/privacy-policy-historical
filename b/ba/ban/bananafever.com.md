@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the bananafever.com privacy policy that was archived on 2018-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180205041355id_/http%3A//bananafever.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananafever.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510162623id_/https%3A//bananafever.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy/Disclaimer - BananaFever
+# BananaFever - 汝工作室 | Privacy Policy/Disclaimer
+
+This website contains information, links, images and videos of sexually explicit material. If you are under the age of 21 OR if such material offends you OR if it’s illegal to view such material in your area please exit this site NOW.
+
+We are a legitimate adult entertainment company founded in Los Angeles, California. We DO NOT sell our membership to viewers from countries like China or North Korea where adult content is illegal. Our payment gateway is blocked by those countries. LEAVE NOW if you are from those regions. You will NOT be granted access as member. Thank you for all your interest. We ONLY make our full version videos available on this site. If you see our full version videos anywhere else, they are ALL pirates. We DO NOT work with any other sites.
+
+We currently have 3 Asian male talent volunteers. We are always open to get more Asian male talent volunteers. Please apply by emailing to info@bananafever.com. Please note that the male talent position is a **volunteer** position. It is an **UNPAID** position. Please also make sure you are an **American citizen** and live in **Southern California** before applying. Speaking Chinese or Korean fluently is preferred. Penis size **6.5″** above preferred. Fit physique preferred!
 
 This document details important information regarding the use and disclosure of User Data collected on bananafever.com  The security of your Data is very important to bananafever.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.  This site expressly and strictly limits its membership and/or viewing privileges to adults 21 years of age and over or having attained the age of majority in their community. All persons who do not meet this criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
@@ -20,5 +26,3 @@ This document details important information regarding the use and disclosure of 
 
 
 Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.  Unfortunately, the transmission of information via the Internet is not completely secure. Bananafever.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to bananafever.com and you do so at your own risk.
-
-This website contains information, links, images and videos of sexually explicit material. If you are under the age of 21 OR if such material offends you OR if it’s illegal to view such material in your area please exit this site NOW.
