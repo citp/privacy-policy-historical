@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hakkasangroup.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023015224id_/https%3A//hakkasangroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hakkasangroup.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510094904id_/https%3A//hakkasangroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hakkasan Group
 
