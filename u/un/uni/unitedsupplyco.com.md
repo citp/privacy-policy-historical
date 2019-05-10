@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedsupplyco.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109005926id_/http%3A//www.unitedsupplyco.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedsupplyco.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510083948id_/http%3A//www.unitedsupplyco.com/index/privacy) for the most accurate reproduction.*
 
 # United Supply Company - Privacy Policy
 
