@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wplocker.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231085039id_/http%3A//www.wplocker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wplocker.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511011248id_/http%3A//www.wplocker.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy » WPLOCKER.COM - FREE WORDPRESS THEMES & PLUGINS
+# Privacy Policy » WPLOCKER.COM - GPL LICENSED WORDPRESS THEMES & PLUGINS
 
 **The following is an outline of WPLOCKER's Privacy Policy.**
 
