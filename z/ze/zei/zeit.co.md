@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeit.co privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231090114id_/https%3A//zeit.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeit.co privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510174607id_/https%3A//zeit.co/privacy) for the most accurate reproduction.*
 
-# ZEIT – Privacy Policy
+# Privacy Policy - ZEIT
 
 Last update: 05/25/2018
 
