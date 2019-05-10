@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stabmag.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929030638id_/https%3A//stabmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stabmag.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510190634id_/https%3A//stabmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Stab Magazine | Stab Magazine Privacy Policy
 
@@ -80,7 +80,7 @@ Please contact us as set out below if you have any questions about this privacy 
 
 **Contact** : Privacy Officer.
 
-**Email** : [[email protected]](https://stabmag.com/cdn-cgi/l/email-protection#9bfcfeefeee8dbe9f4f7f7f2f5fce2f4eeeff3b5f8f4f6)
+**Email** : [[email protected]](https://stabmag.com/cdn-cgi/l/email-protection#accbc9d8d9dfecdec3c0c0c5c2cbd5c3d9d8c482cfc3c1)
 
 For more information about the Privacy Act, or if your concern is not resolved to your satisfaction, you may contact the Privacy Commissioner on 1300 363 992 or http://www.privacy.gov.au.
 
