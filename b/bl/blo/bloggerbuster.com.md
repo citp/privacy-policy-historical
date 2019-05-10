@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggerbuster.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108151037id_/http%3A//www.bloggerbuster.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerbuster.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510081541id_/http%3A//www.bloggerbuster.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Blogger Buster: Privacy Policy
 
