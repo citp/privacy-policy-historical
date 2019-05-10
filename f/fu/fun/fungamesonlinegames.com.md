@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fungamesonlinegames.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105180858id_/http%3A//www.fungamesonlinegames.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fungamesonlinegames.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510055134id_/http%3A//www.fungamesonlinegames.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
