@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargedevs.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228213842id_/https%3A//chargedevs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargedevs.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510055338id_/https%3A//chargedevs.com/privacy-policy) for the most accurate reproduction.*
 
 # Charged EVs | Privacy Policy
 
