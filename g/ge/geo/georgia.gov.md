@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgia.gov privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203183133id_/http%3A//georgia.gov/privacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgia.gov privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510023226id_/http%3A//georgia.gov/privacysecurity) for the most accurate reproduction.*
 
 # Privacy/Security | Georgia.gov
 
@@ -37,7 +37,7 @@ Georgia.gov sites use Google Analytics to capture information about the effectiv
 
 The information is NOT identifiable by person and is only used cumulatively for statistical purposes to help make our websites more user friendly. For instance, data on what people are searching for helps us determine what type of content to make available on the websites, or make the most popular search terms more easily findable on sites.
 
-Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, but this cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/)) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser.
+Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, but this cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/)) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](https://www.usa.gov/optout-instructions) on your browser.
 
 For site security purposes the servers housing these sites use programs to monitor network traffic. Anyone using these sites consents to the monitoring of their use by these programs and the analysis of traffic to recognize possible security breaches..
 
