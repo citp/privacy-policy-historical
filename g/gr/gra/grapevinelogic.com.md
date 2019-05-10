@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grapevinelogic.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819061825id_/https%3A//www.grapevinelogic.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grapevinelogic.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510182253id_/https%3A//www.grapevinelogic.com/privacy_policy) for the most accurate reproduction.*
 
 # YouTube Influencer Marketing | Grapevine
 
@@ -8,7 +8,17 @@ Grapevine Logic takes your privacy seriously. Please read the following to learn
 
 ### INFORMATION AND COLLECTION OF USE
 
-Grapevine Logic collects personal information when you register on GrapevineLogic.com. Grapevine Logic may combine information about you that we have with information we obtain from business partners or other companies. When you register we ask for information such as your name and email address. When you register with Grapevine Logic and sign in to our services, you are not anonymous to us. Grapevine Logic automatically receives and records information from your computer and browser, including your IP address, Grapevine Logic cookie information, software and hardware attributes, and the page you request.Grapevine Logic uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, and conduct research. You may set up a profile on Grapevine Logic.
+Grapevine Logic collects personal information when you register on GrapevineLogic.com. Grapevine Logic may combine information about you that we have with information we obtain from business partners or other companies. When you register we ask for information such as your name and email address. When you register with Grapevine Logic and sign in to our services, you are not anonymous to us. Grapevine Logic automatically receives and records information from your computer and browser, including your IP address, Grapevine Logic cookie information, software and hardware attributes, and the page you request.
+
+#### Your Youtube Account
+
+When you connect your YouTube account to your Grapevine Logic account, we use the YouTube API to automatically collect and store information about your channel including profile information such as your name channel performance measures such as views, likes, dislikes on your channel and videos and demographic information about your subscriber base such gender, age, and geographic breakdown.
+
+Please review YouTube's own privacy policy to learn more about how YouTube protects your privacy and allows you to limit what information you share. <http://www.google.com/policies/privacy>
+
+You may revoke Grapevine's access to your YouTube data [here](https://security.google.com/settings/security/permissions) at any time.
+
+Grapevine Logic uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, and conduct research. You may set up a profile on Grapevine Logic.
 
 Grapevine Logic may collect the following information, but not limited to:
 
@@ -18,8 +28,6 @@ Grapevine Logic may collect the following information, but not limited to:
   * Personal information, including the information you may transmit to us or authorize us to obtain from you or a third party in connection with the Services ("Customer Data").
 
 
-
-You may revoke Grapevine's access to your YouTube data [here.](https://myaccount.google.com/permissions)
 
 ### INFORMATION SHARING
 
