@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231013933id_/https%3A//micechat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510071543id_/https%3A//www.micechat.com/privacy-policy) for the most accurate reproduction.*
 
 # MiceChat - Privacy Policy
 
