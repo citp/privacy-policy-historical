@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zigverve.com privacy policy that was archived on 2018-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180725093749id_/https%3A//zigverve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigverve.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510142631id_/https%3A//zigverve.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Zigverve
 
@@ -64,14 +64,14 @@ Zigverve.com has the discretion to update this privacy policy at any time. When
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://zigverve.com/terms-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://zigverve.com/terms-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-> [Frontpage](http://zigverve.com/)
+> [Frontpage](https://zigverve.com/)
 
 Gents Hostel, AIIMS, Ansari Nagar, New Delhi – 110029
 
-email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+email: contact@zigverve.com
