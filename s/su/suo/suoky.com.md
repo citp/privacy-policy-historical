@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suoky.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106131305id_/http%3A//www.girlgames4u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suoky.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510111717id_/http%3A//www.girlgames4u.com/privacy.html) for the most accurate reproduction.*
 
 # Play Girl Games, FREE ONLINE GAMES FOR GIRLS GirlGames4u.com
 
