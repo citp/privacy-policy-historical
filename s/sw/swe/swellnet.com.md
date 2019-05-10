@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the swellnet.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001062624id_/http%3A//www.swellnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellnet.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510102024id_/https%3A//www.swellnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Swellnet
-
-## You are here
-
-  1. [Home](https://web.archive.org/)
-  2. Privacy policy
-
-
 
 If you have any questions or concerns regarding our privacy policy please direct them to [privacy@swellnet.com](mailto:privacy@swellnet.com).
 
@@ -37,5 +30,3 @@ In some instances, advertisers will set cookies on our site. These cookies are n
 Many browsers are set to accept cookies. You may prefer to set your browser to refuse cookies. It is possible, however, that some areas of the site will not function properly if you do so.
 
 **This policy may be changed at any time at Swellnet's discretion.**
-
-[](https://web.archive.org/signup)
