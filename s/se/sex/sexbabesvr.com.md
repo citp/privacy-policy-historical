@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexbabesvr.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202082732id_/https%3A//sexbabesvr.com/node/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexbabesvr.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510105000id_/https%3A//sexbabesvr.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SexBabesVR
 
@@ -27,7 +27,7 @@ Certain functionality of the site is available only to registered users of the s
 First and last name;  
 Email address;  
 ZIP Code  
-State/Province
+State/Province 
 
 We may occasionally ask you to provide other demographic information, such as income and education level. You are not required to provide such information in order to become a User. Such information is treated in the same manner as the User Information identified above. We require you to select a unique user name. Please note that your user name is not “User Information” for the purpose of this privacy policy, and will be visible to other users of the site (for example, to identify you as the author of certain posts, or in a list of Users logged in at a given time). Accordingly, if you do not wish to disclose your identity to others on the site, you should select a user name that does not include any personally identifiable information. Users may upload content including posts, comments on others’ posts, and audiovisual works. This Privacy Policy does not apply to information contained in, or ascertainable from, the content you upload to the site. By uploading content to the site, you waive any claim to privacy rights in connection with information contained in, or ascertainable from, such content.
 
@@ -37,9 +37,9 @@ Providing Information and Services
 
 We use the User Information to contact you about changes to our site, new services, features or products we offer, or other information we think you will find of interest, as well as to customize your user experience. We may also disclose or provide User Information to our affiliates, agents and service providers, for the purpose of providing you with offers and information. By signing up as a User of the Site and agreeing to receive emails from this Site, you are agreeing that we may disclose and transfer your email address and all other personal information you supply to our affiliates, agents or service providers. sexbabesvr.com is a direct marketer that delivers email messages to its subscribers. When working with its merchants, sexbabesvr.com reserves the right to review and edit outgoing messages to ensure messages are delivered to subscribers. Users may unsubscribe to electronic mailings sent by us at any time by following the instructions contained at the end of every sexbabesvr.com newsletter or mailing. Users wishing to unsubscribe from sexbabesvr.com messages can also send a message to [info@sexbabesvr.com](mailto:info@sexbabesvr.com). We will not rent, sell, or share your personally identifiable information (i.e., your name or email address) with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
-  * We respond to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activity, suspected fraud, situations involving potential threats to the physical safety of any person, violations of sexbabesvr.com’s terms of use, or as otherwise required by law.
-  * We transfer information about you if sexbabesvr.com is acquired by or merged with another company, or in connection with a potential acquisition or merger.
+  * We respond to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or defend against legal claims. 
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activity, suspected fraud, situations involving potential threats to the physical safety of any person, violations of sexbabesvr.com’s terms of use, or as otherwise required by law. 
+  * We transfer information about you if sexbabesvr.com is acquired by or merged with another company, or in connection with a potential acquisition or merger. 
 
 
 
@@ -67,4 +67,4 @@ Questions and Suggestions
 
 If you have questions or suggestions, please email us at [webmaster@sexbabesvr.com](mailto:webmaster@sexbabesvr.com)
 
-BY USING THIS SITE, YOU CONSENT TO THE PRACTICES SET FORTH IN THIS POLIC
+BY USING THIS SITE, YOU CONSENT TO THE PRACTICES SET FORTH IN THIS POLICY
