@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611101301id_/https%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510140709id_/https%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
 
 # Privacy Policy - Gundam Kits Collection News and Reviews
 
-This Privacy Policy governs the manner in which Gundam Kits Collection News and Reviews collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://www.gundamkitscollection.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Gundam Kits Collection News and Reviews.
+This Privacy Policy governs the manner in which Gundam Kits Collection News and Reviews collects, uses, maintains and discloses information collected from users (each, a "User") of the [//www.gundamkitscollection.com/](https://www.gundamkitscollection.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Gundam Kits Collection News and Reviews.
 
 **Personal identification information**
 
@@ -41,7 +41,11 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners Hobby Link Japan, Big Bad Toy Store and Tatsuhobby, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to users by advertising partners; Hobby Link Japan, Big Bad Toy Store, NewTypeHQ and Omocha Japan, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.  
+  
+**Commenting**
+
+As of April 2017, Gundam Kits Collection require readers to use their Google accounts to comment on our website's posts. Each comments will be reviewed by our comment moderator for our reader's protection from profanity and abusers. Spam comments will be automatically deleted.
 
 **Changes to this privacy policy**
 
@@ -54,8 +58,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Gundam Kits Collection News and Reviews](http://www.gundamkitscollection.com/)  
-<http://www.gundamkitscollection.com/>  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+[Gundam Kits Collection News and Reviews](https://www.gundamkitscollection.com/)  
+<https://www.gundamkitscollection.com/>  
+[[email protected]](https://www.gundamkitscollection.com/cdn-cgi/l/email-protection)
 
-This document was last updated on April 24, 2018
+This document was last updated on February 28, 2019  
+<https://g.ezoic.net/privacy/gundamkitscollection.com>
