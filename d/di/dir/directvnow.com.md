@@ -1,167 +1,122 @@
-> *The following text is extracted and transformed from the directvnow.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230170302id_/http%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directvnow.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510080941id_/https%3A//www.directvnow.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | AT&T
+# DIRECTV NOW & WatchTV | Privacy Policy
 
-## Our Privacy Commitments
+**Our Video Apps Privacy Policy**
 
-**Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with us - including customers (wireless, Internet, digital TV, and telephone) and Web site visitors.**
+This policy (“Policy”) applies to your use of the DIRECTV NOW service and/or WatchTV service, which are provided by DIRECTV LLC and its affiliates (“we” or “us”), which may be accessed through various supported platforms, such as a browser, mobile device, tablet, Smart TV, or on a streaming device (“the app”).
 
-  * We will protect your privacy and keep your personal information safe. We use encryption and other security safeguards to protect customer data.
-  * We will not sell your personal information to anyone, for any purpose. Period.
-  * We will fully disclose our privacy policy in plain language, and make our policy easily accessible to you.
-  * We will notify you of revisions to our privacy policy, in advance. No surprises.
-  * You have choices about how AT&T uses your information for marketing purposes. Customers are in control.
-  * We want to hear from you. You can send us questions or feedback on our privacy policy.
+You agree, for each device or user that accesses these apps, to the [DIRECTV NOW terms and conditions](https://www.directvnow.com/terms-and-conditions.html) (for DIRECTV NOW users) and to the [WatchTV terms and conditions](https://www.attwatchtv.com/terms-and-conditions) (for WatchTV users), and to the following collection, use, and sharing of data. This Policy not only applies to you, but also to anyone else who uses the app. You and anyone who uses the app will be subject to the same terms allowing AT&T to collect, use and share data with third parties for their own use (including app data, viewership and Your Location Information). You are responsible for making sure all users of the app are aware of this Policy and communicate the choices that may be available to them.
 
+We may provide you a simplified log-in process for users that you authorize to use the app.
 
+**When and what information is collected?**
 
-## About Our Privacy Policy
+We collect information about you from:
 
-Whenever you do something like buy one of our products, watch a show or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the actual policy is written in [an easy to understand “Frequently Asked Questions” (FAQ) format](https://web.archive.org/sites/privacy_policy/terms). We want to simplify this explanation, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.  
+  1. Your use of the app on your phone, tablet, computer, smart television or any other device. This includes things like: 
+    * what videos, stations or programs you watch and when;
+    * where you’re located; and
+    * how you use the app (such as what you click on or search for).
+  2. Your account. This includes things like: 
+    * information you provide us through the registration process; and
+    * subscriptions to DIRECTV NOW and WatchTV services associated with their respective apps.
+  3. The mobile devices on which you use the app. This includes things like: 
+    * mobile number and IP address;
+    * location; and
+    * unique identifiers associated with the devices.
+  4. Your use of this service through the website associated with this app we may collect things like: 
+    * information about your computer, like its operating system and IP address; and
+    * information from cookies and other similar technologies including flash cookies, web beacons, widgets, server logs or third-party plug-ins
+  5. Third parties, including things like: 
+    * demographic and other data from publicly available sources.
 
 
-  
-**Effective July 24, 2015**
 
-## A Quick Summary of Our Privacy Policy
+**A note about Do Not Track** \- We don’t respond to “do not track” signals. For more information on Do Not Track, please visit [allaboutdnt.com](https://allaboutdnt.com/).
 
-Our Privacy Policy applies to your use of all products, services and websites offered by AT&T and our AT&T affiliates, such as DIRECTV, unless they have a different privacy policy. Because some apps, including some AT&T and DTV branded apps, require additional information, or use information in different ways, they may have their own privacy policies and/or terms and conditions. These apps may also offer you additional choices for managing your personal information.
+**How might we use your information?**
 
-Back to Top
+  * We may use the information we collect through your use of the app to provide and improve the service; to tailor your experience including things like making recommendations; to provide you with local programming; to conduct analytics; for fraud prevention purposes; and to help us and third parties serve you with advertisements or marketing materials in and outside the app.
+  * In addition, we use location information, such as GPS or IP address (“Your Location Information”), for example, to provide access to local programming, deliver services and features, such as the channel guide, improve the service, and to prevent fraud. Your Location Information also helps us and third parties serve you with advertisements or marketing materials. Without Your Location Information, we may not be able to provide access to certain services and features, including live local, channels or other content with geographic restrictions.
+  * We may combine and use data, including Your Location Information and viewing data collected from the app with other data, as described in this Policy.
 
-**Our privacy commitments**  
 
 
-  * We don’t sell your Personal Information to anyone for any purpose. Period.
-  * We keep your Personal Information in our business records while you are a customer, or until it is no longer needed for business, tax or legal purposes.
-  * We will keep your information safe using encryption or other appropriate security controls.
+**Do we share your information and, if so, with whom?**
 
+  * We may share information collected through the app, as described in this Policy, with other companies within the AT&T family of companies, including our affiliates, and vendors to help fulfill marketing offers, provide or improve service, conduct analytics, and serve you with advertisements or marketing materials in and outside the app.
+  * We may also share information collected through the app with third parties for advertising or marketing purposes such as: what shows are watched, general interests (e.g., sports lover) and other information collected about you (e.g., location) as described in this Policy. We determine your specific and general interests based on information collected through the app, as described in this Policy. When we share data with third parties, we use identifiers such as device or operating system identifiers. This could include but is not limited to your Apple or Android advertising ID. 
+    * We share this information to help fulfill marketing offers, provide or improve service, conduct analytics, and help us and third parties serve advertisements and marketing materials in and outside of the app.
+  * When we say “third parties” with whom we share data, we mean advertisers, content providers (companies that create or distribute video programming or content), social media networks, analytics firms (companies that measure and analyze consumer behavior, including what users watch), and ad networks (companies that deliver and track ads for advertisers across numerous websites, applications and devices).
+  * When you use the app through a third-party device that requests your viewing information we will allow the third party to access this viewing information. This could include, for example, what shows were watched and where you paused the show. We will only allow the third party to access your viewing information if you consent to us sharing it. You may decline to consent or later withdraw your consent from the third party streaming device.
+  * Your information may be used in aggregate reports that won’t identify you personally, such as a report on how many people watched a certain television show or reports we may sell to other companies for their own marketing, advertising or other similar uses.
+  * **We may also share information to:**
+    * Respond to 911 requests and other emergencies or exigencies;
+    * Comply with court orders and other legal process;
+    * Assist with identity verification, and prevent fraud and identity theft;
+    * Enforce our agreements and protect our rights or property; and
+    * Obtain payment for products and services including the transfer or sale of delinquent accounts to third parties for collection.
 
 
-Back to Top
 
-**Here’s some of the information we collect:**
+**How will app customer data be governed if you also have products and services from AT &T?**
 
-  * **Account Information** includes your name, address, telephone number, e-mail address, service-related details such as payment data, security codes, service history and other information like that;
-  * **Network Performance & Usage Information** tells us how you use our networks, our products and our services, and how well our equipment and networks are performing;
-  * **Web Browsing & Wireless Application Information** tells us about the websites you visit and the mobile applications you use on our networks;
-  * **Location Information** tells us where your wireless device is located, as well as your ZIP-code and street address;
-  * **TV Viewing Information** tells us about which programs you watch and record and similar information about how you use our video services and applications.
+  * The information generated and derived from this app is subject to this Policy. However, if we combine this information with other data collected from your use of other AT&T products and services, the combined data will be governed by the [AT&T Privacy Policy](https://att.com/privacy) and the [AT&T Choices and Controls](https://about.att.com/sites/privacy_policy/rights_choices) will apply as to the respective program under which it is being used.
+  * If you opted in or have been opted in to AT&T’s Enhanced Relevant Advertising program and we combine this information with other AT&T products and services, the Enhanced Relevant Advertising terms will also apply. For information on the AT&T Enhanced Relevant Advertising program, click [here](https://www.att.com/legal/terms.enhancedRelevantAdvertising.html).
 
 
 
-Back to Top
+**What information is not covered by this Policy?**
 
-**Here are the three basic ways we collect it:**
+  * This Policy does not apply if you go to a third-party site from the app, such as when you go to a non-AT&T website from the app (by clicking on a link or an advertisement, for example). In this case, the privacy policy of the third-party site may apply.
 
-  * We get information from you when you do things like make a purchase from us;
-  * We collect it from how you use our products and services;
-  * We obtain information from other sources, like credit agencies, marketing companies, and other service providers.
 
 
+**What safeguards do you have in place to protect my information?**
 
-Back to Top
+  * We work hard to protect your information. And though we cannot guarantee the protection of your information, we've established electronic and administrative safeguards designed to help make the information we collect secure.
+  * In the event of a security incident, laws and regulations direct us in how to give you notification when certain types of sensitive information are involved. We will provide you with notice in accordance with these laws and regulations.
+  * We will keep your personally identifiable information in connection with your use of the app as long as you are a customer and/or user or until it is no longer needed for business, tax or legal purposes.
 
-**Here are just some of the ways we use it. To:**
 
-  * Provide services and improve your customer experience;
-  * Send you bills for your services;
-  * Respond to your questions;
-  * Address network integrity, help in fraud prevention and network and device security issues;
-  * Do research and analysis to maintain, protect, develop and improve our networks and services;
-  * Let you know about service updates, content, offers and promotions that may be of interest to you;
-  * Improve entertainment options;
-  * Deliver Relevant Advertising;
-  * Create External Marketing & Analytics Reports;
-  * Assist in the prevention and investigation of illegal activities and violations of our Terms of Service or Acceptable Use Policies.
 
+**Do you collect information about my children's use?**
 
+  * We do not knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian.
 
-Back to Top
 
-**Some examples of who we share your Personal Information with:**
 
-  * **Across our companies** to give you the best customer experience and to help you get everything we have to offer.
-  * **Other, non-AT &T companies that perform services on our behalf** only as needed for them to perform those services. We require them to protect your information consistent with our Policy.
-  * **With other companies and entities, to:**
-    * Respond to 911 requests and other emergencies or exigencies;
-    * Comply with court orders and other legal process;
-    * Assist with identity verification, and preventing fraud and identity theft;
-    * Enforce our agreements and property rights;
-    * and Obtain payment for products and services including the transfer or sale of delinquent accounts to third parties for collection
+**What choices and controls do I have over the use of my data?**
 
+  * You are in control. You have choices and controls over how your data is collected, used, and shared when you use this app: 
+    * _Collection of Information:_ You can stop the collection of information through this app by uninstalling the app.
+    * _DIRECTV NOW and WatchTV Promotional Emails:_ For DIRECTV NOW subscribers, by creating an account, you agree to receive promotional emails regarding DIRECTV NOW. To unsubscribe from emails relating to DIRECTV NOW, click [here](https://myaccount.att.com/apps/eods/unSubscribePreferences.do) or by clicking the unsubscribe link at the bottom of each promotional email you receive. Your decision regarding whether you want to receive DIRECTV NOW promotional emails is separate from your decision regarding promotional emails for other AT&T products and services. You can find your choices and controls over promotional emails for other AT&T products and services [here](https://about.att.com/sites/privacy_policy/rights_choices).
+    * _Online Behavioral Advertising:_ In accordance with industry self-regulatory principles, you can opt out of online behavioral advertising from companies who participate in the [Digital Advertising Alliance](http://www.aboutads.info/) by going to their [Consumer Choice Page](https://aboutads.info/choices/#completed) or selecting this icon  when you see it on an online ad. To limit collection of data on websites that may be used for advertising, go [here](https://att.com/gen/privacy-policy?pid=24334) for information on how to manage cookies and other similar technologies on your computer.
 
 
-Back to Top
 
-**Understanding Personal, Anonymous & Aggregate Information**
+**What happens if there is a change in corporate ownership or to this policy?**
 
-  * What is Personal Information? Information that identifies or reasonably can be used to identify you.
-  * What is Anonymous Information? This is information that doesn’t identify you and can't reasonably be used to identify you specifically.
-  * What is Aggregate Information? We take a whole bunch of people’s data and combine it into anonymous groups or categories.
-  * How do we use this information? We use and share this information in many ways including research, analysis, retail marketing, and Relevant Advertising. This data is also included in External Marketing & Analytics Reports.
-  * Want to learn more? Go [here](https://web.archive.org/sites/privacy_policy/terms#aggregate "Go here to learn more").
+  * Information about our customers and users, including personally identifiable information, may be shared and transferred as part of any merger, acquisition, sale of company assets or transition of service to another provider. This also applies in the unlikely event of an insolvency, bankruptcy or receivership in which customer and user records would be transferred to another entity as a result of such a proceeding.
+  * We may update this Policy as necessary to reflect changes we make and to satisfy legal requirements. The most recent version of the Policy will always be made available through the app. If we make material changes to this Policy, we will notify you to obtain your consent for those changes.
 
 
 
-Back to Top
+**Your California Privacy Rights**
 
-**Our Online Privacy Policy for Children**
+  * California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed personal information to any third parties for their direct marketing purposes. As stated in this Policy, by using our app you agree to the sharing of your information with other companies to use for their own marketing purposes. If you don’t want us to share your information collected through our app with third parties, you must uninstall the app from all of your devices.
+  * California customers who want to request further information about our compliance with these requirements, or would like to request a copy of information regarding our disclosure to third parties for their direct marketing purposes in the preceding calendar year, or have questions or concerns about our privacy practices and policies may contact us at the contact information listed below.
 
-  * We want you to know that we don't knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian.
 
 
+**How to contact us about this Policy**
 
-Back to Top
+Contact us at either of these addresses for any questions about this Policy. Please specify if you are emailing or writing us about DIRECTV NOW app or WatchTV app.
 
-**Your Choices & Controls**
+  * Email us at [privacypolicy@att.com](mailto:privacypolicy@att.com).
+  * Write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1031, Dallas, TX 75202.
 
-  * For information about children’s safety and parental controls, view our [AT&T Smart Controls and DIRECTV Parental Controls](https://www.att.com/shop/wireless/smartcontrols.html "View our AT&T Smart Controls and DIRECTV Parental Controls").
-  * You have choices about certain types of advertising you get from us;
-  * You can control whether your anonymous information is used in our External Marketing & Analytics Reports;
-  * You can choose whether to receive marketing calls, e-mails or text messages or certain other communications from us;
-  * You have a choice about how we use your Customer Proprietary Network Information.
 
 
-
-Back to Top.
-
-Visit our [Privacy Policy](https://web.archive.org/sites/privacy_policy/full_privacy_policy "Privacy Policy") for more information.
-
-  * [Definitions](https://web.archive.org/sites/privacy_policy/terms#definitions "Definitions")
-  * [Scope of this Policy](https://web.archive.org/sites/privacy_policy/terms#scope "Scope of this Policy")
-  * [The Information We Collect, How We Collect It, And How We Use It](https://web.archive.org/sites/privacy_policy/terms#collect "The Information We Collect, How We Collect It, And How We Use It")
-  * [Information Sharing](https://web.archive.org/sites/privacy_policy/terms#sharing "Information Sharing")
-  * [Online Activity Tracking and Advertising](https://web.archive.org/sites/privacy_policy/terms#tracking "Online Activity Tracking and Advertising")
-  * [Location Information](https://web.archive.org/sites/privacy_policy/terms#location "Location Information")
-  * [Aggregate and Anonymous Information](https://web.archive.org/sites/privacy_policy/terms#aggregate "Aggregate and Anonymous Information")
-  * [External Marketing & Analytics Reports](https://web.archive.org/sites/privacy_policy/terms#analytics "External Marketing & Analytics Reports")
-  * [Online Privacy Policy for Children](https://web.archive.org/sites/privacy_policy/terms#children "Online Privacy Policy for Children")
-  * [Data Protection & Security](https://web.archive.org/sites/privacy_policy/terms#protection "Data Protection & Security")
-  * [Changes](https://web.archive.org/sites/privacy_policy/terms#changes "Changes")
-  * [Choices & Controls](https://web.archive.org/sites/privacy_policy/terms#controls "Choices & Controls")
-  * [How to Contact Us](https://web.archive.org/sites/privacy_policy/terms#contact "How to Contact Us")
-
-
-
-  
-**Your California Privacy Rights**  
-California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for their direct marketing purposes. As stated in this Privacy Policy, we will not sell your Personal Information to other companies and we will not share it with other companies for them to use for their own marketing purposes without your consent.
-
-**California Web Site Data Collection & "Do Not Track" Notices**
-
-**Web Site Data Collection:** We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. We provide information about the opt-out choices available to customers, and the opt-out choices provided by certain third-party website and mobile application analytics companies we use [here](https://web.archive.org/sites/privacy_policy/rights_choices "AT&T Choices and Controls").
-
-**"Do Not Track" Notice:** Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, we currently do not respond to those signals. For more information on Do Not Track, please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/ "All About Do Not Track").
-
-California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at [privacypolicy@att.com](mailto:privacypolicy@att.com "Email privacypolicy@att.com"), or write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202.
-
-Back to top
-
-### We Want to Hear from You
-
-Thanks for your feedback on our updated Privacy Policy. We heard you and, as a result, we're adding additional information on how you can exercise your privacy choices. We appreciate you as a customer and we value your thoughts. Please continue to share your feedback through our [privacy mailbox](mailto:privacypolicy@att.com).
-
-### Welcome DIRECTV Customers
-
-DIRECTV is now part of the AT&T family. For convenience, all AT&T products and services are covered under a single, easy-to-read Privacy Policy. The policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we [welcome your feedback](mailto:privacypolicy@att.com).
+Thank you for choosing AT&T.
