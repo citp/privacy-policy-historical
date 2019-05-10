@@ -1,165 +1,98 @@
-> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627204415id_/https%3A//www.wesrch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510182409id_/https%3A//www.wesrch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - weSRCH
 
-weSRCH ("weSRCH") recognizes that its customers, visitors, users, and others (collectively or individually, "User") who use [www.weSRCH.com](https://www.wesrch.com/) or other web sites owned or operated by weSRCH value their privacy. This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our services, including those offered through our websites, emails, and mobile applications (collectively, the "Service"). weSRCH provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Service. 
+**About This Privacy Policy**  
+We're committed to protecting your information. This Privacy Policy sets out how we handle your personal data in connection with your use of our services, including those offered through our websites, emails, and mobile applications. This policy also sets out how we support your rights concerning any personal data we process or store. 
 
 This Privacy Policy is incorporated into and is subject to the weSRCH [Terms of Service](https://www.wesrch.com/terms-of-use). Your use of the Service and any personal information you provide on the Service remains subject to the terms of this Privacy Policy and our [Terms of Service](https://www.wesrch.com/terms-of-use). 
 
-Please note that any content posted at the direction of Users to the Service becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
+Please note that any content posted at the direction of Users to the Service becomes published content and is not considered personally identifiable information subject to this Privacy Policy. 
 
-**INFORMATION COLLECTION AND USE**  
+**Who We Are and How You Can Contact Us**  
+weSRCH is a virtual technology forum for professionals to publish Papers/Presentations, Papers, Articles and Newsletters. weSRCH is owned by VLSI Research Inc and is based in California in the United States. You can contact us by using this [Contact Form](https://www.wesrch.com/contact-us) or in writing to Privacy, weSRCH.com, 2290 North First Street, Suite 202, San Jose, CA 95131-2017 if you have any questions about our Privacy Policy or information we hold about you. 
 
+**What Information We Collect About You**  
+You provide us with personal information when participating in various activities on the Service such as uploading papers, presentations, and press releases; posting messages in our forums or in the paper comments section; entering contests or sweepstakes; taking advantage of promotions, responding to surveys; subscribing to newsletters or other mailing lists; or advertising. The personal data that you provide to us may include your name, company address, e-mail address, telephone number, mobile phone number, and IP address. 
 
-  * You provide certain personally identifiable information (such as your name and email address) to weSRCH when choosing to participate in various activities on the Service such as uploading papers, press releases, posting messages in our forums or in the paper comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+We also collect personal data we receive from third parties, for example, if we work with other businesses or use sub-contractors these parties may collect personal data about you which they will share with us where there is a legitimate business interest or contractual arrangement. 
 
+We will only use your personal information for a purpose it was collected for or a reasonably compatible purpose if necessary. We do not carry out automated decision making or any type of automated profiling. 
 
+**How We Use Your Information**  
+The personal information we collect and use allows us to keep you posted on the Service's features and promotions. It also helps us to improve our services, content, and advertising, as well as to provide you with a better experience. 
 
-  * The personal information we collect and use allows us to keep you posted on the Service's features, and promotions. It also helps us to improve our services, content, and advertising, as well as to provide you with a better experience.
+Any personal information or paper content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload papers or send messages through the Service and other Users can contact you through messages and comments. Any papers that you submit to the Service may be redistributed through the internet and other media channels, and may be viewed by the general public. When you share your content with colleagues using the Service, or invite others to join you on weSRCH forums, weSRCH may collect the information you provide about those people such as name, mailing address, email address, and phone number. 
 
+We may combine your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) and aggregate it with information collected from other Users to improve the quality and design of the Service and to create new features, promotions, functionality, and services. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions. 
 
+We may store information about your use of the Service, such as your search activity, the pages you view, the date and time of your visit, businesses you call using our mobile applications, and purchases you make through the Service. We also may store information that your computer or mobile device provides to us in connection with your use of the Service, such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, phone number, unique device identifier, advertising identifier, location (including geolocation, beacon-based location, and GPS location), and requested and referring URLs. You may be able to disallow our use of certain location data through your device or browser settings, for example by disabling "Location Services" for the weSRCH mobile app in iOS privacy settings. 
 
-  * Any personal information or paper content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload papers or send messages through the Service and other Users can contact you through messages and comments. Any papers that you submit to the Service may be redistributed through the internet and other media channels, and may be viewed by the general public. When you share your content with colleagues using the Service, or invite others to join you on weSRCH forums, weSRCH may collect the information you provide about those people such as name, mailing address, email address, and phone number.
+**Marketing Communications**  
+We have a legitimate interest in using the personal information that we have gathered from our contact with you in order to build a list of business contacts and/or to gain insight into who is interested in our products and services to grow our business. 
 
+In some cases, we may use your personal information (such as identity and contact details) to send you marketing emails which we think might be of interest to you. You can change your marketing preferences or opt-out at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we will continue to send you service-related communications regardless of any opt-out request. We do not sell or share your information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless permitted by applicable law. 
 
+If you no longer wish to be contacted for marketing purposes please contact us by using this [Contact Form](https://www.wesrch.com/contact-us). 
 
-  * From time to time, we may use your personal information to send important notices. Because this information is important to your interaction with the Service, you may not opt out of receiving these communications.
+**Disclosures of Your Personal Data**  
+From time to time, when there is a legitimate business interest or contractual requirement we may have to share your data with our affiliates and any business partners, suppliers, and sub-contractors we work with to provide you with the services you have requested from us. 
 
+We may also share your personal information with third parties, for example, if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply and other agreements; or to third parties to whom we sell, transfer, or merge parts of our business or our assets. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
 
+To provide increased value to you, we provide links to other websites or resources that are not part of the products, programs, or services run by us. We do not control these websites or their privacy practices, and any information you provide to these sites is subject to the Privacy Policies of those sites and not this Privacy Policy. 
 
-  * We may combine your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) and aggregate it with information collected from other Users to improve the quality and design of the Service and to create new features, promotions, functionality, and services. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
+We provide non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our Privacy Policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
 
+We do not share your personally identifiable information (such as name or email address) with other, third-party, companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
+**Data Security**  
+We use Secure Sockets Layer (SSL) encryption on all our web pages. We have also implemented administrative, technical, and physical security measures to help prevent unauthorized access and ensure your personal data is kept secure. Despite these measures, no data transmission over the Internet can be entirely secure, and we cannot and do not guarantee or warrant the security of any information you transmit via our websites or apps. 
 
-  * If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
+We limit access to your personal information to those who have a genuine business need to know it. Those processing your information will do so only in an authorized manner and are subject to a duty of confidentiality. 
 
+We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a breach if we are legally required to do so. 
 
+Please note that you are responsible for maintaining the secrecy of your credentials used to access any account or service with us and you must report suspected unauthorized activity to us. You are responsible for activity conducted with your credentials. 
 
+**Cookies and Similar Technologies**  
+A cookie is a small text file which includes a unique identifier that is sent by a web server to the browser on your computer, mobile phone, or any other internet enabled device when you visit an on-line site. Cookies and similar technologies are widely used to make websites work efficiently and to collect information about your online preferences. For simplicity, we refer to all these technologies as "cookies". Cookies do not track individual information. We also use cookies when you register. In this situation, a cookie will store useful information that enables our website to remember you when you return to visit us. 
 
-**USE OF COOKIES AND OTHER TECHNOLOGIES:**  
+Some of our website pages may contain electronic images known as web beacons (also known as clear gifs, tags or pixels) that allow us to count users who have visited our pages. Web beacons collect only limited information, e.g. a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any information that could directly identify you. 
 
+Third parties including advertising networks and advertisers may also serve ads and these third parties may also use their own cookies. 
 
-  * The Service may use "cookies" and other technologies such as pixel tags and web beacons. These technologies help us better understand User behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy. 
+**International Transfers**  
+We are a global company and, as such, we may transfer your personal information to our affiliates and subsidiaries outside your home jurisdiction. We will take all reasonable steps to ensure that personal information is protected. 
 
+We may provide access to our servers that contain the personal information of individuals covered by this Privacy Policy outside the European Economic Area ("EEA"). Some of these countries may not have the equivalent level of protection under their data protection laws as in the EEA. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
+**Special Note to International Users**  
+Our website is hosted in the United States. If you are a User accessing the Service from the EEA, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Service, which are governed by U.S. law, this Privacy Policy, and our [Terms of Service](https://www.wesrch.com/terms-of-use), you are transferring your personal information to the United States and you consent to that transfer. 
 
-  * We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Service; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+**Data Retention**  
+We only keep your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. 
 
+When deciding what the correct time is to keep the data we look at its amount, nature and sensitivity, potential risk of harm from unauthorized use of disclosure, the processing purposes, if these can be achieved by other means and legal requirements. 
 
+Please note that we may anonymize your personal data or use it for research or statistical purposes. We keep anonymized and statistical data indefinitely but we take care to ensure that such data can no longer identify or be connected to any individual. 
 
-  * The Service and our partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. 
+**Children's Guidelines**  
+We do not market to children and do not knowingly collect information from children on our website. All data collected or viewable at our website is for the purposes of industrial market research. While it is not designed for specific use by children we recognize that students may connect to it at times. We encourage students to get their parent's permission before giving any personal information online. If the purpose is for a school project we also encourage the students to provide us only with their first name, grade, and state or country. 
 
+By accepting our Terms of Service, minors 13 years of age or older affirm that they are an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligation, affirmations, representations, and warranties set forth in the Terms of Service, and to abide by and comply with the Terms of Service. If you believe that we might have any information from or about a minor over 13 that is not an emancipated minor or does not possess parental or guardian consent, please contact us using this [Contact Form](https://www.wesrch.com/contact-us)
 
+**Your Legal Rights**  
+You have the right to request a copy of the personal information we hold about you. You can exercise this right by emailing or writing to us at the addresses given in the Who We Are and How to Contact Us section. If we do hold information about you we will give you a description of it; tell you why we are holding it; tell you who it could be disclosed to; provide you with a copy. 
 
-  * The Service and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to enhance your experience at the Service.
+We want to make sure that your personal information is accurate. You may ask us to correct or remove information that you think is inaccurate. 
 
+Subject to certain limits under California Civil Code § 1798.83, California residents may request certain information regarding our disclosure of information to third parties or their direct marketing purposes. To make such a request, please use this [Contact Form](https://www.wesrch.com/contact-us). 
 
+We hope that we can resolve any query or concern you raise about your information. You are also entitled to make a complaint to the data protection authority in the country where you reside, where you work, or where an alleged infringement of data protection laws has taken place. We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you, please contact us using the details set out in the Who We Are and How to Contact Us section. 
 
-  * Third parties including advertising networks and advertisers may also serve ads and these third parties may also use their own cookies.
+**Changes to This Privacy Policy**  
+From time to time, we may change and/or update this Privacy Policy. If this Privacy Policy changes in any way, we will post an updated version on this website. We recommend you regularly review this website to ensure that you are always aware of our information practices and any changes to such. Any changes to this Privacy Policy will go into effect on posting to this page. 
 
-
-
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-
-
-
-  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-
-
-
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings(Google Ads settings).
-
-
-
-  * Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
-
-
-
-  * For more information about each third-party content provider, cookies, and how to "opt-out," please refer to http://www.aboutads.info/choices.
-
-
-
-  * As is true of most websites, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.
-
-
-
-  * We use this information to understand and analyze trends, to administer the Service, to learn about User behavior on the Service, and to gather demographic information about our User base as a whole. The Service may use this information in its marketing and advertising services. 
-
-
-
-  * In some of our email messages, we use a "click-through URL" linked to content on the Service. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on the Service. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
-
-
-
-
-**ACTIVITY**  
-We may store information about your use of the Service, such as your search activity, the pages you view, the date and time of your visit, businesses you call using our mobile applications, and purchases you make through the Service. We also may store information that your computer or mobile device provides to us in connection with your use of the Service, such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, phone number, unique device identifier, advertising identifier, location (including geolocation, beacon based location, and GPS location), and requested and referring URLs. You may be able to disallow our use of certain location data through your device or browser settings, for example by disabling "Location Services" for the weSRCH application in iOS privacy settings. 
-
-**INFORMATION SHARING AND DISCLOSURE**  
-
-
-  * We provide non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our Privacy Policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
-
-
-
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party, companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-
-
-
-  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality of the Service.
-
-
-
-  * It may be necessary - by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence - for weSRCH to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. 
-
-
-
-  * We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or Users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
-
-
-
-
-**RETENTION AND ACCESS TO PERSONAL INFORMATION**  
-weSRCH makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. 
-
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at www.wesrch.com. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if weSRCH is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. 
-
-**YOUR CHOICES**  
-You may, of course, decline to submit personally identifiable information through the Service, in which case weSRCH may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your Edit Profile Page. Please note that media files uploaded by Users to the Service cannot be removed and remain subject to our [Terms of Service](https://www.wesrch.com/terms-of-use). 
-
-The Service uses Secure Sockets Layer (SSL) encryption on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser such as Firefox, or Internet Explorer. Doing so protects the confidentiality of your personal information while it's transmitted over the Internet.
-
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
-
-Please contact weSRCH with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices using this [Contact Form](https://www.wesrch.com/contact-us).
-
-**LINKS TO OTHER SITES**  
-The Service, as well as the third party material displayed on the Service, contains links to, and may allow you to visit other websites ("third-party sites"). If you choose to visit any of the third-party sites by clicking on a third-party link or navigating to the third-party site, you will be directed to that third-party's website. The fact that we link to a website, either through the Service or a User Submission or present a banner ad or other type of advertisement or offer you the opportunity to interact with, or submit information to, a third party, is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third-party websites or their use of any information, including but not limited to your personal information, which you choose to submit to them or have us transmit on your behalf. These other websites may place their own cookies or other files on your computer, collect data, or solicit personal information from you. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
-
-**OUR COMMITMENT TO DATA SECURITY**  
-weSRCH uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to the Service and you do so at your own risk. Once we receive your transmission of information, weSRCH makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If weSRCH learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. weSRCH may post a notice on the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [Contact Form](https://www.wesrch.com/contact-us). 
-
-**OUR COMMITMENT TO THE PRIVACY OF CHILDREN UNDER 13**  
-The Service is intended for general audiences and is not directed to children under 13. The Service does not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please notify us using [Contact Form](https://www.wesrch.com/contact-us). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account. 
-
-**CHILDREN BETWEEN THE AGES OF 13 AND 18**  
-By accepting our [Terms of Service](https://www.wesrch.com/terms-of-use), minors 13 years of age or older affirm that they are an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligation, affirmations, representations, and warranties set forth in the [Terms of Service](https://www.wesrch.com/terms-of-use), and to abide by and comply with the [Terms of Service](https://www.wesrch.com/terms-of-use). If you believe that we might have any information from or about a minor over 13 that is not an emancipated minor or does not posses parental or guardian consent, please contact us using this [Contact Form](https://www.wesrch.com/contact-us). 
-
-**SPECIAL NOTE TO INTERNATIONAL USERS**  
-The Service is hosted in the United States and is intended for and directed to Users in the United States. If you are a User accessing the Service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Service, which are governed by U.S. law, this Privacy Policy, and our [Terms of Service](https://www.wesrch.com/terms-of-use), you are transferring your personal information to the United States and you consent to that transfer. 
-
-**IN THE EVENT OF MERGER, SALE, OR BANKRUPTCY**  
-In the event that weSRCH is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
-
-**CHANGES AND UPDATES TO THIS PRIVACY POLICY**  
-This Privacy Policy may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the Service constitutes your agreement to this Privacy Policy and any future revisions.
-
-For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information. 
-
-**Date Last Modified:**  
-This Privacy Policy was last modified June, 2016. 
-
-**Contact Information:**  
-Please contact weSRCH with any questions or comments about this Privacy Policy using this [Contact Form](https://www.wesrch.com/contact-us). 
+**Date Last Modified**  
+This Privacy Policy was last modified September, 2018. 
