@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruger-firearms.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819140450id_/https%3A//ruger.com/footer/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruger-firearms.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510105855id_/https%3A//ruger.com/footer/Privacy.html) for the most accurate reproduction.*
 
 # Ruger Privacy Policy
 
@@ -6,7 +6,7 @@ Effective September 1, 2010
 
 **This Web Site Privacy Policy** ("Privacy Policy") is provided by Sturm, Ruger & Co., Inc. ("Sturm, Ruger," "we," "our," or "us"). This Privacy Policy describes Sturm, Ruger's practices regarding Personal Information (as defined below) collected via the Sturm, Ruger web sites that include a link to this Privacy Policy (the "Web Sites"). Unless specifically stated otherwise, this Privacy Policy **applies solely** to Personal Information that we gather or collect via such Web Sites. It does not apply to any information collected offline or otherwise outside of the Web Sites.
 
-Please take a moment to review the terms of this Privacy Policy. Please also review our [Terms of Use](https://web.archive.org/web/20180819140450id_/https%3A//ruger.com/footer/Terms.html), which govern your use of our Web Sites. Please note that certain features or services discussed in this Privacy Policy may not be offered or available on all of our Web Sites.
+Please take a moment to review the terms of this Privacy Policy. Please also review our [Terms of Use](https://web.archive.org/web/20190510105855id_/https%3A//ruger.com/footer/Terms.html), which govern your use of our Web Sites. Please note that certain features or services discussed in this Privacy Policy may not be offered or available on all of our Web Sites.
 
 **What Personal Information Does Sturm, Ruger Collect About Me?**  
 When you visit a Web Site, we may collect two types of information from you: (1) Personal Information you voluntarily choose to disclose to us, and (2) Web Site Usage Information that we automatically collect as you interact with the Web Site.
