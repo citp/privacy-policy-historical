@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgtrader.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231045336id_/https%3A//www.cgtrader.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgtrader.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511053803id_/https%3A//www.cgtrader.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CGTrader
 
@@ -10,7 +10,7 @@ CGTrader data collection practices are governed by the following Privacy Policy 
 
 You will also find important information about your privacy rights, so please read the Policy carefully.
 
-UAB “CGTrader”, company code 302935696, Naugarduko str. 3, Vilnius, Lithuania ( **CGTrader** , **we** or **us** ) is the controller of your personal data. You can contact us by email at [info@cgtrader.com](mailto:info@cgtrader.com). You can contact our data protection officer by email at [dpo@cgtrader.com](mailto:dpo@cgtrader.com).
+UAB “CGTrader”, company code 302935696, Antakalnio str. 17, Vilnius, Lithuania ( **CGTrader** , **we** or **us** ) is the controller of your personal data. You can contact us by email at [info@cgtrader.com](mailto:info@cgtrader.com). You can contact our data protection officer by email at [dpo@cgtrader.com](mailto:dpo@cgtrader.com).
 
  **Contents**
 
