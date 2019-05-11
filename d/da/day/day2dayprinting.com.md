@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the day2dayprinting.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109192141id_/http%3A//www.day2dayprinting.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the day2dayprinting.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511225210id_/http%3A//www.day2dayprinting.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Day2Day Printing
 
