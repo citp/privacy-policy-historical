@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsciti.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110110608id_/http%3A//www.newsciti.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsciti.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512000055id_/http%3A//www.newsciti.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › NewsCiti.com : Submit Article, URL Submission of High PR Bookmarking Sites | Social Bookmark Manager, Add Web Sites To Your Personal Collection of Links, Categorize With Tags & Share It
 
