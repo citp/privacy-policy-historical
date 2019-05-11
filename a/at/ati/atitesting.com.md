@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atitesting.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106133459id_/http%3A//atitesting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atitesting.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511200706id_/http%3A//www.atitesting.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ATI
+# Privacy Policy - for Students | ATI
 
 Welcome to atitesting.com. This website is owned and operated by Assessment Technologies Institute, LLC, located at 11161 Overbrook Road, Leawood, Kansas 66211, USA and its affiliates (“ATI” or “we” or “us”). This privacy policy (“Privacy Policy”) explains to visitors (“you”) how we collect, use and disclose personal information concerning visitors to this website and users of our products and Services.
 
@@ -153,7 +153,7 @@ All feedback will be evaluated and a reply will be sent as soon as appropriate. 
 For European Visitors and Customers:    
 EU-U.S. and SWISS-U.S. Privacy Shield Additional Notice
 
-We are in the process of submitting our certification of compliance with the EU-U.S. and Swiss-U.S. Privacy Shield with respect to the personal data of users of our Services who are residents of the European Union (“EU”), European Economic Area (“EEA”) and Switzerland. We certify that we adhere to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (hereinafter, “Privacy Shield Principles”) for personal data of users of our Services in participating European countries.  Once complete, our Privacy Shield certification will be available here. We may also process personal data submitted relating to individuals in Europe via other compliance mechanisms, including use of the European Union Standard Contractual Clauses.
+We participate in the  [EU-U.S. and Swiss-U.S. Privacy Shield](https://www.privacyshield.gov/welcome "Follow link") with respect to the personal data of users of our Services who are residents of the European Union (“EU”), European Economic Area (“EEA”) and Switzerland. We certify that we adhere to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (hereinafter, “Privacy Shield Principles”) for personal data of users of our Services in participating European countries.  You can find our listing of the Privacy Shield certification  [here](https://www.privacyshield.gov/list). We may also process personal data submitted relating to individuals in Europe via other compliance mechanisms, including use of the European Union Standard Contractual Clauses.
 
 Processing of Personal Data, Purposes and Legal Basis  
 In this European privacy policy:
@@ -231,4 +231,4 @@ Ascend Learning, LLC
 
 Please provide your identification information, a detailed description of the nature of your request, the name of or Services you use, and your country of residence.
 
-ATI Privacy Policy (Rev June 8, 2018)
+ATI Privacy Policy (Rev Dec 21, 2018)
