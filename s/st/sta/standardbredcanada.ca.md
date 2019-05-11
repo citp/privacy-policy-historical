@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227040226id_/http%3A//www.standardbredcanada.ca/content/privacy-agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511160139id_/http%3A//standardbredcanada.ca/content/privacy-agreement.html) for the most accurate reproduction.*
 
 # Privacy Agreement | Standardbred Canada
 
@@ -33,7 +33,7 @@ j) To investigate and assist in the resolution of insurance claims.
 3\. We may keep information about you in our records for as long as it is needed for the purposes mentioned above, even if you cease to be a member.  
 4\. If any personal information changes or becomes inaccurate or out of date, you will tell us so that we can amend our records. You may in writing, request details of your personal information in our records. 
 
-5\. We have designated a [Privacy Officer](https://web.archive.org/cdn-cgi/l/email-protection#0b7b79627d6a68724b787f6a656f6a796f69796e6f686a656a6f6a25686a "click here to contact") to deal with questions, complaints or concerns regarding the collection, use and disclosure of personal information.
+5\. We have designated a [Privacy Officer](https://web.archive.org/cdn-cgi/l/email-protection#5a2a28332c3b39231a292e3b343e3b283e38283f3e393b343b3e3b74393b "click here to contact") to deal with questions, complaints or concerns regarding the collection, use and disclosure of personal information.
 
 **Privacy Statement**
 
