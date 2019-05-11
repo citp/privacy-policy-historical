@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the clubtug.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729225817id_/https%3A//www.3rdshiftvideo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubtug.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511150101id_/https%3A//www.3rdshiftvideo.com/privacy.htm) for the most accurate reproduction.*
 
 # 3rd Shift Video - Privacy Policy
 
   
-This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of TeenTugs.com, EbonyTugs.com, Petite18.com, TeasePOV.com, Over40Handjobs.com, SeeMomSuck.com, TeenTugs.com, Familylust.com, TugPass.com, FinishHim.com and 3rd Shift Video (collectivly "Sites", "Us", "We", "Our") or the services provided by this Site. 
+This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of TeenTugs.com, EbonyTugs.com, Mylked.com, Petite18.com, TeasePOV.com, Over40Handjobs.com, SeeMomSuck.com, TeenTugs.com, Familylust.com, TugPass.com, FinishHim.com and 3rd Shift Video (collectivly "Sites", "Us", "We", "Our") or the services provided by this Site. 
 
 We are committed to protecting your privacy and security. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using this Site. By accessing and using this Site, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use this Site. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective immediately upon posting. We request that you read this Privacy Policy carefully and consult it regularly. 
 
