@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224205758id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511115520id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Unclaimed Money - Cash Unclaimed Privacy Policy
+# CashUnclaimed.com found money search
 
 PLEASE READ CAREFULLY USE OF THIS SITE IS AT YOUR OWN RISK AND SUBJECT TO THE FOLLOWING: 
 
