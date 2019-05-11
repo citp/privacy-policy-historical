@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtyrant.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231012139id_/https%3A//www.blogtyrant.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtyrant.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511201741id_/https%3A//www.blogtyrant.com/disclosure) for the most accurate reproduction.*
 
 # Privacy Policy, Terms and Other Fun Stuff
 
