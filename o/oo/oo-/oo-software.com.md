@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oo-software.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220180726id_/https%3A//www.oo-software.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oo-software.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511183437id_/https%3A//www.oo-software.com/en/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
