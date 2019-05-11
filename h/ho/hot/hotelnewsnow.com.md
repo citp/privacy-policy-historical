@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180033id_/http%3A//www.hotelnewsnow.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511051259id_/http%3A//www.hotelnewsnow.com/terms-of-use) for the most accurate reproduction.*
 
 # HNN
 
@@ -13,7 +13,7 @@ HNN and the STR Group are privacy conscious organizations. This means we are com
 
 **Privacy Shield**
 
-The STR Group has applied to participate in and has certified to the U.S. Department of Commerce, which has jurisdiction over us, that it will operate with the Department in compliance with the EU-US Privacy Shield Framework (the “Privacy Shield). STR Group has stated to the DOC that it is committed to ensuring that all personal information that is received or transferred to us from the member countries of the European Union and the European Economic Area is and will continue to be handled according to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+The STR Group, through STR, Inc. in the U.S complies with the EU-U.S. Privacy Shield (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom to the United States in reliance on Privacy Shield The STR Group has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 If you have any questions or complaints about our compliance with the Privacy Shield, please contact us at [legal@str.com](mailto:legal@str.com) or send a letter to our U.S. headquarters at STR, Inc., 735 East Main Street, Hendersonville, Tennessee, USA 37075, Attention: Legal).
 
