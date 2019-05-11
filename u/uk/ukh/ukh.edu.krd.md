@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukh.edu.krd privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904070139id_/https%3A//ukh.edu.krd/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukh.edu.krd privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511134310id_/https%3A//ukh.edu.krd/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | University of Kurdistan Hewler
 
