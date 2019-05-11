@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010161459id_/https%3A//whitney.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511030905id_/https%3A//whitney.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Whitney Museum of American Art
 
@@ -68,7 +68,7 @@ If for any reason you do not wish to receive further email from the Museum, plea
  _Cookies_  
 The Museum’s website uses cookies to distinguish you from other users, provide a better experience when you browse our website, and improve our site’s performance and usefulness. By continuing to browse the site, you are agreeing to our use of cookies.
 
-A cookie is a small data file that websites can place on your hard drive when you visit. A cookie file can contain information such as a user ID that tracks the pages you’ve visited within that site. The cookies on this website are primarily used to recognize that a user has visited the website previously and to track user traffic patterns.
+A cookie is a small data file that websites can place on your hard drive when you visit. A cookie file can contain information such as a user ID that tracks the pages you’ve visited within that site. The cookies on this website are primarily used to recognize that a user has visited the website previously and to track user traffic patterns. Third parties, including Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads.
 
 If you prefer not to receive cookies through the site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You also can refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any pages within our website. For more information about cookies, including how to set your browser to reject cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
@@ -125,4 +125,4 @@ This website is published in the United States and is subject to laws of the Uni
 
 Please note that the Museum may revise this Privacy Policy at any time. You agree to be bound by this Privacy Policy and any modifications to this Privacy Policy by your continued use of the website, purchasing tickets, or otherwise providing personal information. We encourage you to periodically visit this page to review our most current policy. Your continued use of the website following the posting of changes to these terms will indicate your acceptance of those changes.
 
-Last updated May 21, 2018
+Last updated October 26, 2018
