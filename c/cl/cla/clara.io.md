@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clara.io privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123213707id_/https%3A//clara.io/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clara.io privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511053939id_/https%3A//clara.io/legal/privacy-policy) for the most accurate reproduction.*
 
 # · Clara.io
 
