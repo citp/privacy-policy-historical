@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedfloren.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107094651id_/http%3A//www.reedfloren.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedfloren.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511064432id_/http%3A//www.reedfloren.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - ReedFloren.com
 
