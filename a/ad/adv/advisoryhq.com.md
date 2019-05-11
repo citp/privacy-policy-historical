@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advisoryhq.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810002503id_/http%3A//www.advisoryhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisoryhq.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511043530id_/https%3A//www.advisoryhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – AdvisoryHQ
 
@@ -6,7 +6,7 @@
 
 Your privacy is important to us.
 
-This notice applies to all information collected from or submitted to [www.advisoryhq.com](http://www.advisoryhq.com/) and [advisoryhq.com](http://www.advisoryhq.com/), hereinafter also referred to as “AdvisoryHQ,” “we,” and “site.” This privacy policy supports our commitment in serving you and covers AdvisoryHQ’s treatment of information collected.
+This notice applies to all information collected from or submitted to [https://www.advisoryhq.com](https://www.advisoryhq.com/), hereinafter also referred to as “AdvisoryHQ,” “we,” and “site.” This privacy policy supports our commitment in serving you and covers AdvisoryHQ’s treatment of information collected.
 
 Our site may contain links to other websites operated by third parties. AdvisoryHQ is not responsible for the privacy practices or policies of such third-party sites.
 
@@ -53,8 +53,6 @@ The content and information provided on our site has been published in the Unite
 
 Our site includes third-party/affiliate advertisements. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Click here for additional information on [AdvisoryHQ’s Advertising, Affiliates, and Editorial Disclosures](http://www.advisoryhq.com/ahq-disclosures/).
-
 **Children’s Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act); we do not knowingly collect any information from anyone under 13 years of age. If we become aware that a child under 13 years of age has provided us with personally identifiable information, we will delete such information from our files.
@@ -69,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms of Use**
 
-Please also visit our [Terms of Use](http://www.advisoryhq.com/terms-of-use/) section, which establishes the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms of Use](https://www.advisoryhq.com/terms-of-use/) section, which establishes the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
@@ -81,7 +79,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy, please [contact us](http://www.advisoryhq.com/contact-us/).
+If there are any questions regarding this privacy policy, please [contact us](https://www.advisoryhq.com/contact-us/).
 
 **Privacy Policy Customer Pledge**
 
