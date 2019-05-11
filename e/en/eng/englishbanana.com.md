@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishbanana.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108160654id_/http%3A//www.englishbanana.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishbanana.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511022826id_/http%3A//www.englishbanana.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EnglishBanana.com - Privacy Policy
 
@@ -16,4 +16,4 @@ Please note that all the policies of English Banana.com are reviewed on a regula
 
 Please contact us [here](https://web.archive.org/contact.html "Click here...") if you are still not clear about our privacy policy, and have any comments, questions or concerns regarding any of the above.
 
-[* top *](https://web.archive.org/web/20181108160654id_/http%3A//www.englishbanana.com/privacy-policy.html "back to top...")
+[* top *](https://web.archive.org/web/20190511022826id_/http%3A//www.englishbanana.com/privacy-policy.html "back to top...")
