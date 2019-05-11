@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powergrid.in privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831232730id_/http%3A//powergrid.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powergrid.in privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511123532id_/http%3A//powergrid.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | POWERGRID | A Government of India Enterprise
 
