@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childfun.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109140746id_/http%3A//www.childfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childfun.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511121617id_/http%3A//www.childfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ChildFun
 
