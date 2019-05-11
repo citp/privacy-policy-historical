@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamerguides.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812104938id_/https%3A//www.gamerguides.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerguides.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511120024id_/https%3A//www.gamerguides.com/privacy) for the most accurate reproduction.*
 
-# Gamer Guides - Privacy Policy
+# Privacy Policy | Gamer Guides
 
 This privacy policy sets out how Gamer Guides Ltd uses and protects any information that you give Gamer Guides Ltd when you use this website. Gamer Guides Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Gamer Guides Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
