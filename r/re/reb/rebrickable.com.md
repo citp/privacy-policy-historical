@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebrickable.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227124959id_/https%3A//rebrickable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebrickable.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511221746id_/https%3A//rebrickable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rebrickable - Build with LEGO
 
