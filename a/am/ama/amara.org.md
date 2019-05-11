@@ -1,82 +1,147 @@
-> *The following text is extracted and transformed from the amara.org privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305150043id_/https%3A//pculture.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amara.org privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511135144id_/https%3A//pculture.org/privacy) for the most accurate reproduction.*
 
 # PCF Privacy Policy
 
-This privacy policy applies to all web sites and web services operated by the Participatory Culture Foundation or PCF (refered to as attached in this policy) unless the web site or service has a separate privacy policy.
+__This PCF Privacy Policy explains generally how we receive information about you, and what we do with that information once we have it. This privacy policy applies to all websites and services offered by the Participatory Culture Foundation or PCF, unless the web site or service has a separate privacy policy.
 
-Except as described below, PCF does not collect or require visitors to its web sites to furnish personally identifying information such as names, email addresses, and phone numbers. Like most web site operators, PCF does collect non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, operating system, language preference, referring site and date and time of each visitor request. PCF also collects potentially-personally identifying information like Internet Protocol (IP) addresses, which are non-personally identifying in and of themselves but could be used in conjunction with other information to personally identify users.
+Amara.org is a service offered by PCF.
 
-PCF's purpose in collecting this information is to better understand how PCF's visitors use its web sites. To that end, PCF may share potentially-personally identifying information with its employees, contractors, service providers, and subsidiaries and related organizations. PCF may also release its results of such analyses of non-personally identifying information about visitors by publishing a report on web site usage trends. Otherwise, PCF will not publicly release potentially-personally identifying information except under the same circumstances as PCF releases personally identifying information. Those circumstances are explained below.
+## What do we mean by "personal information?"
 
-## Community Members
+For us, "personal information" means information which identifies you, like your name or email address.
 
-Certain members of the PCF community (contributors, customers, etc.) choose to interact with PCF in ways that require PCF and others to know more about them. The amount and type of information that PCF gathers from those members depends on the nature of the interaction. For example, members who wish to post content to certain portions of PCF's web sites or participate in live chat session(s) are asked to provide usernames that are used to identify content as having been posted by a particular member (who is identified by the username).
+Any information that falls outside of this is "non-personal information."
 
-Developers, by comparison, are asked to provide contact information, up to and sometimes including telephone or fax numbers, so that they can be contacted as necessary. Typically, developers will be contacted by email, IRC (internet relay chat), or IM (instant messaging services). However, in the event of a time-sensitive question relating to the work the developer is doing in connection with PCF and where other means of contact have failed, a developer's phone number or fax number may be used to contact the developer. This information is available to PCF employees, contractors, subsidiaries, and potentially to other members of the community. A developer can choose not to provide a phone number or fax number. On occasion, developers and other community members are contacted by email and asked for a physical address or geographic location so that they may be sent PCF-related t-shirts and other schwag or invited to a meetup or other PCF-related gathering. In such cases, the purpose for which their physical address is sought will be made explicit.
+If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
 
-Customers of PCF stores (which sell merchandise and services on behalf of PCF) are asked to provide even more information, including billing and shipping addresses and credit card or similar information to third party vendors so that their transactions can be processed and fulfilled by PCF or a third-party fulfillment vendor.
+## How do we learn information about you?
 
-We also permit community members to provide their name and email addresses so that they can have a more direct engagement with PCF and so that PCF can send them information related to PCF, such as educational material, promotional and cross-promotional material, surveys to be completed, messages about PCF, events information, and other such information and materials. These are opt-in interactions where community members affirmatively sign-up for inclusion in a direct communication with PCF (and with an ability to unsubscribe/opt-out on any email received). These campaigns may be conducted with the help of a third-party customer relationship manager to help us manage the database of information and its analysis and use, in each case such third party's involvement with all the data collected will be solely on PCF's behalf. As part of these marketing campaigns, we might also ask you to provide demographic information such as gender, age, job or role, country, geographic location, and areas of interest. If we ask you for this information, we will use it to customize our communication with you and to better understand those interested in PCF and its products. As part of these marketing campaigns, we may collect a campaign source ID, marketing campaign ID, and a campaign referrer ID. These types of information are used so that we may better understand your interests and the effectiveness of particular marketing campaigns. We may also use this information to customize our communications with you. For example, if a community member plans to host a PCF-themed party to promote a product launch or other event and would like to receive PCF promotional items like t-shirts, buttons, and stickers for her guests (which we call "schwag"), the community member may submit her name, mailing address, and details about the event (such as date and number of anticipated guests) through Bugzilla so that we (or our service providers) can process this request. In each case, PCF collects personally identifying information only insofar as is necessary to fulfill the purpose of the community member's interaction with PCF. And in the case of a schwag request, those bugs allow you to select restricted access so that only PCF contractors and employees and the individuals listed in the bug can access your information via Bugzilla itself.
+We learn information about you when:
 
-Applicants for employment with PCF are required to provide contact information, including name, street address, telephone number, and email address, as well as resume information. We use this information to process and evaluate the application for employment, and to communicate with the applicant about employment opportunities. If we elect to make an offer of employment, this information may become part of the employee file and may be used for other employment and work-related purposes.
-
-PCF is an open organization that believes in sharing as much information as possible about its products, its operations and its associations. Accordingly, community members should assume - as should most folks who interact with PCF - that any personally identifying information provided to PCF will be made available to the public. There are four broad exceptions to that rule:
-
-  1. PCF does not publicly release information gathered in connection with commercial transactions (i.e., transactions involving money), including transactions conducted through PCF Store or donations to PCF.
-  2. PCF does not publicly release personally identifying information collected in connection with an application for employment with PCF.
-  3. PCF does not make publicly available information that is used to authenticate users the publication of which would compromise the security of PCF's web sites (e.g., passwords).
-  4. PCF does not make publicly available information that it specifically promises at the time of collection to maintain in confidence.
+  * you give it to us directly (e.g., when you register for an account);
+  * we collect it automatically through our products and services (e.g., when you log in to Amara.org);
+  * someone else tells us information about you (e.g., when subtitles created by an user on Amara.org contain a reference to you); or
+  * when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
 
 
 
-Outside those four contexts, users should assume that personally identifying information provided through PCF's web sites may be made available to the public.
+## What do we do with your information once we have it?
 
-## Interactive Product Features
+When you give us information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you. For example, when you link a third party platform account (eg. Vimeo or YouTube), we only share information necessary to link your account. We will never sell your personal information. You have the right to access your personal information and/or delete it from our services; please [contact us](https://web.archive.org/contact-pcf) if you require assistance.
 
-Certain PCF products contain features that report, or that permit users to report, the user's usage patterns and problems - whether caused by PCF's software, third-party software, or third-party web sites - to PCF. The reports generated by these features typically include non-personally identifying information such as the configuration of the user's computer and the code running at the time the problem occurred.
+## When do we share your information with others?
 
-Some of these features give users the option of providing personally identifying information, though none of these features require it. Some PCF software features that do permit users to provide personally identifying information advise, in advance, that such information will not be made publicly available. PCF analyzes the information provided by these interactive product features to develop a better understanding of how its products are performing and being used. It does not use the information to track the usage of its products by identifiable individuals.
+  * When we have asked and received your permission to share it.
+  * For processing or providing products and services to you, as well as improving our offerings. Examples include:
 
-## Protection of Certain Personally-Identifying Information
+    * Web and database hosting services
 
-Where PCF has collected personally identifying information subject to one of the four exceptions described in the Community Members section, above, it discloses that information only to those of its employees, contractors, service providers, and subsidiaries and related organizations that need to know that information in order to process it on PCF's behalf and that have agreed not to disclose it to others. Some of these employees, contractors, service providers, and subsidiaries and related organizations may be located outside of your home country; by using PCF's web sites, you consent to the transfer of your information to them, which may involve the transfer of your information to countries that may provide a lesser level of data protection than your country of residence. PCF does not rent or sell such information to anyone. PCF may be required to disclose information to the government or others. This may happen if we receive a valid search warrant, subpoena, court order, or other legal mandate. For example, the DMCA framework (specifically Section 512(h)) contains an expedited subpoena process for copyright holders to request and receive information service providers have regarding the identity of alleged copyright infringers. In certain other limited situations, PCF may disclose personally identifying or other information, such as when necessary to protect our websites and operations (e.g., against attacks); to protect the rights, privacy, safety, or property of PCF or its users; to enforce our terms of service; and to pursue available legal remedies. Additionally, PCF may need to transfer personally identifying information to an affiliate or successor in the event of a change of our corporate structure or status, such as in the event of a restructuring, sale, or bankruptcy. We will retain any personally identifying information for the period necessary to fulfill the purposes outlined in this privacy policy.
+    * Data analytics services (see _How do we use cookies and clear GIFS?_ below)
 
-## Security
+  * In cases where you request specific services, we may share data with carefully vetted contractors or partners to help provide them. These services are not limited to, but could include captioning, translation, automatic-alignment, and so on.
 
-PCF undertakes a range of security measures including physical access restraints, technical security monitoring, and internal security reviews of the environment to help to protect your personal information from unauthorized access, alteration, disclosure, or destruction. We also have policies in place to prohibit employees from viewing personal information without business justification.
+    * But only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by PCF.
 
-## Updating of Personally-Identifying Information
+  * When the law requires it. We do disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so.
 
-You may request access, correction, or deletion of your personally identifiable information or potentially personally identifiable information, as permitted by law. PCF will seek to comply with such requests, provided that we have sufficient information to identify the personally identifiable information or potentially personally identifiable information related to you. To do so, users should look for links or contact information available on whichever PCF web sites store the relevant information (e.g., Bugzilla users should go to Account Settings) or contact PCF by using one of the email addresses listed below.
+  * When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, PCF or the public.
+  * In the event of organizational restructuring, we may pass your information to a successor or subsidiary.
 
-## Cookies and Clear GIFs
 
-What Are Cookies? A cookie is a string of information that a web site stores on a visitor's computer, and that the visitor's browser provides to the web site each time the visitor returns. Most major web sites use cookies. Because the browser provides this cookie information to the web site at each visit, cookies serve as a sort of label that allows a web site to "recognize" a browser when it returns to the site. The domain name in PCF cookies will clearly identify their affiliation with PCF and, where applicable, its third-party service provider.
 
-## What Are Clear GIFs?
+## How do we store and protect your personal information?
 
-Clear gifs (also known as web beacons) are used in combination with cookies to help web site operators understand how visitors interact with their web sites. A clear gif is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. The use of a clear gif allows the site to measure the actions of the visitor opening the page that contains the clear gif. It makes it easer to follow and record the activities of a recognized browser, such as the path of pages visited at a web site.
+We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
 
-## How We Use Cookies and Clear GIFs.
+We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
 
-PCF's web sites use cookies to help PCF identify and track visitors, their usage of PCF web sites, and their web site access preferences across multiple requests and visits to PCF's web sites. Our web sites, and advertisements that PCF may run occasionally on thirdparty advertising networks, also may use clear gifs for these purposes. The basic idea is to gather aggregate data about how people use PCF web sites. The term usually used to describe this is "web analytics" and the cookies and clear gifs are the tools by which a website owner collects this web analytics data.
+## How do we use cookies and clear GIFS?
 
-PCF will use the web analytics data only to determine aggregate usage patterns for our web sites as described above. PCF web sites do this by using either our own internal analytics software or by sending this information to a third-party service provider to help PCF analyze this data. PCF web sites using third-party web analytics tools are listed here. PCF has agreements with its third-party service providers that they will not share this information with others or use the information for purposes other than to maintain the services they provide to PCF. It is possible to link cookies and clear gifs to personally identifying information, thereby permitting web site operators, including our third-party analytics providers, to track the online movements of particular individuals. PCF does not do so and its third-party service providers are not allowed to correlate PCF data with any other data.
+### Cookies, clear GIFS, and web analytics
 
-PCF uses the information provided by cookies and clear gifs to develop a better understanding of how PCF's visitors use PCF's web sites, and to facilitate those visitors' interactions with PCF's web sites. PCF may make the aggregate data obtained from web analytics (including from our third-party analytics providers, if applicable) publicly available. If this data is made available, none of the information will be personally identifying information or potentially-personally identifying information.
+We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications.
 
-## Other Third Party Cookies.
+  * **Functionality:** We may use cookies, device information and IP addresses to enhance functionality of certain products, services, and communications. For example: 
+    * Cookies are used to remember your Amara language preferences.
+    * IP addresses are used to customize communications by language and country.
+  * **Metrics:** We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications and websites. We use: 
+    * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content.
+    * Other metrics tools from time to time, on an experimental basis. For example, we may do this to help evaluate a new metrics tool, or test existing metrics collection.
 
-Content from other sources that is hosted on PCF web sites may sometimes contain cookies that send information to those third parties. In certain cases, often associated with embedded content such as YouTube videos and other site linking buttons, a third party cookie may be set by the 3rd party content or provider. In these cases, the privacy policy of the 3rd party governs with respect to information that may be collected by and sent to the respective 3rd party. If you are concerned about these third party cookies, please see the information below on how to decline cookies.
 
-## How to Control the Use of Cookies.
 
-You have the ability to accept or decline cookies. PCF visitors who do not wish to have cookies placed on their computers by PCF, its contractors, or third-party service providers should set their browsers to refuse cookies before linking to PCF's web sites. Certain features of PCF's web sites may not function properly without the aid of cookies.
+### Opting out of cookies, and web analytics
 
-## Opt-out Procedures
+You can control individual cookie preferences, indicate your cookie preferences to others, and opt-out of web analytics and optimization tools.
 
-If you do not want to allow your session visitation information on PCF web sites to be aggregated and analyzed by PCF (or its third-party analytics providers) you may utilize the following opt-out mechanisms listed here. Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from PCF, you can opt-out from receiving these communications by following the "unsubscribe" instructions in any such communication you receive.
+  * **Cookie History:** You can accept or decline individual cookies in your browser preferences. Note that certain features of our products and services may not function properly without the aid of cookies.
+  * **Analytics & Optimization:** Follow the instructions below to prevent data collection about your visits to PCF websites: 
+    * Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which keeps your visits anonymous and prohibits data transmission to Google Analytics.
 
-## Privacy Policy Changes
 
-By using the web sites, you agree to the terms and conditions of this privacy policy. If you do not agree to the terms and conditions of this privacy policy, please do not use the web sites. PCF may change its Privacy Policy from time to time. Any and all changes will be reflected on this page. Substantive changes will also be announced through the standard mechanisms through which PCF communicates with the PCF community, including PCF's "announce" mailing list and newsgroup.
+
+## Do we process or retain your payment information?
+
+Some PCF websites allow you to make purchases or donations. These transactions are processed by third parties, and not PCF.
+
+PCF does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.
+
+## How do we comply with the GDPR?
+
+As laid out in our [Privacy Shield certification](https://www.privacyshield.gov/list), we comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. PCF has certified that it adheres to the Privacy Shield Principles. PCF remains responsible for any of your personal information that is shared under the Onward Transfer Principle with third parties for external processing on our behalf, as described in the “When do we share your information with others?” section. To learn more about the Privacy Shield program, and to view PCF’s certification, please visit the [Privacy Shield](https://www.privacyshield.gov/welcome) website.
+
+### GDPR issue resolution
+
+In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. EU individuals, and any others, with inquiries or complaints regarding our Privacy Shield policy should first contact PCF at:
+
+[privacyshield@pculture.org](mailto:privacyshield@pculture.org?subject=Privacy%20Shield%20or%20GDPR%20Inquiry)
+
+or
+
+via the postal addresses at the bottom of this policy
+
+We have further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints. If we cannot resolve your complaint in a timely fashion, please contact [United States Council for International Business](https://www.uscib.org/dispute-resolution-ud-835/) for independent dispute resolution; this service is provided free of cost to you. Individuals, under certain conditions, have the possibility to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms.
+
+In compliance with the Privacy Shield, we shall not be held liable for third-party service providers processing personal information in violation of Privacy Shield Principles, unless we are proven to be solely responsible for the action of the third-party service provider which violated the Principles.
+
+With regard to Privacy Shield compliance, we are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
+## What else should you know?
+
+We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+
+If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://web.archive.org/contact-pcf) to have your child's information removed.
+
+## What if we change this privacy policy or any of our privacy notices?
+
+We may need to change this policy and our notices. If the changes are substantive, we will announce the update through PCF's usual channels for such announcements such as our blog. Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes.
+
+## Contact PCF
+
+If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+
+### If you live in the US, Canada, or anywhere outside the EU
+
+Participatory Culture Foundation
+
+Attn: Legal Notices - Privacy
+
+PO Box 55071
+
+#20335
+
+Boston, MA 02205-5071
+
+USA
+
+### If you live in the European Union
+
+Participatory Culture Foundation
+
+Attn: Legal Notices - Privacy
+
+5 New Street Square, London, EC4A 3TW
+
+United Kingdom
+
+_About this Privacy Policy: This text is released under the Creative Commons Attribution Share-Alike 3.0 Unported license. It is based on Mozilla Foundation’s privacy policy._
