@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurogadget.net privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210011459id_/http%3A//neurogadget.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurogadget.net privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511083225id_/https%3A//neurogadget.net/privacy-policy) for the most accurate reproduction.*
 
 # Neurogadget Privacy Policy - Neurogadget
 
@@ -21,3 +21,7 @@ We don’t endorse a policy of using automated tools for collecting personally i
 The use of your personal information shall be limited to marketing or advertising campaigns that are intended to offer improved or customized services. We shall never promote our business by selling, leasing, renting or sharing your personal information with the third party advertisers. However, nothing shall prevent us from disclosing your personal information which is necessary for protecting property or safety of Neurogadget, safeguarding the rights of other users, enforcing the regulations of law enforcement agencies and courts orders, or appropriately responding to development that requires prompt disclosure of personally identifiable information.
 
 We shall not be responsible for gathering, storage and use of your personal details by third party service providers, or websites being featured or linked to our website. You should understand that collection, processing, storage, use or sharing of your personal information by third party websites or service providers are governed by their own policies. You should carefully read their terms of service before accessing or using their services.
+
+**NAI/IAB**
+
+We are compliant with the policies of several industry groups that focus on effective communication, best practices, and policy review in the field of Online Behavioral Advertising (OBA). These organizations include the [Network Advertising Initiative](http://www.networkadvertising.org/) ([NAI](http://optout.networkadvertising.org/)), the Digital Advertising Alliance (DAA), and the [Interactive Advertising Bureau](http://www.iab.net/) (IAB). We are compliant with both the NAI and DAA self-regulatory codes. We believe that delivering targeted and relevant advertising enhances your internet experience.  [Opt-Out](http://optout.networkadvertising.org/).
