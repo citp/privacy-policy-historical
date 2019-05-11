@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libreelec.tv privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927133444id_/https%3A//libreelec.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libreelec.tv privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511182153id_/https%3A//libreelec.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – LibreELEC
 
