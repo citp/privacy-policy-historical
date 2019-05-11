@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onlymyhealth.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112193911id_/https%3A//www.onlymyhealth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlymyhealth.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511210857id_/https%3A//www.onlymyhealth.com/privacy.html) for the most accurate reproduction.*
 
-# privacy-New
+# privacy
+
+Privacy ****Policy****
 
 **Objective and Scope**
 
@@ -20,25 +22,24 @@ The objective of the privacy policy is to inform you regarding the processing of
 
 Personal information (PI) - means any information relating to an identified or identifiable living person (‘data subject’ here in referred as you/your’). In particular using a common identifier such as a name, an identification number, location data, an online identifier or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
-The Company respects the privacy of the users of the Services and is committed to reasonably protect it in all respects. The information about the user as collected by the Company is: 
+The Company respects the privacy of the users of the Services and is committed to reasonably protect it in all respects. The information about the user as collected by the Company is:
 
 **A. Information you provide to us**
 
 **Information Collected when you use our Website**
 
-Many of our services require you to register/sign up for an account on OnlyMyHealth When you do, we will ask for personal information, to continue to interact with you and to continue providing you the Services. Information that we collect include, but not limited to - 
+Many of our services require you to register/sign up for an account on OnlyMyHealth When you do, we will ask for personal information, to continue to interact with you and to continue providing you the Services. Information that we collect include, but not limited to -
 
-  * • Name
-  * • Location
-  * • Email ID
-  * • User comments/ questions/ answers related to health
-  * • User Name
-  * • Date of Birth
-  * • Contact Number
-  * • Photograph
-  * • Gender
-  * • Occupation
-  * • Interests
+  * Name
+  * Location
+  * User comments/ questions/ answers related to health
+  * User Name
+  * Date of Birth
+  * Contact Number
+  * Photograph
+  * Gender
+  * Occupation
+  * Interests
 
 
 
@@ -46,12 +47,12 @@ Many of our services require you to register/sign up for an account on OnlyMyHea
 
 When you download our mobile application (related to our various services) we collect the below information, but not limited-
 
-  * • Name
-  * • Device ID
-  * • Name
-  * • Email ID
-  * • Phone Number
-  * • Gender
+  * Name
+  * Device ID
+  * Name
+  * Email ID
+  * Phone Number
+  * Gender
 
 
 
@@ -63,9 +64,11 @@ We may collect additional information at other times, when you provide feedback(
 
 **B. Information Automatically Collected/Tracked while Navigation Cookies**
 
-To improve the responsiveness of the "Services" for our users, we may use "cookies", (a small text file that may be used, for example, to collect your information about Website/Application activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a user) or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification ("User ID") to understand the user's individual interests using the identified computer. Our advertisers may also assign their own cookies to your browser(s) (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via website(s), Application(s) or Services through your computer/laptop/notebook/ mobile/tablet/pad/handheld device or any other electronic device capable of connecting to internet.  
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Website/application and some sections/features of the site/application may not work.  
-For more details you can refer to our **[Cookie Policy](https://web.archive.org/cookies-policy.html)**
+To improve the responsiveness of the "Services" for our users, we may use "cookies", (a small text file that may be used, for example, to collect your information about Website/Application activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a user) or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification ("User ID") to understand the user's individual interests using the identified computer. Our advertisers may also assign their own cookies to your browser(s) (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via website(s), Application(s) or Services through your computer/laptop/notebook/ mobile/tablet/pad/handheld device or any other electronic device capable of connecting to internet.
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Website/application and some sections/features of the site/application may not work.
+
+For more details you can refer to our **Cookie Policy**
 
 **Log File Information**
 
@@ -77,17 +80,17 @@ We may use **"clear GIFs"** (Web Beacons) when you use our websites, to track th
 
 **C. Inferred Information through usage and log data**
 
-We may collect and track certain information about you based upon your behaviour on the OnlyMyHealth. We use this information for conducting internal research on our users' demographics, devices, interests, and behaviour to better understand, protect and serve our users. 
+We may collect and track certain information about you based upon your behaviour on the OnlyMyHealth. We use this information for conducting internal research on our users' demographics, devices, interests, and behaviour to better understand, protect and serve our users.
 
 We may also collect your Information to track user behaviour and preferences for internal analytics and research. We may also use your information:
 
-  * i. To evaluate your interest for various genres of content, services, offers; 
-  * ii. To perform analytics and conduct customer research, to determine your interest, for identifying content that generate sales and to analyse traffic patterns.
+i. To evaluate your interest for various genres of content, services, offers;
 
+ii. To perform analytics and conduct customer research, to determine your interest, for identifying content that generate sales and to analyse traffic patterns.
 
+If you choose to post messages on social media accounts, message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. 
 
-If you choose to post messages on social media accounts, message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.   
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the OnlyMyHealth, we may collect and store such information. 
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the OnlyMyHealth, we may collect and store such information.
 
 **D. Information obtained from other Sources**
 
@@ -101,25 +104,25 @@ In case you choose to decline to submit personal information on the Application/
 
 We will only collect and process personal data about you where we have lawful basis. Lawful basis on which we would process our personal information includes obtaining explicit consent from you for processing your personal information or processing for “legitimate interests” where processing is necessary by us to provide you with services (For e.g. processing your information by our group companies/affiliates).
 
-  * • We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with sensitive categories, such as those based on race, religion, sexual orientation or health.
-  * • Send alerts and newsletter(s) to you (Provided you subscribe to the same). You may also raise a request to the onlymyhealth team by filling the data subject form [www.onlymyhealth.com/data-subject-form](https://web.archive.org/data-subject-form)
-  * • Send notification(s) to you on your handheld devices (To turn off the notifications, please visit your account settings).
-  * • Communicate with you concerning our service (for example by email, push notifications), so that we can send you news about OnlyMyHealth, details about new features and content available on the OnlyMyHealth Services, promotional announcements, marketing purposes and surveys, other services of OnlyMyHealth affiliates and to assist you with operational requests such as password reset requests. 
-  * • Improve our Website/application and its content to provide better features and services.
-  * • Conducting market research and surveys with the aim of improving our products and services.
-  * • Preventing, detecting, investigating and prosecuting crimes (including but not limited to fraud and other financial crimes) in any jurisdiction, identity verification, government sanctions screening and due diligence checks
-  * • Establishing, exercising or defending legal rights in connection with legal proceedings (including any prospective legal proceedings) and seeking professional or legal advice in relation to such legal proceedings.
-  * • Our automated systems analyse your content to provide you customised search results, recommendations and specific promotions and offers
-  * • To help advertisers understand our audience and confirm the value of advertising on our websites or applications, (however it is usually in the form of aggregated statistics on traffic to various pages within our site)
-  * • Notify you about changes in terms of service or privacy policy
-  * • Allow you to participate in interactive features offered through our Services, including contests and surveys
-  * • Sharing with our customer support team to resolve your queries/concerns related to your rights or services provided to you.
+  * We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with sensitive categories, such as those based on race, religion, sexual orientation or health.
+  * Send alerts and newsletter(s) to you (Provided you subscribe to the same). You may also raise a request to the onlymyhealth team by filling the data subject form [www.onlymyhealth.com/data-subject-form](https://web.archive.org/data-subject-form)
+  * Send notification(s) to you on your handheld devices (To turn off the notifications, please visit your account settings).
+  * Communicate with you concerning our service (for example by email, push notifications), so that we can send you news about OnlyMyHealth, details about new features and content available on the OnlyMyHealth Services, promotional announcements, marketing purposes and surveys, other services of OnlyMyHealth affiliates and to assist you with operational requests such as password reset requests.
+  * Improve our Website/application and its content to provide better features and services.
+  * Conducting market research and surveys with the aim of improving our products and services.
+  * Preventing, detecting, investigating and prosecuting crimes (including but not limited to fraud and other financial crimes) in any jurisdiction, identity verification, government sanctions screening and due diligence checks
+  * Establishing, exercising or defending legal rights in connection with legal proceedings (including any prospective legal proceedings) and seeking professional or legal advice in relation to such legal proceedings.
+  * Our automated systems analyse your content to provide you customised search results, recommendations and specific promotions and offers
+  * To help advertisers understand our audience and confirm the value of advertising on our websites or applications, (however it is usually in the form of aggregated statistics on traffic to various pages within our site)
+  * Notify you about changes in terms of service or privacy policy
+  * Allow you to participate in interactive features offered through our Services, including contests and surveys
+  * Sharing with our customer support team to resolve your queries/concerns related to your rights or services provided to you.
 
 
 
 **III. Third party services**
 
-Third parties provide certain services available on OnlyMyHealth on JPL’s behalf. OnlyMyHealth may provide information, including Personal Information that ‘OnlyMyHealth collects on the Website/Application to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which OnlyMyHealth maintains its Website/Application and mailing lists. OnlyMyHealth will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on OnlyMyHealth behalf.
+Third parties provide certain services available on OnlyMyHealth on JPL’s behalf. OnlyMyHealth may provide information, including Personal Information that ‘OnlyMyHealth collects on the Website/Application to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which OnlyMyHealth maintains its Website/Application and mailing lists. OnlyMyHealth will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on OnlyMyHealth behalf
 
 OnlyMyHealth does not intend to transfer Personal Information without your consent to third parties who are not bound to act on OnlyMyHealth behalf unless such transfer is required for legal purposes or for providing relevant services. Similarly, it is against ‘OnlyMyHealth’s policy to sell Personal Information collected online without consent.
 
@@ -129,10 +132,10 @@ We present information to our advertisers to help them understand our audience a
 
 We use third-party advertising companies to serve ads when you visit our website/application. These companies may use information (such as but not limited to photos/media/files on your device, location, audio about your visits to this and other websites/applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.
 
-  * • The OMH application contains a software development kit (“SDK”) from a third party, Red Brick Lane Marketing Solutions Private Limited (“RBL”). The SDK is integrated with this application for the purposes of profiling the device on media consumption and other device data and utilizing the same to target relevant content and ads to the device (“Services”) pursuant to the terms and conditions of RBL Services. Further details can be obtained at <http://www.zapr.in/privacy/>.
-  * • If you do not wish for RBL to identify media content viewing around your mobile device, please opt out of all RBL Services via the following link: <http://www.zapr.in/privacy/>.
-  * • RBL does not collect any personal information or audio/video/image/contact files from your mobile device. For any questions or clarifications please reach out to: [privacy@zapr.in.](mailto:privacy@zapr.in)
-  * • RBL also automatically receives and tracks certain data about your mobile device (such as your device-type, installed software and language preference) or desktop interface; and may create a unique device or user ID for you. In some cases, RBL can automatically detect or infer your location using GPS, your IP address, etc., but often your operating system will require you to grant RBL permission to access your GPS settings; please refer to your device’s system settings regarding location services.
+  * The OMH application contains a software development kit (“SDK”) from a third party, Red Brick Lane Marketing Solutions Private Limited (“RBL”). The SDK is integrated with this application for the purposes of profiling the device on media consumption and other device data and utilizing the same to target relevant content and ads to the device (“Services”) pursuant to the terms and conditions of RBL Services. Further details can be obtained at [http://www.zapr.in/privacy/.](https://www.zapr.in/privacy/)
+  * If you do not wish for RBL to identify media content viewing around your mobile device, please opt out of all RBL Services via the following link: <http://www.zapr.in/privacy/>.
+  * RBL does not collect any personal information or audio/video/image/contact files from your mobile device. For any questions or clarifications please reach out to: [privacy@zapr.in.](mailto:privacy@zapr.in)
+  * RBL also automatically receives and tracks certain data about your mobile device (such as your device-type, installed software and language preference) or desktop interface; and may create a unique device or user ID for you. In some cases, RBL can automatically detect or infer your location using GPS, your IP address, etc., but often your operating system will require you to grant RBL permission to access your GPS settings; please refer to your device’s system settings regarding location services.
 
 
 
@@ -142,8 +145,7 @@ OnlyMyHealth does not provide any personal information to the advertiser when yo
 
 **IV. Children**
 
-To use the Site/Application you agree that you must be the minimum age (described in this paragraph below) or older.  
-The minimum age for these purposes shall be 16, however if local laws require that you must be older in order for OnlyMyHealth to lawfully provide the services in the Site/Application to you then that older age shall apply as the applicable minimum age. In all jurisdictions outside the European Union, if you are under the age of 18 or the age of majority in your jurisdiction, you must use OnlyMyHealth under the supervision of your parent, legal guardian or responsible adult.
+To use the Site/Application you agree that you must be the minimum age (described in this paragraph below) or older. The minimum age for these purposes shall be 16, however if local laws require that you must be older in order for OnlyMyHealth to lawfully provide the services in the Site/Application to you then that older age shall apply as the applicable minimum age. In all jurisdictions outside the European Union, if you are under the age of 18 or the age of majority in your jurisdiction, you must use OnlyMyHealth under the supervision of your parent, legal guardian or responsible adult.
 
 **V. Information Sharing**
 
@@ -151,12 +153,12 @@ We restrict access to your Personal Information to employees who we believe reas
 
 OnlyMyHealth does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-  * • We provide the information to trusted partners who work on behalf of or with ‘JPL’ under confidentiality agreements. These companies may use your personal information to help OnlyMyHealth communicate with you about offers from OnlyMyHealth and our marketing partners. However, these companies do not have any independent right to share this information.
-  * • We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * • We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ‘OnlyMyHealth terms of use, or as otherwise required by law.
-  * • We transfer information about you if ‘OnlyMyHealth is acquired by or merged with another company. In this event, ‘OnlyMyHealth will notify you before information about you is transferred and becomes subject to a different privacy policy.
-  * • We may share personal information (such as name, number, and email address) with carefully selected education colleges/ educational institutions, call centres based on your expression of interest regarding courses, specializations and institutions so that they may consider further marketing campaigns or recruitment measures. Some of these educational institutions may have access to your personal information to verify the status of your website/application or enrolment. We will inform the education institutions that they are not allowed to use your personal information for any reason other than mentioned above. Users should note however that, how these educational institutions use this data is not governed by our privacy policy. Therefore, we cannot be held responsible for how the data is utilized once it is shared with them. Educational institutions have separate policy practices for which OnlyMyHealth has no responsibility or liability. For further information on how such institutions use your information, please visit the applicable privacy policy of that institution. 
-  * • OnlyMyHealth works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services, please refer the section “Third party services” of this policy.
+  * We provide the information to trusted partners who work on behalf of or with ‘JPL’ under confidentiality agreements. These companies may use your personal information to help OnlyMyHealth communicate with you about offers from OnlyMyHealth and our marketing partners. However, these companies do not have any independent right to share this information.
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ‘OnlyMyHealth terms of use, or as otherwise required by law.
+  * We transfer information about you if ‘OnlyMyHealth is acquired by or merged with another company. In this event, ‘OnlyMyHealth will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * We may share personal information (such as name, number, and email address) with carefully selected education colleges/ educational institutions, call centres based on your expression of interest regarding courses, specializations and institutions so that they may consider further marketing campaigns or recruitment measures. Some of these educational institutions may have access to your personal information to verify the status of your website/application or enrolment. We will inform the education institutions that they are not allowed to use your personal information for any reason other than mentioned above. Users should note however that, how these educational institutions use this data is not governed by our privacy policy. Therefore, we cannot be held responsible for how the data is utilized once it is shared with them. Educational institutions have separate policy practices for which OnlyMyHealth has no responsibility or liability. For further information on how such institutions use your information, please visit the applicable privacy policy of that institution.
+  * OnlyMyHealth works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services, please refer the section “Third party services” of this policy.
 
 
 
@@ -164,7 +166,7 @@ OnlyMyHealth does not rent, sell, or share personal information about you with o
 
 Your personal information processed by OnlyMyHealth are kept in a form which permits your identification for no longer than is necessary for the purposes for which the personal information are processed in line with legal, regulatory, contractual or statutory obligations as applicable.
 
-At the expiry of such periods, your personal information will be deleted or archived to comply with legal/contractual retention obligations or in accordance with applicable statutory limitation periods. 
+At the expiry of such periods, your personal information will be deleted or archived to comply with legal/contractual retention obligations or in accordance with applicable statutory limitation periods.
 
 **VII. Monitoring**
 
@@ -188,10 +190,10 @@ You may also be entitled to request copies of personal information that you have
 
 We retain your personal information as long as necessary for us to provide services to you or you ask us to not retain your data. If you no longer want us to use your information then you can request that we erase your personal information and close your OnlyMyHealth services account. Please note that if you request for the erasure of your personal information;
 
-  * • We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend a OnlyMyHealth Services account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.
-  * • We may retain and use your personal information to the extent necessary to comply with our legal obligations. For example, we may keep some of your information for tax, legal reporting and auditing obligations.
-  * • Information you have shared with others (e.g., Reviews, forum postings) may continue to be publicly visible on the OnlyMyHealth services, even after your account is cancelled. However, attribution of such information to you will be removed. Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers.
-  * • Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+  * We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend a OnlyMyHealth Services account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.
+  * We may retain and use your personal information to the extent necessary to comply with our legal obligations. For example, we may keep some of your information for tax, legal reporting and auditing obligations.
+  * Information you have shared with others (e.g., Reviews, forum postings) may continue to be publicly visible on the OnlyMyHealth services, even after your account is cancelled. However, attribution of such information to you will be removed. Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers.
+  * Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
 
 
@@ -201,7 +203,7 @@ For withdrawing your consent at any time during the tenure of your services with
 
 **F. Right to Object to the Processing**
 
-Except in very specific cases where provided by law, you have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you. Such right can be exercised at any time where your personal data is processed for direct marketing purposes. 
+Except in very specific cases where provided by law, you have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you. Such right can be exercised at any time where your personal data is processed for direct marketing purposes.
 
 **G. Right to object being subjected to a decision based solely on automated processing, including profiling**
 
@@ -211,9 +213,11 @@ OnlyMyHealth shall provide information on action taken on a request pertaining t
 
 **E. Complaints**
 
-If you have any complaints regarding processing of your personal information you may contact our privacy officer at [info@onlymyhealth.com](mailto:info@onlymyhealth.com). You have the right to complaint about the data processing activities carried out by OnlyMyHealth before the competent data protection authorities.
+You can write to us in case of any grievance or compliant at the support e-mail address [info@onlymyhealth.com](mailto:info@onlymyhealth.com)
 
-To invoke your data subject rights, please click here: [www.onlymyhealth.com/data-subject-form](https://web.archive.org/data-subject-form)
+If you have any complaints regarding processing of your personal information you may contact our privacy officer at the below mentioned e-mail address. You have the right to complaint about the data processing activities carried out by OnlyMyHealth before the competent data protection authorities. 
+
+To invoke your data subject rights, please click here: [m.onlymyhealth.com/data-subject-form](https://web.archive.org/data-subject-form)
 
 **IX. Security and Compliance with Laws**
 
@@ -221,11 +225,10 @@ We take appropriate security measures to protect against unauthorized access to 
 
 **X. Social media**
 
-OnlyMyHealth operates channels, pages and accounts on some social media sites to inform, assist and engage with you. OnlyMyHealth monitors and records comments and posts made on these channels about OnlyMyHealth in order to improve its products and services.  
-Please note that you must not communicate with OnlyMyHealth through such social media sites the following information:
+OnlyMyHealth operates channels, pages and accounts on some social media sites to inform, assist and engage with you. OnlyMyHealth monitors and records comments and posts made on these channels about OnlyMyHealth in order to improve its products and services. Please note that you must not communicate with OnlyMyHealth through such social media sites the following information:
 
-  * • Sensitive personal data including (i) special categories of personal data meaning any information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation and (ii) other sensitive personal data such as criminal convictions and offences and national identification number ;
-  * • Excessive, inappropriate, offensive or insulting information towards individuals.
+  * Sensitive personal data including (i) special categories of personal data meaning any information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation and (ii) other sensitive personal data such as criminal convictions and offences and national identification number ;
+  * Excessive, inappropriate, offensive or insulting information towards individuals.
 
 
 
@@ -242,8 +245,7 @@ If you require any information or clarification regarding the use of your person
 **Postal Address**
 
 MMI ONLINE LTD.  
-First floor, 9/11- Okhla Industrial Estate, Phase – 3  
-New Delhi – 110020
+First floor, 9/11- Okhla Industrial Estate, Phase – 3 New Delhi – 110020
 
 **XIII. Disclaimer**
 
