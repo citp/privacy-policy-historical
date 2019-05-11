@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegram-store.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812113218id_/https%3A//telegram-store.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegram-store.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511053148id_/https%3A//telegram-store.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of the Telegram-Store.com site
 
@@ -87,6 +87,6 @@ If you have any inquiries or complaints, you may contact us:
 
   * by email: telegram.store.com@gmail.com
   * in writing: Golovinskoe shosse, 5, Moscow, Russia, 125212
-  * by Telegram: [@turutik](https://t.me/turutik)
+  * by Telegram: [@turutiki](https://t.me/turutiki)
 
 
