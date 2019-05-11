@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gamevil.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102144335id_/https%3A//terms.withhive.com/terms/policy/view/M25/T74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamevil.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511070201id_/https%3A//terms.withhive.com/terms/policy/view/M25/T74) for the most accurate reproduction.*
 
 # GAMEVIL
 
 View Previous Terms
 
-**PRIVACY POLICY**
+PRIVACY POLICY
 
-**Table of Contents**
+Table of Contents
 
   1. 1\. Introduction
   2. 2\. Who We Are
@@ -23,31 +23,31 @@ View Previous Terms
   13. 13\. Questions
 
 
-  1. **_1\. Introduction_**
+  1. _1\. Introduction_
 
 
 
-We take privacy seriously, and we are committed to protecting personal data of our users (“ **you** ” or “ **User** ”).  We provide this privacy policy (the “ **Privacy Policy** ”) to help you understand how we collect, store, use, manage, share, and disclose your personal data you provide or we collect.  This Privacy Policy applies where we are acting as a data controller with respect to your personal data and is limited to data collected or received by us through your use of our Service.  By using our products and services, and agreeing to this Privacy Policy, you consent to our use of cookies in accordance with the terms of this Privacy Policy.
-
-_Back to top_
-
-  1. **_2\. Who We Are_**
-
-
-
-GAMEVIL Inc. (“ **GAMEVIL** ”), jointly with Gamevil Com2uS Platform Inc. (“ **GCP** ” and collectively with GAMEVIL, “ **we** ” or “ **us** ”) provide GAMEVIL’s mobile games (“ **GAMEVIL Games** ” or “ **Games** ”) and related services, including, without limitation, online communities for GAMEVIL Games or social network services offered by GCP via the HIVE Platform or GAMEVIL/GCP branded websites (collectively, our “ **Service(s)** ”). 
+We take privacy seriously, and we are committed to protecting personal data of our users (“you” or “User”).  We provide this privacy policy (the “Privacy Policy”) to help you understand how we collect, store, use, manage, share, and disclose your personal data you provide or we collect.  This Privacy Policy applies where we are acting as a data controller with respect to your personal data and is limited to data collected or received by us through your use of our Service.  By using our products and services, and agreeing to this Privacy Policy, you consent to our use of cookies in accordance with the terms of this Privacy Policy.
 
 _Back to top_
 
-  1. **_3\. Information We Collect and How We Use It_**
+  1. _2\. Who We Are_
+
+
+
+GAMEVIL Inc. and/or its affiliates (“GAMEVIL”), jointly with Gamevil Com2uS Platform Inc. (“GCP” and collectively with GAMEVIL, “we” or “us”) provide GAMEVIL’s mobile games (“GAMEVIL Games” or “Games”) and related services, including, without limitation, online communities for GAMEVIL Games or social network services offered by GCP via the HIVE Platform or GAMEVIL/GCP branded websites (collectively, our “Service(s)”). 
+
+_Back to top_
+
+  1. _3\. Information We Collect and How We Use It_
   2.  
-  3. **3.1 HIVE Account users**
+  3. 3.1 HIVE Account users
 
 
 
 _Device Information_
 
-To provide you with an access to any of GAMEVIL Games and for your use of our Services pursuant to our Terms of Service, we must at least collect and process from all of you _your device information including MAC Address, IP Address and unique mobile device ID_ (collectively, “ **Device Information** ”).  We collect and process your Device Information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  We use your Device Information to discharge our contractual obligations to you as a User of our Services.
+To provide you with an access to any of GAMEVIL Games and for your use of our Services pursuant to our Terms of Service, we must at least collect and process from all of you  _your device information including MAC Address, IP Address and unique mobile device ID_  (collectively, “Device Information”).  We collect and process your Device Information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  We use your Device Information to discharge our contractual obligations to you as a User of our Services.
 
 With your Device Information, we will:
 
@@ -62,11 +62,11 @@ With your Device Information, we will:
 
 _Game Data_
 
-Our Service will also record _game play information including, without limitation, your activities within the GAMEVIL Games, high scores or game session duration_ , for the continuation of your game play.  Any time you access the Service, we also collect _aggregate information, including, without limitation, internet protocol addresses, your device’s operating system, browser type and browser language_.  We use the game play information and aggregate information to provide adequate services within the Services, better tailor the Service to your interests, to provide you more efficient customer support, and to overall enhance the Services.  We collect and process your game play information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.
+Our Service will also record  _game play information including, without limitation, your activities within the GAMEVIL Games, high scores or game session duration_ , for the continuation of your game play.  Any time you access the Service, we also collect  _aggregate information, including, without limitation, internet protocol addresses, your device’s operating system, browser type and browser language_.  We use the game play information and aggregate information to provide adequate services within the Services, better tailor the Service to your interests, to provide you more efficient customer support, and to overall enhance the Services.  We collect and process your game play information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.
 
 _Usage Data through Automated Means_
 
-When you access and/or use any of our Services, we may also collect your _usage statistics_ about your interactions with our Services.  Such usage data is collected through the use of server log files and/or automated means.  We and our marketing partners and analytics service providers use technologies may use “cookies” and other technologies such as pixel tags and web beacons, clear GIFs on certain our Services, Games, advertising and web pages to analyze your use of our Services, games, advertising and web pages, to customize, improve the same, to measure promotional effectiveness, and to promote trust and safety. We collect and process your usage data because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  You are always free to decline our cookies if your browser or device permits, although doing so may interfere with your use of some of our Services, Games, advertising and web pages.  Please note that certain features of our Services, Games, advertising and web pages will not be available once cookies are declined.
+When you access and/or use any of our Services, we may also collect your  _usage statistics_  about your interactions with our Services.  Such usage data is collected through the use of server log files and/or automated means.  We and our marketing partners and analytics service providers use technologies may use “cookies” and other technologies such as pixel tags and web beacons, clear GIFs on certain our Services, Games, advertising and web pages to analyze your use of our Services, games, advertising and web pages, to customize, improve the same, to measure promotional effectiveness, and to promote trust and safety. We collect and process your usage data because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  You are always free to decline our cookies if your browser or device permits, although doing so may interfere with your use of some of our Services, Games, advertising and web pages.  Please note that certain features of our Services, Games, advertising and web pages will not be available once cookies are declined.
 
 _HIVE Account Registration Information_
 
@@ -77,7 +77,7 @@ In addition to your Device Information, when you create a HIVE Account and use t
 
 
 
-(Collectively with email address, password, and nickname, the “ **HIVE Account Registration Information** ”)
+(Collectively with email address, password, and nickname, the “HIVE Account Registration Information”)
 
 We collect and process the HIVE Account Registration Information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  We use your HIVE Account Registration Information to discharge our contractual obligations to you as a User of our Services.
 
@@ -106,9 +106,9 @@ Furthermore, upon your explicit consent, we may also collect and process below i
 
 
 
-_(1) Contact Information for_ _Friends Matching Service_
+_(1) Contact Information for  _ _Friends Matching Service_
 
-If you, as an Android phone user, log-in to the HIVE Platform, we may, upon your request, periodically access your _contact list and/or address book_ on your mobile device in order to help you find any friends who may also have a HIVE Account.  We will use such contact information solely for such friends-matching service, and we will not store such information after fulfilling this purpose.  If you are an iOS user, we will not access your contact list and/or address book on your mobile device unless your identity is verified in a reasonable way.
+If you, as an Android phone user, log-in to the HIVE Platform, we may, upon your request, periodically access your  _contact list and/or address book_  on your mobile device in order to help you find any friends who may also have a HIVE Account.  We will use such contact information solely for such friends-matching service, and we will not store such information after fulfilling this purpose.  If you are an iOS user, we will not access your contact list and/or address book on your mobile device unless your identity is verified in a reasonable way.
 
 _(2) Public Posting_
 
@@ -116,15 +116,15 @@ Some of GAMEVIL Games and/or the HIVE Platform may allow you to interact with ot
 
 _(3) Telephone Number_
 
-When you access and/or use the Service, we may collect  _your telephone number_ through automated means if you are an Android phone user, as a part of device information (if you are an iOS user, we will not collect your telephone number unless your identity is verified in a reasonable way).
+When you access and/or use the Service, we may collect  _your telephone number_  through automated means if you are an Android phone user, as a part of device information (if you are an iOS user, we will not collect your telephone number unless your identity is verified in a reasonable way).
 
-  1. **3.2 Social Networking Service (“SNS”) Account**
+  1. 3.2 Social Networking Service (“SNS”) Account
 
 
 
 _Device Information_
 
-To provide you with an access to any of GAMEVIL Games and for your use of our Services pursuant to our Terms of Service, we must at least collect and process from all of you _your device information including MAC Address, IP Address and unique mobile device ID_ (collectively, “ **Device Information** ”).  We collect and process your Device Information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  We use your Device Information to discharge our contractual obligations to you as a User of our Services.
+To provide you with an access to any of GAMEVIL Games and for your use of our Services pursuant to our Terms of Service, we must at least collect and process from all of you  _your device information including MAC Address, IP Address and unique mobile device ID_  (collectively, “Device Information”).  We collect and process your Device Information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  We use your Device Information to discharge our contractual obligations to you as a User of our Services.
 
 With your Device Information, we will:
 
@@ -139,15 +139,15 @@ With your Device Information, we will:
 
 _Game Data_
 
-Our Service will also record _game play information including, without limitation, your activities within the GAMEVIL Games, high scores or game session duration_ , for the continuation of your game play.  Any time you access the Service, we also collect _aggregate information, including, without limitation, internet protocol addresses, your device’s operating system, browser type and browser language_.  We use the game play information and aggregate information to provide adequate services within the Services, better tailor the Service to your interests, to provide you more efficient customer support, and to overall enhance the Services.  We collect and process your game play information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.
+Our Service will also record  _game play information including, without limitation, your activities within the GAMEVIL Games, high scores or game session duration_ , for the continuation of your game play.  Any time you access the Service, we also collect  _aggregate information, including, without limitation, internet protocol addresses, your device’s operating system, browser type and browser language_.  We use the game play information and aggregate information to provide adequate services within the Services, better tailor the Service to your interests, to provide you more efficient customer support, and to overall enhance the Services.  We collect and process your game play information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.
 
 _Usage Data through Automated Means_
 
-When you access and/or use any of our Services, we may also collect your _usage statistics_ about your interactions with our Services.  Such usage data is collected through the use of server log files and/or automated means.  We and our marketing partners and analytics service providers use technologies may use “cookies” and other technologies such as pixel tags and web beacons, clear GIFs on certain our Services, Games, advertising and web pages to analyze your use of our Services, games, advertising and web pages, to customize, improve the same, to measure promotional effectiveness, and to promote trust and safety. We collect and process your usage data because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  You are always free to decline our cookies if your browser or device permits, although doing so may interfere with your use of some of our Services, Games, advertising and web pages.  Please note that certain features of our Services, Games, advertising and web pages will not be available once cookies are declined.
+When you access and/or use any of our Services, we may also collect your  _usage statistics_  about your interactions with our Services.  Such usage data is collected through the use of server log files and/or automated means.  We and our marketing partners and analytics service providers use technologies may use “cookies” and other technologies such as pixel tags and web beacons, clear GIFs on certain our Services, Games, advertising and web pages to analyze your use of our Services, games, advertising and web pages, to customize, improve the same, to measure promotional effectiveness, and to promote trust and safety. We collect and process your usage data because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  You are always free to decline our cookies if your browser or device permits, although doing so may interfere with your use of some of our Services, Games, advertising and web pages.  Please note that certain features of our Services, Games, advertising and web pages will not be available once cookies are declined.
 
 _SNS Information_
 
-When you use or access GAMEVIL Games using a third party SNS, such as Facebook, Apple Play Center or Google +, you allow us to access and/or collect certain information from your SNS profile/account as permitted by the terms of the SNS Platform and your privacy settings thereon.  To provide SNS Account users the Service and necessary customer support, we, in addition to your Device Information, collect your unique SNS identifier and your SNS profile photo (collectively, the “ **SNS Information** ”).  We collect and process your SNS Information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  We use your SNS Information to discharge our contractual obligations to you as a User of our Services.
+When you use or access GAMEVIL Games using a third party SNS, such as Facebook, Apple Play Center or Google +, you allow us to access and/or collect certain information from your SNS profile/account as permitted by the terms of the SNS Platform and your privacy settings thereon.  To provide SNS Account users the Service and necessary customer support, we, in addition to your Device Information, collect your unique SNS identifier and your SNS profile photo (collectively, the “SNS Information”).  We collect and process your SNS Information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  We use your SNS Information to discharge our contractual obligations to you as a User of our Services.
 
 With your SNS Information, we will:
 
@@ -181,9 +181,9 @@ Furthermore, upon your explicit consent, we may also collect and process below i
 
 
 
-_(1) Contact Information for_ _Friends Matching Service_
+_(1) Contact Information for  _ _Friends Matching Service_
 
-If you, as an Android phone user, log-in to the HIVE Platform, we may, upon your request, periodically access your _contact list and/or address book_ on your mobile device in order to help you find any friends who may also have a HIVE Account.  We will use such contact information solely for such friends-matching service, and we will not store such information after fulfilling this purpose.  If you are an iOS user, we will not access your contact list and/or address book on your mobile device unless your identity is verified in a reasonable way.
+If you, as an Android phone user, log-in to the HIVE Platform, we may, upon your request, periodically access your  _contact list and/or address book_  on your mobile device in order to help you find any friends who may also have a HIVE Account.  We will use such contact information solely for such friends-matching service, and we will not store such information after fulfilling this purpose.  If you are an iOS user, we will not access your contact list and/or address book on your mobile device unless your identity is verified in a reasonable way.
 
 _(2) Public Posting_
 
@@ -191,19 +191,19 @@ Some of GAMEVIL Games and/or the HIVE Platform may allow you to interact with ot
 
 _(3) Telephone Number_
 
-When you access and/or use the Service, we may collect  _your telephone number_ through automated means if you are an Android phone user, as a part of device information (if you are an iOS user, we will not collect your telephone number unless your identity is verified in a reasonable way).
+When you access and/or use the Service, we may collect  _your telephone number_  through automated means if you are an Android phone user, as a part of device information (if you are an iOS user, we will not collect your telephone number unless your identity is verified in a reasonable way).
 
-  1. **3.3 Users without Any Account**
+  1. 3.3 Users without Any Account
 
 
 
-Users can access any of GAMEVIL Games without a HIVE or SNS Account.  These guest users (“ **Guest Users** ”) can enjoy GAMEVIL Games but may have limited access to online communities or social network services, customer support and other exclusive services rendered to HIVE or SNS Account users.
+Users can access any of GAMEVIL Games without a HIVE or SNS Account.  These guest users (“Guest Users”) can enjoy GAMEVIL Games but may have limited access to online communities or social network services, customer support and other exclusive services rendered to HIVE or SNS Account users.
 
 To provide you as a Guest User necessary access to GAMEVIL Games and for your use of GAMEVIL Games pursuant to the Terms of Service concluded between you and us, we collect and process below information.
 
 _Device Information_
 
-To provide you with an access to any of GAMEVIL Games and for your use of our Services pursuant to our Terms of Service, we must at least collect and process from all of you _your device information including MAC Address, IP Address and unique mobile device ID_ (collectively, “ **Device Information** ”).  We collect and process your Device Information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  We use your Device Information to discharge our contractual obligations to you as a User of our Services.
+To provide you with an access to any of GAMEVIL Games and for your use of our Services pursuant to our Terms of Service, we must at least collect and process from all of you  _your device information including MAC Address, IP Address and unique mobile device ID_  (collectively, “Device Information”).  We collect and process your Device Information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  We use your Device Information to discharge our contractual obligations to you as a User of our Services.
 
 With your Device Information, we will:
 
@@ -218,11 +218,11 @@ With your Device Information, we will:
 
 _Game Data_
 
-Our Service will also record _game play information including, without limitation, your activities within the GAMEVIL Games, high scores or game session duration_ , for the continuation of your game play.  Any time you access the Service, we also collect _aggregate information, including, without limitation, internet protocol addresses, your device’s operating system, browser type and browser language_. We use the game play information and aggregate information to provide adequate services within the Services, better tailor the Service to your interests, to provide you more efficient customer support, and to overall enhance the Services.  We collect and process your game play information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.
+Our Service will also record  _game play information including, without limitation, your activities within the GAMEVIL Games, high scores or game session duration_ , for the continuation of your game play.  Any time you access the Service, we also collect  _aggregate information, including, without limitation, internet protocol addresses, your device’s operating system, browser type and browser language_. We use the game play information and aggregate information to provide adequate services within the Services, better tailor the Service to your interests, to provide you more efficient customer support, and to overall enhance the Services.  We collect and process your game play information because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.
 
 _Usage Data through Automated Means_
 
-When you access and/or use any of our Services, we may also collect your _usage statistics_ about your interactions with our Services.  Such usage data is collected through the use of server log files and/or automated means.  We and our marketing partners and analytics service providers use technologies may use “cookies” and other technologies such as pixel tags and web beacons, clear GIFs on certain our Services, Games, advertising and web pages to analyze your use of our Services, games, advertising and web pages, to customize, improve the same, to measure promotional effectiveness, and to promote trust and safety. We collect and process your usage data because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  You are always free to decline our cookies if your browser or device permits, although doing so may interfere with your use of some of our Services, Games, advertising and web pages.  Please note that certain features of our Services, Games, advertising and web pages will not be available once cookies are declined.
+When you access and/or use any of our Services, we may also collect your  _usage statistics_  about your interactions with our Services.  Such usage data is collected through the use of server log files and/or automated means.  We and our marketing partners and analytics service providers use technologies may use “cookies” and other technologies such as pixel tags and web beacons, clear GIFs on certain our Services, Games, advertising and web pages to analyze your use of our Services, games, advertising and web pages, to customize, improve the same, to measure promotional effectiveness, and to promote trust and safety. We collect and process your usage data because we have a legitimate business interest in providing the Services to you that do not override your interests, rights and freedoms to protect information about you.  You are always free to decline our cookies if your browser or device permits, although doing so may interfere with your use of some of our Services, Games, advertising and web pages.  Please note that certain features of our Services, Games, advertising and web pages will not be available once cookies are declined.
 
 _Additional Information_
 
@@ -230,19 +230,19 @@ Furthermore, upon your explicit consent, we may also collect and process the Dev
 
 _Telephone Number_
 
-When you access and/or use the Service, we may collect  _your telephone number_ through automated means if you are an Android phone user, as a part of device information (if you are an iOS user, we will not collect your telephone number unless your identity is verified in a reasonable way).
+When you access and/or use the Service, we may collect  _your telephone number_  through automated means if you are an Android phone user, as a part of device information (if you are an iOS user, we will not collect your telephone number unless your identity is verified in a reasonable way).
 
 _Back to top_
 
-  1. **_4\. Sharing of Your Information_**
+  1. _4\. Sharing of Your Information_
 
 
 
 We do not share your personal data with third parties except as explicitly approved by you or except in the following circumstances:
 
-**a. Third Party Service Providers**. We may provide your information to third party companies (the “ **Third Party Service Providers** ”) that perform services on our behalf, including, without limitation, operation of the HIVE platform, data analysis, marketing services, promotional events, email campaigns, hosting services, and customer service or support.  The Third Party Service Providers may access your personal data, but are required to use it solely as directed by us for performing requested services.  We will ask for your consent before we share your data with the Third Party Service Providers.
+a. Third Party Service Providers. We may provide your information to third party companies (the “Third Party Service Providers”) that perform services on our behalf, including, without limitation, operation of the HIVE platform, data analysis, marketing services, promotional events, email campaigns, hosting services, and customer service or support.  The Third Party Service Providers may access your personal data, but are required to use it solely as directed by us for performing requested services.  We will ask for your consent before we share your data with the Third Party Service Providers.
 
-**b. Business Partners**. In conjunction with the running of GAMEVIL Games via the HIVE Platform, we are partnering with Com2us Corporation and its affiliates (collectively, the “ **Business Partners** ”) in order to: 
+b. Business Partners. In conjunction with the running of GAMEVIL Games via the HIVE Platform, we are partnering with Com2us Corporation and its affiliates (collectively, the “Business Partners”) in order to: 
 
   * - assist us in providing maintenance services of the HIVE Platform and enhancing user convenience of the HIVE Platform;
   * - enable you to log-in and use the HIVE Platform when you are playing the Business Partners’ games without creating further account;
@@ -255,13 +255,13 @@ We may share with our Business Partners the information you provide about yourse
 
 If you wish to no longer have your personal data used by the Business Partners for their marketing purposes, please contact us at privacy@gamevil.com and we will facilitate your request to Business Partners.
 
-**c. Advertising of Third Party Products/Services**. We will not actively share personal data with third party advertisers (the “ **Advertisers** ”) for their direct marketing purposes unless we obtain your consent.  We may share (i) aggregated information (information about you and other users collectively, but not specifically identifiable to you); (ii) anonymous information; and (iii) certain technical information (including IP Addresses, MAC Addresses for mobile devices and mobile device IDs) to develop and deliver targeted advertising in the Advertiser’s website or application.  We may also allow the Advertisers to collect these and similar types of information within the Service and they may share it with us and/or use it for advertising.  The Advertisers may collect this information through the use of a variety of tracking technologies, including without limitation, browser cookies and web beacons.  The information collected may be used to offer you targeted ad-selection and delivery in order to personalize your User experience by ensuring that advertisements for products and services you see will appeal to you, a practice known as behavioral advertising, and to undertake web analytics (i.e. to analyze traffic and other end user activity to improve your experience).  We will ask for your consent before we share your personal data with the Advertisers.
+c. Advertising of Third Party Products/Services. We will not actively share personal data with third party advertisers (the “Advertisers”) for their direct marketing purposes unless we obtain your consent.  We may share (i) aggregated information (information about you and other users collectively, but not specifically identifiable to you); (ii) anonymous information; and (iii) certain technical information (including IP Addresses, MAC Addresses for mobile devices and mobile device IDs) to develop and deliver targeted advertising in the Advertiser’s website or application.  We may also allow the Advertisers to collect these and similar types of information within the Service and they may share it with us and/or use it for advertising.  The Advertisers may collect this information through the use of a variety of tracking technologies, including without limitation, browser cookies and web beacons.  The information collected may be used to offer you targeted ad-selection and delivery in order to personalize your User experience by ensuring that advertisements for products and services you see will appeal to you, a practice known as behavioral advertising, and to undertake web analytics (i.e. to analyze traffic and other end user activity to improve your experience).  We will ask for your consent before we share your personal data with the Advertisers.
 
 If you wish to no longer have your personal data used by the Advertisers for their marketing purposes, please contact us at privacy@gamevil.com and we will facilitate your request to the Advertisers.
 
-**d. Offer Walls**. GAMEVIL Games or their purchase pages may display an “offer wall” that may be hosted by a third party offer wall provider.  The offer wall allows the Advertisers to provide virtual currency to users in exchange for interacting with an advertisement or for completing a marketing offer that may include signing up for an account with one of the Advertisers.  These offers are not controlled by or made by us.  These offers may be displayed to you based on certain technical information, such as your geographic area or anonymous demographic information. After clicking on one of these advertisements, you will no longer be on a site hosted by us.  To properly credit User accounts and to prevent fraud, a unique identifier will be shared with the offer wall provider.  This identifier is used to ensure proper crediting of your account, prevent fraud or duplicate offers and to resolve any customer service inquiries that may arise.  We will ask for your consent before we share your personal data with the Advertisers.
+d. Offer Walls. GAMEVIL Games or their purchase pages may display an “offer wall” that may be hosted by a third party offer wall provider.  The offer wall allows the Advertisers to provide virtual currency to users in exchange for interacting with an advertisement or for completing a marketing offer that may include signing up for an account with one of the Advertisers.  These offers are not controlled by or made by us.  These offers may be displayed to you based on certain technical information, such as your geographic area or anonymous demographic information. After clicking on one of these advertisements, you will no longer be on a site hosted by us.  To properly credit User accounts and to prevent fraud, a unique identifier will be shared with the offer wall provider.  This identifier is used to ensure proper crediting of your account, prevent fraud or duplicate offers and to resolve any customer service inquiries that may arise.  We will ask for your consent before we share your personal data with the Advertisers.
 
-**e. Safety, Security and Compliance with Law**. We may disclose your information to certain third parties if we reasonably believe that: 
+e. Safety, Security and Compliance with Law. We may disclose your information to certain third parties if we reasonably believe that: 
 
   * - We are required to disclose the information in response to legal process (e.g., a court order, search warrant or subpoena); 
   * - We are required to satisfy any applicable laws, regulations, or administrative orders;
@@ -270,21 +270,21 @@ If you wish to no longer have your personal data used by the Advertisers for the
 
 
 
-**f. Sale or Merger**. In the event that GAMEVIL or GCP undergoes a business transition, such as a merger, acquisition by another company, or sale of all or the substantial portion of its assets, we may transfer all of your information you have provided, including personal data, to the successor organization in such transition if permitted by and done in accordance with any applicable law.  If material changes to our privacy practices will occur as a result of the business transition, we will notify you the business transition prior to transferring your personal data.
+f. Sale or Merger. In the event that GAMEVIL or GCP undergoes a business transition, such as a merger, acquisition by another company, or sale of all or the substantial portion of its assets, we may transfer all of your information you have provided, including personal data, to the successor organization in such transition if permitted by and done in accordance with any applicable law.  If material changes to our privacy practices will occur as a result of the business transition, we will notify you the business transition prior to transferring your personal data.
 
 _Back to top_
 
-  1. **_5\. Retaining and Deleting Personal Data_**
+  1. _5\. Retaining and Deleting Personal Data_
 
 
 
 We retain your information only for the period of time as necessary to achieve the particular purpose for which the information was processed.  Typically, we retain your information for 1 month after deregistration of your HIVE Account or for the duration described in the table below:
 
-**Information Retained**
+Information Retained
 
 | 
 
-**Retention Period**  
+Retention Period  
   
 ---|---  
   
@@ -330,7 +330,7 @@ Notwithstanding, we may retain your information insofar as such information will
 
 _Back to top_
 
-  1. **_6\. Transfer of Personal Data to Third Country_**
+  1. _6\. Transfer of Personal Data to Third Country_
 
 
 
@@ -338,7 +338,7 @@ Your personal data may be transferred globally, either within or outside the Eur
 
 _Back to top_
 
-  1. **_7\. Security of Your Information_**
+  1. _7\. Security of Your Information_
 
 
 
@@ -346,7 +346,7 @@ We take appropriate technical and organizational measures to protect against una
 
 _Back to top_
 
-  1. **_8\. Our Policy Concerning Children_**
+  1. _8\. Our Policy Concerning Children_
 
 
 
@@ -354,9 +354,9 @@ Children under the age of 16 can only use our game services with a valid consent
 
 _Back to top_
 
-  1. **_9\. Your Privacy Rights_**
+  1. _9\. Your Privacy Rights_
   2.  
-  3. **9.1 Right to Access**
+  3. 9.1 Right to Access
 
 
 
@@ -364,7 +364,7 @@ You are entitled to confirmation as to whether or not we process your personal d
 
 To manage the information we receive about you from an SNS, you should change your privacy settings on the SNS in accordance with any applicable policy of the SNS. 
 
-  1. **9.2 Right to Rectification**
+  1. 9.2 Right to Rectification
 
 
 
@@ -372,7 +372,7 @@ You are entitled to have any inaccurate personal data about you rectified and, t
 
 You may change or update the profile information by logging into your HIVE Account or by contacting us at privacy@gamevil.com.
 
-  1. **9.3 Right to Erasure**
+  1. 9.3 Right to Erasure
 
 
 
@@ -382,7 +382,7 @@ If you choose to terminate or delete your HIVE Account, we will immediately dele
 
 You may request erasure of your information by visiting https://withhive.com/help/inquire or by contacting us at privacy@gamevil.com.
 
-  1. **9.4 Right to Restrict Processing**
+  1. 9.4 Right to Restrict Processing
 
 
 
@@ -390,7 +390,7 @@ In some circumstances you are entitled to restrict the processing of your person
 
 You may request restriction of the processing of your information by visiting https://withhive.com/help/inquire or by contacting us at privacy@gamevil.com.
 
-  1. **9.5 Right to Object to Processing**
+  1. 9.5 Right to Object to Processing
 
 
 
@@ -398,7 +398,7 @@ You have the right to object to our processing of your personal data on grounds 
 
 You may object to the processing of your information by visiting https://withhive.com/help/inquire or by contacting us at privacy@gamevil.com.
 
-  1. **9.6 Right to Object to Processing for Direct Marketing Purposes**
+  1. 9.6 Right to Object to Processing for Direct Marketing Purposes
 
 
 
@@ -406,7 +406,7 @@ You are entitled to object to our processing of your personal data for direct ma
 
 You may object to the processing of your information for direct marketing purposes by visiting https://withhive.com/help/inquire or by contacting us at privacy@gamevil.com.
 
-  1. **9.7 Right to Object to Processing for Scientific, Historical, or Statistical Purposes**
+  1. 9.7 Right to Object to Processing for Scientific, Historical, or Statistical Purposes
 
 
 
@@ -414,7 +414,7 @@ You have the right to object to our processing of your personal data for scienti
 
 You may object to the processing of your information for scientific, historical or statistical purposes by visiting https://withhive.com/help/inquire or by contacting us at privacy@gamevil.com.
 
-  1. **9.8 Right to Data Portability**
+  1. 9.8 Right to Data Portability
 
 
 
@@ -429,7 +429,7 @@ and such processing is carried out by automated means, you have the right to rec
 
 You may request to receive your information by visiting https://withhive.com/help/inquire or by contacting us at privacy@gamevil.com.
 
-  1. **9.9 Right to Complain to a Supervisory Authority**
+  1. 9.9 Right to Complain to a Supervisory Authority
 
 
 
@@ -439,7 +439,7 @@ You can find more details of the supervisory authority in your country by visiti
 
 <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>.
 
-  1. **9.10 Right to Withdraw Consent**
+  1. 9.10 Right to Withdraw Consent
 
 
 
@@ -451,7 +451,7 @@ You may also exercise any of your rights in relation to your personal data by wr
 
 _Back to top_
 
-  1. **_10\. Change/Update to Privacy Policy_**
+  1. _10\. Change/Update to Privacy Policy_
 
 
 
@@ -459,7 +459,7 @@ We may amend, at our discretion, any portion of this Privacy Policy at any time 
 
 _Back to top_
 
-  1. **_11\. Links_**
+  1. _11\. Links_
 
 
 
@@ -467,7 +467,7 @@ The Service may contain links to other websites. The fact that the Service links
 
 _Back to top_
 
-  1. **_12\. Data Protection Officer and Representative_**
+  1. _12\. Data Protection Officer and Representative_
 
 
 
@@ -475,7 +475,7 @@ Our data protection officer can be reached at:
 
 Name : Kirk Olaf Dettmann
 
-Email : [privacy@gamevil.com](mailto:privacy@com2us.com)
+Email : [privacy@gamevil.com](mailto:privacy@com2us.com)
 
 Address : Wattstrasse 10, 13355 Berlin, Germany
 
@@ -483,13 +483,13 @@ Our representative can be reached at:
 
 Name : GAMEVIL COM2US Europe GmbH
 
-Email : [privacy@gamevil.com](mailto:privacy@gamevil.com)
+Email : [privacy@gamevil.com](mailto:privacy@gamevil.com)
 
 Address : Wattstrasse 10, 13355 Berlin, Germany
 
 _Back to top_
 
-  1. **_13\. Questions_**
+  1. _13\. Questions_
 
 
 
