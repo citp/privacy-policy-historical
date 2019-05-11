@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the printablee.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527021423id_/http%3A//www.varitty.com/page/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printablee.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511050916id_/http%3A//www.printablee.com/page/privacy.php) for the most accurate reproduction.*
 
-# Everything Printable Images Directory - varitty.com
+# Everything Printable Images Directory - printablee.com
 
 The privacy of our visitors to printable is important to us. At printable, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit printable, and how we safeguard your information. We never sell your personal information to third parties.
 
