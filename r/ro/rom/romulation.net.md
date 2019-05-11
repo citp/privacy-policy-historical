@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romulation.net privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129161609id_/https%3A//www.romulation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romulation.net privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511064613id_/https%3A//www.romulation.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RomUlation
 
