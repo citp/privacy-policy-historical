@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imhe.info privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214081220id_/http%3A//www.imhe.info/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imhe.info privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511215125id_/https%3A//www.imhe.info/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – imhe
 
