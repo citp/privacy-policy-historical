@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elevenwarriors.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131071400id_/https%3A//www.elevenwarriors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevenwarriors.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511180104id_/https%3A//www.elevenwarriors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eleven Warriors
 
-THIS PRIVACY POLICY WAS UPDATED and HAS an EFFECTIVE DATE OF MAY 1, 2017 
+THIS PRIVACY POLICY WAS UPDATED and HAS an EFFECTIVE DATE OF JANUARY 1, 2019 
 
 This Privacy Policy discloses the privacy practices for [www.elevenwarriors.com](http://www.elevenwarriors.com/) ("ELEVEN WARRIORS") and any other sites and applications that display links to this policy. This privacy policy governs our collection of information from you through your use of the sites and applications. It does not apply to any information you may provide to us through other means, like via telephone or postal mail. 
 
@@ -120,7 +120,7 @@ Our sites and applications are not directed to children under the age of thirtee
 ####  Modifying Your Personal Information & Opting Out  
 
 
-If you register with us, you will have the opportunity to review, update, change or delete the personal information we have collected about you at any time by editing your personal information in your ELEVEN WARRIORS account settings or by sending an e-mail to us at [contact@1stohiobattery.com](mailto:contact@1stohiobattery.com). You may request deletion of your personal information by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from our active database, but may remain in our archives. We may also retain your information for fraud prevention or similar purposes. 
+If you register with us, you will have the opportunity to review, update, change or delete the personal information we have collected about you at any time by editing your personal information in your ELEVEN WARRIORS account settings or by sending an e-mail to us at [contact@elevenwarriors.com](mailto:contact@elevenwarriors.com). You may request deletion of your personal information by us, and when possible, we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from our active database, but may remain in our archives. We may also retain your information for fraud prevention or similar purposes. 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings by logging into to your account and modifying your preferences. You will also have the opportunity to “opt-out” of commercial email from the applicable ELEVEN WARRIORS service by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly. 
 
