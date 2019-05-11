@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023160046id_/https%3A//www.usacycling.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511093428id_/https%3A//www.usacycling.org/privacy) for the most accurate reproduction.*
 
 # Privacy | USA Cycling
 
