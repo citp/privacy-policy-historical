@@ -1,208 +1,182 @@
-> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417215645id_/http%3A//euromoneyplc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511100126id_/http%3A//euromoneyplc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Euromoney Institutional Investor PLC
+# Privacy Notice | Euromoney Institutional Investor PLC
 
-**PRIVACY STATEMENT**
+## Euromoney Institutional Investor PLC - Privacy Notice
 
-**Our Privacy Commitments**
+### Introduction - Who we are
 
-Euromoney Institutional Investor plc and Institutional Investor Inc. (together "we") respect the privacy of every person who visits, registers with or subscribes to our websites and online publications ("you"), and are committed to ensuring a safe online experience.   
-This Privacy Statement outlines the information we may collect about you in relation to your use of our websites and related publications and services ("personal data") and how we may use that personal data. It also outlines the methods by which we and our service providers may (subject to necessary consents) monitor your online behaviour in order to deliver customised advertisements and marketing materials and other tailored services. This Privacy Statement also tells you how you can verify the accuracy of your personal data and how you can request that we delete or update it. 
+[Euromoney Institutional Investor PLC](https://www.euromoneyplc.com/) ( **“Euromoney”, “we”, “us” or “our”** ) is an international business-information group covering asset management, price discovery, data and market intelligence, and banking and finance. The group also runs an extensive portfolio of events for the telecoms, financial and commodities markets. 
 
-This Privacy Statement applies to all websites operated by us (as indicated on the relevant website) (" **Sites** "). For the purpose of this Privacy Statement "group company" shall mean Euromoney Institutional Investor plc and any of its subsidiary companies, including, without limitation, Institutional Investor Inc. Please note that the Sites may contain links to external sites and may contain advertisements for, and/or the opportunity for you to purchase products or services from third parties. This privacy statement does not cover the activities of such third parties, and you should consult those third party sites` privacy policies for information on how your data is used by them.   
-By accessing and using the Sites you are agreeing to the terms of this Privacy Statement. 
+For a full list of our brands and group companies, [please click on this link](http://www.euromoneyplc.com/our-portfolio/group-companies). Euromoney and its group companies are committed to respecting the privacy of every person who visits, registers with or subscribes to our websites, publications, events and other products or services. 
 
-**Information about us**
+Euromoney is the primary data controller of personal data collected through this website or that we may collect in different ways as described in this Privacy Notice. If you are contacted by our other group companies, they will also be controllers of your personal data. This means that they are responsible for how your personal data is used, just as we are. You may contact any of these companies directly, or you can contact Euromoney by emailing [dataprotectionofficer@euromoneyplc.com](mailto:dataprotectionofficer@euromoneyplc.com) or writing to the Data Protection Officer at Euromoney Institutional Investor PLC, 8 Bouverie Street, London EC4Y 8AX, United Kingdom. 
 
-Our principal business activities are: 
+**This Privacy Notice was updated on 23 May 2018**
 
-  * Business-to-Business Financial Publishing. We provide a range of products and services focused on international finance, metals, commodities, telecoms and emerging markets including magazines, newsletters, electronic information and data 
-  * Organisers of Seminars, Conferences, Training Courses and Exhibitions for the financial markets industry 
+* * *
+
+### Our Approach to Your Privacy
+
+This Privacy Notice outlines the information we may collect about you in relation to your use of our products and services (“ **personal data** ”). It also explains the legal rights that you have in relation to your data and how you may exercise these rights. 
+
+Some of our group companies may collect and use personal data for different purposes; those companies have their own websites and privacy notices. 
+
+We will process your data for the following lawful purposes: with your consent; to fulfil our obligations to you; and where there is a legitimate interest to do so. 
+
+When possible, we rely on your consent to use your data for the purposes described in this Privacy Notice. We also process personal data to fulfil our contractual obligations to you, for example, when you register for any of our services, subscribe to a publication, sign-up for an event or purchase a product from us, we will need to process some of your personal data. This will also include details of the person/people responsible for payment (if different). 
+
+We may determine that processing your personal data serves both of our legitimate interests. This is the case in relation to many of our research, customer survey, sales, marketing and advertising activities described in this Privacy Notice. These activities allow us to better understand your requirements, which in turn enables us to provide you with a better service. We review the bases for our processing decisions carefully and you can object to these activities at any time (see the “Your Rights” section of this Privacy Notice). 
+
+* * *
+
+### What Personal Data We Collect & Why
+
+Our primary goal in collecting personal data from you is to give you a relevant customised experience of our products and services. 
+
+  * #### **Registration, Free Trials & Subscriptions**
+
+When you register with our website and/or sign up for a free trial of our products or services, we may ask you to provide your name, address, email address and telephone number, and details relevant to your occupation or employer. 
+
+If you subscribe to one of our products or services, we will also ask for payment details. Credit/debit card payments are processed using a third party supplier and we do not retain the credit card data (see the Third Party Sites of this Privacy Notice). Address details may be shared with third party service providers engaged by us for order fulfilment, delivery and payment collection. This personal data is used by us to complete subscription requests. 
+
+  * #### **Events & Conferences**
+
+If you have registered for an event through a group website we may collect personal data including: name, job title, company, address, telephone number and email. 
+
+This information is necessary so that we can complete your registration for the event and provide you with relevant event materials. 
+
+We may also provide delegate details (e.g. name, email) to event sponsors who, subject to your consent, may contact you for their own advertising and marketing purposes. 
+
+  * #### **Advertising & Marketing**
+
+We use the personal data you provide us and which we collect from you to inform you about similar products and services which we provide. We may send you marketing communications that are sponsored by our partners and which are targeted to your interests based on information you have provided us such as job title, employer and/or industry. If you have consented to receive information from other [Euromoney group companies](http://www.euromoneyplc.com/our-portfolio/group-companies), we may share your personal data with these companies so that they can fulfil your request to receive marketing materials in accordance with your preferences. We will not share your personal data with any third parties for their own marketing purposes unless you have provided your consent. 
+
+Each of the Euromoney group companies that may contact you is a data controller in relation to the personal data that you have agreed to share with them. If you have any questions or concerns, you may contact the individual company, or us – using the contact details set out in the “Who We Are” section. 
+
+You can opt out from receiving such materials at any time. 
+
+The personal data we may use for advertising and marketing purposes includes your name, email address, job title, phone number, company name/employer, geo location, postal address and data collected using cookies and other similar technology (Please read our separate [Cookies Policy](http://www.euromoneyplc.com/cookies) to find out more about which cookies we use, how they work and how you can control your cookie options). 
+
+Marketing materials are sent electronically, by post and we may occasionally call you. 
+
+  * #### **Online Targeted Advertising**
+
+We use targeted advertising on our websites to display advertisements that are relevant to what we believe are your interests. In order to deliver relevant advertisements, we use third parties to deliver cookies that collect information about your IP address and how you interact with our sites (e.g. browsing information, which articles you have read etc.). This data is used by the third parties to determine which advertisements may be of interest to you. 
+
+We may also share your personal data with third parties to deliver targeted advertising to you on other websites (e.g. Twitter Tailored Audiences or Facebook Custom Audiences). This could include your email address, cookie data, and information obtained from third parties. Third party cookies may also be used to enable us to target advertisements to you on other websites that you visit. 
+
+  * #### **Lead Generation and Scoring**
+
+We occasionally use the services of trusted third parties in order to ensure that the personal data we use for advertising and marketing purposes is accurate and up-to-date. To do this, we transfer personal data of individual leads (such as name, email, job title, location and phone number) to these third parties who conduct research to verify the data – primarily against public information. 
+
+We also use algorithmic software technology to help us improve the quality and relevance of marketing activities. The personal data analysed by the software includes email address, phone number, job title, address, purchase history and account information. This allows us to provide meaningful offers that are relevant to your specific profile. 
+
+  * #### **Surveys, Market Research & Customer Feedback**
+
+We want to understand the needs of our readers and customers. We may therefore use the information you provide us – including your name and contact details – to contact you to request your feedback, or to participate in our customer and market research. 
+
+  * #### **Public forums, message boards and blogs**
+
+Some of the pages on our group websites may include message boards, blogs or other facilities for generating content from users. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to post any personal data. User generated content is also subject to our site [Terms and Conditions](http://www.euromoneyplc.com/terms-and-conditions). 
+
+  * #### **Business or Asset Sale**
+
+If we sell a business or assets we may need to disclose your personal data to the prospective buyer of such business or assets. 
+
+If Euromoney, or any of our group companies is sold or sells our assets or is acquired by a third party, then personal data about our customers will be acquired by that third party. A transfer of your personal data in these circumstances would be necessary so that the services you have contracted for can still be delivered, or so that you can continue to enjoy the benefits of our free products and services. You will receive notice if a new controller assumes responsibility for your personal data. 
+
+  * #### **Additional Third Party Disclosures**
+
+We may disclose your personal data to other third parties in the following situations:
+
+    * To third party partners who help us by providing services such as technology, marketing, advisory or other services. These third parties only receive encrypted data and may only process personal data to provide those services to us.
+    * Where we are required by law or regulation to do so. In each case we will seek, where practicable, to minimise the amount of data that is disclosed.
+    * If required to protect the rights and interests of other users and/or Euromoney and its affiliates (including our employees, agents and contractors), or as otherwise set out in our [Terms of Service](http://www.euromoneyplc.com/terms-and-conditions). This may include exchanging information with other companies and organisations for the purposes of fraud protection.
+  * #### **Email Tracking**
+
+We may include small pixel tags (small image files) within the emails we send you in order to determine whether our emails are opened and/or whether the hyperlinks inside our emails are clicked through. We may also collect browser, location and the device used to engage with our email communications. This information allows us to better understand whether we are meeting our users’ needs and how we can improve our communications. No other information is collected. You can opt out of receiving our direct marketing emails either by following the instructions in each email, or by contacting us (see the “ **Who We Are** ” section of this Privacy Notice). 
 
 
 
-Euromoney Institutional Investor PLC Company Address: 
 
-8 Bouverie Street 
+* * *
 
-London 
+### International Transfers
 
-EC4Y 8AX 
+Some of the Euromoney group companies are based outside the European Economic Area (EEA). If you have consented to being contacted by our group companies, then the transfer of your personal data will be made according to the terms of an international data sharing agreement that contains obligations approved by European data protection regulators. Any of our group companies that receive your personal data will be co-controllers of that data, which means they may determine how they process your personal data – although they may only use it for the purposes for which it was shared, unless you are informed of new or additional processing activities. 
 
+We may also transfer personal data to third party service providers as described in this Privacy Notice which are located outside the EEA. Where we conduct these transfers, we take all steps necessary to ensure that your data is treated securely and in accordance with applicable privacy legislation, either by only sending your personal data to jurisdictions that provide an adequate degree of legal protection for your data or by imposing approved contractual terms on these third parties. 
+
+* * *
+
+### Retention Periods
+
+We have a data retention policy that ensures we don’t use or store your personal data for longer than necessary. We consider the following issues to determine retention periods: 
+
+  * Guidance from the UK Information Commissioner or other regulatory agency, or industry best practice recommendations;
+  * The business rationale for collection and expiry of the purpose for which personal data was collected;
+  * Our ongoing ability to ensure the accuracy of the data; and
+  * Legal and regulatory requirements.
+
+
+
+We may occasionally need to keep personal data for either shorter or longer periods than specified in our retention policy. In such circumstances, application of the retention period to the data will be temporarily suspended. The suspension of an applicable retention period will be carried out in a manner that respects the rights and interests of all persons concerned. 
+
+* * *
+
+### How You Can Set Your Data & Privacy Preferences
+
+You can use [our Preference Centre](http://t.mail2.euromoneyplc.net/webApp/UpdatePreferences) to select the topics that are of interest to you so that we can send you publications and information about our products and services that are especially relevant to you. You can also choose the channels we use to contact you (email, phone, post, etc.) and can also opt-out of receiving marketing communications. 
+
+* * *
+
+### Your Rights
+
+You have certain rights in relation to your personal data which include the following: 
+
+  * #### **Access & Portability**
+
+You may request access to any personal data of yours for which Euromoney is responsible as controller. Unless there are legal or regulatory reasons for not doing so, we will confirm whether we process any of your personal data and if we do, we will provide you with the following information: the purposes of the processing, the categories of personal data, any recipients of your personal data, the applicable retention period and the data source. Copies of your personal data will be made available to you in a structured, machine-readable format. 
+
+You may also request that we transfer the personal data that you have submitted to us, to another controller, where it is technically feasible for us to do so. 
+
+If you have consented to our processing of your personal data, or if we are processing your personal data in order to fulfil our contractual obligations to you, then you can submit a request that we transfer your personal data to another data controller. 
+
+  * #### **Rectification, Restriction, Objection**
+
+You have the right to request that Euromoney rectify any errors in the personal data that we process. In some circumstances, you may also be able to ask for the erasure of personal data, and/or request that the processing of your personal data be restricted. You may also object to the processing of your personal data for sales or marketing purposes. 
+
+  * #### **How to Exercise Your Rights**
+
+To exercise any of these rights, please contact us by post or email at the following addresses: 
+
+Euromoney Institutional Investor PLC   
+8 Bouverie Street   
+London, EC4Y 8AX   
 United Kingdom 
 
-Institutional Investor, Inc. Company Address: 
+Email: [dataprotectionofficer@euromoneyplc.com](mailto:dataprotectionofficer@euromoneyplc.com)
 
-225 Park Ave. South 
+Web form: [Complete Subject Data Request Form](https://app-de.onetrust.com/app/#/webform/07e77fcd-d0fe-4cea-aaf9-e342dcd79929)
 
-New York 
+We may need to check your identity prior to processing a request. 
 
-NY 10003 
+Euromoney will do our best to respond to any questions and address any of your concerns. You are also able to register any complaints regarding the processing of your personal data directly with the [UK Information Commissioner](https://ico.org.uk/). 
 
-USA 
 
-**Name of the Data Controller**
 
-The Data Controllers are Euromoney Institutional Investor plc and Institutional Investor Inc.   
-Euromoney Institutional Investor PLC is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner`s Office. 
 
-**Collection of Personal Data**
+* * *
 
-Our primary goal in collecting personal data from you is to give you an enjoyable customised experience whilst allowing us to provide services and features that most likely meet your needs. 
+### Protecting Your Data
 
-We collect certain personal data from you, which you give to us when using our Sites and/or registering or subscribing for our products and services. However, we also give you the option to access our Sites` home pages without subscribing or registering or disclosing your personal data. 
+Euromoney is committed to keeping your personal data secure and we will take appropriate technical and organisational measures to protect your personal data from loss, unauthorised use, disclosure or destruction. Although we do our best to protect your personal data, we cannot guarantee that any transmission of data is without risk. We have therefore implemented information security policies and rules, staff training on information security, and technical measures to ensure the integrity of data that we have under our control. 
 
-We also collect certain personal data from other group companies to whom you have given information through their websites (including, by way of example, Euromoney Institutional Investor plc and Institutional Investor Inc, in accordance with the purposes listed below).   
-Please note that we do not intend to collect any personal data from children under thirteen years of age and no child under thirteen should submit any personal data to any of the Sites. Should we discover that any such personal data has been delivered to any of the Sites, we will remove that information as soon as possible. 
+All our employees, contractors and data processors (i.e. those third parties that process personal data on our behalf) are required to keep such data confidential and not to use it for any purpose other than the performance of services we have requested. 
 
-**Types of Personal Data Held and its Use**
+* * *
 
-  1. **Customer Services and Administration**
+### Third Party Sites
 
-
-
-At some Sites, Euromoney collects personal data such as your name, job title, work and/or home address, and telephone number and email address in order to register you for access to certain content and subscriptions. This information may be supplemented with demographic information from your use of our Sites such as your postal area, age, gender, purchasing preferences and interests. 
-
-At other Sites, Euromoney may only collect broad demographic information for aggregate use. 
-
-This information is used to administer and deliver to you the products and/or services you have requested, to operate our Sites efficiently and improve our service to you, and to retain records of our business transactions and communications. By using the Sites and submitting personal information through the registration process you are agreeing that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business, which shall include (without limitation) the purposes described below in paragraphs 2 and 3\. 
-
-  2. **Monitoring use of our Sites**
-
-
-
-Where, as part of our Site services, we enable you to post information or materials on our Site, we may access and monitor any information which you upload or input, including in any password-protected sections. Subject to any necessary consents, we also monitor and/or record the different Sites you visit and actions taken on those Sites, e.g. content viewed or searched for. If you are a registered user (e.g. a subscriber or taking a trial), when you log on, this places a cookie on your machine. This enables your access to content and services that are not publicly available. Once you are logged on, the actions you take - for example, viewing an article - will be recorded (subject to any necessary consents). We may use technology or a service provider to do this for us. This information may be used for one or more of the following purposes: 
-
-
-
-  * to fulfil our obligations to you; 
-  * to improve the efficiency, quality and design of our Sites and services; 
-  * to see which articles, features and services are most read and used 
-  * to track compliance with our terms and conditions of use, e.g. to ensure that you are acting within the scope of your user licence; 
-  * for marketing purposes (subject to your rights to opt-in and opt-out of receiving certain marketing communications) - see paragraph 3 below; 
-  * for advertising purposes, although the information used for these purposes does not identify you personally. Please see paragraph 5 below for more details; 
-  * to protect or comply with our legal rights and obligations; and 
-  * to enable our journalists to contact and interact with you online in connection with any content you may post to our Sites. 
-
-
-
-Please see paragraph 5 below for more information on cookies and similar technologies and a link to a page where you can turn them on or off. 
-
-  3. **Marketing:**
-
-
-
-Some of your personal data collected under paragraphs 1 and 2 above may be used by us and/or our other group companies and third party service providers to contact you by email, fax, telephone and/or post for sending information or promotional material on our products and/or services and/or those of our other group companies.   
-We give you the opportunity to opt-out of receiving marketing communications and will in certain circumstances need to obtain your consent before sending such communications to you. Further detail can be found on the applicable Site and in each marketing communication sent by us, our group companies or service providers. See also "Consents and opt-outs" section below. 
-
-  4. **Trading in Personal Data:**
-
-
-
-Some of your personal data may be collected and processed with the intention of selling it to other organisations, but this will not be done unless you have given your consent (separately to this privacy statement). 
-
-  5. **Cookies and similar technologies**
-
-
-
-All our Sites use cookies and similar technical tools to collect information about your access to the Site and the services we provide. 
-
-Cookies are pieces of information which include a unique reference code that a website transfers to your device to store and sometimes track information about you. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the Site and will last for longer. Cookies cannot be used to run programs or deliver viruses to your computer. They are uniquely assigned to you and can only be read by a Web server in the domain that issued the cookie. 
-
-We may use cookies to: 
-
-
-
-  * remember that you have used the Site before; this means we can identify the number of unique visitors we receive to different parts of the Site. This allows us to make sure we have enough capacity for the number of users that we get and make sure that the Site runs fast enough; 
-  * remember your login session so you can move from one page to another within the Site; 
-  * store your preferences or your user name and password so that you do not need to input these every time you visit the Site; 
-  * customise elements of the layout and/or content of the pages of Site for you; 
-  * record activity on our Sites so that we understand how you use our Sites enabling us to better tailor our content, services and marketing to your needs; 
-  * collect statistical information about how you use the Site so that we can improve the Site; and 
-  * gather information about the pages on the Site that you visit, and also other information about other websites that you visit, so as to place you in a “market segment”. This information is only collected by reference to the IP address that you are using, but does include information about the county and city you are in, together with the name of your internet service provider. This information is then used to place interest-based advertisements on the Site which it is believed will be relevant to your market segment. For more information about this type of interest based advertising, and about how to turn this feature off please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/) or follow the links to the websites of our advertising partners shown [here](http://www.euromoneyplc.com/Cookies). (Please email us at [cookies@euromoneyplc.com](mailto:cookies@euromoneyplc.com) if you have any queries about cookies) 
-
-
-
-Some of the cookies used by our Sites are set by us, and some are set by third parties who are delivering services (such as interest based advertising directed at your market segment) on our behalf. 
-
-To see a list of the cookies and similar technologies used on this Site and instructions on how to turn them on and off [ click here](http://www.euromoneyplc.com/Cookies). (Please email us at [cookies@euromoneyplc.com](mailto:cookies@euromoneyplc.com) if you have any queries about cookies) 
-
-Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies in general by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking, deleting or turning off cookies used on the Site you may not be able to take full advantage of the Site. 
-
-**Email tracking:** So that we can better understand our users` needs, we track responses to our emails - for example, to see which links are the most popular in newsletters, and to log and follow up responses to our marketing messages. To do this, we use pixel GIFs, also known as "pixel tags" - these are small image files that are placed within the body of our email messages. They enable us to tell if a message has been opened and to track click-throughs on links within the message.   
-Any other purposes for which Euromoney wishes to use your personal data will be notified to you and your personal data will not be used for any such purpose without obtaining your prior consent. 
-
-**Consents and opt-outs**
-
-You can give your consent to or opt out of particular uses of your data as indicated above by: 
-
-  * Indicating at the point on the relevant Site where personal data is collected; 
-  * Informing us by email, post or phone; or 
-  * Updating your preferences on the applicable Site; 
-
-
-
-For turning cookies and similar technologies on and off, see the information in paragraph 5 above. 
-
-**Disclosures**
-
-Information collected at one Site may be shared between Euromoney Institutional Investor plc, Institutional Investor Inc. and other group companies for the purposes listed above. 
-
-Your personal data may also be sold to other companies in the form of lists and directories, but only after permission from you in accordance with the provisions above. 
-
-We may also disclose your personal data to other third parties, including, without limitation, professional advisers, or governmental or State institutions or regulatory authorities, where necessary in order to exercise or defend legal rights or where required by law. 
-
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
-
-**Public forums, message boards and blogs**
-
-Some of our Sites make message boards, blogs or other facilities for user generated content available and users can participate in these facilities. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information. 
-
-**Transfers outside the EEA**
-
-Services on the Internet are accessible globally so collection and transmission of personal data is not always limited to one country. Euromoney Institutional Investor plc may transfer your personal data, for the purposes listed above, to other group companies, service providers or other third parties which may be located in countries outside the European Economic Area, whose laws may not give the level of protection to personal data as within the UK. This will include transfers to Institutional Investor Inc. in the US (and Institutional Investor Inc. will collect some data directly from you, in relation to the Sites which it operates) and to third parties who provide us with email and marketing services. Where we conduct any transfers we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Statement. 
-
-**Confidentiality and Security of Your Personal Data**
-
-We are committed to keeping the data you provide us secure and will take reasonable precautions to protect your personal data from loss, misuse or alteration. 
-
-The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features described above to try to prevent unauthorised access. 
-
-We have implemented information security policies, rules and technical measures to protect the personal data that we have under our control from: 
-
-  * unauthorised access 
-  * improper use or disclosure 
-  * unauthorised modification 
-  * unlawful destruction or accidental loss 
-
-
-
-All our employees, contractors and data processors (i.e. those who process your personal data on our behalf, for the purposes listed above), who have access to, and are associated with the processing of your personal data, are obliged to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for us. 
-
-We also give you the option of using a secure transmission method to send us personal data identifiers, such as credit card details and bank account number. 
-
-**How to Access, Update and Erase your Personal Information**
-
-If you wish to know whether we are keeping personal data about you, or if you have an enquiry about our privacy policy or your personal data held by us, in relation to any of the Sites, you can contact the Data Protection Officer via: 
-
-  * Postal mail to this address: Data Protection Officer, Euromoney Institutional Investor PLC, 8 Bouverie Street, London, EC4Y 8AX, UK. 
-  * Telephone: +44 (0)20 7779 8600 
-  * Email: [dataprotectionofficer@euromoneyplc.com](mailto:dataprotectionofficer@euromoneyplc.com)
-
-
-
-Upon request, we will provide you with a readable copy of the personal data which we keep about you. We may require proof of your identity and may charge a small fee (not exceeding the statutory maximum fee that can be charged) to cover administration and postage. 
-
-Euromoney allows you to challenge the data that we hold about you and, where appropriate in accordance with applicable laws, you may have your personal information: 
-
-  * erased 
-  * rectified or amended 
-  * completed 
-
-
-
-**Changes to this Privacy Statement**
-
-We will occasionally update this Privacy Statement to reflect new legislation or industry practice, group company changes and customer feedback. We encourage you to review this Privacy Statement periodically to be informed of how we are protecting your personal data. 
-
-**This Privacy Statement was last updated in January 2015.**
+Our site may contain links to other websites – including, for example, providers of payment processing services. Euromoney is not responsible for the privacy and data collection practices of third party sites and we therefore recommend that you review the privacy policies and terms of service of each site you visit. 
