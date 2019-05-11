@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gramto.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122141259id_/https%3A//www.gramto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gramto.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511121943id_/https%3A//www.gramto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gramto
 
@@ -26,4 +26,4 @@ Gramto Poster may update this Privacy Policy from time to time. We will notify y
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us.](mailto:support@gramto.com)
+If you have any questions about this Privacy Policy, please [contact us.](mailto:support@gramto.com)
