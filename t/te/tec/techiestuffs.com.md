@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techiestuffs.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203184629id_/http%3A//www.techiestuffs.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techiestuffs.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511065551id_/http%3A//www.techiestuffs.com/disclaimer) for the most accurate reproduction.*
 
-# Privacy Policy – Techiestuffs Blog Network
+# Privacy Policy – Techiestuffs Blog Network – TechieStuffs
 
 This Disclaimer applies to all the blogs under Techiestuffs Blog Network and Techiestuffs reserves the rights to make changes in our policy anytime and without prior notice to anybody.
 
