@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnyst.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010151543id_/http%3A//www.learnyst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnyst.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511105424id_/https%3A//www.learnyst.com/privacy-policy) for the most accurate reproduction.*
 
 # Learnyst:Teach online and sell courses from your own website
 
