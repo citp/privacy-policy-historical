@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the turnoutpac.org privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319154535id_/http%3A//go.turnoutpac.org/page/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnoutpac.org privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511071746id_/http%3A//go.turnoutpac.org/page/content/privacy) for the most accurate reproduction.*
 
 # | Privacy Policy
 
-_Updated August 15, 2015_
+_Updated September 31, 2018_
 
 The Progressive Turnout Project cares about your privacy rights, and about providing you with the information you need in order to protect them. Accordingly, we've created this policy to explain our privacy practices. This applies to  **www.TurnoutPAC.org  **only.
 
@@ -17,6 +17,10 @@ We collect information you give us when you register on our site, contact us or 
 You may make changes to the information you have provided by visiting any form throughout the www.turnoutpac.org site. You may also contact us at [info@turnoutpac.org](mailto:info@turnoutpac.org) with any questions or changes to your account.
 
  _Automatically Collected Information:_  We automatically receive certain types of information whenever you interact with us online. For example, when you visit our site, our systems automatically collect your IP address and the type of browser you use. Information may be automatically collected through the use of "cookies" (more information below). We also collect "clickstream" data about your use of the site.
+
+ **Unsubscribe Policy:**
+
+If you no longer wish to receive emails from Progressive Turnout Project, please click the unsubscribe link included in the footer of all of our emails. [**Alternatively, click here to unsubscribe  >>**](https://action.turnoutpac.org/unsubscribe/unsubscribe/)
 
  **Network And Information Security**
 
