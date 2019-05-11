@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the codeanywhere.com privacy policy that was archived on 2017-09-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170902184749id_/https%3A//codeanywhere.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codeanywhere.com privacy policy that was archived on 2019-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190511172852id_/https%3A//codeanywhere.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
 		<meta charset="utf-8">
@@ -91,6 +91,8 @@
 		<!--STYLES-->
 		<link rel="stylesheet" href="/min/production.min.css?v=1.2.6">
 		<!--STYLES END-->
+    
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
 
 	</head>
 
@@ -108,45 +110,32 @@
 				<ol class="navigation-list off-canvas-hidden" role="menubar">
 
 					<li role="presentation">
-
 						<a role="menuitem" tabindex="0" href="/" class="navigation-link ">Home</a>
-
 					</li>
 
 					<li role="presentation">
-
 						<a role="menuitem" tabindex="-1" href="/features/editor" class="navigation-link ">Features</a>
-
 					</li>
 
 					<li role="presentation">
-
 						<a role="menuitem" tabindex="-1" href="/apps" class="navigation-link ">Apps</a>
-
 					</li>
 
 					<li role="presentation">
-
 						<a role="menuitem" tabindex="-1" href="/pricing" class="navigation-link ">Pricing</a>
-
 					</li>
 
 					<li role="presentation">
-
 						<a role="menuitem" tabindex="-1" href="http://docs.codeanywhere.com/" class="navigation-link" target="_blank">Docs</a>
-
 					</li>
 
 					<li role="presentation">
-
 						<a role="menuitem" tabindex="-1" href="/login" id="nav_login" class="navigation-link login-toggle" data-toggle="popover" data-template="login" style="display: inline-block;">Login</a>
 						<a role="menuitem" tabindex="-1" href="/logout" class="navigation-link" id="nav_logout" style="display: none;">Logout</a>
-
 					</li>
 
-
 					<li role="presentation">
-						<a role="menuitem" tabindex="-1" class="navigation-btn btn btn-secondary" href="/signup" id="nav_signup" style="display: inline-block;">Sign up</a>
+						<a role="menuitem" tabindex="-1" class="navigation-btn btn btn-secondary" href="/pricing" id="nav_signup" style="display: inline-block;">Sign up</a>
 						<a role="menuitem" tabindex="-1" class="navigation-btn btn btn-secondary" href="/editor" id="nav_editor" style="display: none;">Editor</a>
 					</li>
 
@@ -193,44 +182,31 @@
 			<ol class="off-canvas-menu-list" role="menubar">
 
 				<li role="presentation">
-
 					<a role="menuitem" tabindex="0" href="/" class="off-canvas-menu-link ">Home</a>
-
 				</li>
 
 				<li role="presentation">
-
 					<a role="menuitem" tabindex="-1" href="/features/editor" class="off-canvas-menu-link ">Features</a>
-
 				</li>
 
 				<li role="presentation">
-
 					<a role="menuitem" tabindex="-1" href="/apps" class="off-canvas-menu-link ">Apps</a>
-
 				</li>
 
 				<li role="presentation">
-
 					<a role="menuitem" tabindex="-1" href="/pricing" class="off-canvas-menu-link ">Pricing</a>
-
 				</li>
 
 				<li role="presentation">
-
 					<a role="menuitem" tabindex="-1" href="https://support.codeanywhere.com" class="off-canvas-menu-link">Support</a>
-
 				</li>
 
 				<li role="presentation">
-
 					<!-- <a role="menuitem" tabindex="-1" href="/login" class="off-canvas-menu-link">Login</a> -->
 					<a role="menuitem" tabindex="-1" href="/login" class="off-canvas-menu-link">Login</a>
-
 				</li>
 
-
-				<li role="presentation"><a role="menuitem" tabindex="-1" class="btn btn-secondary" href="/signup">Sign up</a></li>
+				<li role="presentation"><a role="menuitem" tabindex="-1" class="btn btn-secondary" href="/pricing">Sign up</a></li>
 			</ol>
 		</div>
 
@@ -347,7 +323,7 @@
 							<li><a href="https://blog.codeanywhere.com/">Blog</a></li>
 							<li><a href="http://docs.codeanywhere.com/" target="_blank">Documentation</a></li>
 							<li><a href="/pricing">Pricing</a></li>
-							<li><a href="/signup">Signup</a></li>
+							<li><a href="/pricing">Signup</a></li>
 <!-- 							<li><a href="https://codeanywhereinc.growsumo.com/app/page">Partners</a></li> -->
 						</ul>
 					</div>
@@ -386,6 +362,27 @@
 	<!--SCRIPTS-->
 	<script src="/min/production.min.js?v=1.2.6"></script>
 	<!--SCRIPTS END-->
+  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+  <script>
+  window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#7f3f97"
+      },
+      "button": {
+        "background": "#ffffff"
+      }
+    },
+    "content": {
+      "message": "We use cookies to provide our services and for analytics  and marketing. By continuing to browse our website, you agree to our use of cookies.  To learn more please see our",
+      "dismiss": "I agree!",
+      "link": "Privacy Policy.",
+      "href": "https://codeanywhere.com/privacy"
+    }
+  })});
+  </script>
 
 	<script>
 		(function() {
