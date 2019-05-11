@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbeamers.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920144303id_/https%3A//www.techbeamers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbeamers.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511063155id_/https%3A//www.techbeamers.com/privacy-policy) for the most accurate reproduction.*
 
 # TechBeamers - Privacy Policy for Users and Readers
 
