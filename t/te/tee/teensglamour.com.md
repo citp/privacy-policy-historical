@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensglamour.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109140232id_/http%3A//www.teensglamour.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensglamour.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511040431id_/http%3A//www.teensglamour.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -70,4 +70,4 @@ You can also stimulate hair growth on your eyebrows by using an eyebrow brush in
 
 The perfect eyebrows of the protagonist on the silver screen are certainly very attractive. The pencil thin and naturally shaped eyebrows offer a distinct impact of the beauty of the person on the screen. And the best thing about eyebrows is that, unlike all other features, the pencil-thin eyebrows…
 
-Copyright © 2018 . All Rights Reserved.
+Copyright © 2019 . All Rights Reserved.
