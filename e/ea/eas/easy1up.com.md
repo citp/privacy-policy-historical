@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy1up.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509103254id_/http%3A//easy1up.com/en/u/privacy_policy%3Fid%3DNULL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy1up.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511201132id_/http%3A//easy1up.com/en/u/privacy_policy%3Fid%3DNULL) for the most accurate reproduction.*
 
 # easy1up.com
 
