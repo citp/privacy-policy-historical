@@ -1,24 +1,46 @@
-> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910201112id_/https%3A//mindtouch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511100100id_/https%3A//mindtouch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MindTouch
 
-Version 2018.05.25
+Version 2018.09.14
 
 ## Introduction
 
-This Privacy Policy details certain policies implemented throughout MindTouch that governs MindTouch’s use of information, including—but not limited to—Personal Identifiable Information (PII) about users (the “Individual”) on <https://mindtouch.com/> (the “Website”). This policy similarly applies to information and data that may be collected at conferences, events, and other such marketing activities that result in MindTouch collecting potentially Personal Identifiable Information.
+MindTouch® (“MindTouch”, “we”) is a business to business (B2B) service provider that allows companies to utilize customer self-service software that delivers timely content across every support channel. To this end we directly engage with businesses and individuals representing those entities, not the general public at large.
+
+This Privacy Policy details certain policies implemented throughout MindTouch that governs MindTouch’s use of information, including—but not limited to—Personal Identifiable Information (PII) about users (the “Individual”) on [www.mindtouch.com](http://www.mindtouch.com/) (the “Website”). This policy similarly applies to information and data that may be collected at conferences, events, and other such marketing activities that result in MindTouch collecting potentially Personal Identifiable Information.
 
 ### Note for users of MindTouch’s Cloud-Based Services
 
-Users of MindTouch’s cloud-based services (“Services”) are subject to an additional set of conditions which are necessary in order to provide product-related duties. These policies are detailed in the Master Subscription Agreement (MSA). The current version of the Master Subscription Agreement is published here at <https://mindtouch.com/msa>.
+Users of MindTouch’s cloud-based services (“Services”) are subject to an additional set of conditions which are necessary in order to provide product-related duties. These policies are detailed in the Master Subscription Agreement (MSA). The current version of the Master Subscription Agreement is published here <https://mindtouch.com/msa>.
 
-Please note that Subscribers to the Services are solely responsible for establishing policies to ensure compliance with all applicable laws and regulations—as well as any and all privacy policies, agreements, or other obligations that relate to the collection of Personal Identifiable Information in connection with the use of the Services by Individuals (also referred to as “data subjects”) with whom the Subscribers interact. If the Individual interacts with a Subscriber using the Services, then the Individual will be directed to contact the Subscriber for assistance with any requests or questions relating to the Individual’s Personal Identifiable Information, or if the Individual wishes to amend how that information is being used.
+Please note that Subscribers to the Services are solely responsible for establishing policies to ensure compliance with all applicable laws and regulations—as well as any and all privacy policies, agreements, or other obligations that relate to the collection of Personal Identifiable Information in connection with the use of the Services by Individuals (also referred to as “data subjects”) with whom the Subscribers interact. If the Individual interacts with a Subscriber using the Services, then the Individual will be directed to contact the Subscriber for assistance with any requests or questions relating to the Individual’s Personally Identifiable Information, or if the Individual wishes to amend how that information is being used.
 
-In order to provide Services, MindTouch may transfer Personal Identifiable Information to companies that help provide Services. A good example of this is Amazon Web Services (AWS), who is the cloud service provider. Such transfers of Personal Identifiable Information are governed by the Service Agreements for the Subscribers.
+In order to provide Services, MindTouch may transfer Personally Identifiable Information to companies that help provide Services. We currently utilize cloud service providers and payment processors. Such transfers of Personally Identifiable Information are governed by the Service Agreements for the Subscribers.
 
-### Definitions
+## What information does MindTouch collect, how is it collected, and how is it used?
 
-“Personal Identifiable Information” or “Information” means information that (1) is about, or pertains to a specific Individual; and (2) can be linked to that Individual. “Sensitive Personal Identifiable Information” means Personal Identifiable Information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership, or that concerns an Individual’s health.
+### Personally Identifying Information
+
+ **Unique Information.**
+
+MindTouch does not collect any unique personally identifying information about the Individual such as the Individual’s name, email address, or any other contact information—except when the Individual specifically and knowingly provides such information.
+
+ **Account Information.**
+
+MindTouch does not require the Individual to provide their personally identifying information in order for the Individual to access, open, or browse the Website. However, certain Services and parts of the Website require that the Individual provides personally identifying information about the Individual themself. Under those circumstances, the range of data we collect may consist of individual name, company name, job title, email address, physical address, phone number.
+
+ **Financial Information.**
+
+If the Individual is using a Service that requires a fee, or in circumstances in which the Individual is to make a payment, MindTouch may collect financial information—such as payment information. MindTouch may record the Individual’s service confirmations, usage statistics, and payment history for accounting purposes.
+
+ **Contact Information.**
+
+MindTouch may use the Individual’s email address or other contact information to notify the Individual of any changes to the Services, to correspond with the Individual about any questions or concerns that has been brought to attention, and to notify the Individual of any financial obligations they have to MindTouch. The Individual may also opt-in to receive automated email messages regarding the Services.
+
+ **Correspondence.**
+
+If the Individual contacts MindTouch to provide feedback, comments, or input, a record may be kept of that correspondence, and a collection the Individual’s Personally Identifiable Information will be sought to process the inquiries, respond to requests, and improve the services.
 
 ## Principles of how MindTouch Treats the Individual’s data
 
@@ -34,15 +56,13 @@ MindTouch shall provide the Individual with the choice and means for limiting th
 
 ### The Individual’s ability to choose
 
-MindTouch will provide an Individual opt-in choices before use for a purpose other than which it was originally collected or subsequently authorized. For Sensitive Personal Identifiable Information, MindTouch will give Individuals the opportunity to affirmatively or explicitly (opt-out) consent to the disclosure of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the Individual. MindTouch shall treat Sensitive Personal Identifiable Information received from an Individual the same as the Individual would treat and identify it as Sensitive Personal Identifiable Information.
+MindTouch will provide an Individual choices before use for a purpose other than which it was originally collected or subsequently authorized.
 
-The Individual will be notified by email to the email address then on record. If the Individual chooses not to receive MindTouch email communications, the Individual can opt-out or unsubscribe by visiting <http://info.mindtouch.com/preferences>, by emailing privacy@mindtouch.com, by following the opt-out instructions in the email or newsletter, or by sending mail to MindTouch, Inc. (Attn: Legal Department). 101 West Broadway, Suite 1500, San Diego CA 92101.
+The Individual will receive service notifications by email to the email address then on record. If the Individual chooses not to receive MindTouch email communications, the Individual can opt-out or unsubscribe by visiting <http://info.mindtouch.com/preferences>, by emailing privacy@mindtouch.com, by following the opt-out instructions in the email or newsletter, or by sending mail to MindTouch, Inc. (Attn: Legal Department). 101 West Broadway, Suite 1500, San Diego, CA 92101.
 
 ### Accountability for Onward Transfers
 
-Prior to disclosing Personal Identifiable Information to a third party, MindTouch shall notify the Individual of such disclosure, and allow the Individual the choice (opt-out) of such disclosure. MindTouch also may be required to disclose an Individual’s Personal Identifiable Information in response to a lawful request by public authorities, which includes having to meet national security or law enforcement requirements. MindTouch shall ensure that any third party for which Personal Identifiable Information may be disclosed will agree in writing to provide the same level of privacy protection as is described in this policy.
-
-The Individual will be notified by email to the email address then on record before disclosing Personal Identifiable Information to a third party. The Individual may opt-out by emailing privacy@mindtouch.com, following the opt-out instructions in the email, or by sending mail to MindTouch, Inc. (Attn: Legal Department). 101 West Broadway, Suite 1500, San Diego, CA 92101.
+Currently, MindTouch does not share or sell any personal data with non-agent third parties. Upon updates to this policy, we will identify those parties and provide individuals with opt-out choice prior to sharing their data.
 
 ## Data Security
 
@@ -54,69 +74,41 @@ MindTouch shall only process Personal Identifiable Information in a way that is 
 
 ### Right to Access
 
-MindTouch allows all Individuals—no matter their country of residence—rights to access the Personal Identifiable Information that are maintained about them. MindTouch shall allow an Individual access to their Personal Identifiable Information, and allow the Individual to correct or amend inaccurate information—in exception of when the burden or expense of providing access would be disproportionate to the risks to the privacy of the Individual in question, or where the rights of persons other than the Individual would be violated. This, notwithstanding, an Individual can opt to delete all data that MindTouch would hold at any time. Prior to doing so, MindTouch need to take steps to adequately verify the identity of the Individual making the request.
+MindTouch allows all Individuals—no matter their country of residence—rights to access the Personal Identifiable Information maintained about them. MindTouch shall allow an Individual access to their Personal Identifiable Information, and allow the Individual to correct or amend inaccurate information—in exception of when the burden or expense of providing access would be disproportionate to the risks to the privacy of the Individual in question, or where the rights of persons other than the Individual would be violated. This, notwithstanding, an Individual can opt to delete all data that MindTouch would hold at any time. Prior to doing so, MindTouch need to take steps to adequately verify the identity of the Individual making the request.
 
 An Individual who seeks access or correct, amend, or delete data, should direct their query to privacy@mindtouch.com.
 
-## What information does MindTouch collect, how is it collected, and how is it used?
-
-### Anonymous User Information
-
- **Cookies**  
-MindTouch uses a feature of Internet web browsers called “cookies”. Cookies are generated by web servers and stored on the Individual’s hard drive when the Individual visits practically any website on the Internet. Cookies are used to remember users, store user preferences, and track user trends. MindTouch uses cookies to improve the quality of the Services offered, and to better understand how users interact with the Website. In some secured areas of the Website, cookies are required to associate the Individual with the Individual’s Personal Identifiable Information stored in MindTouch’s systems. MindTouch cannot not and will not use cookies to retrieve Individual personally identifying information about the Individual from the Individual’s computer—unless the Individual knowingly and willingly provides such information. The Individual can adjust their web browser security settings to refuse all cookies or to indicate when a cookie is being sent. However, if the Individual disables the use of cookies in the Individual web browser, some features of the Website or Services that are offered may not function properly.  
-
-
-**Anonymous Information**  
-MindTouch collects anonymous information from each user for every visit to the Website. Consequently, MindTouch can understand how people are using the Website, and/or the Services, to improve the overall quality of the users’ online experience. MindTouch records the date and time of the Individual’s visit, the page the Individual visited, track the Individual’s path through the Website, the Individual’s IP address, the Internet service provider the Individual is using, referral data, the type of browser the Individual is using, and the type of operating system being used. The Individual does not have to register with MindTouch before this anonymous information can be collected.  
-
-
-### Personally Identifying Information
-
- **Unique Information**  
-MindTouch does not collect any unique personally identifying information about the Individual such as the Individual’s name, email address, or any other contact information—except when the Individual specifically and knowingly provides such information.  
-
-
-**Account Information**  
-MindTouch does not require the Individual to provide their personally identifying information in order for the Individual to access, open, or browse the Website. However, certain Services and parts of the Website require that the Individual provides personally identifying information about the Individual themself. Under those circumstances, the Individual will be fully notified of what information MindTouch collects and for what purpose.  
-
-
-**Financial Information**  
-If the Individual is using a Service that requires a fee, or in circumstances in which the Individual is to receive a payment, MindTouch may collect financial information—such as the Individual’s credit card or other payment information. MindTouch may record the Individual’s service confirmations, usage statistics, and payment history for accounting purposes.  
-
-
-**Contact Information**  
-If the Individual contacts MindTouch to provide feedback, comments, or input, a record may be kept of that correspondence, and a collection the Individual’s Personal Identifiable Information will be sought to process the inquiries, respond to requests, and improve the services.  
-
-
-**Correspondence**  
-MindTouch may use cookies to serve you with advertisements that we believe are relevant to you and your interests. For example, if you read our blog on [mindtouch.com/resources/blog](https://mindtouch.com/resources/blog) we may target with advertising when we publish a new blog on a related topic.  
-
-
 ### With Whom Does MindTouch Share Information and What is Shared?
 
- **Financial Information**  
-If the Individual orders any Services that require the payment of a fee, MindTouch transmits the Individual’s financial information to financial service providers and banks for processing. If a problem is ever encountered with the Individual’s payments, MindTouch may review the information with the Individual, financial service providers, and the bank to resolve the issue.  
+ **Financial Information.**
 
+If the Individual orders any Services that require the payment of a fee, MindTouch transmits the Individual’s financial information to financial service providers and banks for processing. If a problem is ever encountered with the Individual’s payments, MindTouch may review the information with the Individual, financial service providers, and the bank to resolve the issue.
 
-**Aggregated General Information**  
-MindTouch may share aggregated general information about the Website and Services with corporate partners, investors, advertisers, or others. Aggregated general information includes, without limitation: (1) the number of users of the Website or any Service, (2) revenue including payments—by, or to—the users, and (3) usage statistics. Aggregated general information does not include any personally identifying information that could be used to contact or identify the Individual.  
+ **Aggregated General Information.**
 
+MindTouch may share aggregated general information about the Website and Services with corporate partners, investors, advertisers, or others. Aggregated general information includes, without limitation: (1) the number of users of the Website or any Service, (2) revenue including payments—by, or to—the users, and (3) usage statistics. Aggregated general information does not include any personally identifying information that could be used to contact or identify the Individual.
 
-**Personally Identifying Information**  
-MindTouch may only share personally identifying information with third parties in the following limited circumstances:  
+ **Personally Identifying Information.**
 
+MindTouch may only share personally identifying information with third parties in the following limited circumstances:
 
   * With the Individual’s prior consent and where the processing is in MindTouch’s or a third party’s legitimate interests. This will not be used to override the Individual’s data protection interests or fundamental rights and freedoms.
   * MindTouch provides such information to trusted businesses or persons for the sole purpose of processing personally identifying information on MindTouch’s behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on MindTouch’s instructions, in compliance with this privacy policy and with appropriate confidentiality and security measures in place.
-  * When MindTouch has a good-faith belief that such action is reasonably necessary to: (a) satisfy any applicable law, regulation, court order, legal process or enforceable government request, or (b) ensure compliance with applicable terms of service or agreements including investigation of any potential violations, or (c) to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person.
+  * When MindTouch has a good-faith belief such action is reasonably necessary to: (a) satisfy any applicable law, regulation, court order, legal process or enforceable government request, or (b) ensure compliance with applicable terms of service or agreements including investigation of any potential violations, or (c) to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person.
   * MindTouch may store and process Personal Identifiable Information collected on the site in the United States, Canada, or any other country in which MindTouch or MindTouch agents maintain facilities. By using these services, the Individual consents to the transfer of the Individual’s information among these facilities, including those located outside the Individual’s country.
-  * MindTouch may use third party service providers to serve ads and emails. These companies may use technologies to measure the effectiveness of ads and emails and use information about the Individual’s to the Website so that a better experience may be provided to the Individual.
+  * MindTouch may use third party service providers to serve ads and emails. These companies may use technologies to measure the effectiveness of ads and emails and use information about the Individual’s to the Website so that a better experience may be provided to the Individual. If the Individual chooses not to receive MindTouch email communications, the Individual can opt-out or unsubscribe by: (1) visit <http://info.mindtouch.com/preferences>; (2) email privacy@mindtouch.com, (3) follow the opt-out instructions in the email or newsletter; (4) send mail to MindTouch, Inc. (Attn: Legal Department). 101 West Broadway, Suite 1500, San Diego, CA 92101.
 
 
+
+### Updating the Individual’s Contact Information
+
+MindTouch provides the Individual with the ability to review and update user contact information that user provides to MindTouch by: (1) accessing and modifying this information in the Individual’s account; (2) submitting a request to MindTouch at privacy@mindtouch.com. MindTouch will respond to requests for access to update or delete the Individual’s account information within 30 days.
+
+If the Individual chooses not to receive MindTouch email communications, the Individual can opt-out or unsubscribe by: (1) visit <http://info.mindtouch.com/preferences>; (2) email privacy@mindtouch.com, (3) follow the opt-out instructions in the email or newsletter; (4) send mail to MindTouch, Inc. (Attn: Legal Department). 101 West Broadway, Suite 1500, San Diego, CA 92101.
 
 ### Information Security
 
-MindTouch takes appropriate security measures to protect against: unauthorized access,unauthorized alteration, and disclosure or destruction of the Individual’s information. MindTouch restricts access to the Individual’s personally identifying information to employees who need to know that information in order to operate, develop, or improve the Services. The Individual’s financial information and passwords are stored in encrypted format for increased security. MindTouch’s servers are protected by firewalls and are physically located in secure data facilities to further increase security. While no computer is 100% safe from outside attacks, it is believed that the steps that have been taken to protect Personal Identifiable Information has drastically reduced the likelihood security problems to a level appropriate to the type of information involved.
+MindTouch takes appropriate security measures to protect against: unauthorized access,unauthorized alteration, and disclosure or destruction of the Individual’s information. MindTouch restricts access to Individual’s personally identifying information to employees who need to know that information in order to operate, develop, or improve the Services. The Individual’s financial information and passwords are stored in encrypted format for increased security. MindTouch’s servers are protected by firewalls and are physically located in secure data facilities to further increase security. While no computer is 100% safe from outside attacks, it is believed that the steps that have been taken to protect Personal Identifiable Information has drastically reduced the likelihood security problems to a level appropriate to the type of information involved.
 
 ### Third Party Information Gathering
 
@@ -130,18 +122,40 @@ The Website and Services are not intended for children under the age of 13. If t
 
 In the event that another company acquires all, or substantially all, of the assets related to the Website or Service—or if MindTouch experiences some other change of control event— MindTouch reserves the right to include any or all stored Personal Identifiable Information among the assets transferred to the acquiring company.
 
-### Users Outside the United States
+### Users Outside the United States (GDPR for EU Individuals)
 
-MindTouch makes the Website available for Individuals primarily located in the United States of America. Certain policies and procedures have been enacted to comply with European Union laws governing data privacy (GDPR). The Individual understands and agrees that this privacy policy may not comply with other foreign laws that may be specific to the Individual’s country or region.
+MindTouch makes the Website available for Individuals primarily located in the United States of America. Certain policies and procedures have been enacted to comply with European Union laws governing data privacy (GDPR). The Individual understands and agrees that this privacy policy may not comply with other foreign laws that may be specific to the Individual’s country or region. EU individuals who wish to learn more about their GDPR rights and/or file a complaint regarding a GDPR violation may do so by contacting their supervisory data protection authority. Please refer to this link [http://ec.europa.eu/justice/article-29/structure/dataprotection- authorities/index_en.htm](http://ec.europa.eu/justice/article-29/structure/dataprotection-%20authorities/index_en.htm) to ascertain the contact information for the appropriate authority.
+
+### Privacy Shield for EU and Swiss Individuals Whose Data is Transferred into the United States
+
+MindTouch complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.  MindTouch has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)
+
+MindTouch is subject to the regulatory and enforcement authority of the United States Federal Trade Commission (FTC).
+
+Pursuant to the Privacy Shield MindTouch is liable for the onward transfer of EU and Swiss personal data to agent third parties unless we can prove we were not a party to the actions resulting in the damages.
+
+Please note that we are obliged by the Privacy Shield to inform EU and Swiss individuals that we may be required to release their personal data in response to lawful requests from public authorities including to meet national security and law enforcement requirements.
+
+We acknowledge the right of EU and Swiss individuals to access their personal data. Individuals wishing to exercise this right may learn how to do this by referring to “The Individual’s Ability To Choose” section above.
+
+In compliance with the Privacy Shield Principles, MindTouch commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact MindTouch at:
+
+[legal@mindtouch.com](mailto:legal@mindtouch.com)
+
+OR
+
+Aaron Rice   
+CEO   
+MindTouch, Inc.   
+101 West Broadway Suite 1500   
+San Diego, CA 92101
+
+MindTouch has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. This service is provided free of charge to you.
+
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
 
 ### Changes to Privacy Policy
 
 This privacy policy is subject to change without notice. MindTouch may change the policy at any time by posting a new version of it on the Website. Please check the Website regularly for information about revisions to this Privacy Policy. In the event that the Privacy Policy is changed, such changes will affect all of the information collected after any such change. If the Individual objects to the change to the Privacy Policy, then the Individual must contact MindTouch in writing regarding the Individual’s objection.
 
-### Updating the Individual’s Contact Information
-
-MindTouch provides the Individual with the ability to review and update user contact information that user provides to MindTouch by: (1) accessing and modifying this information in the Individual’s account; (2) submitting a request to MindTouch at privacy@mindtouch.com. MindTouch will respond to requests for access to update or delete the Individual’s account information within 30 days.
-
-If the Individual chooses not to receive MindTouch email communications, the Individual can opt-out or unsubscribe by: (1) visit <http://info.mindtouch.com/preferences>; (2) email privacy@mindtouch.com, (3) follow the opt-out instructions in the email or newsletter; (4) send mail to MindTouch, Inc. (Attn: Legal Department). 101 West Broadway, Suite 1500, San Diego CA 92101.
-
- **Effective date: May 25, 2018**
+**Effective date: September 14, 2018**
