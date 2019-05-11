@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnomicfun.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120020640id_/http%3A//www2.gnomicfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomicfun.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511071804id_/http%3A//www2.gnomicfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | gnomicfun
 
@@ -61,21 +61,7 @@ _Information Collected Through Cookies:_ Please see the below section "The Use o
 
 ### THE USE OF COOKIES TECHNOLOGY
 
-A "cookie" is a small data file which is transferred to your computer’s hard drive. We use cookie technology to make your use of our Site and our Services more convenient and to support our internal business purposes.
-
-Most web browsers are initially set up to accept cookies, but you can configure your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can also configure your browser to block all cookies from a specific domain or all domains. If you continue to use our Site and Services without disabling cookies we will assume that you are willing to accept all cookies from our Site.
-
-You can, of course, use and visit our Site with cookies disabled, but you will not automatically be recognised by the Site upon re-visiting. We therefore recommend that you visit our Website using "Essential Cookies" as described below.
-
-_Essential Cookies_
-
-We use cookies to identify you when you visit our Sites e.g. we use session cookies to recall your e-mail address so you don’t have to re-enter this information each time you visit. Cookies allow us to tailor your unique user experience.
-
-We may collect the following personal data through essential cookies: a unique ID assigned to your device; IP address; device and browser type; operating system; referring URLs; content viewed or other actions taken on our sites and apps; time and date of those actions; country and language selected.
-
-_Analytics Cookies_
-
-We use analytics cookies when we process your data and so we can manage and improve sites for monitoring, auditing, research and reporting purposes.
+A "cookie" is a small data file which is transferred to your computer’s hard drive. We use cookie technology to make your use of our Site and our Services more convenient and to support our internal business purposes. For more information on our use of cookies and other tracking mechanisms, please see our [Cookie Policy](https://web.archive.org/front/cookie_policy).
 
 ### The Use of Other Tracking Mechanisms
 
