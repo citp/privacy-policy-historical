@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the btechguru.com privacy policy that was archived on 2016-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161115225629id_/https%3A//www.btechguru.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the btechguru.com privacy policy that was archived on 2019-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190511154823id_/https%3A//www.btechguru.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"><title>Privacy Policy</title>
@@ -12,20 +12,24 @@
 <meta name="revisit-after" content="7">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="/styles/css/bootstrap.min.css?16111604" rel="stylesheet" defer="" media="all">
-<link href="/styles/css/superfish.min.css?16111604" rel="stylesheet" defer="" media="all">
-<link href="/styles/css/style.min.css?16111604" rel="stylesheet" media="all">
-<link href="/styles/jquery-ui.min.css?16111604" rel="stylesheet" media="all">
-<link href="/styles/fontello/css/fontello.css?16111604" rel="stylesheet" media="all">
-<link href="/styles/css/color_scheme.min.css?16111604" rel="stylesheet" media="all">
-<link href="/styles/css/courses.min.css?16111604" rel="stylesheet" media="all">
-<link href="/styles/chat.css?16111604" rel="stylesheet" media="all">
+<link href="/styles/css/bootstrap.min.css?19051121" rel="stylesheet" defer="" media="all">
+<link href="/styles/css/superfish.min.css?19051121" rel="stylesheet" defer="" media="all">
+<link href="/styles/css/single_course.css?19051121" rel="stylesheet" defer="" media="all">
+<link href="/styles/css/timeline.css?19051121" rel="stylesheet" media="all">
+<link href="/styles/classes_PR_New.css?19051121" rel="stylesheet" media="all">
+<link href="/styles/css/style.min.css?19051121" rel="stylesheet" media="all">
+<link href="/styles/jquery-ui.min.css?19051121" rel="stylesheet" media="all">
+<link href="/styles/font-awesome/css/font-awesome.min.css?19051121" rel="stylesheet" media="all">
+<link href="/styles/fontello/css/fontello.css?19051121" rel="stylesheet" media="all">
+<link href="/styles/css/color_scheme.min.css?19051121" rel="stylesheet" media="all">
+<link href="/styles/css/courses.min.css?19051121" rel="stylesheet" media="all">
+<link href="/styles/chat.css?19051121" rel="stylesheet" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/respond.min.js"></script>
-<script src="/scripts/jsConfig.php?16111604"></script>
+<script src="/scripts/jsConfig.php?19051121"></script>
 <script src="/scripts/mini.php?files=jquery.min" type="text/javascript"></script>
-<script src="/scripts/mini.php?files=html5shiv,XmlUtil,validation,common,js/jquery-1.10.2.min,js/jquery-ui.min"></script>
+<script src="/scripts/mini.php?files=html5shiv,XmlUtil,validation,contest,common,js/jquery-1.10.2.min,js/jquery-ui.min"></script>
 </head>
- <body>
+ <body style="">
       <header>
   	<div class="container">
 	<div class="row">
@@ -35,7 +39,7 @@
 		<span class="col-lg-3 col-md-2 col-sm-12 col-xs-12">
 
 			<span class="banner-nav fontPh">
-				<span class="left morgTop"><img src="/images/whatsapp-logo.png" width="90" height="32" alt="btechguru"></span>
+				<span class="left morgTop"><img src="/images/whatsapp_30.png" alt="btechguru"></span>
 				<span class="left">+91-9600002211 / 044-24321077<span class="clearfix"></span>(9.30 am to 7.30 pm)</span>
 			</span>
         </span>
@@ -47,16 +51,18 @@
                 <li><a href="/About-us">About Us</a></li>
                 <li><a href="/">Students</a></li>
                 <li><a href="/colleges">Colleges</a></li>
-                <li><a href="/PlacementBridge">Employers</a></li>
+                <!--<li><a href="/PlacementBridge">Employers</a></li>-->
                 <li><a href="/Franchisees">Franchisee</a></li>
                 <li><a href="/affiliate">Affiliate</a></li>
             </ul>
 		</span><!-- End right banner -->
 		<span class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-lg visible-md visible-sm pull-right">
            <span class="visible-lg visible-md visible-sm pull-left" style="padding-right:3px;"> <a href="/GATE" class="button_top_orange">Gate Material</a></span>
+   
            <span class="visible-lg visible-md visible-sm pull-left" style="padding-right:3px;"> <a href="/PlacementReadyOnline" class="button_top_orange">Placement Ready Login</a></span>
 			<span>
-            <a href="/btgLogin.php" class="button_top_orange" id="login_top">Login</a>
+            <!-- <a href="/btgLogin.php" class="button_top_orange" id="login_top" >Login</a> -->
+            <a id="login-trigger" href="javascript:changePRLoginForm('ALL')" class="button_top_orange hidden-sm hidden-xs">Login <i class="fa fa-caret-down fa-lg"></i></a>
             <a href="/userReg.php" class="button_top_orange">Sign up</a>
               </span>
 			</span>
@@ -68,7 +74,83 @@
 <!-- End Mobile layout -->
 	</div><!-- End row -->
 </div><!-- End container -->
-</header><!-- End header -->      <nav>
+</header><!-- End header -->
+<script type="text/javascript"> 
+  $(document).ready(function(e){
+    $("#login-trigger").click(function(e){
+      $("#frmlogin-content").slideToggle("medium");
+      $("i", this).toggleClass("fa fa-caret-down fa fa-caret-up");
+      $("#frmlogin-content").css({'overflow':'visible'});
+    });
+
+  });
+
+  $(document).mouseup(function (e) {
+   var popup = $("#frmlogin-content");
+   if (!$('#login-trigger').is(e.target) && !popup.is(e.target) && popup.has(e.target).length == 0) {
+       popup.hide("fast");
+   }
+  });
+
+</script>
+<script src="https://www.btechguru.com/scripts/courseNew.js?v1" type="text/javascript"></script>
+<div id="frmlogin-content" style="display:none; " class="col-lg-3 col-md-4 col-sm-4 ">
+<div id="login" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+	<form name="formLogin" id="formLogin" action="javascript:void(0);">
+
+	<input type="hidden" name="crntPage" id="crntPage" value="privacyPolicy.php">
+	<input type="hidden" name="userType" id="userType" value="Student">
+	<input type="hidden" name="referPage" id="referPage" value="">
+	<input type="hidden" name="redrUrl" id="redrUrl" value="">
+	<input type="hidden" name="orderID" id="orderID" value="">
+<!--		<div class="row">
+	<div class="col-md-6 col-sm-6 login_social">
+	<a href="https://www.facebook.com/btechguru.internships.jobs" class="btn btn-primary btn-block" target="_blank"><i class="icon-facebook"></i> Facebook</a>
+	</div>
+	<div class="col-md-6 col-sm-6 login_social">
+		<a href="http://twitter.com/btechguru" class="btn btn-info btn-block" target="_blank"><i class="icon-twitter"></i>Twitter</a>
+	</div>
+	</div>  <!-- end row -->
+   
+<!--	<div class="login-or"><hr class="hr-or"><span class="span-or">or</span></div>   -->
+	 
+		<div class="form-group">
+			<input type="text" name="username" id="username" class="form-control" placeholder="Username" onblur="clearErrorMsg('formLogin','username','username');" autocomplete="off">
+			<span class="input-icon"><i class=" icon-user"></i></span>
+			<span id="div_username" class="errorMsg"></span>
+		</div>
+		<div class="form-group" id="pwd" style="display:none">
+			<input type="password" name="password" id="password" class="form-control" placeholder="Password" onblur="clearErrorMsg('formLogin','password','password');" autocomplete="off">
+			<span class="input-icon"><i class="icon-lock"></i></span>
+			<span id="div_password" class="errorMsg"></span>
+		</div>
+		<div class="form-group">
+				  <div id="forpwd" style="display:none" class="left small"><a href="javascript:changePRLoginForm('forpwd')"> Forgot Password </a></div>
+				  <div id="foruname" style="display:none" class="right small"><a href="javascript:changePRLoginForm('foruname')"> Forgot User Name </a></div>
+				  <div class="clear10"></div>
+				  <div id="forpwd1" style="display:none"><a href="#" onclick="javascript:forgotPwdHome();" class="button_fullwidth"> Forgot Password </a></div>
+				   <div id="foruname1" style="display:none"><a href="#" onclick="javascript:forgotUserNameHome();" class="button_fullwidth"> Forgot User Name </a></div>
+
+		</div>		
+		<div id="btgLogin"><input type="submit" value="Log In" class="button_fullwidth" onclick="javascript:formSubmit('formLogin');"></div>
+
+		<div id="newuser"><a href="https://www.btechguru.com/userReg.php" class="button_fullwidth-2">Sign up</a></div>
+		<div id="log_loader" style="display:none" class="errorMsg"></div>
+	</form>
+</div>
+<script type="text/javascript">
+   function submitenter(myfield,e) {
+       var keycode;
+       if (window.event) keycode = window.event.keyCode;
+       else if (e) keycode = e.which;
+       else return true;
+       if (keycode == 13) {
+	       formSubmit('loginForm');
+       }
+   }
+   //changeForm('ALL');
+</script></div>      <nav>
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
@@ -76,18 +158,21 @@
 			<ul class="sf-menu">
 
 			<li class="normal_drop_down"><a href="/">Home</a></li>
-				<li class="normal_drop_down"><a href="/PlacementReady">Placement Ready</a></li>
-				<li class="normal_drop_down"><a href="/MCMF">My Choice My Future</a></li>
+        <li class="normal_drop_down"><a href="/PlacementReady">Placement Ready</a></li>
+        <li class="normal_drop_down"><a href="/MCMF">My Choice My Future</a></li>
 				<li class="normal_drop_down"><a href="/courses">Courses</a></li>
 
 				<li class="normal_drop_down"><a href="/bank-exam-ready.html">Bank Exam Ready</a></li>
 				<li class="normal_drop_down"><a href="/open-courseware.html">Open Courseware</a></li>
-				<li class="normal_drop_down"><a href="/localGuru.html">Local Guru</a></li>
+
+                <li class="normal_drop_down"><a href="/localGuru.html">Local Guru</a></li>
+
+
 
 
                 <li class="visible-xs"><a href="/">Students</a></li>
                 <li class="visible-xs"><a href="/colleges">Colleges</a></li>
-                <li class="visible-xs"><a href="/PlacementBridge">Employers</a></li>
+                <!-- <li class="visible-xs"><a href="/PlacementBridge">Employers</a></li> -->
                 <li class="visible-xs"><a href="/Franchisees">Franchisee</a></li>
                 <li class="visible-xs"><a href="/affiliate">Affiliate</a></li>
 			</ul>
@@ -95,16 +180,14 @@
 	</div><!-- End row -->
 </div><!-- End container -->
 </nav><!-- End nav -->	      <section id="sub-header" class="visible-lg visible-md visible-sm">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h1 class="sub-header h1 "><a href="#" style="color:#fff">Plan, Prepare, Practice and Perform</a></h1>
-                <p class="lead boxed">Engineering Courses, Campus Placement Preparation, Bank exam &amp; GATE Preparation</p>
-                <p class="sub-header h5">India's No.1 Platform for Online Learning, Served more than 1.1 lakh Premium Users, Unique platform for students in higher education in India</p>
-            </div>
-        </div><!-- End row -->
-    </div><!-- End container -->
-    <div class="divider_top"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h1>Privacy Policy</h1>
+                </div>
+            </div><!-- End row -->
+        </div><!-- End container -->
+        <div class="divider_top"></div>
     </section><!-- End sub-header -->
 
 	  <section id="main_content">
@@ -192,51 +275,51 @@
 				</div>
 				<div class="col-md-3 col-sm-3">
 
-<ul>                        <li><a href="/courses--nptel--aeronautical-engineering-video-lecture--ae.html">NPTEL - Aeronautical Engineering (37)</a></li>
+<ul>                        <li><a href="/courses--nptel--aeronautical-engineering-video-lecture--ae.html">NPTEL - Aeronautical Engineering (39)</a></li>
 
                         <li><a href="/courses--nptel--atmospheric-science-video-lecture--as.html">NPTEL - Atmospheric Science (4)</a></li>
 
             <li><a href="/courses/bank-exam-preparation">Bank Exam Preparation (5)</a></li>
-                        <li><a href="/courses--nptel--basic-courses-(semesters-i-and-ii)-video-lecture--c-sc.html">NPTEL - Basic Courses (Semesters I &amp; II) (41)</a></li>
+                        <li><a href="/courses--nptel--basic-courses-(semesters-i-and-ii)-video-lecture--c-sc.html">NPTEL - Basic Courses (Semesters I &amp; II) (42)</a></li>
 
-                        <li><a href="/courses--nptel--biotechnology-video-lecture--bio-tech.html">NPTEL - Biotechnology (30)</a></li>
+                        <li><a href="/courses--nptel--biotechnology-video-lecture--bio-tech.html">NPTEL - Biotechnology (35)</a></li>
 
             <li><a href="/courses/bodhbridge-courses">Bodhbridge Courses (47)</a></li>
-                        <li><a href="/courses--nptel--chemical-engineering-video-lecture--cme.html">NPTEL - Chemical Engineering (69)</a></li>
+                        <li><a href="/courses--nptel--chemical-engineering-video-lecture--cme.html">NPTEL - Chemical Engineering (74)</a></li>
 
-                        <li><a href="/courses--nptel--chemistry-and-biochemistry-video-lecture--cbc.html">NPTEL - Chemistry and Biochemistry (32)</a></li>
+                        <li><a href="/courses--nptel--chemistry-and-biochemistry-video-lecture--cbc.html">NPTEL - Chemistry and Biochemistry (37)</a></li>
 
-                        <li><a href="/courses--nptel--civil-engineering-video-lecture--ce.html">NPTEL - Civil Engineering (108)</a></li>
+                        <li><a href="/courses--nptel--civil-engineering-video-lecture--ce.html">NPTEL - Civil Engineering (121)</a></li>
 
-                        <li><a href="/courses--nptel--computer-science-and-engineering-video-lecture--cse.html">NPTEL - Computer Science &amp; Engineering (91)</a></li>
+                        <li><a href="/courses--nptel--computer-science-and-engineering-video-lecture--cse.html">NPTEL - Computer Science &amp; Engineering (111)</a></li>
 
-                        <li><a href="/courses--nptel--electrical-engineering-video-lecture--ee.html">NPTEL - Electrical Engineering (67)</a></li>
+                        <li><a href="/courses--nptel--electrical-engineering-video-lecture--ee.html">NPTEL - Electrical Engineering (80)</a></li>
 
-                        <li><a href="/courses--nptel--electronics-and-communication-engineering-video-lecture--ece.html">NPTEL - Electronics &amp; Communication Engineering (80)</a></li>
+                        <li><a href="/courses--nptel--electronics-and-communication-engineering-video-lecture--ece.html">NPTEL - Electronics &amp; Communication Engineering (88)</a></li>
 
-                        <li><a href="/courses--nptel--engineering-design-video-lecture--ed.html">NPTEL - Engineering Design (8)</a></li>
+                        <li><a href="/courses--nptel--engineering-design-video-lecture--ed.html">NPTEL - Engineering Design (9)</a></li>
 
-            <li><a href="/courses/english-courses">English Language (2)</a></li>
+            <li><a href="/courses/english-courses">English Language (0)</a></li>
             <li><a href="/courses/gate-preparation">GATE Preparation (0)</a></li>
-                        <li><a href="/courses--nptel--humanities-and-social-sciences-video-lecture--hss.html">NPTEL - Humanities and Social Sciences (57)</a></li>
+                        <li><a href="/courses--nptel--humanities-and-social-sciences-video-lecture--hss.html">NPTEL - Humanities and Social Sciences (79)</a></li>
 
-                        <li><a href="/courses--bodhbridge--iit-jee-video-lecture--iit.html"> IIT JEE (0)</a></li>
+                        <li><a href="/courses--bodhbridge--iit-jee-video-lecture--iit.html">NPTEL - IIT JEE (1)</a></li>
 
-                        <li><a href="/courses--nptel--management-video-lecture--mgt.html">NPTEL - Management (36)</a></li>
+                        <li><a href="/courses--nptel--management-video-lecture--mgt.html">NPTEL - Management (52)</a></li>
 
-                        <li><a href="/courses--nptel--mathematics-video-lecture--maths.html">NPTEL - Mathematics (60)</a></li>
+                        <li><a href="/courses--nptel--mathematics-video-lecture--maths.html">NPTEL - Mathematics (68)</a></li>
 
-                        <li><a href="/courses--nptel--mechanical-engineering-video-lecture--mech.html">NPTEL - Mechanical Engineering (135)</a></li>
+                        <li><a href="/courses--nptel--mechanical-engineering-video-lecture--mech.html">NPTEL - Mechanical Engineering (149)</a></li>
 
-                        <li><a href="/courses--nptel--metallurgy-and-material-science-video-lecture--mms.html">NPTEL - Metallurgy and Material Science (33)</a></li>
+                        <li><a href="/courses--nptel--metallurgy-and-material-science-video-lecture--mms.html">NPTEL - Metallurgy and Material Science (36)</a></li>
 
                         <li><a href="/courses--nptel--mining-engineering-video-lecture--mining.html">NPTEL - Mining Engineering (2)</a></li>
 
                         <li><a href="/courses--nptel--nanotechnology-video-lecture--nt.html">NPTEL - Nanotechnology (6)</a></li>
 
-                        <li><a href="/courses--nptel--ocean-engineering-video-lecture--oe.html">NPTEL - Ocean Engineering (22)</a></li>
+                        <li><a href="/courses--nptel--ocean-engineering-video-lecture--oe.html">NPTEL - Ocean Engineering (23)</a></li>
 
-                        <li><a href="/courses--nptel--physics-video-lecture--phy.html">NPTEL - Physics (38)</a></li>
+                        <li><a href="/courses--nptel--physics-video-lecture--phy.html">NPTEL - Physics (43)</a></li>
 
                         <li><a href="/courses--bodhbridge--placement-preparation-video-lecture--pr.html"> Placement Preparation (7)</a></li>
 
@@ -255,12 +338,14 @@
 //-->
 <!--						<li><a href="https://www.btechguru.com/jobs/Surat~city.html">Surat Jobs (7)</a></li> 
 					</ul> -->
-						<!--<a target="_blank" href="http://emerge.nasscom.in/2011/10/announcing-the-finalists-for-nasscom-emerge-50-awards-for-2011/" rel="nofollow"> -->
+						<!--<a target="_blank" href="http://emerge.nasscom.in/2011/10/announcing-the-finalists-for-nasscom-emerge-50-awards-for-2011/" rel="nofollow"> 
 						   <img src="https://www.btechguru.com/images/nasscom.jpg" title="BtechGuru" alt="BtechGuru" width="164" height="146">
-						<!--</a>-->
+						</a>-->
 
 				</div><!-- End col-md-4 -->
 				<div class="col-md-3 col-sm-3">
+
+				
 					<h5>Placement Preparation</h5>
 					  <ul>
 						 <li>
@@ -299,53 +384,58 @@
 							<a href="https://www.btechguru.com/courses--bodhbridge--bank-exam-preparation-videos--27.html">Bank Exam Preparation
 							</a>
 						 </li>
-						 <li><a href="https://www.btechguru.com/PlacementReadyOnline/">Placement Ready</a></li>			
+						 <li><a href="https://www.btechguru.com/courses--bodhbridge----placement-ready---9-months-subscription-video-lecture----116.html">Placement Ready</a></li>			
 					  </ul>
 					<h5>Competitive Exams</h5>
 					  <ul>
-						<li><a href="https://www.btechguru.com/GATE/">GATE</a></li>
+						<li><a href="https://www.btechguru.com/GATE--electronics-and-communication-video-lecture--21.html">GATE</a></li>
 						<li><a href="https://www.btechguru.com/courses--bodhbridge--cat--aptitude--43.html">CAT Preparation</a></li>
-						<li><a href="https://www.btechguru.com/CAT/">MAT Preparation</a></li>
+						<li><a href="https://www.btechguru.com/courses--bodhbridge--mat-preparation-material--38.html">MAT Preparation</a></li>
+						<!-- <li><a href="https://www.btechguru.com/CAT/">MAT Preparation</a></li> -->
 						<li><a href="https://www.btechguru.com/courses--bodhbridge--icet-preparation-material--44.html">ICET Preparation</a></li>
 						<li><a href="https://www.btechguru.com/courses--bodhbridge--tancet--mba-preparation-material--40.html">TANCET Preparation</a></li>
 						<li><a href="https://www.btechguru.com/courses--bodhbridge--nmat-preparation-material--39.html">NMAT Preparation</a></li>
 					  </ul>
 				</div><!-- End col-md-4 -->
 				<div class="col-md-3 col-sm-3">
+				<!--  <h5>AboutUs</h5>
+				  <ul>
+					<li><a href="https://www.btechguru.com/pdtServices.php">Products &amp; Services</a></li> 
+					<li><a href="https://www.btechguru.com/showMenu.php?mid=6&amp;smid=40">Media Coverage</a></li>
+					<li><a href="https://www.btechguru.com/About-us">Advisory Board</a></li>
+				  </ul> -->
+				  <h5>Products</h5>
+				  <ul>
+					<li><a href="https://www.btechguru.com/PlacementReady/">Placement Ready</a></li>
+					<li><a href="https://www.btechguru.com/MCMF/">My Choice My Future</a></li>
+					<!--<li><a href="https://www.btechguru.com/jobs/">Placement Bridge</a></li> -->
+					<li><a href="https://www.btechguru.com/localGuru.html">LocalGuru</a></li>
+<!-- 				<li><a href="/ExamGauge">ExamGauge</a></li>
+ -->
+					<li><a href="https://www.btechguru.com/courses">BodhBridge Courses</a></li>
+				  </ul>
 				 <h5>Quick Links</h5>
 				  <ul>
 					<li><a href="https://www.btechguru.com/nptel/">NPTEL</a></li>
-					<li><a href="https://www.btechguru.com/jobs/">Jobs</a></li>
+					<!-- <li><a href="https://www.btechguru.com/jobs/">Jobs</a></li> 
 					<li><a href="https://www.btechguru.com/discussions">Discussions</a></li>
 					<li><a href="https://www.btechguru.com/news">Btechguru News</a></li>
 					<li><a href="https://www.btechguru.com/showAllAssessments.php">Btechguru Results</a></li>
 					<li><a href="https://www.btechguru.com/blogs">User Blogs</a></li>
 					<li><a href="https://www.btechguru.com/videos">User Videos</a></li>
 					<li><a href="https://www.btechguru.com/bookmarks">User Bookmarks</a></li>
-					<li><a href="https://www.btechguru.com/uploads">User Uploads</a></li>
+					<li><a href="https://www.btechguru.com/uploads">User Uploads</a></li>-->
 					<li><a href="https://www.btechguru.com/showMenu.php?mid=3&amp;smid=11&amp;ssmid=120">Placement Experiences</a></li>
 					<li><a href="https://www.btechguru.com/showMenu.php?mid=3&amp;smid=11&amp;ssmid=124">Company Criteria</a></li>
 					<li><a href="https://www.btechguru.com/showMenu.php?mid=3&amp;smid=11&amp;ssmid=122">Placement Papers</a></li>
-					<li><a href="https://www.btechguru.com/showMenu.php?mid=2&amp;smid=9&amp;ssmid=27">e-Books</a></li>
-					<li><a href="https://www.btechguru.com/showMenu.php?mid=2&amp;smid=7&amp;ssmid=23">Engineering Projects</a></li>
+					<!-- <li><a href="https://www.btechguru.com/showMenu.php?mid=2&amp;smid=9&amp;ssmid=27">e-Books</a></li>
+					<li><a href="https://www.btechguru.com/showMenu.php?mid=2&amp;smid=7&amp;ssmid=23">Engineering Projects</a></li> -->
 					<li><a href="https://www.btechguru.com/Contact-us">Contact Us</a></li>
+					<li><a href="https://www.btechguru.com/showMenu.php?mid=6&amp;smid=40">Media Coverage</a></li>
+					<li><a href="https://www.btechguru.com/About-us">Advisory Board</a></li>
 				  </ul>	
 			    </div><!-- End col-md-4 -->
 				<div class="col-md-3 col-sm-3">
-				 <h5>AboutUs</h5>
-				  <ul>
-					<li><a href="https://www.btechguru.com/showMenu.php?mid=6&amp;smid=19">Products &amp; Services</a></li>
-					<li><a href="https://www.btechguru.com/showMenu.php?mid=6&amp;smid=40">Media Coverage</a></li>
-					<li><a href="https://www.btechguru.com/About-us">Advisory Board</a></li>
-				  </ul>
-				  <h5>Products</h5>
-				  <ul>
-					<li><a href="https://www.btechguru.com/PlacementReadyOnline/">Placement Ready</a></li>
-					<li><a href="https://www.btechguru.com/jobs/">Placement Bridge</a></li>
-					<li><a href="https://www.btechguru.com/campusg/">LocalGuru</a></li>
-				<li><a href="/ExamGauge">ExamGauge</a></li>
-					<li><a href="https://www.btechguru.com/courses">BodhBridge Courses</a></li>
-				  </ul>
 				  <ul id="follow_us">
 					<li><a href="https://www.facebook.com/btechguru.internships.jobs" target="_blank"><i class="icon-facebook"></i></a></li>
 					<li><a href="https://twitter.com/btechguru" target="_blank"><i class="icon-twitter"></i></a></li>
@@ -356,8 +446,9 @@
 					<li><strong class="phone">044-24321077 / +91-9600002211</strong><br><small>9.30AM - 07.30PM</small></li>
 					<li>Questions? <a href="mailto:info@btechguru.com">info@btechguru.com</a></li>
 				  </ul>
+				  <div><a href="https://play.google.com/store/apps/details?id=com.btechguru.btechguru&amp;hl=en" target="_blank"><img src="https://www.btechguru.com/images/coures-4.png"></a></div>
 				</div><!-- End col-md-4 -->
-				<div><a href="https://play.google.com/store/apps/details?id=com.btechguru.btechguru&amp;hl=en" target="_blank"><img src="https://www.btechguru.com/images/MobileApp.png" width="350" height="300px"></a></div>
+				<!-- <div><a href="https://play.google.com/store/apps/details?id=com.btechguru.btechguru&hl=en" target="_blank"><img src="https://www.btechguru.com/images/MobileApp.png" width="350" height="300px"></a></div> -->
 			</div><!-- End row -->
 		</div>
 		<div class="col-md-16 copy_right">
@@ -377,25 +468,25 @@
         © 2015 <a href="https://www.btechguru.com/">Btechguru</a>. All Rights Reserved. BtechGuru.com is a portal by <a href="https://www.btechguru.com/">BodhBridge</a> ESPL.
       </div>
       <div class="col-md-6 footL130 tleft copy_right ">
-		<a target="_blank" href="http://www.awatasoftsys.com/web-application-software-development-company-chennai-india.html" alt="Web Application" title="Web Application">Web Application and Software Development</a> by <a href="http://www.awatasoftsys.com" target="_blank" alt="AWATASoftSys" title="AWATASoftSys">AWATASoftSys</a>
+		<a target="_blank" href="http://www.awatasoftsys.com" alt="Software development company" title="Software development company">Awata Software Systems</a>: <a href="https://www.awatasoftsys.com/software-application-development-company-india-chennai.html" target="_blank" alt="Software application development company in Chennai, India" title="Software application development company in Chennai, India">Software application development,</a> <a href="https://www.awatasoftsys.com/search-engine-optimization-seo-company-chennai-india.html" target="_blank" alt="SEO company in Chennai, India" title="SEO company in Chennai, India">SEO Company</a>
       </div>
 	</footer>
 
 	<div id="toTop">Back to top</div>
 
 <!-- JQUERY -->
-	<script src="https://www.btechguru.com/scripts/js/jquery-1.10.2.min.js?20161116042629"></script>
-	<script src="https://www.btechguru.com/scripts/js/jquery-ui.min.js?20161116042629"></script>
+	<script src="https://www.btechguru.com/scripts/js/jquery-1.10.2.min.js?20190511211825"></script>
+	<script src="https://www.btechguru.com/scripts/js/jquery-ui.min.js?20190511211825"></script>
 
 <!-- OTHER JS --> 
-	<script src="https://www.btechguru.com/scripts/js/superfish.js?20161116042629"></script>
-	<script src="https://www.btechguru.com/scripts/js/bootstrap.min.js?20161116042629"></script>
-	<script src="https://www.btechguru.com/scripts/js/retina.min.js?20161116042629"></script>
-	<script src="https://www.btechguru.com/scripts/assets/validate.js?20161116042629"></script>
-	<script src="https://www.btechguru.com/scripts/js/jquery.placeholder.js?20161116042629"></script>
-	<script src="https://www.btechguru.com/scripts/js/functions.js?20161116042629"></script>
-	<script src="https://www.btechguru.com/scripts/js/classie.js?20161116042629"></script>
-	<script src="https://www.btechguru.com/scripts/js/uisearch.js?20161116042629"></script>
+	<script src="https://www.btechguru.com/scripts/js/superfish.js?20190511211825"></script>
+	<script src="https://www.btechguru.com/scripts/js/bootstrap.min.js?20190511211825"></script>
+	<script src="https://www.btechguru.com/scripts/js/retina.min.js?20190511211825"></script>
+	<script src="https://www.btechguru.com/scripts/assets/validate.js?20190511211825"></script>
+	<script src="https://www.btechguru.com/scripts/js/jquery.placeholder.js?20190511211825"></script>
+	<script src="https://www.btechguru.com/scripts/js/functions.js?20190511211825"></script>
+	<script src="https://www.btechguru.com/scripts/js/classie.js?20190511211825"></script>
+	<script src="https://www.btechguru.com/scripts/js/uisearch.js?20190511211825"></script>
 <!--	<script>new UISearch( document.getElementById( 'sb-search' ) );</script>  -->
 
 <!-- Google Code for Remarketing Tag  Addded by prashanth. don not delete-->
