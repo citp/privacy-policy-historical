@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zigiz.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812041031id_/http%3A//www.zigiz.com/en-EN/help/about_zigiz/help_parent_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigiz.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511070156id_/http%3A//www.zigiz.com/en-EN/help/about_zigiz/help_parent_privacy.html) for the most accurate reproduction.*
 
 # Play free online games at Zigiz - Unlimited fun!
 
