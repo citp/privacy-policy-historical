@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snappytv.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127132707id_/http%3A//www.snappytv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappytv.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511231935id_/https%3A//www.snappytv.com/privacy) for the most accurate reproduction.*
 
 # SnappyTV - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 _Last Updated: May 25, 2018_
 
-This Privacy Policy explains how Afterlive.tv Inc., a wholly owned subsidiary of Twitter, Inc. and d/b/a SnappyTV, (“SnappyTV ,” “we” or “us”) collects, uses and shares information about you when you access and use our websites, including [www.snappytv.com](http://www.snappytv.com/) (the “Site”), and when a registered customer uses or accesses any SnappyTV products and services, including the Site, and all products and services offered on, by, or through the Site, including the SnappyTV Software (as defined in our [Terms of Service](https://web.archive.org/tos)), LiveCapture Cloud-based DVR, and LiveCut Editor (collectively, the “Services”). 
+This Privacy Policy explains how Afterlive.tv Inc., a wholly owned subsidiary of Twitter, Inc. and d/b/a SnappyTV, (“SnappyTV ,” “we” or “us”) collects, uses and shares information about you when you access and use our websites, including [www.snappytv.com](https://www.snappytv.com/) (the “Site”), and when a registered customer uses or accesses any SnappyTV products and services, including the Site, and all products and services offered on, by, or through the Site, including the SnappyTV Software (as defined in our [Terms of Service](https://web.archive.org/tos)), LiveCapture Cloud-based DVR, and LiveCut Editor (collectively, the “Services”). 
 
 #### INFORMATION WE COLLECT
 
@@ -134,4 +134,4 @@ If you are located in the European Union or EFTA States, you can confidentially 
 
 #### CHANGES TO THIS PRIVACY POLICY
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our processing of your personal data and will always be at <http://www.snappytv.com/privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you by posting notice of these changes on our website home page and in this Privacy Policy. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our processing of your personal data and will always be at <https://www.snappytv.com/privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you by posting notice of these changes on our website home page and in this Privacy Policy. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
