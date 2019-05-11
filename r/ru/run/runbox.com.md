@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runbox.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125212951id_/https%3A//runbox.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runbox.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511174245id_/https%3A//runbox.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Runbox
 
@@ -57,11 +57,12 @@ The information will also be used to customize the Service for you, to maintain 
 
 ### Legal basis
 
-The Service is subject to and compliant with the laws and regulations of the Kingdom of Norway, in particular the [Personal Data Act](https://lovdata.no/dokument/NL/lov/2018-06-15-38) (Norwegian), which implement the [EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679).
+The Service is subject to and compliant with the laws and regulations of the Kingdom of Norway, in particular the [Personal Data Act](https://lovdata.no/dokument/NL/lov/2018-06-15-38) (Norwegian), which implement the [EU General Data Protection Regulation (GDPR).](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)
 
-The Privacy Policy is compliant with the guidelines issued by [The Norwegian Data Protection Authority (DPA)](https://www.datatilsynet.no/en/), an independent public agency established to protect individuals’ privacy.
+[  
+](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)[The Privacy Policy is compliant with the guidelines issued by ](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)[The Norwegian Data Protection Authority (DPA)](https://www.datatilsynet.no/en/), an independent public agency established to protect individuals’ privacy.
 
-You can find more information about Norway’s privacy regulations at the [DPA’s website](https://www.datatilsynet.no/en/). Complaints about our Processing of User Data may be reported to the DPA through their [contact form](https://www.datatilsynet.no/en/about-us/contact-us/management-and-staff/).
+You can find more information about Norway’s privacy regulations at the [DPA’s website](https://www.datatilsynet.no/en/). Complaints about our Processing of User Data may be reported to the DPA through their [contact form](https://www.datatilsynet.no/en/about-us/contact-us/).
 
 None of the data collected through the Service is sensitive by the definition of the law, and therefore not subject to notification to the DPA.
 
