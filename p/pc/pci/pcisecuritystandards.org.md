@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcisecuritystandards.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203125608id_/https%3A//www.pcisecuritystandards.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcisecuritystandards.org privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511155748id_/https%3A//www.pcisecuritystandards.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -117,4 +117,4 @@ Note that, if you are in the EEA, we may transfer your Personal Data outside of 
 
 #### **Contacting Us**
 
-Questions about this Privacy Statement can be directed to [info@pcisecuritystandards.org](mailto:info@pcisecuritystandards.org)
+Questions about this Privacy Statement can be directed to [info@pcisecuritystandards.org](mailto:info@pcisecuritystandards.org).
