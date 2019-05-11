@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.gov privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706145851id_/https%3A//health.gov/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511160729id_/https%3A//health.gov/policy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - health.gov
 
