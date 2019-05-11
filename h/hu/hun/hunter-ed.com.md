@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921065408id_/https%3A//www.hunter-ed.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511022111id_/https%3A//www.hunter-ed.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hunter Ed.com™
 
