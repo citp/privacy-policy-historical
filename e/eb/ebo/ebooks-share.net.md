@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebooks-share.net privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429115906id_/http%3A//www.books-share.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks-share.net privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511153154id_/https%3A//www.books-share.com/privacy-policy) for the most accurate reproduction.*
 
 # Books-share.com - Privacy Policy
 
