@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110110547id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511204407id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
 
 # LessonPlansPage.com Privacy Policy | HotChalk Lesson Plans Page
 
