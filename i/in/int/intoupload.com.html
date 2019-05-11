@@ -1,870 +1,381 @@
-<!--The following is the downloaded HTML source of the intoupload.com privacy policy that was archived on 2018-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180218150257id_/https%3A//intoupload.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intoupload.com privacy policy that was archived on 2019-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190511190848id_/https%3A//intoupload.net/pages/privacy-policy.html) for the most accurate reproduction.-->
 
 <html><head>
-    <meta charset="UTF-8">
-    <meta http-equiv="content-Type" content="text-html; charset=UTF-8">                                                                     
-    <meta name="description" content="IntoUpload - Reliable Uploads &amp; Fast Downloads ">
-    <meta name="keywords" content="file upload,share files,free upload">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://intoupload.com/js/jquery-1.9.1.min.js"></script>
+<meta charset="UTF-8">
+<meta http-equiv="content-Type" content="text-html; charset=UTF-8">
+<meta name="description" content="IntoUpload - Free file upload service">
+<meta name="keywords" content="file upload,share files,free upload">
+<script async="" src="//cdn.taboola.com/libtrc/intoupload/loader.js" id="tb_loader_script"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script data-cfasync="false" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-    <link rel="stylesheet" href="http://intoupload.com/css/bootstrap.css">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-<script type="text/javascript" async="" src="//s10.histats.com/js15_as.js"></script></head><body <div="" class="clear"><div class="histats" style="display:none;">
-<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
-<script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,4012423,4,9,110,60,00011111']);
-_Hasync.push(['Histats.fasi', '1']);
-_Hasync.push(['Histats.track_hits', '']);
-(function() {
-var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-hs.src = ('//s10.histats.com/js15_as.js');
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
-})();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4012423&101" alt="best website stats" border="0"></a></noscript>
-<!-- Histats.com  END  -->
-</div><!--end histats-->
-    
-    <title>IntoUpload - Dosya paylaЕџД±mД±nД±n en kolay yolu</title>
-    <link rel="icon" href="images/favicon.gif" type="image/x-icon">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
-    <link rel="stylesheet" type="text/css" href="http://intoupload.com/css/style.css">
-    <script type="text/javascript" src="http://intoupload.com/js/jquery.paging.js"></script> 
-    <script type="text/javascript" src="http://intoupload.com/js/jquery.cookie.js"></script> 
-    <script type="text/javascript" src="http://intoupload.com/js/paging.js"></script> 
-    <script type="text/javascript">
+<title>IntoUpload - Manera facil de compartir sus archivos</title>
+<link rel="icon" href="images/favicon.gif" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="https://intoupload.net/css/style.css">
+<script data-cfasync="false" type="text/javascript" src="https://intoupload.net/js/jquery.paging.js"></script>
+<script data-cfasync="false" type="text/javascript" src="https://intoupload.net/js/jquery.cookie.js"></script>
+<script data-cfasync="false" type="text/javascript" src="https://intoupload.net/js/paging.js"></script>
+<script type="text/javascript">
     $(document).ready(function() {
-           $("#showallarch").click(function() {
-               $(this).css('display', 'none'),
-            $("#fileinfoarch").css('height', '100%'),
-            $("#grad").css('display', 'none');
-           });
-       });
-   </script> 
-   <script type="text/javascript">
-      (function($) {
-   $(function() {
-
+      $("#showallarch").click(function() {
+        $(this).css('display', 'none'),
+        $("#fileinfoarch").css('height', '100%'),
+        $("#grad").css('display', 'none');
+      });
+    });
+	</script>
+<script type="text/javascript">
+  	(function($) {
+   		$(function() {
       $('ul.tabs').on('click', 'li:not(.current)', function() {
          var section = $(this).parents('div.section:first');
          var idx = $(this).index();
-
          $(this).addClass('current').siblings().removeClass('current');
          $(section).find('> div.box').eq(idx).fadeIn(150).siblings('div.box').hide();
          $.cookie($(section).attr('id') + 'tab', idx);
       });
-
       $('.section').each(function(i, e) {
          if(!e.id) return;
-
          var idx;
-         if(idx = $.cookie(e.id + 'tab'))
-         {
-            $(e).find('> ul > li').eq(idx).click();
-         }
+         if(idx = $.cookie(e.id + 'tab')) { $(e).find('> ul > li').eq(idx).click(); }
       });
+   		})
+		})(jQuery)
+		// Mobail Menu
+		$(document).ready(function(){
+		  $('header button.phonemenu').on('click',function(){
+		    $('#sidebarphone').toggleClass('menuisopen');
+		  });
+		  $('#sidebarphone button.closemenu').on('click',function(){
+		    $('#sidebarphone').toggleClass('menuisopen');
+		  });
+		});
+	</script>
+<script type="text/javascript" async="">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-122652906-1']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
 
-   })
-   })(jQuery)
-    </script>      
+<meta name="propeller" content="1f6410573c290294afce95d5f9c1a48d">
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-114213093-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-0918924711135912",
+          enable_page_level_ads: true
+     });
 </script>
 
+<link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
+<link rel="shortcut icon" href="https://intoupload.net/mngez/images/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://intoupload.net/mngez/fonts/fonts.css">
+<link rel="stylesheet" href="https://intoupload.net/mngez/fonts/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://intoupload.net/mngez/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://intoupload.net/mngez/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="https://intoupload.net/mngez/css/mngez.css?v=15">
+<link rel="stylesheet" href="https://intoupload.net/mngez/css/responsive.css">
 
-<style type="text/css">
-body{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
-.nav_bg{
-background-image:url(../images/nav_bg.png);
-background-repeat:repeat-x;
-height:29px;
-}
-.content_bg{
-background-image:url(../images/content_bg.png);
-background-repeat:repeat-x;
-background-position:top;
-border-top:1px solid #000000;
-}
-.wrapper_nav{
-width:980px;
-height:29px;
-margin:0px auto;
-}
-.wrapper_content{
-width:984px;
-background-image:url(../images/cloud_tranparent.png);
-background-repeat:no-repeat;
-background-position:top center;
-padding-top:1px;
-margin:auto;
-}
-.login_bg{
- background-image: url("../images/login.png");
-    background-repeat: no-repeat;
-    float: right;
-    height: 21px;
-    margin-top: 3px;
-    padding-top: 0px;
-    width: 51px;
-	padding-left:25px;
-}
-.login_bg a{
-font-family:Trebuchet MS; font-size:12px; color:#000; text-decoration:none; padding-top:0px; padding-left:0px;
-}
-.logout_bg{
-background-image: url("../images/logout.png");
-    background-repeat: no-repeat;
-    float: right;
-    height: 21px;
-    margin-top: 3px;
-    padding-left: 2px;
-    padding-top: 0px;
-    width: 63px;
-	padding-left:25px;
-}
-.logout_bg a{
-font-family:Trebuchet MS; font-size:12px; color:#000; text-decoration:none; padding-top:0px; padding-left:0px;
-}
-.nav{
-float:left; width:800px;
-}
-.nav ul{
-padding:0px;
-margin:0px;
-float:left;
-/*margin-left:50px;*/
-height:29px;
-}
-.nav li{
-padding:0px;
-margin:0px;
-float:left;
-list-style:none;
-height:29px;
-}
-.nav li a{
-padding-left:20px;
-padding-right:20px;
-line-height:29px;
-font-family:Trebuchet MS;
-font-size:14px;
-text-transform:uppercase;
-text-decoration:none;
-color:#ffffff!important;
-}
-.nav li a:hover{color: #000!important;}
-/*.nav li.active{
-background-image:url(../images/active.png);
-background-repeat:repeat-x;
-color:#000;
-}
-.nav li.active a{color:#000!important;}*/
-.footer{
-background:url(../images/footer.png);
-background-position:top center;
-background-repeat:no-repeat;
-height:50px;
-line-height:50px;
-font-family:Trebuchet MS;
-font-size:11px;
-color:#3d3939;
-padding-top:0px;
-padding-right:15px;
-}
-.footer_nav a{
-color:#3d3939;
-text-decoration:none;
-font-family:Trebuchet MS;
-font-size:11px;
-}
-.footer_nav table tr td{ background:#fff; border:0px;padding-bottom: 4px;
-    padding-left: 0px;
-    padding-right: 0px;
-    padding-top: 4px;
-	width:33%;}
-.ads_area{
-background-image:url(../images/ads_bg.png);
-background-repeat:no-repeat;
-height:185px;
-padding-top:20px;
-padding:20px;
-padding-bottom:0px;
-}
-#FileUpload {
-    /*margin-left: 15px;
-    margin-top: 13px;*/
-    /*padding-top: 2px;
-	margin-top:5px;*/
-    position: relative;
-	height:81px;
-	width:630px;
-	background:url(./images/form_bg.png) no-repeat;
-	background-position:bottom;
-	
-}
-#FileUpload input[type=file]{
-	-moz-opacity:0 ;
-    filter:alpha(opacity: 0);
-	opacity: 0;
-	}
-#my_file_element {
-    opacity: 0;
-    position: relative;
-    text-align: left;
-    width:630px;
-    z-index: 999;
-	-moz-opacity:0 ;
-    filter:alpha(opacity: 0);
-	margin-top:15px;
-}
-#BrowserVisible {
-    background:transparent;
-    cursor: pointer;
-    height: 35px;
-    left: 0;
-	margin-left: 10px;
-    margin-top: 10px;
-    position: absolute;
-    top: 0;
-    width: 610px;
-    z-index: 1;
-	/*border:1px solid #cbcbcb;*/
-}
-#FileField {
-    background-color: transparent;
-    background-image: url("images/input_back.png");
-    background-repeat: no-repeat;
-    border: 0 none;
-    font-size: 16px;
-    height: 37px;
-    /*margin-right: 85px;
-    padding-left: 10px;
-    padding-right: 10px;*/
-	margin-top:0px;
-    width: 600px;
-	background-position:left;
-	margin-left:5px;
-	/*border:1px solid #fff000;*/
-}
-.Formback {
-    /*margin-left: 15px;
-    margin-top: 13px;*/
-    /*padding-top: 2px;
-	margin-top:5px;*/
-    position: relative;
-	height:65px;
-	width:630px;
-	background:url(./images/form_bg.png) no-repeat;
-	background-position:bottom;	
-}
-.h3header{
-background:url(../images/head_BG.png);
-background-repeat:repeat-x;
-background-position:left;
-height:37px;
-margin-bottom:10px;
-padding-left:25px;
-line-height:33px;
-font-family:Trebuchet MS;
-font-size:18px;
-color:#000;
-text-align:left;
-}
-.content_back{
-background-image:url(../images/content_mdl.png);
-background-repeat:repeat-y;
-padding:10px 20px;
-min-height:350px;
-}
-.heading{
-background-image:url(../images/dmca_hd.png);
-background-repeat:no-repeat;
-background-position:top;
-height:32px;
-padding-left:20px;
-line-height:32px;
-font-family:Trebuchet MS;
-font-size:13px;
-color:#f56d0a;
-font-weight:bold;
-}
-.dmca_text{
-color:#3d3939;
-font-family:Trebuchet MS;
-font-size:14px;
-padding-top:10px;
-padding-bottom:20px;
-padding-left:5px;
-}
-.bighead{
-height:33px;
-margin-bottom:10px;
-line-height:33px;
-font-family:Trebuchet MS;
-font-size:18px;
-color:#000000;
-}
-.privacy_heading{
-background-image:url(../images/privacy_hd.png);
-background-repeat:no-repeat;
-background-position:left;
-height:33px;
-padding-left:30px;
-line-height:33px;
-font-family:Trebuchet MS;
-font-size:13px;
-color:#454243;
-font-weight:bold;
-}
-.privacy_text{
-color:#3d3939;
-font-family:Trebuchet MS;
-font-size:14px;
-padding-top:10px;
-padding-bottom:20px;
-padding-left:25px;
-}
-.checkLink{
-background-image:url(../images/linkCheck.png);
-background-repeat:no-repeat;
-height:306px;
-width:540px;
-margin:auto;
-}
-.login_input{
-background-image:url(../images/input_bg.png);
-background-repeat:no-repeat;
-height:23px;
-width:177px;
-border:none;
-}
-.btn_submit{
-background:url(../images/btn_submit.png);
-background-repeat:no-repeat;
-color:#ffffff;
-width:61px;
-height:24px;
-border:0px;
-cursor:pointer;
-}
-.reg {width:604px;/*background:#f3f3f3;border:1px solid #d3d3d3;padding:5px;margin:5px auto 5px auto;*/ background-image:url(../images/reg_back.png); background-repeat:repeat-y; padding-top:20px; padding-bottom:20px;}
-.premium{
-background-image:url(../images/premium.png);
-background-repeat:no-repeat;
-height:33px;
-width:249px;
-border:0px;
-cursor:pointer;
-}
-input.slow{
-background-image:url(../images/slow.png)!important;
-background-repeat:no-repeat;
-height:33px!important;
-width:249px!important;
-border:0px;
-cursor:pointer;
-box-shadow: 0 0 0px #1d6c88 inset!important;
-border:0px!important;
-}
-.download {width:587px; background-image:url(../images/download_mdl.png); background-position:top; padding-top:10px; padding-bottom:10px;}
-/*#recaptcha_widget{background-image:url(../images/captcha.png); background-repeat:no-repeat; height:152px; width:377px; padding-top:40px; color:#ffffff;
-}*/
-.btn_upload{
-background-image:url(../images/btn_upload.png);
-height:43px;
-width:124px;
-border:0px;
-cursor:pointer;
-background-repeat:no-repeat;
-}
-.report_input{
-background-image:url(../images/report_input.png);
-background-repeat:no-repeat;
-width:125px;
-height:23px;
-border:0px;
-padding-left:2px;
-}
-.btn_view{
-background-image:url(../images/btn_view.png);
-background-repeat:no-repeat;
-height:24px;
-width:77px;
-border:0px;
-}
-.tbl11 {text-align:left;border-collapse: collapse;}
-.tbl11 tr td, .tbl11 tr th {border:1px solid #cac7c7; padding:3px;}
-.tbl11 tr td {background-color: #FFFFFF; font-size: 12px;}
-.tbl11 tr.hi td {background-color: #F3F3F3;}
-/*.tbl11 tr:hover td {background-color: #E9F0FF;}*/
-.tbl11 tr td.pub {background-color: #E0FFE0;}
-.tbl11 tr.hdr td, .tbl11 th, .hdr {background-color:#d9d9d9; font-weight: bold; text-align:center;}
-.tbl11 tr.hi2 td {background-color: #D9ECFF;}
-.tbl11 tr th{ background-color:#e6e7e8 !important;}
-tr.hdr a{
-color:#000000;
-}
-.btn_orange{background-image:url(../images/btn_bg.png) !important;
-box-shadow: 0 0 0px #1b7899 inset !important;
-height:auto!important;
-border:0px!important;
-text-shadow: 0 0px 0 #116583!important;
-background-repeat:repeat-x;
-color:#ffffff;
-font-family:Trebuchet MS;
-font-size:14px;
-border:0px;
-cursor:pointer;
-border-top:1px solid #ffffff;
-}
-.btn_black{background-image:url(../images/btnblack_bg.png) !important;
-box-shadow: 0 0 0px #1b7899 inset !important;
-height:auto!important;
-border:0px!important;
-text-shadow: 0 0px 0 #116583!important;
-background-repeat:repeat-x;
-color:#ffffff;
-font-family:Trebuchet MS;
-font-size:14px;
-border:0px;
-cursor:pointer;
-}
-.orange_back{
-background-image:url(../images/orange_back.png);
-background-repeat:no-repeat;
-height:209px;
-width:319px;
-}
-.account_input{
-background:url(../images/my_input.png);
-background-repeat:no-repeat;
-width:180px;
-border:0px;
-padding:2px;
-height:22px;
-line-height:15px;
-padding-top:0px;
-}
-.accountSmall_input{
-background-image:url(../images/myaccountSmall_input.png);
-background-repeat:no-repeat;
-width:110px;
-border:0px;
-padding:2px;
-height:22px;
-line-height:15px;
-padding-top:0px;
-}
-input.btn_save{
-background-image:url(../images/btn_save.png)!important;
-box-shadow: 0 0 0px #1b7899 inset !important;
-height:29px!important;
-border:0px!important;
-background-repeat:no-repeat;
-width:108px;
-border:0px;
-height:29px;
-cursor:pointer;
-}
-.accountSmall_back{
-background-image:url(../images/accountSmall_mdl.png);
-background-repeat:repeat-y;
-padding:20px;
-}
-.remote_back{
-background-image:url(../images/remote_mdl.png);
-background-repeat:repeat-y;
-padding:20px;
-}
-.myaccount_back{
-background-image:url(../images/my_mdl.png);
-background-repeat:repeat-y;
-padding:20px;
-}
-.site_input{
-background:url(../images/site_input.png);
-background-repeat:no-repeat;
-width:540px;
-border:0px;
-padding:2px;
-height:21px;
-line-height:15px;
-padding-top:0px;
-}
-.tab_back{
-background:url(../images/make_tab.png);
-background-repeat:no-repeat;
-width:276px;
-padding-top:8px;
-}
-.make_plan{
-background:#ffffff url(../images/makeplan_btm.png);
-background-repeat:no-repeat;
-background-position:bottom;
-width:690px;
-min-height:340px;
-}
-.affiliate_back{
-background-image:url(../images/affiliate_mdl.png);
-background-repeat:repeat-y;
-padding:20px;
-}
-.login_back{
-background-image:url(../images/form_back.png);
-height:70px;
-background-repeat:no-repeat;
-width:630px;
-}
-.tbl_pre {text-align:left;border-collapse: collapse;}
-.tbl_pre tr td, .tbl1 tr th {border:1px solid #c3c3c3; padding:6px;}
-.tbl_pre tr td {font-size: 12px;}
-.tbl1 tr.hi td {background-color: #F3F3F3;}
-.tbl1 tr:hover td {}
-.tbl1 tr td.pub {background-color: #E0FFE0;}
-.tbl1 tr.hdr td, .tbl1 th, .hdr, .tbl1 tr.hdr td a {background-color:#3c3a3a; font-weight: bold; text-align:center; color:#ffffff;}
-#about_header h1, .privacy_heading{font-size:18px; background-image:url(../images/head_arrow.png);
-background-repeat:no-repeat; background-position:left top; padding-left:30px; line-height:20px; margin-top:20px; margin-bottom:10px;}
-#about p, .main p, .privacy_text{
-line-height:18px;
-}
-.small-header span{
-background-color:#990099;
-color:#ffffff;
-padding:5px;
-padding-left:10px;
-}
-.small-header {
-font-size:18px;
-text-transform:uppercase;
-}
-.trf{background-image:url(../images/flags.png);height:11px;width:16px;background-repeat:no-repeat;overflow:hidden;display:inline-block;margin-right:3px;}
-.trf-za{background-position:-24px 0;}
-.trf-al{background-position:-48px 0;}
-.trf-arabic{background-position:-72px 0;}
-.trf-by{background-position:-96px 0;}
-.trf-bg{background-position:-120px 0;}
-.trf-catalonia{background-position:-144px 0;}
-.trf-cn{background-position:-168px 0;}
-.trf-tw{background-position:-192px 0;}
-.trf-hr{background-position:-216px 0;}
-.trf-cz{background-position:-240px 0;}
-.trf-dk{background-position:-264px 0;}
-.trf-dutch{background-position:-288px 0;}
-.trf-ee{background-position:-312px 0;}
-.trf-fi{background-position:-336px 0;}
-.trf-french{background-position:-360px 0;}
-.trf-galicia{background-position:-384px 0;}
-.trf-german{background-position:-408px 0;}
-.trf-gr{background-position:-432px 0;}
-.trf-hebrew{background-position:-456px 0;}
-.trf-in{background-position:-480px 0;}
-.trf-hungary{background-position:-504px 0;}
-.trf-indonesia{background-position:-528px 0;}
-.trf-it{background-position:-552px 0;}
-.trf-is{background-position:-576px 0;}
-.trf-ie{background-position:-600px 0;}
-.trf-japan{background-position:-624px 0;}
-.trf-kr{background-position:-648px 0;}
-.trf-lv{background-position:-672px 0;}
-.trf-lt{background-position:-696px 0;}
-.trf-mk{background-position:-720px 0;}
-.trf-my{background-position:-744px 0;}
-.trf-mt{background-position:-768px 0;}
-.trf-no{background-position:-792px 0;}
-.trf-ir{background-position:-816px 0;}
-.trf-polish{background-position:-840px 0;}
-.trf-pt{background-position:-864px 0;}
-.trf-ro{background-position:-888px 0;}
-.trf-russian{background-position:-912px 0;}
-.trf-rs{background-position:-936px 0;}
-.trf-sk{background-position:-960px 0;}
-.trf-sl{background-position:-984px 0;}
-.trf-spanish{background-position:-1008px 0;}
-.trf-ke{background-position:-1032px 0;}
-.trf-se{background-position:-1056px 0;}
-.trf-ph{background-position:-1080px 0;}
-.trf-thai{background-position:-1104px 0;}
-.trf-turkish{background-position:-1128px 0;}
-.trf-ua{background-position:-1152px 0;}
-.trf-vn{background-position:-1176px 0;}
-.trf-wales{background-position:-1200px 0;}
-.trf-europeanunion{background-position:-1224px 0;}
-#lang{ background-image: url("../images/lang_bg.png");
-    background-position: center center;
-    background-repeat: no-repeat;
-    height: 21px;
-    padding: 3px;
-    width: 26px; position:relative; z-index:1;}
-#lang ul{width:28px;float:left;margin:0px;padding:0;list-style:none;}
-#lang ul li {padding-bottom: 3px;
-    padding-left: 5px;
-    padding-right: 3px;
-    padding-top: 5px;
-    text-align: left;}
-#lang ul li a{color:#ffffff;text-decoration:none;display:block;width:100%;}
-#lang img{border:none;margin-right:3px;}
-#lang ul li {display:none;background:#000000;border:1px solid transparent;}
-#lang ul .top {display:block;background:none;border:none;}
-#lang ul li:hover{border-color:#555;}
-#lang ul:hover li {display:block;}
-.page-buffer{height:0px;}
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script data-cfasync="false" src="/sw.js"></script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({home:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/intoupload/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+</head>
+<body style="visibility: visible;">
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.3&amp;appId=1102550099878916&amp;autoLogAppEvents=1"></script>
 
-
-.uploadfile{ padding:13px 10px 0px 10px;}
-.tabcontent .uploadfile .browsebtn, .tabcontent .flashupload .browsebtn{ margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0px;}
-#files_list{background-color: #f2f2f2;}
-#file_upload{background:#383333 url(../images/browse-bk.png) no-repeat; width:630px; margin:auto; border:5px solid #2a2929; border-radius:15px; -moz-border-radius:15px; -webkit-border-radius:15px; padding-top:0px!important; color:#fff;}
-#url_upload, #torrent_upload, #copy_upload, ftp_upload{background:#ebebeb; border:5px solid #2a2929; border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px; padding:10px; width:600px; margin:auto;}
-.browsebtn{background:url(../images/browse.png) no-repeat; width:600px; margin:auto; background-position:center;box-shadow: 0 0 0px #1d6c88 inset;height: 37px;}
-.browsebtn:hover{
-	transition:all 0.5s linear;
-	background:url(../images/browse.png) no-repeat;
-	box-shadow: inset 0 0 0px #1d6c88!important;
-	-webkit-box-shadow: inset 0 0 0px #1d6c88!important;
-	-moz-box-shadow: inset 0 0 0px #1d6c88!important;
-	cursor:pointer;
-}
-.box{padding:0px; padding-top:15px; width:auto;}
-.leftintab {
-    float: left;
-    width: 100%;
-	text-align:center;
-}
-.leftintab textarea{max-width:100%;}
-.advanced{ float: left;
-    margin-bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    width: 93%;}
-h2{
-background-image:url(../images/head_BG.png);
-background-repeat:repeat-x;
-font-size: 16px;
-font-weight: bold;
-height: 33px;
-line-height: 33px;
-padding-left: 30px;
-}
-</style>
-
-
-
-
-
-<div class="nav_bg">
-	<div class="wrapper_nav">
-		<div style="width:940px; float:left; height:26px;">
-			<div class="nav">
-				
-					<li id="m1"><a href="http://intoupload.com/?op=upload_form" style="color:#444141;">Upload</a></li>
-					<li><img src="http://intoupload.com/images/nav_dvr.png" border="0"></li>
-					<li id="m2"><a href="http://intoupload.com/?op=payments">Premium</a></li>
-					<li><img src="http://intoupload.com/images/nav_dvr.png" border="0"></li>
-					<li id="m3"><a href="http://intoupload.com/make-money.html">Make Money</a></li>
-					
-					<li><img src="http://intoupload.com/images/nav_dvr.png" border="0"></li>
-					<li id="m4"><a href="http://intoupload.com/register.html">Signup!</a></li>
-               		
-               
-			</div>
-			
-				
-					<div class="login_bg"><a href="http://intoupload.com/login.html">KullanД±cД± GiriЕџi</a></div>
-				
-			
-		</div>	
-		
-		<div id="lang" style="float:right;">
-			<ul>
-			<li class="top"><a href="http://intoupload.com/?op=change_lang&amp;lang=english"><span class="trf trf-english"></span><!--English--></a></li>
-			<span class="dropdown">
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=russian"><span class="trf trf-russian"></span><!--Russian--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=german"><span class="trf trf-german"></span><!--German--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=french"><span class="trf trf-french"></span><!--French--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=arabic"><span class="trf trf-arabic"></span><!--Arabic--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=turkish"><span class="trf trf-turkish"></span><!--Turkish--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=polish"><span class="trf trf-polish"></span><!--Polish--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=thai"><span class="trf trf-thai"></span><!--Thai--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=spanish"><span class="trf trf-spanish"></span><!--Spanish--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=japan"><span class="trf trf-japan"></span><!--Japan--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=hungary"><span class="trf trf-hungary"></span><!--Hungary--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=indonesia"><span class="trf trf-indonesia"></span><!--Indonesia--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=dutch"><span class="trf trf-dutch"></span><!--Dutch--></a></li>
-			
-			<li><a href="http://intoupload.com/?op=change_lang&amp;lang=hebrew"><span class="trf trf-hebrew"></span><!--Hebrew--></a></li>
-			
-			<!--img src="http://intoupload.com/images/flag-.gif" alt=" language"-->
-			</span>
-			</ul>
-		</div>
-	</div>
+<div id="sidebarphone">
+<section>
+<div class="logo">
+<a href="https://intoupload.net" title="IntoUpload">IntoUpload</a>
+</div>
+<button class="closemenu" type="button"><i class="fa fa-times" aria-hidden="true"></i></button>
+<div class="clearfix"></div>
+</section>
+<ul>
+<li><a href="https://intoupload.net" title="Home">Home</a></li>
+<li><a href="https://intoupload.net/?op=news" title="News">News</a></li>
+<li><a href="https://intoupload.net/premium.html" title="Prima">Prima</a></li>
+<li><a href="https://intoupload.net/make_money.html" title="Make Money">Make Money</a></li>
+<li><a href="https://intoupload.net/tos.html" title="Los terminos de servicio">Los terminos de servicio</a></li>
+<li><a href="https://intoupload.net/login.html" title="Entrada">Entrada</a></li>
+<li><a class="btn_blue" href="https://intoupload.net/register.html" title="InscrIbase">InscrIbase</a></li>
+</ul>
 </div>
 
-
-
-<div class="wrapper">
-<div class="content_bg">
-<div class="wrapper_content">
-<div style="position:relative;width:640px;margin: 70px auto 10px auto; text-align:center;">
-<a href="http://intoupload.com"><img src="http://intoupload.com/images/logo.png" border="0" alt="IntoUpload" title="IntoUpload"></a>
-</div> 
-<div style="text-align:center;"><img src="http://intoupload.com/images/store.png" border="0" alt="IntoUpload" title="IntoUpload"></div>
-
-   
-   <div class="clear"></div>
-
-    
-   <div id="container" style="padding-bottom:20px;">
-   
-   </div>
-   <div style="text-align:left;width:984px;">
-<div><img src="http://intoupload.com/images/content_top.png" border="0"></div>
-<div class="content_back">
-<!--<h3 class="h3header">Privacy Policy</h3>-->
-<div>
-<p style="font-size:30px; font-family:Trebuchet MS; color:#000000;">Intoupload Privacy Policy</p>
-<p class="dmca_text">This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+<div id="intro">
+<div class="bginside">
+<header>
+<div class="container">
+<div class="logo">
+<a href="https://intoupload.net" title="IntoUpload"><img src="https://intoupload.net/mngez/images/logo.png" alt="IntoUpload"></a>
+</div>
+<div id="language">
+<ul>
+<li>
+<a><span class="trf trf-english"></span></a>
+<ul>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=russian">
+<span class="trf trf-russian"></span><span class="langname">Russian</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=german">
+<span class="trf trf-german"></span><span class="langname">German</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=french">
+<span class="trf trf-french"></span><span class="langname">French</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=arabic">
+<span class="trf trf-arabic"></span><span class="langname">Arabic</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=turkish">
+<span class="trf trf-turkish"></span><span class="langname">Turkish</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=polish">
+<span class="trf trf-polish"></span><span class="langname">Polish</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=thai">
+<span class="trf trf-thai"></span><span class="langname">Thai</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=spanish">
+<span class="trf trf-spanish"></span><span class="langname">Spanish</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=japan">
+<span class="trf trf-japan"></span><span class="langname">Japan</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=hungary">
+<span class="trf trf-hungary"></span><span class="langname">Hungary</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=indonesia">
+<span class="trf trf-indonesia"></span><span class="langname">Indonesia</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=dutch">
+<span class="trf trf-dutch"></span><span class="langname">Dutch</span>
+</a>
+</li>
+<li>
+<a href="https://intoupload.net/?op=change_lang&amp;lang=hebrew">
+<span class="trf trf-hebrew"></span><span class="langname">Hebrew</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mainmenu">
+<ul>
+<li><a href="https://intoupload.net" title="Home">Home</a></li>
+<li><a href="https://intoupload.net/?op=news" title="News">News</a></li>
+<li><a href="https://intoupload.net/premium.html" title="Prima">Prima</a></li>
+<li><a href="https://intoupload.net/make_money.html" title="Make Money">Make Money</a></li>
+<li><a href="https://intoupload.net/tos.html" title="Los terminos de servicio">Los terminos de servicio</a></li>
+<li><a href="https://intoupload.net/privacy-policy.html" title=""></a></li>
+<li><a href="https://intoupload.net/login.html" title="Entrada">Entrada</a></li>
+<li><a class="btn_blue" href="https://intoupload.net/register.html" title="InscrIbase">InscrIbase</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+<button type="button" class="phonemenu"><i class="fa fa-bars"></i></button>
+<div class="clearfix"></div>
+</div>
+</header>
+<div class="container">
+</div></div></div>
+<div class="container">
+<div class="mngez_pagefile">
+<div class="title">Terms of Service</div>
+<div class="content">
+This IntoUpload Service Agreement (the "Agreement") describes the terms and conditions on which IntoUpload ("we") offer services to you ("User"). By using our services, User agrees to be bound by the following terms and conditions:
+<ul>
+<p>
+At Intoupload, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. Throughout this policy, when we write "Intoupload" or "we" or "us," we're referring to Intoupload., a Delaware corporation, and our subsidiaries and other affiliates.:
+This Privacy Policy ("Policy") is incorporated into Intoupload's <a href="https://intoupload.net/tos.html">Terms of Service</a><a> and License Agreement located at Intoupload.com/tos.html (the Terms Of Service") and applies to the information obtained by us through your use of Intoupload's Site, and Services (Information") as described in this Policy. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
+</a></p><p><a>
+</a></p></ul></div><a>
+<div class="mngez_makemony">
+<h2><b> Information collection and use </b></h2>
+<p>
+What Information does Intoupload collect about me?
+When you interact with our Site, and/or Services, we collect Information that, alone or in combination with other data, could be used to identify you ("Personal Data"). Some of the Information we collect is stored in a manner that cannot be linked back to you ("Non-Personal Data").
+</p>
+<h2><b> Information you provide us when you create an account </b></h2>
+When you signup for or use our Services, you voluntarily give us certain Personal Data, including:
+<div class="features pt10">
+<p><i>?	</i> Your username, email address, and contact and language preferences. If you log into IntoUpload with a social networking credential, such as with your Facebook or Google+ account, we will ask permission to access basic information from that account, such as your name and email address. You can stop sharing that information with us at any time by removing IntoUpload's access to that account.</p>
+<p><i>?	</i> Your payment information, if you are a paying customer.This is required to complete a commercial transaction on the Site. We use this information to enable and fulfill your transaction. If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number directly to PayPal. The privacy policy of PayPal will apply to the information you provide on the PayPal website.
 </p>
 </div>
-	<div>
-		<p class="privacy_heading"><b>What personal information do we collect from the people that visit our blog, website or app?</b></p>
-		
-		<p>When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, credit card information or other details to help you with your experience.</p>
-		<p class="privacy_heading"><b>When do we collect information?</b></p>
-		<p>We collect information from you when you register on our site, place an order or enter information on our site.</p>
-		<p class="privacy_heading"><b>How do we use your information?</b></p>
-		<p>We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-
-      • To allow us to better service you in responding to your customer service requests.
-      • To administer a contest, promotion, survey or other site feature.</p>
-		<p class="privacy_heading"><b>How do we protect your information?</b></p>
-		<p>Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
-
-We use regular Malware Scanning.
-
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
-
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
-
-All transactions are processed through a gateway provider and are not stored or processed on our servers.</p>
-<p class="privacy_heading"><b>Do we use 'cookies'?</b></p>
-		<p>We do not use cookies for tracking purposes
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
-
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.that make your site experience more efficient and may not function properly.</p>
-		<p class="privacy_heading"><b> </b></p>
-		<p></p>
-<p class="privacy_heading"><b> Third-party disclosure</b></p>
-		<p>We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.</p>
-		<p class="privacy_heading"><b>Third-party links</b></p>
-		<p>We do not include or offer third-party products or services on our website.</p>
-<p class="privacy_heading"><b>Google</b></p>
-		<p>Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
-
-We use Google AdSense Advertising on our website.
-
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.</p>
-		<p class="privacy_heading"><b>We have implemented the following:</b></p>
-		<p>• Demographics and Interests Reporting
-
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together
-We use them to compile data regarding user interactions to sell that data to interested parties.</p>
-	</div>
-
+<h2><b> Automatically collected Information </b></h2>
+<p>
+Certain data about the devices you use to connect with IntoUpload and your use of the Site and/or Services are automatically logged in our systems, including:
+</p>
+<div class="features pt10">
+<p><i>?	</i> Location information.This is the geographic area where you use your computer and mobile devices (asindicated byanInternet Protocol [IP] address orsimilar identifier) when interacting with our Site and/or Services.</p>
+<p><i>?	</i> Log data.As with most websites and technology services delivered over the internet, our servers automatically collect data when you access or use our Site and/or Services and record it in log files. This log data may include the IP address, browser type and settings, the date and time of use, information about browser configuration, language preferences, and cookie data.</p>
+<p><i>?	</i> Usage information.This is information about the IntoUpload Site, and/or Services you use and how you use them. We may also obtain data from our third-party partners and service providers to analyze how users use our Site, and/or Services. For example, wewill know how many users access aspecific page on the Site and which links they clickedon. Weuse this aggregated information tobetter understand and optimize the Site. </p>
+<p><i>?	</i> Device information.These are data from your computer ormobile device, such as the type ofhardware and software you are using (for example, your operating system and browser type), as well as unique device identifiers for devices that are using IntoUpload site.</p>
+<p><i>?	</i> Cookies: Third-Party Cookies are placed by third-party advertising platforms or networks in order to deliver ads and track ad performance, or enable advertising networks to deliver ads that may be relevant to you based upon your activities (this is sometimes called "behavioral tracking" or "targeted" advertising) on the Site. They may subsequently use information about your visit to target you with advertising that you may be interested in on the Site and other websites. You can opt out of interest-based targeting provided by participating ad servers through the Digital Advertising Alliance</p>
 </div>
-<div><img src="http://intoupload.com/images/content_btm.png" border="0"></div>
+<h2><b> How does IntoUpload use my Information ? </b></h2>
+<p>
+We use, process, and store your information as necessary to perform our contract with you and for our legitimate business interests, including:
+</p>
+<div class="features pt10">
+<p><i>?	</i>to help us administer our Site and/or Services, authenticate users for security purposes, provide personalized user features and access, process transactions, conduct research, develop new features, and improve the features, algorithms, and usability of our Site, Software, and/or Services. </p>
+<p><i>?	</i>to communicate with you about your use ofour Site, Software, and/or Services, product announcements, and software updates, aswell asrespond toyour requests for assistance, including providing account verification support if you're having difficulty accessing your account. </p>
+<p><i>?	</i>to send you direct marketing emails and special offers about IntoUpload, from which you can unsubscribe at any time. If you are located in the European Economic Area (EEA), we will only send you marketing information if you consent to us doing so at the time you create your account or any point thereafter.</p>
+<p><i>?	</i>to display User Content associated with your account and make sure it is available to you when you use our Services.</p>
+<p><i>?	</i>to provide human proofreading services for users who submit User Content in connection with this specific service.</p>
+<p><i>?	</i>to calculate aggregate statistics onthe number ofunique devices using our Site, Software, and/or Services, and to detect and prevent fraud and misuse ofthose. </p>
+</div>
+<h2><b> Does IntoUpload sell or rent my Personal Data? </b></h2>
+<div class="features pt10">
+<p><i>?	</i>No, IntoUpload does not sell or rent your Personal Data.</p>
+</div>
+</div>
+</a></div><a>
+</a></div><a>
+<div class="clearfix"></div>
+</a><div class="banneradshome"><a>
+</a><div class="container"><a>
+</a><a href="https://intoupload.net/register.html" title="InscrIbase"><img src="https://intoupload.net/mngez/images/banner.png" alt="InscrIbase"></a>
+</div>
+</div>
+<div id="socialmedia">
+<div class="container">
+<ul>
+<li><a href="https://www.facebook.com/Intouploadcom-173736053245455/" title="facebook"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/intoupload?lang=en" title="twitter"><i class="fa fa-twitter"></i></a></li>
+<li><a href="#" title="#"><i class="fa fa-google-plus"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCnOZghxEAJenzxho6I3Q55w" title="youtube"><i class="fa fa-youtube"></i></a></li>
+<li><a href="https://www.instagram.com/intoupload/?hl=en" title="instagram"><i class="fa fa-instagram"></i></a></li>
+</ul>
+</div>
 </div>
 
-
-<div class="page-buffer"></div>
-<div class="clear"></div>
-<div style="margin:5px 0 20px 0;" align="left" class="footer_nav">
-<table width="80%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0px;">
-  <tbody><tr>
-    <td align="left">
-		<table width="526px" border="0" cellspacing="0" cellpadding="0" align="left" style="margin-top:0px;">
-		  <tbody><tr>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/register.html">Free Sign Up</a></td>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/?op=check_files">Linki kontrol et</a></td>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/privacy-policy.html">Privacy Policy</a></td>
-		  </tr>
-		  <tr>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/?op=news">BГјlten</a></td>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/dmca.html">DMCA</a></td>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/contact.html">IletiЕџim</a></td>
-		  </tr>
-		  <tr>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/premium.html">Premium</a></td>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/faq.html">SSS</a></td>
-			<td>&nbsp;</td>
-		  </tr>
-		  <tr>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/make-money.html">Make Money</a></td>
-			<td><img src="http://intoupload.com/images/footer_bullet.png" border="0"><a href="http://intoupload.com/tos.html">Terms &amp; Conditions</a></td>
-			<td>&nbsp;</td>
-		  </tr>
-		</tbody></table>
-	</td>
-    <td align="right" width="100px">
-		<table width="100px" border="0" cellspacing="0" cellpadding="0">
-		  <tbody><tr>
-			<td align="center"><a href=""><img src="http://intoupload.com/images/ico_f.png" border="0"></a></td>
-			<td align="center"><a href=""><img src="http://intoupload.com/images/ico_t.png" border="0"></a></td>
-			<td align="center"><a href=""><img src="http://intoupload.com/images/ico_in.png" border="0"></a></td>
-		  </tr>
-		</tbody></table>
-	</td>
-  </tr>
-</tbody></table>
-
-<!--<a href="http://intoupload.com">Anasayfa</a> | 
-<a href="http://intoupload.com/?op=news">BГјlten</a> | 
-<a href="http://intoupload.com/?op=catalogue">Katalog</a> | 
-<a href="http://intoupload.com/faq.html">SSS</a> | 
-<a href="http://intoupload.com/tos.html">KullanД±m ЕџartlarД±</a> | 
-<a href="http://intoupload.com/premium.html">Premium</a> | 
-<a href="http://intoupload.com/?op=checkfiles">Linki kontrol et</a> | 
-<a href="http://intoupload.com/links.html">Links</a> | 
-<a href="http://intoupload.com/contact.html">IletiЕџim</a>-->
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+<div class="listmenu">
+<ul>
+<li><a href="https://intoupload.net/register.html" title="Free Sign Up">Free Sign Up</a></li>
+<li><a href="https://intoupload.net/?op=news" title="News">News</a></li>
+<li><a href="https://intoupload.net/pages/privacy-policy.html" title="Advertisers">Privacy Policy</a></li>
+<li><a href="https://intoupload.net/make_money.html" title="Make Money">Make Money</a></li>
+<li><a href="https://intoupload.net/premium.html" title="Prima">Prima</a></li>
+<li><a href="https://intoupload.net/tos.html" title="Los terminos de servicio">Los terminos de servicio</a></li>
+<li><a href="https://intoupload.net/contact.html" title="Contacte nosotros">Contacte nosotros</a></li>
+<li><a href="https://intoupload.net/pages/dmca.html" title="DMCA">DMCA</a></li>
+<li><a href="https://intoupload.net/faq.html" title="FAQ">FAQ</a></li>
+<li><a href="https://intoupload.net/?op=check_files" title="Ligue Cajero">Ligue Cajero</a></li>
+<li><a href="https://intoupload.net/links.html" title="Links">Links</a></li>
+</ul>
+<div class="clearfix"></div>
 </div>
-<div style="color:#444;font-size:12px; text-align:center;" class="footer">
-© 2017 IntoUpload, All Rights Reserved. Designed &amp; Developed by <a href="http://intoupload.com">Intoupload</a>
-<!--<br><small><a href="http://www.sibsoft.net/xfilesharing.html" title="XFileSharing" style="color:#999;text-decoration:none;">Powered by XFileSharing Pro 2.0</a></small>-->
 </div>
-
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+<div class="logo">
+<a href="https://intoupload.net" title="IntoUpload"><img src="https://intoupload.net/mngez/images/logo.png" alt="IntoUpload"></a>
 </div>
 </div>
 </div>
+</div>
+</footer>
+<div id="footer2">
+<div class="container">
+<div class="copyrights">
+All rights reserved to <a href="https://intoupload.net" title="IntoUpload">IntoUpload</a> 2018
+</div>
+<div class="mngez">
+<a href="https://www.mngez.com/" rel="nofollow" title="Mngez For Internet Services" target="_blank">Developer By Mngez <img src="https://intoupload.net/mngez/images/mngez.png" alt="Mngez For Internet Services"></a>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+// Place this code snippet near the footer of your page before the close of the /body tag
+// LEGAL NOTICE: The content of this website and all associated program code are protected under the Digital Millennium Copyright Act. Intentionally circumventing this code may constitute a violation of the DMCA.
+                            
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}(';q P=\'\',28=\'21\';1P(q i=0;i<12;i++)P+=28.11(C.K(C.O()*28.G));q 2R=8,2I=6f,2H=6d,2T=6b,2f=D(t){q i=!1,o=D(){z(k.1h){k.2U(\'2V\',e);F.2U(\'1T\',e)}S{k.2W(\'35\',e);F.2W(\'26\',e)}},e=D(){z(!i&&(k.1h||67.2z===\'1T\'||k.2Z===\'32\')){i=!0;o();t()}};z(k.2Z===\'32\'){t()}S z(k.1h){k.1h(\'2V\',e);F.1h(\'1T\',e)}S{k.33(\'35\',e);F.33(\'26\',e);q n=!1;34{n=F.5Y==6g&&k.1X}2s(d){};z(n&&n.2t){(D r(){z(i)H;34{n.2t(\'14\')}2s(e){H 5E(r,50)};i=!0;o();t()})()}}};F[\'\'+P+\'\']=(D(){q t={t$:\'21+/=\',5B:D(e){q r=\'\',a,n,i,c,s,l,o,d=0;e=t.e$(e);1f(d<e.G){a=e.17(d++);n=e.17(d++);i=e.17(d++);c=a>>2;s=(a&3)<<4|n>>4;l=(n&15)<<2|i>>6;o=i&63;z(2q(n)){l=o=64}S z(2q(i)){o=64};r=r+X.t$.11(c)+X.t$.11(s)+X.t$.11(l)+X.t$.11(o)};H r},13:D(e){q n=\'\',a,l,c,s,d,o,r,i=0;e=e.1r(/[^A-5A-5z-9\\+\\/\\=]/g,\'\');1f(i<e.G){s=X.t$.1M(e.11(i++));d=X.t$.1M(e.11(i++));o=X.t$.1M(e.11(i++));r=X.t$.1M(e.11(i++));a=s<<2|d>>4;l=(d&15)<<4|o>>2;c=(o&3)<<6|r;n=n+T.U(a);z(o!=64){n=n+T.U(l)};z(r!=64){n=n+T.U(c)}};n=t.n$(n);H n},e$:D(t){t=t.1r(/;/g,\';\');q n=\'\';1P(q i=0;i<t.G;i++){q e=t.17(i);z(e<1D){n+=T.U(e)}S z(e>5q&&e<5K){n+=T.U(e>>6|6M);n+=T.U(e&63|1D)}S{n+=T.U(e>>12|2L);n+=T.U(e>>6&63|1D);n+=T.U(e&63|1D)}};H n},n$:D(t){q i=\'\',e=0,n=6J=1n=0;1f(e<t.G){n=t.17(e);z(n<1D){i+=T.U(n);e++}S z(n>71&&n<2L){1n=t.17(e+1);i+=T.U((n&31)<<6|1n&63);e+=2}S{1n=t.17(e+1);2B=t.17(e+2);i+=T.U((n&15)<<12|(1n&63)<<6|2B&63);e+=3}};H i}};q a=[\'6V==\',\'3F\',\'3G=\',\'3H\',\'3J\',\'42=\',\'3C=\',\'3D=\',\'3h\',\'3f\',\'4V=\',\'4U=\',\'5i\',\'75\',\'7H=\',\'3I\',\'3K=\',\'3L=\',\'3N=\',\'3P=\',\'3U=\',\'3X=\',\'3Z==\',\'41==\',\'3T==\',\'3B==\',\'3k=\',\'4S\',\'51\',\'4T\',\'4p\',\'4o\',\'4m\',\'4h==\',\'4g=\',\'4r=\',\'4B=\',\'4G==\',\'4t=\',\'4z\',\'4y=\',\'4x=\',\'4v==\',\'4u=\',\'3m==\',\'4Z==\',\'4w=\',\'4A=\',\'4C\',\'4D==\',\'4E==\',\'4F\',\'4H==\',\'4j=\'],y=C.K(C.O()*a.G),w=t.13(a[y]),W=w,L=1,M=\'#4q\',r=\'#4c\',g=\'#4d\',b=\'#4e\',Y=\'\',f=\'4f!\',v=\'4b 4i 4k 4l\\\'4n 4I 4s 2i 2h. 4J\\\'s 53.  55 56\\\'t?\',p=\'57 58 59-5a, 54 5b\\\'t 5d 5e X 5f 5k.\',s=\'I 5h, I 5j 5c 52 2i 2h.  4M 4N 4O!\',i=0,u=0,n=\'4P.4Q\',l=0,A=e()+\'.2x\';D h(t){z(t)t=t.1L(t.G-15);q i=k.2K(\'4R\');1P(q n=i.G;n--;){q e=T(i[n].1I);z(e)e=e.1L(e.G-15);z(e===t)H!0};H!1};D m(t){z(t)t=t.1L(t.G-15);q e=k.4L;x=0;1f(x<e.G){1m=e[x].1p;z(1m)1m=1m.1L(1m.G-15);z(1m===t)H!0;x++};H!1};D e(t){q n=\'\',i=\'21\';t=t||30;1P(q e=0;e<t;e++)n+=i.11(C.K(C.O()*i.G));H n};D o(i){q o=[\'4X\',\'4Y==\',\'49\',\'4K\',\'2w\',\'4a==\',\'44=\',\'48==\',\'3A=\',\'3z==\',\'3y==\',\'3x==\',\'3w\',\'3v\',\'3u\',\'2w\'],r=[\'2n=\',\'3t==\',\'3s==\',\'3r==\',\'3q=\',\'3p\',\'3o=\',\'3n=\',\'2n=\',\'3l\',\'3j==\',\'3i\',\'3g==\',\'3e==\',\'3c==\',\'3d=\'];x=0;1R=[];1f(x<i){c=o[C.K(C.O()*o.G)];d=r[C.K(C.O()*r.G)];c=t.13(c);d=t.13(d);q a=C.K(C.O()*2)+1;z(a==1){n=\'//\'+c+\'/\'+d}S{n=\'//\'+c+\'/\'+e(C.K(C.O()*20)+4)+\'.2x\'};1R[x]=23 24();1R[x].1U=D(){q t=1;1f(t<7){t++}};1R[x].1I=n;x++}};D Z(t){};H{2m:D(t,d){z(47 k.N==\'46\'){H};q i=\'0.1\',d=W,e=k.1b(\'1x\');e.16=d;e.j.1l=\'1J\';e.j.14=\'-1i\';e.j.10=\'-1i\';e.j.1c=\'2c\';e.j.V=\'45\';q a=k.N.2O,r=C.K(a.G/2);z(r>15){q n=k.1b(\'2a\');n.j.1l=\'1J\';n.j.1c=\'1v\';n.j.V=\'1v\';n.j.10=\'-1i\';n.j.14=\'-1i\';k.N.43(n,k.N.2O[r]);n.1d(e);q o=k.1b(\'1x\');o.16=\'2M\';o.j.1l=\'1J\';o.j.14=\'-1i\';o.j.10=\'-1i\';k.N.1d(o)}S{e.16=\'2M\';k.N.1d(e)};l=3Y(D(){z(e){t((e.1W==0),i);t((e.1Y==0),i);t((e.1S==\'2g\'),i);t((e.1G==\'2C\'),i);t((e.1K==0),i)}S{t(!0,i)}},27)},1O:D(e,c){z((e)&&(i==0)){i=1;F[\'\'+P+\'\'].1C();F[\'\'+P+\'\'].1O=D(){H}}S{q p=t.13(\'3W\'),u=k.3V(p);z((u)&&(i==0)){z((2I%3)==0){q l=\'3S=\';l=t.13(l);z(h(l)){z(u.1Q.1r(/\\s/g,\'\').G==0){i=1;F[\'\'+P+\'\'].1C()}}}};q y=!1;z(i==0){z((2H%3)==0){z(!F[\'\'+P+\'\'].2A){q a=[\'3E==\',\'3R==\',\'3Q=\',\'3O=\',\'3M=\'],m=a.G,d=a[C.K(C.O()*m)],r=d;1f(d==r){r=a[C.K(C.O()*m)]};d=t.13(d);r=t.13(r);o(C.K(C.O()*2)+1);q n=23 24(),s=23 24();n.1U=D(){o(C.K(C.O()*2)+1);s.1I=r;o(C.K(C.O()*2)+1)};s.1U=D(){i=1;o(C.K(C.O()*3)+1);F[\'\'+P+\'\'].1C()};n.1I=d;z((2T%3)==0){n.26=D(){z((n.V<8)&&(n.V>0)){F[\'\'+P+\'\'].1C()}}};o(C.K(C.O()*3)+1);F[\'\'+P+\'\'].2A=!0};F[\'\'+P+\'\'].1O=D(){H}}}}},1C:D(){z(u==1){q Q=2D.6W(\'2E\');z(Q>0){H!0}S{2D.6X(\'2E\',(C.O()+1)*27)}};q h=\'6Z==\';h=t.13(h);z(!m(h)){q c=k.1b(\'70\');c.1Z(\'72\',\'73\');c.1Z(\'2z\',\'1g/74\');c.1Z(\'1p\',h);k.2K(\'76\')[0].1d(c)};77(l);k.N.1Q=\'\';k.N.j.19+=\'R:1v !1a\';k.N.j.19+=\'1u:1v !1a\';q A=k.1X.1Y||F.36||k.N.1Y,y=F.6R||k.N.1W||k.1X.1W,d=k.1b(\'1x\'),L=e();d.16=L;d.j.1l=\'2r\';d.j.14=\'0\';d.j.10=\'0\';d.j.V=A+\'1A\';d.j.1c=y+\'1A\';d.j.2v=M;d.j.1V=\'6Q\';k.N.1d(d);q a=\'<a 1p="6C://6D.6E"><2j 16="2k" V="2Q" 1c="40"><2y 16="2d" V="2Q" 1c="40" 6F:1p="6G:2y/6H;6B,6I+6K+6L+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+B+6N+6O+6P/78/79/7a/7j/7u+/7v/7w+7x/7y+7z/7t/7A/7C/7D/7E/7F+7G/7B+7s+7r+7q+7c+7d/7e+7f/7g+7h/7b+7i+7k+7l+7m/7n+7o/7p/6S/6z+5W+6y/5G+5H+5I+5J+E+5L/5F/5M/5O/5P/5Q/+5R/5S++5T/5N/5D+5v/5C+5o+5p==">;</2j></a>\';a=a.1r(\'2k\',e());a=a.1r(\'2d\',e());q o=k.1b(\'1x\');o.1Q=a;o.j.1l=\'1J\';o.j.1z=\'1N\';o.j.14=\'1N\';o.j.V=\'5s\';o.j.1c=\'5t\';o.j.1V=\'2J\';o.j.1K=\'.6\';o.j.2S=\'2u\';o.1h(\'5n\',D(){n=n.5u(\'\').5w().5x(\'\');F.2F.1p=\'//\'+n});k.1F(L).1d(o);q i=k.1b(\'1x\'),Z=e();i.16=Z;i.j.1l=\'2r\';i.j.10=y/7+\'1A\';i.j.5U=A-5V+\'1A\';i.j.6i=y/3.5+\'1A\';i.j.2v=\'#6k\';i.j.1V=\'2J\';i.j.19+=\'J-1w: "6l 6m", 1o, 1t, 1s-1q !1a\';i.j.19+=\'6n-1c: 6p !1a\';i.j.19+=\'J-1j: 6j !1a\';i.j.19+=\'1g-1B: 1y !1a\';i.j.19+=\'1u: 6q !1a\';i.j.1S+=\'3a\';i.j.2X=\'1N\';i.j.6s=\'1N\';i.j.6t=\'2l\';k.N.1d(i);i.j.6v=\'1v 6x 6r -6h 69(0,0,0,0.3)\';i.j.1G=\'2e\';q W=30,x=22,w=18,Y=18;z((F.36<39)||(5Z.V<39)){i.j.37=\'50%\';i.j.19+=\'J-1j: 61 !1a\';i.j.2X=\'66;\';o.j.37=\'65%\';q W=22,x=18,w=12,Y=12};i.1Q=\'<2Y j="1k:#68;J-1j:\'+W+\'1E;1k:\'+r+\';J-1w:1o, 1t, 1s-1q;J-1H:6a;R-10:1e;R-1z:1e;1g-1B:1y;">\'+f+\'</2Y><38 j="J-1j:\'+x+\'1E;J-1H:6c;J-1w:1o, 1t, 1s-1q;1k:\'+r+\';R-10:1e;R-1z:1e;1g-1B:1y;">\'+v+\'</38><6e j=" 1S: 3a;R-10: 0.3b;R-1z: 0.3b;R-14: 29;R-2P: 29; 2o:5g 5l #5X; V: 25%;1g-1B:1y;"><p j="J-1w:1o, 1t, 1s-1q;J-1H:2p;J-1j:\'+w+\'1E;1k:\'+r+\';1g-1B:1y;">\'+p+\'</p><p j="R-10:6w;"><2a 6u="X.j.1K=.9;" 6o="X.j.1K=1;"  16="\'+e()+\'" j="2S:2u;J-1j:\'+Y+\'1E;J-1w:1o, 1t, 1s-1q; J-1H:2p;2o-5y:2l;1u:1e;5r-1k:\'+g+\';1k:\'+b+\';1u-14:2c;1u-2P:2c;V:60%;R:29;R-10:1e;R-1z:1e;" 6T="F.2F.6Y();">\'+s+\'</2a></p>\'}}})();F.2N=D(t,e){q n=6U.6A,i=F.5m,r=n(),o,d=D(){n()-r<e?o||i(d):t()};i(d);H{4W:D(){o=1}}};q 2G;z(k.N){k.N.j.1G=\'2e\'};2f(D(){z(k.1F(\'2b\')){k.1F(\'2b\').j.1G=\'2g\';k.1F(\'2b\').j.1S=\'2C\'};2G=F.2N(D(){F[\'\'+P+\'\'].2m(F[\'\'+P+\'\'].1O,F[\'\'+P+\'\'].62)},2R*27)});',62,478,'|||||||||||||||||||style|document||||||var|||||||||if||vr6|Math|function||window|length|return||font|floor|||body|random|ddUeMxctMpis||margin|else|String|fromCharCode|width||this|||top|charAt||decode|left||id|charCodeAt||cssText|important|createElement|height|appendChild|10px|while|text|addEventListener|5000px|size|color|position|thisurl|c2|Helvetica|href|serif|replace|sans|geneva|padding|0px|family|DIV|center|bottom|px|align|dNLXSyuUSh|128|pt|getElementById|visibility|weight|src|absolute|opacity|substr|indexOf|30px|HleHiAMvXx|for|innerHTML|spimg|display|load|onerror|zIndex|clientHeight|documentElement|clientWidth|setAttribute||ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789||new|Image||onload|1000|yQTyIzoEOE|auto|div|babasbmsgx|60px|FILLVECTID2|visible|jVDnCMNphL|hidden|blocker|ad|svg|FILLVECTID1|15px|BtmfGORudZ|ZmF2aWNvbi5pY28|border|300|isNaN|fixed|catch|doScroll|pointer|backgroundColor|cGFydG5lcmFkcy55c20ueWFob28uY29t|jpg|image|type|ranAlready|c3|none|sessionStorage|babn|location|vDgRctdjjq|JXhPPkjStt|fPlRMmBMBE|10000|getElementsByTagName|224|banner_ad|MlLWbJZpcX|childNodes|right|160|dakPYcnsXg|cursor|jVMvbskSNn|removeEventListener|DOMContentLoaded|detachEvent|marginLeft|h3|readyState|||complete|attachEvent|try|onreadystatechange|innerWidth|zoom|h1|640|block|5em|d2lkZV9za3lzY3JhcGVyLmpwZw|YWR2ZXJ0aXNlbWVudC0zNDMyMy5qcGc|bGFyZ2VfYmFubmVyLmdpZg|YWQtY29udGFpbmVy|YmFubmVyX2FkLmdpZg|YWQtZm9vdGVy|ZmF2aWNvbjEuaWNv|c3F1YXJlLWFkLnBuZw|RGl2QWQ|YWQtbGFyZ2UucG5n|IGFkX2JveA|Q0ROLTMzNC0xMDktMTM3eC1hZC1iYW5uZXI|YWRjbGllbnQtMDAyMTQ3LWhvc3QxLWJhbm5lci1hZC5qcGc|MTM2N19hZC1jbGllbnRJRDI0NjQuanBn|c2t5c2NyYXBlci5qcGc|NzIweDkwLmpwZw|NDY4eDYwLmpwZw|YmFubmVyLmpwZw|YXMuaW5ib3guY29t|YWRzYXR0LmVzcG4uc3RhcndhdmUuY29t|YWRzYXR0LmFiY25ld3Muc3RhcndhdmUuY29t|YWRzLnp5bmdhLmNvbQ|YWRzLnlhaG9vLmNvbQ|cHJvbW90ZS5wYWlyLmNvbQ|Y2FzLmNsaWNrYWJpbGl0eS5jb20|QWRzX2dvb2dsZV8wNA|YWQtbGFiZWw|YWQtbGI|Ly93d3cuZ29vZ2xlLmNvbS9hZHNlbnNlL3N0YXJ0L2ltYWdlcy9mYXZpY29uLmljbw|YWRCYW5uZXJXcmFw|YWQtZnJhbWU|YWQtaGVhZGVy|QWRBcmVh|YWQtaW1n|QWRGcmFtZTE|QWRGcmFtZTI|Ly93d3cuZG91YmxlY2xpY2tieWdvb2dsZS5jb20vZmF2aWNvbi5pY28|QWRGcmFtZTM|Ly9hZHMudHdpdHRlci5jb20vZmF2aWNvbi5pY28|QWRGcmFtZTQ|Ly9hZHZlcnRpc2luZy55YWhvby5jb20vZmF2aWNvbi5pY28|Ly93d3cuZ3N0YXRpYy5jb20vYWR4L2RvdWJsZWNsaWNrLmljbw|Ly9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wYWdlYWQvanMvYWRzYnlnb29nbGUuanM|QWRzX2dvb2dsZV8wMw|QWRMYXllcjE|querySelector|aW5zLmFkc2J5Z29vZ2xl|QWRMYXllcjI|setInterval|QWRzX2dvb2dsZV8wMQ||QWRzX2dvb2dsZV8wMg|YWQtaW5uZXI|insertBefore|YWdvZGEubmV0L2Jhbm5lcnM|468px|undefined|typeof|YWR2ZXJ0aXNpbmcuYW9sLmNvbQ|anVpY3lhZHMuY29t|YS5saXZlc3BvcnRtZWRpYS5ldQ|It|777777|adb8ff|FFFFFF|Welcome|QWREaXY|QWRJbWFnZQ|looks|c3BvbnNvcmVkX2xpbms|like|you|RGl2QWRD|re|RGl2QWRC|RGl2QWRB|EEEEEE|QWRCb3gxNjA|an|YWRUZWFzZXI|YmFubmVyYWQ|YWRBZA|YWRzZXJ2ZXI|YWRiYW5uZXI|YWRCYW5uZXI|YmFubmVyX2Fk|YmFubmVyaWQ|QWRDb250YWluZXI|YWRzbG90|cG9wdXBhZA|YWRzZW5zZQ|Z29vZ2xlX2Fk|Z2xpbmtzd3JhcHBlcg|b3V0YnJhaW4tcGFpZA|using|That|YWQuZm94bmV0d29ya3MuY29t|styleSheets|Let|me|in|moc|kcolbdakcolb|script|RGl2QWQx|RGl2QWQz|YWQtY29udGFpbmVyLTI|YWQtY29udGFpbmVyLTE|clear|YWRuLmViYXkuY29t|YWQubWFpbC5ydQ|YWRfY2hhbm5lbA||RGl2QWQy|my|okay|we|Who|doesn|But|without|advertising|income|can|disabled|keep|making|site|1px|understand|QWQzMDB4MTQ1|have|awesome|solid|requestAnimationFrame|click|3eUeuATRaNMs0zfml|gkJocgFtzfMzwAAAABJRU5ErkJggg|127|background|160px|40px|split|dEflqX6gzC4hd1jSgz0ujmPkygDjvNYDsU0ZggjKBqLPrQLfDUQIzxMBtSOucRwLzrdQ2DFO0NDdnsYq0yoJyEB0FHTBHefyxcyUy8jflH7sHszSfgath4hYwcD3M29I5DMzdBNO2IFcC5y6HSduof4G5dQNMWd4cDcjNNeNGmb02|reverse|join|radius|z0|Za|encode|Uv0LfPzlsBELZ|uJylU|setTimeout|SRWhNsmOazvKzQYcE0hV5nDkuQQKfUgm4HmqA2yuPxfMU1m4zLRTMAqLhN6BHCeEXMDo2NsY8MdCeBB6JydMlps3uGxZefy7EO1vyPvhOxL7TPWjVUVvZkNJ|E5HlQS6SHvVSU0V|j9xJVBEEbWEXFVZQNX9|1HX6ghkAR9E5crTgM|0t6qjIlZbzSpemi|2048|MjA3XJUKy|CGf7SAP2V6AjTOUa8IzD3ckqe2ENGulWGfx9VKIBB72JM1lAuLKB3taONCBn3PY0II5cFrLr7cCp|Kq8b7m0RpwasnR|UIWrdVPEp7zHy7oWXiUgmR3kdujbZI73kghTaoaEKMOh8up2M8BVceotd|BNyENiFGe5CxgZyIT6KVyGO2s5J5ce|14XO7cR5WV1QBedt3c|QhZLYLN54|e8xr8n5lpXyn|u3T9AbDjXwIMXfxmsarwK9wUBB5Kj8y2dCw|minWidth|120|F2Q|CCC|frameElement|screen||18pt|AiwznlgQns||||45px|event|999|rgba|200|187|500|124|hr|181|null|8px|minHeight|16pt|fff|Arial|Black|line|onmouseout|normal|12px|24px|marginRight|borderRadius|onmouseover|boxShadow|35px|14px|bTplhb|x0z6tauQYvPxwT0VM1lH9Adt5Lp|now|base64|http|blockadblock|com|xlink|data|png|iVBORw0KGgoAAAANSUhEUgAAAKAAAAAoCAMAAABO8gGqAAAB|c1|1BMVEXr6|sAAADr6|192|sAAADMAAAsKysKCgokJCRycnIEBATq6uoUFBTMzMzr6urjqqoSEhIGBgaxsbHcd3dYWFg0NDTmw8PZY2M5OTkfHx|enp7TNTUoJyfm5ualpaV5eXkODg7k5OTaamoqKSnc3NzZ2dmHh4dra2tHR0fVQUFAQEDPExPNBQXo6Ohvb28ICAjp19fS0tLnzc29vb25ubm1tbWWlpaNjY3dfX1oaGhUVFRMTEwaGhoXFxfq5ubh4eHe3t7Hx8fgk5PfjY3eg4OBgYF|fn5EREQ9PT3SKSnV1dXks7OsrKypqambmpqRkZFdXV1RUVHRISHQHR309PTq4eHp3NzPz8|9999|innerHeight|pyQLiBu8WDYgxEZMbeEqIiSM8r|onclick|Date|YWQtbGVmdA|getItem|setItem|reload|Ly95dWkueWFob29hcGlzLmNvbS8zLjE4LjEvYnVpbGQvY3NzcmVzZXQvY3NzcmVzZXQtbWluLmNzcw|link|191|rel|stylesheet|css|QWQzMDB4MjUw|head|clearInterval|Ly8vKysrDw8O4uLjkt7fhnJzgl5d7e3tkZGTYVlZPT08vLi7OCwu|v792dnbbdHTZYWHZXl7YWlpZWVnVRkYnJib8|PzNzc3myMjlurrjsLDhoaHdf3|I1TpO7CnBZO|YbUMNVjqGySwrRUGsLu6|uWD20LsNIDdQut4LXA|KmSx|0nga14QJ3GOWqDmOwJgRoSme8OOhAQqiUhPMbUGksCj5Lta4CbeFhX9NN0Tpny|BKpxaqlAOvCqBjzTFAp2NFudJ5paelS5TbwtBlAvNgEdeEGI6O6JUt42NhuvzZvjXTHxwiaBXUIMnAKa5Pq9SL3gn1KAOEkgHVWBIMU14DBF2OH3KOfQpG2oSQpKYAEdK0MGcDg1xbdOWy|iqKjoRAEDlZ4soLhxSgcy6ghgOy7EeC2PI4DHb7pO7mRwTByv5hGxF|QcWrURHJSLrbBNAxZTHbgSCsHXJkmBxisMvErFVcgE|aa2thYWHXUFDUPDzUOTno0dHipqbceHjaZ2dCQkLSLy|h0GsOCs9UwP2xo6|UimAyng9UePurpvM8WmAdsvi6gNwBMhPrPqemoXywZs8qL9JZybhqF6LZBZJNANmYsOSaBTkSqcpnCFEkntYjtREFlATEtgxdDQlffhS3ddDAzfbbHYPUDGJpGT|UADVgvxHBzP9LUufqQDtV|uI70wOsgFWUQCfZC1UI0Ettoh66D|szSdAtKtwkRRNnCIiDzNzc0RO|kmLbKmsE|1FMzZIGQR3HWJ4F1TqWtOaADq0Z9itVZrg1S6JLi7B1MAtUCX1xNB0Y0oL9hpK4|CXRTTQawVogbKeDEs2hs4MtJcNVTY2KgclwH2vYODFTa4FQ|qdWy60K14k|oGKmW8DAFeDOxfOJM4DcnTYrtT7dhZltTW7OXHB1ClEWkPO0JmgEM1pebs5CcA2UCTS6QyHMaEtyc3LAlWcDjZReyLpKZS9uT02086vu0tJa|v7|b29vlvb2xn5|ejIzabW26SkqgMDA7HByRAADoM7kjAAAAInRSTlM6ACT4xhkPtY5iNiAI9PLv6drSpqGYclpM5bengkQ8NDAnsGiGMwAABetJREFUWMPN2GdTE1EYhmFQ7L339rwngV2IiRJNIGAg1SQkFAHpgnQpKnZBAXvvvXf9mb5nsxuTqDN|cIa9Z8IkGYa9OGXPJDm5RnMX5pim7YtTLB24btUKmKnZeWsWpgHnzIP5UucvNoDrl8GUrVyUBM4xqQ|ISwIz5vfQyDF3X|MgzNFaCVyHVIONbx1EDrtCzt6zMEGzFzFwFZJ19jpJy2qx5BcmyBM|Lnx0tILMKp3uvxI61iYH33Qq3M24k|RUIrwGk|VOPel7RIdeIBkdo|HY9WAzpZLSSCNQrZbGO1n4V4h9uDP7RTiIIyaFQoirfxCftiht4sK8KeKqPh34D2S7TsROHRiyMrAxrtNms9H5Qaw9ObU1H4Wdv8z0J8obvOo|wd4KAnkmbaePspA|0idvgbrDeBhcK|EuJ0GtLUjVftvwEYqmaR66JX9Apap6cCyKhiV|QWQ3Mjh4OTA'.split('|'),0,{}));
+</script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+<script type="text/javascript">
+var sc_project=12006079; 
+var sc_invisible=1; 
+var sc_security="b964226c"; 
+var sc_https=1; 
+</script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async=""></script>
+<noscript><div class="statcounter"><a title="Web Analytics Made Easy -
+StatCounter" href="https://statcounter.com/" target="_blank"><img
+class="statcounter" src="https://c.statcounter.com/12006079/0/b964226c/1/"
+alt="Web Analytics Made Easy - StatCounter"></a></div></noscript>
+
+
+<script type="text/javascript">
+var sc_project=12006087; 
+var sc_invisible=1; 
+var sc_security="f877c47f"; 
+var sc_https=1; 
+</script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async=""></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12006087/0/f877c47f/1/"
+alt="Web Analytics"></a></div></noscript>
 
 
 </body></html>
