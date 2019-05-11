@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synology.cn privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224062029id_/https%3A//www.synology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.cn privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511093609id_/https%3A//www.synology.com/privacy) for the most accurate reproduction.*
 
 # Synology Inc.
 
