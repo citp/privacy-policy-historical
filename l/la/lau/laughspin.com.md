@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laughspin.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823152206id_/http%3A//www.laughspin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughspin.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511185857id_/https%3A//laughspin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Laughspin
 
 **Laughspin.com Privacy Policy**  
 Laughspin.com’s privacy policy is designed to help you understand how we collect and use the personal information you decide to share, and to help you make informed decisions when using Laughspin.com.
