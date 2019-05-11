@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technologyinforms.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109075111id_/http%3A//technologyinforms.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyinforms.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511084111id_/http%3A//www.technologyinforms.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# technologyinforms.com - Get the latest Technology News: breaking news, developments trends and analysis on computing, the web, blogs, games, hardware, apps.
+# TechnologyInforms.com get the latest Technology News: breaking news, developments trends and analysis on computing, the web, blogs, games, hardware, apps.
 
 **Privacy Policy**
 
@@ -15,8 +15,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 **  
 Information Collection and Use**
 
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, email, phone, and your comments. The information that we collect will be used to contact or identify you.  
-
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, email, phone, and your comments. The information that we collect will be used to contact or identify you.
 
 **Log Data**
 
@@ -35,7 +34,7 @@ Most interactive websites use cookies to let us retrieve the user’s details fo
 
 We may set cookies on your computer to know when you visit our website or other websites.
 
-If your browser doesn't accept cookies, you may not be able to fully use our website. 
+If your browser doesn't accept cookies, you may not be able to fully use our website.
 
 We may allow other companies that show advertisements on our pages to set and access cookies on your computer, this policy does not apply to them.
 
@@ -49,8 +48,7 @@ To provide the Service on our behalf;
 To perform Service-related services; or  
 To assist us in analyzing how our Service is used.
 
-We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
-
+We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 **Security**
 
@@ -68,9 +66,9 @@ Our Services do not address anyone under the age of 18. We do not knowingly coll
 **  
 Changes to This Privacy Policy**
 
-We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. Our privacy policy was last updated on 25 May 2018.
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. Our privacy policy was last updated on 24 Dec 2018.
 
 **  
 Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us. This website operates within the laws of England.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us. This website operates within the laws of Singapore.
