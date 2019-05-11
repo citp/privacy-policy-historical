@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the vergegirl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210534id_/https%3A//www.vergegirl.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vergegirl.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511155711id_/https%3A//www.vergegirl.com/pages/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security
+# Privacy & Security – Verge Girl
 
-Verge Girl Online Store recognises and values the protection of your personal information. We are aware of our obligations under the Privacy Act 1988 and we will ensure that we fulfill our obligations under that Act.
-
-For further information we can be contacted on:
-
- **PHONE:** (07) 3252 5493  
- **MAIL:**  20 BROOKES STREET, BOWEN HILLS 4006 QLD
+Verge Girl Online Store recognises and values the protection of your personal information. We are aware of our obligations under the Privacy Act 1988 and we will ensure that we fulfil our obligations under that Act.
 
 We recognise that you may have concerns about our collection of your personal information via our website, which is located at www.vergegirl.com and how we may use that information.
 
@@ -19,7 +14,7 @@ From time to time, we may ask you to supply personal information such as your na
 
 _political, religious or philosophical beliefs or affiliations;  
 health and sexuality;_  
- _racial or ethnic origin;_  
+ _racial or ethnic origin;  _  
  _or  criminal convictions._
 
 We may also conduct surveys or market research and may seek other information from you on a periodic basis. These surveys will provide us with information that allows improvement in the types and quality of services offered to you, and the manner in which those services are offered to you.  
@@ -51,7 +46,7 @@ We will not use or disclose (or permit the use or disclosure of) personal inform
 
 to ensure the proper functioning of our business and our website;  
 to communicate promotional offers and special events to you;  
-where the law requires us, or authorises us to do so;   
+where the law requires us, or authorises us to do so;   
 or where you have given express consent to us for a prescribed purpose.
 
 We will not sell, distribute, rent, license, disclose, share or pass your personal information onto any third parties, other than those who are contracted to us to keep the information confidential whether subject to a statute or a scheme which imposes similar restrictions to the National Privacy Principles contained in the Privacy Act 1988 regarding the handling of personal information.
@@ -63,13 +58,13 @@ Please note that no information transmitted over the Internet can be guaranteed 
 **  
 Unsubscribing from our e-mail database:**  
 
-To unsubscribe from our e-mail database, please send an e-mail to info@vergegirl.com with “UNSUBSCRIBE” typed into the subject line of the e-mail. Alternatively, you can follow the unsubscribe link in our emails.
+To unsubscribe from our e-mail database, please follow the unsubscribe link in our emails.
 
 **Accessing, correcting and updating your information:**  
 
 You have the right to access the information that you provide to us.
 
-If you wish to access, modify or remove any personal information that you have provided to us, please contact us on info@vergegirl.com.
+If you wish to access, modify or remove any personal information that you have provided to us, please contact us via our contact page.
 
 We reserve our right to modify or amend this privacy policy at any time. Should any significant amendments occur, notification would be provided by publication on our website. For further information about privacy, please refer to the Australian Privacy Commissioner’s website www.privacy.gov.au.
 
