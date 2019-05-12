@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227045419id_/https%3A//www.landsend.com/customerservice/legal_policies/privacy/%3Fcm_re%3Dcore-_-FT-_-privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512023842id_/https%3A//www.landsend.com/customerservice/legal_policies/privacy/%3Fcm_re%3Dcore-_-FT-_-privacy%2520policy) for the most accurate reproduction.*
 
 # Lands' End | Customer Service | Legal Policies | Privacy
 
@@ -88,7 +88,7 @@ Lands’ End may transfer any information we have about you in connection with a
 
 You have many choices about how your data is collected, used and shared.
 
-If you would like to opt out of Lands' End promotional emails‚ please follow the unsubscribe link at the bottom of each such email or contact us at [www.landsend.com/ContactUs](https://web.archive.org/web/20181227045419id_/https%3A//www.landsend.com/customerservice/legal_policies/privacy/www.landsend.com/ContactUs).
+If you would like to opt out of Lands' End promotional emails‚ please follow the unsubscribe link at the bottom of each such email or contact us at [www.landsend.com/ContactUs](https://web.archive.org/web/20190512023842id_/https%3A//www.landsend.com/customerservice/legal_policies/privacy/www.landsend.com/ContactUs).
 
 If you would like to opt out of receiving Lands' End catalogs‚ please contact us at one of the channels listed in the [Contact Us](https://www.landsend.com/customerservice/contact_us/) section of this Privacy Policy.
 
