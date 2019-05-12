@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eeb.org privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126232551id_/http%3A//eeb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeb.org privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512074440id_/https%3A//eeb.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – EEB – The European Environmental Bureau
+# Privacy Policy - EEB - The European Environmental Bureau
 
 #### The European Environmental Bureau (EEB) (with headquarters at Boulevard de Waterloo 34, B-1000 Brussels, Belgium, Enterprise number BE.0415.814.848 ) is the controller of the personal data collected by EEB websites (see list below) or data gathered in the field (such as business cards, publicly available contact information, etc.) and the controller of the personal data of its members and the representatives of its members.
 
@@ -84,7 +84,7 @@ The computers/servers on which we store personally identifiable information are 
 
 #### **Applicant data**
 
-The EEB is committed to protecting the privacy and personal data of job applicant data. The treatment of this data is covered under the EEB Recruitment Privacy Statement which is available[ here.](http://eeb.org/eeb-recruitment-privacy-statement/)
+The EEB is committed to protecting the privacy and personal data of job applicant data. The treatment of this data is covered under the EEB Recruitment Privacy Statement which is available[ here.](https://eeb.org/eeb-recruitment-privacy-statement/)
 
 #### **Update**
 
