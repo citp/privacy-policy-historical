@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the okta-emea.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925125629id_/https%3A//www.okta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okta-emea.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513014652id_/https%3A//www.okta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Okta
 
-### Effective Date: June 13, 2017
+### Effective Date: May 25, 2018
 
-Okta, Inc. ("Us," "We," "Our," "Okta," or the "Company") is committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitor(s),” “You,” and derived adjective “Your”), individuals who register to use the Service as defined below (“Customers”), and individuals who register who attend the Company’s corporate events (“Attendees”). This Privacy Statement describes Okta's privacy practices with regards to its Web sites and the related services and applications offered by Okta (collectively, the “Service”).
+Okta, Inc., including its wholly-owned subsidiaries (collectively, "Us," "We," "Our," "Okta," or the "Company") is committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitor(s),” “You,” and derived adjective “Your”), individuals who register to use the Service as defined below (“Customers”), and individuals who register who attend the Company’s corporate events (“Attendees”). This Privacy Statement describes Okta's privacy practices with regards to its Web sites and the related services and applications offered for production use by Okta to its customers that purchase commercial subscriptions (collectively, the “Service”).
 
 If You have questions or complaints regarding Okta’s Privacy Statement or practices, please contact Us at [info@okta.com](mailto:info@okta.com).
 
@@ -14,25 +14,25 @@ Okta has established this Privacy Statement to help You to understand how Okta c
 
 Okta's Web sites may contain links to other Web sites. Okta is not responsible for the information practices or the content of such other Web sites. The Company encourages You to review the privacy statements of other Web sites to understand their information practices.
 
-Okta does not collect email addresses from the Okta commercial, fee-based production services for which we sell subscriptions (collectively, the “Service”) for marketing use. Okta does collect information from Visitors. This information is collected in accordance with this Privacy Statement, from sources that include but are not limited to content syndication, Web site registration forms, webinar registration forms and conferences.
+Okta does not collect email addresses from the Service for marketing use. Okta does collect information from Visitors. This information is collected in accordance with this Privacy Statement, from sources that include but are not limited to content syndication, Web site registration forms, webinar registration forms and conferences.
 
-**Personal Information You Provide to Us.** Okta collects information from Visitors to the Okta Web sites and Customers of the Service. Okta receives and stores any information entered when expressing an interest in obtaining more information about the Service or registering to use the Service. When Visitors expresses an interest in obtaining information about the Service or registering to use the Service on Okta’s Web sites, Okta may require Visitors to provide personal contact information, such as name, company name, address, phone number, email address, and any other information necessary for Us to provide Visitors with access to the various aspects of the Services (collectively, “Personal Information”). The Personal Information Visitors provide may be used for such purposes as answering questions, improving the content of the Web sites, customizing the content, and communicating with Visitors about Okta's Service, including specials and new features.
+**Personal Information You Provide to Us.** Okta collects information from Visitors to the Okta Web sites and Customers of the Service. Okta receives and stores any information entered when expressing an interest in obtaining more information about the Service or registering to use the Service. When a Visitor expresses an interest in obtaining information about the Service or registering to use the Service on Okta’s Web sites, Okta may require the Visitor to provide personal contact information, such as name, company name, address, phone number, email address, and any other information necessary for Us to provide Visitors with access to the various aspects of the Service (collectively, “Personal Information”). The Personal Information Visitors provide may be used for such purposes as answering questions, improving the content of the Web sites, customizing the content, and communicating with Visitors about Okta's Service, including special offers, announcements, and new features.
 
 **Personal Information Collected Automatically.** As Visitors navigate or interact with Okta's Web sites, Okta may also automatically collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons.
 
 ### Other Third Party Tracking
 
-Okta engages third parties, which use Web beacons, images, and scripts, to help better manage content on Okta’s Web sites. Okta does not provide Personal Information to the third parties but may tie the information gathered from third party tracking to Visitors’ Personal Information for marketing purposes.
+Okta engages third parties, which use Web beacons, images, and scripts, to help better manage content on Okta’s Web sites. Okta does not provide Personal Information to the third parties, but may tie the information gathered from third party tracking to Visitors’ Personal Information for marketing purposes.
 
   1. **Cookies:**
 
-Okta uses cookies to make interactions with the Web sites easy and meaningful. When a Visitor interacts with the Web sites, Okta's servers send a cookie to the Visitor’s computer. Standing alone, cookies do not personally identify the Visitor;they merely recognize the visitor’s Web browser. Unless the Visitor chooses to identify themself to Okta, either by responding to a promotional offer, opening an account, or filling out a Web form, Okta has no way to associate this cookie data with the Visitor’s Personal Information.
+Okta uses cookies to make interactions with the Web sites easy and meaningful. When a Visitor interacts with the Web sites, Okta's servers send a cookie to the Visitor’s computer. Standing alone, cookies do not personally identify the Visitor; they merely recognize the visitor’s Web browser. Unless the Visitor chooses to identify themself to Okta, either by responding to a promotional offer, opening an account, or filling out a Web form, Okta has no way to associate this cookie data with the Visitor’s Personal Information.
 
 For the Web sites, Okta uses cookies that are session-based. Session cookies exist only during one session. They disappear from the Visitor’s computer upon closing their browser software or turning off their computer.
 
 Most browsers have an option for turning off cookies, which will prevent the browser from accepting new cookies, as well as (depending on the sophistication of the browser software) allowing the Visitor to decide on acceptance of each new cookie in a variety of ways.
 
-Okta's Web sites connect Visitors to third party services, with whom Okta partners with to provide the relevant content. The use of cookies by Okta’s partners is not covered by Okta’s Privacyy Statement. Okta does not have access or control over these cookies. Okta’s partners use session ID cookies to manage a Customer's connection to the partner's service.
+Okta's Web sites connect Visitors to third party service providers, with whom Okta partners with to provide the relevant content. The use of cookies by Okta’s partners is not covered by Okta’s Privacy Statement. Okta does not have access or control over these cookies. Okta’s partners use session ID cookies to manage a Customer's connection to the partner's service.
 
   2. **Web Beacons:**
 
@@ -40,18 +40,18 @@ Okta uses Web beacons alone or in conjunction with cookies to compile informatio
 
   3. **IP Addresses and Browser Information:**
 
-When a Visitor interacts with the Web sites, Okta collects their Internet Protocol ("IP") address(es), browser information and operating system to track and aggregate non-personal information. For example, Okta uses IP addresses to monitor the regions from which Visitors navigate the Web site, and for marketing purposes.
+When a Visitor interacts with the Web sites, Okta collects the Visitor’s Internet Protocol ("IP") address(es), browser information and operating system to track and aggregate non-personal information. For example, Okta uses IP addresses to monitor the regions from which Visitors navigate the Web site, and for marketing purposes.
 
   4. **Other Third Party Tracking:**
 
-Okta engages third parties, which use web beacons, images, and scripts, to help better manage content on Okta's Web sites. Okta does not provide Personal Information to the third parties but may tie the information gathered from third party tracking to our Visitors' Personal Information for marketing purposes.
+Okta engages third parties, which use Web beacons, images, and scripts, to help better manage content on Okta's Web sites. Okta does not provide Personal Information to the third parties but may tie the information gathered from third party tracking to our Visitors' Personal Information for marketing purposes.
 
 
 
 
-Cookies are small text files placed on an individual’s computer by sites that the individual has visited. They are used to make Web sites work more effectively and efficiently. Cookies may also provide information to the owner of a Web site. No Personal Information is stored within them; however, full details are below to describe the cookies Okta and its service providers use, and to explain why they are used.
+Cookies are small text files placed on an individual’s computer by Web sites that the individual has visited. They are used to make Web sites work more effectively and efficiently. Cookies may also provide information to the owner of a Web site. No Personal Information is stored within them; however, details are below to describe the cookies Okta and its service providers use, and to explain why they are used.
 
-On this page, We provide a list of all the cookies and services that may set cookies on Your device. We also provide links to each of the third-party services' privacy policies and optout information. Not all third party services provide information to opt out of their cookies. If You do not wish to have cookies set on Your device for any reason, You may opt out of all cookies via Your browser.
+On this page, We provide a list of  cookies and services that may set cookies on Your device that have provided such information to Us. We also provide links to each of those third-party services' privacy policies and opt-out information. Not all third party services provide information to opt out of their cookies. If You do not wish to have cookies set on Your device for any reason, You may opt out of all cookies via Your browser.
 
 ### Performance Cookies
 
@@ -100,7 +100,7 @@ Optimizely
 
 | 
 
-Optimizely uses cookies to identify a Visitor's browser and track Web site usage while on a partner site. The cookies come from partner website domains and from our log subdomain. You can reset your web browser's cookies to clear these cookies. For more information, see Optimizely's full privacy policy. [Opt Out](https://www.optimizely.com/opt_out/)
+Optimizely uses cookies to identify a Visitor's browser and track Web site usage while on a partner site. The cookies come from partner website domains and from our log subdomain. You can reset your web browser's cookies to clear these cookies. For more information, see Optimizely's full privacy policy. [Opt Out](https://www.optimizely.com/legal/opt-out/).
 
 | 
 
@@ -157,7 +157,7 @@ The JSESSIONID cookie is used to store a session identifier so that New Relic ca
   
 ### Targeting and Advertising Cookies are used for marketing purposes.
 
-You may opt out of behaviorally-targeted ads anytime by deleting your browser's cookies. You can also prevent some targeted ads by submitting opt outs to these companies: [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/)
+Okta uses targeting and advertising cookies for marketing purposes, but only with respect to our public-facing Web sites, and not with respect to our production environment Service.  You may opt out of behaviorally-targeted ads anytime by deleting your browser's cookies. You can also prevent some targeted ads by submitting opt outs to these companies: <http://preferences-mgr.truste.com/>
 
 Additionally, You may opt out of cookies from targeting or advertising services here: <http://www.youronlinechoices.com/uk/your-ad-choices>
 
@@ -320,7 +320,7 @@ Influitive AdvocateAnywhere cookies are used to track the current Visitor submit
 
 [Privacy Policy](https://influitive.com/privacy-policy/)  
   
-Our Web site includes social media features, such as the Facebook “Like” button, the LinkedIn button, Twitter button, and the “Share This” widget. These features may collect Your IP address and information regarding the page(s) that You are visiting on Okta’s Web sites, and may set a cookie to enable the feature at issue to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Web sites. Your interactions with a particular  feature are governed by the applicable privacy policy of the company providing such feature.
+Our Web sites include social media features, such as the Facebook “Like” button, the LinkedIn button, Twitter button, and the “Share This” widget. These features may collect Your IP address and information regarding the page(s) that You are visiting on Okta’s Web sites, and may set a cookie to enable the feature at issue to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Web sites. Your interactions with a particular  feature are governed by the applicable privacy policy of the company providing such feature.
 
 #### Cookies
 
@@ -380,25 +380,65 @@ Other browsers: Please refer to your browser options for further information.
 
 Okta may occasionally run contests or other special promotions on the Web sites, in which Visitors are invited to participate, and in connection with such activities, Okta may ask Visitors to submit contact information (for example, an e-mail address) or demographic information (for example, their zip code, employing industry, or country of residence). Okta may use the data collected in these contests and promotions to send promotional material about Okta or our partners to the Visitor who submitted such information. Contact information collected from these contests and promotions may be used to administer the contest and notify winners and contact Visitors when necessary.
 
-Except as described in the Privacy Statement, Okta will not give, sell, rent, or loan any identifiable Personal Information to any third party, without a Visitor’s prior consent. Okta may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise its legal rights or defend against legal claims. Okta may also share such information if the Company believes it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Okta’s terms of service or other, related contract terms, or as otherwise required by law. Okta may also provide non-personal, summary or group statistics about Okta’s Customers, sales, traffic patterns, and related Service information to reputable third-party vendors, but such statistical data will not include Personal Information.
+Except as described in the Privacy Statement, Okta will not give, sell, rent, or loan any identifiable Personal Information to any third party, without either a Visitor’s prior consent or another legal basis. Okta may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise its legal rights or defend against legal claims. Okta may also share such information if the Company believes it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Okta’s terms of service or other, related contract terms, or as otherwise required by law. Okta may also provide non-personal, summary or group statistics about Okta’s Customers, sales, traffic patterns, and related Service information to reputable third-party vendors, but such statistical data will not include Personal Information.
 
 If Okta is involved in a merger, acquisition, or sale of all or a portion of its assets, Visitors will be notified via a prominent notice on Okta’s Web site of any change in ownership or uses of Personal Information, as well as any choices Visitors may have regarding their Personal Information.
 
-Okta’s Web sites offer publicly accessible blogs and community forums. Any information provided in these areas may be read, collected, and used by others who access them.
+We work with a global network of partners who provide consulting, implementation, training and other services around our Service.  Some of these partners also help us to market and promote our Service, generate information about prospective customers for us, and resell subscriptions to our Service.  We may receive information from these partners, such as billing information, technical contact information, company name, what Okta Service editions You have purchased subscriptions for, or may be interested in, evaluation information You have provided, what events You have attended, and what country You are in.
+
+How We use the information we collect depends in part on which Service a Customer uses, how the Customer uses the Service, and any preferences a Customer may have communicated to us.  Below are the specific purposes for which We use the information We collect.
+
+**Provision of the Service**
+
+To provide the Service and personalize Customers’ experience, We use information about our Customers and their users to provide the Service to them, including to process transactions with Customers, authenticate users when users log in, provide support to Customers, and operate and maintain the Service.  For example, We use the name and identifying information that Customers provide to the Service in order to help keep the Service secure. Our Service also includes features that personalize Customers’ users’ experience, enhance users’ productivity, and improve users’ ability to collaborate effectively.  
+
+**Improvement of the Service**
+
+We are always looking for ways to make Our Service smarter, faster, secure, integrated, and useful to Customers.  We use collective learnings about how people use Our Service and feedback provided directly to Okta to troubleshoot and to identify trends, usage, activity patterns and areas for integration and improvement of the Service.  For example, We examine aggregated usage patterns of Our Customers to determine which third-party applications that integrate with Our Service are most frequently used by Customers, in order to ensure that the Service performs as well as possible. In some cases, We apply these learnings across the Service editions to improve and develop similar features or to better facilitate the interoperability of the third-party applications that Customers use with the Service. We also may test and analyze certain new features with some users before making those feature available to all users.  
+
+**Security of the Service**
+
+For security purposes, We use information about Customers and their use of the Service to verify accounts and activity, to monitor suspicious or fraudulent activity and to identify violations of Service policies, and to assist Customers in their monitoring of such suspicious or fraudulent activity.
+
+**Our Legitimate Interests**
+
+To protect Our legitimate business interests and legal rights, and where required by law or where We believe it is necessary to protect our legal rights, interests and the interests of others, We use information about You in connection with legal claims, compliance, regulatory, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business.  
+
+**Your Consent**
+
+With Your consent, We use information about You where You have given us consent to do so for a specific purpose not listed above.  For example, We may publish testimonials or featured Customer stories to promote the Service, with Your permission.  
+
+**Legal Bases for Processing (for EEA Users)**
+
+If You are an individual in the European Economic Area (EEA), We collect and process information about You only where we have a legal basis or bases for doing so under applicable EU laws.  The legal bases depend on the Service edition(s) that You use and how you use them, and/or how You interact with the Web site(s), and/or whether You have a business relationship (for example, if You are an employee) with an Okta Customer or prospective Customer. This means We collect and use Your Personal Information only where:
+
+  * We need it to provide You the Service, including to operate the Service, provide Customer support and personalized features and to protect the safety and security of the Service;
+  *  
+  * It satisfies a legitimate interest (which is not overridden by Your data protection interests, in Okta’s assessment after Okta’s analysis in compliance with applicable data protection laws), such as for research and development, to market and promote the Service and provide information to Customers and prospective Customers in such regard, and to protect Our legal rights and interests;
+  *  
+  * You give Us consent to do so for a specific purpose; or
+  *  
+  * We need to process Your Personal Information to comply with a legal obligation.
+
+
+
+Okta’s Web sites offer publicly-accessible blogs and community forums. Any information provided in these areas may be read, collected, and used by others who access them.
+
+The security of Okta’s and Our third party providers’ infrastructure is a critical priority for Okta, and We implement safeguards designed to protect Your data, including Personal Information.  However, no security system is impenetrable, and due to the inherent nature of the Internet, We cannot guarantee that data, including Personal Information, during transmission through the Internet or while stored on Our systems or otherwise in Our care, is absolutely safe from intrusion or other unauthorized access by others.
 
 Okta’s Web sites includes social media features, such as the Facebook and Twitter buttons, and certain widgets, such as the “share this” button or interactive mini-programs that run on the Web site. These features may collect a Visitor’s IP address, data regarding the page(s) each Visitor visits on the Web site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on Okta’s Web site. A Visitor’s interactions with these features are governed by the privacy policy of the company providing it. Okta has no direct relationship with the individuals whose Personal Information it processes.
 
-Okta will retain Personal Information it processes on behalf of Visitors for as long as needed to provide Web site services to Visitors.  Okta will retain and use this Personal Information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.
+Okta will retain Personal Information it processes on behalf of Visitors for as long as needed to provide Web site services to Visitors.  Okta will retain and use this Personal Information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.
 
-Okta may amend or update this Privacy Statement from time to time. The most current version of this Privacy Statement at any time shall be posted online at <http://www.okta.com/privacy>. Use of information collected is subject to the Privacy Statement in effect at the time such information is used. If Okta makes material changes in the way it uses Personal Information, it will notify Visitors by posting an announcement on the Web sites or sending an email prior to the change becoming effective. A Visitor’s continued use of the Okta Web sites following any such change constitutes agreement to be bound by such changes to the Privacy Statement. The only remedy, if a Customer does not accept the terms of this Privacy Statement, is to discontinue use of the Okta Web sites.
-
-Customers may update their Personal Information by editing their users’ information in the Service. If you're a Visitor and Your Personal Information changes, or if You no longer desire information on Okta’s Service, You may have Your Personal Information updated or removed from Okta’s records by [emailing accounts@okta.com](mailto:accounts@okta.com) or by contacting Us by telephone or postal mail at the contact information listed below.
+Customers may update their Personal Information by editing their users’ information in the Service. If you're a Visitor and Your Personal Information changes, or if You no longer desire to receive information about Okta’s Service, You may have Your Personal Information updated or removed from Okta’s records by emailing [accounts@okta.com](https://web.archive.org/web/20190513014652id_/https://www.okta.com/privacy-policy/accounts@okta.com) or by contacting Us by telephone or postal mail at the contact information listed below.
 
 We will respond to your request within 30 days.
 
   * You can always opt not to disclose information, even though it may be needed to take advantage of or register for certain features of the Service or other content made available via the Web sites.
-  * You may request deletion of Your Okta account by sending an e-mail to [accounts@okta.com](https://web.archive.org/web/20170925125629id_/https://www.okta.com/privacy-policy/accounts@okta.com).
-  * If You do not wish to receive email or other mail from Us, please indicate this preference during the registration process, by changing Your account settings, following the unsubscribe mechanism within the message or by notifying Us at [accounts@okta.com](https://web.archive.org/web/20170925125629id_/https://www.okta.com/privacy-policy/accounts@okta.com). Please note that if You do not want to receive legal notices from Us, such as this Privacy Statement, those legal notices will still govern Your use of the Web sites, and You are responsible for reviewing such legal notices for changes.
+
+  * You may request deletion of Your Okta account by sending an e-mail to [accounts@okta.com](https://web.archive.org/web/20190513014652id_/https://www.okta.com/privacy-policy/accounts@okta.com).
+  * If You do not wish to receive email or other mail from Us, please indicate this preference during the registration process, by changing Your account settings, following the unsubscribe mechanism within the message or by notifying Us at [accounts@okta.com](https://web.archive.org/web/20190513014652id_/https://www.okta.com/privacy-policy/accounts@okta.com). Please note that if You do not want to receive legal notices from Us, such as this Privacy Statement, those legal notices will still govern Your use of the Web sites, and You are responsible for reviewing such legal notices for changes.
+
 
 
 
@@ -408,42 +448,54 @@ Our Web sites offer publicly accessible blogs or community forums. You should be
 
 Okta collects information under the direction of its Customers and has no direct relationship with the individual users (who are employees or agents of Customers, or third parties with whom a Customer does business) whose personal data it processes. Okta works with its Customers to help them provide notice to their employees concerning the purpose for which Personal Information is collected.
 
-We collect information for our Customers. If You are an employee of one of our Customers and would no longer like to use Okta's Service, please contact your employer directly. Okta may transfer Personal Information to companies that help us provide our Services. Transfers to subsequent third parties are covered by: (1) the provisions in this Privacy Statement regarding notice and choice, and (2) the applicable agreement Okta has with our Customer that governs such Customer’s use of the Service.
+We collect information for Our Customers. If You are an employee of, or a user who has been assigned a subscription to the Okta Service by, one of Our Customers and would no longer like to use Okta's Service, please contact that Customer directly. Okta may transfer Personal Information to companies that help us provide the Service. Transfers to subsequent third parties are covered by: (1) the provisions in this Privacy Statement regarding notice and choice, and (2) the applicable agreement Okta has with our Customer that governs such Customer’s use of the Service.
 
-Okta has no direct relationship with the individuals whose Personal Information it processes in its provision of the Service. An individual who seeks access to, or who seeks to correct, amend, or delete, inaccurate data should direct their query to their employer. If the employer is a Customer and requests that Okta remove the data, we will respond to their request within 30 business days.
+Okta has no direct relationship with the individuals whose Personal Information it processes in its provision of the Service. Any such individual who seeks access to, or who seeks to correct, amend, or delete, inaccurate data, or who seeks to exercise any other right(s) they may have as a data subject, should direct their query to the Okta Customer (the data controller) that assigned such individual a subscription to the Service. If the Customer requests that Okta remove the Personal Information  to comply with data protection regulations, We will respond to their request within 30 business days.
 
-Okta will retain Personal Information that We process on behalf of our Customers for as long as needed to provide the Service to our Customer. Okta will retain and use this Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Okta will retain Personal Information that We process on behalf of Customers for as long as needed to provide the Service to the Customer. Okta will retain and use this Personal Information as necessary to comply with Our legal obligations, resolve disputes, and enforce Our agreements.  Such retention and use conforms to the timeframes set forth in the relevant agreements with Our Customers.
 
-If You install and use the Okta Mobile application (either the Android or iOS version) and are enrolled in the Okta Mobility Management program, You will grant Your company’s administrator the ability to manage Your user devices.  By using the Okta Mobile app, You understand and agree that You grant permission to Your company’s administrator, so that s/he may perform some or all of the following actions, as may be required: 
+The security of data, which may include Personal Information, that is submitted by Customers to the Okta Service (“Customer Data”), is very important to Okta. We maintain a comprehensive, written information security program that contains industry-standard, administrative, technical, and physical safeguards designed to prevent unauthorized access to Customer Data. Okta designs its Service to allow Customers to achieve differentiated security configurations, enforce user access controls, and manage data categories.  Configuring these settings appropriately is the Customer’s responsibility. Additional information about the security settings and configurations can be found in the documentation related to the Okta Service made available to Customers.
 
-1\.     Set passcode policies for the device in order to secure company data, including:
+By way of example, Personal Information contained in Customer Data can include first name, last name, email address, and mobile phone number.
 
-  * Passcode required;
-  * Minimum passcode length;
-  * Require letter in passcode;
-  * Require symbol in passcode;
-  * Passcode expiration and history;
-  * Failed attempts before device/work profile is wiped;
-  * Lock device after X minutes of user inactivity;
+If You install and use the Okta Mobile application (either the Android or iOS version) and are enrolled in the Okta Mobility Management program, You will grant Your company’s administrator the ability to manage Your user devices.  By using the Okta Mobile app, You understand and agree that You grant permission to Your company’s administrator, so that s/he may perform some or all of the following actions, as may be required: 
+
+1.     Set passcode policies for the device in order to secure company data, including:
+
+  *        Passcode required;
+  *        Minimum passcode length;
+  *        Require letter in passcode;
+  *        Require symbol in passcode;
+  *        Passcode expiration and history;
+  *        Failed attempts before device/work profile is wiped;
+  *        Lock device after X minutes of user inactivity;
 
 
 
-2\.     Clear the device passcode in cases when You have forgotten the passcode;
+2.     Clear the device passcode in cases when You have forgotten the passcode;  
+3.     Reset the device passcode in cases when You have forgotten the passcode;  
+4.     Lock the device when You have lost the device;  
+5.     Wipe all device data from a lost or stolen device;  
+6.     Wipe company data from a device, if You have left the company. 
 
-3\.     Reset the device passcode in cases when You have forgotten the passcode;
+As an enterprise software company providing the Service to Customers, Our communications, business processes, and the Service itself are not directed to individuals under age 18.  We do not knowingly collect Personal Information from children under age 18. If We become aware that a child under age 18 has improperly provided Us with Personal Information, We will take steps to delete such information. If You become aware that a child has provided us with Personal Information, please contact Us.
 
-4\.     Lock the device when You have lost the device;
+Okta may amend or update this Privacy Statement from time to time. You can review the most current version of this Privacy Statement at any time at http://www.okta.com/privacy/. Use of information We collect is subject to the Privacy Statement in effect at the time such information is used. If we make material changes in the way we use Personal Information, We will notify you by posting an announcement on the Web sites or sending You an email prior to the change becoming effective. Your continued use of the Service following any such change constitutes Your agreement to be bound by such changes to the Privacy Statement. Your only remedy, if you do not accept the terms of this Privacy Statement, is to discontinue use of the Service.
 
-5\.     Wipe all device data from a lost or stolen device;
+Okta has appointed a Data Protection Officer responsible for overseeing the implementation of the privacy program across the Company.  If You have any questions about this Privacy Statement or Okta’s Web sites, please contact Us directly at: [info@okta.com](mailto:info@okta.com). Written inquiries may be addressed to:
 
-6\.     Wipe company data from a device, if You have left the company. 
-
-Okta may amend or update this Privacy Statement from time to time. You can review the most current version of this Privacy Statement at any time at <http://www.okta.com/privacy/>. Use of information We collect is subject to the Privacy Statement in effect at the time such information is used. If we make material changes in the way we use Personal Information, We will notify you by posting an announcement on the Web sites or sending You an email prior to the change becoming effective. Your continued use of the Service following any such change constitutes Your agreement to be bound by such changes to the Privacy Statement. Your only remedy, if you do not accept the terms of this Privacy Statement, is to discontinue use of the Service.
-
-If you have any questions about this Privacy Statement or Okta’s Web sites, please contact us directly at: [info@okta.com](mailto:info@okta.com). Written inquiries may be addressed to:
-
-Okta, Inc.,  
-Chief Security Officer,  
-301 Brannan Street, Suite 300  
+Okta, Inc.  
+Data Protection Officer  
+301 Brannan Street  
 San Francisco, CA 94107  
 (888) 722-7871
+
+If You wish to contact Okta’s representative pursuant to Article 27 of the General Data Protection Regulation, inquiries may be directed to:
+
+Okta UK LTD  
+ATTN: Legal, Article 27 GDPR Representative  
+20 Farringdon Road  
+ECIM 3HE   
+London, United Kingdom
+
++44 020 3389 8779
