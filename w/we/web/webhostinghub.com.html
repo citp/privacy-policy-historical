@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webhostinghub.com privacy policy that was archived on 2018-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180905162949id_/https%3A//www.webhostinghub.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webhostinghub.com privacy policy that was archived on 2019-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190512101029id_/https%3A//www.webhostinghub.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -13,7 +13,7 @@
   <meta name="viewport" id="metaviewport" content="width=device-width">
   
   
-    <link rel="stylesheet" href="//whh01-inmotionhosting1.netdna-ssl.com/assets/css/styles.css?1536163576">
+    <link rel="stylesheet" href="//whh01-inmotionhosting1.netdna-ssl.com/assets/css/styles.css?1551282773">
 
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -149,7 +149,7 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
 
 <body class="policy-page">
 
-
+  
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
 <!-- Google Tag Manager (noscript) -->
 <noscript>
@@ -235,7 +235,7 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
           <ul class="dropdown-menu">
             <li><a href="/website-builder" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Web Design Create Your Own Website')">Create Your Own Website</a></li>
             <li><a href="/web-design" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'Web Design Web Design Services')">Web Design Services</a></li>
-
+            <li><a href="/quickstartmysite" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'QuickStarter')">QuickStarter</a></li>
           </ul>
         </li>
         <li><a href="/about-us" onclick="ga('send', 'event', 'Nav Bar', 'Click', 'About About')">About</a></li>
@@ -456,7 +456,7 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
           <li>+1 757-416-6627 (Intl)</li>
           <li>3629 Sentara Way
           <br>Virginia Beach, VA 23452</li>
-          <li>Copyright ©2018 Web Hosting Hub</li>
+          <li>Copyright ©2019 Web Hosting Hub</li>
           <li>
             <div class="social-icons">
               <a class="social" href="https://twitter.com/webhostinghub" target="_blank"><span class="twitter2"></span></a>
@@ -775,7 +775,7 @@ var _prum = [['id', '54f88877abe53d7326936ffe'],
 <script>window.jQuery || document.write('<script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/jquery-1.11.1.min.js"><\/script>')</script><script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/jquery-1.11.1.min.js"></script>
 <script>window.Modernizr || document.write('<script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/modernizr-2.8.3-respond-1.4.2.min.js"><\/script>')</script><script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 <script src="//whh01-inmotionhosting1.netdna-ssl.com/js/libs/js-jquery-ui-cookie.min.js"></script>
-<script src="//whh01-inmotionhosting1.netdna-ssl.com/assets/js/scripts.js?1536163576"></script>
+<script src="//whh01-inmotionhosting1.netdna-ssl.com/assets/js/scripts.js?1551282773"></script>
 
 <script>
 $(document).ready(function(){
@@ -785,8 +785,20 @@ $(document).ready(function(){
 });
 function handleTermSelect(term) {
       // name should be "spark", "nitro", or "dynamo"
-      console.log($(term).data());
+      // console.log($(term).data());
       var name = $(term.form).attr('id');
+      var inputName = $(term).attr('id');
+      // console.log(name);
+      // console.log(inputName);
+
+      if (name.indexOf("top") !== -1) {
+        var nameOtherSection = name.replace("top", "bot"); 
+        var inputNameOtherSection = inputName.replace("top", "bot");
+      } else if (name.indexOf("bot") !== -1) {
+        var nameOtherSection = name.replace("bot", "top");
+        var inputNameOtherSection = inputName.replace("bot", "top");
+      }
+      // console.log(inputNameOtherSection);
       $("#"+name+" .pricebox-order").data({
         "productid":$(term).data("productid"),
         "packageid":$(term).data("packageid"),
@@ -801,11 +813,40 @@ function handleTermSelect(term) {
         "data-irid":$(term).data("impactradiusid"),
         "data-affid":$(term).data("campaignhandle")
       });
+
       $("#"+name+" .pricebox-percent").html($(term).data("percentoff"));
       $("#"+name+" .pricebox-strike").html($(term).data("originalprice"));
       $("#"+name+" .pricebox-price").html($(term).data("saleprice"));
+
+      // Update Bottom and/or Top Section as well when term button is clicked
+      if (typeof nameOtherSection !== 'undefined') {
+        $("#"+nameOtherSection+" .pricebox-order").data({
+        "productid":$(term).data("productid"),
+        "packageid":$(term).data("packageid"),
+        "campaignhandle":$(term).data("campaignhandle"),
+        "irid":$(term).data("impactradiusid"),
+        "affid":$(term).data("campaignhandle")
+      });
+      
+      $("#"+nameOtherSection+" .pricebox-order").attr({
+        "data-productid":$(term).data("productid"),
+        "data-packageid":$(term).data("packageid"),
+        "data-campaignhandle":$(term).data("campaignhandle"),
+        "data-irid":$(term).data("impactradiusid"),
+        "data-affid":$(term).data("campaignhandle")
+      });
+
+        $("#"+nameOtherSection+" .pricebox-percent").html($(term).data("percentoff"));
+        $("#"+nameOtherSection+" .pricebox-strike").html($(term).data("originalprice"));
+        $("#"+nameOtherSection+" .pricebox-price").html($(term).data("saleprice"));
+        $("#"+inputNameOtherSection).prop("checked",true);
+      }
 }
 </script>
+
+<!--// BEGIN OBI Sales Funnel Journey Tracking -->
+<script type="text/javascript" src="//track.consumer.id" async=""></script>
+<!--// END OBI Sales Funnel Journey Tracking -->
 
 
 
