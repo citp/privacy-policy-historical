@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027180033id_/https%3A//www.milanicosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512175526id_/https%3A//www.milanicosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Milani Cosmetics
 
@@ -8,26 +8,27 @@
 
 
 
-New Milani Group, Inc (“Milani”) offers and maintains this website, located at [www.milanicosmetics.com](http://www.milanicosmetics.com/), including all of its subdomains and subparts (collectively, “our website”).   Milani respects the privacy of everyone who visits our website. Our Privacy Policy is an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our customers. This policy was developed to inform visitors to our website about how Milani handles and uses personal information. Privacy is important; we hope you take the time to read this Privacy Policy carefully. 
+New Milani Group LLC(“Milani”) offers and maintains this website, located at [www.milanicosmetics.com](http://www.milanicosmetics.com/), including all of its subdomains and subparts (collectively, “our website”).   Milani respects the privacy of everyone who visits our website. Our Privacy Policy is an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our customers. This policy was developed to inform visitors to our website about how Milani handles and uses personal information. Privacy is important; we hope you take the time to read this Privacy Policy carefully. 
 
-We will regularly assess this policy against new technologies, business practices, and our customers' needs to ensure that you are informed to make choices about how to share and secure your personal data. If you have questions about this privacy statement, Milani’s information practices, or your dealings with Milani, please contact us **** at 1-800-726-4147 or Regulatory Department, 2111 East 49th Street, Vernon, California 90058 or email us at [legal@milanicosmetics.com](mailto:legal@milanicosmetics.com).
+**By visiting milanicosmetics.com, you are accepting the practices described in this Privacy Policy.**
 
-  2. **Collection Of Your Information**
+We will regularly assess this policy against new technologies, business practices, and our customers' needs to ensure that you are informed to make choices about how to share and secure your personal data. If you have questions about this privacy statement, Milani’s information practices, or your dealings with Milani, please contact us ** ** at 1-800-726-4147 or Regulatory Department, 2516 E 49th St., Vernon, CA 90058 or email us at [customerservice@milanicosmetics.com](mailto:customerservice@milanicosmetics.com) .
+
+  2. ******Collection Of Your Information**
 
 
 
 When you visit our website, you may provide us with two types of information: 1) personally identifiable information that you voluntarily disclose so that we may provide products or services to you, such as when you register for an account or submit information needed to fill an order; and 2) website use information collected automatically as you browse our website.  By using our website or allowing someone to use our website on your behalf, you are consenting to our collection, use, disclosure, transfer, storage, retention, and eventual destruction in accordance with this Privacy Policy of any personally identifiable information or other information received by us as a result of such use.
 
-**Personally Identifiable Information**  
+**Personally Identifiable Information**   **You Provide Us**
 
-Milani may collect personally identifiable information about you including without limitation your name, address, telephone number, and e-mail address.  If you choose to correspond with us through email, we may retain the content of your email messages, together with your email address, and our responses.
+Milani may collect personally identifiable information about you including without limitation your name, address, telephone number, and e-mail address.  If you choose to correspond with us through email, we may retain the content of your email messages, together with your email address, and our responses.  You can always choose not to provide Milani with your information even though it may be necessary to place an order or to take advantage of other website features.
 
-**Website Use Information**  
+**Website Use Automatic Information**  
 
 We also collect certain data automatically that is sent to us from the computer, mobile device and/or browser through which you access our website (“Automatic Data”). This Automatic Data includes, without limitation, statistics on your activities on our website (such as the date and time of visits, the pages viewed, time spent at our website), information about how you came to our website, and data collected through Cookies Web Logs or other similar technologies discussed in more detail in our Cookie Policy. Much of this Automatic Data is not personally identifiable information. However, when you register for our website or otherwise submit personally identifiable information to us, we may associate this Automatic Data with your personally identifiable information. At such time, we will treat any such combined data as personally identifiable information until such time as it can no longer be associated with you or used to identify you. 
 
-  3. **Use Of Your Information** **  
-**
+  3. ******Use Of Your Information  **
 
 
 
@@ -35,9 +36,9 @@ Broadly speaking, we use personally identifiable information for the purpose for
 
 We may also use your personally identifiable information or Automatic Data to administer our internal business activities, such as to design and arrange our website in the most user-friendly manner and to continually improve our website to better meet the needs of our customers and prospective customers, to better understand visitors to our website, to manage your account, to provide customer service, or to make available other products and services to our customers and prospective customers.
 
-If you choose to receive email from Milani, we may use your personally identifiable information to send you information and updates about Milani cosmetic products, tips, and giveaways, as well as changes to our Website, new services, and special offers we think you will find valuable. We will do this only with your permission if you have opted into our newsletter list.
+If you choose to receive email or text messages from Milani, we may use your personally identifiable information to send you information and updates about Milani cosmetic products, tips, promotional offers and giveaways, as well as changes to our Website, new services, and special offers we think you will find valuable. We will do this only with your permission.  If you do not wish to receive text messages from Milani, please text STOP to the last message received and you will be automatically removed. If you do not wish to receive email messages, please click the Unsubscribe link at the bottom of any email to be removed. If you are having any issues with opting out of communication, please email [customerservice@milanicosmetics.com](mailto:customerservice@milanicosmetics.com) for assistance.
 
-You may notify us at any time of your desire not to receive these communications, or Opt Out, by clicking on a response box when you receive such an offer or by emailing your request to unsubscribe to: [unsub@Milanicosmetics.com](mailto:unsub@milanicosmetics.com).
+You may notify us at any time of your desire not to receive these communications, or Opt Out, by clicking on a response box when you receive such an offer or by emailing your request to unsubscribe to: [customerservice@Milanicosmetics.com](mailto:customerservice@Milanicosmetics.com).
 
   4. ******Disclosure Of Your Information**
 
@@ -79,42 +80,39 @@ People have different privacy concerns. Our goal is to be clear about what infor
 
 You may choose to limit the personally identifiable information you submit by merely browsing our website without providing your name or other information.  If you do so, you may not be able to use certain functionality of our website.  To open an account, for example, you must provide your name and email address. 
 
-Alternatively, you may choose to opt in or out of specific uses of your information.  You can view and edit your preferences about whether to receive email communications from Milani by accessing your account on the My Account page.  If you have registered to receive such email, you can opt out at any time by clicking on the “Unsubscribe” link at the bottom of any such email or by sending a request to unsubscribe by emailing your request to to: customerservice[@milanicosmetics.com](mailto:unsub@milanicosmetics.com).  Even after you opt out of all electronic communications, we will retain your personally identifiable information according to this Privacy Policy, but we will no longer use it to contact you.   
+Alternatively, you may choose to opt in or out of specific uses of your information.  You can view and edit your preferences about whether to receive email communications from Milani by accessing your account on the My Account page.  If you have registered to receive such email, you can opt out at any time by clicking on the “Unsubscribe” link at the bottom of any such email or by sending a request to unsubscribe by emailing your request  to: customerservice[@milanicosmetics.com](mailto:unsub@milanicosmetics.com).  Even after you opt out of all electronic communications, we will retain your personally identifiable information according to this Privacy Policy, but we will no longer use it to contact you.
 
-  6. **Information** **Security**
+  6. ******Information Security**
 
 
 
-Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. When you place an order through our website, we encode your information using Secure Socket Layer (SSL) encryption technology. This is the most advanced consumer online security technique to date.  Our business practices also limit employee access to personally identifiable information and limit the use and disclosure of such information to authorized persons, processes, and transactions. 
+Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. When you place an order through our website, we encode your information using Secure Socket Layer (SSL) encryption technology. Our business practices also limit employee access to personally identifiable information and limit the use and disclosure of such information to authorized persons, processes, and transactions.  You can help secure your information by protecting against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
 **Storage of Your Information**
 
 We may store personally identifiable information itself or such information may be stored by third parties to whom we have transferred it in accordance with this Privacy Policy. We take what we believe to be reasonable steps to protect the personally identifiably information collected via our website from loss, misuse, unauthorized access, inadvertent disclosure, alteration, and destruction. However, no network, server, database or Internet or e-mail transmission is ever fully secure or error free. Therefore, you should take special care in deciding what information you send to us electronically. Please keep this in mind when disclosing any personally identifiable information.
 
-**Accessing and Correcting Your Information**   **  
-**
+**Accessing and Correcting Your Information**  
 
-If you have registered for an account on our website, you may access and update some of your personally identifiable information being stored by us by logging in and visiting the My Account page.  You may also request access to all of your personally identifiable information that we collect online and maintain in our database by emailing us at [legal@milanicosmetics.com](mailto:legal@milanicosmetics.com).  If you have not registered for an account on our website, you may create one by signing up, which will give you access to update some of your personally identifiable information directly. We will take reasonable steps to respond to requests relating to personally identifiable information within thirty (30) days, however, to the extent lawful, we may reject requests that we find to be unreasonable (i.e., require disproportionate efforts or material changes to our information systems), impractical, or abusive (i.e., repetitive requests, requests made in bad faith, requests that would compromise third party information).
+If you have registered for an account on our website, you may access and update some of your personally identifiable information being stored by us by logging in and visiting the My Account page.  You may also request access to all of your personally identifiable information that we collect online and maintain in our database by emailing us at [customerservice@milanicosmetics.com](mailto:customerservice@milanicosmetics.com).  If you have not registered for an account on our website, you may create one by signing up, which will give you access to update some of your personally identifiable information directly. We will take reasonable steps to respond to requests relating to personally identifiable information within thirty (30) days, however, to the extent lawful, we may reject requests that we find to be unreasonable (i.e., require disproportionate efforts or material changes to our information systems), impractical, or abusive (i.e., repetitive requests, requests made in bad faith, requests that would compromise third party information).
 
 **Information Retention**
 
 We may retain your personally identifiable information as long as you continue to use our website. You may close your account by contacting us. However, we may retain personally identifiable information for an additional period as is permitted or required under applicable laws. Even if we delete your personally identifiable information, it may persist on backup or archival media for an additional period of time.
 
-** ** **Evaluation of Information**   **Protection Practices**
+**  Evaluation of Information**  **Protection Practices**
 
 This Privacy Policy is periodically reviewed for compliance with legal requirements, corporate policies, and procedures governing the security, confidentiality, and quality of our information.
 
-  7. **Cookies Web Logs, And Similar Technologies**
+  7. ******Cookies Web Logs, And Similar Technologies**
 
 
 
 Please refer to our Cookie Policy, which is hereby incorporated by reference into this Privacy Policy, for more information about our use of these technologies.
 
-  8. ******Exclusions**
+  8. ******Exclusions Third Party Links**
 
 
-
-**Third Party Links**
 
  Our website may contain links to other websites not operated or controlled by us (the “Third Party Sites”).  These links are provided solely as pointers to information on topics that may be useful to the users of our website. This Privacy Policy applies only to our website. The policies and procedures we described here do not apply to the Third Party Sites. The links from our website do not imply that we endorse or have reviewed the Third Party Sites. We are not responsible for the practices employed by the Third Party Sites linked to or from our website nor the information or content contained therein. We suggest contacting those sites directly for information on their privacy policies. 
 
@@ -126,11 +124,11 @@ When you interact with our website, we may also collect non-personal data. The l
 
 In an ongoing effort to better understand and serve visitors of our website, we may conduct research on our customer demographics, interests, and behavior based on personally identifiable information and other information that we have collected. This research may be compiled and analyzed on an aggregate basis and this aggregate information does not identify you personally and therefore is considered and treated as non-personal data under this Privacy Policy.
 
-  9. **Children**
+  9. ******Children**
 
 
 
-Milani does not knowingly or intentionally collect any personally identifiable information from children under the age of thirteen (13), and our website is neither directed nor targeted to children under thirteen (13) years of age.  If you are under the age of thirteen (13), please do not submit any personally identifiable information through our website.  We strongly encourage parents and legal guardians to monitor their children's use of the Internet and to help enforce our Privacy Policy by instructing their children to never provide personally identifiable information through our website without their permission.  If you have reason to believe that a child under the age of thirteen has provided personally identifiable information to us through our website, please contact us at [legal@milanicosmetics.com](mailto:legal@milanicosmetics.com), and we will use reasonable efforts to delete such personally identifiable information from our website and our files.
+Milani does not knowingly or intentionally collect any personally identifiable information from children under the age of thirteen (13), and our website is neither directed nor targeted to children under thirteen (13) years of age.  If you are under the age of thirteen (13), please do not submit any personally identifiable information through our website.  We strongly encourage parents and legal guardians to monitor their children's use of the Internet and to help enforce our Privacy Policy by instructing their children to never provide personally identifiable information through our website without their permission.  If you have reason to believe that a child under the age of thirteen (13) has provided personally identifiable information to us through our website, please contact us at [customerservice@milanicosmetics.com](mailto:customerservice@milanicosmetics.com), and we will use reasonable efforts to delete such personally identifiable information from our website and our files.
 
   10. ******International Privacy Laws**
 
@@ -148,7 +146,7 @@ Our website and our business may change from time to time.  As a result, it may
 
 
 
-If you have a complaint about Milani’s privacy practices, you should write to us at Regulatory Department, 2111 East 49th Street, Vernon, California 90058 or email us at [legal@milanicosmetics.com](mailto:legal@milanicosmetics.com). We will take reasonable steps to work with you to attempt to resolve your complaint.
+If you have a complaint about Milani’s privacy practices, you should write to us at Regulatory Department, 2111 East 49th Street, Vernon, California 90058 or email us at [customerservice@milanicosmetics.com](mailto:legal@milanicosmetics.com). We will take reasonable steps to work with you to attempt to resolve your complaint.
 
   13. ******Acceptance Of These Terms**
 
@@ -206,7 +204,7 @@ We use these technologies to allow us to provide certain functionality on our we
 
 In the future, we may use these technologies to deliver focused online banner advertisements to you both on and off our website. By using these technologies, we hope to better tailor these advertisements to your interests. Sometimes this is called online behavioral, interest based or retargeted advertising. Many of the third party technologies that enable this advertising participate in voluntary frameworks that allow you to opt-out of it.
 
-Such third party service providers include Adroll, Rubicon, Google, Media Math, Perfect Audience, Quantcast, Retargeter, and Yahoo! among other.  You can control your preferences directly with each such third party service provider.
+Such third-party service providers include Criteo, Adroll, Rubicon, Google, Media Math, Perfect Audience, Quantcast, Retargeter, and Yahoo! among others.  You can control your preferences directly with each such third party service provider.
 
   6. ******Does anybody else use these technologies on your services?**
 
@@ -214,4 +212,4 @@ Such third party service providers include Adroll, Rubicon, Google, Media Math, 
 
 Most of the cookies and other technologies described above on our website are set by us (aka first party cookies) or are used in connection with our website and set by third party service providers at our direction ("Third Party Cookies"). We may use Third Party Cookies with respect to each of the uses set forth above.
 
- Last updated and effective: March 25, 2016
+ Last updated and effective: January 14, 2019
