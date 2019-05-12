@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eforum.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111004335id_/http%3A//www.eforum.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforum.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512114646id_/http%3A//www.eforum.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy | Internet Marketing Forum
 
@@ -42,3 +42,18 @@ We do not use or disclose information about your individual visits to eForum or 
 If we decide to change our privacy policy for eForum, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. 
 
 [](http://uniquecosmetics.com/)
+
+Type your status and hit the enter key!
+
+ **My Status**  
+
+
+ **I am...**  
+AvailableInvisibleBusyOffline  
+
+
+Disable sound notifications
+
+Disable popup notifications
+
+Chat Now (0)
