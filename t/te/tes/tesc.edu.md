@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tesc.edu privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918084500id_/http%3A//www.tesu.edu/about/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesc.edu privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512195318id_/https%3A//www.tesu.edu/about/Privacy-Policy) for the most accurate reproduction.*
 
-# Thomas Edison State University: Privacy Policy
+# Thomas Edison State University: Privacy Policy | About Us
 
 This is the Web site of Thomas Edison State University.
 
@@ -8,7 +8,7 @@ Our postal address is
 111 W. State St.  
 Trenton, NJ 08608
 
-We may be reached via email at [info@tesu.edu](mailto:info@tesu.edu) or you may reach us by telephone at (609) 777-5680
+We may be reached via email at [info@tesu.edu](mailto:info@tesu.edu) or you may reach us by telephone at (609) 777-5680.
 
 For each visitor to our Web page, we only collect only the domain name, but not the email address of visitors to our Web page, and aggregate information on what pages visitors access or visit.
 
