@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.co.id privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723234814id_/https%3A//id.jobsdb.com/en-id/pages/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.co.id privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512140549id_/https%3A//id.jobsdb.com/en-id/pages/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | jobsDB Indonesia
 
@@ -74,7 +74,7 @@ Generally speaking, jobsDB Indonesia will only disclose and/or transfer Users’
 
   1. where the information and/or data is disclosed and/or transferred to any third party suppliers or service providers who have been duly authorized by jobsDB Indonesia to use such information and/or data and who will facilitate the services on the Site, under a duty of confidentiality;
   2. where the information and/or data is disclosed and/or transferred to any agents, affiliates or associates of jobsDB Indonesia who have been duly authorized by jobsDB Indonesia to use such information and/or data;
-  3. where permitted under the “ **[Terms and Conditions](http://id.jobsdb.com/en-id/pages/terms/terms-conditions)** ” including the “ **[Talent Search Terms and Conditions](http://id.jobsdb.com/en-id/pages/terms/talent-search-offer-terms)** ” (see the Profiles Section below);
+  3. where permitted under the “ **[Terms and Conditions](https://id.jobsdb.com/en-id/pages/terms/terms-conditions)** ” including the “ **[Talent Search Terms and Conditions](https://id.jobsdb.com/en-id/pages/terms/talent-search-offer-terms)** ” (see the Profiles Section below);
   4. where jobsDB Indonesia needs to protect and defend its rights and property;
   5. where jobsDB Indonesia considers necessary to do so in order to comply with the applicable laws and regulations, including without limitation as requested by the governmental agency or institution and compliance with a judicial proceeding, court order, or legal process served on the Site;
   6. where jobsDB Indonesia deems necessary in order to deliver the products and services that we offer and cultivate a positive user experience; and
