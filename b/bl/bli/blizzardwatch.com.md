@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blizzardwatch.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218082653id_/https%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blizzardwatch.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512203727id_/https%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blizzard Watch
+# Privacy Policy
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
