@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeonfire.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708053824id_/https%3A//lifeonfire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeonfire.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512195107id_/https%3A//lifeonfire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life On Fire
 
@@ -67,6 +67,12 @@ We may disclose your personal information to third parties if we feel that the d
 
 As discussed in the section on cookies and other technologies, from time to time we may allow a third party to serve advertisements on this web site. If you share information with the advertiser, including by clicking on their ads, this Privacy Policy does not control the advertisers use of your personal information, and you should check the privacy policies of those advertisers and/or ad services to learn about their use of cookies and other technology before linking to an ad.
 
+## GDPR
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union citizens. As a company that markets its site. Content, products and/or services on line we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site or services or products is governed by GDPR, we will abide by the relevant portions of the regulation.If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+To make any of these requests, please contact our GDPR contact at support@lifeonfire.com.
+
 ## How is personal information used for communications?
 
 We may contact you periodically by e-mail, mail or telephone to provide information regarding programs, products, services and content that may be of interest to you. In addition, some of the features on this web site allow you to communicate with us using an online form. If your communication requests a response from us, we may send you a response via e-mail. The e-mail response or confirmation may include your personal information. We cannot guarantee that our e-mails to you will be secure from unauthorized interception.
@@ -81,8 +87,7 @@ This site contains links to other sites that provide information that we conside
 
 ## Public Discussions
 
-This site may provide public discussions on various business valuation topics. Please note that any information you post in these discussions will become public, so please do not post sensitive information in the public discussions. Whenever you publicly disclose information online, that information could be collected and used by others. We are not responsible for any action or policies of  
-any third parties who collect information that users disclose in any such forums on the web site. Life on Fire™ does not agree or disagree with anything posted on the discussion board. Also remember that you must comply with our other published policies regarding postings on our public forums.
+This site may provide public discussions on various business valuation topics. Please note that any information you post in these discussions will become public, so please do not post sensitive information in the public discussions. Whenever you publicly disclose information online, that information could be collected and used by others. We are not responsible for any action or policies of any third parties who collect information that users disclose in any such forums on the web site. Life on Fire™ does not agree or disagree with anything posted on the discussion board. Also remember that you must comply with our other published policies regarding postings on our public forums.
 
 ## How can a user access, change, and/or delete personal information?
 
