@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812203630id_/https%3A//www.ninjakitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512093802id_/https%3A//www.ninjakitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Ninja® Kitchen | Ninja®
 
