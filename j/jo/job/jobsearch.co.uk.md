@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004013055id_/https%3A//www.fish4.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512162614id_/http%3A//www.fish4.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -81,7 +81,7 @@ We work with various service providers to ensure that you receive the best possi
 
 **Google Analytics**
 
-Fish4jobs uses Google Analytics tagging to collect data on website activity. If you would like to opt-out of Google Analytics monitoring your behaviour on our sites please use this link (<https://tools.google.com/dlpage/gaoptout/>)
+Fish4jobs uses Google Analytics and Lead Feeder tagging to collect data on website activity. If you would like to opt-out of Google Analytics monitoring your behaviour on our sites please use this link (<https://tools.google.com/dlpage/gaoptout/>)
 
 **Top CV**
 
