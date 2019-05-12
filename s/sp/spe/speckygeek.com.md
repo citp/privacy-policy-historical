@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the speckygeek.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110122109id_/http%3A//www.speckygeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speckygeek.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512020532id_/http%3A//www.speckygeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Specky Geek
 
-At Specky Geek, we take your privacy very seriously and are aware of our responsibility  to protect it. We let you know what information we collect when you use our website(s) and services, and why. If you need more clarification, **[contact us](http://www.speckygeek.com/contact-us/ "Contact Specky Geek")**.
+[Home](https://speckygeek.com/) / Privacy Policy
+
+At Specky Geek, we take your privacy very seriously and are aware of our responsibility  to protect it. We let you know what information we collect when you use our website(s) and services, and why. If you need more clarification, **[contact us](https://speckygeek.com/contact-us/ "Contact Specky Geek")**.
 
   * When you visit this website, our servers automatically record information that your browser sends. These server logs may include information such as your Web request, Internet Protocol address, browser type, browser language and the date and time of your request, which are not personally identifiable.
 
