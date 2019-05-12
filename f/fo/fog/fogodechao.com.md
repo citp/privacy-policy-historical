@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fogodechao.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111134231id_/http%3A//fogodechao.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fogodechao.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512142219id_/https%3A//fogodechao.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Fogo de Chão
+# Privacy Policy | Fogo de Chão
 
 Effective Date: May 23, 2018  
 Your use of this website (this “Website”) is conditioned on your acceptance of our Terms of Service (these “Terms”) and the following Privacy Policy (this “Privacy Policy”).  This Website is owned and operated by Fogo de Chão, Inc. (“we,” “us,” and “our”) and hosted on servers located in Dallas, Texas and Orem, UT. Throughout the Terms and Privacy Policy, “you” “your” and “user” refers to the individual using and accessing the Website pursuant to the Terms. This Website is intended for users located in the United States.  If you are located in a non-US jurisdiction, please note that you will be transferring your Personal Information to the United States and other jurisdictions that may not provide an equivalent level of data protection to the laws in your home country. By using this Website and/or providing your Personal Information to us, you consent to your data being transferred, processed, and stored by us as set out in this Privacy Policy, including the use of cookies as described in Section IV.
