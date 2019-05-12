@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonyelumelufoundation.org privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206112219id_/http%3A//www.tonyelumelufoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonyelumelufoundation.org privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512100039id_/http%3A//tonyelumelufoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Tony Elumelu Foundation
 
