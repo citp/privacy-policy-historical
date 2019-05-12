@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungusbdriver.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226004516id_/https%3A//samsungusbdriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungusbdriver.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512115308id_/https%3A//samsungusbdriver.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Official Samsung Driver
 
@@ -118,7 +118,3 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us using the [Contact Form](https://samsungusbdriver.com/contact).
