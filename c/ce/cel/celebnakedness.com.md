@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebnakedness.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109184821id_/http%3A//www.celebnakedness.com/tour/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebnakedness.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512070847id_/http%3A//www.celebnakedness.com/tour/privacy.php) for the most accurate reproduction.*
 
 # Celeb Nakedness Privacy Statement
 
@@ -66,6 +66,5 @@ From time to time, we may change our Privacy Policy. We will post those changes 
 
 Any questions regarding our Privacy Policy should be directed to sbaldis@sympatico.ca. 
 
-  
-[Billing Support](http://www.celebnakedness.com/tour/billingsupport.php) \- [Privacy](http://www.celebnakedness.com/tour/privacy.php) \- [Terms and Conditions](http://www.celebnakedness.com/tour/termsandconditions.php) \- [2257 exempt](http://www.celebnakedness.com/tour/2257.php) © Sergio Inc. all celebs/models are 18 years or older  
+© Sergio Inc. all celebs/models are 18 years or older  
 
